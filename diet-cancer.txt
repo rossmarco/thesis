@@ -1,0 +1,776 @@
+Experimental Oncology 32, 137–142, 2010 (September) 
+Exp Oncol 2010
+32, 3, 137–142
+EVIDENCE FOR THE RELATIONSHIP BETWEEN DIET AND CANCER
+
+137
+
+Nutritional Science Research Group, Division of Cancer Prevention, National Cancer Institute, 
+
+EPN 3157, National Institutes of Health, Department of Health and Human Services, 6130 Executive 
+
+S.A. Ross
+
+Blvd., MSC 7328 Bethesda, MD 20892-7328, USA
+
+The relationship between diet and cancer has advanced in recent years, but much remains to be understood with respect to diet and dietary 
+components in cancer risk and prevention. Evidence from clinical trial outcomes, epidemiological observations, preclincial models and 
+cell culture systems have all provided clues about the biology of cancer prevention. Sequencing of the human genome has opened the door 
+to an exciting new phase for nutritional science. There are also many advances in our understanding of the control of gene expression in 
+eukaryotic cells that might impact cancer development, including mechanisms regulating chromatin structure and dynamics, epigenetic 
+processes (DNA methylation, histone posttranslational modification), transcription factors, and noncoding RNA and evidence suggests 
+that environmental factors such as diet influence these processes.  Unraveling the effects of bioactive food components on genes and their 
+encoded proteins as well as identifying genetic influences on dietary factors is essential for identifying those who will and will not benefit 
+from intervention strategies for cancer prevention. Additional research needs concerning diet and cancer prevention include: identification 
+and validation of cancer biomarkers and markers of dietary exposure; investigation of the exposure/temporal relationship between food 
+component intakes and cancer prevention; examination of possible tissue specificity in response to dietary factors; and examination of 
+interactions among bioactive food components as determinants of response. Other emerging areas that require greater attention include 
+understanding the link between obesity, diet and cancer, the interaction between diet and the microbiome, as well as how bioactive food 
+components modulate inflammatory processes. Importantly, for the future of nutrigenomics, the “omics” (e.g., genomics, epigenomics, 
+transcriptomics, proteomics, metabolomics) approach may provide useful biomarkers of cancer prevention, early disease, or nutritional 
+status, as well as identify potential molecular targets in cancer processes that are modulated by dietary constituents and/or dietary patterns.
+Key Words: diet, cancer, nutrigenomics.
+
+There have been several advancements in our under-
+standing of cancer at the molecular level. Growth factors, 
+hormones, cytokines, oncogenes, viruses, bacteria, 
+and carcinogens are among the factors that have been 
+identified to initiate and promote cancer [1]. Many of the 
+subcellular mechanisms that promote hyperprolifera-
+tion, invasion, angiogenesis and metastasis have also 
+been determined. The structure of the entire human 
+genome consisting of almost 25,000 genes as well as 
+the characterization of some of the genes that mediate 
+tumorigenesis is also now evident. Furthermore, there 
+are many advances in our understanding of the control 
+of gene expression in eukaryotic cells that might impact 
+cancer development, including mechanisms regulating 
+chromatin structure and dynamics, epigenetic processes 
+(DNA methylation, histone posttranslational modifica-
+tion), transcription factors, and noncoding RNA. In spite 
+of this significant increase in knowledge about cancer, 
+the application of these advancements to cancer pre-
+vention and treatment practice needs greater attention. 
+Moreover, the incidence of certain cancers is projected 
+to increase in the coming decades due to growing and 
+aging populations in many countries. Thus, there is a 
+need for effective preventive strategies for cancer. Im-
+
+E-mail: rosssha@mail.nih.gov
+
+Received: July 27, 2010.
+*Correspondence: 
+Abbreviations used: AMP — adenosine monophosphate; AMPK — 
+AMP-activated protein kinase; BMI — body mass index; ER — 
+estrogen receptor; GWAS — genome-wide association studies; 
+MTHFR — methylene tetrahydrofolate reductase; PLP — pyridoxal-
+phosphate; RFS — relapse-free survival; SELECT — Selenium and 
+Vitamin E Cancer Prevention Trial; SNP — single nucleotide poly-
+morphisms; VDR — vitamin D receptor; WHEL — Women’s Healthy 
+Eating and Living; WINS — Women’s Intervention Nutrition Study.
+
+portantly, dietary habits are recognized to be important 
+modifiable factors influencing cancer risk and prevention. 
+The World Cancer Research Fund/American Institute of 
+Cancer Research (WCRF/AICR) summary of the available 
+epidemiological evidence on food, nutrition, physical 
+activity, and the prevention of cancer clearly support 
+the suggestion that cancer incidence and death are po-
+tentially avoidable by modification of the diet as well as 
+by physical activity [2]. In addition to such observational 
+evidence, both in vitro and in vivo studies have sug-
+gested that several bioactive food components, such as 
+phytochemicals found in plants [3] and fungochemicals 
+found in mushrooms [4], are likely to alter susceptibility to 
+cancer. In fact, both essential nutrients and non-essential 
+bioactive food components, have been implicated in 
+altering many of the pathways of cancer, including apop-
+tosis, cell cycle control, differentiation, inflammation, 
+angiogenesis, DNA repair, and carcinogen metabolism 
+[5]. Findings from either human epidemiological or hu-
+man and animal experimental studies suggest that the 
+study design (e.g., cancer site, model system or popu-
+lation, food constituent and/or total diet composition) 
+may be an important determinant of the direction and 
+magnitude of the response, but variation in biological 
+response may also be involved. Nutritional genomics is 
+an emerging multidisciplinary science that recognizes 
+the potential of nutrients to act as signals to influence cell 
+behavior and also should provide insights about variation 
+in response. For example, variation in genetic influences 
+on the diet due to gene polymorphisms (nutrigenetics) 
+and/or dietary influences on gene expression (nutri-
+tional transcriptomics), on DNA methylation and other 
+epigenetic events (nutritional epigenetics) may account 
+
+138 
+
+Experimental Oncology 32, 137–142, 2010 (September)
+
+for inconsistencies from study to study. Unraveling the 
+effects of bioactive food components on genes and their 
+encoded proteins as well as identifying genetic influences 
+on these dietary factors is essential for identifying those 
+who will and will not benefit from intervention strategies. 
+Dietary recommendations will continue to be made at 
+the population level, but the possibility for certain dietary 
+recommendations to be customized to individual needs 
+is an expectation of the future. Advances in the compre-
+hension of the human genome and its regulation hold 
+promise for such personalized nutrition. However, the 
+diversity of human genetic backgrounds, individual nutri-
+tion (e.g. differences in food composition, influences of 
+culture and food preparation, and food processing) and 
+the heterogeneity of pathways to disease and health will 
+certainly present challenges to personalized nutrition.
+
+Diet and cancer prevention clinical intervention 
+studies. Evidence from clinical interventions for the rela-
+tionship between diet and cancer has been mixed. Many 
+of the placebo-controlled clinical trials, whether carried 
+out with carotenoids [6, 7], folic acid [8], selenium [9] or 
+other agents, have resulted in either null or inconclusive 
+outcomes. A recent example is The Selenium and Vitamin 
+E Cancer Prevention Trial (SELECT) which recruited over 
+35,000 men age 50 and older to determine if two dietary 
+supplements (200 μg/day of l-selenomethionine and 
+400 IU/day of all-rac-alpha-tocopheryl acetate taken 
+individually or together versus placebo) can protect 
+against prostate cancer [9]. SELECT was stopped in 
+2008 following a minimum of 7 years of supplementation 
+when preliminary analyses showed no effect of selenium 
+or vitamin E on the incidence of prostate cancer, and 
+because there was a statistically non-significant increase 
+in the number of prostate cancer cases among the men 
+taking only vitamin E. In addition there was a small, but not 
+statistically significant increase in the number of cases of 
+adult onset diabetes in men taking only selenium. These 
+were disappointing results because of the many years of 
+positive findings from Phase I and II clinical trials indicat-
+ing that both selenium and vitamin E had a strong poten-
+tial for prostate cancer prevention. SELECT analyses for 
+secondary endpoints will continue as data is finalized 
+from study centers and other clinical studies are ongoing 
+to help explain the findings. For example, a clinical trial to 
+determine if different forms (selenomethionine and sele-
+nium yeast) and doses of selenium tailored as a function 
+of age are effective in inhibiting oxidative stress and other 
+markers of risk for prostate cancer in healthy African 
+American and white American men is being supported 
+by NCI [http://projectreporter.nih.gov/project_info_de-
+scription.cfm?aid=7878646&icde=4419435 ].
+
+Evidence from epidemiologic cohort studies sup-
+ported the initiation of many of the dietary supplement 
+trials of specific nutrients for cancer prevention, but it 
+is now thought that reducing these findings to specific 
+nutrients has not generally worked in randomized control 
+trials. The results suggest several interacting factors 
+might be important in preventing cancer, including 
+relative macronutrient density, food matrix, and com-
+plex mixtures of bioactive food components (not limited 
+
+to micronutrients), as well as nutrient form and dose 
+as described above. Another speculation is that spe-
+cific nutrient supplementation may be effective only in a 
+population that is deficient in that nutrient, which was the 
+case in the generally selenium deficient population of the 
+Nutritional Prevention of Cancer study [10] but not in the 
+SELECT population which was relatively selenium replete.
+Results of the General Population Trial in Linxian, China 
+demonstrated that individuals who received a supplement 
+containing beta-carotene, vitamin E and selenium, had 
+a 13% reduction in cancer mortality [11]. This study was 
+conducted in a borderline-deficient population for various 
+nutrients, thus, again it may be that supplementation is 
+most likely to be beneficial for individuals who are low or 
+deficient at baseline. In a recent publication of this cohort, 
+post-intervention follow up indicated that the beneficial 
+effects of selenium, vitamin E, and beta-carotene on 
+mortality were evident up to 10 years after cessation of 
+the supplementation program [12]. Interestingly, the 
+benefits were greater in individuals who were < 55 years 
+at the beginning of the intervention. Cancer risk appeared 
+to increase in those who started supplement usage when 
+55 years of age or older. These findings suggest that sus-
+tained exposure may not always be necessary to bring 
+about a desired outcome. It may also be that the observed 
+response in risk as a function of age reflected differences 
+in the frequency of neoplastic conditions.
+
+The Aspirin/Folate Polyp Prevention Study investigat-
+ed the effects of folate supplementation (at 1 mg/d folic 
+acid, the synthetic form of folate) on the development 
+of colorectal adenomas [8]. Overall, the investigators 
+reported no effect of folic acid supplementation on the 
+development of adenoma, the primary outcome. Unfor-
+tunately, in subgroup analyses they found an increased 
+risk of advanced lesions at the second follow-up. Also 
+of concern was the finding that the risk of cancers other 
+than colorectal cancer were significantly increased in the 
+intervention, which was thought to be largely due to pros-
+tate cancer. It was hypothesized that an explanation for 
+the increased risk of advanced and multiple adenomas in 
+the intervention group was that undetected early precur-
+sor lesions were present in the mucosa of these patients 
+(who are at increased adenoma risk), and that folic acid 
+promoted growth of these lesions [13]. This hypothesis is 
+consistent with experimental studies showing increased 
+colorectal neoplasia when folic acid is administered after 
+lesions are present. Thus, a greater understanding of 
+the temporal relationships between diet and disease are 
+needed to determine appropriate prevention strategies.
+In addition to dietary supplement intervention stud-
+ies dietary behavior/lifestyle interventions have also 
+been examined. For example, studies to determine the 
+efficacy of dietary change in reduction of breast cancer 
+recurrence have also been conducted. Examples of 
+such trials are the Women’s Healthy Eating and Living 
+(WHEL) [14] and Women’s Intervention Nutrition Study 
+(WINS) [15]. Both studies achieved significant reduc-
+tions in energy from fat, and the WHEL Study achieved 
+large increases in the consumption of vegetables, fruit 
+and fiber. The WHEL study investigators observed no 
+
+Experimental Oncology 32, 137–142, 2010 (September) 
+
+139
+
+significant association between diet and prognosis 
+while a secondary analysis suggested that the dietary 
+intervention reduced distal recurrences among the 
+subgroup without hot flashes identified at baseline [16].
+WINS examined postmenopausal women only and 
+reported a 24% increase in relapse-free survival (RFS) 
+in postmenopausal women with primary early-stage 
+resected breast cancer who received standard cancer 
+management. Of interest is that after eight years, the 
+increase in RFS was greater in women with estrogen 
+receptor (ER)-negative disease than women with ER-
+positive disease. This finding was supported by both the 
+Women’s Health Initiative [17] and should be considered 
+for further investigation because of the burden of ER-
+negative breast cancer. Both the WHEL and WINS studies 
+suggested that dietary pattern may be effective within a 
+subgroup of people studied [16]. Additional investigation 
+of these sub-groups is warranted.
+
+Controlled interventions may provide unexpected in-
+formation because of the quantities of the test agent ex-
+amined, the duration of the intervention or the subjects 
+examined. Furthermore, variation in response within the 
+cohort may reflect timing of the amount and duration 
+of exposure to a specific bioactive food component 
+and to its interactions with multiple food constituents, 
+environmental factors, the genetics of the host, or a 
+combination of these factors. Recently, basic nutrition 
+studies have been deemed critical to determine novel 
+cancer prevention strategies. In this regard, several 
+preclinical models are currently available which can be 
+used to determine the mechanism of action as well as 
+efficacy of diet and bioactive food components [1]. Nu-
+tritional genomics and omics approaches are also likely 
+to assist in elucidating mechanisms, molecular targets 
+and identifying appropriate intervention strategies.
+
+Obesity, diet and cancer. During the past 20 years 
+there has been a dramatic increase in the prevalence of 
+overweight and obesity in the United States and many 
+other countries. This increase impacts many conditions 
+such as hypertension, cardiovascular disease, type 
+2 diabetes mellitus, and some cancers. Obesity is a 
+multi-factorial disorder affected by multiple genetic and 
+environmental factors, in particular diet, nutrients and their 
+interrelationships. Epidemiological evidence suggests that 
+increased body mass index (BMI) is associated with an 
+increased risk for cancers of the esophagus, pancreas, 
+colon and rectum, endometrium, kidney and breast (in 
+postmenopausal women), among others [18]. The bio-
+logical mechanism that explains how obesity increases 
+cancer risk may be different for different cancers and 
+exact mechanisms are not known for any of the cancers. 
+The metabolic consequences of obesity include elevated 
+levels of IGF-1, insulin, adipokines, and pro-inflammatory 
+cytokines and these alterations likely provide clues for 
+the relationship between obesity and cancer [19]. For 
+example, these metabolic changes result in activation 
+of signaling pathways that culminate in activation of the 
+mammalian target of rapamycin (mTOR) and downstream 
+proliferation and survival signals; altered steroid hormone 
+metabolism, resulting in increased estradiol and other 
+
+estrogen metabolites; and increased inflammation and 
+oxidative stress, including activation of cytokine signal-
+ing [20]. Other evidence indicates that increased risk of 
+carcinogenesis is associated with decreased activity of 
+adenosine monophosphate (AMP)-activated protein ki-
+nase (AMPK) which is a major metabolic-sensing protein 
+implicated in the prevention of metabolic disorders [21]. 
+Activation of AMPK by bioactive food components is 
+currently being investigated for the prevention of several 
+diseases, including cancer. For example, the anticancer 
+effects of the tea polyphenol (-)-epigallocatechin-3-
+gallate [22] and the phytoalexin resveratrol found in grapes 
+[23] have recently been thought to be mediated via activa-
+tion of AMPK. Thus, in addition to novel physical activity, 
+behavioral and dietary intervention studies that focus on 
+understanding the prevention of obesity, a current focus 
+of nutrition, obesity and cancer research concerns the 
+effects of diet composition and dietary constituents on 
+the dysregulated signaling pathways described above.
+
+Nutrigenetics. Genetic differences in taste prefer-
+ence, food tolerance, and dietary constituent absorp-
+tion and metabolism all potentially influence the effect 
+of diet and bioactive food components on cancer risk. 
+Among the various common types of alterations in DNA 
+sequence, single nucleotide polymorphisms (SNPs) 
+have been studied the most. If a SNP induces a modi-
+fication of one important amino acid in the encoded 
+protein sequence, this can alter the protein function/
+activity  and  thus  the  pathway  or  process  involved. 
+A modification in the gene promoter sequence can alter 
+the promoter activity and thus the level of gene tran-
+scription, resulting in altered encoded protein level and 
+linked function. In other cases, no effect on protein level 
+or activity can be observed. Thus, the functional impact 
+from SNPs on the encoded protein could be variable. 
+The strength of the biological impact will also depend 
+on heterozygosity or homozygosity of the variant.
+
+While there is a good deal of evidence that the fre-
+quency of functional polymorphisms may influence the 
+response to a variety of dietary components, there is a 
+need to validate and verify these findings. Most findings 
+are associated with single observations in an epidemio-
+logical context and therefore need to be substantiated 
+for their relevance and physiological significance in other 
+settings. Additionally, thought needs to be given to the 
+interaction of multiple genes in order to understand what 
+is occurring within cells and ultimately being expressed 
+in terms of cancer development and prevention. Ulrich 
+and collaborators have highlighted this point for polymor-
+phisms in folate-metabolizing enzymes that may be linked 
+to cancer risk [24]. These investigators encourage the 
+use of a pathway-based approach to data analysis to help 
+differentiate the independent and combined effects of 
+dietary intakes and genetic variability in folate metabolism. 
+The use of haplotypes, which are a set of closely linked 
+genetic markers present on one chromosome which tend 
+to be inherited together, will likely offer a helpful solution 
+for screening large populations. The importance of using 
+haplotypes versus SNPs to examine the vitamin D receptor 
+gene (VDR) gene has been reported [25]. In this example, 
+
+140 
+
+Experimental Oncology 32, 137–142, 2010 (September)
+
+two subjects (A and B) have identical genotypes at three 
+polymorphisms in the VDR (the Cdx2, the FokI, and the 
+Bsm–Apa–Taq 3’UTR polymorphisms) but only differ in 
+their particular combinations of alleles on chromosomes 
+(i.e., their haplotypes). The result for subject B is that less 
+«high-activity» VDR proteins (i.e., having the «F» allele) 
+are expressed, which is expected to lower responses to 
+vitamin D. Interestingly, if only one of the polymorphisms 
+was tested, this difference would not have been perceived. 
+Furthermore, if only the three individual polymorphisms 
+were analyzed and the haplotypes not taken into account, 
+these effects would also not have been recognized. Thus, 
+not controlling for the underlying complexities in VDR poly-
+morphisms, i.e., by not analyzing multiple polymorphisms 
+and analyzing their haplotypes, can also help to explain 
+contradictory results between studies.
+
+Genome-wide association studies (GWAS) compare 
+the complete DNA of people with a disease or condition 
+to the DNA of people without the disease or condition 
+and have recently been employed to identify genomic 
+markers associated with different disease phenotypes. 
+Unfortunately, replication in different populations to 
+validate results has been a challenge and loci identified 
+through such studies have been found to explain only 
+a small portion of variability for a trait. Investigators are 
+just beginning to model environmental factors, including 
+diet, in GWAS [26]. These studies should help to provide 
+an understanding of the complex interplay of genetic 
+and environmental factors affecting human quantitative 
+traits. Inclusion of environmental factors represents a 
+much needed next step in the quest to model the com-
+plete environmental and genetic architecture of complex 
+traits. An interesting recent example for a GWAS, which 
+has relevance for nutritional status, concerns associa-
+tions between genetic variation and plasma one-carbon 
+metabolites [27]. In this study, genome-wide significant 
+associations for plasma homocysteine, plasma vitamin 
+B12 and plasma pyridoxal-phosphate (PLP) were deter-
+mined. For plasma vitamin B12, the investigators replicat-
+ed an association for FUT2 and identified genome-wide 
+significant SNPs in biological candidate genes: TCN1, a 
+vitamin B12 binding protein; MUT, which converts meth-
+ylmalonyl CoA to succinyl CoA; and CUBN, the receptor 
+for intrinsic factor-vitamin B12 complexes. For plasma 
+homocysteine, they observed genome-wide significant 
+associations with the 5,10-methylene tetrahydrofolate 
+reductase (MTHFR) functional SNP Ala222Val and a pos-
+sible new independent locus 102 kb upstream of MTHFR. 
+For plasma pyridoxal 5’-phosphate (PLP, the active form 
+of vitamin B6), the investigators noted genome-wide 
+significant associations in alkaline phosphatase. These 
+data reveal new biological candidates and confirm prior 
+candidate genes for plasma homocysteine, plasma vita-
+min B12 and plasma PLP.
+
+Copy number variation- a term used to describe 
+gains and losses of segments of DNA- is another possi-
+ble genetic difference influencing variation in biological 
+responses and risk of disease. An example describing 
+a relationship between diet and copy number variation 
+is for the amylase gene. Investigators compared the 
+
+copy number for the salivary amylase gene (AMY1) in 
+individuals from populations consuming high-starch 
+diets to those with traditionally low-starch diets [28]. 
+They found higher AMY1 copy numbers and protein 
+levels in populations that traditionally consume high 
+starch diets. This example of positive selection on a 
+copy number–variable gene is likely the first discovered 
+in the human genome. Research approaches and tools 
+are now available to enable characterization of the full 
+extent of copy number variation in the human genome 
+and their contribution to human variation and disease.
+Nutritional epigenetics. The impact of epigenetic 
+mechanisms in the etiology of cancer and other chronic 
+diseases has been increasingly recognized in recent 
+years. Epigenetics refers to the study of mitotically and/or 
+meiotically heritable changes in gene function that are not 
+attributable to a change in the DNA sequence. Evidence 
+suggests that diet and other environmental factors may be 
+significant regulators of epigenetic events. Bioactive food 
+components have been shown to exert cancer protective 
+effects through modulation of epigenetic mechanisms, 
+such as DNA methylation of CpG islands in promoters 
+and other regions of the genome, chromatin silencing 
+complexes, post-translational modifications of histone tail 
+domains, and regulation of non-coding RNAs. Moreover, 
+dietary alteration of epigenetic events has been associated 
+with modulation of several cellular processes associated 
+with carcinogenesis, including differentiation, inflamma-
+tion, apoptosis, cell cycle control/proliferation, carcinogen 
+metabolism, and angiogenesis, among others.
+
+A classic example for the influence of diet in DNA 
+methylation  and  cancer  is  the  finding  that  dietary 
+methyl (folate, choline and methionine) deficiency has 
+been shown to alter hepatic DNA methylation patterns 
+and induce hepatocarcinogenesis in the absence of a 
+carcinogen in rodents [29].
+
+Researchers recently evaluated whether diet and 
+multivitamin use influenced the prevalence of gene 
+promoter methylation in cells exfoliated from the aerodi-
+gestive tract of current and former smokers [30]. In 
+this study, members (n = 1,101) of the Lovelace Smok-
+ers Cohort completed the Harvard Food Frequency 
+Questionnaire and provided a sputum sample that was 
+assessed for promoter methylation of eight genes com-
+monly silenced in lung cancer and associated with risk 
+for this disease. Methylation status was categorized as 
+low (fewer than two genes methylated) or high (two or 
+more genes methylated). Significant protection against 
+methylation was observed for consumers of leafy green 
+vegetables and folate as well as with current users of 
+multivitamins. These findings support the concept that 
+novel interventions to prevent cancer could be explored 
+based on the ability of diet and dietary supplements to 
+affect reprogramming of the epigenome.
+
+Epigenomic approaches are likely to assist in char-
+acterizing genome-wide epigenetic marks that are 
+targets for dietary regulation. The ability to characterize 
+cell and context specific epigenomes (be it profiles of 
+DNA methylation or histone modifications) will greatly 
+impact the ability to determine, on a global level, how diet 
+
+Experimental Oncology 32, 137–142, 2010 (September) 
+
+141
+
+impacts differential epigenetic effects on normal versus 
+cancer cells. This information will also provide the tools to 
+illuminate epigenetic changes resulting from dietary ex-
+posures during critical periods of prenatal and postnatal 
+development, adolescence, and senescence, as well as 
+examine the potential impact of diet on transgenerational 
+transmission of epigenetic changes. In addition, relation-
+ships between genetics and epigenetics may provide 
+further insights about transcriptional regulation during 
+carcinogenesis and how dietary factors participate in 
+these interactions. Moreover, the identification and char-
+acterization of novel epigenetic marks and mechanisms 
+with the capacity to regulate gene expression are likely to 
+surface over the next few years.
+
+Nutritional  transcriptomics.  Modulation  of 
+genomic and epigenomic processes do not fully ac-
+count for the influence that dietary factors can have on 
+phenotype since changes in the rate of transcription of 
+genes (transcriptomics) may also be important. Tran-
+scriptomics allows for genome-wide monitoring of the 
+simultaneous expression of tens of thousands of genes 
+as well as a comparison of relative expression between 
+these genes. Messenger RNA microarray technologies 
+provide an important tool to discover gene expression 
+changes that are linked to cellular processes, however 
+such responses are very likely to be cell type specific and 
+may vary between healthy and neoplastic conditions, as 
+well as during cancer progression. Several bioactive food 
+components have been reported to significantly influ-
+ence gene transcription and translation in a concentration 
+and time dependent manner. These changes may be key 
+links in the ability of food components to influence one or 
+more biological processes including cellular energetics, 
+cell growth, apoptosis, and differentiation, all of which are 
+important in regulating cancer risk and consequences.
+Adaptation to excess exposure to foods and their com-
+ponents occurs through shifts in absorption, metabolism 
+or excretion. Thus, the quantity and duration of exposure 
+must be considered when evaluating the response of gene 
+expression patterns. Over-interpretation of the physiologi-
+cal significance of a gene expression pattern is possible 
+because microarray technologies provide only a single 
+snapshot in time. While mRNA microarray technology 
+continues to be a powerful tool for examining potential 
+sites of action of food components, their usefulness for 
+population studies remains uncertain.
+
+One study suggests the feasibility of using gene 
+expression changes in human prostate epithelium as a 
+measure of response to a dietary intervention [31]. A low-
+fat/low-glycemic load diet, and its related weight loss, 
+was associated with multiple gene expression changes 
+in human prostate epithelium following a six-week diet. 
+Gene expression changes were discovered in cell mi-
+gration and tissue remodeling, including matrix metal-
+loproteinase-7 (MMP7) (also called matrilysin), CXCR4, 
+CXCL2, lumican, and SPARC-like 1 (Secreted Protein, 
+Acidic and Rich in Cysteines-like 1). Other genes that 
+were modified in expression involved in intracellular sig-
+nal transduction, such as the immediate early response 
+genes 2 and 3, the dual specificity phosphatase 1, and 
+
+the v-ets oncogene homologue. Expression of insulin-
+like growth factor-II receptor transcripts increased, per-
+haps due to a positive feedback of the low-glycemic load 
+diet. Genes that were down-regulated include prostate-
+specific membrane antigen and peroxiredoxin 1, which 
+may play an antioxidant protective role in cells. These 
+results provide important information for future studies 
+that aim to examine the impact of diet, obesity in prostate 
+carcinogenesis and/or progression.
+
+As an example of a biomarker investigation, re-
+searchers found that a small group of women at in-
+creased risk for breast cancer who followed an extreme 
+900 calorie per day diet had reduced gene expression 
+of stearoyl-CoA, a gene involved in cancer growth, 
+compared to a control group on a 2000 calorie per day 
+diet [32]. They also found changes in blood biomarkers 
+(using a metabolomic profiling approach) for breast 
+cancer risk (e.g., insulin, leptin). The researchers con-
+cluded that the reduced expression of genes in lipid 
+metabolism and glycolytic pathways were detectable 
+in breast tissue following dietary energy restriction and 
+that these may represent promising molecular targets 
+for dietary energy restriction mimetics or during dietary 
+intervention studies. Thus, transcriptomics approaches 
+can assist in identifying and characterizing molecular 
+biomarkers. Future studies of this nature may provide 
+insight into the molecular mechanisms underlying the 
+associations of diet and obesity with the development 
+or progression of certain cancers. Much of the current 
+evidence, however, suggests that mRNA abundance 
+is not always proportional to protein activity and thus 
+cannot substitute for functional analyses of candidate 
+genes. While the transcriptional profile can be useful 
+in predicting metabolic stress, simpler indicators may 
+suffice. It is possible that more select gene expression 
+microarrays may be useful if targeted to some cellular 
+process. At this point, however, it seems prudent to 
+evaluate the costs and benefits of transcriptomics tech-
+nologies before including this research approach into 
+certain study designs, such as large population studies.
+
+SUMMARY
+Although our understanding of the relationship be-
+tween diet and cancer has advanced in recent years, much 
+remains to be revealed with respect to diet and dietary 
+components in cancer risk and prevention. Evidence 
+from clinical trial outcomes, epidemiological observa-
+tions, preclincial models and cell culture systems have all 
+provided clues about the biology of cancer prevention. 
+Emerging areas such as the interaction between diet and 
+the microbiome as well as how bioactive food compo-
+nents modulate inflammatory processes require greater 
+research attention. Issues remain about the quantity of di-
+etary components and the optimal dietary pattern needed 
+to bring about a biological effect, as well as the timing of 
+exposure and other variables (chemical form, duration of 
+exposure) that can influence the response. Interactions 
+between the different components within a food may 
+explain why isolated components do not always result in 
+the same biological outcomes as does the intact food. 
+
+142 
+
+Experimental Oncology 32, 137–142, 2010 (September)
+
+Likewise, interactions among foods and their constituents 
+may contribute to the overall relationship between eating 
+behaviors and cancer. Importantly, for the future of nutrig-
+enomics, the «omics» (e.g., transcriptomics, proteomics, 
+metabolomics) approach may provide useful biomarkers 
+of cancer prevention, early disease, or nutritional status, 
+as well as identify potential molecular targets in cancer 
+processes that are modulated by dietary constituents 
+and/or dietary patterns.
+
+REFERENCES
+1. Aggarwal  BB,  Danda  D,  Gupta  S,  et  al. Models for 
+prevention and treatment of cancer: problems vs promises. 
+Biochem Pharmacol 2009; 78: 1083–94.
+
+2. World  Cancer  Research  Fund  /  American  Institute 
+for  Cancer  Research.  Food,  Nutrition,  Physical  Activ-
+ity, and the Prevention of Cancer: a Global Perspective. 
+Washington  DC:  AICR,  2007.  http://www.aicr.org/site/
+PageServer?pagename=research_science_expert_report.
+
+3. Manson MM, Foreman, BE, Howells LM, et al. De-
+termining the efficacy of dietary phytochemicals in cancer 
+prevention. Biochem Soc Trans 2007; 35: 1358–6.
+
+4. Adams LS, Phung S, Wu X, et al. White button mush-
+room (Agaricus bisporus) exhibits antiproliferative and pro-
+apoptotic properties and inhibits prostate tumor growth in 
+athymic mice. Nutr Cancer 2008; 60: 744–56.
+
+5. Davis CD, Milner JA. Molecular targets for nutritional 
+preemption of cancer. Curr Cancer Drug Targets 2007; 7: 410–5.
+6. The effect of vitamin E and Beta-carotene on the inci-
+dence of lung cancer and other cancers in male smokers. The 
+Alpha-Tocopherol, Beta Carotene Cancer Prevention Study 
+Group. N Engl J Med 1994; 330: 1029–35.
+
+7. Omenn GS, Goodman GE, Thornquist MD, et al. Effects 
+of a combination of beta carotene and vitamin A on lung cancer 
+and cardiovascular disease. N Engl J Med 1996; 334: 1150–5.
+8. Cole BF, Baron JA, Sandler RS, et al. Polyp Prevention 
+Study Group. Folic acid for the prevention of colorectal ad-
+enomas: a randomized clinical trial. JAMA 2007; 297: 2351–9.
+9. Lippman SM, Klein EA, Goodman PJ, et al. Effect of 
+selenium and vitamin E on risk of prostate cancer and other 
+cancers: the Selenium and Vitamin E Cancer Prevention Trial 
+(SELECT). JAMA 2009; 301: 39–51.
+
+10. Duffield-Lillico AJ, Reid ME, Turnbull BW, et al. Base-
+line characteristics and the effect of selenium supplementation 
+on cancer incidence in a randomized clinical trial: a summary 
+report of the Nutritional Prevention of Cancer Trial. Cancer 
+Epidemiol Biomarkers Prev 2002; 11: 630–9.
+
+11. Blot WJ, Li JY, Taylor PR, et al. Nutrition intervention trials 
+in Linxian, China: supplementation with specific vitamin/mineral 
+combinations, cancer incidence, and disease-specific mortality 
+in the general population. J Natl Cancer Inst 1993; 85: 1483–92.
+12. Qiao YL, Dawsey SM, Kamangar F, et al. Total and 
+cancer mortality after supplementation with vitamins and 
+minerals: follow-up of the Linxian General Population Nutri-
+tion Intervention Trial. J Natl Cancer Inst 2009; 101: 507–18.
+13. Ulrich CM, Potter JD. Folate and cancer — timing is 
+
+everything. JAMA 2007; 297: 2408–9.
+
+14. Pierce JP, Natarajan L, Caan BJ, et al. Influence of a diet 
+very high in vegetables, fruit, and fiber and low in fat on prognosis 
+following treatment for breast cancer: the Women’s Healthy Eating 
+and Living (WHEL) randomized trial. JAMA 2007; 298: 289–98.
+
+15. Chlebowski  RT,  Blackburn  GL,  Thomson  CA,  et  al. 
+Dietary fat reduction and breast cancer outcome: interim ef-
+ficacy results from the Women’s Intervention Nutrition Study. 
+J Natl Cancer Inst 2006; 98: 1767–76.
+
+16. Pierce JP. Diet and breast cancer prognosis: making sense of 
+the Women’s Healthy Eating and Living and Women’s Intervention 
+Nutrition Study trials. Curr Opin Obstet Gynecol 2009; 21: 86–91.
+17. Prentice RL, Caan B, Chlebowski RT, et al. Low-fat 
+dietary pattern and risk of invasive breast cancer: the Women’s 
+Health Initiative Randomized Controlled Dietary Modifica-
+tion Trial. JAMA 2006; 295: 629–42.
+
+18. Calle EE, Rodriguez C, Walker-Thurmond K, et al. Over-
+weight, obesity, and mortality from cancer in a prospectively 
+studied cohort of U.S. adults. N Engl J Med 2003; 348: 1625–38.
+19. van Kruijsdijk RC, van der Wall E, Visseren FL. Obesity 
+and cancer: the role of dysfunctional adipose tissue. Cancer 
+Epidemiol Biomarkers Prev 2009; 18: 2569–78.
+
+20. Hursting SD, Lashinger LM, Wheatley KW, et al. Re-
+ducing the weight of cancer: mechanistic targets for breaking 
+the obesity-carcinogenesis link. Best Pract Res Clin Endocri-
+nol Metab 2008; 22: 659–69.
+
+21. Luo Z, Zang M, Guo W. AMPK as a metabolic tumor 
+suppressor: control of metabolism and cell growth. Future 
+Oncol 2010; 6: 457–70.
+
+22. Murase T, Misawa K, Haramizu S, et al. Catechin-
+induced activation of the LKB1/AMP-activated protein kinase 
+pathway. Biochem Pharmacol 2009; 78: 78–84.
+
+23. Puissant A, Auberger P. AMPK- and p62/SQSTM1-
+dependent autophagy mediate resveratrol-induced cell death 
+in chronic myelogenous leukemia. Autophagy 2010; 6: 655–7.
+24. Ulrich CM, Curtin K, Potter JD, et al. Polymorphisms 
+in the reduced folate carrier, thymidylate synthase, or me-
+thionine synthase and risk of colon cancer. Cancer Epidemiol 
+Biomarkers Prev 2005; 14: 2509–16.
+
+25. Whitfield GK, Remus LS, Jurutka PW, et al. Function-
+ally relevant polymorphisms in the human nuclear vitamin D 
+receptor gene. Mol Cell Endocrinol 2001; 177: 145–59.
+
+26. Igl W, Johansson A, Wilson JF, et al. EUROSPAN Con-
+sortium. Modeling of environmental effects in genome-wide 
+association studies identifies SLC2A2 and HP as novel loci influ-
+encing serum cholesterol levels. PLoS Genet 2010; 6: e1000798.
+27. Hazra  A,  Kraft  P,  Lazarus  R,  et  al. Genome-wide 
+significant predictors of metabolites in the one-carbon me-
+tabolism pathway. Hum Mol Genet 2009; 18: 4677–87.
+
+28. Perry GH, Dominy NJ, Claw KG, et al. Diet and the 
+evolution of human amylase gene copy number variation. Nat 
+Genet 2007; 39: 1256–60.
+
+29. Poirier LA. Methyl group deficiency in hepatocarcino-
+
+genesis. Drug Metab Rev 1994; 26: 185–99.
+
+30. Stidley CA, Picchi MA, Leng S, et al. Multivitamins, folate, 
+and green vegetables protect against gene promoter methylation in 
+the aerodigestive tract of smokers. Cancer Res 2010; 70: 568–74.
+31. Lin DW, Neuhouser ML, Schenk JM, et al. Low-fat, 
+low-glycemic load diet and gene expression in human prostate 
+epithelium: a feasibility study of using cDNA microarrays to 
+assess the response to dietary intervention in target tissues. 
+Cancer Epidemiol Biomarkers Prev 2007; 16: 2150–4.
+
+32. Ong KR, Sims AH, Harvie M, et al. Biomarkers of 
+dietary energy restriction in women at increased risk of breast 
+cancer. Cancer Prev Res 2009; 2: 720–31.
+
+Copyright © Experimental Oncology, 2010
+
+
