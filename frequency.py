@@ -35,6 +35,8 @@ trigram_measures = nltk.collocations.TrigramAssocMeasures()
 text = raw
 tokens = nltk.wordpunct_tokenize(text)
 finder = TrigramCollocationFinder.from_words(tokens)
+#filter words and punctuation
+finder.apply_word_filter(lambda w: w in ('et', 'al', '.', 'the', ',', '@', '!', '-', ';', ':', 'and', 'but', 'for'))
 scored = finder.score_ngrams(trigram_measures.raw_freq)
 sorted(trigram for trigram, score in scored)  # doctest: +NORMALIZE_WHITESPACE
 
