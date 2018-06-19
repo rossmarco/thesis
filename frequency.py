@@ -1,52 +1,31 @@
-"""from nltk import ngrams
-from nltk.collocations import *
-
-f = open('a_text_file')
-raw = f.read()
-
-tokens = nltk.word_tokenize(raw)
-
-#Create your bigrams
-bgs = nltk.bigrams(tokens)
-
-#compute frequency distribution for all the bigrams in the text
-fdist = nltk.FreqDist(bgs)
-for k,v in fdist.items():
-    print k,v """
-
-""" from nltk import word_tokenize
-from nltk.collocations import BigramCollocationFinder
-text = "obama says that obama says that the war is happening"
-finder = BigramCollocationFinder.from_words(word_tokenize(text))
-finder.items()[0:5]
- """
-
 import nltk
+import json
 from nltk.collocations import *
 from nltk.corpus import PlaintextCorpusReader
 
-f = open('diet-cancer.txt')
+f = open('filteredtext.txt')
 
 raw = f.read()
-#print((f.read))
+
 bigram_measures = nltk.collocations.BigramAssocMeasures()
 trigram_measures = nltk.collocations.TrigramAssocMeasures()
 
-text = raw
+text = raw.lower()
 tokens = nltk.wordpunct_tokenize(text)
 finder = TrigramCollocationFinder.from_words(tokens)
 #filter words and punctuation
-finder.apply_word_filter(lambda w: w in ('et', 'al', '.', 'the', ',', '@', '!', '-', ';', ':', 'and', 'but', 'for'))
+finder.apply_word_filter(lambda w: not w.isalpha())
+finder.apply_word_filter(lambda w: w in ('university', 'ottawa', 'natl', 'rights', 'reserved', 'user', 'american', 'association', 'national', 'new england', 'journal', 'research', 'epidemiol', 'engl', 'j', 'n', 'massachusetts', 'personal', 'use', 'for', 'permission', 'modelc', 'modeld', 's', 'study', 'uses', 'nejm', 'downloaded', 'accessed', 'x', 'p', 'e', 'r', 'published', 'england', 'new', 'january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'semptember', 'october', 'november', 'december'))
+    
 scored = finder.score_ngrams(trigram_measures.raw_freq)
 sorted(trigram for trigram, score in scored)  # doctest: +NORMALIZE_WHITESPACE
 
-# list of words to filter: 
-# journal words:'et' 'al' 
-# punctuation: '.' ',' ';' '!' '?' '@'
-# conjunctions: 'and' 'the' 'but' 'for' 'or' 'when' 'if' 
+sortedstuff = sorted(finder.ngram_fd.items(), key=lambda t: (-t[1], t[0]))[:10]  # doctest: +NORMALIZE_WHITESPACE
 
-print sorted(finder.ngram_fd.items(), key=lambda t: (-t[1], t[0]))[:10]  # doctest: +NORMALIZE_WHITESPACE
+#print(sortedstuff)
+""" data = json.dumps(sortedstuff)
 
-""" f = open('freqDist.txt', 'w')
-f.write()
-f.close() """
+print(json.loads(data)
+loadedstuff = json.loads(json_data)
+for x in loaded_json:
+	print("%s: %d" % (x, loaded_json[x])) """

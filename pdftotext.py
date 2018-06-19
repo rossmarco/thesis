@@ -1,7 +1,7 @@
 import subprocess
 
 files = [
-    'diet-cancer.pdf', 'ff.pdf'
+    'Binder1.pdf'
 ]
 for f in files:
     cmd = 'python pdf2txt.py -o %s.txt %s' % (f.split('.')[0], f)
