@@ -1,6 +1,6 @@
 import nltk
 from nltk.corpus import stopwords
-from nltk import word_tokenize
+from nltk.tokenize import word_tokenize, sent_tokenize
 from nltk.probability import *
 import csv
 
@@ -30,6 +30,7 @@ def normalize_text(text):
         if word.isalpha() and word.lower() not in stopwords:
             # If it passes the filters, save to word_set
             word_set.append(word.lower())
+
     return word_set
 
 
@@ -42,12 +43,10 @@ def normalize_text(text):
 
 normalize_text(text)
 
-
-
 fd = FreqDist(word_set)
 print fd.most_common(200)
 #print fd.hapaxes()
-fd.plot(50,cumulative=False)
+#fd.plot(50,cumulative=False)
 
 # Print results to a CSV file
 for key, count in fd.most_common(200):

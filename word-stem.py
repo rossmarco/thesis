@@ -1,11 +1,22 @@
-from __future__ import division  # Python 2 users only
-import nltk, re, pprint
-from nltk import word_tokenize
+import nltk
+from nltk.stem.porter import PorterStemmer
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize, sent_tokenize
 
-raw = """DENNIS: Listen, strange women lying in ponds distributing swords 
-is no basis for a system of government.  Supreme executive power derives from
-a mandate from the masses, not from some farcical aquatic ceremony."""
-tokens = word_tokenize(raw)
+nltk.download('punkt')
 
-wnl = nltk.WordNetLemmatizer()
-[wnl.lemmatize(t) for t in tokens]
+# load data
+filename = 'filteredtext.txt'
+file = open(filename, 'r')
+text = file.read().decode('utf8')
+file.close()
+# split into words
+
+tokens = word_tokenize(text)
+# stemming of words
+
+porter = PorterStemmer()
+
+stemmed = [porter.stem(word) for word in tokens]
+
+print(stemmed[:100])
