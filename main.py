@@ -1,8 +1,8 @@
 import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize, sent_tokenize
-from nltk.probability import *
-from nltk.collocations import *
+from nltk.probability import FreqDist
+from nltk.collocations import BigramAssocMeasures, TrigramAssocMeasures, BigramCollocationFinder, TrigramCollocationFinder
 from nltk.collocations import ngrams
 import csv
 
@@ -53,13 +53,13 @@ def get_word_frequency():
 def get_bigrams():
 
     # Define bigram and trigram measures
-    bigram_measures = nltk.collocations.BigramAssocMeasures()
+    #bigram_measures = nltk.collocations.BigramAssocMeasures()
     #trigram_measures = nltk.collocations.TrigramAssocMeasures()
 
     word_fd = nltk.FreqDist(word_set)
     bigram_fd = nltk.FreqDist(nltk.bigrams(word_set))
     finder = BigramCollocationFinder(word_fd, bigram_fd)
-    scored = finder.score_ngrams(bigram_measures.raw_freq) 
+    #scored = finder.score_ngrams(bigram_measures.raw_freq) 
     True
 
     sortedBiGrams = sorted(finder.ngram_fd.items(), key=lambda t: (-t[1], t[0]))[:400]  # doctest: +NORMALIZE_WHITESPACE
