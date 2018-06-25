@@ -14,7 +14,7 @@ import csv
 #nltk.download('punkt')
 
 # Import the text file we will work with
-with open('filteredtext.txt', 'r') as file:
+with open('cancer-training.txt', 'r') as file:
     text = file.read().decode('utf-8')
 
 # Tokenize the text
