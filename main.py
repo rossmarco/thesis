@@ -2,8 +2,9 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize, sent_tokenize
 from nltk.probability import FreqDist
-from nltk.collocations import BigramAssocMeasures, TrigramAssocMeasures, BigramCollocationFinder, TrigramCollocationFinder
+from nltk.collocations import BigramAssocMeasures, TrigramAssocMeasures, BigramCollocationFinder, TrigramCollocationFinder, QuadgramCollocationFinder
 from nltk.collocations import ngrams
+from collections import Counter
 import csv
 
 # Portions of this code taken from http://curriculum.dhbridge.org/modules/module13.html
@@ -70,12 +71,42 @@ def get_bigrams():
 
     # Store results of 400 bigrams into CSV file
     for bigram_tuple, count in sortedBiGrams:
-        #file_trigrams.writerow([list(bigram_tuple), count]) # in ugly unformatted unicode
-        #file_trigrams.writerow(type(bigram_tuple)(x.encode('utf-8') for x in bigram_tuple)) #just words without count
+        #file_bigrams.writerow([list(bigram_tuple), count]) # in ugly unformatted unicode
+        #file_bigrams.writerow(type(bigram_tuple)(x.encode('utf-8') for x in bigram_tuple)) #just words without count
         file_bigrams.writerow([type(bigram_tuple)(x.encode('utf8') for x in bigram_tuple), count]) #formatted properly
+
+def get_trigrams():
+
+    file_trigrams = csv.writer(open('trigram_freq.csv', 'w'))
+
+    finder = TrigramCollocationFinder.from_words(word_set)
+    #scored = finder.score_ngrams(bigram_measures.raw_freq) 
+    True
+
+    sortedTriGrams = sorted(finder.ngram_fd.items(), key=lambda t: (-t[1], t[0]))[:400]  # doctest: +NORMALIZE_WHITESPACE
+
+    # Store results of 400 bigrams into CSV file
+    for trigram_tuple, count in sortedTriGrams:
+        file_trigrams.writerow([type(trigram_tuple)(x.encode('utf8') for x in trigram_tuple), count]) #formatted properly
+
+def get_quadgrams():
+
+    file_quadgrams = csv.writer(open('quadgram_freq.csv', 'w'))
+
+    finder = QuadgramCollocationFinder.from_words(word_set)
+    True
+    sortedQuadGrams = sorted(finder.ngram_fd.items(), key=lambda t: (-t[1], t[0]))[:400]  # doctest: +NORMALIZE_WHITESPACE
+
+    # Store results of 400 bigrams into CSV file
+    for quadgram_tuple, count in sortedQuadGrams:
+        file_quadgrams.writerow([type(quadgram_tuple)(x.encode('utf8') for x in quadgram_tuple), count]) #formatted properly
+
+
 
 # Make function calls
 normalize_text(tokenized_text)
 get_word_frequency()
 get_bigrams()
+get_trigrams()
+get_quadgrams()
 
