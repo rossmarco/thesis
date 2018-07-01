@@ -1,0 +1,1259 @@
+Published OnlineFirst January 12, 2010; DOI: 10.1158/0008-5472.CAN-09-3410 
+
+Prevention and Epidemiology
+
+Multivitamins, Folate, and Green Vegetables Protect against
+Gene Promoter Methylation in the Aerodigestive Tract
+of Smokers
+
+Christine A. Stidley1, Maria A. Picchi2, Shuguang Leng2, Randy Willink2, Richard E. Crowell3,
+Kristina G. Flores1, Huining Kang1, Tim Byers4, Frank D. Gilliland5, and Steven A. Belinsky2
+
+Cancer
+Research
+
+Abstract
+
+One promising approach for early detection of lung cancer is by monitoring gene promoter hypermethyla-
+tion events in sputum. Epidemiologic studies suggest that dietary fruits and vegetables and the micronutrients
+they contain may reduce risk of lung cancer. In this study, we evaluated whether diet and multivitamin use
+influenced the prevalence of gene promoter methylation in cells exfoliated from the aerodigestive tract of
+current and former smokers. Members (N = 1,101) of the Lovelace Smokers Cohort completed the Harvard
+Food Frequency Questionnaire and provided a sputum sample that was assessed for promoter methyla-
+tion of eight genes commonly silenced in lung cancer and associated with risk for this disease. Methyl-
+ation status was categorized as low (fewer than two genes methylated) or high (two or more genes
+methylated). Logistic regression models were used to identify associations between methylation status
+and 21 dietary variables hypothesized to affect the acquisition of gene methylation. Significant protection
+against methylation was observed for leafy green vegetables [odds ratio (OR) = 0.83 per 12 monthly servings; 95%
+confidence interval (95% CI), 0.74–0.93] and folate (OR, 0.84 per 750 μg/d; 95% CI, 0.72–0.99). Protection against
+gene methylation was also seen with current use of multivitamins (OR, 0.57; 95% CI, 0.40–0.83). This is the first
+cohort-based study to identify dietary factors associated with reduced promoter methylation in cells exfo-
+liated from the airway epithelium of smokers. Novel interventions to prevent lung cancer should be developed
+based on the ability of diet and dietary supplements to affect reprogramming of the epigenome. Cancer Res;
+70(2); 568–74. ©2010 AACR.
+
+Introduction
+
+Lung cancer, the leading cause of cancer-related death in
+the United States, occurs largely from chronic exposure to
+tobacco carcinogens (1). The development of this disease
+over 30 to 40 years involves field cancerization, characterized
+as the acquisition of genetic and epigenetic changes through-
+out the respiratory epithelium (2, 3). The silencing of genes
+through promoter hypermethylation is now recognized as a
+major and causal epigenetic event that occurs during lung
+cancer initiation and progression to affect the function of
+hundreds of genes. Gene silencing involves methylation of cy-
+
+Authors' Affiliations: 1Department of Internal Medicine, University of
+New Mexico; 2Lung Cancer Program, Lovelace Respiratory Research
+Institute; 3Department of Internal Medicine, University of New Mexico
+School of Medicine, Medical Service, New Mexico VA Health Care System,
+Albuquerque, New Mexico; 4University of Colorado Denver, Aurora,
+Colorado; and 5Division of Environmental and Occupational Health, Keck
+School of Medicine, University of Southern California, Los Angeles, California
+Note: Supplementary data for this article are available at Cancer
+Research Online (http://cancerres.aacrjournals.org/).
+Corresponding Author: Steven A. Belinsky, Lung Cancer Program,
+Lovelace Respiratory Research Institute, 2425 Ridgecrest Drive South-
+east, Albuquerque, NM 87108. Phone: 505-348-9465; Fax: 505-348-
+4990; E-mail: sbelinsk@LRRI.org.
+doi: 10.1158/0008-5472.CAN-09-3410
+
+©2010 American Association for Cancer Research.
+
+tosines in the gene promoter region, recruitment of tran-
+scriptional corepressors, and modification of histone tails
+that culminate in the establishment of chromatin modifica-
+tions that block transcription (4, 5). Genes involved in all as-
+pects of normal cell function, such as regulating the cell
+cycle, differentiation, adhesion, and death, are silenced in
+lung tumors (3). Importantly, the tumor suppressor gene
+p16, which plays a critical role in regulating the cell cycle,
+is not only commonly silenced by methylation in lung cancer
+but also inactivated early in the development of this disease.
+Silencing of p16 and other genes is detected in bronchial ep-
+ithelium of smokers and in precursor lesions to adenocarci-
+noma and squamous cell carcinoma and increases during
+disease progression, substantiating a vital role for gene si-
+lencing in lung cancer etiology (6–8).
+
+Based on the silencing of key tumor suppressor genes in the
+lungs of smokers, we hypothesized that the detection of gene-
+specific promoter hypermethylation in exfoliated cells in
+sputum would provide an assessment of the extent of field can-
+cerization that in turn may predict early lung cancer. This
+hypothesis has been validated in two studies, the first detecting
+methylation of the p16 and MGMT genes in sputum up to 3
+years before clinical diagnosis of squamous cell carcinoma (9).
+The second study, a nested, case-control study of incident
+lung cancer cases from a high-risk cohort, identified six genes
+associated with >50% increased lung cancer risk. Importantly,
+
+568
+
+Cancer Res; 70(2) January 15, 2010
+
+Downloaded from 
+
+Research. 
+
+cancerres.aacrjournals.org 
+
+on June 11, 2018. © 2010 American Association for Cancer
+
+Published OnlineFirst January 12, 2010; DOI: 10.1158/0008-5472.CAN-09-3410 
+
+concomitant methylation of three or more of these six genes
+was associated with a 6.5-fold increased risk of incident lung
+cancer and sensitivity and specificity both at 64% (10). These
+studies suggested that gene promoter hypermethylation in spu-
+tum could be used as a molecular marker for identifying people
+at high risk for cancer incidence (11). However, the precise
+mechanism by which carcinogens disrupt the capacity of cells
+to maintain the epigenetic code during DNA replication and re-
+pair is largely unknown.
+
+The fact that gene promoter methylation is a promising
+marker for lung cancer makes understanding factors that in-
+fluence the propensity for this epigenetic process throughout
+the respiratory epithelium a high priority because such
+knowledge could be used not only for early detection but also
+to identify persons who would benefit most from chemopre-
+vention. The precise mechanism by which carcinogens dis-
+rupt the capacity of cells to maintain the epigenetic code
+during DNA replication and repair is largely unknown. Carci-
+nogens within tobacco induce single- and double-strand
+breaks in DNA, and reduced DNA repair capacity (DRC)
+has been associated with lung cancer (12). Accumulating ev-
+idence from our group suggests that extensive DNA damage
+could be responsible for acquisition of gene promoter hyper-
+methylation during lung carcinogenesis (3, 13). Strong sup-
+port for this supposition was provided through a recent
+community-based study in which a highly significant associ-
+ation was seen between DRC and sequence variants within
+specific DNA repair genes and the propensity for methylation
+of genes detected in sputum from cancer-free smokers from
+the Lovelace Smokers Cohort (14). Specifically, smokers with
+a high methylation index (defined by having three or more
+genes methylated from an eight-gene panel in sputum) had
+a 50% reduction in DRC compared with smokers with no
+genes methylated in sputum. Single nucleotide polymorph-
+isms within five double-strand break DNA repair genes were
+also highly associated with methylation index. This study
+suggests that chronic DNA damage coupled with reduced
+DRC could be an important determinant for inducing gene
+promoter hypermethylation.
+
+Epidemiologic studies suggest that select dietary nutrients
+and vitamin supplements might protect against lung cancer
+(15). Fruits, vegetables, and multivitamins all possess antiox-
+idant activity that should reduce tobacco-induced DNA
+damage. In addition, folate, a B vitamin, is metabolized to
+5-methyltetrahydrofolate that provides methyl groups for S-
+adenosylmethionine (SAM), a universal donor for reactions
+that include methylation of DNA (16). Low folate has been as-
+sociated with reduced DRC and an increase in prevalence for
+gene promoter methylation (17, 18). The purpose of the cur-
+rent investigation was to determine whether diet and multi-
+vitamin use influence the presence of methylation in cells
+exfoliated from the aerodigestive tract of current and former
+smokers. Composite variables were selected based on our hy-
+potheses that fruits, tomatoes, cruciferous vegetables, leafy
+vegetables, yellow vegetables, and vitamin intake will be asso-
+ciated with a reduction in number of genes methylated in
+sputum, whereas animal fat and red and processed meat will
+be associated with increased methylation.
+
+Dietary Factors Protect against Gene Methylation in Smokers
+
+Materials and Methods
+
+Study population. The Lovelace Smokers Cohort began re-
+cruitment of female smokers in 2001 and expanded to in-
+clude male smokers in 2004 (14). Enrollment, which is still
+ongoing, is restricted to current and former smokers ages
+40 to 75 y with a minimum of 15 pack-years of smoking. Par-
+ticipants primarily are residents of the Albuquerque, New
+Mexico metropolitan area. Participants complete a standard
+questionnaire covering demographics, smoking history, per-
+sonal and family health, and a food frequency questionnaire.
+Weight and height are measured. Participants provide both
+blood and sputum samples and undergo standard pulmonary
+function testing. A total of 1,145 people completed a food fre-
+quency questionnaire and were assessed for prevalence for
+methylation of eight genes in sputum. Those with caloric in-
+take outside of gender-specific bounds (n = 44) were exclud-
+ed, resulting in a total of 1,101 participants (845 women and
+256 men) in this study. All participants signed a consent
+form, and the Western Institutional Review Board approved
+this project.
+
+Dietary questionnaire. Participants completed the adult
+version of the Harvard University Food Frequency Question-
+naire Dietary Assessment form, a self-administered instru-
+ment that includes ∼150 food items (19). The participant
+indicates consumption frequency for most food items by
+choosing 1 of 5 to 10 categories that vary depending on the
+food item and can range from never to six or more servings
+per day. A food group analysis was conducted to combine
+food items to obtain estimates of intake of macronutrients
+and micronutrients. We focused on factors known or sus-
+pected of being associated with lung cancer or methylation.
+Thus, the macronutrients animal fat and total fat and the
+micronutrients vitamin C, vitamin E, folate (that included
+supplements and fortified foods), carotene, α-carotene, β-
+carotene, lycopene, lutein and zeaxanthin, and retinol were
+examined. Alcohol, multivitamins, and cod liver oil intake
+were also assessed as categorical variables. In a study of
+eating patterns, Fung and colleagues (20) created a set of
+38 composite variables using the food frequency question-
+naire. Six of these composite variables, red and processed
+meats, fruit, tomatoes, cruciferous vegetables, leafy green
+vegetables, and yellow vegetables, were related to our hy-
+potheses, so we calculated these variables.
+
+Total caloric intake was assessed. People with either ex-
+tremely low (n = 8) or extremely high (n = 36) intake were
+excluded. Cutoffs for extremely low intake were <500 and
+<800 calories for women and men, respectively. Extremely
+high intake was defined as >3,500 and >4,200 calories for
+women and men, respectively. It is standard to exclude par-
+ticipants with at least 70 missing items on the food frequency
+questionnaire, but none of our participants met this criteri-
+on. Participants with missing data on individual food items
+were excluded from analyses of these items.
+
+Methylation-specific PCR. Eight genes (p16, MGMT, DAPK,
+RASSF1A, PAX5α, PAX5β, GATA4, and GATA5) were selected
+for analysis of methylation in sputum based on our previous
+studies establishing their association with risk for lung
+
+www.aacrjournals.org
+
+Cancer Res; 70(2) January 15, 2010
+
+569
+
+Downloaded from 
+
+Research. 
+
+cancerres.aacrjournals.org 
+
+on June 11, 2018. © 2010 American Association for Cancer
+
+Published OnlineFirst January 12, 2010; DOI: 10.1158/0008-5472.CAN-09-3410 
+
+Stidley et al.
+
+cancer (10, 21). DNA was isolated from sputum and modified
+with bisulfite as described (10). Nested methylation-specific
+PCR was used to detect methylated alleles from individual
+genes in DNA recovered from the sputum samples as de-
+scribed (21). Methylation index, the number of genes meth-
+ylated in a sputum sample, was also defined. Sputum from
+males and females was randomly selected and included in
+batches of 96 samples for assessment of gene methylation.
+A Hamilton robot was used to assemble PCRs in 96-well
+plates.
+
+Covariates. The questionnaire included questions on
+gender, age, ethnicity, and smoking. Cigarette smoking histo-
+ry included current status (former or current), pack-years,
+and duration of smoking. Body mass index (BMI) was calcu-
+lated from measured height and weight and categorized as
+normal (<25 kg/m2), overweight (25–29.9 kg/m2), and obese
+(≥30 kg/m2). Age was categorized as 40 to 54, 55 to 64, and
+≥65 y. Pack-years of smoking were categorized as light (<29),
+moderate (30–49), and heavy (≥50).
+
+Statistical methods. Demographic, dietary, and methyla-
+tion variables were summarized overall and by gender. Pro-
+portions were used for categorical variables and medians
+with the interquartile range (IQR) for continuous variables.
+Differences between men and women in clinical covariates
+and categorical dietary variables were assessed with Fisher's
+exact test. For continuous dietary variables, a two-step linear
+regression analysis was used to account for differences in to-
+tal caloric intake between genders. In the first step, the die-
+tary variable was regressed on the total caloric intake. In the
+second step, the residuals from the first analysis were re-
+gressed on gender, which resulted in an estimate of the dif-
+ferences in the mean dietary variable after adjustment for
+total caloric intake, along with 95% confidence intervals
+(95% CI).
+
+The total number of methylated genes in the eight-gene
+panel was dichotomized into low (fewer than two genes
+methylated) and high (two or more genes methylated). This
+binary outcome, methylation status, was modeled with logis-
+tic regression. Initially, only the clinical covariates gender,
+age, BMI, and three smoking variables (status, pack-years,
+and duration) were assessed. Interactions among the covari-
+ates, including interactions with gender, were evaluated. Af-
+ter the development of a model with only clinical covariates,
+individual dietary variables were included, along with adjust-
+ment for total caloric intake. Continuous variables, such as
+total fat intake, were included as a continuous variable or
+were categorized into quartiles, with the quartiles defined
+by gender and the quartile medians used as the predictor va-
+lues. Interactions between dietary variables and clinical cov-
+ariates were assessed. Only the 21 dietary variables specific to
+our hypothesis were examined to reduce the potential for
+false-positive results. In addition, no formal adjustment for
+multiple comparisons was made to reduce the chance of
+false-negative results because this is one of the first studies
+to examine the association between dietary factors and
+methylation. However, the issue of examining multiple pre-
+dictor variables is considered in the interpretation of the re-
+sults. Methylation index was also used as the outcome
+
+variable to further assess the association between methyla-
+tion and dietary factors. Because the methylation index could
+theoretically take on nine values, but actually took on only
+seven, it was unclear that linear regression would be appro-
+priate. Thus, results obtained from linear and ordinal logistic
+regression were compared. The association between signifi-
+cant dietary factors and each of the individual genes was ex-
+plored using logistic regression models but viewed as
+secondary analyses to reduce the issue of multiple compari-
+sons. All statistical analyses were conducted in Statistical
+Analysis System 9.2.
+
+Results
+
+Population characteristics. The demographics and smok-
+ing history of the 1,101 participants are described in Table 1.
+The Lovelace Smokers Cohort is largely composed of females
+(76.7%) and non-Hispanic whites (77.8%). Median age was 56
+years, with males slightly older than females. More than half of
+the participants currently smoked, and median duration of
+smoking was 33 years. There was no difference between
+men and women with regard to smoking status or duration,
+but men had significantly higher pack-years of smoking
+(median = 39 pack-years for men versus 34 pack-years for
+women).
+
+Summary of dietary intake. The completion rate of the
+food frequency questionnaire was excellent, as only 2.7% of
+
+Table 1. Characteristics of study participants
+overall and by gender: frequencies (%)
+
+Demographic
+characteristic
+Sample size
+
+Age (y)
+
+Ethnicity†
+
+Other
+Smoking status Current
+Duration of
+smoking
+
+Pack-years of
+smoking
+
+BMI
+
+Overall Females Males
+
+P*
+
+1,101
+
+845
+
+256
+
+40–54
+46.0
+55–64
+31.8
+65+
+22.3
+NHW 77.8
+Hispanic 16.8
+5.4
+56.7
+35.0
+38.7
+26.3
+35.6
+40.7
+23.7
+31.7
+37.7
+30.6
+
+<30
+30–40
+40+
+15–29
+30–49
+50+
+<25
+
+25–29.9
+30.0+
+
+46.7
+32.7
+20.6
+77.5
+17.5
+5.0
+56.7
+35.9
+38.1
+26.0
+38.7
+40.4
+20.9
+32.5
+36.7
+30.8
+
+0.36
+
+0.06
+
+1.00
+0.53
+
+43.4
+28.9
+27.5
+78.7
+14.6
+6.7
+56.6
+32.0
+40.6
+27.3
+25.4 <0.001
+41.8
+32.8
+28.9
+41.0
+30.1
+
+0.40
+
+Abbreviation: NHW, non-Hispanic white.
+*Comparison of females and males, from Fisher's exact
+test.
+†Ethnicity is not reported for six participants.
+
+570
+
+Cancer Res; 70(2) January 15, 2010
+
+Cancer Research
+
+Downloaded from 
+
+cancerres.aacrjournals.org 
+
+on June 11, 2018. © 2010 American Association for Cancer
+
+Research. 
+
+Published OnlineFirst January 12, 2010; DOI: 10.1158/0008-5472.CAN-09-3410 
+
+Dietary Factors Protect against Gene Methylation in Smokers
+
+Table 2. Summary and differences of dietary intake by gender
+
+Dietary factor
+
+Macronutrients§
+
+Total caloric intake (kcal)
+Total fat (g)
+Animal fat (g)
+Micronutrients§
+
+Vitamin C (mg)
+Folate (μg)
+Vitamin E (mg)
+Carotene (IU)
+α-Carotene (μg)
+β-Carotene (μg)
+Lycopene (μg)
+Lutein and Zeaxanthin (μg)
+Retinol (IU)
+Food groups∥
+
+Red and processed meats
+Fruit
+Tomatoes
+Cruciferous vegetables
+Leafy green vegetables
+Yellow vegetables
+
+Alcohol
+
+Drinks per day (%)
+
+None
+0.1–1.0
+>1
+
+Multivitamin use (%)
+
+Never
+Past
+Current
+Current cod liver oil use (%)
+
+Females (n = 845)*
+
+Males (n = 256)*
+
+Adjusted difference (95% CI)†
+
+P‡
+
+1,688 (1,312–2,121)
+
+1,975 (1,517–2,600)
+
+69 (52–91)
+33 (23–45)
+
+78 (60–104)
+38 (26–53)
+
+185 (88–668)
+985 (423–1,298)
+23 (8–191)
+
+181 (84–623)
+
+1,038 (479–1,408)
+
+21 (8–40)
+
+5,599 (3,419–9,921)
+
+5,334 (3,026–8,510)
+
+357 (176–641)
+
+3,095 (1,912–5,518)
+4,991 (3,242–8,283)
+2,315 (1,326–3,612)
+3,736 (1,512–6,072)
+
+370 (146–585)
+
+2,925 (1,592–4,621)
+5,968 (3,655–9,665)
+2,059 (1,138–3,097)
+3,683 (1,613–6,106)
+
+20 (12–34)
+19 (9–37)
+12 (5–17)
+5 (3–9)
+13 (5–25)
+5 (3–12)
+
+30
+57
+13
+
+13
+24
+63
+1.7
+
+28 (16–50)
+19 (8–38)
+13 (5–17)
+5 (3–9)
+10 (5–18)
+4 (2–9)
+
+22
+48
+31
+
+18
+21
+61
+2.0
+
+3.5 (1.1–5.9)
+0.9 (−0.9 to 2.6)
+
+71 (3–140)
+28 (57–112)
+23 (8–38.5)
+
+1,568 (761–2,374)
+127 (50–1,349)
+891 (432–1,349)
+−320 (−968 to 328)
+844 (476–1,213)
+505 (−120 to 1,129)
+
+−4.1 (−6.4 to −1.9)
+5.3 (1.1–9.6)
+0.5 (−1.0 to 1.9)
+1.5 (0.3–2.8)
+5.7 (3.6–7.9)
+3.1 (1.8–4.4)
+
+<0.001
+0.004
+0.33
+
+0.04
+0.52
+0.003
+<0.001
+0.001
+<0.001
+
+0.33
+
+<0.001
+
+0.11
+
+<0.001
+
+0.01
+0.54
+0.01
+
+<0.001
+<0.001
+
+<0.001
+
+0.19
+
+0.78
+
+*Summary statistics are medians (IQRs) for continuous variables and percents for categorical variables.
+†Differences are calculated as mean for females minus mean for males after adjustment for total caloric intake.
+‡P values are obtained from linear regression after adjustment for total caloric intake or, for those variables without adjustment,
+from linear regression for total caloric intake and from Fisher's exact test for categorical variables.
+§Daily intake.
+∥Servings per month.
+
+participants failed to respond to >10 items. Dietary informa-
+tion was compiled for the 21 items of particular interest to
+this study and included three macronutrients, nine micronu-
+trients, six serving variables, and three categorical variables
+(Table 2). The selection of these variables was based on our
+hypotheses that fruits, tomatoes, cruciferous vegetables, leafy
+vegetables, yellow vegetables, and vitamin intake will be as-
+sociated with a reduction in number of genes methylated in
+sputum, whereas animal fat and red and processed meat will
+be associated with increased methylation. On average, men
+had higher intake of total calories, but after adjustment for
+caloric intake, women generally had higher consumption of
+micronutrients and men had higher consumption of red
+meat. There was no difference in vitamin usage, but men
+
+were more likely to report having at least one alcoholic drink
+per day.
+
+Prevalence for gene promoter hypermethylation in
+sputum. Methylation of an eight-gene panel that included
+p16, MGMT, DAPK, RASSF1A, GATA4, GATA5, PAX5α, and
+PAX5β was evaluated. Methylation of these genes is associated
+with increased risk for lung cancer (10, 21). The prevalence
+of methylation ranged from 1.1% and 0.0% for RASSF1A to
+33.8% and 51.2% for GATA4 for women and men, respectively
+(Table 3). Three genes, MGMT, GATA4, and PAX5α, were more
+frequently methylated among men than women (P < 0.001).
+Methylation index, the number of methylated genes in each
+sputum sample, was higher in men than women (median =
+2 and 1, respectively; P < 0.001). Our previous study was
+
+www.aacrjournals.org
+
+Cancer Res; 70(2) January 15, 2010
+
+571
+
+Downloaded from 
+
+Research. 
+
+cancerres.aacrjournals.org 
+
+on June 11, 2018. © 2010 American Association for Cancer
+
+Published OnlineFirst January 12, 2010; DOI: 10.1158/0008-5472.CAN-09-3410 
+
+Stidley et al.
+
+Table 3. Prevalence of gene methylation in
+sputum
+
+Gene
+
+P16
+MGMT
+RASSF1A
+DAPK
+GATA4
+GATA5
+PAX5α
+PAX5β
+≥2 genes
+methylated
+
+Overall
+(N = 1,101)
+
+Females
+(n = 845)
+(% positive)
+
+Males
+(n = 256)
+
+P*
+
+16.6
+26.3
+0.8
+17.8
+37.9
+18.0
+15.3
+9.6
+39.8
+
+16.2
+24.4
+1.1
+16.7
+33.8
+17.0
+13.1
+9.5
+36.6
+
+0.50
+18.0
+0.009
+32.8
+0.13
+0.0
+21.5
+0.09
+51.2 <0.001
+21.1
+0.14
+22.3 <0.001
+10.2
+0.72
+50.4 <0.001
+
+*Comparison of females and males, from Fisher's exact
+test.
+
+composed largely of male participants and dichotomized
+methylation index as fewer than three or three or more
+genes methylated in sputum (10). However, because this
+study is composed of 77% women who have a lower prev-
+alence for gene methylation, high methylation index was de-
+fined as two or more genes methylated and was present in
+sputum from 36.6% of women and 50.4% of men (P < 0.001).
+Association of clinical covariates with gene methylation.
+Gender, age, BMI, and cigarette smoking history were as-
+sessed in a multivariate model for association with methyla-
+tion status. Meaningful interactions, including interactions
+between gender and all of the other covariates, were as-
+sessed. There were significant interactions between gender
+and both BMI (P = 0.04) and pack-years of smoking (P =
+0.05). There were relatively more women with high methyla-
+tion among obese participants than among both normal
+weight and overweight individuals, whereas for men the as-
+sociation was less consistent. The odds of high methylation
+increased with pack-years among men, but there was no as-
+sociation among women. Age and duration of smoking were
+
+not associated with methylation, after adjustment for the
+other clinical covariates, but age was retained in the model.
+With two other smoking variables included in the model
+(pack-years and current status), duration was excluded.
+Thus, the clinical covariates that were included in the mod-
+eling with the nutritional variables were gender, pack-years
+of smoking, current smoking status, BMI, age, and interac-
+tions between gender and both pack-years and BMI.
+
+Association of dietary factors with gene methylation.
+Each dietary factor was assessed for association with
+methylation status (two or more genes methylated versus
+fewer than two genes) using logistic regression. A total of
+21 variables were examined: three macronutrients, nine mi-
+cronutrients, six serving variables, and three categorical
+variables (consumption of alcohol, vitamins, and cod liver
+oil; Table 4; Supplementary Table S1). Leafy green vegetable
+consumption was significantly associated with reduced risk
+for high methylation status [odds ratio (OR), 0.83; 95% CI,
+0.74–0.93], as was higher folate (OR, 0.84; 95% CI, 0.72–0.99;
+Table 4). The most striking effect seen was the association
+between current multivitamin use and methylation status
+(OR, 0.57; 95% CI, 0.40–0.83; Table 4). The duration of
+vitamin use was not associated with methylation (data
+not shown). Moreover, because folate levels were higher
+for participants taking multivitamins, stratification by vita-
+min use was also conducted and folate remained signifi-
+cantly associated with methylation. There was a marginal
+increase in odds for methylation associated with total fat
+and animal fat that did not reach statistical significance
+(Supplementary Table S1). None of the other dietary or
+nutrient predictor variables analyzed were associated with
+methylation (Supplementary Table S1). Interactions be-
+tween each dietary variable and gender were assessed, but
+none was significant. The association between these dietary
+variables and methylation of the individual genes also was
+examined, but because of the number of tests (8 genes × 3
+dietary variables = 24 tests), these results were viewed as
+exploratory. Associations with at least one of the three sig-
+nificant dietary variables were observed for DAPK, GATA4,
+PAX5α, and PAX5β (Supplementary Table S2).
+
+A further analysis was conducted to assess whether
+any extreme outliers influenced the observed results for
+
+Table 4. Dietary variables significantly associated with methylation status in the Lovelace Smokers
+Cohort
+
+Dietary predictor variable
+
+Leafy green vegetables (per 12 monthly servings)
+Folate (per 750 μg/d)
+Multivitamin use versus never
+
+Current
+Past
+
+OR* (95% CI)
+
+0.83 (0.74–0.93)
+0.84 (0.72–0.99)
+
+0.57 (0.40–0.83)
+0.68 (0.45–1.03)
+
+P
+
+<0.001
+
+0.04
+
+0.01
+
+*ORs are obtained from models with a single dietary variable but including adjustment for gender, age, BMI, pack-years of smoking,
+current smoking status, total caloric intake, and interactions between gender and both BMI and pack-years of smoking.
+
+572
+
+Cancer Res; 70(2) January 15, 2010
+
+Cancer Research
+
+Downloaded from 
+
+Research. 
+
+cancerres.aacrjournals.org 
+
+on June 11, 2018. © 2010 American Association for Cancer
+
+Published OnlineFirst January 12, 2010; DOI: 10.1158/0008-5472.CAN-09-3410 
+
+continuous variables by defining quartiles by gender and
+then using the medians within the quartiles as predictors
+in logistic regression modeling. Similar results were obtained
+as in the initial analysis, except that total fat was associated
+with marginally increased methylation (OR, 1.43 per 40 g/d;
+95% CI, 1.03–1.99). The same dietary variables were identified
+to be significant in analyses that used the continuous meth-
+ylation index as the outcome. In addition, vitamin E showed
+a protective effect for methylation per gene (OR, 0.98 per 20
+mg/d; 95% CI, 0.96–1.00; P = 0.04).
+
+Discussion
+
+This is the first cohort-based study to systematically eval-
+uate the association between dietary factors and risk for
+methylation in cells exfoliated from the aerodigestive tract
+of smokers and former smokers. Our findings support a sig-
+nificant, biologically plausible role for leafy green vegetables,
+folate, and multivitamin use in protection against the acqui-
+sition of gene promoter methylation.
+
+There has been considerable interest and debate for dec-
+ades about the effect of diet and vitamins on the risk for can-
+cer. Recent large epidemiologic studies along with functional
+investigations are beginning to provide a clearer picture as to
+the dietary variables that may influence risk for cancers such
+as lung where a clear causative environmental exposure in
+the form of smoking has been established. Reduced folate in-
+take has been associated with increased risk for lung cancer
+in current and former smokers (22). A link between folate and
+gene methylation exists through the role of 5-methyltetrahy-
+drofolate in providing methyl groups for SAM, a key methyl
+donor in the methylation of DNA. Higher folate has been as-
+sociated with a lower prevalence for methylation of individ-
+ual and total number of genes in colorectal tumors (17). This
+finding was validated in a second study of colorectal tumors
+in which folate was inversely associated with gene-specific
+promoter hypermethylation (23). Our study shows for the
+first time that the acquisition of gene promoter methylation
+throughout the airway epithelium is influenced by folate. The
+biological mechanisms related to low folate and hypermethy-
+lation are still unclear; however, Jhaveri and colleagues (24)
+suggested that folate deficiency leads to increased levels of
+SAM and S-adenosylhomocysteine (SAH), an inhibitor of
+SAM. The increase in free intracellular SAM could contribute
+to gene-specific hypermethylation if an absolute level of SAH
+needed to regulate SAM is not maintained. Folate is also in-
+volved in DNA repair through de novo synthesis of purines
+and pyrimidines, and low dietary folate has been associated
+with reduced DRC (18). This observation, combined with our
+recent study identifying reduced DRC as a determinant for gene
+promoter methylation in sputum (14), suggests that folate may
+directly, through affecting the one-carbon pool, and indirectly,
+by affecting DRC, affect the propensity for methylation.
+
+Green leafy vegetables were the only food item in this anal-
+ysis to exhibit protection against methylation status. Leafy
+vegetables are rich in phytochemicals such as vitamin C,
+carotenoids, lutein, and folic acid in addition to vitamins A
+and K. A comprehensive and systematic review of the litera-
+
+Dietary Factors Protect against Gene Methylation in Smokers
+
+ture up to 2007 by the World Cancer Research Fund (WCRF)
+concluded that probable evidence existed for reduction of
+lung cancer risk among persons with higher intake of fruits,
+whereas evidence was inconclusive about green leafy vegeta-
+bles (15). However, a recent hospital-based case-control
+study of lung cancer (25) showed a strong protective effect
+of green leafy vegetables (OR, 0.5; 95% CI, 0.3–0.81). The lack
+of an effect of cruciferous vegetable on methylation status in
+our study is not surprising because lung cancer observational
+studies report only modest effects that may be influenced by
+genetic variation (26). In addition, the lack of association
+with red meat and processed meat intake is consistent with
+the inconclusive evidence, as summarized by the WCRF (15).
+However, a recent cohort study has observed increased risk
+for lung cancer among those consuming meats prepared in
+ways that would be expected to have increased their carcino-
+genicity (27).
+
+In our study, strong protection against gene methylation
+was also associated with the use of multivitamins that contain
+some of the same agents as leafy green vegetables. Although a
+clear connection between vitamin supplements and risk of
+lung cancer has not been established (28), vitamin supple-
+mentation has been associated with reduction in DNA dam-
+age by benzo(a)pyrene, a major tobacco carcinogen (29–32).
+The silencing of genes by promoter hypermethylation is
+now well established as a major component of lung cancer
+initiation and progression and has emerged as a potential
+disease marker for early detection. The ability to affect repro-
+gramming of the epigenome through diet and chemopreven-
+tive supplements could significantly affect mortality from
+lung cancer. This study has identified two dietary variables,
+leafy green vegetables and folate, along with multivitamin
+use that could help reduce the incidence of lung cancer by
+reducing the induction of methylation in the aerodigestive
+tract of smokers.
+
+Disclosure of Potential Conflicts of Interest
+
+S.A. Belinsky is a consultant and has licensed intellectual
+property with Oncomethylome Sciences. The other authors
+disclosed no potential conflicts of interest.
+
+Acknowledgments
+
+We thank Kieu Do and Amanda Bernauer for assistance in the
+conduct of gene methylation assays in the sputum specimens.
+
+Grant Support
+
+NIH grant U01 CA097356 and the State of New Mexico as a
+direct appropriation from the Tobacco Settlement Fund, and
+in part by the New Mexico VA Health Care System.
+
+The costs of publication of this article were defrayed in
+part by the payment of page charges. This article must
+therefore be hereby marked advertisement in accordance
+with 18 U.S.C. Section 1734 solely to indicate this fact.
+
+Received 9/15/09; revised 10/28/09; accepted 11/4/09;
+
+published OnlineFirst 1/12/10.
+
+www.aacrjournals.org
+
+Cancer Res; 70(2) January 15, 2010
+
+573
+
+Downloaded from 
+
+Research. 
+
+cancerres.aacrjournals.org 
+
+on June 11, 2018. © 2010 American Association for Cancer
+
+Published OnlineFirst January 12, 2010; DOI: 10.1158/0008-5472.CAN-09-3410 
+
+Stidley et al.
+
+References
+1.
+
+Jemal A, Siegel R, Ward E, Murray T, Xu J, Thun MJ. Cancer statis-
+tics. CA Cancer J Clin 2007;57:43–66.
+
+2. Slaughter DP, Southwick HW, Smejkal W. Field cancerization in oral
+stratified squamous epithelium; clinical implications of multicentric
+origin. Cancer 1953;6:963–8.
+
+3. Belinsky SA. Silencing of genes by promoter hypermethylation: key
+event in rodent and human lung cancer. Carcinogenesis 2005;26:
+1481–7.
+Jones PA, Baylin SB. The epigenomics of cancer. Cell 2007;128:
+683–92.
+
+4.
+
+5. Brock MV, Herman JG, Baylin SB. Cancer as a manifestation of ab-
+
+errant chromatin structure. Cancer J 2007;13:3–8.
+
+6. Belinsky SA, Palmisano WA, Gilliland FD, et al. Aberrant promoter
+methylation in bronchial epithelium and sputum from current and for-
+mer smokers. Cancer Res 2002;62:2370–7.
+
+7. Belinsky SA, Nikula KJ, Palmisano WA, et al. Aberrant methylation of
+p16INK4a is an early event in lung cancer and a potential biomarker for
+early diagnosis. Proc Natl Acad Sci U S A 1998;95:11891–6.
+Licchesi JD, Westra WH, Hooker CM, Herman JG. Promoter hyper-
+methylation of hallmark cancer genes in atypical adenomatous hy-
+perplasia of the lung. Clin Cancer Res 2008;14:2570–8.
+
+8.
+
+9. Palmisano WA, Divine KK, Saccomanno G, et al. Predicting lung can-
+cer by detecting aberrant promoter hypermethylation in sputum.
+Cancer Res 2000;60:5954–8.
+
+10. Belinsky SA, Liechty KC, Gentry FD, et al. Promoter hypermethyla-
+tion of multiple genes in sputum precedes lung cancer incidence in a
+high-risk cohort. Cancer Res 2006;66:3338–44.
+
+11. Belinsky SA. Gene promoter hypermethylation as a biomarker in lung
+
+cancer. Nat Rev 2004;4:707–17.
+
+12. Shen H, Spitz MR, Qiao Y, et al. Smoking, DNA repair capacity and
+
+risk of nonsmall cell lung cancer. Int J Cancer 2003;107:84–8.
+
+13. Belinsky SA, Klinge DM, Liechty KC, et al. Plutonium targets the p16
+gene for inactivation by promoter hypermethylation in human lung
+adenocarcinoma. Carcinogenesis 2004;25:1063–7.
+
+14. Leng S, Stidley C, Willink R, et al. Double-strand break damage and
+associated DNA repair genes predispose smokers to gene methyla-
+tion. Cancer Res 2008;68:3049–56.
+
+15. World Cancer Research Fund (WCRF) and the American Institute for
+Cancer Research (AICR). Food, nutrition, physical activity, and the
+prevention of cancer: a global perspective. Washington (DC): AICR;
+2007.
+
+16. Jennings E. Folic acid as a cancer-preventing agent. Med Hypothe-
+
+ses 1995;45:297–303.
+
+17. van Engeland M, Weijenberg MP, Roemen GM, et al. Effects of die-
+tary folate and alcohol intake on promoter methylation in sporadic
+colorectal cancer: the Netherlands cohort study on diet and cancer.
+Cancer Res 2003;63:3133–37.
+
+18. Wei Q, Shen H, Wang L-E, et al. Association between low dietary
+folate intake and suboptimal cellular DNA repair capacity. Cancer
+Epidemiol Biomarkers Prev 2003;12:963–9.
+
+19. Rimm EB, Giovannucci EL, Stampfer MJ, Colditz GA, Litin LB, Willett
+WC. Reproducibility and validity of an expanded self-administrated
+semiquantitative food-frequency questionnaire among male health
+professionals. Am J Epidemiol 1992;135:1114–26.
+
+20. Fung TT, Hu FB, Holmes MD, et al. Dietary patterns and the risk of
+
+postmenopausal breast cancer. Int J Cancer 2005;116:116–21.
+
+21. Belinsky SA, Klinge DM, Dekker JD, et al. Gene promoter methylation
+in plasma and sputum increases with lung cancer risk. Clin Cancer
+Res 2005;11:6505–11.
+
+22. Shen H, Wei Q, Pillow PC, Amos CI, Hong WK, Spitz MR. Dietary
+folate intake and lung cancer risk in former smokers: a case-control
+analysis. Cancer Epidemiol Biomarkers Prev 2003;12:980–6.
+
+23. van den Donk M, van Engeland M, Pellis L, et al. Dietary folate
+intake in combination with MTHFR C677T genotype and promoter
+methylation of tumor suppressor and DNA repair genes in sporadic
+colorectal adenomas. Cancer Epidemiol Biomarkers Prev 2007;16:
+327–33.
+
+24. Jhaveri MS, Wagner C, Trepel JB. Impact of extracellular folate levels
+
+on global gene expression. Mol Pharmacol 2001;60:1288–95.
+
+25. Dosil-Diaz O, Ruano-Ravina A, Gestal-Otero JJ, Barros-Dios JM.
+Consumption of fruit and vegetables and risk of lung cancer: a
+case-control study in Galicia, Spain. Nutrition 2008;24:407–13.
+
+26. Lam TK, Gallicchio L, Lindsley K, et al. Cruciferous vegetable con-
+sumption and lung cancer risk: a systematic review. Cancer Epide-
+miol Biomarkers Prev 2009;18:184–95.
+
+27. Lam TK, Cross AJ, Consonni D, et al. Intakes of red meat, processed
+meat, and meat mutagens increase lung cancer risk. Cancer Res
+2009;69:932–9.
+
+28. Huang HY, Caballero B, Chang S, et al. Multivitamin/mineral supple-
+ments and prevention of chronic disease. Evid Rep Technol Assess
+(Full Rep) 2006;139:1–117.
+
+29. Cho E, Hunter DJ, Spiegelman D, et al. Intakes of vitamins A, C and E
+and folate and multivitamins and lung cancer: a pooled analysis of
+8 prospective studies. Int J Cancer 2006;118:970–8.
+
+30. Yang J, Wang L, Chen Z, et al. Antioxidant intervention of smoking-
+induced lung tumor in mice by vitamin E and quercetin. BMC Cancer
+2008;8:383.
+
+31. Ruano-Ravina A, Figuerias A, Freireo-Garabal M, Barros-Dios JM.
+Antioxidant vitamins and risk of lung cancer. Curr Pharm Des
+2006;12:599–613.
+
+32. Mooney LA, Madsen AM, Tang D, et al. Antioxidant vitamin supple-
+mentation reduces benzo(a)pyrene-DNA adducts and potential can-
+cer risk in female smokers. Cancer Epidemiol Biomarkers Prev 2005;
+14:237–42.
+
+574
+
+Cancer Res; 70(2) January 15, 2010
+
+Cancer Research
+
+Downloaded from 
+
+Research. 
+
+cancerres.aacrjournals.org 
+
+on June 11, 2018. © 2010 American Association for Cancer
+
+Published OnlineFirst January 12, 2010; DOI: 10.1158/0008-5472.CAN-09-3410 
+
+Multivitamins, Folate, and Green Vegetables Protect against
+Gene Promoter Methylation in the Aerodigestive Tract of 
+Smokers
+(cid:160) 
+Christine A. Stidley, Maria A. Picchi, Shuguang Leng, et al. 
+(cid:160) 
+Cancer Res(cid:160)
+
+2010;70:568-574. Published OnlineFirst January 12, 2010.
+
+(cid:160) 
+(cid:160) 
+(cid:160) 
+(cid:160) 
+
+(cid:160) 
+(cid:160) 
+
+Updated version
+(cid:160) 
+Supplementary
+Material
+(cid:160) 
+
+10.1158/0008-5472.CAN-09-3410
+ 
+
+Access the most recent version of this article at:
+doi:
+(cid:160) 
+Access the most recent supplemental material at:
+http://cancerres.aacrjournals.org/content/suppl/2010/01/12/0008-5472.CAN-09-3410.DC1
+ 
+(cid:160) 
+
+Cited articles
+(cid:160) 
+Citing articles
+(cid:160) 
+
+This article cites 31 articles, 15 of which you can access for free at:
+http://cancerres.aacrjournals.org/content/70/2/568.full#ref-list-1
+ 
+(cid:160) 
+This article has been cited by 7 HighWire-hosted articles. Access the articles at:
+ 
+http://cancerres.aacrjournals.org/content/70/2/568.full#related-urls
+(cid:160) 
+
+E-mail alerts
+(cid:160) 
+Reprints and 
+Subscriptions
+(cid:160) 
+Permissions
+(cid:160) 
+
+Sign up to receive free email-alerts
+
+ related to this article or journal.
+
+pubs@aacr.org
+.
+
+To order reprints of this article or to subscribe to the journal, contact the AACR Publications
+Department at
+(cid:160) 
+To request permission to re-use all or part of this article, use this link
+.
+http://cancerres.aacrjournals.org/content/70/2/568
+Click on "Request Permissions" which will take you to the Copyright Clearance Center's (CCC)
+Rightslink site. 
+(cid:160) 
+
+Downloaded from 
+
+Research. 
+
+cancerres.aacrjournals.org 
+
+on June 11, 2018. © 2010 American Association for Cancer
+
+

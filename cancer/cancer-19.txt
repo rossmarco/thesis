@@ -1,0 +1,134 @@
+AMPK as a metabolic tumor 
+suppressor: control of metabolism 
+and cell growth
+
+Zhijun Luo†, Mengwei Zang & Wen Guo
+†Author for correspondence: Department of Biochemistry, Boston University School of Medicine, 715 Albany 
+Street, Evans 645, Boston, MA 02118, USA n Tel.: +1 617 414 1033 n Fax: +1 617 414 1646 n zluo@bu.edu
+
+AMPK  is  an  evolutionarily  conserved  fuel-sensing  enzyme  that  is  activated  in 
+shortage of energy and suppressed in its surfeit. AMPK activation stimulates fatty 
+acid  oxidation,  enhances  insulin  sensitivity,  alleviates  hyperglycemia  and 
+hyperlipidemia,  and  inhibits  proinflammatory  changes.  Thus,  AMPK  is  a  well-
+received therapeutic target for metabolic syndrome and Type 2 diabetes. Recent 
+studies indicate that AMPK plays a role in linking metabolic syndrome and cancer. 
+AMPK  is  an  essential  mediator  of  the  tumor  suppressor  LKB1  and  could  be 
+suppressed  in  cancer  cells  containing  loss-of-function  mutations  of  LKB1  or 
+containing active mutations of B-Raf, or in cancers associated with metabolic 
+syndrome. The activation of AMPK reprograms cellular metabolism and enforces 
+metabolic checkpoints by acting on mTORC1, p53, fatty acid synthase and other 
+molecules  for  regulating  cell  growth  and  metabolism.  In  keeping  with  in  vitro 
+studies, recent epidemiological studies indicate that the incidence of cancer is 
+reduced  in  Type  2  diabetes  treated  with  metformin,  an  AMPK  activator.  Thus, 
+AMPK is emerging as an interesting metabolic tumor suppressor and a promising 
+target for cancer prevention and therapy.
+
+AMP-activated  protein  kinase  acts  as  a  fuel 
+gauge that is activated under stresses such as 
+hypoxia,  ischemia,  glucose  deprivation  and 
+exercise  [1].  Activation  of  AMPK  stimulates 
+fatty acid oxidation to generate more ATP to 
+cope with acute energy demand and inhibits 
+anabolic processes that consume ATP [1]. As a 
+result, energy is preserved for acute cellular pro-
+grams. In addition, AMPK activation enhances 
+insulin sensitivity, inhibits hepatic glucose pro-
+duction, stimulates glucose uptake in muscle, 
+inhibits fatty acid synthesis and esterification, 
+and diminishes proinflammatory changes  [2]. 
+Thus, AMPK is a well-accepted target for the 
+treatment of metabolic syndrome and Type 2 
+diabetes (for extensive reviews, refer to  [1–3]). 
+During the last 5 years, since our first review [3], 
+great attention has been drawn to link AMPK 
+and cancer, and substantial progress has been 
+made. AMPK, by regulating a variety of down-
+stream targets, such as mTORC1, p53 and fatty 
+acid synthase (FASN), and associated metabolic 
+processes, controls intra cellular energy levels 
+in order to maintain the cell growth rate at an 
+appropriate level. Likewise, AMPK activation 
+under  metabolic  stress  or  by  pharmacologi-
+cal activators can regulate various processes, 
+including cell cycle checkpoint, cell polarity, 
+senescence, autophagy and apoptosis  [4–7]. In 
+this article, we aim to summarize recent evi-
+dence  in  support  of  the  notion  that  AMPK 
+
+serves  as  a  metabolic  tumor  suppressor  and 
+discuss the implications of AMPK in cancer 
+prevention and treatment. 
+
+Activation of AMPK
+AMP-activated protein kinase belongs to a family 
+of serine/threonine protein kinases and is highly 
+conserved from yeast to human. It consists of 
+three subunits: a catalytic subunit (a) and two 
+regulatory  subunits  (b  and  g)  [8,9].  In  mam-
+mals, each subunit of AMPK contains two to 
+three isoforms (a1, a2; b1, b2; g1, g2 and g3). 
+When cells confront metabolic stress, the intra-
+cellular AMP level or the ratio of AMP to ATP 
+is increased. AMP then binds to the g-subunit, 
+yielding two outcomes; first, it serves as allo-
+steric activator and second, it protects AMPK 
+against phosphatases to dephosphorylate threo-
+nine 172 in the activation loop of the catalytic 
+a-subunit [9–11]. Another critical step for AMPK 
+activation is the phosphorylation of threonine 
+172. Previous studies suggest that AMP binding 
+enables the phosphorylation of threonine 172 by 
+an upstream kinase [12,13]. However, this notion 
+is challenged by recent in vitro studies showing 
+that phosphorylation of AMPK by purified LKB1 
+complex is independent of AMP [11,14]. A possible 
+explanation of this discrepancy is that the AMPK 
+preparations used in previous studies may have 
+been contaminated with phosphatases, of which 
+the activity toward AMPK is inhibited by AMP.
+
+r
+
+F
+u
+t
+u
+e
+O
+n
+c
+o
+o
+g
+y
+
+ 
+
+l
+
+R
+e
+v
+e
+w
+
+i
+
+Keywords
+
+n acetyl CoA carboxylase 
+n AMPK n fatty acid synthase 
+n LKB1 n metabolic syndrome 
+n metabolism n mTOR n p53 
+n tumor suppressor 
+n tumorigenesis
+
+10.2217/FON.09.174  © 2010 Future Medicine Ltd 
+
+Future Oncol. (2010) 6(3), 457–470
+
+ISSN 1479-6694
+
+457
+
+part ofFor reprint orders, please contact: reprints@futuremedicine.com

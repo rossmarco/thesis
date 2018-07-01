@@ -1,0 +1,2537 @@
+ORIGINAL CONTRIBUTION
+
+Influence of a Diet Very High in Vegetables,
+Fruit, and Fiber and Low in Fat on Prognosis
+Following Treatment for Breast Cancer
+The Women’s Healthy Eating
+and Living (WHEL) Randomized Trial
+John P. Pierce, PhD
+Loki Natarajan, PhD
+Bette J. Caan, DrPh
+Barbara A. Parker, MD
+E. Robert Greenberg, MD
+Shirley W. Flatt, MS
+Cheryl L. Rock, PhD, RD
+Sheila Kealey, MPH
+Wael K. Al-Delaimy, MD, PhD
+Wayne A. Bardwell, PhD
+Robert W. Carlson, MD
+Jennifer A. Emond, MS
+Susan Faerber, BA
+Ellen B. Gold, PhD
+Richard A. Hajek, PhD
+Kathryn Hollenbach, PhD
+Lovell A. Jones, PhD
+Njeri Karanja, PhD
+Lisa Madlensky, PhD
+James Marshall, PhD
+Vicky A. Newman, MS, RD
+Cheryl Ritenbaugh, PhD, MPH
+Cynthia A. Thomson, PhD
+Linda Wasserman, MD, PhD
+
+Context Evidence is lacking that a dietary pattern high in vegetables, fruit, and fiber
+and low in total fat can influence breast cancer recurrence or survival.
+Objective To assess whether a major increase in vegetable, fruit, and fiber intake
+and a decrease in dietary fat intake reduces the risk of recurrent and new primary breast
+cancer and all-cause mortality among women with previously treated early stage breast
+cancer.
+Design, Setting, and Participants Multi-institutional randomized controlled trial
+of dietary change in 3088 women previously treated for early stage breast cancer who
+were 18 to 70 years old at diagnosis. Women were enrolled between 1995 and 2000
+and followed up through June 1, 2006.
+Intervention The intervention group (n=1537) was randomly assigned to receive a
+telephone counseling program supplemented with cooking classes and newsletters that
+promoted daily targets of 5 vegetable servings plus 16 oz of vegetable juice; 3 fruit serv-
+ings; 30 g of fiber; and 15% to 20% of energy intake from fat. The comparison group
+(n=1551) was provided with print materials describing the “5-A-Day” dietary guidelines.
+Main Outcome Measures Invasive breast cancer event (recurrence or new pri-
+mary) or death from any cause.
+Results From comparable dietary patterns at baseline, a conservative imputation analy-
+sis showed that the intervention group achieved and maintained the following statis-
+tically significant differences vs the comparison group through 4 years: servings of veg-
+etables, ⫹65%; fruit, ⫹25%; fiber, ⫹30%, and energy intake from fat, −13%. Plasma
+carotenoid concentrations validated changes in fruit and vegetable intake. Through-
+out the study, women in both groups received similar clinical care. Over the mean
+7.3-year follow-up, 256 women in the intervention group (16.7%) vs 262 in the com-
+parison group (16.9%) experienced an invasive breast cancer event (adjusted hazard
+ratio, 0.96; 95% confidence interval, 0.80-1.14; P=.63), and 155 intervention group
+women (10.1%) vs 160 comparison group women (10.3%) died (adjusted hazard ra-
+tio, 0.91; 95% confidence interval, 0.72-1.15; P=.43). No significant interactions were
+observed between diet group and baseline demographics, characteristics of the origi-
+nal tumor, baseline dietary pattern, or breast cancer treatment.
+Conclusion Among survivors of early stage breast cancer, adoption of a diet that
+was very high in vegetables, fruit, and fiber and low in fat did not reduce additional
+breast cancer events or mortality during a 7.3-year follow-up period.
+Trial Registration clinicaltrials.gov Identifier: NCT00003787
+JAMA. 2007;298(3):289-298
+
+Marcia L. Stefanick, PhDCONSIDERABLE EVIDENCE FROM
+
+preclinical studies indicates
+that plant-derived foods con-
+tain anticarcinogens.1 A com-
+prehensive review of the literature
+found that a diet high in vegetables and
+
+For editorial comment see p 335.
+
+fruit probably decreases breast cancer
+risk and that a diet high in total fat pos-
+sibly increases risk.2 However, evi-
+dence of an association between a diet
+
+Author Affiliations are listed at the end of this ar-
+ticle.
+Corresponding Author: John P. Pierce, PhD, Cancer
+Prevention and Control Program, Moores UCSD Can-
+cer Center, University of California, San Diego, La Jolla,
+CA 92093-0901 (jppierce@ucsd.edu).
+
+www.jama.com
+
+©2007 American Medical Association. All rights reserved.
+
+(Reprinted) JAMA, July 18, 2007—Vol 298, No. 3 289
+
+Downloaded From:  by a University of Ottawa User  on 06/11/2018HIGH–VEGETABLE/FRUIT/FIBER, LOW-FAT DIET AND BREAST CANCER PROGNOSIS
+
+high in vegetables and fruit and low in
+total fat and prevention of cancer pro-
+gression has been mixed in epidemio-
+logical studies.3-17 An interim analysis
+of data from the Women’s Interven-
+tion Nutrition Study (WINS), which as-
+sessed the effect of a dietary interven-
+tion designed to reduce fat intake on
+relapse-free survival in breast cancer pa-
+tients,18 found that the intervention was
+associated with a marginally statisti-
+cally significant improvement in re-
+lapse-free survival. To our knowledge,
+no other clinical trials investigating di-
+etary change and breast cancer sur-
+vival have been reported.
+
+The Women’s Healthy Eating and
+Living (WHEL) Study was a random-
+ized trial assessing whether a dietary
+pattern very high in vegetables, fruit,
+and fiber and low in fat reduces the risks
+of recurrent and new primary breast
+cancer and all-cause mortality among
+women with previously treated early
+stage breast cancer. The study was based
+on the recommendations of a national
+committee of experts called to re-
+spond to a 1993 challenge grant from
+a private philanthropist who believed
+that the role of diet in preventing can-
+cer progression deserved scientific study
+to enable cancer survivors to make de-
+cisions without having “to rely on folk-
+lore, rumor and hearsay.”19
+
+METHODS
+Details of the study design, eligibility
+criteria, randomization procedures, and
+dietary intervention have been re-
+ported previously.20,21 In brief, we com-
+pared 2 dietary patterns: an interven-
+tion group that was intensively
+counseled to adopt a dietary pattern
+very high in vegetables, fruit, and fi-
+ber and low in fat21 and a comparison
+group advised to follow the 5-A-Day
+diet.22,23 The study tested primary hy-
+potheses of whether the intervention di-
+etary pattern was associated with (1) a
+longer breast cancer event–free inter-
+val and (2) increased overall survival
+among women previously treated for
+early stage breast cancer. Based on the
+6 epidemiological studies that had been
+published at the time of the trial de-
+
+sign, we estimated the likely effect size
+of this multicomponent diet.20 Follow-
+ing Lachin and Foulkes,24 we deter-
+mined that a sample size of 3000 would
+have 82% power to detect a 19% re-
+duction in additional breast cancer
+events in the intervention group (ex-
+pected comparison group rate=24%)
+and a 24% reduction in all cause mor-
+tality (expected comparison group
+rate=15%).
+
+Participants
+Participants were enrolled at 7 study
+sites between 1995 and 2000. Eligibil-
+ity criteria included diagnosis of a pri-
+mary operable invasive breast carci-
+noma categorized using American Joint
+Committee on Cancer (edition IV) cri-
+teria as stage I (ⱖ1 cm), stage II, or stage
+IIIA within the past 4 years; age at di-
+agnosis between 18 and 70 years; treat-
+ment with axillary dissection and total
+mastectomy or lumpectomy followed
+by primary breast radiation; no cur-
+rent or planned chemotherapy; no evi-
+dence of recurrent disease or new breast
+cancer since completion of initial lo-
+cal treatment; and no other cancer in
+the past 10 years. Eligible women were
+randomly assigned to either the study
+dietary pattern or the comparison group
+(FIGURE 1). The institutional review
+boards at the 7 clinical sites approved
+the study protocol and consent forms,
+and all participants provided written in-
+formed consent.
+
+Dietary Intervention
+The intensive intervention was deliv-
+ered primarily by telephone counsel-
+ing, supplemented with 12 cooking
+classes in the first year and monthly
+newsletters throughout the study.
+Trained counselors21 followed a com-
+puter-assisted protocol that was based
+on social cognitive theory25 and had 3
+phases of decreasing intensity. During
+the first phase (3-8 calls in 4-6 weeks),
+counselors focused on building self-
+efficacy to implement the study tar-
+gets, which consisted of daily intake of
+5 vegetable servings plus 16 oz of veg-
+etable juice, 3 fruit servings, 30 g of fi-
+ber, and 15% to 20% of energy intake
+
+from fat. Phase 2 (through 5 months)
+focused on self-monitoring and dealt
+with barriers to adherence. Phase 3
+(through study completion) focused on
+retaining motivation for the study di-
+etary pattern and preventing setbacks.
+During the first year of the interven-
+tion, participants received an average
+of 18 counseling calls, attended an av-
+erage of 4 of 12 offered cooking classes,
+and received 12 study newsletters. By
+4 years, a key point for assessing long-
+term effect, these participants had re-
+ceived an average of 31 calls and 48
+newsletters.
+
+Women randomized to the compari-
+son group were provided with print ma-
+terials (from the US Department of Ag-
+riculture26 and the National Cancer
+Institute22,23) describing a diet with a
+recommended daily intake of 5 serv-
+ings of vegetables and fruit, more than
+20 g of fiber, and less than 30% total
+energy intake from fat. The compari-
+son group attended an average of 1 of
+4 offered cooking classes in the first year
+and received 24 newsletters tailored to
+the comparison group during the first
+4 years.
+
+Data Collection
+Dietary Assessment. Dietary intake was
+assessed by sets of 4 prescheduled 24-
+hour dietary recalls conducted by tele-
+phone on random days over a 3-week
+period, stratified for weekend vs week-
+days.20 These dietary recalls were sched-
+uled for all participants at baseline, 1
+year, 4 years, and 6 years and on 50%
+random samples at 6, 24, and 36 months.
+We report data for participants complet-
+ing follow-up assessments. We also con-
+ducted additional analyses as follows: for
+participants who did not complete fol-
+low-up assessments we imputed esti-
+mates by assuming that they changed di-
+etary intake in a manner similar to
+comparison group respondents, using
+the expectation maximization algo-
+rithm in SAS software, version 9.1 (SAS
+Institute Inc, Cary, North Carolina).27 As
+previously described,20 dietary asses-
+sors completed a training program and
+used the multipass software-driven re-
+call protocol of the Nutritional Data Sys-
+
+290 JAMA, July 18, 2007—Vol 298, No. 3 (Reprinted)
+
+©2007 American Medical Association. All rights reserved.
+
+Downloaded From:  by a University of Ottawa User  on 06/11/2018HIGH–VEGETABLE/FRUIT/FIBER, LOW-FAT DIET AND BREAST CANCER PROGNOSIS
+
+tem software (NDS-R, 1994-2006, Uni-
+versity of Minnesota, Minneapolis). To
+assess overall adherence, we developed
+an adherence score.20 A completely ad-
+herent participant would score 600
+points: 300 points reflected vegetable
+consumption and the remaining 300
+points were divided equally among fi-
+ber, fruit, and energy from fat.
+
+Other Data Collection. We collected
+adetailedfamilyhistoryofcanceratbase-
+line and used the mutation prevalence
+tables from Myriad Genetic Laboratories
+(Salt Lake City, Utah)28 to classify fami-
+lies with at least a 10% risk of a BRCA1/2
+mutation as high-risk. Clinic visits con-
+ducted at baseline, 1 year, 2 or 3 years
+(randomly determined), 4 years, and 6
+years included measured weight and ve-
+nipuncture. Separated blood samples
+were stored in cryovials in −80°C freez-
+ers for later analysis. Participants were
+mailed a set of study questionnaires to
+complete and bring to each clinic visit,
+including a health status questionnaire
+with questions on recent physician vis-
+its and 2 questionnaires used in the
+Women’s Health Initiative: the Personal
+Habits Questionnaire,29 which included
+a9-itemmeasureofphysicalactivityvali-
+dated for our study30 and from which we
+calculatedmetabolicequivalenttaskmin-
+utes per week,31 and the Thoughts and
+FeelingsQuestionnaire,32whichincluded
+measures of psychosocial functioning.
+Each participant self-reported race/
+ethnicity as 1 of 8 categories.
+
+Assessment of Study Outcomes
+Primary study end points were (1) the
+combined outcome of invasive breast
+cancer recurrence or new primary
+breast cancer and (2) death due to any
+cause. Recurrences were further clas-
+sified as local/regional or distant me-
+tastasis. Carcinoma in situ was not
+counted as a study outcome. The breast
+cancer event–free interval was defined
+as the time from date of enrollment to
+development of a new breast cancer
+event. Follow-up time was censored at
+the time of the participant’s death, at
+the last documented staff contact date,
+or at the study completion date (June
+1, 2006).
+
+Figure 1. Participant Flow
+
+7572 Breast cancer patients screened
+
+4463 Excluded
+
+2864 Did not meet inclusion criteria
+1284 Declined to participate
+315 Unable to complete run-in
+
+within 6 mo
+
+3107 Randomized
+
+2 Completed run-in
+
+but refused randomizationa
+
+1546 Randomized to intervention group
+9 Excluded postrandomization
+
+1561 Randomized to comparison group
+10 Excluded postrandomization
+
+2 Ineligible due to another breast
+
+cancer event prior to randomization
+
+2 No evidence of axillary dissection
+1 Another cancer within 10-y window
+1 Stage I tumor <1 cm
+2 Ductal carcinoma in situ in
+contralateral breast prior to
+randomization
+1 Crohn disease
+
+1537 Received allocated intervention
+
+as randomized
+
+Status at end of study
+
+(June 1, 2006)
+
+1465 Vital status confirmed
+1471 Breast cancer status confirmed
+
+16 Lost to follow-up
+22 Withdrew consent
+
+5 Ineligible due to another breast
+
+cancer event prior to randomization
+
+3 No evidence of axillary dissection
+1 Another cancer within 10-y window
+1 Stage I tumor <1 cm
+
+1551 Received allocated intervention
+
+as randomized
+
+Status at end of study
+
+(June 1, 2006)
+
+1488 Vital status confirmed
+1500 Breast cancer status confirmed
+
+8 Lost to follow-up
+19 Withdrew consent
+
+1537 Included in primary analysis
+
+1551 Included in primary analysis
+
+aNot included in analysis.
+
+During semiannual telephone inter-
+views, clinical site staff queried study par-
+ticipants regarding the occurrence of out-
+come events, any hospitalization, or new
+or existing medical diagnoses. Any re-
+port of a breast cancer event or death trig-
+gered a confirmation interview and col-
+lection of medical records and/or death
+certificates. Two independent oncolo-
+gists reviewed the medical records (pa-
+thology reports and physician notes) to
+confirm reported recurrences. In cases
+of disagreement, the coordinating cen-
+ter pathologist adjudicated the out-
+come. Finally, we searched the Na-
+tional Death Index using Social Security
+number, name, and date of birth.
+
+Statistical Analysis
+Participants were randomly assigned to
+the intervention or comparison group
+using a random permuted-block design
+stratified by tumor stage, age, and clini-
+cal site. The allocation of participants was
+
+conducted by the clinical site coordina-
+tor running the study’s randomization
+computer program, which automati-
+cally stamped the assigned study group
+in the database. An independent data and
+safety monitoring committee con-
+ducted a blind review of potential post-
+randomization exclusions.20
+
+Baseline group comparisons of demo-
+graphic, anthropometric, clinical, and
+dietary measures were conducted with
+2-sided t tests, rank-sum tests, or ␹2
+tests. We based the primary analysis of
+disease-free survival on the intention-
+to-treat principle using time-to-event
+methods. A 2-sided log-rank test was
+performed with P⬍.041 considered sta-
+tistically significant (to account for in-
+terim analyses undertaken at the re-
+quest of the data and safety monitoring
+committee). Both unadjusted and ad-
+justed hazard ratios were computed. We
+fit a Cox model stratified by stage, age,
+and clinical site.
+
+©2007 American Medical Association. All rights reserved.
+
+(Reprinted) JAMA, July 18, 2007—Vol 298, No. 3 291
+
+Downloaded From:  by a University of Ottawa User  on 06/11/2018HIGH–VEGETABLE/FRUIT/FIBER, LOW-FAT DIET AND BREAST CANCER PROGNOSIS
+
+The frequencies of antiestrogen
+therapy use and bilateral oophorecto-
+mies differed marginally between study
+groups at baseline; therefore, these co-
+variates were also included in the model.
+However, the antiestrogen therapy vari-
+able did not satisfy the proportional haz-
+ards assumption; hence, the analysis was
+stratified by this covariate.33 Thus, the fi-
+nal model was stratified by stage of ini-
+tial tumor, age at randomization, clini-
+cal site, and antiestrogen use and was
+adjusted for oophorectomy status.
+
+The a priori analysis plan20 in-
+cluded fitting a Cox proportional haz-
+ards model to evaluate the effect of the
+intervention on key covariates. These
+included stage of disease (classified as
+I, II, or III), age at randomization (⬍55
+years vs ⱖ55 years), hormone recep-
+tor characteristics of initial tumor, body
+mass index, and years from diagnosis
+to randomization. Product terms be-
+tween randomization assignment and
+indicator variables for covariate cat-
+egories were included in Cox regres-
+
+Table 1. Baseline Characteristics of WHEL Study Participants by Study Groupa
+
+Characteristics
+
+Age at study entry, mean (SD), y
+College graduate
+Race/ethnicity
+
+White
+African American
+Hispanic
+Asian American
+Mixed/other
+
+Cancer stage at diagnosis
+
+I
+II
+IIIA
+
+Nodal statusb
+Negative
+1-3 positive nodes
+⬎3 positive nodes
+
+Hormone receptor statusb
+
+ER⫹/PR⫹
+ER⫹/PR−
+ER−/PR⫹
+ER−/PR−
+
+Initial treatment
+Mastectomy
+Breast-sparing surgery
+Radiation
+Adjuvant chemotherapy
+Ever antiestrogen use
+
+Tumor grade
+
+I (well differentiated)
+II (moderately differentiated)
+III (poorly differentiated)
+Unspecified
+
+Prior bilateral oophorectomy
+Time from diagnosis to randomization,
+
+mean (SD), mo
+
+Intervention
+(n = 1537)
+53.3 (8.9)
+853 (55.5)
+
+1306 (85.0)
+61 (4.0)
+87 (5.7)
+46 (3.0)
+37 (2.4)
+
+585 (38.1)
+876 (57.0)
+76 (4.9)
+
+879 (57.2)
+436 (28.4)
+221 (14.4)
+
+955 (62.1)
+197 (12.8)
+52 (3.4)
+300 (19.5)
+
+812 (52.8)
+725 (47.2)
+937 (61.0)
+1095 (71.2)
+1067 (69.4)
+
+239 (15.6)
+620 (40.3)
+551 (35.9)
+127 (8.3)
+223 (14.6)
+23.6 (12.5)
+
+Comparison
+(n = 1551)
+53.0 (9.0)
+820 (52.9)
+
+1328 (85.6)
+57 (3.7)
+78 (5.0)
+50 (3.2)
+38 (2.5)
+
+606 (39.1)
+867 (55.9)
+78 (5.0)
+
+896 (57.8)
+448 (28.9)
+207 (13.4)
+
+948 (61.1)
+169 (10.9)
+77 (5.0)
+319 (20.6)
+
+801 (51.6)
+750 (48.4)
+962 (62.0)
+1064 (68.6)
+1012 (65.3)
+
+245 (15.8)
+620 (40.0)
+557 (35.9)
+129 (8.3)
+177 (11.4)
+23.5 (12.5)
+
+123 (7.9)
+
+Baseline eligibility for BRCA testing
+Abbreviations: ER, estrogen receptor; PR, progesterone receptor.
+a Data are expressed as No. (%) of participants unless otherwise indicated. There were no significant between-group
+differences in baseline characteristics based on ␹2 test for categorical variables or t test for continuous variables,
+except for ever antiestrogen use (P = .03) and prior bilateral oophorectomy (P = .01).
+
+132 (8.6)
+
+b Numbers do not total 3088 because of missing data.
+
+sion models. Interactions between ran-
+domization group and each covariate
+were formally tested for significance
+with likelihood ratio tests. The results
+are presented as hazard ratios and 95%
+confidence intervals.
+
+In additional analyses, we exam-
+ined possible interactions between
+study group and the baseline dietary
+factors targeted by the intervention
+(vegetable, fruit, fiber, and fat in-
+takes) to address whether the effects of
+the dietary intervention might vary by
+baseline intake level.
+
+Analyses were conducted in the sta-
+tistics software package R, version 2.3.1
+(R Foundation, Vienna, Austria; http:
+//www.r-project.org) or SAS, version 9.1.
+
+RESULTS
+Recruitment and Baseline
+Characteristics
+Study staff screened 7572 potential par-
+ticipants and randomized 3107 be-
+tween March 1995 and November 30,
+2000 (Figure 1). There was no differ-
+ence in postrandomization exclusions
+by study group (9 vs 10). The final
+study sample included 1537 women in
+the dietary intervention group and 1551
+in the study comparison group.
+
+The study end date was June 1, 2006.
+Number and frequency of reported phy-
+sician visits did not differ significantly
+between groups at any point during the
+study. We confirmed vital status on the
+study end date (Figure 1) for 95% of
+the intervention group and 96% of the
+comparison group. Breast cancer sta-
+tus was confirmed for 96% of the in-
+tervention group and 97% of the com-
+parison group.
+
+Randomization achieved highly com-
+parable groups (TABLE 1) with regard
+to demographics (ie, age, minority sta-
+tus, and education), breast cancer char-
+acteristics (ie, stage, grade, nodal in-
+volvement, hormone receptor status,
+time from breast cancer diagnosis to
+randomization, and eligibility for
+BRCA1/2 testing), and treatment (ie,
+surgery and radiation). Slight imbal-
+ances were observed between groups in
+bilateral oophorectomy, antiestrogen
+use, and chemotherapy treatment, all
+
+292 JAMA, July 18, 2007—Vol 298, No. 3 (Reprinted)
+
+©2007 American Medical Association. All rights reserved.
+
+Downloaded From:  by a University of Ottawa User  on 06/11/2018HIGH–VEGETABLE/FRUIT/FIBER, LOW-FAT DIET AND BREAST CANCER PROGNOSIS
+
+of which favored an intervention effect;
+however, no between-group differ-
+ence was observed in the percentage of
+women who received at least 1 of these
+therapies (intervention, 93.6%; com-
+parison, 92.3%; P=.12). Fourteen per-
+cent of women self-identified as mi-
+nority race/ethnicity, and these were
+fairly equally divided among African
+Americans, Hispanics, and Asian
+Americans.20
+
+Dietary Changes Between Groups
+In analyses of dietary change, only par-
+ticipants without a study end point at
+the time of assessment were included.
+A high proportion of women com-
+pleted the dietary assessments
+(TABLE 2). At baseline, no between-
+group differences were observed in in-
+takes of vegetables, fruit, or fiber or en-
+ergy intake from fat, with both groups
+consuming a daily mean of more than
+7 servings of vegetables and fruit. No
+
+between-group differences were ob-
+served in measured mean body weight
+or in energy intake.
+
+In the comparison group, consump-
+tion of vegetables, fruit, or fiber changed
+only modestly over the 6 years follow-
+ing randomization, while relative en-
+ergy intake from fat increased 13%, re-
+flecting an identified secular trend
+( J.P.P., V.A.N., L.N., et al, unpub-
+lished data, May 2007). In the inter-
+vention group, the dietary pattern
+changed substantially and a large
+(P ⬍ .001) between-group difference
+was achieved and maintained for each
+dietary target across the 6 years of the
+intervention. From no difference at
+baseline, the overall adherence score
+was 91% higher in the intervention
+group at 6 months and remained 61%
+higher than the comparison group at 6
+years. Details of changes in dietary tar-
+gets are presented elsewhere (J.P.P.,
+V.A.N., L.N., et al, unpublished data,
+
+May 2007). Using the more conserva-
+tive imputed data approach,27 at 1 year,
+the intervention group had increased
+average total vegetable and fruit in-
+take to 12 servings/d. This change in
+total vegetable and fruit intake re-
+flected a major increase in vegetable in-
+take, averaging 7.8 vegetable serv-
+ings/d at 1 year and remaining relatively
+high at 6 servings/d at the 4-year
+follow-up.
+
+At 4 years, relative differences in
+mean intake between study groups were
+⫹65% for vegetable servings, ⫹25% for
+fruit servings, ⫹30% for fiber, and −13%
+for energy intake from fat. All differ-
+ences were statistically significant at
+P⬍.001. Total plasma carotenoid con-
+centration, a biomarker of vegetable and
+fruit intake, was 73% higher in the in-
+tervention group than the comparison
+group at 1 year and 43% higher at 4
+years, differences that were statisti-
+cally significant (P ⬍ .001). In addi-
+
+Table 2. Dietary Pattern and Body Weight by Groupa
+
+Baseline
+
+6 mo
+
+12 mo
+
+24 mo
+
+36 mo
+
+48 mo
+
+72 mo
+
+Intervention group
+
+Eligible sample, No.
+Response rate, %
+
+Comparison group
+
+Eligible sample, No.
+Response rate, %
+
+Total vegetable servings/d
+
+Intervention
+Comparison
+
+Total fruit servings/d
+
+Intervention
+Comparison
+
+Fiber, g/d
+
+Intervention
+Comparison
+
+Energy from fat, %
+
+Intervention
+Comparison
+
+Adherence scoreb
+
+Intervention
+Comparison
+
+Energy intake, kcal/d
+
+Intervention
+Comparison
+Body weight, kg
+Intervention
+Comparison
+
+1537
+99.9
+
+1551
+99.8
+
+3.9 (0.05)
+3.8 (0.05)
+
+3.5 (0.05)
+3.4 (0.05)
+
+21.1 (0.21)
+21.2 (0.20)
+
+28.5 (0.18)
+28.7 (0.18)
+
+286 (3)
+283 (3)
+
+1719 (10)
+1717 (11)
+
+73.5 (0.42)
+73.3 (0.43)
+
+738
+91.3
+
+765
+96.9
+
+8.4 (0.13)
+3.9 (0.07)
+
+4.4 (0.08)
+3.6 (0.08)
+
+30.9 (0.40)
+21.4 (0.30)
+
+21.2 (0.26)
+27.8 (0.27)
+
+574 (7)
+301 (5)
+
+1619 (14)
+1615 (15)
+
+NAc
+NAc
+
+1463
+88.3
+
+1484
+93.0
+
+7.8 (0.09)
+3.9 (0.05)
+
+4.2 (0.06)
+3.4 (0.05)
+
+29.0 (0.28)
+21.0 (0.22)
+
+22.7 (0.20)
+28.4 (0.19)
+
+533 (6)
+292 (4)
+
+1603 (10)
+1605 (11)
+
+73.0 (0.45)
+73.8 (0.47)
+
+715
+85.5
+
+699
+90.6
+
+7.1 (0.13)
+3.7 (0.07)
+
+3.9 (0.08)
+3.3 (0.08)
+
+27.6 (0.41)
+20.5 (0.30)
+
+24.5 (0.29)
+29.2 (0.30)
+
+485 (8)
+282 (5)
+
+1592 (15)
+1606 (15)
+
+74.2 (0.71)
+74.0 (0.68)
+
+676
+84.8
+
+713
+89.5
+
+6.6 (0.13)
+3.7 (0.07)
+
+3.8 (0.09)
+2.9 (0.07)
+
+26.1 (0.42)
+20.0 (0.30)
+
+25.4 (0.32)
+30.6 (0.30)
+
+461 (8)
+268 (5)
+
+1523 (15)
+1601 (16)
+
+73.9 (0.73)
+74.9 (0.74)
+
+1355
+83.0
+
+1363
+88.6
+
+6.4 (0.09)
+3.7 (0.05)
+
+3.6 (0.06)
+2.8 (0.05)
+
+25.2 (0.29)
+19.3 (0.21)
+
+27.1 (0.24)
+31.4 (0.22)
+
+435 (6)
+262 (3)
+
+1552 (11)
+1574 (11)
+
+74.2 (0.51)
+74.1 (0.50)
+
+1308
+77.9
+
+1313
+86.2
+
+5.8 (0.09)
+3.6 (0.05)
+
+3.4 (0.07)
+2.6 (0.05)
+
+24.2 (0.30)
+18.9 (0.24)
+
+28.9 (0.25)
+32.4 (0.22)
+
+396 (6)
+246 (3)
+
+1538 (11)
+1559 (12)
+
+74.1 (0.54)
+73.7 (0.53)
+
+a Data are expressed as mean (SE) unless otherwise indicated.
+b Adherence score was calculated as 30 points for each vegetable or fruit serving (excluding white potatoes, juice, and iceberg lettuce); 10 points for each ounce of vegetable juice;
+5 points for each percentage point of energy from fat below 40% to a maximum of 100 points for 20% energy from fat; and 7.7 points for each gram of fiber per 1000 kcal above
+5 g/1000 kcal. Perfect adherence was 600 points.
+
+c Data for body weight are not applicable (NA) because it was not measured at 6 months.
+
+©2007 American Medical Association. All rights reserved.
+
+(Reprinted) JAMA, July 18, 2007—Vol 298, No. 3 293
+
+Downloaded From:  by a University of Ottawa User  on 06/11/2018HIGH–VEGETABLE/FRUIT/FIBER, LOW-FAT DIET AND BREAST CANCER PROGNOSIS
+
+tion, a subsample study identified
+changes in plasma triacylglycerol and
+high-density lipoprotein cholesterol
+concentrations that were specific to the
+intervention group, supporting self-
+reported changes in carbohydrate and
+fat intakes.34 Study groups differed by
+less than 80 kcal/d in energy intake and
+by less than 1 kg in body weight at any
+study point.
+
+Breast Cancer Event-Free Survival
+During the study, 518 participants had
+a breast cancer event (TABLE 3), rep-
+
+Table 3. Study Events
+
+Study Outcomes
+Confirmed breast
+cancer event
+
+Local
+Regional
+Distal
+New primary
+
+Confirmed deaths
+Breast cancer
+Other cancer
+Heart disease
+Other
+
+No. of Events
+
+Intervention Comparison
+
+256
+
+35
+10
+168
+43
+155
+127
+12
+2
+14
+
+262
+
+28
+10
+189
+35
+160
+135
+15
+5
+5
+
+resenting 256 participants (16.7%) in
+the intervention group and 262 par-
+ticipants (16.9%) in the comparison
+group. The disease-free survival curves
+were virtually identical across groups
+(FIGURE 2). The unadjusted hazard ra-
+tio is presented in Figure 2. The
+hazard ratio after adjustment for anti-
+estrogen use, oophorectomy status, and
+stratification factors (including tumor
+stage, clinic site, and age) at baseline
+was 0.96 (95% confidence interval,
+0.80-1.14; P=.63). The likelihood ra-
+tio test statistics for group interac-
+tions with age, body mass index, physi-
+cal activity, energy intake, char-
+acteristics of the original tumor (in-
+cluding hormone receptor status), and
+years from diagnosis to study entry were
+not significant (TABLE 4). Further-
+more, hazard ratios for intervention ef-
+fects within covariate strata were not
+significant (Table 4).
+
+Overall Mortality
+There were 315 deaths reported within
+the study period, with 155 (10.1%) in
+the intervention group and 160 (10.3%)
+in the comparison group (Figure 2).
+More than 80% of all deaths were due
+
+to breast cancer (Table 3). The treat-
+ment-associated hazard ratio was 0.91
+(95% confidence interval, 0.72-1.15;
+P=.43) after adjusting for antiestrogen
+use, bilateral oophorectomy, and strati-
+fication factors. The likelihood ratio test
+statistics for the group interactions with
+age, body mass index, physical activ-
+ity, energy intake, characteristics of the
+original tumor (including hormone re-
+ceptor status), and years from diagno-
+sis to study entry were not statistically
+significant, nor were significant effects
+of the intervention on mortality ob-
+served for any subgroups of women clas-
+sified by major covariates (TABLE 5).
+
+Group Effects by Baseline Quartiles
+of Dietary Intake
+Within each quartile of the targeted di-
+etary components, the intervention
+group achieved significant change from
+baseline (TABLE 6). However, there was
+no evidence of a consistent pattern of
+an intervention effect for either breast
+cancer events or mortality according to
+any baseline diet subgroup, and the
+findings that are statistically signifi-
+cant in 2 of the 40 compared strata are
+what one might expect due to chance.
+
+Figure 2. Kaplan-Meier Estimates of Disease-Free Survival and All-Cause Mortality by Diet Group
+
+Disease-Free Survival
+
+Overall Survival
+
+1.0
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+n
+o
+i
+t
+r
+o
+p
+o
+r
+P
+
+HR, 0.99; 95% CI, 0.83-1.17; P = .87
+Adjusted HR, 0.96; 95% CI, 0.80-1.14; P = .63
+
+Intervention
+Comparison
+
+1.0
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+n
+o
+i
+t
+r
+o
+p
+o
+r
+P
+
+HR, 0.97; 95% CI, 0.78-1.22; P = .82
+Adjusted HR, 0.91; 95% CI, 0.72-1.15; P = .43
+
+Intervention
+Comparison
+
+0
+
+1
+
+2
+
+4
+
+3
+7
+Years Since Randomization
+
+5
+
+6
+
+8
+
+9
+
+10
+
+0
+
+1
+
+2
+
+4
+
+3
+7
+Years Since Randomization
+
+5
+
+6
+
+8
+
+9
+
+10
+
+No. at risk
+
+Comparison
+Intervention
+
+Breast cancer events
+
+Comparison
+Intervention
+
+1551
+1537
+
+1491
+1476
+
+1436
+1422
+
+1395
+1378
+
+1353
+1343
+
+1319
+1301
+
+1113
+1087
+
+817
+811
+
+489
+505
+
+271
+278
+
+96
+95
+
+Comparison
+Intervention
+
+1551
+1537
+
+1537
+1524
+
+1516
+1509
+
+1492
+1482
+
+1463
+1452
+
+1428
+1410
+
+1220
+1185
+
+894
+891
+
+541
+561
+
+306
+314
+
+105
+108
+
+55
+56
+
+50
+50
+
+36
+35
+
+34
+26
+
+26
+27
+
+30
+24
+
+10
+18
+
+13
+7
+
+5
+4
+
+1
+9
+
+Deaths
+
+Comparison
+Intervention
+
+10
+9
+
+18
+12
+
+17
+22
+
+25
+24
+
+26
+29
+
+21
+25
+
+21
+17
+
+12
+12
+
+7
+3
+
+3
+2
+
+No. at risk
+
+CI indicates confidence interval; HR, hazard ratio. Adjusted HRs were adjusted for tumor stage, clinic site, age at randomization, antiestrogen use, and oophorectomy
+status.
+
+294 JAMA, July 18, 2007—Vol 298, No. 3 (Reprinted)
+
+©2007 American Medical Association. All rights reserved.
+
+Downloaded From:  by a University of Ottawa User  on 06/11/2018HIGH–VEGETABLE/FRUIT/FIBER, LOW-FAT DIET AND BREAST CANCER PROGNOSIS
+
+COMMENT
+In this randomized trial of a dietary in-
+tervention to achieve a substantial change
+to a diet very high in vegetables, fruit, and
+fiber and low in fat, the risk of develop-
+ing additional breast cancer events and
+survival were not altered in women pre-
+viously treated for early stage disease. No
+significant benefit in recurrence was ob-
+served overall among population sub-
+groups characterized by demographic
+characteristics, baseline diet, or initial tu-
+mor types. Although breast cancer mor-
+tality rates in the United States declined
+during the study period,35 the similarity
+in survival patterns between the WHEL
+Study groups suggests that continued fol-
+low-up would not alter the study re-
+sults.
+
+It is unlikely that our results were ma-
+terially affected by bias in assessing the
+main study end points. Follow-up of par-
+ticipants was nearly complete and did not
+differ between study groups, and we con-
+sidered only reports of recurrence and
+new primary tumors that were vali-
+dated by medical record review. We ob-
+served large and sustained between-
+group differences in vegetable and fruit
+intake, as assessed by self-report and
+plasma carotenoid concentrations, a bio-
+marker of vegetable and fruit intake. We
+also observed significant differences in
+fiber and fat intake. Although weight has
+been associated with health outcomes,
+we observed less than a 1-kg difference
+in average weight between WHEL Study
+groups at any time point. While psycho-
+social factors have been linked with
+health outcomes, we found no between-
+group differences for depression, social
+support, or quality of life during year 1,
+when the intervention was most in-
+tense.36 Therefore, we believe that our in-
+vestigation provides an adequate test of
+whether the study dietary pattern (very
+high in vegetables, fruit, and fiber and
+low in fat) provided an added benefit over
+the dietary pattern of the comparison
+group women.
+
+Many WHEL Study participants had
+likely changed their dietary pattern
+since receiving a diagnosis of breast can-
+cer37; 75% were consuming at least 5
+servings of vegetables and fruit a day
+
+Table 4. Intervention Effects on Additional Breast Cancer Events by Baseline Clinical and
+Demographic Characteristics
+
+No./Total
+
+Intervention Comparison
+
+HR (95% CI)a
+
+P
+
+Valueb
+
+Age at randomization, y
+
+⬍55
+ⱖ55
+
+Cancer stage at diagnosis
+
+I
+II
+IIIA
+
+Hormone receptor statusc
+
+ER⫹/PR⫹
+ER⫹/PR−
+ER−/PR⫹
+ER−/PR−
+
+Time from diagnosis to randomization, y
+
+ⱕ1
+⬎1 to 2
+⬎2 to 3
+⬎3 to 4
+
+Tumor differentiation
+
+I (well differentiated)
+II (moderately differentiated)
+III (poorly differentiated)
+Unspecified
+
+No. of positive nodesc
+
+0
+1-3
+4-6
+ⱖ7
+
+Tumor size, cmc
+
+0 to ⬍2
+2 to ⬍3
+3 to ⬍4
+4 to ⬍5
+ⱖ5
+
+Body mass indexd
+
+⬍25
+25 to ⬍30
+ⱖ30
+
+Physical activity, MET-min/wkc
+
+ⱕ210
+211-615
+616-1290
+⬎1290
+
+Energy intake, kcal/dc
+
+ⱕ1430
+1431-1680
+1681-1980
+⬎1980
+
+167/908
+89/629
+
+50/585
+178/876
+28/76
+
+140/955
+37/197
+11/52
+64/300
+
+59/352
+83/488
+64/375
+50/322
+
+20/239
+94/620
+121/551
+21/127
+
+93/879
+83/436
+39/116
+41/105
+
+82/752
+88/421
+30/174
+21/79
+35/109
+
+161/917
+101/634
+
+55/606
+182/867
+25/78
+
+145/948
+32/169
+18/77
+62/319
+
+65/350
+90/508
+52/372
+55/321
+
+22/245
+100/620
+114/557
+26/129
+
+117/896
+69/448
+31/115
+45/92
+
+88/769
+86/441
+41/160
+20/72
+27/106
+
+1.05 (0.84-1.30)
+0.89 (0.67-1.18)
+
+0.94 (0.64-1.38)
+0.97 (0.79-1.19)
+1.19 (0.69-2.04)
+
+0.95 (0.76-1.20)
+0.97 (0.60-1.56)
+0.89 (0.42-1.88)
+1.14 (0.80-1.61)
+
+0.88 (0.62-1.26)
+0.95 (0.71-1.28)
+1.26 (0.87-1.82)
+0.90 (0.61-1.32)
+
+0.90 (0.49-1.65)
+0.93 (0.70-1.24)
+1.09 (0.85-1.41)
+0.83 (0.47-1.48)
+
+0.80 (0.61-1.06)
+1.25 (0.91-1.72)
+1.29 (0.80-2.06)
+0.75 (0.49-1.15)
+
+0.94 (0.70-1.28)
+1.09 (0.81-1.47)
+0.62 (0.39-1.00)
+0.90 (0.49-1.67)
+1.32 (0.80-2.18)
+
+107/652
+81/475
+68/410
+
+112/678
+68/480
+82/393
+
+0.99 (0.76-1.29)
+1.22 (0.88-1.69)
+0.79 (0.57-1.09)
+
+68/397
+62/368
+65/375
+49/351
+
+63/377
+59/384
+64/390
+70/383
+
+66/350
+71/383
+54/374
+60/387
+
+73/396
+64/386
+54/379
+70/386
+
+0.90 (0.64-1.27)
+0.91 (0.64-1.27)
+1.22 (0.85-1.74)
+0.88 (0.60-1.28)
+
+0.89 (0.64-1.25)
+0.90 (0.63-1.28)
+1.16 (0.81-1.66)
+1.04 (0.75-1.45)
+
+.35
+
+.74
+
+.85
+
+.50
+
+.75
+
+.07
+
+.22
+
+.17
+
+.56
+
+.69
+
+PR, progesterone receptor.
+
+Abbreviations: CI, confidence interval; ER, estrogen receptor; HR, hazard ratio; MET, metabolic equivalent task;
+a Hazard ratios of group effect were derived from Cox model stratified by covariate categories.
+b P values based on likelihood ratio test for group ⫻ covariate interaction.
+c Numbers do not total 3088 because of missing data.
+d Calculated as weight in kilograms divided by height in meters squared.
+
+©2007 American Medical Association. All rights reserved.
+
+(Reprinted) JAMA, July 18, 2007—Vol 298, No. 3 295
+
+Downloaded From:  by a University of Ottawa User  on 06/11/2018HIGH–VEGETABLE/FRUIT/FIBER, LOW-FAT DIET AND BREAST CANCER PROGNOSIS
+
+at randomization, an intake that is con-
+siderably higher than that observed in
+other populations of breast cancer sur-
+
+vivors.38,39 However, we observed little
+evidence of recurrence benefit in the
+quartile of the intervention group that
+
+Table 5. Intervention Effects on All-Cause Mortality by Baseline Demographic and Clinical
+Characteristics
+
+No./Total
+
+Intervention Comparison
+
+HR (95% CI)a
+
+P
+
+Valueb
+
+Age at randomization, y
+
+⬍55
+ⱖ55
+
+Cancer stage at diagnosis
+
+I
+II
+IIIA
+
+Hormone receptor statusc
+
+ER⫹/PR⫹
+ER⫹/PR−
+ER−/PR⫹
+ER−/PR−
+
+Time from diagnosis to randomization, y
+
+ⱕ1
+⬎1 to 2
+⬎2 to 3
+⬎3 to 4
+
+Tumor differentiation
+
+I (well differentiated)
+II (moderately differentiated)
+III (poorly differentiated)
+Unspecified
+
+No. of positive nodesc
+
+0
+1-3
+4-6
+ⱖ7
+
+Tumor size, cmc
+
+0 to ⬍2
+2 to ⬍3
+3 to ⬍4
+4 to ⬍5
+ⱖ5
+
+Body mass indexd
+
+⬍25
+25 to ⬍30
+ⱖ30
+
+Physical activity, MET-min/wkc
+
+ⱕ210
+211-615
+616-1290
+⬎1290
+
+Energy intake, kcal/dc
+
+ⱕ1430
+1431-1680
+1681-1980
+⬎1980
+
+84/908
+71/629
+
+33/585
+102/876
+20/76
+
+79/955
+25/197
+7/52
+44/300
+
+46/352
+51/488
+34/375
+24/322
+
+13/239
+58/620
+75/551
+9/127
+
+58/879
+48/436
+21/116
+28/105
+
+42/752
+59/421
+17/174
+13/79
+23/109
+
+57/652
+48/475
+50/410
+
+43/397
+45/368
+36/375
+25/351
+
+44/377
+32/384
+34/390
+45/383
+
+85/917
+75/634
+
+0.99 (0.74-1.34)
+0.95 (0.69-1.32)
+
+32/606
+107/867
+21/78
+
+84/948
+20/169
+10/77
+42/319
+
+47/350
+58/508
+28/372
+27/321
+
+7/245
+64/620
+74/557
+15/129
+
+67/896
+39/448
+19/115
+35/92
+
+51/769
+50/441
+28/160
+12/72
+19/106
+
+61/678
+44/480
+55/393
+
+47/350
+45/383
+35/374
+27/387
+
+48/396
+40/386
+31/379
+40/386
+
+1.07 (0.66-1.73)
+0.94 (0.71-1.23)
+0.96 (0.52-1.77)
+
+0.92 (0.68-1.26)
+1.03 (0.57-1.85)
+1.08 (0.41-2.83)
+1.13 (0.74-1.73)
+
+0.97 (0.64-1.45)
+0.90 (0.62-1.32)
+1.28 (0.77-2.11)
+0.86 (0.50-1.49)
+
+1.80 (0.72-4.52)
+0.90 (0.63-1.28)
+1.04 (0.75-1.43)
+0.62 (0.27-1.42)
+
+0.89 (0.62-1.26)
+1.27 (0.83-1.94)
+1.09 (0.59-2.03)
+0.64 (0.39-1.05)
+
+0.83 (0.55-1.26)
+1.27 (0.87-1.85)
+0.53 (0.29-0.96)
+0.94 (0.43-2.06)
+1.21 (0.66-2.22)
+
+0.97 (0.67-1.38)
+1.11 (0.74-1.67)
+0.86 (0.59-1.27)
+
+0.80 (0.53-1.22)
+1.04 (0.69-1.58)
+1.02 (0.64-1.63)
+1.01 (0.58-1.73)
+
+0.95 (0.63-1.43)
+0.77 (0.49-1.23)
+1.08 (0.66-1.75)
+1.17 (0.77-1.79)
+
+.85
+
+.90
+
+.88
+
+.72
+
+.32
+
+.20
+
+.13
+
+.70
+
+.81
+
+.62
+
+PR, progesterone receptor.
+
+Abbreviations: CI, confidence interval; ER, estrogen receptor; HR, hazard ratio; MET, metabolic equivalent task;
+a Hazard ratios of group effect were derived from Cox model stratified by covariate categories.
+b P values based on likelihood ratio test for group ⫻ covariate interaction.
+c Numbers do not total 3088 because of missing data.
+d Calculated as weight in kilograms divided by height in meters squared.
+
+was consuming less than 5 daily serv-
+ings of vegetables and fruit at base-
+line, despite a major change in dietary
+pattern that was specific to the inter-
+vention group. Previously, in longitu-
+dinal analyses of the comparison group
+only, we observed a possible thresh-
+old effect on recurrence for low levels
+of baseline plasma carotenoid concen-
+tration13 and also that a baseline com-
+bination of 5 fruits and vegetables a day
+and physical activity equivalent to walk-
+ing at a moderate pace for 30 minutes,
+6 d/wk, was associated with lower mor-
+tality.14 However, in this analysis of data
+from the randomized trial, a major in-
+crease over the 5-a-day dietary pattern
+was not associated with reduced breast
+cancer events or mortality.
+
+We suggest caution in applying our
+findings to groups of women other than
+those represented in our study, which
+was confined to women who had al-
+ready completed initial therapy for
+breast cancer and excluded women with
+diagnoses after age 70 years and those
+with stage 1 tumors smaller than 1 cm.
+Also, only 14% of our study popula-
+tion was self-identified as from Afri-
+can American, Hispanic, and Asian
+American racial/ethnic groups.
+
+Our finding that reducing dietary fat
+intake did not benefit breast cancer out-
+comes appears at odds with the in-
+terim analyses from the Women’s In-
+tervention Nutrition Study (WINS),
+which concluded that reducing di-
+etary fat intake was marginally associ-
+ated with longer relapse-free survival
+of breast cancer patients, an effect most
+noted in the subgroup with estrogen-
+negative tumors. However, differen-
+tial follow-up between intervention and
+comparison groups may have influ-
+enced the WINS finding.40 Further-
+more, the reduced body weight ob-
+served only in the intervention group
+might partially account for the im-
+proved relapse-free survival in WINS.41
+In addition, although WINS reported
+an 8% to 9% between-group differ-
+ence in energy intake from fat main-
+tained through 5 years, they reported
+a higher rate of missing dietary intake
+data in the intervention group. At the
+
+296 JAMA, July 18, 2007—Vol 298, No. 3 (Reprinted)
+
+©2007 American Medical Association. All rights reserved.
+
+Downloaded From:  by a University of Ottawa User  on 06/11/2018HIGH–VEGETABLE/FRUIT/FIBER, LOW-FAT DIET AND BREAST CANCER PROGNOSIS
+
+3-year point, data were available for
+67% of the intervention group vs 74%
+of the comparison group. At 5 years,
+data were available for 39% of the in-
+tervention group and 44% of the com-
+parison group. If even moderate pro-
+portions of nonresponders increased
+their fat intake, the between-group
+effect could well be less than the abso-
+lute 4% difference that we observed. Fi-
+nally, it is important to note that the
+women enrolled in WINS differed from
+those in the WHEL trial regarding prog-
+nosis following the original diagnosis,
+age, and treatment regimen.
+
+Although the WHEL Study’s inter-
+vention diet focused mainly on increas-
+ing vegetable, fruit, and fiber intake,
+there was a significant between-group
+difference in fat intake. However, this
+difference may not have been sufficient
+to test the dietary fat hypothesis ad-
+equately. Unlike the changes observed
+for intakes of vegetables, fruit and fi-
+ber, the smallest dietary fat change was
+made by participants in the quartile that
+was furthest from the study target at
+baseline. Nonetheless, our analyses did
+not suggest an effect across quartiles of
+fat intake at baseline, nor did our re-
+sults indicate an intervention effect in
+subgroups defined by hormone recep-
+tor status, as was seen in WINS.
+
+The absence of an observed effect on
+breast cancer events or all-cause mor-
+tality over a 7.3-year follow-up period
+in this study does not rule out the pos-
+sibility of improved longer-term sur-
+vivorship within this cohort. We did not
+explore the possibility that increased ex-
+ercise and weight loss might benefit
+breast cancer survivors. Finally, our
+study did not address whether consum-
+ing the high–vegetable/fruit/fiber and
+low-fat diet of our study intervention
+early in life would alter risk of pri-
+mary breast cancer.
+
+In conclusion, during a mean 7.3-year
+follow-up, we found no evidence that
+adoption of a dietary pattern very high
+in vegetables, fruit, and fiber and low in
+fat vs a 5-a-day fruit and vegetable diet
+preventsbreastcancerrecurrenceordeath
+among women with previously treated
+early stage breast cancer.
+
+Table 6. Intervention Effects on Additional Breast Cancer Events and All-Cause Mortality by
+Baseline Quartiles of Dietary Intake
+
+Variables by Baseline Quartilea
+Vegetables and fruit, servings/d
+
+ⱕ4.94
+4.95-6.74
+6.75-8.92
+⬎8.92
+
+Vegetables, servings/d
+
+ⱕ2.55
+2.56-3.54
+3.55-4.80
+⬎4.80
+
+Fruit, servings/d
+
+ⱕ1.76
+1.77-2.93
+2.94-4.38
+⬎4.38
+Fiber, g/d
+ⱕ15.6
+15.7-19.9
+20.0-25.2
+⬎25.2
+
+No. of Participants
+
+at Baseline
+
+(Difference, %)b
+
+772 (⫹60)
+771 (⫹52)
+768 (⫹53)
+770 (⫹54)
+
+772 (⫹82)
+770 (⫹75)
+769 (⫹74)
+770 (⫹68)
+
+771 (⫹40)
+771 (⫹21)
+772 (⫹27)
+767 (⫹27)
+
+771 (⫹40)
+772 (⫹33)
+769 (⫹28)
+769 (⫹28)
+
+Breast Cancer
+
+Eventsc
+
+Deathsc
+
+No. HR (95% CI)d No. HR (95% CI)d
+
+152 0.97 (0.71-1.34)
+122 1.23 (0.86-1.75)
+144 0.93 (0.67-1.30)
+99 0.83 (0.56-1.24)
+
+88 0.75 (0.49-1.14)
+76 1.25 (0.80-1.97)
+83 1.28 (0.83-1.98)
+67 0.76 (0.47-1.23)
+
+162 1.13 (0.83-1.54) 101 1.05 (0.71-1.55)
+67 0.85 (0.52-1.38)
+127 0.98 (0.70-1.39)
+76 0.85 (0.54-1.33)
+118 0.85 (0.59-1.22)
+110 0.97 (0.67-1.40)
+70 1.19 (0.74-1.90)
+
+139 1.02 (0.73-1.42)
+129 1.02 (0.72-1.44)
+126 1.11 (0.78-1.58)
+123 0.81 (0.57-1.16)
+
+85 0.75 (0.49-1.15)
+77 1.02 (0.65-1.60)
+77 1.60 (1.02-2.51)
+75 0.76 (0.48-1.19)
+
+135 0.97 (0.70-1.36)
+132 1.07 (0.76-1.51)
+131 1.07 (0.76-1.51)
+119 0.83 (0.58-1.20)
+
+83 0.69 (0.45-1.07)
+83 1.12 (0.72-1.72)
+87 1.36 (0.89-2.08)
+61 0.80 (0.48-1.34)
+
+Fat, % of energy per d
+
+ⱕ23.8
+23.9-28.6
+28.7-33.4
+⬎33.4
+
+782 (−17)
+768 (−13)
+766 (−15)
+765 (−10)
+Abbreviations: CI, confidence interval; HR, hazard ratio.
+a Seven participants (4 in comparison group and 3 in intervention group) were missing baseline dietary data.
+b Percentage relative difference in mean dietary intake ([intervention − control]/control) between intervention and com-
+c Likelihood ratio test for group ⫻ diet quartile interactions was not significant at P ⬍ .05 level for any diet component
+d Hazard ratios were derived from Cox model stratified by quartiles of dietary intake.
+
+106 0.72 (0.49-1.06)
+149 1.27 (0.92-1.76)
+122 0.86 (0.60-1.23)
+140 1.13 (0.81-1.58)
+
+59 0.73 (0.44-1.22)
+91 1.61 (1.06-2.45)
+78 0.73 (0.46-1.14)
+86 0.98 (0.64-1.49)
+
+parison groups at 4 years.
+
+(except energy from fat and mortality; P = .04).
+
+Author Affiliations: Moores UCSD Cancer Center, Uni-
+versity of California, San Diego, La Jolla (Drs Pierce,
+Natarajan, Parker, Rock, Al-Delaimy, Bardwell, Hol-
+lenbach, Madlensky, and Wasserman and Mss Flatt,
+Kealey, Faerber, and Newman); Kaiser Permanente
+Northern California, Division of Research, Oakland (Dr
+Caan); Fred Hutchinson Cancer Research Center, Se-
+attle, Washington (Dr Greenberg); Stanford Compre-
+hensive Cancer Center (Dr Carlson) and Stanford Pre-
+vention Research Center (Dr Stefanick), Stanford
+University, Stanford, California; Department of Fam-
+ily and Preventive Medicine, Division of Biostatistics,
+University of California, San Diego (Ms Emond); De-
+partment of Public Health Sciences, University of Cali-
+fornia, Davis (Dr Gold); M. D. Anderson Cancer Cen-
+ter, University of Texas, Houston (Drs Hajek and Jones);
+Center for Health Research, Portland, Oregon (Dr
+Karanja); Roswell Park Cancer Institute, Buffalo, NY
+(Dr Marshall); and Department of Family and Com-
+munity Medicine (Dr Ritenbaugh) and Arizona Can-
+cer Center, Department of Nutritional Sciences (Dr
+Thomson), University of Arizona, Tucson.
+Author Contributions: Dr Pierce had full access to all
+of the data in the study and takes responsibility for
+the integrity of the data and the accuracy of the data
+analysis.
+Study concept and design: Pierce, Natarajan, Parker,
+Greenberg, Carlson, Faerber, Hajek, Jones, Ritenbaugh,
+Wasserman.
+
+Acquisition of data: Caan, Parker, Kealey, Carlson,
+Gold, Hollenbach, Karanja, Marshall, Newman,
+Ritenbaugh, Thomson, Stefanick.
+Analysis and interpretation of data: Pierce, Natarajan,
+Greenberg, Flatt, Rock, Al-Delaimy, Bardwell, Emond,
+Faerber, Gold, Madlensky, Stefanick.
+Drafting of the manuscript: Pierce, Natarajan,
+Greenberg, Flatt.
+Critical revision of the manuscript for important in-
+tellectual content: Pierce, Natarajan, Caan, Parker,
+Greenberg, Flatt, Rock, Kealey, Al-Delaimy, Bardwell,
+Carlson, Emond, Faerber, Gold, Hajek, Hollenbach,
+Jones, Karanja, Madlensky, Marshall, Newman,
+Ritenbaugh, Thomson, Wasserman, Stefanick.
+Statistical analysis: Natarajan, Flatt, Emond, Marshall.
+Obtained funding: Pierce, Caan, Greenberg, Bardwell,
+Gold, Hollenbach, Jones, Marshall, Newman,
+Ritenbaugh, Wasserman, Stefanick.
+Administrative, technical, or material support: Flatt,
+Rock, Kealey, Al-Delaimy, Carlson, Faerber, Hajek,
+Karanja, Madlensky, Newman.
+Study supervision: Pierce, Natarajan, Caan, Parker,
+Gold, Hollenbach, Jones, Karanja, Newman, Thomson,
+Stefanick.
+Financial Disclosures: None reported.
+WHEL Study Investigators: Research Team by Clini-
+cal Site: WHEL Study Coordinating Center: Univer-
+sity of California, San Diego (UCSD), Cancer Preven-
+tion and Control Program, Moores UCSD Cancer
+
+©2007 American Medical Association. All rights reserved.
+
+(Reprinted) JAMA, July 18, 2007—Vol 298, No. 3 297
+
+Downloaded From:  by a University of Ottawa User  on 06/11/2018HIGH–VEGETABLE/FRUIT/FIBER, LOW-FAT DIET AND BREAST CANCER PROGNOSIS
+
+Center, San Diego ( John P. Pierce, PhD, Susan Faer-
+ber, BA, Barbara A. Parker, MD, Loki Natarajan, PhD,
+Cheryl L. Rock, PhD, RD, Vicky A. Newman, MS, RD,
+Shirley W. Flatt, MS, Sheila Kealey, MPH, Linda
+Wasserman, MD, PhD, Wayne A. Bardwell, PhD, Lisa
+Madlensky, PhD); WHEL Study Dietary Counselors:
+Sheila K. Fisher, Joyce Bertaux, Leslie Barbier, Sharon
+Bonner, Prudy Galagan, Carrie Gonzales, Kaylene
+Grove, Pam Herskovitz, Susie Newmiller, Lita Sim-
+mons, Susan Wancewicz; WHEL Study Dietary As-
+sessors: Andrea Jackson, Lita Simmons, Denice Mu-
+rillo, Sophie Levy, Nichole Brumley; Laboratory
+Analysis: Dennis Heath, MS, Mila Pruitt; Clinical Sites:
+Center for Health Research–Portland, Portland, Or-
+egon (Njeri Karanja, PhD, Mark U. Rarick, MD, Lucy
+Fulton, DTR, RD); Kaiser Permanente Northern Cali-
+fornia, Oakland (Bette J. Caan, DrPH, Lou Fehren-
+bacher, MD, Sarah Josef, RD); Stanford Prevention Re-
+search Center, Stanford University, Stanford, California
+(Marcia L. Stefanick, PhD, Robert Carlson, MD,
+Charlene Kranz, RD, Gwen D’Antoni, RD, Natalie
+Ledesma, MS, RD, Monique Schloetter, MS, RD); Uni-
+versity of Arizona, Tucson and Phoenix (Cynthia Thom-
+son, PhD, RD, James Warneke, MD, Cheryl Riten-
+baugh, PhD, MPH, Tina Green, MS, RD, Emily Nardi,
+MPH, RD); University of California, Davis (Ellen B. Gold,
+PhD, Sidney Scudder, MD, Stephanie Burns, Linda
+Bresnick); University of California, San Diego, Moores
+UCSD Cancer Center, San Diego (Kathryn A. Hollen-
+bach, PhD, Vicky Jones, MD, Michelle McKinney, Di-
+ana Wiggins, RD); University of Texas M. D. Ander-
+son Cancer Center, Houston (Lovell A. Jones, PhD,
+Richard Hajek, PhD, Richard Theriault, DO, Taylor Tran,
+RD, LD).
+Funding/Support: The WHEL Study was initiated with
+the support of the Walton Family Foundation and con-
+tinued with funding from National Cancer Institute
+grant CA 69375. Some of the data were collected from
+general clinical research centers (National Institutes of
+Health grants M01-RR00070, M01-RR00079, and
+M01-RR00827).
+Role of the Sponsor: The funding sponsors had no role
+in the design, protocol development, or conduct of
+the trial or in data collection, data analysis, or manu-
+script preparation.
+Additional Contributions: We thank the WHEL Study’s
+data and safety monitoring committee (Brian Hender-
+son, MD, Ross Prentice, PhD, Marion Nestle, MPH,
+PhD, and Charles Loprinzi, MD) and Sharon Ross, PhD
+(National Cancer Institute project officer) for their as-
+sistance with review of the article. We also acknowl-
+edge Kaylene Grove, BS, BA, Christine Hayes, MA, and
+Hollie Ward, BA, Cancer Prevention and Control Pro-
+gram, UCSD, for their administrative support and as-
+sistance with manuscript preparation. Finally, we are
+especially grateful to our dietary counseling team and
+WHEL Study participants for their sustained commit-
+ment and dedication to this long-term trial.
+
+REFERENCES
+
+1. Steinmetz KA, Potter JD. Vegetables, fruit, and can-
+cer, II: mechanisms. Cancer Causes Control. 1991;
+2(6):427-442.
+2. World Cancer Research Fund. Food, Nutrition and
+the Prevention of Cancer: A Global Perspective. Wash-
+ington, DC: World Cancer Research Fund, American
+Institute for Cancer Research; 1997.
+3. Ingram D. Diet and subsequent survival in women
+with breast cancer. Br J Cancer. 1994;69(3):592-595.
+4. Jain M, Miller AB, To T. Premorbid diet and the prog-
+nosis of women with breast cancer. J Natl Cancer Inst.
+1994;86(18):1390-1397.
+
+5. Holm LE, Nordevang E, Hjalmar ML, Lidbrink E,
+Callmer E, Nilsson B. Treatment failure and dietary hab-
+its in women with breast cancer. J Natl Cancer Inst.
+1993;85(1):32-36.
+6. Rohan TE, Hiller JE, McMichael AJ. Dietary factors
+and survival from breast cancer. Nutr Cancer.
+1993;20(2):167-177.
+7. Zhang S, Folsom AR, Sellers TA, Kushi LH, Potter
+JD. Better breast cancer survival for postmenopausal
+women who are less overweight and eat less fat: the
+Iowa Women’s Health Study. Cancer. 1995;76(2):275-
+283.
+8. Nomura AM, Marchand LL, Kolonel LN, Hankin
+JH. The effect of dietary fat on breast cancer survival
+among Caucasian and Japanese women in Hawaii.
+Breast Cancer Res Treat. 1991;18(suppl 1):S135-
+S141.
+9. Gregorio DI, Emrich LJ, Graham S, Marshall JR, Ne-
+moto T. Dietary fat consumption and survival among
+women with breast cancer. J Natl Cancer Inst. 1985;
+75(1):37-41.
+10. Rock CL, Demark-Wahnefried W. Nutrition and
+survival after the diagnosis of breast cancer: a review
+of the evidence. J Clin Oncol. 2002;20(15):3302-3316.
+11. Mai V, Kant AK, Flood A, Lacey JV Jr, Schairer
+C, Schatzkin A. Diet quality and subsequent cancer
+incidence and mortality in a prospective cohort of
+women. Int J Epidemiol. 2005;34(1):54-60.
+12. Kroenke CH, Fung TT, Hu FB, Holmes MD. Di-
+etary patterns and survival after breast cancer diagnosis.
+J Clin Oncol. 2005;23(36):9295-9303.
+13. Rock CL, Flatt SW, Natarajan L, et al. Plasma
+carotenoids and recurrence-free survival in women with
+a history of breast cancer. J Clin Oncol. 2005;23
+(27):6631-6638.
+14. Pierce JP, Stefanick ML, Flatt SW, et al. Greater
+survival after breast cancer in physically active women
+with high vegetable-fruit intake regardless of obesity.
+J Clin Oncol. 2007;25(17):2345-2351.
+15. McEligot AJ, Largent J, Ziogas A, Peel D, Anton-
+Culver H. Dietary fat, fiber, vegetable, and micronu-
+trients are associated with overall survival in post-
+menopausal women diagnosed with breast cancer. Nutr
+Cancer. 2006;55(2):132-140.
+16. Davies AA, Davey Smith G, Harbord R, et al. Nu-
+tritional interventions and outcome in patients with
+cancer or preinvasive lesions: systematic review. J Natl
+Cancer Inst. 2006;98(14):961-973.
+17. Harashima E, Nakagawa Y, Urata G, Tsuji K, Shi-
+rataka M, Matsumura Y. Time-lag estimate between
+dietary intake and breast cancer mortality in Japan.
+Asia Pac J Clin Nutr. 2007;16(1):193-198.
+18. Chlebowski RT, Blackburn GL, Thomson CA, et al.
+Dietary fat reduction and breast cancer outcome: interim
+efficacy results from the Women’s Intervention Nutrition
+Study. J Natl Cancer Inst. 2006;98(24):1767-1776.
+19. Clark C. Study will put folklore on diet to test. San
+Diego Union-Tribune. March 11, 1998:A1, A17.
+20. Pierce JP, Faerber S, Wright FA, et al. A random-
+ized trial of the effect of a plant-based dietary pat-
+tern on additional breast cancer events and survival:
+the Women’s Healthy Eating and Living (WHEL) Study.
+Control Clin Trials. 2002;23(6):728-756.
+21. Pierce JP, Newman VA, Flatt SW, et al. Tele-
+phone counseling intervention increases intakes of mi-
+cronutrient- and phytochemical-rich vegetables, fruit
+and fiber in breast cancer survivors. J Nutr. 2004;
+134(2):452-458.
+22. National Cancer Institute. Action Guide for Healthy
+Eating. Bethesda, MD: National Cancer Institute; 1995.
+23. National Cancer Institute. Eat 5 Fruits and Veg-
+etables a Day. Washington, DC: National Cancer In-
+stitute; 1995.
+24. Lachin JM, Foulkes MA. Evaluation of sample size
+
+and power for analyses of survival with allowance for
+nonuniform patient entry, losses to follow-up, non-
+compliance, and stratification. Biometrics. 1986;
+42(3):507-519.
+25. Bandura A. Social Foundations of Thought and
+Action: A Social Cognitive Theory. Englewood Cliffs,
+NJ: Prentice Hall; 1986.
+26. US Department of Agriculture/US Department of
+Health and Human Services. Dietary Guidelines for
+Americans: Home Health and Garden Bulletin No. 232.
+Washington, DC: US Dept of Health and Human Ser-
+vices; 1995.
+27. Little RJA, Rubin DB. Statistical Analysis With Miss-
+ing Data. New York, NY: John Wiley & Sons; 1987.
+28. Myriad Genetic Laboratories. BRCA risk calcula-
+tor and mutation prevalence tables. http://www
+.myriadtests.com/provider/brca-mutation-prevalence
+.htm. Accessed June 4, 2007.
+29. Women’s Health Initiative. WHI Personal Habits
+Questionnaire. http://www.whiscience.org/data/forms
+/F34v2.pdf. Accessed June 4, 2007.
+30. Johnson-Kozlow M, Rock CL, Gilpin EA, Hollen-
+bach KA, Pierce JP. Validation of the WHI Brief Physi-
+cal Activity Questionnaire among women diagnosed
+with breast cancer. Am J Health Behav. 2007;31(2):
+193-202.
+31. Hong S, Bardwell WA, Natarajan L, et al. Corre-
+lates of physical activity level in breast cancer survi-
+vors participating in the Women’s Healthy Eating and
+Living (WHEL) Study. Breast Cancer Res Treat. 2007;
+101(2):225-232.
+32. Women’s Health Initiative. WHI Thoughts and
+Feelings Questionnaire. http://www.whiscience.org
+/data/dd_byset/f37_dd.pdf. Accessed June 4, 2007.
+33. Therneau TM, Grambsch PM. Modeling Sur-
+vival Data: Extending the Cox Model, Statistics for
+Biology and Health. New York, NY: Springer-Verlag;
+2000.
+34. Rock CL, Flatt SW, Thomson CA, et al. Plasma
+triacylglycerol and HDL cholesterol concentrations con-
+firm self-reported changes in carbohydrate and fat in-
+takes in women in a diet intervention trial. J Nutr. 2004;
+134(2):342-347.
+35. Jatoi I, Chen BE, Anderson WF, Rosenberg PS.
+Breast cancer mortality trends in the United States ac-
+cording to estrogen receptor status and age at
+diagnosis. J Clin Oncol. 2007;25(13):1683-1690.
+36. Bardwell W, Major J, Pierce JP. Quality of life
+change in breast cancer survivors participating in the
+Women’s Healthy Eating and Living (WHEL) Study.
+Ann Behav Med. 2003;25(suppl):52.
+37. Thomson CA, Flatt SW, Rock CL, Ritenbaugh C,
+Newman V, Pierce JP. Increased fruit, vegetable and
+fiber intake and lower fat intake reported among
+women previously treated for invasive breast cancer.
+J Am Diet Assoc. 2002;102(6):801-808.
+38. Caan B, Sternfeld B, Gunderson E, Coates A, Que-
+senberry C, Slattery ML. Life After Cancer Epidemi-
+ology (LACE) study: a cohort of early stage breast can-
+cer survivors (United States). Cancer Causes Control.
+2005;16(5):545-556.
+39. Wayne SJ, Lopez ST, Butler LM, Baumgartner KB,
+Baumgartner RN, Ballard-Barbash R. Changes in di-
+etary intake after diagnosis of breast cancer. J Am Diet
+Assoc. 2004;104(10):1561-1568.
+40. Pierce JP, Natarajan L, Marshall J, Messer K. Di-
+etary fat reduction and breast cancer outcome: in-
+terim efficacy results from the Women’s Intervention
+Nutrition Study [letter]. J Natl Cancer Inst. 2007;
+99(11):900.
+41. Thie´ baut AC, Schatzkin A, Ballard-Barbash R, Kip-
+nis V. Dietary fat and breast cancer: contributions from
+a survival trial. J Natl Cancer Inst. 2006;98(24):1753-
+1755.
+
+298 JAMA, July 18, 2007—Vol 298, No. 3 (Reprinted)
+
+©2007 American Medical Association. All rights reserved.
+
+Downloaded From:  by a University of Ottawa User  on 06/11/2018

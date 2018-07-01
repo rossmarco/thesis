@@ -1,0 +1,722 @@
+The Journal of Nutrition
+Biochemical, Molecular, and Genetic Mechanisms
+
+Dietary Red Raspberry Reduces Colorectal
+Inflammation and Carcinogenic Risk in Mice
+with Dextran Sulfate Sodium–Induced Colitis
+Shima Bibi,1 Min Du,2 and Mei-Jun Zhu1
+
+1School of Food Science and 2Department of Animal Science, Washington State University, Pullman, WA
+
+Abstract
+
+Background: Ulcerative colitis causes recurring intestinal mucosal injury and sustained inflammation, increasing the
+likelihood of colorectal cancer (CRC) development. Dietary red raspberry (RB) is a rich source of phytonutrients known
+to have anti-inflammatory activity; however, the role of RB on CRC prevention in chronic colitis has not been examined.
+Objective: This study examined the effects of dietary RB supplementation on inflammation, epithelium repair, and
+oncogenic signaling in dextran sulfate sodium (DSS)–induced chronic colitis in mice.
+Methods: Six-week-old male C57BL/6J mice were fed a control or RB (5% of dry feed weight; n = 12/group) diet for
+10 wk. Starting from the fourth week, mice were administered 2 repeated cycles of 1% DSS (7-d DSS treatment plus
+14-d recovery) and were monitored daily for disease activity index (DAI) score. Colonic tissues were collected at the
+end of the study for histochemical, immunohistochemical, and biochemical analysis of inflammation, differentiation and
+proliferation markers.
+Results: RB supplementation reduced the DAI score and histologic damage (by 38.9%; P ≤ 0.01), expression of in-
+flammatory mediators (by 20–70%; P ≤ 0.01), infiltration of CD4 T cells (by 50%; P ≤ 0.05), and α4β7 integrin and
+related adhesion molecules (by 33.3%; P ≤ 0.01). Furthermore, RB supplementation facilitated epithelium repair, as
+evidenced by enhanced goblet cell density, expression of transcription factors including Kruppel-like factor 4 (Klf4) and
+Hairy and enhancer of split 1 (Hes1), terminal differentiation markers, mucin 2 (Muc2), and intestinal alkaline phosphatase
+(by 20–200%; P ≤ 0.01). Conversely, proliferating cell nuclear antigen (by 70%; P ≤ 0.01), β-catenin, and signal trans-
+ducer and activator of transcription 3 (STAT3) signaling (by 19–33%; P ≤ 0.05) were reduced by RB supplemen-
+tation. In addition, RB supplementation enhanced p53 stability (by 53%) and reduced oncogenic gene expression
+(by 50–60%).
+Conclusion: RB supplementation reduced DAI score and the risk of CRC development during recurring colitis in mice,
+suggesting that RB is a possible dietary supplement for patients with ulcerative colitis and related gut inflammatory
+diseases. J Nutr 2018;148:667–674.
+
+Keywords: colitis, colorectal cancer, inflammation, proliferation, intestine, red raspberry
+
+Introduction
+Ulcerative colitis, a common form of inflammatory bowel dis-
+ease, is characterized by chronic recurring inflammation of the
+
+Supported by the National Processed Raspberry Council and a Washington
+State University Emerging Research Issues competitive grant (16-10) to MJZ.
+Author disclosures: SB, MD, and MJZ, no conflicts of interest.
+Supplemental Tables 1–4, Supplemental Material, Supplemental References,
+and Supplemental Figure 1 are available from the “Supplementary data” link
+in the online posting of the article and from the same link in the online table of
+contents at https://academic.oup.com/jn/.
+Address correspondence to MJZ (e-mail: meijun.zhu@wsu.edu).
+Abbreviations used: Bcl2, B cell lymphoma 2; CON, control; COX-2, cyclooxyge-
+nase 2; CRC, colorectal cancer; DAI, disease activity index; DSS, dextran sulfate
+sodium; MDM2, mouse double minute 2; RB, red raspberry; STAT3, signal trans-
+ducer and activator of transcription 3; Wnt, Wingless and Int.
+
+colon, which is known to increase the risk of colorectal can-
+cer (CRC) development (1). CRC is the third most common
+cancer in the United States and Europe and is becoming com-
+mon around the world (2, 3). Repeated mucosal injury of the
+intestinal epithelium results in aberrant activation of inflamma-
+tory signaling and accumulation of immune cells, further am-
+plifying the disease severity (1, 4). Epithelium repair or mucosal
+healing is a process of coordinated interplay between inflam-
+mation, cell proliferation, migration, and differentiation of ep-
+ithelial cells in the intestinal epithelium (5, 6), which requires
+intricate regulatory mechanisms to prevent uncontrolled prolif-
+eration that eventually can lead to hyperplasia and CRC. Under
+chronic inflammation, Wingless and Int (Wnt)/β-catenin and
+signal transducer and activator of transcript 3 (STAT3) signaling
+pathways are activated and promote epithelial cell proliferation
+
+© 2018 American Society for Nutrition. All rights reserved.
+Manuscript received August 29, 2017. Initial review completed September 29, 2017. Revision accepted January 9, 2018.
+First published online April 20, 2018; doi: https://doi.org/10.1093/jn/nxy007.
+
+667
+
+Downloaded from https://academic.oup.com/jn/article-abstract/148/5/667/4979589
+by University of Ottawa user
+on 24 June 2018
+
+FIGURE 1 Disease activity index scores (A) and histopathologic scores (B) of male mice fed a CON diet or a 5% RB diet subjected to two
+7-d cycles of 1% DSS treatment. Values are means ± SEMs, n = 12. **Different from CON, P ≤ 0.01. Panel B shows representative images of
+hematoxylin and eosin-stained colonic tissue. (Representative images are at 200× magnification.) CON, control; DSS, dextran sulfate sodium;
+RB, red raspberry.
+
+(7). On the contrary, the key tumor suppressor protein p53 (8,
+9) is reduced under chronic inflammation and is lost in ∼50%
+of malignant tumors (10).
+
+Among cancers, CRC etiology is unique and highly affected
+by diet. Western high-calorie diets with low dietary fiber and
+polyphenolic compounds are known to increase CRC incidence.
+Increasing fruit consumption reduces the risk of CRC and en-
+hances the efficacy of anticancer drugs and therapies (11, 12),
+primarily mediated by fruit’s bioactive components. Red rasp-
+berry (RB) contains ∼50 different bioactive compounds (13),
+including anthocyanins, ellagitannins, sanguin H-6, and lam-
+bertianin C (14, 15). RB extract exerts antioxidative (16) and
+anti-inflammatory activities (17). Dietary RB reduces the sever-
+ity of dextran sulfate sodium (DSS)–induced acute colitis in mice
+(18). In addition, in vitro studies showed that RB extract in-
+hibits proliferation and induces apoptosis (19, 20), but the ef-
+fects of dietary whole fruit RB on CRC prevention have not been
+tested. We hypothesized that dietary whole RB supplementation
+reduces the risk of CRC development in mice with chronic col-
+itis, likely associated with its anti-inflammatory and antiprolif-
+erative properties on intestinal epithelium.
+
+Methods
+Animal care and experimental design. Six-week-old wild-
+type male C57BL/6J mice were randomly assigned into 2 groups
+(n = 12/group) and were fed a standard rodent diet [control (CON);
+Research Diets, Inc.] or a CON diet supplemented with RB (5% of dry
+feed weight; Research Diets, Inc.) for 10 wk. The pelleted diets with or
+without RB were stored at −20°C under vacuum package in the dark,
+and fresh diets were fed to mice weekly. The composition of RB powder
+has been published previously (18), which includes ∼11 g gallic acid
+668 Bibi et al.
+
+equivalents/kg dry weight. The freeze-dried RB was powdered then
+shipped to Research Diets, Inc., overnight for customized rodent re-
+search diet preparation. Detailed information on the diet is provided
+in Supplemental Tables 1 and 2. The dietary RB dose is comparable
+to a 60-kg human dose of 29.0 g freeze-dried RB/d (21). The detailed
+calculation is shown in our recent publication (18), in which the same
+supplemental amount of RB was used.
+For chronic colitis induction, after 4 wk of the dietary treatments,
+mice were treated with 1% DSS (Molecular weight = 36,000–50,000
+Dalton; MP Biomedicals) in drinking water for 2 repeated cycles. Each
+cycle consisted of 7 d of 1% DSS treatment in water, followed by 14 d
+of recovery by providing normal drinking water. Repeated cycles of DSS
+exposure were used to mimic the recurring nature of colitis in human
+(22). We did not include mice that were not treated with DSS, because
+our previous study showed that RB supplementation has no effect on
+mice that do not receive DSS treatment (18).
+
+After receiving DSS treatment, the mice were monitored daily for
+colitis symptoms during both DSS cycles. At the end of the study, the
+mice were killed and colonic tissues were collected for histologic and
+biochemical analyses. Mice were housed in a temperature-controlled
+room with a 12-h light and 12-h dark cycle and had a free access to diet
+and drinking water. There was no difference in feed intake and water
+consumption. All animal procedures were approved by the Washington
+State University Animal Care and Use Committee (BAF 04316-001).
+Tissues were collected and processed according to the previously pub-
+lished process (18).
+
+Colitis symptom assessment and disease activity index.
+During DSS induction and the recovery stages, mice under treatment
+were monitored for body-weight loss, fecal consistency, and blood in
+the feces with the use of the previously published scoring criteria (18,
+23). The disease activity index (DAI) score was calculated as the sum of
+the above 3 scores as shown in Supplemental Table 3.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/148/5/667/4979589
+by University of Ottawa user
+on 24 June 2018
+
+FIGURE 2 Relative protein content and mRNA expression of IL-6 and COX-2 (A), mRNA expression of Il17 and Ifng (B) and CD4-positive cells
+(C), mRNA expression of adhesion molecules (D, E), and α4β7 integrin filtration score (F) in male mice fed a CON diet or a 5% RB diet subjected to
+two 7-d cycles of 1% dextran sulfate sodium treatment. Values are means ± SEMs, n = 12. *,**Different from CON: *P ≤ 0.05, **P ≤ 0.01. C and
+F are representative images of CD4 and α4β7 integrin immunohistochemical stained colonic tissue, respectively. (Representative images are at
+200× magnification.) CON, control; COX-2, cyclooxygenase 2; Cxcl1, chemokine (C-X-C motif) ligand 1; Icam1, intercellular adhesion molecule 1;
+Ifng, interferon γ ; Madcam1, mucosal vascular addressin cell adhesion molecule 1; RB, red raspberry; Vcam1, vascular cell adhesion molecule 1.
+
+Histologic assessment of colonic ulceration and goblet
+cells. The fixed distal colonic tissue sections were deparaffinized and
+subjected to hematoxylin and eosin staining. The pathological scores
+of the distal colon were evaluated and recorded blindly with the use of
+previously published scoring criteria (23, 24). For goblet cell staining,
+the colonic sections were subjected to Alcian blue (pH 2.5) staining,
+examined, and quantified with the use of the Image J 1.30v software
+(split color channels) (National Institute of Health, USA), as described
+previously (25).
+
+Immunoblotting analysis. Immunoblotting analyses were con-
+ducted per our published method (26). Band density was quantified
+with the use of the Odyssey Infrared Imaging System and Image Stu-
+dio Lite software (Li-Cor Biosciences) and normalized to the β-actin
+content. Antibodies used in the study are listed in the Supplemental
+Material.
+
+Immunohistochemical analysis. Immunohistochemical analy-
+ses were carried out as previously described (26). CD4 and in-
+tegrin α4β7 antibodies are listed in the Supplemental Material.
+The CD4 T cell
+infiltration scores were assessed blindly accord-
+ing to the distribution and degree of CD4-positive cell staining per
+crypt, ranging from 0 to a maximum of 4 (0 = no cell staining,
+1 = 0–25%, 2 = >25–50%, 3 = >50–75%, and 4 = >75–100% per
+crypt). The α4β7 integrin filtration score was assessed blindly with the
+use of the distribution of α4β7 integrin staining per crypt, ranging from
+0 to 4, plus the intensity of the stain signal per whole section, ranging
+from 0 to 4 (0 = no staining signal and 1 = 0–25%, 2 = >25–50%,
+
+3 = >50–75%, and 4 = >75–100% per whole section). This results in
+the total quantified score ranging from 0 to a maximum of 8/colonic
+section. Nine sections per mouse at a constant interval were used for
+microscopic examination and score assessment.
+
+qRT-PCR analysis. Total RNA extraction, cDNA synthesis, and
+qRT-PCR were performed as previously described (18, 25). 18s Ribo-
+somal RNA was used as the reference gene. Primer sequences are listed
+in Supplemental Table 4.
+
+Statistical analysis. Data were analyzed with the use of a 2-tailed
+Student’s t test. P ≤ 0.05 was considered to be significant. Each
+mouse was considered as an experimental unit. Data are expressed as
+means ± SEMs.
+
+Results
+Dietary RB prevents colitis symptoms and histologic
+ulceration. There was no difference in the weekly body weight
+between the treatment groups before DSS treatment (Supple-
+mental Figure 1). RB supplementation decreased DAI scores
+during both DSS treatment cycles (Figure 1A). Morphologi-
+cally, RB-supplemented mice showed improved colonic archi-
+tecture with less inflammation and less crypt distortion than
+CON mice (Figure 1B), which was confirmed by histopathologic
+scores (Figure 1B).
+
+Red raspberry reduces colorectal carcinogenic risk 669
+
+Downloaded from https://academic.oup.com/jn/article-abstract/148/5/667/4979589
+by University of Ottawa user
+on 24 June 2018
+
+FIGURE 3 Goblet cell density (A); mRNA expression of Muc2, Klf4, and Alpi (B); and mRNA expression and protein content of HES1 and
+PCNA (C) in male mice fed a CON diet or a 5% RB diet subjected to two 7-d cycles of 1% dextran sulfate sodium treatment. Values are
+means ± SEMs, n = 12. *,**Different from CON: *P ≤ 0.05, **P ≤ 0.01. Panel A shows representative images of Alcian blue–stained colonic
+tissue. (Representative images are at 200× magnification.) Alpi, intestinal alkaline phosphatase; CON, control; HES1, Hairy and enhancer of split
+1; Klf4, Kruppel-like factor 4; Muc2, mucin 2; PCNA, proliferating cell nuclear antigen; RB, red raspberry.
+
+Dietary RB reduces inflammation and associated sig-
+naling pathways. RB supplementation reduced both mRNA
+expression and protein levels of IL-6 and cyclooxygenase 2
+(COX-2) in colonic tissues (Figure 2A). Consistently, the mRNA
+levels of Il17 and interferon γ (Ifng) in colonic tissues were also
+reduced by RB supplementation (Figure 2B). The CD4 T cell
+infiltration and α4β7 integrin immunohistochemical staining,
+mRNA levels of intercellular adhesion molecule 1 (Icam1), vas-
+cular cell adhesion molecule 1 (Vcam1), mucosal vascular ad-
+dressin cell adhesion molecule 1 (Madcam1), and chemokine
+(C-X-C motif) ligand 1 (Cxcl1) were all reduced in the colonic
+tissues of DSS-treated mice supplemented with RB (Figure 2C–
+F). Collectively, these data show that RB supplementation re-
+duced DSS-induced chronic inflammation and the resultant
+adaptive immune responses.
+
+Dietary RB supplementation improves epithelium repair
+as indicated by enhanced differentiation of epithelial cells
+in chronic colitis. Dietary RB-enhanced goblet cell density in
+colonic tissues (Figure 3A), concomitant with elevated mRNA
+levels of mucin 2 (Muc2) and the goblet cell differentiation
+marker Kruppel-like factor 4 (Klf4), as well as intestinal alka-
+line phosphatase (Alpi), a differentiation marker of enterocytes
+in colonic tissues (Figure 3B). Furthermore, both mRNA and
+protein levels of Hairy and enhancer of split 1 (HES1) were
+enhanced, whereas those of proliferating cell nuclear antigen
+(PCNA), a marker of cell proliferation, were reduced by RB sup-
+plementation (Figure 3C).
+
+Dietary RB supplementation suppresses β-catenin and
+STAT3 signaling in chronic colitis. Cytosolic β-catenin has
+an important role in cell adhesion and intracellular signaling,
+including cell proliferation (27). RB supplementation reduced
+the protein content of phosphorylated β-catenin (Ser 552) and
+β-catenin and mucin 1, and enhanced E-cadherin in colonic tis-
+sues (Figure 4A–B). In addition, mRNA level of mucin 1 was re-
+duced (Figure 4B, C), and phosphorylation of STAT3, involved
+
+670 Bibi et al.
+
+in proliferation and survival of tumor cells (7), were suppressed
+by RB supplementation (Figure 4D).
+
+Dietary RB supplementation suppresses oncogenic signal-
+ing via enhancing tumor suppressor p53 expression. Di-
+etary RB enhanced p53 and its phosphorylation at Ser 20 and
+Ser 15, as well as the content of p19ARF, a small tumor suppres-
+sor protein that stabilizes p53, in colonic tissues (Figure 5A).
+The mRNA expression of p21, a cyclin-dependent kinase in-
+hibitor that is a downstream target of p53, was higher in the
+RB-supplemented group (Figure 5B). Consistently, mRNA ex-
+pression of the p53 downstream targets, antiapoptotic B cell
+lymphoma 2 (Bcl2), myeloid cell leukemia 1 (Mcl1), prolifera-
+tive cyclin D1 (Ccnd1), and oncogenic myelocytomatosis (Myc)
+was reduced in the colonic tissues of RB-supplemented mice
+(Figure 5C, D).
+
+Discussion
+Chronic colitis is characterized by active inflammation during
+relapse separated by remissions, frequently with a progressive
+increase in wound region and duration of the disease, which
+might eventually lead to CRC occurrence (1). The consumption
+of fresh fruit, vegetables, and dietary fiber is associated with a
+reduced risk of CRC development (28); phytonutrients in plant
+foods potentially reduce the risk of cancer via multiple mecha-
+nisms (11, 12). RB is a rich source of polyphenolic compounds,
+vitamins B and C, folate, and dietary fibers (13–15, 29). Dietary
+RB reduced the severity of DSS-induced acute colitis (18). In
+the current study, we examined the protective effects of dietary
+RB against chronic colitis, which causes colonic mucosal inflam-
+mation and associated epithelial dysplasia, predisposing to CRC
+(22). We found that RB supplementation reduced the severity of
+chronic colitis and inflammation, modulated immune responses,
+enhanced epithelium repair, and reduced oncogenic signaling,
+suggesting that dietary RB can reduce the risk of CRC develop-
+ment in subjects with chronic colitis.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/148/5/667/4979589
+by University of Ottawa user
+on 24 June 2018
+
+FIGURE 4 Protein contents of β-catenin and p-β-catenin (Ser 552) (A), mucin 1 and E-cadherin (B), mRNA expression of Muc1 (C), and protein
+contents of total STAT3, p-STAT3 (Tyr 705), and Ac-STAT3 (Lys 685) (D) in male mice fed a CON diet or a 5% RB diet subjected to two 7-d cycles
+of 1% dextran sulfate sodium treatment. Values are means ± SEMs, n = 12. #,*,**Different from CON: #P ≤ 0.10, *P ≤ 0.05, **P ≤ 0.01.
+Ac-STAT3, acetylated STAT3; CON, control; Muc1, mucin 1; p-β-catenin, phosphorylated-β-catenin; p-STAT3, phosphorylated STAT3; RB, red
+raspberry; STAT3, signal transducer and activator of transcription 3.
+
+Chronic colitis is associated with increased production
+of inflammatory cytokine IL-6 (30) and other inflammatory
+mediators, including COX-2, IFN-γ , and CXCL1 (31, 32).
+IL-17–expressing CD4 T cells are present in the intestinal
+lamina propria and produce IL-17 (33). IL-17 stimulates IL-6,
+which activates STAT3, mediating CD4 T cell maturation,
+proliferation, and perpetuation into inflammatory intestinal
+tissues (33, 34). As a result, CD4 T cells are aberrantly acti-
+vated in colitis (35, 36), and express α4β7 integrin to further
+attract leucocytes (37). Vedolizumab, an integrin antagonist
+antibody, significantly induces mucosal healing and enhances
+remission in patients with ulcerative colitis (38). In agreement,
+RB supplementation reduced the expression of inflammatory
+mediators, CD4 T cell density, the content of α4β7 integrin,
+and adhesion molecules in chronic colitis, clearly showing
+protective effects of RB on inflammation and pathological
+changes of DSS-induced colitis.
+
+Intestinal epithelium wound healing is dependent on the
+homeostasis of 3 cellular processes, including restitution, pro-
+liferation, and differentiation of epithelial cells into functional
+cells in the injured epithelium (6). Goblet cells are one of the
+differentiated functional lineages of epithelial cells that secrete
+mucin 2, the major mucin of the mucosal layer shielding the
+underlying epithelium from pathogenic microbes and toxic lu-
+minal content (39). The depletion of goblet cells and mucin 2
+is a characteristic of intestinal inflammation in inflammatory
+bowel disease (40–42). Goblet cell density and mRNA expres-
+sion of Muc2 and the lineage-specific differentiation factors
+
+such as Klf4 and Hes1, along with Alpi, were heightened in
+RB-supplemented mice, indicating enhanced epithelial cell dif-
+ferentiation. RB supplementation also reduced cell prolifera-
+tion, thus decreasing the chance of CRC development. The to-
+tal content of polyphenols could be the main contributor for
+these protective effects. Indeed, polyphenolic-rich grape seed
+extract protects epithelial integrity by reducing proliferation
+and enhancing differentiation in the intestine of IL-10–deficient
+mice (41, 42); berry extracts reduce the proliferation of LNCaP
+prostate cancer cells and HT-29 and HCT116 colon cancer cells
+(43).
+
+Several major signaling pathways regulate cell prolifera-
+tion and differentiation, including the Wnt/β-catenin pathway.
+Intestinal inflammation is known to enhance Wnt/β-catenin
+signaling, which further stimulates cell proliferation and CRC
+development (44). In the current study, we found that RB
+supplementation reduced the β-catenin content, which is
+consistent with a previous report in which dietary black rasp-
+berry reduced β-catenin concentration and colonic ulceration
+(45); grape seed extract supplementation downregulated the
+Wnt/β-catenin pathway and proliferation in the colon of IL-10–
+deficient mice (42). STAT3 transcriptionally regulates β-catenin
+expression (7) and epithelial cell proliferation and survival (30);
+STAT3 is activated in 50–60% of CRC (46). RB supplemen-
+tation reduced STAT3 activation, which could be partially ex-
+plained by the reduced production of IL-6, an upstream acti-
+vator of STAT3 signaling (30). As a result, the suppression of
+STAT3 and β-catenin signaling pathways reduces the risk of
+
+Red raspberry reduces colorectal carcinogenic risk 671
+
+Downloaded from https://academic.oup.com/jn/article-abstract/148/5/667/4979589
+by University of Ottawa user
+on 24 June 2018
+
+FIGURE 5 Protein contents of total p53 and p-p53 and p19ARF (A), mRNA expression of p21 (B), and antiapoptotic and oncogenic genes (C, D)
+in male mice fed a CON diet or a 5% RB diet subjected to two 7-d cycles of 1% dextran sulfate sodium treatment. Values are means ± SEMs,
+n = 12. #,*,**Different from CON: #P ≤ 0.10, *P ≤ 0.05, **P ≤ 0.01. Bcl2, B cell lymphoma 2; Ccdn1, proliferative cyclin D1; CON, control; Mcl1,
+myeloid cell leukemia 1; Myc, myelocytomatosis oncogene; p-p53, phosphorylated p53; RB, red raspberry.
+
+CRC. In agreement with our results, the curcumin-derivative,
+small-compound FLLL32 inhibited STAT3 activity, which re-
+duces CRC development (47). Triptolide (a diterpenoid triepox-
+ide extracted from the traditional Chinese medicinal herb) in-
+hibited CRC progression associated with STAT3 suppression
+(48).
+
+Protein p53 is a tumor suppressor protein (8), which is re-
+duced or lost in cancer cells (10). Phosphorylation of p53 at
+Ser 15 and Ser 20 stabilizes p53 by reducing its interaction with
+mouse double minute 2 (MDM2), which mediates p53 degra-
+dation (49). On the other hand, p14ARF (p19ARF in mice) stabi-
+lizes p53 by acting as an inhibitor of MDM2 (49). We found
+that RB supplementation stabilized the p53 protein correlated
+with increased phosphorylation at Ser 15 and Ser 20 and an
+upregulated level of p19ARF. These changes could be due to
+the biological effects of polyphenols. Green tea polyphenols,
+epigallocatechin-3-gallate, stabilized p53 by inducing its phos-
+phorylation at Ser 15 and Ser 20, and p14ARF mediated down-
+regulation of MDM2 in human prostate carcinoma LNCaP cells
+(49). p21 is a cyclin-dependent kinase inhibitor and one of the
+p53 downstream mediators, which initiates cell cycle arrest and
+interacts with PCNA to inhibit DNA replication (50). The p53
+stabilization increases transcription of p21 and the expression
+of proapoptotic Bax, while reducing the antiapoptotic BCL2 (9,
+49). Consistently, dietary RB enhanced p21 expression and re-
+duced Bcl2, Mcl1, Ccdn1, and Myc, showing that RB suppressed
+epithelial cell proliferation and oncogenic signal activation in
+chronic colitis.
+
+The bioactive components in whole fruit RB include vita-
+mins, minerals, fibers, antioxidants, and polyphenols (51). RB
+freeze-dried powder contains anthocyanin, ellagitannins, san-
+guin H-6, lambertianin C, and other polyphenols (14, 15).
+RB anthocyanin supplementation reduced the production of
+
+IL-6, IL-1β, COX-2, and inducible NO synthase, and sup-
+pressed NF-κB signaling in mice (17). RB ellagic acid showed
+immunoregulatory functions in various animal studies (52) and
+antiproliferative and apoptotic activities in Caco-2 cells (53, 54).
+In addition, RB contains 1.6% soluble fiber and 33.5% insolu-
+ble fiber (51), which provide substrates for gut fermentation to
+produce SCFAs and are expected to generate additional bene-
+ficial effects (55). By using the whole-fruit approach, beneficial
+effects of RB could be attributed to the combined effects of the
+high polyphenol and fiber contents in RB.
+
+In summary, dietary RB reduced the severity of chronic col-
+itis, colonic ulceration, inflammation, and associated signaling.
+RB facilitated epithelium repair by enhancing epithelial cell
+differentiation and mucin 2 production, while reducing cell pro-
+liferation, which were associated with reduced β-catenin and
+STAT3 signaling. Moreover, dietary RB supplementation stabi-
+lized the tumor suppressor p53 and reduced oncogenic signal-
+ing, suggesting that RB is a potential dietary strategy to reduce
+the risk of CRC development in subjects with chronic colitis.
+
+Acknowledgments
+We thank Luís Fernando de Sousa Moraes, Yifei Kang, Xiaofei
+Sun, and Yansong Xue for their assistance in sample collection.
+The authors’ responsibilities were as follows—M-JZ and SB:
+designed the experiments; SB: conducted the experiments and
+wrote the manuscript; M-JZ and MD: edited the manuscript;
+and all authors: read and approved the final manuscript.
+
+References
+1. Itzkowitz SH, Yio X. Inflammation and cancer IV. Colorectal cancer
+in inflammatory bowel disease: the role of inflammation. Am J Physiol
+Gastrointest Liver Physiol 2004;287:G7–17.
+
+672 Bibi et al.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/148/5/667/4979589
+by University of Ottawa user
+on 24 June 2018
+
+2. Ferlay J, Soerjomataram I, Dikshit R, Eser S, Mathers C, Rebelo
+M, Parkin DM, Forman D, Bray F. Cancer incidence and mortality
+worldwide: sources, methods and major patterns in GLOBOCAN 2012.
+Int J Cancer 2015;136:E359–386.
+
+3. Siegel R, Ma J, Zou Z, Jemal A. Cancer statistics, 2014. CA Cancer J
+
+Clin 2014;64:9–29.
+4. Naito Y, Saito K, Shiiba K, Ohuchi A, Saigenji K, Nagura H, Ohtani H.
+CD8+ T cells infiltrated within cancer cell nests as a prognostic factor
+in human colorectal cancer. Cancer Res 1998;58:3491–4.
+
+5. Paclik D, Lohse K, Wiedenmann B, Dignass AU, Sturm A. Galectin-2
+and -4, but not galectin-1, promote intestinal epithelial wound healing
+in vitro through a TGF-beta-independent mechanism. Inflamm Bowel
+Dis 2008;14:1366–72.
+
+6. Dignass AU. Mechanisms and modulation of intestinal epithelial repair.
+
+Inflamm Bowel Dis 2001;7:68–77.
+
+7. Ibrahem S, Al-Ghamdi S, Baloch K, Muhammad B, Fadhil W,
+Jackson D, Nateri AS, Ilyas M. STAT3 paradoxically stimulates
+β-catenin expression but inhibits β-catenin function. Int J Exp Pathol
+2014;95:392–400.
+
+8. Bates S, Vousden KH. p53 in signaling checkpoint arrest or apoptosis.
+
+Curr Opin Genet Dev 1996;6:12–18.
+
+9. Yu J, Wang Z, Kinzler KW, Vogelstein B, Zhang L. PUMA mediates the
+apoptotic response to p53 in colorectal cancer cells. Proc Natl Acad Sci
+USA 2003;100:1931–6.
+
+10. Agarwal ML, Taylor WR, Chernov MV, Chernova OB, Stark GR. The
+
+p53 network. J Biol Chem 1998;273:1–4.
+
+11. Stoner GD, Mukhtar H. Polyphenols as cancer chemopreventive agents.
+
+J Cell Biochem Suppl 1995;22:169–80.
+
+12. Martin MA, Goya L, Ramos S. Potential for preventive effects of cocoa
+and cocoa polyphenols in cancer. Food Chem Toxicol 2013;56:336–51.
+13. Carvalho E, Franceschi P, Feller A, Palmieri L, Wehrens R, Martens
+S. A targeted metabolomics approach to understand differences in
+flavonoid biosynthesis in red and yellow raspberries. Plant Physiol
+Biochem 2013;72:79–86.
+
+14. Borges G, Degeneve A, Mullen W, Crozier A. Identification of flavonoid
+and phenolic antioxidants in black currants, blueberries, raspberries, red
+currants, and cranberries. J Agric Food Chem 2010;58:3901–9.
+
+15. Gasperotti M, Masuero D, Vrhovsek U, Guella G, Mattivi F. Profiling
+and accurate quantification of Rubus ellagitannins and ellagic acid
+conjugates using direct UPLC-Q-TOF HDMS and HPLC-DAD analysis.
+J Agric Food Chem 2010;58:4602–16.
+
+16. de Souza VR, Pereira PA, da Silva TL, de Oliveira Lima LC,
+Pio R, Queiroz F. Determination of
+the bioactive compounds,
+antioxidant activity and chemical composition of Brazilian blackberry,
+red raspberry, strawberry, blueberry and sweet cherry fruits. Food Chem
+2014;156:362–8.
+
+17. Li L, Wang L, Wu Z, Yao L, Wu Y, Huang L, Liu K, Zhou X, Gou D.
+Anthocyanin-rich fractions from red raspberries attenuate inflammation
+in both RAW264.7 macrophages and a mouse model of colitis. Sci Rep
+2014;4:6234.
+
+18. Bibi S, Kang Y, Du M, Xue Y, Zhu M-J. Dietary red raspberries
+attenuate dextran sulfate sodium-induced acute colitis. J Nutr Biochem
+2018;51:40–46.
+
+19. Coates EM, Popa G, Gill CI, McCann MJ, McDougall GJ, Stewart D,
+Rowland I. Colon-available raspberry polyphenols exhibit anti-cancer
+effects on in vitro models of colon cancer. J Carcinog 2007;6:4.
+
+20. God J, Tate PL, Larcom LL. Red raspberries have antioxidant effects
+that play a minor role in the killing of stomach and colon cancer cells.
+Nutr Res 2010;30:777–82.
+
+21. Reagan-Shaw S, Nihal M, Ahmad N. Dose translation from animal to
+
+human studies revisited. FASEB J 2008;22:659–61.
+
+22. Elson CO, Sartor RB, Tennyson GS, Riddell RH. Experimental models
+of inflammatory bowel disease. Gastroenterology 1995;109:1344–67.
+23. Hamamoto N, Maemura K, Hirata I, Murano M, Sasaki S, Katsu K.
+Inhibition of dextran sulphate sodium (DSS)-induced colitis in mice
+by intracolonically administered antibodies against adhesion molecules
+(endothelial leucocyte adhesion molecule-1 (ELAM-1) or intercellular
+adhesion molecule-1 (ICAM-1)). Clin Exp Immunol 1999;117:462–8.
+24. Kang Y, Xue Y, Du M, Zhu MJ. Preventive effects of Goji berry
+on dextran-sulfate-sodium-induced colitis in mice. J Nutr Biochem
+2016;40:70–76.
+
+25. Wang H, Xue Y, Zhang H, Huang Y, Yang G, Du M, Zhu MJ.
+Dietary grape seed extract ameliorates symptoms of inflammatory
+
+Downloaded from https://academic.oup.com/jn/article-abstract/148/5/667/4979589
+by University of Ottawa user
+on 24 June 2018
+
+bowel disease in IL10-deficient mice. Mol Nutr Food Res 2013;57:
+2253–7.
+
+26. Zhu MJ, Du M, Hess BW, Nathanielsz PW, Ford SP. Periconceptional
+nutrient restriction in the ewe alters MAPK/ERK1/2 and PI3K/Akt
+growth signaling pathways and vascularity in the placentome. Placenta
+2007;28:1192–9.
+
+27. Ilyas M, Tomlinson IP. The interactions of APC, E-cadherin and
+beta-catenin in tumour development and progression. J Pathol
+1997;182:128–37.
+
+28. Watson AJ, Collins PD. Colon cancer: a civilization disorder. Dig Dis
+
+2011;29:222–8.
+
+29. Probst Y. A review of the nutrient composition of selected Rubus berries.
+
+Nutr Food Sci 2015;45:242–54.
+
+30. Grivennikov S, Karin E, Terzic J, Mucida D, Yu GY, Vallabhapurapu
+S, Scheller J, Rose-John S, Cheroutre H, Eckmann L, Karin M. IL-6
+and Stat3 are required for survival of intestinal epithelial cells and
+development of colitis-associated cancer. Cancer Cell 2009;15:103–13.
+31. Cheng WL, Wang CS, Huang YH, Tsai MM, Liang Y, Lin KH.
+Overexpression of CXCL1 and its receptor CXCR2 promote tumor
+invasion in gastric cancer. Ann Oncol 2011;22:2267–76.
+
+32. Paiotti AP, Marchi P, Miszputen SJ, Oshima CT, Franco M, Ribeiro DA.
+The role of nonsteroidal antiinflammatory drugs and cyclooxygenase-2
+inhibitors on experimental colitis. In Vivo 2012;26:381–93.
+
+33. Atarashi K, Nishimura J, Shima T, Umesaki Y, Yamamoto M, Onoue
+M, Yagita H, Ishii N, Evans R, Honda K, Takeda K. ATP drives lamina
+propria T(H)17 cell differentiation. Nature 2008;455:808–12.
+
+34. Atreya R, Mudter J, Finotto S, Mullberg J, Jostock T, Wirtz S, Schutz
+M, Bartsch B, Holtmann M, Becker C, et al. Blockade of interleukin 6
+trans signaling suppresses T-cell resistance against apoptosis in chronic
+intestinal inflammation: evidence in Crohn disease and experimental
+colitis in vivo. Nat Med 2000;6:583–8.
+
+35. Adams DH, Eksteen B. Aberrant homing of mucosal T cells and
+extra-intestinal manifestations of inflammatory bowel disease. Nat Rev
+Immunol 2006;6:244–51.
+
+36. Cheroutre H, Lambolez F, Mucida D. The light and dark sides of
+lymphocytes. Nat Rev Immunol 2011;11:
+
+intraepithelial
+
+intestinal
+445–56.
+
+37. Behm BW, Bickston SJ. Humanized antibody to the alpha4beta7
+integrin for induction of remission in ulcerative colitis. Cochrane
+Database Syst Rev 2009;1:CD007571.
+
+38. Parikh A, Leach T, Wyant T, Scholz C, Sankoh S, Mould DR, Ponich
+T, Fox I, Feagan BG. Vedolizumab for the treatment of active ulcerative
+colitis: a randomized controlled phase 2 dose-ranging study. Inflamm
+Bowel Dis 2012;18:1470–9.
+
+39. Birchenough GMH, Johansson MEV, Gustafsson JK, Bergström JH,
+Hansson GC. New developments in goblet cell mucus secretion and
+function. Mucosal immunol 2015;8:712–9.
+
+40. Gersemann M, Becker S, Kubler I, Koslowski M, Wang G, Herrlinger
+KR, Griger J, Fritz P, Fellermann K, Schwab M, et al. Differences in
+goblet cell differentiation between Crohn’s disease and ulcerative colitis.
+Differentiation 2009;77:84–94.
+
+41. Bibi S, Kang Y, Yang G, Zhu MJ. Grape seed extract improves
+small
+intestinal health through suppressing inflammation and
+regulating alkaline phosphatase in IL-10-deficient mice. J Funct
+Foods 2016;20:245–52.
+
+42. Yang G, Xue Y, Zhang H, Du M, Zhu MJ. Favourable effects of grape
+seed extract on intestinal epithelial differentiation and barrier function
+in IL10-deficient mice. Br J Nutr 2015;114:15–23.
+
+43. Seeram NP, Adams LS, Zhang Y, Lee R, Sand D, Scheuller HS, Heber
+D. Blackberry, black raspberry, blueberry, cranberry, red raspberry, and
+strawberry extracts inhibit growth and stimulate apoptosis of human
+cancer cells in vitro. J Agric Food Chem 2006;54:9329–39.
+
+44. Claessen MM, Schipper ME, Oldenburg B, Siersema PD, Offerhaus
+GJ, Vleggaar FP. WNT-pathway activation in IBD-associated colorectal
+carcinogenesis: potential biomarkers for colonic surveillance. Cell
+Oncol 2010;32:303–10.
+
+45. Wang L-S, Kuo C-T, Huang THM, Yearsley M, Oshima K, Stoner GD,
+Yu J, Lechner JF, Huang Y-W. Black raspberries protectively regulate
+methylation of Wnt pathway genes in precancerous colon tissue. Cancer
+Prev Res (Phila) 2013;6:1317–27.
+
+46. Morikawa T, Baba Y, Yamauchi M, Kuchiba A, Nosho K, Shima K,
+Tanaka N, Huttenhower C, Frank DA, Fuchs CS, Ogino S. STAT3
+expression, molecular features, inflammation patterns, and prognosis
+
+Red raspberry reduces colorectal carcinogenic risk 673
+
+in a database of 724 colorectal cancers. Clin Cancer Res 2011;17:
+1452–62.
+
+47. Lin L, Deangelis S, Foust E, Fuchs J, Li C, Li P-K, Schwartz EB, Lesinski
+GB, Benson D, Lü J, et al. A novel small molecule inhibits STAT3
+phosphorylation and DNA binding activity and exhibits potent growth
+suppressive activity in human cancer cells. Mol Cancer 2010;9:217.
+
+48. Wang Z, Jin H, Xu R, Mei Q, Fan D. Triptolide downregulates Rac1
+and the JAK/STAT3 pathway and inhibits colitis-related colon cancer
+progression. Exp Mol Med 2009;41:717–27.
+
+49. Hastak K, Gupta S, Ahmad N, Agarwal MK, Agarwal ML, Mukhtar
+H. Role of p53 and NF-kappaB in epigallocatechin-3-gallate-induced
+apoptosis of LNCaP cells. Oncogene 2003;22:4851–9.
+
+50. Warbrick E, Lane DP, Glover DM, Cox LS. Homologous regions of
+Fen1 and p21Cip1 compete for binding to the same site on PCNA:
+a potential mechanism to co-ordinate DNA replication and repair.
+Oncogene 1997;14:2313–21.
+
+51. Noratto GD, Chew BP, Atienza LM. Red raspberry (Rubus idaeus L.)
+intake decreases oxidative stress in obese diabetic (db/db) mice. Food
+Chem 2017;227:305–14.
+
+52. Burton-Freeman BM, Sandhu AK, Edirisinghe I. Red raspberries and
+their bioactive polyphenols: cardiometabolic and neuronal health links.
+Adv Nutr 2016;7:44–65.
+
+53. Larrosa M, Tomas-Barberan FA, Espin JC. The dietary hydrolysable
+tannin punicalagin releases ellagic acid that induces apoptosis in
+human colon adenocarcinoma Caco-2 cells by using the mitochondrial
+pathway. J Nutr Biochem 2006;17:611–25.
+
+54. Losso JN, Bansode RR, Trappey A, Bawadi HA, Truax R. In vitro anti-
+proliferative activities of ellagic acid. J Nutr Biochem 2004;15:672–8.
+55. Jakobsdottir G, Nilsson U, Blanco N, Sterner O, Nyman M. Effects
+of soluble and insoluble fractions from bilberries, black currants, and
+raspberries on short-chain fatty acid formation, anthocyanin excretion,
+and cholesterol in rats. J Agric Food Chem 2014;62:4359–68.
+
+674 Bibi et al.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/148/5/667/4979589
+by University of Ottawa user
+on 24 June 2018
+
+

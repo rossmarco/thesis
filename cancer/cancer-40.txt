@@ -1,0 +1,1110 @@
+Red Meat Consumption and Risk of Stroke in
+
+Swedish Women
+
+Susanna C. Larsson, PhD; Jarmo Virtamo, MD; Alicja Wolk, DMSc
+
+Background and Purpose—High red meat consumption has been associated with increased risk of some cancers and may
+also be a risk factor for cardiovascular diseases. However, epidemiological studies of red meat consumption in relation
+to risk of stroke are very limited. Our objective was to examine the association between red meat consumption and
+stroke incidence in the Swedish Mammography Cohort.
+
+Methods—We prospectively followed 34 670 women without cardiovascular disease and cancer at baseline. Participants
+completed a self-administered questionnaire on diet and other risk factors for cardiovascular diseases in 1997. Cox
+proportional hazards models were used to estimate multivariable-adjusted relative risks (RR) and 95% CI.
+
+Results—During a mean follow-up of 10.4 years, we ascertained 1680 incident cases of stroke, comprising 1310 cerebral
+infarction, 154 intracerebral hemorrhage, 79 subarachnoid hemorrhage, and 137 unspecified stroke. Total red meat and
+processed meat consumption was associated with a statistically significant increased risk of cerebral infarction, but not
+of total stroke, intracerebral hemorrhage, or subarachnoid hemorrhage. The multivariable RR of cerebral infarction for
+the highest versus the lowest quintile of consumption were 1.22 (95% CI, 1.01–1.46) for red meat and 1.24 (95% CI,
+1.04 –1.49) for processed meat. Fresh (unprocessed) meat consumption was not associated with total stroke or with any
+stroke subtype.
+
+Conclusion—Findings from this study suggest that red and processed meat consumption may increase the risk of cerebral
+
+infarction in women. (Stroke. 2011;42:324-329.)
+
+Key Words: epidemiology 䡲 meat 䡲 prospective studies 䡲 stroke
+
+High consumption of red meat and/or processed meat has
+
+been associated with increased risk of some cancers1–3
+and may also be a risk factor for cardiovascular diseases.3,4
+Red meat is a source of saturated fat, cholesterol, and heme
+iron and has been positively associated with blood pressure5
+and with incidence of hypertension,6,7 the metabolic syn-
+drome, and inflammation.8 A recent meta-analysis found that
+processed meat consumption was associated with increased
+risk of coronary heart disease and type 2 diabetes.4 To date,
+only 3 studies have examined red meat consumption in
+relation to stroke incidence or mortality, with a positive
+association observed in 1 study,9 but not observed in the other
+2 studies.10,11
+
+Given the paucity of epidemiological data on red meat
+consumption in relation to incidence of stroke, we examined
+this association in the Swedish Mammography Cohort, a
+population-based prospective cohort of Swedish women.
+
+Methods
+
+Study Population
+Details of the Swedish Mammography Cohort have been reported
+elsewhere.12 Briefly, the cohort was established between 1987
+
+and 1990, when all women born between 1914 and 1948 who
+were living in central Sweden (Va¨stmanland and Uppsala coun-
+ties) were mailed questionnaire on diet. In the autumn of 1997,
+the 56 030 participants who were still alive and resided in the
+study area received a new expanded questionnaire that included
+⬇350 items concerning diet and other lifestyle factors; 39 227
+women (70%) completed the 1997 questionnaire. Because data on
+several potential confounders (eg, smoking, diabetes, hyperten-
+sion, and physical activity) were obtained for the first time in
+1997, only women who completed the 1997 questionnaire were
+included in the present study. We excluded women with an
+erroneous or missing national identification number; those with a
+history of stroke, coronary heart disease, or cancer before
+beginning of follow-up; and those with implausible values for
+total energy intake (ie, 3 SDs from the log-transformed mean
+energy intake in the cohort). This left 34 670 women age 49 to 83
+years for analysis. The study was approved by the Regional
+Ethical Review Board at the Karolinska Institutet (Stockholm,
+Sweden).
+
+Baseline Data Collection
+The 1997 questionnaire included questions on education, weight,
+height, cigarette smoking, physical activity, aspirin use, medical
+history, family history of myocardial infarction before 60 years,
+alcohol consumption, and diet. Body mass index was calculated
+by dividing weight in kilograms by the square of height in meters.
+
+Received July 13, 2010; accepted August 24, 2010.
+From the Division of Nutritional Epidemiology (S.C.L., A.W.), National Institute of Environmental Medicine, Karolinska Institutet, Stockholm,
+
+Sweden; and Department of Chronic Disease Prevention (J.V.), National Institute for Health and Welfare, Helsinki, Finland.
+
+Correspondence to Susanna C. Larsson, PhD, Division of Nutritional Epidemiology, National Institute of Environmental Medicine, Karolinska
+
+Institutet, Box 210, SE-17177 Stockholm, Sweden. E-mail susanna.larsson@ki.se
+
+© 2011 American Heart Association, Inc.
+Stroke is available at http://stroke.ahajournals.org
+
+324
+
+DOI: 10.1161/STROKEAHA.110.596510
+
+Larsson et al
+
+Meat Consumption and Stroke
+
+325
+
+Table 1. Age-Standardized Characteristics of 34 670 Women in the Swedish Mammography Cohort by Red
+Meat Consumption in 1997
+
+Red Meat Consumption (g/d)*
+Red meat (g/d)
+Age (years)
+Education, university (%)
+Current smoker (%)
+Body mass index (kg/m2)
+Total physical activity (MET h/d)
+Diabetes (%)
+History of hypertension (%)
+Aspirin use (%)
+Family history of myocardial infarction (%)
+Total energy (kcal/d)
+Alcohol intake (g/d)
+Coffee (cups/d)
+Fish intake (servings/week)
+Fruit intake (servings/d)
+Vegetable intake (servings/d)
+
+⬍36.5
+23.4
+63.9
+23.7
+24.3
+24.6
+42.5
+2.6
+18.3
+47.4
+17.0
+
+1516
+
+3.8
+2.8
+1.9
+2.0
+3.1
+
+36.5–53.6
+
+53.7– 68.3
+
+68.4 – 85.9
+
+45.6
+62.5
+20.8
+22.9
+24.9
+42.3
+3.0
+19.2
+49.0
+16.1
+
+61.2
+61.5
+19.7
+22.5
+24.9
+42.5
+3.2
+19.7
+49.2
+16.2
+
+76.7
+59.6
+18.0
+22.1
+25.1
+42.5
+3.0
+20.0
+50.9
+16.4
+
+1614
+
+1717
+
+1820
+
+4.2
+2.9
+2.0
+2.0
+3.1
+
+4.3
+3.0
+2.0
+2.0
+3.2
+
+4.4
+3.0
+2.2
+2.0
+3.3
+
+ⱖ86.0
+124.0
+59.2
+16.8
+24.8
+25.4
+42.9
+4.1
+21.8
+50.9
+17.3
+
+2070
+
+4.4
+3.1
+2.8
+2.2
+3.8
+
+*All values are means if not otherwise indicated.
+MET, indicates metabolic equivalent of energy expenditure (kcal/kg⫻h).
+
+Pack-years of smoking history were calculated by number of
+packs of cigarettes smoked per day multiplied by number of years
+smoking. The participants reported their level of activity at work,
+home/housework, walking/bicycling, and exercise in the year
+before study enrollment. The questionnaire also included ques-
+tions on inactivity (watching television/reading) and hours per
+day of sleeping and sitting/lying down. The reported time spent at
+each activity per day was multiplied by its typical energy
+expenditure requirements expressed in metabolic equivalents and
+added together to create a metabolic-equivalent hours per day
+(24-hour) score.13
+
+Dietary Assessment
+Diet was assessed with a 96-item food-frequency questionnaire.
+Participants were asked to indicate how often, on average, they
+had consumed various foods over the previous year, with 8
+predefined frequency categories ranging from “never” to “3 or
+more times per day.” For this study, we grouped meats into red
+meat, fresh meat, and processed meat. Fresh meat intake was
+calculated using frequency of consumption and portion size
+information of all types of fresh and minced pork, beef, and veal.
+Processed meats included sausages, hot dog, salami, ham, pro-
+cessed meat cuts, liver pate´, and blood sausage. Red meat was the
+sum of fresh meat and processed meat. Participants were also
+questioned about chicken/other poultry consumption.
+
+Case Ascertainment and Follow-Up
+Incident cases of first stroke that occurred between January 1, 1998
+and December 31, 2008 were ascertained by linkage of the study
+cohort with the Swedish Hospital Discharge Registry, which pro-
+vides virtually complete coverage of discharges. The International
+Classification of Diseases 10th revision (ICD-10) was used to
+identify stroke events. Strokes were classified as cerebral infarction
+(ICD-10 code I63), intracerebral hemorrhage (I61), subarachnoid
+hemorrhage (I60), and unspecified stroke (I64). Data on dates of
+death were obtained from the Swedish Death Registry.
+
+Statistical Analysis
+Each participant accrued follow-up time from January 1, 1998, until
+the date of the first stroke event: death or December 31, 2008,
+
+whichever came first. We used Cox proportional hazard models with
+age as the time scale to estimate relative risks (RR) with 95% CI of
+stroke by quintiles of red meat consumption. Entry time was defined
+as a subject’s age in months at start of follow-up, and exit time was
+defined as a subject’s age in months at stroke diagnosis or censoring.
+The proportional hazards assumption was tested and was met for all
+variables except diabetes. We adjusted for diabetes by stratification
+in the Cox model. The multivariable model included the following
+variables: smoking status and pack-years of smoking (never; past:
+⬍20, 20 –39, or ⱖ40 pack-years; or current: ⬍20, 20 –39, or ⱖ40
+pack-years), education (less than high school, high school, or
+university), body mass index (⬍20, 20 –24.9, 25–29.9, or ⱖ30
+kg/m2), total physical activity (by quartiles), self-reported history of
+hypertension (yes or no), aspirin use (yes or no), family history of
+myocardial infarction before 60 years of age (yes or no), and intakes
+of total energy (kcal/d, as a continuous variable), alcohol (nondrink-
+ers,⬍3.4, 3.4 –9.9, or ⱖ10.0 g/d), coffee (⬍1, 1–2, 3– 4, or ⱖ5
+cups/d), fish (5 categories), fruit (by quartiles), and vegetables (by
+quartiles).
+
+Tests for linear trends across quintiles were conducted by model-
+ing red meat consumption as a continuous variable in the model with
+the median value of each quintile. We conducted analyses stratified
+by age (⬍70 or ⱖ70 years), history of hypertension (yes or no),
+smoking (never or ever), body mass index (⬍25 kg/m2 or ⱖ25
+kg/m2), and history of diabetes (yes or no) to assess possible effect
+modification by these variables. Tests for interaction were performed
+using the log likelihood ratio test. Statistical analyses were per-
+formed using SAS version 9.1 (SAS Institute Inc.). All probability
+values were 2 sided.
+
+Results
+
+During a mean follow-up of 10.4 years, we ascertained
+1680 incident strokes, comprising 1310 cerebral infarction,
+154 intracerebral hemorrhage, 79 subarachnoid hemor-
+rhage, and 137 unspecified stroke. There was ⬎5-fold
+difference in mean red meat consumption between the
+highest and lowest quintile (Table 1). In general, women in
+the highest quintile of red meat consumption were younger
+and less likely to have a university education, but were
+
+326
+
+Stroke
+
+February 2011
+
+Table 2. Relative Risks (95% CI) of Total Stroke and Stroke Subtypes by Red Meat Consumption in the Swedish Mammography
+Cohort, 1998 to 2008
+
+Red Meat Consumption (g/d)
+Total stroke
+
+Person-years
+No. of cases
+Age adjusted
+Multivariable model*
+
+Cerebral infarction
+
+No. of cases
+Age adjusted
+Multivariable model*
+
+Intracerebral hemorrhage
+
+No. of cases
+Age adjusted
+Multivariable model*
+
+Subarachnoid hemorrhage
+
+No. of cases
+Age adjusted
+Multivariable model*
+
+⬍36.5
+
+36.5–53.6
+
+53.7– 68.3
+
+68.4 – 85.9
+
+ⱖ86.0
+
+P
+
+72 371
+421
+
+71 532
+353
+
+71 407
+312
+
+72 228
+291
+
+71 475
+303
+
+1.00
+1.00
+
+321
+
+1.00
+1.00
+
+49
+1.00
+1.00
+
+16
+1.00
+1.00
+
+0.97 (0.84–1.12)
+0.99 (0.86–1.15)
+
+0.95 (0.82–1.10)
+0.97 (0.83–1.13)
+
+1.06 (0.91–1.23)
+1.08 (0.92–1.26)
+
+1.14 (0.98–1.32)
+1.12 (0.95–1.32)
+
+284
+
+1.03 (0.88–1.21)
+1.06 (0.90–1.25)
+
+238
+
+0.97 (0.82–1.14)
+0.99 (0.83–1.18)
+
+223
+
+1.09 (0.92–1.30)
+1.12 (0.93–1.34)
+
+244
+
+1.24 (1.05–1.46)
+1.22 (1.01–1.46)
+
+28
+
+31
+
+25
+
+21
+
+0.64 (0.40–1.02)
+0.62 (0.39–1.00)
+
+0.78 (0.49–1.22)
+0.74 (0.46–1.18)
+
+0.72 (0.44–1.17)
+0.68 (0.41–1.14)
+
+0.62 (0.37–1.04)
+0.59 (0.34–1.04)
+
+9
+
+17
+
+20
+
+17
+
+0.58 (0.26–1.31)
+0.56 (0.24–1.27)
+
+1.11 (0.56–2.20)
+1.10 (0.54–2.22)
+
+1.35 (0.70–2.63)
+1.25 (0.62–2.56)
+
+1.17 (0.59–2.33)
+1.02 (0.48–2.16)
+
+0.06
+0.12
+
+0.01
+0.04
+
+0.09
+0.09
+
+0.24
+0.48
+
+*Adjusted for age, smoking status and pack-years of smoking, education, body mass index, total physical activity, history of diabetes, history of hypertension, aspirin
+
+use, family history of myocardial infarction, and intake of total energy, alcohol, coffee, fish, fruits, and vegetables.
+
+more likely to have diabetes and a history of hypertension
+compared with those in the lowest quintile. Women who
+reported high red meat consumption also had higher body
+mass index and higher intakes of energy, alcohol, coffee,
+fish, fruits, and vegetables.
+
+Red meat consumption was positively associated in a
+statistically significant way with risk of cerebral infarction,
+but not with total stroke, intracerebral hemorrhage, or sub-
+arachnoid hemorrhage (Table 2). Compared with women in
+the lowest quintile of red meat consumption, the multivari-
+able RR of cerebral infarction for women in the highest
+quintile was 1.22 (95% CI, 1.01–1.46). Additional adjustment
+for intakes of whole grains and dairy foods did not change
+results appreciably (highest versus lowest quintile: RR⫽1.23;
+95% CI 1.02–1.48). The association between red meat con-
+sumption and cerebral
+infarction was stronger when we
+excluded the first 3 years of follow-up (RR⫽1.35; 95% CI,
+1.10 –1.66; P⫽0.005).
+
+When we stratified the analysis by smoking status, red
+meat consumption was positively associated with risk of
+cerebral infarction among never-smokers (highest versus
+lowest quintile: RR⫽1.37; 95% CI, 1.08 –1.79), but not
+among ever-smokers (corresponding RR⫽1.07; 95% CI,
+0.79 –1.44); a test for interaction was not statistically
+significant (P⫽0.16). Likewise, red meat consumption was
+positively associated with risk of cerebral
+infarction
+among women without diabetes (RR⫽1.25; 95% CI, 1.03–
+1.52), but not among women with diabetes (RR⫽0.88;
+95% CI, 0.44 –1.78), although a test for interaction was not
+statistically significant (P⫽0.21). There was a clear dose-
+response relationship between red meat consumption and
+risk of cerebral infarction among never-smokers without
+diabetes (n⫽17 659); the multivariable RRs across quin-
+
+tiles of red meat consumption were 1.00 (reference), 1.27
+(95% CI, 1.02–1.57), 1.22 (95% CI, 0.97–1.53), 1.32 (95%
+CI, 1.03–1.69), and 1.43 (95% CI, 1.11–1.83) (P⫽0.007).
+The association between red meat consumption and stroke
+was not modified by age or by hypertension.
+
+To examine more extreme levels of red meat consumption,
+we categorized participants into deciles of red meat consump-
+tion. Compared with women in the lowest decile of red meat
+(⬍25 g/d, mean 15.7 g/d), the multivariable RR of cerebral
+infarction for those in the highest decile (ⱖ102 g/d, mean
+150.7 g/d) was 1.42 (95% CI, 1.11–1.81). Among never-
+smokers without diabetes, the corresponding RR was 1.68
+(95% CI, 1.21–2.34).
+
+Consumption of processed meat, but not of fresh meat, was
+associated with an increased risk of cerebral
+infarction;
+however, there was no dose-response relationship (Table 3).
+Risk of cerebral infarction was 10% to 28% higher among
+women in the highest 4 quintiles of processed meat consump-
+tion compared with those in the lowest quintile. We found no
+significant associations between fresh meat or processed meat
+consumption and risk of intracerebral hemorrhage or sub-
+arachnoid hemorrhage (Table 3). Poultry consumption was
+not associated with risk of total stroke or of any subtype, but
+consumption of poultry in this population was very low
+(median 0.5 servings/week).
+
+Discussion
+
+In this prospective cohort of Swedish women, consumption of
+red meat and processed meat was associated with an in-
+creased risk of cerebral infarction but not of total stroke,
+intracerebral hemorrhage, or subarachnoid hemorrhage.
+Women who consumed 102 g or more of red meat per day
+(highest decile) had a 42% higher risk of cerebral infarction
+
+Table 3. Multivariable Relative Risks (95% CIs) of Total Stroke and Stroke Subtypes by Fresh and Processed Meat Consumption in
+the Swedish Mammography Cohort, 1998 to 2008
+
+Larsson et al
+
+Meat Consumption and Stroke
+
+327
+
+Quintile
+
+Fresh meat, g/d
+
+Total stroke
+
+Person-years
+No. of cases
+Multivariable model*
+
+Cerebral infarction
+
+No. of cases
+Multivariable model*
+
+Intracerebral hemorrhage
+
+No. of cases
+Multivariable model*
+
+Subarachnoid hemorrhage
+
+No. of cases
+Multivariable model*
+
+Processed meat, g/d
+
+Total stroke
+
+Person-years
+No. of cases
+Multivariable model*
+
+No. of cases
+
+Q1
+⬍16.5
+
+67 233
+429
+
+Q2
+
+16.5–29.0
+
+86 267
+419
+
+Q3
+
+29.1–36.4
+
+58 468
+225
+
+Q4
+
+36.5– 48.7
+
+75 521
+317
+
+P
+
+Q5
+
+ⱖ48.8
+
+71 524
+290
+
+1.00
+
+0.90 (0.78–1.03)
+
+0.90 (0.76–1.06)
+
+0.98 (0.84–1.14)
+
+1.07 (0.91–1.23)
+
+0.31
+
+332
+
+330
+
+166
+
+254
+
+228
+
+1.00
+
+0.92 (0.79–1.08)
+
+0.87 (0.72–1.06)
+
+1.04 (0.87–1.23)
+
+1.12 (0.93–1.34)
+
+0.15
+
+42
+1.00
+
+16
+1.00
+⬍12.1
+
+44
+
+18
+
+26
+
+24
+
+0.90 (0.59–1.39)
+
+0.67 (0.38–1.18)
+
+0.74 (0.44–1.23)
+
+0.83 (0.48–1.42)
+
+0.29
+
+15
+
+14
+
+18
+
+16
+
+0.73 (0.36–1.49)
+
+1.02 (0.49–2.14)
+
+0.98 (0.49–1.99)
+
+0.90 (0.42–1.91)
+
+0.91
+
+12.1–21.5
+
+21.6–30.8
+
+30.9–41.2
+
+ⱖ41.3
+
+77 097
+350
+
+67 836
+405
+
+72 260
+316
+
+70 516
+274
+
+71 304
+335
+
+1.00
+
+1.20 (1.04–1.39)
+
+1.14 (0.98–1.34)
+
+1.03 (0.89–1.21)
+
+1.18 (1.00–1.38)
+
+0.25
+
+Cerebral infarction, No. of cases
+Multivariable model*
+
+261
+
+322
+
+250
+
+214
+
+263
+
+1.00
+
+1.28 (1.08–1.51)
+
+1.23 (1.03–1.47)
+
+1.10 (0.91–1.32)
+
+1.24 (1.04–1.49)
+
+0.15
+
+Intracerebral hemorrhage
+
+No. of cases
+Multivariable modela
+
+Subarachnoid hemorrhage
+
+No. of cases
+Multivariable model*
+
+45
+1.00
+
+13
+1.00
+
+29
+
+30
+
+23
+
+27
+
+0.63 (0.39–1.01)
+
+0.76 (0.47–1.22)
+
+0.59 (0.35–1.01)
+
+0.71 (0.42–1.18)
+
+0.20
+
+16
+
+13
+
+17
+
+20
+
+1.34 (0.64–2.81)
+
+1.05 (0.48–2.29)
+
+1.39 (0.66–2.93)
+
+1.53 (0.73–3.20)
+
+0.27
+
+*Adjusted for age, smoking status and pack-years of smoking, education, body mass index, total physical activity, history of diabetes, history of hypertension, aspirin
+
+use, family history of myocardial infarction, and intake of total energy, alcohol, coffee, fish, fruits, and vegetables.
+
+compared with those who consumed less than 25 g/d (lowest
+decile). Among never-smokers without diabetes, those in the
+highest decile of red meat consumption had 68% increased
+risk of cerebral infarction.
+
+To our knowledge, only 3 previous studies have assessed
+the association between red meat consumption and stroke. In
+the Nurses’ Health Study, women who consumed ⱖ1 serving
+of red and processed meats per day had an RR of ischemic
+stroke of 1.86 (95% CI, 0.90 –3.83; P⫽0.005).9 Red meat
+consumption was not associated with incidence of ischemic
+or hemorrhagic stroke in the Health Professional Follow-up
+Study10 or with total stroke mortality in a cohort of Japanese
+men and women.11
+
+There are several potential mechanisms whereby red
+meat consumption may increase the risk of stroke. Hyper-
+tension is the most important risk factor for stroke. In a
+prospective study of 28 766 US women,
+the risk of
+incident hypertension rose with increasing baseline total
+red meat consumption.7 Women who consumed 1.5 serv-
+ings/d or more of red meat had a statistically significant,
+35% higher risk of developing hypertension compared
+
+with those who consumed no red meat. Similarly, in a
+cohort of 4304 women and men, red and processed meat
+consumption was positively associated with risk of ele-
+vated blood pressure.6 Moreover, mean blood concentra-
+tions of total cholesterol,
+low-density lipoprotein cho-
+lesterol, very-low-density lipoprotein cholesterol, and
+triglycerides were decreased in persons who substituted
+red meat with fish.14,15
+
+Red meat is a major source of bioavailable heme iron.
+Iron is a redox-active transitional metal that can catalyze
+the formation of hydroxyl radicals, which are powerful
+pro-oxidants. Vascular inflammation and monocyte re-
+cruitment are initiating events in atherosclerosis that have
+been suggested to be caused partly by iron-mediated
+oxidative stress. An experimental study showed that the
+intracellular iron chelator desferrioxamine inhibited in-
+flammation and atherosclerosis in mice, suggesting that
+iron may play a role in atherogenesis.16 Elevated iron
+stores may impose oxidative injury and have been associ-
+ated with inflammation,17,18
+the
+metabolic syndrome,21 and type 2 diabetes.22 Red meat is
+
+insulin resistance,19,20
+
+328
+
+Stroke
+
+February 2011
+
+also a source of saturated fat and cholesterol. Whether
+saturated fat affects markers of vascular function, insulin
+resistance, inflammation, or risk of stroke is unclear.23
+Dietary cholesterol was not associated with risk of stroke
+in 2 prospective studies.24
+
+In this study, processed meat was positively associated
+more strongly with risk of cerebral infarction than was
+fresh meat. Sodium in processed meats could plausibly
+account, in part, for these findings. A reduction in dietary
+sodium intake has been shown to decrease significantly
+blood pressure in hypertensive individuals.25 A low-
+sodium diet has also been found to decrease oxidative
+stress and to improve vascular function in salt-sensitive
+individuals,26 and a high sodium intake may promote
+vascular stiffness.27 Several prospective studies have ob-
+served a positive association between processed meat
+consumption and risk of type 2 diabetes,4,28,29 which is a
+risk factor for cerebral infarction.
+
+Strengths of
+
+this study include its prospective and
+population-based design and nearly complete follow-up of
+study participants by linkage with population-based Swed-
+ish registers. Although our study was much larger with
+regard to the number of incident stroke cases compared
+with previous studies, the number of cases of intracerebral
+infarction and subarachnoid hemorrhage was still rela-
+tively small; this leads to limited statistical power and
+unstable risk estimates. Because diet was assessed using a
+self-administered questionnaire, some measurement error
+in assessing meat consumption was inevitable. Given the
+prospective design, any measurement errors are likely to
+be nondifferential and would have tended to attenuate the
+association between red meat consumption and risk of
+cerebral infarction. Another limitation is that our assess-
+ment of medical history and other covariates was based on
+self-report. It is possible that women with high consump-
+tion of
+increased risk of cerebral
+infarction because of other unhealthy habits and behaviors.
+However, our findings persisted after adjustment for a
+wide variety of potential confounders,
+including other
+dietary factors. Women with high red meat consumption
+reported higher consumption of fish, fruits, and vegetables,
+which have been inversely associated with risk of
+stroke.30,31 Thus, any residual confounding because of
+imprecise measurement of those food items would tend to
+attenuate rather than exaggerate the observed positive
+association between red meat consumption and stroke.
+Moreover, results persisted and were even stronger among
+never-smokers and women without diabetes.
+
+red meat were at
+
+In conclusion, results from this prospective study of
+women suggest that consumption of red and processed
+meats may increase risk of cerebral
+infarction. These
+findings merit confirmation in additional large prospective
+studies and in experimental studies on possible biological
+mechanisms.
+
+Sources of Funding
+
+This study was supported by a research grant from the Swedish
+Council for Working Life and Social Research (FAS) and the
+Swedish Research Council for Infrastructure. The funders had no
+
+role in the design and conduct of the study; collection, management,
+analysis, or interpretation of the data; nor preparation, review, or
+approval of the manuscript.
+
+None.
+
+Disclosures
+
+References
+
+1. Larsson SC, Wolk A. Meat consumption and risk of colorectal cancer:
+a meta-analysis of prospective studies. Int J Cancer. 2006;119:
+2657–2664.
+
+2. Larsson SC, Orsini N, Wolk A. Processed meat consumption and
+stomach cancer risk: a meta-analysis. J Natl Cancer Inst. 2006;98:
+1078 –1087.
+
+3. Sinha R, Cross AJ, Graubard BI, Leitzmann MF, Schatzkin A. Meat
+intake and mortality: a prospective study of over half a million people.
+Arch Intern Med. 2009;169:562–571.
+
+4. Micha R, Wallace SK, Mozaffarian D. Red and processed meat con-
+sumption and risk of incident coronary heart disease, stroke, and diabetes
+mellitus: a systematic review and meta-analysis. Circulation. 2010;121:
+2271–2283.
+
+5. Tzoulaki I, Brown IJ, Chan Q, Van Horn L, Ueshima H, Zhao L, Stamler
+J, Elliott P. Relation of iron and red meat intake to blood pressure: cross
+sectional epidemiological study. BMJ. 2008;337:a258.
+
+6. Steffen LM, Kroenke CH, Yu X, Pereira MA, Slattery ML, Van Horn L,
+Gross MD, Jacobs DR Jr. Associations of plant food, dairy product, and
+meat intakes with 15-y incidence of elevated blood pressure in young
+black and white adults: the Coronary Artery Risk Development In young
+Adults (CARDIA) study. Am J Clin Nutr. 2005;82:1169 –1177; quiz
+1363–1164.
+
+7. Wang L, Manson JE, Buring JE, Sesso HD. Meat intake and the risk of
+hypertension in middle-aged and older women. J Hypertens. 2008;26:
+215–222.
+
+8. Azadbakht L, Esmaillzadeh A. Red meat intake is associated with met-
+abolic syndrome and the plasma c-reactive protein concentration in
+women. J Nutr. 2009;139:335–339.
+
+9. Fung TT, Stampfer MJ, Manson JE, Rexrode KM, Willett WC, Hu FB.
+Prospective study of major dietary patterns and stroke risk in women.
+Stroke. 2004;35:2014 –2019.
+
+10. He K, Merchant A, Rimm EB, Rosner BA, Stampfer MJ, Willett WC,
+Ascherio A. Dietary fat intake and risk of stroke in male us healthcare
+professionals: 14 year prospective cohort study. BMJ. 2003;327:
+777–782.
+
+11. Sauvaget C, Nagano J, Allen N, Grant EJ, Beral V. Intake of animal
+products and stroke mortality in the Hiroshima/Nagasaki life span study.
+Int J Epidemiol. 2003;32:536 –543.
+
+12. Wolk A, Bergstro¨m R, Hunter D, Willett W, Ljung H, Holmberg L,
+Bergkvist L, Bruce A, Adami HO. A prospective study of association of
+monounsaturated fat and other types of fat with risk of breast cancer. Arch
+Intern Med. 1998;158:41– 45.
+
+13. Norman A, Bellocco R, Bergstrom A, Wolk A. Validity and reproduc-
+ibility of self-reported total physical activity– differences by relative
+weight. Int J Obes Relat Metab Disord. 2001;25:682– 688.
+
+14. Gascon A, Jacques H, Moorjani S, Deshaies Y, Brun LD, Julien P.
+Plasma lipoprotein profile and lipolytic activities in response to the
+substitution of lean white fish for other animal protein sources in pre-
+menopausal women. Am J Clin Nutr. 1996;63:315–321.
+
+15. Wolmarans P, Benade AJ, Kotze TJ, Daubitzer AK, Marais MP,
+Laubscher R. Plasma lipoprotein response to substituting fish for red meat
+in the diet. Am J Clin Nutr. 1991;53:1171–1176.
+
+16. Zhang WJ, Wei H, Frei B. The iron chelator, desferrioxamine, reduces
+inflammation and atherosclerotic lesion development in experimental
+mice. Exp Biol Med (Maywood). 2010;235:633– 641.
+
+17. Depalma RG, Hayes VW, Chow BK, Shamayeva G, May PE, Zacharski
+LR. Ferritin levels, inflammatory biomarkers, and mortality in peripheral
+arterial disease: a substudy of the iron (Fe) and Atherosclerosis Study
+(FEAST) Trial. J Vasc Surg. 2010;51:1498 –1503.
+
+18. Williams MJ, Poulton R, Williams S. Relationship of serum ferritin with
+cardiovascular risk factors and inflammation in young men and women.
+Atherosclerosis. 2002;165:179 –184.
+
+19. Kim NH, Oh JH, Choi KM, Kim YH, Baik SH, Choi DS, Kim SJ. Serum
+ferritin in healthy subjects and type 2 diabetic patients. Yonsei Med J.
+2000;41:387–392.
+
+Larsson et al
+
+Meat Consumption and Stroke
+
+329
+
+20. Tuomainen TP, Nyyssonen K, Salonen R, Tervahauta A, Korpela H,
+Lakka T, Kaplan GA, Salonen JT. Body iron stores are associated with
+serum insulin and blood glucose concentrations. Population study in
+1,013 eastern Finnish men. Diabetes Care. 1997;20:426 – 428.
+
+21. Choi KM, Lee KW, Kim HY, Seo JA, Kim SG, Kim NH, Choi DS, Baik
+SH. Association among serum ferritin, alanine aminotransferase levels,
+and metabolic syndrome in Korean postmenopausal women. Metabolism.
+2005;54:1510 –1514.
+
+22. Jiang R, Manson JE, Meigs JB, Ma J, Rifai N, Hu FB. Body iron stores
+in relation to risk of type 2 diabetes in apparently healthy women. JAMA.
+2004;291:711–717.
+
+23. Micha R, Mozaffarian D. Saturated fat and cardiometabolic risk factors,
+coronary heart disease, stroke, and diabetes: a fresh look at the evidence.
+Lipids. 2010.
+
+24. Iso H, Stampfer MJ, Manson JE, Rexrode K, Hu F, Hennekens CH,
+Colditz GA, Speizer FE, Willett WC. Prospective study of fat and protein
+intake and risk of intraparenchymal hemorrhage in women. Circulation.
+2001;103:856 – 863.
+
+25. He FJ, MacGregor GA. Effect of longer-term modest salt reduction on
+
+blood pressure. Cochrane Database Syst Rev. 2004:CD004937.
+
+26. Al-Solaiman Y, Jesri A, Zhao Y, Morrow JD, Egan BM. Low-sodium
+dash reduces oxidative stress and improves vascular function in salt-
+sensitive humans. J Hum Hypertens. 2009;23:826 – 835.
+
+27. Sanders PW. Vascular consequences of dietary salt intake. Am J Physiol
+
+Renal Physiol. 2009;297:F237–243.
+
+28. Ma¨nnisto¨ S, Kontto J, Kataja-Tuomola M, Albanes D, Virtamo J. High
+processed meat consumption is a risk factor of type 2 diabetes in the
+alpha-tocopherol, beta-carotene cancer prevention study. Br J Nutr. 2010;
+103:1817–1822.
+
+29. Aune D, Ursin G, Veierod MB. Meat consumption and the risk of type 2
+diabetes: a systematic review and meta-analysis of cohort studies. Dia-
+betologia. 2009;52:2277–2287.
+
+30. He K, Song Y, Daviglus ML, Liu K, Van Horn L, Dyer AR, Goldbourt
+U, Greenland P. Fish consumption and incidence of stroke: a meta-anal-
+ysis of cohort studies. Stroke. 2004;35:1538 –1542.
+
+31. He FJ, Nowson CA, MacGregor GA. Fruit and vegetable consumption
+and stroke: meta-analysis of cohort studies. Lancet. 2006;367:320 –326.
+
+

@@ -1,0 +1,1431 @@
+The Journal of Nutrition
+Nutritional Epidemiology
+
+Supplemental Selenium May Decrease Ovarian
+Cancer Risk in African-American Women1–3
+
+Paul D Terry,4* Bo Qin,5 Fabian Camacho,6 Patricia G Moorman,7 Anthony J Alberg,8
+Jill S Barnholtz-Sloan,9 Melissa Bondy,10 Michele L Cote,11 Ellen Funkhouser,12 Kristin A Guertin,6
+Edward S Peters,13 Ann G Schwartz,11 Joellen M Schildkraut,6 and Elisa V Bandera5
+
+4Department of Medicine, Graduate School of Medicine, University of Tennessee Medical Center, Knoxville, TN; 5Department of
+Population Science, Rutgers Cancer Institute of New Jersey, New Brunswick, NJ; 6Department of Public Health Sciences, University of
+Virginia, Charlottesville, VA; 7Department of Community and Family Medicine, Duke Cancer Institute, Durham, NC; 8Hollings Cancer
+Center and Department of Public Health Sciences, Medical University of South Carolina, Charleston, SC; 9Case Comprehensive Cancer
+Center, Case Western Reserve University School of Medicine, Cleveland, OH; 10Cancer Prevention and Population Sciences Program,
+Baylor College of Medicine, Houston, TX; 11Department of Oncology and the Karmanos Cancer Institute, Population Studies and
+Disparities Research Program, Wayne State University School of Medicine, Detroit, MI; 12Division of Preventive Medicine, University of
+Alabama at Birmingham, Birmingham, AL; and 13Epidemiology Program, Louisiana State University Health Sciences Center School of
+Public Health, New Orleans, LA
+
+Abstract
+
+Background: To our knowledge, no previous study has evaluated the associations of antioxidant intake with the risk of
+
+ovarian cancer in African-American women, who are known to have high mortality from the disease.
+
+Objective: We sought to evaluate these associations among 406 ovarian cancer cases and 632 age- and site-matched
+
+controls of African-American descent recruited from AACES (African American Cancer Epidemiology Study), a population-
+
+based, case-control study in 11 geographical areas within the United States.
+
+Methods: Multivariable logistic regression models were used to estimate ORs and 95% CIs adjusted for a wide range of
+
+potentially confounding factors, including age, region, education, parity, oral contraceptive use, menopause, tubal ligation,
+
+family history, body mass index (BMI), smoking status, total energy, and physical activity.
+Results: Women with the highest intakes of supplemental selenium (>20 mg/d) had an ;30% lower risk of ovarian cancer
+than those with no supplemental intake (OR: 0.67; 95% CI: 0.46, 0.97; P-trend = 0.035). This inverse association was
+stronger in current smokers (OR: 0.13; 95% CI: 0.04, 0.46; P-trend = 0.001). There was no association with dietary
+selenium. The associations with carotenoid intakes were weak and nonsigniﬁcant (P = 0.07–0.60). We observed no
+
+association with dietary or supplemental intake of vitamin C or vitamin E. There were no appreciable differences in results
+
+between serous and nonserous tumors.
+
+Conclusions: These ﬁndings provide the ﬁrst insights, to our knowledge, into the potential association between
+
+antioxidants and ovarian cancer in African-American women, indicating potential inverse associations with supplemental
+selenium. J Nutr 2017;147:621–7.
+
+Keywords:
+
+antioxidants, diet, ovarian cancer, African American, women
+
+Introduction
+
+Ovarian cancer is a leading cause of gynecologic cancer death
+(1). Given the relatively poor survival of women diagnosed with
+the disease and the lack of effective screening tools, identifying
+modiﬁable risk factors is essential to reducing ovarian cancer
+mortality and morbidity. The etiology of ovarian cancer is
+multifactorial, encompassing reproductive, hormonal, genetic,
+environmental, and lifestyle factors. Among dietary risk factors,
+antioxidant compounds have been of interest. A few studies have
+suggested that a high consumption of fruit and vegetables may
+decrease ovarian cancer risk, as may the use of antioxidant
+supplements (2). An imbalance between free radicals and
+antioxidants (oxidative stress) can lead to the formation of
+
+genotoxic lipid peroxidation byproducts and contribute
+to progression of ovarian carcinogenesis (3). However, the
+number of dietary studies of ovarian cancer is relatively small, and
+studies have been conducted almost exclusively in Caucasian
+women. Hence, the association between antioxidant intake and
+ovarian cancer risk in African-American women is virtually
+unexplored. This may be an important gap in knowledge given
+the results of studies that suggest the possibility of higher levels of
+oxidative stress in African Americans (4, 5), lower intakes of
+antioxidants (6, 7), different lifestyle correlates of antioxidant
+levels (8), and stronger associations between antioxidant intake
+and cancer risk in African Americans (6, 9). To address this lack
+of evidence and to allow comparisons with other populations,
+
+ã 2017 American Society for Nutrition.
+Manuscript received October 20, 2016. Initial review completed November 23, 2016. Revision accepted January 17, 2017.
+First published online February 15, 2017; doi:10.3945/jn.116.243279.
+
+621
+
+Downloaded from https://academic.oup.com/jn/article-abstract/147/4/621/4630434
+by University of Ottawa user
+on 24 June 2018
+
+we evaluated associations of commonly studied antioxidants with
+risk of ovarian cancer in a large, population-based, multi-
+center case-control study of women enrolled in AACES (African
+American Cancer Epidemiology Study).
+
+Methods
+
+Design and participants. This study was conducted among women
+of African-American descent recruited into AACES, an ongoing,
+population-based, case-control study of ovarian cancer in 11 sites in the
+United States (Alabama, Georgia, Illinois, Louisiana, Michigan, North
+Carolina, New Jersey, Ohio, South Carolina, Tennessee, and Texas) (10).
+Cases were identiﬁed by rapid case ascertainment utilizing state
+cancer registries; Surveillance, Epidemiology, and End Results
+Program registries; or hospitalsÕ gynecologic oncology departments.
+Eligible cases include all self-identiﬁed African-American women
+between 20 and 79 y of age with newly diagnosed, histologically
+conﬁrmed invasive epithelial ovarian cancer. Controls who self-identiﬁed
+as African American were selected by using random-digit dialing and
+were frequency-matched to cases by 5-y age groups and state of
+residence. Women who had a previous history of ovarian cancer or a
+bilateral oophorectomy were ineligible controls. Among those who
+could be contacted, 66.5% of potential cases and 72% of potential
+controls agreed to participate in the main telephone interview. The study
+was approved by the Institutional Review Boards at all study sites.
+
+Data were collected by a computer-assisted telephone interview,
+which included detailed questions on demographic factors, personal and
+family history of cancer, reproductive history, medication use, lifestyle
+characteristics, height and weight, and other factors of relevance to
+African-American women, such as skin pigmentation, perceived dis-
+crimination, and cultural beliefs.
+
+Dietary assessment. We assessed individual exposure levels of
+antioxidant nutrients from both food sources and dietary supplements,
+speciﬁcally vitamins E and C, carotenoids, and selenium. Dietary
+information was assessed via a self-administered Block 2005 FFQ,
+which included questions on the usual frequency and portion size for 110
+food and beverages consumed over the year preceding diagnosis for cases
+or the interview date for controls (11). Usual intake of dietary
+supplements of antioxidant nutrients, including multivitamins, was also
+collected. Nutrient intakes from diet and supplements were derived by
+Block Dietary Data Systems based on the USDA Food and Nutrient
+Database for Dietary Studies 1.0. Validation studies of the Block FFQ
+have been described elsewhere (11, 12). A previous evaluation showed
+that FFQ reliability was high, with Pearson correlation coefﬁcients for
+
+1 Supported by the New Jersey Commission on Cancer Research. The
+African American Cancer Epidemiology Study was funded by the National
+Cancer
+Institute (R01CA142081). Additional support was provided by
+Metropolitan Detroit Cancer Surveillance System with federal funds from
+the National Cancer Institute, NIH, Department of Health and Human
+Services, under contract HHSN261201000028C, the Epidemiology Research
+Core, supported in part by the National Cancer Institute Center Grant
+(P30CA22453) to the Karmanos Cancer Institute, Wayne State University
+School of Medicine, and the National Cancer
+Institute Center Grant
+(P30CA072720) to the Rutgers Cancer Institute of New Jersey. The New
+Jersey State Cancer Registry, Cancer Epidemiology Services, New Jersey
+Department of Health, is funded by the Surveillance, Epidemiology, and End
+Results Program of
+Institute under contract
+HHSN261201300021I, the National Program of Cancer Registries, CDC
+under grant 5U58DP003931-02, as well as the State of New Jersey and the
+Rutgers Cancer Institute of New Jersey.
+2 Author disclosures: PD Terry, B Qin, F Camacho, PG Moorman, AJ Alberg,
+JS Barnholtz-Sloan, M Bondy, ML Cote, E Funkhouser, KA Guertin, ES
+Peters, AG Schwartz, JM Schildkraut, and EV Bandera, no conﬂicts of
+interest.
+3 Supplemental Table 1 is available from the ‘‘Online Supporting Material’’
+link in the online posting of the article and from the same link in the online
+table of contents at http://jn.nutrition.org.
+*To whom correspondence should be addressed. E-mail: pdterry@utk.edu.
+
+the National Cancer
+
+622 Terry et al.
+
+micronutrients from supplements and food ranging from 0.65 to 0.88.
+FFQ validity was moderate to high, with attenuated Pearson correlation
+coefﬁcients for micronutrients from supplements and food ranging from
+0.49 to 0.76 (11). The validity correlation for selenium for this
+questionnaire was 0.56.
+
+The present study included 495 cases and 711 controls who completed
+the main questionnaire via telephone interview by December 2014. After
+excluding 72 cases and 76 controls who had not completed the FFQ for
+dietary assessment at time of analysis, 1 case and 3 controls who reported
+an extreme energy intake (greater than twice the interquartile range of log
+energy intake), and 16 cases subsequently determined to be noneligible by
+pathology review, a total of 406 cases and 632 controls remained for the
+analysis. We compared characteristics of women completing and not
+completing the FFQ and found no difference with respect to age,
+education, region, BMI, and smoking (data not shown).
+
+Statistical analyses. We compared the distributions of characteristics
+between cases and controls using chi-square tests or t tests as appropriate.
+We used Spearman rank correlations to compare casesÕ and controlsÕ
+intakes of antioxidants of interest, which were selected a priori and
+included total and individual carotenoids, vitamin E, vitamin C, and
+selenium. We used unconditional logistic regressions to estimate ORs
+and 95% CIs of ovarian cancer by quartile of antioxidant intake; quartiles
+were based on the distribution of controls. We investigated dietary (food
+sources), supplemental, and total antioxidant intake. For selected antiox-
+idants, supplement intake was categorized as no use, medium, and high,
+where the latter 2 categories represent supplement users with intakes
+below and above the median, respectively. Then, a summary of total
+dietary plus supplement was created. The median value of each category
+was treated as a continuous variable in tests for linear trends. An a of 0.05
+was used to determine statistical signiﬁcance. All statistical analyses were
+2-sided and were performed by using SAS version 9.4.
+
+The full multivariable model was adjusted for age, geographic region
+(Midwest, South Central, or South Mid-Atlantic), education (high
+school or less, some post–high school training, college, or graduate
+degree), parity (0, 1–2, or >2), oral contraceptive use (never, <60, or
+$60 mo), menopause status (pre- or postmenopause), tubal ligation (no or
+yes), ﬁrst-degree family history of breast or ovarian cancer (no or yes),
+BMI (in kg/m2) calculated from self-reported weight and height 1 y
+before and treated as categorical variable [underweight or normal (<25),
+overweight (25–29.9), or obese ($30)], smoking status (never, former,
+or current), recreational physical activity (0, <150, or $150 min/wk 1 y
+before), and total energy intake. Other covariates as listed in Table
+1 (e.g., alcohol consumption and hysterectomy) were evaluated but
+were not included in the ﬁnal multivariate model because none changed
+the effect estimates by >10%.
+
+We examined the association between antioxidants and ovarian
+cancer across strata of smoking (never, former, or current). Tests of
+statistical interaction were conducted by using Wald hypotheses tests
+about the model regression coefﬁcients pertaining to the interaction,
+resulting in a Wald statistic with asymptotic chi-square distribution. The
+P values for the tests, with correct speciﬁcation, can be read from SAS
+proc logistic Type 3 Analysis of Effects table and by specifying a
+‘‘contrast’’ statement in proc logistic. We also conducted analyses
+between serous and nonserous cases and tested for heterogeneity by
+statistically comparing parameter estimates between corresponding
+relative risk ratios in a multinomial regression model.
+
+Results
+
+As expected, established ovarian cancer risk factors differed
+between cases and controls (Table 1). Cases were older and less
+likely to have children, to use oral contraceptives, to have a
+family history of breast or ovarian cancer, to consume alcohol,
+or to have had a tubal ligation. Cases and controls had similar
+intakes of total energy, protein, fat, and carbohydrates.
+
+Median values of antioxidant intake were similar between
+cases and controls (data not shown). Among the antioxidants
+evaluated in this study, we only observed a statistically
+
+Downloaded from https://academic.oup.com/jn/article-abstract/147/4/621/4630434
+by University of Ottawa user
+on 24 June 2018
+
+TABLE 1 Demographic characteristics of African-American women with and without invasive epithelial
+ovarian cancer, 2010–20141
+
+Age, y
+#49
+50–59
+$60
+Region
+
+Midwest
+South Central
+South Mid-Atlantic
+
+Education
+
+#High school
+Some post–high school training
+College or graduate degree
+
+Parity
+
+0
+1–2
+3
+
+Oral contraceptive use
+
+,60 mo
+$60 mo
+Never
+
+Menopausal status
+Premenopausal
+Postmenopausal
+
+Tubal ligation
+
+No
+Yes
+
+Family history of breast or ovarian cancer (first-degree relative)
+
+No
+Yes
+
+BMI, kg/m2
+
+,25 (underweight and normal)
+25–29.9 (overweight)
+$30 (obese)
+
+Smoking
+
+Never smoker
+Former smoker
+Current smoker
+
+Physical activity
+
+Sedentary
+Only mild
+Some moderate
+Any strenuous
+Supplement use3
+
+Selenium
+Vitamin C
+Vitamin E
+Total intake4
+
+Energy, kcal/d
+Ethanol, g/d
+Carbohydrate, g/d
+Fat, g/d
+Protein, g/d
+
+Cases (n = 386)
+
+Controls (n = 622)
+
+83 (21.5)
+142 (36.8)
+161 (41.7)
+
+55 (14.2)
+111 (28.8)
+220 (57.0)
+
+175 (45.3)
+95 (24.6)
+116 (30.1)
+
+79 (20.5)
+162 (42.0)
+145 (37.6)
+
+158 (40.9)
+117 (30.3)
+111 (28.8)
+
+105 (27.2)
+281 (72.8)
+
+250 (64.8)
+136 (35.2)
+
+285 (73.8)
+101 (26.2)
+
+56 (14.5)
+99 (25.6)
+231 (59.8)
+
+218 (56.5)
+101 (26.2)
+67 (17.4)
+
+139 (36.0)
+79 (20.5)
+139 (36.0)
+29 (7.5)
+
+50.5
+60.9
+59.6
+
+174 (28.0)
+235 (37.8)
+213 (34.2)
+
+149 (24.0)
+144 (23.2)
+329 (52.9)
+
+230 (37.0)
+179 (28.8)
+213 (34.2)
+
+83 (13.3)
+279 (44.9)
+260 (41.8)
+
+279 (44.9)
+220 (35.4)
+123 (19.8)
+
+191 (30.7)
+431 (69.3)
+
+370 (59.5)
+252 (40.5)
+
+508 (81.7)
+114 (18.3)
+
+115 (18.5)
+154 (24.8)
+353 (56.8)
+
+357 (57.4)
+138 (22.2)
+127 (20.4)
+
+200 (32.2)
+157 (25.2)
+199 (32.0)
+66 (10.6)
+
+56.8
+65.3
+64.6
+
+1771 6 12305
+
+3.4 6 18
+218 6 158
+73 6 50
+65 6 47
+
+1750 6 1132
+
+6.1 6 18
+209 6 137
+73 6 50
+66 6 46
+
+P2
+
+0.02
+
+,0.001
+
+0.03
+
+0.02
+
+0.004
+
+0.2
+
+0.09
+
+0.003
+
+0.3
+
+0.2
+
+0.07
+
+0.05
+0.2
+0.1
+
+0.7
+0.02
+0.3
+1.0
+0.8
+
+1 Values are n (%) unless otherwise indicated. Only complete cases are shown. Missing data on education for 1 control, menopause for
+2 controls, tubal ligation for 2 cases and 1 control, BMI for 2 cases and 1 control, and smoking for 17 cases and 5 controls.
+2 P values are for chi-square tests unless otherwise noted.
+3 Values are the percentage of subjects who used supplements.
+4 P values are for t tests.
+5 Mean 6 SD (all such values).
+
+Downloaded from https://academic.oup.com/jn/article-abstract/147/4/621/4630434
+by University of Ottawa user
+on 24 June 2018
+
+Antioxidants and ovarian cancer
+
+623
+
+signiﬁcant difference in median intake between cases and
+controls for selenium from dietary supplements (2.86 mg/d for
+cases compared with 5.71 mg/d for controls; P = 0.031). In
+multivariable models, women who reported the highest intakes
+of total selenium had an ;30% lower risk of ovarian cancer
+than those with the lowest intakes (Table 2). Similar associations
+were observed for both dietary and supplemental selenium,
+although statistical signiﬁcance was reached only for supple-
+mental intake. The inverse associations with selenium intake
+were generally stronger in smokers (Supplemental Table 1).
+In additional analyses (data not shown), we did not observe
+effect modiﬁcation of
+the association between selenium
+supplements and ovarian cancer over strata of dietary selenium
+intake (P = 0.44). There was also no association of dietary or
+supplemental zinc or copper intake with ovarian cancer.
+
+Weak inverse associations of ovarian cancer risk with in-
+takes of carotenoids were not signiﬁcant (P = 0.07–0.60)
+(Table 3). Ovarian cancer risk was positively associated
+with b-cryptoxanthine (P = 0.03) (Table 3), but was not
+associated with vitamin C or E intake (Table 4). We did not
+observe appreciable differences in the results when we compared
+serous with nonserous tumors (data not shown).
+
+Discussion
+
+In this population-based ovarian cancer study of African-American
+women, compared with women with selenium intake in the lowest
+quartile, those with intake in the highest quartile had an ~30% lower
+risk of ovarian cancer; risk estimates were statistically signiﬁcant for
+supplemental selenium but not for dietary (P = 0.1) or total selenium
+(P = 0.1). Although we observed an inverse trend with increasing
+intake of total carotenoids, statistical signiﬁcance was lacking. We
+observed no association with either vitamin C or vitamin E. We
+observed no appreciable differences in results between serous and
+nonserous tumors, the 2 major histological types of ovarian
+carcinoma.
+
+TABLE 2 The association of dietary and supplemental intake of
+selenium with ovarian cancer, African American Cancer
+Epidemiology Study, 2010–20141
+
+Intake, mg/d
+
+Cases
+
+Controls
+
+OR2 (95% CI)
+
+P-linear3
+
+Dietary
+
+Q1 (,47.8)
+Q2 (47.8–72.6)
+Q3 (72.7–111.7)
+Q4 (.111.7)
+Supplemental
+
+T1 (nonconsumer)
+T2 (0–20.0)
+T3 (.20.0)
+
+Total
+
+Q1 (,60.9)
+Q2 (60.9–96.4)
+Q3 (96.5–137.4)
+Q4 (.137.4)
+
+88 (21.7)
+122 (30.0)
+102 (25.1)
+94 (23.2)
+
+203 (50.0)
+139 (34.2)
+64 (15.8)
+
+110 (27.1)
+120 (29.6)
+76 (18.7)
+100 (24.6)
+
+158 (25.0)
+158 (25.0)
+158 (25.0)
+158 (25.0)
+
+274 (43.4)
+211 (33.4)
+147 (23.3)
+
+158 (25.0)
+158 (25.0)
+158 (25.0)
+158 (25.0)
+
+1.00 Referent
+1.19 (0.74, 1.91)
+0.98 (0.54, 1.78)
+0.66 (0.31, 1.37)
+
+1.00 Referent
+0.89 (0.66, 1.21)
+0.67 (0.46, 0.97)*
+
+1.00 Referent
+0.91 (0.60, 1.38)
+0.58 (0.35, 0.94)*
+0.67 (0.39, 1.14)
+
+0.1
+
+0.04
+
+0.1
+
+1 Values are n (%) unless otherwise indicated. Supplement or dietary counterpart as
+covariate was added when appropriate. *P , 0.05, different from the reference level.
+Q, quartile; T, tertile.
+2 Adjusted for age, region, education, parity, oral contraceptive use, menopause, tubal
+ligation, family history, BMI, smoking status, total energy, and physical activity.
+3 P-linear is for a test of linear trend treating quartile and tertile medians as a
+continuous variable.
+
+624 Terry et al.
+
+TABLE 3 The association of dietary and supplemental intake of
+carotenoids with ovarian cancer, African American Cancer
+Epidemiology Study, 2010–20141
+
+Intake, mg/d
+
+a-Carotene
+
+Q1 (,137)
+Q2 (137–272)
+Q3 (273–492)
+Q4 (.492)
+
+b-Cryptoxanthine
+
+Q1 (,59)
+Q2 (59–99)
+Q3 (100–185)
+Q4 (.185)
+
+Lutein zeaxanthin
+
+Q1 (,1672)
+Q2 (1672–2744)
+Q3 (2745–5018)
+Q4 (.5018)
+
+Lycopene
+
+Q1 (,1537)
+Q2 (1537–2644)
+Q3 (2645–4498)
+Q4 (.4498)
+
+b-Carotene
+Dietary
+
+Q1 (,2026)
+Q2 (2026–3560)
+Q3 (3561–6003)
+Q4 (.6003)
+Supplemental
+
+T1 (nonconsumer)
+T2 (0–1200.0)
+T3 (.1200.0)
+
+Total
+
+Q1 (,2384)
+Q2 (2384–4152)
+Q3 (4153–7027)
+Q4 (.7027)
+Total carotenoids
+
+Q1 (,6779)
+Q2 (6779–11,158)
+Q3 (11,159–17,527)
+Q4 (.17,527)
+
+Cases
+
+Controls
+
+OR2 (95% CI)
+
+P-linear3
+
+103 (25.4)
+105 (25.9)
+99 (24.4)
+99 (24.4)
+
+93 (22.9)
+85 (20.9)
+103 (25.4)
+125 (30.8)
+
+131 (32.3)
+80 (19.7)
+92 (22.7)
+103 (25.4)
+
+100 (24.6)
+113 (27.8)
+104 (25.6)
+89 (21.9)
+
+106 (26.1)
+97 (23.9)
+102 (25.1)
+101 (24.9)
+
+223 (54.9)
+171 (42.1)
+12 (3.0)
+
+106 (26.1)
+107 (26.4)
+98 (24.1)
+95 (23.4)
+
+112 (27.6)
+116 (28.6)
+78 (19.2)
+100 (24.6)
+
+158 (25.0)
+158 (25.0)
+158 (25.0)
+158 (25.0)
+
+158 (25.0)
+158 (25.0)
+158 (25.0)
+158 (25.0)
+
+158 (25.0)
+158 (25.0)
+158 (25.0)
+158 (25.0)
+
+158 (25.0)
+158 (25.0)
+158 (25.0)
+158 (25.0)
+
+158 (25.0)
+158 (25.0)
+158 (25.0)
+158 (25.0)
+
+321 (50.8)
+283 (44.8)
+28 (4.4)
+
+158 (25.0)
+158 (25.0)
+158 (25.0)
+158 (25.0)
+
+158 (25.0)
+158 (25.0)
+158 (25.0)
+158 (25.0)
+
+1.00 Referent
+0.92 (0.63, 1.36)
+0.86 (0.58, 1.27)
+0.82 (0.55, 1.24)
+
+1.00 Referent
+0.90 (0.59, 1.37)
+1.13 (0.75, 1.72)
+1.45 (0.93, 2.25)
+
+1.00 Referent
+
+0.63 (0.42, 0.93)*
+0.72 (0.49, 1.07)
+0.74 (0.49, 1.10)
+
+1.00 Referent
+1.07 (0.72, 1.59)
+0.87 (0.57, 1.33)
+0.77 (0.48, 1.25)
+
+1.00 Referent
+0.84 (0.57, 1.25)
+0.95 (0.64, 1.41)
+0.86 (0.56, 1.31)
+
+1.00 Referent
+0.85 (0.64, 1.12)
+0.59 (0.28, 1.24)
+
+1.00 Referent
+0.87 (0.59, 1.28)
+0.86 (0.58, 1.29)
+0.74 (0.49, 1.13)
+
+1.00 Referent
+0.89 (0.61, 1.32)
+0.62 (0.40, 0.95)*
+0.66 (0.42, 1.04)
+
+0.4
+
+0.03
+
+0.4
+
+0.2
+
+0.6
+
+0.2
+
+0.2
+
+0.07
+
+1 Values are n (%) unless otherwise indicated. Intakes of a-carotene, b-cryptoxanthine,
+lutein zeaxanthin, and lycopene were measured from food sources only. Supplement or
+dietary counterpart as covariate was added when appropriate. *P , 0.05, different from the
+reference level. Q, quartile; T, tertile.
+2 Adjusted for age, region, education, parity, oral contraceptive use, menopause, tubal
+ligation, family history, BMI, smoking status, total energy, and physical activity.
+3 P-linear is for a test of linear trend treating quartile and tertile medians as a continuous variable.
+
+An imbalance between free radicals (reactive oxygen species) and
+antioxidants results in oxidative stress, which plays a role in ovarian
+cancer pathogenesis by causing structural alterations in DNA directly
+or indirectly through the formation of genotoxic lipid peroxidation
+byproducts that react with DNA (3). Animal and human experi-
+mental studies have shown that surface ovarian epithelial cells
+contain elevated concentrations of 8-oxoguanine during ovulation,
+which is an important mutagenic lesion in DNA (13). It has
+therefore been suggested that limiting oxidative stress to the
+ovarian epithelium could be considered a ﬁrst-line defense
+against ovarian cancer.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/147/4/621/4630434
+by University of Ottawa user
+on 24 June 2018
+
+TABLE 4 The association of dietary and supplemental intake of
+vitamin C and vitamin E with ovarian cancer, African American
+Cancer Epidemiology Study, 2010–20141
+
+Intake, mg/d
+
+Cases
+
+Controls
+
+OR2 (95% CI)
+
+P-linear3
+
+Vitamin C
+Dietary
+
+Q1 (,57.0)
+Q2 (57.0–87.1)
+Q3 (87.2–142.1)
+Q4 (.142.1)
+Supplemental
+
+114 (28.1)
+78 (19.2)
+100 (24.6)
+114 (28.1)
+
+158 (25.0)
+158 (25.0)
+158 (25.0)
+158 (25.0)
+
+1.00 Referent
+0.67 (0.44, 1.01)
+0.82 (0.54, 1.26)
+1.05 (0.66, 1.69)
+
+T1 (nonconsumer)
+T2 (0–142.9)
+T3 (.142.9)
+
+159 (39.2)
+119 (29.3)
+128 (31.5)
+
+221 (35.0)
+212 (33.5)
+199 (31.5)
+
+1.00 Referent
+0.80 (0.58, 1.12)
+0.85 (0.61, 1.18)
+
+Total
+
+Q1 (,86.8)
+Q2 (86.8–170.8)
+Q3 (170.9–360.0)
+Q4 (.360.0)
+
+93 (22.9)
+109 (26.8)
+92 (22.7)
+112 (27.6)
+
+158 (25.0)
+158 (25.0)
+158 (25.0)
+158 (25.0)
+
+1.00 Referent
+1.22 (0.82, 1.81)
+1.02 (0.67, 1.55)
+1.15 (0.77, 1.72)
+
+Vitamin E (a-tocopherol)
+
+Dietary
+
+Q1 (,4.1)
+Q2 (4.14–6.1)
+Q3 (6.2–9.1)
+Q4 (.9.1)
+Supplemental
+
+102 (25.1)
+105 (25.9)
+99 (24.4)
+100 (24.6)
+
+158 (25.0)
+158 (25.0)
+158 (25.0)
+158 (25.0)
+
+1.00 Referent
+1.02 (0.66, 1.57)
+0.91 (0.55, 1.52)
+0.90 (0.49, 1.67)
+
+T1 (nonconsumer)
+T2 (0 to ,13.5)
+T3 ($13.5)
+
+164 (40.4)
+125 (30.8)
+117 (28.8)
+
+226 (35.8)
+232 (36.7)
+174 (27.5)
+
+1.00 Referent
+
+0.72 (0.52, 0.99)*
+0.86 (0.61, 1.20)
+
+Total
+
+Q1 (,6.7)
+Q2 (6.7–14.8)
+Q3 (14.9–25.8)
+Q4 (.25.8)
+
+104 (25.6)
+80 (19.7)
+115 (28.3)
+107 (26.4)
+
+158 (25.0)
+158 (25.0)
+159 (25.2)
+157 (24.8)
+
+1.00 Referent
+0.69 (0.46, 1.05)
+0.99 (0.68, 1.46)
+0.91 (0.61, 1.37)
+
+0.3
+
+0.6
+
+0.7
+
+0.7
+
+0.7
+
+0.8
+
+1 Values are n (%) unless otherwise indicated. Supplement or dietary counterpart as
+covariate was added when appropriate. *P , 0.05, different from the reference level.
+Q, quartile; T, tertile.
+2 Adjusted for age, region, education, parity, oral contraceptive use, menopause, tubal
+ligation, family history, BMI, smoking status, total energy, and physical activity.
+3 P-linear is for a test of linear trend treating quartile and tertile medians as a
+continuous variable.
+
+The anticarcinogenic effects of selenium in a wide variety of
+animal models prompted several decades of epidemiologic
+studies of cancer in humans with mixed results (14). Regarding
+ovarian cancer speciﬁcally, results have also been mixed.
+Epidemiologic studies of selenium from food and supplements
+(15–18), serum (19, 20), hair (21), and toenails (14) have shown
+both null and inverse associations. We discerned no clear pattern
+among those studies that might reconcile the disparate ﬁndings
+based on methodologic or study design features.
+
+The biological mechanisms underlying the multiple pathways
+through which selenium may inﬂuence cancer development
+remain unclear. Recently hypothesized mechanisms include a
+chemopreventive action of speciﬁc selenoproteins in normal cells
+that, conversely, take on a promoting role in existing neoplasms
+(22). Whether such a dual action may help explain mixed ﬁndings
+in the epidemiological literature is also unclear. Unlike our study,
+most of the previous studies that examined selenium intake in
+relation to ovarian cancer risk found no association with
+supplemental selenium intake (15, 17, 18, 23), and one found
+a positive association (16). Selenium from foods was examined
+separately in only one study (16) and showed a statistically
+
+signiﬁcant inverse association between dietary selenium intake
+and ovarian cancer risk. As the authors of that study noted,
+however, selenium concentrations in soil vary greatly by location.
+Therefore, nutrient composition databases may inconsistently
+reﬂect the actual intake of selenium from food.
+
+The inverse association we observed was stronger than in
+previous studies of white women, which may be caused by
+higher levels of nutrient deﬁciency and/or oxidative stress in
+African Americans (4, 5) and lower antioxidant intakes (6, 9).
+These conditions may result in more African-American women
+with suboptimal levels or outright deﬁciency. In our data, the
+inverse association with supplemental selenium intake was not
+modiﬁed by dietary intake, suggesting that ameliorating deﬁ-
+ciency is not the primary mechanism.
+
+Regarding deﬁciency,
+
+the results of several well-known
+clinical trials of antioxidant supplements did not show reduc-
+tions in the risk of any cancer (24–26), although reductions in
+overall cancer rates were observed in a trial conducted in a
+nutritionally deﬁcient population (27). In a study in Linxian
+Province (China), both serum selenium (28) and serum vitamin
+E (a-tocopherol) (29) were inversely associated with cancer risk.
+The possibility that inverse associations with antioxidants tend
+to be stronger in (or limited to) individuals with high levels of
+oxidative stress is supported by the stronger inverse associations
+we observed in smokers. However, we cannot exclude the
+possibility that our results were inﬂuenced by uncontrolled (or
+residual) confounding from lifestyle factors or by any of the
+other methodological limitations noted above.
+
+Carotenoids are lipid-soluble, yellow-orange-red pigments
+found in all higher plants and some animals. Proposed chemo-
+preventive mechanisms include antioxidant, anti-inﬂammation,
+antiangionesesis, antiproliferation, apoptosis
+induction,
+immune modulation, modulation of phase I and II enzymes,
+induction of cell differentiation, enhancement of gap junction
+communication, and others (30). The association between
+carotenoids and ovarian cancer risk is currently unclear in
+epidemiologic studies. Although study results have been mixed,
+prospective cohort studies have largely shown no association
+with the major carotenoids (17, 19, 31–33) or speciﬁcally with
+b-carotene (34, 35). Among the case-control studies that exam-
+ined speciﬁc carotenoids, results have not been consistent regard-
+ing which showed statistically signiﬁcant inverse associations (2,
+15, 16, 36–44). Six of the latter studies showed inverse associa-
+tions with leutin and zeaxanthin (2, 32, 36, 40, 42, 43), whereas 2
+studies showed no association (15, 16). Case-control studies that
+examined summary measures of total carotenoids (36, 38, 41, 42,
+44) have tended to show statistically signiﬁcant inverse associa-
+tions. However, none of the prospective cohort studies showed an
+association with such summary measures. Although most of the
+cohort studies were statistically underpowered, the results of a
+pooled analysis of 10 cohort studies with ;2000 cases of
+ovarian cancer (32) also found no association. A few studies
+examined the association between carotenoids and ovarian
+cancer by tumor subtype (15, 32, 37, 38) and more often found
+stronger inverse associations for mucinous tumors (15, 32, 38).
+Finally, we observed a positive trend for b-cryptoxanthin. A
+similar positive association with b-cryptoxanthin was found in
+one previous study (15). The authors of that study noted (p. 673)
+that as an oxycarotenoid or xanthophylls (C-OH),
+is
+biologically plausible that b-cryptoxanthin may act on ovar-
+ian cells differently from other hydrocarbon carotenoids (C-H).
+Vitamin E is an important lipid-soluble antioxidant, and
+animal and human studies have shown that it may prevent the
+formation of lipid peroxides, which have been observed to
+
+it
+
+Antioxidants and ovarian cancer
+
+625
+
+Downloaded from https://academic.oup.com/jn/article-abstract/147/4/621/4630434
+by University of Ottawa user
+on 24 June 2018
+
+induce oxidant damage of DNA (18). The prospective studies of
+dietary and supplemental vitamin E and ovarian cancer risk have
+shown mostly null results (17, 32–35, 45). The results of case-
+control studies are more mixed with some showing null (15, 16,
+23, 34, 38) and others showing inverse associations (18, 36, 37,
+42, 44). One case-control study found an inverse association
+with supplemental vitamin E intake that was not observed with
+dietary vitamin E (23). Overall, the results for vitamin E supple-
+ments have been as inconsistent as those for diet (15–18, 23, 33). To
+date, the number of studies that considered ovarian cancer subtype
+is too small to discern any related patterns in ﬁndings.
+
+The results of studies of vitamin C intake from diet or
+supplements have been mostly null (15–18, 32–36, 38, 41, 45,
+46), but a few studies have found inverse associations with
+supplemental (23) or total vitamin C intake (42, 44). There also
+have been some reports of higher risk of ovarian cancer in
+women who reported taking vitamin C supplements (17, 34),
+although the majority of studies have shown neither a positive
+nor an inverse association with risk.
+
+The reasons for the inconsistent ﬁndings with antioxidants
+across studies are unclear. One possibility is that this inconsis-
+tency reﬂects the lack of a genuine association. Alternatively,
+there may be a true association, but the equivocal evidence
+reﬂects methodological challenges in addressing this question.
+Examples of such methodological
+issues include the limited
+validity and reliability of some dietary measures, food preparation
+methods that are not adequately captured in the FFQ, unquanti-
+ﬁed confounding, synergy with genetic and epigenetic factors, and
+the fact that different populations can have different burdens of
+oxidative stress and, therefore, antioxidant intake may be most
+valuable in subgroups of the population with the highest oxidative
+stress (3, 47). Future research that rigorously addresses these
+methodological shortcomings is needed to move this ﬁeld forward.
+A unique strength of our study is that we could recruit a large
+sample of African-American women with ovarian cancer and
+population-based controls from various geographic regions with
+diverse socioeconomic and lifestyle characteristics, which in-
+creases our ability to generalize our results to the larger African-
+American population. Hence, our study adds to the scarce
+literature on the etiology of ovarian cancer in African-American
+women. There are also several limitations to our study. Residual
+confounding is possible despite the multivariable and mutually
+adjusted models. We also recognize the limitations of dietary
+recall and selection bias in case-control studies. We did not
+obtain circulating levels of the studied antioxidants, which may
+help reduce measurement error and potential bias toward the
+null. Regarding selection bias, the distribution of risk factors between
+cases and controls in our study was in the expected directions
+compared with other studies among African-American women (48),
+which increased our conﬁdence in the validity of our ﬁndings.
+
+In conclusion, our data suggest that higher intake of supple-
+mental selenium may be inversely associated with risk of ovarian
+cancer in African-American women. Additional studies are
+needed to assess dietary associations with ovarian cancer in
+African-American women, speciﬁcally those that include antioxi-
+dants and other nutrients that may be lacking in this population.
+
+Acknowledgments
+We thank the AACES interviewers, Christine Bard, LaTonda
+Briggs, Whitney Franz (North Carolina) and Robin Gold
+(Detroit). We also thank the individuals responsible for facil-
+itating case ascertainment across the 10 sites, including Jennifer
+Burczyk-Brown (Alabama); Rana Bayakly, Vicki Bennett, and
+Judy Andrews (Georgia); Lisa Paddock and Manisha Narang
+
+626 Terry et al.
+
+(New Jersey); Diana Slone, Yingli Wolinsky, Steven Waggoner,
+Anne Heugel, Nancy Fusco, Kelly Ferguson, Peter Rose, Deb
+Strater, Taryn Ferber, Donna White, Lynn Borzi, Eric Jenison,
+Nairmeen Haller, Debbie Thomas, Vivian von Gruenigen,
+Michele McCarroll, Joyce Neading, John Geisler, Stephanie
+Smiddy, David Cohn, Michele Vaughan, Luis Vaccarello,
+Elayna Freese, James Pavelka, Pam Plummer, William Nahhas,
+Ellen Cato, John Moroney, Mark Wysong, Tonia Combs, Marci
+Bowling, Brandon Fletcher, and Yingli Wolinsky (Ohio); Susan
+Bolick, Donna Acosta, and Catherine Flanagan (South Carolina);
+Martin Whiteside (Tennessee); and Georgina Armstrong. PDT,
+BQ, FC, and EVB performed the analyses; and PDT had primary
+responsibility for ﬁnal content. All authors participated in the design
+of the research, wrote the manuscript, and read and approved the
+ﬁnal manuscript.
+
+References
+
+1. American Cancer Society. Cancer facts and ﬁgures. [Internet]. 2016 [cited
+2017 Jan 2]. Available from: https://www.cancer.org/research/cancer-
+facts-statistics/all-cancer-facts-ﬁgures/cancer-facts-ﬁgures-2016.html.
+
+2. Bertone ER, Hankinson SE, Newcomb PA, Rosner B, Willet WC,
+Stampfer MJ, Egan KM. A population-based case-control study of
+carotenoid and vitamin A intake and ovarian cancer (United States).
+Cancer Causes Control 2001;12:83–90.
+Seifried HE, McDonald SS, Anderson DE, Greenwald P, Milner JA. The
+antioxidant conundrum in cancer. Cancer Res 2003;63:4295–8.
+
+3.
+
+4. Kalinowski L, Dobrucki IT, Malinski T. Race-speciﬁc differences in
+endothelial function: predisposition of African Americans to vascular
+diseases. Circulation 2004;109:2511–7.
+
+5. Morris AA, Zhao L, Patel RS, Jones DP, Ahmed Y, Stoyanova N,
+Gibbons GH, Vaccarino V, Din-Dzietham R, Quyyumi AA. Differences
+in systemic oxidative stress based on race and the metabolic syndrome:
+the Morehouse and Emory Team up to Eliminate Health Disparities
+(META-Health) study. Metab Syndr Relat Disord 2012;10:252–9.
+
+6. Watters JL, Satia JA, Kupper LL, Swenberg JA, Schroeder JC,
+Switzer BR. Associations of antioxidant nutrients and oxidative DNA
+damage in healthy African-American and White adults. Cancer
+Epidemiol Biomarkers Prev 2007;16:1428–36.
+
+7. Brunst KJ, Wright RO, DiGioia K, Enlow MB, Fernandez H, Wright RJ,
+Kannan S. Racial/ethnic and sociodemographic factors associated with
+micronutrient intakes and inadequacies among pregnant women in an
+urban US population. Public Health Nutr 2014;17:1960–70.
+
+8. Watters JL, Satia JA, Kupper LL. Correlates of antioxidant nutrients
+and oxidative DNA damage differ by race in a cross-sectional study of
+healthy African American and white adults. Nutr Res 2008;28:565–76.
+9. Gill JK, Franke AA, Steven Morris J, Cooney RV, Wilkens LR, Le
+Marchand L, Goodman MT, Henderson BE, Kolonel LN. Association
+of selenium, tocopherols, carotenoids, retinol, and 15-isoprostane F(2t)
+in serum or urine with prostate cancer risk: the multiethnic cohort.
+Cancer Causes Control 2009;20:1161–71.
+
+10. Schildkraut JM, Alberg AJ, Bandera EV, Barnholtz-Sloan J, Bondy M,
+Cote ML, Funkhouser E, Peters E, Schwartz AG, Terry P, et al. A multi-
+center population-based case-control study of ovarian cancer
+in
+African-American women: the African American Cancer Epidemiology
+Study (AACES). BMC Cancer 2014;14:688.
+
+11. Boucher B, Cotterchio M, Kreiger N, Nadalin V, Block T, Block G.
+Validity and reliability of the Block98 food-frequency questionnaire in a
+sample of Canadian women. Public Health Nutr 2006;9:84–93.
+
+12. Mares-Perlman JA, Klein B, Klein R, Ritter LL, Fisher MR,
+Freudenheim JL. A diet history questionnaire ranks nutrient intakes in
+middle-aged and older men and women similarly to multiple food
+records. J Nutr 1993;123:489–501.
+
+13. Murdoch WJ, Martinchick JF. Oxidative damage to DNA of ovarian
+surface epithelial cells affected by ovulation: carcinogenic implication
+and chemoprevention. Exp Biol Med (Maywood) 2004;229:546–52.
+
+14. Garland M, Morris
+
+JS, Stampfer MJ, Colditz GA, Spate VL,
+Baskett CK, Rosner B, Speizer FE, Willett WC, Hunter DJ. Prospective
+study of toenail selenium levels and cancer among women. J Natl
+Cancer Inst 1995;87:497–505.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/147/4/621/4630434
+by University of Ottawa user
+on 24 June 2018
+
+15. Tung KH, Wilkens LR, Wu AH, McDufﬁe K, Hankin JH, Nomura AM,
+Kolonel LN, Goodman MT. Association of dietary vitamin A, carote-
+noids, and other antioxidants with the risk of ovarian cancer. Cancer
+Epidemiol Biomarkers Prev 2005;14:669–76.
+
+31. Fairﬁeld KM, Hankinson SE, Rosner BA, Hunter DJ, Colditz GA,
+Willett WC. Risk of ovarian carcinoma and consumption of vitamins A,
+C, and E and speciﬁc carotenoids: a prospective analysis. Cancer
+2001;92:2318–26.
+
+16. Gifkins D, Olson SH, Paddock L, King M, Demissie K, Lu SE,
+Kong AN, Rodriguez-Rodriguez L, Bandera EV. Total and individual
+antioxidant intake and risk of epithelial ovarian cancer. BMC Cancer
+2012;12:211.
+
+17. Thomson CA, Neuhouser ML, Shikany JM, Caan BJ, Monk BJ, Mossavar-
+Rahmani Y, Sarto G, Parker LM, Modugno F, Anderson GL. The role of
+antioxidants and vitamin A in ovarian cancer: results from the WomenÕs
+Health Initiative. Nutr Cancer 2008;60:710–9.
+
+18. Pan SY, Ugnat AM, Mao Y, Wen SW, Johnson KC; Canadian Cancer Reg-
+istries Epidemiology Research Group. A case-control study of diet and the
+risk of ovarian cancer. Cancer Epidemiol Biomarkers Prev 2004;13:1521–7.
+19. Helzlsouer KJ, Alberg AJ, Norkus EP, Morris JS, Hoffman SC,
+Comstock GW. Prospective study of serum micronutrients and ovarian
+cancer. J Natl Cancer Inst 1996;88:32–7.
+
+20. Knekt P, Aromaa A, Alfthan G, Maatela J, Hakama M, Hakulinen T,
+Teppo L. Re: Prospective study of serum micronutrients and ovarian
+cancer. J Natl Cancer Inst 1996;88:1408.
+
+21. Wadhwa SK, Kazi TG, Afridi HI, Talpur FN, Naeemullah. Interaction
+between carcinogenic and anti-carcinogenic trace elements in the scalp
+hair samples of different types of Pakistani female cancer patients. Clin
+Chim Acta 2015;439:178–84.
+
+22. Hatﬁeld DL, Yoo MH, Carlson BA, Gladyshev VN. Selenoproteins that
+function in cancer prevention and promotion. Biochim Biophys Acta
+2009;1790:1541–5.
+
+23. Fleischauer AT, Olson SH, Mignone L, Simonsen N, Caputo TA,
+Harlap S. Dietary antioxidants, supplements, and risk of epithelial
+ovarian cancer. Nutr Cancer 2001;40:92–8.
+
+24. The effect of vitamin E and beta carotene on the incidence of lung cancer
+and other cancers in male smokers. The Alpha-Tocopherol, Beta Carotene
+Cancer Prevention Study Group. N Engl J Med 1994;330:1029–35.
+
+25. Hennekens CH, Buring JE, Manson JE, Stampfer M, Rosner B,
+Cook NR, Belanger C, LaMotte F, Gaziano JM, Ridker PM, et al. Lack
+of effect of long-term supplementation with beta carotene on the
+incidence of malignant neoplasms and cardiovascular disease. N Engl J
+Med 1996;334:1145–9.
+
+26. Omenn GS, Goodman GE, Thornquist MD, Balmes J, Cullen MR,
+Glass A, Keogh JP, Meyskens FL, Valanis B, WIlliams JH, et al. Effects
+of a combination of beta carotene and vitamin A on lung cancer and
+cardiovascular disease. N Engl J Med 1996;334:1150–5.
+
+27. Blot WJ, Li JY, Taylor PR, Guo W, Dawsey S, Wang GQ, Yang CS,
+Zheng SF, Gail M, Li GY, et al. Nutrition intervention trials in Linxian,
+China: supplementation with speciﬁc vitamin/mineral combinations,
+cancer incidence, and disease-speciﬁc mortality in the general popula-
+tion. J Natl Cancer Inst 1993;85:1483–92.
+
+28. Mark SD, Qiao YL, Dawsey SM, Wu YP, Katki H, Gunter EW,
+Fraumeni JF, Blot WJ, Dong ZW, Taylor PR. Prospective study of serum
+selenium levels and incident esophageal and gastric cancers. J Natl
+Cancer Inst 2000;92:1753–63.
+
+29. Taylor PR, Qiao YL, Abnet CC, Dawsey SM, Yang CS, Gunter EW,
+Wang W, Blot WJ, Dong ZW, Mark SD. Prospective study of serum
+vitamin E levels and esophageal and gastric cancers. J Natl Cancer Inst
+2003;95:1414–6.
+
+30. Tanaka T, Shnimizu M, Moriwaki H. Cancer chemoprevention by ca-
+
+rotenoids. Molecules 2012;17:3202–42.
+
+32. Koushik A, Hunter DJ, Spiegelman D, Anderson KE, Buring JE,
+Freudenheim JL, Goldbohm RA, Hankinson SE, Larsson SC,
+Leitzmann M, et al. Intake of the major carotenoids and the risk of
+epithelial ovarian cancer in a pooled analysis of 10 cohort studies. Int J
+Cancer 2006;119:2148–54.
+
+33. Silvera SA, Jain M, Howe GR, Miller AB, Rohan TE. Carotenoid, vi-
+tamin A, vitamin C, and vitamin E intake and risk of ovarian cancer: a
+prospective cohort study. Cancer Epidemiol Biomarkers Prev 2006;15:
+395–7.
+
+34. Crane TE, Khulpateea BR, Alberts DS, Basen-Engquist K, Thomson CA.
+Dietary intake and ovarian cancer risk: a systematic review. Cancer Ep-
+idemiol Biomarkers Prev 2014;23:255–73.
+
+35. Kushi LH, Mink PJ, Folsom AR, Anderson KE, Zheng W, Lazovich D,
+Sellers TA. Prospective study of diet and ovarian cancer. Am J Epidemiol
+1999;149:21–31.
+
+36. Bidoli E, La Vecchia C, Talamini R, Negri E, Parpinel M, Conti E,
+Montella M, Carbone MA, Franceschi S. Micronutrients and ovarian
+cancer: a case-control study in Italy. Ann Oncol 2001;12:1589–93.
+
+37. Chiaffarino F, Parazzini F, Bosetti C, Franceschi S, Talamini R,
+Canzonieri V, Montella M, Ramazzotti V, Franceschi S, La Vecchia C.
+Risk factors for ovarian cancer histotypes. Eur J Cancer 2007;43:
+1208–13.
+
+38. Cramer DW, Kuper H, Harlow BL, Titus-Ernstoff L. Carotenoids, an-
+tioxidants and ovarian cancer risk in pre- and postmenopausal women.
+Int J Cancer 2001;94:128–34.
+
+39. Huncharek M, Klassen H, Kupelnick B. Dietary beta-carotene intake
+and the risk of epithelial ovarian cancer: a meta-analysis of 3,782
+subjects from ﬁve observational studies. In Vivo 2001;15:339–43.
+
+40. Jeong NH, Song ES, Lee JM, Lee KB, Kim MK, Cheon JE, Lee JK,
+Son SK, Lee JP, Kim JH, et al. Plasma carotenoids, retinol and to-
+copherol levels and the risk of ovarian cancer. Acta Obstet Gynecol
+Scand 2009;88:457–62.
+
+41. McCann SE, Freudenheim JL, Marshall JR, Graham S. Risk of human
+ovarian cancer is related to dietary intake of selected nutrients, phyto-
+chemicals and food groups. J Nutr 2003;133:1937–42.
+
+42. McCann SE, Moysich KB, Mettlin C. Intakes of selected nutrients and
+
+food groups and risk of ovarian cancer. Nutr Cancer 2001;39:19–28.
+
+43. Zhang M, Holman CD, Binns CW. Intake of speciﬁc carotenoids and
+
+the risk of epithelial ovarian cancer. Br J Nutr 2007;98:187–93.
+
+44. Zhang M, Lee AH, Binns CW. Reproductive and dietary risk factors for
+
+epithelial ovarian cancer in China. Gynecol Oncol 2004;92:320–6.
+
+45. Chang ET, Lee VS, Canchola AJ, Clarke CA, Purdie DM, Reynolds P,
+Anton-Culver H, Bwerstein L, Deapen D, Peel D, et al. Diet and risk of
+ovarian cancer in the California teachers study cohort. Am J Epidemiol
+2007;165:802–13.
+
+46. Tzonou A, Hsieh CC, Polychronopoulou A, Kaprinis G, Toupadaki N,
+Trichopoulou A, Karakatsani A, Trichopoulos D. Diet and ovarian
+cancer: a case-control study in Greece. Int J Cancer 1993;55:411–4.
+
+47. Collins AR. Antioxidant intervention as a route to cancer prevention.
+
+Eur J Cancer 2005;41:1923–30.
+
+48. Moorman PG, Palmieri RT, Akushevich L, Berchuck A, Schildkraut JM.
+Ovarian cancer risk factors in African-American and white women. Am
+J Epidemiol 2009;170:598–606.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/147/4/621/4630434
+by University of Ottawa user
+on 24 June 2018
+
+Antioxidants and ovarian cancer
+
+627
+
+

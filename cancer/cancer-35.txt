@@ -1,0 +1,1022 @@
+Original article _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Annals of Oncology 12: 173^178, 2001.
+(cid:223) 2001Kluwer Academic Publishers. Printed in the Netherlands.
+
+Dietary glycemic load and colorectal cancer risk
+
+S. Franceschi,1, 2 L. Dal Maso,1 L. Augustin,1, 3 E. Negri,4 M. Parpinel,1 P. Boyle,5
+D. J. A. Jenkins3 & C. La Vecchia4, 6
+1Servizio di Epidemiologia, Centro di Riferimento Oncologico, Istituto Nazionale Tumori, Aviano, Italy; 2Field and Intervention Studies Unit,
+International Agency for Research on Cancer, Lyon, France; 3Department of Nutritional Sciences, Faculty of Medicine, University of Toronto and
+the Clinical Nutrition and Risk Factor Modi¢cation Center, St. Michael’s Hospital, Toronto, Ontario, Canada; 4Istituto di Ricerche Farmacologiche
+‘Mario Negri’; 5Division of Epidemiology and Biostatistics, European Institute of Oncology; 6Istituto di Statistica Medica e Biometria, Universita'
+degli Studi di Milano, Milan, Italy
+
+Summary
+
+Background: Insulin and insulin-like growth factors can
+stimulate proliferation of colorectal cells. High intake of re-
+¢ned carbohydrates and markers of insulin resistance are
+associated with colorectal cancer. To test the insulin/colon
+cancer hypothesis, we determined whether the dietary glyce-
+mic index and the glycemic load are associated with colorectal
+cancer risk.
+
+Design: A case-control study on colorectal cancer con-
+ducted in Italy. Cases included 1125 men and 828 women with
+histologically con¢rmed incident cancer of the colon or rectum.
+Controls were 2073 men and 2081 women hospitalized for
+acute conditions. We calculated average daily dietary glycemic
+index and glycemic load, and ¢ber intake from a validated
+food frequency questionnaire.
+
+Results: Direct associations with colorectal cancer risk
+emerged for glycemic index (odds ratio (OR) in highest vs.
+lowest quintile = 1.7; 95% con¢dence interval (CI): 1.4^2.0)
+and glycemic load (OR = 1.8; 95% CI: 1.5^2.2), after allowance
+for sociodemographic factors, physical activity, number of daily
+meals, and intakes of ¢ber, alcohol and energy. ORs were more
+elevated for cancer of the colon than rectum. Overweight and
+low intake of ¢ber from vegetables and fruit appeared to
+amplify the adverse consequences of high glycemic load.
+
+Conclusions: The positive associations of glycemic index
+and load with colorectal cancer suggest a detrimental role of
+re¢ned carbohydrates in the etiology of the disease.
+
+Key words: colon cancer, ¢ber, glycemic load, rectal cancer
+
+Introduction
+
+Carbohydrate foods consumed in isoglucidic amounts
+produce di¡erent glycemic and insulinemic responses
+depending upon the nature of the food (e.g., ratio of
+amylose to amylopectin, amount and type of ¢ber,
+particle size of starch granules) and type and extent of
+food processing (e.g., extrusion, £aking, grinding, and
+cooking) [1].
+
+A role of diets with a high glycemic response and
+consequent hyperinsulinemia in colorectal carcinogene-
+sis has been postulated [2, 3]. Several ¢ndings from an
+Italian case-control study support this hypothesis. Direct
+associations were found between colorectal cancer and
+intake of re¢ned carbohydrates and energy [4], number
+of daily meals [5], body mass index (BMI) in men and,
+among women, central adiposity [6]. Conversely, inverse
+associations emerged for intake of vegetables, pulses,
+and ¢sh [7], ¢bre [8], unsaturated-to-saturated fat ratio
+[4], and level of physical activity [9].
+
+In order to test the insulin/colon cancer hypothesis,
+we decided to evaluate the dietary carbohydrate compo-
+nent using the glycemic index (GI), an indicator of
+
+carbohydrate foods’ ability to raise blood glucose levels,
+and the glycemic load score (GL), as a combination of
+quality as well as quantity of carbohydrates consumed,
+and thus a measure of dietary insulin demand.
+
+Patients and methods
+
+A case-control study of cancer of the colon and rectum was conducted
+between January 1992 and June 1996 in six Italian areas: the provinces
+of Pordenone and Gorizia in North-eastern Italy; the urban areas of
+Milan and Genoa and the provinces of Forl|' , in the North; and Latina
+and the urban area of Naples in the South [7].
+
+Cases had histologically con¢rmed colorectal cancer diagnosed no
+longer than one year prior to the interview (median 1 month) and with
+no previous diagnoses of cancer at other sites. Overall, 1225 subjects
+with cancer of the colon (688 men and 537 women, median age 62,
+range 19^74 years) and 728 with cancer of the rectum and rectosigmoid
+junction (437 men and 291 women, median age 62, range 23^74 years)
+were included.
+
+Controls were in-patients with no history of cancer,
+
+in major
+teaching and general hospitals in the same areas where cases lived,
+and identi¢ed for acute, non-neoplastic, non-gynecological conditions,
+unrelated to hormonal or digestive tract diseases. All chronic condi-
+tions which may lead to lifestyle modi¢cations (e.g., diabetes mellitus,
+cardiovascular diseases, etc.) were not eligible causes of hospital
+
+174
+
+Table 1. Glycemic index (GI) values for a few common foods and
+recipes.a, b
+
+Table 2. Distribution of 1225 cases of colon cancer, 728 of rectal
+cancer and 4154 controlsa by sex, age group, years of education, and
+level of physical activity. Italy, 1992^1996.
+
+Foods
+
+White breadc
+Biscuits
+Sugar
+Pizza
+Ice cream
+Pasta/rice with tomato sauce
+Apples and pears
+Peas, beans, chick peas, lentils
+Vegetable soup with noodles
+Whole milk
+Peaches, apricots and prunes
+Tomatoes
+
+GI
+
+100
+95
+89
+86
+83
+62
+58
+57
+54
+49
+39
+13
+
+a Modi¢ed by references [17^19].
+b Meat- and ¢sh-based recipes and cheese have a GI close to 0.
+c Standard food.
+
+admission. Conversely, comorbidity from the above conditions did not
+represent an exclusion criterion. The control group included 2073 men
+and 2081 women aged 19^74 years (median age 58) belonging to the
+following diagnostic categories: trauma, mostly fractures and sprains
+(27%); other orthopedic disorders, such as low back and disc disorders
+(24%); acute surgical conditions (18%); eye diseases (24%); and other
+miscellaneous diseases, such as ear, nose, throat, skin and dental
+conditions (7%). About 4% of cases and controls approached during
+their hospital stay refused to be interviewed.
+
+The same structured questionnaire and coding manual were used
+in each center, and all interviewers were centrally trained and routinely
+supervised. The questionnaire included information on socio-demo-
+graphic characteristics, such as education and occupation, lifetime
+smoking and alcohol-drinking habits, physical activity, anthropomet-
+ric measures at various ages, a problem-oriented personal medical
+history and family history of cancer. Body mass index (BMI) was
+computed as weight in kilograms divided by height in square meters.
+In order to compute waist-to-hip (W : H) ratio, the interviewer measured
+the circumference of waist (2 cm above the umbilicus) and hip (max-
+imal protrusion). On account of medical or logistic problems, waist
+and/or hip circumferences were not measured in 25% of colorectal
+cancer cases and 19% of control subjects [6].
+
+An interviewer-administered food-frequency questionnaire (FFQ)
+including total energy.
+was used to assess subjects’ habitual diet,
+Average weekly frequency of consumption of foods or food groups, as
+well as complex recipes during the two years prior to cancer diagnosis
+or hospital admission (for controls) was elicited. The FFQ also
+included 15 questions aimed at assessing individual fat intake pattern
+and meal frequency. Satisfactory reproducibility [10, 11] and validity
+[12] of the FFQ have been reported. To compute energy and nutrient
+intake, an Italian food-composition data base was used [13]. Fiber,
+de¢ned as non starch polysaccharides plus lignin, was divided accord-
+ing to the type of food from which it originated (i.e., vegetables and
+fruit or cereals) [14^16].
+
+The GI is a qualitative assessment of foods based on the incremen-
+tal glucose response and insulin demand they produce for a given
+amount of carbohydrates. We expressed GI as a percent of the glycemic
+response elicited by white bread as a standard food. For each case and
+control subject, we calculated daily average GI by summing the
+products of the carbohydrate content per serving for each food or
+recipe, times the average number of servings of that food per week,
+times its GI, all divided by the total amount of available carbohydrate
+weekly intake [17, 18]. A score for the daily average GL was computed
+as the GI, but without dividing by the total amount of carbohydrates.
+For these calculations we used the carbohydrate content of 50 foods
+or recipes since 28 foods or recipes, chie£y meat- and ¢sh-based ones
+and cheese, contained a negligible amount of carbohydrates [13]. With
+
+Characteristic
+
+Cancer cases
+
+Sex
+
+Male
+Female
+
+Age group (years)
+
+540
+40^49
+50^59
+60^69
+570
+
+Education (years)
+
+57
+7^11
+512
+b
+w2
+2
+
+Physical activity (at the
+work place)
+
+Low
+Medium
+High
+b
+w2
+2
+
+Colon,
+n (%)
+
+Rectum,
+n (%)
+
+688 (56)
+537 (44)
+
+437 (60)
+291 (40)
+
+55 (4)
+114 (9)
+321 (26)
+518 (42)
+217 (18)
+
+621 (51)
+331 (27)
+267 (22)
+48.66 c
+
+26 (4)
+67 (9)
+197 (27)
+306 (42)
+132 (18)
+
+422 (58)
+181 (25)
+122 (17)
+
+0.41
+
+444 (36)
+451 (37)
+330 (27)
+42.59 c
+
+231 (32)
+258 (35)
+239 (33)
+
+1.40
+
+Controls,
+n (%)
+
+2073 (50)
+2081 (50)
+
+347 (8)
+732 (18)
+1244 (30)
+1356 (33)
+475 (11)
+
+2276 (55)
+1156 (28)
+693 (17)
+
+1378 (33)
+1476 (36)
+1299 (31)
+
+a Some ¢gures do not add up to the total because of some missing values.
+b Compared to the control group, adjusted for age, sex, and center.
+c P 5 0.05.
+
+respect to GI values we chie£y used international tables [18]. In order
+to take into account Italian cooking habits (e.g., pasta ‘al dente’),
+Italian sources were used for a few local recipes [19]. Food items for
+which a GI had not been determined were assigned the GI of the
+nearest comparable food (e.g., tangerines were assigned the GI of
+oranges). As an example, Table 1 shows GIs estimated for a few
+common foods and recipes.
+
+Odds ratios (ORs) and the corresponding 95% con¢dence interval
+for quintiles of GI and GL were derived using unconditional multiple
+logistic regression models [20]. The regression equations included
+terms for age, sex, study center, years of education, occupational
+physical activity, number of daily meals, and intakes of ¢ber, alcohol
+and energy. Adjustment for energy was made using the residuals
+method [21]. GI and GL were also introduced as continuous variables,
+and the unit of measurement were 5 and 50, respectively.
+
+Results
+
+After allowance for age, sex, and center, patients with
+cancer of the colon, but not rectum, were signi¢cantly
+more educated and reported lower levels of physical
+activity than controls (Table 2).
+
+GI was positively correlated to GL (Pearson correla-
+tion coe⁄cient, r = 0.59), intake of bread (r = 0.66),
+cakes and sweets (r = 0.28), table sugar (r = 0.23), and
+energy (r = 0.27), but negatively correlated to intake of
+fruit (r = -0.19) and vegetables (r = ”0.12). Correlation
+of GI with other dietary and non-dietary factors, in-
+cluding intake of di¡erent types of fat, alcoholic bever-
+ages, daily number of meals, BMI,
+level of physical
+activity, and smoking habits were weak (i.e., r 5 0.10).
+
+175
+
+Table 3. Odds ratios (ORs) and 95% con¢dence intervals (CIs) a of colorectal cancer by quintile of energy-adjusted daily glycemic index and
+glycemic load score, by subsite(s) and overall. Italy, 1992^1996.
+
+Cancer site(s)
+
+Number
+
+OR (95% CI)
+Quintile
+
+w2
+1 (trend)
+P
+
+Continuous
+
+Glycemic index
+
+Upper limit
+
+Colon
+
+Rectum
+
+1225
+
+728
+
+Colon and rectum
+
+1953
+
+Glycemic load
+Upper limit
+
+Colon
+
+Rectum
+
+1225
+
+728
+
+Colon and rectum
+
+1953
+
+1b
+
+2
+
+3
+
+4
+
+70.7
+
+73.8
+
+76.5
+
+79.6
+
+5
+
+^
+
+1
+
+1
+
+1
+
+1.4
+(1.2^1.8)
+
+1.0
+(0.8^1.4)
+
+1.3
+(1.1^1.5)
+
+1.7
+(1.4^2.1)
+
+1.4
+(1.1^1.9)
+
+1.6
+(1.3^1.9)
+
+1.6
+(1.3^2.0)
+
+1.3
+(1.0^1.7)
+
+1.5
+(1.2^1.8)
+
+1.9
+(1.5^2.4)
+
+1.4
+(1.1^1.9)
+
+1.7
+(1.4^2.0)
+
+29.5
+P 5 0.001
+
+9.6
+P = 0.002
+
+32.8
+P 5 0.001
+
+(5 units (cid:190) day)
+
+1.18
+(1.11^1.26)
+
+1.12
+(1.04^1.21)
+
+1.16
+(1.10^1.22)
+
+151
+
+190
+
+229
+
+285
+
+^
+
+(50 units (cid:190) day)
+
+1
+
+1
+
+1
+
+1.2
+(1.0^1.6)
+
+1.2
+(0.9^1.5)
+
+1.2
+(1.0^1.5)
+
+1.2
+(1.0^1.5)
+
+1.0
+(0.7^1.3)
+
+1.1
+(0.9^1.4)
+
+1.6
+(1.3^2.0)
+
+1.3
+(1.0^1.7)
+
+1.5
+(1.2^1.8)
+
+1.9
+(1.5^2.4)
+
+1.5
+(1.1^1.9)
+
+1.8
+(1.5^2.2)
+
+34.2
+P 5 0.001
+
+6.9
+P = 0.01
+
+35.3
+P 5 0.001
+
+1.26
+(1.16^1.36)
+
+1.09
+(1.00^1.20)
+
+1.20
+(1.13^1.29)
+
+a Adjusted for age, sex, study center, years of education, occupational physical activity, number of daily meals, intakes of ¢ber, alcohol and
+energy.
+b Reference category.
+
+Colorectal cancer risk increased with an increase in
+dietary GI (OR for highest versus lowest quintile: 1.7;
+95% CI: 1.4^2.0) and GL (OR = 1.8; 95% CI: 1.5^2.2)
+(Table 3). The ORs were somewhat higher for colon
+cancer (1.9 for GI and 1.9 for GL in the highest quintile)
+than rectal cancer (1.4 and 1.5, respectively).
+
+Findings were similar in separate strata of age, but
+the association for the combination of colorectal cancer
+was somewhat stronger among women (OR in highest
+quintile = 2.0 for GI and 2.6 for GL) than among men
+(ORs 1.5 for either GI and GL). This di¡erence was
+probably accounted for by a greater proportion of sub-
+jects with colon cancer in the female than in the male
+sex. No material interaction or e¡ect modi¢cation was
+observed between GI or GL and level of physical activity,
+alcohol drinking and unsaturated-to-saturated fatty acid
+ratio. One hundred sixteen (6%) cases and one hundred
+eighty-¢ve (4%) control subjects reported a history of
+non-insulin dependent diabetes. OR in the highest in-
+take quintile of GI and GL were, respectively, 2.1 and 2.4
+among diabetic individuals and 1.7 and 1.8 among non-
+diabetic individuals.
+
+We examined the joint e¡ect of GL and di¡erent ¢ber
+intake by cross-classifying patients with both variables
+(Figure 1a and b). GL was directly associated with colo-
+rectal cancer risk in each stratum of ¢ber from vegetables
+and fruit (median intake 11.9 g per day). Similarly, low
+¢ber intakes showed elevated ORs in each stratum of
+dietary GL (Figure 1a). The OR for the combination of
+the highest tertile of GL and the lowest tertile of ¢ber
+
+from vegetables and fruit compared with the opposite
+extreme was 1.9 (95% CI: 1.5^2.4). GL and ¢ber from
+cereals (median intake 5.7 g per day) produced a di¡er-
+ent picture (Figure 1b). The OR for the combination of
+the highest tertile of GL and the lowest one of cereal
+¢ber was 0.8 (95% CI: 0.5^1.5), whereas for the highest
+tertile of GL and the highest of cereal ¢ber was 1.5 (95%
+CI: 1.0^2.1). In fact GL and ¢ber from cereals were
+strongly correlated (r = 0.81).
+
+We also assessed the combined in£uence of GL and
+the best indicators of visceral adipose tissue in our study,
+i.e.,W : H ratio in women and BMI in men (Table 4). The
+OR was 2.8 (95% CI: 1.9^4.1) in the highest GL tertile in
+combination with the highest tertile of W : H ratio in
+women. Among men, the OR for the combination of the
+highest tertile of BMI and the highest GL tertile was 1.8
+(95% CI: 1.3^2.7).
+
+Discussion
+
+High dietary GI and GL have been associated with
+increased risk of non-insulin dependent diabetes [22,23]
+and coronary heart disease [24], but the in£uence of GI
+and GL on colorectal cancer risk has been little studied
+[25]. Our present ¢ndings show that a diet that increases
+glycemic response is involved in the etiology of cancers
+of the colon-rectum, particularly of those which arise
+from the colon. The associations with GI and GL were
+independent from the presence of diabetes. Low intake
+
+176
+
+Figure 1. Odds ratio* of colorectal cancer by tertile of energy-adjusted glycemic load and ¢ber intake from di¡erent sources. Italy, 1992^1996.
+*Adjusted for age, sex, study center, years of education, occupational physical activity, meal frequency, alcohol consumption, and energy intake.
+(cid:192) Reference category.
+
+of ¢ber from vegetables and fruit and elevated BMI or
+W : H ratio appeared to contribute in enhancing colo-
+rectal cancer risk when the diet was high in GL.
+
+The positive associations we observed between GI
+and GL and colorectal cancer were among the strongest
+reported so far for any dietary factor [7, 25], and were
+consistent in di¡erent strata of age, sex, and various risk
+covariates. The strong risk increase among individuals
+on a high-GL-low-¢ber diet is in agreement with the
+property of ¢ber to £atten the glucose-response and has
+also been observed in individuals with non-insulin de-
+pendent diabetes [22, 23]. Fiber from vegetables and
+fruit, which accounted for 2/3 of ¢ber intake, seemed to
+exert a bene¢cial e¡ect on colorectal cancer risk and,
+possibly, to mitigate the impact of high dietary GL. It is
+possible that ¢ber from cereals did not appear to be
+protective in our [8] as well as in other study populations
+[26] because it was derived chie£y from highly re¢ned
+cereal products [27]. Data on the relationship between
+di¡erent types of ¢ber and glycemic response and insulin
+demand depend on the nature of ¢ber and its relation to
+the nutrients contained in the food [28]. When taken out
+of their botanical structure, isolated cereal ¢ber is not
+seen to reduce the rate of carbohydrate absorption while
+viscous ¢ber (i.e., guar) has been shown to decrease the
+rate of glucose absorption [29].
+
+Whereas consumption of sugar and cakes is relatively
+low, Italy shows the highest consumption of carbo-
+hydrates from re¢ned cereals among a¥uent countries
+[30], up to more than 300 g/day in one ¢fth of this study
+population. Interestingly, the highest intake quintile of
+white bread, whose GI is 100, was associated with an
+energy-adjusted OR of 1.6 (95% CI: 1.3^1.9) whereas the
+highest intake quintile of pasta, whose GI is only ap-
+proximately 60, showed an OR of 1.2 (95% CI: 1.0^1.5).
+Visceral adipose tissue has been associated with in-
+creased insulin resistance and colorectal cancer risk [31].
+
+Table 4. Odds ratios (ORs) and 95% con¢dence intervals (CIs) a of
+colorectal cancer by tertile of energy-adjusted daily glycemic load and
+waist-to-hip ratio in females, and body mass index in males. Italy,
+1992^1996.
+
+OR (95% CI)
+Glycemic load
+
+5158
+
+158^217 4217
+
+Allb
+
+1c
+
+1.4
+(0.9^2.0)
+
+1.3
+(0.9^1.8)
+1c
+
+1.5
+(1.1^2.1)
+
+2.1
+(1.5^3.1)
+
+1.6
+(1.1^2.4)
+
+1.4
+(1.1^1.8)
+
+1.9
+(1.4^2.8)
+
+1.9
+(1.3^2.7)
+
+2.8
+(1.9^4.1)
+
+1.7
+(1.3^2.2)
+
+1c
+
+1.5
+(1.2^2.0)
+
+1.6
+(1.2^2.1)
+
+Females
+
+Waist-to-hip ratio
+
+50.8
+
+0.8^0.86
+
+40.86
+
+Allb
+
+Males
+
+Body mass index
+
+524.6
+
+1c
+
+24.6^27.44
+
+427.44
+
+Allb
+
+0.9
+(0.6^1.3)
+
+1.1
+(0.8^1.5)
+1c
+
+0.9
+(0.7^1.3)
+
+1.2
+(0.8^1.6)
+
+1.3
+(0.9^1.8)
+
+1.1
+(0.9^1.4)
+
+1.2
+(0.9^1.7)
+
+1.3
+(0.9^1.8)
+
+1.8
+(1.3^2.7)
+
+1.4
+(1.1^1.8)
+
+1c
+
+1.1
+(0.9^1.3)
+
+1.3
+(1.1^1.6)
+
+a Adjusted for age, study center, years of education, occupational
+physical activity, number of daily meals, intakes of ¢ber, alcohol and
+energy, and recent weight loss.
+b Adjusted also for glycemic load, waist-to-hip ratio or body mass
+index as appropriate.
+c Reference category.
+
+Men have more visceral adipose tissue than women.
+Thus, BMI was a good surrogate of visceral adipose tissue
+in the male sex while W : H ratio had to be considered
+among women [6]. Assessment of BMI and W : H ratio
+in colorectal cancer patients is hampered by weight loss
+in the proximity of cancer diagnosis. We had, however,
+information on BMI changes over time, and we were
+able to allow for recent weight loss [6].
+
+In addition to dietary ¢ndings, several lines of evidence
+suggest a role of insulin in colorectal carcinogenesis.
+Non-insulin dependent diabetes mellitus is associated
+with increased risk of colorectal cancer [32, 33]. Insulin
+is considered to be a growth factor and has been shown
+to increase insulin-like growth factor (IGF)-I, which is
+involved in long-term regulation of energy metabolism
+[2]. Insulin and IGF receptors have been found in both
+normal and malignant cells of colonic mucosa, and can
+stimulate proliferation of human colorectal cells [2, 34].
+Tall individuals [35] and those with acromegaly, who
+have elevated levels of growth hormone and IGF-I [36],
+have an increased incidence of colorectal cancer. Circu-
+lating levels of IGF-I and II and IGF binding protein
+(IGF BP)-III, which modulate access of IGF-I to IGF-
+receptors, were related to subsequent colorectal cancer
+risk [37, 38].
+
+We used a validated questionnaire [10, 12] and had
+access to a large number of colorectal cancer patients
+and control subjects who, in the vast majority, agreed to
+participate in the study. The control group included a
+broad range of acute conditions unrelated to diet modi¢-
+cations. Reported associations with GI and GL were not
+restricted to any major nosological category of control,
+and held true when cases and controls with a history of
+diabetes were excluded. Allowance was possible for a
+number of potential confounding factors,
+including
+number of daily meals, energy and alcohol intake, and
+physical activity. Weaknesses of the present ¢ndings
+include, however, the limitations of current GI estimates.
+Many of them have been derived from small samples
+and variations of estimates in mixed-meal situations are
+unclear [17,18]. Notwithstanding, the present ¢ndings
+lend indirect support to the hypothesis that increased
+glycemic response and insulin resistance are associated
+with colorectal cancer, most notably with that of the
+colon.
+
+Acknowledgements
+
+This work was supported by the contributions of the
+Italian Association for Research on Cancer, Milan, Italy.
+The authors wish to thank Drs A. Giacosa, M. Mon-
+tella, E. Conti, and Prof. D. Amadori for their help in
+study coordination, and Mrs L. Mei for editorial assis-
+tance.
+
+177
+
+References
+
+1. Jenkins DJ, Kendall CW, Axelsen M et al.Viscous and nonviscous
+¢bres, nonabsorbable and low glycaemic index carbohydrates,
+blood lipids and coronary heart disease. Curr Opin Lipidol 2000;
+11: 49^56.
+
+2. McKeown-Eyssen G. Epidemiology of colorectal cancer revisited:
+Are serum triglycerides and/or plasma glucose associated with
+risk? Cancer Epidemiol Biomarkers Prev 1994; 3: 687^95.
+
+3. Giovannucci E. Insulin and colon cancer. Cancer Causes Control
+
+1995; 6: 164^79.
+
+4. Franceschi S, La Vecchia C, Russo A et al. Macronutrient intake
+and risk of colorectal cancer in Italy. Int J Cancer 1998; 76: 321^4.
+5. Favero A, Franceschi S, La Vecchia C et al. Meal frequency and
+
+co¡ee intake in colon cancer. Nutr Cancer 1998; 30: 182^5.
+
+6. Russo A, Franceschi S, La Vecchia C et al. Body size and colo-
+
+rectal cancer risk. Int J Cancer 1998; 78: 161^5.
+
+7. Franceschi S, Favero A, La Vecchia C et al. Food groups and risk
+
+of colorectal cancer in Italy. Int J Cancer 1997; 72: 56^61.
+
+8. Negri E, Franceschi S, Parpinel M, La Vecchia C. Fiber intake
+and risk of colorectal cancer. Cancer Epidemiol Biomarkers Prev
+1998; 7: 667^71.
+
+9. Tavani A, Braga C, La Vecchia C et al. Physical activity and risk
+of cancers of the colon and rectum: An Italian case-control study.
+Br J Cancer 1999; 79: 1912^6.
+
+10. Franceschi S, Negri E, Salvini S et al. Reproducibility of an
+Italian food frequency questionnaire for cancer studies: Results
+for speci¢c food items. Eur J Cancer 1993; 29A: 2298^305.
+
+11. Franceschi S, Barbone F, Negri E et al. Reproducibility of an
+Italian food frequency questionnaire for cancer studies. Results
+for speci¢c nutrients. Ann Epidemiol 1995; 5: 69^75.
+
+12. Decarli A, Franceschi S, Ferraroni M et al. Validation of a food-
+frequency questionnaire to assess dietary intakes in cancer studies
+in Italy. Results for speci¢c nutrients. Ann Epidemiol 1996; 6:
+110^8.
+
+13. Salvini S, Parpinel M, Gnagnarella P, Maisonneuve P, Turrini A.
+Banca Dati di composizione degli alimenti per studi epidemiolo-
+gici in Italia. Milano, Italy: Istituto Europeo di Oncologia 1998.
+
+14. Holland B, Unwin ID, Buss DH. Cereals and cereal products. The
+third supplement to McCance & Widdowson’s. The composition
+of foods (4th edition). Nottingham, UK: The Royal Society of
+Chemistry and Ministry of Agriculture, Fisheries and Food 1988.
+15. Holland B, Unwin ID, Buss DH.Vegetables, herbs and spices. The
+¢fth supplement to McCance & Widdowson’s. The composition
+of foods (4th edition). Nottingham, UK: The Royal Society of
+Chemistry and Ministry of Agriculture, Fisheries and Food 1991.
+16. Holland B, Unwin ID, Buss DH. Fruit and nuts. The ¢rst supple-
+ment to the ¢fth edition of McCance & Widdowson’s. The
+composition of foods. Nottingham, UK: The Royal Society of
+Chemistry and Ministry of Agriculture, Fisheries and Food 1992.
+17. Wolever TM, Nguyen PM, Chiasson JL et al. Determinants of
+diet glycemic index calculated retrospectively from diet records
+of 342 individuals with non-insulin-dependent diabetes mellitus.
+Am J Clin Nutr 1994; 59: 1265^9.
+
+18. Foster-Powell K, Miller JB. International tables of glycemic
+
+index. Am J Clin Nutr 1995; 62: 871S^93S.
+
+19. Brighenti F, Casiraghi MC. In£uenza dei processi di trasforma-
+zione sulla risposta glicemica ad alimenti amidacei. Giornale
+Italiano di Nutrizione Clinica e Preventiva 1992; 1: 79^87.
+
+20. Breslow NE, Day NE. Statistical methods in cancer research.
+Vol. I. The analysis of case-control studies. IARC Scienti¢c
+Publications no. 32. Lyon: International Agency for Research on
+Cancer 1980.
+
+21. Willett WC, Stampfer MJ. Total energy intake: Implications for
+
+epidemiologic analysis. Am J Epidemiol 1986; 124: 17^27.
+
+22. Salmero¤ n J, Ascherio A, Rimm EB et al. Dietary ¢ber, glycemic
+load, and risk of NIDDM in men. Diabetes Care 1997; 20: 545^50.
+23. Salmero¤ n J, Manson JE, Stampfer MJ et al. Dietary ¢ber, glyce-
+mic load, and risk of non-insulin-dependent diabetes mellitus in
+women. JAMA 1997; 277: 472^7.
+
+178
+
+24. Liu S, Stampfer MJ, Manson JE et al. A prospective study
+of dietary glycemic load, carbohydrate intake and risk of coro-
+nary heart disease in US women. Am J Clin Nutr 2000; 71: 1455^
+61.
+
+25. Slattery ML, Benson J, Berry DT et al. Dietary sugar and colon
+
+cancer. Cancer Epidemiol Biomark Prev 1997; 6: 677^85.
+
+26. Fuchs CS, Giovannucci EL, Colditz GA et al. Dietary ¢ber and
+the risk of colorectal cancer and adenoma in women. N Engl J
+Med 1999; 340: 169^76.
+
+27. Favero A, Salvini S, Russo A et al. Sources of macro- and micro-
+nutrients in Italian women: Results from a food frequency
+questionnaire for cancer studies. Eur J Cancer Prev 1997; 6: 277^
+87.
+
+28. Jenkins DJA, Axelsen M, Kendall CWC et al. Dietary ¢ber, lente
+carbohydrates and the insulin resistant diseases. Br J Nutr 2000;
+83 (Suppl 1): S157^63.
+
+29. Leclere CJ, Champ M, Boillot J et al. Role of viscous guar gums
+in lowering the glycemic response after a solid meal. Am J Clin
+Nutr 1994; 59: 914^21.
+
+30. World Cancer Research Fund in association with American
+Institute for Cancer Research. Food, Nutrition and the Prevention
+of Cancer: A Global Perspective. Washington, DC: American
+Institute for Cancer Research 1997.
+
+31. Schoen RE, Tangen CM, Kuller LH et al. Increased blood glucose
+and insulin, body size, and incident colorectal cancer. J Natl
+Cancer Inst 1999; 91: 1147^54.
+
+32. La Vecchia C, Negri E, Decarli A, Franceschi S. Diabetes mellitus
+and colorectal cancer risk. Cancer Epidemiol Biomarkers Prev
+1997; 6: 1007^10.
+
+33. Hu FB, Manson JE, Simin L et al. Prospective study of adult
+
+onset diabetes mellitus (type 2) and risk of colorectal cancer in US
+women. J Natl Cancer Inst 1999; 91: 542^7.
+
+34. Lahm H, Suardet L, Laurent PL et al. Growth regulation and co-
+stimulation of human colorectal cancer cell lines by insulin-like
+growth factor I, II and transforming growth factor alpha. Br J
+Cancer 1992; 65: 341^6.
+
+35. Hebert PR, Ajani U, Cook NR et al. Adult height and incidence
+of cancer in male physicians (United States). Cancer Causes
+Control 1997; 8: 591-7.
+
+36. Ron E, Gridley G, Hrubec Z, Page W, Arora S, Fraumeni JF Jr.
+[published erratum
+
+Acromegaly and gastrointestinal cancer
+appeared in Cancer 1992; 69: 549]. Cancer 1991; 68: 1673-7.
+
+37. Ma J, Pollak MN, Giovannucci E et al. Prospective study of
+colorectal cancer risk in men and plasma levels of insulin-like
+growth factor (IGF)-I and IGF-binding protein-3. J Natl Cancer
+Inst 1999; 91: 620^5.
+
+38. Manousos O, Souglakos J, Bosetti C et al. IGF-I and IGF-II in
+
+relation to colorectal cancer. Int J Cancer 1999; 83: 15^7.
+
+Received 10 August 2000; accepted 29 September 2000.
+
+Correspondence to:
+Dr L. Dal Maso
+Servizio di Epidemiologia
+Centro di Riferimento Oncologico
+Istituto Nazionale Tumori
+Via Pedemontana Occ.
+33081 Aviano (PN)
+Italy
+E-mail: epidemiology@ets.it
+
+

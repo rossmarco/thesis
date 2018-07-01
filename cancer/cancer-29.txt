@@ -1,0 +1,2430 @@
+ORIGINAL INVESTIGATION
+
+Meat Intake and Mortality
+
+A Prospective Study of Over Half a Million People
+
+Rashmi Sinha, PhD; Amanda J. Cross, PhD; Barry I. Graubard, PhD;
+Michael F. Leitzmann, MD, DrPH; Arthur Schatzkin, MD, DrPH
+
+Background: High intakes of red or processed meat may
+increase the risk of mortality. Our objective was to de-
+termine the relations of red, white, and processed meat
+intakes to risk for total and cause-specific mortality.
+
+Methods: The study population included the National
+Institutes of Health–AARP (formerly known as the Ameri-
+can Association of Retired Persons) Diet and Health Study
+cohort of half a million people aged 50 to 71 years at base-
+line. Meat intake was estimated from a food frequency
+questionnaire administered at baseline. Cox propor-
+tional hazards regression models estimated hazard ra-
+tios (HRs) and 95% confidence intervals (CIs) within
+quintiles of meat intake. The covariates included in the
+models were age, education, marital status, family his-
+tory of cancer (yes/no) (cancer mortality only), race, body
+mass index, 31-level smoking history, physical activity,
+energy intake, alcohol intake, vitamin supplement use,
+fruit consumption, vegetable consumption, and meno-
+pausal hormone therapy among women. Main outcome
+measures included total mortality and deaths due to can-
+cer, cardiovascular disease, injuries and sudden deaths,
+and all other causes.
+
+in the highest vs lowest quintile of red (HR, 1.31 [95%
+CI, 1.27-1.35], and HR, 1.36 [95% CI, 1.30-1.43], re-
+spectively) and processed meat (HR, 1.16 [95% CI, 1.12-
+1.20], and HR, 1.25 [95% CI, 1.20-1.31], respectively)
+intakes had elevated risks for overall mortality. Regard-
+ing cause-specific mortality, men and women had el-
+evated risks for cancer mortality for red (HR, 1.22 [95%
+CI, 1.16-1.29], and HR, 1.20 [95% CI, 1.12-1.30], re-
+spectively) and processed meat (HR, 1.12 [95% CI, 1.06-
+1.19], and HR, 1.11 [95% CI 1.04-1.19], respectively) in-
+takes. Furthermore, cardiovascular disease risk was
+elevated for men and women in the highest quintile of
+red (HR, 1.27 [95% CI, 1.20-1.35], and HR, 1.50 [95%
+CI, 1.37-1.65], respectively) and processed meat (HR, 1.09
+[95% CI, 1.03-1.15], and HR, 1.38 [95% CI, 1.26-1.51],
+respectively) intakes. When comparing the highest with
+the lowest quintile of white meat intake, there was an in-
+verse association for total mortality and cancer mortal-
+ity, as well as all other deaths for both men and women.
+
+Conclusion: Red and processed meat intakes were as-
+sociated with modest increases in total mortality, can-
+cer mortality, and cardiovascular disease mortality.
+
+Results: There were 47 976 male deaths and 23 276 fe-
+male deaths during 10 years of follow-up. Men and women
+
+Arch Intern Med. 2009;169(6):562-571
+
+M EAT INTAKE VARIES SUB-
+
+stantially around the
+world, but the impact
+of consuming higher
+levels of meat in rela-
+tion to chronic disease mortality is am-
+biguous.1-6 To increase sample size, pooled
+
+Author Affiliations: Nutritional
+Epidemiology Branch
+(Drs Sinha, Cross, Leitzmann,
+and Schatzkin) and Biostatistics
+Branch (Dr Graubard), Division
+of Cancer Epidemiology and
+Genetics, National Cancer
+Institute, National Institutes of
+Health, Department of Health
+and Human Services, Rockville,
+Maryland.
+
+For editorial comment
+
+see page 543
+
+analyses of meat intake have been carried
+out in Seventh-Day Adventists in the
+United States1,2 and other vegetarian popu-
+lations in Europe.3-6 Vegetarian diets dif-
+fer from nonvegetarian diets in several re-
+spects. The main sources of protein in a
+
+vegetarian diet are legumes, grains, and
+nuts. Vegetarian diets also include higher
+intakes of vegetables, unsaturated fats, di-
+etary fiber, and antioxidants (carot-
+enoids and vitamins C and E), although
+they contain lower amounts of iron, zinc,
+and vitamin B12. Furthermore, other life-
+style factors, such as smoking, physical ac-
+tivity, and alcohol consumption among
+vegetarians and members of select reli-
+gious groups can differ substantially from
+the general population.
+
+We prospectively investigated red, white,
+and processed meat intakes as risk factors
+for total mortality, as well as cause-
+specific mortality, including cancer and car-
+diovascular disease (CVD) mortality in a co-
+hort of approximately half a million men
+
+(REPRINTED) ARCH INTERN MED/ VOL 169 (NO. 6), MAR 23, 2009
+
+WWW.ARCHINTERNMED.COM
+
+562
+
+©2009 American Medical Association. All rights reserved.
+
+Downloaded From:  by a University of Ottawa User  on 06/11/2018and women enrolled in the National Institutes of Health
+(NIH)–AARP (formerly known as the American Associa-
+tion of Retired Persons) Diet and Health Study.7 This large
+prospective study facilitated the investigation of a wide
+range of meat intakes with chronic disease mortality.
+
+METHODS
+
+STUDY POPULATION
+
+Individuals aged 50 to 71 years were recruited from 6 US states
+(California, Florida, Louisiana, New Jersey, North Carolina, and
+Pennsylvania) and 2 metropolitan areas (Atlanta, Georgia, and
+Detroit, Michigan) to form a large prospective cohort, the NIH-
+AARP Diet and Health Study. Questionnaires on demographic
+and lifestyle characteristics, including dietary habits, were mailed
+to 3.5 million members of AARP in 1995, as described in de-
+tail elsewhere.7 The NIH-AARP Diet and Health Study was ap-
+proved by the Special Studies Institutional Review Board of the
+US National Cancer Institute. Completion of the baseline ques-
+tionnaire was considered to imply informed consent.
+
+DIETARY ASSESSMENT
+
+A 124-item food frequency questionnaire (http://riskfactor
+.cancer.gov/DHQ/forms/files/shared/dhq1.2002.sample.pdf) was
+completed at baseline. The food frequency questionnaire col-
+lected information on the usual consumption of foods and drinks
+and portion sizes over the last 12 months. The validity of the
+food frequency questionnaire was estimated using two 24-
+hour recalls,8 and the estimated energy-adjusted correlations
+ranged from 0.36 to 0.76 for various nutrients and attenuation
+factors ranged from 0.24 to 0.68. Red meat intake was calcu-
+lated using the frequency of consumption and portion size in-
+formation of all types of beef and pork and included bacon, beef,
+cold cuts, ham, hamburger, hotdogs, liver, pork, sausage, steak,
+and meats in foods such as pizza, chili, lasagna, and stew. White
+meat included chicken, turkey, and fish and included poultry
+cold cuts, chicken mixtures, canned tuna, and low-fat sau-
+sages and low-fat hotdogs made from poultry. Processed meat
+included bacon, red meat sausage, poultry sausage, luncheon
+meats (red and white meat), cold cuts (red and white meat),
+ham, regular hotdogs and low-fat hotdogs made from poultry.
+The components constituting red or white and processed meats
+can overlap because both can include meats such as bacon, sau-
+sage, and ham, while processed meat can also included smoked
+turkey and chicken. However, these meat groups are not used
+in the same models; thus, they are not duplicated in any one
+analysis.
+
+To investigate whether the overall composition of meat in-
+take was associated with mortality, we created 3 diet types: high-,
+medium-, and low-risk meat diet. To form these diet variables,
+red and white meat consumption was energy adjusted and split
+into 2 groups using the median values as cut points. Individuals
+with red meat consumption in the upper half and white meat con-
+sumption in the lower half got a score of 1 (high-risk meat diet),
+those with both red and white meat consumption in the same half
+got a score of 2 (medium-risk meat diet), and those with red meat
+consumption in the lower half and white meat consumption in
+the upper half got a score of 3 (low-risk meat diet).
+
+COHORT FOLLOW-UP AND CASE
+
+ASCERTAINMENT
+
+Cohort members were followed-up from the date the baseline
+questionnaire was returned (beginning 1995) through Decem-
+
+ber 31, 2005, by annual linkage of the cohort to the National
+Change of Address database maintained by the US Postal Ser-
+vice and through processing of undeliverable mail, other ad-
+dress change update services, and directly from cohort mem-
+bers’ notifications. For matching purposes, we have virtually
+complete data on first and last name, address history, sex, and
+date of birth. Follow-up for vital status is performed by annual
+linkage of the cohort to the Social Security Administration Death
+Master File in the US verification of vital status, and cause of
+death information is provided by follow-up searches of the Na-
+tional Death Index (NDI) Plus with the current follow-up for
+mortality covered until 2005.
+
+CAUSE-SPECIFIC CASE ASCERTAINMENT
+
+Cancer (International Classification of Diseases, Ninth Revision
+[ICD-9] codes 140-239 and International Statistical Classifica-
+tion of Diseases, 10th Revision [ICD-10] codes C00-C44, C45.0,
+C45.1, C45.7, C45.9, C48-C97, and D12-D48) mortality in-
+cluded deaths due to cancers of the oral cavity and pharynx,
+digestive tract, respiratory tract, soft tissue (including heart),
+skin (excluding basal and squamous cell carcinoma), female
+genital system and breast, male genital system, urinary tract,
+endocrine system, lymphoma, leukemia, and other miscella-
+neous cancers.
+
+Cardiovascular disease (ICD-9 codes 390-398, 401-404, 410-
+438, and 440-448 and ICD-10 codes I00-I09, I10-I13, I20-I51, and
+I60-I78) mortality was from a combination of diseases of the heart;
+hypertension without heart disease; cerebrovascular diseases; ath-
+erosclerosis; aortic aneurysm and dissection; and other diseases
+of the arteries, arterioles, and capillaries.
+
+Mortality from injuries and sudden deaths (ICD-9 codes 800-
+978 and ICD-10 codes U01-U03, V01-Y09, Y35, Y85-Y86, Y87.0,
+Y87.1, and Y89.0) included deaths due to unintentional in-
+jury, adverse effects, suicide, self-inflicted injury, homicide, and
+legal intervention.
+
+All others deaths included mortality from tuberculosis, hu-
+man immunodeficiency virus, other infectious and parasitic dis-
+eases, septicemia, diabetes mellitus, Alzheimer disease, stom-
+ach and duodenal ulcers, pneumonia and influenza, chronic
+obstructive pulmonary disease and allied conditions, chronic
+liver disease and cirrhosis, nephritis, nephrotic syndrome and
+nephrosis, congenital anomalies, certain conditions originat-
+ing in the perinatal period, ill-defined conditions, and un-
+known causes of death.
+
+Total mortality is a combination of all of the aforemen-
+
+tioned causes of deaths.
+
+STATISTICAL ANALYSIS
+
+A total of 617 119 persons returned the baseline question-
+naire; of these, we excluded individuals who moved out of the
+8 study areas before returning the baseline questionnaire
+(n=321), requested to be withdrawn from the study (n=829),
+died before study entry (n=261), had duplicate records (n=179),
+indicated that they were not the intended respondent and did
+not complete the questionnaire (n=13 442), provided no in-
+formation on gender (n=6), and did not answer substantial por-
+tions of the questionnaire or had more than 10 recording er-
+rors (n=35 679). After these exclusions, we further removed
+individuals whose questionnaire was filled in by someone else
+on their behalf (n=15 760). We excluded 4849 subjects report-
+ing extreme daily total energy intake defined as more than 2
+interquartile ranges above the 75th percentile or below the 25th
+percentile and 140 people who had zero person-years of follow-
+up. After all exclusions, our analytic cohort comprised 322 263
+men and 223 390 women.
+
+(REPRINTED) ARCH INTERN MED/ VOL 169 (NO. 6), MAR 23, 2009
+
+WWW.ARCHINTERNMED.COM
+
+563
+
+©2009 American Medical Association. All rights reserved.
+
+Downloaded From:  by a University of Ottawa User  on 06/11/2018We estimated hazard ratios (HRs) and 95% confidence in-
+tervals (CIs) with time since entry into the study as the under-
+lying time metric using Cox proportional hazards regression
+models. Quintile cut points were based on the entire cohort,
+and multivariate-adjusted HRs are reported using the lowest
+quintile as the referent category. The violation of the propor-
+tional hazard assumption was investigated by testing an inter-
+action between a time-dependent binary covariate, which in-
+dicated if follow-up was in the first 5 years or in the second 5
+years, and the quintile terms for meat consumption. Dietary
+variables were energy adjusted using the nutrient density
+method, and meat variables in each model added up to total
+meat (addition model). For example, one model contained both
+red and white meat, while the processed meat model also con-
+tained a nonprocessed meat variable.
+
+To address confounding, we used forward stepwise vari-
+able selection to include covariates to develop the fully ad-
+justed model. Smoking was the largest confounder of the as-
+sociation between meat intake and mortality. Physical activity
+and education were also important covariates, but not to the same
+degree as smoking. The final model included age (continuous);
+education (⬍8 years or unknown, 8-11 years, 12 years [high
+school], some college, or college graduate); marital status (mar-
+ried: yes/no); family history of cancer (yes/no) (cancer mortal-
+ity only); race (non-Hispanic white, non-Hispanic black, Hispanic/
+Asian/Pacific Islander/American Indian/Alaskan native, or
+unknown); body mass index (18.5 to ⬍25, 25 to ⬍30, 30 to ⬍35,
+ⱖ35 [calculated as weight in kilograms divided by height in me-
+ters squared]); 31-level smoking history using smoking status
+(never, former, or current), time since quitting for former smok-
+ers and smoking dose; frequency of vigorous physical activity
+(never/rarely, 1-3 times/mo, 1-2 times/wk, 3-4 times/wk, ⱖ5 times/
+wk); total energy intake (continuous); alcohol intake (none, 0
+to ⬍5, 5 to ⬍15, 15 to ⬍30, ⱖ30 g/d); vitamin supplement user
+(ⱖ1 supplement/mo); fruit consumption (0 to ⬍0.7, 0.7 to ⬍1.2,
+1.2 to ⬍1.7, 1.7 to ⬍2.5, ⱖ2.5 servings/1000 kcal); vegetable
+consumption (0 to ⬍1.3, 1.3 to ⬍1.8, 1.8 to ⬍2.2, 2.2 to ⬍3.0,
+ⱖ3.0 servings/1000 kcal); and menopausal hormone therapy
+among women in the multivariate models.
+
+In subanalyses, we investigated the relation between meat
+intake and mortality by smoking status. We used median val-
+ues of each quintile to test for linear trend with 2-sided P val-
+ues. We also calculated population-attributable risks as an es-
+timate of the percentage of mortality that could be prevented
+if individuals adopted intake levels of participants within the
+first quintile. This was computed as 1 minus the ratio consist-
+ing of the sum of the estimated HR (derived from the Cox pro-
+portional hazard regression models) of each member of the co-
+hort divided by the sum of the estimated HR for which meat
+exposure was assigned to the lowest or highest quintile, de-
+pending on which quintile was the ideal level of meat con-
+sumption. The population-attributable risk was multiplied by
+100 to convert them to a percentage. All statistical analyses were
+carried out using Statistical Analytic Systems (SAS) software
+(SAS Institute Inc, Cary, North Carolina).
+
+RESULTS
+
+During 10 years of follow-up, there were 47 976 male
+deaths and 23 276 female deaths. In general, those in the
+highest quintile of red meat intake tended to consume a
+slightly lower amount of white meat but a higher amount
+of processed meat compared with those in the lowest quin-
+tile. Subjects who consumed more red meat tended to
+be married, more likely of non-Hispanic white ethnic-
+ity, more likely a current smoker, have a higher body mass
+
+index, and have a higher daily intake of energy, total fat,
+and saturated fat, and they tended to have lower educa-
+tion and physical activity levels and lower fruit, veg-
+etable, fiber, and vitamin supplement intakes (Table 1).
+
+RED MEAT
+
+There was an overall increased risk of total, cancer, and
+CVD mortality, as well as all other deaths in both men
+(Table 2) and women (Table 3) in the highest com-
+pared with the lowest quintile of red meat intake in the
+fully adjusted model. There was an increased risk asso-
+ciated with death from injuries and sudden death with
+higher consumption of red meat in men but not in
+women.
+
+WHITE MEAT
+
+When comparing the highest with the lowest quintile of
+white meat intake, there was an inverse association for
+total mortality and cancer mortality, as well as all other
+deaths for both men (Table 2) and women (Table 3). In
+contrast, there was a small increase in risk for CVD mor-
+tality in men with higher intake of white meat. There was
+no association between white meat consumption and
+death from injuries and sudden death in men or women.
+
+PROCESSED MEAT
+
+There was an overall increased risk of total, cancer, and CVD
+mortality, as well as all other deaths in both men (Table 2)
+and women (Table 3) in the highest compared with the low-
+est quintile of processed meat intake. In contrast, there was
+no association for processed meat intake and death from
+injuries and sudden death in either sex.
+
+A lag analysis, excluding deaths occurring in the first
+2 years of follow-up, produced results consistent with the
+main findings in Table 2 and Table 3. For example, the
+HRs for total mortality in men for red meat was as fol-
+lows: second quintile HR, 1.05 (95% CI, 1.01-1.09); third
+quintile HR, 1.13 (95% CI, 1.09-1.17); fourth quintile
+HR, 1.20 (95% CI, 1.16-1.24); and fifth quintile HR, 1.30
+(95% CI, 1.26-1.35). For women, the HRs were as fol-
+lows: second quintile HR, 1.07 (95% CI, 1.02-1.12); third
+quintile HR, 1.15 (95% CI, 1.11-1.21); fourth quintile
+HR, 1.27 (95% CI, 1.21-1.33); and fifth quintile HR, 1.35
+(95% CI, 1.28-1.42). Furthermore, we investigated our
+models for a violation of the proportional hazard as-
+sumption. Proportional hazard assumption was not re-
+jected for all analyses except one, the model with red and
+white meat among the women for total mortality (P=.008).
+On further examination in that model of the relative HR
+between the first 5 years of follow-up and the second 5
+years of follow-up, the red meat results were consistent
+between the 2 follow-up periods. However, for white meat,
+the second 5-year period showed less of an inverse trend
+compared with the first 5-year period (data not shown).
+We investigated whether people who consumed a high-
+risk meat diet had mortality risk profiles that were dif-
+ferent from people who consumed a low-risk meat diet.
+Both men and women who consumed a low-risk meat
+diet had statistically significant lower HRs compared with
+
+(REPRINTED) ARCH INTERN MED/ VOL 169 (NO. 6), MAR 23, 2009
+
+WWW.ARCHINTERNMED.COM
+
+564
+
+©2009 American Medical Association. All rights reserved.
+
+Downloaded From:  by a University of Ottawa User  on 06/11/2018Table 1. Selected Age-Adjusted Characteristics of the National Institutes of Health–AARP Cohort by Red Meat Quintile Categorya
+
+Red Meat Intake Quintile, g/1000 kcal
+
+Non-Hispanic white
+Non-Hispanic black
+Hispanic/Asian/Pacific Islander/American Indian/Alaskan native/unknown
+
+Characteristic
+
+Meat intake
+
+Red meat, g/1000 kcal
+White meat, g/1000 kcal
+Processed meat, g/1000 kcal
+
+Age, y
+Race, %
+
+Positive family history of cancer,%
+Currently married, %
+BMI
+Smoking history, %b
+
+Never smoker
+Former smoker
+Current smoker or having quit ⬍1 y prior
+
+Education, college graduate or postgraduate, %
+Vigorous physical activity ⱖ5 times/wk, %
+Dietary intake
+
+Energy, kcal/d
+Fruit, servings/1000 kcal
+Vegetables, servings/1000 kcal
+Alcohol, g/d
+Total fat, g/1000 kcal
+Saturated fat, g/1000 kcal
+Fiber, g/1000 kcal
+Vitamin supplement use ⱖ1/mo
+
+Meat intake
+
+Red meat, g/1000 kcal
+White meat, g/1000 kcal
+Processed meat, g/1000 kcal
+
+Age, y
+Race, %
+
+Non-Hispanic white
+Non-Hispanic black
+Hispanic/Asian/Pacific Islander/American Indian/Alaskan native/unknown
+
+Positive family history of cancer, %
+Currently married, %
+BMI
+Never received HT (women only)
+Smoking history, %b
+
+Never smoker
+Former smoker
+Current smoker or having quit ⬍1 y prior
+
+Education, college graduate or postgraduate, %
+Vigorous physical activity ⱖ5 times/wk, %
+Dietary intake, %
+Energy, kcal/d
+Fruit, servings/1000 kcal
+Vegetables, servings/1000 kcal
+Alcohol, g/d
+Total fat, g/1000 kcal
+Saturated fat, g/1000 kcal
+Fiber, g/1000 kcal
+Vitamin supplement use ⱖ1/mo
+
+Q1
+
+Q2
+
+Men (n=322 263)
+
+Q3
+
+31.5
+30.7
+10.3
+62.5
+
+93.1
+2.7
+4.2
+48.4
+86.1
+27.1
+
+28.8
+57.5
+9.9
+45.1
+20.5
+
+Q4
+
+Q5
+
+43.1
+30.4
+13.3
+62.3
+
+94.0
+2.2
+3.8
+48.6
+86.7
+27.6
+
+27.6
+57.1
+11.4
+42.3
+18.6
+
+68.1
+30.9
+19.4
+61.7
+
+94.1
+1.9
+4.0
+47.8
+85.6
+28.3
+
+25.4
+55.8
+14.8
+39.1
+16.3
+
+9.3
+36.6
+5.1
+62.8
+
+88.6
+4.2
+7.2
+47.0
+80.8
+25.9
+
+34.4
+56.5
+4.9
+53.0
+30.7
+
+21.4
+32.2
+7.8
+62.8
+
+91.8
+3.2
+5.0
+47.7
+84.4
+26.7
+
+30.5
+58.1
+7.6
+47.3
+23.6
+
+1899
+
+1955
+
+1998
+
+2038
+
+2116
+
+2.3
+2.4
+20.2
+25.8
+7.6
+13.2
+67.3
+
+Women (n=223 390)
+
+1.8
+2.1
+20.4
+30.5
+9.4
+11.0
+62.1
+
+21.2
+35.6
+6.4
+62.2
+
+89.9
+5.5
+4.5
+53.0
+42.4
+26.6
+463
+
+44.3
+39.5
+12.7
+30.7
+16.3
+
+1.6
+2.0
+17.6
+33.5
+10.5
+10.2
+59.1
+
+31.2
+34.9
+8.7
+62.0
+
+91.0
+4.8
+4.3
+52.9
+46.3
+27.1
+47.1
+
+43.23
+38.1
+15.3
+27.7
+13.9
+
+1.4
+2.0
+15.3
+35.9
+11.3
+9.6
+55.8
+
+42.8
+35.1
+11.3
+61.7
+
+91.8
+4.1
+4.1
+52.4
+48.8
+27.7
+48.1
+
+42.2
+37.0
+17.7
+25.6
+12.0
+
+1.1
+1.9
+12.5
+39.4
+12.7
+8.8
+52.0
+
+65.9
+35.3
+16.0
+61.3
+
+91.4
+3.8
+4.9
+51.5
+50.7
+28.4
+50.5
+
+40.0
+35.4
+21.2
+22.7
+11.0
+
+9.1
+37.4
+3.8
+62.2
+
+86.2
+7.5
+6.3
+51.4
+37.2
+25.6
+46.6
+
+45.5
+41.8
+8.8
+37.1
+22.5
+
+1526
+
+1539
+
+1584
+
+1613
+
+1646
+
+2.5
+2.8
+5.8
+27.7
+8.3
+13.8
+72.2
+
+2.0
+2.5
+6.3
+32.1
+9.9
+11.7
+68.4
+
+1.8
+2.4
+6.2
+34.7
+10.8
+10.9
+66.1
+
+1.5
+2.3
+5.7
+37.0
+11.6
+10.3
+63.7
+
+1.3
+2.3
+5.1
+40.1
+12.7
+9.5
+58.8
+
+Abbreviations: AARP, formerly the American Association of Retired Persons; BMI, body mass index (calculated as weight in kilograms divided by height in
+
+meters squared); HT, hormone therapy; Q, quintile.
+
+aData are given as mean value or percentage of participants (N = 545 653). Generalized linear models were used to estimate mean values for the continuous
+
+variables and frequencies for dichotomous proportions within each red meat intake quintile.
+
+bA total of 12 597 men (3.9%) and 7885 women (3.5%) had missing smoking history data.
+
+(REPRINTED) ARCH INTERN MED/ VOL 169 (NO. 6), MAR 23, 2009
+
+WWW.ARCHINTERNMED.COM
+
+565
+
+©2009 American Medical Association. All rights reserved.
+
+Downloaded From:  by a University of Ottawa User  on 06/11/2018Table 2. Multivariate Analysis for Red, White, and Processed Meat Intake and Total and Cause-Specific Mortality in Men
+in the National Institutes of Health–AARP Diet and Health Studya
+
+Mortality in Men
+(n=322 263)
+
+All mortality
+
+Deaths
+Basic modelc
+Adjusted modeld
+
+Cancer mortality
+
+Deaths
+Basic modelc
+Adjusted modeld
+
+CVD mortality
+
+Deaths
+Basic modelc
+Adjusted modeld
+
+Mortality from injuries and sudden deaths
+
+Deaths
+Basic modelc
+Adjusted modeld
+
+All other deaths
+
+Deaths
+Basic modelc
+Adjusted modeld
+
+All mortality
+
+Deaths
+Basic modelc
+Adjusted modeld
+
+Cancer mortality
+
+Deaths
+Basic modelc
+Adjusted modeld
+
+CVD mortality
+
+Deaths
+Basic modelc
+Adjusted modeld
+
+Mortality from injuries and sudden deaths
+
+Deaths
+Basic modelc
+Adjusted modeld
+
+All other deaths
+
+Deaths
+Basic modelc
+Adjusted modeld
+
+Q1
+
+Q2
+Red Meat Intakeb
+
+Quintile
+
+Q3
+
+Q4
+
+Q5
+
+P Value
+for Trend
+
+6437
+
+7835
+
+9366
+
+10 988
+
+13 350
+
+1 [Reference]
+1 [Reference]
+
+1.07 (1.03-1.10)
+1.06 (1.03-1.10)
+
+1.17 (1.13-1.21)
+1.14 (1.10-1.18)
+
+1.27 (1.23-1.31)
+1.21 (1.17-1.25)
+
+1.48 (1.43-1.52)
+1.31 (1.27-1.35)
+
+⬍.001
+⬍.001
+
+2136
+
+2701
+
+3309
+
+3839
+
+4448
+
+1 [Reference]
+1 [Reference]
+
+1.10 (1.04-1.17)
+1.05 (0.99-1.11)
+
+1.23 (1.16-1.29)
+1.13 (1.07-1.20)
+
+1.31 (1.24-1.39)
+1.18 (1.12-1.25)
+
+1.44 (1.37-1.52)
+1.22 (1.16-1.29)
+
+⬍.001
+⬍.001
+
+1997
+
+2304
+
+2703
+
+3256
+
+3961
+
+1 [Reference]
+1 [Reference]
+
+1.02 (0.96-1.08)
+0.99 (0.96-1.09)
+
+1.10 (1.04-1.17)
+1.08 (1.02-1.15)
+
+1.24 (1.17-1.31)
+1.18 (1.12-1.26)
+
+1.44 (1.37-1.52)
+1.27 (1.20-1.35)
+
+⬍.001
+⬍.001
+
+184
+
+216
+
+228
+
+280
+
+343
+
+1 [Reference]
+1 [Reference]
+
+1.02 (0.84-1.24)
+1.06 (0.86-1.29)
+
+0.97 (0.80-1.18)
+1.01 (0.83-1.24)
+
+1.09 (0.90-1.31)
+1.14 (0.94-1.39)
+
+1.24 (1.03-1.49)
+1.26 (1.04-1.54)
+
+.01
+.008
+
+1268
+
+1636
+
+1971
+
+2239
+
+2962
+
+1 [Reference]
+1 [Reference]
+
+1.13 (1.05-1.22)
+1.17 (1.09-1.26)
+
+1.25 (1.17-1.35)
+1.28 (1.19-1.38)
+
+1.33 (1.24-1.42)
+1.34 (1.25-1.44)
+
+1.68 (1.57-1.80)
+1.58 (1.47-1.70)
+
+⬍.001
+⬍.001
+
+White Meat Intakee
+
+12 521
+
+1 [Reference]
+1 [Reference]
+
+10 442
+
+9359
+
+8444
+
+7210
+
+0.83 (0.81-0.85)
+0.92 (0.90-0.95)
+
+0.77 (0.75-0.79)
+0.90 (0.88-0.93)
+
+0.74 (0.72-0.76)
+0.90 (0.88-0.93)
+
+0.74 (0.72-0.76)
+0.92 (0.89-0.94)
+
+⬍.001
+⬍.001
+
+4424
+
+3647
+
+3203
+
+2830
+
+2329
+
+1 [Reference]
+1 [Reference]
+
+0.82 (0.79-0.86)
+0.91 (0.87-0.95)
+
+0.74 (0.71-0.78)
+0.87 (0.83-0.91)
+
+0.71 (0.67-0.74)
+0.85 (0.81-0.90)
+
+0.68 (0.65-0.72)
+0.84 (0.80-0.88)
+
+⬍.001
+⬍.001
+
+3521
+
+3015
+
+2771
+
+2578
+
+2336
+
+1 [Reference]
+1 [Reference]
+
+0.85 (0.81-0.89)
+0.96 (0.91-1.00)
+
+0.81 (0.77-0.85)
+0.96 (0.91-1.01)
+
+0.81 (0.77-0.85)
+0.99 (0.94-1.04)
+
+0.86 (0.81-0.90)
+1.05 (1.00-1.11)
+
+⬍.001
+.009
+
+333
+
+266
+
+249
+
+219
+
+184
+
+1 [Reference]
+1 [Reference]
+
+0.81 (0.69-0.95)
+0.89 (0.76-1.05)
+
+0.78 (0.66-0.93)
+0.90 (0.76-1.06)
+
+0.73 (0.62-0.87)
+0.86 (0.72-1.03)
+
+0.71 (0.59-0.85)
+0.85 (0.70-1.02)
+
+⬍.001
+.11
+
+2775
+
+2206
+
+1948
+
+1722
+
+1425
+
+1 [Reference]
+1 [Reference]
+
+0.79 (0.75-0.83)
+0.90 (0.85-0.95)
+
+0.72 (0.68-0.76)
+0.88 (0.83-0.93)
+
+0.68 (0.64-0.73)
+0.86 (0.81-0.92)
+
+0.67 (0.63-0.72)
+0.86 (0.80-0.92)
+
+⬍.001
+⬍.001
+
+(continued)
+
+people who consumed a high-risk meat diet for all-
+cause, cancer, and CVD mortality, as well as all other
+deaths; for example, for all-cause mortality, the HR for a
+low-risk meat diet was 0.92 (95% CI, 0.80-0.94) for men
+and 0.80 (95% CI, 0.78-0.84) for women.
+
+To further explore possible confounding by smoking,
+we analyzed meat intake and mortality in 2 subgroups—
+never smokers (15 413 deaths among 190 135 never smok-
+ers) and former/current smokers (n=52 754 deaths among
+335 036 former/current smokers). For men, the risks in the
+fifth quintile of red meat intake for never and former/
+current smokers were as follows: for total mortality, HR,
+1.28 (95% CI, 1.19-1.38), and HR, 1.25 (95% CI, 1.20-
+1.30), respectively; for cancer mortality, HR, 1.16 (95% CI,
+
+1.02-1.33), and HR, 1.17 (95% CI, 1.09-1.24), respec-
+tively; and for CVD mortality, HR, 1.43 (95% CI, 1.25-
+1.63), and HR, 1.17 (95% CI, 1.10-1.26), respectively. In
+women, the risks in the fifth quintile of red meat intake for
+never and former/current smokers were as follows: for total
+mortality, HR, 1.36 (95% CI, 1.25-1.48), and HR, 1.28 (95%
+CI, 1.21-1.35), respectively; for cancer mortality, HR, 1.10
+(95% CI, 0.95-1.27), and HR, 1.16 (95% CI, 1.06-1.27),
+respectively; and for CVD mortality, HR, 1.63 (95% CI, 1.38-
+1.93), and HR, 1.34 (95% CI, 1.18-1.51), respectively. Risks
+were similar for the 2 smoking categories in most in-
+stances for processed meat except for cancer mortality, for
+which we found a null relation for both sexes in never smok-
+ers (men: HR, 1.01 [95% CI, 0.88-1.15]; women: HR, 1.02
+
+(REPRINTED) ARCH INTERN MED/ VOL 169 (NO. 6), MAR 23, 2009
+
+WWW.ARCHINTERNMED.COM
+
+566
+
+©2009 American Medical Association. All rights reserved.
+
+Downloaded From:  by a University of Ottawa User  on 06/11/2018Table 2. Multivariate Analysis for Red, White, and Processed Meat Intake and Total and Cause-Specific Mortality in Men
+in the National Institutes of Health–AARP Diet and Health Studya (continued)
+
+Mortality in Men
+(n=322 263)
+
+Deaths
+Basic modelc
+Adjusted modeld
+Cancer mortality
+
+Deaths
+Basic modelc
+Adjusted modeld
+
+CVD mortality
+
+Deaths
+Basic modelc
+Adjusted modeld
+
+Mortality from injuries and sudden deaths
+
+Deaths
+Basic modelc
+Adjusted modeld
+
+All other deaths
+
+Deaths
+Basic modelc
+Adjusted modeld
+
+Quintile
+
+Q1
+
+6235
+
+Q2
+
+Processed Meat Intakef
+
+7738
+
+Q3
+
+9435
+
+Q4
+
+11 249
+
+Q5
+
+13 319
+
+P Value
+for Trend
+
+1 [Reference]
+1 [Reference]
+
+1.04 (1.01-1.08)
+1.01 (0.98-1.04)
+
+1.13 (1.09-1.16)
+1.07 (1.04-1.11)
+
+1.20 (1.16-1.24)
+1.12 (1.08-1.16)
+
+1.30 (1.26-1.34)
+1.16 (1.12-1.20)
+
+⬍.001
+⬍.001
+
+2032
+
+2784
+
+3334
+
+3906
+
+4377
+
+1 [Reference]
+1 [Reference]
+
+1.15 (1.08-1.22)
+1.07 (1.01-1.14)
+
+1.22 (1.15-1.29)
+1.11 (1.05-1.17)
+
+1.28 (1.21-1.35)
+1.14 (1.07-1.20)
+
+1.32 (1.25-1.39)
+1.12 (1.06-1.19)
+
+⬍.001
+.001
+
+1977
+
+2225
+
+2752
+
+3255
+
+4012
+
+1 [Reference]
+1 [Reference]
+
+0.94 (0.88-1.00)
+0.92 (0.87-0.98)
+
+1.02 (0.96-1.09)
+0.99 (0.93-1.05)
+
+1.08 (1.02-1.14)
+1.02 (0.96-1.08)
+
+1.22 (1.15-1.29)
+1.09 (1.03-1.15)
+
+⬍.001
+⬍.001
+
+190
+
+201
+
+257
+
+273
+
+330
+
+1 [Reference]
+1 [Reference]
+
+0.87 (0.72-1.07)
+0.88 (0.72-1.08)
+
+0.98 (0.81-1.19)
+0.99 (0.81-1.20)
+
+0.93 (0.77-1.13)
+0.93 (0.76-1.13)
+
+1.04 (0.86-1.25)
+1.00 (0.83-1.21)
+
+.24
+.48
+
+1259
+
+1548
+
+1896
+
+2430
+
+2943
+
+1 [Reference]
+1 [Reference]
+
+1.05 (0.97-1.13)
+1.05 (0.97-1.13)
+
+1.15 (1.07-1.23)
+1.14 (1.06-1.23)
+
+1.31 (1.22-1.41)
+1.28 (1.19-1.38)
+
+1.46 (1.36-1.56)
+1.33 (1.24-1.43)
+
+⬍.001
+⬍.001
+
+Abbreviations: AARP, formerly the American Association of Retired Persons; CVD, cardiovascular disease.
+aData are given as hazard ratio (95% confidence interval) unless otherwise specified.
+bMedian red meat intake based on men and women (g/1000 kcal): Q1, 9.8; Q2, 21.4; Q3, 31.3; Q4, 42.8; and Q5, 62.5.
+cBasic model: age (continuous); race (non-Hispanic white, non-Hispanic black, Hispanic/Asian/Pacific Islander/American Indian/Alaskan native, or unknown);
+
+and total energy intake (continuous).
+
+dAdjusted model: basic model plus education (⬍8 years or unknown, 8-11 years, 12 years [high school], some college, or college graduate); marital status
+
+(married: yes/no); family history of cancer (yes/no) (cancer mortality only); body mass index (18.5 to ⬍25, 25 to ⬍30, 30 to ⬍35, ⱖ35 [calculated as weight in
+kilograms divided by height in meters squared]); 31-level smoking history using smoking status (never, former, current), time since quitting for former smokers,
+and smoking dose; frequency of vigorous physical activity (never/rarely, 1-3 times/mo, 1-2 times/wk, 3-4 times/wk, ⱖ5 times/wk); alcohol intake (none, 0 to ⬍5,
+5 to ⬍15, 15 to ⬍30, ⱖ30 servings/1000 kcal), vitamin supplement user (ⱖ1 supplement/mo); fruit consumption (0 to ⬍0.7, 0.7 to ⬍1.2, 1.2 to ⬍1.7, 1.7 to
+⬍2.5, ⱖ2.5 servings/1000 kcal); and vegetable consumption (0 to ⬍1.3, 1.3 to ⬍1.8, 1.8 to ⬍2.2, 2.2 to ⬍3.0, ⱖ3.0 serving/1000 kcal).
+
+eMedian white meat intake based on men and women (g/1000 kcal): Q1, 9.5; Q2, 18.4; Q3, 27.4; Q4, 39.4; and Q5, 64.6.
+fMedian processed meat intake based on men and women (g/1000 kcal): Q1, 1.6; Q2, 4.4; Q3, 7.4; Q4, 12.2; and Q5, 22.6.
+
+[95% CI, 0.89-1.17]), but in former/current smokers we
+found higher risks (men: HR, 1.12 [95% CI, 1.05-1.19];
+women: HR, 1.11 [95% CI, 1.02-1.21]). Intriguingly, there
+was increased risk with higher intake of white meat for CVD
+mortality in never smokers (men: HR, 1.24 [95% CI, 1.10-
+1.40]; women: HR, 1.20 [95% CI, 1.03-1.41]).
+
+We calculated the population attributable risks, rep-
+resenting the percentage of deaths that could be pre-
+vented if individuals adopted red or processed meat in-
+take levels of participants within the first quintile. For
+overall mortality, 11% of deaths in men and 16% of deaths
+in women could be prevented if people decreased their
+red meat consumption to the level of intake in the first
+quintile. The impact on CVD mortality was an 11% de-
+crease in men and a 21% decrease in women if the red
+meat consumption was decreased to the amount con-
+sumed by individuals in the first quintile. The median
+red meat consumption based on men and women in the
+first quintile was 9.8 g/1000 kcal/d compared with 62.5
+g/1000 kcal/d in the fifth quintile. For women eating pro-
+cessed meat at the first quintile level, the decrease in CVD
+mortality was approximately 20%. The median pro-
+cessed meat consumption based on men and women in
+the first quintile was 1.6 g/1000 kcal/d compared with
+22.6 g/1000 kcal/d in the fifth quintile.
+
+COMMENT
+
+We examined total and cause-specific mortality in rela-
+tion to meat consumption in a large prospective study.
+We found modest increases in risk for total mortality, as
+well as cancer and CVD mortality, with higher intakes
+of red and processed meat in both men and women. In
+contrast, higher white meat consumption was associ-
+ated with a small decrease in total and cancer mortality
+in men and women.
+
+The principal strength of this study is the large size
+of the cohort, which provided us the ability to investi-
+gate the relationship of many deaths (47 976 male deaths
+and 23 276 female deaths) within the context of a single
+study with a standardized protocol and a wide range of
+meat consumption. In contrast, other reports investigat-
+ing meat intake in relation to mortality have pooled data
+from different studies conducted in California, the United
+Kingdom, and Germany because the numbers of events
+were limited in each study.1-6,9-14 The protocols and ques-
+tionnaires in these studies were different, as were the
+populations: Seventh-Day Adventists in California and
+vegetarians and nonvegetarians in Europe. Pooled analy-
+ses of specialized populations with distinct healthy life-
+styles are subject to unmeasured confounding. Further-
+
+(REPRINTED) ARCH INTERN MED/ VOL 169 (NO. 6), MAR 23, 2009
+
+WWW.ARCHINTERNMED.COM
+
+567
+
+©2009 American Medical Association. All rights reserved.
+
+Downloaded From:  by a University of Ottawa User  on 06/11/2018Table 3. Multivariate Analysis Red, White, and Processed Meat Intake and Total and Cause-Specific Mortality in Women
+in the National Institutes of Health–AARP Diet and Health Studya
+
+Mortality in Women
+(n=223 390)
+
+All mortality
+
+Deaths
+Basic modelc
+Adjusted modeld,e
+
+Cancer mortality
+
+Deaths
+Basic modelc
+Adjusted modeld,e
+
+CVD mortality
+
+Deaths
+Basic modelc
+Adjusted modeld,e
+
+Mortality from injuries and sudden deaths
+
+Deaths
+Basic modelc
+Adjusted modeld,e
+
+All other deaths
+
+Deaths
+Basic modelc
+Adjusted modeld,e
+
+All Mortality
+
+Deaths
+Basic modelc
+Adjusted modeld,e
+
+Cancer mortality
+
+Deaths
+Basic modelc
+Adjusted modeld,e
+
+CVD mortality
+
+Deaths
+Basic modelc
+Adjusted modeld,e
+
+Mortality from injuries and sudden deaths
+
+Deaths
+Basic modelc
+Adjusted modeld,e
+
+All other deaths
+
+Deaths
+Basic modelc
+Adjusted modeld,e
+
+Q1
+
+Q2
+Red Meat Intakeb
+
+Quintile
+
+Q3
+
+5314
+
+5081
+
+4734
+
+P Value
+for Trend
+
+Q4
+
+4395
+
+Q5
+
+3752
+
+1 [Reference]
+1 [Reference]
+
+1.11 (1.07-1.16)
+1.08 (1.03-1.12)
+
+1.24 (1.20-1.29)
+1.17 (1.12-1.22)
+
+1.43 (1.38-1.49)
+1.28 (1.23-1.34)
+
+1.63 (1.56-1.70)
+1.36 (1.30-1.43)
+
+⬍.001
+⬍.001
+
+2134
+
+1976
+
+1784
+
+1687
+
+1348
+
+1 [Reference]
+1 [Reference]
+
+1.07 (1.01-1.14)
+1.02 (0.96-1.09)
+
+1.15 (1.08-1.23)
+1.06 (1.00-1.14)
+
+1.34 (1.26-1.43)
+1.20 (1.12-1.28)
+
+1.42 (1.33-1.52)
+1.20 (1.12-1.30)
+
+⬍.001
+⬍.001
+
+1173
+
+1155
+
+1101
+
+1027
+
+900
+
+1 [Reference]
+1 [Reference]
+
+1.15 (1.06-1.25)
+1.13 (1.04-1.23)
+
+1.32 (1.22-1.44)
+1.26 (1.16-1.37)
+
+1.54 (1.41-1.68)
+1.39 (1.27-1.52)
+
+1.82 (1.66-1.98)
+1.50 (1.37-1.65)
+
+⬍.001
+⬍.001
+
+129
+
+97
+
+74
+
+76
+
+61
+
+1 [Reference]
+1 [Reference]
+
+0.86 (0.66-1.12)
+0.85 (0.65-1.12)
+
+0.77 (0.58-1.03)
+0.75 (0.56-1.02)
+
+0.96 (0.72-1.28)
+0.92 (0.68-1.25)
+
+1.01 (0.74-1.37)
+0.94 (0.68-1.31)
+
+.88
+.88
+
+1178
+
+1187
+
+1181
+
+1058
+
+961
+
+1 [Reference]
+1 [Reference]
+
+1.18 (1.09-1.28)
+1.16 (1.07-1.26)
+
+1.41 (1.30-1.53)
+1.35 (1.24-1.47)
+
+1.58 (1.45-1.72)
+1.44 (1.32-1.57)
+
+1.91 (1.76-2.09)
+1.61 (1.46-1.76)
+
+⬍.001
+⬍.001
+
+White Meat Intakef
+
+5006
+
+4606
+
+4469
+
+4520
+
+4675
+
+1 [Reference]
+1 [Reference]
+
+0.87 (0.84-0.91)
+0.96 (0.92-1.00)
+
+0.81 (0.78-0.84)
+0.94 (0.90-0.98)
+
+0.78 (0.75-0.81)
+0.95 (0.91-0.99)
+
+0.76 (0.73-0.79)
+0.92 (0.88-0.96)
+
+⬍.001
+⬍.001
+
+1887
+
+1757
+
+1728
+
+1735
+
+1822
+
+1 [Reference]
+1 [Reference]
+
+0.89 (0.83-0.95)
+0.94 (0.88-1.01)
+
+0.84 (0.78-0.90)
+0.92 (0.86-0.99)
+
+0.80 (0.75-0.85)
+0.92 (0.86-0.98)
+
+0.78 (0.73-0.83)
+0.89 (0.83-0.95)
+
+⬍.001
+.001
+
+1107
+
+1007
+
+1090
+
+1049
+
+1103
+
+1 [Reference]
+1 [Reference]
+
+0.86 (0.79-0.93)
+0.97 (0.89-1.06)
+
+0.89 (0.82-0.97)
+1.07 (0.98-1.17)
+
+0.82 (0.75-0.89)
+1.05 (0.96-1.14)
+
+0.81 (0.75-0.88)
+1.04 (0.96-1.14)
+
+⬍.001
+.19
+
+89
+
+81
+
+92
+
+86
+
+89
+
+1 [Reference]
+1 [Reference]
+
+0.92 (0.68-1.25)
+0.96 (0.71-1.31)
+
+1.01 (0.75-1.35)
+1.09 (0.81-1.47)
+
+0.89 (0.66-1.20)
+0.99 (0.73-1.34)
+
+0.82 (0.61-1.10)
+0.91 (0.67-1.24)
+
+.17
+.52
+
+1319
+
+1155
+
+1016
+
+1055
+
+1020
+
+1 [Reference]
+1 [Reference]
+
+0.82 (0.76-0.89)
+0.93 (0.86-1.01)
+
+0.69 (0.64-0.75)
+0.84 (0.77-0.91)
+
+0.68 (0.63-0.74)
+0.88 (0.82-0.96)
+
+0.63 (0.58-0.68)
+0.82 (0.75-0.89)
+
+⬍.001
+⬍.001
+
+(continued)
+
+more, recall bias and reverse causality were minimized
+in our study because diet was assessed prior to the diag-
+nosis of the conditions that led to death.
+
+There is a possibility that some residual confounding
+by smoking may remain; however, we used a detailed 31-
+level smoking history variable and repeated the analyses
+within smoking status strata. Within smoking subgroups,
+we found consistent results for red, white, and processed
+meat intakes; however, there were some intriguing differ-
+ences that could be further investigated. We found a posi-
+tive association for processed meat intake and cancer mor-
+tality among former/current smokers but not among never
+smokers. This may be because we were still not able to fully
+statistically adjust for residual confounding of smoking be-
+cause people who eat processed meat may also smoke. An
+
+additional reason could be that in addition to being ex-
+posed to N-nitroso compounds from processed meats,
+smokers inhale carcinogenic chemicals. The possible rea-
+son why there was an increased risk with white meat con-
+sumption among never smokers is not readily apparent.
+Because our cohort was predominantly non-
+Hispanic white, more educated, consumed less fat and
+red meat and more fiber and fruits and vegetables, and
+had fewer current smokers than similarly aged adults in
+the US population, caution should be applied when at-
+tempting to generalize our findings to other popula-
+tions,7 although this caution is somewhat tempered be-
+cause it is unlikely that the mechanisms relating meat to
+mortality differ quantitatively between our study popu-
+lation and other white populations older than 50 years.
+
+(REPRINTED) ARCH INTERN MED/ VOL 169 (NO. 6), MAR 23, 2009
+
+WWW.ARCHINTERNMED.COM
+
+568
+
+©2009 American Medical Association. All rights reserved.
+
+Downloaded From:  by a University of Ottawa User  on 06/11/2018Table 3. Multivariate Analysis Red, White, and Processed Meat Intake and Total and Cause-Specific Mortality in Women
+in the National Institutes of Health–AARP Diet and Health Studya (continued)
+
+Mortality in Women
+(n=223 390)
+
+All mortality
+
+Deaths
+Basic modelc
+Adjusted modeld,e
+
+Cancer mortality
+
+Deaths
+Basic modelc
+Adjusted modeld,e
+
+CVD mortality
+
+Deaths
+Basic modelc
+Adjusted modeld,e
+
+Mortality from injuries and sudden deaths
+
+Deaths
+Basic modelc
+Adjusted modeld,e
+
+All other deaths
+
+Deaths
+Basic modelc
+Adjusted modeld,e
+
+Q1
+
+Q2
+
+Quintile
+
+Q3
+
+Processed Meat Intakeg
+
+5624
+
+5133
+
+4525
+
+P Value
+for Trend
+
+Q4
+
+4181
+
+Q5
+
+3813
+
+1 [Reference]
+1 [Reference]
+
+1.13 (1.09-1.17)
+1.07 (1.03-1.12)
+
+1.20 (1.15-1.25)
+1.11 (1.06-1.15)
+
+1.35 (1.29-1.40)
+1.20 (1.15-1.25)
+
+1.49 (1.43-1.56)
+1.25 (1.20-1.31)
+
+⬍.001
+⬍.001
+
+2283
+
+2035
+
+1722
+
+1550
+
+1339
+
+1 [Reference]
+1 [Reference]
+
+1.08 (1.02-1.15)
+1.03 (0.97-1.10)
+
+1.10 (1.04-1.18)
+1.02 (0.96-1.09)
+
+1.21 (1.13-1.30)
+1.10 (1.02-1.17)
+
+1.28 (1.19-1.37)
+1.11 (1.04-1.19)
+
+⬍.001
+.001
+
+1245
+
+1132
+
+1039
+
+973
+
+967
+
+1 [Reference]
+1 [Reference]
+
+1.13 (1.04-1.22)
+1.08 (0.99-1.17)
+
+1.25 (1.14-1.35)
+1.15 (1.05-1.25)
+
+1.41 (1.29-1.54)
+1.24 (1.13-1.35)
+
+1.69 (1.55-1.84)
+1.38 (1.26-1.51)
+
+⬍.001
+⬍.001
+
+118
+
+115
+
+71
+
+71
+
+62
+
+1 [Reference]
+1 [Reference]
+
+1.22 (0.94-1.59)
+1.21 (0.93-1.57)
+
+0.91 (0.67-1.23)
+0.89 (0.65-1.21)
+
+1.10 (0.82-1.50)
+1.06 (0.78-1.45)
+
+1.18 (0.86-1.62)
+1.10 (0.80-1.53)
+
+.52
+.83
+
+1265
+
+1174
+
+1101
+
+1055
+
+970
+
+1 [Reference]
+1 [Reference]
+
+1.16 (1.07-1.26)
+1.11 (1.02-1.20)
+
+1.32 (1.22-1.44)
+1.22 (1.12-1.32)
+
+1.54 (1.42-1.68)
+1.35 (1.24-1.47)
+
+1.72 (1.58-1.87)
+1.39 (1.27-1.51)
+
+⬍.001
+⬍.001
+
+Abbreviations: AARP, formerly the American Association of Retired Persons; CVD, cardiovascular disease.
+aData are given as hazard ratio (95% confidence interval) unless otherwise specified.
+bMedian red meat intake based on men and women (g/1000 kcal): Q1, 9.8; Q2, 21.4; Q3, 31.3; Q4, 42.8; and Q5, 62.5.
+cBasic model: age (continuous); race (non-Hispanic white, non-Hispanic black, Hispanic/Asian/Pacific Islander/American Indian/Alaskan native, or unknown);
+
+and total energy intake (continuous).
+
+dAdjusted model: basic model plus education (⬍8 years or unknown, 8-11 years, 12 years [high school], some college, or college graduate); marital status
+
+(married: yes/no); family history of cancer (yes/no) (cancer mortality only); body mass index (18.5 to ⬍25, 25 to ⬍30, 30 to ⬍35, ⱖ35 [calculated as weight in
+kilograms divided by height in meters squared]); 31-level smoking history using smoking status (never, former, current), time since quitting for former smokers,
+and smoking dose; frequency of vigorous physical activity (never/rarely, 1-3 times/mo, 1-2 times/wk, 3-4 times/wk, ⱖ5 times/wk); alcohol intake (none, 0 to ⬍5,
+5 to ⬍15, 15 to ⬍30, ⱖ30 servings/1000 kcal), vitamin supplement user (ⱖ1 supplement/mo); fruit consumption (0 to ⬍0.7, 0.7 to ⬍1.2, 1.2 to ⬍1.7, 1.7 to
+⬍2.5, ⱖ2.5 servings/1000 kcal); and vegetable consumption (0 to ⬍1.3, 1.3 to ⬍1.8, 1.8 to ⬍2.2, 2.2 to ⬍3.0, ⱖ3.0 serving/1000 kcal).
+
+eHormone therapy included in models for women.
+fMedian white meat intake based on men and women (g/1000 kcal): Q1, 9.5; Q2, 18.4; Q3, 27.4; Q4, 39.4; and Q5, 64.6.
+gMedian processed meat intake based on men and women (g/1000 kcal): Q1, 1.6; Q2, 4.4; Q3, 7.4; Q4, 12.2; and Q5, 22.6.
+
+Furthermore, the population-attributable risks in our co-
+hort may be conservative estimates because red and pro-
+cessed meat consumption may be higher in the general
+population than in our cohort.
+
+The inherent limitations of measurement error in this
+study are similar to those of any nutritional epidemio-
+logic study that is based on recall of usual intake over a
+given period. We attempted to reduce measurement er-
+ror by adjusting our models for reported energy in-
+take.15 The correlations for red meat consumption as-
+sessed from the food frequency questionnaire compared
+with two 24-hour recall diaries were 0.62 for men and
+0.70 for women, as reported previously by Schatzkin et
+al.7 The problem of residual confounding may still exist
+and could explain the relatively small associations found
+throughout this study despite the care taken to adjust for
+known confounders.
+
+Overall, we did not find statistically significant asso-
+ciation between meat consumption and deaths from in-
+jury and sudden deaths in most instances. The relative
+HRs of meat consumption with the other causes of death
+(total, cancer, and CVD mortality) were similar in mag-
+nitude in some cases to those of deaths from injury and
+sudden deaths; however, the number of deaths from in-
+
+jury and sudden deaths was less than the other causes of
+deaths, and thus the HRs were generally not statistically
+significant. We observed a higher risk with the category
+that included “all other deaths”; this is a broad category
+with many heterogeneous conditions (eg, diabetes melli-
+tus, Alzheimer disease, stomach and duodenal ulcers,
+chronic liver disease, cirrhosis, nephritis, nephrotic syn-
+drome, and nephrosis), some of which may be posi-
+tively related to meat intake.
+
+There are various mechanisms by which meat may be
+related to mortality. In relation to cancer, meat is a source
+of several multisite carcinogens, including heterocyclic
+amines and polycyclic aromatic hydrocarbons,16-21 which
+are both formed during high-temperature cooking of meat,
+as well as N-nitroso compounds.22,23 Iron in red meat may
+increase oxidative damage and increase the formation of
+N-nitroso compounds.24-27 Furthermore, meat is a ma-
+jor source of saturated fat, which has been positively as-
+sociated with breast28-30 and colorectal cancer.31
+
+In relation to CVD, elevated blood pressure has been
+shown to be positively associated with higher intakes of
+red and processed meat, even though the mechanism is
+unclear, except that possibly meat may substitute for other
+beneficial foods such as grains, fruits, or vegetables.32 Mean
+
+(REPRINTED) ARCH INTERN MED/ VOL 169 (NO. 6), MAR 23, 2009
+
+WWW.ARCHINTERNMED.COM
+
+569
+
+©2009 American Medical Association. All rights reserved.
+
+Downloaded From:  by a University of Ottawa User  on 06/11/2018plasma total cholesterol, low-density lipoprotein choles-
+terol, very-low-density lipoprotein cholesterol, and tri-
+glyceride levels were found to be decreased in subjects
+who substituted red meat with fish.33,34 Vegetarians have
+lower arachidonic, eicosapentaenoic, and docosahexae-
+noic acid levels and higher linoleate and antioxidant lev-
+els in platelet phospholipids; such a biochemical profile
+may be related to decreased atherogenesis and throm-
+bogenesis.34-36
+
+Red and processed meat intakes, as well as a high-
+risk meat diet, were associated with a modest increase
+in risk of total mortality, cancer, and CVD mortality in
+both men and women. In contrast, high white meat in-
+take and a low-risk meat diet was associated with a small
+decrease in total and cancer mortality. These results
+complement the recommendations by the American In-
+stitute for Cancer Research and the World Cancer Re-
+search Fund to reduce red and processed meat intake to
+decrease cancer incidence.31 Future research should in-
+vestigate the relation between subtypes of meat and spe-
+cific causes of mortality.
+
+Accepted for Publication: October 24, 2008.
+Correspondence: Rashmi Sinha, PhD, Division of Can-
+cer Epidemiology and Genetics, National Cancer Institute–
+Nutritional Epidemiology Branch, 6120 Executive Blvd,
+Rockville, MD 20852 (sinhar@nih.gov).
+Author Contributions: Drs Sinha and Cross had full ac-
+cess to the data in the study and take responsibility for
+the integrity of the data and the accuracy of the data analy-
+sis. All authors have given full approval to the final manu-
+script. Study concept and design: Sinha, Cross, and
+Graubard. Acquisition of data: Sinha and Schatzkin. Analy-
+sis and interpretation of data: Sinha, Cross, Graubard,
+Leitzmann, and Schatzkin. Drafting of the manuscript:
+Sinha, Cross, and Graubard. Critical revision of the manu-
+script for important intellectual content: Sinha, Cross,
+Graubard, Leitzmann, and Schatzkin. Statistical analy-
+sis: Sinha, Graubard, and Leitzmann. Obtained funding:
+Schatzkin. Administrative, technical, and material sup-
+port: Cross and Schatzkin.
+Financial Disclosure: None reported.
+Funding/Support: This research was supported in part
+by the Intramural Research Program of the NIH, Na-
+tional Cancer Institute (NCI).
+Additional Contributions: Adam Risch, Leslie Carroll,
+MA, and Dave Campbell from Information Manage-
+ment Services Inc, and Traci Mouw, MS, from NCI, as-
+sisted in data management. We are indebted to the par-
+ticipants in the NIH-AARP Diet and Health Study for their
+outstanding cooperation. Cancer incidence data from the
+Atlanta metropolitan area were collected by the Georgia
+Center for Cancer Statistics, Department of Epidemiol-
+ogy, Rollins School of Public Health, Emory University.
+Cancer incidence data from California were collected by
+the California Department of Health Services, Cancer Sur-
+veillance Section. Cancer incidence data from the De-
+troit metropolitan area were collected by the Michigan
+Cancer Surveillance Program, Community Health Ad-
+ministration. The Florida cancer incidence data used in
+this report were collected by the Florida Cancer Data Sys-
+tem under contract to the Department of Health (DOH)
+
+(the views expressed herein are solely those of the au-
+thors and do not necessarily reflect those of the contrac-
+tor or the DOH). Cancer incidence data from Louisiana
+were collected by the Louisiana Tumor Registry, Loui-
+siana State University Medical Center in New Orleans.
+Cancer incidence data from New Jersey were collected
+by the New Jersey State Cancer Registry, Cancer Epide-
+miology Services, New Jersey State Department of Health
+and Senior Services. Cancer incidence data from North
+Carolina were collected by the North Carolina Central
+Cancer Registry. Cancer incidence data from Pennsyl-
+vania were supplied by the Division of Health Statistics
+and Research, Pennsylvania Department of Health, Har-
+risburg (the Pennsylvania Department of Health specifi-
+cally disclaims responsibility for any analyses, interpre-
+tations, or conclusions).
+
+REFERENCES
+
+1. Fraser GE. Associations between diet and cancer, ischemic heart disease, and
+all-cause mortality in non-Hispanic white California Seventh-day Adventists. Am
+J Clin Nutr. 1999;70(3)(suppl):532S-538S.
+
+2. Kahn HA, Phillips RL, Snowdon DA, Choi W. Association between reported diet
+and all-cause mortality: twenty-one-year follow-up on 27,530 adult Seventh-
+Day Adventists. Am J Epidemiol. 1984;119(5):775-787.
+
+3. Appleby PN, Key TJ, Thorogood M, Burr ML, Mann J. Mortality in British vegetarians.
+
+Public Health Nutr. 2002;5(1):29-36.
+
+4. Key TJ, Fraser GE, Thorogood M, et al. Mortality in vegetarians and non-
+vegetarians: a collaborative analysis of 8300 deaths among 76,000 men and women
+in five prospective studies. Public Health Nutr. 1998;1(1):33-41.
+
+5. Key TJ, Fraser GE, Thorogood M, et al. Mortality in vegetarians and nonvegetar-
+ians: detailed findings from a collaborative analysis of 5 prospective studies. Am
+J Clin Nutr. 1999;70(3)(suppl):516S-524S.
+
+6. Thorogood M, Mann J, Appleby P, McPherson K. Risk of death from cancer and
+ischaemic heart disease in meat and non-meat eaters. BMJ. 1994;308(6945):
+1667-1670.
+
+7. Schatzkin A, Subar AF, Thompson FE, et al. Design and serendipity in establish-
+ing a large cohort with wide dietary intake distributions: the National Institutes
+of Health–American Association of Retired Persons Diet and Health Study. Am J
+Epidemiol. 2001;154(12):1119-1125.
+
+8. Thompson FE, Kipnis V, Midthune D, et al. Performance of a food-frequency ques-
+tionnaire in the US NIH-AARP (National Institutes of Health–American Associa-
+tion of Retired Persons) Diet and Health Study. Public Health Nutr. 2008;11
+(2):183-195.
+
+9. Beeson WL, Mills PK, Phillips RL, Andress M, Fraser GE. Chronic disease among
+Seventh-day Adventists, a low-risk group: rationale, methodology, and descrip-
+tion of the population. Cancer. 1989;64(3):570-581.
+
+10. Sanjoaquin MA, Appleby PN, Thorogood M, Mann JI, Key TJ. Nutrition, lifestyle
+and colorectal cancer incidence: a prospective investigation of 10998 vegetar-
+ians and non-vegetarians in the United Kingdom. Br J Cancer. 2004;90(1):
+118-121.
+
+11. Appleby PN, Thorogood M, Mann JI, Key TJ. The Oxford Vegetarian Study: an
+
+overview. Am J Clin Nutr. 1999;70(3)(suppl):525S-531S.
+
+12. Appleby PN, Thorogood M, Mann JI, Key TJ. Low body mass index in non-meat
+eaters: the possible roles of animal fat, dietary fibre and alcohol. Int J Obes Relat
+Metab Disord. 1998;22(5):454-460.
+
+13. Mann JI, Appleby PN, Key TJ, Thorogood M. Dietary determinants of isch-
+aemic heart disease in health conscious individuals. Heart. 1997;78(5):450-
+455.
+
+14. Snowdon DA, Phillips RL, Fraser GE. Meat consumption and fatal ischemic heart
+
+disease. Prev Med. 1984;13(5):490-500.
+
+15. Kipnis V, Subar AF, Midthune D, et al. Structure of dietary measurement error:
+
+results of the OPEN biomarker study. Am J Epidemiol. 2003;158(1):14-21.
+
+16. Knize MG, Dolbeare FA, Carroll KL, Moore DH II, Felton JS. Effect of cooking time
+and temperature on the heterocyclic amine content of fried beef patties. Food
+Chem Toxicol. 1994;32(7):595-603.
+
+17. Sinha R, Knize MG, Salmon CP, et al. Heterocyclic amine content of pork prod-
+ucts cooked by different methods and to varying degrees of doneness. Food Chem
+Toxicol. 1998;36(4):289-297.
+
+18. Sinha R, Rothman N, Salmon CP, et al. Heterocyclic amine content in beef cooked
+
+(REPRINTED) ARCH INTERN MED/ VOL 169 (NO. 6), MAR 23, 2009
+
+WWW.ARCHINTERNMED.COM
+
+570
+
+©2009 American Medical Association. All rights reserved.
+
+Downloaded From:  by a University of Ottawa User  on 06/11/2018by different methods to varying degrees of doneness and gravy made from meat
+drippings. Food Chem Toxicol. 1998;36(4):279-287.
+
+19. Skog K, Steineck G, Augustsson K, Jagerstad M. Effect of cooking temperature
+on the formation of heterocyclic amines in fried meat products and pan residues.
+Carcinogenesis. 1995;16(4):861-867.
+
+20. Sugimura T, Wakabayashi K, Ohgaki H, Takayama S, Nagao M, Esumi H. Het-
+erocyclic amines produced in cooked food: unavoidable xenobiotics. Princess
+Takamatsu Symp. 1990;21:279-288.
+
+21. Kazerouni N, Sinha R, Hsu CH, Greenberg A, Rothman N. Analysis of 200 food
+items for benzo[a]pyrene and estimation of its intake in an epidemiologic study.
+Food Chem Toxicol. 2001;39(5):423-436.
+
+22. Hughes R, Cross AJ, Pollock JR, Bingham S. Dose-dependent effect of dietary meat
+
+on endogenous colonic N-nitrosation. Carcinogenesis. 2001;22(1):199-202.
+
+23. Cross AJ, Sinha R. Meat-related mutagens/carcinogens in the etiology of colo-
+
+rectal cancer. Environ Mol Mutagen. 2004;44(1):44-55.
+
+24. Kato I, Dnistrian AM, Schwartz M, et al. Iron intake, body iron stores and colo-
+rectal cancer risk in women: a nested case-control study. Int J Cancer. 1999;
+80(5):693-698.
+
+25. Kabat GC, Miller AB, Jain M, Rohan TE. A cohort study of dietary iron and heme
+iron intake and risk of colorectal cancer in women. Br J Cancer. 2007;97(1):
+118-122.
+
+26. Lee DH, Jacobs DR Jr, Folsom AR. A hypothesis: interaction between supple-
+mental iron intake and fermentation affecting the risk of colon cancer: the Iowa
+Women’s Health Study. Nutr Cancer. 2004;48(1):1-5.
+
+27. Wurzelmann JI, Silver A, Schreinemachers DM, Sandler RS, Everson RB. Iron
+intake and the risk of colorectal cancer. Cancer Epidemiol Biomarkers Prev. 1996;
+5(7):503-507.
+
+28. Bingham SA, Luben R, Welch A, Wareham N, Khaw KT, Day N. Are imprecise
+
+methods obscuring a relation between fat and breast cancer? Lancet. 2003;
+362(9379):212-214.
+
+29. Thie´baut AC, Kipnis V, Chang SC, et al. Dietary fat and postmenopausal invasive
+breast cancer in the National Institutes of Health–AARP Diet and Health Study
+cohort. J Natl Cancer Inst. 2007;99(6):451-462.
+
+30. Midthune D, Kipnis V, Freedman LS, Carroll RJ. Binary regression in truncated
+samples, with application to comparing dietary instruments in a large prospec-
+tive study. Biometrics. 2008;64(1):289-298.
+
+31. The World Cancer Research Fund/American Institute for Cancer Research.
+Food, Nutrition, Physical Activity, and the Prevention of Cancer: A Global
+Perspective. Washington, DC: AICR; 2007.
+
+32. Steffen LM, Kroenke CH, Yu X, et al. Associations of plant food, dairy product,
+and meat intakes with 15-y incidence of elevated blood pressure in young black
+and white adults: the Coronary Artery Risk Development in Young Adults (CARDIA)
+Study. Am J Clin Nutr. 2005;82(6):1169-1177.
+
+33. Gascon A, Jacques H, Moorjani S, Deshaies Y, Brun LD, Julien P. Plasma lipo-
+protein profile and lipolytic activities in response to the substitution of lean white
+fish for other animal protein sources in premenopausal women. Am J Clin Nutr.
+1996;63(3):315-321.
+
+34. Wolmarans P, Benade AJ, Kotze TJ, Daubitzer AK, Marais MP, Laubscher R.
+Plasma lipoprotein response to substituting fish for red meat in the diet. Am J
+Clin Nutr. 1991;53(5):1171-1176.
+
+35. Jacques H, Gascon A, Bergeron N, et al. Role of dietary fish protein in the regu-
+
+lation of plasma lipids. Can J Cardiol. 1995;11(suppl G):63G-71G.
+
+36. Sanders TA, Oakley FR, Miller GJ, Mitropoulos KA, Crook D, Oliver MF. Influ-
+ence of n-6 versus n-3 polyunsaturated fatty acids in diets low in saturated fatty
+acids on plasma lipoproteins and hemostatic factors. Arterioscler Thromb Vasc
+Biol. 1997;17(12):3449-3460.
+
+Correction
+
+Error in Text. In the Original Investigation titled “Or-
+egonians’ Reasons for Requesting Physician Aid in Dy-
+ing” by Ganzini et al, published in the March 9 issue of
+the Archives (2009;169[5]:489-492), an error occurred
+in the text on page 490. In the first paragraph of the “Re-
+sults” section, the last sentence should have appeared as
+follows: “At death, 18 (44%) had received a prescrip-
+tion for medication under the ODDA, and 9 (22%) died
+by lethal ingestion.” Online versions of this article on
+the Archives of Internal Medicine Web site were cor-
+rected on March 9, 2009.
+
+ARCH INTERN MED/ VOL 169 (NO. 6), MAR 23, 2009
+
+WWW.ARCHINTERNMED.COM
+
+571
+
+©2009 American Medical Association. All rights reserved.
+
+(REPRINTED WITH CORRECTIONS)
+
+Downloaded From:  by a University of Ottawa User  on 06/11/2018

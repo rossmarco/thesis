@@ -1,6 +1,4 @@
 import nltk
-import os
-import io
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize, sent_tokenize
 from nltk.probability import FreqDist
@@ -16,10 +14,9 @@ import csv
 
 #nltk.download('punkt')
 
-
 # Import the text file we will work with
-with io.open('cancer-training.txt', 'r', encoding='utf-8', errors='ignore') as file:
-    text = file.read() # .decode('utf-8').split()
+with open('cancer-training.txt', 'r') as file:
+    text = file.read().decode('utf-8')
 
 # Tokenize the text
 tokens = word_tokenize(text)
@@ -53,7 +50,7 @@ def get_word_frequency():
 
     # Print word counts to a CSV file
     for key, count in fd.most_common(200):
-        file.writerow([key.encode('utf-8'), count]) #encode
+        file.writerow([key.encode('utf-8'), count])
 
 # Get the bigrams of the words
 def get_bigrams():
@@ -76,7 +73,7 @@ def get_bigrams():
     for bigram_tuple, count in sortedBiGrams:
         #file_bigrams.writerow([list(bigram_tuple), count]) # in ugly unformatted unicode
         #file_bigrams.writerow(type(bigram_tuple)(x.encode('utf-8') for x in bigram_tuple)) #just words without count
-        file_bigrams.writerow([type(bigram_tuple)(x.encode('utf-8') for x in bigram_tuple), count]) #formatted properly #x.encode
+        file_bigrams.writerow([type(bigram_tuple)(x.encode('utf8') for x in bigram_tuple), count]) #formatted properly
 
 def get_trigrams():
 
@@ -90,7 +87,7 @@ def get_trigrams():
 
     # Store results of 400 bigrams into CSV file
     for trigram_tuple, count in sortedTriGrams:
-        file_trigrams.writerow([type(trigram_tuple)(x.encode('utf-8') for x in trigram_tuple), count]) #formatted properly x.encode
+        file_trigrams.writerow([type(trigram_tuple)(x.encode('utf8') for x in trigram_tuple), count]) #formatted properly
 
 def get_quadgrams():
 
@@ -102,7 +99,7 @@ def get_quadgrams():
 
     # Store results of 400 bigrams into CSV file
     for quadgram_tuple, count in sortedQuadGrams:
-        file_quadgrams.writerow([type(quadgram_tuple)(x.encode('utf-8') for x in quadgram_tuple), count]) #formatted properly #x.encode
+        file_quadgrams.writerow([type(quadgram_tuple)(x.encode('utf8') for x in quadgram_tuple), count]) #formatted properly
 
 
 

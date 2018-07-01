@@ -1,0 +1,3580 @@
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ new england
+
+The
+
+journal 
+
+ medicine
+
+of
+
+established in 1812
+
+april
+
+24
+
+ 
+
+2003
+
+, 
+
+vol. 348 no. 17 
+
+Overweight, Obesity, and Mortality from Cancer in a Prospectively 
+
+Studied Cohort of U.S. Adults
+
+Eugenia E. Calle, Ph.D., Carmen Rodriguez, M.D., M.P.H., Kimberly Walker-Thurmond, B.A., and Michael J. Thun, M.D.
+
+From the Department of Epidemiology and
+Surveillance Research, American Cancer So-
+ciety, Atlanta. Address reprint requests to
+Dr. Calle at the American Cancer Society,
+1599 Clifton Rd., NE, Atlanta, GA 30329,
+or at jcalle@cancer.org.
+
+N Engl J Med 2003;348:1625-38.
+Copyright © 2003 Massachusetts Medical Society.
+
+abstract
+
+background
+The influence of excess body weight on the risk of death from cancer has not been fully
+characterized.
+
+methods
+In a prospectively studied population of more than 900,000 U.S. adults (404,576 men
+and 495,477 women) who were free of cancer at enrollment in 1982, there were 57,145
+deaths from cancer during 16 years of follow-up. We examined the relation in men and
+women between the body-mass index in 1982 and the risk of death from all cancers
+and from cancers at individual sites, while controlling for other risk factors in multivari-
+ate proportional-hazards models. We calculated the proportion of all deaths from can-
+cer that was attributable to overweight and obesity in the U.S. population on the basis of
+risk estimates from the current study and national estimates of the prevalence of over-
+weight and obesity in the U.S. adult population.
+
+results
+The heaviest members of this cohort (those with a body-mass index [the weight in kilo-
+grams divided by the square of the height in meters] of at least 40) had death rates from
+all cancers combined that were 52 percent higher (for men) and 62 percent higher (for
+women) than the rates in men and women of normal weight. For men, the relative risk
+of death was 1.52 (95 percent confidence interval, 1.13 to 2.05); for women, the relative
+risk was 1.62 (95 percent confidence interval, 1.40 to 1.87). In both men and women,
+body-mass index was also significantly associated with higher rates of death due to
+cancer of the esophagus, colon and rectum, liver, gallbladder, pancreas, and kidney; the
+same was true for death due to non-Hodgkin’s lymphoma and multiple myeloma. Signif-
+icant trends of increasing risk with higher body-mass-index values were observed for
+death from cancers of the stomach and prostate in men and for death from cancers of
+the breast, uterus, cervix, and ovary in women. On the basis of associations observed in
+this study, we estimate that current patterns of overweight and obesity in the United
+States could account for 14 percent of all deaths from cancer in men and 20 percent of
+those in women.
+
+conclusions
+Increased body weight was associated with increased death rates for all cancers com-
+bined and for cancers at multiple specific sites.
+
+n engl j med 
+
+348;17
+
+www.nejm.org april 
+
+24, 2003
+
+1625
+
+The New England Journal of Medicine Downloaded from nejm.org at UNIVERSITY OF OTTAWA on June 11, 2018. For personal use only. No other uses without permission.  Copyright © 2003 Massachusetts Medical Society. All rights reserved.  
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+t
+
+ new england journal 
+
+The
+
+ medicine
+of
+
+1-6
+
+he relations between excess body
+weight  and  mortality,  not  only  from  all
+causes but also from cardiovascular dis-
+ease,  are  well  established.
+  Although  we  have
+known for some time that excess weight is also an
+7
+important factor in death from cancer,
+ our knowl-
+edge of the magnitude of the relation, both for all
+cancers and for cancers at individual sites, and the
+public health effect of excess weight in terms of to-
+tal mortality from cancer is limited.
+
+8-12
+
+11,13,14
+
+Previous studies have consistently shown asso-
+ciations between adiposity and increased risk of
+cancers  of  the  endometrium,  kidney,  gallbladder
+(in women), breast (in postmenopausal women),
+and colon (particularly in men).
+ Adenocarci-
+noma of the esophagus has been linked to obesi-
+ty.
+ Data on cancers of the pancreas, prostate,
+liver, cervix, and ovary and on hematopoietic cancers
+are scarce or inconsistent.
+ The lack of con-
+sistency may be attributable to the limited number
+of  studies  (especially  those  with  prospective  co-
+horts), the limited range and variable categorization
+of overweight and obesity among studies, bias intro-
+duced by reverse causality with respect to smoking-
+related cancers, and possibly real differences be-
+tween the effects of overweight and obesity on the
+incidence of cancer and on the rates of death from
+some cancers.
+
+7-11,15-17
+
+18,19
+
+We  conducted  a  prospective  investigation  in  a
+large cohort of U.S. men and women to determine
+the relations between body-mass index (the weight
+in kilograms divided by the square of the height in
+meters) and the risk of death from cancer at specific
+sites. This cohort has been used previously to exam-
+ine the association of body-mass index and death
+5
+from any cause.
+
+methods
+
+study population
+The  men  and  women  in  this  study  were  selected
+from the 1,184,617 participants in the Cancer Pre-
+vention Study II, a prospective mortality study begun
+by the American Cancer Society in 1982.
+ The
+participants were identified and enrolled by more
+than 77,000 volunteers in all 50 states, the District
+of Columbia, and Puerto Rico. Families were en-
+rolled if at least one household member was 45 years
+of age or older and all enrolled members were 30
+years of age or older. The average age of the partici-
+pants at enrollment was 57 years. In 1982 they com-
+pleted a confidential mailed questionnaire that in-
+
+20,21
+
+cluded personal identifiers and elicited information
+on demographic characteristics, personal and fam-
+ily history of cancer and other diseases, and various
+behavioral, environmental, occupational, and di-
+etary exposures.
+
+Over 99 percent of deaths that occurred from the
+month of enrollment until September 1988 were as-
+certained by means of personal inquiries made by
+22
+volunteers in September 1984, 1986, and 1988.
+Approximately 93 percent of all deaths occurring
+after September 1988 were ascertained by linkage
+ By December 31,
+with the National Death Index.
+1998,  24.0  percent  of  the  participants  had  died,
+75.8 percent were still living, and 0.2 percent were
+dropped from follow-up on September 1, 1988, be-
+cause of insufficient data for linkage with the Na-
+tional Death Index. Death certificates or multiple
+cause-of-death codes were obtained for 98.8 percent
+of all known deaths.
+
+22
+
+In the base-line questionnaire, the participants
+were asked their current weight, weight one year
+previously, and height (without shoes). We excluded
+from  the  analysis  participants  whose  values  for
+height or weight were missing, whose weight one
+year before the interview was unknown, or who had
+lost more than 10 lb (4.5 kg) in the previous year;
+65,436 men and 91,282 women were excluded for
+these reasons. We also excluded participants with
+below-normal weight according to World Health
+Organization guidelines
+ as indicated by a body-
+mass index of less than 18.5 (3393 men and 15,769
+women). In addition, we excluded participants who
+had cancer (other than nonmelanoma skin cancer)
+at base line (20,839 men and 47,120 women) and
+those with missing information on race or smoking
+history (14,086 men and 26,639 women). The eli-
+gible participants for the current analysis included
+404,576 men and 495,477 women. After 16 years of
+follow-up, there were a total of 32,303 deaths from
+cancer in men and 24,842 deaths from cancer in
+women in this population.
+
+23
+
+From the final population of 900,053 partici-
+pants, we defined a subgroup of those who had nev-
+er  smoked  (107,030  men  and  276,564  women).
+Within this subgroup, there were a total of 5314
+deaths from cancer among men and 11,648 among
+women. This subgroup provided us with an oppor-
+tunity to evaluate whether the association between
+body-mass index and mortality was subject to re-
+sidual confounding by smoking status for smok-
+ing-related cancers.
+
+1626
+
+n engl j med 
+
+348;17
+
+www.nejm.org april 
+
+, 
+
+24
+
+2003
+
+The New England Journal of Medicine Downloaded from nejm.org at UNIVERSITY OF OTTAWA on June 11, 2018. For personal use only. No other uses without permission.  Copyright © 2003 Massachusetts Medical Society. All rights reserved.  
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+obesity and cancer mortality
+
+23
+
+body-mass index
+The body-mass index, a measure of adiposity, was
+categorized as follows: 18.5 to 24.9, 25.0 to 29.9,
+30.0 to 34.9, 35.0 to 39.9, and 40.0 or more. These
+categories  correspond  to  those  proposed  by  the
+World Health Organization
+ for “normal range,”
+“grade 1 overweight,” “grade 2 overweight” (30.0
+to 39.9), and “grade 3 overweight,” respectively.
+For many analyses, especially for cancers in spe-
+cific sites and among participants who had never
+smoked, the upper categories of body-mass index
+were combined, because of the small numbers. In
+our analyses and discussion, we refer to the range
+of 25.0 to 29.9 as corresponding to “overweight”
+and to values of 30.0 or more as corresponding to
+“obesity.”
+
+In  all  primary  analyses,  the  body-mass  index
+category of 18.5 to 24.9 (“normal range”) was con-
+sidered  the  reference  group.  We  also  conducted
+analyses in which we divided this group into two
+categories of 18.5 to 22.9 and 23.0 to 24.9 and con-
+sidered the lower category to be the reference group.
+
+24
+
+mortality end points
+The end points in our analyses were deaths from all
+cancers (codes 140.0 to 195.8 and 199.0 to 208.9 of
+International Classification of Diseases,
+Ninth Revision
+the 
+ 
+[ICD-9])
+ and from cancers at selected sites. Spe-
+cific cancers accounting for at least 150 deaths in
+men and 150 deaths in women included esophageal
+cancer (ICD-9 codes 150.0 to 150.9), stomach can-
+cer (151.0 to 151.9), colorectal cancer (153.0 to
+154.8), liver cancer (155.0 to 155.2), gallbladder
+cancer (156.0 to 156.9), pancreatic cancer (157.0 to
+157.9),  lung  cancer  (162.0  to  162.9),  melanoma
+(172.0 to 172.9), breast cancer in women (174.0 to
+174.9), cancer of the corpus and uterus, not other-
+wise specified (179 and 182.0 to 182.8), cervical
+cancer (180.0 to 180.9), ovarian cancer (183.0 to
+183.9),  prostate  cancer  (185),  bladder  cancer
+(188.0 to 188.9), kidney cancer (189.0 to 189.9),
+brain cancer (191.0 to 191.9), non-Hodgkin’s lym-
+phoma (202.0 to 202.9), multiple myeloma (203.0
+to 203.8), and leukemia (204.0 to 208.9). All other
+specific  cancers  that  contributed  to  total  deaths
+from cancer but that caused fewer than 150 deaths
+or were coded as unspecified (199.0 to 199.1) were
+analyzed as a separate category of “other” cancers.
+Approximately 11 percent of cancers in both men
+and women fell into the “other” category. Of these,
+45 percent had a specific (coded) site and caused
+fewer  than  150  deaths  and  55  percent  had  a  site
+
+that  was  coded  as  unspecified.  Data  regarding
+cancer  subsites  or  histologic  findings  were  not
+available.
+
+information on covariates
+Potential  confounders  included  in  data  analyses
+were age (in single years), race (white, black, or
+other), smoking status (never smoked, formerly
+smoked, or currently smokes, with three categories
+of cigarettes smoked per day: 0 to 19, 20, and more
+than 20), education (less than high school, high-
+school graduate, some college, or college graduate),
+physical activity (none, slight, moderate, or heavy),
+alcohol use (none, less than one drink per day, one
+drink per day, or two or more drinks per day), mar-
+ital status (not married or married), current aspirin
+use (use or nonuse), a crude index of fat consump-
+tion (estimated grams per week for 20 food items,
+with  the  participants  divided  into  three  roughly
+equal groups),
+ and vegetable consumption (the
+frequency per week of consumption of nine vege-
+tables — not including potatoes — with partici-
+pants divided into three roughly equal groups), and
+status with respect to estrogen-replacement therapy
+in women (never used, currently used, or formerly
+used).
+
+25
+
+statistical analysis
+Age-adjusted death rates were calculated for each
+category  of  body-mass  index  and  were  directly
+standardized  to the age distribution of the entire
+male or female study population. Relative risks (the
+age-adjusted death rate in a specific body-mass-
+index category divided by the corresponding rate in
+the reference category [18.50 to 24.99]) were com-
+puted; the 95 percent confidence intervals used ap-
+proximate variance formulas.
+
+26,27
+
+We also used Cox proportional-hazards model-
+28
+ to compute relative risks and to adjust for oth-
+ing
+er potential risk factors reported at base line. The
+Cox models were stratified according to age at en-
+rollment by the inclusion of age (in single years) in
+the strata statement of the Cox model. The relative
+risks we report are from the multivariate Cox mod-
+els,  unless  otherwise  noted.  Tests  of  linear  trend
+were performed by scoring the categories of body-
+mass index, entering the score as a continuous term
+in the regression model, and testing the significance
+of the term by the Wald chi-square test.
+
+29
+
+We present results for all cancers combined and
+for cancer at each site on the basis of analyses of the
+total populations of men and women. For most in-
+
+n engl j med 
+
+348;17
+
+www.nejm.org april 
+
+24, 2003
+
+1627
+
+The New England Journal of Medicine Downloaded from nejm.org at UNIVERSITY OF OTTAWA on June 11, 2018. For personal use only. No other uses without permission.  Copyright © 2003 Massachusetts Medical Society. All rights reserved.  
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ new england journal 
+
+The
+
+ medicine
+of
+
+Table 1. Mortality from Cancer According to Body-Mass Index among U.S. Men in the Cancer Prevention Study II, 1982 through 1998.*
+
+Type of Cancer
+
+Body-Mass Index†
+
+P for Trend
+
+18.5–24.9
+
+25.0–29.9
+
+30.0–34.9
+
+35.0–39.9
+
+≥40.0
+
+All cancers
+
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+All cancers
+
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Esophageal cancer
+
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Stomach cancer
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Colorectal cancer
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Liver cancer
+
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Gallbladder cancer
+
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Pancreatic cancer
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Lung cancer
+
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Melanoma
+
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Prostate cancer
+
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Bladder cancer
+
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Kidney cancer
+
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+13,855
+
+578.30
+1.00
+
+13,855
+
+578.30
+1.00
+
+329
+13.97
+1.00
+
+388
+16.24
+1.00
+
+1,292
+
+53.51
+1.00
+
+222
+
+9.24
+1.00
+
+66
+2.68
+1.00
+
+740
+31.07
+1.00
+
+4,885
+
+206.69
+1.00
+
+238
+10.02
+1.00
+
+1,681
+
+67.36
+1.00
+
+375
+15.19
+1.00
+
+305
+12.83
+1.00
+
+15,372
+
+546.21
+
+0.97 (0.94–0.99)
+
+15,372
+
+546.21
+
+0.97 (0.94–0.99)
+
+2683
+636.30
+
+1.09 (1.05–1.14)
+
+350
+738.69
+
+1.20 (1.08–1.34)
+
+43
+841.62
+
+1.52 (1.13–2.05)
+
+2683
+636.30
+
+1.09 (1.05–1.14)
+
+393¶
+749.86¶
+
+1.23 (1.11–1.36)¶
+
+452
+15.74
+
+1.15 (0.99–1.32)
+
+81
+18.07
+
+1.28 (1.00–1.63)
+
+14
+24.18
+
+1.63 (0.95–2.80)
+
+455
+16.09
+
+1.01 (0.88–1.16)
+
+84
+20.34
+
+1.20 (0.94–1.52)
+
+18
+33.99
+
+1.94 (1.21–3.13)
+
+1,811
+
+64.43
+
+1.20 (1.12–1.30)
+
+337
+79.50
+
+1.47 (1.30–1.66)
+
+54
+101.25
+
+1.84 (1.39–2.41)
+
+296
+10.49
+
+1.13 (0.94–1.34)
+
+78
+19.22
+
+1.90 (1.46–2.47)
+
+24
+47.80
+
+4.52 (2.94–6.94)
+
+94
+3.37
+
+1.34 (0.97–1.84)
+
+20
+5.16
+
+1.76 (1.06–2.94)
+
+961
+33.98
+
+1.13 (1.03–1.25)
+
+182
+42.20
+
+1.41 (1.19–1.66)
+
+25
+48.80
+
+1.49 (0.99–2.22)
+
+4,281
+
+150.11
+
+0.78 (0.75–0.82)
+
+279
+
+9.77
+
+0.95 (0.80–1.13)
+
+1,971
+
+73.02
+
+1.08 (1.01–1.15)
+
+681
+156.53
+
+0.79 (0.73–0.86)
+
+78
+149.63
+
+0.67 (0.54–0.84)
+
+43
+8.09
+
+0.85 (0.61–1.18)
+
+311
+83.00
+
+1.20 (1.06–1.36)
+
+41
+87.35
+
+1.34 (0.98–1.83)
+
+421
+15.47
+
+1.03 (0.89–1.18)
+
+76
+16.69
+
+1.14 (0.88–1.46)
+
+437
+15.25
+
+1.18 (1.02–1.37)
+
+81
+18.50
+
+1.36 (1.06–1.74)
+
+14
+24.84
+
+1.70 (0.99–2.92)
+
+0.001
+
+0.002
+
+0.008
+
+0.03
+
+<0.001
+
+<0.001
+
+0.02
+
+<0.001
+
+<0.001
+
+0.32
+
+<0.001
+
+0.36
+
+0.002
+
+1628
+
+n engl j med 
+
+348;17
+
+www.nejm.org april 
+
+, 
+
+24
+
+2003
+
+The New England Journal of Medicine Downloaded from nejm.org at UNIVERSITY OF OTTAWA on June 11, 2018. For personal use only. No other uses without permission.  Copyright © 2003 Massachusetts Medical Society. All rights reserved.  
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+obesity and cancer mortality
+
+18.5–24.9
+
+25.0–29.9
+
+30.0–34.9
+
+35.0–39.9
+
+≥40.0
+
+Body-Mass Index†
+
+P for Trend
+
+370
+15.98
+1.00
+
+518
+21.51
+1.00
+
+259
+10.77
+1.00
+
+546
+22.51
+1.00
+
+1,641
+
+68.72
+1.00
+
+461
+15.86
+
+0.98 (0.85–1.13)
+
+68
+12.76
+
+0.79 (0.61–1.03)
+
+672
+24.04
+
+1.08 (0.96–1.21)
+
+147
+35.25
+
+1.56 (1.29–1.87)
+
+18
+33.22
+
+1.49 (0.93–2.39)
+
+368
+13.18
+
+1.18 (1.01–1.39)
+
+70
+16.88
+
+1.44 (1.10–1.89)
+
+11
+20.62
+
+1.71 (0.93–3.14)
+
+720
+25.60
+
+1.14 (1.02–1.28)
+
+128
+30.40
+
+1.37 (1.13–1.67)
+
+20
+40.52
+
+1.70 (1.08–2.66)
+
+1,693
+
+59.81
+
+0.89 (0.83–0.95)
+
+320
+73.29
+
+1.06 (0.94–1.20)
+
+52
+101.88
+
+1.29 (0.98–1.71)
+
+0.14
+
+<0.001
+
+0.002
+
+<0.001
+
+0.98
+
+Table 1. (Continued.)
+
+Type of Cancer
+
+Brain cancer
+
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Non-Hodgkin’s lymphoma
+
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Multiple myeloma
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Leukemia
+
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+All other cancers
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+* Participants with any of the following features at study entry were excluded: missing data on height or current weight; unknown weight one 
+year before entry; weight loss at least 10 lb (4.5 kg) in the previous year; body-mass index under 18.50; existing cancer (other than nonmela-
+noma skin cancer); unknown race or missing data; and missing data on smoking status. RR denotes relative risk, and CI confidence interval.
+† The highest body-mass-index category examined varies for cancer at different sites; higher categories have been combined when necessary 
+
+because of small numbers.
+
+‡ The rate per 100,000 is given, standardized to the age distribution of men in the Cancer Prevention Study II.
+§ The Cox proportional-hazards model was adjusted for age, education, smoking status and number of cigarettes smoked, physical activity, 
+
+alcohol use, marital status, race, aspirin use, fat consumption, and vegetable consumption.
+
+¶This value is for the 35.0–39.9 and ≥40.0 groups combined and is provided to facilitate comparison with the types of cancer.
+
+dividual cancer sites, the association of body-mass
+index and mortality was similar whether the analy-
+sis was based on the total population or on the pop-
+ulation of those who had never smoked. However,
+for several cancers known to be related to smoking,
+the association between body-mass index and mor-
+tality was substantially different in the total popu-
+lation and the population of those who had never
+smoked. For these cancers (in men, all cancers, lung
+cancer, esophageal cancer, pancreatic cancer, and
+other cancers; in women, all cancers, lung cancer,
+esophageal cancer, and other cancers), the results
+from the population of those who had never smoked
+are also presented.
+
+Because weight is a modifiable risk factor, we
+calculated the population attributable fraction (also
+termed population attributable risk, population at-
+30
+tributable–risk proportion, and excess fraction),
+
+32
+
+an estimate of the proportion of all cancer deaths in
+the United States that might be avoided if the adult
+population maintained a body-mass index in the
+31
+normal range. We used methods derived by Walter
+and presented by Kleinbaum et al.
+ for a multiple-
+category  exposure.  In  this  analysis,  calculations
+were  based  on  the  multivariate-adjusted  relative
+risks for the total population in the Cancer Preven-
+tion  Study  II  and  for  the  population  of  those  in
+that study who had never smoked and on preva-
+lence estimates of overweight and obesity in U.S.
+men and women 50 to 69 years of age from the Na-
+tional  Health  and  Nutrition  Examination  Survey
+  This  calculation  assumes  that
+for  1999–2000.
+the  relative-risk  estimates  associated  with  over-
+weight and obesity that were observed in the cur-
+rent study were causal and are generalizable to the
+U.S. population.
+
+33
+
+n engl j med 
+
+348;17
+
+www.nejm.org april 
+
+24, 2003
+
+1629
+
+The New England Journal of Medicine Downloaded from nejm.org at UNIVERSITY OF OTTAWA on June 11, 2018. For personal use only. No other uses without permission.  Copyright © 2003 Massachusetts Medical Society. All rights reserved.  
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ new england journal 
+
+The
+
+ medicine
+of
+
+Table 2. Mortality from Cancer According to Body-Mass Index among U.S.Women in the Cancer Prevention Study II, 1982 through 1998.*
+
+Type of Cancer
+
+Body-Mass Index†
+
+P for Trend
+
+18.5–24.9
+
+25.0–29.9
+
+30.0–34.9
+
+35.0–39.9
+
+≥40.0
+
+14,779
+
+329.30
+1.00
+
+7107
+339.75
+
+1.08 (1.05–1.11)
+
+2254
+382.62
+
+1.23 (1.18–1.29)
+
+517
+419.59
+
+1.32 (1.20–1.44)
+
+185
+522.51
+
+1.62 (1.40–1.87)
+
+<0.001
+
+All cancers
+
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Esophageal cancer
+
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Stomach cancer
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Colorectal cancer
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Liver cancer
+
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Gallbladder cancer
+
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Pancreatic cancer
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Lung cancer
+
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Melanoma
+
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Breast cancer¶
+
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+112
+
+2.56
+1.00
+
+304
+
+6.87
+1.00
+
+56
+2.68
+
+1.20 (0.86–1.66)
+
+21
+2.90
+
+1.39 (0.86–2.25)
+
+134
+
+6.37
+
+0.89 (0.72–1.09)
+
+57
+9.88
+
+1.30 (0.97–1.74)
+
+13
+9.85
+
+1.08 (0.61–1.89)
+
+1,706
+
+38.67
+1.00
+
+906
+43.28
+
+1.10 (1.01–1.19)
+
+312
+53.81
+
+1.33 (1.17–1.51)
+
+67
+56.14
+
+1.36 (1.06–1.74)
+
+21
+63.11
+
+1.46 (0.94–2.24)
+
+200
+
+4.53
+1.00
+
+159
+
+3.57
+1.00
+
+952
+21.47
+1.00
+
+3,693
+
+81.48
+1.00
+
+166
+
+3.65
+1.00
+
+96
+4.54
+
+1.02 (0.80–1.31)
+
+37
+6.34
+
+1.40 (0.97–2.00)
+
+12
+7.52
+
+1.68 (0.93–3.05)
+
+86
+4.15
+
+1.12 (0.86–1.47)
+
+59
+7.79
+
+2.13 (1.56–2.90)
+
+490
+23.24
+
+1.11 (1.00–1.24)
+
+154
+26.20
+
+1.28 (1.07–1.52)
+
+35
+27.70
+
+1.41 (1.01–1.99)
+
+19
+51.65
+
+2.76 (1.74–4.36)
+
+1278
+
+60.80
+
+0.88 (0.83–0.94)
+
+305
+51.23
+
+0.82 (0.72–0.92)
+
+54
+43.67
+
+0.66 (0.50–0.86)
+
+19
+52.64
+
+0.81 (0.52–1.28)
+
+61
+2.96
+
+0.85 (0.63–1.14)
+
+28
+3.63
+
+1.10 (0.73–1.66)
+
+1,446
+
+39.10
+1.00
+
+908
+51.13
+
+1.34 (1.23–1.46)
+
+309
+60.65
+
+1.63 (1.44–1.85)
+
+68
+67.56
+
+1.70 (1.33–2.17)
+
+24
+84.86
+
+2.12 (1.41–3.19)
+
+0.13
+
+0.46
+
+<0.001
+
+0.04
+
+<0.001
+
+<0.001
+
+<0.001
+
+0.95
+
+<0.001
+
+<0.001
+
+0.001
+
+Cancer of the corpus and 
+uterus, not other-
+wise specified¿
+
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Cervical cancer
+
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+333
+10.68
+1.00
+
+80
+1.73
+1.00
+
+225
+15.68
+
+1.50 (1.26–1.78)
+
+105
+26.05
+
+2.53 (2.02–3.18)
+
+25
+30.16
+
+2.77 (1.83–4.18)
+
+16
+60.83
+
+6.25 (3.75–10.42)
+
+54
+2.63
+
+1.38 (0.97–1.96)
+
+16
+2.73
+
+1.23 (0.71–2.13)
+
+14
+7.81
+
+3.20 (1.77–5.78)
+
+1630
+
+n engl j med 
+
+348;17
+
+www.nejm.org april 
+
+, 
+
+24
+
+2003
+
+The New England Journal of Medicine Downloaded from nejm.org at UNIVERSITY OF OTTAWA on June 11, 2018. For personal use only. No other uses without permission.  Copyright © 2003 Massachusetts Medical Society. All rights reserved.  
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+obesity and cancer mortality
+
+18.5–24.9
+
+25.0–29.9
+
+30.0–34.9
+
+35.0–39.9
+
+≥40.0
+
+Body-Mass Index†
+
+P for Trend
+
+873
+27.88
+1.00
+
+180
+
+4.21
+1.00
+
+243
+
+5.43
+1.00
+
+467
+10.26
+1.00
+
+576
+13.02
+1.00
+
+341
+
+7.71
+1.00
+
+574
+13.05
+1.00
+
+437
+31.44
+
+1.15 (1.02–1.29)
+
+126
+31.85
+
+1.16 (0.96–1.40)
+
+49
+44.49
+
+1.51 (1.12–2.02)
+
+83
+3.93
+
+1.02 (0.78–1.33)
+
+34
+4.82
+
+1.34 (0.91–1.95)
+
+153
+
+7.35
+
+1.33 (1.08–1.63)
+
+55
+9.24
+
+1.66 (1.23–2.24)
+
+12
+9.56
+
+1.70 (0.94–3.05)
+
+10
+30.14
+
+4.75 (2.50–9.04)
+
+213
+10.27
+
+1.02 (0.87–1.21)
+
+64
+10.68
+
+1.10 (0.84–1.44)
+
+12
+6.35
+
+0.74 (0.42–1.32)
+
+327
+15.48
+
+1.22 (1.06–1.40)
+
+88
+14.99
+
+1.20 (0.95–1.51)
+
+38
+24.09
+
+1.95 (1.39–2.72)
+
+187
+
+8.87
+
+1.12 (0.93–1.34)
+
+72
+12.28
+
+1.47 (1.13–1.91)
+
+20
+12.88
+
+1.44 (0.91–2.28)
+
+282
+13.53
+
+1.05 (0.91–1.21)
+
+83
+14.17
+
+1.12 (0.89–1.42)
+
+18
+12.72
+
+0.93 (0.58–1.49)
+
+1,582
+
+35.70
+1.00
+
+801
+38.15
+
+1.11 (1.02–1.21)
+
+239
+40.61
+
+1.20 (1.05–1.38)
+
+61
+51.99
+
+1.47 (1.13–1.90)
+
+22
+69.19
+
+1.83 (1.20–2.80)
+
+0.001
+
+0.21
+
+<0.001
+
+0.96
+
+<0.001
+
+0.004
+
+0.53
+
+<0.001
+
+Table 2. (Continued.)
+
+Type of Cancer
+
+Ovarian cancer**
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Bladder cancer
+
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Kidney cancer
+
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Brain cancer
+
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Non-Hodgkin’s lymphoma
+
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Multiple myeloma
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Leukemia
+
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+All other cancers
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+* Participants with any of the following features at study entry were excluded: missing data on height or current weight; unknown weight one 
+
+year before entry; weight loss of at least 10 lb (4.5 kg) in the previous year; body-mass index under 18.50; existing cancer (other than nonmel-
+anoma skin cancer); unknown race or missing data; and missing data on smoking status. RR denotes relative risk, and CI confidence interval.
+† The highest body-mass-index category examined varies for different cancer sites; upper categories have been combined when necessary be-
+
+cause of small numbers.
+
+‡ The rate per 100,000 is given, standardized to the age distribution of women in the Cancer Prevention Study II.
+§ The Cox proportional-hazards model was adjusted for age, education, smoking status and number of cigarettes smoked, physical activity, al-
+
+cohol use, marital status, race, aspirin use, estrogen-replacement therapy, fat consumption, and vegetable consumption.
+
+¶Women who were premenopausal or perimenopausal or whose menopausal status was unknown were excluded (147,583 women, with 871 
+
+deaths).
+
+¿ Women who had a hysterectomy were excluded (130,717 women, 25 deaths).
+**Women who had either a hysterectomy or ovarian surgery were excluded (141,924 women, 389 deaths).
+
+results
+
+body-mass index and mortality
+from cancer in the total population
+of men and women
+The numbers of deaths among men were sufficient
+to permit only the death rates from all cancers to be
+
+examined separately for the two highest body-mass-
+index categories of 35.0 to 39.9 and 40.0 or more.
+The relative risks of death for these categories, as
+compared with the group of men of normal weight
+(body-mass index, 18.5 to 24.9), were 1.20 (95 per-
+cent confidence interval, 1.08 to 1.34) and 1.52 (95
+percent confidence interval, 1.13 to 2.05), respec-
+
+n engl j med 
+
+348;17
+
+www.nejm.org april 
+
+24, 2003
+
+1631
+
+The New England Journal of Medicine Downloaded from nejm.org at UNIVERSITY OF OTTAWA on June 11, 2018. For personal use only. No other uses without permission.  Copyright © 2003 Massachusetts Medical Society. All rights reserved.  
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ new england journal 
+
+The
+
+ medicine
+of
+
+tively (Table 1). We observed significant positive lin-
+ear trends in death rates with increasing body-mass
+index for all cancers, esophageal cancer, stomach
+cancer, colorectal cancer, liver cancer, gallbladder
+cancer, pancreatic cancer, prostate cancer, kidney
+cancer, non-Hodgkin’s lymphoma, multiple myelo-
+ma, and leukemia (Table 1). As compared with men
+of normal weight, men with a body-mass index of
+at least 35.0 had significantly elevated relative risks
+of death from cancer, which ranged from 1.23 (95
+percent confidence interval, 1.11 to 1.36) for death
+from any cancer to 4.52 (95 percent confidence in-
+terval, 2.94 to 6.94) for death from liver cancer (Ta-
+ble 1). In the total population of men, a significant
+inverse association was observed between body-
+mass index and death from lung cancer. We did not
+find significant associations between body-mass in-
+dex and death from brain cancer, bladder cancer,
+melanoma, or “other” cancers. Among men within
+the normal weight range, those with a body-mass
+index  of  23.0  to  24.9  were  not  at  higher  risk  for
+death from cancer than the leanest men (those with
+a body-mass index of 18.5 to 22.9), and the observed
+associations in men were not larger when a leaner
+group of men was used as the reference group (data
+not shown).
+
+The results for the total population of women
+were similar. Women with a body-mass index of at
+least 40.0 had a relative risk of death from any can-
+cer of 1.62 (95 percent confidence interval, 1.40 to
+1.87), as compared with women of normal weight
+(Table 2). Significant positive linear trends in death
+rates were observed for colorectal cancer, liver can-
+cer, gallbladder cancer, pancreatic cancer, breast
+cancer, cancer of the corpus and uterus, not oth-
+erwise specified, cervical cancer, ovarian cancer,
+kidney cancer, non-Hodgkin’s lymphoma, multiple
+myeloma, and “other” cancers (Table 2). The high-
+est relative risk we observed was for death from uter-
+ine cancer (relative risk, 6.25 for women with body-
+mass index of at least 40.0; 95 percent confidence
+interval, 3.75 to 10.42). As in men, a significant in-
+verse  association  between  body-mass  index  and
+death from lung cancer was seen in the total popu-
+lation, which included smokers. Significant asso-
+ciations with body-mass index were not observed
+for death from esophageal cancer, stomach cancer,
+melanoma, bladder cancer, brain cancer, or leuke-
+mia. Although the results for total cancer mortality
+in women were virtually unchanged when a leaner
+reference group was used (body-mass index, 18.5 to
+22.9), there were significant differences within the
+
+normal weight range for cancers of the gallbladder,
+breast, and corpus and uterus, resulting in larger
+elevations in risk for these cancers throughout the
+entire range of overweight and obesity as compared
+with the leanest reference group (the relative risk of
+death from gallbladder cancer for a body-mass in-
+dex of at least 30.0 was 2.44 [95 percent confidence
+interval, 1.73 to 3.44]; the relative risks of death
+from breast and uterine cancers for a body-mass in-
+dex of at least 40.0 were 2.32 [95 percent confidence
+interval, 1.54 to 3.50] and 6.87 [95 percent confi-
+dence interval, 4.09 to 11.55], respectively).
+
+body-mass index and mortality
+from cancer in men and women
+who had never smoked
+
+The association between body-mass index and death
+from  several  smoking-related  cancers  changed
+when the analysis was restricted to men who had
+never smoked. The positive associations with death
+from any cancer, esophageal cancer, pancreatic can-
+cer, and “other” cancers were of greater magnitude
+among those who had never smoked than in the
+total population, and the apparent inverse associ-
+ation  with  death  from  lung  cancer  disappeared
+(Table 3).
+
+As  in  men,  the  positive  association  between
+body-mass index and death from any cancer, esoph-
+ageal cancer, and “other” cancers became stronger
+when the analysis was restricted to women who had
+never smoked, and the seemingly protective effect
+of high body-mass index on mortality from lung
+cancer  was  attenuated  (Table  3).  Among  women
+who had never smoked, the relative risk of death
+from any cancer was 1.88 (95 percent confidence
+interval, 1.56 to 2.27) for those with a body-mass
+index of at least 40.0, as compared with women of
+normal weight.
+
+The relative risks of cancers for which we found
+significant trends of increasing death rates with in-
+creasing body-mass index are summarized for the
+highest categories of body-mass index that we were
+able to examine in men (Fig. 1) and women (Fig. 2).
+
+population attributable fraction
+We  estimated  the  proportion  of  all  deaths  from
+cancer in the U.S. population that are attributable
+to overweight and obesity to be from 4.2 percent to
+14.2 percent among men and from 14.3 percent
+to 19.8 percent among women (Table 4). The lower
+estimates are based on relative risks for the entire
+population, whereas the higher estimates are based
+
+1632
+
+n engl j med 
+
+348;17
+
+www.nejm.org april 
+
+, 
+
+24
+
+2003
+
+The New England Journal of Medicine Downloaded from nejm.org at UNIVERSITY OF OTTAWA on June 11, 2018. For personal use only. No other uses without permission.  Copyright © 2003 Massachusetts Medical Society. All rights reserved.  
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+obesity and cancer mortality
+
+Table 3. Mortality from Cancer According to Body-Mass Index among U.S. Men and Women in the Cancer Prevention Study II Who Had Never 
+Smoked, 1982 through 1998.*
+
+Type of Cancer
+
+Body-Mass Index†
+
+P for Trend
+
+18.5–24.9
+
+25.0–29.9
+
+30.0–34.9
+
+35.0–39.9
+
+≥40.0
+
+Men
+
+All cancers
+
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Esophageal cancer
+
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Pancreatic cancer
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Lung cancer
+
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+All other cancers
+No. of deaths
+Death rate‡
+RR (95% CI)§
+
+Women
+
+All cancers
+
+No. of deaths
+Death rate¶
+RR (95% CI)§
+
+Esophageal cancer
+
+No. of deaths
+Death rate¶
+RR (95% CI)§
+
+Lung cancer
+
+No. of deaths
+Death rate¶
+RR (95% CI)§
+
+All other cancers
+No. of deaths
+Death rate¶
+RR (95% CI)§
+
+2119
+303.08
+1.00
+
+2638
+346.62
+
+1.11 (1.05–1.18)
+
+499
+442.00
+
+1.38 (1.24–1.52)
+
+58
+421.01
+
+1.31 (1.01–1.70)
+
+24
+3.55
+1.00
+
+155
+22.57
+1.00
+
+156
+22.72
+1.00
+
+239
+34.65
+1.00
+
+52
+6.82
+
+1.76 (1.08–2.86)
+
+11
+7.29
+
+1.91 (0.92–3.96)
+
+212
+27.87
+
+1.24 (1.01–1.54)
+
+34
+29.75
+
+1.34 (0.92–1.95)
+
+8
+60.69
+
+2.61 (1.27–5.35)
+
+179
+23.51
+
+1.00 (0.80–1.24)
+
+30
+23.45
+
+0.93 (0.63–1.39)
+
+290
+37.99
+
+1.06 (0.89–1.26)
+
+81
+62.18
+
+1.68 (1.30–2.18)
+
+6158
+241.14
+1.00
+
+3763
+277.92
+
+1.14 (1.09–1.18)
+
+1327
+330.21
+
+1.33 (1.25–1.41)
+
+288
+356.84
+
+1.40 (1.25–1.58)
+
+112
+485.06
+
+1.88 (1.56–2.27)
+
+29
+1.08
+1.00
+
+476
+18.71
+1.00
+
+689
+26.69
+1.00
+
+23
+1.62
+
+1.49 (0.85–2.59)
+
+14
+2.82
+
+2.64 (1.36–5.12)
+
+224
+16.40
+
+0.85 (0.73–1.00)
+
+78
+19.18
+
+0.99 (0.77–1.26)
+
+17
+17.51
+
+0.81 (0.49–1.31)
+
+440
+31.63
+
+1.17 (1.04–1.32)
+
+146
+36.24
+
+1.30 (1.08–1.56)
+
+34
+42.88
+
+1.54 (1.08–2.17)
+
+16
+72.92
+
+2.51 (1.52–4.14)
+
+<0.001
+
+0.04
+
+0.005
+
+0.78
+
+<0.001
+
+<0.001
+
+0.004
+
+0.21
+
+<0.001
+
+* Participants with any of the following features at study entry were excluded: missing height or current weight; unknown weight one year before 
+entry; weight loss of at least 10 lb (4.5 kg) in the previous year; body-mass index under 18.50; existing cancer (other than nonmelanoma skin 
+cancer); and missing data on smoking status. RR denotes relative risk, and CI confidence interval.
+
+† The highest body-mass-index category examined varies for different cancer sites; upper categories have been combined when necessary be-
+
+cause of small numbers.
+
+‡ The rate per 100,000 is given, standardized to the age distribution of men in the Cancer Prevention Study II.
+§ The Cox proportional-hazards model was adjusted for age, education, physical activity, alcohol use, marital status, race, aspirin use, estrogen-
+
+replacement therapy (in women), fat consumption, and vegetable consumption.
+
+¶The rate per 100,000 is given, standardized to the age distribution of women in the Cancer Prevention Study II.
+
+n engl j med 
+
+348;17
+
+www.nejm.org april 
+
+24, 2003
+
+1633
+
+The New England Journal of Medicine Downloaded from nejm.org at UNIVERSITY OF OTTAWA on June 11, 2018. For personal use only. No other uses without permission.  Copyright © 2003 Massachusetts Medical Society. All rights reserved.  
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ new england journal 
+
+The
+
+ medicine
+of
+
+Prostate (≥35)
+
+Men
+1.34
+
+)
+y
+r
+o
+g
+e
+t
+a
+c
+ 
+I
+
+M
+B
+ 
+t
+s
+e
+h
+g
+h
+(
+ 
+r
+e
+c
+n
+a
+C
+
+i
+
+ 
+f
+o
+ 
+e
+p
+y
+T
+
+Non-Hodgkin’s lymphoma (≥35)
+
+All cancers (≥40)
+
+All other cancers (≥30)
+
+Kidney (≥35)
+
+Multiple myeloma (≥35)
+
+Gallbladder (≥30)
+
+Colon and rectum (≥35)
+
+Esophagus (≥30)
+
+Stomach (≥35)
+
+Pancreas (≥35)
+
+Liver (≥35)
+
+0
+
+1
+
+1.49
+
+1.52
+
+1.68*
+
+1.70
+
+1.71
+
+1.76
+
+1.84
+
+1.91*
+
+1.94
+
+2.61*
+
+4.52
+
+2
+Relative Risk of Death (95% Confidence Interval)
+
+3
+
+4
+
+5
+
+6
+
+7
+
+Figure 1. Summary of Mortality from Cancer According to Body-Mass Index for U.S. Men in the Cancer Prevention 
+Study II, 1982 through 1998.
+For each relative risk, the comparison was between men in the highest body-mass-index (BMI) category (indicated in pa-
+rentheses) and men in the reference category (body-mass index, 18.5 to 24.9). Asterisks indicate relative risks for men 
+who never smoked. Results of the linear test for trend were significant (P≤0.05) for all cancer sites. 
+
+on relative risks for those who never smoked. The
+estimates based on relative risks among men and
+women who never smoked (Table 4) do not describe
+the fraction of deaths attributable to overweight and
+obesity  among  this  population  only.  Rather,  they
+are estimates of the fraction of deaths attributable
+to overweight and obesity in the total U.S. popula-
+tion,  on  the  assumption  that  the  relative  risks
+among  those  who  never  smoked  offer  the  most
+valid estimates of the true effect of overweight and
+obesity on mortality from cancer.
+
+discussion
+
+The heaviest men and women (those with a body-
+mass index of at least 40.0) in the large cohort we
+studied prospectively had death rates from all can-
+cers that were 52 percent and 62 percent higher, re-
+spectively, than the rates in men and women of nor-
+mal weight. This finding is consistent with those of
+previous studies, but the magnitude of the effect is
+somewhat larger.
+ The stronger associations
+we found probably reflect our ability to examine
+deaths from cancer across a wider range of over-
+weight and obesity than has been possible previ-
+ously. It is also likely that the stronger associations
+
+7,16,17
+
+18,19
+
+seen in our study reflect a greater effect of body-
+mass index on mortality than on incidence of cancer
+at some sites.
+ These risk estimates are proba-
+bly conservative, since they are based on the total
+population, including current and former smokers.
+Among women who never smoked, the relative risk
+associated with a body-mass index of at least 40.0
+was 88 percent; however, there were not enough
+deaths among men in this category for us to deter-
+mine the relative risk.
+
+The proportion of all deaths from cancer that is
+attributable to overweight and obesity in U.S. adults
+50 years of age or older may be as high as 14 percent
+in men and 20 percent in women. These estimates
+are based on the relative risks in our study and the
+current patterns of overweight and obesity in the
+United States. Under the assumption that these re-
+lations are causal, the public health implications for
+the United States are profound: more than 90,000
+deaths per year from cancer might be avoided if ev-
+eryone  in  the  adult  population  could  maintain  a
+body-mass index under 25.0 throughout life.
+
+The International Agency for Research on Cancer
+(IARC) has concluded that there is sufficient evi-
+dence of a cancer-preventive effect of avoidance of
+weight gain for cancers of the colon, breast (in post-
+
+1634
+
+n engl j med 
+
+348;17
+
+www.nejm.org april 
+
+, 
+
+24
+
+2003
+
+The New England Journal of Medicine Downloaded from nejm.org at UNIVERSITY OF OTTAWA on June 11, 2018. For personal use only. No other uses without permission.  Copyright © 2003 Massachusetts Medical Society. All rights reserved.  
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+obesity and cancer mortality
+
+Women
+1.44
+
+1.46
+
+1.51
+
+1.68
+
+1.88*
+
+1.95
+
+2.12
+
+2.13
+
+2.51*
+
+2.64*
+
+2.76
+
+3.20
+
+)
+y
+r
+o
+g
+e
+t
+a
+c
+ 
+I
+
+M
+B
+ 
+t
+s
+e
+h
+g
+h
+(
+ 
+r
+e
+c
+n
+a
+C
+
+i
+
+ 
+f
+o
+ 
+e
+p
+y
+T
+
+Multiple myeloma (≥35)
+
+Colon and rectum (≥40)
+
+Ovary (≥35)
+
+Liver (≥35)
+
+All cancers (≥40)
+
+Non-Hodgkin’s lymphoma (≥35)
+
+Breast (≥40)
+
+Gallbladder (≥30)
+
+All other cancers (≥40)
+
+Esophagus (≥30)
+
+Pancreas (≥40)
+
+Cervix (≥35)
+
+Kidney (≥40)
+
+Uterus (≥40)
+
+4.75
+
+6.25
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+Relative Risk of Death (95% Confidence Interval)
+
+Figure 2. Summary of Mortality from Cancer According to Body-Mass Index for U.S. Women in the Cancer Prevention 
+Study II, 1982 through 1998.
+For each relative risk, the comparison was between women in the highest body-mass-index (BMI) category (indicated in 
+parentheses) and women in the reference category (body-mass index, 18.5 to 24.9). Asterisks indicate relative risks for 
+women who never smoked. Results of the linear test for trend were significant (P≤0.05) for all cancer sites.
+
+11
+
+11
+
+menopausal women), endometrium, kidney (renal-
+cell  carcinoma),  and  esophagus  (adenocarcino-
+ma).
+  Potential  biologic  mechanisms  include
+increased levels of endogenous hormones (sex ster-
+oids, insulin, and insulin-like growth factor I) as-
+sociated with overweight and obesity and the contri-
+bution of  abdominal  obesity  to  gastroesophageal
+reflux and esophageal adenocarcinoma.
+ Our study
+supports the conclusion of the IARC. Moderate rel-
+ative risks (less than 2.0) associated with overweight
+and obesity both for colon cancer and for breast
+cancer in postmenopausal women have been doc-
+umented consistently in case–control and cohort
+ Much higher relative risks have been
+studies.
+observed  for  uterine  cancer  (2  to  10)  and  kidney
+cancer (1.5 to 4), and the increased risk of kidney
+cancer associated with excess weight is higher in
+women  than  in  men  in  this  and  most  previous
+studies.
+ Increases by a factor of two to three
+in the risk of adenocarcinoma of the esophagus in
+association with high body-mass index have been
+reported,
+ and the magnitude of this association
+has been found by other investigators to be great-
+ Because we could not examine
+er in nonsmokers.
+
+8,34,35
+
+8,36,37
+
+13,14
+
+13
+
+esophageal cancer according to subsite, the strong-
+er association observed in participants who had nev-
+er smoked may be partly explained by the greater
+contribution of adenocarcinoma to all esophageal
+cancer in nonsmokers than in smokers.
+
+14
+
+Recent studies of gallbladder cancer have con-
+sistently found elevated risks for women with a high
+body-mass index (by a factor of about two) but gen-
+erally have involved too few cases for the associa-
+ Obesity may
+tion to be evaluated in men.
+operate  indirectly  by  increasing  the  risk  of  gall-
+stones, which, in turn, increase the risk of gallblad-
+8
+der cancer.
+
+7,16,17,38,39
+
+15,41
+
+15,40,41
+
+Studies  suggest  that  high  body-mass  index  is
+associated  with  approximately  a  doubling  of  the
+risk  of  pancreatic  cancer  in  both  men
+  and
+women
+ — a result similar to our findings. In
+contrast, there is no strong support for an associa-
+tion between body-mass index and prostate can-
+cer.
+ However, some data suggest a slight in-
+crease in the risk of advanced prostate cancer or
+death among patients with a high body-mass in-
+ Positive associations of ovarian cancer
+dex.
+with body-mass index have been found, with relative
+
+19,45,46
+
+42-44
+
+n engl j med 
+
+348;17
+
+www.nejm.org april 
+
+24, 2003
+
+1635
+
+The New England Journal of Medicine Downloaded from nejm.org at UNIVERSITY OF OTTAWA on June 11, 2018. For personal use only. No other uses without permission.  Copyright © 2003 Massachusetts Medical Society. All rights reserved.  
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ new england journal 
+
+The
+
+ medicine
+of
+
+Table 4. Estimated Population Attributable Fraction According to Body-Mass Index for Mortality from Cancer
+in U.S. Men and Women.*
+
+Body-Mass Index
+
+Men
+
+Women
+
+Prevalence 
+of Exposure
+
+Relative 
+
+Risk
+
+Population 
+Attributable 
+
+Fraction
+
+Prevalence 
+of Exposure
+
+Relative 
+
+Risk
+
+Population 
+Attributable 
+
+Fraction
+
+%
+
+42.1
+
+21.0
+
+9.2
+
+3.6
+
+42.1
+
+21.0
+
+12.8
+
+0.97
+
+1.09
+
+1.20
+
+1.52
+
+1.11
+
+1.38
+
+1.31
+
+All subjects
+
+25.0–29.9
+
+30.0–34.9
+
+35.0–39.9
+
+≥40.0
+
+Total population attributable fraction
+
+Subjects who never smoked
+
+25.0–29.9
+
+30.0–34.9
+
+35.0–39.9†
+
+≥40.0
+
+Total population attributable fraction
+
+%
+
+–1.2
+
+1.8
+
+1.8
+
+1.9
+
+4.2
+
+4.0
+
+6.8
+
+3.4
+
+14.2
+
+%
+
+28.8
+
+22.5
+
+10.7
+
+7.9
+
+28.8
+
+22.5
+
+10.7
+
+7.9
+
+1.08
+
+1.23
+
+1.32
+
+1.62
+
+1.14
+
+1.33
+
+1.40
+
+1.88
+
+%
+
+2.0
+
+4.5
+
+3.0
+
+4.9
+
+14.3
+
+3.3
+
+6.1
+
+3.5
+
+7.0
+
+19.8
+
+* Data on prevalence of exposure among men are from the National Health and Nutrition Examination Survey (NHANES) 
+
+(1999–2000) for U.S. men 50 to 69 years of age. Data on prevalence of exposure among women are from NHANES 
+(1999–2000) for U.S. women 50 to 69 years of age. Data on relative risk are from the Cancer Prevention Study II (Table 1 
+for data for all men, Table 2 for data for all women, and Table 3 for data for men and women who never smoked). The 
+population attributable fraction was calculated with the use of equation 9.6 in Kleinbaum et al.
+
+32
+
+† Values for men are applicable to men with a body-mass index of 35.0 or higher.
+
+risks in the range of 1.5 to 2.0 for the highest body-
+mass-index categories studied
+; however, sev-
+16,17,50,51
+eral studies have not shown an association.
+
+7,47-49
+
+16
+
+16,17
+
+13,14,52
+
+Two studies that examined obesity and liver can-
+cer found an excess risk in both men and women,
+ — a
+with relative risks in the range of 2.0 to 4.0
+result similar to our findings. Our results and those
+ suggest that this
+of a prospective study in Sweden
+excess risk is higher among men than among wom-
+en. Obesity also increases the risk of adenocarcino-
+ma of the gastric cardia,
+ but the data are lim-
+ited and inconsistent for noncardia cancers of the
+stomach.
+ In an earlier American Cancer Society
+cohort, as in our study, mortality from stomach can-
+cer  was  associated  with  body-mass  index  among
+7
+men but not among women.
+ This difference may
+reflect the greater contribution of the cardia to all
+cases of gastric cancer in men than in women. Our
+results for cervical cancer are also similar to those in
+7
+ where-
+the earlier American Cancer Society cohort,
+
+13,52
+
+as the increased risks observed in two cohorts of
+hospitalized patients with a diagnosis of obesity,
+as  compared  with  the  general  population,  were
+16,17
+much smaller than those observed in our study.
+Data are scarce on the relation between hematopoi-
+etic cancers and body-mass index, and the findings
+have not been consistent.
+
+7,16,17,53
+
+Our results are based on data on mortality and
+reflect the combined influence of body-mass index
+both  on  the  incidence  of  cancer  and  on  survival,
+whereas most of the available literature on site-spe-
+cific cancers is based on incidence data. Our results
+may be influenced by adiposity-related differences
+in the diagnosis or treatment of cancer, as well as by
+true biologic effects of adiposity on survival. For ex-
+ample, adiposity has been shown to be adversely as-
+sociated with the incidence of breast cancer, survival
+among women with the disease,
+ and stage at di-
+ These combined effects may explain
+agnosis.
+why the association of body-mass index with mor-
+
+55,56
+
+54
+
+1636
+
+n engl j med 
+
+348;17
+
+www.nejm.org april 
+
+, 
+
+24
+
+2003
+
+The New England Journal of Medicine Downloaded from nejm.org at UNIVERSITY OF OTTAWA on June 11, 2018. For personal use only. No other uses without permission.  Copyright © 2003 Massachusetts Medical Society. All rights reserved.  
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+obesity and cancer mortality
+
+tality from breast cancer in our study cohort is some-
+what stronger than those in previous studies of in-
+cident breast cancer.
+
+18
+
+Smoking profoundly alters the relation between
+body-mass index and many causes of death. We be-
+lieve that public health recommendations regarding
+optimal body mass are most valid when they are
+based on data from studies of persons who have
+never smoked.5,57,58 For smoking-related cancers,
+the prospective effects of body-mass index on the
+risk of death among smokers cannot be separated
+from the prospective effects of smoking — namely,
+decreased body mass and increased risk of death.
+Previous analyses of the Cancer Prevention Study II
+cohort demonstrated that the apparent inverse as-
+sociation of body-mass index and mortality due to
+lung cancer was incrementally attenuated with in-
+creasingly complex statistical control for smoking
+in multivariate models, and it disappeared entirely
+when the analysis was restricted to those who had
+never smoked.59 Thus, for smoking-related can-
+cers, we believe that the estimates of relative risk
+and population attributable fraction presented for
+the total population (Tables 1, 2, and 4) are likely
+to be underestimates, whereas those presented for
+the population of those who never smoked (Tables 3
+and 4) offer the most valid estimates of the true ef-
+fect  of  overweight  and  obesity  on  mortality  from
+these cancers.
+
+We used self-reported weight and height at study
+entry to calculate the body-mass index, a widely used
+index of weight adjusted for height.60,61 Although
+
+self-reported weight and height are highly correlat-
+ed with measured weight and height,62-64 the small
+error  that  exists  is  generally  systematic,  with  an
+overestimation of height and an underestimation
+of weight, especially at higher weights.62-64 Thus,
+our measure of body-mass index probably under-
+estimated the true body-mass-index values among
+overweight persons. We had no direct measure of
+adiposity or of lean body mass and no measure of
+central adiposity, such as the waist-to-hip ratio. We
+also could not evaluate the effect of weight change
+or weight cycling throughout the follow-up period,
+and we could not estimate the extent of misclassifi-
+cation that weight change might introduce. The as-
+sociations observed in this study were not changed
+in models that excluded deaths in the first two years
+of follow-up.
+
+The large size of our cohort allowed us to inves-
+tigate the effect of overweight and obesity on the
+occurrence  of  57,000  deaths  from  cancer  among
+900,000 men and women who were free of cancer
+at base line. Overweight and obesity are associated
+with  the  risk  of  death  from  all  cancers  and  with
+death from cancers at many specific sites. From our
+results, we estimate that 90,000 deaths due to cancer
+could be prevented each year in the United States if
+men and women could maintain normal weight. It
+is unlikely that this goal can be achieved without
+concerted effort and substantial investment on the
+part of policymakers, educators, clinicians, employ-
+ers, and schools to promote physical activity and
+healthful dietary practices as a cultural norm.
+
+references
+
+1. Manson JE, Willett WC, Stampfer MJ, et
+al. Body weight and mortality among wom-
+en. N Engl J Med 1995;333:677-85.
+2. Willett WC, Manson JE, Stampfer MJ,
+et al. Weight, weight change, and coronary
+heart disease in women: risk within the ‘nor-
+mal’ weight range. JAMA 1995;273:461-5.
+3. Stevens J, Plankey MW, Williamson DF,
+et al. The body mass index-mortality relation-
+ship in white and African American women.
+Obes Res 1998;6:268-77.
+4. Lindsted KD, Singh PN. Body mass and
+26 y risk of mortality among men who never
+smoked: a re-analysis of men from the Ad-
+ventist  Mortality  Study.  Int  J  Obes  Relat
+Metab Disord 1998;22:544-8.
+5. Calle EE, Thun MJ, Petrelli JM, Rodriguez
+C, Heath CW Jr. Body-mass index and mor-
+tality in a prospective cohort of U.S. adults.
+N Engl J Med 1999;341:1097-105.
+6. Kopelman P. Obesity as a medical prob-
+lem. Nature 2000;404:635-43.
+
+7. Lew EA, Garfinkel L. Variations in mor-
+tality  by  weight  among  750,000  men  and
+women. J Chronic Dis 1979;32:563-76.
+8. World Cancer Research Fund. Food, nu-
+trition and the prevention of cancer: a global
+perspective. Washington, D.C.: American In-
+stitute for Cancer Research, 1997:371-3.
+9. Carroll K. Obesity as a risk factor for cer-
+tain types of cancer. Lipids 1998;33:1055-9.
+10. Bergstrom A, Pisani P, Tenet V, Wolk A,
+Adami  H-O.  Overweight  as  an  avoidable
+cause of cancer in Europe. Int J Cancer 2001;
+91:421-30. [Erratum, Int J Cancer 2001;92:
+927.]
+11. IARC handbooks of cancer prevention.
+Vol. 6. Weight control and physical activity.
+Lyons, France: International Agency for Re-
+search on Cancer, 2002.
+12. Peto J. Cancer epidemiology in the last
+century and the next decade. Nature 2001;
+411:390-5.
+13. Chow W-H, Blot WJ, Vaughan TL, et al.
+
+Body mass index and risk of adenocarcino-
+mas  of  the  esophagus  and  gastric  cardia.
+J Natl Cancer Inst 1998;90:150-5.
+14. Vaughan TL, Davis S, Kristal A, Thomas
+DB.  Obesity,  alcohol,  and  tobacco  as  risk
+factors for cancers of the esophagus and gas-
+tric  cardia:  adenocarcinoma  versus  squa-
+mous  cell  carcinoma.  Cancer  Epidemiol
+Biomarkers Prev 1995;4:85-92.
+15. Michaud DS, Giovannucci E, Willett WC,
+Colditz  G,  Stampfer  M,  Fuchs  C.  Physical
+activity, obesity, height, and the risk of pan-
+creatic cancer. JAMA 2001;286:921-9.
+16. Wolk A, Gridley G, Svensson M, et al.
+A prospective study of obesity and cancer
+risk (Sweden). Cancer Causes Control 2001;
+12:13-21.
+17. Moller  H,  Mellemgaard  A,  Lindvig  K,
+Olsen  J.  Obesity  and  cancer  risk:  a  Danish
+record-linkage  study.  Eur  J  Cancer  1994;
+30A:344-50.
+18. Petrelli JM, Calle EE, Rodriguez C, Thun
+
+n engl j med 
+
+348;17
+
+www.nejm.org april 
+
+24, 2003
+
+1637
+
+The New England Journal of Medicine Downloaded from nejm.org at UNIVERSITY OF OTTAWA on June 11, 2018. For personal use only. No other uses without permission.  Copyright © 2003 Massachusetts Medical Society. All rights reserved. obesity and cancer mortality
+
+MJ. Body mass index, height, and postmeno-
+pausal breast cancer mortality in a prospec-
+tive  cohort  of  US  women.  Cancer  Causes
+Control 2002;13:325-32.
+19. Rodriguez C, Patel AV, Calle EE, Jacobs
+EJ,  Chao  A,  Thun  MJ.  Body  mass  index,
+height, and prostate cancer mortality in two
+large  cohorts  of  adult  men  in  the  United
+States.  Cancer  Epidemiol  Biomarkers  Prev
+2001;10:345-53.
+20. Garfinkel  L.  Selection,  follow-up,  and
+analysis in the American Cancer Society pro-
+spective studies: In: Selection, follow-up, and
+analysis in prospective studies: a workshop.
+National Cancer Institute monograph 67. Be-
+thesda, Md.: National Cancer Institute, 1985:
+49-52. (NIH publication no. 85-2713.)
+21. Stellman SD, Garfinkel L. Smoking hab-
+its and tar levels in a new American Cancer
+Society prospective study of 1.2 million men
+and  women.  J  Natl  Cancer  Inst  1986;76:
+1057-63.
+22. Calle EE, Terrell DD. Utility of the Na-
+tional Death Index for ascertainment of mor-
+tality among Cancer Prevention Study II par-
+ticipants. Am J Epidemiol 1993;137:235-41.
+23. Physical status: the use and interpreta-
+tion of anthropometry: report of a WHO Ex-
+pert Committee. World Health Organ 1995;
+854:1-452.
+24. International classification of diseases:
+manual of the international statistical classi-
+fication of diseases, injuries, and causes of
+death. Vol. 1. Geneva: World Health Organi-
+zation, 1977.
+25. Thun MJ, Calle EE, Namboodiri MM, et
+al. Risk factors for fatal colon cancer in a
+large  prospective  study.  J  Natl  Cancer  Inst
+1992;84:1491-500.
+26. Flanders WD. Approximate variance for-
+mulas for standardized rate ratios. J Chronic
+Dis 1984;37:449-53.
+27. Rothman KJ, Greenland S. Modern epi-
+demiology. 2nd ed. Philadelphia: Lippincott–
+Raven, 1998.
+28. Cox  DR.  Regression  models  and  life-
+tables. J R Stat Soc [B] 1972;34:187-220.
+29. Cox  DR,  Oakes  D.  Analysis  of  survival
+data. London: Chapman & Hall, 1984.
+30. Rockhill B, Newman B, Weinberg C. Use
+and misuse of population attributable frac-
+tions. Am J Public Health 1998;88:15-9.
+31. Walter SD. The estimation and interpre-
+tation of attributable risk in health research.
+Biometrics 1976;32:829-49.
+32. Kleinbaum  DG,  Kupper  LL,  Morgen-
+stern H. Epidemiologic research: principles
+and quantitative methods. Belmont, Calif.:
+Lifetime Learning, 1982:163.
+33. National Health and Nutrition Exami-
+nation Survey 1999-2000. Atlanta: Centers
+for Disease Control and Prevention, 2002.
+(Accessed  April  1,  2003,  at  http://
+
+www.cdc.gov/nchs/about/major/nhanes/
+NHANES99_00.htm.)
+34. Hunter  DJ,  Willett  WC.  Nutrition  and
+breast cancer. Cancer Causes Control 1996;
+7:56-68.
+35. Potter JD. Nutrition and colorectal can-
+cer. Cancer Causes Control 1996;7:127-46.
+36. Hill  HA,  Austin  H.  Nutrition  and  en-
+dometrial  cancer.  Cancer  Causes  Control
+1996;7:19-32.
+37. Wolk A, Lindblad P, Adami H-O. Nutri-
+tion  and  renal  cell  cancer.  Cancer  Causes
+Control 1996;7:5-18.
+38. Strom BL, Soloway RD, Rios-Dalenz JL,
+et  al.  Risk  factors  for  gallbladder  cancer:
+an international collaborative case-control
+study. Cancer 1995;76:1747-56.
+39. Zatonski WA, Lowenfels AB, Boyle P, et
+al. Epidemiologic aspects of gallbladder can-
+cer: a case-control study of the SEARCH Pro-
+gram  of  the  International  Agency  for  Re-
+search on Cancer. J Natl Cancer Inst 1997;
+89:1132-8.
+40. Gapstur SM, Gann PH, Lowe W, Liu K,
+Colangelo L, Dyer A. Abnormal glucose me-
+tabolism  and  pancreatic  cancer  mortality.
+JAMA 2000;283:2552-8.
+41. Silverman DT, Swanson CA, Gridley G,
+et  al.  Dietary  and  nutritional  factors  and
+pancreatic  cancer:  a  case-control  study
+based  on  direct  interviews.  J  Natl  Cancer
+Inst 1998;90:1710-9.
+42. Kolonel LN. Nutrition and prostate can-
+cer. Cancer Causes Control 1996;7:83-94.
+43. Calle  E.  Do  anthropometric  measures
+predict risk of prostate cancer? Am J Epide-
+miol 2000;151:550-3.
+44. Nomura A. Body size and prostate can-
+cer. Epidemiol Rev 2001;23:126-31.
+45. Giovannucci E, Rimm EB, Stampfer MJ,
+Colditz  GA,  Willett  WC.  Height,  body
+weight, and risk of prostate cancer. Cancer
+Epidemiol Biomarkers Prev 1997;6:557-63.
+46. Andersson SO, Wolk A, Bergstrom R, et
+al. Body size and prostate cancer: a 20-year
+follow-up study among 135006 Swedish con-
+struction workers. J Natl Cancer Inst 1997;
+89:385-9.
+47. Farrow DC, Weiss NS, Lyon JL, Daling
+JR. Association of obesity and ovarian cancer
+in a case-control study. Am J Epidemiol 1989;
+129:1300-4.
+48. Cramer DW, Welch WR, Hutchinson GB,
+Willett W, Scully RE. Dietary animal fat in re-
+lation to ovarian cancer risk. Obstet Gynecol
+1984;63:833-8.
+49. Purdie DM, Bain CJ, Webb PM, White-
+man DC, Pirozzo S, Green AC. Body size and
+ovarian cancer: case-control study and sys-
+tematic  review  (Australia).  Cancer  Causes
+Control 2001;12:855-63.
+50. Mink PJ, Folsom AR, Sellers TA, Kushi
+LH. Physical activity, waist-to-hip ratio, and
+
+other risk factors for ovarian cancer: a fol-
+low-up study of older women. Epidemiolo-
+gy 1996;7:38-45.
+51. Slattery  ML,  Schuman  KL,  West  DW,
+French  TK,  Robison  LM.  Nutrient  intake
+and  ovarian  cancer.  Am  J  Epidemiol  1989;
+130:497-502.
+52. Ji B-T, Chow W-H, Yang G, et al. Body
+mass  index  and  the  risk  of  cancers  of  the
+gastric cardia and distal stomach in Shang-
+hai,  China.  Cancer  Epidemiol  Biomarkers
+Prev 1997;6:481-5.
+53. Holly  EA,  Lele  C,  Bracci  PM,  McGrath
+MS.  Case-control  study  of  non-Hodgkin’s
+lymphoma among women and heterosexual
+men in the San Francisco Bay area, Califor-
+nia. Am J Epidemiol 1999;150:375-89.
+54. Boyd  NF,  Campbell  JE,  Germanson  T,
+Thomson  DB,  Sutherland  DJ,  Meakin  JW.
+Body weight and prognosis in breast cancer.
+J Natl Cancer Inst 1981;67:785-9.
+55. Reeves  MJ,  Newcomb  PA,  Remington
+PL, Marcus PM, MacKenzie WR. Body mass
+and  breast  cancer:  relationship  between
+method  of  detection  and  stage  of  disease.
+Cancer 1996;77:301-7.
+56. Wee CC, McCarthy EP, Davis RB, Phil-
+lips  RS.  Screening  for  cervical  and  breast
+cancer: is obesity an unrecognized barrier to
+preventive care? Ann Intern Med 2000;132:
+697-704.
+57. Willett  WC,  Dietz  WH,  Colditz  GA.
+Guidelines for healthy weight. N Engl J Med
+1999;341:427-34.
+58. Allison  DB,  Fontaine  KR,  Manson  JE,
+Stevens  J,  VanItallie  TB.  Annual  deaths  at-
+tributable  to  obesity  in  the  United  States.
+JAMA 1999;282:1530-8.
+59. Henley SJ, Flanders WD, Manatunga A,
+Thun  MJ.  Leanness  and  lung  cancer  risk:
+fact or artifact? Epidemiology 2002;13:268-
+76.
+60. Kuczmarski RJ, Carroll MD, Flegal KM,
+Troiano RP. Varying body mass index cutoff
+points  to  describe  overweight  prevalence
+among  U.S.  adults:  NHANES  III  (1988  to
+1994). Obes Res 1997;5:542-8.
+61. Willett  WC.  Nutritional  epidemiology.
+2nd ed. New York: Oxford University Press,
+1998.
+62. Palta M, Prineas RJ, Berman R, Hannan
+P.  Comparison  of  self-reported  and  meas-
+ured  height  and  weight.  Am  J  Epidemiol
+1982;115:223-30.
+63. Stewart AW, Jackson RT, Ford MA, Bea-
+glehole R. Underestimation of relative weight
+by  use  of  self-reported  height  and  weight.
+Am J Epidemiol 1987;125:122-6.
+64. Stevens J, Keil JE, Waid R, Gazes PC. Ac-
+curacy  of  current,  4-year,  and  28-year  self-
+reported body weight in an elderly popula-
+tion. Am J Epidemiol 1990;132:1156-63.
+Copyright © 2003 Massachusetts Medical Society.
+
+1638
+
+n engl j med 348;17 www.nejm.org april 24, 2003
+
+The New England Journal of Medicine Downloaded from nejm.org at UNIVERSITY OF OTTAWA on June 11, 2018. For personal use only. No other uses without permission.  Copyright © 2003 Massachusetts Medical Society. All rights reserved. 

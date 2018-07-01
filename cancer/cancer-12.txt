@@ -1,0 +1,889 @@
+The Journal of Nutrition
+Nutritional Epidemiology
+
+Genetic Variants Reﬂecting Higher Vitamin E
+Status in Men Are Associated with Reduced
+Risk of Prostate Cancer1,2
+Jacqueline M. Major,3,4* Kai Yu,3 Stephanie J. Weinstein,3 Sonja I. Berndt,3 Paula L. Hyland,3
+Meredith Yeager,3,5 Stephen Chanock,3,5 and Demetrius Albanes3
+
+3Division of Cancer Epidemiology and Genetics, National Cancer Institute (NCI), NIH, Bethesda, MD; 4Division of Epidemiology, Ofﬁce
+of Surveillance and Epidemiology, Center for Drug Evaluation and Research, FDA, Silver Spring, MD; and 5Core Genotyping Facility,
+NCI-Frederick, Frederick, MD
+
+Abstract
+
+Vitamin E (a -tocopherol) plays a key role in the regulation of cell growth and differentiation and has been studied as a
+
+potential chemopreventive agent for prostate cancer. The association of serum vitamin E concentrations with cancer risk
+
+may be modiﬁed by genetic variations in vitamin E–related genes. We examined whether variants in vitamin E–related genes
+
+were associated with risk of prostate cancer in a nested case-control study using 483 prostate cancer cases and 542
+
+matched controls of European ancestry from a large U.S. multicenter trial that had available measurements of serum vitamin
+
+E concentrations and genotyping of 3 genome-wide association study meta-analysis–identiﬁed single-nucleotide polymor-
+
+phisms (SNPs) associated with circulating vitamin E. ORs and 95% CIs were calculated using unconditional
+
+logistic
+
+regression adjusted for age, family history of prostate cancer, and serum total cholesterol. Findings suggest lower prostate
+
+cancer risk for men whose genotypes reﬂect higher vitamin E (i.e., a-tocopherol) status. An SNP (rs964184) near budding-
+site selection protein 13 (yeast) (BUD13), zinc ﬁnger protein 259 (ZNF259), and apolipoprotein A5 (APOA5) on 11q23.3 was
+signiﬁcantly associated with prostate cancer risk (per-allele OR = 0.75; 95% CI: 0.58, 0.98; P-trend = 0.03). The association
+
+between rs964184 and prostate cancer risk was stronger among homozygous carriers of the minor allele (OR = 0.27; 95%
+CI: 0.09, 0.83). Another variant, rs11057830 in scavenger receptor class-B member 1 (SCARB1) on 12p24.31, approached
+statistical signiﬁcance (OR = 0.32; 95% CI: 0.10, 1.01, P = 0.05; 2 minor allele copies). This study suggests that
+polymorphisms near BUD13/ZNF259/APOA5, involved in vitamin E transport and metabolism, may be associated with lower
+
+risk of prostate cancer. This trial was registered at clinicaltrials.gov as NCT00002540. J. Nutr. 144: 729–733, 2014.
+
+Introduction
+
+Vitamin E is a fat-soluble micronutrient consisting of 8 forms, a-,
+b-, g-, and d- tocopherols and -tocotrienols (1). Some functions of
+vitamin E include antioxidative and anti-inﬂammatory activities
+(2–7), inhibition of cell proliferation and angiogenesis (8), and
+induction of apoptosis (9). Cancer prevention studies with vitamin
+E have focused primarily on a-tocopherol, and, although the bio-
+logic effects of a-tocopherol have been investigated, our under-
+standing of its role in inhibiting carcinogenesis remains incomplete.
+Prostate cancer is the most common malignancy and the
+second leading cause of cancer-related deaths in U.S. males;
+however, the etiology and pathogenesis of prostate cancer remain
+
+1 Supported in part by the Intramural Research Program of the NIH and the
+National Cancer Institute. This study was initiated at the National Cancer
+Institute. The views represented herein are those of the authors and do not
+necessarily represent those of the FDA or U.S. Department of Health and Human
+Services.
+2 Author disclosures: J. M. Major, K. Yu, S. J. Weinstein, S. I. Berndt, P. L. Hyland,
+M. Yeager, S. Chanock, and D. Albanes, no conﬂicts of interest.
+* To whom correspondence should be addressed. E-mail: Jacqueline.major@fda.
+hhs.gov.
+
+poorly understood. The association between circulating vitamin E
+and risk of prostate cancer has been inconsistent in 12 prospective
+studies, as summarized by Key et al. (10); the majority (n = 8) suggest
+a protective association with RRs for high quantiles ranging from
+0.49 to 0.85. The RRs for the remaining studies were 0.98, 1.00,
+1.06, and 1.40. Furthermore, the association between vitamin E
+supplementation and prostate cancer risk has been inconsistent
+in randomized trials. Findings from the Alpha-Tocopherol, Beta-
+Carotene Cancer Prevention Study suggest a signiﬁcant 32%
+reduction in prostate cancer risk after 6-y trial supplementation
+of 50 IU/d a-tocopherol in male smokers (11, 12), which was
+supported by a subsequent trial examining 30 mg/d for 8 y (13).
+In 2 recent trials, however, a-tocopherol doses of 400 IU/d for ;6
+y (3) and 400 IU on alternate days for ;8 y (14) did not prevent
+prostate cancer. Several studies suggest that the vitamin E–prostate
+cancer association may be limited to smokers (11,15–18), and recently,
+genetic variation in oxidative stress regulatory enzymes has been
+shown to modify the association of circulating a-tocopherol
+with aggressive prostate cancer among current smokers (16).
+
+ã 2014 American Society for Nutrition.
+Manuscript received December 17, 2013. Initial review completed January 21, 2014. Revision accepted February 20, 2014.
+First published online March 12, 2014; doi:10.3945/jn.113.189928.
+
+729
+
+Downloaded from https://academic.oup.com/jn/article-abstract/144/5/729/4615714
+by University of Ottawa user
+on 24 June 2018
+
+The association of vitamin E with prostate cancer risk might be
+modiﬁed by genetic variations in vitamin E–related genes.
+
+Genetic variants in genes involved in vitamin E transport or
+metabolism may be important determinants of potential beneﬁcial
+effects of vitamin E supplementation on prostate cancer risk (19).
+In our previous genome-wide association studies (GWASs)6, we
+identiﬁed regions of the genome that inﬂuence vitamin E bio-
+chemical status, providing a framework for investigation of this
+membrane-integrated micronutrient that is important in com-
+plex chronic diseases, such as prostate cancer (20,21). To our
+knowledge, no studies on the association between these GWAS-
+identiﬁed vitamin E–associated single-nucleotide polymorphisms
+(SNPs) (i.e., rs964184, rs2108622, and rs11057830) and devel-
+opment of prostate cancer have been published. The purpose of
+this study is to examine whether variants in vitamin E–related
+genes are associated with risk of prostate cancer.
+
+Materials and Methods
+
+Study participants. The Prostate, Lung, Colorectal, and Ovarian
+(PLCO) Cancer Screening Trial was a multicenter, randomized con-
+trolled trial of ;155,000 men and women conducted in the United States
+to test the efﬁcacy of screening for prostate, lung, colorectal, and ovarian
+cancers (22). Enrollment occurred from November 1993 through June
+2001. Screening was performed at 10 centers located across the United
+States, including the following: 1) Birmingham, Alabama; 2) Denver,
+Colorado; 3) Detroit, Michigan; 4) Honolulu, Hawaii; 5) Marshﬁeld,
+Wisconsin; 6) Minneapolis, Minnesota; 7) Pittsburgh, Pennsylvania; 8)
+Salt Lake City, Utah; 9) St. Louis, Missouri; and 10) Washington, DC.
+Men in the screening arm received both serum prostate-speciﬁc antigen
+(PSA) and digital rectal examination at study entry and then annually for
+3 y and continued to receive PSA screening for years 4 and 5. Men with a
+positive screening result (PSA > 4 mg/L or digital rectal examination
+suspicious for prostate cancer) were referred to their medical care
+providers for prostate cancer diagnostic evaluation. All men were
+followed from their initial cancer screening to the occurrence of prostate
+cancer, loss to follow-up, or death, whichever came ﬁrst. Clinical and
+pathologic records, related to diagnostic follow-up of prostate cancer,
+were obtained by certiﬁed tumor registrars at each screening center using
+a standardized protocol. Aggressive cancers were deﬁned as Gleason
+score $ 7 or stage III or IV of the tumor-node-metastasis staging system,
+as deﬁned by the American Joint Committee on Cancer, at the time of
+diagnosis because of our interest in the more clinically signiﬁcant but less
+common aggressive forms of prostate cancer. Participants from a previous
+nested case-control study on prostate cancer consisting of Caucasian
+men, aged 55–74 y, with no previous history of prostate cancer before
+random assignment were included in the present study if they were from
+the screened arm of the study trial and had serum a-tocopherol con-
+centration measured in provided blood samples (n = 1536 individuals)
+(23). For our present analytic cohort, genotype data on vitamin E–related
+polymorphisms were available for 483 cases and 542 controls (n = 1025;
+97% of those with baseline serum). The institutional review boards of
+the U.S. National Cancer Institute and the 10 study centers approved the
+trial, and all participants provided written informed consent.
+
+Phenotypic measurements and genotype data. Nonfasting baseline
+blood specimens collected at the clinical centers were processed and
+frozen within 2 h of blood draw and stored at 270°C. Serum concen-
+trations of a-tocopherol were determined using reversed-phase HPLC
+with UV detection (24). The estimated CV for a-tocopherol concentra-
+tions was 5.8%. Total serum cholesterol was measured enzymatically by
+a standard procedure at 37°C on a Hitachi 912 autoanalyzer. Genotyping
+for SNPs was conducted previously using the TaqMan assay (Applied
+
+6 Abbreviations used: APOA5, apolipoprotein A5; BUD13, budding-site selection
+protein 13 (yeast); GWAS, genome-wide association study; PLCO, Prostate,
+Lung, Colorectal, and Ovarian; SCARB1, scavenger receptor class-B member 1;
+SNP, single-nucleotide polymorphism; ZNF259, zinc ﬁnger protein 259.
+
+730 Major et al.
+
+Biosystems) at the National Cancer Institute Core Genotyping Facility,
+NIH. The SNPs include rs964184 near budding-site selection protein
+13 (yeast) (BUD13), zinc ﬁnger protein 259 (ZNF259), and apolipopro-
+tein A5 (APOA5) on 11q23.3, rs2108622 in cytochrome p450, family 4,
+subfamily F, polypeptide 2 on 19pter-p13.11, and rs11057830 in scavenger
+receptor class B member 1 (SCARB1) 12p24.31, which were found to be
+associated with higher circulating vitamin E concentrations at the genome-
+wide signiﬁcance level in our previous GWAS meta-analysis (19). The
+overall completion rate was between 92% and 99%. Details for each
+TaqMan assay may be found at http://variantgps.nci.nih.gov.
+
+Statistical methods. Descriptive statistics were calculated for the
+characteristics of prostate cancer cases and controls. The genotype
+frequencies between the 2 groups were compared using x2 or FisherÕs
+exact tests. There were no signiﬁcant deviations from Hardy-Weinberg
+equilibrium observed (P > 0.05). Unconditional
+logistic regression
+models, adjusted for established risk factors of prostate cancer (age and
+family history of prostate cancer) and serum concentrations of total
+cholesterol, were used to estimate ORs and 95% CIs for the association
+of each vitamin E–related SNP with overall prostate cancer risk assuming
+an additive mode of inheritance. We adjusted for total cholesterol be-
+cause it is well established that vitamin E concentrations are affected by
+circulating lipids; inclusion of cholesterol in the models slightly at-
+tenuated results, albeit not signiﬁcantly. Additional covariates consid-
+ered included BMI, smoking status (never, former, or current smoker),
+and history of diabetes. None of the additional covariates markedly
+changed the results (<10% change in OR) and therefore were not
+included in the ﬁnal parsimonious regression models. Sensitivity analyses
+were conducted for aggressive and non-aggressive disease, in which
+aggressive disease was deﬁned as Gleason score $ 7 or tumor stage III or
+IV (25). The P value for trend was generated by entering the three-level
+ordinal variable coded as the number of minor alleles (zero, 1, or 2) as a
+single term in the model (i.e., 1 df). To more closely examine the results
+of the tests for trend, we also report the ORs by genotype. Because of the
+smaller number of cases with 2 copies of the minor allele, those with 1 or
+2 copies were combined. In addition, a polygenic score was used to
+examine the combined genetic effect of the 3 SNPs. Potential effect
+modiﬁcation by smoking status (ever vs. never) and serum a-tocopherol
+concentrations (above vs. below median cut point based on the
+distribution among controls) was examined using stratiﬁed analyses
+and by additionally including an interaction term in the same regression
+model that included the SNP and potential effect modiﬁer. All statistical
+
+TABLE 1 Characteristics of prostate cancer cases and controls,
+PLCO Cancer Screening Trial1
+
+Characteristic
+
+Cases (n = 483)
+
+Controls (n = 542)
+
+Age at study entry, y
+Family history of prostate cancer, n (%)
+History of diabetes, n (%)
+Smoking status, n (%)
+
+Never smoker
+Former smoker
+Current smoker
+
+BMI, kg/m2
+Serum total cholesterol, mmol/L
+Serum a-tocopherol,2 mg/L
+Tumor stage, n (%)
+
+I/II
+III/IV
+
+Gleason score on biopsy, n (%)
+
+2–6
+7
+8–10
+
+64.6 6 4.9
+51 (10.8)
+27 (5.6)
+
+208 (43.0)
+243 (50.3)
+32 (6.6)
+
+27.3 6 3.5
+6.1 6 1.9
+19.0 6 9.7
+
+468 (97.1)
+14 (2.9)
+
+315 (65.5)
+141 (29.2)
+26 (5.3)
+
+64.4 6 4.9
+
+23 (4.3)
+48 (8.9)
+
+201 (37.1)
+292 (53.9)
+49 (9.0)
+
+27.4 6 3.9
+6.1 6 1.9
+19.1 6 9.5
+
+—
+—
+
+—
+—
+—
+
+1 Means 6 SDs are reported unless indicated otherwise. PLCO, Prostate, Lung,
+Colorectal, and Ovarian.
+2 To convert serum tocopherol values from mg/L to mmol/L, multiply by 2.322.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/144/5/729/4615714
+by University of Ottawa user
+on 24 June 2018
+
+TABLE 2 Per-allele associations between 3 SNPs identiﬁed in GWASs and risk of prostate cancer by tumor aggressiveness, PLCO
+Cancer Screening Trial1
+
+SNP
+
+Gene
+
+Chromosome
+
+Minor allele
+
+rs964184
+
+BUD13/ZNF259/APOA5
+
+rs2108622
+
+CYP4F2
+
+rs11057830
+
+SCARB1
+
+11
+
+19
+
+12
+
+G
+
+T
+
+A
+
+MAF
+
+0.15
+
+0.21
+
+0.15
+
+Tumor type
+
+OR (95% CI)2
+
+P-trend3
+
+Any
+
+Non-aggressive
+
+Aggressive
+
+Any
+
+Non-aggressive
+
+Aggressive
+
+Any
+
+Non-aggressive
+
+Aggressive
+
+0.75 (0.58, 0.98)
+0.77 (0.57, 1.04)
+0.74 (0.51, 1.08)
+1.02 (0.83, 1.26)
+1.07 (0.85, 1.35)
+0.93 (0.69, 1.25)
+0.92 (0.71, 1.20)
+0.92 (0.68, 1.24)
+0.92 (0.64, 1.33)
+
+0.03
+0.09
+0.12
+0.83
+0.54
+0.64
+0.56
+0.60
+0.67
+
+1 SNPs identiﬁed in previous GWAS meta-analysis to be associated with higher circulating a-tocopherol amounts. Models adjusted for age, family history of prostate cancer, and
+serum total cholesterol. APOA5, apolipoprotein A5; BUD13, budding-site selection protein 13 (yeast); CYP4F2, cytochrome p450, family 4, subfamily F, polypeptide 2; GWAS,
+genome-wide association study; MAF, minor allele frequency; PLCO, Prostate, Lung, Colorectal, and Ovarian; SCARB1, scavenger receptor class-B member 1; SNP, single-
+nucleotide polymorphism; ZNF259, zinc ﬁnger protein 259.
+2 OR per copy of minor allele.
+3 The P-trend values summarize the linear relation across the increasing number of minor alleles (1 df).
+
+analyses were conducted with SAS version 9.3 (SAS Institute). Two-sided
+P values < 0.05 were considered signiﬁcant.
+
+Results
+
+Among the 1025 men in this study sample, the mean age at study
+entry was 64.8 y. A total of 116 (8%) men, 76 cases and 40
+controls, reported having a family history of prostate cancer
+(Table 1). Cases were also less likely to have a history of diabetes
+or to be current smokers. The mean serum a-tocopherol con-
+centration was 19 mg/L (44.1 mmol/L). Mean concentrations did
+not vary signiﬁcantly between cases and controls.
+
+The associations (per-allele ORs) between each of the 3 vitamin
+E–related SNPs (rs964184, rs2108622, and rs11057830) and
+prostate cancer risk are summarized in Table 2. The strongest
+association was observed for rs964184, located at 11q23.3 (per-
+allele OR = 0.75; 95% CI: 0.58, 0.98; P-trend = 0.03). We found
+no strong evidence that associations between the 3 SNPs and
+prostate cancer differed according to disease status, with risks for
+aggressive cancer being similar to those for non-aggressive cancer
+(Table 2). The results did not change after further excluding 4 cases
+with stage III disease, which may represent non-lethal, local invasion.
+Genotype associations for each SNP are reported in Table 3.
+Minor allele carriers [i.e., men with 1 or 2 copies of the variant
+(G) allele] of rs964184 had lower risks of prostate can-
+cer compared with men with the more common genotype (CC)
+(OR = 0.79; 95% CI: 0.59, 1.05). This ﬁnding was marginally
+not statistically signiﬁcant (P = 0.06). However, homozygous
+carriers of the G allele of rs964184 had a substantially reduced
+risk of prostate cancer compared with homozygous carriers of
+the common C allele (OR = 0.27; 95% CI: 0.09, 0.83). For
+rs11057830, on 12q24.31, a marginally signiﬁcant association
+was observed; men who carried 2 copies of the variant allele
+(AA) had a lower risk of prostate cancer compared with men
+with the wild type (GG) (OR = 0.32; 95% CI: 0.10, 1.01; P =
+0.05). Although the associations between rs2108622 genotypes
+and prostate cancer risk were in the same direction as the other
+vitamin E–related SNPs, no signiﬁcant association was observed
+(TT vs. CC; OR = 0.75; 95% CI: 0.44, 1.29). The analysis of a
+combined genetic effect of the 3 SNPs as a score suggested a
+decreased risk for men with 2 or more copies of minor alleles,
+with an ORs of 0.25 among men with 4 or more copies;
+however, results should be interpreted with caution given the
+
+small number of men who had 4 or more copies of minor alleles
+across the 3 SNPs (n = 10).
+
+A signiﬁcant interaction was observed for rs11057830 (P-
+interaction = 0.02), with the strongest association observed for
+men with baseline serum a-tocopherol below median concentra-
+tion values (per-allele OR = 0.71; 95% CI: 0.50, 1.01) (Table 4).
+There was no effect modiﬁcation by serum concentrations of
+a-tocopherol or smoking status for rs964184 and rs2108622,
+partly because of the small sample sizes. The per-allele association
+for rs964184 appeared to be stronger among men whose circu-
+lating vitamin E concentrations were below the median value at
+
+TABLE 3 Association between vitamin E–related SNP geno-
+types and prostate cancer, PLCO Cancer Screening Trial1
+
+Genotype
+
+OR
+
+95% CI
+
+P-global2
+
+rs964184 (BUD13/ZNF259/APOA5)
+
+CC (n = 745)
+CG (n = 242)
+GG (n = 21)
+CG/GG vs. CC
+
+rs2108622 (CYP4F2)
+
+CC (n = 561)
+CT (n = 380)
+TT (n = 62)
+CT/TT vs. CC
+
+rs11057830 (SCARB1)
+
+GG (n = 747)
+AG (n = 244)
+AA (n = 17)
+AG/AA vs. GG
+
+Combined SNP score
+
+1.00 (reference)
+
+—
+
+0.85
+0.27
+0.79
+
+0.63, 1.15
+0.09, 0.83
+0.59, 1.05
+
+1.00 (reference)
+
+—
+
+1.21
+0.75
+1.13
+
+0.92, 1.58
+0.44, 1.29
+0.87, 1.46
+
+1.00 (reference)
+
+—
+
+1.07
+0.32
+0.99
+
+0.79, 1.44
+0.10, 1.01
+0.74, 1.33
+
+0.05
+
+0.16
+
+0.13
+
+0.36
+
+,2 copies of minor alleles (n = 707)
+2 copies of minor alleles (n = 212)
+3 copies of minor alleles (n = 53)
+$4 copies of minor alleles (n = 10)
+
+1.00 (reference)
+
+—
+
+0.79
+0.83
+0.25
+
+(0.58, 1.08)
+(0.49, 1.40)
+(0.05, 1.36)
+
+1 Models adjusted for age, family history of prostate cancer, and serum total
+cholesterol. APOA5, apolipoprotein A5; BUD13, budding-site selection protein 13
+(yeast); CYP4F2, cytochrome p450, family 4, subfamily F, polypeptide 2; PLCO, Prostate,
+Lung, Colorectal, and Ovarian; SCARB1, scavenger receptor class-B member 1; SNP,
+single-nucleotide polymorphism; ZNF259, zinc ﬁnger protein 259.
+2 The P-global values summarize the overall association of each SNP on the risk of
+prostate cancer (2 df).
+
+Vitamin E genetic variants and prostate cancer
+
+731
+
+Downloaded from https://academic.oup.com/jn/article-abstract/144/5/729/4615714
+by University of Ottawa user
+on 24 June 2018
+
+TABLE 4 Association between SNPs and prostate cancer risk stratiﬁed by selected factors, PLCO Cancer Screening Trial1
+
+rs964184
+
+rs2108622
+
+rs11057830
+
+(460 cases/514 controls)
+
+(453 cases/515 controls)
+
+(457 cases/515 controls)
+
+Combined SNP score
+(455 cases/527 controls)
+
+OR (95% CI)
+
+P-interaction
+
+OR (95% CI)
+
+P-interaction
+
+OR (95% CI)
+
+P-interaction
+
+OR (95% CI)
+
+P-interaction
+
+Smoking status
+Never smoker
+Former smoker
+Current smoker
+
+Serum a-tocopherol
+
+0.69 (0.45, 1.07)
+0.85 (0.59, 1.21)
+0.54 (0.21, 1.38)
+
+0.60
+
+0.27
+
+Less than median concentration
+More than median concentration
+
+0.66 (0.46, 0.95)
+0.90 (0.61, 1.34)
+
+0.92 (0.67, 1.28)
+1.04 (0.78, 1.38)
+1.71 (0.75, 3.87)
+
+1.19 (0.90, 1.56)
+0.83 (0.60, 1.15)
+
+0.24
+
+0.11
+
+0.54
+
+0.02
+
+1.03 (0.68, 1.56)
+0.87 (0.60, 1.26)
+0.74 (0.35, 2.52)
+
+0.71 (0.50, 1.01)
+1.29 (0.86, 1.94)
+
+0.88 (0.69, 1.11)
+0.95 (0.78, 1.14)
+0.97 (0.58, 1.63)
+
+0.88 (0.73, 1.06)
+0.98 (0.79, 1.23)
+
+0.61
+
+0.40
+
+1 Models adjusted for age, family history of prostate cancer, and serum total cholesterol. PLCO, Prostate, Lung, Colorectal, and Ovarian; SNP, single-nucleotide polymorphism.
+
+study baseline (per-allele OR = 0.66; 95% CI: 0.46, 0.95) and
+among current smokers (per-allele OR = 0.54; 95% CI: 0.21,
+1.38). However, ﬁndings from stratiﬁed analyses should be
+interpreted with caution because of the limited statistical power
+for interaction assessments.
+
+Discussion
+
+The present study examined whether genetic variants identiﬁed
+in our previous GWAS meta-analysis of circulating vitamin E
+modiﬁed risk of prostate cancer. Speciﬁcally, we examined the
+association between rs964181, rs2108622, and rs11057830 and
+prostate cancer risk in a case-control study nested within the
+PLCO Cancer Screening Trial. We found that a higher vitamin E
+variant in a SNP near the BUD13/ZNF259/APOA5 region
+(rs964184) was associated with a decreased risk of prostate
+cancer as well as a suggested protective association for homo-
+zygous carriers of the higher vitamin E allele (A) of rs11057830
+in SCARB1. The cancer-risk associations for these SNPs were
+directionally consistent with their relation to circulating vitamin
+E (a-tocopherol) (20,21) (i.e., SNPs were associated with higher
+concentrations of serum a-tocopherol, an antioxidant, assuming
+an additive model in previous GWAS studies).
+
+The mechanisms involved in the potential beneﬁts of vitamin
+E in cancer may function at multiple levels. For example, its
+antioxidant properties may protect against oxidative damage or
+inhibit free radical–mediated lipid peroxidation within lipid-rich
+regions of the cell. Alternatively, vitamin E may modify the signal
+transduction cascade of proinﬂammatory cytokines through in-
+hibition of NF-kb activation (26). Recent studies suggest that
+polymorphisms in speciﬁc genes involved in vitamin E trans-
+port, metabolism, and molecular action may also be important
+determinants for the protective effects of vitamin E supplemen-
+tation (16,19,27,28). In the present study, men who carried 2
+copies of the minor allele for rs964184 had lower risks of
+prostate cancer when compared with men with the wild-type
+genotype. These results suggest that the BUD13/ZNF259/APOA5
+variant allele may be associated with a reduction in prostate cancer
+risk.
+
+However, to our knowledge, no previous study has examined
+the association between these GWAS-identiﬁed vitamin E–associated
+genetic variants and prostate cancer risk. An association of serum
+a-tocopherol and an effect modiﬁcation by polymorphisms in
+oxidative stress regulatory enzymes has been reported in relation
+to aggressive prostate cancer risk among current smokers (16).
+Cigarette smokers with genetic variation in myeloperoxidase (GA
+or AA genotypes; genotypes downregulating oxidative stress),
+who had high serum a-tocopherol concentrations, had a reduced
+risk (OR = 0.34; 95% CI: 0.15, 0.80) (16).
+
+732 Major et al.
+
+Strengths of the present study include the prospective design
+of the PLCO Cancer Screening Trial in which blood samples
+were collected years before the development of prostate cancer
+and that the analyses were adjusted for established risk factors of
+prostate cancer, including age and family history of prostate
+cancer. A potential limitation is that our study was based on
+older men of European ancestry and may not be generalizable to
+younger and ethnically diverse populations. Furthermore, the
+men in this analysis came from a highly screened population
+with PSA-detected prostate cancer that may not be representa-
+tive of all prostate cancers. Because of the limited statistical
+power to detect associations among smokers, larger-scale studies
+of these and other genetic variants yet to be identiﬁed that may
+inﬂuence a-tocopherol concentrations may help reliably deter-
+mine their association with prostate cancer risk among current
+smokers.
+
+In summary, we found that an SNP near the BUD13/
+ZNF250/APOA5 region was associated with lower prostate
+cancer risk among men of European ancestry. The association
+for a second SNP, rs11057830 in SCARB1, was restricted to men
+who had low serum a-tocopherol concentrations at study baseline.
+These ﬁndings support the hypothesis that the variant allele may
+enhance antioxidant enzyme activity or other functions; however,
+more research is needed to substantiate this ﬁnding.
+
+Acknowledgments
+The authors thank Drs. Christine Berg and Philip Prorok,
+Division of Cancer Prevention at the National Cancer Institute,
+Mr. Thomas Riley at Information Management Services, and
+Ms. Barbara OÕBrien at Westat for their contributions to the
+PLCO Cancer Screening Trial. J.M.M., D.A., K.Y., and S.C.
+designed the research project; S.I.B. and M.Y. conducted the
+research; J.M.M. and K.Y. analyzed the data; J.M.M. wrote the
+paper; and D.A., S.C., K.Y., S.J.W., S.I.B., M.Y., and P.L.H.
+performed a major critical review. All authors read and ap-
+proved the ﬁnal manuscript.
+
+Literature Cited
+
+1. Brigelius-Floh´e R, Traber MG. Vitamin E: function and metabolism.
+
+FASEB J. 1999;13:1145–55.
+
+2. Aggarwal BB, Sundaram C, Prasad S, Kannappan R. Tocotrienols, the
+vitamin E of the 21(st) century: itÕs potential against cancer and other
+chronic diseases. Biochem Pharmacol. 2010;80:1613–31.
+
+3. Lippman SM, Klein EA, Goodman PJ, Lucia MS, Thompson IM, Ford
+LG, Parnes HL, Minasian LM, Gaziano JM, Karp DD, et al. Effect of
+selenium and vitamin E on risk of prostate cancer and other cancers: the
+Selenium and Vitamin E Cancer Prevention Trial (SELECT). JAMA.
+2009;301:39–51.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/144/5/729/4615714
+by University of Ottawa user
+on 24 June 2018
+
+4. Mayer-Davis EJ, Costacou T, King I, Zaccaro DJ, Bell RA. Plasma and
+dietary vitamin E in relation to incidence of type 2 diabetes: The Insulin
+Resistance and Atherosclerosis Study (IRAS). Diabetes Care. 2002;25:
+2172–7.
+
+5. Lonn E, Bosch J, Yusuf S, Sheridan P, Pogue J, Arnold JM, Ross C,
+Arnold A, Sleight P, Probstﬁeld J, et al. Effects of long-term vitamin E
+supplementation on cardiovascular events and cancer: a randomized
+controlled trial. JAMA. 2005;293:1338–47.
+
+6. Marchioli R, Schweiger C, Levantesi G, Tavazzi L, Valagussa F.
+Antioxidant vitamins and prevention of cardiovascular disease: epide-
+miological and clinical trial data. Lipids. 2001;36(Suppl):S53–63.
+
+7. Meydani SN, Beharka AA. Recent developments in vitamin E and
+
+8.
+
+9.
+
+immune response. Nutr Rev. 1998;56:S49–58.
+Shklar G, Schwartz JL. Vitamin E inhibits experimental carcinogenesis
+and tumour angiogenesis. Eur J Cancer B Oral Oncol. 1996;32B:114–9.
+Sigounas G, Anagnostou A, Steiner M. dl-alpha-tocopherol induces
+apoptosis in erythroleukemia, prostate, and breast cancer cells. Nutr
+Cancer. 1997;28:30–5.
+
+10. Key TJ, Appleby PN, Allen NE, Travis RC, Roddam AW, Jenab M,
+Egevad L, Tjonneland A, Johnsen NF, Overvad K, et al. Plasma
+carotenoids, retinol, and tocopherols and the risk of prostate cancer in
+the European Prospective Investigation into Cancer and Nutrition study.
+Am J Clin Nutr. 2007;86:672–81.
+
+11. Weinstein SJ, Wright ME, Pietinen P, King I, Tan C, Taylor PR, Virtamo
+J, Albanes D. Serum alpha-tocopherol and gamma-tocopherol
+in
+relation to prostate cancer risk in a prospective study. J Natl Cancer
+Inst. 2005;97:396–9.
+
+12. Heinonen OP, Albanes D, Virtamo J, Taylor PR, Huttunen JK, Hartman
+AM, Haapakoski J, Malila N, Rautalahti M, Ripatti S, et al. Prostate
+cancer and supplementation with alpha-tocopherol and beta-carotene:
+incidence and mortality in a controlled trial. J Natl Cancer Inst.
+1998;90:440–6.
+
+13. Meyer F, Galan P, Douville P, Bairati I, Kegle P, Bertrais S, Estaquio C,
+Hercberg S. Antioxidant vitamin and mineral supplementation and
+prostate cancer prevention in the SU.VI.MAX trial. Int J Cancer.
+2005;116:182–6.
+
+14. Gaziano JM, Glynn RJ, Christen WG, Kurth T, Belanger C, MacFadyen
+J, Bubes V, Manson JE, Sesso HD, Buring JE. Vitamins E and C in the
+prevention of prostate and total cancer in men: the Physicians’ Health
+Study II randomized controlled trial. JAMA. 2009;301:52–62.
+
+15. Goodman GE, Schaffer S, Omenn GS, Chen C, King I. The association
+between lung and prostate cancer risk, and serum micronutrients:
+results and lessons learned from beta-carotene and retinol efﬁcacy trial.
+Cancer Epidemiol Biomarkers Prev. 2003;12:518–26.
+
+16. Cheng TY, Barnett MJ, Kristal AR, Ambrosone CB, King IB, Thornquist
+MD, Goodman GE, Neuhouser ML. Genetic variation in myeloperox-
+idase modiﬁes the association of serum alpha-tocopherol with aggres-
+sive prostate cancer among current smokers. J Nutr. 2011;141:1731–7.
+
+17. Chan JM, Stampfer MJ, Ma J, Rimm EB, Willett WC, Giovannucci EL.
+Supplemental vitamin E intake and prostate cancer risk in a large cohort
+of men in the United States. Cancer Epidemiol Biomarkers Prev.
+1999;8:893–9.
+
+18. Gann PH, Ma J, Giovannucci E, Willett W, Sacks FM, Hennekens CH,
+Stampfer MJ. Lower prostate cancer risk in men with elevated plasma
+lycopene levels: results of a prospective analysis. Cancer Res. 1999;59:
+1225–30.
+
+19. Zingg JM, Azzi A, Meydani M. Genetic polymorphisms as determinants
+for disease-preventive effects of vitamin E. Nutr Rev. 2008;66:406–14.
+20. Major JM, Yu K, Wheeler W, Zhang H, Cornelis MC, Wright ME,
+Yeager M, Snyder K, Weinstein SJ, Purdue M, et al. Genome-wide
+association study identiﬁes common variants associated with circulating
+vitamin E levels. Hum Mol Genet. 2011;20:3876–83.
+
+21. Major JM, Yu K, Chung CC, Weinstein SJ, Yeager M, Wheeler W,
+Snyder K, Wright ME, Virtamo J, Chanock S, et al. Genome-wide
+association study identiﬁes three common variants associated with
+serologic response to vitamin E supplementation in men. J Nutr.
+2012;142:866–71.
+
+22. Hayes RB, Sigurdson A, Moore L, Peters U, Huang WY, Pinsky P,
+Reding D, Gelmann EP, Rothman N, Pfeiffer R, et al. Methods for
+etiologic and early marker investigations in the PLCO trial. Mutat Res.
+2005;592:147–54.
+
+23. Peters U, Leitzmann MF, Chatterjee N, Wang Y, Albanes D, Gelmann
+EP, Friesen MD, Riboli E, Hayes RB. Serum lycopene, other carote-
+noids, and prostate cancer risk: a nested case-control study in the
+prostate, lung, colorectal, and ovarian cancer screening trial. Cancer
+Epidemiol Biomarkers Prev. 2007;16:962–8.
+
+24. Steghens JP, van Kappel AL, Riboli E, Collombel C. Simultaneous
+measurement of seven carotenoids, retinol and alpha-tocopherol
+in
+serum by high-performance liquid chromatography. J Chromatogr B
+Biomed Sci Appl. 1997;694:71–81.
+
+25. Greene FL. American Joint Committee on Cancer. American Cancer
+Society. AJCC cancer staging manual. 6th ed. New York: Springer-
+Verlag; 2002.
+
+26. Nakamura T, Goto M, Matsumoto A, Tanaka I. Inhibition of NF-kappa
+B transcriptional activity by alpha-tocopheryl succinate. Biofactors. 1998;
+7:21–30.
+
+27. Wright ME, Peters U, Gunter MJ, Moore SC, Lawson KA, Yeager M,
+Weinstein SJ, Snyder K, Virtamo J, Albanes D. Association of variants in
+two vitamin e transport genes with circulating vitamin e concentrations
+and prostate cancer risk. Cancer Res. 2009;69:1429–38.
+
+28. Blum S, Vardi M, Brown JB, Russell A, Milman U, Shapira C, Levy NS,
+Miller-Lotan R, Asleh R, Levy AP. Vitamin E reduces cardiovascular
+disease in individuals with diabetes mellitus and the haptoglobin 2–2
+genotype. Pharmacogenomics. 2010;11:675–84.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/144/5/729/4615714
+by University of Ottawa user
+on 24 June 2018
+
+Vitamin E genetic variants and prostate cancer
+
+733
+
+

@@ -1,0 +1,1649 @@
+The Journal of Nutrition
+Nutritional Epidemiology
+
+Plasma Riboﬂavin and Vitamin B-6, but Not
+Homocysteine, Folate, or Vitamin B-12, Are
+Inversely Associated with Breast Cancer Risk in
+the European Prospective Investigation into
+Cancer and Nutrition-Varese Cohort1–3
+Claudia Agnoli,4 Sara Grioni,4 Vittorio Krogh,4* Valeria Pala,4 Alessandra Allione,6,7 Giuseppe Matullo,6,7
+Cornelia Di Gaetano,6,7 Giovanna Tagliabue,5 Samuele Pedraglio,4 Giulia Garrone,4 Ilaria Cancarini,4
+Adalberto Cavalleri,4 and Sabina Sieri4
+
+4Epidemiology and Prevention Unit and 5Lombardy Cancer Registry Unit, Foundation National Cancer Institute, Scientiﬁc Institute for Care and
+Treatment (IRCCS), Milan, Italy; 6Medical Sciences Department, University of Torino, Torino, Italy; and 7Human Genetics Foundation, Torino, Italy
+
+Abstract
+
+Background: One-carbon metabolism—important for DNA stability and integrity—may play a role in breast carcinogen-
+
+esis. However, epidemiologic studies addressing this issue have yielded inconsistent results.
+
+Objective: We prospectively investigated associations between breast cancer and plasma folate, riboﬂavin, vitamin B-6,
+
+vitamin B-12, and homocysteine in women recruited to the Varese (Italy) cohort of the EPIC (European Prospective
+
+Investigation into Cancer and Nutrition) study.
+
+Methods: We performed a nested case-control study on women aged 35–65 y at recruitment with a median body mass index
+of 25.3 kg/m2 who gave blood samples in 1987–1992 and again in 1993–1998. Breast cancer cases identiﬁed by 31 December
+
+2009 were individually matched to controls. RRs of breast cancer (and subtypes deﬁned by hormone receptor status) with 95%
+
+CIs were estimated by unconditional logistic regression, controlling for matching factors and breast cancer risk factors.
+
+Results: After a median of 14.9 y, 276 breast cancer cases were identiﬁed and matched to 276 controls. Increasing plasma
+
+vitamin B-6 was associated with decreased risk of overall (RR: 0.78; 95% CI: 0.63, 0.96 for 1-SD increase), premenopausal
+
+(RR: 0.66; 95% CI: 0.48, 0.92 for 1-SD increase), estrogen receptor-positive (RR: 0.79; 95% CI: 0.63, 1.00 for 1-SD
+
+increase), and progesterone receptor-positive (RR: 0.72; 95% CI: 0.55, 0.95 for 1-SD increase) breast cancers. Increased
+plasma vitamin B-6 was also associated with decreased breast cancer risk in alcohol consumers ($7 g/d) compared with
+
+consumption of <7 g/d or nonconsumption (RR: 0.71; 95% CI: 0.51, 0.99). High plasma riboﬂavin was associated with
+
+signiﬁcantly lower risk in premenopausal women (RR: 0.45; 95% CI: 0.21, 0.94; highest compared with the lowest
+quartile, P trend = 0.021). Plasma homocysteine, folate, and vitamin B-12 were not associated with breast cancer risk.
+
+Conclusions: High plasma vitamin B-6 and riboﬂavin may lower breast cancer risk, especially in premenopausal women.
+Additional research is necessary to further explore these associations. J Nutr 2016;146:1227–34.
+
+Keywords:
+
+breast cancer, B vitamins, homocysteine, nested case-control study, EPIC
+
+Introduction
+
+The micronutrients folate, vitamin B-12, vitamin B-6, riboﬂavin,
+and homocysteine are all involved in one-carbon metabolism
+
+1 This study was supported by the Italian Ministry of Health.
+2 Author disclosures: C Agnoli, S Grioni, V Krogh, V Pala, A Allione, G Matullo,
+C Di Gaetano, G Tagliabue, S Pedraglio, G Garrone, I Cancarini, A Cavalleri, and
+S Sieri, no conﬂicts of interest.
+3 Supplemental Tables 1–3 are available from the ‘‘Online Supporting Material’’
+link in the online posting of the article and from the same link in the online table of
+contents at http://jn.nutrition.org.
+*To whom correspondence should be addressed. E-mail: vittorio.krogh@
+istitutotumori.mi.it.
+
+and thus play important roles in maintaining DNA stability and
+integrity. Folate, as 5-methyltetrahydrofolate, is required to
+remethylate homocysteine to methionine, which is converted
+to S-adenosylmethionine. The latter provides methyl groups for
+methylation reactions in general, and DNA and RNA biosyn-
+thesis in particular (1–5). S-Adenosylmethionine depletion
+induces DNA hypomethylation, which may lead to expression of
+proto-oncogenes and eventually cancer (6). Folate deﬁciency
+also results in deﬁcient methylation of uracil to thymine, so that
+uracil is incorporated into DNA (2), leading to chromosome
+breaks and carcinogenesis (3, 6). Vitamin B-12 deﬁciency is
+
+ã 2016 American Society for Nutrition.
+Manuscript received October 6, 2015. Initial review completed November 11, 2015. Revision accepted March 15, 2016.
+First published online April 27, 2016; doi:10.3945/jn.115.225433.
+
+1227
+
+Downloaded from https://academic.oup.com/jn/article-abstract/146/6/1227/4630470
+by University of Ottawa user
+on 24 June 2018
+
+expected to cause chromosome breaks by the same mechanism
+as folate because it is an essential coenzyme in the methylation of
+homocysteine to methionine (2, 4).
+
+Vitamin B-6 is an essential coenzyme for several catabolic
+and anabolic reactions. In particular it is required for the
+conversion of tetrahydrofolate to 5,10-methylenetetrahydrofo-
+late by serine hydroxymethyltransferase (2). 5,10-Methylenete-
+trahydrofolate is required for the synthesis of nucleotides, which
+are themselves necessary for DNA synthesis and repair. Vitamin
+B-6 deﬁciency decreases the activity of serine hydroxymethyl-
+transferase, thereby depleting the 5,10-methylenetetrahydrofo-
+late pool, so that uracil
+is incorporated into DNA, and
+chromosome breaks occur (2). Vitamin B-6 is also necessary
+for the synthesis of glutathione from homocysteine: glutathione
+is a cofactor of glutathione S-transferases and peroxidases,
+which detoxify many carcinogenic compounds and protect
+against oxidative DNA damage (7–9). Riboﬂavin is the precur-
+sor of ﬂavin adenine dinucleotide, a necessary cofactor for 5,10-
+methylenetetrahydrofolate reductase (10–13), which catalyzes
+the irreversible conversion of 5,10-methylenetetrahydrofolate to
+5-methyltetrahydrofolate, with the latter being the methyl donor
+for DNA methylation (10, 11, 14, 15).
+
+Inadequate levels of folate, vitamin B-12, vitamin B-6, and
+riboﬂavin may all result in high levels of blood homocysteine (5,
+16) by disrupting the pathways summarized above (17). In vitro
+studies indicate that high homocysteine levels are associated
+with high proliferation rates of cancer cells including breast
+cancer cells (18, 19) and also with oxidative damage to cells
+(20). High homocysteine levels in blood have been associated
+with increased breast cancer risk in women with low folate
+status (21) and also in women with high BMI, high plasma TGs,
+and abnormal oxidation of low-density lipoproteins (20, 22–
+26), all of which are associated with increased risk of certain
+cancers including breast cancer (27, 28).
+
+Studies on associations of plasma homocysteine (21, 29–32),
+folate (29, 30, 32–34), vitamin B-12 (30, 32, 33), and vitamin
+B-6 (30, 32, 33) with breast cancer risk have produced mixed
+results. To our knowledge, no previous study has assessed the
+effect of plasma riboﬂavin on breast cancer risk. We carried out a
+case-control study, nested in the EPIC (European Prospective
+Investigation into Cancer and Nutrition)8-Varese cohort, to
+prospectively evaluate whether plasma levels of homocysteine,
+folate, vitamin B-12, vitamin B-6, and riboﬂavin were associated
+with risk of breast cancer, and risk of breast cancer subtypes
+were deﬁned by expression of hormone receptors.
+
+Methods
+
+Study population and data collection. This was a case-control study
+nested in the women participating in the EPIC-Varese cohort study,
+which was part of the larger EPIC (European Investigation into Cancer
+and Nutrition). We considered 6071 women deﬁned by the following
+eligibility criteria: recruitment to the prospective Hormones and Diet in
+the Etiology of Breast Cancer (ORDET) study in 1987–1992, recruit-
+ment to EPIC-Varese in 1993–1998 (70% of women who participated in
+ORDET were subsequently recruited in EPIC-Varese), and either
+premenopausal or postmenopausal at the ORDET and EPIC baselines
+(perimenopausal women and those with uncertain menopausal status
+were excluded).
+
+8 Abbreviations used: EPIC, European Prospective Investigation into Cancer and
+Nutrition; ER, estrogen receptor; HER2, human epidermal growth factor receptor
+2; ORDET, Hormones and Diet in the Etiology of Breast Cancer; PR, proges-
+terone receptor.
+
+1228 Agnoli et al.
+
+The date of entry to the present study was the EPIC recruitment date.
+At EPIC baseline, after participants had given written informed consent,
+detailed information was collected on reproductive and medical history,
+physical activity, alcohol consumption, smoking, education, and other
+socioeconomic variables by using a standardized lifestyle questionnaire.
+Diet over the previous year was investigated by using a food frequency
+questionnaire speciﬁcally developed to capture local dietary habits. Also
+at baseline, weight, height, and blood pressure were measured, and a
+30-mL fasting blood sample was collected by using standardized
+procedures. The blood samples were divided into 0.5-mL aliquots of
+plasma, serum, red blood cells, and buffy coat on the day of collection
+and stored in liquid nitrogen at 2196°C (35).
+
+All study participants had also been recruited to the earlier ORDET
+study and at ORDET baseline had given a blood sample. The stored
+plasma samples were analyzed, and the results of these analyses were
+combined with those obtained from the samples collected at the EPIC
+baseline, so as to obtain mean estimates that were more reliable than
+those provided by a single measurement. The study protocol was
+approved by the ethics committee of the Foundation National Cancer
+Institute, Scientiﬁc Institute for Care and Treatment (IRCCS), (Milan, Italy).
+
+Breast cancer cases and selection of control women. The 6071
+women were followed up to 31 December 2009 (median 14.9 y) through
+the Lombardy Cancer Registry, Varese Province, characterized by high
+data completeness and quality. A total of 276 new breast cancer cases
+were identiﬁed among the women over the follow-up period from the
+registry database. Information on estrogen receptor (ER), progesterone
+receptor (PR), and human epidermal growth factor receptor (HER2)
+expression of the cancers was obtained from electronic pathology
+reports.
+
+For each case, one matched control was chosen, by using an incidence
+density sampling protocol, from appropriate risk sets consisting of
+cohort members alive and free of cancer at the time of diagnosis of the
+index case. Matching criteria were age at recruitment (6 5 y), date of
+recruitment (6 180 d), distance between ORDET and EPIC recruitment
+(6 90 d), menopausal status (postmenopausal at both ORDET and EPIC
+baseline; premenopausal at ORDET baseline, postmenopausal at EPIC
+baseline; premenopausal at ORDET baseline and still premenopausal at
+EPIC baseline), and micronutrient analysis in the same batch.
+
+Analysis of plasma samples. Analyses were performed both on EPIC
+and ORDET plasma samples. Folate and vitamin B-12 were determined
+on a Cobas 8000 modular analyzer (Roche Diagnostic GmbH) by Roche
+Elecsys electrochemoluminescence assays. Homocysteine was deter-
+mined immunoenzymatically as S-adenosylhomocysteine produced
+from serum homocysteine on a Siemens Dimension Vista Lab System
+analyzer (Siemens Healthcare Diagnostics Products GmbH). All assays
+were performed according to recommendations of the equipment
+manufacturers.
+
+Levels of riboﬂavin and vitamin B-6 (the latter as pyridoxal 5#-phosphate,
+the principal active form of vitamin B-6) were measured by LC/MS by
+using a Thermo Fisher LCQ Vantage mass spectrometer coupled to a
+Thermo Fisher Scientiﬁc Transcend HPLC system. Perchloric acid
+was used to precipitate out proteins from aliquots of plasma to which
+had been added appropriate internal standards (15N,13C-labeled
+riboﬂavin and 2H-labeled pyridoxal 5#-phosphate). After incubation
+at 50°C for 10 min, the treated aliquots were ﬁltered and injected into
+the HPLC system and eluted with a water, methanol, ammonium
+acetate gradient. The mass spectrometer was operated in single reac-
+tion monitoring mode to minimize interference from other compounds.
+Use of internal standards made it possible to correct for losses during
+puriﬁcation and variation in instrument response. We excluded 17
+cases and 18 controls because EPIC or ORDET plasma samples were not
+available.
+
+Statistical analysis. We calculated plasma levels of homocysteine,
+folate, vitamin B-12, vitamin B-6, and riboﬂavin for each case and
+control as the mean of the values from the EPIC and ORDET samples.
+CV for each, considering the ORDET and EPIC samples as replicates of a
+single sample were as follows: 13% for homocysteine, 16% for folate,
+
+Downloaded from https://academic.oup.com/jn/article-abstract/146/6/1227/4630470
+by University of Ottawa user
+on 24 June 2018
+
+14% for vitamin B-12, 31% for vitamin B-6, and 23% for riboﬂavin.
+Plasma levels were grouped into quartiles based on the distribution in
+controls. Baseline characteristics of study participants, according to
+quartiles of plasma vitamin B-6, were summarized as means and
+standard deviations (continuous variables) or frequencies (categorical
+variables). Unconditional
+logistic regression models were used to
+estimate RRs for breast cancer with 95% CIs, with the lowest quartile
+as reference; the signiﬁcance of linear trends was assessed by treating
+each quartile as a continuous variable in the model and performing the
+Wald test. RRs were also calculated for 1-SD increments of micro-
+nutrient concentration as a continuous variable. We ran a minimally
+adjusted model, with the matching variables as covariates: age (contin-
+uous), date of recruitment (continuous), time between ORDET and EPIC
+recruitment
+(continuous), and menopausal status (premenopausal/
+postmenopausal in EPIC). We also ran fully adjusted models, with the
+following additional covariates: family history of breast cancer in ﬁrst
+degree relatives (yes, no), age at menarche (<15 or $15 y), parity
+(nulliparous, 1–2 children, or >2 children), oral contraceptive use (never
+or sometime), education (#8 or >8 y), smoking status (never, former, or
+current), alcohol consumption (continuous), and BMI (continuous).
+
+We analyzed all women and also analyzed postmenopausal and
+premenopausal women separately. P values for interaction between
+plasma micronutrient with menopausal status were estimated by adding
+the product of quartile of plasma micronutrient with menopausal status
+to the model and applying the Wald test. We also analyzed the risk of
+developing breast cancer subtypes deﬁned by receptor status. Heteroge-
+neity was investigated by the Wald test. We analyzed subgroups deﬁned
+by alcohol intake (abstainers, <7 g/d, or $7 g/d) with P interaction
+calculated by treating alcohol intake as a dichotomous variable (abstainer
+or consumer) and multiplying this by the analyte value (continuous).
+We excluded 1 case and 2 controls because confounder variables were
+missing; the analyses were thus performed on 514 women, 258 cases,
+and 256 controls. All statistical tests were 2-sided, and differences
+were considered signiﬁcant for P < 0.05. The analyses were performed
+with Stata version 11.2.
+
+Results
+
+Baseline characteristics of study participants by quartiles of
+plasma vitamin B-6 are shown in Table 1. Women in the highest
+vitamin B-6 quartile tended to have lower BMI, lower plasma
+homocysteine, and higher levels of other B vitamins. They were
+also better educated and less likely to be smokers, to have used
+oral contraceptives, and to have a family history of breast
+cancer. Table 2 shows the RRs of developing breast cancer by
+quartiles of plasma homocysteine and B vitamins for all study
+women. High levels of vitamin B-6 in the continuous model were
+associated with decreased breast cancer risk [RR: 0.78; 95% CI:
+0.63, 0.96 (fully adjusted model)]; however, no reduction in risk
+was found in the analysis based on quartiles. None of the other
+micronutrients was signiﬁcantly associated with risk (P trend $
+0.31).
+
+Table 3 shows risk estimates by menopausal status at
+baseline. Among postmenopausal women, none of the micro-
+nutrients was signiﬁcantly associated with breast cancer risk
+(P trend $ 0.29). Among premenopausal women, high levels of
+vitamin B-6 were associated with signiﬁcantly lowered breast
+cancer risk in the continuous model (RR: 0.66; 95% CI: 0.48,
+0.92); however, no reduction in risk was found in the analysis
+based on quartiles. The highest quartile of plasma riboﬂavin
+(compared with the lowest) was also associated with signiﬁcantly
+lowered breast cancer risk [RR: 0.45; 95% CI: 0.21, 0.94,
+P trend = 0.021 (fully adjusted model)]; there was a signiﬁcant
+interaction between menopausal status and plasma riboﬂavin
+(P = 0.021). Levels of homocysteine and the other B vitamins
+were not signiﬁcantly associated with premenopausal breast
+
+cancer risk (P trend $ 0.22). However, risk in the third quartile
+of vitamin B-12 concentration was signiﬁcantly lower than
+reference (RR: 0.41; 95% CI: 0.19, 0.92). No interaction was
+found between menopausal status and plasma levels of homo-
+cysteine (P = 0.44), folate (P = 0.46), vitamin B-12 (P = 0.45),
+or vitamin B-6 (P = 0.42).
+
+Associations of plasma homocysteine and B vitamins with
+breast cancer subtypes deﬁned by hormonal receptor status are
+shown in Supplemental Tables 1–3. The second quartile of
+plasma homocysteine was associated with signiﬁcantly de-
+creased risk of ER+ disease (RR: 0.54; 95% CI: 0.31, 0.96)
+compared with the lowest. Signiﬁcant heterogeneity depending
+on ER status was found for plasma folate (P heterogeneity
+0.045); however, no signiﬁcant association of folate with either
+ER+ (P trend = 0.13) or ER2 (P trend = 0.24) disease was found.
+Signiﬁcant heterogeneity depending on ER status was found for
+B-12 in the continuous model (P heterogeneity = 0.032); again,
+however, no signiﬁcant association was found with either ER+ or
+ER2 disease. High vitamin B-6 was associated with lowered risk
+(borderline signiﬁcance) of ER+ disease in the continuous model
+(RR: 0.79; 95% CI: 0.63, 1.00) (Supplemental Table 1). Vitamin
+B-6 in the continuous model was associated with a signiﬁcantly
+lowered risk of PR+ disease (RR: 0.72; 95% CI: 0.55, 0.95). The
+second quartile of plasma homocysteine was associated with a
+signiﬁcantly lowered (by 49%) risk of PR+ disease, and the
+second quartile of vitamin B-12 was associated with a signiﬁ-
+cantly decreased (by 61%) risk of PR2 disease compared with
+the ﬁrst quartile. No signiﬁcant heterogeneity in relation to PR
+status was found (P $ 0.22) (Supplemental Table 2). None of the
+micronutrients analyzed was associated with the risk of devel-
+oping either HER2+ (P trend $ 0.07) or HER22 (P trend $
+0.30) disease, and no signiﬁcant heterogeneity in relation to
+HER2 status was found (P $ 0.09) (Supplemental Table 3).
+
+When the analyses were stratiﬁed by alcohol intake, plasma
+vitamin B-12 was associated with signiﬁcantly increased breast
+cancer risk among abstainers (RR: 4.88; 95% CI: 1.16, 20.55 for
+the highest compared with the lowest quartile); however, few
+cases were available for this subanalysis; P for interaction
+between plasma vitamin B-12 and alcohol intake was not
+signiﬁcant. High vitamin B-6 was associated with a signiﬁcantly
+lowered breast cancer risk among women who drank >7 g/d of
+alcohol (RR: 0.71; 95% CI: 0.51, 0.99 in the continuous model);
+no association was found for abstainers or women who drank
+#7 g/d of alcohol. P for interaction between plasma vitamin B-6
+and alcohol intake was not signiﬁcant (P = 0.87) (data not
+shown).
+
+Discussion
+
+In this nested case-control study, considering all women, breast
+cancer risk decreased with increasing plasma vitamin B-6 levels.
+None of the other micronutrients was associated with breast
+cancer risk overall. However, when women were separated by
+menopausal status, high vitamin B-6 and riboﬂavin were
+associated with signiﬁcantly decreased breast cancer risk among
+premenopausal women. Although plasma folate and vitamin
+B-12 were not signiﬁcantly associated with the risk of breast cancer
+subtype deﬁned by ER status, there was signiﬁcant heterogene-
+ity, with a nonsigniﬁcantly decreased risk of ER+ disease for high
+folate and vitamin B-12 and nonsigniﬁcantly increased risk
+of ER2 disease for high folate and vitamin B-12. For increasing
+levels of vitamin B-6, the risks of ER+ and PR+ breast cancer
+decreased signiﬁcantly, but heterogeneity between receptor-positive
+
+B vitamins and homocysteine in breast cancer risk
+
+1229
+
+Downloaded from https://academic.oup.com/jn/article-abstract/146/6/1227/4630470
+by University of Ottawa user
+on 24 June 2018
+
+TABLE 1 Baseline characteristics of study participants by quartiles of plasma vitamin B-6 among women of the EPIC-Varese study1
+
+Characteristic
+
+Age, y
+BMI, kg/m2
+Alcohol consumption, g/d
+Plasma homocysteine, mmol/L
+Plasma folate, ng/mL
+Plasma vitamin B-12, pg/mL
+Plasma riboflavin, ng/mL
+Family history of breast cancer, n (%)
+
+No
+Yes
+
+Age at menarche, n (%)
+
+,15 y
+$15 y
+
+Menopausal status, n (%)
+
+Postmenopausal
+Premenopausal
+
+Parity, n (%)
+Nulliparous
+1–2 children
+.2 children
+
+Oral contraceptive use, n (%)
+
+Never
+Sometime
+
+Education, n (%)
+
+#8 y
+.8 y
+
+Smoking status, n (%)
+
+Current smoker
+Ex-smoker
+Never smoker
+
+Quartile 1:
+
+1.998–6.723 ng/mL
+
+(n = 136)
+
+Quartile 2:
+
+6.724–9.438 ng/mL
+
+(n = 132)
+
+Quartile 3:
+
+9.439–13.13 ng/mL
+
+(n = 127)
+
+Quartile 4:
+
+13.14–109.3 ng/mL
+
+(n = 119)
+
+53.1 6 7.4
+27.0 6 4.7
+7.4 6 10.1
+11.5 6 3.9
+6.6 6 1.7
+
+539.1 6 177.7
+
+7.4 6 5.8
+
+121 (89.0)
+15 (11.0)
+
+123 (90.4)
+13 (9.6)
+
+69 (50.7)
+67 (49.3)
+
+6 (4.4)
+92 (67.7)
+38 (27.9)
+
+88 (64.7)
+48 (35.3)
+
+66 (48.5)
+70 (51.5)
+
+29 (21.32)
+24 (17.7)
+83 (61.0)
+
+53.7 6 7.7
+25.6 6 4.0
+9.7 6 11.7
+11.7 6 4.5
+7.1 6 1.9
+
+602.8 6 236.4
+
+8.1 6 7.2
+
+123 (93.2)
+9 (6.8)
+
+117 (88.6)
+15 (11.4)
+
+75 (56.8)
+57 (43.2)
+
+17 (12.9)
+87 (65.9)
+28 (21.2)
+
+92 (69.7)
+40 (30.3)
+
+62 (47.0)
+70 (53.0)
+
+20 (15.2)
+19 (14.4)
+93 (70.4)
+
+53.5 6 8.5
+26.4 6 5.0
+9.6 6 13.5
+11.8 6 7.0
+7.7 6 2.1
+
+630.4 6 337.2
+
+8.0 6 6.7
+
+115 (90.5)
+12 (9.5)
+
+112 (88.2)
+15 (11.8)
+
+72 (56.7)
+55 (43.3)
+
+17 (13.4)
+77 (60.6)
+33 (26.0)
+
+89 (70.1)
+38 (29.9)
+
+55 (43.3)
+72 (56.7)
+
+17 (13.4)
+16 (12.6)
+94 (74.0)
+
+53.1 6 8.6
+25.5 6 5.8
+7.5 6 11.5
+10.9 6 3.0
+8.0 6 2.3
+
+605.2 6 223.5
+9.6 6 12.1
+
+109 (91.6)
+10 (8.4)
+
+109 (91.6)
+10 (8.4)
+
+62 (52.1)
+57 (47.9)
+
+11 (9.2)
+84 (70.6)
+24 (20.2)
+
+70 (58.8)
+49 (41.2)
+
+43 (36.1)
+76 (63.9)
+
+14 (11.8)
+17 (14.3)
+88 (73.9)
+
+1 Values are means 6 SDs or n (%). EPIC, European Prospective Investigation into Cancer and Nutrition.
+
+and -negative status was not signiﬁcant. Finally,
+increasing
+vitamin B-6 was associated with decreasing breast cancer risk
+among women who drank >7 g/d of alcohol compared with
+those who drank less or abstained.
+
+Previous studies on associations of plasma levels of nutrients
+involved in one-carbon metabolism with breast cancer risk
+focused mainly on homocysteine and folate. Of 5 studies
+concerned with homocysteine, 2 found no association (30, 32),
+2 case-control studies found that higher homocysteine levels
+were associated with increased breast cancer risk (29, 31), and a
+case-control study nested in the WomenÕs Health Study found
+that homocysteine levels were not associated with overall breast
+cancer risk, but among women with low folate status, the risk
+was increased if homocysteine was high (21). We found no
+evidence that homocysteine inﬂuenced breast cancer risk.
+
+Our ﬁnding of a null association between plasma folate and
+breast cancer risk is in agreement with a nested case-control
+study in the Washington County serum bank (30), a case-control
+study conducted in Taiwan (29), and a case-control study on
+postmenopausal women nested in the Malmo¨ Diet and Cancer
+cohort (34). Other studies found a decreased breast cancer risk
+for increasing blood folate levels (36, 37), especially in women
+whose alcohol intake was high ($15 g/d) (32). Finally, a case-
+control study nested in the WomenÕs Health Study found no
+
+1230 Agnoli et al.
+
+association of folate with overall breast cancer risk but deter-
+mined that high folate was unexpectedly associated with
+increased risks of premenopausal, ER-positive, and PR-positive
+breast cancer (33).
+
+To our knowledge, only 3 studies have investigated plasma
+vitamin B-12 and breast cancer risk. One found no associa-
+tion (33), as did our study; another found that for high B-12,
+risks of overall and premenopausal breast cancer decreased (32);
+and the other found that risks decreased, especially among
+women who were postmenopausal at recruitment (30).
+
+Our ﬁnding that high vitamin B-6 was associated with
+signiﬁcantly lowered overall breast cancer risk is not completely
+in line with the results of the nested case-control study of
+Zhang et al. (32), which found that among postmenopausal
+women the association was of borderline signiﬁcance but was
+substantial among women who drank less than 15 g/d of
+alcohol. Lurie et al. (38) also found that postmenopausal women
+with high vitamin B-6 had lowered breast cancer risk, which
+appeared limited to women with ER+, PR+, and ER+PR+
+cancers. Finally, 2 nested case-control studies found no associ-
+ation between plasma vitamin B-6 and overall breast cancer
+risk (30, 33).
+
+Our ﬁnding that breast cancer risk was signiﬁcantly lowered
+among premenopausal women with high compared with low
+
+Downloaded from https://academic.oup.com/jn/article-abstract/146/6/1227/4630470
+by University of Ottawa user
+on 24 June 2018
+
+TABLE 2 RRs of developing breast cancer by quartiles of plasma homocysteine, folate, vitamin B-12, vitamin B-6, and riboﬂavin
+among women of the EPIC-Varese study1
+
+Quartile 1
+
+Quartile 2
+
+Quartile 3
+
+Quartile 4
+
+P trend
+
+(for each 1-SD increase)
+
+Continuous
+
+Homocysteine
+
+Range, mmol/L
+Cases/controls
+RR (95% CI)2
+RR (95% CI)3
+
+Folate
+
+Range, ng/mL
+Cases/controls
+RR (95% CI)2
+RR (95% CI)3
+
+Vitamin B-12
+
+Range, pg/mL
+Cases/controls
+RR (95% CI)2
+RR (95% CI)3
+
+Vitamin B-6
+
+Range, ng/mL
+Cases/controls
+RR (95% CI)2
+RR (95% CI)3
+
+Riboflavin
+
+Range, ng/mL
+Cases/controls
+RR (95% CI)2
+RR (95% CI)3
+
+5.971–9.541
+
+74/64
+
+1
+1
+
+2.609–5.968
+
+79/64
+
+1
+1
+
+175.4–443.2
+
+76/64
+
+1
+1
+
+1.998–6.723
+
+72/64
+
+1
+1
+
+1.465–4.512
+
+74/64
+
+1
+1
+
+9.542–10.44
+
+47/64
+
+0.61 (0.37, 1.02)
+0.62 (0.37, 1.05)
+
+5.969–7.218
+
+64/64
+
+0.80 (0.50, 1.30)
+0.80 (0.49, 1.31)
+
+443.3–545.4
+
+55/64
+
+0.72 (0.44, 1.18)
+0.67 (0.40, 1.11)
+
+6.724–9.438
+
+68/64
+
+0.93 (0.56, 1.51)
+0.93 (0.57, 1.549
+
+4.513–6.405
+
+66/64
+
+0.92 (0.56, 1.49)
+0.88 (0.54, 1.45)
+
+10.45–12.21
+
+74/65
+
+0.97 (0.59, 1.59)
+0.95 (0.58, 1.56)
+
+7.219–8.599
+
+59/64
+
+0.79 (0.48, 1.28)
+0.86 (0.52, 1.44)
+
+545.5–687.8
+
+60/64
+
+0.77 (0.47, 1.26)
+0.69 (0.42, 1.15)
+
+9.439–13.13
+
+63/64
+
+0.86 (0.53, 1.40)
+0.87 (0.52, 1.43)
+
+6.406–9.052
+
+56/65
+
+0.74 (0.45, 1.21)
+0.73 (0.44, 1.21)
+
+12.22–82.70
+
+63/63
+
+0.82 (0.49, 1.38)
+0.79 (0.46, 1.34)
+
+8.600–15.35
+
+56/64
+
+0.73 (0.44, 1.19)
+0.74 (0.45, 1.23)
+
+687.9–2310
+
+67/64
+
+0.90 (0.55, 1.46)
+0.88 (0.53, 1.45)
+
+13.14–109.3
+
+55/64
+
+0.77 (0.47, 1.27)
+0.76 (0.45, 1.27)
+
+9.053–122.7
+
+62/63
+
+0.87 (0.53, 1.42)
+0.83 (0.50, 1.39)
+
+0.81
+0.68
+
+0.21
+0.31
+
+0.72
+0.62
+
+0.29
+0.28
+
+0.41
+0.36
+
+1.11 (0.90, 1.36)
+1.10 (0.89, 1.36)
+
+0.89 (0.75, 1.06)
+0.89 (0.75, 1.07)
+
+1.03 (0.86, 1.22)
+1.04 (0.86, 1.25)
+
+0.80 (0.65, 0.99)
+0.78 (0.63, 0.96)
+
+1.08 (0.89, 1.30)
+1.08 (0.88, 1.33)
+
+1 EPIC, European Prospective Investigation into Cancer and Nutrition.
+2 Adjusted for age, menopausal status, recruitment date, and distance between Hormones and Diet in the Etiology of Breast Cancer and EPIC recruitment.
+3 Further adjusted for family history of breast cancer, age at menarche, parity, oral contraceptive use, smoking status, education, alcohol consumption, and BMI.
+
+plasma riboﬂavin appears unique, because we are aware of no
+other study to investigate riboﬂavin/breast cancer associations.
+The fact that the association was conﬁned to premenopausal
+women is unexpected—but not too unexpected, given the
+numerous differences in terms of risk factors, prognosis, and
+molecular biology between breast cancer in pre- and postmen-
+opausal women; it suggests the need for further research.
+
+Vitamin B-6 and riboﬂavin may lower breast cancer risk
+through mechanisms other than one-carbon metabolism, be-
+cause they are essential cofactors in numerous reactions central
+to human metabolism (39, 40). In addition, vitamin B-6 has been
+shown to decrease oxidative stress, cell proliferation, and
+angiogenesis and to enhance immune function (39, 41), whereas
+low vitamin B-6 concentrations have been associated with high
+levels of inﬂammatory markers (42). Certain carcinogens are
+metabolized by ﬂavin-dependent enzymes, and the resulting
+metabolites may have either increased or decreased carcinoge-
+nicity (43). Some studies [reviewed by Powers (44)] suggest
+that the risk of certain cancers is increased when riboﬂavin is
+deﬁcient.
+
+Furthermore, both riboﬂavin and vitamin B-6 are cofactors in
+the pathway by which tryptophan is degraded to kynurenines,
+and many products of this pathway are neuroactive compounds
+with immunomodulatory effects (45). The same pathway is
+stimulated by inﬂammatory molecules and is often systemati-
+cally up-regulated during an active immune response (45, 46).
+Because inﬂammation has been linked to increased overall
+and premenopausal breast cancer risk (47, 48), vitamin B-6
+
+and riboﬂavin status might be linked to breast cancer risk
+by inﬂammation-related mechanisms, perhaps involving the
+kynurenine pathway. However, few other data are available
+to suggest mechanisms by which low riboﬂavin status can
+increase the risk of breast cancer—an association we found in
+premenopausal women.
+
+Study strengths include prospective design that rendered
+reverse causation unlikely as an explanation for the associations
+found; the availability of detailed information on lifestyle,
+dietary, and anthropometric variables, which made it to possi-
+ble to control for potential confounders; and the availability
+of 2 plasma samples taken ;5 y apart, which made it possi-
+ble to analyze plasma micronutrient levels twice, providing
+estimates that are likely to be more reliable than a single
+measurement. A possible study limitation is that samples were
+collected, stored at 2196°C (EPIC samples) or 280°C (ORDET
+samples), and analyzed up to 25 y later. There may have been
+differential decay of the analytes over that period. However,
+unless analyte decay varied with initial concentration (which
+seems unlikely), this will not bias analyte-risk associations. A
+stability study conducted on vitamin B-6, vitamin B-12, and folic
+acid in plasma with EDTA and riboﬂavin in whole blood found
+that no large decline had occurred after 4 y of storage at 220°C
+(49). Moreover, the small number of breast cancers diagnosed
+will have decreased the power to detect associations, especially in
+subgroup analyses. Another limitation is that we performed mul-
+tiple statistical comparisons that were not corrected for, thereby
+increasing the risk of erroneously rejecting null hypotheses.
+
+B vitamins and homocysteine in breast cancer risk
+
+1231
+
+Downloaded from https://academic.oup.com/jn/article-abstract/146/6/1227/4630470
+by University of Ottawa user
+on 24 June 2018
+
+TABLE 3 RRs of developing breast cancer by quartiles of plasma homocysteine, folate, vitamin B-12, vitamin B-6, and riboﬂavin
+according to menopausal status among women of the EPIC-Varese study1
+
+Quartile 1
+
+Quartile 2
+
+Quartile 3
+
+Quartile 4
+
+P trend
+
+(for each 1-SD increase)
+
+Continuous
+
+Postmenopausal women
+
+Homocysteine
+
+Range, mmol/L
+Cases/controls
+RR (95% CI)2
+RR (95% CI)3
+
+Folate
+
+Range, ng/mL
+Cases/controls
+RR (95% CI)2
+RR (95% CI)3
+
+Vitamin B-12
+
+Range, pg/mL
+Cases/controls
+RR (95% CI)2
+RR (95% CI)3
+
+Vitamin B-6
+
+Range, ng/mL
+Cases/controls
+RR (95% CI)2
+RR (95% CI)3
+
+Riboflavin
+
+Range, ng/mL
+Cases/controls
+RR (95% CI)2
+RR (95% CI)3
+
+Premenopausal women
+
+Homocysteine
+
+Range, mmol/L
+Cases/controls
+RR (95% CI)2
+RR (95% CI)3
+
+Folate
+
+Range, ng/mL
+Cases/controls
+RR (95% CI)2
+RR (95% CI)3
+
+Vitamin B-12
+
+Range, pg/mL
+Cases/controls
+RR (95% CI)2
+RR (95% CI)3
+
+Vitamin B-6
+
+Range, ng/mL
+Cases/controls
+RR (95% CI)2
+RR (95% CI)3
+
+Riboflavin
+
+Range, ng/mL
+Cases/controls
+RR (95% CI)2
+RR (95% CI)3
+
+5.971–9.541
+
+27/21
+
+1
+1
+
+2.609–5.968
+
+37/33
+
+1
+1
+
+175.4–443.2
+
+42/44
+
+1
+1
+
+1.998–6.723
+
+36/33
+
+1
+1
+
+1.465–4.512
+
+34/37
+
+1
+1
+
+5.971–9.541
+
+47/43
+
+1
+1
+
+2.609–5.968
+
+42/31
+
+1
+1
+
+175.4–443.2
+
+34/20
+
+1
+1
+
+1.998–6.723
+
+36/31
+
+1
+1
+
+1.465–4.512
+
+40/27
+
+1
+1
+
+9.542–10.44
+
+24/30
+
+0.58 (0.26, 1.29)
+0.63 (0.27, 1.45)
+
+5.969–7.218
+
+32/33
+
+0.85 (0.43, 1.69)
+0.85 (0.41, 1.75)
+
+443.3–545.4
+
+29/34
+
+0.89 (0.46, 1.71)
+0.83 (0.42, 1.65)
+
+6.724–9.438
+
+36/39
+
+0.82 (0.43, 1.60)
+0.82 (0.41, 1.64)
+
+4.513–6.405
+
+36/40
+
+1.02 (0.53, 1.97)
+0.97 (0.49, 1.93)
+
+9.542–10.44
+
+23/34
+
+0.61 (0.31, 1.20)
+0.59 (0.29, 1.19)
+
+5.969–7.218
+
+32/31
+
+0.76 (0.38, 1.51)
+0.70 (0.34, 1.42)
+
+443.3–545.4
+
+26/30
+
+0.51 (0.24, 1.11)
+0.49 (0.22, 1.10)
+
+6.724–9.438
+
+32/25
+
+1.10 (0.54, 2.26)
+1.07 (0.50, 2.27)
+
+4.513–6.405
+
+30/24
+
+0.85 (0.41, 1.77)
+0.85 (0.40, 1.83)
+
+10.45–12.21
+
+44/42
+
+0.80 (0.38, 1.65)
+0.77 (0.37, 1.64)
+
+7.219–8.599
+
+35/35
+
+0.93 (0.48, 1.82)
+1.15 (0.56, 2.37)
+
+545.5–687.8
+
+34/27
+
+1.27 (0.65, 2.48)
+1.13 (0.56, 2.27)
+
+9.439–13.13
+
+37/35
+
+0.94 (0.48, 1.83)
+0.94 (0.47, 1.88)
+
+6.406–9.052
+
+33/38
+
+0.95 (0.49, 1.84)
+0.92 (0.45, 1.85)
+
+10.45–12.21
+
+30/23
+
+1.13 (0.56, 2.26)
+1.12 (0.55, 2.28)
+
+7.219–8.599
+
+24/29
+
+0.65 (0.31, 1.33)
+0.61 (0.28, 1.30)
+
+545.5–687.8
+
+26/37
+
+0.42 (0.20, 0.89)
+0.41 (0.19, 0.92)
+
+9.439–13.13
+
+26/29
+
+0.77 (0.37, 1.60)
+0.80 (0.36, 1.74)
+
+6.406–9.052
+
+23/27
+
+0.56 (0.26, 1.18)
+0.58 (0.27, 1.26)
+
+12.22–82.70
+
+43/47
+
+0.66 (0.31, 1.39)
+0.66 (0.30, 1.44)
+
+8.600–15.35
+
+34/39
+
+0.79 (0.41, 1.55)
+0.82 (0.40, 1.66)
+
+687.9–2310
+
+33/35
+
+1.02 (0.54, 1.93)
+0.88 (0.45, 1.72)
+
+13.14–109.3
+
+29/33
+
+0.83 (0.42, 1.67)
+0.91 (0.43, 1.89)
+
+9.053–122.7
+
+35/25
+
+1.56 (0.78, 3.14)
+1.59 (0.76, 3.33)
+
+12.22–82.70
+
+20/16
+
+1.05 (0.48, 2.32)
+1.05 (0.46, 2.39)
+
+8.600–15.35
+
+22/25
+
+0.67 (0.32, 1.40)
+0.66 (0.30, 1.46)
+
+687.9–2310
+
+34/29
+
+0.70 (0.33, 1.49)
+0.81 (0.36, 1.82)
+
+13.14–109.3
+
+26/31
+
+0.69 (0.33, 1.46)
+0.65 (0.30, 1.42)
+
+9.053–122.7
+
+27/38
+
+0.48 (0.24, 0.97)
+0.45 (0.21, 0.94)
+
+0.47
+0.43
+
+0.58
+0.77
+
+0.44
+0.91
+
+0.72
+0.90
+
+0.29
+0.29
+
+0.71
+0.72
+
+0.22
+0.24
+
+0.34
+0.57
+
+0.24
+0.22
+
+1.04 (0.77, 1.39)
+1.05 (0.77, 1.41)
+
+0.95 (0.74, 1.21)
+0.95 (0.73, 1.23)
+
+1.11 (0.86, 1.43)
+1.04 (0.79, 1.36)
+
+0.89 (0.69, 1.14)
+0.87 (0.68, 1.13)
+
+1.33 (0.98, 1.79)
+1.36 (0.98, 1.87)
+
+1.20 (0.84, 1.71)
+1.25 (0.85, 1.83)
+
+0.83 (0.64, 1.08)
+0.83 (0.63, 1.09)
+
+0.96 (0.75, 1.22)
+1.06 (0.81, 1.39)
+
+0.70 (0.51, 0.97)
+0.66 (0.48, 0.92)
+
+0.025
+0.021
+
+0.93 (0.74, 1.17)
+0.92 (0.73, 1.17)
+
+1 EPIC, European Prospective Investigation into Cancer and Nutrition.
+2 Adjusted for age, recruitment date, and distance between Hormones and Diet in the Etiology of Breast Cancer and EPIC recruitment.
+3 Further adjusted for family history of breast cancer, age at menarche, parity, oral contraceptive use, smoking status, education, alcohol consumption, and BMI.
+
+1232 Agnoli et al.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/146/6/1227/4630470
+by University of Ottawa user
+on 24 June 2018
+
+Finally, few data are available on biologic mechanisms that could
+explain associations between low vitamin B-6 and riboﬂavin status
+and increased breast cancer risk, especially among premenopausal
+women.
+
+To conclude, the ﬁndings of this case-control study nested in
+the EPIC-Varese cohort suggest that high plasma concentrations
+of vitamin B-6 may decrease the risk of breast cancer and
+particularly of ER+ breast cancer and may also lower the risk in
+moderate-to-heavy drinkers (>7 g/d alcohol). High plasma levels
+of riboﬂavin may decrease the risk of breast cancer in premen-
+opausal but not postmenopausal women. Homocysteine and the
+other B vitamins investigated do not seem to inﬂuence breast
+cancer risk. Further research is required to elucidate the
+mechanisms by which B vitamins can inﬂuence the etiology of
+breast cancer.
+
+Acknowledgments
+We thank A Evangelista and D Del Sette for technical support, and
+Don Ward for help with the English. VK and SS designed the
+study; AA, GM, and SP developed the methodology; CA, SG, and
+SS analyzed and interpreted the data; CA, SG, VK, VP, and SS
+wrote the manuscript; GG,
+IC, and AC provided essential
+materials; CDG and GT reviewed the manuscript for important
+intellectual content. CA had primary responsibility for ﬁnal
+content. All authors read and approved the ﬁnal manuscript.
+
+References
+
+1.
+
+Scott JM, Weir DG. Folic acid, homocysteine and one-carbon metab-
+olism: A review of the essential biochemistry. J Cardiovasc Risk
+1998;5:223–7.
+
+2. Ames BN. DNA damage from micronutrient deﬁciencies is likely to be a
+
+major cause of cancer. Mutat Res 2001;475:7–20.
+
+3. Blount BC, Mack MM, Wehr CM, MacGregor JT, Hiatt RA, Wang G,
+Wickramasinghe SN, Everson RB, Ames BN. Folate deﬁciency causes uracil
+misincorporation into human DNA and chromosome breakage: Implications
+for cancer and neuronal damage. Proc Natl Acad Sci USA 1997;94:3290–5.
+4. Cooper AJ. Biochemistry of sulfur-containing amino acids. Annu Rev
+
+Biochem 1983;52:187–222.
+
+5. McNulty H, Scott JM.
+
+folate and related
+B-vitamins: Considerations and challenges in achieving optimal status.
+Br J Nutr 2008;99 Suppl 3:S48–54.
+
+Intake and status of
+
+6. Duthie SJ, Narayanan S, Brand GM, Pirie L, Grant G. Impact of folate
+
+deﬁciency on DNA stability. J Nutr 2002;132:2444S–9S.
+
+7. Hayes JD, McLellan LI. Glutathione and glutathione-dependent enzymes
+represent a co-ordinately regulated defence against oxidative stress. Free
+Radic Res 1999;31:273–300.
+
+8. Brigelius-Floh´ee R. Tissue-speciﬁc functions of individual glutathione
+
+peroxidases. Free Radic Biol Med 1999;27:951–65.
+
+14. Choi SW, Mason JB. Folate and carcinogenesis: An integrated scheme.
+
+J Nutr 2000;130:129–32.
+
+15. Lewis SJ, Harbord RM, Harris R, Smith GD. Meta-analyses of
+observational and genetic association studies of folate intakes or levels
+and breast cancer risk. J Natl Cancer Inst 2006;98:1607–22.
+
+16. Selhub J, Jacques PF, Wilson PW, Rush D, Rosenberg IH. Vitamin status
+and intake as primary determinants of homocysteinemia in an elderly
+population. JAMA 1993;270:2693–8.
+
+17. Perla-Kaj ´an J, Twardowski T, Jakubowski H. Mechanisms of homo-
+
+cysteine toxicity in humans. Amino Acids 2007;32:561–72.
+
+18. Sun CF, Haven TR, Wu TL, Tsao KC, Wu JT. Serum total homocysteine
+increases with the rapid proliferation rate of tumor cells and decline
+upon cell death: A potential new tumor marker. Clin Chim Acta
+2002;321:55–62.
+
+19. Wu LL, Wu JT. Hyperhomocysteinemia is a risk factor for cancer and a
+
+new potential tumor marker. Clin Chim Acta 2002;322:21–8.
+
+20. Hogg N. The effect of cyst(e)ine on the auto-oxidation of homocysteine.
+
+Free Radic Biol Med 1999;27:28–33.
+
+21. Lin J, Lee IM, Song Y, Cook NR, Selhub J, Manson JE, Buring JE,
+Zhang SM. Plasma homocysteine and cysteine and risk of breast cancer
+in women. Cancer Res 2010;70:2397–405.
+
+22. Ozkan Y, Ozkan E, Simsek B. Plasma total homocysteine and cysteine
+levels as cardiovascular risk factors in coronary heart disease. Int
+J Cardiol 2002;82:269–77.
+
+23. Frauscher G, Karnaukhova E, Muehl A, Hoeger H, Lubec B. Oral
+administration of homocysteine leads to increased plasma triglycerides
+and homocysteic acid-additional mechanisms in homocysteine induced
+endothelial damage? Life Sci 1995;57:813–7.
+
+24. Blom HJ, Engelen DP, Boers GH, Stadhouders AM, Sengers RC, de
+Abreu R, TePoele-Pothoff MT, Trijbels JM. Lipid peroxidation in
+homocysteinaemia. J Inherit Metab Dis 1992;15:419–22.
+
+25. El-Khairy L, Ueland PM, Nygard O, Refsum H, Vollset SE. Lifestyle and
+cardiovascular disease risk factors as determinants of total cysteine
+in plasma: The Hordaland Homocysteine Study. Am J Clin Nutr
+1999;70:1016–24.
+
+26. Gatt A, Makris A, Cladd H, Burcombe RJ, Smith JM, Cooper P,
+Thompson D, Makris M. Hyperhomocysteinemia in women with
+advanced breast cancer. Int J Lab Hematol 2007;29:421–5.
+
+27. Vona-Davis L, Howard-McNatt M, Rose DP. Adiposity, type 2 diabetes
+and the metabolic syndrome in breast cancer. Obes Rev 2007;8:395–408.
+28. Xue F, Michels KB. Diabetes, metabolic syndrome, and breast cancer: A
+
+review of the current evidence. Am J Clin Nutr 2007;86:s823–35.
+
+29. Chou YC, Lee MS, Wu MH, Shih HL, Yang T, Yu CP, Yu JC, Sun CA.
+Plasma homocysteine as a metabolic risk factor for breast cancer:
+Findings from a case-control study in Taiwan. Breast Cancer Res Treat
+2007;101:199–205.
+
+30. Wu K, Helzlsouer KJ, Comstock GW, Hoffman SC, Nadeau MR, Selhub
+J. A prospective study on folate, B12, and pyridoxal 5#-phosphate
+(B6) and breast cancer. Cancer Epidemiol Biomarkers Prev 1999;
+8:209–17.
+
+31. Wu X, Zou T, Cao N, Ni J, Xu W, Zhou T, Wang X. Plasma
+homocysteine levels and genetic polymorphisms in folate metabolism
+are associated with breast cancer risk in Chinese women. Hered Cancer
+Clin Pract 2014;12:2.
+
+9. Hayes JD, Pulford DJ. The glutathione S-transferase supergene family:
+Regulation of GST and the contribution of the isoenzymes to cancer
+chemoprotection and drug resistance. Crit Rev Biochem Mol Biol
+1995;30:445–600.
+
+32. Zhang SM, Willett WC, Selhub J, Hunter DJ, Giovannucci EL, Holmes
+MD, Colditz GA, Hankinson SE. Plasma folate, vitamin B6, vitamin
+B12, homocysteine, and risk of breast cancer. J Natl Cancer Inst
+2003;95:373–80.
+
+10. Chen J, Gammon MD, Chan W, Palomeque C, Wetmur JG, Kabat GC,
+Teitelbaum SL, Britton JA, Terry MB, Neugut AI, et al. One-carbon
+metabolism, MTHFR polymorphisms, and risk of breast cancer. Cancer
+Res 2005;65:1606–14.
+
+11. Otani T, Iwasaki M, Hanaoka T, Kobayashi M, Ishihara J, Natsukawa
+S, Shaura K, Koizumi Y, Kasuga Y, Yoshimura K, et al. Folate, vitamin
+B6, vitamin B12, and vitamin B2 intake, genetic polymorphisms of
+related enzymes, and risk of colorectal cancer in a hospital-based case-
+control study in Japan. Nutr Cancer 2005;53:42–50.
+
+12. Mason JB. Biomarkers of nutrient exposure and status in one-carbon
+
+(methyl) metabolism. J Nutr 2003;133(Suppl 3):941S–7S.
+
+33. Lin J, Lee IM, Cook NR, Selhub J, Manson JE, Buring JE, Zhang SM.
+Plasma folate, vitamin B-6, vitamin B-12, and risk of breast cancer
+in women. Am J Clin Nutr 2008;87:734–43.
+
+34. Ericson UC, Ivarsson MI, Sonestedt E, Gullberg B, Carlson J, Olsson H,
+Wirfalt E. Increased breast cancer risk at high plasma folate concen-
+trations among women with the MTHFR 677T allele. Am J Clin Nutr
+2009;90:1380–9.
+
+35. Palli D, Berrino F, Vineis P, Tumino R, Panico S, Masala G, Saieva C,
+Salvini S, Ceroti M, Pala V, et al. A molecular epidemiology project on
+diet and cancer: The EPIC-Italy Prospective Study: Design and baseline
+characteristics of participants. Tumori 2003;89:586–93.
+
+13. Shrubsole MJ, Gao YT, Cai Q, Shu XO, Dai Q, Hebert JR, Jin F, Zheng
+W. MTHFR polymorphisms, dietary folate intake, and breast cancer
+risk: Results from the Shanghai Breast Cancer Study. Cancer Epidemiol
+Biomarkers Prev 2004;13:190–6.
+
+36. Beilby J, Ingram D, Hahnel R, Rossi E. Reduced breast cancer risk
+with increasing serum folate in a case-control study of the C677T
+genotype of the methylenetetrahydrofolate reductase gene. Eur J Cancer
+2004;40:1250–4.
+
+B vitamins and homocysteine in breast cancer risk
+
+1233
+
+Downloaded from https://academic.oup.com/jn/article-abstract/146/6/1227/4630470
+by University of Ottawa user
+on 24 June 2018
+
+37. Rossi E, Hung J, Beilby JP, Knuiman MW, Divitini ML, Bartholomew H.
+Folate levels and cancer morbidity and mortality: Prospective cohort study
+from Busselton, Western Australia. Ann Epidemiol 2006;16:206–12.
+
+38. Lurie G, Wilkens LR, Shvetsov YB, Ollberding NJ, Franke AA, Henderson
+BE, Kolonel LN, Goodman MT. Prediagnostic plasma pyridoxal
+5#-phosphate (vitamin B6) levels and invasive breast carcinoma risk: The
+multiethnic cohort. Cancer Epidemiol Biomarkers Prev 2012;21:1942–8.
+
+44. Powers HJ. Riboﬂavin (vitamin B-2) and health. Am J Clin Nutr
+
+2003;77:1352–60.
+
+45. Theofylaktopoulou D, Ulvik A, Midttun O, Ueland PM, Vollset SE,
+Nygard O, Hustad S, Tell GS, Eussen SJ. Vitamins B2 and B6 as
+determinants of kynurenines and related markers of interferon-gamma-
+mediated immune activation in the community-based Hordaland
+Health Study. Br J Nutr 2014;112:1065–72.
+
+39. Komatsu S, Yanaka N, Matsubara K, Kato N. Antitumor effect of vitamin
+
+46. Chen Y, Guillemin GJ. Kynurenine pathway metabolites in humans:
+
+B6 and its mechanisms. Biochim Biophys Acta 2003;1647:127–30.
+
+Disease and healthy states. Int J Tryptophan Res 2009;2:1–19.
+
+40. Rivlin RS. Riboﬂavin metabolism. N Engl J Med 1970;283:463–72.
+41. Matsubara K, Komatsu S, Oka T, Kato N. Vitamin B6-mediated
+suppression of colon tumorigenesis, cell proliferation, and angiogenesis.
+J Nutr Biochem 2003;14:246–50.
+
+42. Gori AM, Soﬁ F, Marcucci R, Giusti B, Franco GG, Abbate R.
+Association between homocysteine, vitamin B(6) concentrations and
+inﬂammation. Clin Chem Lab Med 2007;45:1728–36.
+
+43. Webster RP, Gawde MD, Bhattacharya RK. Modulation of carcinogen-
+induced DNA damage and repair enzyme activity by dietary riboﬂavin.
+Cancer Lett 1996;98:129–35.
+
+47. Rose DP, Vona-Davis L. Biochemical and molecular mechanisms for the
+association between obesity, chronic inﬂammation, and breast cancer.
+Biofactors 2014;40:1–12.
+
+48. Sun CA, Wu MH, Chu CH, Chou YC, Hsu GC, Yang T, Chou WY, Yu
+CP, Yu JC. Adipocytokine resistin and breast cancer risk. Breast Cancer
+Res Treat 2010;123:869–76.
+
+49. Ocke` MC, Schrijver J, Obermann-de Boer GL, Bloemberg BP, Haenen
+GR, Kromhout D. Stability of blood (pro)vitamins during four years of
+storage at 220 degrees C: Consequences for epidemiologic research.
+J Clin Epidemiol 1995;48:1077–85.
+
+1234 Agnoli et al.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/146/6/1227/4630470
+by University of Ottawa user
+on 24 June 2018
+
+

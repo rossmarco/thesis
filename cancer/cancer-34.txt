@@ -1,0 +1,1428 @@
+Original article
+
+Annals of Oncology 14: 78–84, 2003
+DOI: 10.1093/annonc/mdg022
+
+Dietary glycemic index, glycemic load and ovarian cancer risk: 
+a case–control study in Italy
+L. S. A. Augustin1,2, J. Polesel1, C. Bosetti1,3, C. W. C. Kendall2, C. La Vecchia3,4, M. Parpinel1, 
+E. Conti5, M. Montella6, S. Franceschi1,7, D. J. A. Jenkins2 & L. Dal Maso1*
+
+1Servizio di Epidemiologia, Centro di Riferimento Oncologico, Istituto Nazionale Tumori, Aviano, Italy; 2Department of Nutritional Sciences, Faculty of Medicine, 
+University of Toronto and the Clinical Nutrition and Risk Factor Modification Centre, St Michael’s Hospital, Toronto, Ontario, Canada; 
+3Istituto di Ricerche Farmacologiche “Mario Negri”, Milan; 4Istituto di Statistica Medica e Biometria, Università degli Studi di Milano, Milan; 
+5Servizio Integrato di Epidemiologia e Sistemi Informativi, Rome; 6Istituto Tumori “Fondazione Pascale”, Naples, Italy; 7International Agency for Research on 
+Cancer, Lyon, France
+
+Received 3 April 2002; Revised 3 July 2002; accepted 18 July 2002
+
+Background: Dietary carbohydrates vary in their ability to raise blood glucose and insulin levels, which, in
+turn, influence levels of sex hormones and insulin-like growth factors. We analyzed the effect of type and
+amount of carbohydrates on ovarian cancer risk, using the glycemic index (GI) and the glycemic load (GL)
+measurement in a large case–control study conducted in Italy.
+Materials and methods: Cases  included  1031  women  with  incident,  histologically  confirmed  epithelial
+ovarian  cancer,  from  four  Italian  regions.  Controls  included  2411  women  admitted  to  the  same  hospital
+networks for acute, non-neoplastic conditions. Average daily GI and GL were calculated from a validated
+food frequency questionnaire. Odds ratios (OR) and the corresponding 95% confidence intervals (CI) were
+computed using multiple logistic regression.
+Results: Ovarian cancer was directly associated with dietary GI (OR for highest versus lowest quartile = 1.7,
+95%  CI  1.3–2.1) and  GL (OR  = 1.7,  95%  CI 1.3–2.1). The  associations were observed in  pre- and  post-
+menopausal women, and they remained consistent across strata of major covariates identified.
+Conclusions: This study supports the hypothesis of a direct association between GI and GL and ovarian
+cancer  risk  and,  consequently,  of  a  possible  role  of  hyperinsulinemia/insulin  resistance  in  ovarian  cancer
+development.
+Key words: carbohydrate, case–control study, glycemic load, ovarian cancer
+
+Introduction
+Ovarian  cancer  is  directly  related  to  nulliparity,  and  inversely
+related to oral contraceptive use, but little is known of its poten-
+tial dietary correlates [1]. It has been suggested that diet may have
+a  potential  influence  on  ovarian  carcinogenesis,  and  several
+case–control studies have reported a beneficial effect on the risk
+of ovarian cancer of a diet rich in vegetables [2, 3]. A few case–
+control  studies  showed  that  women  with  cancer  of  the  ovary
+reported more frequent meat consumption [4, 5], and others sug-
+gested that a diet rich in eggs may also increase the risk of ovarian
+cancer [2, 6]. Fish, on the other hand, seemed to exert a protective
+effect [5, 6].
+
+With reference to specific nutrients, descriptive epidemiology
+and  ecological  studies  have  reported  positive  relationships
+between fat, protein and total calory intake, and ovarian cancer
+
+*Corresponding author: Dr Luigino Dal Maso, Servizio di Epidemiologia, 
+Centro di Riferimento Oncologico, Via Pedemontana Occ., 33081 Aviano 
+(PN), Italy. Tel: +39-0434-659-354; Fax: +39-0434-659-222; 
+E-mail: epidemiology@cro.it
+
+© 2003 European Society for Medical Oncology
+
+risk [7]. Data from analytical, mainly case–control studies sup-
+ported the hypothesis of a possible increased risk in relation to
+various types of fat [2, 6]. Carbohydrates have also been shown to
+increase the risk of epithelial ovarian cancer [8].
+
+Different  carbohydrates,  however,  affect  blood  glucose  and
+insulin levels to varying degrees depending on the nature of the
+carbohydrate and the type and extent of food processing [9]. On
+this basis they have been ranked using the glycemic index (GI)
+and  glycemic  load  (GL).  Foods  with  high  GI  tend  to  increase
+glucose and insulin levels to a greater extent than low GI foods
+[9]. In turn, it has been proposed that insulin may be directly or
+indirectly  involved  in  the  carcinogenic  process  by  modulating
+hormonal levels such as sex hormones and insulin-like growth
+factors (IGF) [10]. High-GL diets have been directly associated
+with risk of various Western chronic conditions, including dia-
+betes [11], coronary heart disease [12], colorectal [13] and breast
+[14]  cancer,  and  high  insulin  levels  may  be  one  of  the  mech-
+anisms of action of risk factors shared by these diseases [15].
+
+We  thus  evaluated  the  possible  differential  effects  of carbo-
+hydrate-rich foods on epithelial ovarian cancer risk by means of
+the GI and GL measurements in a large case–control study.
+
+Materials and methods
+
+A multicenter case–control study of ovarian cancer was conducted between
+January 1992 and September 1999 in four Italian regions: Greater Milan, the
+provinces of Pordenone, Padua and Gorizia (north-eastern Italy); the province
+of Latina (central Italy); and the urban area of Naples (southern Italy).
+
+Cases included women with incident, histologically confirmed epithelial
+ovarian cancer diagnosed within 1 year prior to interview and with no previ-
+ous diagnosis of cancer. Overall, 1031 women aged 18–79 years (median age
+56 years) were included. Controls included patients with no history of cancer
+who were admitted to hospitals serving the same areas as those where cases
+had  been  identified.  Eligible  diagnoses  were  acute,  non-neoplastic,  non-
+gynecological conditions, unrelated to hormonal or digestive tract diseases,
+or  associated  with  long-term  modifications  of  diet.  They  included  2411
+women, aged 17–79 years (median age 57 years), belonging to the following
+diagnostic  categories:  trauma,  mostly  fractures  and  sprains  (26%);  other
+orthopedic disorders, such as low back pain and disc disorders (28%); acute
+surgical conditions (15%); and other illnesses, such as eye, ear, nose, skin and
+dental conditions (31%). Cases were frequency matched to controls accord-
+ing to quinquennium of age and area of residence. Approximately 4% of cases
+and controls approached for interview during their hospital stay refused to
+participate.
+
+The same structured questionnaire and coding manual were used in each
+center, and all interviewers were centrally trained and routinely supervised.
+The  checking  of  data  for  consistency  and  reliability  was  also  conducted
+centrally.  The  questionnaire  included  information  on  sociodemographic
+characteristics, such as education and occupation, lifelong smoking habits,
+physical  activity  at  various  ages,  anthropometric  measures,  a  problem-
+oriented  personal  medical  history,  family  history  of  selected  cancers,
+menstrual  and  reproductive  history,  history  of  use  of  oral  contraceptives,
+hormone replacement treatment, and female hormone-containing drugs for
+other indications. Dietary habits were investigated through an interviewer-
+administered  food  frequency  questionnaire  (FFQ)  that  included  78  items.
+This questionnaire was used to assess the subjects’ habitual diet during the
+2  years  prior  to  cancer  diagnosis  or  hospital  admission  (for  controls),  and
+included questions on the average weekly frequency of consumption of foods
+or food groups, as well as complex recipes. Satisfactory reproducibility [16]
+and validity [17] of the FFQ have been reported. Details on methodology used
+have  been  described  elsewhere  [13,  14].  To  compute  energy  and  nutrient
+intake,  an  Italian  food-composition  database  was  used.  For  each  food,  we
+expressed GI as a percentage of the glycemic response elicited using ‘white
+bread’ as a standard food. We then calculated daily average GI by summing
+the products of the carbohydrate content per serving for each food or recipe,
+multiplied by the average number of servings of that food per week, multi-
+plied  by  its  GI,  all  divided  by  the  total  amount  of  available  carbohydrate
+weekly  intake.  This  represents  the  ‘quality  of  the  carbohydrates’,  namely
+slow versus fast absorbable carbohydrates. A score for the daily average GL
+was computed as the GI, but without dividing by the total amount of carbo-
+hydrates. For these calculations we used the carbohydrate content of 50 foods
+or  recipes,  since  28  foods  or  recipes,  chiefly  cheese,  meat  and fish-based,
+contained a negligible amount of carbohydrate. With respect to GI values, we
+chiefly used international tables. In order to take into account Italian cooking
+habits (e.g. pasta ‘al dente’), Italian sources were used for a few local recipes.
+Food items for which a GI had not been determined were assigned the GI of
+the nearest comparable food (e.g. tangerines were assigned the same GI as
+oranges).
+
+Odds ratios (ORs) and the corresponding 95% confidence intervals (CI) for
+quartiles of GI and GL intake were computed using unconditional multiple
+logistic regression models [18]. The regression equations included terms for
+quinquennia of age, study center, years of education, occupational physical
+activity, history of diabetes, oral contraceptive use, parity, menopausal status,
+
+79
+
+number  of  daily  meals,  intakes  of  fiber,  alcohol  and  total  energy  intake.
+Adjustment for energy was made using the residuals method. The modifying
+effect of various covariates was evaluated comparing the differences between
+the –2 log likelihood of the model with and without interaction terms, and
+referring it to the chi square distribution with degrees of freedom equal to the
+number of interaction terms minus one.
+
+Results
+
+Table 1 gives the distribution of ovarian cancer cases and control
+subjects according to age, education, menopausal status and other
+potential confounding factors. Cases were better educated than
+controls, had a lower parity, frequently reported a family history
+of ovarian and/or breast cancer, and a lower occupational phys-
+ical activity.
+
+GI  was  positively  correlated  with  GL  (Pearson  correlation
+coefficient, r = 0.53), intake of bread (r = 0.59), cereals (r = 0.56),
+cakes and sweets (r = 0.33), sugar (r = 0.26), available carbo-
+hydrates  (r  =  0.37),  cereal  fibre  (r  =  0.42),  and  negatively
+correlated  with  fruit  (r  =  –0.19)  and  vegetables  (r  =  –0.11).
+Correlations  of  GI  with  other  dietary  and  non-dietary  factors
+were weak (i.e. |r| < 0.10).
+
+Table 2 shows the ORs of epithelial ovarian cancer according
+to the quartiles of GI and GL, and total carbohydrate intake by
+menopausal status. Dietary GI and GL were directly associated
+with  ovarian  cancer  risk,  and  the  ORs,  for  the  highest  versus
+the  lowest  quartile,  were  1.7  (95%  CI  1.3–2.1)  and  1.7  (95%
+CI 1.3–2.1), respectively. However, ORs by quartile of GI and
+GL did not show linear trends, but were already elevated in the
+second  quartile  and  tended  to  plateau  thereafter.  Associations,
+particularly for GI, were appreciably stronger in postmenopausal
+compared with premenopausal women, although no significant
+heterogeneity  emerged.  Total  carbohydrate  intake  was  also
+associated with ovarian cancer (OR = 1.8, in the highest quartile,
+95% CI 1.3–2.4) in postmenopausal women (Table 2).
+
+Table  3  shows  the  relationship  between  GI  and  epithelial
+ovarian  cancer  in  different  strata  of  known  or  suspected  risk
+factors for ovarian cancer. No substantial effect modification was
+apparent in strata of: family history of ovarian or breast cancer;
+oral contraceptive use; and parity.
+
+The relationship between GI and epithelial ovarian cancer risk
+was also analyzed in separate strata of history of diabetes, body
+mass index (BMI), BMI increase from age 30, waist to hip (W/H)
+ratio, occupational physical activity and alcohol intake (Table 4).
+There was no consistent pattern of risk among diabetic subjects
+or in different strata of BMI, BMI increase from age 30, and W/H
+ratio. There was, however, a significant modifying effect of alco-
+hol, with no consistent association with GI in alcohol abstainers.
+The association with GI was stronger in women reporting higher
+physical activity.
+
+Although risk factors, including dietary factors, may differ in
+their  relationship  to  specific  histological  subtypes  of  ovarian
+cancer [19], no relevant difference emerged when we replicated
+the  analyses  for  GI  and  GL  in  invasive  serous  ovarian  cancer
+only. Other histological subtypes represented <10% of cases in
+our data set.
+
+80
+
+Table 1. Distribution of 1031 cases of epithelial ovarian cancer and 2411 controlsa, according to age and selected 
+variables (Italy, 1992–99)
+
+Characteristic
+
+Age groups (years)
+
+<45
+
+45–54
+
+55–64
+≥65
+
+Education (years)
+
+<7
+
+7–11
+≥12
+
+Menopausal status
+
+Premenopausal
+
+Postmenopausal
+
+Parity (number of births)
+
+Nulliparae
+
+1–2
+≥3
+
+Oral contraceptive use
+
+Never
+
+Ever
+
+Diabetes history
+
+No
+
+Yes
+
+Family history of breast or ovarian cancerc
+
+No
+
+Yes
+
+Occupational physical activity
+
+Low
+
+Medium
+
+High
+
+Alcohol intake (drinks per week)
+
+Abstainers
+
+1–6
+
+7–13
+≥14
+
+Meal frequency
+
+1 per day
+
+2 per day or more
+
+Fibre intake (g/day)
+
+<17.5
+
+17.5–22.2
+
+22.2–27.1
+≥27.1
+
+Cases
+
+n
+
+183
+
+287
+
+325
+
+236
+
+570
+
+227
+
+22
+
+346
+
+683
+
+184
+
+572
+
+275
+
+921
+
+110
+
+986
+
+45
+
+902
+
+129
+
+331
+
+492
+
+175
+
+288
+
+261
+
+226
+
+256
+
+40
+
+991
+
+218
+
+257
+
+280
+
+276
+
+%
+
+17.8
+
+27.8
+
+31.5
+
+22.9
+
+55.6
+
+22.2
+
+22.2
+
+33.6
+
+66.4
+
+17.8
+
+55.5
+
+26.7
+
+89.3
+
+10.7
+
+95.6
+
+4.4
+
+87.5
+
+12.5
+
+33.2
+
+49.3
+
+17.5
+
+27.9
+
+25.3
+
+21.9
+
+24.9
+
+3.9
+
+96.1
+
+21.1
+
+24.9
+
+27.2
+
+26.8
+
+aSome figures do not add up to the total as some values are missing.
+bCochran–Mantel–Haenzel χ2 adjusted for center and age.
+cIn immediate relatives.
+
+Controls
+
+n
+
+443
+
+615
+
+724
+
+629
+
+1417
+
+620
+
+349
+
+803
+
+1603
+
+381
+
+1268
+
+762
+
+2142
+
+269
+
+2324
+
+87
+
+2291
+
+120
+
+677
+
+1237
+
+426
+
+833
+
+542
+
+421
+
+615
+
+83
+
+2325
+
+647
+
+611
+
+568
+
+585
+
+%
+
+18.4
+
+25.5
+
+30.0
+
+26.1
+
+59.4
+
+26.0
+
+14.6
+
+33.4
+
+66.6
+
+15.8
+
+52.6
+
+31.6
+
+88.8
+
+11.2
+
+96.4
+
+3.6
+
+95.0
+
+5.0
+
+28.9
+
+52.9
+
+18.2
+
+34.5
+
+22.5
+
+17.5
+
+25.5
+
+3.5
+
+96.5
+
+26.8
+
+25.3
+
+23.6
+
+24.3
+
+χ2 b
+
+(P value)
+
+38.90
+
+(<0.01)
+
+0.02
+
+(0.89)
+
+48.20
+
+(<0.01)
+
+0.18
+
+(0.67)
+
+0.06
+
+(0.81)
+
+55.95
+
+(0.01)
+
+22.75
+
+(<0.01)
+
+0.31
+
+(0.58)
+
+0.47
+
+(0.48)
+
+6.71
+
+(0.01)
+
+81
+
+Table 2. Odds ratios (ORs) and 95% confidence intervals (CIs)a of epithelial ovarian cancer by quartile of energy-adjusted glycemic index, glycemic 
+load and total carbohydrate intake (Italy, 1992–99)
+
+Cases:controlsb
+
+Quartile, OR (95% CI)
+
+χ2
+1 (trend) (P value)
+
+Glycemic index
+
+Upper limitd
+
+1c
+
+2
+
+70.8
+
+74.4
+
+3
+
+77.7
+
+4
+
+–
+
+Premenopausal
+
+346:803
+
+Postmenopausal
+
+683:1603
+
+All cases
+
+1031:2411
+
+1
+
+1
+
+1
+
+1.33 (0.88–2.00)
+
+1.42 (0.95–2.14)
+
+1.36 (0.90–2.05)
+
+2.12 (0.15)
+
+1.83 (1.36–2.47)
+
+2.10 (1.57–2.82)
+
+1.84 (1.37–2.48)
+
+16.29 (<0.01)
+
+1.61 (1.27–2.04)
+
+1.80 (1.43–2.27)
+
+1.65 (1.30–2.09)
+
+16.81 (<0.01)
+
+Glycemic load
+
+Upper limitd
+
+147
+
+185
+
+234
+
+–
+
+Premenopausal
+
+346:803
+
+Postmenopausal
+
+683:1603
+
+All cases
+
+1031:2411
+
+1
+
+1
+
+1
+
+1.49 (0.99–2.25)
+
+1.68 (1.09–2.57)
+
+1.39 (0.92–2.10)
+
+2.31 (0.13)
+
+1.37 (1.02–1.84)
+
+1.49 (1.11–2.00)
+
+1.83 (1.36–2.46)
+
+15.58 (<0.01)
+
+1.40 (1.11–1.78)
+
+1.54 (1.22–1.96)
+
+1.65 (1.30–2.09)
+
+16.89 (<0.01)
+
+Total carbohydrate intake (g)
+
+Upper limitd
+
+Premenopausal
+
+346:803
+
+Postmenopausal
+
+683:1603
+
+All cases
+
+1031:2411
+
+7.57
+
+9.44
+
+11.55
+
+–
+
+1
+
+1
+
+1
+
+1.31 (0.86–1.98)
+
+1.33 (0.86–2.06)
+
+1.39 (0.90–2.15)
+
+1.87 (0.17)
+
+1.49 (1.11–1.99)
+
+1.55 (1.14–2.10)
+
+1.75 (1.28–2.39)
+
+11.40 (<0.01)
+
+1.44 (1.13–1.82)
+
+1.48 (1.16–1.90)
+
+1.62 (1.27–2.08)
+
+12.93 (<0.01)
+
+aAdjusted for age, study center, years of education, occupational physical activity, meal frequency, alcohol consumption, fibre and energy intake, 
+history of diabetes, oral contraceptive use, parity and menopausal status (when appropriate).
+cSome figures do not add up to total because of some missing value.
+cReference category.
+dIn overall population of cases and controls.
+
+Table 3. Odds ratios (ORs) and 95% confidence intervals (CIs)a of epithelial ovarian cancer by strata of selected variables and quartile of 
+energy-adjusted glycemic index (Italy, 1992–99)
+
+Cases:controlsb
+
+Quartile, OR (95% CI)
+
+χ2
+1 (P value)
+
+Upper limitd
+
+1c
+
+70.8
+
+2
+
+74.4
+
+3
+
+77.7
+
+4
+
+–
+
+Family history of breast and/or ovarian cancere
+
+Yes
+
+No
+
+129:120
+
+902:2291
+
+Oral contraceptive use
+
+Yes
+
+No
+
+110:269
+
+921:2142
+
+Parity (no. of births)
+
+Nulliparae
+
+1–2
+≥3
+
+184:381
+
+572:1268
+
+275:762
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+2.05 (0.85–4.96)
+
+1.59 (0.72–3.53)
+
+1.45 (0.61–3.44)
+
+0.51 (0.48)
+
+1.64 (1.27–2.11)
+
+1.84 (1.44–2.37)
+
+1.70 (1.32–2.19)
+
+16.67 (<0.01)
+
+2.25 (1.06–4.76)
+
+2.02 (0.98–4.18)
+
+1.53 (0.71–3.28)
+
+0.84 (0.36)
+
+1.52 (1.18–1.96)
+
+1.77 (1.38–2.28)
+
+1.61 (1.25–2.07)
+
+14.52 (<0.01)
+
+2.30 (1.26–4.20)
+
+2.01 (1.10–3.66)
+
+1.39 (0.77–2.51)
+
+1.51 (1.10–2.07)
+
+1.75 (1.27–2.40)
+
+1.62 (1.16–2.25)
+
+0.98 (0.32)
+
+8.90 (<0.01)
+
+1.95 (1.20–3.18)
+
+2.39 (1.51–3.81)
+
+2.26 (1.42–3.59)
+
+11.67 (<0.01)
+
+aAdjusted for age, study center, years of education, occupational physical activity, meal frequency, alcohol consumption, fibre and energy 
+intake, history of diabetes, oral contraceptive use, parity and menopausal status (when appropriate).
+bSome figures do not add up to the total as some values are missing.
+cReference category.
+dIn the overall population of cases and controls.
+eIn immediate relatives.
+
+82
+
+Table 4. Odds ratios (ORs) and 95% confidence intervals (CIs)a of epithelial ovarian cancer by strata of selected variables and quartile of energy-
+adjusted glycemic index (Italy, 1992–99)
+
+Cases:controlsb
+
+Quartile, OR (95% CI)
+
+χ2
+1 (trend) (P value)
+
+Upper limitd
+
+Diabetes
+
+Yes
+
+No
+
+45:87
+
+986:2324
+
+Body Mass Index (BMI)
+
+<25
+≥25
+
+549:1266
+
+472:1128
+
+BMI increase from age 30 yearse
+
+≤0
+>0 to 4
+
+>4
+
+Waist to hip ratio
+
+<0.83
+≥0.83
+
+228:467
+
+465:1001
+
+233:716
+
+319:922
+
+407:925
+
+Occupational physical activity
+
+Low
+
+Medium
+
+High
+
+331:677
+
+492:1237
+
+175:426
+
+Alcohol intake (drinks per week)
+
+Abstainers
+
+1–6
+
+7–13
+≥14
+
+288:833
+
+261:542
+
+226:421
+
+256:615
+
+1c
+
+70.8
+
+2
+
+74.4
+
+3
+
+77.7
+
+4
+
+–
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+0.75 (0.16–3.47)
+
+1.66 (0.37–7.55)
+
+1.04 (0.22–5.05)
+
+0.13 (0.71)
+
+1.69 (1.32–2.15)
+
+1.88 (1.48–2.39)
+
+1.69 (1.33–2.16)
+
+17.44 (<0.01)
+
+1.63 (1.16–2.28)
+
+1.84 (1.32–2.54)
+
+1.48 (1.06–2.07)
+
+1.66 (1.18–2.35)
+
+1.71 (1.20–2.43)
+
+1.79 (1.26–2.54)
+
+4.97 (0.03)
+
+9.77 (<0.01)
+
+1.57 (0.96–2.57)
+
+1.79 (1.11–2.87)
+
+1.74 (1.07–2.83)
+
+1.73 (1.20–2.50)
+
+1.75 (1.22–2.52)
+
+1.65 (1.14–2.37)
+
+1.61 (0.99–2.62)
+
+2.09 (1.28–3.40)
+
+1.67 (1.01–2.75)
+
+5.07 (0.02)
+
+6.31 (0.01)
+
+4.89 (0.03)
+
+1.62 (1.08–2.44)
+
+1.95 (1.31–2.90)
+
+1.43 (0.93–2.19)
+
+3.99 (0.05)
+
+1.82 (1.23–2.68)
+
+1.80 (1.23–2.63)
+
+1.95 (1.33–2.84)
+
+10.04 (<0.01)
+
+1.58 (1.01–2.48)
+
+1.62 (1.05–2.49)
+
+1.27 (0.82–1.97)
+
+1.55 (1.11–2.18)
+
+1.68 (1.20–2.36)
+
+1.56 (1.11–2.21)
+
+1.14 (0.29)
+
+6.32 (0.01)
+
+1.95 (1.03–3.68)
+
+3.16 (1.72–5.81)
+
+3.05 (1.64–5.67)
+
+14.70 (<0.01)
+
+1.56 (1.01–2.40)
+
+1.32 (0.86–2.03)
+
+0.98 (0.63–1.51)
+
+0.16 (0.69)
+
+1.78 (1.09–2.93)
+
+2.54 (1.55–4.15)
+
+2.22 (1.35–3.63)
+
+11.65 (<0.01)
+
+1.34 (0.75–2.37)
+
+2.29 (1.29–4.07)
+
+2.15 (1.20–3.84)
+
+1.89 (1.15–3.11)
+
+1.96 (1.21–3.16)
+
+2.24 (1.37–3.66)
+
+8.93 (<0.01)
+
+9.62 (<0.01)
+
+aAdjusted for age, study centre, years of education, occupational physical activity, meal frequency, alcohol consumption, fibre and energy intake, 
+history of diabetes, oral contraceptive use, parity and menopausal status (when appropriate).
+bSome figures do not add up to the total as some values are missing.
+cReference category.
+dIn the overall population of cases and controls.
+eFor subjects aged 35 years or more.
+
+Discussion
+
+The present study shows direct associations between dietary GI
+and GL and epithelial ovarian cancer risk. An elevated risk was
+found in the second quartile of GI and GL, but did not show a
+further increase in the third and fourth (highest) quartile. These
+associations were consistent across different strata of known or
+potential risk factors for ovarian cancer. However, the relation-
+ship between GI and epithelial ovarian cancer in our study was
+somewhat  stronger  in  post-  compared  with  premenopausal
+women, and in women without a family history and in parae.
+
+Diets with high GI or GL are associated with a high consump-
+tion of refined carbohydrates, which are quickly absorbed and are
+capable of elevating blood glucose and insulin level to a greater
+
+extent  than  slowly  absorbed  ones,  such  as  pulses  and  whole
+grains, which are low GI foods [20]. The main sources of carbo-
+hydrates in the Italian population are bread, a high GI food, and
+pasta, a medium-low GI food, representing 20.5% and 13.4% of
+total carbohydrate intake, respectively [13].
+
+High insulin levels have been suggested as a potential unifying
+mechanism  for  the  risk  of  several  Western  chronic  diseases
+related to high intakes of energy, fat, refined carbohydrates, and
+low physical activity and obesity [15]. Central obesity (i.e. high
+W/H ratio) was associated with ovarian cancer risk in this study
+[21]. Diabetes, which is characterized by high insulin levels in its
+early stages,  was considered  as a possible correlate of ovarian
+cancer risk. However, in line with other studies [22, 23] a history
+of diabetes was not found to consistently affect ovarian cancer
+
+risk in the present study. This could, however, have resulted from
+the small absolute number of diabetic subjects (∼4%).
+
+Insulin  is  a  growth  factor  for  cancer  cells,  and  it  has  been
+shown to act as a cancer promoter in in vitro and in animal studies
+[15, 24]. Insulin also has affinity for IGF receptors, particularly
+the IGF-1 receptor, which has strong mitogenic effects on normal
+and  neoplastic  cells,  including  ovarian  carcinoma  cell  lines,
+where it has been found at higher levels than in non-malignant
+cells [25]. Epidemiological evidence suggests a promoting effect
+of hyperinsulinemia [15] and of IGF-1 in carcinogenesis [25].
+
+Insulin and IGF-1 are also powerful negative regulators of sex
+hormone-binding globulin (SHBG) synthesis in vitro, and they
+may stimulate ovarian cancer proliferation through a hormonal
+pathway  [26].  An  interaction  between  insulin,  IGFs  and  sex
+hormones has also been suggested for breast cancer [27].
+
+As in most case–control studies, recall and selection biases are
+possible [18]. However, awareness about any dietary hypotheses,
+and particularly those related to GI and GL, for ovarian cancer was
+limited in the Italian population when the study was conducted.
+While  it  is  conceivable  that  dietary  habits  of  hospital  controls
+may  have  differed  from  those  of  the  general  population,  great
+attention was paid in this study to minimize bias by excluding
+control  subjects  admitted  for  conditions  that  might  have  been
+associated with special dietary habits. Of greater concern is the
+early  weight  loss  often  occurring  in  ovarian  cancer  patients,
+which may have led cases to increase their energy and, hence,
+carbohydrate  intake  [21].  We  had,  however,  information  on
+weight loss during the year prior to cancer diagnosis or interview.
+Stratification and adjustment for weight or recent weight loss did
+not  modify  the  association  with  GI  and  GL.  Interviewing  all
+subjects in a hospital setting may have allowed greater compar-
+ability of  dietary history  between  cases  and  controls [28],  and
+adjustment  for  total  energy  intake  should  have  controlled  for
+potential dietary over- and under-reporting. Furthermore, parti-
+cipation among eligible patients was practically complete and the
+catchment areas for cases and controls were highly comparable.
+GI estimates have some limitations. Some GI estimates have
+been derived from small samples and their variability is unclear
+[13]. Statistics on the average dietary GI and GL in the general
+Italian population are not available, but intakes of bread and pasta
+in the present study were similar to those reported in the Italian
+population  [29].  In  addition,  it  would  be  important  to  confirm
+the association between GI, GL and ovarian cancer in different
+populations, since the genotype for insulin resistance may vary
+between ethnic groups [30].
+
+The major strength of this study is its uniquely large dataset,
+which allowed reasonably precise risk estimates. Other strengths
+include consistency of findings, when major categories of con-
+trols were used separately, and its reliance on a validated food
+frequency questionnaire [16, 17].
+
+In conclusion, this study found associations between dietary
+GI, GL and ovarian cancer risk, thus supporting a possible role of
+insulin  and  insulin-related  factors  in  ovarian  carcinogenesis.
+Similar associations were observed for colorectal [13] and breast
+[14]  cancer,  indicating  the  potential  role  of  these  factors  on
+several common neoplasms.
+
+83
+
+Acknowledgements
+
+This work was supported by the contribution of the Italian Association for
+Research on Cancer, and the Italian League Against Cancer, Milan, Italy. The
+authors wish to thank Mrs Luigina Mei for editorial assistance.
+
+References
+
+1. World Cancer Research Fund in Association with the American Institute
+for  Cancer  Research.  Food,  nutrition  and  the  prevention  of  cancer,  a
+global  perspective.  Washington,  DC:  World  Cancer  Research  Fund
+1997.
+
+2. Kushi  LH,  Mink  PJ,  Folsom  AR  et  al.  Prospective  study  of  diet  and
+
+ovarian cancer. Am J Epidemiol 1999; 149: 21–31.
+
+3. Engle  A,  Muscat  JE,  Harris  RE.  Nutritional  risk  factors  and  ovarian
+
+cancer. Nutr Cancer 1991; 15: 239–247.
+
+4. Shu XO, Gao YT, Yuan JM et al. Dietary factors and epithelial ovarian
+
+cancer. Br J Cancer 1989; 59: 92–96.
+
+5. Bosetti C, Negri E, Franceschi S et al. Diet and ovarian cancer risk: a
+
+case–control study in Italy. Int J Cancer 2001; 93: 911–915.
+
+6. Cramer  DW,  Welch  WR,  Hutchison  GB  et  al.  Dietary  animal  fat  in
+
+relation to ovarian cancer risk. Obstet Gynecol 1984; 63: 833–838.
+
+7. Byers  T, Marshall  J,  Graham  S  et  al.  A  case–control  study  of  dietary
+and non-dietary factors in ovarian cancer. J Natl Cancer Inst 1993; 71:
+681–686.
+
+8. Bidoli E, La Vecchia C, Montella M et al. Nutrient intake and ovarian
+cancer: an Italian case–control study. Cancer Causes Control 2002; 13:
+255–261.
+
+9. Jenkins DJA, Wolever TMS, Taylor RH et al. Glycemic index of foods: a
+physiological basis for carbohydrate exchange. Am J Clin Nutr 1981; 34:
+362–366.
+
+10. Stoll BA. Western nutrition and the insulin resistance syndrome: a link to
+
+breast cancer. Eur J Clin Nutr 1999; 53: 83–87.
+
+11. Salmeron J, Manson JE, Stampfer MJ et al. Dietary fibre, glycemic load,
+and risk of non-insulin-dependent diabetes mellitus in women. JAMA
+1997; 277: 472–477.
+
+12. Liu S, Willett WC, Stampfer MJ et al. A prospective study of dietary
+glycemic load, carbohydrate intake, and risk of coronary heart disease in
+US women. Am J Clin Nutr 2000; 71: 1455–1461.
+
+13. Franceschi S, Dal Maso L, Augustin L et al. Dietary glycemic load and
+
+colorectal cancer risk. Ann Oncol 2001; 12: 173–178.
+
+14. Augustin LS, Dal Maso L, Franceschi S et al. Dietary glycemic index and
+glycemic load and breast cancer risk: a case–control study. Ann Oncol
+2001; 12: 1533–1538.
+
+15. Giovannucci E. Insulin and colon cancer. Cancer Causes Control 1995;
+
+6: 164–179.
+
+16. Franceschi S, Barbone F, Negri E et al. Reproducibility of an Italian food
+frequency questionnaire for cancer studies. Results for specific nutrients.
+Ann Epidemiol 1995; 5: 69–75.
+
+17. Decarli  A,  Franceschi  S,  Ferraroni  M  et  al.  Validation  of  a  food-
+frequency  questionnaire  to  assess  dietary  intakes  in  cancer  studies  in
+Italy. Results for specific nutrients. Ann Epidemiol 1996; 6: 110–118.
+
+18. Breslow NE, Day NE. Statistical methods in cancer research. Vol. I. The
+analysis of case–control studies. IARC Scientific Publications No. 32.
+Lyon: International Agency for Research on Cancer 1980.
+
+19. Risch HA, Marrett LD, Jain M, Howe GR. Differences in risk factors for
+epithelial ovarian  cancer by  histologic type. Results of a  case–control
+study. Am J Epidemiol 1996; 144: 363–372.
+
+20. Jenkins  DJ,  Wolever  TM,  Jenkins  AL.  Starchy  foods  and  glycemic
+
+index. Diabetes Care 1988; 11: 149–159.
+
+84
+
+21. Dal Maso L, Franceschi S, Negri E et al. Body size indices at different
+ages and epithelial ovarian cancer risk. Eur J Cancer 2002; 38: 1769–
+1774.
+
+22. Parazzini  F,  Moroni  S,  La  Vecchia  C  et  al.  Ovarian  cancer  risk  and
+history of selected medical conditions linked with female hormones. Eur
+J Cancer 1997; 33: 1634–1637.
+
+23. Adler AI, Wiss NS, Kamb ML, Lyon JL. Is diabetes mellitus a risk factor
+for  ovarian  cancer?  A  case–control  study  in  Utah  and  Washington
+(United States). Cancer Causes Control 1996; 7: 475–478.
+
+24. Tran TT, Medline A, Bruce WR. Insulin promotion of colon tumors in
+
+rats. Cancer Epidemiol Biomarkers Prev 1996; 5: 1013–1015.
+
+25. Yu  H,  Rohan  T.  Role  of  insulin-like  growth  factor  family  in  cancer
+development and progression. J Natl Cancer Inst 2000; 92: 1472–1489.
+
+26. Risch  HA.  Hormonal  etiology  of  epithelial  ovarian  cancer,  with  a
+hypothesis  concerning  the  role  of  androgens  and  progesterone.  J  Natl
+Cancer Inst 1998; 90: 1774–1786.
+
+27. Yee D, Lee AV. Crosstalk between the insulin-like growth factors and
+estrogens in breast cancer. J Mammary Gland Biol Neoplasia 2000; 5:
+107–115.
+
+28. D’Avanzo B, La Vecchia C, Katsouyanni K et al. An assessment, and
+reproducibility of food frequency data provided by hospital controls. Eur
+J Cancer Prev 1997; 6: 288–293.
+
+29. Turrini A, Leclercq C, D’Amicis A. Patterns of food and nutrient intakes
+in Italy and their application to the development of food-based dietary
+guidelines. Br J Nutr 1999; 81 (Suppl 2): S83–S89.
+
+30. Kasim-Karakas SE. Ethnic differences in the insulin resistance syndrome.
+
+Am J Clin Nutr 2000; 71: 670–671.
+
+

@@ -1,0 +1,844 @@
+Nutrient Interactions and Toxicity—Research Communication
+
+Soybean Isoﬂavones Reduce
+Experimental Metastasis in Mice1,2
+
+Manuscript received 5 November 1998. Initial review complete 11
+December 1998. Revision accepted 1 February 1999.
+
+Donghua Li, John A. Yee, Michael H. McGuire,*
+Patricia A. Murphy† and Lin Yan3
+Department of Biomedical Sciences, Creighton University School
+of Medicine, Omaha, NE 68178, *Department of Surgery,
+Creighton University School of Medicine, Omaha, NE 68131 and
+†Department of Food Science and Human Nutrition, Iowa State
+University, Ames, IA 50011
+
+ABSTRACT We investigated the effect of dietary supple-
+mentation with isoﬂavones on pulmonary metastasis of
+B16BL6 murine melanoma cells in C57BL/6 mice. Mice were
+fed a basal AIN-93G diet or the basal diet supplemented with
+the isoﬂavones genistein and daidzein at 113 ␮mol/kg, 225
+␮mol/kg, 450 ␮mol/kg, or 900 ␮mol/kg for 2 wk before and
+after the intravenous injection of 0.5 x 105 melanoma cells. At
+necropsy, the number and size of tumors that formed in the
+lungs were determined. The number of mice that had >15
+lung tumors was 17 in the control group, and 16, 15, 13, and 10
+in the groups fed isoﬂavones at 113 ␮mol/kg, 225 ␮mol/kg,
+450 ␮mol/kg and 900 ␮mol/kg, respectively. The latter two
+were signiﬁcantly different from the control (P ≤ 0.05). The
+median number of tumors in the control group was 67, and
+those in the isoﬂavone-supplemented groups were 57, 33, 32,
+and 17, respectively. The last was signiﬁcantly different from
+the control (P ≤ 0.05). Dietary supplementation with isoﬂa-
+vones at 225 ␮mol/kg, 450 ␮mol/kg, and 900 ␮mol/kg also
+signiﬁcantly decreased tumor size (median cross-sectional
+area and volume) compared to the control values. We con-
+clude that dietary supplementation with isoﬂavones reduces
+experimental metastasis of melanoma cells in mice. J. Nutr.
+129: 1075–1078, 1999.
+
+KEY WORDS:
+● metastasis
+
+● mice ● genistein ● daidzein ● melanoma
+
+Epidemiologic studies suggest that consumption of foods that
+are high in soybean-based products is associated with a reduced
+risk of breast (Lee et al. 1991), prostate (Severson et al. 1989),
+uterine (Goodman et al. 1997), and gastric cancers (Nagai et al.
+1982) in humans. Dietary supplementation with soybean protein
+isolate (SPI)4 (Hawrylewicz et al. 1991) or soybean chips (Barnes
+et al. 1990) reduces mammary carcinogenesis in female rats.
+Adding autoclaved raw soybean to the diet of male mice inhibits
+carcinogenicity of N-nitroso compounds in the liver and urinary
+
+1 Presented in part at Experimental Biology 98, April 21, 1998, San Francisco,
+CA. [Yan, L., Yee, J. A., Li, D. & McGuire, M. H. (1998) Effect of dietary supple-
+mentation of isoﬂavones on pulmonary metastasis of melanoma cells in mice.
+FASEB J. 12: A829 (abs.)].
+
+2 This work was supported by the State of Nebraska Cancer and Smoking-Related
+
+Disease Research Program (Grant No. 98–51) and by Hazel Berve Trust Fund.
+
+3 To whom correspondence should be addressed.
+4 Abbreviations used: SPI, soybean protein isolate.
+
+bladder (Mokhtar et al. 1988). These protective effects are asso-
+ciated with soy isoﬂavones, e.g. genistein and daidzein. Long-term
+intraperitoneal administration of genistein and daidzein to young
+rats (Constantinou et al. 1996) and subcutaneous injection of
+genistein to neonatal rats (Lamartiniere et al. 1995) reduce the
+development of mammary carcinoma after exposure of the ani-
+mals to carcinogens. Other studies showed that soy-derived prod-
+ucts have no effect on tumorigenesis in some animal models
+(Reddy et al. 1976).
+
+Soybean is a rich source of dietary isoﬂavones (Murphy 1982).
+Isoﬂavones exist in soybean primarily as conjugated glycosides.
+Following ingestion, they are hydrolyzed to aglycones by glycosi-
+dases produced by intestinal bacteria. The conjugates genistin,
+daidzin, and glycitin and their aglycones, genistein, daidzein, and
+glycitein constitute 90–95% of the total soy isoﬂavones (Murphy
+1982). It appears that the unconjugated aglycones are associated
+with many biological properties of isoﬂavones that may be re-
+sponsible for their anticancer activities. These include antiestro-
+genic activity (Folman and Pope 1966), inhibition of protein
+tyrosine kinases (Akiyama et al. 1987), regulation of cell cycle
+progression and apoptosis (Kroemer et al. 1995), and antiangio-
+genic activity (Fotsis et al. 1993).
+
+Metastasis, the spread of malignant cells from a primary neo-
+plasm to distant organs that results in the development of sec-
+ondary tumors, is the most devastating aspect of cancer. Ad-
+vances in surgical techniques and adjuvant therapies have proven
+useful in the treatment of primary tumors. However, metastasis
+remains a major cause of poor prognosis and death in cancer
+patients. We recently reported that dietary supplementation with
+SPI reduces pulmonary metastasis of murine melanoma cells in
+mice (Yan et al. 1997). Connolly et al. (1997) reported that
+soybean chips inhibit metastasis of human mammary carcinoma
+cells in athymic nude mice. These studies suggest that dietary
+soybean is useful in preventing the spread of malignant cells.
+
+The objective of the present study was to determine whether
+isoﬂavones present in SPI reduce metastasis. To accomplish this,
+the effect of dietary supplementation with isoﬂavones genistein
+and daidzein on pulmonary metastasis of melanoma cells was
+investigated using an intravenous injection model.
+
+MATERIALS AND METHODS
+
+Animals and diets. The protocol of the present study was re-
+viewed and approved by the Creighton University Animal Care and
+Use Committee and complied with the Guide for the Care and Use
+of Laboratory Animals (National Research Council 1985). Three-
+week-old male C57BL/6 mice were purchased from Charles River
+(Wilmington, MA). Mice were housed ﬁve per box, in wire-topped
+plastic boxes, in a pathogen-free room on a 12:12-h light-dark cycle.
+The temperature in the room was maintained at 25 ⫾ 1°C. Mice were
+given free access to the diet and deionized water and weighed weekly.
+Five diets were compared: a basal diet and the basal diet supple-
+mented with genistein and daidzein (Lancaster, Windham, NH) at
+113, 225, 450, or 900 ␮mol/kg, which was equivalent to that provided
+in the diet containing 2.5, 5, 10 or 20% SPI, respectively (Yan et al.
+1997). The concentration of genistein in isoﬂavone-supplemented
+diets was 83.3, 166.7, 333.3, and 666.7 ␮mol/kg, respectively, and the
+concentration of daidzein was 29.5, 59.1, 118.1, and 236.2 ␮mol/kg,
+respectively. Glycitein was omitted from the supplementation be-
+cause it was not commercially available. Dietary formulations were
+
+0022-3166/99 $3.00 © 1999 American Society for Nutritional Sciences.
+
+1075
+
+Downloaded from https://academic.oup.com/jn/article-abstract/129/5/1075/4721937
+by University of Ottawa user
+on 11 June 2018
+
+1076
+
+LI ET AL.
+
+TABLE 1
+
+Isoﬂavone intake and urinary isoﬂavone excretion in mice fed the control and isoﬂavone-supplemented diets
+
+Urinary Excretion2
+
+Group
+
+Isoﬂavone Intake1
+
+Genistein
+
+Daidzein
+
+Equol
+
+ODMA3
+
+Total Excretion
+
+␮mol/(mouse 䡠 d)
+
+nmol/(mouse 䡠 d)
+
+Control
+Isoﬂavones
+
+113 ␮mol/kg
+225 ␮mol/kg
+450 ␮mol/kg
+900 ␮mol/kg
+
+0
+
+0.3
+0.6
+1.2
+2.4
+
+0
+
+3.9
+13.3
+22.2
+51.1
+
+0
+
+14.2
+21.3
+24.6
+44.5
+
+0
+
+0
+0
+11.7
+27.5
+
+0
+
+2.6
+2.7
+4.7
+5.2
+
+0
+
+20.7
+37.3
+63.3
+128.3
+
+1 The isoﬂavone intake was calculated on the basis of dietary isoﬂavone concentrations and the mean food intake of all mice (2.6 ⫾ 0.6 g/d; n ⫽ 30).
+2 Urine samples collected from 6 mice in each group during the 1 wk metabolic study before tumor cell injection were pooled and analyzed for
+
+isoﬂavones.
+
+3 O-desmethylangolensin.
+
+based on the AIN-93G standard diet (Reeves et al. 1993), except that
+soybean oil was replaced with corn oil. Diet components were pur-
+chased from ICN (Costa Mesa, CA). All diets were prepared in our
+laboratory, and each lot was stored at 4°C for no longer than 3 wk.
+Experimental design. Ninety mice were fed the basal diet for 2 d
+before being assigned to ﬁve groups of 18 each. They were then fed
+the basal diet or one of the isoﬂavone-supplemented diets. B16BL6
+murine melanoma cells (Dr. I. J. Fidler, University of Texas, Houston,
+TX) were cultured in minimum essential medium with 10% heat-
+inactivated fetal bovine serum as described previously (Yan et al.
+1997). The melanoma cells were collected from monolayer cultures
+by a brief trypsinization (0.05% trypsin and 0.53 mmol/L EDTA).
+The viability of the cells was determined with trypan blue, and a
+single cell suspension was made in serum-free medium. After 2 wk
+consuming the diets, each mouse was injected via the lateral tail vein
+with 0.5 x 105 viable cells in 0.2 mL. To avoid possible changes in cell
+viability, melanoma cells were injected into mice within 30 min after
+their collection. The order that tumor cells were injected into mice
+from different dietary groups was randomized. The mice were then fed
+the diets for another 2 wk. One wk before tumor cell injection, six
+mice from each group were transferred to metabolic cages, and their
+food intake was recorded over 7 d. Urine collected from each group
+(n ⫽ 6) throughout this week was pooled and analyzed for isoﬂavones
+(Xu et al. 1994). Isoﬂavone intake was calculated on the basis of food
+intake and the dietary concentration of isoﬂavones.
+
+At the end of the experiment, mice were anesthetized using
+ketamine (50 mg/kg body weight) and xylazine (5 mg/kg body
+weight) and then killed by cervical dislocation. Their lungs were
+excised and ﬁxed in 10% phosphate-buffered formalin. The number
+of pulmonary tumors was determined by counting visible black foci by
+using a dissecting microscope (Yan et al. 1997). The cross-sectional
+area of tumors in randomly selected ﬁelds was measured using a
+Quantimet 500 image analysis system (Leica Cambridge, Cambridge,
+UK). Tumor volume was calculated using the mean of the longest and
+the shortest diameters measured and the assumption that tumors were
+spherical (Welch et al. 1983).
+
+Statistical analysis. Fisher’s exact test (Steel and Torrie 1980) was
+used to analyze the frequency distribution of the mice that had 1–15
+tumors or ⬎15 tumors. Bartlett’s test (Bartlett, 1937) for homogeneity of
+variances revealed that standard deviations for the mean values of the
+number of tumors, tumor cross-sectional area, and tumor volume differed
+signiﬁcantly among the groups (P ⱕ 0.05). Because ANOVA can only
+be used to compare the means of populations with homogeneous vari-
+ances, the results were analyzed using the Kruskal-Wallis nonparametric
+and Dunn’s multiple comparison tests (Kruskal and Wallis 1952). The
+data were analyzed using the statistic program Instat 2.01 for Macintosh.
+Differences were considered signiﬁcant at P ⱕ 0.05.
+
+intake was recorded. The overall body weight of mice at the
+beginning and at the end of the experiment was 14 ⫾ 1 g and
+24 ⫾ 1 g, respectively. There was no difference in body weight
+among the groups throughout the experiment (data not
+shown). The mean food intake of all mice (n ⫽ 30) was 2.6
+⫾ 0.6 g/d. There were no differences in food intakes among
+the groups (data not shown). The daily isoﬂavone intakes for
+each group are shown in Table 1. There were no measurable
+isoﬂavones in urine from mice fed the basal diet. The urinary
+excretion of isoﬂavones (a sum of genistein, daidzein, and
+daidzein metabolites equol and O-desmethylangolensin) was
+increased in a dose-dependant manner in mice fed the diet
+containing isoﬂavones at 113, 225, 450 or 900 ␮mol/kg (Table
+1). One mouse from the control group and one from the 900
+␮mol isoﬂavones/kg group were excluded from the experiment
+because their growth was signiﬁcantly less than all other mice.
+Injection of 0.5 x 105 viable melanoma cells into the lateral
+tail vein resulted in lung metastasis in all the mice fed the
+control diet (Table 2). Based on the number of lung tumors
+per mouse, the mice were placed into one of the two catego-
+ries: 1) 1–15 tumors and 2) ⬎15 tumors. In the control group,
+all mice had ⬎15 lung tumors (Table 2). By contrast, 89, 83,
+72, and 59% of the mice in groups fed the diets containing
+isoﬂavones at 113, 225, 450, and 900 ␮mol/kg, respectively,
+had ⬎15 tumors. The latter two were signiﬁcantly different
+from the control (P ⱕ 0.05). The median number of lung
+tumors in the control group was 67. The median number of
+lung tumors reduced in the 900 ␮mol/kg isoﬂavone/kg group
+compared to the control (P ⱕ 0.05). The mean number of lung
+tumors in mice fed the isoﬂavone-supplemented diets de-
+creased relative to the control in a dose-dependent manner.
+To determine the effect of isoﬂavones on the growth of
+metastatic tumors, tumor cross-sectional area and volume were
+determined. The median cross-sectional area was 0.55 mm2,
+and median volume was 0.21 mm3 in mice fed the basal diet
+(Table 3). Dietary supplementation with isoﬂavones decreased
+both variables in a dose-dependent manner. The difference in
+tumor cross-sectional area and volume between the control
+and the groups supplemented with isoﬂavones at 225, 450, or
+900 ␮mol/kg was signiﬁcant (P ⱕ 0.01).
+
+DISCUSSION
+
+RESULTS
+
+To determine the effect of dietary supplementation with
+isoﬂavones on growth, mice were weighed weekly, and food
+
+We reported that dietary supplementation with SPI reduces
+experimental metastasis (Yan et al. 1997). Results of the
+present study demonstrate that dietary supplementation with
+
+Downloaded from https://academic.oup.com/jn/article-abstract/129/5/1075/4721937
+by University of Ottawa user
+on 11 June 2018
+
+ISOFLAVONES AND METASTASIS
+
+1077
+
+TABLE 2
+
+Effect of dietary supplementation of isoﬂavones on pulmonary metastasis of melanoma cells in mice
+
+Group
+
+Control
+Isoﬂavones
+
+113 ␮mol/kg
+225 ␮mol/kg
+450 ␮mol/kg
+900 ␮mol/kg
+
+n
+
+17
+
+18
+18
+18
+17
+
+Mice with lung tumors
+
+Tumors/mouse
+
+1–15 Tumors
+
+⬎15 Tumors1
+
+Median2
+
+Mean ⫾ SEM3
+
+0
+
+2
+3
+5
+7
+
+17
+
+16
+15
+13*
+10**
+
+67
+
+57
+33
+32
+17*
+
+67 ⫾ 8
+
+71 ⫾ 11
+50 ⫾ 12
+45 ⫾ 11
+29 ⫾ 6
+
+Range
+
+19–110
+
+4–167
+5–201
+3–157
+4–81
+
+1 Signiﬁcantly different from control, *P ⱕ 0.05 and **P ⱕ 0.01. Data were analyzed using Fisher’s exact test.
+2 Signiﬁcantly different from the control, *P ⱕ 0.05. Data were analyzed using the Kruskal-Wallis nonparametric and Dunn’s multiple comparison tests.
+3 Because of the heterogenous variances among sample populations, the mean values were not compared by ANOVA.
+
+isoﬂavones at concentrations equivalent to that provided in
+the SPI diets decreased the number of lung tumors and the
+tumor cross-sectional area and volume compared to the con-
+trols. The dietary isoﬂavone content was positively correlated
+with both the urinary isoﬂavone concentration and the mag-
+nitude of the inhibitory effect on metastasis. Dietary supple-
+mentation with isoﬂavones up to 900 ␮mol/kg had no adverse
+effect on the growth of mice during the experimental period.
+These results indicate that isoﬂavones effectively reduced pul-
+monary metastasis of melanoma cells and also retarded the
+growth of those tumors that developed in the lungs.
+
+The observations from this study provide the ﬁrst evidence
+that dietary supplementation with isoﬂavones reduces experimen-
+tal metastasis. This is supported by the ﬁndings that oral admin-
+istration of genistein inhibits lung metastasis of melanoma cells
+intravenously injected into mice (Menon et al. 1998). Interest-
+ingly, they found that daidzein was ineffective in reducing me-
+tastasis. In the present study, the effect of dietary supplementation
+with either genistein or daidzein alone was not tested. However,
+the concentration of genistein in the experimental diets was
+threefold greater than that of daidzein. Thus, the protective effect
+of dietary isoﬂavones on experimental metastasis may be largely
+attributed to genistein. Whether daidzein is without an effect is
+difﬁcult to conclude from the currently available data. In the
+study described by Menon et al. (1998), injection of 1 x 106
+melanoma cells into mice led to the development of uncountable
+massive lung tumors in control and daidzein-treated animals.
+Thus, they were unable to determine whether or not daidzein was
+effective in reducing metastasis.
+
+At present, the mechanism whereby dietary soybean or isoﬂa-
+
+vones reduces metastasis remains unknown. The experimental
+metastasis model employed in the present study measured the
+extravasation of melanoma cells from the cardiovascular system
+into the interstitum of the lungs. This requires invasion of the
+subendothelial basement membrane. Genistein inhibits the in-
+vasion of extracellular matrix by BALB/c mammary carcinoma
+cells in vitro (Scholar and Toews 1994). This may be due to an
+effect of genistein on cell adhesion to the extracellular matrix.
+Genistein is a potent inhibitor of protein tyrosine kinases
+(Akiyama et al. 1987). Protein tyrosine kinases phosphorylate
+tyrosine residues on proteins that participate in signal transduc-
+tion events, including integrin-mediated cell adhesion (Hynes
+1992). It was shown that genistein inhibits epithelial growth
+factor-stimulated integrin expression by human breast cancer
+(Narita et al. 1996) and esophageal cancer cells (Sato et al.
+1996). Furthermore, genistein inhibits integrin-mediated cell ad-
+hesion by lymphoma cells (Weimar et al. 1997) and arterial
+smooth muscle cells (Hedin et al. 1997). These observations
+suggest that isoﬂavones could reduce metastasis by affecting cell
+adhesion. A second possibility is by reducing protease activity.
+Genistein inhibits the secretion of urokinase-type plasminogen
+activator and metalloproteinase by LM3 murine mammary tumor
+cells (Aguirre Ghiso et al. 1998). These effects were also attrib-
+uted to the inhibition of protein tyrosine kinases. It should be
+noted that in these studies genistein was used as a pharmacolog-
+ical tool to study signal transduction events rather than as a
+dietary component. The high concentrations employed are be-
+yond the level that is achievable in animals consuming a soy-
+containing diet. Thus, exposure of cultured cells to isoﬂavones in
+vitro is not comparable to providing animals with soybean- or
+
+TABLE 3
+
+Effect of dietary supplementation of isoﬂavones on tumor cross-sectional area and volume of metastatic tumors that
+
+developed in the lungs of mice
+
+Tumor cross-sectional area, mm2
+
+Tumor volume, mm3
+
+Group
+
+Mice, n
+
+Tumors, n
+
+Median1
+
+Mean ⫾ SEM2
+
+Median1
+
+Mean ⫾ SEM2
+
+Control
+Isoﬂavones
+
+113 ␮mol/kg
+225 ␮mol/kg
+450 ␮mol/kg
+900 ␮mol/kg
+
+17
+
+18
+18
+18
+17
+
+139
+
+139
+139
+139
+139
+
+0.55
+
+0.52
+0.36**
+0.32**
+0.16**
+
+0.65 ⫾ 0.03
+
+0.61 ⫾ 0.03
+0.49 ⫾ 0.03
+0.41 ⫾ 0.03
+0.26 ⫾ 0.03
+
+0.21
+
+0.19
+0.10**
+0.09**
+0.03**
+
+0.28 ⫾ 0.02
+
+0.25 ⫾ 0.02
+0.19 ⫾ 0.02
+0.15 ⫾ 0.01
+0.08 ⫾ 0.01
+
+1 Signiﬁcantly different from the control, **P ⱕ 0.01. Data were analyzed using the Kruskal-Wallis nonparametric and Dunn’s multiple comparison tests.
+2 Because of the heterogenous variances among sample populations, the mean values were not compared by ANOVA.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/129/5/1075/4721937
+by University of Ottawa user
+on 11 June 2018
+
+1078
+
+LI ET AL.
+
+isoﬂavone-supplemented diets. Therefore, caution should be
+taken when data from in vitro experiments are used to explain a
+dietary effect of soybean or isoﬂavones in animal studies.
+
+The results of the present study demonstrate that tumor cross-
+sectional area and volume of mice fed the isoﬂavone diets were
+signiﬁcantly reduced compared to those of mice fed the basal diet.
+A decrease in tumor size could be due to prolonged retention of
+tumor cells in the circulatory system or an inhibition of malignant
+cell proliferation after they take up residence in the lungs. Most
+circulating B16 melanoma cells rapidly die following their intra-
+venous injection (Fidler 1970). Approximately 1% of the cells
+survive for 24 h, and one tenth of them form tumor colonies in
+the lungs. Therefore, it is unlikely that retention in the circula-
+tion explains the difference in tumor size between the control and
+the isoﬂavone-supplemented groups. Rather, it is more likely that
+this difference is due to the inhibition of mitosis of malignant
+cells in the lungs. Investigations in our laboratory designed to
+determine the effect of dietary isoﬂavones on cell proliferation
+and angiogenesis during the formation of metastatic tumor will
+clarify this possibility.
+
+Comparing results of the present study with our previous
+report on dietary SPI and experimental metastasis (Yan et al.
+1997), it appears that SPI is more effective in reducing the
+number of lung tumors than the isoﬂavone-equivalent diets.
+Soybean contains several potential anticancer components
+other than isoﬂavones, e. g., protease inhibitors (Kennedy
+1993) and saponins (Koratkar and Rao 1997). Although these
+agents are largely eliminated during the preparation of the SPI,
+trace amounts may exist. The SPI also contains phytate that
+has been shown to have a tumor-attenuating action in some
+animal models (Shamsuddin et al. 1988). Finally, glycitein,
+which was present in the SPI employed in our previous study
+(Yan et al. 1997), was not supplemented in the diet in the
+present study. Thus, these variations could contribute, at least
+in part, to the differences observed in these two studies.
+
+In summary, results of the present study demonstrate that
+dietary supplementation with isoﬂavones reduced experimen-
+tal metastasis of melanoma cells in mice and also inhibited the
+growth of metastatic tumors that developed in the lungs. We
+conclude that isoﬂavones are responsible, at least in part, for
+the protective effect of dietary soybean on experimental me-
+tastasis of melanoma cells in mice.
+
+ACKNOWLEDGMENTS
+
+The authors thank Vivian W. Huang and Mai-Linh Frascarelli,
+undergraduate students at Creighton University, for participating in
+this research project.
+
+LITERATURE CITED
+
+Aguirre Ghiso, J. A., Farias, E. F., Alonso, D. F. & Bal de Kier Joffe,
+E.
+(1998) Secretion of urokinase and metalloproteinase-9 induced by stau-
+rosporine is dependent on a tyrosine kinase pathway in mammary tumor cells.
+Int. J. Cancer 76: 362–367.
+
+Akiyama, T., Ishida, J., Nakagawa, S., Ogawara, H., Watanabe, S., Itoh, N. M.,
+(1987) Genistein, a speciﬁc inhibitor of tyrosine-
+
+Shibuya, M. & Fukami, Y.
+speciﬁc protein kinases. J. Biol. Chem. 262: 5592–5595.
+
+Barnes, S., Grubbs, C., Setchell, K.D.R. & Carlson, J.
+
+(1990) Soybeans inhibit
+mammary tumors in models of breast cancer. In: Mutagens and Carcinogens
+in the Diet, (Pariza, M., ed.), pp. 239 –253. Wiley-Liss, New York, NY.
+
+Bartlett, M. S.
+
+(1937) Properties of sufﬁciency and statistical tests. Proc. Roy.
+
+Soc. A160: 268 –282.
+
+Connolly, J. M., Liu, X. H. & Rose, D. P.
+
+(1997) Effects of dietary menhaden oil,
+soy, and a cyclooxygenase inhibitor on human breast cancer cell growth and
+metastasis in nude mice. Nutr. Cancer 29: 48 –54.
+
+Constantinou, A. I., Mehta, R. G. & Vaughan, A.
+
+Inhibition of N-methyl-
+N-nitrosourea-induced mammary tumors in rats by the soybean isoﬂavones.
+Anticancer Res. 16: 3293–3298.
+
+(1996)
+
+Fidler, I. J.
+
+(1970) Metastasis: Quantitative analysis of distribution and fate of
+tumor emboli labeled with 125I-5-iodo-2⬘-deoxyuridine. J. Natl. Cancer Inst.
+45: 773–782.
+
+Folman, Y. & Pope, G. S.
+
+(1966) The interaction in the immature mouse of
+potent estrogen with coumesterol, genistein and other utero-vaginotrophic
+compounds of lower potency. J. Endocrinol. 34: 215–225.
+
+Fotsis, T., Pepper, M., Adlercreutz, H., Fleischmann, G., Hase, T., Montesano, R.
+(1993) Genistein, a dietary-derived inhibitor of in vitro
+
+& Schweigerer, L.
+angiogenesis. Proc. Natl. Acad. Sci. USA 90: 2690 –2694.
+
+Goodman, M. T., Wilkens, L. R., Hankin, J. H., Lyu, L. C., Wu, A. H. & Kolonel,
+(1997) Association of soy and ﬁber consumption with the risk of
+
+L. N.
+endometrial cancer. Am. J. Epidemiol. 146: 294 –306.
+
+Hawrylewicz, E. J., Huang, H. H. & Blair, W. H.
+
+(1991) Dietary soybean isolate
+and methionine supplementation affect mammary tumor progression in rats.
+J. Nutr. 121: 1693–1698.
+
+Hedin, U., Thyberg, J., Roy, J., Dumitrescu, A. & Tran, P. K.
+
+(1997) Role of tyrosine
+kinases in extracellular matrix-mediated modulation of arterial smooth muscle
+cell phenotype. Arterioscler. Thromb. Vasc. Biol. 17: 1977–1984.
+
+Hynes, R. O.
+
+(1992)
+
+Integrins: Versatility, modulation, and signaling in cell ad-
+
+hesion. Cell 69: 11–25.
+
+Kennedy, A. R.
+
+(1993) Anticarcinogenic effect of protease inhibitors. In: Pro-
+tease Inhibitors as Cancer Chemopreventive Agents, (Troll W. & Kennedy
+A. R., eds.), pp. 65–91. Plenum Publishing, New York, NY.
+
+Koratkar, R. & Rao, A. V.
+
+(1997) Effect of soya bean saponins on azoxymeth-
+ane-induced preneoplastic lesions in the colon of mice. Nutr. Cancer 27:
+206 –209.
+
+Kroemer, G., Petit, P., Zamzami, N., Vayssiere, J. L. & Mignotte, B.
+
+(1995) The
+
+biochemistry of programmed cell death. FASEB J. 9: 1277–1287.
+
+Kruskal, W. H. & Wallis, W. A.
+
+(1952) Use of ranks in one-criterion variance
+
+analysis. J. Am. Statist. Assoc. 47: 583– 621.
+
+Lamartiniere, C. A., Moore, J. B., Brown, N. M., Thompson, R., Hardin, M. J. &
+(1995) Genistein suppresses mammary cancer in rats. Carcino-
+
+Barnes, S.
+genesis 16: 2833–2840.
+
+Lee, H. P., Gourley, L., Duffy, S. W., Esteve, J. & Day, N. E.
+
+(1991) Dietary
+
+effects on breast cancer risk in Singapore. Lancet 337: 1197–1200.
+
+Menon, L. G., Kuttan, R., Nair, M. G., Chang, Y. C. & Kuttan, G.
+
+(1998) Effect of
+isoﬂavones genistein and daidzein in the inhibition of lung metastasis in mice
+induced by B16F-10 melanoma cells. Nutr. Cancer 30: 74 –77.
+
+Mokhtar, N. M., El-Asser, A. A., El-Bolkainy, M. N., Ibrahim, H. A., El-din, N. B. &
+Moharram, N. Z.
+(1988) Effect of soybean feeding on experimental carcino-
+genesis-III. Carcinogenicity of nitrite and dibutylamine in mice: A histopatho-
+logical study. Eur. J. Cancer Clin. Oncol. 24: 403– 411.
+
+Murphy, P. A.
+
+(1982) Phytoestrogen content of processed soybean products.
+
+Food Technol. 36: 60 – 64.
+
+Nagai, M., Hashimoto, T., Yanagawa, H., Yokoyama, H. & Minowa,
+(1982) Relationship of diet to the incidence of esophageal and stomach
+
+M.
+cancer in Japan. Nutr. Cancer 3: 257–268.
+
+Narita, T., Kawakami-Kimura, N., Sato, M., Matsuura, N., Higashiguchi, N. &
+integrins by heparin-binding EGF-like
+
+Kannagi, R.
+growth factor in human breast cancer cells. Oncology 53: 374 –381.
+
+(1996) Alteration of
+
+National Research Council.
+
+(1985) Guide for the Care and Use of Laboratory
+Animals. Publication no. 85–23 (rev.): National Institutes of Health, Washing-
+ton DC.
+
+Reddy, B. S., Narisawa, T. & Weisburger, J. H.
+
+(1976) Effect of a diet with high
+levels of protein and fat on colon carcinogenesis in F344 rats treated with 1,
+2-methyhydrazin. J. Natl. Cancer Inst. 57: 567–569.
+
+Reeves, P. G., Nielsen, F. H. & Fahey, G. C.
+
+(1993) AIN-93 puriﬁed diets for
+laboratory rodents: Final report of the American Institute of Nutrition Ad Hoc
+Writing Committee on the reformulation of the AIN-76A rodent diet. J. Nutr.
+123: 1939 –1951.
+
+Sato, M., Narita, T., Kawakami-Kimura, N., Higashiyama, S., Taniguchi, N.,
+Akiyama, S., Hashimoto, T., Manabe, T. & Kannagi, R.
+Increased
+expression of integrins by heparin-binding EGF-like growth factor in human
+esophageal cancer cells. Cancer Lett. 102: 183–191.
+
+(1996)
+
+Scholar, E. M. & Toews, M. L.
+
+Inhibition of invasion of murine mammary
+carcinoma cells by the tyrosine kinase inhibitor genistein. Cancer Lett. 87:
+159 –162.
+
+(1994)
+
+Severson, R. K., Nomura, A.M.Y., Grove, J. S. & Stemmermann, G. N.
+
+(1989) A
+prospective study of demographics, diet, and prostate cancer among men of
+Japanese ancestry in Hawaii. Cancer Res. 49: 1857–1860.
+
+Shamsuddin, A. M., Elsayed, A. M. & Ullah, A.
+
+(1988) Suppression of large
+intestine cancer in F344 rats by inositol hexaphosphare. Carcinogenesis 9:
+577–580.
+
+Steel, R.G.D. & Torrie, J. H.
+
+(1980) Enumeration data I: One-way classiﬁcations.
+In: Principles and Procedures of Statistics: A Biometric Approach, 2nd ed.,
+pp. 477–532. McGraw-Hill, New York, NY.
+
+Weimar, I. S., de Jong, D., Muller, E. J., Nakamura, T., van Gorp, J.M.H, de Gast,
+G. C. & Gerritsen, W. R.
+(1997) Hepatocyte growth factor/scatter factor
+promotes adhesion of lymphoma cells to extracellular matrix molecules via
+␣4␤1 and ␣5␤1 integrins. Blood 89: 990 –1000.
+
+Welch, D. R., Neri, A. & Nicolson, G. L.
+
+(1983) Comparison of ‘spontaneous’
+and ‘experimental’ metastasis using rat 13762 mammary adenocarcinoma
+metastatic cell clones. Invasion Metastasis 3: 65– 80.
+Xu, X., Wang, H. J., Murphy, P. A., Cook, L. & Hendrich, S.
+
+(1994) Daidzein is a
+more bioavailable soymilk isoﬂavone than is genistein in adult women. J. Nutr.
+124: 825– 832.
+
+Yan, L., Yee, J. A., McGuire, M. H. & Graef, G. A.
+
+(1997) Effect of dietary
+supplementation of soybeans on experimental metastasis of melanoma cells
+in mice. Nutr. Cancer 29: 1– 6.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/129/5/1075/4721937
+by University of Ottawa user
+on 11 June 2018
+
+

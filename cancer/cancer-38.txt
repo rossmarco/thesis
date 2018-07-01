@@ -1,0 +1,1181 @@
+Carcinogenesis vol.30 no.8 pp.1402–1407, 2009
+doi:10.1093/carcin/bgp130
+Advance Access publication June 4, 2009
+
+Effect of processed and red meat on endogenous nitrosation and DNA damage
+
+Annemiek M.C.P.Joosen, Gunter G.C.Kuhnle, Sue
+M.Aspinall, Timothy M.Barrow, Emmanuelle
+Lecommandeur, Amaya Azqueta1, Andrew R.Collins1 and
+Sheila A.Bingham
+
+MRC Dunn Human Nutrition Unit, Wellcome Trust/MRC Building, Hills
+Road, Cambridge CB2 0XY, UK and 1Department of Nutrition, Faculty of
+Medicine, University of Oslo, 0316 Oslo, Norway
+To whom correspondence should be addressed. Tel: þ44 1223 252 762;
+Fax: þ44 1223 252 765;
+Email: amj@mrc-mbu.cam.ac.uk
+
+Haem in red meat (RM) stimulates the endogenous production of
+mutagenic nitroso compounds (NOC). Processed (nitrite-preserved
+red) meat additionally contains high concentrations of preformed
+NOC. In two studies, of a fresh RM versus a vegetarian (VEG) diet
+(six males and six females) and of a nitrite-preserved red meat (PM)
+versus a VEG diet (5 males and 11 females), we investigated
+whether processing of meat might increase colorectal cancer risk
+by stimulating nitrosation and DNA damage. Meat diets contained
+420 g (males) or 366 g (females) meat/per day. Faecal homogenates
+from day 10 onwards were analysed for haem and NOC and asso-
+ciated supernatants for genotoxicity. Means are adjusted for differ-
+ences in male to female ratios between studies. Faecal NOC
+concentrations on VEG diets were low (2.6 and 3.5 mmol/g) but
+signiﬁcantly higher on meat diets (PM 175 ± 19 nmol/g versus RM
+185 ± 22 nmol/g; P 5 0.75). The RM diet resulted in a larger pro-
+portion of nitrosyl iron (RM 78% versus PM 54%; P < 0.0001) and
+less nitrosothiols (RM 12% versus PM 19%; P < 0.01) and other
+NOC (RM 10% versus PM 27%; P < 0.0001). There was no statis-
+tically signiﬁcant difference in DNA breaks induced by faecal water
+(FW) following PM and RM diets (P 5 0.80). However, PM re-
+sulted in higher levels of oxidized pyrimidines (P < 0.05). Surpris-
+ingly, VEG diets resulted in signiﬁcantly more FW-induced DNA
+strand breaks than the meat diets (P < 0.05), which needs to be
+clariﬁed in further studies. Meats cured with nitrite have the same
+effect as fresh RM on endogenous nitrosation but show increased
+FW-induced oxidative DNA damage.
+
+Introduction
+
+Red and processed (nitrite-preserved red) meat (PM) increase the risk
+of colorectal cancer with PM showing higher risk estimates per gram
+of intake than red meat (RM) (1–3). Heterocyclic amines—known
+carcinogens (4)—are formed during cooking of meat at high temper-
+atures, but this is not speciﬁc for red and PM (5).
+
+RM intake shows a dose–response relation with the endogenous
+formation of nitroso compounds (NOC), whereas there is no such
+relation for white meat (6,7). This is probably due to the abundant
+presence of haem in RM (8,9), which can readily become nitrosylated
+and act as a nitrosating agent (10). Recently, we conﬁrmed that nitro-
+syl iron (FeNO) is the main contributor to high RM diet-induced
+
+Abbreviations: CI, conﬁdence interval; EDTA, ethylenediaminetetraacetic acid;
+EndoIII, endonuclease III; FW, faecal water; FeNO, nitrosyl iron; FPG, forma-
+midopyrimidine; MTT, mean transit time; NOC, nitroso compounds; PM, pro-
+cessed (nitrite-preserved red) meat; RM, red meat; RSNO, nitrosothiols; VEG,
+vegetarian.
+
+endogenous formation of NOC (11).
+In addition, nitrosothiols
+(RSNO) are rapidly formed from nitrite and thiol groups at low pH
+in the stomach and can be precursors for the endogenous formation of
+nitrosyl haem and other NOC, such as N- and O-NOC, in the small
+and large bowel (11,12).
+
+Many NOC are known carcinogens and the alkylation of DNA can
+induce G to A transitions in genes mutated in colorectal cancer such as
+ras (13). The NOC-speciﬁc DNA adduct O6-carboxymethyl-2#-
+deoxy-guanosine increases in exfoliated colonic cells from volunteers
+fed a high RM diet (14). O6-carboxymethyl-2#-deoxy-guanosine is
+not repaired by O6-alkylguanine transferase in in vitro assays and
+may at least partly explain the link between meat consumption and
+colorectal cancer.
+
+PM is a mixed category of meats that are preserved by a variety of
+mechanical, chemical or enzymatic procedures. Different preserva-
+tives, such as nitrite and nitrate in ham and sulphur dioxide in saus-
+ages, may be used. Minced products such as hamburgers may or may
+not be classiﬁed as PM. In most populations on which existing epi-
+demiological ﬁndings are based, PM mainly consists of processed
+RMs such as beef and pork (3,15).
+
+Supplements of nitrate have been shown to increase faecal NOC
+levels (16), but it is not clear whether preservation by this method
+would result in an increased endogenous NOC production, and hence
+explain some of the higher colorectal cancer risk with processed as
+compared with RM. In two studies, of a fresh RM (beef and pork)
+versus a vegetarian (VEG) diet—referred to as the RM study—and of
+a nitrite-preserved red meat (bacon, ham, luncheon meat and corned
+beef) versus a VEG diet—referred to as the PM study—we investi-
+gated whether this form of processing might increase colorectal
+cancer risk by stimulating nitrosation and DNA damage.
+
+Methods
+
+Subjects
+Healthy males and females from Cambridgeshire were recruited through local
+advertisements. Participants had to be between 20 and 85 years of age, non-
+smokers, free from diabetes and bowel disease, not taking medication affecting
+the gut for at least 3 months prior to the study, not pregnant and not partici-
+pating in another biochemical intervention study at the same time. Prior to the
+study, subjects were examined by a medical practitioner.
+
+All subjects received verbal and written information and signed a written
+consent form. The studies were approved by the Cambridge Local Research
+Ethics Committee.
+
+Sixteen volunteers were included in the PM study (5 males and 11 females);
+12 volunteers participated in the RM study (six males and six females), which
+has been described previously (14).
+
+Study design
+The studies had a randomized crossover design of a high meat versus a VEG
+period: PM versus VEG in the PM study and RM versus VEG in the RM
+study. Each dietary period lasted at least 14 days. Subjects lived in the
+volunteer suite of the MRC Dunn Human Nutrition Unit, where all food
+was provided and carefully controlled and all specimens could be collected
+and processed immediately. Subjects followed their normal routine but were
+only allowed to consume foods and drinks prepared by the diet techni-
+cians. Body weights were monitored to ensure a constant weight through-
+out. Faecal samples were collected and weighed daily and radio opaque
+marker capsules were taken throughout to check compliance and for the
+measurement of transit time (17). After subjects had consumed each diet
+for 10 days, stools were collected on dry ice for analysis of NOC, haem
+and genotoxicity.
+
+Ó The Author 2009. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oxfordjournals.org
+
+The online version of this article has been published under an open access model. Users are entitled to use, reproduce, disseminate, or display the open access version
+of this article for non-commercial purposes provided that: the original authorship is properly and fully attributed; the Journal and Oxford University Press are
+attributed as the original place of publication with the correct citation details given; if an article is subsequently reproduced or disseminated not in its entirety but
+only in part or as a derivative work this must be clearly indicated. For commercial re-use, please contact journals.permissions@oxfordjournals.org
+
+Study diets
+All diets were provided as similar menus on a 3 day rotating schedule. Male
+PM diets contained 420 g PM per day [given as 100 g bacon (days 1 and 2) or
+pork luncheon meat (day 3) at lunch and 320 g corned beef (days 1 and 2) or
+gammon (day 3) at dinner] and female PM diets contained 366 g PM per day
+(given as 60 g bacon or pork luncheon meat at lunch and 306 g corned beef or
+gammon at dinner). RM diets contained the same amount of meat, but lunch
+was roast beef (days 1, 2 and 3) and dinner beef mince (days 1 and 3) or pork
+(day 2). Over the course of the study, each volunteer consumed the same
+amount of each type of meat.
+
+Energy and macronutrient composition of the diets (Appendix) were
+calculated using Data Into Nutrients for Epidemiological Research (DINER)
+(18). Fat content of the diets was kept constant by exchanging protein for
+carbohydrates. Energy requirements were estimated from body weight and
+physical activity using standard equations for basal metabolic rate and esti-
+mates of physical activity level (19). The energy intake of each participant was
+matched to estimated energy requirement with 1 MJ standardized increments
+(chocolate bar, shortbread or a combination of white bread, butter and mar-
+malade) added to 8 MJ/day (female) or 10 MJ/day (males) basal diets.
+
+Meat was not overcooked to minimize the formation of heterocyclic amines.
+Puriﬁed water was given throughout for drinking and used for cooking and
+low-nitrate vegetables were used to keep nitrate intake at constant low levels.
+Tea, coffee and an aspartame-based sweetener were provided in the suite and
+consumed freely, but subjects were asked to keep their intake constant during
+the study.
+
+Dietary and faecal NOC and haem
+Duplicates for each daily diet were prepared. All foods consumed on 1 day
+were prepared as normal, added together and diluted 1:2 in ultrapure water. The
+mixture was homogenized with a food processor, snap frozen on dry ice and
+stored at  20°C until analysis. Results are presented per gram of diet after
+correction for dilution. For analysis of the separate nitrite-preserved red meats
+consumed in the PM study, meats were cooked as normal and homogenized
+and frozen separately as described above. Results are presented per gram of
+cooked weight after correction for dilution.
+For stool analysis, 40 g of frozen stool was thawed, diluted 1:5 in ultrapure
+water and homogenized for 20 min in a stomacher (Colworth 3500, Seward
+Medical, London, UK). The faecal homogenates were snap frozen on dry ice
+and stored at  20°C until analysis. Results are presented per gram of faeces
+after correction for dilution.
+
+NOC were analysed using a modiﬁcation of the method previously used
+(11), using an Ecomedics CLD 88 Exhalyzer (Ecomedics, Duernten, Switzer-
+land). Approximately 100 ll of faecal homogenates or 500 ll of homogenized
+diet or meat were weighed and incubated brieﬂy with 100 ll of an aqueous
+solution of N-ethylmaleimide (50 mM) and diethylene triamine pentaacetic
+acid (100 lM) to protect RSNO. Thereafter, 500 ll of a 5% (wt/vol) sulfamic
+acid solution was added to remove nitrite and samples were injected into
+a purge vessel kept at 60°C and ﬁlled with a standard tri-iodide reagent (20)
+(38 mg I2 was added to a solution of 108 mg KI in 1 ml water; to this mixture,
+13.5 ml glacial acetic acid was added) to determine total NOC. To determine
+mercury(II) stable compounds, 100 ll 10 mM aqueous HgCl2 was added prior
+to analysis; to determine mercury(II) and ferricyanide stable compounds, 100
+ll each of 10 mM aqueous HgCl2 and 10 mM aqueous K3Fe(CN)6 solution
+were added prior to analysis. RSNO were determined as the difference between
+total NOC and mercury(II) stable NOC; FeNO was determined as difference
+between mercury(II) stable NOC and mercury(II) and K3Fe(CN)6 stable com-
+pounds. Other NOC were determined as mercury(II) and K3Fe(CN)6 stable
+compounds.
+
+Haem was analysed using the HemoQuant assay (8) as described previously
+(11). Brieﬂy, 400 ll hot oxalic acid reagent (3 M oxalic acid, 0.1 M FeSO4, 60
+mM uric acid and 60 mM mannitol) was added to 500 mg dietary or faecal
+homogenate, mixed and incubated for 30 min at 100°C. After cooling, 1 ml 3
+M KAc and 3 ml acetate/acetic acid (10/1 vol/vol) were added. To 2 ml of the
+organic phase, 0.8 ml n-butanol and 6 ml 3 M KAc in 1 M KOH was added,
+mixed and 1 ml of the organic phase subsequently extracted with 4 ml phos-
+phoric acid/acetic acid (2 M phosphoric acid:glacial acetic acid, 9:1 vol/vol).
+Fluorescence (excitation, 402 nm; ﬂuorescence, 600 nm) of the aqueous phase
+was determined using a Spectramax Gemini XS ﬂuorimeter (Molecular Devi-
+ces, Sunnyvale, CA). To quantify samples, dietary and faecal homogenates
+were spiked with haemoglobin to obtain a calibration curve. Results are ex-
+pressed as mmol/d for diets or nmol/g for faeces.
+
+Faecal water genotoxicity with the comet assay
+Faecal water (FW) was prepared by centrifuging 25 g of thawed faecal
+homogenate at 50 000g for 2 h at 4°C. The clear supernatant was aliquoted,
+snap frozen on dry ice and stored at  80°C until analysis.
+
+Effect of processed and RM on endogenous nitrosation and DNA damage
+
+Caco2 cells (European Collection of Cell Cultures, Salisbury, UK) were
+cultured as monolayers in Eagle’s Minimum Essential Medium containing
+10% foetal bovine serum, 2 mM L-glutamine, 1% non-essential amino acids
+and 100 U/l penicillin–streptomycin (all Sigma–Aldrich, Gillingham, UK).
+Cells were harvested after a 3 min incubation at 37°C with 0.25% trypsin–
+ethylenediaminetetraacetic acid (EDTA) (Sigma–Aldrich) and resuspended in
+non-supplemented Eagle’s Minimum Essential Medium. Three hundred micro-
+litres of cell suspension (12  104 cells) was incubated with 300 ll FW
+(50%) for 30 min at 37°C. A quality control was included in each experiment.
+Samples were measured in duplicate in separate experiments.
+
+Cells were centrifuged at 200g for 3 min at 4°C, the supernatant was dis-
+carded and cells were resuspended in 420 ll 1% low melting point agarose
+made in phosphate-buffered saline. Cells from one treatment were divided as
+roughly equal drops of 70 ll over three microscope slides (two gels per
+slide), a 22  22 mm coverslip was applied and gels were allowed to set at
+4°C. Coverslips were removed and cells were lysed in 2.5 M NaCl; 0.1 M
+Na2EDTA; 10 mM Tris–HCl, pH 10 and 1% Triton X-100 for 1 h at 4°C.
+Microscope slides had been precoated with 1% normal melting point agarose
+and left to dry before use.
+
+Slides were rinsed in enzyme buffer (40 mM N-2-hydroxyethylpiperazine-
+N#-2-ethanesulfonic acid, 0.1 M KCl, 0.5 mM EDTA and 0.2 mg/ml bovine
+serum albumin, pH 8) three times for 5 min each at 4°C. Per treatment, one
+slide was then incubated with enzyme buffer alone, one with endonuclease III
+(EndoIII) in buffer and one with formamidopyrimidine (FPG) in buffer for 30
+min at 37°C. EndoIII recognizes oxidized pyrimidines and FPG recognizes
+altered purines, creating additional DNA strand breaks at these sites.
+
+Subsequently, the DNA was allowed to unwind in electrophoresis solution
+(0.3 M NaOH and 1 mM Na2EDTA, pH 13) for 40 min at 4°C before electro-
+phoresis at 0.9 V/cm, 300 mA for 30 min at 4°C. Slides were neutralized in
+phosphate-buffered saline and rinsed in ultrapure water for 10 min each at 4°C
+and left to dry overnight at room temperature.
+
+Gels were stained with 4#,6-diamidino-2-phenylindole and viewed by ﬂuo-
+rescence microscopy. Comets were classiﬁed with visual scoring (21); 100
+randomly selected comets were classiﬁed into ﬁve classes (0–4) according to
+the extent of tail DNA to give an overall score of between 0 and 400 arbitrary
+units per treatment.
+
+Statistical analysis
+Faecal nitrite values and transit times were 10log transformed to normalize the
+distribution and are presented as geometric means and antilogged 95% conﬁ-
+dence intervals (CIs). Other results are presented as mean ± SE. Meat versus
+VEG results were compared within each study using a paired Student’s t-test
+(two tailed). Statistical differences between PM and RM diets (between stud-
+ies) were analysed by analysis of covariance with type of meat (PM or RM) as
+independent variable and gender as dichotomous covariate to adjust for differ-
+ences in male to female ratios between the two studies. Where PM and RM
+results are compared (between studies), results are presented as adjusted mean
+± SE. Where meat and VEG results are compared (within studies), results are
+presented as unadjusted means.
+
+Associations between continuous variables were tested using Pearson’s cor-
+relation coefﬁcient (r). P ,0.05 was considered statistically signiﬁcant. SPSS
+16 for Macintosh (SPSS, Chicago, IL, 2008) was used for the analysis.
+
+Results
+
+Dietary NOC and haem
+Only male diets were analysed as they contained the largest amount of
+meat. PM diets contained 58 ± 15 mmol/d total NOC, composed of 24
+± 8 mmol/d RSNO, 20 ± 6 mmol/d FeNO and 14 ± 2 mmol/d other
+NOC and 17 ± 10 lmol/d nitrite. The NOC composition of the pro-
+cessed meats, i.e. bacon, corned beef, gammon and pork luncheon
+meat, is shown in Table I. RM and VEG diets contained negligible
+amounts of NOC and nitrite.
+
+Table I. NOC composition (nmol/g cooked weight) of the nitrite-preserved
+red meats consumed in the PM study
+
+Total NOC
+
+RSNO
+
+FeNO
+
+Other NOC
+
+Bacon
+Corned beef
+Gammon
+Pork luncheon meat
+
+428
+110
+84
+58
+
+357
+26
+15
+17
+
+45
+42
+50
+27
+
+26
+42
+19
+14
+
+1403
+
+A.M.C.P.Joosen et al.
+
+PM diets contained similar amounts of haem (86 mmol/d) to RM diets
+
+(110 mmol/d). The haem content of the VEG diets was negligible.
+
+Faecal NOC and haem
+Faecal levels of NOC on VEG diets were very low but increased
+signiﬁcantly on both PM and RM diets (Table II). There was no
+statistically signiﬁcant difference in total NOC concentrations on
+the PM and RM diets (adjusted means PM 175 ± 19 nmol/g versus
+RM 185 ± 22 nmol/g; P 5 0.75). FeNO was the main contributor to
+total NOC on both meat diets although the RM diet resulted in a larger
+proportion of FeNO (adjusted means RM 78% versus PM 54%;
+P , 0.0001) and less RSNO (adjusted means RM 12% versus PM
+19%; P , 0.01) and other NOC (adjusted means RM 10% versus PM
+27%; P , 0.0001) compared with PM. Similar results were obtained
+when absolute concentrations were used.
+NOC concentrations in FW used in the comet assay were 1.7% of
+the concentration in homogenates before correction for dilution (PM
+0.65 nmol/g and RM 0.41 nmol/g).
+
+There was no statistically signiﬁcant difference between adjusted
+mean faecal nitrite concentrations on the PM diet (19 nmol/g, 95% CI
+11–35) and those on the RM diet (28 nmol/g, 95% CI 14–56,
+P 5 0.41). Concentrations on both meat diets were signiﬁcantly high-
+er than after VEG diets (3 nmol/g, 95% CI 2–6, P , 0.0001). There
+was no statistically signiﬁcant correlation between concentrations of
+faecal nitrite and total NOC.
+
+Faecal haem was signiﬁcantly higher when the meat diets were con-
+sumed as compared with the VEG diets (P , 0.0001, Table II) although
+to a lesser extent on the PM diet compared with the RM diet (adjusted
+means PM 326 ± 69 nmol/g versus RM 1033 ± 84 nmol/g, n 5 11;
+P , 0.0001). Haem concentrations were positively related with FeNO
+concentrations on the RM diet (r 5 0.63, P , 0.05; n 5 11) and mar-
+ginally on the PM diet (r 5 0.45, P 5 0.08). Haem concentrations
+were positively related to RSNO on the RM diet (r 5 0.64, P , 0.05;
+n 5 11) but not on the PM diet (r 5 0.15, P 5 0.58).
+
+FW genotoxicity with the comet assay
+There was no statistically signiﬁcant difference in DNA breaks induced
+in Caco2 cells by FW from both PM and RM diets (adjusted means PM
+167 ± 12 versus RM 163 ± 13; P 5 0.80). However, PM resulted in
+higher levels of EndoIII-sensitive sites (adjusted means PM 24 ± 5
+versus RM 9 ± 5; P , 0.05) and a larger variation in FPG-sensitive
+sites compared with RM (Figure 1A). Surprisingly, FW from both di-
+etary studies induced signiﬁcantly more DNA strand breaks on the
+VEG diets compared with the meat diets (P , 0.05; Table III).
+
+In the comet assay, FPG detects oxidatively damaged purines but
+also seems to have a high sensitivity towards N-7 alkylation of
+guanine (ring opened) (22). There was no statistically signiﬁcant
+correlation between FPG-sensitive sites and NOC concentrations
+in faecal homogenates on both meat diets, but NOC concentrations
+in FW—despite being relatively low—trended towards a positive
+association with FPG-sensitive sites on the PM (r 5 0.55, P 5 0.06;
+n 5 12, three samples not analysed, one sample with no peak in
+assay) but not on the RM diet (r 5 0.25, P 5 0.49; n 5 10, two
+samples no peak in assay) (Figure 1A). There were no signiﬁcant
+associations with DNA strand breaks and EndoIII-sensitive sites
+(Figure 1B). No NOC could be detected in FW on the VEG diets.
+Nitrite concentrations in FW were 18% of those in faecal homo-
+genates (PM study only, RM not analysed); there were no statisti-
+cally signiﬁcant associations with DNA strand breaks or enzyme-
+sensitive sites.
+
+Mean transit time
+Mean transit time (MTT) on the PM diet (adjusted geometric mean 44
+h, 95% CI 35–55; n 5 15) was signiﬁcantly lower than on the RM diet
+(adjusted geometric mean 70 h, 95% CI 55–90; P , 0.01). MTT
+during both VEG periods were similar (VEG in PM study 44 h,
+95% CI 35–55; n 5 15 versus VEG in RM study 55 h, 95% CI
+43–70; P 5 0.18) and not signiﬁcantly different from their respective
+meat periods (PM study P 5 0.80 and RM study P 5 0.07).
+
+MTT was positively related with total NOC concentrations (r 5
+0.63, P 5 0.01; n 5 15), FeNO (r 5 0.60, P 5 0.02; n 5 15) and
+other NOC (r 5 0.74, P , 0.01; n 5 15) but not with RSNO
+(r 5 0.13, P 5 0.64; n 5 15) on the PM diet. In contrast, there were
+no statistically signiﬁcant correlations between MTT and NOC con-
+centrations on the RM diet (P . 0.25).
+
+Daily faecal weight, calculated as the mean faecal weight over
+the last 4 days of the diet, was signiﬁcantly higher on the VEG
+diet compared with the meat diet in both studies (PM 167.5 ± 11.9
+g/d versus VEG 223.8 ± 24.1 g/d; P , 0.05 and RM 148.1 ± 19.5
+g/d versus VEG 308.3 ± 41.4 g/d; P , 0.0001). There were no sta-
+tistically signiﬁcant differences between studies (P . 0.12). Daily
+faecal weight was not statistically signiﬁcantly associated with
+MTT on any of the diets or for both studies in total (P . 0.09).
+
+Discussion
+
+Recently, we implicated haem as a facilitator of the endogenous for-
+mation of NOC from dietary nitrite or nitrate and nitrite from
+
+Table II. Faecal NOC concentrations (nmol/g) (a) PM diet versus VEG diet (n 5 16); (b) RM diet versus VEG diet (n 5 12) (unadjusted means, comparison
+within studies)
+
+Intake
+
+mmol/d
+
+PM
+86
+58
+24
+20
+14
+RM
+110
+a
+
+a
+
+a
+
+a
+
+Excretion
+
+nmol/g
+
+329 ± 41
+181 ± 20
+
+33 ± 4
+95 ± 9
+53 ± 8
+
+1028 ± 109
+
+177 ± 26
+
+19 ± 4
+
+140 ± 20
+
+18 ± 4
+
+mmol/d
+
+0.05 ± 0.007
+28.6 ± 2.9
+5.2 ± 0.6
+15.3 ± 1.6
+8.1 ± 1.2
+
+0.13 ± 0.02
+21.7 ± 2.2
+2.3 ± 0.3
+17.1 ± 1.9
+2.2 ± 0.5
+
+Intake
+
+mmol/d
+
+VEG
+a
+
+a
+
+a
+
+a
+
+a
+
+VEG
+a
+
+a
+
+a
+
+a
+
+a
+
+Excretion
+
+nmol/g
+
+61 ± 5
+2.6 ± 0.3
+0.2 ± 0.1
+2.0 ± 0.3
+0.5 ± 0.1
+63 ± 11
+3.5 ± 0.7
+0.4 ± 0.1
+1.8 ± 0.3
+1.2 ± 0.4
+
+mmol/d
+
+0.01 ± 0.001
+0.6 ± 0.06
+0.05 ± 0.02
+0.4 ± 0.05
+0.1 ± 0.02
+0.02 ± 0.005
+1.0 ± 0.2
+0.1 ± 0.02
+0.5 ± 0.1
+0.3 ± 0.08
+
+(a)
+Haem
+Total NOC
+
+RSNO
+FeNO
+Other NOC
+
+(b)
+Heam (n 5 11)
+Total NOC
+
+RSNO
+FeNO
+Other NOC
+
+Only male diets analysed. Excretion measured in faecal homogenates and adjusted for dilution. P values for paired Students’ t-test of meat versus VEG,
+P , 0.0001, P 5 0.001, P , 0.01.
+aNegligible amounts.
+PM, processed (nitrite-preserved red) meat.
+
+1404
+
+Effect of processed and RM on endogenous nitrosation and DNA damage
+
+faeces by Mirvish et al. (24), which were deﬁned as NOC that were
+formed after in vitro nitrosation of faecal supernatant.
+
+The endogenous formation of NOC is likely to begin with the
+formation of RSNO in the stomach, as acidic conditions facilitate
+the formation of these compounds (11). These compounds can then
+promote the formation of other NOC, in particular nitrosyl haem, in
+the anaerobic and reducing environment of the gastrointestinal tract.
+Considering the importance of NOC production along the gastroin-
+testinal tract, the association between MTT and faecal NOC concen-
+trations was investigated in the meat diets. The statistically signiﬁcant
+association between MTT and faecal NOC concentrations on the PM
+diet—in particular for FeNO compounds–supports the hypothesis that
+these compounds are formed in the anaerobic conditions of the small
+and large intestines. However, the lack of association following the
+RM diet with a signiﬁcantly longer transit times suggests a threshold
+effect.
+
+The alkaline comet assay detects DNA strand breaks and alkali-
+labile sites, i.e. apurinic or apyrimidinic sites or baseless sugars.
+These can result from a variety of damage and might also represent
+intermediates in the repair process. Including DNA glycosylase en-
+zymes results in excision of oxidatively damaged nucleobases from
+the DNA strand, which leaves additional strand breaks (21). Despite
+the different composition of faecal NOC on PM and RM diets, there
+was no clear effect on FW-induced DNA strand breaks, but
+PM resulted in signiﬁcantly more FW-induced EndoIII-sensitive
+sites. However, due to the very low concentrations of total NOC in
+the FW, we were not able to analyse NOC composition and hence
+cannot relate NOC composition of the FW and the faecal homoge-
+nates. We have currently no explanation for the unexpected higher
+level of DNA strand breaks on the VEG diets as compared with the
+high meat diets, which is intriguing given a recent study showing
+a higher colorectal cancer incidence in vegetarians than in meat
+eaters (25). Nevertheless, further studies are underway exchanging
+red or PM with white meat or ﬁsh to eliminate possible interfering
+plant constituents, e.g. polyphenols. Dietary analysis of total phe-
+nols using the Folin–Ciolcalteu method showed similar levels of
+phenols in our meat and VEG study diets (data not shown), but this
+test does not distinguish between different kinds of polyphenolic
+compounds. However, we have not been able as yet to obtain reliable
+estimates for FW levels with this method.
+
+The aqueous fraction of faeces, prepared by either direct ultracen-
+trifugation, dilution in phosphate-buffered saline or ultrapure water or
+reconstitution of freeze-dried faeces, has been shown to be genotoxic
+in several colonic cell lines (26–30). Previous studies, the most recent
+ones using nuclear magnetic resonance proﬁling, have identiﬁed
+a number of compounds in FW including short chain fatty acids,
+organic acids, phenolic compounds and amino acids. Inter- and intra-
+individual differences are related to variation in concentrations rather
+than composition, which in turn seem to be related to diet (31,32).
+However, still little is known about the nature of FW, which may
+explain inconsistent results when investigating the effect of diet on
+DNA damage using the comet assay (26,27,29).
+
+Colonic cells have been shown to be susceptible to NOC-induced
+damage. Potassium diazoacetate, a stable nitrosated derivative
+of glycine, shows a dose–response effect on genotoxicity in
+Caco2 cells, human lymphocytes and rat colonocytes (33) and N-
+nitrosomorpholine causes a dose-dependent increase in DNA strand
+breaks in Caco2 cells, all of which originated from alkali-labile
+sites (34). No oxidative damage was observed, although pretreat-
+ment with vitamins E and C reduced the formation of strand breaks
+(34). Our results showed the presence of altered purines and pyr-
+imidines induced by FW, with higher levels of oxidized pyrimidines
+on the PM diet compared with the RM diet. Despite the NOC levels
+in FW being very low compared with the faecal homogenates, they
+tended to be positively related to altered purines on the PM diet
+indicating that they are related to oxidative damage.
+
+Nitrite intake from PM was 0.8 mg/d (17 lmol/d) in our study.
+Intake of NaNO2 by PM consumption in the UK, Spain and Germany
+reported in the European Prospective Study of Cancer and Nutrition
+
+1405
+
+Fig. 1. FW-induced FPG-sensitive sites (A) and EndoIII-sensitive sites (B)
+in Caco2 cells measured with the comet assay versus total NOC
+concentrations in FW. Processed meat diet (n 5 13, open circles) and RM
+diet (n 5 9, ﬁlled squares).
+
+Table III. Level of FW-induced DNA strand breaks, EndoIII- and FPG-
+sensitive sites in Caco2 cells measured with the comet assay (a) PM diet
+versus VEG diet (n 5 16); (b) RM diet versus VEG diet (n 5 12)
+(unadjusted means, comparison within studies)
+
+Mean
+
+SE
+
+Mean
+
+SE Mean
+
+SE
+
+(a)
+
+Strand breaks (AU)
+EndoIII sites (AU)
+FPG sites (AU)
+
+(b)
+
+Strand breaks (AU)
+EndoIII sites (AU)
+FPG sites (AU)
+
+Control slides
+3
+113
+2
+8
+25
+5
+Control slides
+113
+3
+2
+8
+25
+5
+
+PM
+164
+24
+39
+RM
+167
+9
+24
+
+VEG
+206
+26
+42
+VEG
+196
+15
+28
+
+13
+5
+8
+
+13
+4
+6
+
+17
+6
+7
+
+15
+6
+4
+
+AU, arbitrary units; PM, processed (nitrite-preserved red) meat. P value for
+paired Students’ t-test of meat versus VEG,
+P , 0.05. Control slides were incubated with phosphate-buffered saline and
+represent the level of background DNA strand breaks.
+
+inducible and endogenous nitric oxide synthases (9,11,23). Similar to
+our previous studies, faecal NOC levels were low (3–4 nmol/g) on
+diets containing no meat and a negligible amount of haem. On nitrite-
+preserved (PM) and fresh RM diets containing similar amounts of
+haem (86–110 mmol/d), faecal NOC levels increase signiﬁcantly to
+180 nmol/g.
+
+Dietary NOC in the PM diet (58 mmol/d) was in the same order of
+magnitude or greater as excretion, whereas NOC content of the RM
+diet was negligible but resulted in similar levels of excretion in faeces
+as on the PM diet (adjusted means PM 28.4 ± 2.6 mmol/d and RM
+22.0 ± 3.0 mmol/d). However, on a RM diet, faecal FeNO represent
+a greater proportion of total NOC compared with the PM diet and
+concentrations are positively associated with haem concentrations. In
+addition, on both meat diets, concentrations of FeNO were signiﬁ-
+cantly higher than those of RSNO, which conﬁrms the important
+contribution of haem to endogenous NOC production (9).
+
+Mirvish et al. (24) studied mice fed hot dogs with or without
+NaNO2 and concluded that faecal NOC excretion represents mainly
+excretion of ingested NOC and of NOC formed by nitrosation of
+precursor NOC by nitrite. In contrast, our results suggest that faecal
+NOC are unlikely to be simply derived from the diet and are mainly
+formed endogenously. However, the preformed NOC present in our
+study diets are not to be confused with the precursor NOC analysed in
+
+A.M.C.P.Joosen et al.
+
+was 0.1–3.3 mg/d for women and 0.8–5.4 mg/d for men (adjusted for
+energy intake, age, weekday and season), which would be somehow
+lower when nitrite alone is calculated (15). The link between dietary
+nitrite and cancers of the gastrointestinal
+is inconclusive
+(35,36), which may be because most nitrite is absorbed early
+and the majority does not reach the colon (37). There was no asso-
+ciation between FW nitrite and FW-induced DNA damage on our
+PM diet.
+
+tract
+
+In conclusion, meats cured with nitrite have the same effect as
+fresh RM on endogenous nitrosation but show increased FW-induced
+oxidative DNA damage, which could be a result of pro-oxidative
+compounds derived from both dietary factors or endogenous
+immune response. The higher level of DNA strand breaks on the
+VEG diets is an intriguing ﬁnding that needs to be clariﬁed in further
+studies.
+
+Acknowledgements
+
+We thank Valerie Church, Hilary Slack and Judith Wills for preparing the study
+diets and taking care of the volunteers and Marleen Lentjes for help in using
+DINER.
+
+Conﬂict of Interest Statement: None declared.
+
+References
+
+1. Cross,A.J. et al. (2007) A prospective study of red and processed meat
+
+intake in relation to cancer risk. PLoS Med., 4, e325.
+
+2. Larsson,S.C. et al. (2006) Meat consumption and risk of colorectal cancer:
+
+a meta-analysis of prospective studies. Int. J. Cancer, 119, 2657–2664.
+
+3. Norat,T. et al. (2005) Meat, ﬁsh, and colorectal cancer risk: the European
+Prospective Investigation into cancer and nutrition. J. Natl Cancer Inst., 97,
+906–916.
+
+4. Sugimura,T. (1997) Overview of carcinogenic heterocyclic amines. Mutat.
+
+Res., 376, 211–219.
+
+5. Rohrmann,S. et al. (2007) Intake of heterocyclic aromatic amines from
+meat in the European Prospective Investigation into Cancer and Nutrition
+(EPIC)-Heidelberg cohort. Br. J. Nutr., 98, 1112–1115.
+
+6. Bingham,S.A. et al. (2002) Effect of white versus red meat on endogenous
+N-nitrosation in the human colon and further evidence of a dose response.
+J. Nutr., 132, 3522S–3525S.
+
+7. Hughes,R. et al. (2001) Dose-dependent effect of dietary meat on endog-
+
+enous colonic N-nitrosation. Carcinogenesis, 22, 199–202.
+
+8. Schwartz,S. et al. (1985) Quantitative fecal recovery of ingested hemoglo-
+bin-heme in blood: comparisons by HemoQuant assay with ingested meat
+and ﬁsh. Gastroenterology, 89, 19–26.
+
+9. Cross,A.J. et al. (2003) Haem, not protein or inorganic iron, is responsible
+for endogenous intestinal N-nitrosation arising from red meat. Cancer Res.,
+63, 2358–2360.
+
+10. Bonnett,R. et al. (1975) Reactions of nitrous acid and nitric oxide with
+porphyrins and haems. Nitrosylhaems as nitrosating agents. J. Chem.
+Soc. Chem. Commun., 884–885.
+
+11. Kuhnle,G.G. et al. (2007) Diet-induced endogenous formation of nitroso
+
+compounds in the GI tract. Free Radic. Biol. Med., 43, 1040–1047.
+
+12. Kuhnle,G.G. et al. (2007) Dietary meat, endogenous nitrosation and co-
+
+lorectal cancer. Biochem. Soc. Trans., 35, 1355–1357.
+
+13. Povey,A.C. et al. (2002) DNA alkylation and repair in the large bowel:
+
+animal and human studies. J. Nutr., 132, 3518S–3521S.
+
+14. Lewin,M.H. et al. (2006) Red meat enhances the colonic formation of the
+DNA adduct O6-carboxymethyl guanine: implications for colorectal cancer
+risk. Cancer Res., 66, 1859–1865.
+
+15. Linseisen,J. et al. (2006) Dietary intake of different types and characteristics
+of processed meat which might be associated with cancer risk—results from
+the 24-hour diet recalls in the European Prospective Investigation into Cancer
+and Nutrition (EPIC). Public Health Nutr., 9, 449–464.
+
+1406
+
+16. Rowland,I.R. et al. (1991) Endogenous N-nitrosation in man assessed by
+measurement of apparent total N-nitroso compounds in faeces. Carcino-
+genesis, 12, 1395–1401.
+
+17. Cummings,J.H. et al. (1976) Measurement of the mean transit time of
+
+dietary residue through the human gut. Gut, 17, 210–218.
+
+18. Welch,A.A. et al. (2001) DINER (Data Into Nutrients for Epidemiological
+Research)—a new data-entry program for nutritional analysis in the EPIC-
+Norfolk cohort and the 7-day diary method. Public Health Nutr., 4, 1253–
+1265.
+
+19. Department of Health. (1991) Dietary Reference Values for Food, Energy
+and Nutrients for the United Kingdom (Report on Health and Social Sub-
+jects No. 41). HMSO, London, UK.
+
+20. Feelisch,M. et al. (2002) Concomitant S-, N-, and heme-nitros(yl)ation in
+biological tissues and ﬂuids: implications for the fate of NO in vivo. FASEB
+J., 16, 1775–1785.
+
+21. Collins,A.R. (2004) The comet assay for DNA damage and repair: princi-
+
+ples, applications, and limitations. Mol. Biotechnol., 26, 249–261.
+
+22. Speit,G. et al. (2004) Sensitivity of the FPG protein towards alkylation
+
+damage in the comet assay. Toxicol. Lett., 146, 151–158.
+
+23. Roediger,W.E. et al. (1990) Nitrite from inﬂammatory cells–a cancer risk
+
+factor in ulcerative colitis? Dis. Colon Rectum, 33, 1034–1036.
+
+24. Mirvish,S.S. et al. (2008) Effect of feeding nitrite, ascorbate, hemin, and
+omeprazole on excretion of fecal total apparent N-nitroso compounds in
+mice. Chem. Res. Toxicol. 21, 2344–2351.
+
+25. Key,T.J. et al. (2009) Cancer incidence in vegetarians: results from the
+European Prospective Investigation into Cancer and Nutrition (EPIC-
+Oxford). Am. J. Clin. Nutr. 89, 1620S–1626S.
+
+26. Cross,A.J. et al. (2006) Variability in fecal water genotoxicity, determined
+using the Comet assay, is independent of endogenous N-nitroso compound
+formation attributed to red meat consumption. Environ. Mol. Mutagen., 47,
+179–184.
+
+27. Glinghammar,B. et al. (1997) Shift from a dairy product-rich to a dairy
+product-free diet:
+inﬂuence on cytotoxicity and genotoxicity of fecal
+water—potential risk factors for colon cancer. Am. J. Clin. Nutr., 66,
+1277–1282.
+
+28. Klinder,A. et al. (2007) Fecal water as a non-invasive biomarker in nutri-
+tional intervention: comparison of preparation methods and reﬁnement of
+different endpoints. Nutr. Cancer, 57, 158–167.
+
+29. Rieger,M.A. et al. (1999) A diet high in fat and meat but low in dietary ﬁbre
+increases the genotoxic potential of ‘faecal water’. Carcinogenesis, 20,
+2311–2316.
+
+30. Venturi,M. et al. (1997) Genotoxic activity in human faecal water and the
+role of bile acids: a study using the alkaline comet assay. Carcinogenesis,
+18, 2353–2359.
+
+31. Jacobs,D.M. et al. (2008) (1)H NMR metabolite proﬁling of feces as a tool
+to assess the impact of nutrition on the human microbiome. NMR Biomed.,
+21, 615–626.
+
+32. Pettersson,J. et al. (2008) NMR metabolomic analysis of fecal water from
+
+subjects on a vegetarian diet. Biol. Pharm. Bull., 31, 1192–1198.
+
+33. Anderson,D. et al. (1999) The effect of potassium diazoacetate on human
+peripheral lymphocytes, human adenocarcinoma Colon caco-2 cells, and
+rat primary colon cells in the comet assay. Teratog. Carcinog. Mutagen., 19,
+137–146.
+
+34. Robichova,S. et al. (2001) Study of N-nitrosomorpholine-induced DNA
+strand breaks in Caco-2 cells by the classical and modiﬁed comet assay:
+inﬂuence of vitamins E and C. Nutr. Cancer, 39, 267–272.
+
+35. Jakszyn,P. et al. (2006) Endogenous versus exogenous exposure to N-nitro-
+so compounds and gastric cancer risk in the European Prospective Inves-
+tigation
+study.
+Carcinogenesis, 27, 1497–1501.
+
+(EPIC-EURGAST)
+
+into Cancer
+
+and Nutrition
+
+36. Knekt,P. et al. (1999) Risk of colorectal and other gastro-intestinal cancers
+after exposure to nitrate, nitrite and N-nitroso compounds: a follow-up
+study. Int. J. Cancer, 80, 852–856.
+
+37. Florin,T.H. et al. (1990) The effect of dietary nitrate on nitrate and nitrite
+
+excretion in man. Br. J. Nutr., 64, 387–397.
+
+Received March 24, 2009; revised May 8, 2009; accepted May 19, 2009
+
+Effect of processed and RM on endogenous nitrosation and DNA damage
+
+Appendix. Nutrient composition of the dietsa,b
+
+PM
+
+VEG
+
+All (n 5 16)
+
+Female (n 5 11)
+
+Male (n 5 5)
+
+All (n 5 16)
+
+Female (n 5 11)
+
+Male (n 5 5)
+
+9
+145 (27)
+80 (33)
+30 (12)
+27 (11)
+16 (6)
+230 (43)
+19
+811
+18
+189
+74
+
+RM
+
+8
+137 (29)
+71 (32)
+27 (12)
+24 (11)
+13 (6)
+200 (42)
+16
+762
+17
+168
+73
+
+11
+163 (25)
+101 (33)
+37 (12)
+33 (11)
+22 (7)
+296 (45)
+23
+918
+22
+236
+77
+
+9
+77 (14)
+79 (31)
+33 (12)
+23 (9)
+14 (6)
+321 (59)
+30
+1187
+14
+244
+112
+
+VEG
+
+8
+73 (15)
+66 (29)
+24 (11)
+20 (9)
+15 (7)
+289 (59)
+28
+1115
+13
+229
+100
+
+12
+85 (12)
+107 (34)
+51 (16)
+32 (10)
+11 (4)
+389 (57)
+34
+1348
+17
+277
+138
+
+All (n 5 12)
+
+Female (n 5 6)
+
+Male (n 5 6)
+
+All (n 5 12)
+
+Female (n 5 6)
+
+Male (n 5 6)
+
+10
+147 (25)
+80 (29)
+34 (12)
+27 (10)
+10 (4)
+293 (49)
+12
+895
+16
+318
+93
+
+9
+133 (25)
+70 (29)
+26 (11)
+24 (10)
+13 (5)
+265 (50)
+11
+875
+15
+274
+90
+
+11
+161 (25)
+90 (30)
+41 (14)
+30 (10)
+7 (2)
+321 (49)
+13
+915
+18
+361
+95
+
+9
+77 (14)
+81 (31)
+33 (13)
+25 (10)
+14 (5)
+323 (58)
+30
+1093
+16
+291
+86
+
+8
+73 (15)
+68 (29)
+24 (10)
+21 (9)
+16 (7)
+296 (59)
+28
+1058
+15
+267
+71
+
+10
+80 (13)
+95 (34)
+42 (15)
+29 (10)
+12 (4)
+351 (57)
+33
+1128
+18
+315
+100
+
+Energy intake (MJ)
+Protein (g/d)
+Fat (g/d)
+
+SFA (g/d)
+MUFA (g/d)
+PUFA (g/d)
+
+Carbohydrates (g/d)
+Fibre (g/d)
+Calcium (mg/d)
+Iron (mg/d)
+Folate (lg/d)
+Vitamin C (mg/d)
+
+Energy intake (MJ)
+Protein (g/d)
+Fat (g/d)
+
+SFA (g/d)
+MUFA (g/d)
+PUFA (g/d)
+
+Carbohydrates (g/d)
+Fibre (g/d)
+Calcium (mg/d)
+Iron (mg/d)
+Folate (lg/d)
+Vitamin C (mg/d)
+
+SFA, saturated fatty acids; MUFA, monounsaturated fatty acids; PM, processed (nitrite-preserved red) meat; PUFA, polyunsaturated fatty acids.
+aMean nutrient intake.
+bValues between parentheses represent %energy.
+
+1407
+
+

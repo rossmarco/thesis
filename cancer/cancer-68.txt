@@ -1,0 +1,1750 @@
+Human Nutrition and Metabolism
+
+Dietary Intakes of Flavonols, Flavones and Isoﬂavones by Japanese Women
+and the Inverse Correlation between Quercetin Intake and Plasma LDL
+Cholesterol Concentration1
+
+Yusuke Arai, Shaw Watanabe,2 Mitsuru Kimira, Kayoko Shimoi,* Rika Mochizuki*
+and Naohide Kinae*
+Department of Nutritional Science, Faculty of Applied Bioscience, Tokyo University of Agriculture, Setagaya,
+Tokyo, 156-8502 Japan and *School of Food and Nutritional Sciences, University of Shizuoka, Shizuoka,
+422-8526 Japan
+
+ABSTRACT The intake of ﬂavonols, ﬂavones and isoﬂavones by Japanese women was calculated from our
+food-phytochemical composition table. The relationship between intake of these phytochemicals and various
+anthropometric and blood chemistry data was analyzed in a cross-sectional study. The subjects were 115 women
+volunteers, aged 29 –78 y, living in the northern part of Japan. Each subject completed a 3-d dietary record and
+received a health check up, including urine and blood sampling for biochemical analysis. Total mean intakes of
+ﬂavonoids (sum of ﬂavonols and ﬂavones) and isoﬂavones were 16.7 and 47.2 mg/d, respectively. The major
+source of ﬂavonoids was onions (45.9%) and that of isoﬂavones was tofu (37.0%). Total intake of isoﬂavones
+exceeded that of other dietary antioxidants, such as ﬂavonoids, carotenoids (3.5 mg/d) and vitamin E (8.2 mg/d),
+and was approximately one half of the vitamin C intake (109 mg/d). The total intake of ﬂavonoids was inversely
+correlated with the plasma total cholesterol concentration (TC) (r 5 20.236, P , 0.05) and plasma LDL cholesterol
+concentration (LDL-C) (r 5 20.220, P , 0.05), after the adjustment for age, body mass index and total energy
+intake. As a single component, quercetin was inversely correlated with both TC (r 5 20.261, P , 0.01) and LDL-C
+(r 5 20.263, P , 0.01). Among Japanese, ﬂavonoid and isoﬂavone intake is the main component among
+nonnutrient phytochemicals with antioxidant potential in the diet. These results suggest that a high consumption
+of both ﬂavonoids and isoﬂavones by Japanese women may contribute to their low incidence of coronary heart
+disease compared with women in other countries. J. Nutr. 130: 2243–2250, 2000.
+
+KEY WORDS:
+
+c
+
+isoﬂavone c ﬂavonoid c Japanese c LDL cholesterol c humans
+
+The Japanese mortality rate for cardiovascular disease and
+various cancers, except for gastric cancer, is lower than that of
+Caucasians (WHO 1996). More than 600 food factors in
+vegetables are now considered to inﬂuence human health
+(Huang et al. 1994). A large number of epidemiologic studies
+investigating the relationship between diet and cancer were
+reviewed, and a preventive effect of the consumption of veg-
+etables and fruits on various types of cancer has been con-
+ﬁrmed (Steinmetz and Potter 1996). This protective effect has
+been attributed in general to the antioxidative capacities of
+vitamin C, E and carotenoids in food. However, the impor-
+tance of other potentially protective compounds, such as ﬂa-
+vonoids in vegetables and fruits, has been recognized (Hertog
+et al. 1992a and 1992b). Epidemiologic studies show that
+dietary ﬂavonoid intake is inversely associated with mortality
+from coronary heart disease (CHD)3 (Hertog et al. 1993,
+
+1 Supported by a grant-in-aid for Cancer Research from the Ministry of Health
+and Welfare and for Life Science Research on behalf of the Science and Tech-
+nology Agency.
+
+2 To whom correspondence and reprint requests should be addressed.
+3 Abbreviations used: BMI, body mass index; CHD, coronary heart disease;
+GOT, glutamic oxaloacetic transaminase; GPT, glutamic pyruvic transaminase;
+
+Knekt et al.1996) and incidence of stroke (Keli et al. 1996).
+These results were supported by in vitro studies, such as the
+inhibition of LDL oxidation and platelet aggregation by ﬂa-
+vonoids (De Whalley et al. 1990, Tzeng et al. 1991). Fla-
+vonoids are strong antioxidants and scavengers of free radicals
+(Husain et al. 1987).
+
+The Japanese consume a wide range of
+
+isoﬂavone-rich
+soybean products (Ministry of Health and Welfare 1998).
+Such a high intake of isoﬂavones is assumed to protect against
+cancer, especially estrogen-related cancers, such as breast, en-
+dometrial, ovarian, prostatic and colon cancer (Adlercreutz et
+al. 1995, Watanabe and Koessel 1993, Watanabe et al. 1997).
+Isoﬂavones have shown antioxidant activity in both in vivo
+and in vitro studies (Ruiz-Larrea et al. 1997, Watanabe et al.
+2000a). Genistein, in particular, can inhibit the oxidative
+modiﬁcation of isolated LDL (Hodgson et al. 1996).
+
+These phytochemicals may beneﬁt human health if they are
+consumed appropriately in the diet. Intake of isoﬂavone-rich
+
+g-GTP, g-glutamyl transpeptidase; HDL-C, high density lipoprotein cholesterol
+concentration; LDL-C, low density lipoprotein cholesterol concentration; TC, total
+cholesterol concentration; TG, triacylglycerol concentration; TP, total protein.
+
+0022-3166/00 $3.00 © 2000 American Society for Nutritional Sciences.
+Manuscript received 3 December 1999. Initial review completed 4 May 2000. Revision accepted 24 May 2000.
+
+2243
+
+2244
+
+ARAI ET AL.
+
+and
+
+soy hypocotyl tea or isoﬂavone-rich tablets decreased phos-
+phatidylcholine hydroperoxide
+phosphatidylethano-
+lamine hydroperoxide in red blood cells and lowered urinary
+excretion of 8-hydroxy-29-deoxyguanosine in humans (Wa-
+tanabe et al. 2000a), but hormonal levels were also inﬂuenced
+as a result of this intervention trial (Watanabe et al. 2000b).
+No guidelines exist for consumption of these phytochemicals;
+thus it is not known what level of intake is appropriate for the
+prevention of disease. The investigators studied an appropriate
+dietary amount of ﬂavonoids and isoﬂavones for the preven-
+tion of disease. Accurate estimation of phytochemical intake is
+important. We created food composition tables for four ﬂa-
+vonols, one ﬂavone and two isoﬂavones to estimate intake.
+The validity of this table was veriﬁed by comparing the cor-
+related intakes with plasma and urinary isoﬂavone levels (Arai
+et al. 2000). The intake of ﬂavonols, ﬂavones and isoﬂavones
+was calculated with the use of this table, and the relationship
+between these phytochemicals and various anthropometric
+and blood chemistry data were analyzed in a cross-sectional
+study.
+
+SUBJECTS AND METHODS
+
+Nutrition survey and health check up program. The study was
+conducted in September 1997 and 1998 in the northern part of Japan.
+An urban rural community (population ;50,000) in this area has
+been our ﬁeld for a population-based prospective study and nutri-
+tional training since 1980. The subjects were 115 female volunteers,
+who each agreed to participate to this study and gave written in-
+formed consent. The study design was approved by the Ethical Com-
+mittee in Tokyo University of Agriculture. All subjects were house-
+wives who also worked in agriculture, such as the cultivation of
+vegetables and rice. Fifteen subjects were employees of local govern-
+ment and private industry. The physical activities of each subject
+were classiﬁed according to guidelines of the Ministry of Health and
+Welfare (1994) as follows: light, n 5 27; moderate, n 5 68; and
+semiheavy, n 5 20. Ninety-one women (79%) were postmenopausal.
+The prevalence of regular cigarette smoking and alcohol consump-
+tion was 4 (3.5%) and 42 (36.5%) women, respectively.
+
+Each person completed a 3-d dietary record and anthropometric
+measurements were taken on d 4 of the study, including blood
+sampling for biochemical analysis. Each subject recorded the amount
+and kind of food and beverages consumed during the study period.
+These dietary records were then checked by trained dieticians and
+coded for calculating the level of energy and nutrients using the
+Standard Tables of Food Composition (The Science and Technology
+Agency of Japan 1982).
+
+The anthropometric measurements were carried out for height,
+weight and blood pressure. Body mass index (BMI, kg/m2) was cal-
+culated from height and weight. The number of steps taken during
+the study period was measured by a walking meter (EM-200, Yamasa
+Watch, Tokyo, Japan). The subjects constantly wore a walking meter
+from rising in the morning to bedtime at night.
+
+After an overnight fast, blood samples were collected with a
+vacuum syringe containing heparin powder. The plasma was isolated
+by centrifugation (2000 3 g, 10 min, 4°C) and used for biochemical
+analysis of total protein (TP), albumin, total cholesterol (TC), tri-
+acylglycerol (TG), HDL cholesterol (HDL-C), uric acid, creatinine,
+glutamic oxaloacetic transaminase (GOT), glutamic pyruvic transam-
+inase (GPT), g-glutamyl transpeptidase (g-GTP), alkaline phospha-
+tase, cholinesterase and total bilirubin. Biochemical analysis was
+done with a clinical analyzer (Hitachi 7250, Hitachi, Tokyo, Japan).
+Plasma LDL cholesterol concentration (LDL-C) was calculated using
+the Friedewald formula (Friedewald et al. 1972). The albumin/glob-
+ulin ratio was calculated from the concentration of TP and albumin.
+The RBC count, hemoglobin and white blood cell count were ana-
+lyzed from whole blood by an automatic analyzer (SE-9000, SYS-
+MEX, Hyogo, Japan).
+
+Analysis of ﬂavonols, ﬂavone and isoﬂavones in food. The
+amounts of four kinds of ﬂavonols (myricetin, ﬁsetin, quercetin and
+
+Downloaded from https://academic.oup.com/jn/article-abstract/130/9/2243/4686539
+by University of Ottawa user
+on 24 June 2018
+
+kaempferol) and one kind of ﬂavone (luteolin) were determined in 15
+vegetables, 8 fruits, 2 legumes, 1 potato and green tea. The amounts
+of two kinds of isoﬂavones (daidzein and genistein) were determined
+in soybeans, bean sprouts and traditional Japanese soybean products,
+such as tofu (soybean curd), natto (fermented soybean), miso (soy-
+bean paste) and shoyu (soy sauce). In most cases, at least three food
+samples were purchased at a local market and prepared for analysis on
+the same day. The whole foods were washed in water, chopped and
+homogenized. The samples were then freeze-dried and kept frozen at
+280°C until analysis.
+
+The analysis of ﬂavonols and ﬂavone was carried out by a modiﬁed
+method of hydrolysis by Hertog et al. (1992b), and extraction and
+HPLC condition by Terada and Miyabe (1993) and Shimoi et al.
+(1997). In brief, a 0.25-g freeze-dried food sample was extracted with
+25 mL of 50% methanol containing 1.2 mol/L HCl and 1.6 g/L
+tert-butylhydroquinone for 2 h at 90°C. The extract was diluted to
+100 mL with methanol. After centrifugation (1000 3 g, 5 min, 4°C),
+a 2-mL aliquot was dried by evaporation under nitrogen gas ﬂow,
+dissolved in 20 mL of methanol and added to 1.5 mL of 0.01 mol/L
+oxalic acid. Finally, it was applied to Sep-Pak C18 cartridges (Waters,
+Milford, MA). These were washed with 1 mL of 0.01 mol/L oxalic
+acid, 1 mL methanol/water/0.01 mol/L oxalic acid (25:73:2. v/v/v)
+and 10 mL water; the ﬂavonoids were eluted with 5 mL methanol and
+the methanol fraction was dried by evaporation under nitrogen gas
+ﬂow. The residue was dissolved in 100 mL methanol, of which 10 mL
+was used for HPLC analysis. Flavonoids were measured by the JASCO
+HPLC system (JASCO, Tokyo, Japan) with a Capcell Pak C18-
+UG120 column (150 3 4.6 mm i.d., 5-mm particle size) (Shiseido,
+Tokyo, Japan) at 50°C. Flavonoid peaks were detected at 372 nm.
+The ﬂow rate was carried out at 0.7 mL/min and the mobile phase was
+methanol/distilled water/0.5 mol/L oxalic acid solution (40:60:2, v/v/
+v). The retention times of the ﬂavonoids were 3.4 (myricetin), 3.9
+(ﬁsetin), 6.2 (quercetin), 7.5 (luteolin) and 11.0 min (kaempferol).
+The isoﬂavones were analyzed using the hydrolysis and extraction
+method of Mazur et al. (1996) combined with the HPLC method
+described by Gamache et al. (1997). Freeze-dried samples (0.01 g)
+were put in glass tubes and 0.5 mL of distilled water was added to
+each. After the samples stood for 10 min, they were hydrolyzed
+overnight at 37°C with 0.5 mL of an enzyme solution [0.5 mL Helix
+pomatia juice (Type HP-2S, Sigma, St. Louis, MO) in 10 mL of 0.2
+mol/L acetate buffer (pH 4.0) containing 0.15 g ascorbic acid]. The
+hydrolyzed samples were extracted twice with 5 mL diethyl ether, and
+the ether fraction was dried by evaporation under nitrogen gas ﬂow.
+The residue was dissolved in 1 mL methanol, and 20 mL of that
+solution was analyzed by HPLC with diode-array UV detection scan-
+ning from 250 to 400 nm (Beckman Coulter K.K., Tokyo, Japan).
+Isoﬂavone peaks were detected at 254 nm. The HPLC column ODS-
+80Ts-Qa (150 3 4.6 mm i.d., 5-mm particle size) (Tosoh, Tokyo,
+Japan) was used with a guard column (TSKguardgel ODS-80Ts, 1.5
+3 3.2 mm i.d., 5 mm particle size) (Tosoh), and the temperature kept
+at 25°C using a column oven. HPLC analysis was carried out by linear
+gradient, from 1.5:0.5:8.0 [methanol, acetonitrile, 0.2 mol/L acetate
+buffer (pH 4.0), v/v/v] to 6.0:3.0:1.0 for 45 min, and returned to the
+initial condition for 5 min. The ﬂow rate was 1.0 mL/min. The
+retention times of daidzein and genistein were 21.0 and 25.0 min,
+respectively.
+
+All measurements were carried out in duplicate. Quantiﬁcation of
+each ﬂavonoid and isoﬂavone was done by measuring peak areas on
+the basis of calibration plots of the peak area of standards at various
+concentrations. HPLC standards were purchased from Sigma-Aldrich
+Japan K.K. (Osaka, Japan; quercetin and myricetin), Funakoshi (To-
+kyo, Japan; kaempherol), Wako Pure Chemicals (Osaka, Japan; lu-
+teolin and ﬁsetin) and Indoﬁne Chemical Company (Somerville, NJ;
+daidzein and genistein). All solvents and chemicals used were HPLC
+grade or analytical grade.
+
+Statistical analysis. Statistical analysis was conducted using the
+SPSS package (SPSS 1998). Pearson’s correlation coefﬁcients were
+calculated between intake of antioxidant vitamins and phytochemi-
+cals and dietary variables or various health indices, such as anthro-
+pometric and blood biochemical analysis data. Two-sided P-values
+, 0.05 were considered signiﬁcant. Signiﬁcant association was fur-
+
+DIETARY INTAKES OF FLAVONOLS, FLAVONES AND ISOFLAVONES BY JAPANESE WOMEN
+
+2245
+
+TABLE 1
+
+TABLE 3
+
+Anthoropometric characteristics of 115 Japanese women
+
+Daily intakes by 115 Japanese women of energy, protein, fat,
+
+Percentile
+
+carbohydrate, antioxidant vitamins and their source food
+
+groups
+
+Variable
+
+Mean 6 SD
+
+Median
+
+25
+
+75
+
+Age, y
+Height, cm
+Weight, kg
+Body mass index, kg/m2
+Systolic blood pressure,
+
+Diastolic blood pressure,
+
+mmHg
+
+mmHg
+
+Daily walking steps, n
+
+57.9 6 10.1
+151.0 6 5.2
+54.5 6 7.4
+23.9 6 3.3
+
+60
+151.0
+53.4
+23.5
+
+52
+147.5
+49.0
+21.8
+
+65
+154.9
+59.7
+25.7
+
+125 6 16
+
+126
+
+114
+
+134
+
+77 6 9.2
+
+7755 6 3226
+
+78
+7720
+
+70
+5756
+
+82
+9301
+
+ther analyzed to exclude false judgement by multiple regression anal-
+ysis (residual model).
+
+RESULTS
+
+Anthropometric characteristics and biochemical analysis
+data of women are shown in Tables 1 and 2. The number of
+pre- and postmenopausal women was 24 (20.9%) and 91
+(79.1%), respectively. The length of the menstrual cycle of
+premenopausal women, aged 43.3 6 6.8 y, was 29 d (range
+25–35 d). Postmenopausal women had signiﬁcantly higher
+plasma TC (5.64 6 0.91 vs. 5.04 6 0.79 mmol/L) and LDL-C
+(3.61 6 0.86 vs. 3.13 6 0.76 mmol/L) as well as systolic blood
+pressure (128 6 14 vs. 116 6 18 mm Hg), and plasma hepatic
+function markers such as GOT (27 6 10 vs. 21 6 5 U/L), GPT
+(25 6 14 vs. 18 6 8 U/L) and g-GTP (0.41 6 0.33 vs. 0.27
+6 0.15 mkat/L) compared with premenopausal women. Daily
+intake of energy, protein, fat, carbohydrates and vitamins,
+
+TABLE 2
+
+Blood and plasma biochemical characteristics of 115
+
+Japanese women
+
+Percentile
+
+Variable
+
+Mean 6 SD
+
+Median
+
+25
+
+75
+
+RBC, 310210/L
+Hemoglobin, g/L
+WBC,1 31028/L
+Total protein, g/L
+Albumin, g/L
+Albumin/Globulin
+Total cholesterol, mmol/L
+Triacylglycerol, mmol/L
+HDL-cholesterol, mmol/L
+LDL-cholesterol,2 mmol/L
+Uric acid, mmol/L
+Creatinin, mmol/L
+GOT, U/L
+GPT, U/L
+g-GTP, mkat/L
+ALP, mkat/L
+Cholinesterase, mkat/L
+Total bilirubin, mmol/L
+
+430 6 36
+127 6 12
+60 6 14
+74 6 4
+45 6 2
+1.5 6 0.2
+5.52 6 0.91
+0.89 6 0.45
+1.60 6 0.38
+3.51 6 0.86
+249 6 68
+77 6 8
+26 6 10
+24 6 14
+
+0.38 6 0.31
+2.6 6 0.8
+2.8 6 0.6
+14 6 5
+
+430
+128
+60
+75
+45
+1.5
+5.43
+0.77
+1.55
+3.41
+
+244
+80
+24
+21
+0.28
+2.5
+2.8
+14
+
+408
+121
+51
+72
+43
+1.4
+4.91
+0.58
+1.32
+2.93
+
+196
+71
+21
+16
+0.20
+2.0
+2.5
+10
+
+453
+135
+68
+77
+46
+1.6
+6.08
+1.14
+1.78
+4.00
+
+291
+80
+28
+27
+0.43
+3.0
+3.1
+15
+
+1 Abbreviations: WBC, white blood cell; GOT, glutamic oxaloacetic
+transaminase; GPT, glutamic pyruvic transaminase; g-GTP, g-glutamyl
+transpeptidase; ALP, alkaline phosphatase.
+
+2 LDL-cholesterol was calculated from Friedewald formula.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/130/9/2243/4686539
+by University of Ottawa user
+on 24 June 2018
+
+Nutrients and
+food groups
+
+Total energy, kcal/d
+
+kJ/d
+
+Protein, % of energy
+Fat, % of energy
+Carbohydrate,
+% of energy
+Dietary ﬁber, g/d
+Cholesterol, mg/d
+Carotenoid, mg/d
+Vitamin C, mg/d
+Vitamin E, mg/d
+Pulse, g/d
+Fruit, g/d
+Vegetable, g/d
+Green yellow
+Others
+
+Percentile
+
+Mean 6 SD
+
+Median
+
+25
+
+75
+
+1816 6 361
+7598 6 1512
+16.6 6 2.5
+23.4 6 5.0
+
+1776
+7430
+
+16.5
+23.9
+
+1585
+6631
+
+14.8
+19.7
+
+2010
+8409
+
+18.2
+26.6
+
+60.0 6 6.2
+13.3 6 4.3
+250 6 145
+3.48 6 1.90
+109 6 45
+8.15 6 2.32
+96.3 6 49.7
+132.9 6 91.6
+366.6 6 145.8
+160.3 6 109.5
+206.3 6 91.1
+
+59.6
+13.1
+219
+
+2.88
+
+103
+
+7.70
+85.1
+113.3
+338.3
+128.3
+190.5
+
+56.3
+10.1
+144
+
+2.13
+74
+6.50
+60.0
+67.7
+260.0
+83.3
+144.7
+
+63.2
+15.3
+329
+
+4.49
+
+134
+
+9.30
+120.4
+180.8
+437.7
+208.7
+248.0
+
+antioxidative activity and selected foods rich in phytochemi-
+cals are shown in Table 3. There was no signiﬁcant difference
+in dietary intake of nutrients or food groups between premeno-
+pausal and postmenopausal women. The average intake of
+energy and nutrients exceeded the recommended dietary al-
+lowance for Japanese (Fig. 1).
+
+Intake of total ﬂavonoids (sum of myricetin, ﬁsetin, quer-
+cetin, kaempferol and luteolin) calculated from the 3-d dietary
+records using our ﬂavonoid composition table (Table 4) was
+16.7 6 9.2 mg/d, ranging from 2.0 to 42.4 mg/d (Fig. 2). The
+composition of the total ﬂavonoid intake was 55.9% quercetin,
+35.3% kaempferol, 4.6% ﬁsetin, 2.5% myricetin and 1.7%
+luteolin. Among the ﬁve ﬂavonoids, the intake of quercetin
+and kaempherol was greatest (Table 5).
+
+Onions were the main source of total ﬂavonoid intake
+(45.9%, 23.1 g/d), followed by molokheya (9.7%, 4.6 g/d),
+
+FIGURE 1 Nutrient intakes of the Japanese women as a percentage
+of the recommended dietary allowance (RDA). Values are means 6 SD; n
+5 115.
+
+2246
+
+Food
+
+ARAI ET AL.
+
+TABLE 4
+
+Myricetin, ﬁcetin, quercetin, kaempferol and luteolin concentrations in Japanese foods
+
+Myricetin
+
+Ficetin
+
+Quercetin
+
+Kaempferol
+
+Luteolin
+
+mg/g wet food
+
+Snap bean
+Green soybean, immature
+Bean sprout
+Tofu (Momen type)
+Potato
+Tomato
+Green bell pepper
+Eggplant
+Carrot
+Parsley
+Japanese radish
+Cabbage
+Broccoli
+Molokheka2
+Spinach
+Lettuce
+Onion
+Lotus root
+Cucumber
+Kiwi fruit
+Watermelon
+Orange
+Peach
+Apple
+Persimmon
+Grape
+Strawberry
+Green tea (Infusion)
+
+11.1
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+216.0
+ND
+ND
+7.1
+19.3
+37.5
+ND
+3.0
+5.9
+ND
+ND
+ND
+14.4
+ND
+ND
+10.6
+ND
+ND
+ND
+
+1 ND, not detected.
+2 Scientiﬁc name is Corchorus olitorius.
+
+ND1
+ND
+ND
+ND
+ND
+0.1
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+4.8
+5.8
+0.1
+2.0
+ND
+ND
+0.6
+26.9
+10.5
+3.9
+160.0
+ND
+
+12.6
+0.3
+1.5
+ND
+ND
+1.6
+14.1
+1.6
+ND
+7.0
+ND
+ND
+9.8
+154.0
+ND
+4.8
+337.0
+4.4
+ND
+2.1
+ND
+17.5
+1.1
+5.3
+ND
+ND
+6.9
+1.1
+
+18.6
+12.3
+3.3
+11.9
+23.4
+7.5
+3.2
+ND
+15.3
+45.1
+3.4
+7.2
+16.1
+118.0
+ND
+ND
+14.1
+7.6
+7.6
+30.6
+18.1
+31.5
+6.5
+26.7
+ND
+16.8
+19.4
+0.6
+
+10.1
+ND
+ND
+ND
+ND
+ND
+14.7
+ND
+ND
+3.1
+ND
+ND
+ND
+ND
+7.1
+5.2
+1.9
+3.6
+ND
+ND
+ND
+1.0
+ND
+ND
+1.4
+ND
+ND
+ND
+
+apples (7.2%, 22.2 g/d) and green tea (5.4%, 206 mL/d). The
+intake of ﬂavonoids was attributable to vegetables (72.3%),
+fruits (15.6%), green tea (5.4%), potatoes (3.8%) and pulses
+(tofu) (2.9%) (Table 5). Quercetin intake came mainly from
+onions (83.6%), whereas kaempferol came from various veg-
+etables and fruits. Vegetable and fruit intake, used for the
+calculation of ﬂavonoid intake, consisted of 78.0 and 70.4% of
+all vegetable and fruit consumption by weight, respectively, in
+the dietary records.
+
+Intake of total isoﬂavones (sum of daidzein and genistein)
+calculated from the 3-d dietary records using the isoﬂavone
+composition table (Table 6) was 47.2 6 23.6 mg/d, ranging
+from 12.0 to 118.9 mg/d (Fig. 2). Isoﬂavone intake exceeded
+100 mg/d in six subjects (5.2%). Genistein made up most of
+the isoﬂavone intake (30.5 6 15.6 mg/d), and daidzein intake
+(16.6 6 8.0 mg/d) was about half that of genistein (Table 7).
+Isoﬂavone intake was attributable to tofu (sum of various
+types, 37.0%, 49.4 g/d), natto (31.0%, 14.8 g/d) and miso
+(15.7%, 17.0 g/d), which accounted for 84.3% of pulse con-
+sumption by weight in the dietary records (Table 7).
+
+Flavonoid intake was positively correlated with vitamin C
+intake (r 5 0.426, P , 0.01), as was carotenoid intake (r
+5 0.347, P , 0.001), vegetable intake (r 5 0.402, P , 0.001)
+and fruit intake (r 5 0.210, P , 0.05). Dietary ﬁber intake
+correlated positively with both total ﬂavonoid intake (r
+5 0.265, P , 0.001) and total isoﬂavone intake (r 5 0.414, P
+, 0.001). Vitamin E intake did not correlate with ﬂavonoid
+and isoﬂavone intake. These associations remained unchanged
+after adjustment for total energy intake.
+
+After adjustment for age, BMI and total energy intake,
+
+ﬂavonoid intake was inversely associated with plasma TC (r
+5 20.236, P , 0.05) and LDL-C (r 5 20.220, P , 0.05).
+Among the ﬁve ﬂavonoids, quercetin intake was inversely
+correlated with plasma TC (r 5 20.261, P , 0.01) and
+LDL-C (r 5 20.263, P , 0.01) (Fig. 3). After further adjust-
+ment for age, BMI and total energy intake, dietary variables
+(intake of fat, carotenoids, vitamin C, dietary ﬁber and cho-
+lesterol), green tea consumption, number of steps taken, sys-
+tolic and diastolic blood pressure, cigarette use, alcohol use
+and menopausal status, the association between quercetin in-
+take and plasma LDL-C was unaffected (r 5 20.316, P
+, 0.01). Plasma HDL-C and TG, however, did not correlate
+with the intake of any ﬂavonoids. Isoﬂavone, carotenoid,
+vitamin C and E intakes were not signiﬁcantly correlated with
+plasma lipid concentrations. Other blood and biochemical
+data were not correlated with the intake of any ﬂavonoids,
+isoﬂavones or antioxidant vitamins.
+
+DISCUSSION
+
+The biological function of phytochemicals has increasing
+importance in nutritional science. Epidemiologic studies in
+Japan have suggested the importance of isoﬂavone intake to
+prevent estrogen-related cancers, osteoporosis and menopausal
+symptoms (Adlercreutz and Mazur 1997, Watanabe and Koes-
+sel 1993).
+
+We estimated the intakes of ﬂavonols, ﬂavone and isoﬂa-
+vones in Japanese women and tried to determine any relation-
+ship that existed between these phytochemicals and various
+
+Downloaded from https://academic.oup.com/jn/article-abstract/130/9/2243/4686539
+by University of Ottawa user
+on 24 June 2018
+
+DIETARY INTAKES OF FLAVONOLS, FLAVONES AND ISOFLAVONES BY JAPANESE WOMEN
+
+2247
+
+FIGURE 2
+
+Intakes of isoﬂavones, ﬂa-
+vonoids and antioxidant vitamins by 115
+Japanese women. This is a box-and-whis-
+ker plot. The length of the box corresponds
+to the interquartile range. The median of the
+data falls within the range of the box. The
+whiskers show the range of values that fall
+within 1.5 the length of the box. An open
+circle (E) shows values between 1.5 and 3
+lengths of the box.
+
+measurements of the amount of ﬂavonoids in foods was achiev-
+ing complete hydrolysis of all glycosides of ﬂavonols, ﬂavones
+and isoﬂavones without substantial loss of ﬂavonoid and isoﬂa-
+vone. In the case of isoﬂavones, enzymatic hydrolysis of glu-
+curonidase, sulfatase and other unknown enzymes in Helix
+pomatia juice yielded a maximum amount of isoﬂavones (Ma-
+zur et al. 1996). In contrast, ﬂavonol and ﬂavone hydrolysis
+presented some difﬁculty. Harborne (1965) reported that the
+time required for complete hydrolysis depended on the binding
+site of sugar on the ﬂavonoid nucleus: C7.C49.C3. Onions
+contain mainly C49 glycosides and tea C3 rutinosides (rutin).
+Apples contain a variety of quercetin glycosides, such as gla-
+ctosides and rhamnosides (Harrmann 1976). Hertog et al.
+
+anthropometric and blood biomarkers in a cross-sectional
+study drawn from a population-based prospective study.
+
+Our content table for ﬂavonols, ﬂavone and isoﬂavones
+agrees well with previous reports. Hertog et al. (1992a) re-
+ported that the quercetin concentration in onions was 347
+mg/g, and Crozier et al. (1997) reported it to be 342 mg/g. We
+obtained a similar value (337 mg/g). Toda et al. (1997) re-
+ported concentrations of isoﬂavones in 24 commercial Japa-
+nese soybean foods. Their isoﬂavone values and ours (sum of
+daidzein and genistein) are shown as follows: tofu (momen
+type), 422 vs. 435 mg/g; miso, 476 vs. 457 mg/g; and natto,
+1081 vs. 974 mg/g.
+
+The main methodological problem in obtaining accurate
+
+TABLE 5
+
+Intake and contribution of various foods to ﬂavonol and ﬂavone intakes by Japanese women
+
+Myricetin
+
+Fisetin
+
+0.4 6 0.51
+
+0.8 6 1.0
+
+Quercetin
+
+mg/(d z person)
+9.3 6 7.4
+
+Kaempferol
+
+Luteorin
+
+5.9 6 2.7
+
+0.3 6 0.3
+
+Food
+
+% of intake
+
+Food
+
+% of intake
+
+Food
+
+% of intake
+
+Food
+
+% of intake
+
+Food
+
+% of intake
+
+Spinach
+Molokheka
+Onion
+Snap bean
+Orange
+Broccoli
+Parsley
+
+28.5
+21.4
+16.7
+16.7
+11.9
+2.4
+2.4
+
+Apple
+Onion
+Grape
+Tomato
+Cucumber
+
+77.9
+14.3
+5.2
+1.3
+1.3
+
+Onion
+Molokheka
+Green tea
+Tomato
+Green pepper
+Apple
+Snap bean
+Orange
+Eggplant
+Lettuce 1 Broccoli
+
+83.6
+7.5
+2.5
+1.3
+1.3
+1.3
+0.9
+0.6
+0.6
+0.2
+
+Pear
+Potato
+Apple
+Tomato
+Molokheka
+Tofu
+Watermelon
+Cucumber
+Onion
+Carrot
+
+11.9
+11.8
+10.1
+9.5
+9.2
+9.0
+6.3
+6.0
+5.6
+5.3
+
+Green pepper
+Snap bean
+Onion
+Spinach
+Lettuce
+
+46.1
+23.1
+15.4
+7.7
+7.7
+
+1 Values are mean 6 SD, n 5 115.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/130/9/2243/4686539
+by University of Ottawa user
+on 24 June 2018
+
+2248
+
+ARAI ET AL.
+
+TABLE 6
+
+TABLE 7
+
+Concentrations of daidzein and genistein in Japanese foods
+
+Intakes and contributions of various foods to isoﬂavone intake
+
+Food
+
+Daidzein
+
+Genistein
+
+mg/g wet food
+
+Soybean
+(Raw)
+(Boiled)
+
+(Raw)
+(Boiled)
+
+Green soybean, immature
+
+Soybean powder (kinako)
+Soybean sprout
+Mung bean sprout
+Soymilk
+Okara1
+Yuba (Soymilk sheet)
+
+(Dried type)
+(Raw type)
+
+Tofu (Soybean curd)
+
+(Momen type)
+(Silken type)
+(Packed type)
+(Baked type)
+(Okinawa type)2
+(Dried type)
+Deep fried tofu
+(Thick type)
+(Thin type)
+Ganmodoki3
+Soy sauce
+
+(Common type)
+(Light color type)
+
+Miso (Soybean paste)
+
+(Light yellow type)
+(Dark yellow type)
+(White type)
+
+Natto (Fermented soybean)
+
+(Common type)
+(Tera type)4
+
+Tempeh5
+
+1006.3
+135.8
+
+33.3
+48.3
+823.3
+49.6
+3.4
+78.2
+33.1
+
+518.2
+167.4
+
+166.2
+130.1
+168.6
+166.8
+87.2
+168.2
+
+148.7
+84.2
+132.5
+
+8.4
+4.9
+
+176.5
+212.6
+104.2
+
+366.2
+685.6
+525.9
+
+1437.7
+472.5
+
+63.1
+66.0
+1301.6
+79.3
+2.4
+156.6
+57.1
+
+1106.5
+395.0
+
+269.2
+206.4
+280.7
+291.2
+184.0
+556.7
+
+257.4
+179.1
+338.4
+
+4.7
+2.7
+
+300.0
+293.2
+257.6
+
+607.4
+1186.5
+1326.2
+
+1 Bean curd residue.
+2 Okinawa, southern part of Japan, domestic type.
+3 Deep fried tofu with mixed up vegetables and seaweeds.
+4 Fermented with Aspergillus oryzae.
+5 Fermented soybean from Indonesia.
+
+(1992 b) reported that ﬂavonoid content after .2 h of hydro-
+lysis was 10% higher than that after only 2 h of hydrolysis.
+Because we did not optimize conditions according to food
+type, ﬂavonoid content in some foods could have been under-
+estimated.
+
+The average intake of ﬂavonoids was 16.7 6 9.2 mg/d in
+this study. This value agrees well with our previous study, in
+which the average ﬂavonoid intake was 16.2 6 9.5 mg/d
+(Kimira et al. 1998). Shimoi and Kinae (1997) analyzed the
+ﬂavonoid concentration in seven different kinds of duplicate
+meals. The range of ﬂavonoid concentration was from ;5 to
+30 mg/meal. Thus the intake of ﬂavonoids in the Japanese diet
+is estimated to be from 10 to 90 mg/d. Hertog et al. (1995)
+estimated that the average intake of total ﬂavonoids was ;65
+mg/d in two areas in the western part of Japan. Tea was the
+major source of ﬂavonoids in their study, in which . 80% of
+ﬂavonoid intake came from about seven cups (700 mL) of
+green tea per day. In our study, the main sources of ﬂavonoid
+intake were vegetables,
+tomatoes and
+molokheya, followed by fruits and green tea. The average
+intake of green tea was 206 mL/d (2 cups). The intake of
+
+such as onions,
+
+Downloaded from https://academic.oup.com/jn/article-abstract/130/9/2243/4686539
+by University of Ottawa user
+on 24 June 2018
+
+by Japanese women
+
+Daidzein
+
+Genistein
+
+mg/(d z person)
+
+16.6 6 8.01
+
+30.5 6 15.6
+
+Food
+
+% of intake
+
+Food
+
+% of intake
+
+Tofu2
+Natto2
+Miso2
+Deep fried tofu
+
+(Thin type)
+Soy sauce2
+Ganmodoki
+Kinako
+Boiled soybean
+
+Dried type tofu
+Deep fried tofu
+(Thick type)
+
+35.9
+30.1
+20.3
+3.1
+
+1.9
+1.7
+1.6
+1.1
+
+1.0
+0.9
+
+Tofu
+Natto
+Miso
+Deep fried tofu
+
+(Thin type)
+Ganmodoki
+Boiled soybean
+Kinako
+Deep fried tofu
+(Thick type)
+
+Soymilk
+Green soybean,
+
+immature
+
+37.3
+32.5
+17.6
+3.8
+
+2.0
+1.8
+1.5
+0.9
+
+0.7
+0.6
+
+1 Values are mean 6 SD, n 5 115.
+2 Values are sums of various types.
+
+catechin [(-)-epigallocatechin gallate] from tea was estimated
+to be ;40 mg/d.
+
+Willet (1998) reported that the number of days required for
+the estimation of various nutrient intakes differed greatly.
+Wakai et al. (1999) calculated that the number of days re-
+quired for determining 95% of the observed values of daidzein
+and genistein was 34, 76 and 305 d to obtain accurate intake
+estimates within a range of 30, 20 and 10%, respectively. Our
+study considered only ﬁve types of ﬂavonoids out of 4000 that
+are known; but these ﬁve are known to be important compo-
+
+FIGURE 3
+
+Inverse relationship between quercetin intake and
+plasma LDL cholesterol concentration in 115 Japanese women. The
+two variables were adjusted for total energy intake, dietary cholesterol
+intake, age and body mass index.
+
+DIETARY INTAKES OF FLAVONOLS, FLAVONES AND ISOFLAVONES BY JAPANESE WOMEN
+
+2249
+
+nents because of their antimutagenic (Kanazawa et al. 1997)
+and antioxidative properties (Catapano 1997, Ho 1997).
+
+Regardless of the above-described limitations, the present
+study showed that plasma LDL-C correlated inversely with the
+intake of quercetin, even after adjusting for other antioxidant
+vitamins.
+
+Igarashi and Ohmura (1995) reported that rats fed a cho-
+lesterol-enriched diet had lower TC when diets were supple-
+mented with isoramnetin, rhamnetin or quercetin, among
+which quercetin was the most effective. The fecal excretion of
+cholesterol and bile acids from rats fed quercetin was slightly
+higher than that of control rats. Flavonoids have been re-
+ported to have an antioxidant effect due to their ability to
+scavenge free radicals or to chelate metal ions (Belguendouz et
+al. 1997, Husain et al. 1987). It has been suggested that the
+TC- and LDL-C–reducing effects of ﬂavonoids prevent CHD
+and other chronic diseases in concert with the antioxidative
+effect of ﬂavonoids.
+
+Imai and Nakachi (1995) also reported a signiﬁcant reduc-
+tion of serum TC and TG in Japanese men who consumed
+.1000 mL (10 cups) of green tea per day. In our study,
+however, green tea consumption was not related to plasma
+lipid concentration, and adjusting for green tea consumption
+did not alter the inverse correlation of ﬂavonoid intake with
+plasma lipids. Cassidy et al. (1995) reported that the admin-
+istration of textured soy protein signiﬁcantly reduced plasma
+TC and LDL-C concentrations in premenopausal women.
+Whether isoﬂavones have a cholesterol-lowering effect is still
+unresolved (Bakhit et al. 1994, Carroll 1991, Hodgson et al.
+1998), Nelson et al. 1997, Potter et al. 1993. In our interven-
+tion study using isoﬂavone tablets, plasma cholesterol and TG
+concentrations were not affected (Watanabe et al. 2000b).
+
+Intake of isoﬂavones exceeded that of other dietary antioxi-
+dants, such as ﬂavonoids (16 mg), carotenoids (3 mg) and vita-
+min E (8 mg), reaching a level that was approximately one half
+that of vitamin C (108 mg) (Fig. 2). Isoﬂavones in the Japanese
+diet may contribute much to antioxidant effects in the body.
+Although the isoﬂavones were not correlated with plasma LDL-C
+in our study, these antioxidant properties would contribute to the
+prevention of LDL oxidation and lower mortality from CHD (De
+Whalley et al. 1990, Palinski et al. 1989, Parthasarathy et al.
+1992, Witztum and Steinburg 1991).
+
+ACKNOWLEDGMENTS
+
+The authors thank Toshiko Onodera, Atsuko Chida, Hitoshi
+Onodera and Tokuzo Ikeno for their help in this study, and Marshall
+Smith for his English revision.
+
+LITERATURE CITED
+
+Adlercreutz, H., Goldin, B. R., Gorbach, S. L., Hockerstedt, K.A.V., Watanabe, S.,
+Hamalainen, E. K., Markkanen, M. H., Makela, T. H., Wahala, K. T., Hase, T. A.
+& Fotsis, T.
+(1995) Soybean intake and cancer risk. J. Nutr. 125: 757S–
+770S.
+
+Adlercreutz, H. & Mazur, W.
+
+(1997) Phyto-estrogens and Western disease.
+
+Ann. Med. 29: 95–120.
+
+Arai, Y., Uehara, U., Sato, Y., Kimira, M., Eboshida, A., Adlercreutz, H. & Wa-
+tanabe, S.
+(2000) Comparison of isoﬂavones among dietary intake, plasma
+concentration and urinary excretion for accurate estimation of phytoestrogen
+intake. J. Epidemiol. 10: 127–135.
+
+Bakhit, R. M., Klein, B. P., Essex-Sorlie, D., Ham, J. O., Erdman, J. W. & Potter,
+Intake of 25 g of soybean protein with or without soybean
+S. M.
+ﬁber alters plasma lipids in men with elevated cholesterol concentrations. J.
+Nutr. 126: 3046 –3053.
+
+(1994)
+
+Belguendouz, L., Fremont, L. & Linard, A.
+
+(1997) Resveratrol inhibits metal
+ion-dependent and independent peroxidation of porcine 1ow-density lipopro-
+tein. Biochem. Pharmacol. 53: 1347–1355.
+
+Carroll, K. K.
+
+(1991) Review of clinical studies on cholesterol
+
+lowering re-
+
+sponse to soy protein. J. Am. Diet. Assoc. 91: 820 – 827.
+
+Cassidy, A., Bingham, S. & Setchell, K.
+
+(1995) Biological effects of isoﬂavones
+
+Downloaded from https://academic.oup.com/jn/article-abstract/130/9/2243/4686539
+by University of Ottawa user
+on 24 June 2018
+
+in young women: importance of the chemical composition of soybean prod-
+ucts. Br. J. Nutr. 74: 587– 601.
+
+Catapano, A. L.
+Crozier, A., Lean, M.E.J., McDonald, M. S. & Black, C.
+
+(1997) Antioxidant effect of ﬂavonoids. Angiology 48: 39 – 44.
+(1997) Quantitative
+analysis of the ﬂavonoid content of commercial tomatoes, onions, lettuce,
+and celery. J. Agr. Food Chem. 45: 590 –595.
+
+De Whalley, C. V., Rankin, S. M., Hoult, J.R.S, Jessup, W. & Leake, D. S.
+
+(1990)
+Flavonoids inhibit the oxidative modiﬁcation of low density lipoproteins by
+macrophages. Biochem. Pharmacol. 39: 1743–1750.
+
+Friedewald, W. T., Levy, R. I. & Fredrickson, D. S.
+
+(1972) Estimation of the
+concentration of low-density lipoprotein cholesterol in plasma, without use of
+the preparative ultracentrifuge. Clin. Chem. 18: 499 –502.
+
+Gamache, P. H., McCabe, D. R., Parvez, H., Parvez, S. & Acworth, I. N.
+
+(1997)
+The measurement of markers of oxidative damage, anti-oxidant and related
+compounds using HPLC and coulometric array analysis. In: Progress in
+HPLC-HPCE, Vol. 6, Coulometric Electrode Array Detectors for HPLC (Ac-
+worth, I. N., Naoi, M., Parvez, H. & Parvez, S., eds.), pp. 99 –126. VSP, Utrecht,
+The Netherlands.
+
+Harborne, J. B.
+
+(1965) Plant polyphenols-XIV. Characterisation of ﬂavonoids
+
+glycosides by acidic and enzymic hydrolysis. Phytochemistry 4: 107–120.
+
+Harrmann, K.
+
+(1976) Flavonols and ﬂavones in food plants: a review. J. Food
+
+Technol. 11: 433– 448.
+
+Hertog, M., Feskens, E., Hollman, P., Katan, M. & Kromhout, D.
+
+(1993) Dietary
+antioxidant ﬂavonoids and risk of coronary heart disease: the Zutphen elderly
+study. Lancet 342: 1007–1011.
+
+Hertog, M.G.L., Hollman, P.C.H. & Katan, M. B.
+
+(1992a) Content of potentially
+anticarcinogenic ﬂavonoids of 28 vegetables and 9 fruits commonly con-
+sumed in the Netherlands. J. Agric. Food Chem. 40: 2379 –2383.
+
+Hertog, M.G.L., Hollman, P.C.H. & Venema, D. P.
+
+(1992b) Optimization of a
+quantitative HPLC determination of potentially anticarcinogenic ﬂavonoids in
+vegetables and fruits. J. Agric. Food Chem. 40: 1591–1598.
+
+Hertog, M., Kromhout., D., Aravanis, C., Blackburn, H., Buzina, R., Fidanza, F.,
+Giampaoli, S., Jansen, A., Menotti, A., Nedeljkovic, S., Pekkarinen, M., Simic,
+B., Toshima, H., Feskens, E., Hollman, P. & Katan, M.
+(1995) Flavonoid
+intake and long-term risk of coronary heart disease and cancer in the seven
+countries study. Arch. Intern. Med. 155: 381–386.
+
+Ho, C.
+
+(1997) Antioxidant properties of plant ﬂavonoids. In: Food Factors for
+Cancer Prevention (Ohigashi, H., Osawa, T., Terao, J., Watanabe, S. & Yo-
+shikawa, T. eds.), pp. 593–597. Springer-Verlag, Tokyo, Japan.
+
+Hodgson, J. M., Croft, K. D., Puddey, I. B., Mori, T. A. & Beilin, L. J.
+
+(1996)
+Soybean isoﬂavones and their metabolic products inhibit in vitro lipoprotein
+oxidation in serum. J. Nutr. Biochem. 7: 664 – 669.
+
+Huang, M. T., Ferraro, T. & Ho, C. T.
+
+Hodgson, J. M., Puddey, I. B., Beilin, L. J., Mori, T. A. & Croft, K. D.
+
+(1998)
+Supplementation with isoﬂavones phytoestrogens dose not alter serum lipid
+concentrations: a randomized controlled trial in humans. J. Nutr. 128: 728–732.
+(1994) Cancer chemoprevention by
+phytochemicals in fruits and vegetables: an overview. In: Food Phytochemi-
+cals for Cancer Prevention 1. Fruits and Vegetables (Huang, M. T., Osawa, T.,
+Ho, C. T. & Rosen, R. T., eds,) ACS Symposium Series 547, pp. 2–16. ACS,
+Washington, DC.
+
+Husain, S. R., Cillard, J. & Cillard, P.
+
+(1987) Hydroxyl radical scavenging
+
+activity of ﬂavonoids. Phytochemistry 26: 2489 –2491.
+
+Igarashi, K. & Ohmura, M.
+
+Effects of isorhamnetin, rhamnetin and
+quercetin on the concentrations of cholesterol and lipoperoxide in the serum
+and liver and on the blood and liver antioxidative enzyme activities of rats.
+Biosci. Biotechnol. Biochem. 59: 595– 601.
+
+(1995)
+
+Imai, K. & Nakachi, K.
+
+(1995) Cross sectional study of effects of drinking green
+
+tea on cardiovascular and liver disease. Br. Med. J. 310: 693– 696.
+
+Kanazawa, K.
+
+(1997) Speciﬁc antimutagenicity of ﬂavonoids against dietary
+carcinogen Trp-P-2. In: Food Factors for Cancer Prevention (Ohigashi, H.,
+Osawa, T., Terao, J., Watanabe, S. & Yoshikawa, T., eds.), pp. 598 – 602.
+Springer-Verlag, Tokyo, Japan.
+
+Keli, S. O., Hertog, M. G., Feskens, E. J. & Kromhout, D.
+
+(1996) Dietary
+ﬂavonoids, antioxidant vitamins, and incidence of stroke. Arch. Intern. Med.
+156: 637– 642.
+
+Kimira, M., Arai, Y., Shimoi, K. & Watanabe, S.
+
+(1998)
+
+Japanese intake of
+
+ﬂavonoids and isoﬂavones from foods. J. Epidemiol. 8: 168 –175.
+
+Knekt, P., Jarvinen, R., Reunanen, A. & Maatela, J.
+
+(1996) Flavonoid intake and
+
+coronary mortality in Finland: a cohort study. Br. Med. J. 312: 478 – 481.
+
+Mazur, W., Fotsis, T., Wahala, K., Ojala, S., Salakka, A. & Adlercreutz, H.
+
+(1996)
+Isotope dilution gas chromatographic-mass spectrometric method for the
+determination of isoﬂavones, coumesterol and lignans in food samples. Anal.
+Biochem. 233: 169 –180.
+
+Ministry of Health and Welfare
+
+(1994) Recommended Dietary Allowances for
+
+Japanese, 5th rev. Daiichi Publishing, Tokyo, Japan.
+
+Ministry of Health and Welfare (1998) Annual Report of the National Nutrition
+
+Survey in 1996. Daiichi Publishing, Tokyo, Japan.
+
+Nestel, P. J., Yamashita, T, Sasahara, T., Pomeroy, S., Dart, A., Komesaroff, P.,
+Owen, A. & Abbey, M.
+(1997) Soy isoﬂavones improve systemic arterial
+compliance but not plasma lipids in menopausal and perimenopausal women.
+Arterioscler. Thromb. Vasc. Biol. 17: 3392–3398.
+
+Palinski, W., Rosenfeld, M. E., Yla¨ -Herttuala, S, Gurtner, G. C., Socher, S. S.,
+Butler, S. W., Parthasarathy, S., Carew, T. E. & Steinberg, D.
+(1989) Low
+density lipoprotein undergoes oxidative modiﬁcation in vivo. Proc. Natl. Acad.
+Sci. U.S.A. 86: 1372–1376.
+
+Parthasarathy, S., Steinberg, D. & Witztum, J.
+
+(1992)
+
+The role of oxidized
+
+2250
+
+ARAI ET AL.
+
+low-density lipoproteins in the pathogenesis of atherosclerosis. Annu. Rev.
+Med. 43: 219 –225.
+
+Potter, S. M., Pertile, J. & Berber-Jimenez, M. D.
+
+(1993) Soy protein concen-
+trate and isolated soy protein similarly lower blood serum cholesterol in men
+by consumption of baked products containing soy protein. Am. J. Clin. Nutr.
+58: 501–506.
+
+Ruiz-Larrea, M. B., Mohan, A.R., Paganga, G., Miller, N. J., Bolwell, G. P. &
+(1997) Antioxidant activity of phytoestrogenic isoﬂa-
+
+Rice-Evans, C. A.
+vones. Free Radic. Res. 26: 63–70.
+
+Shimoi, K. & Kinae, N.
+
+(1997) Absorption and in vivo antioxidant activity of
+
+dietary ﬂavonoids. Environ. Mutagen Res. 19: 171–177.
+
+Shimoi, K., Shen, B., Toyokuni, S., Mochizuki, R., Furugori, M. & Kinae, N.
+
+(1997)
+Protection by aG-rutin, a water-soluble antioxidant ﬂavonoid, against renal
+damage in mice treated with ferric nitrilotriactate. Jpn. J. Cancer Res. 88:
+453– 460.
+
+(1998) SPSS 8.0J for Windows User’s Guide. SPSS Japan, Tokyo,
+
+SPSS Inc.
+Japan.
+
+Steinmetz, K. A. & Potter, J. D.
+
+(1996) Vegetables, fruits and cancer preven-
+
+tion: a review. J. Am. Diet. Assoc. 96: 1027–1039.
+
+Terada, H. & Miyabe, M.
+
+(1993) Determination of rutin and quercetin in pro-
+cessed foods by fast semi-micro high performance liquid chromatography. J.
+Food Hyg. Soc. Jpn. 34: 385–391.
+
+The Science and Technology Agency of Japan
+
+(1982) Standard Tables of
+Food Composition in Japan, 4th ed. Ministry of Finance Printing Bureau,
+Tokyo, Japan.
+
+Toda, T, Tamura, J & Okuhira, T.
+
+(1997)
+
+Isoﬂavone content in commercial
+
+soybean foods. Foods Food Ingred. J. Jpn. 172: 83– 89.
+
+Tzeng, S. H., Ko, W. L., Ko, F. N. & Tang, C. M.
+
+(1991)
+
+Inhibition of platelet
+
+aggregation by some ﬂavonoids, Thromb. Res. 64: 91–100.
+
+Wakai, K., Egami, I., Kato, K., Kawamura, T., Tamakoshi, A., Lin, Y., Nakayama,
+(1999) Dietary intake and sources of isoﬂavones
+
+T., Wada, M. & Ohno, Y.
+among Japanese. Nutr. Cancer 33: 139 –145.
+
+Watanabe, S., Haba, R., Terashima, K., Arai, Y., Miura, T., Chiba, H. & Takamatsu,
+(2000a) Antioxidant activity of soya hypocotyl tea in humans. Biomar-
+
+K.
+kers (in press).
+
+Watanabe, S., Kimira, M. & Sobue, T.
+
+(1997) Diet and cancer: epidemiological
+approaches. In: Food Factors for Cancer Prevention (Ohigashi, H., Osawa, T.,
+Terao, J., Watanabe, S. & Yoshikawa, T., eds.), pp. 3– 8. Springer-Verlag,
+Tokyo, Japan.
+
+Watanabe, S. & Koessel, S.
+
+(1993) Colon cancer: an approach from molecular
+
+epidemiology. J. Epidemiol. 3: 47– 61.
+
+Watanabe, S., Terashima, K., Sato, Y., Arai, Y. & Eboshida, A.
+
+(2000b) Effects
+
+of isoﬂavone supplement on healthy women. Biomarkers (in press).
+
+Willet, W. C.
+
+(1998) Nature of variation in diet. In: Nutritional Epidemiology, 2nd
+
+ed., pp. 33– 49. Oxford University Press, New York, NY.
+
+Witztum, J. & Steinberg, D.
+
+(1991) Role of oxidized low density lipoprotein in
+
+atherogenesis. J. Clin. Investig. 88: 1785–1792.
+
+World Health Organization (1996) World Health Statistics Annual 1995. WHO,
+
+Geneva, Switzerland.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/130/9/2243/4686539
+by University of Ottawa user
+on 24 June 2018
+
+

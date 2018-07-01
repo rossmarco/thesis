@@ -1,0 +1,1097 @@
+Nutrition and Cancer
+
+Beef Meat and Blood Sausage Promote the Formation of Azoxymethane-
+Induced Mucin-Depleted Foci and Aberrant Crypt Foci in Rat Colons1,2
+
+Fabrice Pierre,3 Amanda Freeman,* Sylviane Tache´ , Roelof Van der Meer,†
+and Denis E. Corpet
+Ecole Nationale Ve´ te´ rinaire Toulouse, UMR INRA-ENVT Xe´ nobiotiques, 23 Capelles, 31076 Toulouse,
+France; *Department of Veterinary Science, University of Melbourne, Melbourne, Australia; and
+†Wageningen Centre for Food Sciences, NIZO Food Research, 6710 BA Ede, The Netherlands
+
+ABSTRACT Red meat intake is associated with colon cancer risk. Puzzlingly, meat does not promote
+carcinogenesis in rat studies. However, we demonstrated previously that dietary heme promotes aberrant
+crypt foci (ACF) formation in rats given a low-calcium diet. Here, we tested the hypothesis that heme-rich
+meats promote colon carcinogenesis in rats treated with azoxymethane and fed low-calcium diets (0.8 g/kg).
+Three meat-based diets were formulated to contain varying concentrations of heme by the addition of raw
+chicken (low heme), beef (medium heme), or black pudding (blood sausage; high heme). The no-heme control
+diet was supplemented with ferric citrate and the heme control diet with hemoglobin to match iron and heme
+concentrations in the beef diet, respectively. After 100 d, colons were scored for ACF and mucin-depleted foci
+(MDF). Fecal water was assayed for lipoperoxides and cytotoxicity. Only diets with heme promoted the
+formation of MDF, but all meat diets promoted ACF formation. The number of MDF/colon was 0.55 ⫾ 0.68 in
+controls, but 1.2 ⫾ 0.6 (P ⫽ 0.13), 1.9 ⫾ 1.4 (P ⬍ 0.01), and 3.0 ⫾ 1.2 (P ⬍ 0.001) in chicken-, beef-, and black
+pudding–fed rats. MDF promotion by the high-heme black pudding diet was greater than that by the
+medium-heme beef diet. The number of ACF/colon was 72 ⫾ 16 in controls, but 91 ⫾ 18, 100 ⫾ 13, and 103
+⫾ 14 in chicken-, beef-, and black pudding–fed rats (all P ⬍ 0.001). ACF and MDF did not differ between rats
+fed the beef diet and those fed the heme control diet. MDF promotion was correlated with high fecal water
+lipoperoxides and cytotoxicity (r ⫽ 0.65, P ⬍ 0.01). This is the ﬁrst study to show the promotion of
+experimental carcinogenesis by dietary meat and the association with heme intake.
+J. Nutr. 134: 2711–2716,
+2004.
+
+KEY WORDS:
+
+● colorectal carcinogenesis ● heme ●
+
+lipoperoxidation ●
+
+red meat ● chicken
+
+Colorectal cancer is a major cause of death in afﬂuent
+countries, and recommendations are to reduce red meat
+intake to reduce the risk (1). A meta-analysis of epidemi-
+ological studies by Norat et al. (2) found a moderate but
+signiﬁcant association between red meat intake and colo-
+rectal cancer risk. In puzzling contrast with epidemiological
+studies, experimental studies do not support the hypothesis
+that red meat increases colorectal cancer risk. Among the
+12 rodent studies reported in the literature, none demon-
+strated a speciﬁc promotional effect of red meat (3–14).
+McIntosh et al. (3) showed that rats given a diet containing
+kangaroo meat, soybean protein, or casein have a similar
+incidence of dimethylhydrazine-induced tumors. Clinton et
+al. (4) also found the colon tumor incidence to be the same
+for beef meat–(raw or grilled) and soybean diet–fed rats.
+
+1 Data were presented at the 4th NACRe symposium: Freeman, A., Tache´ , S.,
+Corpet, D. E. & Pierre, F.
+(2003) Viande et cancer: Promotion des le´ sions
+pre´ cance´ reuses du colon du rat par le poulet, le bœuf et le boudin noir. 13–14
+November, Paris, France.
+
+2 The study was supported by the INRA, the DGER, and the French region
+
+Midi-Pyre´ ne´ es.
+
+3 To whom correspondence should be addressed. E-mail: f.pierre@envt.fr.
+
+Nutter et al. (5) found beef proteins to afford signiﬁcant
+protection from colon cancer in mice compared with milk
+protein. Reddy et al. (6) and Pence et al. (7) found high-
+protein and high-fat diets, whatever the protein source, to
+increase colon tumor incidence in rats, but beef meat had a
+greater protective effect than casein (7). Pence et al. (8)
+found that well-cooked beef meat decreased the risk of
+colon cancer compared to casein in rats fed a high-fat diet
+but increased the risk in those fed a low-fat diet. Lai et al.
+(9) found that a lean beef diet did not increase tumor
+incidence in rats compared with a casein-iron citrate diet.
+Alink et al. (10) showed that human diets containing meat
+produced more colon carcinomas in rats than diets that did
+not include meat. These results do not support speciﬁc meat
+promotion, however, because the human diets contained
+more fat and less ﬁber than the rat diets. Mutanen et al.
+(11) did not ﬁnd a diet of beef meat to increase substantially
+the number of intestinal tumors in Min mice, although it
+contained 5 times more fat than the control diet. Kettunen
+et al. (12) found fewer tumors in female Min mice fed beef
+meat than in controls. Parnaud et al. (13) did not ﬁnd red
+meat to promote azoxymethane-induced aberrant crypt foci
+
+0022-3166/04 $8.00 © 2004 American Society for Nutritional Sciences.
+Manuscript received 4 May 2004. Initial review completed 24 May 2004. Revision accepted 2 August 2004.
+
+2711
+
+Downloaded from https://academic.oup.com/jn/article-abstract/134/10/2711/4688404
+by University of Ottawa user
+on 24 June 2018
+
+2712
+
+PIERRE ET AL.
+
+(ACF) formation compared to casein-fed controls. Belobraj-
+dic et al. (14) found kangaroo meat to promote aberrant
+crypt foci (ACF)4 formation in comparison with whey pro-
+tein, but whey is known to protect against colon carcino-
+genesis (15).
+
+Sesink et al. (16) speculated that heme, found in red meat
+myoglobin, would enhance colon carcinogenesis. They dem-
+onstrated that pure hemin added to rats diet increases colonic
+epithelial proliferation and that calcium phosphate inhibits
+the hemin-induced proliferation (17). In line with Sesink’s
+hypothesis, we showed that hemin diets increase the number
+and size of azoxymethane-induced ACF in rats fed a low-
+calcium diet, while hemoglobin diets increase ACF number
+only (18). Dietary hemin also produces cytotoxic fecal water
+and high amounts of TBARS, indicative of lumen lipoperoxi-
+dation (16), while dietary hemoglobin increases fecal TBARS
+only (18). ACF are putative preneoplastic lesions, and the
+effect of agents on ACF is correlated with the effect on tumor
+incidence in most (19) but not all studies. Recently, alterna-
+tive short-term biomarkers of colon carcinogenesis were pro-
+posed: mucin-depleted foci (MDF) (20). MDF are easy to score
+and may predict tumor outcome better than ACF (20,21).
+
+The present study was designed to test the hypothesis that
+heme in the food matrix can promote colon carcinogenesis.
+The diets used in previous animal studies (3–13) contained
+high levels of calcium; we supposed that calcium inhibited the
+promoting effect of red meat. Three types of meat were chosen
+with different heme contents: chicken, beef, and black pud-
+ding. A fourth diet, containing pure hemoglobin, was included
+as a control that contained the same concentration of heme as
+the beef diet. The myoglobin in beef is very close in structure
+to hemoglobin.
+
+MATERIALS AND METHODS
+
+Animals. Sixty Fisher 344 female rats were purchased at 4 wk of
+age from Iffa Credo. Animal care was in accordance with the guide-
+lines of the European Council on animals used in experimental
+studies. They were distributed randomly in pairs into stainless-steel
+wire-bottom cages. The room was kept at a temperature of 22°C on
+a 12-h light-dark cycle. Rats were allowed 7 d of acclimatization to
+the room and to the control diet (Table 1) before being injected i.p.
+with the carcinogen azoxymethane (Sigma Chemical, 20 mg/kg body
+wt) in NaCl (9 g/L). Seven days after the injection the rats were
+allowed free access to their respective diets for 100 d. Feed was
+changed every 2 or 3 d and water once a week. Body weights were
+monitored weekly. Feed intake per cage of 2 rats was also monitored
+at periodic intervals (d 5, 62, and 77). Fecal mass was measured as the
+total over a 24-h period per 2 rats on d 56, 61, 62, 76, and 77.
+
+Diets. Experimental diets, as shown in Table 1, were based on
+the diet fed to control rats (n ⫽ 20 rats) consisting of a modiﬁed
+AIN-76 diet (22) prepared and formulated in a powdered form by the
+UPAE (INRA). Dibasic calcium phosphate was included at a low
+concentration of 2.7 g/kg. Three meat diets given to 3 groups of rats
+(n ⫽ 10 rats/group) were formulated to contain varying concentra-
+tions of heme as hemoglobin or myoglobin by the addition of freeze-
+dried beef, chicken, or black pudding at 600 g/kg meat of the total
+diet. The beef and chicken (skinless) meat was obtained from UPAE.
+Meat was freeze-dried by LyoFal. The beef contained 0.6 ␮mol/g of
+heme while none was detected in the chicken diet (see the assay
+below). The low fat black pudding (blood sausage) contained 16
+␮mol/g of heme. It was specially made by Recape with 90% pork
+blood and 10% starch (w:w) and contained no potentially protective
+additives such as onion or milk. One group of rats (n ⫽ 10) received
+
+4 Abbreviations used: ACF, aberrant crypt foci; HID-AB, high-iron diamine-Alcian
+blue procedure; MDF, mucin-depleted foci; MTT, 3-(4,5-dimethyldiazol-2-yl)-2,5 di-
+phenyl tetrazolium bromide.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/134/10/2711/4688404
+by University of Ottawa user
+on 24 June 2018
+
+TABLE 1
+
+Composition of diets
+
+Control Chicken
+
+Beef
+
+Black
+
+pudding Hemoglobin
+
+Chicken
+Beef
+Black pudding
+Hemoglobin
+Lard
+Safﬂower oil
+Casein1
+Corn starch
+Sucrose
+Cellulose
+L-Methionine
+Mineral mix2
+Vitamin mix
+CaHPO4
+Ferric citrate3
+
+0
+0
+0
+0
+150
+50
+500
+60
+139.5
+50
+3
+35
+10
+2.7
+0.45
+
+600
+0
+0
+0
+122
+50
+1.1
+60
+68
+50
+3
+35
+10
+1.4
+0.35
+
+g/kg
+
+0
+600
+0
+0
+40
+50
+48.5
+60
+102
+50
+3
+35
+10
+1.6
+0
+
+0
+0
+600
+0
+112
+50
+115
+5
+20
+50
+3
+35
+10
+1.8
+0
+
+0
+0
+0
+6.3
+
+150
+50
+493.8
+60
+139.5
+50
+3
+35
+10
+2.7
+0.36
+
+1 Low-calcium casein.
+2 AIN-76 mix, but 500 g/kg of dibasic calcium phosphate replaced
+
+by sucrose in mineral mix.
+
+3 All diets contained 140 mg/kg iron except the black pudding diet
+(950 mg/kg). Iron concentration was measured in freeze-dried meat
+before the diets were prepared: chicken: 37.5, beef: 172.6, and black
+pudding 1527 mg/kg. Other nutrients were balanced: 50% protein,
+20% fat, 18 –25% carbohydrate, and 0.8 g/kg calcium (based on added
+components, no analysis was done on whole diets).
+
+a hemoglobin diet containing the same concentration of heme as the
+beef diet (0.36 ␮mol/g diet). This was achieved by adding powdered
+bovine hemoglobin (Sigma Chemical) to the control diet. All diets
+were balanced for protein (50%), fat (20%), calcium (0.8 g/kg), and
+iron (0.14 g/kg) by the addition of casein, lard, calcium phosphate,
+and ferric citrate. However, the black pudding died could not be
+balanced for iron (0.95 g/kg). The diets were prepared twice a month
+and maintained at ⫺20°C. A TBARS assay showed no lipoperoxi-
+dation (data not shown).
+
+ACF and MDF assays. All rats were killed by CO2 asphyxiation
+in a random order on d 99 or 100. Colons were coded and then scored
+for ACF by Bird’s procedure (23). ACF scoring was done in duplicate
+by 2 investigators who did not know the treatment group. After being
+scored for ACF, colons were stained with the high-iron diamine-
+Alcian blue procedure (HID-AB) to evaluate mucin production (20).
+MDF number and the number of crypts per MDF were scored by a
+single reader, who did not know the rat treatment or the ACF results,
+under a light microscope at 32X magniﬁcation. Lesions were identi-
+ﬁed as MDF by the absence or very small production of mucins and
+by at least 2 of the following criteria outlined by Caderni et al. (20):
+multiplicity higher than 3 crypts, distortion of the lumen of the
+crypts, and elevation of the lesion in comparison to normal mucosa.
+All lesions were photographed (Fig. 1), and representative pictures
+were mailed to Dr. Giovanna Caderni (University of Florence, Italy)
+for conﬁrmation.
+
+Preparation of fecal water, assay of TBARS, and heme. For
+assay of TBARS, heme, and cytotoxic activity on CMT93, fecal water
+was prepared from feces collected for 24 h under each cage of 2 rats,
+as previously described (18), but black pudding samples were diluted
+twice more than the other samples. For assay of cytolytic activity on
+erythrocytes, fecal water was prepared by Sesink’s procedure and pH
+was measured (16). TBARS were measured in fecal water according
+to Ohkawa et al. (24), exactly as previously described (18). Heme
+contents of freeze-dried feces and of fecal water were measured by
+ﬂuorescence according to Van den Berg et al. (25) and Sesink et al.
+(16), respectively, as already described (18).
+
+Cytolytic assay of fecal water. The cytotoxicity of fecal water
+was quantiﬁed by 2 methods, on erythrocytes and on a cell line. First,
+
+RED MEAT PROMOTES COLON CARCINOGENESIS IN RATS
+
+2713
+
+d 30. The ﬁnal body weight of beef-fed rats was greater than
+that of controls (P ⬍ 0.05, Table 2). Black pudding–fed rats
+had watery stools, a known effect of dietary heme, and they
+drank more water than controls (22 ⫾ 1 mL/d vs. 16 ⫾ 0.5
+mL/d, P ⬍ 0.001). Furthermore, all groups had similar food
+intakes; at day 75, intake was 8.4 ⫾ 0.5 g/d (full data not
+shown).
+
+ACF. All meat-based diets (chicken, beef, and black
+pudding) increased the number of ACF (P ⬍ 0.001, Fig. 2A)
+and the number of aberrant crypts per colon (P ⬍ 0.001, Table
+2) after 100 d. Chicken and black pudding, but not beef, also
+increased the number of crypts per ACF (P ⬍ 0.01, Table 2).
+Aberrant crypts and ACF promotion by the black pudding diet
+were more potent than promotion by the chicken diet (P
+⬍ 0.05, Table 2). Rats fed the beef diet did not differ from
+those fed the hemoglobin diet in aberrant crypt number or
+ACF per colon. However, the ACF contained more crypts in
+the hemoglobin-fed group (Table 2).
+
+MDF. Beef- and black pudding–fed rats had more MDF
+than control rats (P ⬍ 0.01), and promotion by black pudding
+was more potent than promotion by beef (P ⬍ 0.05, Fig. 2B).
+The chicken-based diet, the low-heme diet, did not promote
+MDF formation (Fig. 2B). The effects on the number of MDF
+also occurred on the number of mucin-depleted crypts (Table
+2). The groups did not differ in the number of crypts per MDF.
+The beef and hemoglobin groups did not differ for any of the
+variables tested (Table 2).
+
+Fecal heme, TBARS, and cytotoxicity. The fecal concen-
+tration of heme matched the heme intake. As expected, no
+heme was detected in feces of control and chicken diet–fed
+rats (Table 3). The analysis of fecal samples stored during the
+study of Parnaud et al. (13) where diet containing 60% beef
+meat but 130 ␮mol/g calcium yielded similar results: No heme
+was detected in feces of control and chicken diet–fed rats, but
+there was 1.7 ⫾ 1.5 ␮mol/g in feces of beef-fed rats. However,
+in the present study, the heme concentration was higher in the
+feces of hemoglobin-fed rats than in beef-fed rats (Table 3).
+This is consistent with the observation that less heme iron
+reaches the colon when it is supplied as red meat rather than
+in hemoglobin form (14). We measured the characteristics of
+fecal water because, according to studies on bile acids, the
+soluble fraction of colonic contents would interact more
+strongly with the mucosa than the insoluble fraction (28). As
+expected, the heme concentration in fecal water depended
+directly on the level of heme in the diet (Table 3), with, as
+noted above, a difference between meat- and hemoglobin-fed
+rats. There was no heme in fecal waters in Parnaud’s meat
+study, even in samples from rats given a 60% beef diet (13).
+Heme can induce the formation of peroxyl radicals in fats,
+which may be cytotoxic and cleave DNA in vivo (29). Lipid
+
+FIGURE 1
+
+Formalin-ﬁxed colon after HID-AB staining, of rats
+107 d after the injection of azoxymethane (original magniﬁcation, X32).
+A: Identiﬁcation of an MDF of 5 mucin-depleted crypts. B: Identiﬁcation
+of an MDF of 11 mucin-depleted crypts.
+
+the cytolytic activity of fecal water was quantiﬁed by potassium
+release from erythrocytes as described by Govers et al. (26). Second,
+the cytotoxicity of fecal water obtained with a different method (see
+above) was also quantiﬁed by the 3-(4,5-dimethyldiazol-2-yl)-2,5
+diphenyl tetrazolium bromide (MTT) test on a cell line according to
+Bonneson et al. (27). Brieﬂy, the cancerous mouse colonic epithelial
+cell line, CMT93 (ECAC), was seeded in 96-well microtiter plates
+(1.6 ⫻ 104 cells per well in 200 ␮L of medium) and at conﬂuence the
+cells were treated for 24 h with the fecal water sample to be tested and
+diluted in the culture medium at a concentration of 10% (v:v). Each
+fecal water sample was tested in 7 wells and 10 wells remained
+untreated to act as controls. One hundred microliters of MTT (9% in
+PBS) was added to each well. After 3 h of incubation at 37°C in the
+dark, 100 ␮L of a 10% SDS-0.1 mol/L NaOH mixture was added.
+After 1 h of incubation in the dark, the absorbance of each well was
+read using a microplate reader at wavelength 570 nm for cytotoxicity
+and 690 nm for background.
+
+Statistical analysis. Results were analyzed using Systat 10 soft-
+ware for Windows and reported as means ⫾ SD. ACF scoring was
+done in duplicate. ACF variables were tested ﬁrst using 2-way (groups
+and readers) ANOVA. The (group ⫻ reader) interaction was never
+signiﬁcant, and when total ANOVA was signiﬁcant (P ⬍ 0.05),
+pairwise differences between groups were analyzed using Fishers’s
+least-signiﬁcant-difference test. MDF variables and all other data
+were analyzed using 1-way ANOVA and groups were compared using
+Fishers’s least-signiﬁcant-difference test. The Pearson correlation co-
+efﬁcient was used to determine the relations between ACF, MDF,
+heme intake, and fecal values, and P values were calculated with
+Bonferroni correction for multiple comparisons. Because the black
+pudding diet contained a very high concentration of heme, heme
+values were log-transformed before statistical analysis.
+
+RESULTS
+
+Weight gain and feed intake. Beef-fed rats quickly became
+heavier than control rats, and the difference was signiﬁcant at
+
+TABLE 2
+
+Effect of meat-based diets on ACF and MDF formation in the colon of rats 107 d after the injection of azoxymethane1
+
+Diets
+
+Heme
+
+Rats
+
+Final body
+
+weight
+
+ACF/colon
+
+ACF crypts/
+
+colon
+
+Crypts/ACF
+
+MDF/colon
+
+MDF crypts/
+
+colon
+
+Crypts/MDF
+
+␮mol/g diet
+
+Control
+Chicken
+Beef
+Hemoglobin
+Black pudding
+
+0.0
+0.0
+0.36
+0.36
+9.54
+
+n
+
+20
+10
+10
+10
+10
+
+g
+
+n
+
+198 ⫾ 12a
+199 ⫾ 10a
+210 ⫾ 9b
+196 ⫾ 11a
+189 ⫾ 9a
+
+72 ⫾ 16a
+91 ⫾ 18b
+100 ⫾ 13b,c
+93 ⫾ 24b,c
+103 ⫾ 14c
+
+192 ⫾ 55a
+267 ⫾ 65b
+280 ⫾ 49b
+285 ⫾ 78b
+301 ⫾ 48b
+
+2.7 ⫾ 0.4a
+2.9 ⫾ 0.4b
+2.8 ⫾ 0.2a
+3.1 ⫾ 0.5b
+2.9 ⫾ 0.2b
+
+0.55 ⫾ 0.68a
+1.20 ⫾ 0.63a
+1.90 ⫾ 1.37b
+2.40 ⫾ 1.50b,c
+3.00 ⫾ 1.24c
+
+2.9 ⫾ 4.0a
+6.0 ⫾ 3.9a,b
+8.5 ⫾ 6.9b,c
+11.5 ⫾ 9.0c,d
+13.1 ⫾ 6.0d
+
+4.65 ⫾ 2.40
+4.92 ⫾ 1.64
+4.23 ⫾ 1.15
+4.60 ⫾ 1.93
+4.29 ⫾ 0.59
+
+1 Values are means ⫾ SD. Means in columns with superscripts without a common letter in differ, P ⬍ 0.05.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/134/10/2711/4688404
+by University of Ottawa user
+on 24 June 2018
+
+2714
+
+PIERRE ET AL.
+
+produced equivalent effects: no lytic activity on erythrocytes,
+but a 4-fold increase in CMT93 cell toxicity (P ⬍ 0.001). The
+cytotoxicity of fecal water from chicken-fed rats was not dif-
+ferent from that of controls (Table 3). All meat-based diets
+increased the fecal pH, which was higher when the heme
+concentration was higher in the diet (Table 3). Taken to-
+gether, these data suggest that cytotoxicity, pH, and lipoper-
+oxides of fecal water are associated with heme intake and fecal
+heme. Indeed, signiﬁcant correlations were seen between
+heme intake and fecal water cytotoxicity (r ⫽ 0.98), pH (r
+⫽ 0.86), and TBARS (r ⫽ 0.73, all P ⬍ 0.01, n ⫽ 30 cages of
+2 rats).
+
+DISCUSSION
+
+This study is the ﬁrst to show that meat can speciﬁcally
+promote colon carcinogenesis. In addition, the promoting
+effect was stronger than other promoting agents (30) and
+clearly associated with the heme concentration in meat. This
+study was done with a low-calcium diet containing 60% meat
+and 5% easily oxidized oil. We used 2 putative precancerous
+endpoints: the established ACF and the recently described
+MDF. Heme in the diet led to ACF and MDF promotion in
+the colon. The low-heme chicken-based diet did not promote
+MDF, but increased the ACF number.
+
+This study is, to our knowledge, the ﬁrst non-Italian study
+to use a new carcinogenesis endpoint which was recently
+described by Caderni et al. (20). MDF may predict tumor
+outcome better than ACF, as shown in the studies of synbi-
+otics, cholic acid, and piroxicam (20,21). We found that MDF
+were quite easy to score, but we detected fewer MDF per
+control rat than did Caderni et al. (20). This is likely the result
+of the carcinogen dose: azoxymethane was injected once in-
+stead of twice, and the resulting number of ACF was 75%
+fewer here than in the study of Caderni et al. (72 vs. 298
+ACF/colon).
+
+That heme content in meat was responsible for promotion
+of colon carcinogenesis, at least in part, is supported by the
+following facts: (i) all tested meat diets promoted ACF forma-
+tion, but this was signiﬁcantly greater in rats fed the high-
+heme diet, based on black pudding, than for those fed the
+low-heme chicken diet (Fig. 2). (ii) Only heme-containing
+diets promoted MDF formation, and the effect was dose de-
+pendent, because the black pudding effect was signiﬁcantly
+stronger than the beef effect. MDF per colon was correlated
+with heme intake (r ⫽ 0.63, n ⫽ 60, P ⬍ 0.01). (iii) Beef and
+hemoglobin diets, which provided the same amount of heme,
+
+FIGURE 2
+
+Effect of meat-based diets on putative precancerous
+lesions per rat colon 107 d after the injection of azoxymethane. A:
+Number of aberrant crypt foci. B: Number of mucin-depleted foci.
+Values are means ⫾ SD, n ⫽ 10 or 20 (controls). Means without a
+common letter differ, P ⬍ 0.05.
+
+peroxidation was thus measured in fecal water by the TBARS
+assay. Lipid peroxidation was associated with heme concen-
+tration in fecal water (Table 3): The black pudding diet thus
+increased TBARS in the fecal water by 23-fold. The hemo-
+globin diet and beef diet increased TBARS by 2- to 4-fold (all
+P ⬍ 0.01), but the chicken diet did not affect fecal water
+TBARS compared with the control diet.
+
+The fecal water of hemin-fed rats is cytotoxic, which would
+explain the hemin-induced increased proliferation (18). Cy-
+totoxicity of fecal water was measured by 2 methods: lysis of
+erythrocytes and toxicity on CMT93 cell in culture. The black
+pudding diet, a very high source of heme, enhanced erythro-
+cytes cytolysis by ⬎50-fold and toxicity on CMT93 cells by
+8-fold (both P ⬍ 0.001, Table 3). Beef and hemoglobin diets
+
+Effect of meat-based diets on fecal heme, lipoperoxides, and cytotoxicity of fecal water in rats 77 d
+
+after the injection of azoxymethane1
+
+TABLE 3
+
+Diet
+
+Heme
+intake2
+
+␮mol/d
+
+Dry fecal
+
+mass
+
+g/d
+
+Heme in
+feces2
+
+␮mol/g
+
+Heme in fecal
+
+water2
+
+TBARS in fecal
+
+water, MDA
+equivalents
+
+pH of fecal
+
+water
+
+Cytolytic
+activity on
+erythrocytes
+
+Cytotoxicity
+on CMT93
+
+cells
+
+␮mol/L
+
+pH
+
+% K release % cells lysed
+
+Control
+Chicken
+Beef
+Hemoglobin
+Black pudding
+
+0a
+0a
+
+3.0 ⫾ 0.4b
+2.9 ⫾ 0.4b
+87.0 ⫾ 8.0c
+
+0.50 ⫾ 0.11a
+0.58 ⫾ 0.06b
+0.64 ⫾ 0.09b
+0.53 ⫾ 0.07b
+1.00 ⫾ 0.06c
+
+0a
+0a
+
+0.5 ⫾ 0.2b
+0.9 ⫾ 0.3c
+23.6 ⫾ 8.6d
+
+0a
+0a
+
+19 ⫾ 7b
+52 ⫾ 47c
+1097 ⫾ 484d
+
+40 ⫾ 15a
+69 ⫾ 16a
+138 ⫾ 17b
+195 ⫾ 96b
+975 ⫾ 229c
+
+7.85 ⫾ 0.03a
+8.02 ⫾ 0.03b
+8.17 ⫾ 0.03c
+8.13 ⫾ 0.03c
+8.30 ⫾ 0.06d
+
+1 ⫾ 2a
+1 ⫾ 2a
+1 ⫾ 2a
+1 ⫾ 1a
+73 ⫾ 36b
+
+12 ⫾ 12a
+26 ⫾ 15a
+59 ⫾ 14b
+58 ⫾ 27b
+88 ⫾ 03c
+
+1 Values are means ⫾ SD, n ⫽ 5 or 10 cages (controls). Means in columns with superscripts without a common letter in differ, P ⬍ 0.05.
+2 Log-transformed data were tested by ANOVA.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/134/10/2711/4688404
+by University of Ottawa user
+on 24 June 2018
+
+RED MEAT PROMOTES COLON CARCINOGENESIS IN RATS
+
+2715
+
+promoted ACF and MDF equally (Table 3). This meat study is
+thus consistent with our previous study, where ACF were
+promoted dose-dependently by graded doses of dietary hemin
+(18). We think that previous studies in rats failed to show that
+red meat promotes carcinogenesis because meat was included
+in a high-calcium diet. The standard AIN-76 diet contains
+130 mmol/kg calcium, which is similar to the concentration
+that inhibits heme-induced colonic proliferation (17) and
+heme-induced ACF promotion (18). Calcium precipitates
+heme in the gut lumen and reduces heme concentration in
+fecal water (17,18). In the study of Parnaud et al. (13), the
+heme concentration was high in the feces of beef-fed rats, but
+was not detectable in the fecal water (see results above). We
+suggest that this is due to high dietary calcium, and it resulted
+in the lack of ACF promotion by the beef diet (13). However,
+the link between heme intake and ACF yield is not a direct
+one: black pudding provided a huge quantity of heme to the
+gut that was not mirrored linearly in the ACF outcome.
+
+The mechanism of heme promotion is not known, but
+might be linked to peroxidation, cytotoxicity, and pH. In a
+previous study, we showed that pure hemin and hemoglobin
+promote ACF formation and induce lipoperoxidation and
+cytotoxicity of fecal water (18). Indeed, heme promotes the
+nonenzymatic peroxidation of PUFA (16,18,29). The lipid
+peroxyl radicals (LOO䡠) generated from simultaneous fat and
+heme iron ingestion, and the resulting oxygen radicals, can
+cleave DNA or modify DNA bases, which could increase
+carcinogenesis (29). The beef-based diet contained 0.36
+␮mol/g heme. Its intake led to 19 ␮mol/L heme in fecal water
+and a 2.5-fold increase in lipoperoxidation (Table 3). Similar
+TBARS values were seen in fecal water from beef-fed rats and,
+in our previous study (18), from hemoglobin diet–fed rats (138
+and 187 ␮mol/L MDA equivalents, respectively). In addition,
+red meat intake induced fecal cytotoxicity and increased the
+pH of fecal water (Table 3). Black pudding contains 25 times
+more heme than beef. Compared with beef, the consumption
+of black pudding led to 60 times more heme in fecal water, 7
+times more TBARS, and a much higher cytotoxicity (Table
+3). Fecal water from beef-fed rats or hemoglobin-fed rats (18)
+did not induce cytolysis of erythrocytes, probably because
+heme intake was too low. In contrast, fecal water from black
+pudding–fed rats
+strikingly induced erythrocyte cytolysis.
+Thus, we conclude that there was a dose-dependent effect of
+the heme concentration in the diet and in fecal water on the
+fecal lipoperoxidation, cytotoxicity, and pH. All correlations
+among these variables were signiﬁcant. In addition, MDF and
+ACF numbers per rat were also correlated with these fecal
+values (all r ⬎ 0.5, all P ⬍ 0.01, n ⫽ 60 rats, highest
+correlation, r ⫽ 0.65 between number of MDF and cytotox-
+icity). These correlations suggest that fecal cytotoxicity, li-
+poperoxides, and pH may explain heme promotion of colon
+carcinogenesis. That hemoglobin and meat diets, with same
+heme content as hemoglobin and myoglobin, produced the
+same effects also supports this idea (Table 3). Surprisingly, a
+published study with a protocol very similar to this one noted
+no ACF promotion (14). Fecal heme concentrations were
+similar in both studies, but the fecal TBARS value was 2 times
+higher in the study of Belobrajdic et al. (14). We speculate
+that lipoperoxidation was inhibited by tert-butylhydroquinone
+in the AIN-93 diet used by Belobradjic et al. (14). This chance
+observation supports the hypothesis that heme-induced li-
+poperoxidation plays a role in the promotion of colon carci-
+nogenesis.
+
+The low-heme chicken-based diet surprisingly increased
+the ACF number and size (Table 2). The chicken meat used in
+this study may contain a promoter that is not heme and
+
+Downloaded from https://academic.oup.com/jn/article-abstract/134/10/2711/4688404
+by University of Ottawa user
+on 24 June 2018
+
+remains to be explained. The prominent features of the
+chicken diet were high arachidonic acid and niacin. The
+chicken diet contained 1 g/kg of arachidonic acid [calculated
+from (31)] compared to 0.25 g/kg in other diets. Arachidonic
+acid has pro-tumorigenic properties, likely by increasing pros-
+taglandin synthesis (32). In addition, the chicken diet con-
+tained 207 mg/kg of niacin, 4 times the 51 mg/kg found in the
+control diet and twice the value in beef diet (assays done by
+LARA Lab). Niacin can afford protection against carcinogen-
+esis when added to a niacin-deﬁcient diet (33), but high doses
+are toxic. Here, the high dose provided by the chicken-based
+diet would translate to 12 times the recommended daily al-
+lowance in humans. High niacin stimulates histamine release
+and prostaglandin synthesis, which might explain the ACF
+promotion (34). The intake of white meat is not associated
+with colorectal cancer risk in most epidemiological studies
+(1,2). In contrast, dietary heme iron intake is associated with
+an increased risk of proximal colon cancer (35). However, in
+a prospective cohort study of 34,198 Californian Adventists,
+the consumption of white meat, mostly chicken, was associ-
+ated with a tripled risk of colorectal cancer (36).
+
+In summary, this study shows for the ﬁrst time a promoting
+effect of red meat on carcinogenesis. It corroborates epidemi-
+ological observations: high red meat intake is associated with
+increased colon cancer risk. In previous meat studies (3–13),
+the promoting effect of meat was inhibited by dietary calcium,
+as shown by the study of Parnaud et al. (13). Furthermore,
+MDF promotion was related to heme intake. Promotion was
+signiﬁcantly greater for the high-heme black pudding diet than
+for the medium-heme beef diet. This heme effect is in line
+with recent epidemiological data (35). The low-heme chicken
+diet did not promote MDF, but did increase ACF formation.
+For red meat diets, promotion was associated with high fecal
+water lipoperoxidation, cytolytic activity, and increase of pH,
+which may explain the increased carcinogenesis.
+
+ACKNOWLEDGMENTS
+
+We thank Xavier Blanc (UPAE) for the preparation of experi-
+mental diets, Denise S.M.L. Termont for the assay of cytolytic activ-
+ity of fecal water on erythrocytes, Florence Vallenari for the assay of
+heme in feces and fecal water, Marie-Claude Nicot for the assay of
+calcium and iron in meats, and Raymond Gazel and Florence Blas Y
+Estrada for the care of the animals.
+
+LITERATURE CITED
+
+1. WCRF & AICR (1997) Food, Nutrition and the Prevention of Cancer: A
+Global Perspective. Washington, DC: World Cancer Research Fund and American
+Institute for Cancer Research.
+
+2. Norat, T., Lukanova, A., Ferrari, P. & Riboli, E.
+
+(2002) Meat consump-
+tion and colorectal cancer risk: dose-response meta-analysis of epidemiological
+studies. Int. J. Cancer 98: 241–256.
+
+3. McIntosh, G. H., Regester, G. O., Leleu, R. K., Royle, P. J. & Smithers,
+(1995) Dairy proteins protect against dimethylhydrazine-induced intes-
+
+G. W.
+tinal cancers in rats. J. Nutr. 125: 809 – 816.
+
+4. Clinton, S. K., Destree, R. J., Anderson, D. B., Truex, C. R., Imrey, P. B.
+1,2-dimethylhydrazine induced intestinal cancer in rats
+
+& Visek, W. J.
+fed beef or soybean protein. Nutr. Rep. Int. 20: 335–342.
+
+(1979)
+
+5. Nutter, R. L., Gridley, D. S., Kettering, J. D., Goude, A. G. & Slater, J. M.
+(1983) BALB/c mice fed milk or beef protein: differences in response to 1,2-
+dimethylhydrazine carcinogenesis. J. Natl. Cancer Inst. 71: 867– 874.
+
+6. Reddy, B. S., Narisawa, T. & Weisburger, J. H.
+
+(1976) Effect of a diet
+with high levels of protein and fat on colon carcinogenesis in F344 rats treated
+with 1,2-dimethylhydrazine. J. Natl. Cancer Inst. 57: 567–569.
+
+7. Pence, B. C., Butler, M. J., Dunn, D. M., Miller, M. F., Zhao, C. & Landers,
+(1995) Non-promoting effects of lean beef in the rat colon carcinogenesis
+
+M.
+model. Carcinogenesis 16: 1157–1160.
+
+8. Pence, B. C., Landers, M., Dunn, D. M., Shen, C. L. & Miller, M. F.
+
+(1998)
+Feeding of a well-cooked beef diet containing a high heterocyclic amine content
+enhances colon and stomach carcinogenesis in 1,2-dimethylhydrazine-treated
+rats. Nutr. Cancer 30: 220 –226.
+
+9. Lai, C., Dunn, D. M., Miller, M. F. & Pence, B. C.
+
+(1997) Non-promoting
+
+2716
+
+PIERRE ET AL.
+
+effects of iron from beef in the rat colon carcinogenesis model. Cancer Lett. 112:
+87–91.
+
+10. Alink, G. M., Kuiper, H. A., Hollanders, V.M.H. & Koeman, J. H.
+
+(1993)
+Effect of heat processing and of vegetables and fruit in human diets on 1,2-
+dimethylhydrazine-induced colon carcinogenesis in rats. Carcinogenesis 14:
+519 –524.
+
+11. Mutanen, M., Pajari, A. M. & Oikarinen, S. I.
+
+(2000) Beef induces and
+rye bran prevents the formation of intestinal polyps in apc(min) mice: relation to
+beta-catenin and PKC isozymes. Carcinogenesis 21: 1167–1173.
+
+12. Kettunen, H. L., Kettunen, A.S.L. & Rautonen, N. E.
+
+Intestinal
+immune responses in wild-type and apc(min/⫹) mouse, a model for colon cancer.
+Cancer Res. 63: 5136 –5142.
+
+(2003)
+
+13. Parnaud, G., Peiffer, G., Tache, S. & Corpet, D. E.
+
+(1998) Effect of
+meat (beef, chicken, and bacon) on rat colon carcinogenesis. Nutr. Cancer 32:
+165–173.
+
+14. Belobrajdic, D. P., Mcintosh, G. H. & Owens, J. A.
+
+(2003) Whey
+proteins protect more than red meat against azoxymethane induced ACF in wistar
+rats. Cancer Lett. 198: 43–51.
+
+15. Hakkak, R., Korourian, S., Ronis, M.J.J., Johnston, J. M. & Badger, T. M.
+(2001) Dietary whey protein protects against azoxymethane-induced colon tu-
+mors in male rats. Cancer Epidemiol. Biomarkers Prev. 10: 555–558.
+
+16. Sesink, A.L.A., Termont, D.S.M.L., Kleibeuker, J. H. & Van der Meer, R.
+(1999) Red meat and colon cancer: the cytotoxic and hyperproliferative effects
+of dietary heme. Cancer Res. 59: 5704 –5709.
+
+17. Sesink, A.L.A., Termont, D.S.M.L., Kleibeuker, J. H. & Van der Meer, R.
+(2001) Red meat and colon cancer: dietary haem-induced colonic cytotoxicity
+and epithelial hyperproliferation are inhibited by calcium. Carcinogenesis 22:
+1653–1659.
+
+18. Pierre, F., Tache, S., Petit, C. R., Van der Meer, R. & Corpet, D. E.
+
+(2003)
+Meat and cancer: haemoglobin and haemin in a low-calcium diet promote colo-
+rectal carcinogenesis at the aberrant crypt stage in rats. Carcinogenesis 24:
+1683–1690.
+
+19. Corpet, D. E. & Tache, S.
+
+(2002) Most effective colon cancer chemo-
+preventive agents in rats: a systematic review of aberrant crypt foci and tumor
+data, ranked by potency. Nutr. Cancer 43: 1–21.
+
+20. Caderni, G., Femia, A. P., Giannini, A., Favuzza, A., Luceri, C., Salvadori,
+M. & Dolara, P.
+Identiﬁcation of mucin-depleted foci in the unsectioned
+colon of azoxymethane-treated rats: correlation with carcinogenesis. Cancer Res.
+63: 2388 –2392.
+
+(2003)
+
+21. Femia, A. P., Dolara, P. & Caderni, G.
+
+(2004) Mucin-depleted foci
+(MDF) in the colon of rats treated with azoxymethane (AOM) are useful biomarkers
+for colon carcinogenesis. Carcinogenesis 25: 277–281.
+
+22. American Institute of Nutrition (1977) Report of the American Institute
+
+of Nutrition. Ad Hoc Committee on standards for nutritional studies. J. Nutr. 107:
+1340 –1348.
+
+23. Bird, R. P.
+
+(1987) Observation and quantiﬁcation of aberrant crypts in
+murine colon treated with a colon carcinogen: preliminary ﬁndings. Cancer Lett.
+37: 147–151.
+
+24. Ohkawa, H., Ohishi, N. & Yagi, K.
+
+(1979) Assay for lipid peroxides in
+
+animal tissues by thiobarbituric acid reaction. Anal. Biochem. 95: 351–358.
+
+25. Van den Berg, J. W., Koole-Lesuis, R., Edixhoven-Bosdijk, A. & Brouwers,
+(1988) Automating the quantiﬁcation of heme in feces. Clin. Chem. 34:
+
+N.
+2125–2126.
+
+26. Govers, M.J.A.P., Termont, D.S.M.L., Lapre, J. A., Kleibeuker, J. H., Vonk,
+R. J. & Van der Meer, R.
+(1996) Calcium in milk products precipitates intestinal
+fatty acids and secondary bile acids and thus inhibits colonic cytotoxicity in
+humans. Cancer Res. 56: 3270 –3275.
+
+27. Bonneson, C., Eggleston, I. M. & Hayes, J. D.
+
+(2001) Dietary indoles
+and isothiocyanates that are generated from cruciferous vegetables can both
+stimulate apoptosis and confer protection against DNA damage in human colon
+cell lines. Cancer Res. 61: 6120 – 6130.
+28. Lapre, J. A. & Van der Meer, R.
+
+(1992) Diet-induced increase of colonic
+bile acids stimulates lytic activity of fecal water and proliferation of colonic cells.
+Carcinogenesis 13: 41– 44.
+
+29. Sawa, T., Akaike, T., Kida, K., Fukushima, Y., Takagi, K. & Maeda, H.
+(1998) Lipid peroxyl radicals from oxidized oils and heme-iron: implication of a
+high-fat diet in colon carcinogenesis. Cancer Epidemiol. Biomarkers Prev. 7:
+1007–1012.
+
+30. Corpet, D. E., Tache, S. & Pierre, F.
+
+(2002–2004) Colon cancer pre-
+vention: chemoprevention database. http://www.inra.fr/reseau-nacre/sci-memb/
+corpet/indexan.html, July 1, 2004.
+
+31. Li, D., Ng, A., Mann, N. J. & Sinclair, A. J.
+
+(1998) Contribution of meat
+
+fat to dietary arachidonic acid. Lipids 33: 437– 440.
+
+32. McEntee, M. F. & Whelan, J.
+
+(2002) Dietary polyunsaturated fatty
+
+acids and colorectal neoplasia. Biomed. Pharmacother. 56: 380 –387.
+
+33. Kirkland, J. B.
+
+(2003) Niacin and carcinogenesis. Nutr. Cancer 46:
+
+110 –118.
+
+34. Morrow, J. D., Awad, J. A., Oates, J. A. & Roberts, L. J.
+
+Iden-
+tiﬁcation of skin as a major site of prostaglandin D2 release following oral
+administration of niacin in humans. J. Invest. Dermatol. 98: 812– 815.
+
+(1992)
+
+35. Lee, D. H., Anderson, K. E., Harnack, L. J., Folsom, A. R. & Jacobs, D. R.,
+(2004) Heme iron, zinc, alcohol consumption, and colon cancer: Iowa
+
+Jr.
+Women’s Health Study. J. Natl. Cancer Inst. 96: 403– 407.
+
+36. Singh, P. N. & Fraser, G. E.
+
+(1998) Dietary risk factors for colon cancer
+
+in a low-risk population. Am. J. Epidemiol. 148: 761–774.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/134/10/2711/4688404
+by University of Ottawa user
+on 24 June 2018
+
+

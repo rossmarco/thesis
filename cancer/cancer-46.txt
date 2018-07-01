@@ -1,0 +1,1662 @@
+The Journal of Nutrition
+Nutritional Epidemiology
+
+Greater Adherence to Cancer Prevention
+Guidelines Is Associated with Higher
+Circulating Concentrations of Vitamin D
+Metabolites in a Cross-Sectional
+Analysis of Pooled Participants from 2
+Chemoprevention Trials1,2
+Lindsay N Kohler,3 Elizabeth A Hibler,6 Robin B Harris,3,5 Eyal Oren,3 Denise J Roe,3,5 Peter W Jurutka,7,8
+and Elizabeth T Jacobs3–5*
+
+3Department of Epidemiology and Biostatistics, Mel and Enid Zuckerman College of Public Health, and 4Department of Nutritional
+Sciences, University of Arizona, Tucson, AZ; 5University of Arizona Cancer Center, Tucson, AZ; 6Department of Preventive Medicine,
+Feinberg School of Medicine, Northwestern University, Chicago, IL; 7School of Mathematical and Natural Sciences, Arizona State
+University, Phoenix, AZ; and 8Department of Basic Medical Sciences, University of Arizona College of Medicine, Phoenix, AZ
+
+Abstract
+
+Background: Several lifestyle factors targeted by the American Cancer Society (ACS) Nutrition and Physical Activity
+
+Cancer Prevention Guidelines are also associated with circulating concentrations of vitamin D metabolites. This suggests
+
+that greater adherence to the ACS guidelines may be related to better vitamin D status.
+
+Objective: We examined the relation between adherence to the ACS guidelines and circulating concentrations of
+2 vitamin D metabolites, 25-hydroxycholecalciferol [25(OH)D] and 1a,25-dihydroxyvitamin D [1,25(OH)2D].
+Methods: We conducted cross-sectional analyses of pooled participants from the Wheat Bran Fiber (n = 503) and
+Ursodeoxycholic Acid (n = 854) trials. A cumulative adherence score was constructed with the use of baseline data on
+
+body size, diet, physical activity, and alcohol consumption. Continuous vitamin D metabolite concentrations and clinically
+
+relevant categories were evaluated with the use of multiple linear and logistic regression models, respectively.
+
+Results: The most adherent participants were more likely to be older, white, and nonsmokers than were the least adherent. A
+statistically signiﬁcant association was observed between guideline adherence and concentrations of circulating 25(OH)D (means 6
+SEs—high adherence: 32.0 6 0.8 ng/mL; low adherence: 26.4 6 0.7 ng/mL; P-trend < 0.001). For 1,25(OH)2D concentrations, high
+adherence was again signiﬁcantly related to greater metabolite concentrations, with mean 6 SE concentrations of 36.3 6 1.3 pg/mL
+and 31.9 6 1.0 pg/mL for high- and low-adherers, respectively (P-trend = 0.008). Furthermore, the odds of attaining a sufﬁcient
+
+25(OH)D status were 4.37 times higher for those most adherent than for those least adherent (95% CI: 2.47, 7.71 times).
+
+Conclusion: These ﬁndings demonstrate that greater adherence to the ACS guidelines is associated with higher
+circulating concentrations of both of 25(OH)D and 1,25(OH)2D. J Nutr 2017;147:421–9.
+
+Keywords:
+
+adherence, vitamin D, cancer prevention guidelines, diet, physical activity
+
+Introduction
+
+Obesity, advancing age, limited sun exposure, poor diet, and
+higher skin pigmentation are all risk factors for vitamin D
+
+1 Financial support: Supported by NCI Cancer Center support grant no.
+CA023074 at the University of Arizona (principal
+investigator: Andrew Kraft,
+Director, Cancer Center Division, University of Arizona) (LNK, DJR, and ETJ) and
+R01 CA140285 (LNK, PWJ, and ETJ).
+2 Author disclosures: LN Kohler, EA Hibler, RB Harris, E Oren, DJ Roe, PW
+Jurutka, and ET Jacobs, no conﬂicts of interest.
+*To whom correspondence should be addressed. E-mail: jacobse@email.arizona.edu.
+
+deﬁciency (1–7). Vitamin D deﬁciency has been linked
+to several major causes of death,
+including cardiovas-
+cular disease, diabetes, and cancer (8). Although the de-
+ﬁnition of clinical vitamin D deﬁciency has been updated
+(9, 10),
+the
+optimal amount of vitamin D intake required to meet
+deﬁnitions of vitamin D sufﬁciency also remains unclear
+(12–14). Vitamin D supplementation with cholecalcif-
+erol (vitamin D3) is the primary clinical strategy used to
+increase circulating concentrations of 25-hydroxycholecalciferol
+
+it remains debated (8, 11). Furthermore,
+
+ã 2017 American Society for Nutrition.
+Manuscript received November 1, 2016. Initial review completed November 28, 2016. Revision accepted January 4, 2017.
+First published online January 25, 2017; doi:10.3945/jn.116.243352.
+
+421
+
+Downloaded from https://academic.oup.com/jn/article-abstract/147/3/421/4584813
+by University of Ottawa user
+on 24 June 2018
+
+[25(OH)D]9, the metabolite most often measured to determine
+vitamin D status in adults (15). However, studies of vitamin D
+supplementation and health outcomes have produced equivocal
+results (16, 17). In addition, there are emerging data that genetic
+background may inﬂuence response to vitamin D supplementa-
+tion (18, 19). Humans can also produce 25(OH)D via exposure
+to UVB radiation (20), but this route is rarely promoted, because
+excessive sunlight exposure can cause sunburns and increase the
+risk of skin cancer (8). With regard to diet, naturally occurring
+vitamin D is found in only a limited number of foods, such as
+fatty ﬁsh, whereas vitamin D–fortiﬁed foods such as dairy
+products, ready-to-eat cereals, and orange juice are more
+common. Therefore, the optimal strategy for improving vitamin
+D status remains equivocal.
+
+Several lifestyle factors targeted by the American Cancer
+Society (ACS) Nutrition and Physical Activity Cancer Prevention
+Guidelines, including body size, diet, and physical activity, have
+also been associated with circulating concentrations of vitamin
+D (12, 21, 22). Our group recently completed a systematic
+review that found strong and consistent evidence indicating that
+adherence to the ACS or similar World Cancer Research
+Fund/American Institute for Cancer Research guidelines was
+associated with signiﬁcant reductions in cancer incidence and
+mortality (23). One study included in the review by Kabat et al.
+(24) reported a statistically signiﬁcant association between
+higher adherence to the guidelines and increased melanoma
+incidence. One explanation for these ﬁndings is that adherence
+to the guidelines, particularly for physical activity, is related to
+increased sun exposure and potentially higher vitamin D
+concentrations. Thus, we hypothesized that greater adherence
+to the guidelines would be associated with higher concentrations
+of vitamin D metabolites. We used data from a pooled sample of
+2 completed chemoprevention trials to construct an adherence
+score for the ACS nutrition and physical activity cancer
+prevention guidelines and assess the relation between adher-
+ence and concentrations of 25(OH)D (n = 1357) and 1a,25-
+dihydroxyvitamin D [1,25(OH)2D] (n = 854).
+
+Methods
+
+Study population. Data were pooled from 2 randomized, controlled,
+double-blind, Phase III clinical trials conducted at the University of
+Arizona Cancer Center from 1990 to 1999. These studies evaluated the
+effect of either a wheat bran ﬁber (WBF) supplement (25, 26) or
+ursodeoxycholic acid (UDCA) (27) on the development of a new
+colorectal adenoma in patients with previously removed colorectal
+adenomas. The present analyses were conducted with the use of data for
+baseline diet, physical activity, and vitamin D biomarkers from the
+pooled population. The University of Arizona Human Subjects Protec-
+tion Program approved both studies. Written informed consent was
+obtained from each participant before trial enrollment.
+
+Recruitment and data collection. Phoenix and Tucson gastroenterol-
+ogy practices served as recruitment centers from 1990 to 1995 for the
+WBF supplement and 1995 to 1999 for the UDCA. Men (69.5%) and
+women (30.5%) with a mean age of 65.5 y (range: 40–80 y) who had
+$1 adenomas measuring $3 mm removed during a colonoscopy within a
+6-mo period before study registration were included in the study. Mean 6
+SD BMI (in kg/m2) was 28.3 6 4.2 and 27.7 6 5.5 for men and
+women, respectively. Participants in the WBF supplement trial were
+randomly assigned to a daily WBF supplement (13.5 g/d) or a low-ﬁber
+
+9 Abbreviations used: ACS, American Cancer Society; MET, metabolic equiva-
+lent task; UDCA, ursodeoxycholic acid; WBF, wheat bran ﬁber; 1,25(OH)2D,
+1a,25-dihydroxyvitamin D; 25(OH)D, 25-hydroxycholecalciferol.
+
+422 Kohler et al.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/147/3/421/4584813
+by University of Ottawa user
+on 24 June 2018
+
+supplement (2.0 g/d) (25). Participants in the UDCA trial were randomly
+assigned to receive 8–10 mg UDCA/kg body weight or placebo daily (27).
+Primary ﬁndings from the trials were null; neither the WBF supplement
+nor the UDCA treatment prevented new colorectal adenomas (26, 27).
+For the present cross-sectional analysis, participants from the pooled
+sample (n = 3221) were excluded if they did not have serum 25(OH)D
+data (n = 1253), had missing BMI data (n = 16), were underweight (BMI
+<18.5) (n = 16), had unreliable dietary data (<600 kcal/d) (n = 14), had
+missing baseline physical activity data (n = 544), or were missing any
+other covariate included in the models (race, n = 16; education, n = 5).
+The analytic cohort for 25(OH)D was thus composed of 1357 partici-
+pants, whereas 1,25(OH)2D data were only available from the UDCA
+trial (n = 854).
+
+Analysis of serum vitamin D metabolites. Baseline vitamin D
+metabolites were measured in a blinded fashion at Heartland Assays
+(Ames) with the use of an established RIA (28). Quality-assurance and
+-control measures, including pooled serum samples and duplicates in
+different batches, were performed. The CV was <7.0% for 25(OH)D and
+11.5% for 1,25(OH)2D. Serum 1,25(OH)2D was assessed as a contin-
+uous variable and 25(OH)D was assessed as both a continuous and a
+categorical variable,
+in which clinically important categories were
+deﬁned as deﬁcient (<20 ng/mL), insufﬁcient ($20 to <30 ng/mL), or
+sufﬁcient ($30 ng/mL) (9, 10, 29–31).
+
+Nutrition and physical activity cancer prevention guidelines
+score. An a priori score was constructed based upon previously
+published work by Thomson et al. (32) for adherence to the 2012 ACS
+cancer prevention guidelines for nutrition and physical activity (33)
+(Table 1). These guidelines focused on overall patterns of lifestyle
+behaviors that included body size, physical activity, diet, and alcohol
+consumption. Baseline diet and physical activity were collected with the
+use of frequency questionnaires. The Arizona FFQ is a semiquantitative
+175-item validated questionnaire that asks respondents to report how
+often (per day, week, or month) and how much (small, medium, or large
+usual portion) participants consumed each food item over the previous
+12-mo period (34). The Arizona Activity Frequency Questionnaire is a
+59-item validated questionnaire that groups physical activity by leisure,
+recreational, household, and other activity categories (35). The provided
+output contains metabolic equivalent task (MET) units per day and per
+activity, kilojoules, number of hours per day per activity, and number of
+activities reported by respondents for each category, which were used to
+generate the physical activity score. Each ACS recommendation was
+equally weighted 0–2 points. Zero points were allocated for not meeting
+the recommendation at all, 1 point for partially meeting the recommen-
+dation, and 2 points for fully meeting the recommendation. The overall
+score, summed from individual recommendations, ranged from 0 for
+those participants who were not adherent at all to the recommendations
+to 8 for those participants who were fully adherent to all 4 lifestyle factor
+recommendations. Adherence categories were deﬁned as low (0–2
+points), moderate (3–5 points), and high (6–8 points). The recommen-
+dations for each lifestyle factor, how they were measured, how scores
+were assigned based upon the guidelines, and the proportion of the study
+population within each category are outlined in Table 1. Smoking status
+was not included in the ACS adherence scoring, but was included as a
+potential confounder in the current analyses.
+
+The ﬁrst recommendation to ‘‘maintain a healthy weight throughout
+life’’ was scored based upon calculated BMI from height and weight
+reported at baseline. The best score (2 points) was given to those with a
+BMI within normal range (18.5–25), 1 point was given those in the
+overweight range (25–30), and 0 points were given to those in the obese
+category (>30.0). Underweight participants (<18.5) were excluded from
+the present analysis.
+
+The second recommendation to ‘‘adopt a physically active lifestyle’’
+was evaluated by MET (36) scores from the Arizona FFQ recreational
+activities section. Any participant doing less than the minimum
+recommendation [30 min on 5 d (2.5 h/wk) of moderate activity (3.5
+METs) was equal to 8.75 MET-h/wk] received a score of 0 points. One
+hour per day, 5 d/wk (5.0 h/wk), of moderate activity (3.5 METs)
+equaled 17.5 MET-h/wk. Therefore, 8.75–17.5 MET-h/wk earned a
+
+TABLE 1 Components of the adherence score and distribution in the study sample
+
+Score
+
+BMI, kg/m2
+
+0
+1
+2
+
+Physical activity, MET-h1/wk
+
+0
+1
+2
+Diet2
+0
+1
+2
+Fruits and vegetables, cups/d
+
+0
+1
+
+Quality
+
+0
+1
+2
+
+Whole grains
+
+0
+1
+2
+3
+
+Red and processed meat
+
+0
+1
+2
+3
+
+Alcohol,3 g/d
+
+0
+1
+2
+
+Description
+
+.30
+
+.25 to #30
+18.5 to #25
+
+,8.75
+8.75–17.5
+.17.5
+
+,2.5
+$2.5
+
+1st tertile of total carotenoids
+2nd tertile of total carotenoids
+3rd tertile of total carotenoids
+
+1st quartile of whole:refined ratio
+2nd quartile of whole:refined ratio
+3rd quartile of whole:refined ratio
+4th quartile of whole:refined ratio
+
+4th quartile of red and processed meat intake
+3rd quartile of red and processed meat intake
+2nd quartile of red and processed meat intake
+1st quartile of red and processed meat intake
+
+Men $42, women $28
+Men 14 to ,42, women 14 to ,28
+Nondrinkers
+
+Percentage of study sample
+
+Men
+
+Women
+
+30.1
+48.6
+21.2
+
+35.8
+25.5
+38.6
+
+23.4
+64.5
+12.1
+
+52.0
+48.0
+
+33.0
+33.4
+33.6
+
+62.3
+0
+12.4
+25.2
+
+25.0
+25.1
+25.0
+24.8
+
+10.6
+57.7
+31.7
+
+29.7
+32.8
+37.4
+
+50.9
+24.1
+24.8
+
+24.9
+64.3
+10.9
+
+51.7
+48.3
+
+30.7
+34.8
+34.5
+
+64.9
+0
+9.7
+25.4
+
+25.6
+26.1
+25.1
+23.2
+
+6.3
+44.9
+48.8
+
+All
+
+29.9
+43.8
+26.1
+
+40.4
+25.1
+34.4
+
+23.9
+64.4
+11.7
+
+51.9
+48.1
+
+32.3
+33.8
+33.9
+
+63.1
+0
+11.6
+25.3
+
+25.2
+25.4
+25.1
+24.3
+
+9.3
+53.8
+36.9
+
+1 MET-h, metabolic equivalent task hours.
+2 Generated from the summation of the fruit and vegetable, quality, whole grains, and red and processed meat scores. Summed for #9
+points and then collapsed into 3 categories (0–2, 3–6, and 7–9) for subsequent diet adherence values (0, 1, and 2).
+3 1 drink/d ¼ 14 g ethanol/d.
+
+score of 1 point. Participants meeting preferable levels, >17.5 MET-
+h/wk, earned a score of 2 points.
+
+The third recommendation to ‘‘consume a healthy diet with an
+emphasis on plant sources’’ was assessed with 3 separate diet scores that
+were constructed and summed to capture the recommended dietary
+pattern. The ﬁrst diet score for the recommendation ‘‘eat 5 or more
+servings of a variety of vegetables and fruits each day’’ was assigned
+1 point for meeting the recommended number of servings ($2.5
+cups), which were measured from the food group categories fruits,
+fruit juice, vegetables, and vegetable juice. An additional 1 or 2
+points were assigned for diet quality based upon being in the second
+or third sex-speciﬁc tertile of total carotenoids, respectively, which
+included b-carotene, a-carotene, b-cryptoxanthin, lycopene, and lutein
+plus zeaxanthin combined. The second diet score for the recommendation
+‘‘choose whole grains in preference to processed (reﬁned) grains’’ was
+evaluated by the percentage of grains consumed as whole grains. Points
+were assigned by the sex-speciﬁc quartile distribution with the highest
+quartile receiving 3 points and lowest quartile receiving 0 points. The third
+diet score for the recommendation ‘‘limit consumption of processed
+and red meats’’ was measured similarly to the whole grains assessed
+by sex-speciﬁc quartile distribution. However, the lowest quartile
+received 3 points and the highest quartile received 0 points. The 3 diet
+
+scores were summed for a potential total of 9 points. Dietary pattern
+scores were further collapsed into 0 points (0–2 summed diet scores),
+1 point (3–6 summed diet scores), and 2 points (7–9 summed diet scores).
+The fourth recommendation used in this analysis was ‘‘if you drink
+alcohol, limit consumption to 1 drink/d for women or 2 drinks/d for
+men.’’ Alcohol was captured in the Arizona FFQ in terms of total grams
+of alcohol per day. One drink was estimated as 14 g alcohol or
+approximately one 12-ounce regular beer, 5-ounce glass of wine, or 1.5-
+ounce shot of 80-proof distilled spirit (37). Nondrinkers were assigned 2
+points, moderate drinkers who consumed the limit or less were assigned
+1 point, and heavy drinkers who consumed more than the limit were
+assigned 0 points.
+
+Statistical analysis. Descriptive statistics were generated for vitamin D
+metabolites, adherence scores, and demographic variables. Means and
+SEs were estimated for continuous variables and percentages were
+calculated for the categorical variables.
+
+Multiple linear regression models were used to assess the relations
+between adherence score categories and circulating concentrations of 25
+(OH)D and 1,25(OH)2D. Estimated mean concentrations of 25(OH)D
+and 1,25(OH)2D for individuals in the reference categories were
+centered on mean age and energy intake of the strata with the use of
+
+Cancer prevention guidelines and vitamin D 423
+
+Downloaded from https://academic.oup.com/jn/article-abstract/147/3/421/4584813
+by University of Ottawa user
+on 24 June 2018
+
+linear combinations of variables. Reference categories were selected to
+represent the majority of the pooled sample (white, male, not a college
+graduate, and nonsmoker in the UDCA trial). Associations between
+adherence scores and clinically signiﬁcant categories for serum 25(OH)D
+were evaluated with the use of multinomial logistic regression models
+to estimate ORs. Individual adherence score components were also
+examined for associations with adjusted mean concentrations of 25
+(OH)D and 1,25(OH)2D. Regression modeling was also used to
+calculate P-trend. Potential confounders included age, education, race,
+smoking status, supplement use, season of blood draw, and energy
+intake (21, 22, 38–40). A covariate was considered to be a confounder if
+it changed the measure of association by $10% when included in a
+regression model (41). To assess whether the associations between
+adherence score and vitamin D metabolites were modiﬁed by sex or
+study, likelihood ratio tests were used to determine whether there was a
+difference in the log-likelihoods from models with and without interac-
+tion terms. Statistical signiﬁcance was determined at an a level of 0.05.
+Data from the trials were merged and managed with the use of Stata
+version 14.1.
+
+Results
+
+More women than men met the BMI recommendation of a
+healthy body size (18.5–25), whereas more men than women
+met preferable physical activity levels of >1 h/d, 5 d/wk (>5.0
+h/wk) of moderate activity (3.5 METs), or >17.5 MET-h/wk
+total (Table 1). Men and women had similar adherence to diet
+recommendations overall; however, a greater percentage of
+women were nondrinkers at baseline than men. Baseline
+characteristics of men and women by category of adherence
+
+score are shown in Table 2. In general, participants in the most
+adherent overall category of adherence score (6–8 points) were
+more likely to be older, white, and nonsmokers than were
+participants in the least adherent category (0–2 points).
+
+Adjusted mean circulating 25(OH)D and 1,25(OH)2D con-
+centrations for each adherence score category from multivariate
+linear regression models for individuals in reference categories
+(white, male, not a college graduate, nonsmoker in the UDCA
+trial) centered on mean age and energy intake are shown in Table
+3. In the pooled sample, those in the highest adherence category
+to the ACS guidelines (6–8 points) had a mean 6 SE 25(OH)D
+concentration of 32.0 6 0.8 ng/mL and a mean 6 SE 1,25
+(OH)2D concentration of 36.3 6 1.3 pg/mL, with signiﬁcant
+dose-dependent trends for both metabolites (P-trend < 0.001
+and P-trend < 0.008, respectively) (Table 3). For 25(OH)D,
+there were no statistically signiﬁcant
+interactions for sex
+(P-interaction = 0.42) or study (P-interaction = 0.19). Study
+interaction was not evaluated for 1,25(OH)2D, because it was
+only available for the UDCA study. There was no statistically
+signiﬁcant interaction between score and sex (P-interaction = 0.86)
+for 1,25(OH)2D.
+
+The results of multinomial logistic regression models for
+the association between categories of adherence scores and
+clinically-deﬁned categories of 25(OH)D are presented in Table
+4. The odds of having an insufﬁcient vitamin D status
+($20 ng/mL and <30 ng/mL) compared with a deﬁcient status
+(<20 ng/mL) were 1.76 times greater (95% CI: 1.21, 2.57) for
+those who had moderate adherence to the guidelines and 2.29
+times greater (95% CI: 1.35, 3.90) for individuals who had high
+
+TABLE 2 Baseline characteristics of participants in the pooled sample by categories of adherence score
+to the ACS Nutrition and Physical Activity Cancer Prevention guidelines, stratiﬁed by sex1
+
+Men
+
+3–5
+
+638 (67.7)
+65.8 6 8.8
+598 (93.7)
+279 (43.7)
+28.4 6 3.9
+18.8 6 18.2
+
+2120 6 781
+5.4 6 3.2
+14.0 6 8.41
+1.5 6 0.8
+21.8 6 48.2
+162 6 116
+206 6 259
+412 (64.6)
+
+Adherence Score (points)
+
+6–8
+
+0–2
+
+154 (16.3)
+68.4 6 7.6
+146 (94.8)
+57 (37.0)
+25.0 6 2.4
+31.6 6 18.1
+
+2140 6 729
+6.9 6 3.9
+15.7 6 7.85
+1.3 6 0.8
+52.9 6 79.3
+153 6 108
+225 6 221
+120 (77.9)
+
+64 (15.5)
+64.1 6 8.6
+62 (96.8)
+12 (18.8)
+33.5 6 5.1
+3.7 6 5.0
+
+1650 6 564
+4.8 6 3.1
+10.1 6 5.03
+1.4 6 0.9
+6.5 6 15.5
+143 6 112
+240 6 266
+49 (76.6)
+
+0–2
+
+151 (16.0)
+62.7 6 8.1
+142 (94.0)
+54 (35.8)
+31.7 6 4.3
+4.7 6 4.7
+
+2300 6 778
+4.9 6 3.3
+13.5 6 9.72
+2.0 6 0.9
+11.2 6 36.1
+156 6 121
+187 6 227
+85 (56.3)
+
+Women
+
+3–5
+
+271 (65.5)
+64.6 6 8.7
+252 (93.0)
+61 (22.5)
+27.4 6 5.1
+11.3 6 15.3
+
+1550 6 593
+5.8 6 4.3
+12.4 6 8.93
+1.0 6 0.6
+15.8 6 31.1
+135 6 104
+224 6 268
+191 (70.5)
+
+6–8
+
+79 (19.1)
+67.1 6 8.6
+77 (97.5)
+14 (17.7)
+24.0 6 3.0
+28.2 6 17.3
+
+1610 6 579
+7.0 6 3.6
+13.6 6 7.56
+0.9 6 0.6
+39.2 6 68.6
+148 6 130
+315 6 272
+69 (87.3)
+
+21 (13.9)
+1.7 6 1.9
+20 (13.3)
+
+193 (30.3)
+0.9 6 1.1
+76 (11.9)
+
+85 (55.2)
+0.7 6 0.5
+18 (11.7)
+
+15 (23.4)
+0.4 6 0.4
+10 (15.6)
+
+132 (48.7)
+0.4 6 0.5
+40 (14.8)
+
+55 (69.6)
+0.5 6 0.4
+10 (12.7)
+
+26.4 6 9.1
+32.3 6 10.5
+
+29.5 6 9.9
+34.5 6 10.8
+
+31.1 6 10.3
+35.8 6 10.8
+
+20.9 6 7.5
+31.1 6 12.3
+
+23.6 6 9.9
+32.8 6 11.7
+
+28.0 6 11.4
+34.4 6 12.2
+
+Subjects
+Age, y
+White
+College graduate
+BMI, kg/m2
+Physical activity, MET-h/wk
+Diet
+
+Total energy, kcal/d
+Fruits and vegetables, 2.5 cups/d
+Total carotenoids, mg/d
+Red and processed meat, servings/d
+Whole grains, g/d
+Dietary vitamin D intake
+Vitamin D supplement, IU/d
+Supplement use
+
+Alcohol
+
+Nondrinker at baseline
+Intake for drinkers,2 drinks/d
+Current smoker
+
+Serum vitamin D biomarkers
+
+25(OH)D, ng/mL
+1,25(OH)2D,3 pg/mL
+
+1 Values are means 6 SDs or n (%), n = 1357. Some percentages do not add up to 100% because of missing data or rounding. ACS, American
+Cancer Society; MET-h, metabolic equivalent task hours; 1,25(OH)2D, 1a,25-dihydroxyvitamin D; 25(OH)D, 25-hydroxycholecalciferol.
+2 1 drink ¼ 14 g ethanol/d.
+3 Only the Ursodeoxycholic Acid Trial measured 1,25(OH)2D (n = 854).
+
+424 Kohler et al.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/147/3/421/4584813
+by University of Ottawa user
+on 24 June 2018
+
+TABLE 3 Mean circulating serum 25(OH)D and 1,25(OH)2D concentrations and category of adherence
+score by study1
+
+Adherence score
+
+n
+
+1357
+854
+503
+
+Pooled sample
+UDCA
+WBF2
+
+25(OH)D, ng/mL
+
+1,25(OH)2D, pg/mL
+
+0–2
+
+3–5
+
+6–8
+
+P-trend
+
+n
+
+0–2
+
+3–5
+
+6–8
+
+P-trend
+
+26.4 6 0.7
+25.8 6 0.8
+29.1 6 1.6
+
+29.6 6 0.5
+29.4 6 0.6
+30.1 6 0.8
+
+32.0 6 0.8 ,0.001
+32.2 6 1.1 ,0.001
+32.6 6 1.0
+
+854
+854
+0.012 —
+
+31.9 6 1.0
+31.7 6 1.0
+
+34.5 6 0.7
+34.3 6 0.7
+
+36.3 6 1.3
+36.2 6 1.3
+
+—
+
+—
+
+—
+
+0.008
+0.001
+—
+
+1 Values are means 6 SEs computed from linear regression for individuals in reference categories (white, male, not a college graduate, and
+nonsmoker in the UDCA trial) centered on mean age and energy intake. Adjusted for sex, study, mean age, race, education, smoking
+status, and mean energy intake. UDCA, ursodeoxycholic acid; WBF, wheat bran ﬁber; 1,25(OH)2D, 1a,25-dihydroxyvitamin D; 25(OH)D, 25-
+hydroxycholecalciferol.
+2 WBF supplement trial (low ﬁber compared with high ﬁber) did not measure 1,25(OH)2D.
+
+adherence compared with those with low adherence. The odds
+of having a sufﬁcient vitamin D status ($30 ng/mL) compared
+with a deﬁcient status were 2.41 times greater (95% CI: 1.58,
+3.68) for those achieving moderate adherence and 4.37 times
+greater (95% CI: 2.47, 7.71) for those who had high adherence
+compared with those within the lowest adherence category.
+
+Adjusted mean concentrations of 25(OH)D and 1,25(OH)2D
+for individuals in the reference categories (white male, not a
+college graduate, and a nonsmoker in the UDCA trial) by
+adherence score components are displayed in Table 5. An inverse
+relation between BMI categories and both 25(OH)D and 1,25
+(OH)2D exhibited a dose-dependent trend (both comparisons,
+P-trend < 0.001). Similarly, a signiﬁcant trend was seen for
+higher levels of physical activity and higher concentrations of
+both vitamin D metabolites (P-trend < 0.001). In contrast, any
+association or trend between diet component and either vitamin
+D metabolite was less clear. A diet score of 1 point was
+signiﬁcantly associated with 25(OH)D with a signiﬁcant overall
+trend (P-trend = 0.039). No signiﬁcant association was observed
+between diet score and 1,25(OH)2D. A signiﬁcant trend was
+seen for increasing alcohol consumption and increasing concen-
+trations of both 25(OH)D (P-trend = 0.009) and 1,25(OH)2D
+(P-trend = 0.040).
+
+Discussion
+
+Greater adherence to nutrition and physical activity cancer
+prevention guidelines that have been developed by the ACS and
+other leading cancer organizations has been found to be
+associated with a reduced risk of overall cancer incidence and
+mortality,
+including some site-speciﬁc cancers (23). These
+guidelines are consistent with recommendations for the pre-
+vention of other major diseases as well, and, if followed,
+
+are associated with healthier lives overall (42–44). To our
+knowledge, no studies have assessed the relation between ACS
+guidelines for cancer prevention and circulating concentrations of
+vitamin D metabolites, which are biomarkers often linked
+to health outcomes (45). This current work offers evidence
+indicating that greater adherence to an overall lifestyle pattern as
+outlined by the ACS nutrition and physical activity cancer
+prevention guidelines is associated with higher concentrations of
+both 25(OH)D and 1,25(OH)2D, based on a pooled sample of
+participants enrolled in one of 2 chemoprevention trials in
+Arizona. Furthermore, signiﬁcant dose-dependent trends were
+seen for BMI, physical activity, and alcohol intake and both
+vitamin D metabolites. The lack of signiﬁcant association between
+diet adherence scores and vitamin D was not unexpected, because
+the fruit, vegetable, grain, and red and processed meat variables
+included in the diet adherence score are not considered to be
+substantial dietary sources of vitamin D. The relation between
+alcohol intake and higher circulating concentrations of vitamin D
+has been reported previously, with suggestions of residual
+confounding or heavier consumers of alcohol having lifestyles
+favorable to higher concentrations of circulating vitamin D (46,
+47). To our knowledge, there is no clear biological mechanism,
+and this warrants further investigation.
+
+Concentrations of 25(OH)D can vary from many nonmodiﬁ-
+able factors, such as skin pigmentation, sex, genetic background, and
+season (30, 40). However, 25(OH)D also varies from modiﬁable
+factors, such as amount of sun exposure, dietary intake, and
+supplementation (20). Sun exposure increases vitamin D production,
+but also can cause skin damage or even skin cancer, the risk of which
+varies according to skin pigmentation and possibly body size (48,
+49). Compared with normal-weight adults, obese adults have been
+found to have signiﬁcantly lower concentrations of the vitamin D
+metabolite 25(OH)D, possibly because of lower dietary intake or
+
+TABLE 4 Association between adherence score category and serum 25(OH)D status for pooled sample
+of Wheat Bran Fiber Supplement and Ursodeoxycholic Acid trial participants1
+
+Adherence score category
+
+Deficient
+
+(,20 ng/mL) (n = 296)
+
+Low (0–2)
+Moderate (3–5)
+High (6–8)
+
+1.00
+1.00
+1.00
+
+Vitamin D status
+
+Insufficient ($20 ng/mL and
+
+Sufficient ($30 ng/mL)
+
+,30 ng/mL) (n = 575)
+
+1.00
+
+1.76 (1.21, 2.57)
+2.29 (1.35, 3.90)
+
+(n = 486)
+
+1.00
+
+2.41 (1.58, 3.68)
+4.37 (2.47, 7.71)
+
+1 Values are ORs (95% CIs) obtained from multinomial logistic regression adjusted for study, age, sex, race, education, and energy intake.
+25(OH)D, 25-hydroxycholecalciferol.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/147/3/421/4584813
+by University of Ottawa user
+on 24 June 2018
+
+Cancer prevention guidelines and vitamin D 425
+
+TABLE 5 Mean serum concentrations of 25(OH)D and 1,25
+(OH)2D by adherence score components for pooled sample of
+WBF and UDCA trial participants1
+
+Score components
+
+n
+
+25(OH)D, ng/mL
+
+n
+
+1,25(OH)2D, pg/mL
+
+Overall population
+
+Diet
+0
+1
+2
+P-trend
+BMI, kg/m2
+
+$30
+$25 and ,30
+$18.5 and ,25
+P-trend
+
+Physical activity, MET-h/wk
+
+,8.75
+$8.75 and #17.5
+.17.5
+P-trend
+
+Alcohol
+
+Heavy (mean 3.0 drinks/d)
+Moderate (mean 0.5 drinks/d)
+Never (0 drinks/d)
+P-trend
+
+324
+874
+159
+
+407
+595
+355
+
+549
+341
+467
+
+126
+730
+501
+
+26.3 6 1.1
+28.2 6 1.1
+27.5 6 1.3
+
+0.039
+
+26.3 6 1.1
+28.7 6 1.1
+30.4 6 1.2
+
+,0.001
+
+26.3 6 1.1
+26.8 6 1.2
+30.5 6 1.2
+
+,0.001
+
+26.3 6 1.1
+25.1 6 0.8
+24.0 6 0.8
+
+0.009
+
+315
+538
+1
+
+267
+367
+220
+
+344
+210
+300
+
+91
+458
+305
+
+32.5 6 1.5
+33.9 6 1.5
+50.0 6 11.02
+
+0.059
+
+32.5 6 1.5
+34.4 6 1.5
+36.7 6 1.6
+,0.001
+
+32.5 6 1.5
+35.0 6 1.6
+36.0 6 1.6
+,0.001
+
+32.5 6 1.5
+29.8 6 1.1
+29.3 6 1.1
+0.040
+
+1 Values are means 6 SEs computed from adjusted linear regression for individuals in
+reference categories (white male, not a college graduate, and nonsmoker in the UDCA
+trial) centered on mean age and energy intake. Adjusted for sex, age, race, education,
+smoking status, energy intake, and all other score components. 1,25(OH)2D was not
+measured for the WBF supplement trial. MET-h, metabolic equivalent task hours;
+UDCA, ursodeoxycholic acid; WBF, wheat bran ﬁber; 1,25(OH)2D, 1a,25-dihydroxyvitamin
+D; 25(OH)D, 25-hydroxycholecalciferol.
+2 Only 1 observation in the UDCA trial in which diet score = 2.
+
+lesser exposure of skin to sunlight, volumetric dilution, or seques-
+tration in adipose tissue (49–51). Healthy-weight adults with
+higher levels of physical activity are more likely to meet DRIs for
+vitamin D and other micronutrients than are overweight adults
+(52). Furthermore, several studies have suggested that obese
+adults may need higher doses of supplementation than
+normal do weight adults to achieve sufﬁcient 25(OH)D
+status (12, 53).
+
+A recent review of vitamin D supplementation trials estimates
+that 2990 IU/d is required to surpass deﬁcient concentrations
+(20 ng/mL) of serum 25(OH)D in 97.5% of healthy individuals
+(13). The RDA for healthy adults aged 19–70 y is 600 IU, and it
+is 800 IU for those >70 y of age (1). However, it has been
+suggested that these recommendations have been miscalculated,
+are too low, and should be reconsidered (14). The means and
+SDs of 25(OH)D for selected large vitamin-D supplementation
+trials (54–60) presented in the review by Veugelers et al. (13), as
+well as a trial conducted by our group (57), are presented in
+Table 6. Three studies used dosages of 400 IU/d with follow-up
+times of 4, 48, and 108 wk, resulting in mean 6 SD 25(OH)D
+concentrations of 28.3 6 8.9 ng/mL in healthy men and women
+(57), and 36.9 6 9.5 ng/mL (56) and 24.4 6 12.2 ng/mL (60) in
+2 separate studies of postmenopausal women. Dosages of 800
+IU/d were used in 2 trials with a range of follow-up times from
+13 to 156 wk, resulting in mean 6 SD 25(OH)D concentrations
+of 28.39 6 9.18 ng/mL and 29.91 6 8.78 ng/mL in women (54,
+58). In a study that evaluated the effect of a daily dose of 1000 IU
+in preventing new colorectal adenomas, healthy non-Hispanic
+white subjects aged 45–75 y had mean 6 SD concentrations of
+31.5 6 8.9 ng/mL after 1 y (55). Comparably in our study,
+moderate and high adherence to the ACS guidelines demon-
+strated mean 6 SD concentrations of 25(OH)D of 29.6 6
+0.5 ng/mL and 32.0 6 0.8 ng/mL, respectively. Therefore,
+following the ACS guidelines could potentially increase 25(OH)
+D concentrations as much as or more than a supplement of 1000 IU/d.
+Improving vitamin D status through lifestyle modiﬁcations as
+opposed to supplementation allows for a strategy that would
+avoid any potential toxicity, such as renal calciﬁcations (16), and
+is likely to incur other health beneﬁts as well.
+
+Less is known about lifestyle factors that may be associated
+with circulating concentrations of 1,25(OH)2D (61). Few epi-
+demiologic studies have evaluated the association between
+1,25(OH)2D and physical activity. One examined the effects of
+long-term aerobic exercise and v-3 supplementation on bone
+health in postmenopausal women and found that 1,25(OH)2D
+increased with the intervention (62). Similarly, in a study within
+the UDCA cohort included in the present study, moderate to
+vigorous physical activity was positively associated with 1,25
+(OH)2D, with women experiencing the greatest increase (21).
+Hibler et al. (21) suggested that the association between physical
+activity and vitamin D may be beyond sun exposure and driven
+
+TABLE 6 Comparison of 25(OH)D concentrations in supplementation trials and adherence score category1
+
+Study (reference)
+
+Sample or population
+
+Cholecalciferol dosage, IU/d
+
+Follow-up, wk
+
+Aloia et al., 2005 (54)
+
+104
+
+healthy
+
+postmenopausal African-American
+
+800
+
+women, aged 50–75 y
+
+Baron et al., 2015 (55)
+
+1755 healthy non-Hispanic white subjects, aged
+
+1000 and/or 1200 mg Ca/d
+
+45–75 y
+
+Dawson-Hughes et al., 1991 (56)
+Hibler, 2011 (57)
+Karkkainen et al., 2010 (58)
+Lappe et al., 2007 (59)
+Schnatz et al., 2014 (60)
+
+125 postmenopausal women
+28 healthy adults
+306 OSTPRE-FPS Finnish women, aged .65 y
+288 postmenopausal women in rural Nebraska
+285 postmenopausal women, WomenÕs Health
+
+400 + 377 mg Ca/d
+
+400
+
+800 + 1000 mg Ca/d
+
+1100 + 1400–1500 mg Ca/d
+
+400 + 1000 mg Ca/d
+
+Current study
+Current study
+
+909 subjects moderately adherent to ACS guidelines
+233 subjects highly adherent to ACS guidelines
+
+—
+—
+
+Initiative
+
+13
+
+52
+
+48
+4
+156
+288
+104
+
+—
+—
+
+Postsupplementation
+
+25(OH)D,2 ng/mL
+
+28.39 6 9.18
+
+31.5 6 8.9
+
+36.93 6 9.46
+28.3 6 8.9
+29.91 6 8.78
+38.50 6 8.58
+24.38 6 12.23
+
+29.6 6 0.5
+32.0 6 0.8
+
+1 ACS, American Cancer Society; OSTPRE-FPS, Osteoporosis Risk Factor and Prevention Study–Fracture Prevention Study; 25(OH)D, 25-hydroxycholecalciferol.
+2 Values are means 6 SDs.
+
+426 Kohler et al.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/147/3/421/4584813
+by University of Ottawa user
+on 24 June 2018
+
+by the role of 1,25(OH)2D in bone health. It is also possible that
+increased physical activity exerts an effect on metabolism that
+itself results in higher production of vitamin D metabolites;
+however, any biological mechanism would be speculative at this
+time. BMI, the measure used to estimate body size in our study,
+has a well-known inverse relation with 25(OH)D, but evidence
+of its relation with 1,25(OH)2D is limited. A statistically
+signiﬁcant association between higher circulating concentrations
+of 1,25(OH)2D and a lower risk of metabolic syndrome, which
+consists of waist circumference, TGs, blood pressure, glucose,
+and HDL cholesterol, was also reported in a sample population
+from the UDCA and WBF supplement cohorts (63).
+
+In addition,
+
+The major strengths of
+
+the current study include the
+availability of data from a prospective cohort of >1300
+participants with complete data on a wide range of available
+baseline nutrition, physical activity, and serum vitamin D
+metabolite data. However, even though the original trials were
+prospective cohorts,
+this secondary data analysis is cross-
+sectional in nature, with measurements coming from baseline
+assessments. Furthermore, only one measure of 25(OH)D was
+used for the assessment of vitamin D status, although previous
+ﬁndings suggest that single baseline 25(OH)D measurements
+provide reasonably representative measures of the biomarker
+(64).
+the ‘‘maintenance of a healthy weight
+throughout life’’ ACS guideline could not be precisely assessed
+because height and weight data were not available for earlier
+periods in life. Although the instruments used to collect lifestyle
+data asked for usual dietary consumption in the previous 12-mo
+period and the last 4 wk for physical activity, the reported
+behaviors may not be representative of the participantsÕ longer-
+term behaviors. Participants in this study had already had a
+colorectal adenoma removed, and may have changed their
+lifestyle habits after removal of their adenoma, which had to
+have occurred within the previous 6 mo before study enrollment,
+thus affecting the generalizability of the results. Although self-
+reports of physical activity and dietary and alcohol intake are
+susceptible to measurement error or misclassiﬁcation bias, the
+frequency questionnaires used had been validated in the study
+sample. There is also the potential issue that the various healthy
+behaviors included in the ACS adherence score may cluster in
+individuals, making it difﬁcult to separate the effect of the score
+components. Finally, circulating concentrations of vitamin D
+metabolites may merely be a biomarker of risk, or, in this case,
+an overall lifestyle pattern, and not necessarily a mechanism of
+action for disease risk (40). Nonetheless, these ﬁndings indicate
+the potential for increasing concentrations of vitamin D when
+the overall guidelines are more closely followed.
+
+In summary, there remains a great deal of debate regarding
+vitamin D status and the strategy for best achieving sufﬁcient
+concentrations, including the use and dosing of supplements.
+Our results suggest that following an overall pattern of healthy
+behaviors as recommended in the ACS Nutrition and Physical
+Activity Cancer Prevention guidelines may be associated with
+higher concentrations of both 25(OH)D and 1,25(OH)2D. In
+addition, score components also demonstrated signiﬁcant asso-
+ciations. Therefore, close adherence to the ACS nutrition and
+physical activity cancer prevention guidelines may be a viable
+public health strategy for increasing both 25(OH)D and 1,25
+(OH)2D concentrations.
+
+Acknowledgments
+EAH designed, performed, and analyzed the supplement trial;
+LNK analyzed the secondary data; LNK and ETJ designed the
+secondary analysis and had primary responsibility for the ﬁnal
+
+Downloaded from https://academic.oup.com/jn/article-abstract/147/3/421/4584813
+by University of Ottawa user
+on 24 June 2018
+
+content; and all authors wrote the paper. All authors read and
+approved the ﬁnal manuscript.
+
+References
+
+1.
+
+Institute of Medicine (US) Committee to Review Dietary Reference
+Intakes for Vitamin D and Calcium; Ross AC, Taylor CL, Yaktine AL,
+Del Valle HB, editors. Dietary reference intakes for calcium and vitamin
+D [Internet]. Washington (DC): National Academies Press; 2011 [cited
+2016 May 24]. Available from: http://www.ncbi.nlm.nih.gov/books/
+NBK56070/.
+
+2. Cranney A, Horsley T, O’Donnell S, Weiler H, Puil L, Ooi D,
+Atkinson S, Ward L, Moher D, Hanley D, et al. Effectiveness and safety
+of vitamin D in relation to bone health. Evid Rep Tech Assess (Full Rep)
+2007;(158):1–235.
+
+3. Webb AR, Kline L, Holick MF. Inﬂuence of season and latitude on the
+cutaneous synthesis of vitamin D3: exposure to winter sunlight in
+Boston and Edmonton will not promote vitamin D3 synthesis in human
+skin. J Clin Endocrinol Metab 1988;67:373–8.
+
+4. Webb AR, Pilbeam C, Hanaﬁn N, Holick MF. An evaluation of the
+relative contributions of exposure to sunlight and of diet to the circu-
+lating concentrations of 25-hydroxyvitamin D in an elderly nursing
+home population in Boston. Am J Clin Nutr 1990;51:1075–81.
+Pappa HM, Bern E, Kamin D, Grand RJ. Vitamin D status in gastro-
+intestinal and liver disease. Curr Opin Gastroenterol 2008;24:176–83.
+6. Malone M. Recommended nutritional supplements for bariatric surgery
+
+5.
+
+patients. Ann Pharmacother 2008;42:1851–8.
+
+7. Compher CW, Badellino KO, Boullata JI. Vitamin D and the bariatric
+
+surgical patient: a review. Obes Surg 2008;18:220–4.
+
+8. Holick MF. Vitamin D deﬁciency. N Engl J Med 2007;357:266–81.
+9. Hollis BW. Circulating 25-hydroxyvitamin D levels indicative of vita-
+min D sufﬁciency: implications for establishing a new effective dietary
+intake recommendation for vitamin D. J Nutr 2005;135:317–22.
+
+10. Malabanan A, Veronikis IE, Holick MF. Redeﬁning vitamin D insufﬁ-
+
+ciency. Lancet 1998;351:805–6.
+
+11. Manson JE, Brannon PM, Rosen CJ, Taylor CL, Vitamin D. Deﬁ-
+ciency—is there really a pandemic? N Engl J Med 2016;375:1817–20.
+12. Zittermann A, Ernst JB, Gummert JF, Borgermann J. Vitamin D sup-
+plementation, body weight and human serum 25-hydroxyvitamin D
+response: a systematic review. Eur J Nutr 2014;53:367–74.
+
+13. Veugelers PJ, Pham TM, Ekwaru JP. Optimal vitamin D supplementa-
+tion doses that minimize the risk for both low and high serum 25-
+Hydroxyvitamin D concentrations in the general population. Nutrients
+2015;7:10189–208.
+
+14. Veugelers PJ, Ekwaru JP. A statistical error in the estimation of the rec-
+
+ommended dietary allowance for vitamin D. Nutrients 2014;6:4472–5.
+
+15. Hollis BW, Wagner CL, Drezner MK, Binkley NC. Circulating vitamin D3
+and 25-hydroxyvitamin D in humans: an important tool to deﬁne adequate
+nutritional vitamin D status. J Steroid Biochem Mol Biol 2007;103:631–4.
+16. Jackson RD, LaCroix AZ, Gass M, Wallace RB, Robbins J, Lewis CE,
+Bassford T, Beresford SA, Black HR, Blanchette P, et al. Calcium plus vitamin
+D supplementation and the risk of fractures. N Engl J Med 2006;354:669–83.
+17. Bjelakovic G, Gluud Lise L, Nikolova D, Whitﬁeld K, Krstic G,
+Wetterslev J, Gluud C. Vitamin D supplementation for prevention of
+cancer in adults. Cochrane Database Syst Rev. 2014;(6):CD007469.
+
+18. Barry EL, Rees JR, Peacock JL, Mott LA, Amos CI, Bostick RM,
+Figueiredo JC, Ahnen DJ, Bresalier RS, Burke CA. Genetic variants in
+CYP2R1, CYP24A1, and VDR modify the efﬁcacy of vitamin D3 sup-
+plementation for increasing serum 25-hydroxyvitamin D levels in a ran-
+domized controlled trial. J Clin Endocrinol Metab 2014;99:E2133–7.
+
+19. Jacobs ET, Van Pelt C, Forster RE, Zaidi W, Hibler EA, Galligan MA,
+Hausser MR, Jurutka PW. CYP24A1 and CYP27B1 polymorphisms
+modulate vitamin D metabolism in colon cancer cells. Cancer Res
+2013;73:2563–73.
+
+20. Haussler MR, Whitﬁeld GK, Kaneko I, Haussler CA, Hsieh D,
+Hsieh JC, Jurutka PW. Molecular mechanisms of vitamin D action.
+Calcif Tissue Int 2013;92:77–98.
+
+21. Hibler EA, Sardo Molmenti CL, Dai Q, Kohler LN, Warren Anderson S,
+Jurutka PW, Jacobs ET. Physical activity, sedentary behavior, and vita-
+min D metabolites. Bone 2016;83:248–55.
+
+Cancer prevention guidelines and vitamin D 427
+
+22. McCullough ML, Weinstein SJ, Freedman DM, Helzlsouer K,
+Flanders WD, Koenig K, Kolonel L, Laden F, LeMarchand L,
+Purdue M. Correlates of circulating 25-hydroxyvitamin D: cohort
+consortium vitamin D pooling project of rarer cancers. Am J Epi-
+demiol 2010;172:21–35.
+
+23. Kohler LN, Garcia DO, Harris RB, Oren E, Roe DJ, Jacobs ET. Ad-
+herence to diet and physical activity cancer prevention guidelines and
+cancer outcomes: a systematic review. Cancer Epidemiol Biomarkers
+Prev 2016;25:1018–28.
+
+24. Kabat GC, Matthews CE, Kamensky V, Hollenbeck AR, Rohan TE.
+Adherence to cancer prevention guidelines and cancer incidence, cancer
+mortality, and total mortality: a prospective cohort study. Am J Clin
+Nutr 2015;101:558–69.
+
+25. Mart´ınez ME, Reid ME, Guill´en-Rodriguez
+
+JR,
+Sampliner R, Aickin M, Ritenbaugh C, Van Leeuwen B, Mason-
+Liddil N, Giuliano A, et al. Design and baseline characteristics of study
+participants in the wheat bran ﬁber trial. Cancer Epidemiol Biomarkers
+Prev 1998;7:813–6.
+
+J, Marshall
+
+Leeuwen
+
+26. Alberts DS, Martinez ME, Roe DJ, Guillen-Rodriguez JM, Marshall JR,
+van
+PA,
+Bhattacharyya AB, et al. Lack of effect of a high-ﬁber cereal supplement
+on the recurrence of colorectal adenomas. Phoenix colon cancer
+prevention physiciansÕ network. N Engl J Med 2000;342:1156–62.
+
+JB, Reid ME, Ritenbaugh C, Vargas
+
+27. Alberts DS, Martinez ME, Hess LM, Einspahr
+
+JG, Green SB,
+Bhattacharyya AK, Guillen J, Krutzsch M, Batta AK, Salen G, et al.
+Phase III trial of ursodeoxycholic acid to prevent colorectal adenoma
+recurrence. J Natl Cancer Inst 2005;97:846–53.
+
+28. Hollis BW. Quantitation of 25-hydroxyvitamin D and 1,25-dihydrox-
+yvitamin D by radioimmunoassay using radioiodinated tracers.
+Methods Enzymol 1997;282:174–86.
+
+29. Jacobs ET, Hibler EA, Lance P, Sardo CL, Jurutka PW. Association
+between circulating concentrations of 25(OH)D and colorectal
+adenoma: a pooled analysis. Int J Cancer 2013;133:2980–8.
+
+30. Jacobs ET, Alberts DS, Foote JA, Green SB, Hollis BW, Yu Z,
+Martinez ME. Vitamin D insufﬁciency in southern Arizona. Am J Clin
+Nutr 2008;87:608–13.
+
+31. Bouillon R, Van Schoor NM, Gielen E, Boonen S, Mathieu C,
+Vanderschueren D, Lips P. Optimal vitamin D status: a critical analysis
+on the basis of evidence-based medicine. J Clin Endocrinol Metab
+2013;98:E1283–304.
+
+32. Thomson CA, McCullough ML, Wertheim BC, Chlebowski RT,
+Martinez ME, Stefanick ML, Rohan TE, Manson JE, Tindle HE,
+Ockene J, et al. Nutrition and physical activity cancer prevention
+guidelines, cancer risk, and mortality in the womenÕs health initiative.
+Cancer Prev Res (Phila) 2014;7:42–53.
+
+33. Kushi LH, Doyle C, McCullough M, Rock CL, Demark-Wahnefried W,
+Bandera EV, Gapstur S, Patel AV, Andrews K, Gansler T. American
+Cancer Society guidelines on nutrition and physical activity for cancer
+prevention: reducing the risk of cancer with healthy food choices and
+physical activity. CA Cancer J Clin 2012;62:30–67.
+
+34. Martinez ME, Marshall JR, Graver E, Whitacre RC, Woolf K,
+Ritenbaugh C, Alberts DS. Reliability and validity of a self-administered
+food frequency questionnaire in a chemoprevention trial of adenoma
+recurrence. Cancer Epidemiol Biomarkers Prev 1999;8:941–6.
+
+35. Staten LK, Taren DL, Howell WH, Tobar M, Poehlman ET, Hill A,
+Reid PM, Ritenbaugh C. Validation of the Arizona activity frequency
+questionnaire using doubly labeled water. Med Sci Sports Exerc
+2001;33:1959–67.
+
+36. Ainsworth BE, Haskell WL, Leon AS, Jacobs DR Jr., Montoye HJ,
+Sallis JF, Paffenbarger RS Jr. Compendium of physical activities: clas-
+siﬁcation of energy costs of human physical activities. Med Sci Sports
+Exerc 1993;25:71–80.
+
+37. NIAAA. What is a standard drink?: U.S. department of health and
+human services [Internet]. [cited 2017 Jan 12]. Available from: http://
+www.niaaa.nih.gov/alcohol-health/overview-alcohol-consumption/
+what-standard-drink.
+
+38. Holick MF, Binkley NC, Bischoff-Ferrari HA, Gordon CM, Hanley DA,
+Heaney RP, Murad MH, Weaver CM. Evaluation, treatment, and pre-
+vention of vitamin D deﬁciency: an endocrine society clinical practice
+guideline. J Clin Endocrinol Metab 2011;96:1911–30.
+
+39. Shinkov A, Borissova AM, Dakovska L, Vlahov J, Kassabova L,
+Svinarov D. Winter 25-hydroxyvitamin D levels in young urban adults
+are affected by smoking, body mass index and educational level. Eur J
+Clin Nutr 2015;69:355–60.
+
+428 Kohler et al.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/147/3/421/4584813
+by University of Ottawa user
+on 24 June 2018
+
+40. Jacobs ET, Martinez ME, Jurutka PW. Vitamin D: marker or
+mechanism of action? Cancer Epidemiol Biomarkers Prev 2011;20:
+585–90.
+
+41. Mickey RM, Greenland S. The impact of confounder selection criteria
+
+on effect estimation. Am J Epidemiol 1989;129:125–37.
+
+42. Kushi LH, Byers T, Doyle C, Bandera EV, McCullough M,
+McTiernan A, Gansler T, Andrews KS, Thun MJ; American Cancer
+Society 2006 Nutrition and Physical Activity Guidelines Advisory
+Committee. American Cancer Society guidelines on nutrition and
+physical activity for cancer prevention: reducing the risk of cancer with
+healthy food choices and physical activity. CA Cancer
+J Clin
+2006;56:254–81. Erratum in: CA Cancer J Clin 2007;57:66.
+
+43. World Cancer Research Fund/American Institute for Cancer Research.
+Food, nutrition, physical activity, and the prevention of cancer: a global
+perspective. Washington (DC): AICR; 2007.
+
+44. Millen BE, Wolongevicz DM, de Jesus JM, Nonas CA, Lichtenstein AH.
+2013 American Heart Association/American College of Cardiology
+guideline on lifestyle management to reduce cardiovascular risk: prac-
+tice opportunities for registered dietitian nutritionists. J Acad Nutr Diet
+2014;114:1723–9.
+
+45. Jacobs ET, Kohler LN, Kunihiro AG, Jurutka PW. Vitamin D and co-
+lorectal, breast, and prostate cancers: a review of the epidemiological
+evidence. J Cancer 2016;7:232–40.
+
+46. Lee K. Sex-speciﬁc relationships between alcohol consumption and
+vitamin D levels: the Korea National Health and Nutrition Examination
+Survey 2009. Nutr Res Pract 2012;6:86–90.
+
+47. Deschasaux M,
+
+Souberbielle
+
+JC, Latino-Martel P,
+
+Sutton A,
+Charnaux N, Druesne-Pecollo N, Galan P, Hercberg S, Le Clerc S,
+Kesse-Goyot E, et al. Weight status and alcohol intake modify the as-
+sociation between vitamin D and breast cancer
+J Nutr
+2016;146:576–85.
+
+risk.
+
+48. Felton SJ, Cooke MS, Kift R, Berry JL, Webb AR, Lam PM, de
+Gruijl FR, Vail A, Rhodes LE. Concurrent beneﬁcial (vitamin D
+production) and hazardous (cutaneous DNA damage) impact of re-
+peated low-level
+J Dermatol
+2016;175:1320–8.
+
+exposures. Br
+
+sunlight
+
+summer
+
+49. Agarwal S, Reider C, Brooks JR, Fulgoni VL 3rd. Comparison of
+prevalence of inadequate nutrient intake based on body weight status of
+adults in the United States: an analysis of NHANES 2001–2008. J Am
+Coll Nutr 2015;34:126–34.
+
+50. Prasad P, Kochhar A. Interplay of vitamin D and metabolic syndrome: a
+
+review. Diabetes Metab Syndr 2016;10:105–12.
+
+51. Pourshahidi LK. Vitamin D and obesity: current perspectives and future
+
+directions. Proc Nutr Soc 2015;74:115–24.
+
+52. Csizmadi I, Kelemen LE, Speidel T, Yuan Y, Dale LC, Friedenreich CM,
+Robson PJ. Are physical activity levels linked to nutrient adequacy?
+Implications for cancer risk. Nutr Cancer 2014;66:214–24.
+
+53. Ekwaru JP, Zwicker JD, Holick MF, Giovannucci E, Veugelers PJ. The
+importance of body weight for the dose response relationship of oral
+vitamin D supplementation and serum 25-hydroxyvitamin D in healthy
+volunteers. PLoS One 2014;9:e111265.
+
+54. Aloia JF, Talwar SA, Pollack S, Yeh J. A randomized controlled trial of
+vitamin D3 supplementation in African American women. Arch Intern
+Med 2005;165:1618–23.
+
+55. Baron JA, Barry EL, Mott LA, Rees JR, Sandler RS, Snover DC,
+Bostick RM, Ivanova A, Cole BF, Ahnen DJ, et al. A trial of calcium and
+vitamin D for the prevention of colorectal adenomas. N Engl J Med
+2015;373:1519–30.
+
+56. Dawson-Hughes B, Dallal GE, Krall EA, Harris S, Sokoll LJ,
+Falconer G. Effect of vitamin D supplementation on wintertime and
+overall bone loss in healthy postmenopausal women. Ann Intern Med
+1991;115:505–12.
+
+57. Hibler EA. Genetic and environmental factors inﬂuencing circulating
+concentration of vitamin D metabolites and odds of colorectal neoplasia
+[dissertation]. Tucson (AZ): University of Arizona; 2011.
+
+58. Ka¨rkka¨ inen MK, Tuppurainen M, Salovaara K, Sandini L, Rikkonen T,
+Sirola J, Honkanen R, Arokoski J, Alhava E, Kro¨ ger H. Does daily
+vitamin D 800 IU and calcium 1000 mg supplementation decrease the
+risk of falling in ambulatory women aged 65–71 years? A 3-year ran-
+domized
+(OSTPRE-FPS). Maturitas
+2010;65:359–65.
+
+population-based
+
+trial
+
+59. Lappe JM, Travers-Gustafson D, Davies KM, Recker RR, Heaney RP.
+Vitamin D and calcium supplementation reduces cancer risk: results of a
+randomized trial. Am J Clin Nutr 2007;85:1586–91.
+
+60. Schnatz PF,
+
+Jiang X, Vila-Wright S, Aragaki AK, Nudy M,
+OÕSullivan DM, Jackson R, Le Blanc E, Robinson JG, Shikany JW,
+et al. Calcium/vitamin D supplementation, serum 25-hydroxyvitamin
+D concentrations, and cholesterol proﬁles in the WomenÕs Health
+Initiative
+trial. Menopause
+2014;21:823–33.
+
+calcium/vitamin D randomized
+
+61. Hibler EA, Molmenti CL, Lance P, Jurutka PW, Jacobs ET. Associations
+between circulating 1,25(OH)(2)D concentration and odds of metach-
+ronous colorectal adenoma. Cancer Causes Control 2014;25:809–17.
+
+62. Tartibian B, Hajizadeh Maleki B, Kanaley J, Sadeghi K. Long-term aerobic
+exercise and omega-3 supplementation modulate osteoporosis through
+inﬂammatory mechanisms in post-menopausal women: a randomized,
+repeated measures study. Nutr Metab (Lond) 2011;8:71.
+
+63. Bea JW, Jurutka PW, Hibler EA, Lance P, Martinez ME, Roe DJ, Sardo
+Molmenti CL, Thompson PA, Jacobs ET. Concentrations of the vitamin
+D metabolite 1,25(OH)2D and odds of metabolic syndrome and its
+components. Metabolism 2015;64:447–59.
+
+64. Sonderman JS, Munro HM, Blot WJ, Signorello LB. Reproducibility of
+serum 25-hydroxyvitamin D and vitamin D-binding protein levels over
+time in a prospective cohort study of black and white adults. Am J
+Epidemiol 2012;176:615–21.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/147/3/421/4584813
+by University of Ottawa user
+on 24 June 2018
+
+Cancer prevention guidelines and vitamin D 429
+
+

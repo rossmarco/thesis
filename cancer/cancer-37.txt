@@ -1,0 +1,1072 @@
+Published OnlineFirst January 5, 2011; DOI: 10.1158/1940-6207.CAPR-10-0113 
+
+MiniReview
+
+Cancer
+Prevention
+Research
+
+Heme Iron from Meat and Risk of Colorectal Cancer:
+A Meta-analysis and a Review of the Mechanisms Involved
+
+Nadia M. Bastide, Fabrice H.F. Pierre, and Denis E. Corpet
+
+Abstract
+
+Red meat and processed meat intake is associated with a risk of colorectal cancer, a major cause of
+death in affluent countries. Epidemiological and experimental evidence supports the hypothesis that
+heme iron present in meat promotes colorectal cancer. This meta-analysis of prospective cohort studies
+of colon cancer reporting heme intake included 566,607 individuals and 4,734 cases of colon cancer.
+The relative risk of colon cancer was 1.18 (95% CI: 1.06–1.32) for subjects in the highest category of
+heme iron intake compared with those in the lowest category. Epidemiological data thus show a
+suggestive association between dietary heme and risk of colon cancer. The analysis of experimental
+studies in rats with chemically-induced colon cancer showed that dietary hemoglobin and red meat
+consistently promote aberrant crypt foci, a putative precancer lesion. The mechanism is not known, but
+heme iron has a catalytic effect on (i) the endogenous formation of carcinogenic N-nitroso compounds
+and (ii) the formation of cytotoxic and genotoxic aldehydes by lipoperoxidation. A review of
+evidence supporting these hypotheses suggests that both pathways are involved in heme iron toxicity.
+Cancer Prev Res; 4(2); 177–84. Ó2011 AACR.
+
+Introduction
+
+Cancer of the colon and rectum, taken together, are the
+third most common type of cancer worldwide (1). In most
+publications, colon and rectal cancer are studied together
+and the term colorectal cancer (CRC) is used, which we also
+use here, except when the publications refer specifically to
+colon or rectal cancer. CRC is the second most common
+cause of cancer death in affluent countries. Dietary mod-
+ifications might reduce this cancer burden by up to 70%
+(2). Three recent meta-analyses showed that total meat
+intake is not related to risk but that intake of red or
+processed meat is associated with a modest, but significant
+risk of CRC (3–5). Processed meat intake appears to be
+more closely linked with the risk of CRC than fresh red
+meat intake. In its 2007 report, the World Cancer Research
+Fund panel recommended that one should limit intake of
+red meat and avoid processed meat (1).
+
+Several mechanisms may explain the relationship
+between the risk of CRC and the intake of red or pro-
+
+Authors' Affiliation: Universite de Toulouse, INRA TOXALIM (Research
+Centre in Food Toxicology), INP ENVT, Toulouse, France
+
+Note: Supplementary data for this article are available at Cancer Preven-
+tion Research Online (http://cancerprevres.aacrjournals.org/)
+
+Corresponding Author: Fabrice H.F. Pierre, INRA; TOXALIM (Research
+Centre in Food Toxicology); Toulouse, France / Universite de Toulouse;
+INP; ENVT; 23 ch. Capelles, 31076 Toulouse, France Phone: 0561193289;
+Fax: 0561491263; E-mail: f.pierre@envt.fr
+
+doi: 10.1158/1940-6207.CAPR-10-0113
+Ó2011 American Association for Cancer Research.
+
+cessed meat. First, meat cooked at high temperature
+contains mutagenic heterocyclic amines. But heterocyclic
+amines might not be major players in CRC risk, as: (i)
+consumption of chicken is a major contributor to intake
+of heterocyclic amines, but is not associated with the risk
+(6); and (ii) doses of heterocyclic amines that induce
+cancer in animals are 1,000 to 100,000 times higher than
+the dose ingested by humans (7). A second hypothesis
+suggests that the high saturated fat content of red and
+processed meat increases the risk of CRC. But several
+including a recent meta-analysis, showed no
+studies,
+effect of
+saturated fat on colorectal carcinogenesis
+(8–11). A third hypothesis concerns the carcinogenic
+N-nitroso compounds (NOC), which can be formed in
+the gastrointestinal
+tract by N-nitrosation of peptide
+derived amines or amides. The role of NOC in human
+cancer is discussed in the following text. Other more
+unlikely hypotheses involve the high protein, cholesterol,
+and salt content of red or processed meat. For a review of
+all these mechanisms, see ref. 12.
+
+Sesink and colleagues suggested that heme iron, in the
+form of hemin [chloroprotoporphyrin IX iron(III)] a ferric
+form of heme, may explain the link between the risk of
+colon cancer and red meat intake, and the lack of a link
+with white meat intake (13). Epidemiological and experi-
+mental evidence support heme toxicity. Heme consists of
+an iron atom present at the center of a large heterocyclic
+organic ring called a porphyrin (Fig. 1). Heme is included
+in so-called hemoprotein, that is, hemoglobin, myoglobin
+(both involved in the oxygen supply), and in cytochromes
+(which catalyze electron transfer reactions). Red meat
+
+www.aacrjournals.org
+
+177
+
+Downloaded from 
+
+for Cancer Research. 
+
+cancerpreventionresearch.aacrjournals.org 
+
+on June 11, 2018. © 2011 American Association
+
+Published OnlineFirst January 5, 2011; DOI: 10.1158/1940-6207.CAPR-10-0113 
+
+Bastide et al.
+
+Figure 1. Structure of molecules cited in the review.
+
+(such as beef, veal, lamb, mutton, pork, and offal) owes it
+dark red color to the presence of a high concentration of
+myoglobin, and the heme content of red meat is 10-fold
+higher than that of white meat (such as chicken; ref. 14). In
+processed red meat, heme iron is nitrosylated, because
+curing salt contains nitrate or nitrite (Fig. 1; ref. 12).
+
+The aims of the present mini-review were: (i) to conduct
+a meta-analysis of epidemiological cohort studies on heme
+intake and the risk of colon cancer; (ii) to review experi-
+mental evidence supporting the aforementioned heme
+hypothesis; and (iii) to understand the mechanism of
+action of heme in carcinogenesis.
+
+Heme iron intake and risk of colon cancer:
+a meta-analysis of prospective cohort studies
+
+the magnitude of
+
+The objective of this part of the review was to assess,
+through meta-analysis,
+the relation
+between heme iron intake and colon cancer. As most
+studies do not report data on rectal cancer, we decided
+to limit our analysis to colon cancer. The methodological
+procedure is described in the Supplementary Material to
+this article.
+
+The characteristics of the 5 prospective cohort studies
+included in the meta-analysis are summarized in Supple-
+mentary Data (Table S1). This meta-analysis included
+data on 566,607 individuals and 4,734 cases of colon
+cancer. Although 1 cohort study found no association
+between heme and cancer (15), 3 found that a high intake
+of heme iron was linked with a higher risk of colon cancer
+(16–18), and 1 found a positive, but not significant,
+association between heme iron and colon cancer (19;
+Fig. 2). In the Lee and colleagues study, the relative risk
+(RR) for both proximal and distal colon was 1.53 (95%
+CI: 0.99–2.38). In the Balder and colleagues study, the
+association was positive in the 2 genders combined (RR ¼
+1.35, 95% CI: 1.03–1.77; ref. 17). The summary RR of
+colon cancer in all 5 studies was 1.18 (95% CI: 1.06–
+1.32) for subjects in the highest category of heme iron
+intake compared with those in the lowest category
+(Fig. 2). This meta-analysis showed a consistent associa-
+tion between high intake of heme iron and increased risk
+of colon cancer.
+
+Two studies out of 5 considered calcium in the adjust-
+ments for the RR (16–18), and showed the strongest
+
+178
+
+Cancer Prev Res; 4(2) February 2011
+
+Cancer Prevention Research
+
+Downloaded from 
+
+for Cancer Research. 
+
+cancerpreventionresearch.aacrjournals.org 
+
+on June 11, 2018. © 2011 American Association
+
+Published OnlineFirst January 5, 2011; DOI: 10.1158/1940-6207.CAPR-10-0113 
+
+Heme Iron and Colorectal Cancer
+
+In conclusion, this meta-analysis showed a significant
+and consistent but modest increase in the risk of colon
+cancer associated with high heme iron intake. This study
+should be pursued by future prospective cohort studies, but
+this epidemiological result is in line with experimental
+in vivo results detailed in the following text.
+
+Experimental evidence of colorectal cancer promotion
+by heme iron
+
+Sawa and colleagues showed that dietary hemoglobin
+produces lipid peroxyl radicals and increases the inci-
+dence of nitrosomethylurea-induced colon cancer in rats
+fed polyunsaturated fat (24). Sesink and colleagues
+studied the effect of hemin-supplemented diet in non-
+initiated rats. Dietary hemin increases fat peroxidation
+and cytotoxic activity of fecal water, and epithelial pro-
+liferation by 70% (13). In hemin, the iron atom is
+stabilized by a freely exchangeable chloride. Pierre
+and colleagues also showed that hemin and hemoglobin
+increase the number of azoxymethane-induced aberrant
+crypt foci, which are putative preneoplastic lesions, in
+the colon of rats (21). In contrast with hemin, dietary
+hemoglobin does not increase the cytotoxicity of fecal
+water, and it is less potent than hemin in promoting
+colon carcinogenesis. Hemoglobin may be a suitable
+substitute for myoglobin in nutritional experiments
+with animal model, and a model agent for studies on
+the cytotoxicity of red meat (21).
+
+Pierre and colleagues also fed 3 types of meat with
+different heme content (chicken, beef, and blood sausage)
+to rats treated with azoxymethane and fed a low-calcium
+diet (25). This study was the first to show that dietary meat
+can promote colon carcinogenesis, and that the effect
+depends on the heme concentration. The results of this
+study of meat contrast with those of several earlier studies,
+where red-meat based high-calcium diets failed to promote
+colon carcinogenesis, indicating probable protection by
+calcium (26). Subsequently, Pierre and colleagues tested
+the hypothesis, suggested by epidemiology, that nitrosyl
+heme in processed meat was more toxic than native heme
+in fresh meat (27). Cured meat can indeed promote colon
+carcinogenesis in rats (27). Dietary hemin, but not hemo-
+globin, could be used as a model agent to mimic the effects
+of processed meat in rats (27). In a recent study, Pierre and
+colleagues demonstrated that the nitrosylation of heme
+was a key event in the promoting effect of processed meat in
+rats (28).
+
+Analysis of the results of experimental studies of rats with
+chemically-induced colon cancer (21, 22, 25, 29), showed
+that the global standardized effect size for number of
+aberrant crypt foci per colon was 1.73 (95% CI: 1.33–
+2.14) in rats given dietary heme iron in hemoglobin or beef
+meat, compared with control rats. The logistic regression
+approach showed a significant correlation between the
+number of aberrant crypts per colon and the concentration
+of heme in the diet (P ¼ 0.02; see Methods and Figure in
+Supplementary Data). This experimental evidence that
+heme iron promotes carcinogenesis in rats is consistent
+
+Figure 2. Relative risks of colon cancer in prospective cohort studies,
+comparing the highest with the lowest category of heme iron
+consumption. Studies are ordered by year of publication. Squares
+represent study-specific RR and the size of squares is proportional to the
+statistical weight that each contributed to the summary estimate of relative
+risk (percentage weight of each study: Lee et al., 2004, proximal: 6.6%;
+Lee et al., 2004, distal: 4.6%; Larsson et al., 2005: 18%; Balder et al., 2006,
+women: 11.7%; Balder et al., 2006, men: 12.86%; Kabat et al., 2007,
+14.2%; Cross et al., 2010: 32%). Horizontal lines represent 95% CI. The
+diamond represents the summary estimate of the relative risk of all studies
+included in the meta-analysis.
+
+association between heme iron and colon cancer. This
+makes sense, as calcium inhibits heme-induced cytotoxi-
+city, colonic epithelial hyperproliferation, and promotion
+of chemically induced carcinogenesis in animal models
+(20–22).
+
+Two studies we excluded from the meta-analysis found
+similar results. An ecological study found a direct correla-
+tion between the dietary iron index and colon and rectal
+cancer (23). Ferrucci and colleagues observed a positive,
+but not significant, association between heme iron in diet
+and colorectal adenoma.
+
+The present meta-analysis is the first to examine the
+relation between heme iron and colon cancer. But this
+study also has its limitations; first it includes only 5
+cohort studies, and the way heme intake was measured
+differs in each study. Lee and colleagues and Larsson and
+colleagues calculated heme iron content in the diet by
+applying a factor of 0.4 to the total iron content of all
+meat items which essentially is reporting an overall red
+meat effect (16, 18). Balder and colleagues multiplied the
+heme iron content of each meat item by the mean daily
+intake of the relevant food item, estimated from the
+Dutch Food Composition Database (17), but the 2 meth-
+ods yielded similar results (15). Cross and colleagues
+developed a new heme iron database based on measured
+values in conjunction with a detailed meat cooking ques-
+tionnaire (19).
+
+www.aacrjournals.org
+
+Cancer Prev Res; 4(2) February 2011
+
+179
+
+Downloaded from 
+
+for Cancer Research. 
+
+cancerpreventionresearch.aacrjournals.org 
+
+on June 11, 2018. © 2011 American Association
+
+Published OnlineFirst January 5, 2011; DOI: 10.1158/1940-6207.CAPR-10-0113 
+
+Bastide et al.
+
+with epidemiological evidence. Heme promotion may
+explain why the intake of red and processed meat is
+associated with a risk of CRC.
+
+Possible mechanisms of heme toxicity in the
+gastrointestinal tract
+
+The mechanisms implicated in the promotion of color-
+ectal cancer by heme are poorly understood. The mechan-
+istic hypotheses are based on the catalytic effect of heme
+iron on (i) the formation of NOC and (ii) the formation of
+lipid oxidation endproducts.
+
+Heme iron catalyzes N-nitrosation
+
+NOC are formed by N-nitrosation of amines and
+amides, produced primarily by bacterial decarboxylation
+of amino acids in the presence of a nitrosating agent
+(30). There was no a priori reason to think that nitrosa-
+tion would require heme iron. The structure of nitrosa-
+mine is shown in Figure 1. NOC can be detected by
+thermal energy analysis following the release of nitric
+oxide from biological samples. This analytical procedure
+comprises nitrosyl iron and S-nitrosothiols in addition to
+nitrosamines and nitrosamides, which are collectively
+total N-nitroso compounds
+referred to as apparent
+(ATNC; ref. 31).
+
+Animal and human studies. Bacon-fed rats had a fecal
+concentration of ATNC 10 to 20 times higher than control
+rats (32). In addition, mice fed a diet of hot-dogs (18%),
+had 4 to 5 times more ATNC, and mice fed a beef diet had 2
+to 3 times more ATNC in their feces than controls fed no
+meat (33, 34).
+
+Human volunteers given a high red meat diet excreted
+much more ATNC in their stools than controls given no
+or little red meat, or only white meat (31, 35, 36). The
+fecal concentration of ATNC was 60 times higher in
+volunteers given cured red meat
+than in volunteers
+given a vegetarian diet (37). Heme iron, and not inor-
+ganic iron or meat proteins, may be responsible for the
+nitrosation observed in the gut of volunteers fed red
+meat (38).
+
+Nature of ATNC. A red meat diet increased nitrosyl
+iron and nitrosothiols in ileal outputs and in stools of
+volunteers, compared with a vegetarian diet, suggesting
+that these compounds contribute significantly to ATNC
+(39, 40). Nitrosothiols are rapidly formed from nitrite
+and thiol groups at low pH in the stomach and can be
+precursors for the formation of nitrosyl heme and NOC in
+the gut (39). The strong correlation between fecal nitrosyl
+iron and fecal heme suggests that nitrosyl heme is the
+main source of nitrosyl
+iron (39). Moreover, ATNC
+precursors from hot dogs were partially purified and
+separated by HPLC (41). One fraction was identified as
+1-deoxy-N-1-glucosyl glycine by mass spectrometry, and
+the nitrosated fraction was shown to be mutagenic by the
+Ames test (41).
+
+Carcinogenicity of nitrosated compounds. The carcino-
+genicity of ATNC formed in the gut after eating heme from
+red or processed meat is unknown. Parnaud and colleagues
+
+found no initiation or promotion of preneoplastic lesions
+by ATNC in the colon of rats fed a bacon-based diet (32).
+Kunhle and colleagues speculated that nitrosyl iron com-
+pounds and nitrosothiols may contribute to the tumoro-
+genic potential of
+in a
+commentary on Kunhle’s article, Hogg speculated that
+the sequestration of the "nitrosating potential" of the diet
+as nitrosothiol or as nitrosyl iron may be a protective
+mechanism that would limit the formation of DNA alky-
+lating agents (42).
+
+the diet (39). By contrast,
+
+However, several arguments suggest that ATNC may be
+important genotoxins. First, most NOC, such as nitrosa-
+mines, nitrosamides, and nitrosoguanidines, can yield
+alkylating agents during metabolism, and cause DNA
+damage. For instance N-methyl-N-nitrosurea intrarectally
+perfused induced G ! A transitions in K-ras in 30% of rat
+colon carcinoma (43). In addition, nitrosated glycine deri-
+vatives reacted with DNA to give rise to promutagenic and
+toxic adducts including O6-methylguanine and O6-carbox-
+ymethylguanine (44). O6-Carboxymethylguanine adducts
+were found in stool exfoliated colonocytes from volunteers
+eating red meat, with a correlation between the level of
+adducts and of fecal ATNC, suggesting that ATNC are
+genotoxic (45). Moreover, potassium diazoacetate, a stable
+form of nitrosated glycine, was shown to induce mutations
+in the p53 gene in a functional yeast assay (46). The
+patterns of mutations were similar to the patterns observed
+in human colon tumors. This supports the hypotheses that
+nitrosation of compounds related to glycine contributes to
+p53 mutations in humans, and that O6-carboxymethylgua-
+nine adducts in exfoliated colorectal cells are related to
+CRC (46).
+
+Heme iron catalyzes the oxidation of polyunsaturated
+fats
+
+
+
+(lipid alkoxy radical) þ 
+
+The polyunsaturated fatty acid residues of phospholi-
+pids are extremely sensitive to oxidation. Lipid peroxida-
+tion is initiated by free-radical attack of membrane lipids
+and is catalyzed by heme with the following reaction:
+LOOH (lipid hydroperoxide) þ Fe-ligand (heme) !
+LOOFe ligands ! LO
+OFe
+ligands (heme oxiradical; ref. 47). The initial products
+of unsaturated fatty acid oxidation are lipid hydroper-
+oxides, but they are relatively short lived. They are either
+reduced by glutathione peroxidase to unreactive fatty acid
+alcohols or they react with metals to produce a variety of
+reactive compounds such as epoxides and aldehydes. The
+major aldehyde products of lipid peroxidation are mal-
+ondialdehyde (MDA) and 4-hydroxynonenal (4-HNE;
+ref. 48). These dietary lipid oxidation end products are
+risk factors for several human diseases (for review, see
+refs. 49, 50).
+
+Malondialdehyde. MDA is formed by oxidation of poly-
+unsaturated fatty acids with 2 or more double bonds.
+MDA-induced DNA damage is mutagenic in bacterial,
+mammalian, and human cells (51–53). MDA reacts with
+DNA to form adducts with deoxyguanosine, deoxyadeno-
+sine, and deoxycytidine (for review, see ref. 54). The major
+
+180
+
+Cancer Prev Res; 4(2) February 2011
+
+Cancer Prevention Research
+
+Downloaded from 
+
+for Cancer Research. 
+
+cancerpreventionresearch.aacrjournals.org 
+
+on June 11, 2018. © 2011 American Association
+
+Published OnlineFirst January 5, 2011; DOI: 10.1158/1940-6207.CAPR-10-0113 
+
+Heme Iron and Colorectal Cancer
+
+Figure 3. Catalytic effects of heme
+on the formation of ATNC and lipid
+peroxidation, and their inhibition.
+Consequences for the
+development of CRC. Heme
+catalyzes the formation of ATNC
+and lipid peroxidation
+endproducts, which partially
+explains the promoting effect of
+red and processed meat on CRC.
+The catalytic effects of heme can
+be inhibited by trapping the heme
+(calcium, chlorophyll). The
+endogenous formation of ATNC is
+inhibited by vitamins C and E, and
+it appears that polyphenols can
+inhibit lipid peroxidation.
+
+DNA adduct formed by reaction of MDA with DNA is 1,N2-
+malondialdehyde-deoxyguanosine (M1dG). M1dG was
+detected in colorectal biopsies from normal mucosa of
+162 participants in the United Kingdom FlexiScope Sig-
+moidoscopy Screening Trial and the EPIC study (55). The
+level of this adduct was modulated by dietary and lifestyle
+habits, and there is to higher M1dG levels in subjects with
+adenoma compared with adenoma-free subjects (P <
+0.005; ref. 55).
+
+4-Hydroxynonenal.
+
+In contrast with MDA, 4-HNE is
+weakly mutagenic but appears to be the main toxic
+product of lipid peroxidation (Fig. 1). 4-HNE has power-
+ful effects on signal transduction pathways and some of
+its effects appear to be independent of DNA damage (48).
+Indeed, 4-HNE present in fecal water can induce apop-
+tosis and necrosis of human colon carcinoma cells
+through caspase 3 activation (56). Mutations in the
+adenomatous polyposis coli (Apc) gene on the chromosome
+5q21 locus are considered to be one of the earliest events
+in the initiation of CRC (57). Moreover, Apc mutation
+was shown to reduce the level of caspases 3, 7, and 9 in
+mouse colonocytes, leading to resistance to apoptosis
+(58). An intestinal cell line derived from C57BL/6J mice
+þ
+(Apcþ/þ
+) retained the hetero-
+zygous Apc genotype and the disordered actin cytoskele-
+ton network for the Apc Min/
+cell line (59, 60). By
+
+) and Min mice (Apc Min/
+þ
+
+exposing this cell line to fecal water of heme-fed rats or
+to 4-HNE, Pierre and colleagues showed that apoptosis
+was suppressed in Apc Min/
+cells (61). The heterozygote
+Apc mutation is thus a strong selective advantage for
+colonic
+cells exposed to a lipoperoxidation-related
+genotoxic environment such as excess heme iron or 4-
+HNE (61).
+
+þ
+
+In summary, heme catalyzes the formation of ATNC and
+of lipid oxidation end products, which may explain the
+promoting effects of red and processed meat on CRC.
+However, the procarcinogenic effect of heme can be inhib-
+ited by several molecules. First, calcium salts and chloro-
+phyll can precipitate heme molecules and inhibit the
+cytotoxic and hyperproliferative effect of heme in the rat
+epithelium (17, 20–22, 62, 63). Moreover, the endogenous
+formation of ATNC is inhibited by vitamins C and E, and
+lipoperoxidation is inhibited by several polyphenols such
+as quercetin, a-tocopherol, or red wine polyphenols (64–
+68). The catalytic effects of heme and its inhibition are
+summarized in Figure 3.
+
+Conclusion
+
+CRC is the leading cause of cancer death among non-
+smokers in affluent countries, and its prevention is thus a
+major goal for public health. Epidemiological studies
+
+www.aacrjournals.org
+
+Cancer Prev Res; 4(2) February 2011
+
+181
+
+Downloaded from 
+
+for Cancer Research. 
+
+cancerpreventionresearch.aacrjournals.org 
+
+on June 11, 2018. © 2011 American Association
+
+Published OnlineFirst January 5, 2011; DOI: 10.1158/1940-6207.CAPR-10-0113 
+
+Bastide et al.
+
+demonstrate a modest but significant and consistent
+relation between red meat and processed meat intake
+and CRC risk. The dietary recommendations are to reduce
+red meat intake and to avoid processed meat intake (1).
+However, meat is an important source of proteins, pro-
+viding all essential amino acids, and it is an excellent
+source of iron and zinc. Iron deficiency is the most
+widespread nutritional disorder in the world, especially
+among children and premenopausal women, and results
+in iron deficiency anemia (1). Knowledge of the mechan-
+ism of CRC promotion by meat may allow an alternative
+prevention strategy to be developed: inhibiting red and
+processed meat toxicity instead of stopping meat intake.
+Among the hypotheses
+explaining the association
+between meat intake and the risk of CRC, the effect of
+heme iron is supported by both epidemiological (Fig. 2)
+and experimental evidence (Supplementary Fig. S1). Sev-
+eral mechanisms may explain the effect of heme on CRC,
+and the 2 major hypotheses are: (i) heme catalyzes the
+endogenous formation of ATNC; and (ii) heme catalyzes
+the peroxidation of dietary fats (Fig. 3). Calcium salts,
+chlorophyll, vitamin C, and several polyphenols may
+
+reduce these deleterious effects of heme. Specific recom-
+mendations might be made, for example, "eat a yogurt
+after your steak." Moreover, vitamins or polyphenols
+could be added during the curing process. Ascorbic acid
+is already added during the processing of processed meats
+specifically to inhibit the formation of volatile NOC in
+the meat (69). We expect that this will reduce the risk of
+CRC without losing the benefit and the pleasure of eating
+meat.
+
+Disclosure of Potential Conflicts of Interests
+
+No potential conflicts of interests were disclosed.
+
+Acknowledgments
+
+We thank Luc Dauchet (INSERM, CHU Rouen, France) for his advice
+concerning the meta-analysis, and Daphne Goodfellow who carefully read
+the manuscript and corrected typographical and grammatical errors.
+
+Received May 12, 2010; revised November 22, 2010; accepted December
+
+1, 2010; published OnlineFirst January 5, 2011.
+
+References
+1. WCRF. Food, Nutrition, Physical Activity, and the Prevention of
+Cancer: A Global Perspective. Washington, DC: WCRF and American
+Institute for Cancer Research; 2007. p. 1–537.
+
+2. Cummings JH, Bingham SA. Diet and the prevention of cancer. BMJ
+
+1998;317:1636–40.
+
+3. Sandhu MS, White IR, Mcpherson K. Systematic review of the pro-
+spective cohort studies on meat consumption and colorectal cancer
+risk: a meta-analytical approach. Cancer Epidemiol Biomarkers Prev
+2001;10:439–46.
+
+5.
+
+4. Norat T, Lukanova A, Ferrari P, Riboli E. Meat consumption and
+colorectal cancer risk: dose-response meta-analysis of epidemiolo-
+gical studies. Int J Cancer 2002;98:241–56.
+Larsson SC, Wolk A. Meat consumption and risk of colorectal cancer: a
+meta-analysis of prospective studies. Int J Cancer 2006;119:2657–64.
+6. Sinha R, Rothman N, Brown ED, Mark SD, Hoover RN, Caporaso NE,
+et al. Pan-fried meat containing high levels of heterocyclic aromatic
+amines but low levels of polycyclic aromatic hydrocarbons induces
+cytochrome p4501a2 activity in humans. Cancer Res 1994;54:6154–
+9.
+
+7. Stavric B. Biological significance of trace levels of mutagenic hetero-
+cyclic aromatic amines in human diet: a critical review. Food Chem
+Toxicol 1994;32:977–94.
+
+8. Nauss KM, Locniskar M, Newberne PM. Effect of alteration in the
+quality and quantity of dietary fat on DMH-induced colon tumorigen-
+esis in rats. Cancer Res 1983;43:4083–90.
+
+9. Nutter RL, Gridley DS, Kettering JD, Goude AG, Slater JM. BALB/c
+mice fed milk or beef protein: differences in response to 1,2-
+dimethylhydrazine carcinogenesis. J Natl Cancer Inst 1983;71:
+867–74.
+
+10. Clinton SK, Imrey PB, Mangian HJ, Nandkumar S, Visek WJ. The
+combined effects of dietary fat, protein, and energy intake on
+azoxymethane-induced intestinal and renal carcinogenesis. Cancer
+Res 1992;52:857–65.
+
+11. Alexander DD, Cushing CA, Lowe KA, Sceurman B, Roberts MA.
+Meta-analysis of animal fat or animal protein intake and colorectal
+cancer. Am J Clin Nutr 2009;89:1402–9.
+
+12. Santarelli RL, Pierre F, Corpet DE. Processed meat and colorectal
+cancer: a review of epidemiologic and experimental evidence. Nutr
+Cancer 2008;60:131–44.
+
+13. Sesink ALA, Termont DSML, Kleibeuker JH, Vandermeer R. Red meat
+and colon cancer: the cytotoxic and hyperproliferative effects of
+dietary heme. Cancer Res 1999;59:5704–9.
+
+14. Schwartz S, Ellefson M. Quantitative fecal recovery of
+
+ingested
+hemoglobin-heme in blood: comparisons by HemoQuant assay with
+ingested meat and fish. Gastroenterology 1985;89:19–26.
+
+15. Kabat GC, Miller AB, Jain M, Rohan TE. A cohort study of dietary iron
+and heme iron intake and risk of colorectal cancer in women. Br J
+Cancer 2007;97:118–22.
+
+16. Larsson SC, Adami HO, Giovannucci E, Wolk A. Re: Heme iron, zinc,
+alcohol consumption, and risk of colon cancer. J Natl Cancer Inst
+2005;97:232–3.
+
+17. Balder HF, Vogel J, Jansen MC, Weijenberg MP, Van den Brandt PA,
+Westenbrink S, et al. Heme and chlorophyll intake and risk of color-
+ectal cancer in the Netherlands cohort study. Cancer Epidemiol
+Biomarkers Prev 2006;15:717–25.
+
+18. Lee DH, Anderson KE, Harnack LJ, Folsom AR, Jacobs DR Jr. Heme
+iron, zinc, alcohol consumption, and colon cancer: Iowa Women's
+Health Study. J Natl Cancer Inst 2004;96:403–7.
+
+19. Cross AJ, Ferrucci LM, Risch A, Graubard BI, Ward MH, Park Y, et al. A
+large prospective study of meat consumption and colorectal cancer
+risk: an investigation of potential mechanisms underlying this asso-
+ciation. Cancer Res 2010;70:2406–14.
+
+20. Sesink ALA, Termont DSML, Kleibeuker JH, VanDerMeer R. Red meat
+and colon cancer: dietary haem-induced colonic cytotoxicity and
+epithelial hyperproliferation are inhibited by calcium. Carcinogenesis
+2001;22:1653–9.
+
+21. Pierre F, Tache S, Petit CR, Van Der Meer R, Corpet DE. Meat and
+cancer: haemoglobin and haemin in a low-calcium diet promote
+colorectal carcinogenesis at the aberrant crypt stage in rats. Carci-
+nogenesis 2003;24:1683–90.
+
+22. Pierre F, Santarelli R, Tache S, Gueraud F, Corpet DE. Beef meat
+promotion of dimethylhydrazine-induced colorectal carcinogenesis
+
+182
+
+Cancer Prev Res; 4(2) February 2011
+
+Cancer Prevention Research
+
+Downloaded from 
+
+for Cancer Research. 
+
+cancerpreventionresearch.aacrjournals.org 
+
+on June 11, 2018. © 2011 American Association
+
+Published OnlineFirst January 5, 2011; DOI: 10.1158/1940-6207.CAPR-10-0113 
+
+biomarkers is suppressed by dietary calcium. Br J Nutr 2008;99:1000–
+6.
+
+23. Grant WB. An ecological study of cancer mortality rates including
+indices for dietary iron and zinc. Anticancer Res 2008;28:1955–
+63.
+
+24. Sawa T, Akaike T, Kida K, Fukushima Y, Takagi K, Maeda H. Lipid
+peroxyl radicals from oxidized oils and heme-iron: implication of a
+high-fat diet in colon carcinogenesis. Cancer Epidemiol Biomarkers
+Prev 1998;7:1007–12.
+
+25. Pierre F, Freeman A, Tache S, Van Der Meer R, Corpet DE. Beef meat
+and blood sausage promote the formation of azoxymethane-induced
+mucin-depleted foci and aberrant crypt foci
+in rat colons. J Nutr
+2004;134:2711–6.
+
+26. Parnaud G, Peiffer G, Tache S, Corpet DE. Effect of meat (beef,
+chicken, and bacon) on rat colon carcinogenesis. Nutr Cancer
+1998;32:165–73.
+
+27. Pierre FH, Santarelli RL, Allam O, Tache S, Naud N, Gueraud F, et al.
+azoxymethane-induced mucin-
+in rat colon. Nutr Cancer
+
+Freeze-dried ham promotes
+depleted foci and aberrant crypt foci
+2010;62:567–73.
+
+28. Santarelli RL, Vendeuvre JL, Naud N, Tache S, Gueraud F, Viau M,
+et al. Meat processing and colon carcinogenesis: cooked, nitrite-
+treated, and oxidized high-heme cured meat promotes mucin-
+depleted foci in rats. Cancer Prev Res 2010;3:852–64.
+
+29. Belobrajdic DP, Mcintosh GH, Owens JA. Whey proteins protect more
+than red meat against azoxymethane induced ACF in Wistar rats.
+Cancer Lett 2003;198:43–51.
+
+30. Mirvish SS. Role of N-nitroso compounds (NOC) and N-nitrosation in
+etiology of gastric, esophageal, nasopharyngeal and bladder cancer
+and contribution to cancer of known exposures to NOC. Cancer Lett
+1995;93:17–48.
+
+31. Hughes R, Cross AJ, Pollock JRA, Bingham S. Dose-dependent effect
+of dietary meat on endogenous colonic N-nitrosation. Carcinogenesis
+2001;22:199–202.
+
+32. Parnaud G, Pignatelli B, Peiffer G, Tache S, Corpet DE. Endogenous
+N-nitroso compounds, and their precursors, present in bacon, do not
+initiate or promote aberrant crypt foci in the colon of rats. Nutr Cancer
+2000;38:74–80.
+
+33. Haorah J, Mirvish SS. Determination of total N-nitroso compounds
+and their precursors in Franfurters, fresh meat, dried salted fish,
+sauces, tobaco, and tobacco smoke particulates. J Agric Food Chem
+2001;49:6068–78.
+
+34. Mirvish SS, Haorah J, Zhou L, Hartman M, Morris CR, Clapper ML.
+N-Nitroso compounds in the gastrointestinal tract of rats and in the
+feces of mice with induced colitis or fed hot dogs or beef. Carcino-
+genesis 2003;24:595–603.
+
+35. Bingham SA, Pignatelli B, Pollock JRA, Ellul A, Malaveille C, Gross G,
+et al. Does increased endogenous formation of N-nitroso compounds
+in the human colon explain the association between red meat and
+colon cancer? Carcinogenesis 1996;17:515–23.
+
+36. Bingham SA, Hughes R, Cross AJ. Effect of white versus red meat on
+endogenous N-nitrosation in the human colon and further evidence of
+a dose response. J Nutr 2002;132:3522S–5S.
+
+37. Joosen AM, Kuhnle GG, Aspinall SM, Barrow TM, Lecommandeur
+E, Azqueta A, et al. Effect of processed and red meat on endogen-
+ous nitrosation and DNA damage. Carcinogenesis 2009;30:1402–
+7.
+
+38. Cross AJ, Pollock JRA, Bingham SA. Haem, not protein or inorganic
+iron, is responsible for endogenous intestinal N-nitrosation arising
+from red meat. Cancer Res 2003;63:2358–60.
+
+39. Kuhnle GG, Bingham SA. Dietary meat, endogenous nitrosation and
+
+colorectal cancer. Biochem Soc Trans 2007;35:1355–7.
+
+40. Lunn JC, Kuhnle G, Mai V, Frankenfeld C, Shuker DE, Glen RC, et al. The
+effect of haem in red and processed meat on the endogenous formation
+of N-nitroso compounds in the upper gastrointestinal tract. Carcinogen-
+esis 2007;28:685–90.
+
+41. Zhou L, Haorah J, Perini F, Carmella SG, Shibamoto T, Mirvish SS.
+Partial purification from hot dogs of N-nitroso compound precursors
+and their mutagenicity after nitrosation. J Agric Food Chem
+2006;54:5679–87.
+
+Heme Iron and Colorectal Cancer
+
+42. Hogg N. Red meat and colon cancer: heme proteins and nitrite in
+the gut. A commentary on "diet-induced endogenous formation of
+nitroso compounds in the GI tract". Free Radic Biol Med 2007;43:
+1037–9.
+
+43. Jacoby RF, Alexander RJ, Raicht RF, Brasitus TA. K-ras oncogene
+mutations in rat colon tumors induced by N-methyl-N-nitrosourea.
+Carcinogenesis 1992;13:45–9.
+
+44. Shuker DE, Margison GP. Nitrosated glycine derivatives as a potential
+
+source of O6-methylguanine in DNA. Cancer Res 1997;57:366–9.
+
+45. Lewin MH, Bailey N, Bandaletova T, Bowman R, Cross AJ, Pollock J,
+et al. Red meat enhances the colonic formation of the DNA adduct O6-
+carboxymethyl guanine: implications for colorectal cancer risk. Can-
+cer Res 2006;66:1859–65.
+
+46. Gottschalg E, Scott GB, Burns PA, Shuker DE. Potassium diazoace-
+tate-induced p53 mutations in vitro in relation to formation of O6-
+carboxymethyl- and O6-methyl-20-deoxyguanosine DNA adducts:
+relevance for gastrointestinal cancer. Carcinogenesis 2007;28:356–
+62.
+
+47. Tappel A. Heme of consumed red meat can act as a catalyst
+of oxidative damage and could initiate colon, breast and prostate
+cancers, heart disease and other diseases. Med Hypotheses
+2007;68:562–4.
+
+48. Marnett LJ. Oxyradicals and DNA damage. Carcinogenesis
+
+2000;21:361–70.
+
+49. Kanner J. Dietary advanced lipid oxidation endproducts are risk
+
+factors to human health. Mol Nutr Food Res 2007;51:1094–101.
+
+50. Corpet DE, Gueraud F, O’Brien P. Heme iron from dietary meat
+produces pro-carcinogenic peroxides endogenously. In: Bruce WR,
+O’Brien P, editors. Endogenous Toxins: Diet, Genetics, Disease and
+Treatment. Wiley-VCH; 2010. p. 133–49.
+
+51. Basu AK, Marnett LJ. Unequivocal demonstration that malondialde-
+
+hyde is a mutagen. Carcinogenesis 1983;4:331–3.
+
+52. Yau TM. Mutagenicity and cytotoxicity of malonaldehyde in mamma-
+
+lian cells. Mech Ageing Dev 1979;11:137–44.
+
+53. Niedernhofer LJ, Daniels JS, Rouzer CA, Greene RE, Marnett LJ.
+Malondialdehyde, a product of lipid peroxidation, is mutagenic in
+human cells. J Biol Chem 2003;278:31426–33.
+
+54. Marnett LJ. Lipid peroxidation-DNA damage by malondialdehyde.
+
+Mutat Res 1999;424:83–95.
+
+55. Leuratti C, Watson MA, Deag EJ, Welch A, Singh R, Gottschalg E,
+et al. Detection of malondialdehyde DNA adducts in human colorectal
+mucosa: relationship with diet and the presence of adenomas. Cancer
+Epidemiol Biomarkers Prev 2002;11:267–73.
+
+56. Awasthi YC, Sharma R, Cheng JZ, Yang Y, Sharma A, Singhal SS,
+et al. Role of 4-hydroxynonenal in stress-mediated apoptosis signal-
+ing. Mol Aspects Med 2003;24:219–30.
+
+57. Powell SM, Zilz N, Beazer-Barclay Y, Bryan TM, Hamilton SR,
+Thibodeau SN, et al. APC mutations occur early during colorectal
+tumorigenesis. Nature 1992;359:235–7.
+
+58. Chen T, Yang I, Irby R, Shain KH, Wang HG, Quackenbush J, et al.
+Regulation of caspase expression and apoptosis by adenomatous
+polyposis coli. Cancer Res 2003;63: 4368–74.
+
+59. Pierre F, Perrin P, Bassonga E, Bornet F, Meflah K, Menanteau J. T cell
+status influences colon tumor occurrence in min mice fed short chain
+fructo-oligosaccharides as a diet supplement. Carcinogenesis 1999;
+20:1953–6.
+60. Forest V, Pierre F, Bassonga E, Meflah K, Olivier C, Menanteau J.
+Apcþ/min colonic epithelial cells express TNF receptors and ICAM-1
+when they are co-cultured with large intestine intra-epithelial lympho-
+cytes. Cell Immunol 2003;223:70–6.
+
+61. Pierre F, Tache S, Gueraud F, Rerole AL, Jourdan ML, Petit C. Apc
+mutation induces resistance of colonic cells to lipoperoxide-triggered
+apoptosis induced by faecal water from haem-fed rats. Carcinogen-
+esis 2007;28:321–7.
+
+62. de Vogel J, Jonker-Termont DS, van Lieshout EM, Katan MB, Van Der
+Meer R. Green vegetables, red meat and colon cancer: chlorophyll
+prevents the cytotoxic and hyperproliferative effects of haem in rat
+colon. Carcinogenesis 2005;26:387–93.
+
+63. de Vogel J, Jonker-Termont DS, Katan MB, Van Der Meer R. Natural
+chlorophyll but not chlorophyllin prevents heme-induced cytotoxic
+
+www.aacrjournals.org
+
+Cancer Prev Res; 4(2) February 2011
+
+183
+
+Downloaded from 
+
+for Cancer Research. 
+
+cancerpreventionresearch.aacrjournals.org 
+
+on June 11, 2018. © 2011 American Association
+
+Published OnlineFirst January 5, 2011; DOI: 10.1158/1940-6207.CAPR-10-0113 
+
+Bastide et al.
+
+and hyperproliferative effects in rat colon. J Nutr 2005;135:1995–
+2000.
+
+64. Mirvish SS. Effects of vitamins C and E on N-nitroso compound
+
+formation, carcinogenesis, and cancer. Cancer 1986;58:1842–50.
+
+65. Douglass ML, Kabacoff BL, Anderson GA, Cheng MC. The chemistry
+of nitrosamine formation, inhibition and destruction. J Soc Cosmet
+Chem 1978;29:581–606.
+
+66. Ross JA, Kasum CM. Dietary flavonoids: bioavailability, metabolic
+
+effects, and safety. Annu Rev Nutr 2002;22:19–34.
+
+67. Vulcain E, Goupy P, Caris-Veyrat C, Dangles O. Inhibition of the
+metmyoglobin-induced peroxidation of linoleic acid by dietary anti-
+oxidants: action in the aqueous vs. lipid phase. Free Radic Res
+2005;39:547–63.
+
+68. Gorelik S, Ligumsky M, Kohen R, Kanner J. A novel function of red
+wine polyphenols in humans: prevention of absorption of cytotoxic
+lipid peroxidation products. FASEB J 2008;22:41–6.
+
+69. Mirvish SS. Blocking the formation of N-nitroso compounds with
+ascorbic acid in vitro and in vivo. Ann N Y Acad Sci 1975;258:175–80.
+
+184
+
+Cancer Prev Res; 4(2) February 2011
+
+Cancer Prevention Research
+
+Downloaded from 
+
+for Cancer Research. 
+
+cancerpreventionresearch.aacrjournals.org 
+
+on June 11, 2018. © 2011 American Association
+
+Published OnlineFirst January 5, 2011; DOI: 10.1158/1940-6207.CAPR-10-0113 
+
+Heme Iron from Meat and Risk of Colorectal Cancer: A
+Meta-analysis and a Review of the Mechanisms Involved
+(cid:160) 
+Nadia M. Bastide, Fabrice H.F. Pierre and Denis E. Corpet
+(cid:160) 
+Cancer Prev Res(cid:160)
+
+2011;4:177-184. Published OnlineFirst January 5, 2011.
+
+(cid:160) 
+(cid:160) 
+(cid:160) 
+(cid:160) 
+
+(cid:160) 
+(cid:160) 
+
+Updated version
+(cid:160) 
+Supplementary
+Material
+(cid:160) 
+
+10.1158/1940-6207.CAPR-10-0113
+ 
+
+Access the most recent version of this article at:
+doi:
+(cid:160) 
+Access the most recent supplemental material at:
+http://cancerpreventionresearch.aacrjournals.org/content/suppl/2017/11/18/1940-6207.CAPR
+-10-0113.DC1
+ 
+(cid:160) 
+
+Cited articles
+(cid:160) 
+Citing articles
+(cid:160) 
+
+This article cites 67 articles, 22 of which you can access for free at:
+http://cancerpreventionresearch.aacrjournals.org/content/4/2/177.full#ref-list-1
+ 
+(cid:160) 
+This article has been cited by 19 HighWire-hosted articles. Access the articles at:
+ 
+http://cancerpreventionresearch.aacrjournals.org/content/4/2/177.full#related-urls
+(cid:160) 
+
+E-mail alerts
+(cid:160) 
+Reprints and 
+Subscriptions
+(cid:160) 
+Permissions
+(cid:160) 
+
+Sign up to receive free email-alerts
+
+ related to this article or journal.
+
+pubs@aacr.org
+.
+
+To order reprints of this article or to subscribe to the journal, contact the AACR Publications
+Department at
+(cid:160) 
+To request permission to re-use all or part of this article, use this link
+http://cancerpreventionresearch.aacrjournals.org/content/4/2/177
+.
+Click on "Request Permissions" which will take you to the Copyright Clearance Center's
+(CCC)
+Rightslink site. 
+(cid:160) 
+
+Downloaded from 
+
+for Cancer Research. 
+
+cancerpreventionresearch.aacrjournals.org 
+
+on June 11, 2018. © 2011 American Association
+
+

@@ -1,0 +1,711 @@
+NUTRITION AND CANCER, 35(2), 130–136
+Copyright © 1999, Lawrence Erlbaum Associates, Inc.
+
+Decreased Growth of Human Prostate LNCaP Tumors in SCID
+
+Mice Fed a Low-Fat, Soy Protein Diet With Isoflavones
+
+William J. Aronson, Christopher N. Tymchuk, Robert M. Elashoff,
+William H. McBride, Colin McLean, Hejing Wang, and David Heber
+
+Abstract: Epidemiological studies suggest that high intake
+of dietary fat is a risk factor for the development of clinical
+prostate cancer. Soy protein has also been proposed to play
+a role in the prevention of prostate cancer, and one of the
+isoflavones in soy protein, genistein, inhibits the growth of
+human prostate cancer cell lines in vitro. This study was de-
+signed to evaluate whether altering dietary fat, soy protein,
+and isoflavone content affects the growth rate of a human
+androgen-sensitive prostate cancer cell line (LNCaP) grown
+in severe-combined immunodeficient (SCID) mice. SCID
+mice were randomized into four dietary groups: high-fat
+(42.0 kcal%) + casein, high-fat (42.0 kcal%) + soy protein +
+isoflavone extract, low-fat (12.0 kcal%) + casein, and low-fat
+(12.0 kcal%) + soy protein + isoflavone extract. After two
+weeks on these diets, the mice were injected subcutaneously
+with 1 ´ 105 LNCaP tumor cells and placed in separate cages
+(1 mouse/cage) to strictly control caloric intake. Isocaloric di-
+ets were given 3 days/wk, and tumor sizes were measured once
+per week. The tumor growth rates were slightly reduced in the
+group that received the low-fat + soy protein + isoflavone ex-
+tract diet compared with the other groups combined (p <
+0.05). In addition, the final tumor weights were reduced by
+15% in the group that received the low-fat + soy protein +
+isoflavone extract diet compared with the other groups com-
+bined (p < 0.05). In this xenograft model for prostate cancer,
+there were statistically significant effects on tumor growth
+rate and final tumor weight attributable to a low-fat + soy
+protein + isoflavone extract diet.
+
+Introduction
+
+In the United States, prostate cancer is the most com-
+monly diagnosed cancer in men as well as the second lead-
+ing cause of male cancer-related deaths (1). It is estimated
+that in 1999 there will be 179,300 new prostate cancer cases
+and 37,000 men will die from the disease (1). Although la-
+tent or clinically insignificant prostate cancer occurs in a
+
+large proportion and at equal rates in autopsy studies among
+men of Asian countries and the United States (approx 30%
+of men >50 yr old), the incidence of clinically significant
+prostate cancer is 15-fold higher in the United States (1–4).
+Furthermore, Chinese and Japanese men who immigrate to
+this country have an increased incidence and mortality from
+prostate cancer compared with Chinese and Japanese men in
+their native country (5–8). These epidemiological studies
+suggest that environmental factors associated with Western
+culture may promote the development of clinical prostate
+cancer. Two such dietary factors that have been implicated
+are dietary fat and soy protein. A number of epidemiological
+studies have shown a positive association between intake of
+dietary fat and the incidence and mortality from prostate
+cancer (8–12). Furthermore, a recent study by Wang and
+co-workers (13) showed that androgen receptor-positive hu-
+man prostate cancer cells (LNCaP) had greater tumor
+weights and growth rates in nude mice fed a diet high in
+polyunsaturated fat (40.5 kcal%) than in mice fed diets
+lower in fat content (21.2, 11.6, and 2.3 kcal%) (13).
+
+One of the major differences between Asian and Ameri-
+can diets is the consumption of soy-based foodstuffs. Cow-
+ard and colleagues (14) reported the average consumption of
+soy protein in Taiwan to be 35 g/day per capita (14). The
+beneficial effects of soy have been attributed to the iso-
+flavones found in highest content in soy, e.g., genistein and
+daidzein (15,16). Genistein and daidzein, and their
+b-glucoside conjugates, are present in soybeans in concen-
+trations of up to 3 mg/g, and the average isoflavone intake in
+the Asian culture is estimated to be 39 mg/day (17,18). The
+average American eats, at most, a few milligrams of
+isoflavones per day (15). The decrease in prostate cancer
+mortality in Japanese men compared with those in the
+United States may be attributed, in part, to the high soy pro-
+tein content in the Japanese diet (16). Whereas a number of
+investigators have shown that genistein inhibits the growth
+of human prostate cancer cell lines in vitro, no experiments
+
+W. J. Aronson is affiliated with the Department of Urology, C. N. Tymchuk with the Department of Physiological Science, R. M. Elashoff and H. Wang
+with the Department of Biostatistics, W. H. McBride and C. McLean with the Department of Radiological Sciences, and D. Heber with the Center for Human
+Nutrition, School of Medicine, University of California, Los Angeles, Los Angeles, CA 90095. W. J. Aronson is also affiliated with the West Los Angeles
+Veterans Administration Medical Center, Los Angeles, CA 90073.
+
+have evaluated the effect of soy protein and isoflavones on
+the growth of human prostate cancer in vivo. This study was
+specifically designed to evaluate whether altering dietary
+fat, soy protein, and isoflavone content affects the implanta-
+tion rate and growth rate of a human androgen-sensitive
+prostate cancer cell line (LNCaP) grown in severe-combined
+immunodeficient (SCID) mice.
+
+Methods
+
+Cells and Reagents
+
+The androgen receptor-positive LNCaP cell line was ob-
+tained from the American Type Culture Collection (Rock-
+ville, MD). The LNCaP cells were grown in RPMI 1640
+medium supplemented with L-glutamine, 10% fetal bovine
+serum (Omega Scientific, Tarzana, CA), and penicillin-
+streptomycin in an atmosphere of 5% CO2 and air at 37°C.
+
+Animals
+
+Sixty-six male CB17 beige SCID mice (8 wk old) were ob-
+tained from the Department of Laboratory Animal Medicine
+Facility at the University of California, Los Angeles, which is
+accredited by the American Association for Accreditation of
+Laboratory Animal Care. The mice were initially housed five
+per cage for two weeks while they received their respective
+diets, then, after tumor inoculation, mice were housed one per
+cage. The cages were kept in a sterile and pathogen-free envi-
+ronment. Cages, bedding, and water were autoclaved before
+use. The feeding receptacles were in the top of the cages, so
+caloric intake could be monitored and new feedings given
+without the cage being opened. Strict sterile technique was
+
+Table 1. Ingredients of Experimental Diets in Gramsa
+
+used whenever the cages, mice, and feed were handled. Ap-
+proval for the experiments was obtained from the University
+of California, Los Angeles, Chancellor’s Animal Research
+Committee, and all animals were cared for in accordance with
+the Institutional Guidelines.
+
+Diets
+
+The ingredients of the four experimental diets (prepared
+by Dyets, Bethlehem, PA) are listed in Table 1. Corn oil was
+used as the source of fat, and the fat calories from corn oil
+were balanced with carbohydrate calories from cornstarch.
+The protein source was soy protein isolate (Supro 670 HG,
+donated by Protein Technologies International, St. Louis,
+MO) or casein. The soy protein isolate (Supro 670 HG) con-
+tains the following isoflavones: 0.078% conjugated geni-
+stein, 0.107% unconjugated genistein, 0.037% conjugated
+daidzein, 0.052% unconjugated daidzein, 0.006% conju-
+gated glycitein, and 0.009% unconjugated glycitein by
+weight. The soy isoflavone extract (PTI-G2535, donated by
+Protein Technologies International, St. Louis, MO) contains
+the following unconjugated isoflavones: 43.7% genistein,
+21.8% daidzein, and 3.4% glycitein by weight. The total of
+isoflavones in each soy protein-containing diet was 0.18%
+by weight. The diets were radiated to obtain sterility. During
+the experiments, the diets were stored at 5°C.
+
+Feeding Protocol
+
+After tumor injection, mice were housed one mouse per
+cage to allow us to give the mice specific quantities of food
+and to accurately measure the caloric intake of the mice dur-
+ing the experiment. Three times a week the mice were given
+
+Ingredient
+
+Corn oil
+Casein
+Soy protein
+Isoflavone extract
+Cornstarch
+Sucrose
+Dyetroseb
+Cellulose
+AIN-93G-MX mineral mixc
+AIN-93M-MX mineral mixc
+AIN-93-VX vitamin mixc
+L-Cysteine
+L-Methionine
+Choline bitartrate
+Total grams
+
+Low-fat +
+
+casein
+
+Low-fat + soy
+
+protein + isoflavones
+
+High-fat +
+
+casein
+
+High-fat + soy
+
+protein + isoflavones
+
+Diet
+
+50
+200
+
+398
+117
+132
+50
+35
+
+10
+3
+1.6
+2.5
+999.1
+
+50
+
+200
+
+1.81
+
+395
+118
+132
+50
+
+35
+10
+2.5
+2.5
+2.5
+999.31
+
+175
+200
+
+163
+117
+58
+50
+35
+
+10
+3
+1.6
+2.5
+815.1
+
+175
+
+200
+
+1.38
+
+161
+118
+58
+50
+
+35
+10
+2.5
+2.5
+2.5
+815.88
+
+a: Four experimental diets were formulated containing varying amounts of corn oil as a source of fat and soy protein or casein as the source of protein.
+
+Isoflavones are primarily from isoflavone extract and, to a lesser extent, from soy protein.
+
+b: Depolymerized cornstarch used to pelletize diets.
+c: See Reference 19.
+
+Vol. 35, No. 2
+
+131
+
+fresh food. Each time the mice received fresh food, the calo-
+ric intake from the prior feeding period was determined.
+This was done by subtracting the amount of feed remaining
+in the feeding receptacle from the amount available to each
+mouse at the beginning of each feeding period. The average
+caloric intake (from the prior feeding period) of all the mice
+was calculated, and this amount was given to each mouse for
+the subsequent feeding period. With this protocol, caloric in-
+take was reduced for the mice with the highest intakes, while
+mice with lower caloric intakes were given the opportunity
+to increase their caloric consumption. This technique pro-
+vided approximately equal caloric intake for all four groups
+of mice (see Results).
+
+Design of Experiments
+
+LNCaP cells were harvested from subconfluent cultures
+after incubation for one minute with 0.25% trypsin and
+0.02% EDTA. After suspension in RPMI 1640 medium sup-
+plemented with 10% fetal bovine serum, the live cells were
+stained with trypan blue dye and counted manually with a
+microscope and hemocytometer. The LNCaP cells were re-
+suspended in ice-cold Matrigel (Collaborative Biomedical
+Products, Bedford, MA) at a final concentration of 1 ´ 105
+cells/0.2 ml Matrigel. Each mouse was given a subcutaneous
+inoculation of 1 ´ 105 tumor cells in the lateral abdomen
+with a disposable syringe and a 26-gauge needle. An initial
+experiment with 20 animals (5 in each dietary group) was
+performed by injecting 1 ´ 106 tumor cells in 0.2 ml of
+Matrigel per animal. When the tumors in these animals
+reached 1.0–1.5 cm3, they caused the animals in all four di-
+etary groups to become cachectic. This occurred in all ani-
+mals at approximately seven weeks after tumor inoculation.
+Therefore, 1 ´ 105 cells in 0.2 ml of Matrigel were used for
+subsequent experiments to allow tumor growth over a longer
+time period to evaluate the effect of the diets.
+
+Two successive experiments were performed: the first
+with five animals in each of the four dietary groups and the
+second with six or seven animals in each of the four dietary
+groups. The experiments were run separately because of
+limited space and resources in our SCID mouse facility to
+accommodate our one mouse per cage experimental design.
+The data from both experiments were used for the statistical
+analysis. All animals were randomly assigned to one of the
+four dietary groups (high-fat + casein, high-fat + soy protein
++ isoflavones, low-fat + casein, or low-fat + soy protein +
+isoflavones) and maintained on this diet for two weeks be-
+fore tumor cell injection. All animals were kept on an
+isocaloric diet, as described in Feeding Protocol. Once the
+tumors became palpable, the dimensions were recorded
+weekly through Week 12 of the experiment. Animal weights
+were also recorded weekly. The tumor volumes were calcu-
+lated using the following formula: length ´ width ´ height ´
+0.5236 (20). Thirteen weeks after the initiation of the experi-
+ment, all mice were sacrificed. Blood was collected and cen-
+trifuged, and the serum was frozen at -70°C. The tumors
+were dissected, weighed, and frozen in liquid nitrogen.
+
+Determination of Serum Prostate-Specific Antigen and
+Testosterone
+
+Serum prostate-specific antigen (PSA) levels were deter-
+mined using an enzyme immunoassay kit (American Qualex
+Antibodies, San Clemente, CA). Total serum testosterone
+was determined using enzyme-linked immunosorbent assays
+(KMI Diagnostics, Minneapolis, MN). All the above assays
+were performed in duplicate. The interassay variability was
+<5.0%.
+
+Statistical Analysis
+
+A linear regression model was used to test the differences
+of body weight, caloric intake, final tumor weight, PSA lev-
+els, and testosterone levels among the four diet groups. Be-
+cause this study consisted of two successive experiments,
+“experiment” was also considered a covariate and, together
+with baseline body weight and average weekly caloric in-
+take, was included in the linear regression model. Baseline
+body weight and average weekly caloric intake did not show
+any significant association with tumor weight and PSA and
+testosterone levels. Therefore, “experiment” was the only
+covariate included in the final model. Growth rate was as-
+sessed by repeatedly measuring tumor volumes over time. A
+random coefficient model was developed to correlate tumor
+volume, time (week), diet, and other covariates (experiment
+and baseline body weight). Covariates that did not show sig-
+nificant association with tumor volume were excluded from
+the model. Log-rank test was used to test the time to palpa-
+ble tumor among the four diet groups. The above analyses
+were also carried out comparing each individual dietary
+group with the other three dietary groups combined.
+
+Results
+
+Forty-three (94%) of the 46 mice developed measurable
+tumors: 10 (10/12) in the high-fat + casein group, 11 (11/11)
+in the high-fat + soy protein + isoflavone group, 12 (12/12)
+in the low-fat + casein group, and 10 (10/11) in the low-fat +
+soy protein + isoflavone group. There was no significant dif-
+ference in caloric intake among the animals in the four
+groups (Figure 1). In addition, there was no significant dif-
+ference in the body weights among the groups (Figure 2).
+When the final tumor weight and tumor growth rate were
+compared among the four dietary groups, there were no sig-
+nificant differences. However, the final tumor weights in
+mice fed the low-fat + soy protein + isoflavone diet were
+15% less than the final tumor weights of the animals in the
+other three groups combined (high-fat + casein, high-fat +
+soy protein + isoflavone, and low-fat + casein) ( p = 0.0499,
+general linear model) (Table 2). In addition, the growth rate
+of the tumors in the mice fed the low-fat diet combined with
+soy protein and isoflavones was lower than that in the other
+three groups combined (Figure 3) ( p = 0.0382, mixed
+model). There was no difference among the four groups in
+
+132
+
+Nutrition and Cancer 1999
+
+Figure 1. Caloric intake per week. Mice were housed 1/cage to allow for strict control and monitoring of caloric intake. There was no significant difference in
+caloric intake among groups. Filled circles, high-fat + casein; filled squares, high-fat + soy protein + isoflavones; open circles, low-fat + casein; open squares,
+low-fat + soy protein + isoflavones.
+
+Figure 2. Mouse weights (minus tumor weights) per week. There was no significant difference in mouse weights among groups. Symbols as in Figure 1.
+
+Vol. 35, No. 2
+
+133
+
+Figure 3. LNCaP tumor growth per week. Mice fed low-fat + soy protein + isoflavone diet had significantly slower-growing tumors than other dietary groups
+combined (p = 0.0382). Symbols as in Figure 1.
+
+Table 2. Final LNCaP Tumor Weights and Time From
+Tumor Injection to Palpable Tumora,b
+
+Dietary Group
+
+High-fat + casein
+High-fat + soy protein + isoflavones
+Low-fat + casein
+Low-fat + soy protein + isoflavones
+
+Tumor
+
+Weight, g
+
+Time to
+Palpable
+
+Tumor, wk
+
+0.86 ± 0.21
+0.89 ± 0.19
+0.81 ± 0.18
+0.72 ± 0.16*
+
+8.30 ± 0.30
+8.33 ± 0.24
+7.90 ± 0.18
+8.25 ± 0.16
+
+n
+
+9
+11
+12
+10
+
+a: Values are means ± SE; n, number of mice.
+b: Statistical significance is as follows: *, significantly less than other
+
+groups (p = 0.0499).
+
+time to developing palpable tumors (Table 2). The testoster-
+one levels at 13 weeks were 70% lower in mice fed the
+low-fat + soy protein + isoflavone diet than in the other
+groups, but this was not statistically significant (Table 3).
+There was no difference in PSA levels between the four
+groups at the termination of the experiment (Table 3).
+
+Discussion
+
+In this study, we evaluated the effect of dietary fat, soy
+protein, and soy isoflavones on the growth of human pros-
+tate cancer cells in a xenograft SCID mouse model. We
+found that combining a low-fat diet (12 kcal%) with soy pro-
+tein (20 kcal%) and isoflavones (0.18% by weight) reduced
+the tumor growth rate and the final tumor weights compared
+with the other diets in our study.
+
+In a prior study, Wang and co-workers (13) showed a sig-
+nificant reduction in the growth of LNCaP tumors in nude
+mice fed diets lower in fat (21.2, 11.6, and 2.3 kcal%) com-
+pared with mice fed a high-fat diet (40.5 kcal%). In our
+study, there was a trend toward decreased tumor weights in
+the low-fat + casein group compared with the high-fat + ca-
+sein group, although this did not reach statistical signifi-
+cance. It may be that, with a larger sample size, this
+difference between the low-fat and high-fat groups may
+have reached statistical significance. An alternative explana-
+tion for the differences in the results of our study and those
+of Wang and co-workers may be explained by differences in
+the experimental designs. In our study, the one animal per
+cage design allowed for an isocaloric feeding protocol. In
+the study by Wang and co-workers, there were multiple ani-
+mals per cage, and therefore caloric intake was not strictly
+controlled or monitored. It is possible that the marked differ-
+
+Table 3. Serum PSA and Testosterone Levelsa
+
+Dietary Group
+
+Testosterone,
+
+PSA, ng/ml
+
+ng/ml
+
+High-fat + casein
+High-fat + soy protein + isoflavones
+Low-fat + casein
+Low-fat + soy protein + isoflavones
+
+44.3 ± 12.8
+48.0 ± 9.5
+48.6 ± 10.9
+51.8 ± 11.8
+
+1.49 ± 1.26
+1.09 ± 0.5
+1.8 ± 0.98
+0.42 ± 0.03
+
+a: Values are means ± SE. Tests were performed at completion of experi-
+ment. PSA, prostate-specific antigen. There were no significant differ-
+ences among groups.
+
+134
+
+Nutrition and Cancer 1999
+
+ence between the low-fat and high-fat groups observed by
+Wang and co-workers may be due to a difference in caloric
+intake, since higher energy intake may lead to increased tu-
+mor growth (21). An alternative explanation may relate to
+the animal model that we used. Whereas nude mice (used by
+Wang and co-workers) possess B cell immunity, SCID mice
+lack T cell, B cell, and natural killer cell immunity. It may be
+that nutrition is interacting with the immune system in the
+nude mouse to cause more dramatic differences in tumor
+size.
+
+The role of soy protein and isoflavones in the prevention
+and treatment of prostate cancer remains largely undefined
+and is actively being studied at a number of centers. Re-
+search has focused on the isoflavone genistein and its effects
+on prostate cancer cell lines. Genistein has been shown to in-
+hibit the growth of human prostate cancer cell lines in tissue
+culture and in histoculture (22,23). In addition, genistein
+also inhibits proliferation and induces apoptosis of prostate
+cancer cell lines (24). Soy protein also contains noniso-
+flavone substances with anticancer properties (Bowman-
+Burke inhibitor), which may also be responsible for the
+growth-inhibitory effect seen in the present study (25).
+
+In this study, altering the fat, soy, and isoflavone content
+had no effect on the PSA levels. PSA is a well-known
+marker for prostate cancer progression that correlates with
+tumor growth and metastases (26). Because the low-fat diet
+high in soy protein and isoflavone caused only a 15% reduc-
+tion in the final tumor weight in this experiment, this effect
+may not be large enough to cause a significant change in the
+serum PSA level. Alternatively, the diet may have inhibited
+the growth of a population of the tumor cells that do not pro-
+duce PSA. In the present study, the mice fed the low-fat diet
+high in soy protein and isoflavones had a 70% decrease in
+total testosterone levels, although this did not reach statisti-
+cal significance. Wang and co-workers (13) also found that
+low-fat diets failed to reduce serum testosterone levels. Al-
+though several studies found a correlation between low-fat
+diets and circulating androgen levels, further investigation is
+required in this area (27,28). Low-fat diets may cause a re-
+duction in bioavailable testosterone (free testosterone) levels
+by increasing sex hormone-binding globulin levels, although
+further investigations are needed in this area as well (29).
+In conclusion, in this xenograft model for prostate cancer,
+there were statistically significant effects on tumor growth
+rate and final tumor weight attributable to a low-fat diet
+combined with soy protein and isoflavones.
+
+Acknowledgments and Notes
+
+The authors thank Dr. Bill Go and Don Yowell for advice and sugges-
+tions during the course of the experiment. This study was supported in part
+by The Green Family Foundation, by National Cancer Institute Grants
+CA-42710-11 and CA-42710-12, and by the Department of Veterans Af-
+fairs. All work was completed at the University of California, Los Angeles
+(Los Angeles, CA) and at the West Los Angeles Veterans Administration
+Medical Center (Los Angeles, CA). Address reprint requests to Dr. Wil-
+liam J. Aronson, UCLA Dept. of Urology, Box 951738, Los Angeles, CA
+
+90095-1738. Phone: (310) 268-3446. FAX: (310) 268-4858. E-mail:
+waronson@ucla.edu.
+
+Submitted 16 March 1999; accepted in final form 15 July 1999.
+
+References
+
+1. Landis, SH, Taylor, M, Bolden, S, and Wingo, PA: Cancer statistics,
+
+1999. CA Cancer J Clin 49, 8–31, 1999.
+
+2. Parkin, DM, Pisani, P, and Ferlay, J: Global cancer statistics. CA Can-
+
+cer J Clin 49, 33–64, 1999.
+
+3. Muir, CS, Nectoux, J, and Staszewski, J: The epidemiology of prostate
+cancer. Geographical distribution and time-trends. Acta Oncol 30,
+133–140, 1991.
+
+4. Yatani, R, Kusano, I, Shiraishi, T, Hayashi, T, and Stemmerman, GN:
+Latent prostatic carcinoma: pathological and epidemiological aspects.
+Jpn J Clin Oncol 19, 319–326, 1989.
+
+5. Shimizu, H, Ross, RK, Bernstein, L, Yatani, R, Henderson, BE, et al.:
+Cancers of the prostate and breast among Japanese and white immi-
+grants in Los Angeles County. Br J Cancer 63, 963–966, 1991.
+
+6. Stellman, SD, and Wang, QS: Cancer mortality in Chinese migrants to
+New York City. Comparison with Chinese in Tianjin and with United
+States-born whites. Cancer 73, 1270–1275, 1994.
+
+7. Cook, LS, Goldoft, M, Schwartz, SM, and Weiss, NS: Incidence of
+adenocarcinoma of the prostate in Asian immigrants to the United
+States and their descendants. J Urol 161, 152–155, 1999.
+
+8. Whittemore, AS, Kolonel, LN, Wu, AH, John, EM, Gallagher, RP, et
+al.: Prostate cancer in relation to diet, physical activity, and body size
+in blacks, whites, and Asians in the United States and Canada. JNCI
+87, 652–661, 1995.
+
+9. Ross, RK, Shimizu, H, Paganini-Hill, A, Honda, G, and Henderson,
+BE: Case-control studies of prostate cancer in blacks and whites in
+southern California. JNCI 78, 869–874, 1987.
+
+10. Kolonel, LN, Yoshizawa, CN, and Hankin, JN: Diet and prostatic can-
+cer: a case-control study in Hawaii. Am J Epidemiol 127, 999–1012,
+1988.
+
+11. West, DW, Slattery, ML, Robison, LM, French, TK, and Mahoney,
+AW: Adult dietary intake and prostate cancer risk in Utah: a
+case-control study with special emphasis on aggressive tumors. Cancer
+Causes Control 2, 85–94, 1991.
+
+12. Giovannucci, E, Rimm, EB, Colditz, GA, Stampfer, MJ, Ascherio, A,
+et al.: A prospective study of dietary fat and risk of prostate cancer.
+JNCI 85, 1571–1579, 1993.
+
+13. Wang, Y, Corr, JG, Thaler, HT, Tao, Y, Fair, WR, et al.: Decreased
+growth of established human prostate LNCaP tumors in nude mice fed
+a low-fat diet. JNCI 87, 1456–1462, 1995.
+
+14. Coward, L, Barnes, NC, Setchell, KDR, and Barnes, S: Genistein,
+daidzein and their b-glycoside conjugates: antitumor isoflavones in
+soybean foods from American and Asian diets. J Agric Food Chem 41,
+1961–1967, 1993.
+
+15. Messina, MJ, Persky, V, Setchell, KD, and Barnes, S: Soy intake and
+cancer risk: a review of the in vitro and in vivo data. Nutr Cancer 21,
+113–131, 1994.
+
+16. Messina, M, and Barnes, S: The role of soy products in reducing risk of
+
+cancer. JNCI 83, 541–546, 1991.
+
+17. Zheng, W, Dai, Q, Custer, LJ, Shu, XO, Wen, WQ, et al.: Urinary ex-
+cretion of isoflavonoids and the risk of breast cancer. Cancer Epi-
+demiol Biomarkers Prev 8, 35–40, 1999.
+
+18. Kimira, M, Arai, Y, Shimoi, K, and Watanabe, S: Japanese intake of
+flavonoids and isoflavonoids from foods. J Epidemiol 8, 168–175, 1998.
+19. Reeves, PG, Nielsen, FH, and Fahey, GC, Jr: AIN-93 purified diets for
+laboratory rodents: final report of the American Institute of Nutrition
+Ad Hoc Writing Committee on the reformulation of the AIN-76A ro-
+dent diet. J Nutr 123, 1939–1951, 1993.
+
+Vol. 35, No. 2
+
+135
+
+20. Gleave, ME, Hsieh, JT, Gao, C, von Eschenbach, AC, and Chung, LW:
+Acceleration of human prostate cancer growth in vivo by factors pro-
+duced by prostate and bone fibroblast. Cancer Res 51, 3753–3761, 1991.
+21. Mukherjee, P, Sotnikov, AV, Mangian, HJ, Zhou, J, Visek, WJ, et al.:
+Energy intake and prostate tumor growth, angiogenesis, and vascular
+endothelial growth factor expression. JNCI 91, 489–491, 1999.
+
+22. Peterson, G, and Barnes, S: Genistein and biochanin A inhibit the
+growth of human prostate cancer cells but not epidermal growth factor
+receptor autophosphorylation. Prostate 22, 335–345, 1993.
+
+23. Geller, J, Sionit, L, Partido, C, Li, L, Tan, X, et al.: Genistein inhibits
+the growth of human-patient BPH and prostate cancer in histoculture.
+Prostate 34, 75–79, 1998.
+
+24. Kyle, E, Neckers, L, Takimoto, C, Curt, G, and Bergan, R: Geni-
+stein-induced apoptosis of prostate cancer cells is preceded by a spe-
+cific decrease in focal adhesion kinase activity. Mol Pharmacol 51,
+193–200, 1997.
+
+25. Kennedy, AR: The evidence for soybean products as cancer preventive
+
+agents. J Nutr 125, 733S–743S, 1995.
+
+26. Stamey, TA, Yang, N, Hay, AR, McNeal, JE, Freiha, FS, et al.: Pros-
+tate-specific antigen as a serum marker for adenocarcinoma of the
+prostate. N Engl J Med 317, 909–916, 1987.
+
+27. Hamalainen, EK, Adlercreutz, H, Pusak, P, and Pietinen, P: Diet and
+serum sex hormones in healthy men. J Steroid Biochem 20, 459–464,
+1984.
+
+28. Hill, P, Wynder, EL, Garbaczewski, L, Garnes, H, and Walker, AR:
+Diet and urinary steroids in black and white North American men and
+black South African men. Cancer Res 39, 5101–5105, 1979.
+
+29. Tymchuk, CN, Tessler, SB, Aronson, WJ, and Barnard, RJ: Effects of
+diet and exercise on insulin, sex hormone-binding globulin, and pros-
+tate-specific antigen. Nutr Cancer 31, 127–131, 1998.
+
+136
+
+Nutrition and Cancer 1999
+
+

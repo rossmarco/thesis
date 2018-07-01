@@ -1,0 +1,1320 @@
+The Journal of Nutrition
+Nutritional Epidemiology
+
+Vegetable Intake, but Not Fruit Intake, Is
+Associated with a Reduction in the Risk of
+Cancer Incidence and Mortality in Middle-Aged
+Korean Men1–3
+Yuni Choi,4,5,12 Jung Eun Lee,4,5,12 Jong-Myon Bae,6 Zhong-Min Li,7 Dong-Hyun Kim,8 Moo-Song Lee,9
+Yoon-Ok Ahn,10 and Myung-Hee Shin11*
+
+4WomenÕs Health Research Institute and 5Department of Food and Nutrition, Sookmyung Women’s University, Seoul, Republic of Korea;
+6Department of Preventive Medicine, Cheju National University College of Medicine, Jeju, Republic of Korea; 7Department of Epidemiology and
+Statistics, School of Public Health Sciences, Jilin University, Changchun, China; 8Department of Social and Preventive Medicine, Hallym University
+College of Medicine, Chuncheon, Republic of Korea; 9Department of Preventive Medicine, University of Ulsan College of Medicine, Seoul, Republic
+of Korea; 10Department of Preventive Medicine, Seoul National University College of Medicine, Seoul, Republic of Korea; and 11Department of
+Social and Preventive Medicine, Sungkyunkwan University School of Medicine, Suwon, Republic of Korea
+
+Abstract
+
+Background: Few prospective studies have examined the preventive role of fruit and vegetable intakes against cancer in
+
+Asian populations.
+
+Objective: This prospective study evaluated the associations between total fruit intake, total vegetable intake, and total
+
+fruit and vegetable intake and total cancer incidence and mortality.
+
+Methods: This prospective cohort study included 14,198 men 40–59 y of age enrolled in the Seoul Male Cohort Study
+
+from 1991 to 1993. Fruit and vegetable intakes were assessed by a validated food-frequency questionnaire. We used Cox
+
+proportional hazard regression models to compute RR ratios and 95% CIs.
+
+Results: During the follow-up period from 1993 to 2008, 1343 men were diagnosed with cancer, and 507 died of cancer. Total
+
+vegetable intake was linearly associated with cancer incidence but was nonlinearly associated with cancer mortality; by comparing
+$500 g/d with <100 g/d of total vegetable intake, the multivariable-adjusted RR for total cancer incidence was 0.72 (95% CI: 0.58,
+0.90; P-trend: 0.02; P-nonlinearity: 0.06). For total cancer mortality, the multivariable-adjusted RRs comparing 100 to <200 g/d, 200
+to <300 g/d, 300 to <500 g/d, and $500 g/d with <100 g/d of total vegetable intake were 0.68 (95% CI: 0.53, 0.88), 0.75 (95% CI:
+0.57, 0.98), 0.72 (95% CI: 0.54, 0.95), and 0.67 (95% CI: 0.47, 0.95), respectively (P-trend: 0.09; P-nonlinearity: 0.01). No
+associations were found between total fruit intake and total cancer incidence and mortality; $300 g/d vs. <50 g/d, RR: 1.04 (95%
+CI: 0.87, 1.25; P-trend 5 0.56) for incidence and RR: 0.89 (95% CI: 0.66, 1.21; P-trend 5 0.71) for mortality.
+
+Conclusions: Our ﬁndings suggest that total vegetable intake is linearly associated with cancer incidence but
+
+nonlinearly associated with total cancer mortality in middle-aged Korean men. However, total fruit intake is not associated
+with total cancer incidence or mortality. J Nutr 2015;145:1249–55.
+
+Keywords:
+
+cancer, fruits, prospective study, vegetables, incidence, mortality, diet, Asian
+
+Introduction
+
+A diet rich in fruits and vegetables has been suggested to
+decrease cancer risk, and this hypothesis was extensively
+
+1 Supported by a grant from the National R&D Program for Cancer Control,
+Korean Ministry of Health and Welfare, Republic of Korea.
+2 Author disclosures: Y Choi, JE Lee, J-M Bae, Z-M Li, D-H Kim, M-S Lee, Y-O Ahn,
+and M-H Shin, no conﬂicts of interest. The funders had no role in the study design,
+data collection and analysis, decision to publish, or preparation of the manuscript.
+3 Supplemental Tables 1–3 are available from the ‘‘Online Supporting Material’’
+link in the online posting of the article and from the same link in the online table of
+contents at http://jn.nutrition.org.
+12 These authors contributed equally to this work.
+* To whom correspondence should be addressed. E-mail: mhshin@skku.edu.
+
+examined in epidemiologic studies in Western populations (1).
+In the 1990s, the WHO and the World Cancer Research Fund
+and the American Institute for Cancer Research (WCRF/AICR)
+emphasized the beneﬁcial effect of fruit and vegetable intake on
+cancer prevention because a relatively large number of case–
+control studies supported this hypothesis (2, 3). The ﬁrst report
+by the WCRF/AICR (1997) concluded that the preventive effects
+of high fruit and vegetable consumption against cancer risk were
+convincing, showing at least a 20% reduction in total cancer risk
+with $400 g/d of fruit and vegetable intake (3). However, the
+evidence was limited because most of the reviewed studies were
+case–control studies, which are susceptible to recall and selection
+
+ã 2015 American Society for Nutrition.
+Manuscript received December 30, 2014. Initial review completed January 6, 2015. Revision accepted March 20, 2015.
+First published online April 15, 2015; doi:10.3945/jn.114.209437.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/145/6/1249/4644429
+by University of Ottawa user
+on 24 June 2018
+
+1249
+
+bias. Because the cumulative results from prospective cohort
+studies have not provided similar evidence of the beneﬁts of fruit
+and vegetable intake in cancer prevention as the previous case–
+control studies, the second WCRF/AICR report downgraded the
+level of evidence for several cancer types from convincing to
+probable, limited, or suggestive in 2007 (4, 5–13, 27). Large
+prospective studies have shown weaker evidence, such as weak
+or null associations (5–8). A meta-analysis that evaluated the
+association between total fruit and vegetable intake and colo-
+rectal cancer risk showed no overall signiﬁcance (9); however,
+the study also suggested that a reduction in risk was consistent
+with a 100–200 g/d threshold, and there was no further beneﬁt
+of increasing the intake above this level (9). Previous prospective
+studies on the relation between total fruit and/or vegetable
+intake and total cancer mortality have shown inconsistent
+results (10–13).
+
+Fruit and vegetable intake varies markedly across various
+geographic locations, and Asian populations are estimated to
+consume a diet with a relatively high content of vegetables (14).
+To the best of our knowledge, this investigation is the ﬁrst study
+to evaluate the associations between total fruit and vegetable
+intake (combined and separately) and total cancer incidence and
+mortality in a prospective study of middle-aged Korean men.
+
+Methods
+
+Study cohort. The study population consisted of participants in the
+Seoul Male Cohort Study, a prospective cohort study designed to
+investigate the association between lifestyle and dietary factors and
+the incidence and mortality of cancer and additional chronic disease
+outcomes (15). Between 1991 and 1993, we mailed a baseline
+questionnaire to a random sample of 29,918 healthy men residing in
+Seoul who received regular biennial general health screenings in 1990 as
+beneﬁciaries of the Korea Medical Insurance Corporation. A total of
+14,533 men 40–59 y of age returned the baseline self-administered
+comprehensive questionnaires. Of these men, we excluded those who did
+not complete the FFQs (n = 4), those who were diagnosed with cancer
+before enrolling in the study (n = 22), those who had an implausible total
+energy intake (>3 SDs from the log-transformed mean energy intake;
+n = 100), or those with missing information about the main exposures
+(n = 209). After these exclusions, 14,198 men were included in the
+analysis. The Institutional Review Board of the Seoul National
+University approved the protocol for this study, and all of the study
+subjects provided written informed consent.
+
+Dietary assessment. Habitual dietary intake was assessed at baseline
+by using an 84-item self-administered FFQ designed and validated for
+use in Korea (16). Participants were asked to report how often, on
+average, they consumed food or beverage items during the previous year,
+using 3 standard serving sizes. The FFQ included 8 possible responses
+about frequency of consumption, ranging from ‘‘never or less than once
+per month’’ to ‘‘two or more times per day.’’ Average daily fruit and
+vegetable intake (in g/d) was calculated by multiplying intake frequency
+(servings of food per day) with serving size (grams per serving), and the
+sum was calculated from all relevant items. In the present analysis, we
+included 13 vegetables (green vegetables,
+lettuce, Chinese cabbage,
+boiled vegetables, raw green vegetables, tomato, garlic, onion, ginseng,
+kimchi, kimchi soup, white kimchi, or radish or cucumber seasoned with
+soy sauce) and 12 fruits (tangerine, orange, peach, apple, plum, banana,
+pear, melon, watermelon, strawberry, grape, kiwi). We excluded
+potatoes from the vegetable group because of their high-starch and
+-protein content (17). Total fruit intake only considered fresh fruit, not
+fruit juice.
+
+Assessment of nondietary factors. At baseline, participants com-
+pleted a questionnaire on demographics, lifestyle, anthropometry, use of
+level,
+dietary supplements, medical and family history, educational
+
+1250 Choi et al.
+
+socioeconomic status, and occupational factors. BMI (in kg/m2) was
+calculated on the basis of directly measuring height and weight collected
+during their health examination. Pack-years of smoking were calculated
+by multiplying the reported average number of cigarettes smoked per day
+by the number of years of smoking and dividing by 20.
+
+Ascertainment of cancers and cause of death. Men were followed
+from the date of study entry until the date of cancer diagnosis, date of
+death, or the end of follow-up period (31 December 2008). The
+incidence of cancer was ascertained through unique 13-digit personal
+identiﬁcation numbers in the Seoul Cancer Registry, a population-based
+cancer registry, and the National Cancer Registration Program, a
+nationwide hospital-based cancer registry (18). Incident cancer cases
+were coded and classiﬁed according to the International Classiﬁcation of
+Diseases for Oncology, 2nd edition (19) and converted according to the
+International Classiﬁcation of Diseases, 10th edition (20). The dates and
+underlying causes of death were identiﬁed through data linkage to
+Korean death certiﬁcate data (21).
+
+Statistical analysis. We used Cox proportional hazards regression
+models to estimate the RRs and 95% CIs of the associations between
+total fruit intake, total vegetable intake, and total fruit and vegetable
+intake with total cancer incidence. In this prospective cohort study, we
+also evaluated site-speciﬁc cancer risks in relation to total combined fruit
+and vegetable intake, focusing on the following common types of cancers
+in Korean men: stomach, colorectal, liver and bile duct, and lung
+cancers. In the cancer incidence analyses, the number of person-years of
+follow-up was calculated from the date of study entry until the date of
+cancer diagnosis, death, or the end of the follow-up period, whichever
+occurred ﬁrst. For total cancer mortality, the number of person-years of
+follow-up was calculated from the date of study entry until the date of
+death from cancer, death from any other cause, or the end of the follow-
+up period, whichever occurred ﬁrst. The participants were classiﬁed into
+categories of absolute intake. The following cutoffs were used to identify
+the intake categories: <50, 50 to <100, 100 to <200, 200 to <300, and
+$300 g/d for fruit intake; <100, 100 to <200, 200 to <300, 300 to <500,
+and $500 g/d for vegetable intake; and <200, 200 to <300, 300 to <400,
+400 to <600, 600 to <800, and $800 g/d for total combined fruit and
+vegetable intake in the main analysis. In analyzing the common site-
+speciﬁc cancers (22), we combined the two highest categories of total
+combined fruit and vegetable intake because of the small number of
+cases. We also chose different intake levels as the reference category
+because of the small sample size.
+
+All of the models were stratiﬁed by age at baseline and were further
+adjusted for vigorous physical activity (<1, 1–2, or $3 h/wk), total
+calorie intake (kcal/d, continuous), alcohol intake ( <0.1, 0.1 to <15, 15
+to <30, or $30 g/d), red meat intake (g/d, continuous or missing
+indicator), multivitamin use (none, 1–6 times/wk, daily, 2–3 times/d, or
+missing), pack-years of smoking (, <0.1, 0.1 to <20, 20 to <40, or $40
+pack-years), BMI (<18.5, 18.5 to <23, 23 to <25, $25, or missing),
+educational level (less than high school, high school graduate or higher,
+or missing), family history of cancer (yes or no), and history of diabetes
+or cardiovascular disease at baseline (yes or no). In the additional
+analyses, we simultaneously adjusted for total fruit and vegetable intake
+in analyzing total vegetable intake or total fruit intake. If needed, missing
+indicator variables were used to impute missing responses for each
+measured covariate (red meat 0.5%, multivitamin use 2.4%, BMI 0.7%,
+education level 2.6%). A test for linear trends across fruit and vegetable
+intake categories was conducted by ﬁtting the median value of each
+category as a continuous variable in the model and evaluating the
+relation by using the Wald test. To examine for a possible nonlinear
+relation, we examined the nonparametric regression curve by using
+restricted cubic splines. Tests for nonlinearity were performed by using
+the likelihood ratio test and comparing the model that only included the
+linear term with the model that included the linear and cubic spline
+terms. The models were visually inspected by using the restricted cubic
+spline graphs (23, 24).
+
+In addition, we repeated the analyses after excluding kimchi (a
+traditional fermented Korean dish prepared with cabbage, radishes,
+onions, and a variety of seasonings) from the primary analyses. We also
+
+Downloaded from https://academic.oup.com/jn/article-abstract/145/6/1249/4644429
+by University of Ottawa user
+on 24 June 2018
+
+analyzed the associations between kimchi
+incidence and mortality.
+
+intake and total cancer
+
+We stratiﬁed the analyses for the total combined fruit and vegetable
+intake and total vegetable intake by BMI ($25 and <25), smoking habits
+(never or ever), or history of diabetes or cardiovascular disease at
+baseline (yes and no) and tested the statistical signiﬁcance of the cross-
+product terms with an effect modiﬁer variable in the multivariable
+models by using the likelihood ratio test. We conducted a sensitivity
+analysis by excluding cancer cases or cancer deaths that occurred during
+the ﬁrst 2 y of follow-up to examine the possibility of reverse causality.
+All of the analyses were conducted with SAS version 9.3 (SAS Institute,
+Inc.). All P values were 2-sided and were considered to be statistically
+signiﬁcant at a level of <0.05.
+
+Results
+
+The mean intake of total fruits and vegetables was 449.0 g/d
+(191.8 g/d and 257.2 g/d of total fruit intake and total vegetable
+intake, respectively). During the 15.3 y of follow-up for total
+cancer incidence and 15.6 y for total cancer mortality among
+14,198 men, we ascertained a total of 1343 total cancer cases
+and 507 cancer deaths. Compared with men who consumed
+<200 g/d of fruits and vegetables combined, men who consumed
+$800 g/d were more likely to be educated, perform vigorous
+physical activity, and take multivitamins and were less likely to
+smoke and have a history of cardiovascular disease or diabetes
+(Table 1). Men who consumed larger amounts of total combined
+fruits and vegetables tended to consume more total energy,
+alcohol, red meat, ﬁsh, dietary calcium, and dietary ﬁber than
+men who consumed smaller amounts of fruits and vegetables.
+
+the multivariable-adjusted RR of
+
+We found a signiﬁcant risk reduction of total cancer incidence
+only for 600–799 g/d of fruit and vegetable intake combined
+(Table 2);
+total cancer
+incidence that compared 600–799 g/d with <200 g/d of fruit
+and vegetable intake combined was 0.80 (95% CI: 0.65, 0.99;
+P-trend: 0.67). To minimize the potential inﬂuence of preclinical
+disease on diet, we conducted additional analyses after exclud-
+ing 67 men who had a cancer diagnosis within the ﬁrst 2 y of
+follow-up. The results were similar to the results of the main
+analysis (data not shown). No association was found between
+
+combined total fruit and vegetable intake and the risk of total
+cancer mortality ($600 to <800 g/d vs. <200 g/d, RR: 0.79; 95%
+CI: 0.56, 1.12; P-trend: 0.80).
+
+After excluding kimchi, which comprised 36.9% of the fruit
+and vegetable intake (mean intake: 166 g/d), we found no
+associations for total cancer incidence or mortality; $ 500 g/d
+vs. <100 g/d, RR: 0.96 (95% CI: 0.80, 1.15; P-trend 5 0.94) for
+incidence and RR: 0.84 (95% CI: 0.62, 1.14; P-trend 5 0.49) for
+mortality. However, when we analyzed the associations between
+kimchi intake and total cancer incidence and mortality, we found
+signiﬁcant inverse associations (Supplemental Table 1). The
+multivariable-adjusted RR of total cancer incidence that compared
+300 g/d with <50 g/d of kimchi intake was 0.73 (95% CI: 0.59,
+0.91; P-trend: 0.004). For total cancer mortality, the multivariable-
+adjusted RRs that compared 50 to <100, 100 to <150, 150 to
+<300, and $300 g/d with <50 g/d of kimchi intake were 0.60
+(95% CI: 0.45, 0.79), 0.65 (95% CI: 0.51, 0.84), 0.60 (0.46,
+0.79), and 0.67 (95% CI: 0.48, 0.94; P-trend: 0.12), respectively.
+The age-adjusted Spearman correlation coefﬁcient between kimchi
+and non-kimchi vegetable intake was 0.32 (P < 0.001).
+
+total
+
+fruit
+
+Total vegetable intake, but not
+
+intake, was
+associated with a reduction in the risk of total cancer incidence
+(Table 3); by comparing $500 g/d with <100 g/d of total
+vegetable intake, the multivariable-adjusted RR of total cancer
+incidence was 0.72 (95% CI: 0.58, 0.90; P-trend: 0.02, model
+2). A reduction in the risk of total cancer incidence was
+produced between 100 and 199 g/d in the cubic spline curve,
+which corresponded to the results from the multivariable
+regression analyses (Figure 1A). For total cancer mortality, the
+multivariable-adjusted RRs that compared 100 to <200, 200 to
+<300, 300 to <500, and $500 g/d with <100 g/d of total
+vegetable intake were 0.68 (95% CI: 0.53, 0.88), 0.75 (95% CI:
+0.57, 0.98), 0.72 (95% CI: 0.54, 0.95), and 0.67 (95% CI: 0.47,
+0.95), respectively (model 2); both multivariable proportional
+hazards models (P-trend: 0.09) and the cubic spline curve (P-
+nonlinearity: 0.01; Figure 1B) showed a nonlinear relation
+between total vegetable intake and total cancer mortality.
+
+We examined whether the associations between total vege-
+table intake (Table 4) and combined fruit and vegetable intake
+
+TABLE 1 Age-standardized baseline characteristics by total combined fruit and vegetable intake in
+Korean middle-aged men1
+
+Variable
+
+Age at baseline, y
+College or post-college, %
+BMI, kg/m2
+Vigorous physical activity, h/wk
+Pack-years of smoking
+History of cardiovascular disease, %
+History of diabetes, %
+Total calorie intake, kcal/d
+Alcohol intake, g/d
+Red meat intake, g/d
+Fish intake, g/d
+Dietary calcium, mg/d
+Dietary fiber, g/d
+Daily multivitamin use, %
+
+Total fruit and vegetable intake, g/d
+
+,200
+
+(n = 2930)
+
+200 to ,300
+(n = 2570)
+
+300 to ,400
+(n = 2350)
+
+400 to ,600
+(n = 3080)
+
+600 to ,800
+(n = 1610)
+
+$800
+
+(n = 1670)
+
+47.6
+28.3
+23.3
+2.5
+16.2
+1.4
+20.3
+1770
+24.5
+56.7
+17.4
+647
+5.0
+24.4
+
+47.7
+34.1
+23.3
+2.1
+16.3
+1.2
+17.4
+1910
+24.2
+72.9
+28.3
+686
+5.5
+29.6
+
+47.6
+35.3
+23.3
+2.1
+15.0
+1.3
+21.4
+1940
+23.9
+81.3
+34.5
+698
+5.8
+30.4
+
+47.6
+33.3
+23.5
+2.4
+15.5
+1.3
+12.8
+2100
+26.6
+93.6
+43.4
+753
+6.7
+29.5
+
+47.7
+32.1
+23.6
+2.4
+15.5
+0.9
+13.8
+2210
+27.1
+108
+50.9
+807
+7.4
+29.8
+
+47.6
+30.0
+23.6
+3.1
+15.6
+1.2
+15.4
+2420
+30.2
+132
+77.1
+889
+9.5
+28.8
+
+1 Except for the mean age data, all variables shown are standardized to the age distribution of the cohort at baseline; mean values are
+presented for continuous variables, and percentages are shown for categorical variables.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/145/6/1249/4644429
+by University of Ottawa user
+on 24 June 2018
+
+Fruit and vegetable intakes and cancer
+
+1251
+
+TABLE 2 RRs and 95% CIs for total cancer incidence and mortality risk by total combined fruit and vegetable intake in Korean
+middle-aged men1
+
+Total fruit and
+vegetable intake, g/d
+
+,200
+200 to ,300
+300 to ,400
+400 to ,600
+600 to ,800
+$800
+P-trend
+
+Total cancer incidence
+
+Total cancer mortality
+
+Multivariable-adjusted
+
+Multivariable-adjusted
+
+n
+
+284
+269
+207
+283
+127
+173
+
+Age-adjusted
+
+Model 12
+
+Model 23
+
+1.00
+
+1.09 (0.92, 1.29)
+0.92 (0.77, 1.10)
+0.93 (0.79, 1.10)
+0.80 (0.65, 0.99)
+1.08 (0.90, 1.31)
+
+0.72
+
+1.00
+
+1.08 (0.91, 1.27)
+0.92 (0.77, 1.10)
+0.92 (0.78, 1.09)
+0.80 (0.65, 0.99)
+1.07 (0.88, 1.30)
+
+0.66
+
+1.00
+
+1.08 (0.91, 1.27)
+0.92 (0.77, 1.10)
+0.92 (0.78, 1.09)
+0.80 (0.65, 0.99)
+1.07 (0.88, 1.30)
+
+0.67
+
+n
+
+110
+94
+86
+105
+47
+65
+
+Age-adjusted
+
+Model 12
+
+Model 23
+
+1.00
+
+0.98 (0.74, 1.29)
+0.99 (0.75, 1.31)
+0.89 (0.68, 1.17)
+0.77 (0.54, 1.08)
+1.05 (0.77, 1.42)
+
+0.72
+
+1.00
+
+1.00 (0.76, 1.32)
+1.03 (0.77, 1.37)
+0.91 (0.69, 1.19)
+0.79 (0.56, 1.12)
+1.05 (0.77, 1.45)
+
+0.78
+
+1.00
+
+1.00 (0.76, 1.32)
+1.02 (0.77, 1.36)
+0.91 (0.69, 1.19)
+0.79 (0.56, 1.12)
+1.06 (0.77, 1.46)
+
+0.80
+
+1 Values are RRs (95% CIs) unless otherwise indicated.
+2 Adjusted for age at baseline (years, continuous), vigorous physical activity (,1, 1 to ,3, or $3 h/wk), total energy intake (kcal/d, continuous), red meat (g/d, continuous or missing
+indicator), alcohol drinking (,0.1, 0.1 to ,15, 15 to ,30, or $30 g/d), multivitamin use (none, 1–6 times/wk, daily, 2–3 times/d, or missing), pack-years of smoking (,0.1, 0.1 to
+,20, 20 to ,40, or $40 pack-years), BMI (,18.5, 18.5 to ,23, 23 to ,25, $25, or missing), educational level (,high school, $high school, or missing), and family history of cancer
+(yes or no).
+3 Adjusted additionally for a baseline history of diabetes or cardiovascular disease (yes or no).
+
+(Supplemental Table 2) varied by BMI, smoking habits, or
+history of diabetes and cardiovascular disease at baseline. We
+found an apparent inverse association between total vegetable
+intake and total cancer incidence and mortality among ever-
+smokers, whereas no association was found among never-
+smokers (P-interactions were 0.04 and 0.01, respectively).
+Among ever-smokers, the multivariable-adjusted RRs of total
+cancer incidence and mortality that compared $500 g/d with
+<100 g/d of total vegetable intake were 0.73 (95% CI: 0.57,
+0.93; P-trend: 0.08) and 0.68 (95% CI: 0.46, 0.99; P-trend:
+0.18), respectively. Among never-smokers, the corresponding
+RRs were 0.55 (95% CI: 0.28, 1.07; P-trend: 0.09) and 0.58
+(95% CI: 0.21, 1.59; P-trend: 0.23), respectively. We found that
+
+the associations between total combined fruit and vegetable
+intake and total cancer incidence or mortality did not vary by
+these characteristics.
+
+In the site-speciﬁc analysis of common cancers in Korea
+(stomach, colorectal, liver and bile duct, and lung cancers), we
+did not observe a statistically signiﬁcant inverse association of
+total combined fruit and vegetable intake with any speciﬁc
+cancer incidence or mortality (Supplemental Table 3).
+
+Discussion
+
+In this prospective study of Korean middle-aged men, we
+observed that vegetable intake was linearly associated with a
+
+TABLE 3 RRs and 95% CIs for total cancer incidence and mortality risk by total fruit and total vegetable intakes in Korean middle-aged
+men1
+
+Total cancer incidence
+
+Total cancer mortality
+
+Multivariable-adjusted
+
+Multivariable-adjusted
+
+Age-adjusted
+
+Model 12
+
+Model 23
+
+1.00
+
+1.06 (0.90, 1.25)
+0.86 (0.74, 1.01)
+1.02 (0.85, 1.23)
+0.95 (0.81, 1.13)
+
+1.00
+
+1.07 (0.91, 1.26)
+0.90 (0.77, 1.06)
+1.10 (0.92, 1.33)
+1.04 (0.87, 1.25)
+
+1.00
+
+1.07 (0.91, 1.26)
+0.90 (0.77, 1.06)
+1.10 (0.91, 1.33)
+1.04 (0.87, 1.25)
+
+0.60
+
+1.00
+
+0.57
+
+1.00
+
+0.56
+
+1.00
+
+0.84 (0.72, 0.97)
+0.86 (0.73, 1.02)
+0.88 (0.75, 1.05)
+0.80 (0.65, 0.99)
+
+0.15
+
+0.81 (0.70, 0.95)
+0.82 (0.69, 0.97)
+0.84 (0.70, 1.00)
+0.72 (0.58, 0.90)
+
+0.02
+
+0.81 (0.70, 0.95)
+0.82 (0.69, 0.97)
+0.84 (0.70, 1.00)
+0.72 (0.58, 0.90)
+
+0.02
+
+n
+
+113
+104
+122
+86
+82
+
+111
+145
+104
+97
+50
+
+Age-adjusted
+
+Model 12
+
+Model 23
+
+1.00
+
+0.99 (0.76, 1.29)
+0.81 (0.63, 1.05)
+1.13 (0.86, 1.50)
+0.79 (0.59, 1.05)
+
+1.00
+
+1.05 (0.80, 1.37)
+0.89 (0.68, 1.15)
+1.29 (0.96, 1.72)
+0.89 (0.66, 1.21)
+
+1.00
+
+1.05 (0.80, 1.37)
+0.89 (0.68, 1.15)
+1.28 (0.96, 1.71)
+0.89 (0.66, 1.21)
+
+0.20
+
+1.00
+
+0.71
+
+1.00
+
+0.71
+
+1.00
+
+0.70 (0.54, 0.89)
+0.79 (0.60, 1.03)
+0.75 (0.57, 0.99)
+0.76 (0.54, 1.05)
+
+0.29
+
+0.68 (0.53, 0.88)
+0.75 (0.57, 0.99)
+0.72 (0.54, 0.95)
+0.66 (0.47, 0.94)
+
+0.09
+
+0.68 (0.53, 0.88)
+0.75 (0.57, 0.98)
+0.72 (0.54, 0.95)
+0.67 (0.47, 0.95)
+
+0.09
+
+n
+
+288
+282
+329
+195
+249
+
+263
+413
+271
+270
+126
+
+Total fruit intake, g/d
+
+,50
+50 to ,100
+100 to ,200
+200 to ,300
+$300
+P-trend
+
+Total vegetable intake, g/d
+
+,100
+100 to ,200
+200 to ,300
+300 to ,500
+$500
+P-trend
+
+1 Values are RRs (95% CIs) unless otherwise indicated.
+2 Adjusted for age at baseline (years, continuous), vigorous physical activity (,1, 1 to ,3, or $3 h/wk), total energy intake (kcal/d, continuous), red meat (g/d, continuous or missing
+indicator), alcohol drinking (,0.1, 0.1 to ,15, 15 to ,30, or $30 g/d), multivitamin use (none, 1–6 times/wk, daily, 2–3 times/d, or missing), pack-years of smoking (,0.1, 0.1 to
+,20, 20 to ,40, or $40 pack-years), BMI (,18.5, 18.5 to ,23, 23 to ,25, $25, or missing), educational level (,high school, $high school, or missing), family history of cancer
+(yes or no), and fruit and vegetable intake (g/d, continuous).
+3 Adjusted additionally for baseline history of diabetes or cardiovascular disease (yes or no).
+
+1252 Choi et al.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/145/6/1249/4644429
+by University of Ottawa user
+on 24 June 2018
+
+FIGURE 1 Multivariable RRs (solid line) and 95% CIs (dashed line) for the association between total vegetable intake and total cancer incidence
+(A) and mortality (B) in Korean middle-aged men. Data were fit by using a restricted cubic spline adjusted for age at baseline (years, continuous),
+vigorous physical activity (,1, 1 to ,3, or $3 h/wk), total energy intake (kcal/d, continuous), red meat (g/d, continuous or missing indicator),
+alcohol drinking (,0.1, 0.1 to ,15, 15 to ,30, or $30 g/d), multivitamin use (none, 1–6 times/wk, daily, 2–3 times/d, or missing), pack-years of
+smoking (,0.1, 0.1 to ,20, 20 to ,40, or $40 pack-years), BMI (,18.5, 18.5 to ,23, 23 to ,25, $25, or missing), educational level (,high
+school, $high school, or missing), family history of cancer (yes or no), fruit intake (g/d, continuous), and baseline history of diabetes or
+cardiovascular disease (yes or no). The reference level was set to ,50 g/d. P-nonlinearity was 0.06 for total cancer incidence (A) and 0.01 for total
+cancer mortality (B).
+
+total cancer incidence but was nonlinearly
+lower risk of
+associated with a lower risk of total cancer mortality. However,
+our results did not support a possible beneﬁt of fruit intake in
+preventing total cancer. We evaluated the total combined fruit
+and vegetable intake and the association with subtypes of major
+cancers and found no signiﬁcant inverse associations. However,
+because of the small number of deaths, our study might lack
+sufﬁcient statistical power to detect a true association. The
+results of the present study should be interpreted with caution,
+and further studies with larger sample sizes and that include
+women are needed to conﬁrm these results.
+
+lycopene, dithiolethiones,
+
+Fruit and vegetable intake is considered to be a likely
+protective factor against cancer because of the large number
+of beneﬁcial bioactive compounds in fruits and vegetables,
+including carotenoids, vitamins C and E, selenium, folic acid,
+b-carotene,
+isothiocya-
+nates, ﬂavonoids, allium compounds, isoﬂavones, protease
+inhibitors, and dietary ﬁber. These components may protect
+cells against carcinogenesis through antioxidant activity,
+modulating the detoxiﬁcation enzymes, stimulating the im-
+mune system, transferring the methyl groups in the DNA
+methylation, modulating steroid hormone metabolism, and
+antiproliferative effects (25, 26).
+
+indoles,
+
+A few prospective studies have examined the association
+between total fruit and vegetable intake and total cancer risk(5–
+8, 27). The European Prospective Investigation into Cancer and
+Nutrition study showed a signiﬁcant linear association but with
+a small reduction in the risk of total cancer incidence associated
+with total vegetable intake [RR for Q5 ($307 g/d) vs. Q1
+
+Downloaded from https://academic.oup.com/jn/article-abstract/145/6/1249/4644429
+by University of Ottawa user
+on 24 June 2018
+
+(<97 g/d): 0.93; P-trend: <0.001] (5). A similar association was
+observed for the association between fruit intake and total
+cancer incidence [RR for top quintile ($367 g/d) vs. bottom
+quintile (<90 g/d): 0.94; P-trend: 0.006]. In the NIH-AARP Diet
+and Health Study, elderly men who consumed large quantities of
+vegetables had a slightly lower risk of total cancer incidence than
+elderly men who consumed low quantities [RR for top quintile
+(1.10–3.25 cup equivalents/1000 kcal) vs. bottom quintile
+(<0.44 cup equivalent/1000 kcal): 0.94; P-trend: 0.004] (27).
+In this study, fruit intake was not associated with total cancer
+risk among men. However, other cohort studies conducted in
+Japan, Sweden, and the United States did not ﬁnd any signiﬁcant
+associations between total fruit and vegetable intake and total
+cancer risk, regardless of whether the intakes were evaluated
+separately or combined (6–8). We found that total vegetable
+intake was linearly associated with total cancer risk. Several
+characteristics of our population may differ from Western
+populations, such as low BMI, high rate of smoking, and low red
+meat intake, which could yield a clear inverse association with
+total vegetable intake, as we observed here. This ﬁnding
+warrants further studies. In addition, the differences in the types
+and number of food items included in the FFQs, ethnicity, the
+proportion of supplement use, measurement error, and the
+potential presence of residual or unmeasured confounding factors
+could be considered.
+
+A few prospective studies reported the association between total
+fruit or total vegetable intake with the risk of cancer mortality. Two
+prospective studies have shown that higher vegetable intake
+conferred an 8% (12) to 70% (11) lower risk of total cancer
+
+Fruit and vegetable intakes and cancer
+
+1253
+
+TABLE 4 Multivariable RRs and 95% CIs for total cancer incidence and mortality risk by total vegetable
+intake (in g/d), stratiﬁed by selected subgroups in Korean middle-aged men1
+
+BMI, kg/m2
+
+Smoking habit
+
+History of diabetes or CVD
+
+,25
+
+987
+1.00
+
+$25
+
+342
+1.00
+
+Never
+
+228
+1.00
+
+Ever
+
+1090
+1.00
+
+No
+
+1276
+1.00
+
+Yes
+
+67
+1.00
+
+0.77 (0.64, 0.93)
+0.78 (0.64, 0.95)
+0.82 (0.66, 1.00)
+0.73 (0.56, 0.94)
+
+0.92 (0.67, 1.27)
+0.97 (0.68, 1.38)
+0.92 (0.64, 1.31)
+0.76 (0.48, 1.19)
+
+1.11 (0.76, 1.61)
+0.74 (0.47, 1.17)
+1.05 (0.68, 1.62)
+0.55 (0.28, 1.07)
+
+0.75 (0.63, 0.90)
+0.82 (0.67, 0.99)
+0.80 (0.65, 0.97)
+0.73 (0.57, 0.93)
+
+0.81 (0.69, 0.95)
+0.84 (0.70, 1.00)
+0.85 (0.71, 1.02)
+0.75 (0.60, 0.94)
+
+0.82 (0.40, 1.67)
+0.57 (0.25, 1.28)
+0.59 (0.25, 1.35)
+0.30 (0.07, 1.20)
+
+0.08
+
+372
+1.00
+
+0.89
+
+0.26
+
+126
+1.00
+
+0.09
+
+74
+1.00
+
+0.04
+
+0.08
+
+422
+1.00
+
+0.07
+
+476
+1.00
+
+0.38
+
+0.05
+
+31
+1.00
+
+0.74 (0.55, 0.99)
+0.77 (0.56, 1.06)
+0.73 (0.52, 1.03)
+0.72 (0.48, 1.10)
+
+0.54 (0.32, 0.90)
+0.74 (0.43, 1.26)
+0.73 (0.42, 1.25)
+0.63 (0.31, 1.27)
+
+0.69 (0.36, 1.31)
+0.88 (0.44, 1.75)
+0.50 (0.23, 1.13)
+0.58 (0.21, 1.59)
+
+0.68 (0.52, 0.90)
+0.71 (0.52, 0.96)
+0.75 (0.55, 1.03)
+0.68 (0.46, 0.99)
+
+0.67 (0.52, 0.86)
+0.77 (0.59, 1.02)
+0.74 (0.55, 0.99)
+0.68 (0.48, 0.98)
+
+1.18 (0.42, 3.31)
+0.49 (0.14, 1.75)
+0.53 (0.14, 1.93)
+0.42 (0.07, 2.50)
+
+0.21
+
+0.52
+
+0.23
+
+0.18
+
+0.18
+
+0.15
+
+0.85
+
+0.01
+
+0.79
+
+Total cancer incidence
+
+n
+,100
+100 to ,200
+200 to ,300
+300 to ,500
+$500
+P-trend
+P-interaction
+
+Total cancer mortality
+
+n
+,100
+100 to ,200
+200 to ,300
+300 to ,500
+$500
+P-trend
+P-interaction
+
+1 Values are RRs (95% CIs) unless otherwise indicated. CVD, cardiovascular disease.
+1 Adjusted for age at baseline (years, continuous), vigorous physical activity (,1, 1 to ,3, or $3 h/wk), total energy intake (kcal/d,
+continuous), red meat (g/d, continuous or missing indicator), alcohol drinking (,0.1, 0.1 to ,15, 15 to ,30, or $30 g/d), multivitamin use
+(none, 1–6 times/wk, daily, 2–3 times/d, or missing), pack-years of smoking (,0.1, 0.1 to ,20, 20 to ,40, or $40 pack-years), BMI (,18.5,
+18.5 to ,23, 23 to ,25, $25, or missing), educational level (,high school, $high school, or missing), family history of cancer (yes or no),
+and fruit and vegetable intake (g/d, continuous).
+
+mortality with a linear association. In addition, the European
+Prospective Investigation into Cancer and Nutrition study found a
+10% lower risk of cancer mortality with intake of raw vegetables
+but not with cooked vegetables (13). The Shanghai WomenÕs and
+MenÕs Health Study (10) reported no evidence of this association. A
+study in Japan (12) found a signiﬁcant inverse association between
+total fruit intake and cancer mortality, but studies conducted in
+China (10) or Europe (13) did not.
+
+We found a lower risk of total cancer incidence and mortality
+with kimchi intake. Although the antimutagenic and anticarci-
+nogenic effects of kimchi were reported in both in vitro and in
+vivo studies (28–31), the effect of kimchi on cancer prevention
+remains equivocal because of limited evidence from clinical
+trials or epidemiologic studies.
+
+The strengths of this study include the use of a prospective
+cohort design and the long follow-up period. The consistent results
+between the main analysis and the secondary analysis, excluding
+diagnosed cancer cases within the ﬁrst 2 y of follow-up, suggest
+that reverse causality is unlikely. We included a Korean population
+that consumes many vegetables (32), allowing a large contrast
+between total fruit and vegetable intake. To the best of our
+knowledge, this investigation is the ﬁrst prospective study to
+examine the association of fruit and vegetable intake and total
+cancer risk and mortality in Korean middle-aged men. This study
+has several limitations. First, we cannot rule out the possibility that
+random measurement errors inherent in dietary assessment could
+have attenuated the association, although fruit and vegetable
+intake was investigated with a validated FFQ. Second, because
+dietary intake was assessed only at baseline, any changes in dietary
+intake during the follow-up period were unknown, and measuring
+long-term usual intake may not be as accurate as the cumulative
+average dietary intake (33). However, the average total fruit
+and vegetable consumption measured in our study was similar to
+
+1254 Choi et al.
+
+the consumption in middle-aged men in the Korea Health and
+Nutrition Examination Survey (34), a nationwide dietary survey
+conducted among a representative sample of Korean adults. Third,
+although we attempted to adjust for important confounders, we
+could not rule out the possibility that residual or unmeasured
+confounding factors may exist. However, a more pronounced
+inverse association among nonsmokers, albeit not statistically
+signiﬁcant possibly due to small sample size, compared with past or
+current smokers may suggest the possibility of minimal residual
+confounding variables that may explain the observed inverse
+association between total combined fruit and vegetable intake and
+total cancer risk. Although red meat intake was not a confounding
+factor in the association between total fruit and vegetable intake
+and the risks of total cancer incidence and mortality, we cannot rule
+out the possibility that the weak association observed for >800 g/d
+could be partially explained by the residual effect of risk factors
+correlated with fruit and vegetable intake. Finally, this study
+consisted of middle-aged men; therefore, the results may not
+be generalized to women.
+
+In conclusion, our ﬁndings suggest that vegetable intake was
+linearly associated with a lower risk of total cancer incidence
+but was nonlinearly associated with a lower risk of total cancer
+mortality. However, our results did not support the association
+between fruit intake and total cancer incidence and mortality.
+The ﬁndings from our study need to be corroborated in large
+prospective studies and in the Korean female population.
+
+Acknowledgments
+YC, JEL, and M-HS designed the research; J-MB, Z-ML, D-HK,
+M-SL, Y-OA, and M-HS conducted the research; YC, JEL, and
+M-HS analyzed the data; and YC and JEL wrote the paper. M-HS
+assumed primary responsibility for the ﬁnal content. All authors
+read and approved the ﬁnal manuscript.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/145/6/1249/4644429
+by University of Ottawa user
+on 24 June 2018
+
+References
+
+1. Block G, Patterson B, Subar A. Fruit, vegetables, and cancer prevention:
+a review of the epidemiological evidence. Nutr Cancer 1992;18:1–29.
+2. Diet, nutrition, and the prevention of chronic diseases. Report of a
+WHO Study Group. World Health Organ Tech Rep Ser 1990;797:
+1–204.
+
+3. World Cancer Research Fund/American Institute for Cancer Research.
+Food, nutrition, physical activity and the prevention of cancer: a global
+perspective. London: World Cancer Research Fund/American Institute
+for Cancer Research; 1997.
+
+4. World Cancer Research Fund/American Institute for Cancer Research.
+Food, nutrition, physical activity and the prevention of cancer: a global
+perspective. London: World Cancer Research Fund/American Institute
+for Cancer Research; 2007.
+
+5. Boffetta P, Couto E, Wichmann J, Ferrari P, Trichopoulos D, Bueno-
+de-Mesquita HB, van Duijnhoven FJ, Buchner FL, Key T, Boeing H,
+et al. Fruit and vegetable intake and overall cancer risk in the European
+Prospective Investigation into Cancer and Nutrition (EPIC). J Natl
+Cancer Inst 2010;102:529–37.
+
+6. Hung HC, Joshipura KJ, Jiang R, Hu FB, Hunter D, Smith-Warner SA,
+Colditz GA, Rosner B, Spiegelman D, Willett WC. Fruit and vegetable
+intake and risk of major chronic disease. J Natl Cancer Inst 2004;96:
+1577–84.
+
+7. Lo¨ f M, Sandin S, Lagiou P, Trichopoulos D, Adami HO, Weiderpass E.
+Fruit and vegetable intake and risk of cancer in the Swedish women’s
+lifestyle and health cohort. Cancer Causes Control 2011;22:283–9.
+
+8. Takachi R, Inoue M, Ishihara J, Kurahashi N, Iwasaki M, Sasazuki S,
+Iso H, Tsubono Y, Tsugane S. Fruit and vegetable intake and risk of
+total cancer and cardiovascular disease: Japan Public Health Center-
+Based Prospective Study. Am J Epidemiol 2008;167:59–70.
+
+9. Aune D, Lau R, Chan DS, Vieira R, Greenwood DC, Kampman E,
+Norat T. Nonlinear reduction in risk for colorectal cancer by fruit and
+vegetable intake based on meta-analysis of prospective studies. Gastro-
+enterology 2011;141:106–18.
+
+10. Zhang X, Shu XO, Xiang YB, Yang G, Li H, Gao J, Cai H, Gao YT,
+Zheng W. Cruciferous vegetable consumption is associated with a
+reduced risk of total and cardiovascular disease mortality. Am J Clin
+Nutr 2011;94:240–6.
+
+11. Colditz GA, Branch LG, Lipnick RJ, Willett WC, Rosner B, Posner BM,
+Hennekens CH. Increased green and yellow vegetable intake and lowered
+cancer deaths in an elderly population. Am J Clin Nutr 1985;41:32–6.
+
+12. Sauvaget C, Nagano J, Hayashi M, Spencer E, Shimizu Y, Allen N.
+Vegetables and fruit intake and cancer mortality in the Hiroshima/
+Nagasaki Life Span Study. Br J Cancer 2003;88:689–94.
+
+13. Leenders M, Sluijs I, Ros MM, Boshuizen HC, Siersema PD, Ferrari P,
+Weikert C, Tjonneland A, Olsen A, Boutron-Ruault MC, et al. Fruit and
+vegetable consumption and mortality: European prospective investiga-
+tion into cancer and nutrition. Am J Epidemiol 2013;178:590–602.
+
+14. Diet, nutrition and the prevention of chronic diseases. World Health
+
+Organ Tech Rep Ser 2003;916:i–viii, 1–149.
+
+16. Kim MK, Lee SS, Ahn YO. Reproducibility and validity of a self-
+administered semiquantitative food frequency questionnaire among
+middle-aged men in Seoul. Korean J Community Nutr 1996;1:376–94.
+17. Pennington JAT. Bowes and ChurchÕs food values of portions commonly
+
+used. Philadelphia: Lippincott-Raven; 1998.
+
+18. National Cancer Center [Internet]. Gyeonggi-do, Republic of Korea.
+National Cancer Registration Program. [cited 2014 Jan 7]. Available
+from: http://ncc.re.kr/english/programs/progarms02.jsp.
+
+19. Fritz A, Percy C, Jack A, Shanmugarathnam K, Sobin L, Parkin D,
+Whelan S. International classiﬁcation of diseases for oncology. Geneva:
+World Health Organization; 2000.
+
+20. World Health Organization. Manual of the international statistical
+classiﬁcation of diseases, injuries, and causes of death. Geneva: World
+Health Organization; 1992.
+
+21. Korean National Statistics Ofﬁce. Annual report on the cause of death
+statistics (based on vital registration). Korean National Statistics Ofﬁce.
+Daejeon: Korean National Statistics Ofﬁce. [cited 2014 Jan 8]. Available
+from: http://kostat.go.kr/portal/english/index.action.
+
+22. Jung KW, Park S, Kong HJ, Won YJ, Lee JY, Seo HG, Lee JS. Cancer
+statistics in Korea: incidence, mortality, survival, and prevalence in
+2009. Cancer Res Treat 2012;44:11–24.
+
+23. Durrleman S, Simon R. Flexible regression models with cubic splines.
+
+Stat Med 1989;8:551–61.
+
+24. Smith PL. Splines as a useful and convenient statistical tool. Am Stat
+
+1979;33:57–62.
+
+25. Lampe JW. Health effects of vegetables and fruit: assessing mechanisms
+of action in human experimental studies. Am J Clin Nutr 1999;70(3
+Suppl):475S–90S.
+
+26. Steinmetz KA, Potter JD. Vegetables, fruit, and cancer. II. Mechanisms.
+
+Cancer Causes Control 1991;2:427–42.
+
+27. George SM, Park Y, Leitzmann MF, Freedman ND, Dowling EC, Reedy
+J, Schatzkin A, Hollenbeck A, Subar AF. Fruit and vegetable intake
+and risk of cancer: a prospective cohort study. Am J Clin Nutr 2009;89:
+347–53.
+
+28. Choi MW, Kim KH, Park KY. Effects of Kimchi extracts on the growth
+of sarcoma - 180 cells and phagocytic activity of mice. J Korean Soc
+Food Sci Nutr 1997;26:254–60.
+
+29. Kim KH, Kim SH, Rhee SH, Park KY. Effects of Kimchi extracts on
+interleukin-2 production and natural killer cell activity in mice. J Food
+Sci Nutr 1998;3:282–6.
+
+30. Cho E-J, Rhee S-H, Park K-Y. In vitro anticarcinogenic effect of Kimchi
+
+fractions. J Korean Assoc Cancer Prev 1999;4:79–85.
+
+31. Park KY. The nutritional evaluation and antimutagenic and anticancer
+
+effects of Kimchi. J Korean Soc Food Nutr 1995;24:169–82.
+
+32. Kim S, Moon S, Popkin BM. The nutrition transition in South Korea.
+
+Am J Clin Nutr 2000;71:44–53.
+
+33. Hu FB, Stampfer MJ, Rimm E, Ascherio A, Rosner BA, Spiegelman D,
+Willett WC. Dietary fat and coronary heart disease: a comparison of
+approaches for adjusting for total energy intake and modeling repeated
+dietary measurements. Am J Epidemiol 1999;149:531–40.
+
+15. Shin MH, Kim DH, Bae JM, Lee HK, Lee MS, Noh JY. The effect of
+coffee consumption on serum total cholesterol level in healthy middle-
+aged men. Korean J Prev Med 1994;27:200–16.
+
+34. The Ministry of Health and Welfare. Korea Health Statistics 2011:
+Korea National Health and Nutrition Examination Survey (KNHANES
+V-2). 2012.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/145/6/1249/4644429
+by University of Ottawa user
+on 24 June 2018
+
+Fruit and vegetable intakes and cancer
+
+1255
+
+

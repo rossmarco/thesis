@@ -1,0 +1,1045 @@
+Diet and breast cancer prognosis: making sense of the Women’s
+Healthy Eating and Living and Women’s Intervention Nutrition
+Study trials
+John P. Pierce
+
+Cancer Prevention and Control Program, Moores
+UCSD Cancer Center, University of California, San
+Diego, La Jolla, California, USA
+
+Correspondence to John P. Pierce, PhD, Cancer
+Prevention and Control Program, Moores UCSD
+Cancer Center, University of California, San Diego,
+La Jolla, CA 92093-0901, USA
+Tel: +1 858 822 2380; fax: +1 858 822 2399;
+e-mail: jppierce@ucsd.edu
+
+Current Opinion in Obstetrics and Gynecology
+2009, 21:86–91
+
+Purpose of review
+To clarify the role of dietary pattern on prognosis in breast cancer survivors.
+Recent ﬁndings
+Observational trials show mixed results that do not strongly support an independent role
+for dietary pattern in prognosis. Women’s Intervention Nutrition Study and Women’s
+Healthy Eating and Living (WHEL) are two large randomized controlled trials that
+address this question. The interventions from both studies achieved signiﬁcant
+reductions in energy from fat, and the WHEL Study achieved large increases in
+vegetables, fruit and ﬁber. Women’s Intervention Nutrition Study examined
+postmenopausal women only and reported a not-quite-signiﬁcant improved prognosis
+for women in the intervention group, with the beneﬁt focused on ipsilateral localized
+recurrences, but little improvement in the more important distal recurrences. This review
+considers only WHEL postmenopausal women to aid a direct comparison with
+Women’s Intervention Nutrition Study. The WHEL Study reported a convincing lack of
+association between diet and prognosis. However, a secondary analysis suggests that
+the dietary intervention reduced distal recurrences among the subgroup without hot
+ﬂashes at baseline.
+Summary
+There is no convincing evidence that changing dietary pattern following breast cancer
+diagnosis will improve prognosis for most women with early stage breast cancer.
+However, it would appear to be important for some subgroups. Further investigation of
+mechanisms for such selective action is needed.
+
+Keywords
+breast cancer prognosis, dietary pattern, randomized trials
+
+Curr Opin Obstet Gynecol 21:86–91
+ß 2009 Wolters Kluwer Health | Lippincott Williams & Wilkins
+1040-872X
+
+Introduction
+Breast cancer is one of the most common cancers among
+women in developed countries, and signiﬁcant advances
+in early detection and treatment have led to high 10-year
+survival rates and large prevalent survivor populations.
+Clinical outcome among women diagnosed with appar-
+ently similar cancers varies considerably, and does not
+appear to be explained by treatment differences. Labora-
+tory studies have identiﬁed multiple bioactive constitu-
+ents in foods that appear to either promote carcinogenesis
+or protect against it. As a result, there is considerable
+interest in the question of whether dietary pattern can
+inﬂuence a woman’s prognosis following breast cancer.
+
+Prospective observational studies, or cohort studies,
+measure the dietary component or pattern and then
+monitor prognosis over time. These association studies
+
+do not provide sufﬁcient evidence to conclude that
+changing dietary pattern would alter prognosis. The ‘gold
+standard’ studies are randomized trials in which some
+participants are assigned to make a major dietary change.
+Several prospective observational studies have investi-
+gated the link between dietary pattern and breast cancer
+prognosis, and to date, two randomized clinical trials have
+tested this association.
+
+Observational studies
+Most dietary studies, however, are compromised by
+measurement errors in the commonly used self-reported
+dietary patterns [1], and there are few proven biomarkers
+of exposure to validate self-report. The extent of these
+measurement errors has been highlighted by two separate
+studies that have demonstrated that different self-
+report methods change the study outcome [2,3]. Another
+
+1040-872X ß 2009 Wolters Kluwer Health | Lippincott Williams & Wilkins
+
+DOI:10.1097/GCO.0b013e32831da7f2
+
+Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
+
+study showed an effect with a biomarker that was not
+seen with self-reported intake [4,5].
+
+Reviews of the observational studies of diet and breast
+cancer prognosis have identiﬁed 14 studies since 1990
+[6,7,8,9–21]. However, many of these studies measured
+prebreast cancer dietary pattern shortly following diag-
+nosis with breast cancer. As diets commonly change
+following diagnosis [22], dietary recalls over extended
+periods that include diagnosis have additional measure-
+ment problems and are excluded from this review.
+
+In 1994, the Canadian National Breast Screening Study
+reported 5-year survival data from the subsample of 678
+breast cancer cases that had completed a diet history prior
+to diagnosis [23]. In this study, lower saturated fat intake
+(but not intake of total fat or oleic acid) was associated
+with survival, and women in the highest versus lowest
+quartiles of intake of b carotene and vitamin C from food
+sources appeared protected.
+
+The Nurses’ Health Study is a well-known long-term
+investigation of a cohort of female registered nurses.
+Holmes et al. [15] reported on a subsample (n¼ 1982)
+who were diagnosed with breast cancer from 1976 to 1990
+and completed a dietary assessment in the postdiagnosis
+period and followed through 1994. Consumption of fruit,
+red meat or grain-based products was not associated with
+either all-cause mortality or breast carcinoma death.
+However, among women with metastatic cancer, con-
+sumption of vegetables, carotenoids and ﬁber had lower
+mortality rates. Kroenke et al. [17] reported on the 2619
+nurses who were diagnosed from 1982 to 1998 and
+completed a dietary questionnaire at least 1 year after
+diagnosis. Over a median follow-up of 9 years, 9% of
+participants died from breast cancer. Using factor
+analysis,
+researchers identiﬁed two dietary patterns:
+one in which vegetables, fruit, whole grains, low fat dairy,
+poultry, ﬁsh and ﬁber consumption increased across
+quintiles (prudent dietary pattern), and the other in
+which consumption of reﬁned grains, red meat, processed
+meat, high-fat dairy, saturated fat and dessert increased
+across quintiles (western dietary pattern). Neither dietary
+pattern was related to breast cancer mortality. However,
+the prudent dietary pattern reduced and Western dietary
+pattern increased deaths from other causes. Thus, the
+no-association result for dietary fat consumption was
+consistent across these two overlapping cohorts, but
+the conclusions for a mortality association with the con-
+sumption of vegetables, fruit and ﬁber were not.
+
+The Women’s Healthy Eating and Living (WHEL)
+Study reported observational data from women random-
+ized to the comparison group. Dietary assessment
+occurred an average of 2 years after diagnosis, and dietary
+patterns were validated with a plasma carotenoid con-
+
+Diet and breast cancer prognosis Pierce 87
+
+centration, the accepted biomarker of vegetable and fruit
+intake. The ﬁrst report [19] focused on 205 women who
+had a breast cancer event prior to June 2004 (average of
+5 years follow-up), and identiﬁed those in the lowest
+baseline tertile (compared to all others) of circulating
+carotenoid concentrations as having an approximate 40%
+increased risk. The second report [24] focused on over-
+all mortality and included follow-up through December
+2005. No association was found for energy from fat.
+Vegetable–fruit consumption and physical activity were
+weakly associated by themselves, but there was an inter-
+action between them with the combination of vegetable–
+fruit intake (at least 5 vegetables and fruits/day), and
+physical activity (equivalent
+to walking briskly for
+30 min, 6 days a week) reduced the risk of dying from
+breast cancer by half, regardless of weight, although fewer
+obese women were physically active with a healthy
+dietary pattern (16 versus 30%). The effect was stronger
+in women who had hormone receptor-positive cancers.
+
+Comparing Women’s Healthy Eating and Living and
+Women’s Intervention Nutrition Study randomized trials
+Both the Women’s Intervention Nutrition Study (WINS)
+and the WHEL Study randomized women who had been
+diagnosed with early stage breast cancer in the United
+States during the period from 1990 to 1999, before the
+widespread use of aromatase inhibitors. Both studies
+excluded stage I patients with <1 cm tumors, but there
+were three important differences in the eligibility criteria.
+The ﬁrst was age: WINS enrolled postmenopausal
+women aged 48–79 years at diagnosis, whereas WHEL
+enrolled women aged 18–70 years. However, to compare
+studies, it is possible to categorize WHEL participants by
+menopausal status (Table 1). Both the WHEL (n¼ 2448)
+and the WINS (n¼ 2437) studies had almost equiva-
+lently-sized populations of postmenopausal women.
+
+The second difference was the time between diagnosis
+and enrollment. WINS enrolled women within 1 year of
+diagnosis, whereas the WHEL Study enrolled women
+within 4 years of diagnosis (Table 1). Thus, the WHEL
+Study undersampled the population who would recur
+within 4 years of diagnosis and is really a study of breast
+cancer events between 2 and 10 years from diagnosis [25].
+WINS, on the contrary, is focused much more on breast
+cancer events within the ﬁrst 5 years from diagnosis.
+The third difference was that WINS excluded women
+with worse prognoses (based on tumor size and nodes),
+whereas WHEL postmenopausal women had more
+advanced cancer characteristics at diagnosis. Over half
+of WINS participants were stage I compared with just
+over a third of the WHEL sample, and 25% of WHEL
+women were stage IIB or IIIA, compared with only 10%
+of WINS. In both studies, about one-ﬁfth of postmeno-
+pausal women had estrogen receptor-negative tumors at
+diagnosis.
+
+Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
+
+88 Breast cancer
+
+Table 1 Cancer characteristics of Women’s Intervention Nutrition Study and Women’s Healthy Eating and Living Study populations
+
+WINS Study
+
+WHEL Study
+
+Postmenopausal
+
+Postmenopausal
+
+Premenopausal and
+
+perimenopausal
+
+Intervention
+N¼ 975
+
+Comparison
+N¼ 1462
+
+Intervention
+N¼ 1228
+
+Comparison
+N¼ 1220
+
+Intervention
+N¼ 309
+
+Comparison
+N¼ 331
+
+Time since diagnosis
+
+<1 year
+1–2 years
+2–3 years
+3–4 years
+
+Stage of initial cancer
+
+I
+IIA
+IIB
+IIIA
+
+Estrogen receptor status
+
+Positive, %
+Negative, %
+
+N, sample size.
+
+100%
+
+–
+–
+–
+
+54.5%
+32.0%
+10.5%
+
+79.0%
+21.0%
+
+100%
+
+–
+–
+–
+
+54.5%
+31.9%
+9.6%
+
+81.3%
+18.7%
+
+18.6
+33.1
+26.2
+22.1
+
+37.2
+37.8
+20.0
+5.1
+
+77.0
+21.7
+
+17.1
+33.4
+26.2
+23.2
+
+37.9
+37.9
+19.2
+5.1
+
+75.5
+24.3
+
+40.1
+26.2
+17.2
+16.5
+
+41.4
+35.0
+19.1
+4.5
+
+71.2
+27.8
+
+42.6
+30.2
+15.7
+11.5
+
+43.5
+36.9
+14.8
+4.8
+
+65.9
+32.0
+
+Despite the above differences in cancer characteristics,
+both studies recruited breast cancer survivors from similar
+populations. Socio-demographic characteristics of WINS
+and WHEL participants were markedly similar (Table 2)
+in terms of age (55 versus 58 years), race (85% were
+Caucasian) and education (almost 50% college gradu-
+ates). Approximately 27% of postmenopausal participants
+in both studies were obese, and the mean energy intake
+from fat was 29%.
+
+These WINS and WHEL comparisons include WHEL
+participants who were premenopausal and perimenopau-
+sal. These women were younger, more highly educated
+and less likely to be obese (Table 2). They were also
+more likely to be recruited in the ﬁrst year and more
+likely to be estrogen receptor negative (Table 1).
+
+intake [26] (Table 3). Although it appeared that this
+between-group difference was maintained through 5 years,
+the low response rate for dietary assessments makes this
+result questionable (year 3 response approximately 70%;
+year 5 response approximately 40%). In reporting a com-
+pleters-only analysis, the authors assumed that diets of the
+large proportion of nonrespondents were similar to the
+diets of the respondents – a very questionable assumption.
+Using a more conservative assumption (that nonrespon-
+dents didn’t lower their fat intake), an estimate of the
+between-group difference is approximately 6% at year 3
+and 3.5% at year 5. WINS also reported that the interven-
+tion group lost weight, resulting in a between-group
+difference of 2.3 kg in year 1 (conservative assump-
+tion¼ approximately 1.6 kg) to 2.7 kg in year 5 (conser-
+vative assumption¼ approximately 1.1 kg).
+
+The effect of the Women’s Intervention Nutrition Study
+intervention
+Both the WINS and the WHEL studies used sets of four
+24 h recalls to assess current dietary pattern at multiple
+points in time. The WINS intervention focused on redu-
+cing fat intake to 15% of energy. At 1 year, the intervention
+reported a 9% between-group difference in dietary fat
+
+The effect of the Women’s Healthy Eating and Living
+Study intervention
+The WHEL Study intervention encouraged women to
+adopt a daily dietary pattern including ﬁve vegetable
+servings, 16 oz of vegetable juice, three fruit servings,
+30 g of ﬁber and 20% energy from fat. Unlike WINS,
+there was only a small decline in completion rates for
+
+Table 2 Comparison of Women’s Intervention Nutrition Study and Women’s Healthy Eating and Living Study populations
+
+WINS Study
+
+WHEL Study
+
+Postmenopausal
+
+Postmenopausal
+
+Premenopausal and
+
+perimenopausal
+
+Intervention
+N¼ 975
+
+Comparison
+N¼ 1462
+
+Intervention
+N¼ 1228
+
+Comparison
+N¼ 1220
+
+Intervention
+N¼ 309
+
+Comparison
+N¼ 331
+
+Mean age, years (95% CI)
+Caucasian, %
+College graduate, %
+Obese (BMI >30), %
+Dietary energy from fat, %
+
+58.6 (44.4–72.8)
+
+58.5 (43.6–73.4)
+
+55 (40–70)
+
+55 (40–70)
+
+43 (32–54)
+
+42 (30–54)
+
+84.7
+48.3
+27.3
+29.6
+
+84.5
+50.1
+26.5
+29.6
+
+86.2
+54.7
+28.1
+28.4
+
+85.8
+49.8
+27.1
+28.6
+
+79.9
+58.6
+21.0
+29.0
+
+84.9
+64.4
+18.7
+29.0
+
+CI, conﬁdence interval; N, sample size.
+
+Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
+
+Diet and breast cancer prognosis Pierce 89
+
+Table 3 Change achieved by Women’s Intervention Nutrition Study intervention
+
+Baseline
+
+Year 1
+
+Year 3
+
+Year 5
+
+N (RR%)
+
+Intervention (I)
+Comparison (C)
+
+Energy from fat (%)
+Weight (kg)
+
+975 (100)
+1461 (100)
+
+I
+
+29.6
+72.7
+
+C
+
+29.6
+72.6
+
+840 (86)
+1328 (91)
+I-C Difference
+
+ 8.9
+ 2.3
+
+654 (67)
+1077 (74)
+ 9.0 (adj 6.0)
+
+ 1.8
+
+380 (39)
+648 (44)
+ 8.0 (adj 3.5)
+
+ 2.7
+
+adj, adjusted for large non-response; C, comparison; I, intervention; N, sample size; RR, response rate. Adapted with permission from [26].
+
+dietary assessment and 85% were assessed at year 6
+(Table 4). The study has presented dietary change data
+in two ways: using a completers-only analysis [24] as
+well as with the conservative assumption that nonrespon-
+ders did not change their dietary pattern [27].
+
+To compare dietary change with WINS, we present the
+completers-only data in Table 4 [24]. The intervention
+was associated with a between-group difference of 4.7
+vegetable–fruit servings/day at 1 year that decreased to 3
+servings/day by 6 years. The between-group difference
+for ﬁber consumption was 8 g/day at year 1, decreasing to
+5 g/day at year 6. The between-group difference in
+energy from fat was 5.7% at 1 year, decreasing to 3.5%
+at 6 years, similar to the conservative estimate of the
+WINS intervention effect. Body weight changed little
+over 6 years. The conservative analysis concluded that, at
+4 years, the relative between-group differences were 65%
+for vegetables (including juice), 25% for fruit, 30% for
+ﬁber and 13% for energy from fat.
+
+Study outcomes: Women’s Intervention Nutrition Study
+versus Women’s Healthy Eating and Living Study
+The WINS and the WHEL studies have reported con-
+ﬂicting results. WINS assessed the summary variable ‘any
+breast cancer event’ for their analysis and the 2.6%
+between-group difference was borderline signiﬁcant in
+the planned stratiﬁed log rank test (P¼ 0.077), although
+statistically signiﬁcant in the multivariate Cox model
+(P¼ 0.034) [26]. Further, an exploratory analysis suggested
+that the between-group differences in breast cancer events
+might be conﬁned to the 20% of the sample with initial
+tumors that were estrogen receptor negative; however, the
+interaction between dietary intervention and hormone
+receptor status was not statistically signiﬁcant.
+
+The WHEL Study [24] reported no between-group
+differences in either any breast cancer event [adjusted
+Hazard Ratio (HRadj)¼ 0.63] or in overall mortality
+(HRadj¼ 0.43). Additionally, for breast cancer events,
+the likelihood ratio tests for baseline dietary pattern by
+study group interaction were not signiﬁcant for veg-
+etable–fruit, ﬁber or energy from fat. However, for over-
+all mortality, the likelihood ratio test was signiﬁcant for
+quartiles of energy from fat (P¼ 0.04), although the effect
+seemed to be only in the second quartile of baseline
+energy from fat, and the intervention group difference
+was not in a protective direction. Further, hormone
+receptor status did not differ between groups (P¼ 0.85).
+
+Given the considerable similarities between these
+randomized trials, the marked difference in these ﬁndings
+requires further investigation. Table 5 presents details
+of the different study outcomes for postmenopausal
+women. As expected, from the initial cancer characteristics
+(Table 1) and the longer follow-up period, WHEL
+reported more study events than WINS (Table 5) and
+particularly more distal recurrences that Tang [28] has
+argued are the most important study outcomes for patients
+with a preexisting breast cancer diagnosis. The size of the
+between-group difference in these distal recurrences was
+not that different for both of these studies (WINS¼ 1.1,
+WHEL¼ 0.9).
+
+The difference in the studies occurred in the between-
+group differences in the proportion of women who had
+local recurrences and new primary breast cancer events
+(WINS¼ 1.3%, WHEL¼þ0.5%), and, in particular,
+the WINS group effect was among women who had a
+lumpectomy for their initial cancer and had an ipsilateral
+breast cancer recurrence during the follow-up period
+
+Table 4 Change achieved by Women’s Healthy Eating and Living Study intervention
+
+Baseline
+
+Year 1
+
+Year 3
+
+Year 5
+
+N (RR%)
+
+Intervention (I)
+Comparison (C)
+
+1537 (100)
+1551 (100)
+
+I
+
+Vegetable–fruit (serving/day)
+Fiber (g/day)
+Energy from fat (%)
+Weight (kg)
+C, comparison; I, intervention; N, sample size; RR, response rate. Adapted with permission from [24].
+
+7.4
+21.1
+28.5
+73.5
+
+C
+7.2
+21.2
+28.7
+73.3
+
+1463 (95)
+1484 (96)
+
+1355 (88)
+1363 (88)
+
+þ4.7
+þ8.0
+ 5.7
+ 0.8
+
+I-C Difference
+
+þ3.5
+þ5.9
+ 4.3
+þ0.1
+
+1308 (85)
+1313 (85)
+
+þ3.0
+þ5.3
+ 3.5
+þ0.4
+
+Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
+
+90 Breast cancer
+
+Table 5 Comparison of cancer outcomes in Women’s Intervention Nutrition Study and Women’s Healthy Eating and Living Study
+populations
+
+WINS Study
+
+Postmenopausal
+
+WHEL Study
+
+Postmenopausal
+
+Comparison
+N¼ 1462
+
+Intervention
+N¼ 975
+
+Difference
+
+Comparison
+N¼ 1220
+
+Intervention
+N¼ 1228
+
+Difference
+
+76 (5.2)
+12 (0.8)
+93 (6.4)
+
+181 (12.4)
+
+50 (3.4)
+19 (1.3)
+
+38 (3.9)
+6 (0.6)
+52 (5.3)
+96 (9.8)
+28 (2.9)
+15 (1.5)
+
+250 (17.1%)
+1212 (82.9%)
+
+139 (14.3%)
+836 (85.7%)
+
+ 1.3
+ 0.2
+ 1.1
+ 2.6
+ 0.5
+þ0.2
+ 2.8
+
+45 (3.7)
+8 (0.7)
+
+142 (11.6)
+195 (16.0)
+
+40 (4.1)
+21 (1.7)
+
+266 (21.8)
+954 (78.2)
+
+51 (4.2)
+7 (0.6)
+
+131 (10.7)
+189 (15.4)
+
+52 (4.3)
+25 (2.0)
+
+266 (21.7)
+962 (78.3)
+
+þ0.5
+ 0.1
+ 0.9
+ 0.6
+þ0.1
+þ0.3
+ 0.1
+
+Study events
+
+Local or new primary
+Regional
+Distal
+Any breast cancer event
+Additional primary cancer
+Death without breast cancer
+Any additional cancer or death
+Cancer-free survival
+
+N, sample size.
+
+(comparison¼ 2.1%; intervention¼ 1.1%). It is possible
+that the lack of a WHEL effect in this subpopulation of
+women reﬂected the fact that WHEL underestimated
+events in the ﬁrst few years from diagnosis. Another
+plausible explanation is that this ﬁnding is an artifact,
+particularly as the main hypothesis was only marginally
+statistically signiﬁcant.
+
+Women’s Healthy Eating and Living Study secondary
+analysis
+The initial WHEL Study protocol [25] postulated that
+diet could affect prognosis by reducing circulating estrogen
+concentrations. The study’s nested case–control analysis
+showed that women with higher circulating estradiol con-
+centrations at baseline were less likely to report hot ﬂashes
+at that time and more likely to have a secondary cancer
+event during the follow-up period [29]. In two separate
+studies, early stage breast cancer survivors who did not
+report hot ﬂashes shortly after treatment were approxi-
+mately 30% more likely to have additional breast cancer
+events [30,31]. Given that the WHEL Study intervention
+has been shown to reduce circulating estrogen concen-
+trations [32], the study undertook a secondary analysis to
+see whether an intervention effect may have been limited
+to this group of women who did not report hot ﬂashes at
+baseline [33].
+About one-third of WHEL participants (n¼ 900) were in
+the subgroup who did not report hot ﬂashes at baseline
+(no hot ﬂash subgroup) [24,33]. The intervention
+participants in this no hot ﬂash subgroup had a similarly
+large change in dietary pattern (vegetables, fruit, ﬁber
+and energy from fat) over the course of the study to that
+seen in the overall intervention group. Among the no hot
+ﬂash subgroup, 76.4% of the comparison group and 83.9%
+of the intervention group remained breast cancer free
+(P¼ 0.002). This effect was almost entirely restricted to
+the distal recurrence group (comparison¼ 15.9%, inter-
+vention¼ 9.4%), and the approximately 60% lower event
+rate in the intervention group was not explained by other
+
+variables in a series of sensitivity analyses [33]. This
+effect did not differ signiﬁcantly by hormone receptor
+status (P¼ 0.63).
+
+Conclusion
+The evidence from prospective observational studies is
+mixed particularly for vegetable–fruit–ﬁber consumption,
+though more consistently negative for fat consumption.
+Two randomized trials have been reported: WINS focused
+on the dietary fat hypothesis, whereas WHEL focused on a
+plant-based dietary pattern that included a reduction in
+dietary fat. WHEL reported that the comprehensive
+dietary change had no effect on prognosis, whereas WINS
+found a marginal positive effect from changing fat.
+
+This review compares postmenopausal participants from
+these studies, focusing on what might explain the differ-
+ent results. Both studies indicate that dietary pattern is
+not a strong ‘across the board’ predictor of prognosis.
+Each study suggests that the dietary pattern may be
+effective within a subgroup of people. Further investi-
+gation of subgroups is required, particularly focused on
+population evidence of the mechanism by which these
+dietary patterns may impact prognosis.
+
+Acknowledgements
+The author wishes to thank the WHEL Study Group for providing
+partitioned study data for use in this study. The author would also like to
+thank Sheila Kealey and Christine Hayes for assistance in
+manuscript preparation.
+
+References and recommended reading
+Papers of particular interest, published within the annual period of review, have
+been highlighted as:
+
+ of outstanding interest
+Additional references related to this topic can also be found in the Current
+World Literature section in this issue (p. 108).
+
+of special interest
+
+1
+
+Natarajan L, Flatt SW, Sun X, et al. Validity and systematic error in measuring
+carotenoid consumption with dietary self-report instruments. Am J Epidemiol
+2006; 163:770–778.
+
+Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+Bingham SA, Luben R, Welch A, et al. Are imprecise methods obscuring a
+relation between fat and breast cancer? Lancet 2003; 362:212–214.
+
+Freedman LS, Potischman N, Kipnis V, et al. A comparison of two dietary
+instruments for evaluating the fat-breast cancer relationship. Int J Epidemiol
+2006; 35:1011–1021.
+
+Toniolo P, Van Kappel AL, Akhmedkhanov A, et al. Serum carotenoids and
+breast cancer. Am J Epidemiol 2001; 153:1142–1147.
+
+Smith-Warner SA, Spiegelman D, Yaun SS, et al.
+fruits and
+vegetables and risk of breast cancer: a pooled analysis of cohort studies.
+JAMA 2001; 285:769–776.
+
+Intake of
+
+Rock CL, Demark-Wahnefried W. Nutrition and survival after the diagnosis
+of breast cancer: a review of the evidence. J Clin Oncol 2002; 20:3302–
+3316.
+
+Kellen E, Vansant G, Christiaens MR, et al. Lifestyle changes and breast
+cancer prognosis: a review. Breast Cancer Res Treat 2008 [Epub ahead of
+print].
+
+Pierce JP, Stefanick ML, Flatt SW, et al. Greater survival after breast cancer in
+physically active women with high vegetable-fruit intake regardless of obesity.
+J Clin Oncol 2007; 25:2345–2351.
+
+This paper is a prospective observational study highlighting the interaction
+between dietary pattern, physical activity and obesity as predictors of mortality.
+
+9
+
+Boyapati SM, Shu XO, Ruan ZX, et al. Soyfood intake and breast cancer
+survival: a followup of the Shanghai breast cancer study. Breast Cancer Res
+Treat 2005; 92:11–17.
+
+10 Holm LE, Nordevang E, Hjalmar ML, et al. Treatment failure and dietary habits
+
+in women with breast cancer. J Natl Cancer Inst 1993; 85:32–36.
+
+11 Zhang S, Folsom AR, Sellers TA, et al. Better breast cancer survival for
+postmenopausal women who are less overweight and eat less fat. The Iowa
+Women’s Health Study. Cancer 1995; 76:275–283.
+
+12 McEligot AJ, Largent J, Ziogas A, et al. Dietary fat, ﬁber, vegetable, and
+micronutrients are associated with overall survival in postmenopausal women
+diagnosed with breast cancer. Nutr Cancer 2006; 55:132–140.
+
+13 Hebert JR, Hurley TG, Ma Y. The effect of dietary exposures on recurrence
+and mortality in early stage breast cancer. Breast Cancer Res Treat 1998;
+51:17–28.
+
+14 Rohan TE, Hiller JE, McMichael AJ. Dietary factors and survival from breast
+
+cancer. Nutr Cancer 1993; 20:167–177.
+
+15 Holmes MD, Stampfer MJ, Colditz GA, et al. Dietary factors and the survival of
+
+women with breast carcinoma. Cancer 1999; 86:826–835.
+
+16 Kyogoku S, Hirohata T, Nomura Y, et al. Diet and prognosis of breast cancer.
+
+Nutr Cancer 1992; 17:271–277.
+
+17 Kroenke CH, Fung TT, Hu FB, Holmes MD. Dietary patterns and survival after
+
+breast cancer diagnosis. J Clin Oncol 2005; 23:9295–9303.
+
+18 Ingram D. Diet and subsequent survival in women with breast cancer. Br J
+
+Cancer 1994; 69:592–595.
+
+19 Rock CL, Flatt SW, Natarajan L, et al. Plasma carotenoids and recurrence-free
+in women with a history of breast cancer. J Clin Oncol 2005;
+
+survival
+23:6631–6638.
+
+20 Goodwin PJ, Ennis M, Pritchard KI, et al. Diet and breast cancer: evidence that
+extremes in diet are associated with poor survival. J Clin Oncol 2003;
+21:2500–2507.
+
+Diet and breast cancer prognosis Pierce 91
+
+21 Saxe GA, Rock CL, Wicha MS, Schottenfeld D. Diet and risk for breast
+cancer recurrence and survival. Breast Cancer Res Treat 1999; 53:241–
+253.
+
+22 Thomson CA, Flatt SW, Rock CL, et al. Increased fruit, vegetable and ﬁber
+intake and lower fat intake reported among women previously treated for
+invasive breast cancer. J Am Diet Assoc 2002; 102:801–808.
+
+23 Jain M, Miller AB, To T. Premorbid diet and the prognosis of women with
+
+breast cancer. J Natl Cancer Inst 1994; 86:1390–1397.
+
+24 Pierce JP, Natarajan L, Caan BJ, et al.
+
+Inﬂuence of a diet very high in
+vegetables, fruit, and ﬁber and low in fat on prognosis following treatment
+for breast cancer: the women’s healthy eating and living (WHEL) randomized
+trial. JAMA 2007; 298:289–298.
+
+This paper in a major general medical journal presents the results of the WHEL
+randomized trial (n¼ 3088) reporting both breast cancer-free survival and overall
+survival. Subgroup analyses are included for dietary pattern at the start of the trial. The
+trial had conﬁrmed health status at 96% of both study groups after trial completion.
+The Kaplan–Meier curves from randomized groups with major biomarker-validated
+differences in dietary pattern were superimposed for both recurrence and mortality.
+
+25 Pierce JP, Faerber S, Wright FA, et al. A randomized trial of the effect of a
+plant-based dietary pattern on additional breast cancer events and survival:
+the women’s healthy eating and living (WHEL) study. Control Clin Trials 2002;
+23:728–756.
+
+26 Chlebowski RT, Blackburn GL, Thomson CA, et al. Dietary fat reduction and
+breast cancer outcome: interim efﬁcacy results from the women’s intervention
+nutrition study. J Natl Cancer Inst 2006; 98:1767–1776.
+
+27 Pierce JP, Newman VA, Natarajan L, et al. Telephone counseling helps
+maintain long-term adherence to a high-vegetable dietary pattern. J Nutr
+2007; 137:2291–2296.
+
+28 Tang SC. Reducing the risk of distant metastases: a better end point in
+adjuvant aromatase inhibitor breast cancer trials? Cancer Invest 2008;
+26:481–490.
+
+29
+
+Rock CL, Flatt SW, Laughlin GA, et al. Reproductive steroid hormones and
+recurrence-free survival in women with a history of breast cancer. Cancer
+Epidemiol Biomarkers Prev 2008; 17:614–620.
+
+This study reports that circulating estrogens are a major predictor of which post-
+menopausal women will have an additional breast cancer event in the WHEL study.
+
+30
+
+ Mortimer JE, Flatt SW, Parker BA, et al. Tamoxifen, hot ﬂashes and recurrence
+
+in breast cancer. Breast Cancer Res Treat 2008; 108:421–426.
+
+This study is the ﬁrst one to identify that women who do not report hot ﬂashes after
+breast cancer treatment are at higher risk for early recurrence and death.
+
+31 Cuzick J. Hot ﬂushes and the risk of recurrence: retrospective, exploratory
+results from the ATAC trial. [SABC poster #2069] San Antonio Breast
+Cancer Symposium; December 2007.
+
+32 Rock CL, Flatt SW, Thomson CA, et al. Effects of a high-ﬁber, low-fat diet
+intervention on serum concentrations of reproductive steroid hormones in
+women with a history of breast cancer. J Clin Oncol 2004; 22:2379–2387.
+
+33 Gold EB, Pierce JP, Natarajan L, et al. A high vegetable, fruit, and ﬁber dietary
+
+pattern may inﬂuence breast cancer prognosis in women without hot ﬂashes:
+a secondary analysis from the Women’s Healthy Eating and Living (WHEL)
+Study. J Clin Oncol (in press).
+
+This paper presents the WHEL study data by hot ﬂash status, and demonstrated
+that there was a major reduction in risk of distal events in the intervention group for
+those who did not have hot ﬂashes at baseline (and hence were at increased risk).
+Numerous sensitivity analyses demonstrated the robustness of this ﬁnding.
+
+Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
+
+

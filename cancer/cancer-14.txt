@@ -1,0 +1,6226 @@
+ ARTICLES 
+
+ Dietary  Fat  Reduction  and  Breast  Cancer  Outcome:  Interim 
+Efﬁ cacy  Results  From  the Women’s  Intervention  Nutrition  Study 
+   Rowan T.     Chlebowski   ,    George L.     Blackburn   ,    Cynthia A.     Thomson   ,    Daniel W.     Nixon   , 
+   Alice     Shapiro   ,    M. Katherine     Hoy   ,    Marc T.     Goodman   ,    Armando E.     Giuliano   ,    Njeri   
+  Karanja   ,    Philomena     McAndrew   ,    Clifford     Hudis   ,    John     Butler   ,    Douglas     Merkel   ,    Alan   
+  Kristal   ,    Bette     Caan   ,    Richard     Michaelson   ,    Vincent     Vinciguerra   ,    Salvatore     Del Prete   , 
+   Marion     Winkler   ,    Rayna     Hall   ,    Michael     Simon   ,    Barbara L.     Winters   ,    Robert M.     Elashoff   
+
+                       Background:   Preclinical and observational studies suggest a 
+relationship between dietary fat intake and breast cancer, 
+but the association remains controversial. We carried out a 
+randomized,  prospective,  multicenter  clinical  trial  to  test 
+the  effect  of  a  dietary  intervention  designed  to  reduce  fat 
+intake  in  women  with  resected,  early-stage  breast  cancer 
+receiving  conventional  cancer  management.    Methods:    A 
+total  of  2437  women  were  randomly  assigned  between 
+February  1994  and  January  2001  in  a  ratio  of  40  :  60  to 
+dietary intervention (n = 975) or control (n = 1462) groups. 
+An interim analysis was performed after a median follow-
+up of 60 months when funding for the intervention ceased. 
+Mean differences between dietary intervention and control 
+groups  in  nutrient  intakes  and  anthropometric  variables 
+were compared with   t   tests. Relapse-free survival was exam-
+ined using Kaplan – Meier analysis, stratiﬁ ed log-rank tests, 
+and Cox proportional hazards models. Statistical tests were 
+two-sided.   Results:   Dietary fat intake was lower in the inter-
+vention  than  in  the  control  group  (fat  grams/day  at  12 
+months, 33.3 [95% conﬁ dence interval {CI} = 32.2 to 34.5] 
+versus 51.3 [95% CI = 50.0 to 52.7], respectively;   P  <.001), 
+corresponding  to  a  statistically  signiﬁ cant  (  P    =  .005), 
+6-pound lower mean body weight in the intervention group. 
+A total of 277 relapse events (local, regional, distant, or ipsi-
+lateral breast cancer recurrence or new contralateral breast 
+cancer) have been reported in 96 of 975 (9.8%) women in 
+the  dietary  group  and  181  of  1462  (12.4%)  women  in  the 
+control  group.  The  hazard  ratio  of  relapse  events  in  the 
+intervention  group  compared  with  the  control  group  was 
+0.76 (95% CI = 0.60 to 0.98,   P   = .077 for stratiﬁ ed log rank 
+and   P   = .034 for adjusted Cox model analysis). Exploratory 
+analyses suggested a differential effect of the dietary inter-
+vention based on hormonal receptor status.   Conclusions:   A 
+lifestyle intervention reducing dietary fat intake, with mod-
+est inﬂ uence on body weight, may improve relapse-free sur-
+vival of breast cancer patients re ceiving conventional cancer 
+management.  Longer,  ongoing  nonintervention  follow-up 
+will address original protocol design plans, which called for 
+3 years of follow-up after completion of recruitment.   [J Natl 
+Cancer Inst 2006;98: 1767  –  76 ]   
+
+  The  question  of  the  inﬂ uence  of  dietary  fat  on  breast 
+cancer has been controversial. Whereas preclinical and human 
+
+ecologic studies have suggested an association of higher di-
+etary  fat  intake  with  breast  cancer  risk   ( 1 , 2 ) ,  cohort  studies 
+have reported less consistent effects  ( 3  –  5 ) . Similarly, observa-
+tional studies of dietary fat inﬂ uence on breast cancer recur-
+rence have had mixed results  ( 6 , 7 ) , with some suggesting that 
+higher fat intake is associated with higher risk of recurrence, 
+especially in postmenopausal women  ( 8  –  10 ) . The varying as-
+sociations may be due to the modest range of fat intake seen 
+and the difﬁ culty in accurately measuring fat intake with cur-
+rent methods  ( 11 , 12 ) . 
+
+ Feasibility trials have demonstrated that dietary fat reduction 
+can  be  achieved  within  the  context  of  standard  multimodality 
+breast  cancer  management  (  13 , 14  ). The Women’s  Intervention 
+Nutrition Study (WINS) was subsequently designed to test the 
+hypothesis  that  a  dietary  intervention  targeting  fat  intake 
+
+    Afﬁ liations  of  authors:   Department  of  Medicine,  Los  Angeles  Biomedical 
+Research Institute at Harbor-UCLA Medical Center, Torrance, CA (RTC); Department 
+of  Nutrition,  Beth  Israel  Deaconess  Hospital,  Boston,  MA  (GLB);  Department 
+of  Family  and  Community  Medicine,  University  of Arizona, Tucson, AZ  (CAT); 
+Department  of  Medicine,  Cancer  Prevention  Institute,  New  York,  NY  (DWN, 
+MKH); Department of Oncology Research, Park Nicollet Institute, Minneapolis, 
+MN (AS); Department of Public Health Sciences and Epidemiology, University 
+of Hawaii at Manoa, Honolulu, HI (MTG); Department of Surgery, John Wayne 
+Cancer Institute, Los Angeles, CA (AEG); Science Programs Department, Kai-
+ser Permanente Center for Health Research, Portland, OR (NK); Department of 
+Hematology  and  Oncology,  Tower  Hematology  and  Oncology  Medical  Group, 
+Beverly Hills, CA (PM); Department of Medicine, Memorial Sloan-Kettering Can-
+cer Center, New York, NY (CH); Department of Surgical Oncology, University of 
+California, Irvine, CA (JB); Department of Medical Oncology, Evanston Hospital, 
+Kellogg Cancer Care Center, Evanston, IL (DM); Department of Epidemiology, 
+Fred Hutchinson Cancer Research Center, Seatle, WA (AK); Division of Research, 
+Kaiser Permanente Medical Group, Oakland, CA (BC); Department of Radia-
+tion  Oncology,  St.  Barnabas  Medical  Center,  Livingston,  NJ  (RM);  Don  Monti 
+Division of Medical Oncology, North Shore University Hospital, Manhasset, NY 
+(VV); Division of Hematology and Oncology, Bennett Cancer Center, Stamford, CT 
+(SDP); Division of Surgical Research, Rhode Island Hospital, Providence, RI (MW); 
+Division  of  Medical  Oncology  and  Hematology,  Medical  University  of  South 
+Carolina, Charleston, SC (RH); Division of Medical Oncology and Hematology, 
+Wayne State University, Detroit, MI (MS); Campbell’s Soup Co., Camden, NJ (BLW); 
+Department of Biomathematics, University of California, Los Angeles, CA (RME). 
+  Correspondence  to  :   Rowan  T.  Chlebowski,  MD,  PhD,  Divisions  of  Med-
+ical Oncology and Hematology, Los Angeles Biomedical Research Institute at 
+Harbor-UCLA Medical Center, 1124 West Carson St., Building J-3, Torrance, CA 
+90502-2064 (e-mail:  rchlebow@whi.org ). 
+
+   See   “ Notes ”  following  “ References. ”   
+
+  DOI: 10.1093/jnci/djj494  
+  © The Author 2006. Published by Oxford University Press. All rights reserved. 
+For Permissions, please e-mail: journals.permissions@oxfordjournals.org.  
+
+Journal of the National Cancer Institute, Vol. 98, No. 24, December 20, 2006 
+
+ARTICLES  1767
+
+Downloaded from https://academic.oup.com/jnci/article-abstract/98/24/1767/2521940
+by University of Ottawa user
+on 11 June 2018
+
+reduction would prolong relapse-free survival in women with re-
+sected breast cancer. 
+
+  P ATIENTS  AND  M ETHODS  
+
+  Study Overview 
+
+ In this phase III multicenter randomized trial, the effect on 
+relapse of a dietary intervention designed to reduce fat intake 
+was compared with that of a control condition with minimal 
+ dietary counseling in women with early-stage, resected breast 
+cancer receiving conventional cancer management. Patients in 
+this  study  were  accrued  in  approximately  7  years,  between 
+February  1994  and  January  2001.  This  report  represents  an 
+interim analysis after a median of 60 months of follow-up. The 
+WINS trial protocol is available online as supplementary data 
+at    http://jncicancerspectrum.oxfordjournals.org/jnci/content/
+vol98/issue24  .  
+
+  Study Population 
+
+ Women  were  recruited  from  39  clinical  centers.  Eligibility 
+criteria  included  histologically  conﬁ rmed,  resected,  unilateral 
+invasive breast carcinoma; lymph node evaluation; age between 
+48 and 79 years; life expectancy of at least 10 years excluding 
+the cancer diagnosis; acceptable adjuvant systemic therapy (see 
+below);  at  least  20%  of  calories  obtained  from  fat;  medically 
+able to accept either randomization assignment; and trial entry 
+within 365 days of surgery. Exclusion criteria included inﬂ am-
+matory carcinoma; chest wall or skin involved; tumor size less 
+than 1 cm with negative nodes; tumor size greater than 5 cm with 
+positive nodes; 10 or more nodes positive; preoperative chemo-
+therapy; or any previous neoplasm other than carcinoma in situ 
+of the cervix or basal cell skin carcinoma. Eligibility was con-
+ﬁ rmed by central review of medical records and pathology re-
+ports.  The  Institutional  Review  Board  of  each  participating 
+institution approved the study protocol. All patients gave written 
+informed consent.  
+
+  Standard Breast Cancer Management 
+
+ Standard  breast  cancer  management  was  protocol  de  ﬁ ned, 
+including adequate surgery and radiotherapy. Estrogen receptor 
+(ER)  and  progesterone  receptor  (PgR)  status  (positive  or 
+negative) was deﬁ ned by local laboratory standards. Women with 
+ER-positive  tumors  received  tamoxifen  (20  mg  per  day)  for  5 
+years. Chemotherapy with a protocol-approved regimen (adria-
+mycin plus cyclophosphamide; cyclophosphamide plus metho-
+trexate  plus  5-ﬂ uorouracil  in  two  schedules;  5-ﬂ uorouracil 
+plus  adriamycin  plus  cyclophosphamide  in  two  schedules  [5-
+ ﬂ uoruracil – adriamycin – cyclophosphamide or cyclophosphamide
+ – adriamycin – fluorouracil]; or adriamycin – cyclophosphamide 
+followed by paclitaxel) was required for women with ER- negative 
+tumors  and  optional  for  those  with  ER-positive  tumors. As  an 
+eligibility  criterion,  chemotherapy  had  to  be  initiated  within  4 
+months  after  diagnosis  for  women  given  chemotherapy,  and 
+tamoxifen had to be initiated within 6 months after diagnosis for 
+those  given  only  tamoxifen.  Recommended  drug  dosages  and 
+schedules paralleled those in use by cooperative group trials at 
+the time  ( 15  –  17 ).   
+
+  Randomization 
+
+ Adaptive randomization was carried out at the Statistical Co-
+ordinating Unit of the WINS study using a random stratiﬁ ed per-
+muted block design. The trial was designed with an unbalanced 
+randomization (60% control subjects, 40% dietary intervention 
+subjects) to facilitate resource allocation to the dietary interven-
+tion. Women  were  initially  stratiﬁ ed  according  to  lymph  node 
+status  (negative  or  positive)  and  systemic  adjuvant  therapy 
+ received  (tamoxifen  alone,  tamoxifen  plus  chemotherapy,  or 
+ chemotherapy  alone). An  additional  stratum  for  sentinel  node 
+evaluation (yes or no) was introduced in 1999 to reﬂ ect clinical 
+practice trends.  
+
+  Dietary Intervention and Study Assessments 
+
+ The goal of the dietary intervention was to reduce percentage 
+of  calories  from  fat  to  15%  while  maintaining  nutritional 
+adequacy. Feasibility studies had indicated that this goal would 
+result in a sustained reduction in fat intake to approximately 20% 
+of calories  ( 14 ) , which was the basis for the sample size calcula-
+tion.  Women  in  the  dietary  intervention  group  were  given  an 
+individual fat gram goal and counseled by registered dieticians 
+who  implemented  a  previously  developed  low-fat  eating  plan 
+ ( 14  –  18 ) .  Study  dieticians  were  trained  centrally  on  diet  inter-
+vention and dietary and anthropometric data collection. Training 
+continued with annual workshops incorporating training on mo-
+tivational interviewing and with monthly conference calls. 
+
+ The low-fat eating plan, which was based on nutritional and 
+behavioral science principles  ( 18 ) , incorporated social cognitive 
+theory and included self-monitoring (fat gram counting and re-
+cording), goal setting, modeling, social support, and relapse pre-
+vention and management. Individual fat gram goals were based 
+on energy intake needed to maintain weight, and no counseling 
+on weight reduction was provided. The low-fat eating plan was 
+initiated during eight biweekly individual, in-person counseling 
+sessions, each lasting approximately 1 hour. Subsequent dietician 
+contacts (visits or calls) occurred every 3 months, with available, 
+optional monthly dietary group sessions. Women in the dietary 
+intervention group were instructed to keep a written record of 
+their fat gram intake daily throughout the trial using a previously 
+developed  “ keeping score ”  book  ( 18 ) . Control subjects had one 
+baseline  dietician  visit  and  contacts  with  a  dietician  every  3 
+months  subsequently.  They  received  written  information  on 
+general  dietary  guidelines  and  were  counseled  on  nutritional 
+adequacy for vitamin and mineral intake only. 
+
+ Questionnaires administered at baseline were used to collect 
+information on demographic characteristics; medical, reproduc-
+tive,  and  family  history;  personal  habits  such  as  smoking  and 
+alcohol use; prior use of menopausal hormone therapy and oral 
+contraceptives;  and  current  use  of  medications  and  dietary 
+supplements. Weight and height were measured at baseline and 
+annually using standardized techniques on calibrated scales/stadi-
+ometer  ( 19 ) . Body mass index (BMI) was calculated as weight (in 
+kilograms) divided by height (in meters) squared. 
+
+ Unannounced telephone calls were used to estimate dietary 
+intakes. Trained interviewers who were blinded to randomization 
+status collected dietary information; the information was entered 
+into the Nutrition Data System for Research interactive software 
+as  previously  described   ( 18 ) .  A  multilayered  quality  control 
+process was used to maintain nutrition data quality  ( 20 ) . Data on 
+
+1768  ARTICLES 
+
+Journal of the National Cancer Institute, Vol. 98, No. 24, December 20, 2006
+
+Downloaded from https://academic.oup.com/jnci/article-abstract/98/24/1767/2521940
+by University of Ottawa user
+on 11 June 2018
+
+dietary  intakes  from  three  follow-up  calls  (including  one  on  a 
+weekend day) were collected over 2 weeks for eligibility deter-
+mination regarding dietary fat intake. Two additional follow-up 
+calls (including one on a weekend day) were made annually to 
+collect updated data on dietary intakes for all women. 
+
+ Recurrence  information  was  solicited  during  the  every-3-
+month dietician contacts. Recurrences were conﬁ rmed initially 
+by medical record and pathology report review by the clinical 
+director  (RTC)  and  subsequently  by  the  WINS  Pathology 
+ Committee, both of whom were blinded to random assignment.  
+
+  Outcome Deﬁ nitions 
+
+ The primary study endpoint was relapse-free survival, deﬁ ned 
+as the time from random assignment to breast cancer recurrence 
+at any site. Relapse events included local, regional, and distant 
+recurrence; ipsilateral breast recurrence after lumpectomy; and 
+contralateral breast cancer. Overall survival, deﬁ ned as the time 
+from randomization to death from any cause, was a secondary 
+endpoint. For comparability to other adjuvant trials  ( 15 , 21  –  24 ) , 
+disease-free  survival  and  recurrence-free  survival  were  also 
+examined. Disease-free survival events included any secondary 
+invasive  cancers,  excluding  basal  and  squamous  skin  cancers, 
+and  death  without  breast  cancer  recurrence.  Recurrence-free 
+survival  events  included  local,  regional,  distant,  or  ipsilateral 
+breast  recurrence  after  lumpectomy  but  excluded  contralateral 
+breast cancer. Breast cancer size and nodal status were used to 
+calculate tumor size – node – metastasis stage  ( 25 )  at baseline.  
+
+  Termination of the Dietary Intervention 
+
+ WINS  was  supported  by  a  multicenter  RO1  grant  from  the 
+National Cancer Institute, with continued funding dependent on 
+ongoing  peer  review.  Funding  for  the  clinical  centers  and  the 
+active dietary intervention ended in May 2004, even though the 
+protocol-deﬁ ned follow-up period had not been completed and 
+even  though  secular  trends  in  therapy  had  reduced  recurrence 
+events compared with the number of events projected at the time 
+the study was designed. The WINS External Advisory Commit-
+tee reviewed results of the last (November 2003) interim analysis 
+(which incorporated nutrient data through August 31, 2003, and 
+all  available  efﬁ cacy  data  through  October  31,  2003),  after  a 
+median  follow-up  of  60  months.  Based  on  the  change  in  trial 
+status,  both  the  WINS  External  Advisory  Committee  and  the 
+WINS  Executive  Committee  supported  reporting  the  available 
+results but recognized the need for additional follow-up. These 
+results were presented at the American Society of Clinical Oncol-
+ogy annual meeting  ( 26 )  on May 17, 2005, and were provided to 
+study participants by mail. This interim efﬁ cacy report provides 
+details of that dataset. The protocol design called for 3 years of 
+follow-up after completion of recruitment through January 2004. 
+Currently  ongoing  nonintervention  follow-up  will  address  the 
+original design plans.  
+
+  Statistical Analysis 
+
+ Sample size was based on a model that generated power esti-
+mates via simulation. Using published information from cooper-
+ative group trials involving tamoxifen  ( 27 , 28  ), we calculated a 
+total sample size of 2502 under assumptions of 6 years of ac-
+crual,  3  years  of  follow-up  after  completion  of  accrual,  and  a 
+
+7.5% increase in relapse-free survival with a drop-in (deﬁ ned as 
+control group women with intake <20% of calories from fat at 
+any interval while on study) rate of 10% and a drop-out rate of 
+30% for 84% power at a two-sided alpha level of .05. 
+
+ The primary efﬁ cacy analysis was a stratiﬁ ed log-rank test. 
+Exploratory  Cox  proportional  hazards  models  for  relapse-free 
+survival  were  investigated,  as  were  various  Cox  models  for 
+prognostic  factors  in  addition  to  those  used  in  the  stratiﬁ ed 
+randomization. The ﬁ nal Cox model included randomized group, 
+stratiﬁ cation  factors  (ER  status  [positive  versus  negative]  and 
+tumor size [<2 versus  ≥ 2 cm]), and surgery type (mastectomy 
+versus  lumpectomy)  based  on  their  established  inﬂ uences  on 
+breast cancer outcomes. The cumulative incidence method was 
+applied for Cox model analyses. Model assessment suggested a 
+reasonable data ﬁ t. The assumption of proportionality for Cox 
+models was veriﬁ ed by graphical and numerical methods of Lin 
+et al.  ( 29 ) . The  P  value for the Kolmogorov-type supremum test 
+(for group) based on 1000 simulations was 0.5170, supporting 
+the proportional hazards assumptions. 
+
+ Analyses included all randomly assigned patients, following 
+the intent-to-treat paradigm. All  P  values were derived from a 
+two-sided  test  for  signiﬁ cance.  The  95%  conﬁ dence  interval 
+(CI) for the hazard ratio (HR) was obtained for each term in the 
+ﬁ nal Cox model, with particular attention to the interaction be-
+tween treatment and other factors in the model. The  P  values and 
+conﬁ dence intervals are exploratory. Five protocol-planned in-
+terim  analyses  were  carried  out  between  February  2000  and 
+November 2003. The Haybitle – Peto approach to the  α -spending 
+function  was  used  to  account  for  interim  analyses   ( 30 ) .  The 
+Kaplan – Meier method was used to calculate probability estimates 
+for  relapse-free  and  overall  survival.  In  exploratory  analyses, 
+which were not deﬁ ned prospectively, dietary effects on relapse-
+free survival in subgroups based on BMI, hormone receptor sta-
+tus, and nodal status were examined using the Cox model. Tests 
+for interaction used Cox models and a likelihood ratio test. Dif-
+ferences in baseline variables between and within groups were 
+analyzed using  t  tests or paired  t  tests or the appropriate tests 
+with categorical variables. The  t  tests were performed to com-
+pare  differences  in  the  nutrient  intakes  and  anthropometric 
+variables, and corresponding 95% conﬁ dence intervals are reported.   
+
+  R ESULTS  
+
+ A  total  of  2437  apparently  eligible  women  were  randomly 
+ assigned, 975 to the dietary intervention group and 1462 to the 
+control  group  ( Fig.  1 ).  Thirty-four  women  (12  in  the  dietary 
+group and 22 in the control group) were subsequently found to 
+be ineligible, most commonly based on a longer interval from 
+diagnosis and/or use of other chemotherapy (n = 10), pagetoid 
+nipple  involvement  (n  =  9),  or  size  or  margin  issues  (n  =  5). 
+However, all randomly assigned patients are included in the pre-
+sented analyses.     
+
+ The  characteristics  of  the  participants  were  well  balanced 
+across the two groups ( Table 1 ). The characteristics of the breast 
+cancers  of  study  participants  and  the  therapy  given  for  these 
+cancers by treatment group are provided in  Table 2 . Breast can-
+cer characteristics were closely comparable in the two groups. 
+Breast cancer therapy was also closely comparable in the two 
+groups, except for the type of primary surgery. More women in 
+the dietary intervention compared to control group had mastec-
+tomy rather than breast-conserving therapy ( P  = .004).         
+
+Journal of the National Cancer Institute, Vol. 98, No. 24, December 20, 2006 
+
+ARTICLES  1769
+
+Downloaded from https://academic.oup.com/jnci/article-abstract/98/24/1767/2521940
+by University of Ottawa user
+on 11 June 2018
+
+   Fig.  1.    CONSORT  trial  ﬂ ow  diagram.  Detailed  reasons 
+for  not  completing  study  were  as  follows.  Not  receiving 
+intervention, intervention group: lost interest in study (n = 4), 
+personal – family problem (n = 2), did not like low-fat eating 
+plan (n = 1). Not receiving intervention, control group: lost 
+interest in study (n = 2), did not like control group allocation 
+(n  =  3).  Lost  to  follow-up,  intervention  group:  unable  to 
+contact participant (n = 24), not interested in study (n = 3), 
+personal – family problem (n = 2), did not like low-fat eating 
+plan  (n  =  3),  medical  problem  (n  =  3),  time  commitment 
+(n = 2), 5 years was enough (n = 2), moved (n = 1), refused 
+to be contacted (n = 4), unknown (n = 1). Lost to follow-
+up,  control  group:  unable  to  contact  participant  (n  =  39), 
+not  interested  in  study  (n  =  5),  personal – family  problem 
+(n = 2), did not like control group (n = 2), medical problem 
+(n = 2), time commitment (n = 2), 5 years was enough (n = 2), 
+moved (n = 2), refused to be contacted (n = 6), unknown 
+(n  =  4).  Discontinued  study,  intervention  group:  unable 
+to contact the participant (n = 49), not interested in study 
+(n  =  15),  personal – family  problem  (n  =  26),  did  not  like 
+low-fat  eating  plan  (n  =  21),  medical  problem  (n  =  12), 
+time commitment (n = 10), 5 years was enough (n = 23), 
+moved (n = 7), refused to be contacted (n = 3), unknown 
+(n = 4). Discontinued study, control group: unable to contact 
+the  participant  (n  =  51),  not  interested  in  study  (n  =  7), 
+personal – family problem (n = 6), did not like control group 
+(n = 1), medical problem (n = 3), time commitment (n = 5), 
+5 years was enough (n = 15), moved (n = 3), refused to be 
+contacted (n = 8), unknown (n = 7).   
+
+t
+n
+e
+m
+
+l
+l
+o
+r
+n
+E
+
+n
+o
+i
+t
+a
+c
+o
+l
+l
+
+A
+
+p
+u
+-
+w
+o
+l
+l
+o
+F
+
+s
+i
+s
+y
+l
+a
+n
+A
+
+Assessed for eligibility
+
+(n=68325)
+
+Excluded (n=65888) 
+
+Not meeting inclusion
+criteria (n=62859) 
+Declined participation
+(n=3029)
+
+Randomly assigned (n=2437) 
+
+Allocated to Dietary Intervention (n=975) 
+
+Allocated to Control (n=1462)
+
+Received allocated intervention
+(n=968)
+Did not receive intervention (n=7) 
+
+Received allocated intervention
+(n=1457)
+Did not receive intervention (n=5)
+
+Lost to follow-up (n=45)
+Discontinued intervention (n=170)
+
+Lost to follow-up (n=66)
+Discontinued intervention (n=106)
+
+Analyzed (n=975)
+
+Analyzed (n=1462)
+
+ As of October 31, 2003, 95% of the women in the dietary in-
+tervention group and 94% of those in the control group were be-
+ing  followed  as  part  of  the  study  or  had  experienced  a  study 
+event, with 84% of women in the dietary intervention group and 
+89% of those in the control group contacted within 12 months of 
+October  31,  2003  ( Fig.  1 ).  The  median  interval  between  last 
+contact and the analysis closeout date was 2.6 months for women 
+in the  dietary intervention group and 3.1 months for those in the 
+control group. 
+
+and supplement use. No adverse events were associated with 
+the dietary intervention.     
+
+ Body  weight  was  not  an  intervention  target.  However, 
+there was a modest but statistically signiﬁ cant ( P  = .005) weight 
+difference  of  about  6  pounds  between  groups,  with  dietary 
+ intervention women weighing less through 5 years of observa-
+tion. Changes in BMI in both groups reﬂ ect the weight changes 
+observed ( Table 3 ).  
+
+  Adherence to Dietary Intervention 
+
+  Efﬁ cacy 
+
+ The  dietary  intervention  adherence  results  are  based  on 
+telephone  follow-up  calls. The  reported  dietary  intake  differ-
+ences by randomization group over time are outlined in  Table 3 . 
+In all, 80% of women provided dietary data for at least three 
+time periods after baseline. After 1 year, mean daily fat gram 
+intake was slightly reduced in the control group (from 56.3 g at 
+baseline  to  51.3  g  at  12  months,  mean  difference  =   − 5.09  g, 
+95% CI =  − 6.5 to  − 3.7,  P <.0001) but was reduced to a statisti-
+cally  signiﬁ cantly  greater  extent  in  the  dietary  intervention 
+group (from 57.3 g at baseline to 33.3 g at 12 months, mean 
+difference  =   − 24.4  g,  95%  CI  =   − 26.1  to   − 22.6,   P <.0001; 
+ P <.001 comparing the mean difference between groups). The 
+difference in fat gram intake was maintained through 5 years 
+(difference in fat grams per day in dietary versus control groups 
+of  − 18.0 g [95% CI =  − 19.9 to  − 16.1] at 12 months and  − 19.0 g 
+[95% CI =  − 22.1 to  − 16.0] at 60 months [both  P <.0001]). Sim-
+ilar differences were seen for all fat categories and in percent-
+age  of  calories  from  fat  ( Table  3 ).  In  addition,  energy  intake 
+was somewhat lower and ﬁ ber intake slightly higher in inter-
+vention  group  participants  ( Table  3 ).  Nutrient  adequacy  was 
+maintained  in  both  groups,  with  the  exception  of  calcium, 
+ vitamin  D,  and  vitamin  E,  for  which  intakes  were  somewhat 
+below recommended levels at baseline and throughout the trial 
+in both groups, a situation that was addressed with counseling 
+
+ After  a  median  of  60  months,  277  relapse-free  survival 
+events  and  389  disease-free  survival  events  were  reported 
+( Table 4 ). Recurrence events were conﬁ rmed by central review 
+in  99.5%  of  cases.  For  relapse-free  survival — the  primary 
+ endpoint — the hazard ratio of an event in the dietary interven-
+tion compared with the control group was 0.76 (95% CI = 0.60 
+to 0.98) ( Fig. 2 ,  P  = .077 for stratiﬁ ed log rank and  P  = .034 for 
+adjusted  Cox  model  analysis).  For  recurrence-free  survival 
+(i.e., excluding contralateral breast cancers), the HR was 0.71 
+(95% CI = 0.53 to 0.94; stratiﬁ ed log rank  P  = .050). For dis-
+ease-free survival, the HR was 0.81 (95% CI = 0.65 to 0.99; 
+stratiﬁ ed log rank  P  = .078). There was no difference in overall 
+survival comparing women receiving the dietary intervention 
+with control group women (HR = 0.89; 95% CI = 0.65 to 1.21; 
+stratiﬁ ed log rank  P  = .56). Based on the effects on the pri -
+mary endpoint, 38 women would need to adopt a lifestyle inter-
+vention  reducing  dietary  fat  intake  to  prevent  one  additional 
+breast cancer recurrence.             
+
+ Dietary  intervention  effects  were  examined  based  on  BMI, 
+hormone  receptor,  and  nodal  status  in  subgroup  analyses  by 
+using  adjusted  Cox  model. A  total  of  eight  subgroup  analyses 
+were performed, and none of the interactions tested were statisti-
+cally signiﬁ cant. However, the dietary intervention had a greater 
+effect  on  relapse-free  survival  in  women  with  ER-negative 
+
+1770  ARTICLES 
+
+Journal of the National Cancer Institute, Vol. 98, No. 24, December 20, 2006
+
+Downloaded from https://academic.oup.com/jnci/article-abstract/98/24/1767/2521940
+by University of Ottawa user
+on 11 June 2018
+
+  Table 1.        Characteristics of participants at baseline by intervention group *   
+
+Characteristic
+
+ Unknown
+
+ <26
+ 26 – 29
+
+ None
+ Some
+ Unknown
+
+ Never
+ Past
+ Current
+ Unknown
+
+ Less than high school
+ More than high school
+ College degree
+ Graduate school
+ Unknown
+
+ White
+ Black
+ Hispanics
+ Asian or Paciﬁ c Islander
+ American Indian
+ Unknown
+
+Age (y), mean (95% CI)
+Race or ethnic group, No. (%)
+   
+   
+   
+   
+   
+   
+Education, No. (%)
+   
+   
+   
+   
+   
+Current alcohol use, No. (%)
+   
+   
+   
+Smoking status, No. (%)
+   
+   
+   
+   
+BMI (kg/m 2 ), No. (%)
+   
+   
+    ≥ 30
+   
+Waist circumference (cm)
+   
+   
+   
+   
+Diabetes, No. (%)
+   
+   
+   
+Daily dietary intake  †  
+   
+   
+   
+First degree family history of breast 
+ 
+   
+   
+   
+Prior bilateral 
+ 
+   
+   
+   
+Prior menopausal 
+ 
+   
+   
+   
+
+  hormone therapy, No. (%)
+ None
+ Yes
+ Unknown
+
+  oophorectomy, No. (%)
+ Yes
+ No
+ Unknown
+
+ Kcal, mean (SD)
+ Fat (g/d), mean (SD)
+ Fat, % of caloric intake (SD)
+
+  cancer, No. (%)
+ No
+ Yes
+ Unknown
+
+ Mean (SD)
+ ≤88, No. (%)
+ >88, No. (%)
+ Unknown
+
+ Yes
+ No
+ Unknown
+
+Dietary intervention 
+
+(N = 975)
+
+Control 
+(N = 1462)
+
+58.6 (44.4 to 72.8)
+
+58.5 (43.6 to 73.4)
+
+826 (84.7)
+52 (5.3)
+37 (3.8)
+58 (4.0)
+1 (0.1)
+1 (0.1)
+
+21 (2.6)
+326 (33.6)
+232 (23.9)
+236 (24.4)
+160
+
+292 (30.1)
+677 (69.9)
+
+6
+
+483 (49.9)
+428 (44.2)
+57 (5.9)
+7
+
+440 (46.0)
+256 (26.8)
+261 (27.3)
+18
+
+87.36 (14.2)
+562 (59.7)
+379 (40.3)
+34
+
+28 (5.4)
+512 (94.6)
+435
+
+1667.3 (500.6)
+57.62 (24.4)
+29.61 (7.1)
+
+722 (74.2)
+251 (25.8)
+
+2
+963
+
+153 (15.9)
+801 (83.1)
+21
+969
+
+332 (34.3)
+633 (65.3)
+10 
+
+1235 (84.5)
+75 (5.1)
+58 (4.0)
+86 (5.9)
+2 (0.1)
+6 (0.3)
+
+39 (2.7)
+452 (31.0)
+394 (27.1)
+334 (23.0)
+243
+
+452 (31.1)
+1002 (68.9)
+
+8
+
+708 (48.7)
+641 (44.1)
+105 (7.2)
+
+8
+
+664 (46.6)
+383 (26.9)
+377 (26.5)
+38
+1
+
+87.12 (14.0)
+819 (57.9)
+596 (42.1)
+47
+
+40 (4.8)
+787 (95.2)
+635
+
+1659 (417.0)
+56.33 (23.2)
+29.60 (6.7)
+
+1083 (74.2)
+377 (25.8)
+
+2
+1447
+
+208 (14.4)
+1229 (84.9)
+
+25
+1455
+
+516 (35.5)
+931 (64.0)
+15 
+
+  *  With the exception of the race or ethnic group category, percentages are given 
+relative to participants with known values for each characteristic. Differences in 
+baseline variables between groups were analyzed using  t  tests, paired  t  tests, or 
+the appropriate tests with categorical variables. None of the comparisons between 
+intervention  groups  were  statistically  signiﬁ cant  at  the  two-sided   P <.05  level. 
+CI = conﬁ dence interval; BMI = body mass index; SD = standard deviation.  
+
+   †   Information on dietary intake was available for all 975 intervention group 
+
+participants and 1461 control women.  
+
+cancer (HR = 0.58; 95% CI = 0.37 to 0.91) than in women with 
+ER-positive disease (HR = 0.85; 95% CI = 0.63 to 1.14); inter-
+action test,  P  = .15 (Fig. 3). Findings by PgR status were similar 
+( Table 5 ).       
+
+  Table 2.        Characteristics of breast cancers and breast cancer therapy by 
+intervention group *   
+
+Characteristic
+
+Dietary intervention 
+
+(N = 975)
+
+Control 
+(N = 1462)
+
+ Positive
+ Negative
+
+ I
+ II A
+ II B
+ III A
+
+ Positive
+ Negative
+ Borderline
+ Unknown
+
+ Inﬁ ltrating ductal (only)
+ Inﬁ ltrating lobular (+/ −  other)
+ Other
+
+ Mean No. positive (SD)
+ Negative, No. (%)
+ 1 – 3 positive nodes, No. (%)
+ >3 positive nodes, No. (%)
+ Unknown
+
+Histologic type, No. (%)
+   
+   
+   
+Tumor size (cm)
+ Mean (SD)
+   
+ <0.5, No. (%)
+   
+ >0.5 – 1, No. (%)
+   
+ >1 – 2, No. (%)
+   
+ >2 – 5, No. (%)
+   
+   
+ >5, No. (%)
+Nodal Status
+   
+   
+   
+   
+   
+Stage
+   
+   
+   
+   
+ER status, No. (%)
+   
+   
+PgR status, No. (%)
+   
+   
+   
+   
+Type of surgery, No. (%)
+   
+   
+   
+Radiation therapy, No. (%)
+   
+   
+   
+Type of nodal evaluation, No. (%)
+   
+ 
+   
+ 
+   
+Systemic therapy, No. (%)
+   
+   
+   
+Chemotherapy regimens, 
+ 
+   
+ 
+   
+ 
+   
+ 
+ 
+ 
+  Adriamycin – cyclophosphamide 
+ 
+
+  No. (%)  ‡  
+ Adriamycin –
+ 
+ Cyclophosphamide – 
+  methotrexate – 5-ﬂ uorouracil
+ 5-Fluorouracil – adriamycin –
+ 
+ cyclophosphamide/
+  cyclophosphamide – 
+  adriamycin – 5-ﬂ uorouracil
+
+ Axillary dissection/sampling, 
+  No. (%)
+ Sentinel node procedure, 
+  No. (%)
+ No lymph node dissection
+
+ Tamoxifen alone
+ Tamoxifen plus chemotherapy
+ Chemotherapy alone
+
+ Mastectomy
+ Breast conserving
+ Unknown
+
+ cyclophosphamide, No. (%)
+
+ Yes
+ No
+ Unknown
+
+ →  paclitaxel
+
+ 
+
+842 (86.4)
+98 (10.1)
+35 (3.6)
+
+1.93 (0.9)
+2 (0.2)
+108 (11.1)
+573 (58.8)
+284 (29.1)
+8 (0.8)
+
+2.02 (1.5)
+708 (73.1)
+230 (23.8)
+30 (3.1)
+7
+
+531 (54.5)
+312 (32.0)
+102 (10.5)
+30 (3.1)
+
+770 (79.0)
+205 (21.0)
+
+641 (69.6)
+268 (29.1)
+12 (1.3)
+54
+
+343 (35.5)  †  
+624 (64.5)
+
+8
+
+659 (68.7)
+300 (31.3)
+16
+
+918 (94.8)
+
+50 (5.2)
+
+7
+
+465 (47.7)
+375 (38.5)
+135 (13.9)
+505
+
+169 (33.5)
+
+269 (53.5)
+
+35 (7.0)
+
+1277 (87.4)
+125 (8.6)
+60 (4.0)
+
+1.89 (0.9)
+7 (0.5)
+153 (10.5)
+871 (59.6)
+422 (28.9)
+9 (0.6)
+
+2.02 (1.6)
+1060 (72.9)
+338 (23.3)
+56 (3.8)
+8
+
+797 (54.5)
+467 (31.9)
+140 (9.6)
+58 (4.0)
+
+1189 (81.3)
+273 (18.7)
+
+960 (69.4)
+414 (29.9)
+9 (0.7)
+79
+
+434 (29.9)
+1018 (70.1)
+
+10
+
+1019 (70.5)
+427 (29.5)
+16
+
+1361 (93.6)
+
+93 (6.4)
+
+8
+
+693 (47.4)
+555 (38.0)
+214 (14.6)
+763
+
+243 (31.9)
+
+410 (53.7)
+
+53 (7.0)
+
+32 (6.3)
+
+57 (7.5)
+
+  *  Percentages are given relative to participants with known values for each char-
+acteristic.  Differences  in  breast  cancer  characteristics  and  breast  cancer  therapy 
+were analyzed using  t  tests, paired  t  tests, or the appropriate test with categorical vari-
+ables. All  P  values were two-sided. ER = estrogen receptor; PgR = progesterone 
+receptor; SD = standard deviation.   
+
+   †   Statistically signiﬁ cant difference in the frequency of mastectomy versus breast-
+
+conserving surgery in dietary intervention versus control subjects,  P  = .004.  
+
+   ‡   Data on chemotherapy regimens were available for 505 of the 510 women in 
+the dietary intervention group who had chemotherapy and 763 of the 769 women 
+in the control group who had chemotherapy.  
+
+Journal of the National Cancer Institute, Vol. 98, No. 24, December 20, 2006 
+
+ARTICLES  1771
+
+Downloaded from https://academic.oup.com/jnci/article-abstract/98/24/1767/2521940
+by University of Ottawa user
+on 11 June 2018
+
+1
+0
+0
+0
+ <
+ P
+
+.
+
+1
+0
+0
+0
+ <
+ P
+
+.
+
+1
+0
+0
+0
+ <
+ P
+
+.
+
+1
+0
+0
+0
+ <
+ P
+
+.
+
+1
+0
+0
+0
+ <
+ P
+
+.
+
+ 
+,
+)
+4
+
+.
+
+2
+
+ 
+
+o
+t
+ 
+
+5
+4
+0
+0
+
+4
+
+.
+ 
+
+.
+
+0
+(
+ 
+
+  
+
+=
+ P
+
+1
+0
+0
+0
+ <
+ P
+
+.
+
+  
+
+1
+0
+0
+0
+<
+
+.
+
+1
+0
+0
+0
+ <
+ P
+
+.
+
+1
+0
+0
+0
+ <
+ P
+
+.
+
+1
+0
+0
+0
+ <
+ P
+
+.
+
+1
+0
+0
+0
+ <
+ P
+
+.
+
+1
+0
+0
+0
+ <
+ P
+
+.
+
+.
+
+2
+
+ 
+
+o
+t
+ 
+
+5
+3
+0
+0
+
+4
+
+.
+ 
+
+  
+
+=
+ P
+
+1
+0
+0
+0
+ <
+ P
+
+.
+
+1
+0
+0
+0
+ <
+ P
+
+.
+
+1
+0
+0
+0
+ <
+ P
+
+.
+
+1
+0
+0
+0
+ <
+ P
+
+.
+
+1
+0
+0
+0
+ <
+ P
+
+.
+
+2
+0
+0
+0
+
+.
+
+2
+
+ 
+
+o
+t
+ 
+
+.
+ 
+
+6
+
+1
+0
+0
+0
+ <
+ P
+
+.
+
+ 1
+ −
+(
+ 
+
+  
+
+=
+ P
+
+ 
+,
+)
+1
+1
+ 1
+ −
+o
+t
+ 
+
+ 
+
+3
+2
+ 2
+ −
+(
+ 
+
+7
+6
+ 1
+ −
+
+ 
+,
+)
+0
+0
+ 1
+ −
+o
+t
+ 
+
+ 
+
+4
+8
+ 1
+ −
+(
+ 
+
+2
+4
+ 1
+ −
+
+ 
+,
+)
+3
+ 3
+ −
+o
+t
+ 
+9
+
+ 
+
+.
+
+1
+ 7
+ −
+
+)
+6
+5
+5
+1
+
+ 
+
+o
+t
+ 
+
+6
+0
+5
+1
+(
+ 
+
+1
+3
+5
+1
+
+)
+7
+8
+4
+1
+
+ 
+
+o
+t
+ 
+
+3
+3
+4
+1
+(
+ 
+
+0
+6
+4
+1
+
+)
+4
+8
+6
+1
+
+ 
+
+o
+t
+ 
+
+5
+3
+6
+1
+(
+ 
+
+0
+6
+6
+1
+
+)
+9
+1
+7
+1
+
+ 
+
+o
+t
+ 
+
+6
+5
+6
+1
+(
+ 
+
+7
+8
+6
+1
+
+4
+
+.
+
+2
+
+ 
+,
+)
+0
+
+.
+
+0
+(
+ 
+
+2
+
+.
+
+1
+
+ 
+,
+)
+9
+
+.
+
+1
+(
+ 
+
+2
+
+.
+
+2
+
+)
+7
+
+.
+
+7
+1
+
+ 
+
+o
+t
+ 
+
+9
+
+.
+
+6
+1
+(
+ 
+
+3
+
+.
+
+7
+1
+
+)
+1
+
+.
+
+0
+2
+
+ 
+
+o
+t
+ 
+
+9
+
+.
+
+8
+1
+(
+ 
+
+5
+
+.
+
+9
+1
+
+)
+3
+
+.
+
+8
+1
+
+ 
+
+o
+t
+ 
+
+6
+
+.
+
+7
+1
+(
+ 
+
+0
+
+.
+
+8
+1
+
+)
+9
+
+.
+
+8
+1
+
+ 
+
+o
+t
+ 
+
+0
+
+.
+
+8
+1
+(
+ 
+
+4
+
+.
+
+8
+1
+
+5
+
+ 
+
+n
+o
+i
+t
+n
+e
+v
+r
+e
+t
+n
+i
+ 
+
+y
+r
+a
+t
+e
+i
+D
+
+ 
+r
+a
+e
+y
+
+ 
+t
+a
+ 
+l
+o
+r
+t
+n
+o
+c
+ 
+s
+u
+n
+i
+m
+
+3
+
+ 
+
+n
+o
+i
+t
+n
+e
+v
+r
+e
+t
+n
+i
+ 
+
+y
+r
+a
+t
+e
+i
+D
+
+ 
+r
+a
+e
+y
+
+ 
+t
+a
+ 
+l
+o
+r
+t
+n
+o
+c
+ 
+s
+u
+n
+i
+m
+
+ 
+
+n
+o
+i
+t
+n
+e
+v
+r
+e
+t
+n
+i
+ 
+
+y
+r
+a
+t
+e
+i
+D
+
+1
+
+ 
+r
+a
+e
+y
+ 
+t
+a
+ 
+l
+o
+r
+t
+n
+o
+c
+ 
+s
+u
+n
+i
+m
+
+1
+
+ 
+r
+a
+e
+y
+
+ 
+t
+
+  A
+
+e
+n
+i
+l
+e
+s
+a
+  B
+
+l
+o
+r
+t
+n
+o
+C
+
+n
+o
+i
+t
+n
+e
+v
+r
+e
+t
+n
+i
+ 
+
+y
+r
+a
+t
+e
+i
+D
+
+l
+o
+r
+t
+n
+o
+C
+
+n
+o
+i
+t
+n
+e
+v
+r
+e
+t
+n
+i
+ 
+
+y
+r
+a
+t
+e
+i
+D
+
+e
+l
+b
+a
+i
+r
+a
+V
+
+   
+
+ *
+p
+u
+o
+r
+g
+
+ 
+
+n
+o
+i
+t
+n
+e
+v
+r
+e
+t
+n
+i
+ 
+
+y
+b
+
+ 
+,
+
+y
+l
+t
+n
+e
+u
+q
+e
+s
+b
+u
+s
+ 
+
+d
+n
+a
+ 
+e
+n
+i
+l
+e
+s
+a
+b
+
+ 
+t
+a
+ 
+a
+t
+a
+d
+
+ 
+c
+i
+r
+t
+e
+m
+o
+p
+o
+r
+h
+t
+n
+a
+ 
+
+d
+n
+a
+ 
+s
+e
+k
+a
+t
+n
+i
+ 
+t
+n
+e
+i
+r
+t
+u
+n
+
+ 
+f
+o
+
+ 
+  )
+s
+l
+a
+v
+r
+e
+t
+n
+i
+ 
+e
+c
+n
+e
+d
+ﬁ 
+n
+o
+c
+ 
+%
+5
+9
+
+ 
+
+h
+t
+i
+
+w
+
+(
+ 
+s
+e
+u
+l
+a
+v
+
+ 
+
+n
+a
+e
+
+    M
+
+   
+.
+
+3
+
+ 
+e
+l
+b
+a
+  T
+
+ 
+,
+)
+0
+
+.
+
+6
+ 1
+ −
+o
+t
+ 
+1
+
+ 
+
+.
+
+2
+ 2
+ −
+(
+ 
+0
+
+.
+
+9
+ 1
+ −
+
+ 
+,
+)
+5
+
+.
+
+7
+ 1
+ −
+o
+t
+ 
+9
+
+ 
+
+.
+
+1
+ 2
+ −
+(
+ 
+7
+
+.
+
+9
+ 1
+ −
+
+ 
+,
+)
+1
+
+.
+
+6
+ 1
+ −
+o
+t
+ 
+9
+
+ 
+
+.
+
+9
+ 1
+ −
+(
+ 
+0
+.
+
+8
+ 1
+ −
+
+)
+7
+
+.
+
+2
+5
+
+ 
+
+o
+t
+ 
+
+0
+
+.
+
+0
+5
+(
+ 
+
+3
+
+.
+
+1
+5
+
+)
+5
+
+.
+
+4
+3
+
+ 
+
+o
+t
+ 
+
+2
+
+.
+
+2
+3
+(
+ 
+
+3
+
+.
+
+3
+3
+
+)
+5
+
+.
+
+7
+5
+
+ 
+
+o
+t
+ 
+
+1
+
+.
+
+5
+5
+(
+ 
+
+3
+
+.
+
+6
+5
+
+)
+8
+
+.
+
+8
+5
+
+ 
+
+o
+t
+ 
+
+7
+
+.
+
+5
+5
+(
+ 
+
+3
+
+.
+
+7
+5
+
+  
+
+  †
+e
+k
+a
+t
+n
+i
+ 
+
+y
+r
+a
+t
+e
+i
+d
+
+ 
+
+y
+l
+i
+a
+D
+
+)
+g
+(
+ 
+t
+a
+f
+ 
+l
+a
+t
+o
+ T
+
+ 
+,
+)
+9
+
+.
+
+ 6
+ −
+o
+t
+ 
+
+ 
+
+1
+
+.
+
+ 9
+ −
+(
+ 
+
+0
+
+.
+
+ 8
+ −
+
+ 
+,
+)
+1
+
+.
+
+ 8
+ −
+o
+t
+ 
+
+ 
+
+8
+
+.
+
+ 9
+ −
+(
+ 
+
+0
+
+.
+
+ 9
+ −
+
+ 
+,
+)
+2
+
+.
+
+ 
+
+ 8
+ −
+o
+t
+ 
+6
+
+.
+
+ 9
+ −
+(
+ 
+
+9
+
+.
+
+ 8
+ −
+
+)
+6
+
+.
+
+9
+2
+
+ 
+
+o
+t
+ 
+
+8
+
+.
+
+8
+2
+(
+ 
+
+2
+
+.
+
+9
+2
+
+)
+9
+
+.
+
+0
+2
+
+ 
+
+o
+t
+ 
+
+8
+
+.
+
+9
+1
+(
+ 
+
+3
+
+.
+
+0
+2
+
+)
+9
+
+.
+
+9
+2
+
+ 
+
+o
+t
+ 
+
+3
+
+.
+
+9
+2
+(
+ 
+
+6
+
+.
+
+9
+2
+
+)
+1
+
+.
+
+0
+3
+
+ 
+
+o
+t
+ 
+
+2
+
+.
+
+9
+2
+(
+ 
+
+6
+
+.
+
+9
+2
+
+)
+s
+e
+i
+r
+o
+l
+a
+c
+ 
+f
+o
+%
+
+ 
+
+(
+ 
+t
+a
+ F
+
+ 
+,
+)
+5
+
+.
+
+ 5
+ −
+o
+t
+ 
+
+ 
+
+8
+
+.
+
+ 7
+ −
+(
+ 
+
+6
+
+.
+
+ 6
+ −
+
+ 
+,
+)
+9
+
+.
+
+ 5
+ −
+o
+t
+ 
+
+ 
+
+5
+
+.
+
+ 7
+ −
+(
+ 
+
+7
+
+.
+
+ 6
+ −
+
+ 
+,
+)
+5
+
+.
+
+ 
+
+ 5
+ −
+o
+t
+ 
+9
+
+.
+
+ 6
+ −
+(
+ 
+
+2
+
+.
+
+ 6
+ −
+
+)
+1
+
+.
+
+7
+1
+
+ 
+
+o
+t
+ 
+
+1
+
+.
+
+6
+1
+(
+ 
+
+6
+
+.
+
+6
+1
+
+)
+9
+
+.
+
+0
+1
+
+ 
+
+o
+t
+ 
+
+0
+
+.
+
+0
+1
+(
+ 
+
+4
+
+.
+
+0
+1
+
+)
+0
+
+.
+
+9
+1
+
+ 
+
+o
+t
+ 
+
+1
+
+.
+
+8
+1
+(
+ 
+
+5
+
+.
+
+8
+1
+
+)
+3
+
+.
+
+9
+1
+
+ 
+
+o
+t
+ 
+
+1
+
+.
+
+8
+1
+(
+ 
+
+7
+
+.
+
+8
+1
+
+)
+g
+(
+ 
+t
+a
+f
+ 
+
+d
+e
+t
+a
+r
+u
+t
+a
+ S
+
+ 
+,
+)
+9
+
+.
+
+ 2
+ −
+o
+t
+ 
+
+ 
+
+4
+
+.
+
+ 4
+ −
+(
+ 
+
+7
+
+.
+
+ 3
+ −
+
+ 
+,
+)
+7
+
+.
+
+ 3
+ −
+o
+t
+ 
+
+ 
+
+4
+
+.
+
+ 4
+ −
+(
+ 
+
+9
+
+.
+
+ 3
+ −
+
+ 
+,
+)
+0
+
+.
+
+ 
+
+ 3
+ −
+o
+t
+ 
+9
+
+.
+
+ 3
+ −
+(
+ 
+
+5
+
+.
+
+ 3
+ −
+
+)
+1
+
+.
+
+1
+1
+
+ 
+
+o
+t
+ 
+
+4
+
+.
+
+0
+1
+(
+ 
+
+8
+
+.
+
+0
+1
+
+)
+6
+
+.
+
+7
+
+ 
+
+o
+t
+ 
+
+0
+
+.
+
+7
+(
+ 
+
+3
+
+.
+
+7
+
+)
+2
+
+.
+
+2
+1
+
+ 
+
+o
+t
+ 
+
+6
+
+.
+
+1
+1
+(
+ 
+
+9
+
+.
+
+1
+1
+
+)
+5
+
+.
+
+2
+1
+
+ 
+
+o
+t
+ 
+
+8
+
+.
+
+1
+1
+(
+ 
+
+2
+
+.
+
+2
+1
+
+)
+g
+(
+ 
+t
+a
+f
+ 
+
+d
+e
+t
+a
+r
+u
+t
+a
+s
+n
+u
+y
+l
+o
+ P
+
+ 
+,
+)
+3
+
+.
+
+ 6
+ −
+o
+t
+ 
+
+ 
+
+8
+
+.
+
+ 8
+ −
+(
+ 
+
+6
+
+.
+
+ 7
+ −
+
+ 
+,
+)
+0
+
+.
+
+ 7
+ −
+o
+t
+ 
+
+ 
+
+8
+
+.
+
+ 8
+ −
+(
+ 
+
+9
+
+.
+
+ 7
+ −
+
+ 
+,
+)
+6
+
+.
+
+ 
+
+ 6
+ −
+o
+t
+ 
+2
+
+.
+
+ 8
+ −
+(
+ 
+
+3
+
+.
+
+ 7
+ −
+
+)
+2
+
+.
+
+0
+2
+
+ 
+
+o
+t
+ 
+
+1
+
+.
+
+9
+1
+(
+ 
+
+6
+
+.
+
+9
+1
+
+)
+7
+
+.
+
+2
+1
+
+ 
+
+o
+t
+ 
+
+8
+
+.
+
+1
+1
+(
+ 
+
+3
+
+.
+
+2
+1
+
+)
+8
+
+.
+
+1
+2
+
+ 
+
+o
+t
+ 
+
+8
+
+.
+
+0
+2
+(
+ 
+
+3
+
+.
+
+1
+2
+
+)
+3
+
+.
+
+2
+2
+
+ 
+
+o
+t
+ 
+
+0
+
+.
+
+1
+2
+(
+ 
+
+6
+
+.
+
+1
+2
+
+)
+g
+(
+ 
+t
+a
+f
+ 
+
+d
+e
+t
+a
+r
+u
+t
+a
+s
+n
+u
+o
+n
+o
+ M
+
+)
+4
+
+)
+9
+
+.
+
+.
+
+ 0
+ −
+o
+t
+ 
+
+ 0
+ −
+o
+t
+ 
+
+ 
+
+ 
+
+9
+
+5
+
+.
+
+.
+
+ 1
+ −
+(
+ 
+
+ 4
+ −
+(
+ 
+
+1
+
+7
+
+.
+
+.
+
+ 1
+ −
+
+ 2
+ −
+
+)
+2
+
+.
+
+)
+2
+
+.
+
+ 0
+ −
+o
+t
+ 
+
+ 
+
+3
+
+.
+
+ 1
+ −
+(
+ 
+
+7
+7
+
+.
+
+ 0
+ −
+
+ 0
+ −
+o
+t
+ 
+
+ 
+
+1
+
+.
+
+ 3
+ −
+(
+ 
+
+8
+
+.
+
+ 1
+ −
+
+)
+3
+
+)
+0
+
+.
+
+.
+
+ 
+
+ 
+
+ 0
+ −
+o
+t
+ 
+3
+
+ 1
+ −
+o
+t
+ 
+6
+
+.
+
+.
+
+ 1
+ −
+(
+ 
+8
+.
+
+ 3
+ −
+(
+ 
+
+3
+
+.
+
+ 0
+ −
+
+ 2
+ −
+
+)
+9
+
+)
+7
+
+.
+
+.
+
+7
+2
+
+3
+7
+
+ 
+
+ 
+
+o
+t
+ 
+
+o
+t
+ 
+
+3
+
+0
+
+.
+
+.
+
+7
+2
+(
+ 
+
+2
+7
+(
+ 
+
+6
+
+8
+
+.
+
+.
+
+7
+2
+
+2
+7
+
+)
+2
+
+)
+6
+
+.
+
+.
+
+7
+2
+
+1
+7
+
+ 
+
+ 
+
+o
+t
+ 
+
+o
+t
+ 
+
+4
+
+6
+
+.
+
+.
+
+6
+2
+(
+ 
+
+9
+6
+(
+ 
+
+8
+
+6
+
+.
+
+.
+
+6
+2
+
+0
+7
+
+)
+8
+
+)
+4
+
+.
+
+.
+
+7
+2
+
+3
+7
+
+ 
+
+ 
+
+o
+t
+ 
+
+o
+t
+ 
+
+2
+
+8
+
+.
+
+.
+
+7
+2
+(
+ 
+
+1
+7
+(
+ 
+
+5
+
+6
+
+.
+
+.
+
+7
+2
+
+2
+7
+
+)
+0
+
+)
+7
+
+.
+
+.
+
+8
+2
+
+3
+7
+
+ 
+
+ 
+
+o
+t
+ 
+
+o
+t
+ 
+
+2
+
+7
+
+.
+
+.
+
+7
+2
+(
+ 
+
+1
+7
+(
+ 
+
+.
+
+6
+7
+2
+
+7
+
+.
+
+2
+7
+
+ 
+e
+r
+e
+w
+ 
+s
+t
+s
+e
+t
+ 
+l
+a
+c
+i
+t
+s
+i
+t
+a
+t
+s
+ 
+l
+l
+
+A
+
+ 
+.
+s
+e
+l
+b
+a
+i
+r
+a
+v
+
+ 
+l
+a
+c
+i
+r
+o
+g
+e
+t
+a
+c
+ 
+
+h
+t
+i
+
+w
+
+ 
+t
+s
+e
+t
+ 
+e
+t
+a
+i
+r
+p
+o
+r
+p
+p
+a
+ 
+e
+h
+t
+ 
+r
+o
+
+ 
+,
+s
+t
+s
+e
+t
+  
+ t
+ 
+
+d
+e
+r
+i
+a
+p
+
+ 
+,
+s
+t
+s
+e
+t
+  
+ t
+ 
+
+g
+n
+i
+s
+u
+
+ 
+
+ 
+
+d
+e
+z
+y
+l
+a
+n
+a
+ 
+e
+r
+e
+w
+y
+p
+a
+r
+e
+h
+t
+ 
+r
+e
+c
+n
+a
+c
+ 
+t
+s
+a
+e
+r
+b
+
+ 
+
+d
+n
+a
+ 
+s
+c
+i
+t
+s
+i
+r
+e
+t
+c
+a
+r
+a
+h
+c
+ 
+r
+e
+c
+n
+a
+c
+ 
+t
+s
+a
+e
+r
+b
+
+ 
+
+n
+i
+ 
+s
+e
+c
+n
+e
+r
+e
+f
+f
+i
+
+D
+
+ 
+.
+
+x
+e
+d
+n
+i
+ 
+s
+s
+a
+m
+y
+d
+o
+b
+
+ 
+
+ 
+
+=
+
+ 
+I
+
+M
+  B
+  *
+
+ 
+
+d
+n
+a
+ 
+4
+5
+6
+ 
+r
+o
+f
+ 
+;
+1
+ 
+r
+a
+e
+y
+ 
+t
+a
+ 
+,
+
+y
+l
+e
+v
+i
+t
+c
+e
+p
+s
+e
+r
+ 
+,
+
+ 
+
+ 
+
+n
+e
+m
+o
+w
+8
+2
+3
+1
+d
+n
+a
+ 
+0
+4
+8
+ 
+r
+o
+f
+ 
+;
+e
+n
+i
+l
+e
+s
+a
+b
+ 
+t
+a
+ 
+,
+
+y
+l
+e
+v
+i
+t
+c
+e
+p
+s
+e
+r
+ 
+,
+
+ 
+
+p
+u
+o
+r
+g
+ 
+l
+o
+r
+t
+n
+o
+c
+ 
+e
+h
+t
+ 
+d
+n
+a
+ 
+p
+u
+o
+r
+g
+n
+o
+i
+t
+n
+e
+v
+r
+e
+t
+n
+i
+ 
+y
+r
+a
+t
+e
+i
+d
+ 
+e
+h
+t
+ 
+n
+i
+ 
+n
+e
+m
+o
+w
+
+ 
+
+ 
+
+ 
+f
+o
+1
+6
+4
+1
+d
+n
+a
+ 
+5
+7
+9
+ 
+r
+o
+f
+ 
+e
+l
+b
+a
+l
+i
+a
+v
+a
+ 
+s
+a
+w
+ 
+e
+k
+a
+t
+n
+i
+ 
+y
+r
+a
+t
+e
+i
+d
+n
+o
+n
+o
+i
+t
+a
+m
+r
+o
+f
+n
+   I
+   †
+
+ 
+
+ 
+
+ 
+,
+
+ 
+
+ 
+
+n
+e
+m
+o
+w
+1
+8
+9
+d
+n
+a
+ 
+0
+0
+6
+ 
+r
+o
+f
+ 
+;
+1
+ 
+r
+a
+e
+y
+ 
+t
+a
+ 
+,
+
+y
+l
+e
+v
+i
+t
+c
+e
+p
+s
+e
+r
+ 
+,
+
+ 
+
+ 
+
+n
+e
+m
+o
+w
+0
+3
+2
+1
+d
+n
+a
+ 
+5
+5
+7
+ 
+r
+o
+f
+ 
+;
+e
+n
+i
+l
+e
+s
+a
+b
+ 
+t
+a
+ 
+,
+
+y
+l
+e
+v
+i
+t
+c
+e
+p
+s
+e
+r
+ 
+,
+
+ 
+
+p
+u
+o
+r
+g
+ 
+l
+o
+r
+t
+n
+o
+c
+ 
+e
+h
+t
+ 
+d
+n
+a
+ 
+p
+u
+o
+r
+g
+n
+o
+i
+t
+n
+e
+v
+r
+e
+t
+n
+i
+ 
+y
+r
+a
+t
+e
+i
+d
+ 
+e
+h
+t
+ 
+n
+i
+ 
+n
+e
+m
+o
+w
+
+ 
+
+ 
+
+ 
+f
+o
+4
+2
+4
+1
+d
+n
+a
+ 
+7
+5
+9
+ 
+r
+o
+f
+ 
+e
+l
+b
+a
+l
+i
+a
+v
+a
+ 
+s
+a
+w
+
+ 
+I
+
+ 
+
+ 
+
+M
+B
+n
+o
+n
+o
+i
+t
+a
+m
+r
+o
+f
+n
+   I
+   ‡
+
+  
+.
+
+5
+
+ 
+r
+a
+e
+y
+ 
+t
+a
+ 
+,
+
+y
+l
+e
+v
+i
+t
+c
+e
+p
+s
+e
+r
+ 
+,
+
+n
+e
+m
+o
+w
+8
+4
+6
+
+ 
+
+ 
+
+d
+n
+a
+ 
+
+0
+8
+3
+
+ 
+r
+o
+f
+ 
+
+d
+n
+a
+ 
+;
+3
+
+ 
+r
+a
+e
+y
+
+ 
+t
+a
+ 
+,
+
+y
+l
+e
+v
+i
+t
+c
+e
+p
+s
+e
+r
+ 
+,
+
+n
+e
+m
+o
+w
+7
+7
+0
+1
+
+ 
+
+ 
+
+4
+4
+0
+1
+
+ 
+
+d
+n
+a
+ 
+
+8
+9
+6
+
+ 
+r
+o
+f
+ 
+;
+1
+
+ 
+r
+a
+e
+y
+
+ 
+t
+a
+ 
+,
+
+y
+l
+e
+v
+i
+t
+c
+e
+p
+s
+e
+r
+ 
+,
+
+n
+e
+m
+o
+w
+0
+1
+3
+1
+
+ 
+
+ 
+
+d
+n
+a
+ 
+
+4
+5
+8
+
+ 
+r
+o
+f
+ 
+;
+e
+n
+i
+l
+e
+s
+a
+b
+
+ 
+t
+a
+ 
+,
+
+y
+l
+e
+v
+i
+t
+c
+e
+p
+s
+e
+r
+ 
+,
+
+p
+u
+o
+r
+g
+
+ 
+l
+o
+r
+t
+n
+o
+c
+ 
+e
+h
+t
+ 
+
+d
+n
+a
+ 
+
+p
+u
+o
+r
+g
+
+ 
+
+n
+o
+i
+t
+n
+e
+v
+r
+e
+t
+n
+i
+ 
+
+y
+r
+a
+t
+e
+i
+d
+
+ 
+e
+h
+t
+ 
+
+n
+i
+ 
+
+n
+e
+m
+o
+w
+2
+6
+4
+1
+
+ 
+
+ 
+
+d
+n
+a
+ 
+
+5
+7
+9
+
+ 
+l
+l
+a
+ 
+r
+o
+f
+ 
+e
+l
+b
+a
+l
+i
+a
+v
+a
+ 
+s
+a
+w
+
+ 
+t
+h
+g
+i
+e
+w
+n
+o
+
+ 
+
+ 
+
+n
+o
+i
+t
+a
+m
+r
+o
+f
+n
+  I
+  §
+
+  
+.
+
+5
+
+ 
+r
+a
+e
+y
+
+ 
+t
+a
+ 
+,
+
+y
+l
+e
+v
+i
+t
+c
+e
+p
+s
+e
+r
+ 
+,
+
+n
+e
+m
+o
+w
+8
+9
+9
+
+ 
+
+ 
+
+d
+n
+a
+ 
+
+6
+8
+3
+
+ 
+r
+o
+f
+ 
+
+d
+n
+a
+ 
+;
+3
+
+ 
+r
+a
+e
+y
+
+ 
+t
+a
+ 
+,
+
+y
+l
+e
+v
+i
+t
+c
+e
+p
+s
+e
+r
+ 
+,
+
+n
+e
+m
+o
+w
+
+  
+.
+
+5
+
+ 
+r
+a
+e
+y
+
+ 
+t
+a
+ 
+,
+y
+l
+e
+v
+i
+t
+c
+e
+p
+s
+e
+r
+ 
+,
+
+n
+e
+m
+o
+w
+4
+3
+5
+
+ 
+
+ 
+
+d
+n
+a
+ 
+
+3
+1
+3
+
+ 
+r
+o
+f
+ 
+
+d
+n
+a
+ 
+;
+3
+
+ 
+r
+a
+e
+y
+ 
+t
+a
+ 
+,
+
+y
+l
+e
+v
+i
+t
+c
+e
+p
+s
+e
+r
+
+s
+r
+o
+t
+c
+a
+f
+ 
+c
+i
+h
+p
+r
+o
+m
+o
+p
+o
+r
+h
+t
+n
+A
+
+  
+
+  ‡
+ )
+ 2
+
+m
+/
+g
+k
+(
+ 
+I
+
+M
+ B
+
+ 
+
+ §
+)
+g
+k
+(
+ 
+t
+h
+g
+i
+e
+
+ W
+
+)
+l
+a
+c
+k
+(
+ 
+
+y
+g
+r
+e
+n
+ E
+
+)
+d
+/
+g
+(
+ 
+r
+e
+b
+i
+ F
+
+  
+.
+
+d
+e
+d
+i
+s
+-
+o
+w
+
+t
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+1772  ARTICLES 
+
+Journal of the National Cancer Institute, Vol. 98, No. 24, December 20, 2006
+
+Downloaded from https://academic.oup.com/jnci/article-abstract/98/24/1767/2521940
+by University of Ottawa user
+on 11 June 2018
+
+  Table 4.        Endpoints, including breast cancer recurrences, by intervention group  
+
+Events
+
+Dietary intervention 
+
+(n = 975)
+
+Control 
+(n = 1462)
+
+A
+
+ 
+s
+t
+n
+e
+v
+E
+
+ 
+l
+
+  breast), No. (%)
+
+  with lumpectomy, No. (%)
+
+ Local recurrence, No. (%)
+ Regional recurrence, No. (%)
+ Distant recurrence (except opposite 
+ 
+
+Recurrence
+   
+   
+   
+ 
+Ipsilateral breast recurrence in patients 
+ 
+New breast cancer in the contralateral 
+ 
+Relapse-free survival events, total No. (%) * 
+Second primary cancer (excludes opposite 
+ 
+Death (without breast cancer recurrence), 
+ 
+Disease-free survival events, total No. (%)  †  
+
+  breast cancer), No. (%)
+
+  breast, No. (%)
+
+  No. (%)
+
+3 (0.3)
+6 (0.6)
+52 (5.3)
+
+11 (1.1)
+
+24 (2.5)
+
+96 (9.8)
+28 (2.9)
+
+15 (1.5)
+
+8 (0.6)
+12 (0.8)
+93 (6.4)
+
+31 (2.1)
+
+37 (2.5)
+
+181 (12.4)
+50 (3.4)
+
+19 (1.3)
+
+139 (14.3)
+
+250 (17.1)
+
+  *  Relapse-free survival events include local, regional, and distant recurrence, 
+
+ipsilateral breast recurrence after lumpectomy, and contralateral breast cancer.  
+
+   †   Disease-free survival events include those for relapse-free survival and also 
+include any secondary invasive cancer, excluding basal and squamous skin can-
+cer, and death without breast cancer recurrence.  
+
+  D ISCUSSION  
+
+ WINS is, to our knowledge, the ﬁ rst large-scale randomized 
+trial to test whether a dietary intervention can improve the clinical 
+outcome of women with breast cancer. The WINS results indi-
+cate that a lifestyle intervention designed to reduce dietary fat 
+intake  can  be  successfully  implemented  in  women  with  early-
+stage, resected breast cancer receiving conventional cancer man-
+agement in a multicenter clinical trial setting. After approximately 
+5 years of follow-up, women in the dietary intervention group 
+had a 24% lower risk of relapse than those in the control group 
+(HR  =  0.76;  95%  CI  =  0.60  to  0.98).  Although  these  results 
+are suggestive of beneﬁ t for the dietary intervention, given the 
+level of statistical signiﬁ cance ( P  = .034 for adjusted Cox model 
+ analysis),  the  higher  relapse-free  survival  seen  in  the  dietary 
+group could also be a result of chance. 
+
+Diet
+96/975
+
+Control
+181/1462
+
+HR
+0.76
+
+95% CI
+
+0.60 to 0.98
+
+P-value*
+
+.034 
+
+Control
+Diet
+
+0.30
+
+0.25
+
+0.20
+
+0.15
+
+0.10
+
+0.05
+
+0.0
+
+ 
+s
+t
+n
+e
+v
+E
+
+i
+
+ 
+l
+a
+v
+v
+r
+u
+S
+ 
+e
+e
+r
+F
+-
+e
+s
+p
+a
+e
+R
+ 
+h
+t
+i
+
+l
+
+W
+%
+
+ 
+
+0
+
+1
+
+2
+
+3
+
+Years
+
+Diet
+Control
+
+975
+1462
+
+949
+1416
+
+907
+1352
+
+807
+1197
+
+4
+
+647
+965
+
+5
+
+490
+756
+
+6
+
+342
+529
+
+7
+
+201
+326
+
+     Fig. 2.     Kaplan – Meier estimates of relapse-free survival. Number of events/number 
+of patients in the dietary intervention and control groups are indicated. Hazard 
+ratio (HR) and 95% conﬁ dence interval (CI) were calculated from adjusted Cox 
+proportional hazard model comparisons of control to dietary intervention groups 
+through the 60-month median follow-up period.  P  value is two-sided. Numbers 
+of patients at risk are indicated below the graph.     
+
+i
+
+ 
+
+a
+v
+v
+r
+u
+S
+e
+e
+r
+F
+-
+e
+s
+p
+a
+e
+R
+h
+
+ 
+
+l
+
+t
+i
+
+W
+%
+
+ 
+
+Diet
+68/770
+
+Control
+122/1189
+
+HR
+0.85
+
+95% CI
+
+0.63 to 1.14
+
+P value
+
+.277
+
+Control
+Diet
+
+0.30
+
+0.25
+
+0.20
+
+0.15
+
+0.10
+
+0.05
+
+0.0
+
+0
+
+1
+
+2
+
+3
+
+4
+
+Years
+
+Diet 
+Control
+
+770
+1189
+
+753
+1165
+
+725
+1122
+
+641
+995
+
+512
+802
+
+5
+
+385
+613
+
+6
+
+265
+440
+
+7
+
+156
+270
+
+B
+
+ 
+s
+t
+n
+e
+v
+E
+
+ 
+l
+
+i
+
+ 
+
+a
+v
+v
+r
+u
+S
+e
+e
+r
+F
+-
+e
+s
+p
+a
+e
+R
+ 
+h
+t
+i
+
+l
+
+Diet
+28/205 
+
+Control
+59/273
+
+HR
+0.58
+
+95% CI
+
+0.37 to 0.91
+
+P value
+
+.018
+
+Control
+Diet
+
+0.30
+
+0.25
+
+0.20
+
+0.15
+
+0.10
+
+0.05
+
+0.0
+
+W
+%
+
+ 
+
+Diet
+Control
+
+0
+
+205
+273
+
+1
+
+196
+205
+
+2
+
+182
+230
+
+3
+
+4
+
+Years
+
+166
+203
+
+135
+163
+
+5
+
+105
+133
+
+6
+
+77
+88
+
+7
+
+45
+55
+
+   Fig. 3.     Kaplan – Meier estimates of relapse-free survival. ( A ) Estrogen receptor –
+ positive  subjects.  ( B )  Estrogen  receptor – negative  subjects.  Number  of  events/
+number of patients in the dietary intervention and control groups are indicated. 
+Hazard ratios (HRs) and 95% conﬁ dence intervals (CIs) were calculated from 
+adjusted  Cox  proportional  hazard  model  comparisons  of  control  to  dietary 
+intervention groups through the 60-month median follow-up period.  P  values are 
+two-sided. Numbers of patients at risk are indicated below the graph.     
+
+ Secondary analyses suggested a stronger effect for dietary fat 
+reduction on breast cancer recurrence in women with hormone 
+receptor – negative cancers compared with women whose cancers 
+were  hormone  receptor  positive;  however,  the  interaction  be-
+tween dietary intervention and hormone receptor status was not 
+statistically signiﬁ cant. These ﬁ ndings are consistent with trends 
+suggestive of a differential dietary inﬂ uence by hormone receptor 
+status  on  breast  cancer  incidence  recently  described  in  the 
+Women’s Health Initiative randomized primary prevention trial 
+and in a Nurse’s Health Study cohort  ( 31 , 32 ) . A differential inﬂ u-
+ence of dietary fat on breast cancer recurrence based on hormone 
+ receptor  status  will  require  conﬁ rmation.  However,  some  of 
+the most active adjuvant breast cancer interventions, including 
+aromatase  inhibitors   ( 21  –  24 )   and  trastuzumab   ( 33  –  35 ) ,  are 
+effective only in biologically deﬁ ned subgroups, and interactions 
+have been observed between ER status and adjuvant chemother-
+apy effect  ( 36 ) . Thus, it would not be surprising to ﬁ nd that a 
+lifestyle  intervention  has  an  effect  on  only  some  categories  of 
+breast cancer. 
+
+ Because ER-positive cancers are under estrogen inﬂ uence, a 
+predominant inﬂ uence of diet on ER-negative cancers would im-
+plicate factors other than estrogen  ( 37 , 38 )  as mediators. Other 
+potential  mechanisms  include  reduced  insulin  levels   ( 39 , 40 ) , 
+reduced  insulin  resistance   ( 41 ) ,  reduced  insulin-like  growth 
+
+Journal of the National Cancer Institute, Vol. 98, No. 24, December 20, 2006 
+
+ARTICLES  1773
+
+Downloaded from https://academic.oup.com/jnci/article-abstract/98/24/1767/2521940
+by University of Ottawa user
+on 11 June 2018
+
+  Table 5.        Relapse-free survival, by baseline characteristics and intervention group *   
+
+Variable
+
+Dietary intervention
+
+Control
+
+HR (95% CI)
+
+  Relapse events/total N
+
+ Positive
+ Negative
+
+BMI  †  
+ <25
+   
+ 25 – 30
+   
+   
+ >30
+Axillary lymph nodes  ‡  
+   
+   
+ER § 
+   
+   
+PgR  ||  
+   
+   
+Receptor subgroups  ||  
+   
+   
+   
+   
+
+ ER+, PgR+
+ ER+, PgR − 
+ ER − , PgR+
+ ER − , PgR − 
+
+ Positive
+ Negative
+
+ Positive
+ Negative
+
+33/371
+33/325
+29/261
+
+40/258
+56/710
+
+68/770
+28/205
+
+55/641
+28/268
+
+49/598
+12/121
+6/43
+16/147
+
+55/563
+62/484
+61/377
+
+0.83 (0.54 to 1.27)
+0.77 (0.51 to 1.18)
+0.66 (0.42 to 1.04)
+
+72/392
+109/1062
+
+0.83 (0.57 to 1.21)
+0.77 (0.56 to 1.07)
+
+122/1189
+59/273
+
+0.85 (0.63 to 1.14)
+0.58 (0.37 to 0.91)
+
+97/960
+75/414
+
+90/921
+27/199
+7/39
+48/215
+
+0.83 (0.59 to 1.15)
+0.54 (0.35 to 0.83)
+
+0.83 (0.58 to 1.17)
+0.73 (0.37 to 1.46)
+0.57 (0.17 to 1.87)
+0.44 (0.25 to 0.77)
+
+  *  HR  =  hazard  ratio;  CI  =  conﬁ dence  interval;  BMI  =  body  mass  index; 
+
+ER = estrogen receptor; PgR = progesterone receptor.  
+
+   †   BMI  =  weight  in  kg/(height  in  m) 2 .  Adjusted  for  nodal  status  (positive  or 
+negative),  systemic  adjuvant  therapy  (chemotherapy  alone,  tamoxifen  alone, 
+or chemotherapy plus tamoxifen), ER status (positive or negative), tumor size 
+(<2 or  ≥ 2 cm), and mastectomy (yes or no); excludes 56 women without baseline 
+body weight measurements.  
+
+   ‡   Adjusted for systemic adjuvant therapy, ER status, tumor size, and mastec-
+
+tomy; excludes 15 women with no axillary node dissection.  
+
+  §  Adjusted for systemic adjuvant therapy, nodal status, tumor size, and mas-
+
+tectomy.  
+
+   ||   Excludes  154  patients  with  no  PgR  information  or  who  were  classiﬁ ed  as 
+borderline PgR by their local laboratory; adjusted for systemic adjuvant therapy, 
+nodal status, tumor size, and mastectomy.  
+
+factor 1  ( 42 , 43 ) , or reduced inﬂ ammation markers — all factors 
+that may be inﬂ uenced by dietary fat decrease and/or weight loss 
+ ( 44 , 45 ) . Planned analyses of serial fasting blood samples in the 
+two groups will address these issues. 
+
+ The most appropriate endpoint for breast cancer adjuvant tri-
+als is controversial, and even the deﬁ nitions of these endpoints 
+are  inconsistent   ( 46 ) .  Endpoints  from  recent  selected  adjuvant 
+therapy trials are compared to the relapse-free survival endpoint 
+of the WINS trial in  Table 6 . Collectively, these reports deﬁ ne 
+the  endpoint  of   “ disease-free  survival ”   in  four  different  ways 
+ ( 21  –  24 , 27 ) . We deﬁ ned relapse-free survival, the prospectively 
+identiﬁ ed primary study endpoint in WINS, in the same way that 
+Goss et al.  ( 22 )  recently deﬁ ned a disease-free survival endpoint. 
+
+To facilitate comparison of our study with others, we included 
+death without breast cancer recurrence and second primary can-
+cers  as  events  in  additional  analyses;  all  results  led  to  similar 
+conclusions  regarding  the  effects  of  the  dietary  intervention. 
+Establishment of a common terminology for breast cancer adju-
+vant trial endpoints should be a future priority of the research 
+community.     
+
+ This study has several potential limitations. One is the imbal-
+ance  of  surgical  treatments  between  the  groups:  5.6%  more 
+women in the control group than in the intervention group had 
+breast-conserving  therapy. As  a  result,  55  more  women  in  the 
+control group with  such surgery were at risk for an ipsilateral 
+recurrence. However, considering all 1018 control group women 
+with breast-conserving surgery, only 2.1% experienced ipsilat-
+eral  recurrence.  Consequently,  only  about  one  additional  in-
+breast  recurrence  would  be  anticipated  based  on  the  surgical 
+distribution. Thus, the modest imbalance in surgical management 
+is unlikely to explain the difference in clinical outcome that we 
+observed.  In  addition,  in  a  large  National  Surgical  Adjuvant 
+Breast  and  Bowel  Project  Cancer  randomized  trial  comparing 
+mastectomy with lumpectomy plus radiation, women with mas-
+tectomy had a similar rate of local and regional recurrences after 
+approximately 5 years of follow-up, even when ipsilateral breast 
+recurrences were included (45 such recurrences were seen in the 
+mastectomy  group  compared  with  43  in  the  lumpectomy  plus 
+ radiation group)  ( 47 ) . Moreover, our adjustment for surgery type 
+(mastectomy versus lumpectomy) in the Cox proportional haz-
+ards models should have controlled for the effect of the differ-
+ences in surgical management. 
+
+ A  second  limitation  of  the  study  is  its  reliance  on  self-
+report of dietary intake because no validated  “ gold standard ”  
+exists  for  assessing  dietary  fat  intake   ( 48 ) .  However,  body 
+weight  was  statistically  signiﬁ cantly  lower  in  the  dietary 
+group,  providing  biologic  plausibility  that  a  dietary  change 
+did occur in women on the low-fat eating plan. Although the 
+dietary intervention focused on reducing fat intake, intake of 
+other nutrients changed, as did body weight. Thus, it is possi-
+ble  that  weight  change   ( 49 , 50 )   and/or  dietary  factors  other 
+than fat intake inﬂ uenced the breast cancer outcome. Planned 
+future analyses will examine time trends and associations of 
+changes in body weight and other dietary factors with breast 
+cancer recurrence. 
+
+ Study strengths include the randomized study design, closely 
+comparable  anticancer  systemic  therapies  provided  to  women 
+in  the  two  randomization  groups,  and  the  degree  of  dietary 
+ adherence  achieved  by  study  participants.  The  reduction  in 
+
+  Table 6.        Primary study endpoints in selected adjuvant therapy trials in early breast cancer *   
+
+Endpoint: as deﬁ ned 
+in each trial
+Relapse-free survival
+Disease-free survival
+Disease-free survival
+Recurrence-free survival
+Disease-free survival
+Disease-free survival
+
+Group/trial†
+
+WINS
+MA-17
+IES
+ATAC
+NSABP
+BIG 1-98
+
+Local – regional 
+
+recurrence
+
+Distant 
+recurrence
+
+Ipsilateral breast 
+tumor recurrence  ‡  
+
+Contralateral 
+breast cancer
+
+Death without 
+
+recurrence
+
+New primary 
+
+cancer
+
+X
+X
+X
+X
+X
+X
+
+X
+X
+X
+X
+X
+X
+
+X
+X
+X
+X
+O
+X
+
+X
+X
+X
+X
+X
+X
+
+O
+O
+X
+X
+X
+X
+
+O
+O
+O
+O
+X
+X
+
+  *  An  “ X ”  indicates the endpoint was included in the deﬁ nition, an  “ O ”  indicates the endpoint was not included in the deﬁ nition.  
+   †   WINS = Women’s Intervention Nutrition Study; MA-17 = Mammary Study-17  ( 22 ) ; IES = International Exemestane Study  ( 23 ) ; ATAC = Anastrozole, Tamoxifen 
+
+Alone, and Combined  ( 21 ) ; NSABP = National Surgical Adjuvant Breast and Bowel Project  ( 15 , 27 ) ; BIG 1-98 = Breast International Group  ( 24 ) .  
+
+   ‡   Among patients with lumpectomy.  
+
+1774  ARTICLES 
+
+Journal of the National Cancer Institute, Vol. 98, No. 24, December 20, 2006
+
+Downloaded from https://academic.oup.com/jnci/article-abstract/98/24/1767/2521940
+by University of Ottawa user
+on 11 June 2018
+
+ dietary fat intake seen in the WINS trial is similar to or greater 
+than  that  reported  in  other  trials  evaluating  breast  cancer  and 
+diet associations either for primary prevention  ( 31 , 51 )  or recur-
+rence  ( 52 ) . 
+
+ Replication in clinical practice of this dietary intervention will 
+likely  require  on-going  counseling  with  a  dietician  trained  in 
+these techniques. The WINS low-fat eating plan was intensive, 
+individualized, and delivered using a standardized protocol by 
+registered dieticians who had received centralized training which 
+included motivational interviewing techniques. 
+
+ In summary, an interim efﬁ cacy analysis suggests that a life-
+style intervention reducing dietary fat intake with modest body 
+weight loss may improve the relapse-free survival of postmeno-
+pausal  breast  cancer  patients.  Ongoing  follow-up  will  address 
+original protocol design plans calling for 3 years of follow-up 
+after completion of recruitment.    
+
+  REFERENCES 
+
+    (1)    Wynder EL, Cohen LA, Muscat JE, Winters B, Dwyer JT, Blackburn G. 
+Breast cancer: weighing the evidence for a promoting role of dietary fat. 
+ J Natl Cancer Inst   1997 ; 89 : 766  – 75.  
+
+    (2)    Prentice RL. Future possibilities in the prevention of breast cancer: fat and 
+
+ﬁ ber and breast cancer research.  Breast Cancer Res   2000 ; 2 : 268  – 76.  
+
+    (3)    Willett  WC,  Stampfer  MJ,  Colditz  GA,  Rosner  BA,  Hennekens  CH, 
+Speizer FE. Dietary fat and the risk of breast cancer.  N Engl J Med   1987 ; 316 :
+ 22  – 8.  
+
+    (4)    Bingham SA, Luben R, Welch A, Wareham N, Khaw KT, Day N. Are im-
+precise methods obscuring a relation between fat and breast cancer?  Lancet  
+ 2003 ; 362 : 212  – 4.  
+
+    (5)    Boyd NF, Stone J, Vogt KN, Connelly BS, Martin LJ, Minkin S. Dietary fat 
+and breast cancer risk revisited: a meta-analysis of the published literature. 
+ Br J Cancer   2003 ; 89 : 1672  – 85.  
+
+    (6)    Holmes MD, Stampfer MJ, Colditz GA, Rosner B, Hunter DJ, Willett WC. 
+Dietary factors and the survival of women with breast carcinoma [erratum 
+in Cancer 1999;86:2707 – 8].  Cancer   1999 ; 86 : 826  – 35.  
+
+    (7)    Goodwin  PJ, Ennis M, Pritchard KI, Koo J, Trudeau ME, Hood N. Diet 
+and breast cancer: evidence that extremes in diet are associated with poor 
+survival.  J Clin Oncol   2003 ; 21 : 2500  – 7.  
+
+    (8)    Jain M, Miller AB, To T. Premorbid diet and the prognosis of women with 
+
+breast cancer.  J Natl Cancer Inst   1994 ; 86 : 1390  – 7.  
+
+    (9)    Zhang S, Folsom AR, Sellers TA, Kushi LH, Potter JD. Better breast cancer 
+survival for postmenopausal women who are less overweight and eat less 
+fat. The Iowa Women’s Health Study.  Cancer   1995 ; 76 : 275  – 83.  
+
+   (10)    Saxe  GA,  Rock  CL,  Wicha  MS,  Schottenfeld  D.  Diet  and  risk  for 
+breast  cancer  recurrence  and  survival.   Breast  Cancer  Res Treat    1999 ; 53 :
+ 241  – 53.  
+
+   (11)    Prentice  RL.  Methodologic  challenges  in  chronic  disease  population  re-
+
+search.  Biostatistics   2001 ; 2 : 365  – 81.  
+
+   (12)    Freedman  LS,  Potischman  N,  Kipnis  V,  Midthune  D,  Schatzkin  A, 
+Thompson FE, et al. A comparison of two dietary instruments for evaluating 
+the fat-breast cancer relationship. Int J Epidemol  2006 ;35:1011–21.  
+
+   (13)    Chlebowski  RT,  Rose  D,  Buzzard  IM,  Blackburn  GL,  Insull  W  Jr, 
+Grosvenor M, et al. Adjuvant dietary fat intake reduction in postmenopausal 
+breast  cancer  patient  management.  The  Women’s  Intervention  Nutrition 
+Study (WINS).  Breast Cancer Res Treat   1992 ; 20 : 73  – 84.  
+
+   (14)    Chlebowski  RT,  Blackburn  GL,  Buzzard  IM,  Rose  DP,  Martino  S, 
+Khaddekar JD, et al. Adherence to a dietary fat intake reduction program 
+in postmenopausal women receiving therapy for early breast cancer. The 
+Women’s Intervention Nutrition Study.  J Clin Oncol   1993 ; 11 : 2072  – 80.  
+
+   (15)    Fisher  B, Anderson  S,  Tan-Chiu  E,  Wolmark  N,  Wickerham  DL,  Fisher 
+ER, et al. Tamoxifen and chemotherapy for axilary node-negative, estrogen 
+receptor-negative breast cancer: ﬁ ndings from National Surgical Adjuvant 
+Breast and Bowel Project B-23.  J Clin Oncol   2001 ; 19 : 931  – 42.  
+
+   (16)    Buzdar AU, Kau SW, Smith TL, Hortobagyi GN. Ten-year results of FAC 
+adjuvant  chemotherapy  trial  in  breast  cancer.  Am  J  Clin  Oncol    1989 ; 12 : 
+123  – 8.  
+
+   (17)    Henderson  IC,  Berry  DA,  Demetri  GD,  Cirrincione  CT,  Goldstein  LJ, 
+Martino S, et al. Improved outcomes from adding sequential paclitaxel but 
+not  from  escalating  doxorubicin  dose  in  an  adjuvant  chemotherapy  regi-
+men  for  patients  with  node-positive  primary  breast  cancer.   J  Clin  Oncol  
+ 2003 ; 21 : 976  – 83.  
+
+   (18)    Winters  BL,  Mitchell  DC,  Smiciklas-Wright  H,  Grosvenor  MB,  Liu  W, 
+Blackburn  GL.  Dietary  patterns  in  women  treated  for  breast  cancer  who 
+successfully reduce fat intake: the Women’s Intervention Nutrition Study 
+(WINS).  J Am Diet Assoc   2004 ; 104 : 551  – 9.  
+
+   (19)    Lohman TG, Roche AF, Martorell F, editors. Anthropometric standardiza-
+tion reference manual. Champaign (IL): Human Kinetics Publishers, Inc; 
+ 1988 .  
+
+   (20)    Copeland T, Grosvenor M, Mitchell DC, Smiciklas-Wright H, Marsobian 
+V, Blackburn G, et al. Designing a quality assurance system for dietary data 
+in a multicenter clinical trial: Women’s Intervention Nutrition Study.  J Am 
+Diet Assoc   2000 ; 100 : 1186  – 90.  
+
+   (21)    Baum M, Budzar AU, Cuzick J, Forbes J, Houghton JH, Klijn JG, et al. 
+Anastrozole alone or in combination with tamoxifen versus tamoxifen alone 
+for adjuvant treatment of postmenopausal women with early breast cancer: 
+ﬁ rst results of the ATAC randomized trial.  Lancet   2002 ; 359 : 2131  – 9.  
+
+   (22)    Goss  PE,  Ingle  JN,  Martino  S,  Robert  NJ,  Muss  HB,  Piccart  MJ,  et  al. 
+A  randomized  trial  of  letrozole  in  postmenopausal  women  after  ﬁ ve 
+years  of  tamoxifen  therapy  for  early-stage  breast  cancer.   N  Engl  J  Med  
+ 2003 ; 349 : 1793  – 802.  
+
+   (23)    Coombes RC, Hall E, Gibson LJ, Paridaens R, Jassen J, Delozier T, et al. A 
+randomized trial of exemestane after two to three years of tamoxifen ther-
+apy in postmenopausal women with primary breast cancer.  N Engl J Med  
+ 2004 ; 350 : 1081  – 92.  
+
+   (24)    Thurlimann B, Keshaviah A, Coates AS, Mouridsen H, Mauriac L, Forbes 
+JF, et al.; The Breast International Group (BIG) 1-98 Collaborative Group. 
+A comparison of letrozole and tamoxifen in postmenopausal women with 
+early breast cancer.  N Engl J Med   2005 ; 353 : 2747  – 57.  
+
+   (25)    Singletary SE, Allred C, Ashley P, Bassett LW, Berry D, Bland KI, et al. 
+Revision of the American Joint Committee on Cancer staging system for 
+breast cancer.  J Clin Oncol   2002 ; 20 : 3628  – 36.  
+
+   (26)    Chlebowski RT, Blackburn GL, Elashoff RE, Thomson C, Goodman MT, 
+Shapiro  A,  et  al.  Dietary  fat  reduction  in  postmenopausal  women  with 
+primary  breast  cancer:  Phase  III  Women’s  Intervention  Nutrition  Study 
+(WINS).  Proc Am Soc Clin Oncol   2005 ; 24 :Abstract  10 .  
+
+   (27)    Fisher  B,  Costantino  J,  Redmond  C,  Poisson  R,  Bowman  D,  Couture  J, 
+et al. A randomized clinical trial evaluating tamoxifen in the treatment of 
+patients  with  node-negative  breast  cancer  who  have  estrogen-receptor-
+positive tumors.  N Engl J Med   1989 ; 320 : 479  – 84.  
+
+   (28)    Fisher  B,  Redmond  C,  Legault-Poisson  S,  Dimitrov  NV,  Brown  AM, 
+ Wickerham DL, et al. Postoperative chemotherapy and tamoxifen compared 
+with tamoxifen alone in the treatment of positive-node breast cancer patients 
+aged 50 years and older with tumors responsive to tamoxifen: results from 
+the National Surgical Adjuvant Breast and Bowel Project B-16.  J Clin Oncol  
+ 1990 ; 8 : 1005  – 18.  
+
+   (29)    Lin D, Wei L, Ying, Z. Checking the Cox model with cumulative sums of 
+
+martingale residuals.  Biometrika   1993 ; 80 : 557  – 72.  
+
+   (30)    Haybitle JL. Repeated assessment of results in clinical trials of cancer treat-
+
+ment.  Br J Radiol   1971 ; 44 : 793  – 7.  
+
+   (31)    Prentice  RL,  Caan  B,  Chlebowski  RT,  Patterson  R,  Kuller  LH,  Ockene 
+JK, et al. Low-fat dietary pattern and risk of invasive breast cancer. The 
+Women’s Health Initiative randomized controlled dietary modiﬁ cation trial. 
+ JAMA   2006 ; 295 : 629  – 42.  
+
+   (32)    Fung TT, Hu FB, Holmes MD, Rosner BA, Hunter DJ, Colditz GA, et al. 
+Dietary patterns and the risk of postmenopausal breast cancer.  Int J Cancer  
+ 2005 ; 116 : 116  – 21.  
+
+   (33)    Salmon  DJ,  Leyland-Jones  B,  Shak  S,  Fuchs  H,  Paton V,  Bajamonde A, 
+et al. Use of chemotherapy plus a monoclonal antibody against HER2 for 
+metastatic breast cancer that overexpresses HER2.  N Engl J Med   2001 ; 344 :
+ 783  – 92.  
+
+   (34)    Romond EH, Perez EA, Bryant J, Suman VJ, Geyer CE Jr, Davidson NE, 
+et al. Trastuzumab plus adjuvant chemotherapy for operable HER2-positive 
+breast cancer.  N Engl J Med   2005 ; 353 : 1673  – 84.  
+
+   (35)    Piccart-Gebhart MJ, Procter M, Leyland-Jones B, Goldhirsch A, Untch M, 
+Smith I, et al. Trastuzumab after adjuvant chemotherapy in HER2 positive 
+breast cancer.  N Engl J Med   2005 ; 353 : 1659  – 72.  
+
+Journal of the National Cancer Institute, Vol. 98, No. 24, December 20, 2006 
+
+ARTICLES  1775
+
+Downloaded from https://academic.oup.com/jnci/article-abstract/98/24/1767/2521940
+by University of Ottawa user
+on 11 June 2018
+
+   (36)   Berry  DA,  Cirrincione  C,  Henderson  IC,  Citron  ML,  Budman  DR, 
+Goldstein  LJ,  et  al.  Estrogen-receptor  status  and  outcomes  of  modern 
+chemotherapy  for  patients  with  node-positive  breast  cancer.   JAMA  
+ 2006 ; 295 : 1658  – 67.  
+
+   (37)    Rose  DP,  Connolly  JM,  Chlebowski  RT,  Buzzard  IM,  Wynder  EL.  The 
+effects  of  a  low-fat  dietary  intervention  and  tamoxifen  adjuvant  therapy 
+on  the  serum  estrogen  and  sex  hormone-binding  globulin  concentra-
+tions  of  postmenopausal  breast  cancer  patients.   Breast  Cancer  Res  Treat  
+ 1993 ; 27 : 253  – 62.  
+
+   (38)    Wu  AH,  Pike  MC,  Stram  DO.  Meta-analysis:  dietary  fat  intake,  serum 
+estrogen  levels,  and  the  risk  of  breast  cancer.   J  Natl  Cancer  Inst    1999 ; 91 :
+ 529  – 34.  
+
+   (39)    Goodwin  PJ,  Ennis  M,  Pritchard  KI,  Trudeau  ME,  Koo  J,  Hartwick  W, 
+et  al.  Fasting  insulin  and  outcome  in  early-stage  breast  cancer:  results 
+of a prospective cohort study.  J Clin Oncol   2002 ; 20 : 42  – 51.  
+
+   (40)    Borugian MJ, Sheps SB, Kim-Sing C, Van Patten C, Potter JD, Dunn B, 
+et al. Insulin, macronutrient intake, and physical activity: are potential in-
+dicators of insulin resistance associated with mortality from breast cancer? 
+ Cancer Epidemiol Biomarkers Prev   2004 ; 13 : 1163  – 72.  
+
+   (41)    Pollack MN, Chapman JW, Shepherd L, et al. Insulin resistance, estimated 
+by serum C-peptide level, is associated with reduced event-free survival for 
+postmenopausal women in NCIC CTG MA.14 adjuvant breast cancer trial. 
+ Proc Am Soc Clin Oncol   2006 ; 24 : 524 .  
+
+   (42)    Toniolo  P,  Bruning  PF,  Akhmedkhanov  A,  Bonfrer  JM,  Koenig  KL, 
+ Lukanovia A, et al. Serum insulin-like growth factor-I and breast cancer. 
+ Int J Cancer   2000 ; 88 : 828  – 32.  
+
+   (43)    Wolf I, Sadetzki S, Catane R, Karasik A, Kaufman B. Diabetes mellitus and 
+
+breast cancer.  Lancet   2005 ; 6 : 103  – 11.  
+
+   (44)    Barnard RJ, Gonzalez JH, Liva ME, Ngo TH. Effects of a low-fat, high-ﬁ ber 
+diet and exercise program on breast cancer risk factors in vivo and tumor 
+cell growth and apoptosis in vitro.  Nutr Cancer   2006 ; 55 : 28  – 34.  
+
+   (45)    Clifton  PM,  Keogh  JB,  Foster  PR,  Noakes  M.  Effect  of  weight  loss  on 
+ inﬂ ammatory and endothelial markers and FMD using two low-fat diets. 
+ Int J Obes (Lond)   2005 ; 29 : 1445  – 51.  
+
+   (46)    Piccart-Gebhart M. New stars in the sky of treatment for early breast cancer. 
+
+ N Engl J Med   2004 ; 350 : 1140  – 2.  
+
+   (47)    Fisher B, Bauer M, Margolese R, Poisson R, Pilch Y, Redmond C, et al. Five 
+year results of a randomized clinical trial comparing total mastectomy and 
+segmental mastectomy with or without radiation in the treatment of breast 
+cancer.  N Engl J Med   1985 ; 312 : 665  – 73.  
+
+   (48)    Hunter  D.  Biochemical  indicators  of  dietary  intake.  In:  Willett  W,  editor. 
+Nutritional  epidemiology.  New  York:  Oxford  University  Press;   1998 . 
+p. 174 – 243.  
+
+   (49)    Chlebowski RT, Aiello E, McTiernan A. Weight loss in breast cancer patient 
+
+management.  J Clin Oncol   2002 ; 20 : 1128  – 43.  
+
+   (50)    Whiteman  MK,  Hillis  SD,  Curtis  KM,  McDonald  JA,  Wingo  PA, 
+Marchbanks  PA.  Body  mass  and  mortality  after  breast  cancer  diagnosis. 
+ Cancer Epidemiol Biomarkers Prev   2005 ; 14 : 2009  – 14.  
+
+   (51)    Boyd  NF,  Greenberg  C,  Lockwood  G,  Little  L,  Martin  L,  Byng  J,  et  al. 
+Effects  at  two  years  of  a  low-fat,  high-carbohydrate  diet  on  radiologic 
+ features  of  the  breast:  results  from  a  randomized  trial.  Canadian  Diet 
+and  Breast  Cancer  Prevention  Study  Group.   J  Natl  Cancer  Inst    1997 ; 89 : 
+488  – 96.  
+
+   (52)   Pierce JP, Faerber S, Wright FA, Rock CL, Newman V, Flatt SW, et al. 
+for  the  Women’s  Healthy  Eating  and  Living  (WHEL)  Study  Group. 
+A  randomized  trial  of  the  effect  of  a  plant-based  dietary  pattern  on 
+additional  breast  cancer  events  and  survival:  the  Women’s  Healthy 
+Eating  and  Living  (WHEL)  Study.   Control  Clin  Trials    2002 ; 23 :
+ 728  – 56.  
+
+   NOTES  
+
+   The following investigators were members of the WINS: Los Angeles Bio-
+medical Research Institute at Harbor-UCLA Medical Center — R. T. Chlebowski, 
+L. Lillington, M. Jackson; Institute for Cancer Prevention — E. L. Wynder  (de     -
+ceased),  D.  W.  Nixon,  B.  Winters,  K.  Hoy,  J.  Richie;  Beth  Israel  Deaconess 
+Medical  Center — G.  L.  Blackburn, T.  Copeland;  University  of  California  Los 
+Angeles — R. Elashoff, T. Johnson, W. Liu, M. N. Brooks; John Wayne Cancer 
+Institute — A.  Giuliano;  Cedars-Sinai  Medical  Center — P.  McAndrew;  Uni-
+versity  of  California  Irvine  Clinical  Cancer  Center — J.  Butler;  University  of 
+Hawaii — M.  Goodman;  Kaiser  Permanente  Medical  Group,  Oakland — B. 
+Caan;  Nutrition  Information  Consultants — K.  Storch;  North  Shore  University 
+Hos pital — V.  Vinciguerra;  Saint  Barnabas  Medical  Center — R.  Michaelson; 
+Evanston Hospital, Kellogg Cancer Care Center — D. Merkel; Memorial-Sloan 
+Kettering  Cancer  Center — C.  Hudis;  Lombardi  Cancer  Research  Center — 
+C.  Issacs;  Rhode  Island  Hospital — M.  Winkler;  Wayne  State  University — 
+M.  Simon;  University  of  Arizona — C.  Thomson;  Fred  Hutchinson  Cancer 
+Research  Center — A.  Kristal;  Kaiser  Permanente  Center  for  Health  Research, 
+Portland — K.  Karanja;  Ohio  State  University — W.  Farrar;  Medical  University 
+of  South  Carolina — R.  Hall;  Duke  University — W.  Demark-Wahnefried;  Ben-
+nett Cancer Center Hematology and Oncology — S. Del Prete; Geisinger Medical 
+Center — A.  Bernath;  Park  Nicollet  Institute  Oncology  Research — A.  Shapiro; 
+Medical College of  Wisconsin — G. Schectman; Christus Spohn Breast Care Pro-
+gram — E.  Salloum; Good Samaritan Medical Center — E. McKeen; University of 
+Miami — G. Shor-Posner; Midwestern Regional Medical Center — P. Vashi; Uni-
+versity of Iowa — L. Snetselaar; Bay State Medical Center — G. Markari-Judson.  
+  The  following  nutritionists  delivered  the  WINS  dietary  intervention:  N. 
+ Adamowicz, L. Ahrens, S. Anderson, M. Beddome, R. Beller, K. Bierl, D. Brake, 
+A.  Campa,  M.  Chrabaszewski,  C.  Coy,  S.  Dahlk,  F.  Ebel,  N.  Falla,  E.  Falk, 
+S.  Anikstein  Feldman,  J.  Ferrares,  V.  Fortunato,  J.  Galicinao,  A.  Gallagher, 
+P. Gregory, S. Heilman, W. Hirsch, M. Horan, P. Jensen, L. Kelleher, K.  Lombardi, 
+M.  Lubin, A.  M.  Maggi,  M.  Malone,  S.  Marshall, V.  Marsoobian,  D.  Moran, 
+K.  Mulligan,  E.  Nardi,  L.  Nylin,  J. T.  Papoutsakis,  J.  Pleuss,  K.  Radokovich, 
+J. Reddan, C. Rheingruber, C. Richardson, J. Schenk, K. Schwab, S. Shannon, 
+L. Shepard, S. Sloan, M. Sokil, D. Strong, A. Snyder, M. Vides, B. Whilden, 
+C. Willeford, D. Wilson, L. Wolf, R. Zinaman.  
+
+  The following investigators are members of the WINS Executive Committee: 
+R. T. Chlebowski, Executive Committee Chair, Clinical Director and Principal 
+Investigator; G. Blackburn, Chair, Nutrition Committee; R. Elashoff, Director, 
+Statistical Coordinating Unit; and K. Hoy, National Coordinator. Former Ex ecu-
+tive Committee chairs included E. L. Wynder (deceased) and D. W. Nixon.  
+
+  The following investigators were members of the the WINS External Advi sory 
+Committee: Sunnybrook Health Science Center — K. Pritchard, Chair; Mt Sinai 
+Hospital — P.  Goodwin;  Tufts  University — J.  Dwyer;  University  of   Hawaii — 
+L. Kolonel; Harvard University — W. Willett; and Cornell University — B. Turnbull.  
+  The  following  investigators  were  members  of  the  Pathology  Committee: 
+R.  Chlebowski,  Chair,  Los Angeles  Biomedical  Research  Institute  at  Harbor-
+UCLA  Medical  Center;  M.  Sanchey,  Englewood  Hospital;  and  T.  Ahmed, 
+New York Medical College.  
+
+  This study was primarily funded by the National Cancer Institute, National 
+Institutes  of  Health,  Department  of  Health  and  Human  Services.  Funding  for 
+supplemental  projects  was  provided  by  the  Breast  Cancer  Research  Foundation 
+and  the  American  Institute  for  Cancer  Research.  This  study  was  supported 
+by an investigator-initiated RO1 grant. The WINS investigators (with input from 
+the independent WINS External Advisory Committee) were solely responsible for 
+the design; data collection, analysis, and interpretation; writing of the manuscript; 
+and decision to submit for publication.   
+
+  Manuscript  received  March  27,  2006  ;  revised  October  4,  2006     ;  accepted 
+
+October 24, 2006.           
+
+1776  ARTICLES 
+
+Journal of the National Cancer Institute, Vol. 98, No. 24, December 20, 2006
+
+Downloaded from https://academic.oup.com/jnci/article-abstract/98/24/1767/2521940
+by University of Ottawa user
+on 11 June 2018
+
+

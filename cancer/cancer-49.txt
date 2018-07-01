@@ -1,0 +1,692 @@
+Nutritional ‘Omics’ Technologies for Elucidating the Role(s)
+of Bioactive Food Components in Colon Cancer Prevention
+
+Dietary Components Modify Gene Expression: Implications for
+Carcinogenesis1
+
+Kan Yang,* WanCai Yang, John Mariadason, Anna Velcich, Martin Lipkin,* and
+Leonard Augenlicht2
+Albert Einstein Cancer Center, Monteﬁore Medical Center, Bronx, NY 10467 and *Strang Cancer Prevention
+Center, New York, NY
+
+ABSTRACT Mouse genetic models that probe important pathways in intestinal cell maturation, such as cell-cycle
+regulation, apoptosis, and, especially, lineage speciﬁc differentiation, have provided profound insight into the
+underlying mechanisms of intestinal tumor formation and progression. However, a wealth of epidemiological and
+experimental data indicates that environment, especially the diet, is a principal determinant of relative risk for tumor
+development. We have demonstrated that even in mouse models in which tumor incidence is strongly initiated by
+genetic manipulation of genes, such as Apc, p21WAF1/cip1, and p27Kip1, a Western-style diet that is high in fat and
+low in calcium and vitamin D can dramatically increase and accelerate tumor formation. Moreover, experiments
+show that modulation of calcium and vitamin D levels can substantially inﬂuence tumor formation in both the mouse
+genetic models, as well as in a new dietary model that appears to mimic the development of sporadic colon cancer.
+Finally, analysis of gene expression proﬁles provides important insights into how diets may alter metabolic proﬁles
+and regulatory pathways that inﬂuence probability of tumor formation in the histologically and physiologically
+normal intestinal mucosa.
+
+J. Nutr. 135: 2710 –2714, 2005.
+
+KEY WORDS:
+
+● Western-style diet ● gene expression ● colon cancer
+
+Epidemiological studies have identiﬁed diet as a major
+variable that accounts for organ-site speciﬁc differences in
+incidence of cancer in patient populations in different coun-
+tries and geographical areas. For colon cancer, these differ-
+ences in incidence are profound. Moreover, there are several
+examples of migrant populations that clearly link these differ-
+ences in incidence to environmental factors. For example,
+native Japanese historically had a relatively low incidence of
+colon cancer relative to stomach cancer. Upon migration to
+the Hawaiian Islands, within one generation, this relative
+incidence begins to shift, and, within 2 generations, the inci-
+dence of colon cancer is nearly equivalent to the high rate of
+
+1 Presented as part of the symposium “Nutritional ‘Omics’ Technologies for
+Elucidating the Roles of Bioactive Food Components in Colon Cancer Prevention”
+given at the 2005 Experimental Biology meeting on April 5, 2005, San Diego, CA.
+The symposium was sponsored by the American Society for Nutritional Sciences
+and in part by the Diet and Cancer and Dietary Bioactive Food Components
+Research Interest Sections. The proceedings are published as a supplement to
+The Journal of Nutrition. This supplement is the responsibility of the Guest Editors
+to whom the Editor of The Journal of Nutrition has delegated supervision of both
+technical conformity to the published regulations of The Journal of Nutrition and
+general oversight of the scientiﬁc merit of each article. The opinions expressed in
+this publication are those of the authors and are not attributable to the sponsors
+or the publisher, editor, or editorial board of The Journal of Nutrition. The guest
+editors for the supplement publication are Cindy D. Davis, National Cancer
+Institute, National Institutes of Health, and Norman Hord, Department of Food
+Science and Human Nutrition, Michigan State University.
+
+2 To whom correspondence should be addressed.
+
+E-mail: augen@aecom.yu.edu.
+
+the U.S. white population. Thus, within 2 generations, there
+is almost an order of magnitude shift in the relative incidence
+of colon cancer. Two generations is far too short a time for the
+genetics of the population to have shifted signiﬁcantly, clearly
+demonstrating that environmental factors—most likely diet—
+account for this dramatic change. Conﬁrmation of this is the
+fact that as the citizens of Japan have adopted a more Western-
+style diet, their incidence of colon cancer has begun to in-
+crease relative to the historically lower levels. To put this in a
+practical context, such data indicate that it is theoretically
+possible to reduce colon cancer incidence by at least 50%, and
+possibly closer to 90%, by shifts in diet. If this could be
+realized, this would be an astounding advance in preventing
+this major disease.
+
+There is a wealth of data from rodent model systems, both
+chemically, as well as genetically induced intestinal cancer,
+that demonstrate the profound inﬂuence of diet on cancer
+initiation and progression. There is still, however, a reluctance
+on the part of most molecular and cell biologists to accept this
+as fundamental to the process of tumorigenesis. We believe
+there are 2 reasons for this. First, there is a fundamental
+misconception that diet may only play a role in establishing
+risk for tumor formation in those without genetic predisposi-
+tion. However, there are both population data and experimen-
+tal data that indicate this is not correct. For example, hered-
+itary nonpolyposis colorectal cancer is an inherited syndrome
+that imposes a very high risk for development of intestinal
+
+0022-3166/05 $8.00 © 2005 American Society for Nutrition.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/135/11/2710/4669904
+by University of Ottawa user
+on 24 June 2018
+
+2710
+
+DIETARY COMPONENTS AND GENE EXPRESSION
+
+2711
+
+cancer in affected families. However, it is instructive to note
+that in the original studies of this familial cancer syndrome by
+Warthin in the early 1900s, cancer family “G” had a high
+incidence of gastric cancer, which was also the principle
+sporadic gastrointestinal cancer in the United States at that
+time (1). By mid-century, when family “G” was revisited by
+Lynch, gastrointestinal cancer in this family was still high but
+had shifted in site to colon cancer, which had replaced gastric
+cancer as the principle site of sporadic intestinal cancer (2).
+Thus, the genetics of the family (i.e., inheritance of a mutant
+gene involved in DNA mismatch repair) dictated high cancer
+incidence, but the environment (i.e., diet) was responsible for
+dictating site speciﬁcity. We will also present data that dem-
+onstrate that in every mouse genetic model in which intestinal
+cancer is initiated at a very high frequency by inherited ge-
+netic mutations, dietary factors still exert a profound effect on
+tumor frequency and size, and, in some cases, site of formation.
+Therefore, even when high incidence is dictated by genetic
+factors, dietary effects can be manifest in terms of modulation
+of tumor frequency or size. In terms of clinical management,
+there are high-genetic-risk individuals for whom this may not
+be relevant. For example, in patients with familial adenoma-
+tous polyposis who develop hundreds of polyps, dietary alter-
+ations may decrease this number signiﬁcantly, but even a 50%
+decrease in polyp number would not dictate changes in clinical
+care. However, this does not alter the fact that diet can play a
+profound role in the penetrance of the disease on a per tumor
+basis.
+
+The second reason for the lack of attention among molec-
+ular biologists to the importance of diet is the difﬁculty in
+attributing dietary alterations in probability of tumor forma-
+tion to speciﬁc biochemical and molecular alterations. Con-
+sider that for the ⬃90% of colon cancers diagnosed in the
+United States termed sporadic colon cancer, the elevation of
+the probability of tumor formation by dietary factors may
+involve subtle affects on the intestinal mucosa that are inte-
+grated over 6 to 7 decades of life. During this time, there are
+⬃1012 cell divisions in the mucosa and even under the inﬂu-
+ence of diets that elevate risk signiﬁcantly, generally a single
+tumor forms. During this period of over 6 decades, the intes-
+tinal mucosa essentially functions normally and exhibits no
+pathology. We are therefore faced with the fact that there are
+very subtle shifts in physiology and metabolism that may
+increase the probability of only 1 of 1012 cell divisions under-
+going a change leading to neoplasia. Further, altered cells must
+also be retained in the mucosa, rather than being sloughed
+into the lumen, or undergoing apoptosis or anoikis. It is
+therefore difﬁcult to design experiments to identify alterations
+that may be of signiﬁcance. As regards to this, K. Yang, H.
+Newmark, and M. Lipkin (Strang Cancer Prevention Center;
+unpublished results) have developed a new model of rodent
+colon cancer modulated by diet that we believe mimics the
+generation of human sporadic intestinal cancer. We will dis-
+cuss data on altered pathways that may perturb intestinal
+homeostasis in this model and thus establish an increased
+probability of tumor formation.
+
+Dietary interaction with genetic factors in intestinal tumor
+formation
+
+We have used 2 versions of a Western-style diet (WD)3 to
+investigate the interaction of dietary and genetic factors in the
+
+3 Abbreviations used: cdki, cyclin dependent kinase inhibitor; NWD, new
+
+Western-style diet; WD, Western-style diet.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/135/11/2710/4669904
+by University of Ottawa user
+on 24 June 2018
+
+TABLE 1
+
+Mouse Western-style diets1
+
+Ingredient
+
+AIN-76A Western diet ⫹Calcium/vitamin D
+
+Fat (corn oil, %)
+Calcium, mg/g
+Vitamin D, IU/g
+Phosphorous, mg/g
+Fiber (cellulose, %)
+Folic Acid, ␮g/g
+DL-methionine, %
+L-Cysteine, %
+Choline bitartrate, %
+Kcal/g (approximate)
+
+5
+5
+1
+4
+5
+2
+0.3
+—
+0.2
+3.6
+
+1 Data from references 3, 5, 6.
+
+20
+0.5
+0.11
+3.6
+2
+0.23
+—
+0.3
+0.12
+4.5
+
+20
+7.0
+2.3
+3.6
+2
+0.23
+—
+0.3
+0.12
+4.5
+
+mouse (see Table 1). The original WD was formulated by
+Newmark and Lipkin to mimic major risk factors for intestinal
+cancer in developed countries, particularly in the United
+States (3–5). This diet is high in fat and low in calcium and
+vitamin D. It is important to note that these levels are within
+the normal range of these components in the U.S. diet. Thus,
+based on nutrient density, the levels of calcium and vitamin D
+are at the low end of the normal range but are not “deﬁcient”
+diets that raise other overt health problems for the mice or for
+individuals who consume such diets. The second WD we use
+(new Western Diet; NWD) has these same high levels of fat
+and low calcium and vitamin D, but also incorporates lower
+levels of ﬁber and compounds that contribute to the single
+carbon, “methyl donor” pool: folate, methionine, and choline
+(6). Lower intakes of these nutrients have each been linked to
+higher risk of colon cancer in the U.S. population.
+
+It has been demonstrated that the WD is effective in
+increasing tumor formation in Apc1638⫾ mice that inherit an
+inactive Apc allele (7). We have reported that additional
+inactivation of the gene that encodes the cyclin-dependent
+(cdki) p21WAF1/cip1 gene in the same
+kinase inhibitor
+Apc1638N mice is effective in increasing incidence, multiplic-
+ity, and size of intestinal tumors (8). Furthermore, despite the
+high initiation and progression of tumors caused by these
+genetic factors, maintaining the mice on the WD increased
+tumor frequency and volume signiﬁcantly for every p21 geno-
+type (p21⫹/⫹,⫹/⫺, or ⫺/⫺) and was additive to the effect of
+genotype (8). Moreover, this led to a marked decrease in
+animal life span, independent of p21 genotype, compared with
+mice fed the control, AIN76A diet (8).
+
+More recently, we have turned our attention to another
+cdki, termed p27Kip1. While it had been reported that inacti-
+vation of p27 in mice that harbor a mutant Apc allele was
+effective in enhancing tumor formation (9), we, in fact, found
+that inactivation of p27 alone was sufﬁcient to cause intestinal
+tumor formation in mice (10). We have subsequently found
+that this is strictly a function of diet: on a standard laboratory
+diet, used by most investigators, no tumors form in mice that
+are p27⫹/⫹, and very few tumors form in p27⫾ or ⫺/⫺ mice.
+However, when fed a deﬁned AIN76A diet, tumor formation
+is signiﬁcant for these latter 2 genotypes and increases even
+further in the same animals fed the WD (W. C. Yang, K.
+Bancroft, and L. Augenlicht, Albert Einstein Cancer Center;
+unpublished results). The lack of tumor formation in the
+animals fed the diet may be due to inhibitory phytochemicals
+in this plant-based diet. Alternatively, the AIN76A diet,
+designed to maximize growth of the mice, may be considered
+a tumor promoting diet. In either case, the profound affect of
+
+2712
+
+SYMPOSIUM
+
+dietary factors on tumor formation is apparent. Moreover, not
+only do Apc⫾, p27⫾ or ⫺/⫺ mice on the AIN76A and WD diet
+form tumors but they also exhibit intussusception, a pathology
+seen in patients with intestinal tumors, but not reported in
+mouse models (W. C. Yang, K. Bancroft, and L. Augenlicht,
+Albert Einstein Cancer Center; unpublished results). Finally,
+in every mouse model of intestinal cancer that we or our
+collaborators have investigated, including models involving
+defects in mismatch repair alone or coupled with inherited Apc
+mutations, the WD increased tumor formation and generally
+produced more tumors in the large intestine (K. Yang and M.
+Lipkin, Strang Cancer Prevention Center; unpublished re-
+sults). Therefore, it is clear that it is necessary to consider
+dietary factors to accurately model human intestinal cancer, as
+well as to maximize tumor formation in such models.
+
+A new mouse model of sporadic colon cancer
+
+Newmark et al. (6) reported that the NWD was capable of
+causing preneoplastic, as well as some neoplastic lesions, when
+fed to wild-type mice for more than 1 y. This has been studied
+further by them in an experimental design in which C57Bl/6J
+control mice were maintained, upon weaning, on either an
+AIN76A diet or the NWD diet. Moreover, since supplemen-
+tation of the WD with calcium and vitamin D had been shown
+to reverse the increased tumor formation stimulated by the
+WD in Apc1638⫾, ApcMin/⫹, and Apc⫾,Mlh1⫾ mice (K. Yang,
+Strang Cancer Prevention Center; W. Edelmann, Albert Ein-
+stein College of Medicine; R. Kucherlapati, Harvard Medical
+School; and M. Lipkin, Strang Cancer Prevention Center;
+unpublished results), a mouse group that was fed the NWD
+supplemented with calcium and vitamin D was also included.
+After 2 y on the NWD, mice developed a signiﬁcant number
+of colon and small intestinal tumors (both adenomas and
+adenocarcinomas), which was not seen when the NWD was
+supplemented with calcium and vitamin D (K. Yang and M.
+Lipkin, Strang Cancer Prevention Center; unpublished re-
+sults). The incidence and the number of colon tumors, kinetics
+of tumor development (i.e., at about 80% of the life span of
+the organism), and dependence of tumor formation on major
+risk factors for colon cancer in the Western diet are all
+remarkably similar to the development of sporadic colon can-
+cer in the human population.
+
+In the same experiment, mice from each dietary group were
+euthanized at 3 mo for analysis of molecular changes in colon
+epithelial cells that might predispose the animals for develop-
+ment of pathological changes at the later time points. This
+time point was chosen because it was sufﬁcient for the diets to
+have inﬂuenced metabolism and physiology that establish a
+relative risk for tumor development but early enough so that
+small tumors and microadenomas that presage tumor develop-
+ment at 18 –24 mo would not yet be a complicating factor in
+analysis.
+
+In comparing colonic RNA from animals maintained on
+the NWD to those fed the control AIN76A diet, about 15%
+of 28,000 sequences were altered in expression. This altered
+proﬁle of gene expression in the colon induced by the NWD
+compared with the AIN76A diet was partially shifted back by
+supplementation of the NWD with calcium and vitamin D
+toward the proﬁle of expression seen in the control diet. In
+fact, we were able to identify over 700 sequences altered in
+expression by the NWD that were signiﬁcantly shifted back by
+addition of calcium and vitamin D toward their expression
+levels in the AIN76A fed animals. Thus, there is a subset of
+sequences that closely track the levels of calcium and vitamin
+
+D in the diet, as well as the relative risk for tumor develop-
+ment.
+
+Grouping these sequences into functionally related catego-
+ries revealed signiﬁcant enrichment among sequences altered
+in expression for genes involved in 36 of 133 predeﬁned
+functional groups. For example, the proﬁle of expression of
+genes involved in lipid metabolism was altered by the NWD,
+consistent with the elevated fat content of this diet. Remark-
+ably, elevation of calcium and vitamin D in the NWD par-
+tially restored the pattern of expression of these genes to that
+seen in the control diet, even though no change was made to
+the lipid content of the diet. Thus, calcium and vitamin D
+appear to normalize the metabolic proﬁle of the cells with
+regard to lipid metabolism. There were also extensive changes
+in expression of genes associated with calcium homeostasis,
+again consistent with the differences in calcium levels in the
+different diets.
+
+One of the most interesting set of changes involved genes
+involved in Wnt signaling, the pathway that is at the center of
+initiating colon tumor formation in both the human and in
+the mouse genetic models. Wnt signaling is a developmental
+pathway that, when activated in the intestinal tract, favors the
+dissociation of ␤-catenin from E-cadherin in the membrane
+and therefore the association of ␤-catenin with Tcf4, a mem-
+ber of a family of transcription factors (11,12). This forms an
+active transcription complex that initiates a program of altered
+gene expression. This program has been shown to be associ-
+ated with the regulation of genes involved in cell cycling, such
+as c-myc and cyclin D1, as well as cell differentiation (13–15).
+In fact, it has been demonstrated that Wnt signaling maintains
+cells in a “crypt progenitor” like phenotype (14) and that in
+the constitutive absence of this signaling, when cells are forced
+to express a dominant-negative Tcf4 or in mice with a targeted
+inactivation of Tcf4, the stem-cell population differentiates,
+and the mucosa degenerates (16).
+
+In colon cancer, ␤-catenin-Tcf signaling becomes consti-
+tutive. A key regulatory element in the Wnt pathway is the
+APC gene product. This protein forms a complex with ␤-cate-
+nin, axin, and GSK3␤to target ␤-catenin for phosphorylation,
+and subsequent ubiquitination and proteosomal degradation
+(11,15,17). Thus, ␤-catenin-Tcf signaling is regulated in part
+by the APC gene product. In the development of colon
+cancer, APC (or less frequently, ␤-catenin itself) is mutated,
+either in the germ line or somatically, and this regulatory step
+is therefore abrogated (11,15,17). Thus, ␤-catenin-Tcf signal-
+ing becomes constitutively activated, leading to cell cycling
+and persistence of cells in a crypt progenitor-like phenotype
+(i.e., undifferentiated or partially differentiated), and eventu-
+ally, causing tumor formation.
+
+When mice were fed the NWD, there was an elevation of
+expression of ␤-catenin gene expression. Thus, cells may have
+been driven toward a more proliferative, less differentiated
+state. However, when mice were fed the NWD diet supple-
+mented with calcium and vitamin D, the level of expression of
+the ␤-catenin gene decreased, reestablishing a measure of
+regulation of the pathway. Further, when mice were fed the
+NWD, there was increased expression of genes that encode
+receptors for Wnt signals, which decreased when the NWD
+was supplemented by calcium and vitamin D. Therefore, there
+may be subtle changes in how the pathway responds to Wnt
+ligands and hence in homeostasis of the intestinal mucosa. In
+summary, diet appeared to modulate the key pathway that
+leads to colon tumor formation. Moreover, this could be re-
+lated to extensive changes in both the redox and the cytoskel-
+eton functional groups. It has recently been demonstrated that
+␤-catenin also regulates an oxidative stress pathway, which
+
+Downloaded from https://academic.oup.com/jn/article-abstract/135/11/2710/4669904
+by University of Ottawa user
+on 24 June 2018
+
+DIETARY COMPONENTS AND GENE EXPRESSION
+
+2713
+
+results in decreased cell proliferation (18,19). Therefore,
+␤-catenin regulated pathways may interact as positive and
+negative modulators of cell cycling to maintain homeostasis of
+the intestinal mucosa. As is clear from the development of
+tumors in animals maintained on the Western-style diet [in-
+terestingly, originally termed a “stress diet” by Newmark and
+Lipkin (3,7)], this drive to maintain homeostasis eventually
+fails, at least in some crypts, perhaps because of an imbalance
+in these pathways generated by the complexity of changes in
+both Wnt signaling and in redox functions. This may be
+reﬂected in alterations in expression of genes involved in
+cell-cycle progression. Finally, extensive changes in genes that
+encode proteins linked to cytoskeleton structure and function
+could also stem from the alterations in Wnt signaling, because
+their normal binding partners in the membrane, the cadherins,
+connect to the cytoskeleton (20). This may be of signiﬁcance
+in neoplastic transformation because cell shape changes may
+affect cell-cell and cell-matrix interactions and signaling, and
+such changes in the cytoskeletal network have long been
+recognized as a hallmark of cancer.
+
+Pathways of maturation in the intestinal tract
+
+As discussed above, dietary modulation of the probability of
+tumor development would be expected to affect pathways that
+govern normal cell maturation. These would include pathways
+that regulate and coordinate cell proliferation, cell migration,
+apoptosis/anoikis, and lineage-speciﬁc differentiation. There is
+certainly much information available regarding the role of key
+molecules in these maturation pathways, both in general and
+speciﬁcally for intestinal epithelial cells. To expand our
+knowledge of how cells mature during their migration from the
+crypt to the lumen, we have adapted the Weiser technique
+(21,22) to the mouse to fractionate cells according to their
+position within this continuum. This method involves pro-
+gressive dissociation of cells from the small intestine, begin-
+ning from the top of the villus (fraction 1) and proceeding
+down to the crypt (fraction 10). We have validated the frac-
+tionation in several ways (23): the expression of differentia-
+tion markers, such as villin and alkaline phosphatase, increase
+as a gradient from fraction 10 (bottom) to fraction 1 (top), and
+PCNA, a marker of proliferating cells, decreases along this
+axis, and is undetectable by approximately fraction 5. We have
+also done gene expression proﬁling of these fractions. This
+further validated the fractionation, as other differentiation
+markers also increased as cells migrated upward, and there was
+a good relation between sequences that changed in expression
+as cells migrated up from the crypt and sequences we had
+previously identiﬁed during the cell-cycle arrest and differen-
+tiation along the absorptive cell lineage of Caco2 cells in
+culture (24). Moreover, several sequences characteristically
+expressed in Paneth cells, which migrate down into the crypt
+base, were maximally expressed in the crypt fractions, as were
+a large number of cyclins and cyclin-dependent kinases, which
+drive the cells through the cell cycle. We have now compared
+the database of sequences altered in expression by the NWD
+diet to other gene expression databases we have generated
+(www.augenlichtlab.com). We found that a signiﬁcant per-
+centage of sequences altered in expression by diet are se-
+quences that also change in expression during migration of the
+cells along the crypt-lumen axis (G. Corner and L. Augen-
+licht, Albert Einstein Cancer Center; unpublished results).
+This is further evidence that the diets are likely altering
+homeostasis in the intestinal mucosa, at the molecular as well
+as the cellular level.
+
+A key role of c-myc and p21WAF1/cip1
+
+A particularly interesting pathway that governs cell matu-
+ration and which is regulated by Wnt signaling, encompasses
+the c-myc and the p21WAF1/cip1 gene, a cyclin-dependent ki-
+nase inhibitor. As discussed, c-myc is a target of ␤-catenin-
+Tcf4 transcriptional regulation (25), and, in the lower portion
+of the crypt where ␤-catenin-Tcf4 signaling is highest, expres-
+sion of c-myc is also high. Moreover, we have shown that
+c-myc decreases as cells migrate up the crypt, and coincident
+with this is an altered regulation of a large number of genes
+that have been shown to be c-myc targets (23). Thus, we
+believe that c-myc is a major element in stimulating the
+cascade of events that govern normal intestinal cell matura-
+tion. Further, p21 is one of the important genes that c-myc
+regulates in this cascade. The expression of p21 is repressed by
+c-myc forming a complex with a positive regulator of p21,
+Miz-1. Upon decreased expression of c-myc, Miz-1 becomes
+free to bind to and activate the promoter of p21, thus elevating
+p21 expression (14). In investigating the relative levels of
+c-myc and p21 mRNA expression along the crypt-lumen axis,
+we found that c-myc progressively decreases from fraction 10
+(crypt) to fraction 1 (top), while p21 levels are not elevated
+until the cells clearly exit the crypt (23). Thus, the ratio of p21
+to c-myc mRNA increases “stepwise” along this axis: due to
+the drop in c-myc, the p21/c-myc ratio is elevated as cells
+migrate up the crypt. This plateaus immediately until cells are
+in the villus. Then, as p21 is elevated, there is a further
+increase in the p21/c-myc ratio nearer the top of the crypt.
+
+This pattern needs to be conﬁrmed at the protein level and
+by more careful positioning of the changes along the crypt-
+villus axis. However, it may indicate an integration of the cell
+maturation inducing affects of c-myc and p21 along this axis,
+coordinated by the stoichiometry of the components. This
+may be critical, because, as discussed above, inactivation of
+p21 can increase tumor formation initiated by inactivation of
+Apc. Interestingly, the fact that inactivation of p21 is not
+sufﬁcient for tumor formation [i.e., in the intestine, inactiva-
+tion of p21 also required a mutation of Apc for tumor forma-
+tion (8)] may be because p21 is not normally expressed in
+either the stem-cell or the transit-cell population in the crypt
+but only as cells have migrated into the villus. In this context,
+it is interesting to note that we have recently detected that for
+the cdki p27, there may be higher expression in the crypt
+where it complexes with cdks (H. Smartt and L. Augenlicht,
+Albert Einstein Cancer Center; unpublished results). This
+raises the hypothesis that p27 in proliferating crypt cells,
+functions, at least in part, to restrain cycling cells from un-
+controlled growth. Thus, it would then be clear why targeted
+inactivation of p27 is sufﬁcient to initiate tumor formation
+(10).
+
+Summary
+
+The development of intestinal cancer, whether in well-
+deﬁned, high-risk groups, in the general population or in
+mouse models is highly dependent upon dietary exposures.
+Although dietary factors inﬂuence the probability of tumor
+formation, they may exert only subtle affects on the trillions of
+cells that reside over a lifetime in the intestinal mucosa, only
+a very small number of which, even in groups at higher risk,
+will develop into neoplastic lesions. While pathways inﬂu-
+enced by diet may produce phenotypically undetectable le-
+sions at early stages of carcinogenesis, the techniques described
+herein provide unique mechanistic insights into the identiﬁ-
+cation of diet-related gene expression patterns associated with
+
+Downloaded from https://academic.oup.com/jn/article-abstract/135/11/2710/4669904
+by University of Ottawa user
+on 24 June 2018
+
+2714
+
+SYMPOSIUM
+
+higher risk of colorectal cancer. There is great potential to use
+these models to support the biologic plausibility for dietary
+prevention of colorectal cancer and for the identiﬁcation of
+new or novel protective dietary factors.
+
+LITERATURE CITED
+
+1. Warthin AS. Heredity with reference to carcinoma. Arch Intern Med.
+
+2. Lynch HT, Krush AJ. Cancer family G revisited: 1895–1970. Cancer.
+
+1913;12:546 –55.
+
+1971;27:1505–11.
+
+3. Newmark HL, Lipkin M, Maheshwari N. Colonic hyperplasia and hyper-
+proliferation induced by a nutritional stress diet with four components of Western-
+style diet. J Natl Cancer Inst. 1980;82:491– 6.
+
+4. Newmark HL. Nutrient density: an important and useful tool for laboratory
+
+animal studies. Carcinogenesis. 1987;8:871–3.
+
+5. Newmark HL, Lipkin M, Maheshwari N. Colonic hyperproliferation in-
+duced in rats and mice by nutritional-stress diets containing four components of
+a human Western-style diet (series 2). Am J Clin Nutr. 1991;54: 209S-14.
+
+6. Newmark HL, Yang K, Lipkin M, Kopelovich L, Liu Y, Fan K, Shinozaki H.
+A Western-style diet induces benign and malignant neoplasms in the colon of
+normal C57Bl/6 mice. Carcinogenesis. 2001; 22:1871–5.
+
+7. Yang K, Edelmann,W, Fan K, Lau K, Leung D, Newmark H, Kucherlapati
+R, Lipkin M. Dietary modulation of carcinoma development in a mouse model for
+human familial polyposis. Cancer Res. 1998;58:5713–7.
+
+8. Yang WC, Mathew J, Velcich A, Edelmann W, Kucherlapati R, Lipkin M,
+Yang K, Augenlicht LH. Targeted inactivation of the p21 WAF1/cip1 gene en-
+hances Apc initiated tumor formation and the tumor promoting activity of a
+Western-style high risk diet by altering cell maturation in the intestinal mucosa.
+Cancer Res. 2001;61:565–9.
+
+9. Philipp-Staheli J, Kim KH, Payne SR, Gurley KE, Liggitt D, Longton G,
+Kemp CJ. Pathway-speciﬁc tumor suppression: reduction of p27 accelerates
+gastrointestinal tumorigenesis in Apc mutant mice, but not in Smad3 mutant
+mice. Cancer Cell. 2002;1:355– 68.
+
+10. Yang W, Bancroft L, Nicholas C, Lozonschi I, Augenlicht LH. Targeted
+inactivation of p27kip1 is sufﬁcient for large and small intestinal tumorigenesis in
+the mouse, which can be augmented by a Western-style high-risk diet. Cancer
+Res. 2003;63:4990 – 6.
+
+11. van Es JH, Giles RH, Clevers HC. The many faces of the tumor suppres-
+
+sor gene APC. Exp Cell Res. 2001;264:126 –34.
+
+12. Sancho E, Batlle E, Clevers H. Live and let die in the intestinal epithelium.
+
+Curr Opin Cell Biol. 2003;15:763–70.
+
+13. Mariadason JM, Bordonaro M, Aslam F, Shi L, Kuraguchi M, Velcich A,
+Augenlicht LH. Down-regulation of B-catenin-TCF signaling is linked to colonic
+epithelial cell differentiation. Cancer Res. 2001;61:3465–71.
+
+14. van de Wetering M, Sancho E, Verweij C, de Lau W, Oving I, Hurlstone A,
+van der Horn K, Batle E, Coudreuse D. The b-catenin/TCF-4 complex imposes a
+crypt progenitor phenotype on colorectal cancer cells. Cell. 2002;111:241–50.
+
+15. Vogelstein B, Kinzler KW. Cancer genes and the pathways they control.
+
+Nat Med. 2004;10:789 –99.
+
+16. Korinek V, Barker N, Moerer P, van Donselaar E, Huls G, Peters PJ,
+Clevers H. Depletion of epithelial stem-cell compartments in the small intestine of
+mice lacking Tcf-4. Nat Genet. 1998;19:379 – 83.
+
+17. Fodde R. The multiple functions of tumour suppressors: its all in APC. Nat
+
+Cell Biol. 2003;5:190 –2.
+
+18. Essers MAG, de Vries-Smits LMM, Barker N, Polderman P, Burgering
+interaction between b-catenin and FOXO in
+
+BMT, Korswagen H. Functional
+oxidative stress signaling. Science. 2005;308:1181– 4.
+
+19. Bowerman B. Oxidative stress and cancer: a b-catenin convergence.
+
+Science. 2005;308:1119 –20.
+
+20. Takeichi M. Cadherin cell adhesion receptors as a morphogenetic regu-
+
+lator. Science. 1991;251:1451–5.
+
+21. Weiser M. Intestinal epithelial cell surface membrane glycoprotein syn-
+thesis. I. An indicator of cellular differentiation. J Biol Chem. 1973;248:2536 – 41.
+22. Weiser M. Intestinal epithelial cell surface membrane glycoprotein syn-
+thesis. II. Glycosyltransferases and endogenous acceptors of the undifferentiated
+cell surface membrane. J Biol Chem. 1973;248:2542– 8.
+
+23. Mariadason JM, Nicholas C, L’Italien KE, Zhuang M, Smartt HJ, Heerdt
+BG, Yang W, Corner GA, Wilson AJ, et al. Gene expression proﬁling of intestinal
+epithelial cell maturation along the crypt-villus axis. Gastroenterology. 2005;128:
+1081– 8.
+
+24. Mariadason JM, Arango D, Corner GA, Aranes MJ, Hotchkiss KA, Yang
+WC, Augenlicht LH. A gene expression proﬁle that deﬁnes colon cell maturation
+in vitro. Cancer Res. 2002;62:4791– 804.
+
+25. He TC, Sparks AB, Rago C, Hermeking H, Zawel L, da Costa LT, Morin
+PJ, Vogelstein B, Kinzler KW. Identiﬁcation of c-MYC as a target of the APC
+pathway. Science. 1998;281:1509 –12.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/135/11/2710/4669904
+by University of Ottawa user
+on 24 June 2018
+
+

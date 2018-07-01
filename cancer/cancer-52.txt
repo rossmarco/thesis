@@ -1,0 +1,1873 @@
+Nutrient-Gene Interactions
+
+The CYP1A1 Genotype May Alter the Association of Meat Consumption
+Patterns and Preparation with the Risk of Colorectal Cancer in Men
+and Women1
+
+Maureen A. Murtaugh,*,2 Carol Sweeney,* Khe-ni Ma,* Bette J. Caan,† and
+Martha L. Slattery*
+*Health Research Center, Department of Family and Preventive Medicine, University of Utah, Salt Lake City,
+UT 84101 and †Division of Research, Kaiser Permanente, Oakland, CA 94612
+
+ABSTRACT We hypothesized that the risk of colorectal cancer associated with meat preparation methods
+producing heterocyclic amines or polycyclic aromatic hydrocarbons is modiﬁed by the CYP1A1 genotype alone or
+in combination with the GSTM1 genotype or the NAT2 imputed phenotype. A total of 952 rectal cancer cases and
+1205 controls (between September 1997 and February 2002) and 1346 colon cancer cases and 1544 controls
+(between October 1991 and September 1994) from Utah and Northern California were recruited from a population-
+based case-control study. Detailed interviews ascertained lifestyle, medical history, and diet and we extracted DNA
+from whole blood. Risk of colorectal cancer decreased among men with the CYP1A1 *2 any variant genotype and
+the lowest intake of poultry and men and women with high use of white meat drippings. Risk increased among men
+with the CYP1A1 *1 (no variant) allele and high white meat mutagen index, but decreased among those with the
+CYP1A1 *2 genotype. Risk increased with a high white meat mutagen index among women with the CYP1A1 *2
+genotype and the GSTM1 present genotype. Risk of colorectal cancer decreased with the CYP1A1 *2 genotype,
+the NAT2 slow phenotype, and the use of white meat or its drippings. The association of risk for colorectal cancer
+and selected red and white meat mutagen indices and the use of white meat drippings, or fried white meat variables
+was more evident within select combinations of the CYP1A1 genotype and either the GSTM1 genotype or NAT2
+than with the CYP1A1 alone. Genetic susceptibility may modify the associations of some meat or meat preparation
+factors with the risk of colorectal cancer.
+
+J. Nutr. 135: 179 –186, 2005.
+
+KEY WORDS:
+
+●
+
+rectal cancer ● meat ● CYP1A1 ● NAT2 ● GSTM1
+
+Heterocyclic amines (HCAs)3 are formed as a by-product of
+reactions during the cooking of meat, especially when it is
+well-done, char-broiled, or pan-fried (1–5). Dietary exposure
+to HCAs has been a suspected risk factor for colorectal cancer
+since the 1970s (6). Food is one of the primary sources of
+polycyclic aromatic hydrocarbon (PAH) exposure in the
+United States, and grilled or barbecued meats contribute much
+of the carcinogenic PAH in the diet (7). Inherited variation in
+the metabolism of HCA and PAH compounds appears to be
+responsible for between-individual variation in systemic expo-
+sure and may modify cancer risk associated with these expo-
+sures. Metabolism of certain PAH compounds to mutagenic
+
+1 This study was funded by CA48998 and CA85846 to Dr. Slattery and the
+Utah Cancer Registry, which is funded by Contract No. N01-PC-67000 from the
+National Cancer Institute, with additional support from the State of Utah Depart-
+ment of Health, the Northern California Cancer Registry, and the Sacramento
+Tumor Registry. The contents are solely the responsibility of the authors and do
+not necessarily represent the ofﬁcial view of the National Cancer Institute.
+
+3 Abbreviations used: A, adenine; bp, base pair; CYP, cytochrome p-450; C,
+cytosine; G, guanine; GST, glutathione S-transferase; HCA, heterocyclic amine;
+KPMCP, Kasier Permantente Northern California Cancer Registry; NAT, N-acetyl
+transferase; PAH, polycyclic aromatic hydrocarbon; PCR, polymerase chain re-
+action; T, thymine.
+
+2 To whom correspondence should be addressed.
+
+E-mail: mmurtaugh@hrc.utah.edu.
+
+(8,9). However, other CYP enzymes,
+
+forms is initiated by a cytochrome p-4501A1 (CYP1A1)-
+catalyzed hydroxylation. Reactive intermediates can be detox-
+iﬁed by the glutathione S-transferase M1 (GSTM1) enzyme.
+We hypothesized that variants that increase CYP1A1 activity,
+and the GSTM1 null variant, associated with no enzymatic
+activity, are also associated with increased risk of cancers.
+Initial N-hydroxylation of HCA compounds in liver is primar-
+ily catalyzed by CYP1A2; to date, no known CYP1A2 genetic
+variants explain the interindividual variation in CYP1A2 ac-
+tivity
+including
+CYP1A1, are capable of some metabolism of HCA and are
+expressed in extrahepatic tissues (10). Further, CYP1A en-
+zymes are coordinately regulated and a CYP1A1 polymor-
+phism may be correlated with a difference in CYP1A2 activity
+(11). The N-acetyl transferase (NAT) enzymes catalyze the
+next step of activation of HCAs, O-acetylation, to form com-
+pounds that covalently bind to DNA. Therefore, we hypoth-
+esized that CYP1A1 and the inherited low-activity NAT2
+variants may be associated with decreased risk of colorectal
+cancer (12).
+
+We used genotype information from large, population-
+based case-control studies of cancers of the colon (13) and
+rectum (14) for our previous reports that a high index for
+mutagen exposure from meat in diet was associated with an
+
+0022-3166/05 $8.00 © 2005 American Society for Nutritional Sciences.
+Manuscript received 1 June 2004. Initial review completed 4 July 2004. Revision accepted 26 October 2004.
+
+179
+
+Downloaded from https://academic.oup.com/jn/article-abstract/135/2/179/4663617
+by University of Ottawa user
+on 24 June 2018
+
+180
+
+MURTAUGH ET AL.
+
+were the same as those used in the colon cancer study and have been
+described in detail elsewhere (23).
+
+increased risk of colon (15) and rectal cancer (16) in men. In
+men, consumption of well-done meat was associated with an
+increased risk for rectal cancer (16). There was no association
+between mutagen index and colon or rectal cancer for women
+(15,16). We found that the risk of colon cancer was not
+associated with the NAT2 phenotype or the GSTM1 genotype
+alone, but was modestly increased among those men with the
+NAT2 intermediate or rapid type acetylator phenotype and
+high processed meat consumption or high mutagen index
+(15). Use of red meat drippings by women was associated
+with a decreased risk of rectal cancer, and this decrease was
+greater among women with the slow NAT2-imputed phe-
+notype and the GSTM1 absent genotype (16). We previ-
+ously reported that genotypes of phase II metabolizing en-
+zymes
+interacted with associations of meat and meat
+preparation variables differentially by gender with risk for
+colon (15) and rectal cancer (16).
+
+Studies considering combinations of phase I and phase II
+metabolizing enzymes might be necessary to determine sub-
+stantial increases in risk (8,17,18). However, the variants in
+the human CYP1A1 gene are infrequent in Caucasian popu-
+lations, so studies of association with cancer have had little
+power to detect an association (19 –22). In the present report,
+we investigated whether polymorphisms in CYP1A1, indepen-
+dently and in combination with GSTM1 genotype or NAT2
+imputed phenotype, modify the association of meat consump-
+tion and/or preparation with risk of colorectal cancer in men
+and women from Utah and northern California. Speciﬁcally
+we hypothesized that CYP1A1 variants increasing activity
+would be independently associated with increased risk of colo-
+rectal cancer. We hypothesized that those with the activity
+increasing variants in CYP1A1 and GSTM1 null genotype
+would be at increased risk of colorectal cancer and that those
+with the fast/intermediate NAT2 imputed phenotype would be
+at increased risk of colorectal cancer.
+
+MATERIALS AND METHODS
+
+Participants. Cases with a ﬁrst primary tumor in the rectosig-
+moid junction or rectum were identiﬁed between May 1997 and May
+2001 using a rapid-reporting system (14). Cases with ﬁrst primary
+colon cancer were identiﬁed between October 1991 and September
+1994 (13). Case eligibility was determined in northern California by
+the Surveillance Epidemiology and End Results Cancer Registries and
+in Utah using a rapid-reporting system. An on-line pathology report-
+ing system was searched for rapid case ascertainment of rectal cancer
+cases at Kaiser Permanente Northern California Cancer Registry
+(KPMCP). Cases identiﬁed were conﬁrmed through linkage to the
+KPMCP. Cases with a previous colorectal tumor were not eligible for
+the study. Cases with known (as indicated on the pathology report)
+familial adenomatous polyposis, ulcerative colitis, or Crohn’s disease
+were not eligible. In addition to these criteria, participants were
+between 30 and 79 y of age at the time of diagnosis, English speaking,
+and mentally competent to complete the interview.
+
+Controls were matched to cases by sex and by 5-year age groups.
+At the KPMCP, controls were randomly selected from membership
+lists, and in Utah controls 65 y and older were randomly selected from
+social security lists and controls younger than 65 were randomly
+selected from driver’s license lists. A total of 952 rectal cancer cases
+and 1205 matched controls and 1346 colon cancer cases and 1544
+matched controls are included in the analyses presented. Response
+rates for the rectal study were 65.2% for cases and 65.3% for controls;
+cooperation rates, or the number of people who participated from
+those who we were able to contact, were 73.2% for cases and 68.8%
+for controls. For the colon cancer study response rates were 71.8% for
+cases and 68.0% for controls.
+
+Data collection. Data were collected by trained and certiﬁed
+interviewers using laptop computers. The interview took approxi-
+mately 2 h. Quality control methods used in the rectal cancer study
+
+Downloaded from https://academic.oup.com/jn/article-abstract/135/2/179/4663617
+by University of Ottawa user
+on 24 June 2018
+
+Diet. We obtained dietary intake using an adaptation of the
+Coronary Artery Risk Development in Young Adults diet history
+(24 –26). Participants were asked to recall foods eaten for the calen-
+dar year occurring 2 y before their cancer diagnosis (cases) or recruit-
+ment into the study (controls), the frequency that they were eaten,
+serving size, and whether fats were added in the preparation. Food
+intake data were converted to nutrient data using the Minnesota
+Nutrition Coordinating Center nutrient database Version 4.02_30.
+Additional information was gathered on usual doneness of red meats
+(rare, medium rare, medium well done, and well done). Participants
+were asked how frequently they fried, broiled, baked, or barbequed
+(cooked at high temperatures) and how frequently drippings were
+used in other foods or gravies. Variables included servings of partic-
+ular foods or food groups (i.e., red meat, poultry, red meat drippings)
+consumed per day, week, or year. The mutagen index was calculated
+as the frequency of red meat, poultry, and ﬁsh consumption prepared
+by frying, broiling, baking, or barbecuing plus the use of drippings
+from red meat, poultry, or ﬁsh, multiplied by the usual doneness of red
+meat, poultry, and ﬁsh (1 ⫽ rare, 2 ⫽ medium rare, 3 ⫽ medium well,
+and 4 ⫽ well done) and the microwave factor (1 ⫽ microwave never
+used or used for thawing, 0.75 ⫽ sometimes used, 0.50 ⫽ often used,
+0.25 ⫽ always used) (15). A higher index reﬂects higher intake of
+potentially mutagenic compounds.
+
+Genetic data. DNA was extracted from whole blood. The
+CYP1A1 thymine (T) ⬎ cytosine (C) (*2A allele) transition in the
+3⬘-untranslated region was detected using the PCR method described
+by Hayashi et al. (27), in which the 343 basepair (bp) PCR product
+was digested with MspI. The common allele (T) is uncut and is ⬃340
+bp in length. The C allele is digested and leads to 2 smaller bands of
+200 and 140 bp. The CYP1A1 A4889G (Ile462Val, *2B allele) was
+detected using allele-speciﬁc PCR and was performed with one up-
+stream primer and 2 downstream primers as described by Rebbeck et
+al. (28) with the following modiﬁcations. The downstream primer
+speciﬁc for the uncommon allele guanine (G) was modiﬁed with a
+GC clamp to increase the melting temperature (CGCCCGCCGC-
+CGCCCGCCGCGTGTATCGGTGAGACCG); the downstream
+primer speciﬁc for the common allele adenine (A) is the same as in
+Rebbeck et al. (28) (GAAGTGTATCGGTGAGACCA). The
+common upstream primer used was (TTCCACCCGTTGCAG-
+CAGGATAGCC) (29). PCR was performed and analyzed using the
+iCycler iQ real-time detection system. PCR conditions were 35 cycles
+of 15 s each at 95, 61, and 72°C. This was followed by 10 s at 95°C
+and then by 80 cycles of half degree decrements for 10 s for analysis
+of melting temperature. The melting temperature of the common
+allele was 85.5°C, whereas the melting temperature of the uncommon
+(G) allele, due to the GC clamp, was 90.5°C. This assay utilizes Sybr
+green dye and the 2.3 version of the software. Any genotype with a
+G allele was veriﬁed by PCR ampliﬁcation with the following primers:
+CTGTCTCCCTCTGGTTACAGGAAG (29) and GGCACGC
+TGAATTCCAC GCAATGCAGC AGGATAGC, which was
+then followed by BsrDI restriction digestion. PCR conditions for this
+reaction were the same as for the above iCycler reaction except that
+30 cycles were performed. The uncut product is 215 bp in length. The
+G allele leads to loss of the restriction site and a 192-bp band due to
+digestion of the control BsrDI site. Amplicons with the A allele are
+further digested to 149/43 bp.
+
+The GSTM1 null genotype was detected using the PCR method
+described by Zhong et al. (30). To determine acetylator status we
+assessed the presence of the *5, *6, or *7 alleles of NAT2, using the
+method of Bell et al. (31). These 3 variants account for ⬃90 to 95%
+of the slow acetylation phenotype in Caucasians. All 3 variants could
+be identiﬁed from 1 PCR product that is digested with 3 different
+restriction enzymes. The C481T variant (*5 allele) was determined
+using a KpnI digest; the G590A variant (*6 allele) using a TaqI digest;
+and the G857A variant (*7 allele) using a Bam HI digest. Because
+genotype, not phenotype, is measured, we deﬁne imputed phenotype
+as follows: those carrying two *5, *6, or *7 variant alleles were
+classiﬁed as slow acetylators; those with 1 or 0 of these alleles were
+classiﬁed as rapid/intermediate acetylators. Detailed descriptions of
+the methods have been previously reported (15,16,32).
+
+DIET, CYP1A1 GENOTYPE, AND COLORECTAL CANCER
+
+181
+
+Height and weight were measured at the time of interview. The
+BMI (kg/m2) was calculated for men and women. Weight was also
+reported for the 2 and 5 y prior to interview. Physical activity data
+were collected using a physical activity questionnaire that has been
+described elsewhere (33). All procedures were approved by the Uni-
+versity of Utah Institution Review Board.
+
+Statistical methods. Descriptive statistics of continuous variables
+are presented as means ⫾ SD with comparisons made by Students t
+test. Descriptive statistics for categorical variables are presented as
+percentages and comparisons are made using chi-square tests. Differ-
+ences were considered signiﬁcant at P ⬍ 0.05. Unconditional logistic
+regression models were used to estimate risk (odds ratios, 95% CI) of
+colon and rectal cancer and dietary meat consumption and meat
+preparation methods. Associations were explored in men and women
+separately based on previous gender-speciﬁc ﬁndings (15,16). Asso-
+ciations with the mutagen index were similar for colon and rectal
+cancer; therefore, to increase power we pooled colon and rectal
+cancer cases by gender for further analysis.
+
+We assessed dietary data by determining risk across medians,
+thirds, or quartiles of intake or cutoffs used for previous papers (15)
+depending on the distribution of the data. The medians, thirds, or
+quartiles were determined by the sex-speciﬁc intake distribution in
+the control population. In these models the following variables were
+included: age at selection, BMI, physical activity, energy intake,
+dietary ﬁber, dietary calcium, and cigarette smoking status. To eval-
+uate the potential inﬂuence of ethnicity on results, analyses were
+repeated in Caucasians only. Odds ratios and interpretation of the
+data were not substantially different, although statistical signiﬁcance
+(P ⬍ 0.05) and CI were inﬂuenced by the smaller cell sizes. Results
+
+are reported for all race/ethnicities without race/ethnicity as a covari-
+ate.
+
+Linear trend was determined by evaluating the signiﬁcance of
+linear association across the categorized variable. We assessed the
+CYP1A1 as no variant (*1 neither variant) or any *2 variant (het-
+erozygous/variant) of the MspI or Ill462Val polymorphisms. The
+GSTM1 was assessed as present or absent and the NAT2 was analyzed
+as slow or rapid/intermediate imputed phenotype. Interaction, or
+effect modiﬁcation, between meat-related variables and the CYP1A1
+alone and with the GSTM1 or NAT2 genotype was evaluated as the
+excess risk on both additive (34) and multiplicative scales with trend
+variables.
+
+RESULTS
+
+Participants in the colon cancer study were between 64 and
+65 y of age, whereas participants in the rectal cancer study
+were between 61 and 62 y of age. The majority of participants
+were non-Hispanic white (Table 1). Men and women with
+colon cancer consumed more fat and a higher percentage of
+energy from fat than their gender-matched controls. Men and
+women with colon and rectal cancer consumed more choles-
+terol than controls. Men with rectal cancer consumed more
+animal protein than male controls. Men with colon or rectal
+cancer and women with rectal cancer consumed more red and
+processed meats than their gender-matched controls.
+
+Seventy-six percent of controls were homozygous for the
+CYP1A1 wild type (*1 allele). There was no interaction
+
+TABLE 1
+
+Characteristics of cases and controls1
+
+Colon cancer
+
+Rectal cancer
+
+Men
+
+Women
+
+Men
+
+Women
+
+Cases
+
+Controls
+
+Cases
+
+Controls
+
+Cases
+
+Controls
+
+Cases
+
+Controls
+
+756
+
+845
+
+590
+
+559
+
+673
+
+11,219 ⫾ 5273 11,165 ⫾ 5361 8973 ⫾ 4089 8564 ⫾ 3899 12,365 ⫾ 6346 11,976 ⫾ 5719 10,082 ⫾ 5150 9493 ⫾ 4283
+
+393
+
+98 ⫾ 62
+35 ⫾ 8
+86 ⫾ 44
+
+532
+
+91 ⫾ 55
+35 ⫾ 9
+82 ⫾ 35
+
+105 (61)*
+33 ⫾ 7*
+103 ⫾ 46
+
+98 ⫾ 59
+32 ⫾ 9
+100 ⫾ 49
+
+80 ⫾ 48*
+32 ⫾ 7*
+81 ⫾ 37
+
+118 ⫾ 74
+35 ⫾ 8
+106 ⫾ 56
+
+113 ⫾ 70
+34 ⫾ 8
+102 ⫾ 49
+
+699
+
+74 ⫾ 44
+31 ⫾ 7
+79 ⫾ 36
+
+15 ⫾ 3
+
+15 ⫾ 3
+
+15 ⫾ 3
+
+16 ⫾ 3
+
+15 ⫾ 6
+
+15 ⫾ 7
+
+15 ⫾ 7
+
+15 ⫾ 7
+
+68 ⫾ 34
+1191 ⫾ 672
+
+65 ⫾ 37
+1229 ⫾ 693
+
+53 ⫾ 27
+974 ⫾ 545
+
+51 ⫾ 27
+977 ⫾ 561
+
+70 ⫾ 42*
+1227 ⫾ 691
+
+65 ⫾ 36
+1244 ⫾ 770
+
+55 ⫾ 31
+1040 ⫾ 600
+
+51 ⫾ 25
+1074 ⫾ 540
+
+364 ⫾ 242*
+
+332 ⫾ 238
+
+266 ⫾ 174*
+
+241 ⫾ 149
+
+387 ⫾ 253*
+
+345 ⫾ 225
+
+293 ⫾ 188*
+
+253 ⫾ 158
+
+5.9 ⫾ 4.8*
+
+5.3 ⫾ 4.8
+
+4.0 ⫾ 3.4
+
+3.8 ⫾ 3.5
+
+6.2 ⫾ 6.1*
+
+5.5 ⫾ 5.0
+
+4.4 ⫾ 3.8*
+
+3.8 ⫾ 3.1
+
+1.6 ⫾ 1.5
+
+1.7 ⫾ 1.9
+
+1.6 ⫾ 1.5
+
+1.6 ⫾ 1.5
+
+2.4 ⫾ 2.6*
+2.0 ⫾ 2.7
+65 ⫾ 10
+
+1.9 ⫾ 2.3
+2.0 ⫾ 2.4
+64 ⫾ 10
+
+1.3 ⫾ 1.5
+1.6 ⫾ 1.8
+64 ⫾ 10
+
+1.2 ⫾ 1.4
+1.6 ⫾ 1.7
+64 ⫾ 10
+
+2.1 ⫾ 2.4
+
+2.2 ⫾ 2.2
+2.1 ⫾ 2.8
+61 ⫾ 10
+
+2.0 ⫾ 2.0
+
+1.6 ⫾ 1.8
+2.0 ⫾ 2.8
+62 ⫾ 10
+
+1.8 ⫾ 1.8
+
+1.8 ⫾ 1.8
+
+1.2 ⫾ 1.6*
+1.7 ⫾ 2.1
+61 ⫾ 11
+
+0.9 ⫾ 1.0
+1.5 ⫾ 1.6
+62 ⫾ 11
+
+87.3
+5.6
+
+7.2
+—
+
+—
+
+88.2
+6.4
+
+5.4
+—
+
+—
+
+86.3
+6.8
+
+7.0
+—
+
+—
+
+88.3
+7.2
+
+4.6
+—
+
+—
+
+80.2
+7.4
+
+4.1
+7.0
+
+1.3
+
+82.2
+7.7
+
+5.0
+4.8
+
+0.3
+
+83.6
+8.1
+
+3.9
+3.7
+
+0.8
+
+86.0
+7.6
+
+3.2
+2.8
+
+0.4
+
+n
+Energy, kJ/d
+Total fat, g/d
+Fat, % energy
+Protein, g/d
+Protein,
+
+% energy
+Animal protein,
+
+g/d
+
+Calcium, mg/d
+Cholesterol,
+
+mg/d
+Red meat,
+
+servings/wk
+
+Poultry,
+
+servings/wk
+Processed meat,
+servings/wk
+Fish, servings/wk
+Age, y
+
+Ethnicity, %
+White, not
+Hispanic
+
+Hispanic
+Black, not
+Hispanic
+
+Asian
+American
+Indian
+
+1 Values are means ⫾ SD or percentages. * Different from controls of the same sex, P ⬍ 0.05.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/135/2/179/4663617
+by University of Ottawa user
+on 24 June 2018
+
+182
+
+MURTAUGH ET AL.
+
+among red meat consumption, use of red meat cooked at high
+temperatures or use of red meat drippings, use of well-done red
+meat, or red meat mutagen index and CYP1A1 genotype. The
+association of colorectal cancer and poultry consumption ap-
+peared to be modiﬁed by the CYP1A1 genotype in men; risk
+was constant across the range of poultry intake in men with
+the CYP1A1 no variant genotypes and increased across the
+range of poultry intake in men with any *2 variant (any
+variant of MspI or Ill462Val) of the CYP1A1 genotypes (Table
+2). The association of colorectal cancer with white meat
+drippings appeared to be modiﬁed by CYP1A1 genotype in
+both men and women. In men and women with the CYP1A1
+no variant alleles (*1), use of white meat drippings was asso-
+ciated with no change in risk, but in men with any *2 variant
+of the CYP1A1 genotypes, risk decreased with use of white
+meat drippings. In women with any *2 variant alleles of the
+CYP1A1 genotypes risk of colorectal cancer increased with use
+of white meat drippings 1–36 times per year, but decreased
+with more frequent use. Risk of colorectal cancer increased
+
+among women with any *2 variant alleles of the CYP1A1
+genotypes and a low white meat mutagen index. The risks of
+colorectal cancer associated with CYP1A1 genotype and meat
+consumption and preparation were not modiﬁed by age or
+estrogen status (data not shown).
+
+The association of red meat consumption with risk for
+colorectal cancer was not signiﬁcantly modiﬁed by the com-
+bination of CYP1A1 genotypes and GSTM1 genotype (Table
+3). Risk of colorectal cancer increased with preference for
+well-done red meat among men, but did not differ between
+wild and any *2 variant CYP1A1 genotypes. There was a
+signiﬁcant interaction among use of white meat drippings,
+CYP1A1 genotypes, and risk of colorectal cancer in men.
+There was a decreased risk of colorectal cancer associated with
+the highest use of white meat drippings in men who had the
+CYP1A1 any *2 variant genotype and the GSTM1 present
+genotype. The interaction of white meat mutagen index,
+CYP1A1 genotype, and GSTM1 genotype indicated an in-
+crease in risk among men with a high white meat mutagen
+
+Associations of meat consumption, preparation, CYP1A1 genotypes, and risk of colorectal cancer by gender1
+
+CYP1A1 genotype
+
+TABLE 2
+
+Variable
+Red meat, servings/wk
+
+Fried, broiled, baked,
+
+or barbecued red
+meat, times/y
+
+Use of red meat
+
+drippings, times/y
+
+Doneness of red meat
+
+Red meat mutagen
+
+index
+
+Poultry, servings/wk
+
+Fried, broiled, baked,
+or barbecued white
+meat, times/y
+
+Use of white meat
+
+drippings, times/y
+
+White meat mutagen
+
+index
+
+ⱕ3.1
+3.2–6.1
+⬎6.1
+
+ⱕ52
+53–156
+⬎156
+
+Never
+1–36
+⬎36
+Rare
+Medium well
+Well
+
+ⱕ104
+105–234
+235–468
+⬎468
+ⱕ0.80
+0.80–2.0
+⬎2.0
+
+ⱕ52
+53–104
+⬎104
+
+Never
+1–36
+⬎36
+
+ⱕ117
+118–288
+289–468
+⬎468
+
+*1 allele
+
+1.00
+
+0.94 (0.74, 1.20)
+0.95 (0.73, 1.25)
+
+Men
+
+Any *2 variant
+0.72 (0.51, 1.01)
+0.92 (0.65, 1.30)
+0.87 (0.61, 1.25)
+
+1.00
+
+1.02 (0.81, 1.27)
+1.14 (0.87, 1.51)
+
+0.73 (0.54, 0.99)
+1.22 (0.89, 1.68)
+0.77 (0.51, 1.17)
+
+ⱕ1.9
+2.0–4.2
+⬎4.2
+
+ⱕ52
+53–156
+⬎156
+
+*1 allele
+
+1.00
+
+1.13 (0.85, 1.49)
+1.05 (0.77, 1.43)
+
+1.00
+
+0.91 (0.71, 1.16)
+0.91 (0.65, 1.63)
+
+0.83 (0.64, 1.08)
+0.90 (0.72, 1.12)
+
+1.00
+
+1.00
+
+1.16 (0.91, 1.47)
+1.37 (1.06, 1.77)
+
+1.00
+
+0.68 (0.51, 0.90)
+0.95 (0.71, 1.25)
+1.05 (0.79, 1.39)
+
+1.00
+
+0.93 (0.73, 1.18)
+0.87 (0.68, 1.11)
+
+0.95 (0.70, 1.27)
+0.47 (0.31, 0.72)
+0.84 (0.61, 1.16)
+1.08 (0.75, 1.55)
+0.83 (0.58, 1.17)
+1.22 (0.87, 1.70)
+
+Never
+1–36
+⬎36
+Rare
+Medium well
+Well
+
+0.71 (0.48, 1.05)
+0.66 (0.43, 1.00)
+0.93 (0.63, 1.37)
+0.86 (0.58, 1.27)
+0.66 (0.47, 0.92)
+0.83 (0.59, 1.18)
+0.95 (0.67, 1.33)2,3
+
+ⱕ104
+105–312
+313–624
+⬎624
+ⱕ0.86
+0.87–1.93
+⬎1.93
+
+0.87 (0.65, 1.16)
+0.72 (0.55, 0.93)
+
+1.00
+
+1.00
+
+0.92 (0.68, 1.23)
+0.90 (0.67, 1.19)
+
+1.00
+
+0.83 (0.62, 1.13)
+0.80 (0.59, 1.10)
+0.68 (0.47, 0.99)
+
+1.00
+
+0.96 (0.73, 1.26)
+1.06 (0.80, 1.40)
+
+Women
+
+Any *2 variant
+1.16 (0.77, 1.74)
+0.90 (0.59, 1.36)
+1.24 (0.82, 1.88)
+
+0.92 (0.65, 1.27)
+1.14 (0.79, 1.64)
+0.90 (0.52, 1.56)
+
+0.94 (0.66, 1.34)
+0.89 (1.57, 1.41)
+0.79 (0.53, 1.17)
+0.94 (0.60, 1.47)
+0.83 (0.53, 1.30)
+1.05 (0.72, 1.53)
+
+0.96 (0.62, 1.49)
+0.72 (0.46, 1.13)
+1.00 (0.63, 1.58)
+0.77 (0.44, 1.33)
+1.23 (0.84, 1.79)
+1.00 (0.67, 1.49)
+0.88 (0.58, 1.35)
+
+1.00
+
+1.06 (0.84, 1.35)
+1.18 (0.92, 1.51)
+
+0.88 (0.66, 1.16)
+1.04 (0.73, 1.47)
+0.82 (0.55, 1.21)
+
+1.00
+
+0.85 (0.66, 1.11)
+1.11 (0.86, 1.43)
+
+1.02 (0.79, 1.32)
+0.55 (0.35, 0.86)
+0.72 (0.49, 1.05)3,4
+
+1.00
+
+1.13 (0.86, 1.48)
+1.11 (0.84, 1.46)
+1.28 (0.94, 1.72)
+
+1.08 (0.72, 1.63)
+0.83 (0.57, 1.21)
+1.07 (0.74, 1.57)
+0.90 (0.59, 1.39)4
+
+ⱕ52
+53–104
+⬎104
+
+Never
+1–36
+⬎36
+
+ⱕ156
+157–312
+313–624
+⬎624
+
+1.00
+
+0.88 (0.67, 1.16)
+0.98 (0.75, 1.29)
+
+1.00
+
+1.02 (0.76, 1.37)
+1.10 (0.84, 1.46)
+
+1.00
+
+1.26 (0.92, 1.73)
+1.18 (0.88, 1.57)
+1.06 (0.74, 1.53)
+
+1.22 (0.86, 1.72)
+0.86 (0.54, 1.38)
+0.82 (0.54, 1.23)
+
+1.10 (0.81, 1.48)
+1.65 (1.00, 2.71)
+0.63 (0.39, 1.02)2,4
+
+1.63 (1.06, 2.51)
+1.22 (0.77, 1.92)
+0.99 (0.64, 1.52)
+0.78 (0.43, 1.39)2–4
+
+1 CYP1A1 *1 allele is neither variant, any *2 variant includes any Msp1 or Ill462Val rare alleles. Odds ratios (95% CI) are adjusted for age, BMI,
+
+energy intake, dietary ﬁber and calcium, lifetime physical activity, and usual number of cigarettes smoked.
+
+2 Signiﬁcant interaction [relative excess risk of interaction (RERI)] on the additive scale (P ⬍ 0.05).
+3 Slope differs between CYP1A1 genotypes (P ⬍ 0.05).
+4 Signiﬁcant interaction on the multiplicative scale (P ⬍ 0.05).
+
+Downloaded from https://academic.oup.com/jn/article-abstract/135/2/179/4663617
+by University of Ottawa user
+on 24 June 2018
+
+DIET, CYP1A1 GENOTYPE, AND COLORECTAL CANCER
+
+183
+
+Colorectal cancer risk and meat preparation by CYP1A1 genotypes and GSTM1 genotypes by gender
+
+TABLE 3
+
+Variable
+
+Red meat mutagen index
+
+Men
+
+Women
+
+Use of white meat drippings, times/y
+
+Men
+
+Women
+
+White meat mutagen index
+
+Men
+
+Women
+
+ⱕ156
+157–416
+⬎416
+ⱕ156
+157–416
+⬎416
+
+Never
+1–36
+⬎36
+Never
+1–36
+⬎36
+
+ⱕ156
+157–351
+⬎351
+ⱕ208
+209–468
+⬎468
+
+CYP1A1 *1 allele1
+
+CYP1A1 any *2 variant
+
+GSTM1 absent
+
+GSTM1 present
+
+GSTM1 absent
+
+GSTM1 present
+
+0.74 (0.53, 1.04)
+1.14 (0.81, 1.60)
+
+1.09 (0.75, 1.60)
+0.85 (0.58, 1.24)
+
+1.00
+
+1.00
+
+1.00
+
+1.00
+
+0.70 (0.48, 1.02)
+0.95 (0.67, 1.35)
+
+0.93 (0.62, 1.40)
+1.06 (0.73, 1.56)
+
+1.47 (1.03, 2.10)
+1.36 (0.98, 1.88)
+
+1.00
+
+1.00
+
+1.16 (0.81, 1.67)
+0.97 (0.65, 1.44)
+
+0.91 (0.66, 1.27)
+0.89 (0.63, 1.25)
+1.10 (0.78, 1.55)
+1.23 (0.83, 1.83)
+1.15 (0.77, 1.70)
+0.84 (0.57, 1.25)
+
+0.88 (0.69, 1.14)
+0.92 (0.64, 1.33)
+1.15 (0.80, 1.66)
+1.00 (0.74, 1.36)
+1.23 (0.80, 1.88)
+1.15 (0.77, 1.72)
+
+1.15 (0.82, 1.61)
+1.29 (0.90, 1.85)
+1.38 (0.99, 1.92)
+1.08 (0.74, 1.58)
+1.33 (0.92, 1.93)
+0.99 (0.66, 1.49)
+
+0.99 (0.63, 1.55)
+0.80 (0.49, 1.31)
+0.93 (0.56, 1.54)
+1.30 (0.76, 2.23)
+0.77 (0.43, 1.40)
+0.73 (0.42, 1.27)
+
+0.98 (0.69, 1.41)
+0.48 (0.25, 0.92)
+1.00 (0.59, 1.72)
+1.02 (0.67, 1.57)
+1.59 (0.79, 3.23)
+0.48 (0.25, 0.92)
+
+1.34 (0.84, 2.16)
+0.79 (0.46, 1.33)
+1.49 (0.94, 2.38)
+1.19 (0.70, 2.02)
+1.00 (0.58, 1.72)
+0.76 (0.42, 1.38)
+
+0.63 (0.40, 1.01)
+0.91 (0.56, 1.50)
+0.90 (0.56, 1.45)
+0.72 (0.40, 1.26)
+1.24 (0.68, 2.29)
+1.98 (1.06, 3.67)b
+
+0.98 (0.68, 1.40)
+0.57 (0.30, 1.07)
+0.53 (0.31, 0.92)a
+1.12 (0.73, 1.72)
+1.68 (0.81, 3.45)
+1.03 (0.48, 2.19)
+
+0.95 (0.58, 1.57)
+1.33 (0.81, 2.19)
+0.95 (0.60, 1.50)a
+1.49 (0.90, 2.47)
+1.19 (0.65, 2.21)
+0.96 (0.49, 1.87)a
+
+1 CYP1A1 *1 allele is neither variant, any *2 variant includes any MspI or Ill462Val rare alleles. Odds ratios (95% CI) are adjusted for age, BMI,
+energy intake, dietary ﬁber and calcium, lifetime physical activity, and usual number of cigarettes smoked. a Interaction on the multiplicative scale (P
+⬍ 0.05). b Interaction (RERI) on the additive scale (P ⬍ 0.05).
+
+index and any combination of CYP1A1 genotypes and
+GSTM1 genotype except any CYP1A1 variant genotypes and
+the GSTM1 present genotype where risk was neither elevated
+nor decreased. In women, there was a nearly 2-fold increase
+with a high red meat mutagen index, with any CYP1A1
+variant and GSTM1 present genotypes (OR 1.98, 95% CI
+1.06, 3.67).
+
+We found increased risk associated with low white meat
+mutagen index and CYP1A1 variant genotype among women
+who had the GSTM1 present genotype.
+
+The combination of CYP1A1 genotype and NAT2 imputed
+phenotype modiﬁed the association of white meat consump-
+tion and use of white meat drippings with risk for colorectal
+cancer. Men with the highest consumption of white meat, the
+CYP1A1 wild-type genotypes, and the NAT2 slow imputed
+phenotype had an increased risk of colorectal cancer (OR
+1.40, 95% CI 1.01, 1.95, Table 4). The risk for colorectal
+cancer decreased (OR 0.61, 95% CI 0.14, 1.03) among men
+with the most frequent use of white meat drippings and the
+CYP1A1 variant genotype and the NAT2 rapid imputed phe-
+notype. The increased risk associated with a high white meat
+mutagen index and CYP1A1 wild genotype occurred primarily
+among those men who also had the NAT2 rapid imputed
+phenotype (P for multiplicative interaction ⬍ 0.02). An in-
+creased risk was also associated with a low white meat mutagen
+index in women with the CYP1A1 variant genotype and the
+NAT2 slow imputed phenotype, although neither the odds
+ratio (OR 1.47, 95%CI 0.88, 2.46) nor the interaction was
+signiﬁcant (P ⬎ 0.14).
+
+DISCUSSION
+
+We hypothesized that the risk of colorectal cancer would
+increase with consumption of meats cooked at high tempera-
+tures and the CYP1A1 22 MspI or Ill462Val polymorphisms.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/135/2/179/4663617
+by University of Ottawa user
+on 24 June 2018
+
+We detected a decrease in risk of colorectal cancer with any *2
+variant alleles of CYP1A1 and white meat drippings in men
+and women. Examination of any *2 variant alleles of CYP1A1
+with polymorphisms
+in phase II metabolizing enzymes
+(GSTM1 genotype and NAT2 imputed phenotype) associa-
+tions were not always in the direction hypothesized. Previous
+studies have found both that NAT2 fast acetylators are not at
+greater risk for colorectal cancer when exposed to high levels
+of well-cooked meat (35) and that risks associated with con-
+sumption of processed meats and a high mutagen index were
+strongest with those with the intermediate or fast NAT2
+acetylator genotype (15). Characterization of multiple poly-
+morphisms in phase I and phase II metabolizing enzymes may
+be needed before substantial increases in risk of colorectal
+cancer are identiﬁable, even with high exposure to dietary
+sources of mutagens.
+
+CYP1A1 plays a role in activation of PAHs and HCAs;
+therefore we hypothesized a greater risk of colorectal cancer
+with CYP1A1 variants tending to increase enzymatic activity
+and greater intake of meats, especially well-done meats or
+those cooked at high temperatures. Although red meat is a
+suspected risk factor for colorectal cancer (36), and we previ-
+ously found a positive association of red meat with colon
+cancer (P ⬎ 0.05) and red meat doneness (P ⫽ 0.04) with the
+risk of rectal cancer (16) among men, we found that the more
+consistent associations detected in this study were with white
+meat and white meat drippings. The association of white meat
+to colorectal cancer is not consistent, with reports that white
+meat is both a signiﬁcant risk factor for colon cancer in men
+and women (37) when analyzed separately (15) and associated
+with a decreased risk of colorectal adenomas (38). Levels of
+HCAs in beef and chicken did not differ (39). Cooking
+methods also affects levels of HCA, and a recent report sug-
+gested that baked versus pan-fried red and white meats have
+
+184
+
+MURTAUGH ET AL.
+
+TABLE 4
+
+Risk for colorectal cancer associated with meat preparation, CYP1A1 genotype, and NAT2 imputed phenotype by gender
+
+Variable
+
+Red meat mutagen index
+
+Men
+
+Women
+
+Fried, broiled, baked, or barbecued white meat,
+
+servings/y
+
+Men
+
+Women
+
+Use of white meat drippings, servings/y
+
+Men
+
+Women
+
+White meat mutagen index
+
+Men
+
+Women
+
+ⱕ156
+157–416
+⬎416
+ⱕ156
+157–416
+⬎416
+
+ⱕ52
+53–104
+⬎104
+ⱕ52
+53–104
+⬎104
+
+Never
+1–36
+⬎36
+Never
+1–36
+⬎36
+
+ⱕ156
+157–351
+⬎351
+ⱕ208
+209–468
+⬎468
+
+CYP1A1 *1 allele1
+
+CYP1A1 any *2 variant
+
+NAT2 slow
+
+NAT2 rapid
+
+NAT2 slow
+
+NAT2 rapid
+
+0.94 (0.69, 1.29)
+1.08 (0.79, 1.49)
+
+1.00
+
+1.00
+
+0.99 (0.68, 1.44)
+0.70 (0.48, 1.01)
+
+1.00
+
+1.00
+
+1.00
+
+1.00
+
+1.00
+
+1.00
+
+1.17 (0.86, 1.60)
+1.40 (1.01, 1.95)
+
+0.96 (0.66, 1.40)
+0.91 (0.64, 1.30)
+
+0.90 (0.64, 1.26)
+1.20 (0.86, 1.68)
+
+0.90 (0.60, 1.33)
+0.96 (0.65, 1.41)
+
+1.24 (0.89, 1.73)
+1.44 (1.06, 1.96)
+
+1.11 (0.78, 1.58)
+0.88 (0.59, 1.29)
+
+0.98 (0.70, 1.37)
+0.78 (0.55, 1.11)
+1.33 (0.94, 1.89)
+0.98 (0.67, 1.44)
+1.01 (0.69, 1.49)
+0.88 (0.59, 1.33)
+
+0.80 (0.51, 1.26)
+0.79 (0.49, 1.29)
+0.92 (0.57, 1.48)
+1.00 (0.59, 1.69)
+0.98 (0.55, 1.73)
+0.95 (0.54, 1.66)
+
+0.74 (0.46, 1.17)
+0.92 (0.56, 1.51)
+0.97 (0.59, 1.59)
+0.82 (0.47, 1.43)
+0.79 (0.43, 1.44)
+1.13 (0.63, 2.00)
+
+1.17 (0.88, 1.56)
+1.12 (0.79, 1.59)
+1.08 (0.75, 1.55)
+1.11 (0.78, 1.57)
+0.93 (0.62, 1.38)
+1.13 (0.76, 1.68)
+
+0.86 (0.57, 1.31)
+0.96 (0.65, 1.42)
+0.95 (0.57, 1.36)
+0.99 (0.73, 1.34)
+1.11 (0.73, 1.70)
+1.19 (0.81, 1.75)
+
+1.09 (0.77, 1.55)
+1.47 (1.02, 2.12)
+1.17 (0.84, 1.62)
+0.98 (0.67, 1.43)
+1.36 (0.93, 1.98)
+0.99 (0.66, 1.49)
+
+0.95 (0.64, 1.41)
+0.84 (0.52, 1.37)
+1.01 (0.58, 1.77)
+1.29 (0.79, 2.09)
+1.24 (0.66, 2.32)
+0.73 (0.41, 1.30)
+
+0.95 (0.67, 1.36)
+0.58 (0.33, 1.04)
+0.87 (0.50, 1.50)
+1.27 (0.84, 1.92)
+1.45 (0.72, 2.90)
+0.53 (0.28, 1.01)
+
+1.10 (0.68, 1.76)
+0.83 (0.51, 1.36)
+1.11 (0.71, 1.74)
+1.47 (0.88, 2.46)
+1.16 (0.67, 1.99)
+0.73 (0.40, 1.34)
+
+0.90 (0.60, 1.35)
+1.39 (0.83, 2.32)
+0.73 (0.42, 1.27)2
+1.29 (0.80, 2.09)
+0.51 (0.24, 1.10)
+0.98 (0.54, 1.76)
+
+1.10 (0.77, 1.59)
+0.50 (0.23, 1.05)
+0.61 (0.14, 1.03)2–4
+0.90 (0.59, 1.38)
+1.86 (0.91, 3.78)
+0.71 (0.35, 1.47)
+
+0.94 (0.58, 1.54)
+1.30 (0.77, 2.19)
+0.96 (0.61, 1.51)2
+1.20 (0.73, 1.98)
+0.95 (0.52, 1.74)
+0.88 (0.47, 1.68)
+
+1 CYP1A1 *1 allele is neither variant, any *2 variant includes any MspI or Ill462Val rare alleles. Odds ratios (95% CI) are adjusted for age, BMI,
+
+energy intake, dietary ﬁber and calcium, lifetime physical activity, and usual number of cigarettes smoked.
+
+2 Interaction on the multiplicative scale (P ⬍ 0.05).
+3 Interaction (RERI) on the additive scale (P ⬍ 0.05).
+4 Slope differs between NAT2 genotypes (P ⬍ 0.05).
+
+different relations to colorectal cancer (40). In the present
+study, we asked about the frequency of consumption of baked,
+broiled, and fried red and white meats, leaving the possibility
+that the associations with fried red meat could be masked by
+pooling with baked and broiled meats. We observed an in-
+creased risk among men with the CYP1A1 wild type and a
+high white meat mutagen index instead of with the variant
+genotype, suggesting that activation of HCA by the CYP1A1
+variant is not a critical determinant of colorectal cancer risk.
+Nonetheless, an increase in DNA adducts from normal mu-
+cosa has been reported to be associated with consumption of
+white meat in men (41), supporting a role for white meat in
+colorectal carcinogenesis. Whether these unexpected results
+stem from differences in other aspects of diet that we did not
+account for or whether the inﬂuence of the single genotype, in
+the context of the complexity of carcinogen metabolism, is not
+strong enough for detection is yet unknown.
+
+Whereas CYP1A1 is involved in metabolism of both HCAs
+and PAHs, NAT2 plays a role in both detoxiﬁcation and
+activation of HCAs, and GSTM1 is involved in the detoxiﬁ-
+cation of PCAs. We also found an increased risk of colon, but
+not rectal cancer among individuals with at least one variant
+allele of the CYP1A1 genotypes examined, GSTM1, null, and
+the NAT2-imputed phenotype (17). These ﬁndings support
+the notion that modiﬁcation in risk of colon cancer may be
+more evident when phase II metabolizing enzymes are exam-
+ined in combination with CYP1A1 genotype (17,20,22,35,42–
+
+44). Whereas a Japanese study reported no univariate associ-
+ation of CYP1A1 MSP1 or GSTM1 null genotype to colorectal
+adenomas in smokers (42), examination of multiple phase I
+and phase II metabolizing enzymes previously suggested that
+individuals with multiple polymorphisms were at nearly5-fold
+greater risk of colorectal cancer (20). Although NAT2 alone
+has generally not been reported to be associated with risk of
+colon (45), rectal, (32) or colorectal cancer (40,46,47), 2
+studies reported an increase in risk of colorectal cancer in
+individuals with both the CYP1A2 rapid phenotype and the
+NAT2 rapid phenotype (35,43).
+
+We previously reported that the associations of rectal can-
+cer, NAT2, and GSTM1 with meat and meat preparation were
+not always in the hypothesized direction (16). However, al-
+though it is generally thought that risks would increase with
+the NAT2 rapid phenotype, the role of NAT2 in both acti-
+vation and detoxiﬁcation of HCAs (8,44) makes ﬁndings with
+both slow and rapid phenotypes believable. In women, we
+found no association of CYP1A1 polymorphisms alone,
+GSTM1 polymorphisms alone, or red meat mutagen alone
+with colon (15)and rectal cancer (16), but we did ﬁnd a
+positive association with the CYP1A1 *2 genotype, the
+GSTM1 present genotype, and the red meat mutagen index.
+Previous ﬁndings include inverse associations of poultry and
+ﬁsh with colorectal cancer among those with GSTM1 pheno-
+types, which was attributed to confounding of other healthy
+habits (47). Lin and colleagues described a lower risk of
+
+Downloaded from https://academic.oup.com/jn/article-abstract/135/2/179/4663617
+by University of Ottawa user
+on 24 June 2018
+
+DIET, CYP1A1 GENOTYPE, AND COLORECTAL CANCER
+
+185
+
+colorectal adenomas among GSTM1 absent genotypes with
+high broccoli intake, presumably due to higher isothiocyanate
+levels (48). Therefore, it is difﬁcult to discern which associa-
+tions might be spurious and which might appropriately reﬂect
+activation or detoxiﬁcation activities.
+
+We did not directly measure heterocyclic amines and poly-
+cyclic aromatic hydrocarbons, but inferred their intake by
+asking questions about preference for doneness of meat and
+preparation method. Strengths of the study include rigorous
+quality control procedures (23) and in-depth dietary assess-
+ment that included detailed meat preparation questions (24 –
+26). Gender differences in association are difﬁcult to reconcile;
+however, few studies have reported gender-speciﬁc interac-
+tions of gene environment associations, likely due to sample
+size issues. Biological plausibility of gender differences is sup-
+ported by reports that estrogen may stimulate manganese and
+superoxide dismutase (antioxidants), inﬂuence gastrointestinal
+motility in pregnancy (49), protect against microsatellite in-
+stability in colorectal cancer (50), and be associated with
+increased risk of Crohn’s disease (51). We cannot rule out the
+possibility of recall bias for information recalled for up to 2 y
+prior to cancer diagnosis or case selection. It is possible that
+the time frame of measurements of exposure (diet and lifestyle)
+does not coincide with the pathological process and, if so,
+meaningful associations may be missed. Random measurement
+error and misclassiﬁcation in measurement of diet, as well as
+lifestyle factors, generally results in attenuation of associations
+whereas multiple comparisons increase the likelihood of spu-
+rious ﬁndings. Given the unexpected directions of some of the
+ﬁndings, the possibility that one or more of the reported
+associations might be spurious should be the subject of further
+research.
+
+These data suggest a modest decrease in the risk of colo-
+rectal cancer among individuals who have the CYP1A1 any *2
+variant genotype and consume white meat prepared at high
+temperatures or white meat drippings. Risk increased among
+women with a high red meat mutagen index, CYP1A1 any *2
+variant genotype, and the GSTM1 present genotype. Associ-
+ations of white meat mutagen index and white meat dripping
+use with risk of colorectal cancer was more evident within
+select subgroups of individuals with the CYP1A1 any *2 vari-
+ant genotype combined with one of the GSTM1 present
+genotype or the intermediate/rapid NAT2 imputed phenotype
+than with CYP1A1 alone. Genetic susceptibility conferred by
+polymorphisms in CYP1A1 alone and in combination with
+NAT2 intermediate/rapid imputed phenotype and GSTM1
+present genotype may modify the association of meat and meat
+preparation variables with risk for colorectal cancer.
+
+ACKNOWLEDGMENTS
+
+We acknowledge the contributions of Karen Curtin, Joan Benson,
+Sandra Edwards, Roger Edwards, Michael Hoffman, Thao Tran, Le-
+slie Palmer, Donna Schaffer, and Judy Morse to data collection and
+analysis components of the study.
+
+LITERATURE CITED
+
+1. Grivas, S., Nyhammar, T., Olsson, K. & Jagerstad, M.
+
+(1985) Formation
+of a new mutagenic DiMeIQx compound in a model system by heating creatinine,
+alanine and fructose. Mutat. Res. 151: 177–183.
+
+2. Jagerstad, M., Reutersward, A. L., Grivas, S., Olsson, K., Negishi, C. &
+Sato, S.
+(1985) Effects of meat composition and cooking conditions on the
+formation of mutagenic imidazoquinoxalines (MeIQx and its methyl derivatives).
+Princess Takamatsu Symp. 16: 87–96.
+
+3. Sinha, R., Rothman, N., Salmon, C. P., Knize, M. G., Brown, E. D.,
+Swanson, C. A., Rhodes, D., Rossi, S., Felton, J. S. & Levander, O. A.
+(1998)
+Heterocyclic amine content in beef cooked by different methods to varying
+
+Downloaded from https://academic.oup.com/jn/article-abstract/135/2/179/4663617
+by University of Ottawa user
+on 24 June 2018
+
+degrees of doneness and gravy made from meat drippings. Food Chem. Toxicol.
+36: 279 –287.
+
+4. Sinha, R., Rothman, N., Brown, E. D., Salmon, C. P., Knize, M. G.,
+Swanson, C. A., Rossi, S. C., Mark, S. D., Levander, O. A. & Felton, J. S.
+(1995)
+High concentrations of the carcinogen 2-amino-1-methyl-6-phenylimidazo- [4,5-
+b]pyridine (PhIP) occur in chicken but are dependent on the cooking method.
+Cancer Res. 55: 4516 – 4519.
+
+5. Keating, G. A., Sinha, R., Layton, D., Salmon, C. P., Knize, M. G., Bogen,
+(2000) Comparison of heterocyclic amine
+K. T., Lynch, C. F. & Alavanj, M.
+levels in home-cooked meats with exposure indicators (United States). Cancer
+Causes Control 11: 731–739.
+
+6. Weisburger, J. H.
+
+(2002) Comments on the history and importance of
+aromatic and heterocyclic amines in public health. Mutat. Res. 506 –507: 9 –20.
+(2001)
+Analysis of 200 food items for benzo[a]pyrene and estimation of its intake in an
+epidemiologic study. Food Chem. Toxicol. 39: 423– 436.
+
+7. Kazerouni, N., Sinha, R., Hsu, C. H., Greenberg, A. & Rothman, N.
+
+8. Sachse, C., Bhambra, U., Smith, G., Lightfoot, T. J., Barrett, J. H., Scollay,
+J., Garner, R. C., Boobis, A. R., Wolf, C. R. & Gooderham, N. J.
+(2003) Poly-
+morphisms in the cytochrome P450 CYP1A2 gene (CYP1A2) in colorectal cancer
+patients and controls: allele frequencies, linkage disequilibrium and inﬂuence on
+caffeine metabolism. Br. J. Clin. Pharmacol. 55: 68 –76.
+
+9. Landi, M. T., Sinha, R., Lang, N. P. & Kadlubar, F. F.
+
+(1999) Human
+
+cytochrome P4501A2. IARC Sci. Publ. 173–195.
+
+10. Schut, H. A. & Snyderwine, E. G.
+
+(1999) DNA adducts of heterocyclic
+amine food mutagens: implications for mutagenesis and carcinogenesis. Carci-
+nogenesis 20: 353–368.
+
+11. MacLeod, S., Sinha, R., Kadlubar, F. F. & Lang, N. P.
+
+(1997) Polymor-
+phisms of CYP1A1 and GSTM1 inﬂuence the in vivo function of CYP1A2. Mutat.
+Res. 376: 135–142.
+
+12. Goldman, R. & Shields, P. G.
+
+(2003)
+
+Food mutagens. J. Nutr. 133
+
+(suppl. 3): 965S–973S.
+
+Berry, T. D.
+ity. Cancer Res. 57: 75– 80.
+
+13. Slattery, M. L., Potter, J., Caan, B., Edwards, S., Coates, A., Ma, K. N. &
+(1997) Energy balance and colon cancer— beyond physical activ-
+
+14. Slattery, M. L., Edwards, S., Curtin, K., Ma, K., Edwards, R., Holubkov, R.
+(2003) Physical activity and colorectal cancer. Am. J. Epidemiol.
+
+& Schaffer, D.
+158: 214 –224.
+
+15. Kampman, E., Slattery, M. L., Bigler, J., Leppert, M., Samowitz, W., Caan,
+B. J. & Potter, J. D.
+(1999) Meat consumption, genetic susceptibility, and colon
+cancer risk: a United States multicenter case-control study. Cancer Epidemiol.
+Biomarkers Prev. 8: 15–24.
+
+16. Murtaugh, M. A., Ma, K. N., Sweeney, C., Caan, B. J. & Slattery, M. L.
+(2004) Meat consumption patterns and preparation, genetic variants of meta-
+bolic enzymes, and their association with rectal cancer in men and women. J.
+Nutr. 134: 776 –784.
+
+17. Slattery, M., Samowitz, W., Ma, K., Murtaugh, M., Sweeney, C., Levin, T.
+(2004) Cyp1A1, cigarette smoking, and colon and rectal
+
+& Neuhausen, S.
+cancers. Am. J. Epidemiol. 160: 842– 852.
+
+18. Roberts-Thomson, I. C., Butler, W. J. & Ryan, P.
+
+(1999) Meat, meta-
+bolic genotypes and risk for colorectal cancer. Eur. J. Cancer Prev. 8: 207–211.
+(2002) Meta-analysis of 20 case-control studies
+on the N-acetyltransferase 2 acetylation status and colorectal cancer risk. Med.
+Sci. Monit. 8: CR558 –CR565.
+
+19. Ye, Z. & Parry, J. M.
+
+20. Kiss, I., Sandor, J., Pajkos, G., Bogner, B., Hegedus, G. & Ember, I.
+(2000) Colorectal cancer risk in relation to genetic polymorphism of cytochrome
+P450 1A1, 2E1, and glutathione-S-transferase M1 enzymes. Anticancer Res. 20:
+519 –522.
+
+21. Sivaraman, L., Leatham, M. P., Yee, J., Wilkens, L. R., Lau, A. F. & Le
+(1994) CYP1A1 genetic polymorphisms and in situ colorectal
+
+Marchand, L.
+cancer. Cancer Res. 54: 3692–3695.
+
+22. Sachse, C., Smith, G., Wilkie, M. J., Barrett, J. H., Waxman, R., Sullivan,
+F., Forman, D., Bishop, D. T. & Wolf, C. R.
+(2002) A pharmacogenetic study to
+investigate the role of dietary carcinogens in the etiology of colorectal cancer.
+Carcinogenesis 23: 1839 –1849.
+
+23. Edwards, S., Slattery, M. L., Mori, M., Berry, T. D., Caan, B. J., Palmer, P.
+(1994) Objective system for interviewer performance evaluation
+
+& Potter, J. D.
+for use in epidemiologic studies. Am. J. Epidemiol. 140: 1020 –1028.
+
+24. McDonald, A., Van Horn, L., Slattery, M., Hilner, J., Bragg, C., Caan, B.,
+Jacobs, D., Liu, K., Hubert, H., Gernhofer, N., Betz, E. & Havlik, D.
+(1991) The
+CARDIA dietary history: development and implementation. J. Am. Diet. Assoc. 91:
+1104 –1112.
+
+25. Slattery, M. L., Caan, B. J., Duncan, D., Berry, T. D., Coates, A. & Kerber,
+(1994) A computerized diet history questionnaire for epidemiologic studies.
+
+R.
+J. Am. Diet. Assoc. 94: 761–766.
+
+26. Liu, K., Slattery, M., Jacobs, D., Jr., Cutter, G., McDonald, A., Van Horn,
+L., Hilner, J. E., Caan, B., Bragg, C., Dyer, A., et al.
+(1994) A study of the
+reliability and comparative validity of the cardia dietary history. Ethn. Dis. 4:
+15–27.
+
+27. Hayashi, S. I., Watanabe, J., Nakachi, K. & Kawajiri, K.
+
+(1991) PCR
+detection of an A/G polymorphism within exon 7 of the CYP1A1 gene. Nucleic
+Acids Res. 19: 4797.
+
+28. Rebbeck, T. R., Rosvold, E. A., Duggan, D. J., Zhang, J. & Buetow, K. H.
+(1994) Genetics of CYP1A1: coampliﬁcation of speciﬁc alleles by polymerase
+chain reaction and association with breast cancer. Cancer Epidemiol. Biomarkers
+Prev. 3: 511–514.
+
+29. Song, N., Tan, W., Xing, D. & Lin, D.
+
+(2001) CYP 1A1 polymorphism
+
+186
+
+MURTAUGH ET AL.
+
+and risk of lung cancer in relation to tobacco smoking: a case-control study in
+China. Carcinogenesis 22: 11–16.
+
+30. Zhong, S., Howie, A. F., Ketterer, B., Taylor, J., Hayes, J. D., Beckett,
+G. J., Wathen, C. G., Wolf, C. R. & Spurr, N. K.
+(1991) Glutathione S-
+transferase mu locus: use of genotyping and phenotyping assays to assess
+association with lung cancer susceptibility. Carcinogenesis 12: 1533–1537.
+
+31. Bell, D. A., Taylor, J. A., Butler, M. A., Stephens, E. A., Wiest, J., Brubaker,
+L. H., Kadlubar, F. F. & Lucier, G. W.
+(1993) Genotype/phenotype discordance
+for human arylamine N-acetyltransferase (NAT2) reveals a new slow-acetylator
+allele common in African-Americans. Carcinogenesis 14: 1689 –1692.
+
+32. Slattery, M. L., Edwards, S., Curtin, K., Schaffer, D. & Neuhausen, S.
+(2003) Associations between smoking, passive smoking, GSTM-1, NAT2, and
+rectal cancer. Cancer Epidemiol. Biomarkers Prev. 12: 882– 889.
+
+33. Slattery, M. L., Edwards, S. L., Boucher, K. M., Anderson, K. & Caan, B. J.
+(1999) Lifestyle and colon cancer: an assessment of factors associated with risk.
+Am. J. Epidemiol. 150: 869 – 877.
+
+34. Hosmer, D. & Lemeshow, S.
+
+(1992) Conﬁdence interval estimation of
+
+interaction. Epidemiology 3: 452– 456.
+
+35. Le Marchand, L., Hankin, J. H., Wilkens, L. R., Pierce, L. M., Franke, A.,
+Kolonel, L. N., Seifried, A., Custer, L. J., Chang, W., Lum-Jones, A. & Donlon, T.
+(2001) Combined effects of well-done red meat, smoking, and rapid N-acetyl-
+transferase 2 and CYP1A2 phenotypes in increasing colorectal cancer risk. Can-
+cer Epidemiol. Biomarkers Prev. 10: 1259 –1266.
+
+36. World Cancer Research Fund/American Institute for Cancer Research
+Food, nutrition, and the prevention of cancer: a global perspective.
+
+(1997)
+American Institute for Cancer Research, Washington, DC.
+
+37. Singh, P. N. & Fraser, G. E.
+
+(1998) Dietary risk factors for colon cancer
+
+in a low-risk population. Am. J. Epidemiol. 148: 761–774.
+
+38. Mathew, A., Sinha, R., Burt, R., Caan, B., Paskett, E., Iber, F., Kikendall,
+J. W., Lance, P., Shike, M., Weissfeld, J., Schatzkin, A., Lanza, E. & Group,
+T.P.P.S.
+(2004) Meat intake and the recurrence of colorectal adenomas. Eur.
+J. Cancer Prev. 13: 159 –164.
+
+39. Knize, M. G., Kulp, K. S., Salmon, C. P., Keating, G. A. & Felton, J. S.
+(2002) Factors affecting human heterocyclic amine intake and the metabolism of
+PhIP. Mutat. Res. 506 –507: 153–162.
+
+40. Butler, L. M., Sinha, R., Millikan, R. C., Martin, C. F., Newman, B.,
+Gammon, M. D., Ammerman, A. S. & Sandler, R. S.
+(2003) Heterocyclic
+amines, meat intake, and association with colon cancer in a population-based
+study. Am. J. Epidemiol. 157: 434 – 445.
+
+41. Leuratti, C., Watson, M. A., Deag, E. J., Welch, A., Singh, R., Gottschalg,
+E., Marnett, L. J., Atkin, W., Day, N. E., Shuker, D. E. & Bingham, S. A.
+(2002)
+Detection of malondialdehyde DNA adducts in human colorectal mucosa: rela-
+
+tionship with diet and the presence of adenomas. Cancer Epidemiol. Biomarkers
+Prev. 11: 267–273.
+
+42. Inoue, H., Kiyohara, C., Marugame, T., Shinomiya, S., Tsuji, E., Handa, K.,
+Hayabuchi, H., Onuma, K., Hamada, H., Koga, H. & Kono, S.
+(2000) Cigarette
+smoking, CYP1A1 MspI and GSTM1 genotypes, and colorectal adenomas. Can-
+cer Res. 60: 3749 –3752.
+
+43. Lang, N. P., Butler, M. A., Massengill, J., Lawson, M., Stotts, R. C.,
+Hauer-Jensen, M. & Kadlubar, F. F.
+(1994) Rapid metabolic phenotypes for
+acetyltransferase and cytochrome P4501A2 and putative exposure to food-borne
+heterocyclic amines increase the risk for colorectal cancer or polyps. Cancer
+Epidemiol. Biomarkers Prev. 3: 675– 682.
+
+44. Hein, D. W., Doll, M. A., Fretland, A. J., Leff, M. A., Webb, S. J., Xiao,
+G. H., Devanaboyina, U. S., Nangju, N. A. & Feng, Y.
+(2000) Molecular genetics
+and epidemiology of the NAT1 and NAT2 acetylation polymorphisms. Cancer
+Epidemiol. Biomarkers Prev. 9: 29 – 42.
+
+45. Katoh, T., Boissy, R., Nagata, N., Kitagawa, K., Kuroda, Y., Itoh, H.,
+Kawamoto, T. & Bell, D. A.
+Inherited polymorphism in the N-acetyl-
+transferase 1 (NAT1) and 2 (NAT2) genes and susceptibility to gastric and colo-
+rectal adenocarcinoma. Int. J. Cancer 85: 46 – 49.
+
+(2000)
+
+46. Chen, J., Stampfer, M. J., Hough, H. L., Garcia-Closas, M., Willett, W. C.,
+(1998) A prospective study of
+Hennekens, C. H., Kelsey, K. T. & Hunter, D. J.
+N-acetyltransferase genotype, red meat intake, and risk of colorectal cancer.
+Cancer Res. 58: 3307–3311.
+
+47. Tiemersma, E. W., Kampman, E., Bueno de Mesquita, H. B., Bunschoten,
+A., van Schothorst, E. M., Kok, F. J. & Kromhout, D.
+(2002) Meat consumption,
+cigarette smoking, and genetic susceptibility in the etiology of colorectal cancer:
+results from a Dutch prospective study. Cancer Causes Control 13: 383–393.
+
+48. Lin, H. J., Probst-Hensch, N. M., Louie, A. D., Kau, I. H., Witte, J. S.,
+Ingles, S. A., Frankl, H. D., Lee, E. R. & Haile, R. W.
+(1998) Glutathione
+transferase null genotype, broccoli, and lower prevalence of colorectal adeno-
+mas. Cancer Epidemiol. Biomarkers Prev. 7: 647– 652.
+
+49. Walsh, J. W., Hasler, W. L., Nugent, C. E. & Owyang, C.
+
+(1996) Pro-
+gesterone and estrogen are potential mediators of gastric slow-wave dysrhyth-
+mias in nausea of pregnancy. Am. J. Physiol. 270: G506 –G514.
+
+50. Slattery, M. L., Potter, J. D., Curtin, K., Edwards, S., Ma, K. N., Anderson,
+K., Schaffer, D. & Samowitz, W. S.
+(2001) Estrogens reduce and withdrawal of
+estrogens increase risk of microsatellite instability-positive colon cancer. Cancer
+Res. 61: 126 –130.
+
+51. Boyko, E. J., Theis, M. K., Vaughan, T. L. & Nicol-Blades, B.
+
+(1994)
+Increased risk of inﬂammatory bowel disease associated with oral contraceptive
+use. Am. J. Epidemiol. 140: 268 –278.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/135/2/179/4663617
+by University of Ottawa user
+on 24 June 2018
+
+

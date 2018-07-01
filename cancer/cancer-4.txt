@@ -1,0 +1,95 @@
+Cellular Proliferation, Apoptosis and
+
+Angiogenesis: Molecular Targets for Nutritional
+
+Preemption of Cancer
+
+Cindy D. Davis, Nancy J. Emenaker, and John A. Milner
+
+Malignant cells are characterized by abnormal signaling pathways involving proliferation, apoptosis,
+and angiogenesis. These cancer centric pathways are known to be modiﬁed by several bioactive
+dietary components, although admittedly there are inconsistencies in the response. The response
+is dependent on the amount and duration of exposure to the dietary component and the cell type.
+While caution should be exercised when extrapolating in vitro data to in vivo conditions, such
+studies do provide valuable insights into plausible mechanisms. Signiﬁcant gene–nutrient and
+nutrient–nutrient interactions may contribute to the uncertainty of the response to foods and/or
+their components. One of the challenges is the identiﬁcation of which process(es), either singly or
+in combination, is/are most important in leading to a dietary-mediated phenotypic change. The
+dearth of controlled intervention studies that have investigated molecular targets for nutritional
+preemption in humans make ﬁrm dietary recommendations difﬁcult. Until more deﬁnite informa-
+tion surfaces, a balanced but varied diet is most prudent.
+Semin Oncol 37:243-257. Published by Elsevier Inc.
+
+Evidence continues to mount that altering dietary
+
+habits is an effective and cost-efﬁcient approach
+both for reducing cancer risk and for modifying
+the biological behavior of tumors. The World Cancer
+Research Fund/American Institute of Cancer Research
+has estimated that cancer is 30% to 40% preventable by
+appropriate food and nutrition, regular physical activ-
+ity, and avoidance of obesity.1 On a global scale, they
+have estimated that yearly about 3 to 4 million cancer
+cases might be prevented by adherence to their recom-
+mendations.1
+
+While optimizing the intake of speciﬁc foods and/or
+their bioactive components seems to be a practical,
+noninvasive, and cost-effective strategy for reducing
+the cancer burden, this is far from simple.2 The com-
+plexity of the problem is evident in the literally thou-
+sands of dietary compounds consumed each day.2,3 For
+example, it is estimated that humans consume more
+than 5,000 individual ﬂavonoids, yet only a few have
+been examined for their cancer protective effects.2
+
+Nutritional Science Research Group, Division of Cancer Prevention,
+
+National Cancer Institute, Rockville, MD.
+
+Address correspondence to Cindy D. Davis, PhD, Nutritional Science
+Research Group, Division of Cancer Prevention, National Cancer
+Institute, 6130 Executive Blvd, Suite 3159, Rockville, MD 20892-
+7328. E-mail: davisci@mail.nih.gov
+
+0270-9295/ - see front matter
+Published by Elsevier Inc.
+doi:10.1053/j.seminoncol.2010.05.001
+
+Furthermore, the lack of quantitative information about
+some known food constituents limits the ability to
+decipher which are most important. Unfortunately,
+since many bioactive food components remain largely
+uncharacterized, confusion can arise about the true
+role of a food as a determinant of health and disease
+prevention. Interactions, both synergistic and antago-
+nistic, between food components may explain why
+isolated components do not always behave identically
+to intact foods.4 Finally, the composition of the entire
+diet (pattern) may inﬂuence the magnitude of the re-
+sponse to a bioactive food component and ultimately
+cancer.4
+
+Predictive, validated and sensitive biomarkers, in-
+cluding those that (1) evaluate “intake” (exposure) to a
+speciﬁc food or bioactive component; (2) assess one or
+more speciﬁc biological responses (effect); and (3)
+predict individual “susceptibility” as a function of nu-
+trient–nutrient interactions and genetics, are funda-
+mental to evaluating who will beneﬁt most or be
+placed at risk from dietary interventions. These biomar-
+kers must be readily accessible, easily and reliably as-
+sayed, and predictive of a key process(es) involved in
+cancer.
+
+In addition to identifying bioactive dietary compo-
+nents, it is critical to deﬁne the amount of the speciﬁc
+bioactive component that is needed to achieve concen-
+trations in target tissues that will lead to a phenotypic
+change. The response to a food is determined not only
+
+Seminars in Oncology, Vol 37, No 3, June 2010, pp 243-257
+
+243
+
+

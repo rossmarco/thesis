@@ -1,0 +1,1969 @@
+DIABETES/METABOLISM RESEARCH AND REVIEWS
+Diabetes Metab Res Rev 2013; 29: 285–295.
+Published online in Wiley Online Library (wileyonlinelibrary.com) DOI: 10.1002/dmrr.2395
+
+R E V I E W A RT I C L E
+
+Common mechanisms of dysfunctional adipose
+tissue and obesity-related cancers
+
+P. Matafome1,2*
+D. Santos-Silva1
+C. M. Sena1
+R. Seiça1
+
+1Laboratory of Physiology and IBILI,
+Faculty of Medicine,
+University of Coimbra,
+Coimbra, Portugal
+2Center of Ophthalmology and IBILI,
+Faculty of Medicine,
+University of Coimbra,
+Coimbra, Portugal
+
+*Correspondence to: P. Matafome,
+Laboratory of Physiology and IBILI,
+Faculty of Medicine, University of
+Coimbra, Sub-unit 1, 1st ﬂoor,
+Azinhaga de Santa Comba, Celas,
+3000-354, Coimbra, Portugal.
+E-mail: paulomatafome@gmail.com
+
+Received: 10 August 2011
+Revised: 7 June 2012
+Accepted: 24 January 2013
+
+Copyright © 2013 John Wiley & Sons, Ltd.
+
+Summary
+
+The relation between cancer and metabolic disorders was recognized several
+decades ago, but the underlying mechanisms involved in cancer development
+and progression remain obscure. In the last years, many groups have been
+studying systemic adipose tissue markers in cancer patients. However, few con-
+sistent results were obtained. On the other hand, several studies revealed
+many aspects of adipose tissue physiology in obesity. Nowadays,
+is
+recognized that excessive lipid uptake in adipocytes leads to hypertrophy and
+consequently to metabolic dysregulation, hypoxia,
+impaired
+adipocytokine expression and angiogenesis, insulin resistance and macrophage
+recruitment. In obese patients, tumours commonly colocalize with excessive
+adipose tissue accumulation, and most of the features of hypertrophic adipose
+tissue are observed in cancer patients, namely breast and colon. This
+review aimed to summarize pathological adipose tissue alterations that may
+contribute to cancer aetiology and development. Copyright © 2013 John Wiley
+& Sons, Ltd.
+
+inﬂammation,
+
+it
+
+Keywords
+
+adipose tissue; cancer; obesity
+
+Abbreviations ABCA1, ATP-binding cassette A1; ACC, acetyl-CoA carboxylase;
+acetyl-CoA, acetyl-coenzyme A; AMPK, AMP-activated kinase; bFGF, basic
+ﬁbroblast growth factor; BMI, body mass index; BRCA1, breast cancer 1;
+cAMP, cyclic adenosine monophosphate; CPT-1, carnitine palmitoyl transferase
+1; CSF-1, colony-stimulating factor 1; CRP, C-reactive protein; EGF, epidermal
+growth factor; EGFR, epidermal growth factor receptor; ER, oestrogen receptor;
+FATP, fatty acid transport protein; FAS, fatty acid synthase; FFA, free fatty acid;
+GLUT, glucose transporter type; HbA1c, glycated haemoglobin; HB-EGF,
+heparin-binding EGF-like growth factor; HGF, hepatocyte growth factor;
+HIF-1, hypoxia-inducible factor 1; HSL, hormone-sensitive lipase; HUVEC,
+human umbilical vein endothelial cells; IGF-1, insulin-like growth factor 1;
+IGFBP, insulin-like growth factor binding protein; IGFR, insulin-like growth
+factor receptor; IkBa, inhibitor of NF-kB; IKK, IkBa kinase; IL-6, interleukin
+6; IRS-1, insulin receptor substrate 1; JAK, Janus kinase; JNK, c-Jun N-terminal
+kinase; LPL,
+lipoprotein lipase; MAPK, mitogen-activated protein kinase;
+Malonyl-CoA, malonyl-coenzyme A; MCP-1, monocyte chemoattractant protein 1;
+MCPIP, monocyte chemoattractant protein-induced protein; MMP, matrix
+metalloproteinase; MSC, mesenchymal stem cells; NF-kB, nuclear factor kappa
+B; NO, nitric oxide; Ob-Rb, leptin receptor; PAI-1, plasminogen activator
+inhibitor 1; PDGF, platelet-derived growth factor; PI3K, phosphoinositide
+3-kinase; PKC, protein kinase C; PKA, protein kinase A; PPAR, peroxisome
+proliferator-activated receptor; PPRE, peroxisome proliferator response
+element; PUFA, polyunsaturated fatty acid; SOCS, suppressor of cytokine
+signalling; SREBP1c, sterol regulatory element-binding protein 1c; SR-1,
+scavenger receptor 1; STAT, signal transducer and activator of transcription;
+RANTES/CCL5, chemokine (C–C motif) ligand 5; ROS, reactive oxygen
+species; TAM, tumour-associated macrophage; TGF-b, transforming growth
+
+286
+
+P. Matafome et al.
+
+factor beta; TNF-a, tumour necrosis factor alpha; TLR4,
+toll-like receptor 4; TZD,
+thiazolidinedione; uPA,
+urokinase
+vascular
+endothelial cell; VEGF, vascular endothelial growth factor
+
+activator; VEC,
+
+plasminogen
+
+Epidemiology
+
+The link between metabolic disorders and cancer was
+proposed more than 80 years ago and is still under intense
+investigation. The prevalence of obesity is rapidly increasing
+worldwide; 71% of US men and 62% of US women are
+overweight or obese. In Europe, metabolic syndrome affects
+individuals, and this will
+25–31% of
+further increase
+because of
+the increasing prevalence of obesity in
+children and young adults [1–4]. Obesity increases the
+risk of multiple health conditions, including diabetes,
+hypertension and cancer. However, BMI does not
+distinguish adipose tissue from other tissues, nor does
+it inform fat distribution [1–4].
+
+Epidemiological studies have shown that high BMI
+values were strongly associated with increased incidence
+of several types of cancer and also premalignant lesions
+[5,6]. However, colorectal cancer was shown to be more
+strongly associated with waist circumference and visceral
+adipose tissue [1,7]. This link is stronger in men because
+they have more visceral fat. However, when considering
+waist circumference (marker of visceral obesity), differences
+between sexes disappear [1,7–11]. Women and men with
+waist circumferences >99 and 101 cm, respectively, have
+50% higher colon cancer risk [1,7,8,10].
+In addition,
+infantile obesity was also demonstrated to increase colon
+cancer risk in adult life [9,12]. On the other hand, gastric
+bypass surgery was shown to decrease the risk of cancer
+mortality [13]. In postmenopausal women, obesity has
+been associated with higher incidence of breast cancer,
+reduced likelihood of survival and increased likelihood of
+recurrence [9].
+
+Adipose tissue in obesity and cancer
+
+Adipose tissue contains several cell
+types including
+adipocytes, preadipocytes, ﬁbroblasts, endothelial cells
+and resident macrophages, which produce a broad range
+of cytokines, adipocytokines and growth factors, such as
+adiponectin, leptin, resistin, visfatin, VEGF, PAI-1, MCP-1
+or TNF-a (Figures 1 and 2) [3,9,11,14,15]. Recent studies
+correlated pathological
+alterations with adipocyte
+hypertrophy, rather than hyperplasia. During adipocyte
+hypertrophy, activation of NF-kB leads to inactivation of
+PPARg and insulin receptor. This conduces to decreased
+lipid and glucose uptake, adiponectin secretion and adipo-
+genesis. In addition, increased expression of inﬂammatory,
+chemoattractant, growth and matrix remodelling factors is
+also observed (Figure 2) [1,9,11,15–17]. Consequently, FFAs
+accumulate in other tissues such as liver and muscle, causing
+hepatic and peripheral lipotoxicity and insulin resistance [18,19].
+
+During this process, adipose tissue localization appears
+to be critical. As already discussed, visceral adiposity
+has been considered a major risk factor for metabolic
+syndrome and apparently for cancer.
+
+It has been suggested that adipose tissue may support
+tumour cell growth. Adipose tissue-derived factors have
+been shown to inﬂuence the behaviour of tumour cells.
+Mature adipocytes promote proliferation of tumour cells
+in tridimensional cultures, and adipocyte-conditioned
+medium also promotes tumour cell invasion and prolifera-
+tion [20]. Further, Carter and Church recently demonstrated
+that conditioned medium of adipocytes isolated from breast
+adipose tissue increased cell motility of both normal and
+malignant breast epithelial cells [21]. In mice, simultaneous
+(but not separate) injection of tumoral cells with adipose
+tissue results in tumour formation and metastasis [14]. In
+addition, Hirose and co-workers showed that db/db mice,
+which have hyperleptinaemia and hyperinsulinaemia, have
+an increased susceptibility to colon premalignant lesions
+induced by azoxymethane [22]. Authors from the same
+laboratory also showed that these effects were prevented
+by antioxidants [23,24]. Despite the fact that the model
+used on these studies has hyperleptinaemia, Aparicio and
+colleagues showed that leptin may reduce the development
+of premalignant lesions in the colon [25]. Thus, besides
+increasing tumour progression, obesity and diabetes
+apparently contribute to increased formation of premalignant
+lesions, but the role of the different players is still unknown.
+The formation of hypoxic regions has a major effect on
+cell metabolism. Thus,
+it is expected that metabolic
+intermediates resulting from hypertrophy may somehow
+regulate angiogenesis. In the last decades, many studies
+have shown that inﬂammation is the link between them.
+Cells respond to metabolic alterations by mechanisms
+involved in innate immunity, activating inﬂammatory
+pathways [18,19]. Besides resulting in insulin resistance,
+this also contributes to angiogenesis. Inﬂammation and
+angiogenesis
+share common pathways, as most of
+cytokines and adipocytokines have pro-angiogenic effects,
+contributing to tissue irrigation and also to cancer
+progression [9,18–20]. Moreover, both adipose tissue
+and tumours recruit macrophages, whereas the tumour
+also recruits adipose stroma cells, showing a strong
+relation between adipose tissue and the tumour [8]. The
+integration of such mechanisms in adipose tissue and
+tumour physiology will be discussed in the following
+sections.
+
+Metabolic dysregulation in adipose
+tissue and tumour cells
+
+Dysregulation of lipid metabolism
+Adipocyte hypertrophy results in the accumulation of
+secondary metabolites (such as long-chain acetyl-CoA or
+diacylglycerol) involved in the activation of several stress and
+inﬂammatory pathways, consequently leading to insulin
+resistance and triglyceride hydrolysis (Figure 2) [19,26–28].
+Like adipocytes, macrophages have the ability to change
+
+Copyright © 2013 John Wiley & Sons, Ltd.
+
+Diabetes Metab Res Rev 2013; 29: 285–295.
+DOI: 10.1002/dmrr
+
+Adipose Tissue Dysfunction and Cancer
+
+287
+
+Figure 1. Schematic representation of adipose tissue localization in relation to tumours, common in breast or colon cancer. Adipocyte
+hypertrophy correlates with increased expression of inﬂammatory mediators and macrophage inﬁltration, common features of obesity-
+related cancer. Furthermore, macrophage inﬁltration contributes to collagen deposition and tumour cell migration to the blood
+
+Figure 2. Metabolic, endocrine and inﬂammatory alterations in hypertrophic adipocytes. Hypertrophy is characterized by excessive
+cytoplasmatic accumulation of FFAs and hypoxia, leading to activation of inﬂammatory and stress pathways and inactivation of
+insulin signalling. These mechanisms involve increased TNF-a, MCP-1, VEGF, resistin and leptin and decreased adiponectin
+expression, contributing to increased macrophage inﬁltration. Tissue macrophages regulate matrix degradation and collagen
+deposition. These mechanisms constitute a hypoxia feedback mechanism to increase angiogenesis and inhibit continuous adipocyte
+growth, decreasing hypoxia. However, most of angiogenic and chemoattractant mediators and macrophages also regulate tumour
+growth
+
+Copyright © 2013 John Wiley & Sons, Ltd.
+
+Diabetes Metab Res Rev 2013; 29: 285–295.
+DOI: 10.1002/dmrr
+
+288
+
+P. Matafome et al.
+
+lipids,
+their phenotype and store large amounts of
+leading to foam cell formation, which are common in
+hypertrophic adipose tissue. These macrophages have
+an increased inﬂammatory potential, creating a positive
+inﬂammatory loop in adipose tissue [9]. Importantly,
+PPARg controls lipid storage in both adipocytes and
+macrophages but is inactivated by such inﬂammatory
+pathways (Figure 2). On the other hand, the amount
+of lipids that the adipocyte has to process and store
+depends on the ability of peripheral organs to oxidize
+fatty acids, which is mainly controlled by AMPK
+[1,9,11,29,30].
+
+PPARg and diet regulation. PPARg is a nuclear receptor and
+transcription factor activated mostly by lipids, increasing
+the expression of several proteins involved in fatty acid
+uptake and storage [11,15,30] (Figure 2). Furthermore,
+PPARg directly inhibits nuclear translocation of the NF-k
+B, thereby inhibiting the expression of cytokines and other
+inﬂammatory mediators [11,15,30,31]. Although most tu-
+mour cells express PPARg, it has not been yet established
+whether its expression is related to tumour differentiation
+and metastasis [1]. PPARg ligands,
+including TZDs, are
+known to inhibit proliferation of cancer cells, increasing nu-
+clear levels of tumour suppressor BRCA1 [1,14]. Positive
+effects of PPARg activators on cancer progression may also
+be due to decreased ectopic accumulation of substrates in cy-
+toplasm, namely glucose and lipids, and to decreased in-
+ﬂammation and insulin resistance.
+
+As PPARg is a diet-regulated transcription factor, the
+involvement of dietary lipids in adipocyte homeostasis
+appears to be obvious. In fact, saturated FFAs can activate
+NF-kB through TLR4 signalling, whereas PUFAs bind to
+and activate PPARg [30,31]. Despite PUFAs such as o-3
+and o-6 activating PPARg, they were described to have
+distinct effects on cancer development and growth. o-3
+PUFAs inhibit cancer growth and cell motility, increasing
+PPARg activation in cell lines and enhancing cancer cell
+apoptosis in mice [11]. On the other hand, o-6 PUFAs
+were positively correlated with tumour development in
+breast and were shown to promote tumour cell motility
+[11]. Thus, diet regulation of PPARg is important for
+tumour development, but the underlying mechanisms
+remain unknown.
+
+AMP-activated kinase. AMPK, a major energy regulator
+activated by adiponectin, increases glycolysis and fatty
+acid oxidation and inhibits gluconeogenesis and fatty acid
+and cholesterol synthesis [29,32]. However, obese and
+type 2 diabetic individuals usually have decreased
+adiponectin levels, AMPK activity and fatty acid oxidation.
+AMPK inhibits SREBP1c and activates PPARa. This results
+in increased expression of several enzymes involved in
+fatty acid oxidation and decreased expression of ACC
+and FAS, key enzymes of
+fatty acid synthesis [33].
+Furthermore, AMPK directly inactivates ACC, thereby
+decreasing malonyl-CoA formation (inhibitor of CPT-
+1-mediated mitochondrial
+from
+acetyl-CoA, resulting in higher rates of mitochondrial
+
+acid uptake)
+
+fatty
+
+fatty acid uptake and oxidation [9,29,32,34]. AMPK
+activates PI3K and Akt and induces GLUT-4 transloca-
+tion to the cell membrane, thereby increasing glucose
+uptake [29,32,35]. Moreover, Abbot and colleagues recently
+showed that AMPK is necessary for Akt-mediated fatty acid
+uptake in the muscle [35].
+
+Several authors suggested AMPK-induced inhibition of
+lipid synthesis as a good strategy to decrease lipid
+availability for cell membranes during tumour growth [34].
+AMPK also activates p53,
+inhibiting the cell cycle [34].
+Furthermore, AMPK inhibits aromatase expression in
+adipose tissue, contributing to decreased oestrogen
+levels and preventing the development of oestrogen-
+dependent tumours [34]. Thus, AMPK activation has been
+proposed as an effective strategy for cancer therapy, and
+positive results have been observed after metformin
+treatment, a known activator of AMPK [34].
+
+Hypoxia
+A reliable feature of hypertrophic adipose tissue is hypoxia
+(resulting from decreased blood supply), which is also
+conducive to the activation of inﬂammatory pathways,
+macrophage recruitment and dysregulation of adipocyto-
+kine secretion [9,36,37]. However, hypoxia is also
+common in tumours. HIF-1 is the key factor in cell
+response to hypoxia,
+stimulating inﬂammation and
+angiogenesis
+(discussed in the following sections)
+[38,39]. These mechanisms are likely to support tumour
+growth [9]. Furthermore, HIF-1 exerts signiﬁcant effects
+on cellular metabolism. Cancer cells have a signiﬁcant
+shift away from oxidative phosphorylation in mitochon-
+dria towards glycolysis, a state involved in the ‘Warburg
+effect’ [40–42]. Warburg ﬁrstly described that cancer cells
+have increased glucose uptake and ATP formation (see
+comprehensive revisions about this issue in [92–94]).
+As tumour is mostly hypoxic, HIF-1 increases the transcrip-
+tion of the cell-surface glucose transporter GLUT-1 and
+contributes to the expression of several glycolytic enzymes,
+including lactate dehydrogenase, and inhibits acetyl-CoA
+formation, which would be used in the oxidative phosphor-
+ylation [40,42]. In addition, because of the high rate of
+glucose consumption, malignant cells accumulate high
+amounts of pyruvate, which can be used to fuel the
+tricarboxylic acid cycle for biosynthetic processes, and even
+earlier by-products of glycolysis will enter the pentose
+phosphate pathway for the maintenance of DNA, RNA
+and fatty acids. Recently, our colleagues showed that
+methylglyoxal, a metabolite of glycolysis, increases HIF-1
+degradation in hypoxic conditions [43]. However, cancer
+cells develop resistance mechanisms
+such as elevated
+expression of glyoxalases, which degrade methylglyoxal [44].
+Glyoxalase expression is inhibited in most cells in
+hyperglycaemic conditions, possibly accounting for the
+different ability of normal and tumoral cells to adapt to
+hypoxic conditions [44,45]. The contribution of adipose
+tissue hypoxia to tumour development is unknown, but
+tumours are usually surrounded by adipose tissue; thus,
+it is likely that such an environment may contribute to
+a better tumour adaptation [46].
+
+Copyright © 2013 John Wiley & Sons, Ltd.
+
+Diabetes Metab Res Rev 2013; 29: 285–295.
+DOI: 10.1002/dmrr
+
+Adipose Tissue Dysfunction and Cancer
+
+Cytokines and adipocytokines –
+metabolism, inﬂammation and
+angiogenesis
+
+Activation of inﬂammatory pathways as a consequence of
+accumulation of intracellular metabolites and formation
+of hypoxic regions leads to altered cytokine and adipocy-
+tokine secretion. This conduces to inhibition of continued
+lipids and glucose uptake and stimulates angiogenesis.
+However, most of the products released by the adipose
+tissue under such conditions may also affect tumour
+physiology [30,47–49]. In this section, we review the
+alterations of these factors as a result of adipose tissue
+dysfunction and how they inﬂuence tumour formation
+and development.
+
+Adiponectin
+Adiponectin circulates in three distinct molecular forms,
+trimeric, hexameric and high-molecular-weight
+forms
+(several hexameric forms), and it is mainly produced by
+the adipose tissue [50–52]. Adiponectin levels, especially
+high-molecular-weight forms, were found to be lower in
+obesity,
+insulin resistance and type 2 diabetes and
+inversely correlated with abdominal perimeter and fat
+mass, more than BMI [1,14,15,53]. Adiponectin expression
+is decreased by TNF-a and IL-6 (NF-kB activators) and
+increased by PPARg
+(Figure 2). However,
+adiponectin also inhibits TNF-a and IL-6 expression in macro-
+phages,
+inactivating the inﬂammatory cascade [14,20].
+Adiponectin increases fatty acid oxidation and insulin
+sensitivity
+it
+activates AMPK and PPARa [1,20].
+
+gluconeogenesis,
+
+and decreases
+
+agonists
+
+as
+
+Adiponectin decreases proliferation of several cell types
+including adipocytes, endothelial cells and cancer cells [20].
+Beyond inhibition of tumour cell growth and survival,
+adiponectin inhibits angiogenesis through decreased
+VEGF and Bcl-2 expression (anti-apoptotic) and increased
+p53, Bax and caspase activation (pro-apoptotic), leading
+to endothelial cell apoptosis [1,20]. Likewise, adiponectin
+was shown to reduce TNF-a-induced effects on cell
+proliferation and migration [53]. In fact, several studies
+showed hypoadiponectinaemia as a determinant for larger
+tumours with increased angiogenesis [1,14,20]. Thus,
+adiponectin may
+only
+inﬂammation but also angiogenesis, and these effects
+may be crucial for regulation of neovascularization in
+pathological conditions such as obesity, type 2 diabetes
+and also cancer. However, it is not known yet whether
+hypoadiponectinaemia is a risk factor for cancer or
+hypoadiponectinemia and cancer development are
+parallel events of metabolic dysregulation.
+
+decreasing
+
+not
+
+act
+
+in
+
+Leptin
+Leptin is currently at the centre of the obesity–cancer link,
+as it is produced in proportion to fat mass (almost
+exclusively in adipocytes) and potently induces cell
+(normal
+and
+motility [14,20,48,54–57]. Leptin activates JAK/STAT
+and MAPK pathways and also the SOCS-1 and SOCS-3,
+
+tumoral) mitogenesis,
+
+growth
+
+and
+
+289
+
+inhibiting insulin and its own signalling cascade
+[1,15,56,57]. This mechanism is chronically activated in
+obesity and is one of the major causes of leptin and insulin
+resistance [1,14,58].
+
+independently of BMI
+
+Clinical studies in Norwegian and Japanese populations
+showed leptin correlation with increased risk of breast
+and colon cancers,
+[45,59].
+Furthermore, leptin was also positively correlated with
+increased metastization [1,20,51,60]. In most of the patients,
+tumour cells express the Ob-Rb. Insulin, IGF-1 and oestradiol
+were observed to activate its expression [61]. In addition,
+leptin also promotes aromatase expression in adipose
+tissue and ER on tumour cells [14,62]. However, leptin
+is mitogenic for both ER-positive and ER-negative
+tumour cell lines, inhibiting apoptosis and increasing cell
+proliferation [14,20,48,53,62].
+
+From this, we may conclude that leptin promotes
+tumour cell proliferation both directly and indirectly
+(through an increase of oestrogen levels and insulin
+resistance). However, leptin effects on cancer development
+are still controversial. Several studies reported elevated
+leptin levels in cancer patients, but these studies compared
+cancer patients with healthy controls without separation of
+the obesity component
+in the experimental design.
+Furthermore, existing studies did not reveal a pattern of
+leptin variation between premenopause and postmeno-
+pause. Zucker rats, which have a mutation in Ob-Rb and
+exhibit hyperleptinaemia, have increased formation of
+benign neoplasies but minimal
+formation of malign
+tumours [53]. In fact, it is possible that leptin does not
+act as a tumour inducer but more as a supporter of already
+formed tumours.
+
+Resistin
+Resistin has been pointed as a major link between innate
+immunity and glucose metabolism as it was shown to
+inhibit hepatic, muscle and adipose insulin signalling,
+consequently leading to inﬂammation and insulin
+resistance. Its circulating levels are usually increased in
+models of obesity. Antibody neutralization, overexpres-
+sion of nonfunctional resistin or gene knockout in mice
+results in improved glucose metabolism and insulin
+sensitivity [15,18,63–65]. However, extrapolating possible
+effects of human resistin from murine experiments has
+several caveats. Murine resistin is produced in adipocytes,
+whereas human resistin is mainly produced in macrophages
+(Figure 2) [15,18,65]. Furthermore, human and murine
+resistin genes are located in different chromosomes, and
+studies searching for a human gene more similar to murine
+resistin have been unsuccessful [15].
+
+Recently, Qatanani and colleagues developed mice with
+suppressed expression of endogenous resistin and transgenic
+expression of human resistin in macrophages [18].
+After consuming a high-calorie diet, these rats had
+increased lipolysis in adipose tissue. They also developed
+increased triglyceride and diacylglycerol levels and insulin
+resistance in muscle, due to PKC-induced serine phosphor-
+ylation of insulin receptor and IRS-1 (Figure 2) [18].
+Resistin promotes foam cell formation from macrophages
+
+Copyright © 2013 John Wiley & Sons, Ltd.
+
+Diabetes Metab Res Rev 2013; 29: 285–295.
+DOI: 10.1002/dmrr
+
+290
+
+P. Matafome et al.
+
+through increased lipid uptake, resulting from activation
+of scavenger receptors (SR-1 and CD36) involved in
+recruiting lipoproteins and FATP. Conversely, resistin
+increases proteasomal degradation of ABCA1 involved
+in cholesterol efﬂux [15,66].
+
+Human resistin stimulates proliferation of vessel muscle
+cells and VECs [15,65,67]. In endothelial and choriocarci-
+noma cells, resistin also increases the expression of VEGF
+and its receptors while also elevating MMP, possibly
+through NF-kB activation [65,68]. Thus,
+resistin
+overexpression is a physiological response to adipose
+tissue hypertrophy and hypoxia, but it may also contribute
+to tumour angiogenesis. Despite the data about this issue
+still being scarce, several studies have implicated resistin
+in the aetiology of obesity-related cancers, namely breast
+and colon [50,51,64,69–72]. Resistin may provide unique
+insights to the link between obesity, inﬂammation, insulin
+resistance and cancer risk in humans.
+
+Visfatin
+Visfatin is highly expressed in visceral fat of rodents and
+humans, whose plasma circulating levels are positively
+correlated with the size of visceral fat deposits [73].
+Several studies reported increased visfatin levels in
+various pathological conditions, such as obesity, inﬂamma-
+tion, diabetes mellitus, metabolic syndrome and cardiovas-
+cular diseases [74–78].
+
+phosphoribosyltransferase,
+
+Visfatin was originally isolated from lymphocytes as
+an enzyme
+nicotinamide
+that
+synthesizes nicotinamide mononucleotide from
+nicotinamide [79]. The following studies reported an
+insulin-mimetic effect through binding to a different
+region of
+insulin receptor, activating IRS-1 tyrosine
+phosphorylation [73,80–86]. However, the original study
+reporting these effects was later retracted [73], and the
+mechanisms of visfatin action, beyond NAD+ synthesis,
+remain obscure. Nevertheless, visfatin expression was found
+to be stimulated by HIF-1 and the JNK/NF-kB pathway,
+promoting angiogenesis
+through MMP expression in
+endothelial cells and VEGF expression in tumour cells
+[79,87–89]. Visfatin is also expressed in tumoral cells, and
+its circulating levels were found to be increased in breast
+and colon cancer patients [82,87]. Furthermore, visfatin
+was observed to increase cell proliferation and invasion
+during breast cancer progression [87]. Visfatin inhibitors
+have been clinically evaluated as anticancer agents, but
+new epidemiological and cellular studies are needed to
+understand the mechanisms of visfatin action on cancer [90].
+
+Tumour necrosis factor alpha
+TNF-a was the ﬁrst recognized adipose-derived cytokine
+to be involved in metabolism regulation. In this ﬁeld,
+Hotamisligil’s laboratory has been particularly active,
+producing data and reviews about TNF-a’s role on
+adipocyte metabolism (see reviews in [31,47]). TNF-a is
+produced mainly in macrophages, but also in adipocytes
+and preadipocytes, after excessive lipid accumulation,
+activating several serine kinases (JNK and IKK). This
+results in NF-kB activation and inhibition of
+insulin
+
+signalling (Figure 2) [1,14,15,20]. NF-kB stimulates the
+production of other cytokines and inhibits PPARg activity
+and subsequent expression of adiponectin, CD36 and
+LPL. Thus, TNF-a inhibits preadipocyte differentiation,
+lipid and glucose uptake and fatty acid esteriﬁcation and
+increases lipolysis [1,53]. These mechanisms aim to
+inhibit continued adipocyte growth but may also be
+important for cancer progression because they lead to
+metabolism dysregulation (as focused on in Section 2.1)
+and hyperinsulinaemia, when chronically active. In fact,
+a link between TNF-a levels and breast and colon cancer
+has been suggested [14]. Beyond its metabolic effects,
+TNF-a seems to contribute to tissue alterations necessary
+for tumour growth and metastasis, namely cell proliferation.
+TNF-a stimulates aromatase expression in adipose tissue,
+increasing oestrogen-mediated tumour cell proliferation
+[20,91–93]. Furthermore, TNF-a stimulates VEC prolifera-
+tion and migration in rat cornea [53]. Clinical trials with
+several TNF-a antagonists and antibodies have shown
+promising effects in reducing tumour development and
+metastasis [94].
+
+Monocyte chemoattractant protein 1
+MCP-1 is a protein that recruits and activates circulating
+monocytes to the adipose tissue [95–98]. Initially, MCP-1
+was considered an activator of antitumour cytotoxic
+functions of macrophages. However, identiﬁcation of two
+types of TAMs and the revelation of MCP-1 angiogenic
+potential altered the perspective of MCP-1 physiology on
+cancer (Figure 2) [95,99,100]. In the last years, several
+studies have found elevated MCP-1 levels, especially in
+advanced stages [96,99]. However, it is not established
+whether MCP-1 circulating levels are a systemic marker
+of poor prognosis or not. Some discrepancies may be
+caused by different studied populations, experimental
+designs, degree of metastasis, tumour phase and time of
+sample collection [99].
+
+In adipose tissue, MCP-1 expression correlates with
+increased macrophage inﬁltration and angiogenesis
+[19,28,36]. In epithelial cells, MCP-1 expression is low,
+but it is acquired along with the transformation [98,99].
+MCP-1 is also secreted by tumour stroma cells, such as
+macrophages and ﬁbroblasts, acting through paracrine
+and autocrine pathways [95,99]. Recently, Niu and
+colleagues showed that MCP-1 promoted in vitro tube
+formation in HUVEC. In addition, Hong and colleagues
+showed that these effects were dependent on VEGF
+activation [101,102]. Furthermore, MCP-1 was observed
+to increase angiopoietin (Ang)-2 levels and MMP
+expression on monocytes, T cells and tumour cells, which
+also contributes to angiogenesis [96,99,103]. On tumour
+cells, MCP-1 does not induce proliferation but increases
+their migration ability. MCP-1 was also suggested to be
+involved in epithelial-to-mesenchymal
+transformation,
+an event essential for cell transformation [99]. Higher
+levels of MCP-1 are correlated with increased macrophage
+inﬁltration, MSC migration, vascularization,
+tumour
+progression and lymphatic invasion [95,96,99,104]. An
+anti-MCP-1 antibody decreased MSC migration to tumour,
+
+Copyright © 2013 John Wiley & Sons, Ltd.
+
+Diabetes Metab Res Rev 2013; 29: 285–295.
+DOI: 10.1002/dmrr
+
+Adipose Tissue Dysfunction and Cancer
+
+291
+
+angiogenesis and lung metastasis, increasing the survival
+ratio [99,104]. Thus, as
+in adipose tissue, MCP-1
+and recruited macrophages change the tumour microenvi-
+ronment to support cell proliferation and migration and
+angiogenesis.
+
+Angiogenic mechanisms – growth
+factors and matrix remodelling
+
+Adipose tissue profoundly depends on angiogenesis as it is
+subjected to constant expansion/regression. Capillary
+growth is a complex process involving matrix degradation,
+endothelial cell migration and tube formation and depends
+on the anastomosis of two growing tubes. This process is
+regulated by several factors, namely ﬁbroblast growth
+factors, hepatic growth factor (HGF), VEGF, Angs (Ang-1
+and Ang-2), epithelial growth factors, adipocytokines,
+insulin/IGF-1, oestrogens and MMP, some of them already
+discussed in this review [53].
+
+Several adipose-derived factors have paracrine effects,
+acting directly on neighbouring endothelial cells to
+promote angiogenesis. Most of these factors are produced
+in response to adipocyte hypertrophy and consequent
+metabolic dysregulation and regional hypoxia. As we
+already discussed, the unifying point is inﬂammation,
+which results from both of these conditions. Inﬂammatory
+mediators directly induce angiogenesis and increase the
+expression of several angiogenic factors. Furthermore,
+most of these factors also recruit macrophages, which also
+produce their own set of angiogenic factors (VEGF, TNF-a,
+ﬁbroblast growth factors, MMPS and resistin), further
+contributing to angiogenesis (Figure 2) [53,105,106].
+
+Tumour angiogenesis is important for its growth, but
+vessels are usually dysfunctional with abnormal ramiﬁca-
+tions, probably due to the imbalanced expression of growth
+factors in hypertrophic adipose tissue and in the tumour.
+Furthermore, these vessels are usually very permeable and
+allow the passage of ﬂuids, proteins and tumour cells,
+favouring metastization.
+
+Growth factors
+VEGF is the only angiogenic factor speciﬁc for VECs.
+Obese individuals commonly have increased VEGF levels
+[see review at 53]. VEGF is produced by adipose tissue
+cells, namely adipocytes, preadipocytes and macro-
+phages, stimulating VEC proliferation and migration, ex-
+pression of proteolytic enzymes and tube formation and
+inhibiting apoptosis (Figure 2) [53]. VEGF expression is
+stimulated by regional hypoxia (through HIF-1 stabiliza-
+tion), factors from the EGF family and insulin (via PI3K
+and Akt), to compensate for insulin-induced nutrient
+deposition and tissue expansion [53,107,108]. Recently,
+our group described the VEGF/Ang-2 ratio to determine
+vascular integrity. The imbalance of this ratio caused
+endothelial cell apoptosis and loss of vessel
+integrity
+[109]. However, increased tumour VEGF levels are also
+associated with poor prognosis [53]. Consequently,
+
+several antitumour drugs based on its neutralization
+were developed. Antibody neutralization of VEGF recep-
+tor 2 also decreased both angiogenesis and preadipocyte
+differentiation [53].
+
+Other growth factors such as bFGF and HGF have also
+been studied as possible players in tumour growth. bFGF
+and HGF are produced in adipocytes and stimulate VEC
+proliferation and MMP expression [20,53,110]. For bFGF,
+no correlations with BMI were found in previous studies,
+probably because it acts mainly through paracrine
+mechanisms [53]. HGF is known to act on its receptor
+Met (product of c-met gene) and to promote proliferation,
+motility and invasion of hepatic tumour parenchymal cells
+[53,110,111]. However, HFG is produced proportionally
+to BMI and correlates with bigger tumours and increased
+lymphatic invasion [20,53]. Furthermore, HGF promotes
+cell invasion independently of VEGF and also increases
+its expression [20,53,110,111]. HGF is highly produced
+in tumour or peritumoral adipose tissue, decreasing after
+tumour excision [20].
+
+Proteolytic matrix degradation – plasminogen system
+Besides MMPs, the plasminogen system also regulates
+extracellular matrix degradation, to allow vessel growth.
+This system is formed by the plasminogen, cleavage
+enzymes (tissue plasminogen activator and uPA and
+serine proteases), PAI-1 and membrane uPA receptor
+(uPAR), regulating ﬁbrinolysis and matrix proteolysis
+[see review at 11]. Plasminogen is cleaved to plasmin by
+its tissue plasminogen activator in arterial walls and
+by uPA in the extracellular matrix,
+increasing matrix
+degradation [11]. Furthermore, uPA binding to uPAR
+leads to integrin binding and cytoskeleton arrangement
+favouring cell migration [11]. Thus, uPA and uPAR are
+markers of invasiveness and poor prognosis. uPA inhibition
+results in decreased tumour invasiveness. On the other hand,
+PAI-1 binds to and inhibits uPA. This complex binds to uPAR
+and is internalized [11]. Despite uPA inhibition effects, circu-
+lating PAI-1 levels are a marker of poor prognosis in breast
+cancer, and it was suggested as a potential target in cancer
+therapy [11]. Although the reasons for elevated PAI-1 levels
+are not known, it is known to be highly produced in dysfunc-
+tional adipose tissue, and it has been suggested to promote
+cell growth and migration, angiogenesis and migration of
+smooth muscle cells [11,112].
+
+Insulin – mitogenesis and IGF-1
+regulation
+
+Insulin resistance is common in patients with elevated
+BMI and is a hallmark of type 2 diabetes, being usually
+associated with visceral obesity and inﬂammation in
+adipose tissue [7,14,15]. Also, the effects of insulin analogues
+in type 1 diabetic patients have been discussed in the last
+years. Long-action insulin analogues, such as glargine, are
+widely used because they do not cause hypoglycaemia.
+However, attempting to efﬁciently control postprandial
+glycaemia with these medications, authors have found that
+
+Copyright © 2013 John Wiley & Sons, Ltd.
+
+Diabetes Metab Res Rev 2013; 29: 285–295.
+DOI: 10.1002/dmrr
+
+292
+
+P. Matafome et al.
+
+patients are episodically hyperinsulinaemic [113]. Hyperin-
+sulinaemia has been pointed as a major risk factor for breast,
+colon and prostate cancer [7,14,15,114–116]. Also, elevated
+C-peptide levels were found to be associated with a threefold
+increase in colon cancer risk [1,12].
+
+that
+
+Insulin has been shown to increase cell survival and
+growth (through the IRS-1–PI3K–Akt pathway), supporting
+[113]. Furthermore, Chen and
+tumour development
+colleagues
+recently
+reported
+insulin-mediated
+activation of this pathway causes chemotherapy resistance,
+originating new questions about the role of insulin on
+cancer [117,118]. However, the impact of insulin mitogenic
+effects on obesity-related cancer through this pathway is
+controversial, as IRS-1 is partially inhibited on insulin
+resistance. Thus,
+the discovery of a noncanonical
+pathway for insulin-stimulated mitogenesis is a major
+hallmark on metabolism-related cancer. Most growth
+factors activate the canonical Ras–Raf–MAPK pathway.
+Besides increasing IGF-1 and VEGF circulating levels
+and aromatase expression in adipose tissue, insulin was
+also observed to increase isoprenylated (active) Ras
+levels in the cell membrane, thereby increasing cell
+response to other growth factors (see review in [113]).
+The IGF family components include IGF-1 and 2,
+membrane receptors (IGFR1 and 2), IGFBPs (IGFBP1 to
+IGFBP6) and IGFBP proteases [14]. Like insulin, IGF-1
+regulates cell survival, growth and differentiation and
+inhibits apoptosis [9]. On the other hand,
+IGFBPs
+decrease IGF bioavailability,
+inhibiting its effects and
+promoting apoptosis [14]. However, IGFBP1 and IGFBP2
+expressions are downregulated by insulin,
+increasing
+free/active IGF-1 levels [3,8]. Insulin-resistant individuals
+commonly have higher IGF-1 circulating levels [3,8,9].
+
+On epithelial cells, IGF-1–IGFR binding leads to receptor
+dimerization and to PI3K and Ras–Raf–MAPK activation
+[14]. Furthermore, oestrogens increase IGF-1 and IGFR1
+expressions, acting synergistically in favour of
+tumour
+growth [14]. As insulin, IGF-1 also activates VEGF expres-
+sion and thus indirectly acts on endothelial cells [1].
+Elevated IGF-1 and decreased IGFBP-1 levels were
+previously correlated with increased cancer risk, tumour
+invasion and poor prognosis [1,14]. Also, breast tumours
+with elevated IGFR-1 levels, both premenopause and
+postmenopause, usually are more invasive [14]. In mice,
+IGF-1 overexpression resulted in increased tumour growth,
+whereas disruption of IGFR1 prevented it [8,9,14].
+
+The role of macrophages on tissue
+remodelling – implications in adipose
+tissue and tumour
+
+In obese individuals, adipose tissue commonly has
+extensive macrophage inﬁltration, recruited by TNF-a
+and particularly by MCP-1 (Figure 2). On the other hand,
+macrophage-secreted products such as TNF-a or resistin
+induce insulin resistance and promote angiogenesis
+(Figure 2). Macrophage coculture results in impaired
+
+adipocytokine expression and increased production of
+pro-inﬂammatory cytokines in adipocytes [8].
+
+Tumour environment is formed by several cell types,
+namely ﬁbroblasts, cells from hematopoietic lineage,
+endothelial cells and adipocytes. These cells strongly
+interact, creating a microenvironment that is conducive
+to tumour growth [119,120]. Adipose-related tumours
+have large amounts of macrophages (up to 50% of the
+tumour cells) [100,105,119,120]. More than 80% of
+cancers have elevated macrophage inﬁltration, correlating
+with increased vessel density, tumour progression and poor
+prognosis [53,99,100,104,105,119]. Genetic macrophage
+elimination reduces tumour progression and metastasis in
+mice [8].
+
+A tumour commonly has two distinct populations of
+macrophages: M1 macrophages are pro-inﬂammatory
+and secrete antitumour cytokines and M2 macrophages
+are immunosuppressive and produce a broad range of
+angiogenic and growth factors, including MCP-1, MMPs,
+TGF-b, VEGF and PDGF, promoting proliferation and
+migration of tumour cells and VEC, matrix degradation
+and ultimately angiogenesis
+[8,49,104–106,119–121].
+The reason why this macrophage population acquires this
+behaviour is still unknown. However, this is also observed
+in macrophages recruited to the hypertrophic adipose
+tissue, which are involved in tissue remodelling and
+angiogenesis [36].
+
+Macrophages
+
+intensely populate the ﬁbrotic ring
+surrounding the tumour and regions of basal membrane
+rupture. They seem to regulate collagen synthesis in
+ﬁbroblasts and also support blood vessel formation close
+to collagen ﬁbres [119]. This leads to increased collagen
+deposition, anchored to blood vessels, allowing faster
+tumour cell migration to the circulation (Figure 1)
+[100,119]. These features are not found in macrophage-
+deﬁcient mice [8,119]. Importantly, adipose tissue from
+obese animal models was recently described to develop
+extensive ﬁbrotic regions, which may support growth of
+adipose-associated tumours
+from
+tumour periphery also have high aromatase expression,
+which is increased by macrophage-released cytokines
+such as TNF-a [14,20].
+
+[121]. Fibroblasts
+
+The close relation between tumour cells and macrophages
+in the invasive front involves CSF-1 and EGF signalling
+[100,120]. Tumour
+cells express CSF-1 to increase
+macrophage activity, and macrophages express EGF to
+stimulate migration of tumour cells. Accordingly, macro-
+phages express CSF-1R whereas tumour cells express
+EGFR1 [119]. Mice with CSF-1 depletion have decreased
+VEGF and MMP expression and metastization and more
+benign phenotypes. CSF-1 expression restores phenotype,
+and CSF-1 overexpression in normal mice leads to more
+TAM and increased tumour growth and metastization
+[100,119]. Moreover, macrophage depletion results in 40%
+decreased angiogenesis
+even in advanced tumours,
+suggesting that macrophages are involved in the formation
+of new blood vessels and in the remodelling of those already
+existing, as observed during adipose tissue expansion
+[36,100,119]. Macrophage-derived VEGF, beyond VEC
+
+Copyright © 2013 John Wiley & Sons, Ltd.
+
+Diabetes Metab Res Rev 2013; 29: 285–295.
+DOI: 10.1002/dmrr
+
+Adipose Tissue Dysfunction and Cancer
+
+293
+
+stimulation, also recruits other macrophages to support
+tumour growth [100,119]. Present data show that TAM
+and adipose tissue macrophages share important similari-
+ties, promoting tissue remodelling and angiogenesis. In
+addition, adipose tissue macrophages may possibly support
+tumour development.
+
+Conclusions
+
+adipose
+
+hypertrophy. Hypertrophic
+
+Adipose tissue dysfunction in obesity occurs as a result of
+tissue
+tissue
+commonly presents a dysregulated lipid metabolism and
+formation of hypoxic regions. These two events lead to
+the activation of inﬂammatory pathways and, consequently,
+increased pro-
+to impaired adipocytokine expression,
+inﬂammatory cytokine expression, angiogenesis,
+insulin
+resistance
+recruitment. All
+these
+features are also observed in tumours, which usually
+are very close to dysfunctional adipose tissue, namely
+in breast and colon cancers. Despite the mechanisms
+discussed here being shown to be tumour supportive,
+
+and macrophage
+
+the trigger for tumour development is still unknown
+and should be a matter of interest for future studies.
+
+Search strategy and selection criteria
+
+‘estrogens’,
+
+Bibliographic search was performed using electronic
+databases, namely PubMed, with the reference words
+‘obesity’, ‘adipose tissue’, ‘adipocytokines’, ‘angiogenesis’,
+‘insulin’,
+‘macrophages’, which were also
+paired with ‘cancer’. Original (both biochemical and
+epidemiological) and review papers with higher relevance
+and novelty from the last 3 years were considered.
+Furthermore, older articles with recognized importance
+in the ﬁeld were also included.
+
+Conﬂict of interest
+
+The authors have declared that there is no conﬂict of
+interest.
+
+References
+
+obesity to insulin resistance and type
+2 diabetes. Mol Cell Biol 2008; 9(5):
+367–377.
+
+1. Pais R, Silaghi H, Silaghi AC, Rusu ML,
+Dumitrascu DL. Metabolic syndrome and
+risk of subsequent colorectal cancer.
+World J Gastroenterol 2009; 15(41):
+5141–5148.
+
+atherogenic
+
+2. Liu C, Hsu H, Li C, et al. Central obesity
+and
+in
+metabolic syndrome are associated
+with increased risk for
+colorectal
+adenoma in a Chinese population.
+BMC Gastroenter 2010; 27: 10–51.
+
+dyslipidemia
+
+3. Smith U, Gale EA. Cancer and diabetes:
+are we ready for prime time? Diabetologia
+2010; 53: 1541–1544.
+
+4. Fenton JI, Birmingham JM. Adipokine
+regulation of colon cancer: adiponectin
+attenuates interleukin-6-induced colon
+carcinoma cell proliferation via STAT-
+3. Mol Carcinog 2010; 49: 700–709.
+
+5. Renehan A, Tyson M, Egger M, Heller
+R, Zwahlen M. Body-mass index and
+incidence of
+cancer: a systematic
+review and meta-analysis of prospective
+observational studies. Lancet 2008; 371:
+569–578.
+
+6. Yoon JH, Lee HL, Kim DW, Choi CR. Is
+obesity a risk factor for advanced colon
+polyps in males? Hepatogastroenterology
+2011; 58(109): 1159–1162.
+
+for
+
+7. Kang H, Kim D, Kim H, et al. Visceral
+obesity and insulin resistance as risk
+factors
+colorectal adenoma: a
+cross-sectional, case–control study. Am
+J Gastroenterol 2010; 105(1): 178–187.
+8. Donohoe CL, Pidgeon GP, Lysaght
+J, Reynolds JV. Obesity and gastroin-
+testinal cancer. Br J Surg 2010; 97:
+628–642.
+
+9. van Kruijsdijk R, van der Wall E, Visseren
+F. Obesity and cancer:
+the role of
+dysfunctional adipose tissue. Cancer Epi-
+demiol Biomarkers Prev 2009; 18(10):
+2569–2578.
+
+10. Oh T, Byeon J, Myung S, et al. Visceral
+obesity as a risk factor for colorectal
+neoplasm. Gastroenterology 2008; 23(3):
+411–417.
+
+the
+
+11. Carter J, Church F. Obesity and breast
+peroxisome
+cancer:
+roles
+proliferator-activated
+and
+plasminogen activator inhibitor-1. PPAR
+Res 2009; 2009: 345320.
+
+of
+receptor-g
+
+12. Bobe G, Murphy G, Rogers CJ, et al.
+Serum adiponectin, leptin, C-peptide,
+homocysteine, and colorectal adenoma
+recurrence in the polyp prevention
+trial. Cancer Epidemiol Biomarkers Prev
+2010; 19(6): 1441–1452.
+
+13. Adams T, Gress R, Smith S, et al. Long-
+term mortality after gastric bypass
+surgery. N Engl J Med 2007; 357:
+753–761.
+
+14. Lorincz AM, Sukumar S. Molecular
+links between obesity and breast
+cancer. Endocr Relat Cancer 2006; 13:
+279–292.
+
+15. Lazar M. Resistin- and obesity-associ-
+ated metabolic diseases. Horm Metab
+Res 2007; 39: 710–716.
+
+16. McLaughlin T, Deng A, Yee G, et al.
+Inﬂammation in subcutaneous adipose
+tissue: relationship to adipose cell size.
+Diabetologia 2010; 53: 369–377.
+
+17. Yamaji T, Iwasaki M, Sasazuki S, Tsugane
+S. Interaction between adiponectin and
+leptin inﬂuences the risk of colorectal
+adenoma. Cancer Res 2010; 70(13):
+5430–5437.
+
+18. Qatanani M, Szwergold NR, Greaves
+DR, Ahima RS, Lazar MA. Macrophage-
+derived human resistin exacerbates
+adipose tissue inﬂammation and insulin
+resistance in mice. J Clin Invest 2009;
+119: 531–539.
+
+19. Guilherme A, Virbasis JV, Puri V, Czech
+linking
+
+MP. Adipocyte dysfunctions
+
+20. Vona-Davis L, Rose DP. Adipokines as
+endocrine, paracrine, and autocrine
+factors
+risk and
+progression.
+Cancer
+2007; 14: 189–206.
+
+Endocr Relat
+
+in breast
+
+cancer
+
+21. Carter J, Church F. Mature breast
+adipocytes promote breast cancer cell
+motility. Exp Mol Pathol 2012; 92:
+312–317.
+
+lesions
+
+development
+
+22. Hirose Y, Hata K, Kuno T, et al.
+Enhancement
+of
+azoxymethane-induced colonic prema-
+lignant
+in C57BL/KsJ-db/db
+mice. Carcinogenesis 2004; 25(5):
+821–825.
+23. Shimizu M, Shirakami Y, Sakai H, et al.
+( )-Epigallocatechin gallate suppresses
+azoxymethane-induced colonic prema-
+lignant lesions in male C57BL/KsJ-db/
+db mice. Cancer Prev Res 2008; 1: 298–
+304.
+
+of
+
+24. Miyamoto S, Yasui Y, Ohigashi H,
+Tanaka T, Murakami A. Dietary
+ﬂavonoids suppress azoxymethane-
+induced colonic preneoplastic lesions
+in male C57BL/KsJ-db/db mice. Chem
+Biol Interact 2010; 183: 276–283.
+
+25. Aparicio T, Guilmeau S, Goiot H, et al.
+Leptin reduces the development of the
+initial precancerous lesions induced by
+azoxymethane
+colonic
+mucosa. Gastroenterology 2004; 126:
+499–510.
+
+in the
+
+rat
+
+26. Rutkowski J, Davis K, Scherer P.
+Mechanisms of obesity and related
+pathologies: the macro and microcircu-
+lation of adipose tissue. FEBS 2009;
+276: 5738–5746.
+
+27. Ye J, Gao Z, Yin J, He Q. Hypoxia is
+insulin
+
+a potential
+
+risk factor
+
+for
+
+Copyright © 2013 John Wiley & Sons, Ltd.
+
+Diabetes Metab Res Rev 2013; 29: 285–295.
+DOI: 10.1002/dmrr
+
+294
+
+P. Matafome et al.
+
+resistance and adiponectin reduction in
+adipose tissue of ob/ob and dietary
+obese mice. Am J Physiol Endocrinol
+Metab 2007; 293: E1118–E1128.
+
+a
+
+28. Lumeng C, DeYoung S, Bodzin J, Saltiel
+A. Increased inﬂammatory properties of
+adipose tissue macrophages recruited
+during diet-induced obesity. Diabetes
+2007; 56: 16–23.
+
+29. Liu Y, Wan Q, Guan Q, Zhao J. High-fat
+feeding impairs both the expression
+and activity of AMPKa in rat skeletal
+muscle. Biochem Biophys Res Com
+2006; 339: 701–707.
+30. Ram V. Therapeutic
+
+signiﬁcance of
+peroxisome proliferator-activated receptor
+modulators in diabetes. Drugs of today
+2003; 39: 609–632.
+
+31. Wellen K, Uysal T, Wiesbrock S,
+Yang Q, Chen H, Hotamisligil G. Interac-
+tumor necrosis factor-a and
+tion of
+thiazolidinedione-regulated
+pathways
+in obesity. Endocrinology 2004; 145:
+2214–2220.
+
+32. Juge-Aubry C, Henrichot E, Meier C.
+of
+J Clin Endoc Metab
+
+Adipose
+inﬂammation.
+2005; 19: 547–566.
+
+regulator
+
+tissue:
+
+33. Shibata R, Sato K, Pimentel D, et al.
+Adiponectin protects against myocardial
+ischemia–reperfusion
+through
+AMPK- and COX-2-dependent mechan-
+isms. Nat Med 2005; 11: 1096–1103.
+
+injury
+
+34. Brown KA, Simpson ER. Obesity and
+breast cancer: progress to understand-
+ing the relationship. Cancer Res 2010;
+70(1): 4–7.
+
+35. Abbott MJ, Constantinescu S, Turcotte
+LP. AMPKa2 is an essential signal in
+the regulation of
+insulin-stimulated
+fatty acid uptake in control-fed and
+high fat-fed mice. Exp Physiol 2012;
+97(5): 603–517.
+
+36. Pang C, Gao Z, Yin J, Zhang J, Jia W, Ye
+J. Macrophage inﬁltration into adipose
+tissue may promote angiogenesis for
+adipose tissue remodeling in obesity.
+Am J Physiol Endocrinol Metab 2008;
+295: E313–E322.
+
+37. Olefsky J, Glass C. Macrophages,
+
+in-
+ﬂammation and insulin resistance.
+Annu Rev Physiol 2010; 72: 219–146.
+
+38. Semenza G. Hydroxylation of HIF-1:
+the molecular
+(Bethesda) 2004;
+
+oxygen sensing at
+level. Physiology
+19: 176–182.
+
+39. Van Uden P, Kenneth N, Rocha S.
+Regulation of hypoxia inducible factor-
+1a by NF-kB. Biochem J 2008; 412(3):
+477–484.
+
+40. Koppenol W, Bounds P, Dang C. Otto
+Warburg’s
+to current
+concepts of cancer metabolism. Nat
+Rev Cancer 2011; 11: 325–337.
+
+contributions
+
+41. Israël M, Schwartz L. The metabolic
+advantage of tumor cells. Mol Cancer
+2011; 10: 70.
+
+42. Porponato P, Dhup S, Dadich R, Copetti
+T, Sonveaux P. Anticancer targets in the
+glycolytic metabolism of
+tumors: a
+comprehensive review. Front Pharma-
+col 2011; 2: 1–18.
+
+al. The
+
+43. Bento C, Fernandes R, Ramalho J,
+chaperone-dependent
+et
+ubiquitin ligase CHIP targets HIF-1a
+for degradation in the presence of
+methylglyoxal. PLoS One 2010; 5
+(11): 1–13.
+
+44. Thornalley P, Rabbani N. Glyoxalases
+tumorigenesis and multidrug resistance.
+Sem Cell Dev Biol 2011; 22: 318–325.
+
+45. Ramasamy R, Yan SF, Schmidt AM.
+Advanced glycation end products: from
+precursors to RAGE: round and round
+we go. Amino Acids 2012; 42(4):
+1151–1161.
+
+46. Kellenberger L, Bruin J, Greenway J,
+et al. The role of dysregulated glucose
+metabolism in epithelial ovarian cancer.
+J Oncol 2010: 514310.
+
+47. Sethi J, Hotamisligil G. The role of
+TNFa in adipocyte metabolism. Cell
+Dev Biol 1999; 10: 19–29.
+
+48. Rajala M, Scherer P. Minireview:
+the adipocyte at
+the crossroads of
+energy homeostasis, inﬂammation and
+atherosclerosis. Endocrin 2003; 144:
+3765–3773.
+
+49. Ono M. Molecular
+
+links between
+tumor angiogenesis and inﬂammation:
+inﬂammatory stimuli of macrophages
+and cancer
+for
+therapeutic strategy. Cancer Sci 2008;
+99(8): 1501–1506.
+
+targets
+
+cells
+
+as
+
+of
+
+50. Gonullu G, Kahraman H, Bedir A,
+Bektas A, Yücel I. Association between
+adiponectin, resistin, insulin resistance,
+and colorectal tumors. Int J Colorectal
+Dis 2010; 25(2): 205–212.
+
+51. Wei-kai H, Yu-xin X, Ting Y, et al.
+Adipocytokines and breast
+cancer
+risk. Chin Med J 2007; 120(18):
+1592–1596.
+
+52. Nakajima TE, Yamada Y, Hamano T,
+et al. Adipocytokines as new promising
+markers
+tumors:
+adiponectin for colorectal adenoma
+and resistin and visfatin for colorectal
+cancer. Cancer Sci 2010; 101(5):
+1286–1291.
+
+colorectal
+
+53. Vona-Davis L, Rose DV. Angiogenesis,
+adipokines and breast cancer. Cytokine
+Growth Factor Rev 2009; 20: 193–201.
+54. Golay A, Ybarra J. Link between
+obesity and type 2 diabetes. J Clin
+Endoc Metab 2005; 19(4): 649–663.
+
+55. Cheng SP, Yin PH, Hsu YC, et al. Leptin
+enhances migration of human papil-
+lary thyroid cancer cells through the
+PI3K/AKT and MEK/ERK signaling
+pathways. Oncol Rep 2011; 26(5):
+1265–1271.
+
+56. Jaffe T, Schwartz B. Leptin promotes
+motility and invasiveness in human
+colon cancer
+activating
+multiple signal-transduction pathways.
+Int J Cancer 2008; 123: 2543–2556.
+
+cells
+
+by
+
+57. Chen J. Multiple signal pathways in
+obesity-associated cancer. Obes Rev
+2011; 12: 1063–1070.
+
+58. Ueki K, Kadowaki T, Kahn R. Role of sup-
+pressor of cytokine signalling SOCS-1
+and SOCS-3 in hepatic steatosis and the
+metabolic syndrome. Hepatol Res 2005;
+33: 185–192.
+
+59. Stattin P, Lukanova A, Biessy C, et al.
+Obesity and colon cancer: does leptin
+provide a link? Int J Cancer 2004;
+109: 149–152.
+
+60. Housa D, Housova J, Vernerova Z,
+Haluzik M. Adipocytokines and cancer.
+Physiol Res 2006; 55: 233–244.
+
+61. Garofalo C, Koda M, Cascio S, et al.
+Increased expression of leptin and the
+leptin receptor as a marker of breast
+cancer progression: possible role of
+
+69. Torres-Leal
+
+F,
+
+Fonseca-Alaniz M,
+Rogero M, Tirapegui J. The role of
+inﬂamed adipose tissue in the insulin
+resistance. Cell Biochem Funct 2010;
+28: 623–631.
+
+obesity-related stimuli. Clin Cancer Res
+2006; 12(5): 1447–1453.
+
+62. Catalano S, Marsico S, Giordano C,
+et al. Leptin enhances, via AP-1,
+expression of aromatase in the MCF-7
+cell line. J Biol Chem 2003; 278(31):
+28668–28676.
+
+63. Menzaghi C, Trischitta V. Genetics
+of
+serum resistin: a paradigm of
+population-speciﬁc regulation? Diabe-
+tologia 2010; 53(2): 226–228.
+
+64. Sun CA, Wu MH, Chu CH, et al.
+resistin and breast
+Adipocytokine
+cancer risk. Breast Cancer Res Treat
+2010; 123(3): 869–876.
+
+65. Robertson SA, Rae CJ, Graham A.
+Induction of angiogenesis by murine
+resistin: putative role of PI3-kinase
+and NO-dependent pathways. Regul
+Pept 2009; 152: 41–47.
+
+lipid
+
+66. Lee TS, Lin CY, Tsai JY, et al. Resistin
+increases
+by
+affecting class A scavenger receptor,
+CD36
+cassette
+transporter-A1 in macrophages. Life
+Sci 2009; 84: 97–104.
+
+accumulation
+
+ATP-binding
+
+and
+
+67. Zhang J, Lei T, Chen X, et al. Resistin
+up-regulates COX-2 expression via
+TAK1-IKK-NF-kB signaling pathway.
+Inﬂammation 2010; 33(1): 25–33.
+
+68. Di Simone N, Di Nicuolo F, Sanguinetti
+M, et al. Resistin regulates human
+choriocarcinoma cell invasive behav-
+ior and endothelial cell angiogenic
+processes. J Endocrinol 2006; 189:
+691–699.
+
+70. Danese E, Montagnana M, Minicozzi
+AM, et al. The role of resistin in
+colorectal
+cancer. Clin Chim Acta
+2012; 413: 760–776.
+
+71. Lee Y, Chen Y, Wu C, Lo S, Hou M,
+Yuan S. Resistin expression in breast
+cancer tissue as a marker of prognosis
+and hormone therapy stratiﬁcation.
+Gynecol Oncol 2012; 125: 742–750.
+doi:10.1016/j.ygyno.2012.02.032.
+
+72. Hlavna M, Kohut L, Lipkova J, et al.
+resistin levels with
+risk. Neoplasma
+
+Relationship of
+endometrial cancer
+2011; 58(2): 124–128.
+
+73. Fukuhara A, Matsuda M, Nishizawa M,
+et al. Visfatin: a protein secreted by
+visceral fat that mimics the effects of
+insulin. Science 2005; 307: 426–430.
+
+Elisaf M.
+
+74. Filippatos T, Derdemezis C, Kiortsis D,
+Tselepis A,
+Increased
+plasma levels of visfatin/pre-B cell
+colony-enhancing factor in obese and
+overweight patients with metabolic
+syndrome. J Endocrinol
+Invest 2007;
+30: 323–326.
+
+75. Chang Y, Chang D, Lin K, Shin S, Lee Y.
+Visfatin in overweight/obesity, type 2
+diabetes,
+insulin resistance, metabolic
+syndrome and cardiovascular dis-
+eases: a meta-analysis and systemic
+review. Diab Metab Res Rev 2011;
+27: 515–527.
+
+76. Esteghamati A, Alamdari A, Zandieh A,
+et al. Serum visfatin is associated with
+type 2 diabetes mellitus independent
+of insulin resistance and obesity. Diab
+Res Clin Pract 2011; 91: 154–158.
+
+Copyright © 2013 John Wiley & Sons, Ltd.
+
+Diabetes Metab Res Rev 2013; 29: 285–295.
+DOI: 10.1002/dmrr
+
+Adipose Tissue Dysfunction and Cancer
+
+295
+
+77. Kang Y, Song H, Lee M, Ko G, Cha D.
+Plasma concentration of visfatin is a
+new surrogate marker of
+systemic
+inﬂammation in type 2 diabetes. Diab
+Res Clin Pract 2010; 89: 141–149.
+
+78. Shaker O, El-Shehaby A, Zakaria A,
+et al. Plasma visfatin and retinol bind-
+ing protein-4 levels in patients with
+type 2 diabetes mellitus and their rela-
+tionship to adiposity and fatty liver.
+Clin Biochem 2011; 44: 1457–1463.
+
+signaling
+
+79. Park J, Kim W, Shin S, et al. Visfatin
+exerts angiogenic effects on human
+umbilical vein endothelial cells through
+the mTOR
+pathway.
+Biochem Bioph Acta 2011; 1813:
+763–771.
+
+80. Kamińska A, Kopczyńska E, Bronisz A,
+et al. An evaluation of visfatin levels
+in obese subjects. Endokrynol Pol
+2010; 61: 169–173.
+
+81. Antuna-Puente B, Feve B, Fellahi S,
+Bastard J. Adipokines: the missing link
+between insulin resistance and obesity.
+Diabetes Metab 2008; 34: 2–11.
+
+82. Wang Z, Nakayama T. Inﬂammation, a
+link between obesity and cardiovascular
+disease. Mediators Inﬂamm 2010; 2010:
+535918.
+
+83. Stofkova A. Resistin and visfatin:
+regulators
+sensitivity,
+inﬂammation and immunity. Endocr
+Regul 2010; 44: 25–36.
+
+insulin
+
+84. Koerner A, Kratzasch J, Kiess W.
+Adipocytokines:
+leptin—the classical,
+resistin—the controversial, adiponec-
+tin—the promising, and more to come.
+Best Pract Res Clin Endocrinol Metab
+2005; 19(4): 525–546.
+
+85. Rabe K, Lehrke M, Parhofer K, Broedl
+U. Adipokines and insulin resistance.
+Mol Med 2008; 14: 741–751.
+
+86. Xie H, Tang S, Luo X, et al. Insulin-like
+effects of visfatin in human osteoblasts.
+Calcif Tissue Int 2007; 80(3): 201–210.
+87. Kim J, Kim E, Jeong B, et al. Visfatin
+stimulates
+of MCF-7
+human breast cancer cells. Mol Cells
+2010; 30: 341–345.
+
+proliferation
+
+88. Wozniak S, Gee L, Wachtel M, Frezza
+E. Adipose tissue: the new endocrine
+organ? A review article. Dig Dis Sci
+2009; 54(9): 1847–1856.
+
+of
+
+91. Sikalidis A, Varamini B. Roles of
+hormones and signaling molecules in
+describing the relationship between
+obesity and colon cancer. Pathol Oncol
+Res 2011; 17: 785–790.
+
+92. Tomita Y, Yang X,
+
+Ishida Y, et al.
+lung
+Spontaneous
+of
+metastasis in the absence of
+tumor
+necrosis factor receptor p55. Int J Can-
+cer 2004; 112: 927–933.
+
+regression
+
+89. McGee K, Harte A, da Silva N, et al.
+Visfatin is regulated by rosiglitazone
+in type 2 diabetes and inﬂuenced by
+NF-kB and JNK in human abdominal
+subcutaneous adipocytes. PLoS One
+2011; 6(6): 1–9.
+
+90. Bi T, Che X. Nampt/PBEF/visfatin and
+2010;
+
+Cancer
+
+Ther
+
+Biol
+
+cancer.
+10: 119–125.
+
+93. Balkwill F. Tumour necrosis
+
+factor
+and cancer. Nat Rev Cancer 2009; 9:
+361–371.
+
+94. Wu Y, Zhou B. TNF-alpha/NF-kappaB/
+Snail pathway in cancer cell migration
+and invasion. Br J Cancer 2010; 102:
+639–644.
+
+95. Dwyer RM, Potter-Beirne SM, Harring-
+ton KA, et al. Monocyte chemotactic
+protein-1 secreted by primary breast
+tumors stimulates migration of mesen-
+chymal stem cells. Clin Cancer Res
+2007; 13(17): 5020–5027.
+
+96. Yoshidome H, Kohno H, Shida T, et al.
+Signiﬁcance of monocyte chemoattrac-
+tant protein-1 in angiogenesis and
+survival in colorectal liver metastases.
+Int J Oncol 2009; 34: 923–930.
+
+97. Mojsilovic-Terovic J, Callaghan D, Cui
+H, Dean C, Stanimirovic D, Zhang W.
+Hypoxia inducible factor-1 (HIF-1) is
+involved in the regulation of hyp-
+oxia-stimulated expression of mono-
+cyte
+protein-1
+(MCP-1/CCL2) and MCP-5 (Ccll2)
+in astrocytes. J Neuroinﬂamm 2007;
+4: 12.
+
+chemoattractant
+
+98. Zhang J, Lu Y, Pienta KJ. Multiple roles
+of chemokine (C–C motif) ligand 2 in
+promoting prostate cancer growth.
+J Natl Cancer Inst 2010; 102(8):
+522–528.
+
+99. Soria G, Ben-Baruch A. The inﬂamma-
+tory chemokines CCL2 and CCL5 in
+breast cancer. Cancer Lett 2008; 267:
+271–285.
+
+cancer:
+
+100. O’Brien J, Schedin P. Macrophages in
+breast
+involution
+macrophages account for the poor prog-
+nosis of pregnancy-associated breast
+cancer? J Mammary Gland Biol Neopla-
+sia 2009; 14: 145–157.
+
+do
+
+101. Hong K, Ryu J, Han K. Monocyte che-
+moattractant protein-1-induced angiogen-
+esis is mediated by vascular endothelial
+growth factor-A. Blood 2005; 105(4):
+1405–1407.
+
+102. Niu J, Azfer A, Zhelyabovska O, Fatma S,
+Kolattukudy PE. Monocyte chemotactic
+protein (MCP)-1 promotes angiogenesis
+via a novel transcription factor, MCP-1-
+induced protein (MCPIP). J Biol Chem
+2008; 283(21): 14542–14551.
+
+103. Eklund L, Olsen BR. Tie receptors and
+their angiopoietin ligands are context-
+dependent
+vascular
+remodeling. Exp Cell Res 2006; 312:
+630–641.
+
+regulators
+
+104. Fujimoto H, Sangai T, Ishii G, et al.
+Stromal MCP-1 in mammary tumors
+induces tumor-associated macrophage
+inﬁltration and contributes to tumor
+progression. Int J Cancer 2009; 125:
+1276–1284.
+
+105. Mantovani A, Marchesi F, Porta C, Sica A,
+Allavena P. Inﬂammation and cancer:
+breast cancer as a prototype. Breast
+2007; 16: S27–S33.
+
+106. Mancino A, Lawrence T. Nuclear
+factor-kB
+associated
+macrophages. Clin Cancer Res 2010;
+16(3): 784–789.
+
+tumor
+
+and
+
+of
+
+factor
+
+growth
+
+107. Edwards JP, Zhang X, Mosser DM.
+by
+Macrophages
+regulatory epidermal growth factor-
+like. J Immunol 2009; 182: 1929–1939.
+108. Fang L, Li G, Liu G, Sam W, Lee SW,
+Aaronson
+of
+heparin-binding EGF-like growth factor
+counteracts p53 growth suppression
+through activation of MAPK and
+PI3K/Akt signaling cascades. EMBO
+2001; 20(8): 1931–1939.
+
+induction
+
+p53
+
+SA.
+
+109. Bento C, Fernandes R, Matafome P,
+Sena C, Seiça R, Pereira P. Methyl-
+glyoxal-induced imbalance in the
+ratio of vascular endothelial growth
+factor to angiopoietin 2 secreted by
+retinal
+cells
+leads to endothelial dysfunction. Exp
+Physiol 2010; 95(9): 955–970.
+
+epithelial
+
+pigment
+
+110. Tomita N, Morishita R, Taniyama Y,
+et al. Angiogenic property of hepato-
+cyte growth factor is dependent on
+upregulation of essential
+transcription
+factor for angiogenesis, ets-1. Circulation
+2003; 107: 1411–1417.
+
+111. Matsumoto K, Nakamura T, Sakai K,
+Nakamura T. Hepatocyte growth factor
+and Met
+and
+therapeutic
+approach with NK4.
+Proteomics 2008; 8: 3360–3370.
+
+in tumor biology
+
+112. Lupu-Meiri M, Geras-Raaka E, Lupu R,
+et al. Knock-down of plasminogen-acti-
+vator inhibitor-1 enhances expression
+of E-cadherin and promotes epithelial
+differentiation of human pancreatic
+adenocarcinoma cells. J Cell Physiol
+2012; 227: 3621–3628. doi:10.1002/
+jcp.24068.
+
+113. Draznin B. Mitogenic action of insulin:
+friend, foe or ‘frenemy’? Diabetologia
+2010; 53(2): 229–233.
+
+114. Tsugane S, Inoue M. Insulin resistance
+and cancer: epidemiological evidence.
+Cancer Sci 2010; 101(5): 1073–1079.
+
+115. Jonhson J, Pollak M. Insulin, glucose
+and increased risk of cancer in patients
+with type 2 diabetes. Diabetologia
+2010; 53: 2086–2088.
+
+116. Albanes D, Weinstein SJ, Wright ME,
+et al. Serum insulin, glucose, indices
+of insulin resistance, and risk of pros-
+tate cancer. J Natl Cancer Inst 2009;
+101(18): 1272–1279.
+
+117. Chen J, Huang X, Qiao L, Katsiﬁs A. In-
+sulin caused drug resistance to oxalipla-
+tin in colon cancer cell line HT29. J
+Gastrointest Oncol 2011; 2: 27–33.
+
+118. Renehan A, Dive C. Obesity,
+
+insulin
+and chemoresistance in colon cancer.
+J Gastrointest Oncol 2011; 2(1): 8–10.
+119. Pollard JW. Macrophages deﬁne the
+invasive microenvironment in breast
+cancer. J Leukoc Biol 2008; 84(3):
+623–630.
+
+120. Mantovani A, Sica A. Macrophages,
+innate immunity and cancer: balance,
+tolerance, and diversity. Curr Opin
+Immunol 2010; 22: 231–237.
+
+121. Strissel K, Stancheva Z, Miyoshi H,
+et al. Adipocyte death, adipose tissue
+remodeling and obesity complications.
+Diabetes 2007; 56: 2910–2918.
+
+Copyright © 2013 John Wiley & Sons, Ltd.
+
+Diabetes Metab Res Rev 2013; 29: 285–295.
+DOI: 10.1002/dmrr
+
+

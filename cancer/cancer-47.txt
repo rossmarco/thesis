@@ -1,0 +1,1234 @@
+The Journal of Nutrition
+Nutritional Epidemiology
+
+The Dietary Inﬂammatory Index Is Associated
+with Prostate Cancer Risk in French
+Middle-Aged Adults in a Prospective Study1–3
+Laurie Graffouille`re,4 M´elanie Deschasaux,4 Franc¸ois Mariotti,5,6 Lola Neufcourt,4 Nitin Shivappa,7,8
+James R H´ebert,7,8 Michael D Wirth,7,8 Paule Latino-Martel,4 Serge Hercberg,4,9 Pilar Galan,4
+Chantal Julia,4,9 Emmanuelle Kesse-Guyot,4 and Mathilde Touvier4*
+
+4Nutritional Epidemiology Research Team, Sorbonne Paris Cit´e Epidemiology and Statistics Research Center, French National Institute
+of Health and Medical Research (Inserm) U1153, French National Institute for Agricultural Research (Inra) U1125, French National
+Conservatory of Arts and Crafts (Cnam), Paris 5, 7, 13 Universities, Bobigny, France; 5UMR 914 Nutrition Physiology and Ingestive
+Behavior, AgroParisTech, Research Center in Human Nutrition from the Ile-de-France region, Paris, France; 6UMR 914 Nutrition
+Physiology and Ingestive Behavior, French National Institute for Agricultural Research (Inra), Research Center in Human Nutrition from
+the Ile-de-France region, Paris, France; 7Department of Epidemiology and Biostatistics, Arnold School of Public Health, Cancer
+Prevention and Control Program, University of South Carolina, Columbia, SC; 8Connecting Health Innovations, Columbia, SC; and
+9Public Health Department, Avicenne Hospital, Bobigny, France
+
+Abstract
+
+Background: Chronic inﬂammation is one of the mechanisms involved in carcinogenesis. Diet is a major source of pro- and
+
+anti-inﬂammatory compounds. The Dietary Inﬂammatory Index (DII) was designed to estimate its overall inﬂammatory potential.
+
+Objective: Our objective was to investigate the associations between the DII and overall, breast, and prostate cancer
+
+risks.
+Methods: This prospective study included 6542 participants [3771 women and 2771 men with a mean 6 SD age of 49.2 6
+6.4 y and a BMI (in kg/m2) of 24.0 6 3.6 at baseline] from the Suppl ´ementation en VItamines et Min ´eraux AntioXydants
+
+(SU.VI.MAX) cohort who completed at least six 24-h dietary records during the ﬁrst 2 y of follow-up. The DII was based on
+
+36 food variables. Higher scores corresponded to more proinﬂammatory diets. A total of 559 incident cancers were
+
+diagnosed (median follow-up, 12.6 y), including 158 female breast and 123 prostate cancers (the 2 main cancer sites in this
+
+cohort). Associations were characterized by multivariable Cox proportional hazards models. Stratiﬁed analyses were
+
+performed according to the median of usual daily alcohol intake.
+
+Results: Sex-speciﬁc quartiles of the DII were positively associated with prostate cancer risk [quartile (Q) 4 compared with
+
+Q1, HR: 2.08; 95% CI: 1.06, 4.09] but not with overall or breast cancer risks. There was an interaction between the DII and
+alcohol intake (grams per day) on overall cancer risk (P-interaction = 0.02): the DII was positively associated with overall
+cancer risk in low-to-moderate alcohol drinkers (Q4 compared with Q1 HR: 1.75; 95% CI: 1.15, 2.68; P-trend = 0.02),
+whereas no association was detected in higher consumers of alcohol (P-trend = 0.8). This interaction was also observed
+for breast cancer (P-interaction = 0.001).
+
+Conclusion: Consistent with mechanistic data, ﬁndings from this study indicated that proinﬂammatory diets are
+
+associated with increased prostate cancer risk and, in low-to-moderate alcohol drinkers, with increased overall and breast
+cancer risk. The SU.VI.MAX trial was registered at clinicaltrials.gov as NCT00272428. J Nutr 2016;146:785–91.
+
+Keywords:
+
+cancer, diet, Dietary Inﬂammatory Index, inﬂammation, prospective study
+
+Introduction
+
+The involvement of chronic inﬂammation in carcinogenesis is
+increasingly acknowledged.
+In many experimental studies,
+inﬂammatory mechanisms involving inﬂammatory cells and
+signaling pathways also have been described as promoting
+carcinogenesis (1). Moreover, as reported by 2 meta-analyses (2,
+3), epidemiologic studies have shown associations between
+inﬂammatory biomarkers such as C-reactive protein (CRP)10
+and IL-6 and an increased risk of overall and lung cancer. A
+
+previous prospective study nested in the Suppl´ementation en
+VItamines et Min´eraux AntioXydants (SU.VI.MAX) cohort
+found that baseline high-sensitivity CRP was associated with an
+increased overall cancer and prostate cancer risk (4).
+
+A growing body of literature has investigated the inﬂuence of
+diet on chronic inﬂammation (5–8). Indeed, diet is a major
+source of bioactive compounds for which either pro- or anti-
+inﬂammatory properties have been identiﬁed (9). The Dietary
+Inﬂammatory Index (DII) is a literature-derived scoring system
+
+ã 2016 American Society for Nutrition.
+Manuscript received October 9, 2015. Initial review completed November 30, 2015. Revision accepted January 26, 2016.
+First published online March 9, 2016; doi:10.3945/jn.115.225623.
+
+785
+
+Downloaded from https://academic.oup.com/jn/article-abstract/146/4/785/4630752
+by University of Ottawa user
+on 24 June 2018
+
+that was developed to estimate the pro- and anti-inﬂammatory
+potential of the overall diet and to investigate its possible
+relations with chronic diseases (9).
+
+Globally, cancer is one of the leading causes of death, with
+about one-third of cancers attributed to unhealthy lifestyle and
+dietary behaviors,
+i.e., modiﬁable risk factors (10). To our
+knowledge, few studies have investigated the pro- or anti-
+inﬂammatory potential of the diet, measured with the DII, in
+relation to cancer risk (11–23). Moreover, only 4 of these studies
+were based on a prospective design and focused on colorectal
+cancer (16, 18, 19) or lung cancer (14). The associations
+between DII and female breast cancer (13) or prostate cancer
+(12, 17) have only been explored in nonprospective case-control
+studies.
+
+Therefore, our objective was to investigate the relations
+between the DII and overall, female breast, and prostate cancer
+risks in a large French prospective cohort.
+
+Methods
+
+Study population. The SU.VI.MAX study is a population-based
+double-blind, placebo-controlled, randomized trial (NCT00272428)
+initially designed to assess the effect of a daily antioxidant supplemen-
+tation on coronary heart disease and cancer incidence. All participants
+took a single daily capsule containing a combination of 120 mg of
+ascorbic acid, 30 mg of vitamin E, 6 mg of b-carotene, 100 mg of
+selenium, and 20 mg of zinc, or a placebo (24). Participants were advised
+against taking any self-prescribed supplements during the trial. The
+study was conducted according to the Declaration of Helsinki guidelines
+and was approved by the Ethics Committee for Studies with Human
+Subjects at the Paris-Cochin Hospital (CCPPRB No. 706) and the
+Commission Nationale de lÕInformatique et des Libert´es (French
+National Commission for Computed Data and Individual Freedom)
+(CNIL No. 334641). During the ﬁrst-year study, 13,017 subjects were
+enrolled (1994–1995) and health events monitoring was pursued until
+September 2007. Written informed consent was obtained from all
+participants.
+
+Baseline data collection. At enrollment, all participants completed
+questionnaires on sociodemographics, smoking status, physical activity,
+and medication use. They also underwent a clinical examination and
+anthropometric measurements by study nurses and physicians. Age at
+menopause (natural or artiﬁcial) was self-reported by women during
+follow-up.
+
+Dietary data were collected with the use of the Minitel Telematic
+Network (an Internet prototype), which was widely used in France as an
+adjunct to the telephone at the beginning of the study. During the trial
+
+1 L Graffouille` re was funded by a grant from the French Ministry of Research and
+Higher Education and by a grant from the French Ministry of Agriculture, Food,
+and Forestry. M Deschasaux was funded by a PhD grant from the Canc ´eropoˆ le
+Ile-de-France (public funding). L Neufcourt was funded by a grant from the
+French Ministry of Research and Higher Education. N Shivappa, JR H ´ebert, and
+MD Wirth were supported by grant no. R44DK103377 from the US National
+Institute for Diabetes and Digestive and Kidney Diseases.
+2 Author disclosures: JR H ´ebert owns controlling interest in Connecting Health
+Innovations, a company planning to license the right to his invention of the
+Dietary Inﬂammatory Index from the University of South Carolina in order to
+develop computer and smart phone applications for patient counseling and
+dietary interventions in clinical settings. N Shivappa and MD Wirth are
+employees of Connecting Health Innovations. L Graffouille` re, M Deschasaux,
+F Mariotti, L Neufcourt, P Latino-Martel, S Hercberg, P Galan, C Julia, E
+Kesse-Guyot, and M Touvier, no conﬂicts of interest. The funders had no role in
+the design, analysis or writing of this article.
+3 Supplemental Figures 1 and 2 are available from the ‘‘Online Supporting
+Material’’ link in the online posting of the article and from the same link in the
+online table of contents at http://jn.nutrition.org.
+*To whom correspondence should be addressed. E-Mail: m.touvier@eren.smbh.
+univ-paris13.fr.
+
+786 Graffouille` re et al.
+
+phase, participants were invited to provide a 24-h dietary record every
+2 mo (randomly distributed over weekend and week days). In order to
+comply with the prospective design, dietary records from the ﬁrst 2 y of
+follow-up were used in the present study. The participants selected the
+foods consumed at breakfast, lunch, dinner, and/or any other occasion
+throughout the day from a predeﬁned list of ;1000 items. Portion sizes
+were estimated with the use of a validated picture booklet distributed at
+enrollment (25). Energy, alcohol (grams per day), and nutrient intake
+was estimated with the use of a published French food composition table
+(26).
+
+DII computation. The computation of the DII was previously described
+in detail (9). Steps involved in the DII calculation can be found in
+Supplemental Figure 1. Brieﬂy, the DII is a score initially designed with
+45 dietary variables determined from a literature review of 1943 articles
+published up to 2010. A literature-derived inﬂammatory effect score was
+assigned to every micronutrient, macronutrient, or food variable
+associated with an increase (+1), a decrease (21), or no effect (0) on 6
+major inﬂammatory biomarkers, including IL-1b, IL-4, IL-6, IL-10, TNF-a,
+and CRP.
+
+Mean intake of every food variable was transformed with standard-
+ized values from a world database into a z score, then converted to a
+percentile and centered. Finally, the centered percentile score for each
+food variable was multiplied by its associated coefﬁcient, then these were
+summed across the 45 dietary variables, thus providing an individual DII
+score. In the present study, the DII was based on 36 dietary variables
+available in the database. Total intake of energy, protein, carbohydrate,
+total fat, SFAs, cholesterol, vitamin B-12, and iron were computed into
+the score as proinﬂammatory factors, whereas dietary intake of MUFAs,
+PUFAs, n–3 FAs, n–6 FAs, alcohol, ﬁber, magnesium, niacin, thiamin,
+riboﬂavin, vitamin B-6, vitamin A, vitamin C, vitamin D, vitamin E, folic
+acid, b-carotene, anthocyanidins, ﬂavan-3-ol, ﬂavonols, ﬂavanones,
+ﬂavones, isoﬂavones, garlic, ginger, pepper, onions, and tea were entered
+as anti-inﬂammatory factors. Theoretical DII scores ranged from 28.9
+(maximally anti-inﬂammatory diet) to +8.0 (maximally proinﬂamma-
+tory diet). Higher DII scores indicated a more proinﬂammatory diet.
+
+Case ascertainment. Major health events were self-reported by subjects
+during follow-up (between inclusion in 1994 and September 2007).
+Investigations allowed collection of medical case data from participants
+themselves, physicians, and/or hospitals. An independent expert com-
+mittee of physicians reviewed the medical information. Cases were
+validated through a pathologic report and classiﬁed with the use of the
+International Classiﬁcation of Diseases, 10th Revision, Clinical Modiﬁ-
+cation (27). All ﬁrst-incident primary cancers were considered as cases in
+this study, except for basal cell carcinoma (not considered to be cancer).
+
+Statistical analysis. Of the 13,017 participants of the SU.VI.MAX
+study, 161 were excluded because of a cancer diagnosis reported before
+the start of the follow-up. Of the remaining participants, 6542 provided
+$6 valid 24-h dietary records within the ﬁrst 2 y of follow-up, and thus
+were available for analysis. For all covariates, <5% of values were
+missing and were replaced by the respective mode value.
+
+Baseline characteristics of participants were compared between cases
+and noncases with the use of x2 tests or StudentÕs t tests, as appropriate.
+HRs and 95% CIs obtained from Cox proportional hazards models
+with age as the primary time variable were used to characterize the
+association between sex-speciﬁc quartiles of the DII and overall, female
+breast, and prostate cancer risk. Participants contributed person-time
+until the date of diagnosis of the studied cancer, the date of the last
+completed questionnaire, the date of death, or 30 September 2007,
+whichever occurred ﬁrst. Participants who reported a cancer other than
+the one studied during the follow-up were included and censored at the
+date of that diagnosis (except for basal cell carcinoma, which was not
+considered to be cancer). We conﬁrmed that the assumptions of
+proportionality were satisﬁed through examination of the log–log
+
+10 Abbreviations used: COX2, cyclooxygenase 2; CRP, C-reactive protein; DII,
+Dietary Inﬂammatory Index; Q, quartile; SU.VI.MAX, Suppl ´ementation en
+VItamines et Min ´eraux AntioXydants; TNF, tumor necrosis factor.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/146/4/785/4630752
+by University of Ottawa user
+on 24 June 2018
+
+(survival) compared with log–time plots. The SAS macro %RCS_Reg
+(28) was used to test for a possible threshold effect and to select the most
+appropriate cutoff.
+
+Multivariable models were adjusted for age (time-scale in the Cox
+model), sex, intervention group of the initial SU.VI.MAX trial (antiox-
+idant or placebo), number of dietary records (continuous), BMI (in kg/
+m2) (<25, $25 to <30, or $30), height (continuous), physical activity
+(irregular, <1 h/d, or $1 h walking or equivalent/d), smoking status
+(never, former, or current), educational level (primary, secondary, or
+university), family history of cancer in ﬁrst-degree relatives (yes or no),
+daily mean energy intake without alcohol
+(kilocalories per day;
+continuous), and daily mean alcohol intake (grams per day; continuous).
+For breast cancer analyses, additional adjustments were performed for
+menopausal status at baseline (yes or no), use of hormonal treatment for
+menopause at baseline (yes or no), number of live births (continuous),
+and family history of breast cancer in ﬁrst-degree relatives (yes or no).
+For prostate cancer analyses, additional adjustments were applied for
+prostate-speciﬁc antigen concentration at baseline (continuous) and
+family history of prostate cancer in ﬁrst-degree relatives (yes or no).
+
+Because alcohol intake is an important risk factor for several cancer
+sites (29) and is considered to be an anti-inﬂammatory factor in
+formulating the DII (9), we tested the interaction between alcohol intake
+(sex-speciﬁc population median) and DII (sex-speciﬁc quartiles). Anal-
+yses were conducted overall and then stratiﬁed by alcohol intake. Two-
+factor interactions were also tested between the DII and the intervention
+group of the initial SU.VI.MAX trial, BMI, and sex.
+
+Models also were computed separately for premenopausal and
+postmenopausal breast cancer (women contributed to the premeno-
+pausal model until their age of menopause, or from their age of
+menopause, respectively). Sensitivity analyses were carried out while
+excluding cancer cases diagnosed during the ﬁrst year of follow-up. All
+tests were 2-sided, and P < 0.05 was considered to be statistically
+signiﬁcant. SAS software version 9.3 was used for analyses.
+
+The interaction between sex-speciﬁc quartiles of the DII and
+alcohol intake (sex-speciﬁc median, i.e., 6.6 g/d for women and
+24.1 g/d for men) on overall cancer risk was statistically
+signiﬁcant (P-interaction = 0.02) (Table 3). In stratiﬁed analyses,
+the DII was positively associated with overall cancer risk in low-
+to-moderate alcohol consumers (Q4 compared with Q1 HR:
+1.75; 95% CI: 1.15, 2.68; P-trend = 0.02), but not in higher
+consumers of alcohol (P-trend = 0.8). This interaction was also
+observed for breast cancer (P-interaction = 0.001): DII was
+positively associated with breast cancer risk in low-to-moderate
+alcohol consumers (Q4 compared with Q1 HR: 3.82; 95% CI:
+1.51, 9.64; P-trend = 0.002). An inverse association was detected
+in higher consumers of alcohol (Q4 compared with Q1 HR: 0.31;
+95% CI: 0.15, 0.65; P-trend = 0.005). The P-interaction between
+the DII and alcohol intake was 0.8 for prostate cancer.
+
+The interaction test between sex-speciﬁc quartiles of the DII
+and the antioxidant supplementation group from the initial
+SU.VI.MAX trial was not statistically signiﬁcant (P-interaction =
+0.9 for overall cancer, P-interaction = 0.4 for breast cancer, and
+P-interaction = 0.4 for prostate cancer). DII scores ranked from
+25.0 to 5.8 in the antioxidant supplementation arm (mean 6
+SD: 0.7 6 1.8) and from 25.1 to 6.0 in the placebo arm (mean 6
+SD: 0.7 6 1.9). No interaction was observed between the DII
+and sex (P-interaction = 0.3 for overall cancer) or BMI (P-
+interaction = 0.4 for overall cancer, P-interaction = 0.1 for breast
+cancer, and P-interaction = 0.6 for prostate cancer). Exclusion of
+in situ cancer cases (n = 47) or exclusion of cancer cases
+diagnosed during the ﬁrst year of follow-up (n = 11) provided
+similar ﬁndings (data not shown). Breast cancer results were
+similar in pre- and postmenopausal women (data not shown).
+
+Results
+Median follow-up was 12.6 y. DII scores ranked from 25.1 to
+6.0 for women (mean 6 SD: 1.0 6 1.8) and 25.0 to 5.3 for men
+(mean 6 SD: 0.3 6 1.8). A total of 5.2% of the subjects were lost
+to follow-up. During follow-up, a total of 559 incident cancers
+(512 invasive and 47 in situ) were diagnosed, including 158
+female breast, 123 prostate, and 278 other cancers (including 51
+skin, 32 colorectal, 19 thyroid, 15 lung, and 161 other cancers).
+Regarding female breast cancer cases, 59% were estrogen
+receptor–positive and 43% were progesterone receptor–positive.
+Among prostate cancer cases, 5% had a Gleason score between
+2 and 4, 87% between 5 and 7, and 8% between 8 and 10. Study
+population characteristics are described in Table 1. Compared
+with those without cancer, those with cancer (overall) were older
+and taller; were more frequently male; had a slightly higher
+number of children, higher alcohol intake, and a higher baseline
+plasma prostate-speciﬁc antigen concentration (in men); and had
+more family members with a history of cancer.
+
+The associations between sex-speciﬁc quartiles of the DII and
+risk of overall, female breast, prostate, and nonbreast/
+nonprostate cancers are represented in Table 2. Higher sex-
+speciﬁc quartiles of the DII were positively associated with
+prostate cancer risk [quartile (Q) 4 compared with Q1 HR: 2.08;
+95% CI: 1.06, 4.09]. The observed results suggested a possible
+threshold effect, conﬁrmed in a dose–response analysis with the
+use of restricted cubic splines (see Supplemental Figure 2). A
+cutoff of 21.0 was selected. An increased risk of prostate cancer
+was observed for a DII value greater than or equal to 21.0
+compared with a DII less than 21.0 (HR: 2.31; 95% CI: 1.35,
+3.95; P = 0.002). No signiﬁcant relation was found regarding
+overall, female breast, and nonbreast/nonprostate cancer risks.
+
+Discussion
+
+In this prospective study, a proinﬂammatory diet corresponding
+to higher DII scores was associated with an increased prostate
+cancer risk. In addition, when analyses were stratiﬁed by alcohol
+intake, which is a major risk factor for several cancer sites, the
+DII also was associated with increased overall and breast cancer
+risk in low-to-moderate drinkers of alcohol. These results
+support a role of inﬂammation in mechanisms underlying
+established nutrition–cancer relations (29).
+
+To our knowledge, few studies have explored the relations
+between the DII and cancer risk. Most of them were non-
+prospective case-control studies: 1 showed positive associations
+of the DII with pancreatic cancer (15); 2 with prostate cancer, in
+line with our results (12, 17); 2 with colorectal cancer (20, 21);
+and 2 with esophageal cancer (11, 22). A recent case-control
+study in postmenopausal women observed no association
+between the DII and breast cancer (13). Only 4 prospective
+studies investigated the relations between the DII and cancer
+risk: 1 found a direct association with lung cancer risk (14), and
+3 found a direct association with colorectal cancer risk (16, 18,
+20). All of these studies used an FFQ (11–19, 21, 22) or a dietary
+history questionnaire (20), but none used repeated 24-h records
+or recalls. To our knowledge, no prospective study has previ-
+ously investigated the relation between the DII and overall,
+female breast, and prostate cancer risks.
+
+Our analysis resulted in a positive association between the
+proinﬂammatory potential of the individual diets assessed with
+higher DII scores and increased prostate and,
+in low-to-
+moderate alcohol drinkers, overall and breast cancer risks.
+These associations were statistically signiﬁcant from the Q2 of
+the DII compared with Q1, suggesting a threshold effect. These
+
+Dietary Inﬂammatory Index and cancer risk
+
+787
+
+Downloaded from https://academic.oup.com/jn/article-abstract/146/4/785/4630752
+by University of Ottawa user
+on 24 June 2018
+
+TABLE 1 Baseline characteristics of the study population, SU.VI.MAX cohort, France, 1994–20071
+
+Breast cancer
+
+Prostate cancer
+
+DII
+Age, y
+Sex
+M
+F
+
+Intervention group
+
+Antioxidants
+Placebo
+
+Educational level
+
+Primary
+Secondary
+University
+
+Smoking status
+Never smoker
+Former smoker
+Current smoker
+
+Physical activity
+
+Irregular
+,1 h walking or equivalent/d
+$1 h walking or equivalent/d
+
+Children, n
+Height, cm
+BMI, kg/m2
+
+,25
+$25 to ,30
+$30
+
+24-h dietary records, n
+Energy intake (without alcohol), kcal/d
+Alcohol intake, g/d
+Family history of cancer3
+
+All cancers
+Breast cancer4
+Prostate cancer
+Plasma PSA, μg/L
+
+Noncases
+(n = 5983)
+
+0.7 6 1.9
+49.0 6 6.3
+
+2508 (41.9)
+3475 (58.1)
+
+2977 (49.8)
+3006 (50.2)
+
+1226 (20.5)
+2264 (37.8)
+2493 (41.7)
+
+2891 (48.3)
+2318 (38.7)
+774 (12.9)
+
+1457 (24.4)
+1810 (30.3)
+2716 (45.4)
+2.1 6 1.1
+167 6 8.4
+
+3950 (66.0)
+1679 (28.1)
+354 (5.9)
+10.6 6 2.4
+1979 6 538
+18.6 6 20.6
+
+2091 (34.9)
+292 (8.4)
+117 (4.7)
+1.2 6 1.3
+
+Overall cancer
+cases (n = 559)
+
+0.6 6 1.8
+51.7 6 6.3
+
+263 (47.0)
+296 (53.0)
+
+276 (49.4)
+283 (50.6)
+
+109 (19.5)
+221 (39.5)
+229 (41.0)
+
+250 (44.7)
+220 (39.4)
+89 (15.9)
+
+142 (25.4)
+160 (28.6)
+257 (46.0)
+2.2 6 1.2
+167 6 8.3
+
+360 (64.4)
+156 (27.9)
+43 (7.7)
+
+10.6 6 2.4
+2020 6 552
+21.3 6 21.5
+
+220 (39.4)
+36 (12.2)
+23 (8.7)
+2.3 6 2.8
+
+cases
+(n = 158)
+
+0.9 6 1.8
+49.7 6 6.4
+
+158 (100)
+
+73 (46.2)
+85 (53.8)
+
+33 (20.9)
+53 (33.5)
+72 (45.6)
+
+87 (55.1)
+42 (26.6)
+29 (18.4)
+
+50 (31.6)
+53 (33.5)
+55 (34.8)
+2.1 6 1.2
+162 6 6.2
+
+123 (77.8)
+20 (12.7)
+15 (9.5)
+10.4 6 2.4
+1778 6 414
+12.9 6 12.1
+
+24 (15.2)
+
+cases
+(n = 123)
+
+0.3 6 1.5
+54.9 6 4.7
+
+123 (100)
+
+61 (49.6)
+62 (50.4)
+
+24 (19.5)
+47 (38.2)
+52 (42.3)
+
+47 (38.2)
+64 (52.0)
+12 (9.8)
+
+29 (23.6)
+31 (25.2)
+63 (51.2)
+2.4 6 1.2
+173 6 6.3
+
+65 (52.8)
+45 (36.6)
+13 (10.6)
+11.0 6 2.3
+2276 6 544
+30.2 6 22.1
+
+16 (13.0)
+3.4 6 3.7
+
+P 2
+
+0.4
+
+,0.0001
+
+0.02
+
+0.9
+
+0.7
+
+0.09
+
+0.7
+
+0.008
+0.03
+0.2
+
+0.8
+0.08
+0.003
+
+0.04
+0.08
+0.03
+
+,0.0001
+
+1 Values are means 6 SDs for quantitative variables and n (%) for qualitative variables. DII, Dietary Inﬂammatory Index; PSA, prostate-speciﬁc antigen; SU.VI.MAX,
+Suppl ´ementation en VItamines et Min ´eraux AntioXydants.
+2 For the comparison between noncases and overall cancer cases, by StudentÕs t test or x2 test, as appropriate.
+3 In ﬁrst-degree relatives.
+4 In women only.
+
+results are consistent with epidemiologic studies that demon-
+strated 1) correlations between the DII and inﬂammatory
+biomarkers, and 2) associations between these inﬂammatory
+biomarkers and cancer risk. Indeed, the DII has been signif-
+icantly and positively associated with several
+inﬂammatory
+biomarkers, such as IL-6 and CRP (5, 7, 30, 31). Moreover, in a
+meta-analysis published in 2013, Guo et al. (3) concluded that
+elevated concentrations of CRP were associated with an
+increased risk of all cancers, lung cancer, and possibly breast,
+prostate, and colorectal cancer. Since then, several prospective
+studies corroborated these ﬁndings. We previously showed that
+baseline high-sensitivity CRP concentrations were positively
+associated with subsequent overall and prostate cancer risk in
+the SU.VI.MAX cohort (4). In a nested case-control study from
+the European Prospective Investigation into Cancer and Nutrition
+cohort, colorectal cancer cases were characterized by a ‘‘reactive
+oxygen metabolites and CRP’’ pattern (32), and several inﬂam-
+matory biomarkers were associated with elevated endometrial
+
+cancer risk in postmenopausal women (33). Zuo et al. (34) found
+that plasma neopterin, kynurenine-to-tryptophan ratio, and CRP
+were interrelated and positively associated with overall cancer
+risk. Shiels et al. (35) observed a positive association between
+inﬂammatory markers and lung cancer risk. However, this point
+remains debated because recent studies also reported no associ-
+ation between CRP and/or IL-6 and prostate (36) and epithelial
+ovarian cancer risk (37).
+
+Experimental evidence strongly supports the involvement of
+inﬂammation in carcinogenesis (1, 38–40). Reactive oxygen and
+nitrogen intermediates, prostaglandins, and inﬂammatory cyto-
+kines were found to be associated with chronic inﬂammation
+(39). These molecules are involved in neoplastic tumor processes
+through immune responses (1). Genetic polymorphisms in
+inﬂammation-related genes [IL1B, IL10, tumor necrosis factor
+(TNF), IL6, IL8, and cyclooxygenase 2 (COX2)] and inﬂam-
+matory molecules expressed may be implicated in prostate
+cancer initiation and progression (38).
+
+788 Graffouille` re et al.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/146/4/785/4630752
+by University of Ottawa user
+on 24 June 2018
+
+TABLE 2 Associations between sex-speciﬁc quartiles of the DII
+and risk of overall, breast, and prostate cancers from multivariable
+Cox proportional hazards models, SU.VI.MAX cohort, France,
+1994–20071
+
+All cancers (n = 559)2
+
+Q1
+Q2
+Q3
+Q4
+
+Breast cancer (n = 158)3
+
+Q1
+Q2
+Q3
+Q4
+
+Prostate cancer (n = 123)4
+
+Q1
+Q2
+Q3
+Q4
+
+Other cancers (n = 278)2
+
+Q1
+Q2
+Q3
+Q4
+
+Cases,
+
+n/noncases, n
+
+HR
+
+(95%CI)
+
+139/1495
+145/1491
+139/1497
+136/1500
+
+45/897
+34/909
+46/897
+33/910
+
+23/669
+44/649
+28/665
+28/665
+
+71/1563
+67/1569
+65/1571
+75/1561
+
+1.00
+
+1.12 (0.88, 1.42)
+1.11 (0.87, 1.43)
+1.23 (0.94, 1.62)
+
+1.00
+
+0.78 (0.50, 1.23)
+1.10 (0.71, 1.70)
+0.85 (0.52, 1.41)
+
+1.00
+
+2.76 (1.58, 4.82)
+1.90 (1.02, 3.54)
+2.08 (1.06, 4.09)
+
+1.00
+
+1.02 (0.72, 1.43)
+1.04 (0.72, 1.48)
+1.34 (0.92, 1.95)
+
+P-trend
+
+0.2
+
+0.9
+
+0.2
+
+0.2
+
+1 Sex-speciﬁc cutoffs for quartiles of the DII were 20.98, 0.23, and 1.5 for men and
+20.33, 1.0, and 2.3 for women. DII, Dietary Inﬂammatory Index; Q, quartile; SU.VI.MAX,
+Suppl ´ementation en VItamines et Min ´eraux AntioXydants.
+2 Adjusted for age (time-scale in the Cox model), sex, intervention group of the initial
+SU.VI.MAX trial, number of 24-h dietary records, BMI, height, physical activity, smoking
+status, educational level, family history of cancer in ﬁrst-degree relatives, energy intake
+without alcohol, and alcohol intake.
+3 Adjusted for age (time-scale in the Cox model), sex, intervention group of the initial
+SU.VI.MAX trial, number of 24-h dietary records, BMI, height, physical activity, smoking
+status, educational level, energy intake without alcohol, and alcohol intake, in addition to
+menopausal status at baseline, use of hormonal treatment for menopause at baseline,
+number of live births, and family history of breast cancer (instead of overall cancers) in
+ﬁrst-degree relatives.
+4 Adjusted for age (time-scale in the Cox model), sex, intervention group of the initial
+SU.VI.MAX trial, number of 24-h dietary records, BMI, height, physical activity, smoking
+status, educational level, energy intake without alcohol, and alcohol intake, in addition to
+baseline plasma prostate-speciﬁc antigen concentration and family history of prostate
+cancer (instead of overall cancers) in ﬁrst-degree relatives.
+
+Based on the results of numerous experimental and observa-
+tional studies (9), alcohol intake contributes to the DII compu-
+tation as an anti-inﬂammatory marker. Nevertheless, alcohol
+is acknowledged to be a major risk factor in many cancers and
+to be involved in several procarcinogenic mechanisms (DNA
+damage, generation of reactive oxygen species,
+increase in
+circulating estrogens, etc.) (29, 41). For these reasons, we tested
+the interaction between the DII and alcohol intake, which was
+statistically signiﬁcant for overall and breast cancer risk. Thus,
+we stratiﬁed our analysis by the sex-speciﬁc median of daily
+alcohol intake. A higher DII was associated with increased
+overall and breast cancer risk in low-to-moderate drinkers only.
+Several hypotheses can be formulated to explain these results.
+First, the pro- or anti-inﬂammatory potential of the diet may
+inﬂuence cancer risk in low-to-moderate drinkers while being
+exceeded by the deleterious effect of alcohol in heavier drinkers.
+Second, because of the DII design, higher alcohol intake makes
+DII scores lower and may scramble the results because alcohol
+simultaneously increases cancer risk. This also may explain the
+inverse association between the DII and breast cancer risk
+
+observed in higher alcohol drinkers, which is unlikely to be
+causal. Indeed, although analyses were adjusted for alcohol
+intake, it may be difﬁcult to disentangle the effect of alcohol. In
+addition, in the SU.VI.MAX cohort, we previously showed an
+interaction between several classes of polyphenols and alcohol
+intake on breast cancer risk (42). Although an inverse associ-
+ation was observed between polyphenols and breast cancer risk
+in women with an alcohol intake below the median, a direct
+association was observed with higher consumption of alcohol.
+Because several classes of polyphenols are included in the DII
+calculation as anti-inﬂammatory factors,
+this adds further
+complexity to the association between the DII, alcohol, and
+breast cancer risk.
+
+Strengths of our study included its prospective design with
+long follow-up and the implementation of a literature-derived
+index to assess the overall inﬂammatory potential of the diet. In
+addition, usual dietary intake was assessed with a high degree of
+accuracy by using repeated 24-h dietary records (with a mean
+of 10 records/subject) that accounted for intraindividual day-
+to-day and seasonal variability. Nevertheless, some limitations
+should be acknowledged. First, the limited number of cases
+may have impaired our ability to detect some of the hypothesized
+associations. Moreover, speciﬁc cancer sites other than the 2
+
+TABLE 3 Associations between sex-speciﬁc quartiles of DII
+and risk of overall and breast cancers from multivariable Cox
+proportional hazards models stratiﬁed by daily alcohol intake,
+SU.VI.MAX cohort, France, 1994–20071
+
+Cases,
+
+P-
+
+P-
+
+n/noncases, n
+
+HR (95%CI)
+
+trend
+
+interaction2
+
+All cancers (n = 559)
+
+Alcohol intake , median
+
+Q1
+Q2
+Q3
+Q4
+
+Alcohol intake $ median
+
+Q1
+Q2
+Q3
+Q4
+
+Breast cancer (n = 158)
+
+Alcohol intake , median
+
+Q1
+Q2
+Q3
+Q4
+
+Alcohol intake $ median
+
+Q1
+Q2
+Q3
+Q4
+
+0.02
+
+0.02
+
+0.8
+
+0.001
+
+0.002
+
+0.005
+
+243/3027
+45/697
+66/679
+62/754
+70/897
+316/2956
+94/798
+79/812
+77/743
+66/603
+
+59/1826
+7/432
+12/411
+18/439
+22/544
+99/1787
+38/465
+22/498
+28/458
+11/366
+
+1.00
+
+1.60 (1.09, 2.36)
+1.52 (1.02, 2.28)
+1.75 (1.15, 2.68)
+
+1.00
+
+0.86 (0.63, 1.17)
+0.88 (0.64, 1.22)
+0.96 (0.66, 1.38)
+
+1.00
+
+1.92 (0.75, 4.94)
+3.17 (1.28, 7.85)
+3.82 (1.51, 9.64)
+
+1.00
+
+0.55 (0.32, 0.95)
+0.69 (0.41, 1.17)
+0.31 (0.15, 0.65)
+
+1 Sex-speciﬁc cutoffs for quartiles of the DII were 20.98, 0.23, and 1.5 for men and
+20.33, 1.0, and 2.3 for women. Adjusted for age (time-scale in the Cox model), sex,
+intervention group of the initial SU.VI.MAX trial, number of 24-h dietary records, BMI,
+height, physical activity, smoking status, educational level, family history of cancer in
+ﬁrst-degree relatives, energy intake without alcohol, and alcohol
+intake; for breast
+cancer, additionally adjusted for: menopausal status and use of hormonal treatment for
+menopause at baseline, number of live births, and family history of breast cancer. The
+sex-speciﬁc population median of daily alcohol intake was 24.1 g/d for men and 6.6 g/d
+for women. DII, Dietary Inﬂammatory Index; Q, quartile; SU.VI.MAX, Suppl ´ementation
+en VItamines et Min ´eraux AntioXydants.
+2 Between the DII and alcohol intake.
+
+Dietary Inﬂammatory Index and cancer risk
+
+789
+
+Downloaded from https://academic.oup.com/jn/article-abstract/146/4/785/4630752
+by University of Ottawa user
+on 24 June 2018
+
+primarily represented in the cohort (i.e., breast and prostate)
+could not be investigated separately. Second, subjects were
+volunteers involved in a long-term nutrition study and thus were
+more highly educated, less likely to smoke, and more health-
+conscious than the general French population. Despite this
+healthier proﬁle (low baseline risk), the number of incident
+cancers was larger than in the general population. The study
+protocol included a yearly check-up that may have encour-
+aged early diagnosis (in particular for breast cancer in
+women, for whom screening mammograms were performed
+during follow-up). Therefore, caution is needed when extrap-
+olating these results to the entire French population. Third, all
+self-reported cases were validated by an expert committee.
+However, it is possible that some individuals with cancer
+did not report their cancer events. Next, although most of
+the 45 DII variables were taken into account (n = 36), some
+items (n = 9) were missing in our database and thus could
+not be included, such as caffeine, eugenol, saffron, selenium,
+turmeric, zinc,
+thyme or oregano, and rosemary (anti-
+inﬂammatory factors), and trans FAs (proinﬂammatory fac-
+tor). However,
+it is unlikely that these missing variables
+drastically inﬂuenced the results, because it has been shown
+that the ability of the DII to predict inﬂammation remained
+the same when the number of food variables was decreased
+from 45 to 28 (5). Finally, residual confounders could not be
+ruled out. However, a large range of confounding factors was
+taken into account, thus limiting potential bias.
+
+To our knowledge, this study was the ﬁrst to investigate the
+prospective association between the overall pro- or anti-
+inﬂammatory potential of the diet, assessed with the DII, and
+overall, female breast, and prostate cancer risk. Consistent with
+mechanistic data, our results suggest that a proinﬂammatory
+diet may be associated with increased prostate cancer risk. When
+models were stratiﬁed by alcohol intake, a major cancer risk
+factor, a proinﬂammatory diet also was associated with in-
+creased overall and breast cancer risk in low-to-moderate
+drinkers. These results provide interesting insights for the
+understanding of the relations between diet and cancer risk,
+and inﬂammation-based underlying mechanisms. They suggest
+that promoting an anti-inﬂammatory dietary pattern may
+contribute to cancer prevention.
+
+Acknowledgments
+We thank Nathalie Arnault, statistician,
+for her technical
+contribution to the Suppl´ementation en VItamines et Min´eraux
+AntioXydants study. LG and MT designed the research; SH,
+PG, EK-G, and MT conducted the research; NS, JRH, and
+MDW designed and computed the Dietary Inﬂammatory Index
+score; LG performed the statistical analysis and wrote the
+paper; MD, FM, LN, NS, JRH, MDW, PL-M, SH, PG, CJ,
+EK-G, and MT contributed to the data interpretation and
+revised each draft for important intellectual content; and MT
+supervised the study and had primary responsibility for ﬁnal
+content. All authors read and approved the ﬁnal manuscript.
+
+References
+
+1. Coussens LM, Werb Z.
+
+Inﬂammation and cancer. Nature
+
+2002;420:860–7.
+
+3. Guo YZ, Pan L, Du CJ, Ren DQ, Xie XM. Association between
+C-reactive protein and risk of cancer: a meta-analysis of prospective
+cohort studies. Asian Pac J Cancer Prev 2013;14:243–8.
+
+5.
+
+4. Touvier M, Fezeu L, Ahluwalia N, Julia C, Charnaux N, Sutton A, Mejean
+C, Latino-Martel P, Hercberg S, Galan P, et al. Association between
+prediagnostic biomarkers of inﬂammation and endothelial function and
+cancer risk: a nested case-control study. Am J Epidemiol 2013;177:3–13.
+Shivappa N, Steck SE, Hurley TG, Hussey JR, Ma Y, Ockene IS, Tabung
+F, Hebert JR. A population-based dietary inﬂammatory index predicts
+levels of C-reactive protein in the Seasonal Variation of Blood
+Cholesterol Study (SEASONS). Public Health Nutr 2014;17:1825–33.
+6. Nanri A, Yoshida D, Yamaji T, Mizoue T, Takayanagi R, Kono S.
+Dietary patterns and C-reactive protein in Japanese men and women.
+Am J Clin Nutr 2008;87:1488–96.
+Shivappa N, Hebert JR, Rietzschel ER, De Buyzere ML, Langlois M,
+Debruyne E, Marcos A, Huybrechts I. Associations between dietary
+inﬂammatory index and inﬂammatory markers in the Asklepios Study.
+Br J Nutr 2015;113:665–71.
+
+7.
+
+8. Ahluwalia N, Andreeva VA, Kesse-Guyot E, Hercberg S. Dietary patterns,
+inﬂammation and the metabolic syndrome. Diabetes Metab 2013;39:99–110.
+Shivappa N, Steck SE, Hurley TG, Hussey JR, Hebert JR. Designing and
+developing a literature-derived, population-based dietary inﬂammatory
+index. Public Health Nutr 2014;17:1689–96.
+
+9.
+
+10. WHO Media centre. Cancer fact sheet No. 297. 2015.
+11. Shivappa N, Zucchetto A, Serraino D, Rossi M, La VC, Hebert JR. Dietary
+inﬂammatory index and risk of esophageal squamous cell cancer in a case-
+control study from Italy. Cancer Causes Control 2015;26:1439–47.
+
+12. Shivappa N, Jackson MD, Bennett F, Hebert JR. Increased Dietary
+Inﬂammatory Index (DII) is associated with increased risk of prostate
+cancer in Jamaican men. Nutr Cancer 2015;67:941–8.
+
+13. Ge I, Rudolph A, Shivappa N, Flesch-Janys D, Hebert JR, Chang-
+Claude J. Dietary inﬂammation potential and postmenopausal breast
+cancer risk in a German case-control study. Breast 2015;24:491–6.
+
+14. Maisonneuve P, Shivappa N, Hebert JR, Bellomi M, Rampinelli C,
+Bertolotti R, Spaggiari L, Palli D, Veronesi G, Gnagnarella P. Dietary
+inﬂammatory index and risk of lung cancer and other respiratory
+conditions among heavy smokers in the COSMOS screening study. Eur J
+Nutr. In press.
+
+15. Shivappa N, Bosetti C, Zucchetto A, Serraino D, La Vecchia C, Hebert
+JR. Dietary inﬂammatory index and risk of pancreatic cancer in an
+Italian case-control study. Br J Nutr 2014;113:292–8.
+
+16. Shivappa N, Prizment AE, Blair CK, Jacobs DR, Jr., Steck SE, Hebert JR.
+Dietary inﬂammatory index and risk of colorectal cancer in the Iowa WomenÕs
+Health Study. Cancer Epidemiol Biomarkers Prev 2014;23:2383–92.
+
+17. Shivappa N, Bosetti C, Zucchetto A, Montella M, Serraino D, La VC,
+Hebert JR. Association between dietary inﬂammatory index and
+prostate cancer among Italian men. Br J Nutr 2014;113:278–83.
+
+18. Tabung FK, Steck SE, Ma Y, Liese AD, Zhang J, Caan B, Hou L,
+Johnson KC, Mossavar-Rahmani Y, Shivappa N, et al. The association
+between dietary inﬂammatory index and risk of colorectal cancer
+among postmenopausal women: results from the WomenÕs Health
+Initiative. Cancer Causes Control 2015;26:399–408.
+
+19. Wirth MD, Shivappa N, Steck SE, Hurley TG, Hebert JR. The dietary
+inﬂammatory index is associated with colorectal cancer in the National
+Institutes of Health-American Association of Retired Persons Diet and
+Health Study. Br J Nutr 2015;113:1819–27.
+
+20. Zamora-Ros R, Shivappa N, Steck SE, Canzian F, Landi S, Alonso MH,
+Hebert JR, Moreno V. Dietary inﬂammatory index and inﬂammatory
+gene interactions in relation to colorectal cancer risk in the Bellvitge
+colorectal cancer case-control study. Genes Nutr 2015;10:447.
+
+21. Shivappa N, Zucchetto A, Montella M, Serraino D, Steck SE, La VC,
+Hebert JR. Inﬂammatory potential of diet and risk of colorectal cancer:
+a case-control study from Italy. Br J Nutr 2015;114:152–8.
+
+22. Lu Y, Shivappa N, Lin Y, Lagergren J, Hebert JR. Diet-related
+inﬂammation and oesophageal cancer by histological type: a nationwide
+case-control study in Sweden. Eur J Nutr. In press.
+
+23. Shivappa N, Sandin S, Lof M, Hebert JR, Adami HO, Weiderpass E.
+Prospective study of dietary inﬂammatory index and risk of breast
+cancer in Swedish women. Br J Cancer 2015;113:1099–103.
+
+2. Heikkila¨ K, Harris R, Lowe G, Rumley A, Yarnell J, Gallacher J,
+Ben-Shlomo Y, Ebrahim S, Lawlor DA. Associations of circulating C-reactive
+protein and interleukin-6 with cancer risk: ﬁndings from two prospective
+cohorts and a meta-analysis. Cancer Causes Control 2009;20:15–26.
+
+24. Hercberg S, Galan P, Preziosi P, Bertrais S, Mennen L, Malvy D, Roussel
+AM, Favier A, Briancon S. The SU.VI.MAX Study: a randomized,
+placebo-controlled trial of the health effects of antioxidant vitamins and
+minerals. Arch Intern Med 2004;164:2335–42.
+
+790 Graffouille` re et al.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/146/4/785/4630752
+by University of Ottawa user
+on 24 June 2018
+
+25. Le Moullec N, Deheeger M, Preziosi P, Montero P, Valeix P, Rolland-
+Cachera M, Potier de Courcy G, Christides J, Galan P, Hercberg S.
+Validation du manuel photo utilis´e pour lÕenqueˆte alimentaire de lÕ´etude
+SU.VI.MAX. [Validation of the food portion size booklet used in the
+SU.VI.MAX study.] Cah Nutr Diet 1996;31:158–64 (in French).
+
+26. Hercberg S. Table de composition SU.VI.MAX des aliments. [SU.VI.
+MAX food composition table.] Paris: Les ´editions INSERM/Economica;
+2005 (in French).
+
+34. Zuo H, Tell GS, Vollset SE, Ueland PM, Nygard O, Midttun O, Meyer
+K, Ulvik A, Eussen SJ.
+Interferon-gamma-induced inﬂammatory
+markers and the risk of cancer: the Hordaland Health Study. Cancer
+2014;120:3370–7.
+
+35. Shiels MS, Pfeiffer RM, Hildesheim A, Engels EA, Kemp TJ, Park JH,
+Katki HA, Koshiol J, Shelton G, Caporaso NE, et al. Circulating
+inﬂammation markers and prospective risk for lung cancer. J Natl
+Cancer Inst 2013;105:1871–80.
+
+27. WHO. ICD-10, International classiﬁcation of diseases and related
+health problems. 10th revision. Geneva (Switzerland): World Health
+Organization; 2010.
+
+36. Toriola AT, Laukkanen JA, Kurl S, Nyyssonen K, Ronkainen K,
+Kauhanen J. Prediagnostic circulating markers of inﬂammation and risk
+of prostate cancer. Int J Cancer 2013;133:2961–7.
+
+28. Desquilbet L, Mariotti F. Dose-response analyses using restricted cubic
+spline functions in public health research. Stat Med 2010;29:1037–57.
+29. WCRF/AICR. Food, nutrition, physical activity and the prevention of
+
+cancer: a global perspective. Washington (DC): AICR; 2007.
+
+30. Wirth MD, Burch J, Shivappa N, Violanti JM, Burchﬁel CM, Fekedulegn D,
+Andrew ME, Hartley TA, Miller DB, Mnatsakanova A, et al. Association of
+a dietary inﬂammatory index with inﬂammatory indices and metabolic
+syndrome among police ofﬁcers. J Occup Environ Med 2014;56:986–9.
+
+31. Cavicchia PP, Steck SE, Hurley TG, Hussey JR, Ma Y, Ockene IS,
+Hebert JR. A new dietary inﬂammatory index predicts interval changes
+in serum high-sensitivity C-reactive protein. J Nutr 2009;139:2365–72.
+32. Aleksandrova K, Jenab M, Bueno-de-Mesquita HB, Fedirko V, Kaaks R,
+Lukanova A, van Duijnhoven FJ, Jansen E, Rinaldi S, Romieu I, et al.
+Biomarker patterns of
+inﬂammatory and metabolic pathways are
+associated with risk of colorectal cancer: results from the European
+Prospective Investigation into Cancer and Nutrition (EPIC). Eur J
+Epidemiol 2014;29:261–75.
+
+33. Dossus L, Lukanova A, Rinaldi S, Allen N, Cust AE, Becker S, Tjonneland
+A, Hansen L, Overvad K, Chabbert-Buffet N, et al. Hormonal, metabolic,
+and inﬂammatory proﬁles and endometrial cancer risk within the EPIC
+cohort–a factor analysis. Am J Epidemiol 2013;177:787–99.
+
+37. Ose J, Schock H, Tjonneland A, Hansen L, Overvad K, Dossus L,
+Clavel-Chapelon F, Baglietto L, Boeing H, Trichopolou A, et al.
+Inﬂammatory markers and risk of epithelial ovarian cancer by tumor
+subtypes:
+the EPIC cohort. Cancer Epidemiol Biomarkers Prev
+2015;24:951–61.
+
+38. Sfanos KS, Hempel HA, De Marzo AM. The role of inﬂammation in
+
+prostate cancer. Adv Exp Med Biol 2014;816:153–81.
+
+39. Shacter E, Weitzman SA. Chronic inﬂammation and cancer. Oncology
+
+(Williston Park). 2002;16:217–26, 229.
+
+40. Nakai Y, Nonomura N. Inﬂammation and prostate carcinogenesis. Int J
+
+Urol 2013;20:150–60.
+
+41. Chhim AS, Fassier P, Latino-Martel P, Druesne-Pecollo N, Zelek L,
+Duverger L, Hercberg S, Galan P, Deschasaux M, Touvier M.
+Prospective association between alcohol
+intake and hormone-
+dependent cancer risk: modulation by dietary ﬁber intake. Am J Clin
+Nutr 2015;102:182–9.
+
+42. Touvier M, Druesne-Pecollo N, Kesse-Guyot E, Andreeva VA, Fezeu L,
+Galan P, Hercberg S, Latino-Martel P. Dual association between
+polyphenol intake and breast cancer risk according to alcohol con-
+sumption level: a prospective cohort study. Breast Cancer Res Treat
+2013;137:225–36.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/146/4/785/4630752
+by University of Ottawa user
+on 24 June 2018
+
+Dietary Inﬂammatory Index and cancer risk
+
+791
+
+

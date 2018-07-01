@@ -1,0 +1,1013 @@
+DRUG METABOLISM  REVIEWS,  26( 1&2),  185-199  (1994) 
+
+METHYL GROUP DEFICIENCY 
+I N H EPATO CARCl N 0 G EN ES I S * 
+
+LIONEL A. POIRIER+ 
+National Center for Toxicological Research 
+Division of  Nutritional Toxicology 
+Jefferson, Arkansas 72079 
+
+INTRODUCTION.. . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+
+I. 
+185 
+11.  HISTORICAL DEVELOPMENTS PRIOR  TO  1980 . . . . . .  186 
+111.  HEPATOCARCINOGENESIS AND  BIOCHEMICAL 
+
+CHANGES  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+
+187 
+
+IV.  ALTERATIONS IN ONCOGENES  DURING HEPATOCAR- 
+
+CINOGENESIS BY  METHYL DEPRIVATION  . . . . . . . . .  189 
+192 
+195 
+
+V.  ALTERNATE MECHANISMS. . . . . . . . . . . . . . . . . . . . .  
+References  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+
+I.  INTRODUCTION 
+
+My  interest in  the  role of  dietary  and  physiological methyl  insufficiency 
+in  hepatocarcinogenesis  has  its  roots  in  research  conducted  during  my 
+
+*Presented at  the  First  Arkansas Toxicology Symposium,  honoring  Eliz- 
+abeth  C.  Miller,  Ph.D.,  and  James  A.  Miller,  Ph.D.,  December  10-11, 
+1992, at the Arkansas Excelsior Hotel,  Little Rock,  Arkansas. 
+
+'Address  correspondence to the author: (HFT- 140). NCTR, Jefferson, AR 
+
+72079. 
+
+Copyright 0 1994 by  Marcel  Dekker.  Inc 
+
+186 
+
+POIR I ER 
+
+tenure as a graduate student with the Millers at the University of  Wisconsin 
+[I]. In  the  rnid-l960s,  we  discovered that  the  compound N-benzoyloxy-N- 
+methyl-4-aminoazobenzene  acted as a model ultimate carcinogen for the ar- 
+omatic  aminoazo  dye  carcinogens.  The  reaction  with  methionine  of  this 
+compound  in  virro,  and  of  the  presumptive N-hydroxy  metabolite  in  vivo, 
+laid the  basis for the  identification  of  the  metabolic activation  of  aromatic 
+aminoazo dye  carcinogens  [ l ,   21.  Earlier,  for  reasons  wholly  unrelated  to 
+the N-oxidation of  aromatic amines, the  Millers, in  1953, had  suggested “a 
+methyl deletion hypothesis”  as a possible mechanism for aminoazo dye car- 
+cinogenesis [3]. Other professors who contributed to my  interest in this area 
+of  research were: Dr.  Charles Heidelberger through his  studies on  the  syn- 
+thesis and  biochemical activity of  5-fluorodeoxyuridine; through  its  inhibi- 
+tion of  the enzyme thymidylate synthetase, this compound upsets the labile 
+I-carbon  pool  in  cells  [4]. Finally,  the  influence of  Dr.  Carl  A.  Bauman, 
+who was then a professor in the Department of  Biochemistry at the Univer- 
+sity of  Wisconsin, and  who emphasized the importance of  both  dietary  de- 
+ficiency and  antimetabolites as means of obtaining nutritional deficiencies, 
+can be  seen  throughout this presentation. 
+
+11.  HISTORICAL DEVELOPMENT PRIOR TO 1980 
+
+The major scientific developments showing possible causal links between 
+methyl  group  insufficiency  and  hepatocarcinogenesis  in  vivo  are  summa- 
+rized 
+in  Table  1  [5-15].  The  hepatocarcinogenic  activity  of  choline- 
+deficient diets was first reported in  1946 [5]. These early observations were 
+extended to  other  species  and  organs but  were eventually called  into ques- 
+tion because of  the discovery of  aflatoxin contamination in the peanut  meal 
+diets  used  to  achieve a  low  methyl  content  in  the  diet  [16]. From  1955 to 
+1983, no  major  studies  appeared  in  the  literature  describing  the  complete 
+carcinogenic activity of  choline-deficient diets. Yet,  other studies continued 
+to  provide  indications  that  hepatocarcinogenesis was  frequently associated 
+with  or enhanced  by  methyl  insufficiency (Table  I).  Also,  the  administra- 
+tion  to  rats  of  the  methionine  antimetabolite  ethionine  [17],  of  the  low- 
+lipotrope  diet  of  Newberne  [ 181,  and  of  the  amino-acid-defined,  methyl- 
+deficient  diet  of  Poirier  (191,  all  provided  evidence  of  hepatic  methyl 
+insufficiency either  with  low  levels of  S-adenosylmethionine (SAM) or  of 
+macromolecular hypomethylat ion  [ 201.  Finally,  the  results  of  LaPeyre  and 
+Becker  [ 151 clearly  showed that  the administration of  the  hepatocarcinogen 
+2-acetylaminofluorene,  under  conditions  leading  to  liver tumor  formation, 
+also led to  the hypomethylation of  hepatic  DNA. 
+
+METHYL INSUFFICIENCY IN CARCINOGENESIS 
+
+187 
+
+TABLE  1 
+
+Major Developments  Prior to  1980 Showing Links Between Methyl 
+
+Group Insufficiency and Hepatocarcinogenesis 
+
+Year( s) 
+
+1946-  1954 
+
+Group 
+
+Salmon and 
+
+Copeland [ 5 ,  61 
+
+1956-1963 
+
+E.  Farber  [7, 81 
+
+1972-  1980 
+
+L.  Poirier 
+
+et  al.  [9,  101 
+
+1974-  1980 
+
+Newberne, Rogers 
+
+et al.  [ I l ,   121 
+
+1978-1980 
+
+Lombardi, Shinozuka 
+
+et al.  [13,  141 
+
+1979 
+
+LaPeyre and 
+
+Becker [I51 
+
+Findings 
+
+Choline-deficient diets, con- 
+taining peanut meal or soy- 
+bean  meal, caused  liver 
+cancer in  rats and  mice. 
+These diets were  later- shown 
+to  be  contaminated with  the 
+liver carcinogen aflatoxin. 
+
+The methionine antagonist 
+
+ethionine caused liver cancer 
+in  rats. 
+
+Chronic administration of  liver 
+
+carcinogens or of  methyl- 
+deficient diets to rats led to 
+similar biochemical changes 
+in  the  liver, including de- 
+creased hepatic SAM. 
+A  low-lipotrope (methyl- 
+
+deficient) diet enhanced the 
+activities of  several hepato- 
+carcinogens in  rats. 
+
+A  choline-devoid diet exerted 
+
+both  cocarcinogenic and 
+tumor-promoting activities 
+toward the  livers of  rats. 
+
+Feeding a carcinogenic regime 
+of  2-acetylaminofluorene to 
+rats led  to DNA  hypomethy- 
+lation in  the liver. 
+
+111.  HEPATOCARCINOGENESIS  AND 
+
+BIOCHEMICAL CHANGES 
+
+Beginning  in  1983,  three  publications  clearly  showed  that  carcinogen- 
+free  methyl-deficient diets caused  liver cancer in  rats  [21-231.  In  the  first 
+study, Mikol  et  al.  [21], using  an  amino acid-defined diet,  showed  that  a 
+
+POI R I ER 
+
+diet  lacking methionine and choline produced  liver cancer by  itself  and  en- 
+hanced  liver tumor formation  in  rats given a single initiating dose of  dieth- 
+ylnitrosame.  Ghoshal  and  Farber  [22]  and  Yokoyama  et  al.  [23],  using 
+alcohol-extracted,  peanut-meal-containing  diets,  obtained  similar  tumor 
+yields in the livers of  male rats. Thus, the hepatocarcinogenicity of  choline 
+or methyl deprivation  seemed to be  clearly established.  In fact, most of  the 
+biochemical  changes  commonly  associated  with  liver  tumor  formation  by 
+chemical carcinogens were also seen during hepatocarcinogenesis by  methyl 
+deprivation.  These  included: the  accumulation of  lipid  peroxides  [24, 251, 
+increased levels  of  ornithine  and  SAM decarboxylases  [ 191,  increased thy- 
+midine  incorporation into liver DNA  [26], decreased levels of  histidase and 
+urocanase (271, and  finally, increased formation of  altered hepatic foci [28, 
+291.  The  latter  findings  were  particularly  interesting  from  a  potentially 
+mechanistic standpoint.  In  the absence of  diethylnitrosamine initiation,  the 
+chronic feeding of  the amino-acid-defined diet, lacking both methionine and 
+choline,  led  to  the  formation  of  altered  hepatic  foci  which  continuously 
+increased  in  volume  but  not  in  number; this observation  is  consistent with 
+the  hypothesis  that  methyl  deprivation  is  not  a  continuously  initiating 
+stress,  but  rather  is a highly effective promoter of  preexisting,  initiated  he- 
+patocytes  [28]. The  strong  liver-tumor-promoting activity  of  choline  defi- 
+ciency  had  been  previously  described  [ 301. 
+
+While  the  effects  of  dietary  methyl  deficiency  on  hepatocarcinogenesis 
+were  being  explored,  other  investigations  were  conducted  on  the  interac- 
+tions  between  hepatocarcinogens  and  liver tumor  promoters and  labile me- 
+thyl  groups.  In  particular,  the  effects  of  such  interactions  in  liver  tumor 
+formation,  on  the  hepatic  levels  of  SAM,  and  on  the  DNA  content  of  5- 
+methyldeoxycytidine (5-MC) were determined.  The results are summarized 
+in  Table 2 [8, 9,  12,  15,  18. 21,  31-39].  The hepatocarcinogenic activities 
+of  three  of  the  four carcinogens  examined-ethionine, 
+diethylnitrosamine, 
+and  2-acetylaminofluorene-were 
+shown  to  be  enhanced  by  dietary  lipo- 
+trope deficiency or to be  inhibited by  high dietary  levels of  methionine and/ 
+or  choline  (Table 2). In  one  study,  lipotrope deficiency  was  not  shown  to 
+exert any  significant effect upon  the hepatocarcinogenic activity of  dimeth- 
+ylnitrosamine [ 121. Further, the liver-tumor-promoting activity of  phenobar- 
+bital  and  of  DDT was  suppressed in  rodents by  the  feeding of  high  dietary 
+levels of  methionine and choline (Table 2)  1311. A11  six of  the hepatocarci- 
+nogenic  stressors whose  activity  was  inhibited  by  methyl donors  were  also 
+shown  to  decrease  the  hepatic  content  of  SAM  or  the  ratio  of  SAM  to S- 
+adenosylhomocysteine (SAH) in  the  livers of  chronically fed  rats (Table 2). 
+SAH is both  a  product of  and  a  strong inhibitor of  SAM-dependent methy- 
+lations  [40]. Similarly, four such  carcinogenic regimes led  to  decreased  5- 
+MC  in  hepatic  DNA  under  chronic  feeding conditions  (Table  2)  (15,  35- 
+
+METHYL INSUFFICIENCY  IN CARCINOGENESIS 
+
+189 
+
+TABLE 2 
+
+Hepatocarcinogens and Liver Tumor Promoters Whose Activities 
+
+Are Altered by  Methyl Donors or Which Decrease Hepatic SAM or 5- 
+
+Methyldeoxycytidine in  Total Hepatic  DNA of Rats 
+
+Compound or diet 
+Methyl deficiency 
+Ethionine 
+Diethylnitrosamine 
+2-Acety laminof luorene 
+Phenobarbital 
+DDT 
+Dimethylnitrosamine 
+Methapyrilene 
+
+Antagonism 
+by  methyl 
+donors" 
+
++ 
++ 
++ 
++ 
++ 
++ 
+- 
+
+~~ 
+
+~ 
+
+SAM 
++ 
++ 
++ 
++ 
++ 
++ 
+
+h - 
+
+5-MC 
++ 
++ 
++ 
++ 
+
+-b 
+
+Ref. 
+
+[21, 32,  351 
+[8, 33,  36,  371 
+I12, 21,  91 
+[12,  18,  151 
+[31, 34,  381 
+[3 1,341 
+[I21 
+[39] 
+
+"Or  enhancement by  dietary  methyl deficieincy. 
+bIncreased. 
+
+to 
+
+381.  An  exception 
+the  compound 
+methapyrilene.  The chronic administration of  this hepatocarcinogen to rats 
+was shown to increase ratios  of  SAM to  SAH and  to  increase the extent of 
+DNA  methylation in the liver  [39]. 
+
+the  above  generalization 
+
+is 
+
+IV.  ALTERATIONS IN ONCOGENES DURING 
+
+HEPATOCARCINOGENESIS BY  METHYL  DEPRIVATION 
+
+The early association between decreased hepatic SAM and DNA hypom- 
+ethylation led  to the proposal that  increased oncogene expression caused by 
+such  hypomethylat ion  was  a  causative  factor  in  hepatocarcinogenesis  by 
+methyl  deficiency.  This  hypothesis  was  supported  by  a  number  of  related 
+observations.  Specific gene hypomethylation has been commonly associated 
+with  increased expression [41]. Two  DNA  hypomethylating agents,  the  an- 
+timetabolites  ethionine  and  5-azacytidine,  altered  differentiation  of  Friend 
+erythroleukemia cells in vitro [42]. 5-Azacytidine transformed cells in  vitro 
+[43] and  enhanced  liver tumor formation  in  vivo [44, 451.  SAM-dependent 
+DNA  methylation  inhibited  the  transforming  activity  of  the  Moloney 
+sarcoma  virus  in  virro  [46].  Generalized  DNA  hypomethylation  was 
+
+I90 
+
+POIRIER 
+
+commonly seen in the tumors and transformed cells compared to the tissues 
+and  cells of  origin  [47].  Finally,  the  H-rus  oncogene  of  colon  carcinomas 
+was hypomethylated compared to the adjacent normal tissue  1481. Our own 
+studies showed that the  18-month feeding of  any of  several methyl-deficient 
+amino-acid-defined diets led to hypomethylation of  the c-H-rus and c-K-rus 
+oncogenes in  both  neoplastic  and  preneoplastic  liver 149). More  recent  re- 
+sults showed that  1- to 32-week feeding of the carcinogenic methyl-deficient 
+amino-acid-defined  diet  resulted  in  the  hypomethylation  of  CCGG  se- 
+quences  in  the  c-H-rus,  the  c-K-rus,  and  the  clfos  protooncogenes  at  all 
+times  investigated  [50].  In  fact,  the  methylation  changes  in  the  c-H-rus 
+gene  increased  in  intensity  throughout  the  experimental  period  until  at  32 
+weeks they  resembled those  seen  in  the  livers of  rats  fed  the same diet  for 
+18  months.  Slot-blot  analyses of  the  same livers showed increased expres- 
+sion  of  the  same  three  protoncogenes correlating  with  decreased  methyla- 
+tion  [5 I].  These  results  demonstrate  early  selective  hypomethylation  of 
+some  CCGG  sites,  accompanied  by  increased  gene  expression,  in  rats 
+undergoing hepatocarcinogenesis  by  dietary  methyl deprivation.  All  of  the 
+oncogene  changes  described  above  were 
+independent  of  carcinogen 
+administrat ion. 
+
+Several  other  laboratories  have  investigated  the  correlations  between 
+DNA  methylation  and  oncogene  expression  during  hepatocarcinogenesis. 
+Wainfan,  Christman,  and  their  collaborators  [52,  531  showed  that  the 
+chronic  administration  to  rats  of  an  amino-acid-defined,  methyl-deficient 
+diet  for  1-4  weeks led  to the following: ( I )   DNA hypomethylation as mea- 
+sured by  SAM-dependent, methyl acceptor activity; (2) increased DNA  me- 
+thylase activity;  (3) increased expression and  decreased  methylation of  the 
+protooncogenes c-myc, c-fos,  and c-Hi-rus; and  (4) no change in the expres- 
+sion  of  methylation of  the  c-K-ras  oncogene.  All  of  the  changes observed 
+by  this group could be reversed by  placing the animals on the corresponding 
+methyl-adequate  diet  for  1-2  weeks  [52,  531. The  group  of  Locker  and 
+Lombardi  has  examined  the  hepatocarcinogenenic  effects  of  a  choline- 
+devoid diet on the amplification and methylation of  the c-myc protoncogene 
+1541. They found that:  (1) c-myc was amplified  2-  to  70-fold  in  all  tumors 
+produced  by  the diet; (2) relative c-myc transcript  levels increased with  the 
+stages of neoplasia; (3) hypomethylation of  c-myc was observed in the livers 
+of  rats  fed the choline-devoid diet for  12 or more months; and (4) the c-myc 
+gene  in  tumors  showed  varying  degrees  both  of  hypermethylation  and  of 
+specific  site hypomethylation.  In  related  studies,  Feo and  his  collaborators 
+[55]  investigated  SAMEAH  ratios  as  well  as  oncogene  methylation  and 
+expression in the persistent nodules produced  in the livers of  rats  treated by 
+a  modified  Soh-Farber  regime  [56]. They  found  the  following changes  in 
+the  persistent nodules:  (1) decreased  SAM/SAH ratios  to  40%  of  controls; 
+
+METHYL  INSUFFICIENCY  IN CARCINOGENESIS 
+
+191 
+
+TABLE 3 
+
+Effects of  SAM on the Incidence of  Hepatocellular Carcinomas 
+in Rats Subjected to the InitiatiodSelectiodPromotion Regime" 
+
+Time of  sacrifice  (months) 
+
+6 
+14 
+24-28 
+
+"Derived  from Ref.  58. 
+
+Incidence of  liver carcinomas 
+
+Control 
+o/ 10 
+11/12 
+10/10 
+
+SAM-treated 
+
+o/ 10 
+1/12 
+3/11 
+
+(2) decreased  5-MC content  to  50% of  control  values;  (3) 4-  to  6-fold  in- 
+creases in the c-K-rus, c-H-rus, and c-myc RNA transcripts; and (4) hypom- 
+ethylation of  all three protoncogenes investigated [ 5 5 ] .  Chronic treatment of 
+such animals with SAM led  to partial, but marked, reversal of all molecular 
+changes  noted  1571.  In  an  extension  of  these  studies,  the  same  group 
+showed  that  the  chronic  administration  of  SAM  itself  markedly  inhibited 
+the  tumor-promoting activity of  phenobarbital  in  rats  previously treated  by 
+the Soh-Farber  regimen  (Table 3) [58]. 
+
+While  the  changes  described  above essentially  describe  correlations  be- 
+tween  oncogene  hypomethylation  and  activation,  other  results  recently 
+showed  a  high  frequency of  mutations  in  the p53  gene  in  the  DNA  from 
+tumors  caused  by  choline  deprivation  [59].  In  preliminary  studies,  DNA 
+from tumors derived from the livers of  rats fed amino-acid-defined, methyl- 
+deficient diets transformed NIH-3T3 cells [49]. However, in this study, only 
+4  of  28  tumor  DNA  samples  examined  exhibited  transfecting  activity;  all 
+showed  amplified  H-ras  in  the  transfectants.  However,  all  of  the  positive 
+DNA  samples  came  from  diethylnitrosamine-initiated rats;  none  of  the 
+DNA  samples  from  the  uninitiated  rats  fed  the  severely  methyl-deficient 
+diets  transformed  NIH-3T3  cells  [49].  In  more  recent  studies,  DNA  sam- 
+ples  from  liver tumors developing in  rats  fed  the  methionine- and choline- 
+deficient  diet,  as  well  as  from  cells  obtained  from 
+these  tumors, 
+transformed NIH-3T3 cells; the cells displayed c-myc amplification  [60]. 
+
+In  summary, the  molecular biological studies conducted to date on  hepa- 
+tocarcinogenesis by  dietary  methyl deprivation  indicate that  while hypome- 
+thylation  and  increased  expression  of  c-H-rus,  c-K-rus,  and  c-fos  have 
+all  been  observed,  their role  in carcinogenesis,  in the absence of  an  initiat- 
+ing  agent,  remains  to  be  established.  On  the  other  hand,  the  presence  of 
+activated  myc  and  mutated  p53  genes  in  the  tumors  of  animals  fed  the 
+
+192 
+
+POIRIER 
+
+methyl-deficient  diets  without  any  further  carcinogen  treatment  suggests 
+that such changes are likely to play a causative role in carcinogenesis in this 
+system. 
+
+V.  ALTERNATE MECHANISMS 
+
+While  the  prospective  mechanism  of  carcinogenesis  by  methyl  insuffi- 
+ciency  emphasized  in  this  presentation  is  enhanced  oncogene  expression 
+caused by  gene hypomethylation, other mechanisms may  be  responsible for 
+such biological effects. Chief among the hypotheses proposed are mutations 
+produced  by  varying  mechanisms such  as oxidative  damage  [61. 621,  ab- 
+normal  DNA  methylation  [63, 641,  and  altered deoxynucleotide pool  sizes 
+1651. Consistent with  a hypothesis that oxidative damage to DNA results in 
+the mutations leading to cancer are the observations that the chronic admin- 
+istration of choline-deficient diets leads to: ( I )   single-strand breaks 1611; (2) 
+high  hepatic  levels of  peroxidized lipids  [61, 661;  (3) the  inhibition of  al- 
+tered hepatic foci induced by  choline deprivation through feeding of  antiox- 
+idants [67]; and (4) the formation of  8-hydroxyguanine in hepatic DNA  [62, 
+681. On the other hand,  a recent elegant study of  Shen et al.  [64] has shown 
+that  the  transfection  of  the  Hpa  11  methylase  gene  into  bacteria  lacking 
+uracil-DNA  glycosylase  results  in  a  high  frequency  of  C  to  U  transition 
+mutations  in  the  absence of  the  substrate  SAM.  Such  mutations  were  re- 
+duced  to  background  levels  by  high  levels of  SAM  or  SAH  [64]. These 
+results are consistent with  previous findings that a high  proportion of  inac- 
+tivating mutations in the p53  gene in colorectal cancer occur at methylation 
+sites on  DNA  [69] and  that the cytosine complex with  methylase is chemi- 
+cally  susceptible  to  deamination  unless  it  is  rapidly  methylated  with  SAM 
+[70]. Finally, the control exerted by  SAM on  folate distribution  is expected 
+to alter the deoxynucleotide pool  sizes in target tissues [71]. This is clearly 
+the case in the spleens of  rats fed diets deficient in  folate,  methionine,  and 
+choline (Table 4) [72]. Significant decreases in the dGTP,  dATP, and dTMP 
+were  noted  in  the  spleens  of  rats  fed  a  folate-deficient  or  a  methionine/ 
+choline-deficient diet. 
+
+Extensions to other organs of  such studies indicate that physiological me- 
+thyl  insufficiency  may  contribute  to  carcinogenesis  to  biological  systems 
+other  than  the  livers  of  choline-deficient  rats.  For  example,  a  number  of 
+observations  have  linked  the  abnormal  differentiation  of  pancreatic  acinar 
+cells with  an  inadequate supply of  methyl donors. Thus,  pancreatic  degen- 
+eration  is a common feature of  ethionine toxicity  in  rodents  [8]. Pancreatic 
+
+METHYL INSUFFICIENCY IN CARCINOGENESIS 
+
+193 
+
+TABLE 4 
+
+Deoxyribonucleotide Pools in  the Spleens of  Rats 
+
+Chronically Fed  Methyl-Deficient Diets" 
+
+Deoxyribonucleotide level (pmol/ lo6 cells)' 
+
+Dietary group 
+
+dCTP 
+
+dTTP 
+
+dGTP 
+
+dATP 
+
+dUMP 
+
+dTMP 
+
+Control 
+
+FD" 
+
+MCD' 
+
+MCFC" 
+
+23.1 
+k3.7 
+19.2 
+k3.8 
+18.0 
+25.5 
+17.3 
+24.6 
+
+20.9 
+k5.9 
+13.6 
+k6.1 
+13.9 
+24.2 
+13.3d 
+k3.8 
+
+20.1 
+k2.2 
+7Sd 
+
+28.5 
+13.6d 
+23.9 
+2.Od 
+23.5 
+
+4.2 
+21.5 
+2.5d 
+20.3 
+2.5d 
+20.6 
+2.3d 
+20.8 
+
+4.7 
+20.6 
+4.1 
+20.9 
+3.2 
+21.1 
+6.4d 
+21.2 
+
+9.6 
+21.8 
+5.2d 
+22.1 
+6.gd 
+22.4 
+5.7d 
+21.3 
+
+"Compiled from Ref. 72. 
+'Mean 
+"FD  =  folate  deficient;  MCD  =  methionine  and  choline  deficient; 
+
+-+  SD. 
+
+MCFD  =  methionine, choline, and  folate deficient. 
+
+dSignificantly different from corresponding control value. 
+
+acinar cells from  hamster embryos differentiate normally only  in  the  pres- 
+ence of  such methyl group sources as methionine, choline, and  SAM  [73]. 
+Further, hepatization  of  pancreatic  acinar cells  occurs  in  hamsters treated 
+sequentially with ethionine and a choline-devoid diet 1741. Finally, such hep- 
+atization of  pancreatic acinar cells is seen in  rats chronically fed an amino- 
+acid-defined methyl-deficient diet  1751.  Recent results from  the  studies by 
+Lyn-Cook at NCTR  176-791  have tended to  increase the number of  associ- 
+ations found between methyl insufficiency, DNA  hypomethylation, and sus- 
+ceptibility  to  transformation  by  pancreatic  acinar  cells  (Table  5).  For 
+example, pancreatic acinar cells in  vitro  acquire hepatocyte-like properties 
+following treatment with  the  DNA-hypomethylating agent  azacytidine  (Ta- 
+ble  5). Also,  pancreatic acinar cells derived from rats  undergoing  hepato- 
+carcinogenesis by  methyl  deprivation  seem  to  transform  more  readily  in 
+vitro than do the corresponding cells from control animals [79]. 
+
+The evidence currently available indicates that in humans, folate depriva- 
+tion  may  contribute  strongly  to  a  methyl  insufficiency  in  vivo.  Our  own 
+interests in this area occurred with the discovery that HIV-infected patients 
+had  low  levels of  both  SAM  and  NS-methyltetrahydrofolate in  their  cere- 
+
+194 
+
+POIRIER 
+
+TABLE 5 
+
+Major  Findings on Hypomethylation and the Pancreas" 
+
+I .   The  DNA  hypomethylating agent  azacytidine  induces transdifferentia- 
+
+tion  of  pancreatic  acinar cells  in  v i m .  
+
+2.  Azacytidine  treatment  of  pancreatic  acinar cells  in  v i m  produces bio- 
+
+chemical changes similar to those caused by  H-ras transfection. 
+
+3.  The  pancreatic  carcinogen  azaserine  induces  hypomethylation  and  in- 
+
+creased expression of  c-H-ras oncogene in  the  pancreas of  rats. 
+
+4.  Pancreatic  acinar  cells  derived  from  rats  fed  an  amino-acid-defined, 
+methyl-deficient diet transform more readily than  do the corresponding 
+cells  from control animals. 
+
+"Compiled  from  Refs.  76-79. 
+
+brospinal  fluid  (80, 811.  Normally,  low  SAM  arising  from  dietary  methyl 
+insufficiency  is  accompanied  by  an  increased  proportion  of  tissue  NS- 
+methyltetrahydrofolate [71]. Thus, the prospect  arose that  the  low  SAM  in 
+these  patients  was  a  consequence and  not  a  cause  of  the  one-carbon  defi- 
+ciency  noted  in  these patients  1821. Other  studies have  increased the  num- 
+ber  of  associations  between  folate  deficiency,  physiological  methyl  group 
+insufficiency in  vivo,  and  cancer  formation  in  humans  (Table 6) [83-941. 
+At  present,  however, we  are unaware  of  any  clear evidence  indicating  that 
+in  humans folate deficiency results in  methyl  insufficiency in  any organ. 
+
+In  rats,  however,  the  situation  is  different.  Within  the  last  few  years, 
+Walzem and Clifford (951 developed an  amino-acid-defined, folate-deficient 
+diet permitting the long-term survival of  rats. The chronic administration of 
+these diets to rats has resulted in: ( I )  significant general hypomethylation of 
+
+Folate Deficiency, Choline Deficiency, and Cancer in  Humans 
+
+TABLE 6 
+
+~ 
+
+~ 
+
+~ 
+
+Folate  deficiency  is  relatively  common  and  choline  deficiency  is  fairly 
+
+~~ 
+
+~ 
+
+uncommon  in the human  population  183, 841. 
+
+Alcohol  induces  both  hepatotoxicity and  folate  deficiency  in  humans  and 
+experimental  animals;  its  hepatotoxic  effects  can  be  inhibited  by  SAM 
+[ 85-90]. 
+
+Clinical  studies  have  shown  an  association  between  folate  deficiency  and 
+dysplasia  in  the  cervical,  bronchial,  and  colonic  epithelium,  as  well  as 
+with  colon tumor formation  (91-941. 
+
+METHYL INSUFFICIENCY IN CARCINOGENESIS 
+
+195 
+
+liver DNA  [96]; (2) 57-88%  decreases in  the pancreatic ratios of  SAM to 
+SAH, chiefly by  large  increases in  SAH  1971; and (3) enhanced formation 
+of  dysplasia and  of  neoplastic  lesions  in  the  colon  of  dimethylhydrazine- 
+treated rats (981. Thus, it appears reasonable to propose that the physiolog- 
+ical  insufficiency of  methyl donors that occurs in  rats as a consequence of 
+either choline or methionine deficiency may  also be  seen  in  humans, espe- 
+cially under conditions of  toxic stress. 
+
+REFERENCES 
+
+[I] L. A.  Poirier, J.  A.  Miller,  E.  C.  Miller,  and  K.  Sato,  Cancer Res., 
+
+27,  1600 (1967). 
+
+[2] J.  A.  Miller and E. C. Miller, Prog. Exp. Tumor Rex, If, 273 (1969). 
+[3] J.  A.  Miller and E. C.  Miller, Adv.  Cancer Rex, I ,  339 (1953). 
+[4]  C. Heidelberger, L. Griesbach, 0. Cruz, R. J.  Schnitzer, and E. Grun- 
+
+berg,  Proc. SOC. Exptl.  Biol. Med., 97, 470 (1958). 
+
+[5]  D. H.  Copeland and  W. D.  Salmon, Am.  J. Pathol., 22,  1059 (1946). 
+[6] W.  D.  Salmon  and  D.  H.  Copeland, Ann.  NY  Acad.  Sci., 57,  664 
+
+(1954). 
+
+(71  E.  Farber, Arch.  Pathol., 62, 445 (1956). 
+[8] E.  Farber, Adv. Cancer Rex, 7, 383 (1963). 
+[9]  Y.  S. S .  Buehring, L. A. Poirier, and E. L. R. Stokstad, Cancer Res., 
+
+36, 2775 (1976). 
+
+[lo] L.  A.  Poirier, N.  Shivapurkar, C. L.  Hyde, and  Y.  B.  Mikol, in  The 
+Biochemistry  of  S-Adenosylme thionine  and  Related  Compounds  (E. 
+Usdin, R. T. Borchardt, and C. R. Creveling, eds.), MacMillian Press, 
+London,  1982, pp.  283-286. 
+[ l l ]  A.  E.  Rogers, 0. Sanchez, F.  M. Feinsod, and F? M.  Newberne, Can- 
+[12]  A.  E.  Rogers and F? M.  Newberne, Nutr. Cancer, 2,  104 (1980). 
+[13] H.  Shinozuka, S. L.  Katyal, and  B.  Lombardi, Int. J. Cancer, 22, 36 
+
+cer Res., 34, 96 (1974). 
+
+[14] S. Takashi, B.  Lombardi, and  H.  Shinozuka, Inr. J.  Cancer, 29, 445 
+
+[15] J.  N. Lapeyre and F.  F.  Becker, Biochem. Biophys. Res. Commun., 87, 
+[I61 F? M.  Newberne, W.  W.  Carlton,  and  G. N.  Wogan, Pathol.  Vet., I, 
+
+698 (1979). 
+
+(1978). 
+
+( 1982). 
+
+105 (1964). 
+
+[I71 J.  A.  Stekol,  in  Transmethylation and  Methionine  Biosynthesis ( S .  K. 
+Shapiro and F.  Schlenk, eds.), University of  Chicago Press, Chicago, 
+1965, pp.  231-252. 
+
+196 
+
+POIRIER 
+
+(181 L.  A.  Poirier,  F? H.  Grantham,  and  A.  E.  Rogers,  Cancer  Res..  37, 
+
+144 (1977). 
+
+(191 Y.  Mikol  and L.  A.  Poirier,  Cancer Lett.,  13,  195 (1981). 
+[20] D. R.  Hoffman, J.  A.  Honig, and W.  E. Cornatzer, Can. J. Biochem.. 
+
+(211 Y.  B.  Mikol,  K.  L.  Hoover,  D.  Creasia,  and  L.  A.  Poirier,  Carcino- 
+
+59, 543 (1981). 
+
+genesis,  4 ,  1619 (1983). 
+
+Rex, 45, 2834 (1985). 
+
+(221  A. K.  Ghoshal and  E.  Farber,  Carcinogenesis.  5, 1367 (1984). 
+(231 S.  Yokoyama,  M.  A.  Sells, T.  V.  Reddy.  and  B.  Lombardi,  Cancer 
+(241 T.  H.  Rushmore,  Y.  I?  Lim,  E.  Farber  et  al.,  Cancer  Lett.,  24, 251 
+(251 S.  Banni,  M. G.  Salgo,  R. W.  Evans,  F.  P. Corongiu,  and  B.  Lom- 
+
+(1984). 
+
+bardi , Carcinogenesis,  I I ,  2053 ( 1990). 
+
+1261  S. E.  Abanobi,  B.  Lombardi,  and  H.  Shinozuka.  Cancer  Res., 42, 
+
+412  (1982). 
+
+1271  M. C.  Poirier,  L.  A.  Poirier,  and  R.  Lepage.  Cancer  Res.,  32,  1104 
+(281 N.  Sawada,  L.  A.  Poirier,  S.  Moran,  Y.-H.  Xu, and  H.  Pitot,  Car- 
+
+(1972). 
+
+cinogenesis, 11, 273 (1990). 
+
+[29] L.  I.  Hinrichsen,  E. C. Sudilovsky,  E.  Roggero,  S.-H.  Jiang,  and  0. 
+
+Sudilovsky,  Carcinogenesis,  14, in  press  ( 1993). 
+[30] H.  Shinozuka,  S. L.  Katyal,  and  M. I.  R.  Perera,  in  Essential  Nutri- 
+ents  in  Carcinogenesis  (L.  A.  Poirier,  M.  W.  Pariza,  and I?  M.  New- 
+berne,  eds.), Plenum  Press,  New  York,  1986, pp.  253-267. 
+
+(311  N.  Shivapurkar, K. L.  Hoover,  and  L.  A.  Poirier,  Carcinogenesis,  7, 
+
+547 (1986). 
+
+(1985). 
+
+987 (1984). 
+
+989 (1984). 
+
+(321 N.  Shivapurkar and  L. A.  Poirier,  Carcinogenesis,  4 ,   1051 (1983). 
+1331  N.  Shivapurkar  and  L.  A.  Poirier,  Biochem.  Pharmacol.,  34,  373 
+
+[34] N.  Shivapurkar and  L.  A.  Poirier,  Carcinogenesis,  4 .   173 (1983). 
+[35]  M. J.  Wilson,  N.  Shivapurkar,  and  L.  A.  Poirier,  Biochem  J., 218, 
+
+[36] N.  Shivapurkar,  M. J.  Wilson,  and  L.  A.  Poirier,  Carcinogenesis, 5, 
+
+(371 D.  Kanduc,  A.  Ghoshal,  E.  Quagliariello,  and  E.  Farber,  Biochem. 
+Biophys. Res.  Commun..  150, 739 (1988). 
+[38] R.  Pascale,  M.  M.  Simile,  M.  E.  Ruggiu,  M. A.  Seddaiu, G. Satta, 
+M. J.  Sequenza, L. Daino,  M. G.  Vannini,  P. Lai,  and  F.  Feo, Cancer 
+Lett., 56, 259 (1991). 
+
+1391  L.  Hernandez,  F? T.  Allen,  L. A.  Poirier,  and  W.  Lijinsky,  Carcino- 
+
+genesis,  10, 557 (1989). 
+
+METHYL INSUFFICIENCY  IN CARCINOGENESIS 
+I97 
+[40] I?  K. Chiang and G. E. Cantoni, Biochem. Pharmacol., 28, 1897 (1979). 
+[41] F? A.  Jones,  Cancer Res., 46, 461  (1986). 
+[42] J.  K. Christman,  Curr. Top. fmmunol., 108, 49 (1984). 
+[43] F? A.  Jones and J.  D.  Buckley, Adv. Cancer Rex, 54, 1  (1990). 
+[44] A.  Denda,  F? M.  Rao,  S.  Rajalakshami  et  al.,  Fed.  Proc., 44,  411 
+
+(451 B. I.  Carr,  J.  G.  Reilly,  S. S. Smith, et  al., Carcinogenesis, 5 ,  1583 
+
+[46] M. L.  McGeady, C. Jhappan,  R.  Ascione, et al., Mol.  Cell. Biol., 3 ,  
+
+[47] R. M.  Hoffman, Biochem. Biophys. Acfa, 738, 49 (1984). 
+[48] A. F?  Feinberg and  B.  Vogelstein, Nature (Lond.), 301, 89 (1983). 
+[49] M. R.  Bhave,  M. J.  Wilson,  and  L. A.  Poirier,  Carcinogenesis,  9 ,  
+
+(1985). 
+
+(1984). 
+
+305  ( 1983). 
+
+343  (1988). 
+
+[50] W.  F.  Zapisek,  G. M.  Cronin,  B.  D.  Lyn-Cook,  and  L. A.  Poirier, 
+
+Carcinogenesis, 13,  1869 (1992). 
+
+[51] G. Cronin,  B.  D.  Lyn-Cook,  W.  Zapisek,  and L. Poirier, Proc. Amer. 
+
+Assoc.  Cancer Res., 32, 147  (1991). 
+
+[52] E.  Wainfan,  M.  Dizik,  M.  Stender,  and  J.  K.  Christman,  Cancer 
+
+REs., 49, 4094 (1989). 
+
+[53] J.  K .  Christman,  G. Sheikhnejad, M.  Dizik, S. Abileah,  and E. Wain- 
+
+fan, Carcinogenesis, 14, 551  (1993). 
+
+[54] M. Chandar, B. Lombardi, and J.  Locker, Proc. Narl. Acad. Sci.  USA, 
+
+86, 2703  (1989). 
+
+[55] R.  Garcea,R.  Pascale,  L.  Daino,  S.  Frassetto,  F?  Cozzolino,  M.  E. 
+Ruggiu, M. G. Vannini, L. Gaspa, and F.  Feo, Carcinogenesis, 8, 653 
+(1987). 
+
+[56] D.  B.  Soh,  A.  Medline,  and  E.  Farber,  Am.  J.  Parhol.,  88,  595 
+
+(1977). 
+
+[57] F.  Feo,  R. Garcea,  R.  Pascale,  L.  Pirisi,  L.  Daino,  and  A.  Donaera, 
+
+Toxicol. Pathol., 15,  109 (1987). 
+
+[58] R.  M.  Pascale,  V.  Marras,  M. M.  Simile,  L.  Daino,  G.  Pinna,  S. 
+Bennati,  M. Carta, M.  A. Seddaiu, G. Massarelli,  and F.  Feo, Cancer 
+Res., 52, 4979 (1992). 
+[59] M.  L.  Smith,  L.  Yeleswarapu,  I?  Scalamogna,  J.  Lockier,  and  B. 
+[a] B.  D.  Lyn-Cook,  G. M.  Cronin, E.  Blann,  and  L.  A.  Poirier, privare 
+[61] T.  H.  Rushmore,  Y.  F?  Lim,  E.  Farber,  and  A.  K.  Ghoshal,  Cancer 
+
+Lombardi,  Carcinogenesis, 14, 503  (1993). 
+
+communication. 
+
+[62]  L.  I.  Hinrichsen,  R.  A.  Floyd,  and  0. Sudilovsky,  Carcinogenesis, 
+
+Left., 24, 251  (1984). 
+
+1 1 ,  1879 (1990). 
+
+(1982). 
+
+(1992). 
+
+(1989). 
+
+198 
+
+POIRI ER 
+
+[63] R.  L. I? Adams and R.  H.  Burdon, CRC Crit. Rev. Biochem., 13, 349 
+
+[64] J.-C.  Shen,  W.  M.  Rideout  111,  and  I? A.  Jones,  Cell,  71,  1073 
+
+[65] SW. J.  James,  L.  Yin,  and  M. E.  Swendseid,  J.  Nutr.,  119,  661 
+
+[66]  M.  1.  R.  Perera,  J.  M.  Betschart,  M. A.  Virgi,  S. L.  Katyal,  and  H. 
+
+Shinozuka, Toxicol. Pathol., 15, 5 1  (1987). 
+
+[67] H. Shinozuka, S. E. Abanobi, and  B.  Lombardi, Environ. Health Per- 
+
+specl., 50, 163 (1983). 
+
+[68] D.  Nakae, H.  Yoshiji,  H.  Maruyama,  T.  Kinugasa,  A.  Denda, and  Y. 
+[69] M.  W.  Rideout,  111,  G. A.  Coetzee,  A. F.  Olumi,  and  I?  A.  Jones, 
+
+Konishi, Jpn. J. Cancer Res., 81, 1081 (1990). 
+
+Science, 249,  1288 (1990). 
+
+[70] E. V.  Selker, Ann. Rev. Genet., 24, 579 (1990). 
+[71] C.  Kutzbach  and  E.  L.  R.  Stokstad,  Biochem.  Biophys.  Acta,  250, 
+
+[72] S. J.  James,  D. R.  Cross,  and  B.  Miller,  Carcinogenesis,  13,  2471 
+
+[73]  1.  Parsa, W.  H.  Marsh, and I? J.  Fitzgerald, Exper. Cell. Res., 73, 49 
+
+[74] D. G. Scarpelli and M.  S. Rao,  Proc. Natl. Acad. Sci. USA, 78, 2577 
+
+459 (1971). 
+
+(1992). 
+
+(1972). 
+
+(1981). 
+
+[75] K. L.  Hoover and L.  A.  Poirier, J. Nurr.,  116,  1569 (1986). 
+[76] B.  D.  Lyn-Cook,  J.  Owens, A. Andrews,  B.  Hass,  and  L.  A.  Poirier, 
+
+Proc. Amer. Assoc.  Cancer Res., 32, 286 (199 I). 
+
+[77] B.  D.  Lyn-Cook,  A.  Andrews,  E.  Blann,  and  K.  Fan,  Proc.  Amer. 
+
+Assoc.  Cancer Res., 33,  122 (1992). 
+
+[78] B.  D.  Lync-Cook,  K. C.  Ellwood,  J.  Nichols,  E.  Blann,  G. Cronin, 
+L.  Poirier,  and  B.  D.  Roebuck, Proc. Amer. Assoc.  Cancer Rex, 34, 
+133 (1993). 
+
+I791  G .  Cronin,  L. C.  Rayford,  E.  Blann,  L.  A.  Poirier,  and  B.  D.  Lyn- 
+
+Cook, Proc. Amer. Assoc.  Cancer Res.. 34,  133 (1993). 
+
+[SO]  J. N.  Keating,  K. C. Trimble,  J.  M.  Scott,  and  D. G. Weir,  Lancer, 
+
+[Sl] R.  Surtees, K.  Hyland,  and I.  Smith, Lancet, 335, 619 (1990). 
+[82]  V.  Herbert,  W.  Fong, V.  Gulle, and T.  Stopler, Am. J. Hemarol., 334, 
+
+337, 935  (1991). 
+
+132 (1990). 
+
+[83] R.  L.  Blakely,  in  The  Biochemistry of  Folic Acid  and  Related  Com- 
+pounds  (A.  Neuberger  and  E. L.  Tatum,  eds.),  Wiley,  New  York, 
+1969, pp. 389-463. 
+
+[84] S. H.  Zeisel, J. Nutr. Biochem., 1, 332 (1990). 
+
+METHYL INSUFFICIENCY  IN CARCINOGENESIS 
+
+199 
+
+[85] A.  E.  Rogers  and  M.  W.  Conner,  in  Essential  Nutrients  in  Carcino- 
+genesis (L. A.  Poirier, M.  W.  Pariza,  and I? M.  Newberne,  eds.), Ple- 
+num  Press,  New  York,  1986, pp.  473-495. 
+[86]  V.  Herbert,  in  Essenrial  Nutrients  in  Carcinogenesis  (L. A.  Poirier, 
+M. W.  Pariza,  and I?  M. Newberne,  eds.),  Plenum  Press,  New  York, 
+1986,  pp.  293-311. 
+
+[87]  F.  Feo, R. Pascale,  R. Garcea,  L.  Daino, L. Piris, S. Frassetto,  M.  E. 
+Ruggui, C. D.  Di  Padova, and G. Stramentinoli,  Toxicol. Appl. Phar- 
+macol., 83, 331 (1986). 
+
+[88]  C. S.  Lieber,  A.  Casino,  L. M.  DeCarli,  C.  I.  Kim,  N.  Lowe,  R. 
+
+Sasaki, and  M.  A.  Leo, Heparology,  11, 165 (1990). 
+
+[89]  G. Vendemiale, E.  Altomore,  T.  Trizio,  C. Le  Grazie,  C. Di  Padova, 
+M. T.  Salerno,  V.  Carrieri  et  al.,  Scand.  J.  Gasrroenterol., 24, 407 
+(1989). 
+[90] R.  Pascale,  L.  Daino,  R.  Garcea,  S. Frassetto,  M. E. Ruggiu,  M. G. 
+Vannini, I?  Cozzolino,  and F.  Feo, Toxicol. Appl. Pharmacol., 97, 216 
+(1989). 
+
+[91]  C. E.  Butterworth,  Jr.,  K.  D.  Hatch,  H. Gore,  H.  Mueller, and  C. L. 
+
+Krumdieck,  Am. J.  Clin. Nutr., 35, 73 (1982). 
+
+[92]  D. C. Heimburger, B.  Alexander, R. Birch, C. E. Butterworth,  W. C. 
+Bailey, and C. L. Krumdieck,  J. Am. Med. Assoc., 259,  1525 (1988). 
+[93]  B.  A.  Lashner,  I? A.  Heidenreich,  G. L.  Su,  S. V.  Kane,  and  S .  B. 
+
+Hanauer, Gastroenterology, 97, 255  ( 1989). 
+
+[94]  E.  Giovannucci,  M. J.  Stampfer, G. A.  Colditz,  E.  B.  Rimm,  D. Tri- 
+chopoulos,  B.  A.  Rosner,  F.  E.  Speizer,  and  W. C.  Willett,  J.  Nutl. 
+Cancer Inst., 85, 875  (1993). 
+
+[95]  R. L.  Walzem and  A. J.  Clifford, J. Nutr., 118,  1089 (1988). 
+[96]  M.  L. Cravo, J.  Mason,  R. N.  Salomon, J.  Ordovas,  J.  Osada, J.  Sel- 
+
+hub,  and I.  H.  Rosenberg,  FASEB J., 5, A914 (1991). 
+[97]  M.  Balaghi  and C. Wagner, J. Nutr., 122,  1391 (1992). 
+[98]  M. L.  Cravo,  J.  B.  Mason,  Y. Dayal,  M.  Hutchinson,  D.  Smith,  J. 
+
+Selhub,  and  I.  H.  Rosenberg,  Cancer Res., 52, 5002 (1992). 
+
+
