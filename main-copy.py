@@ -58,7 +58,9 @@ def get_word_frequency(size):
 # Get the bigrams of the words
 def get_bigrams(size):
 
-    file_bigrams = csv.writer(open('bigram_freq.csv', 'w'))
+
+    file_name = 'bigram_freq' + str(size)
+    file_bigrams = csv.writer(open(file_name+'.csv', 'w'))
 
     # Define bigram and trigram measures
     #bigram_measures = nltk.collocations.BigramAssocMeasures()
@@ -110,6 +112,9 @@ def get_quadgrams(size):
 normalize_text(tokenized_text)
 get_word_frequency(25)
 get_bigrams(25)
+get_bigrams(50)
+get_bigrams(75)
+get_bigrams(100)
 get_trigrams(25)
 get_quadgrams(25)
 
