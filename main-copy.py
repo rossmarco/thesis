@@ -1,3 +1,4 @@
+from __future__ import division
 import nltk
 import os
 import io
@@ -8,6 +9,7 @@ from nltk.collocations import BigramAssocMeasures, TrigramAssocMeasures, BigramC
 from nltk.collocations import ngrams
 from collections import Counter
 import csv
+
 
 # Portions of this code taken from http://curriculum.dhbridge.org/modules/module13.html
 # June 23, 2018
@@ -106,15 +108,45 @@ def get_quadgrams(size):
     for quadgram_tuple, count in sortedQuadGrams:
         file_quadgrams.writerow([type(quadgram_tuple)(x.encode('utf-8') for x in quadgram_tuple), count]) #formatted properly #x.encode
 
+def compare_csv(test_data_file):
 
+    num_of_matches = 0
+    num_of_nonmatches = 0
+    total_num_of_compares = 0
+    similarity_metric = 0.0
+
+    with open(test_data_file, 'rb') as master:
+        master_indices = dict((r[0], i) for i, r in enumerate(csv.reader(master)))
+
+    with open('bigram_freq2.csv', 'rb') as test_file:
+        with open('results.csv', 'wb') as results:    
+            reader = csv.reader(test_file)
+            writer = csv.writer(results)
+
+            for row in reader:
+                index = master_indices.get(row[0])
+                if index is not None:
+                    message = 'FOUND in master list (row {})'.format(index)
+                    num_of_matches += 1
+                    
+                else:
+                    message = 'NOT FOUND in master list'
+                writer.writerow(row + [message])
+                num_of_nonmatches += 1
+
+            total_num_of_compares = (num_of_matches + num_of_nonmatches)
+            similarity_metric = ((num_of_matches/total_num_of_compares) * 100)
+            message2 = 'The similarity metric is {0:.2f}'.format(similarity_metric)
+            writer.writerow((row + [message2]))
+        
 
 # Make function calls
-normalize_text(tokenized_text)
+""" normalize_text(tokenized_text)
 get_word_frequency(25)
 get_bigrams(25)
 get_bigrams(50)
 get_bigrams(75)
 get_bigrams(100)
 get_trigrams(25)
-get_quadgrams(25)
-
+get_quadgrams(25) """
+compare_csv('bigram_freq25.csv')
