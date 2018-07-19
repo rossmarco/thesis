@@ -10,7 +10,6 @@ from nltk.collocations import ngrams
 from collections import Counter
 import csv
 
-
 # Portions of this code taken from http://curriculum.dhbridge.org/modules/module13.html
 # June 23, 2018
 # Marco Ross
@@ -18,35 +17,65 @@ import csv
 
 #nltk.download('punkt')
 
-
-# Import the text file we will work with
-with io.open('cancer-training.txt', 'r', encoding='utf-8', errors='ignore') as file:
-    text = file.read() # .decode('utf-8').split()
-
-# Tokenize the text
-tokens = word_tokenize(text)
-tokenized_text = nltk.Text(tokens)
-
-# Load in Stopwords Library
-stopwords = stopwords.words('english')
-
 # Define collection for set of words
 word_set = []
+global disease_type
+global full_training_word_freq_filename
+global full_training_bigram_filename
+global full_training_trigram_filename
+global full_training_quadgram_filename
+global full_test_word_freq_filename
+global full_test_bigram_filename
+global full_test_rigram_filename
+global full_test_quadgram_filename
 
-# Remove stop words, remove punctuation, numbers and non words
-def normalize_text(tokenized_text):
+disease_type = ''
+full_training_word_freq_filename = ''
+full_training_bigram_filename = ''
+full_training_trigram_filename = ''
+full_training_quadgram_filename = ''
+full_test_word_freq_filename = ''
+full_test_bigram_filename = ''
+full_test_rigram_filename = ''
+full_test_quadgram_filename = ''
+
+def normalize_text(txt_file):
+    # Import the text file we will work with
+    with io.open(txt_file, 'r', encoding='utf-8', errors='ignore') as file:
+        text = file.read() # .decode('utf-8').split()
+
+    global disease_type
+    disease_type = txt_file.replace('.txt', '')
+
+    # Tokenize the text
+    tokens = word_tokenize(text)
+    tokenized_text = nltk.Text(tokens)
+
+    # Load in Stopwords Library
+    stopwords_list = stopwords.words('english')
+    
     # Work through all the words in text and filter
+    # Remove stop words, remove punctuation, numbers and non words
     for word in tokenized_text:
         # Check if word is a word, and not punctuation, AND check against stop words
-        if word.isalpha() and word.lower() not in stopwords:
+        if word.isalpha() and word.lower() not in stopwords_list:
             # If it passes the filters, save to word_set
             word_set.append(word.lower())
 
-    return word_set
+    return word_set, disease_type
 
 # Get the word frequency (unigram) of each word
 def get_word_frequency(size):
-    file = csv.writer(open('word_frequencies.csv', 'w'))
+    file_name = disease_type + '-word-freq-' + str(size)
+    if 'training' in file_name:
+        global full_training_word_freq_filename
+        full_training_word_freq_filename = file_name+'.csv'
+        file = csv.writer(open(full_training_word_freq_filename, 'w'))
+    else:
+        global full_test_word_freq_filename
+        full_test_word_freq_filename = file_name+'.csv'
+        file = csv.writer(open(full_test_word_freq_filename, 'w'))
+    
 
     fd = FreqDist(word_set)
     #print fd.most_common(200)
@@ -56,13 +85,25 @@ def get_word_frequency(size):
     # Print word counts to a CSV file
     for key, count in fd.most_common(size):
         file.writerow([key.encode('utf-8'), count]) #encode
+    
+    return full_training_word_freq_filename, full_test_word_freq_filename
 
 # Get the bigrams of the words
 def get_bigrams(size):
 
+    file_name = disease_type + '-bigram-freq-' + str(size)
+    if 'training' in file_name:
+        global full_training_bigram_filename
+        full_training_bigram_filename = file_name+'.csv'
+        file_bigrams = csv.writer(open(full_training_bigram_filename, 'w'))
+    else:
+        global full_test_bigram_filename
+        full_test_bigram_filename = file_name+'.csv'
+        file_bigrams = csv.writer(open(full_test_bigram_filename, 'w'))
 
-    file_name = 'bigram_freq' + str(size)
-    file_bigrams = csv.writer(open(file_name+'.csv', 'w'))
+    # file_name = disease_type + '-bigram-freq-' + str(size)
+    # full_bigram_filename = file_name+'.csv'
+    # file_bigrams = csv.writer(open(full_bigram_filename, 'w'))
 
     # Define bigram and trigram measures
     #bigram_measures = nltk.collocations.BigramAssocMeasures()
@@ -81,10 +122,15 @@ def get_bigrams(size):
         #file_bigrams.writerow([list(bigram_tuple), count]) # in ugly unformatted unicode
         #file_bigrams.writerow(type(bigram_tuple)(x.encode('utf-8') for x in bigram_tuple)) #just words without count
         file_bigrams.writerow([type(bigram_tuple)(x.encode('utf-8') for x in bigram_tuple), count]) #formatted properly #x.encode
+    
+    return full_training_bigram_filename, full_test_bigram_filename
+
 
 def get_trigrams(size):
 
-    file_trigrams = csv.writer(open('trigram_freq.csv', 'w'))
+    file_name = disease_type + '-trigram-freq-' + str(size)
+    full_trigram_filename = file_name+'.csv'
+    file_trigrams = csv.writer(open(full_trigram_filename, 'w'))
 
     finder = TrigramCollocationFinder.from_words(word_set)
     #scored = finder.score_ngrams(bigram_measures.raw_freq) 
@@ -96,9 +142,13 @@ def get_trigrams(size):
     for trigram_tuple, count in sortedTriGrams:
         file_trigrams.writerow([type(trigram_tuple)(x.encode('utf-8') for x in trigram_tuple), count]) #formatted properly x.encode
 
+    return full_trigram_filename
+
 def get_quadgrams(size):
 
-    file_quadgrams = csv.writer(open('quadgram_freq.csv', 'w'))
+    file_name = disease_type + '-quadgram-freq-'  + str(size)
+    full_quadgram_filename = file_name+'.csv'
+    file_quadgrams = csv.writer(open(full_quadgram_filename, 'w'))
 
     finder = QuadgramCollocationFinder.from_words(word_set)
     True
@@ -108,17 +158,22 @@ def get_quadgrams(size):
     for quadgram_tuple, count in sortedQuadGrams:
         file_quadgrams.writerow([type(quadgram_tuple)(x.encode('utf-8') for x in quadgram_tuple), count]) #formatted properly #x.encode
 
-def compare_csv(test_data_file):
+    return full_quadgram_filename
+
+# Code taken from stack overflow using CSV library in python
+# https://stackoverflow.com/questions/5268929/compare-two-csv-files-and-search-for-similar-items
+# Linear time solution
+def compare_csv(training_data, test_data):
 
     num_of_matches = 0
     num_of_nonmatches = 0
     total_num_of_compares = 0
     similarity_metric = 0.0
 
-    with open(test_data_file, 'rb') as master:
+    with open(training_data, 'rb') as master:
         master_indices = dict((r[0], i) for i, r in enumerate(csv.reader(master)))
 
-    with open('bigram_freq2.csv', 'rb') as test_file:
+    with open(test_data, 'rb') as test_file:
         with open('results.csv', 'wb') as results:    
             reader = csv.reader(test_file)
             writer = csv.writer(results)
@@ -137,16 +192,17 @@ def compare_csv(test_data_file):
             total_num_of_compares = (num_of_matches + num_of_nonmatches)
             similarity_metric = ((num_of_matches/total_num_of_compares) * 100)
             message2 = 'The similarity metric is {0:.2f}'.format(similarity_metric)
-            writer.writerow((row + [message2]))
+            writer.writerow([message2])
         
 
 # Make function calls
-""" normalize_text(tokenized_text)
-get_word_frequency(25)
-get_bigrams(25)
+normalize_text('cancer-training.txt')
+#get_word_frequency(25)
+get_bigrams(400)
+
+del word_set[:]
+
+normalize_text('cancer-71.txt')
+#get_word_frequency(25)
 get_bigrams(50)
-get_bigrams(75)
-get_bigrams(100)
-get_trigrams(25)
-get_quadgrams(25) """
-compare_csv('bigram_freq25.csv')
+compare_csv(full_training_bigram_filename, full_test_bigram_filename)

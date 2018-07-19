@@ -1,0 +1,1854 @@
+ORIGINAL CONTRIBUTION
+
+Folic Acid for the Prevention
+of Colorectal Adenomas
+A Randomized Clinical Trial
+Bernard F. Cole, PhD
+John A. Baron, MD
+Robert S. Sandler, MD
+Robert W. Haile, DrPh
+Dennis J. Ahnen, MD
+Robert S. Bresalier, MD
+Gail McKeown-Eyssen, PhD
+Robert W. Summers, MD
+Richard I. Rothstein, MD
+Carol A. Burke, MD
+Dale C. Snover, MD
+Timothy R. Church, PhD
+John I. Allen, MD
+Douglas J. Robertson, MD
+Gerald J. Beck, PhD
+John H. Bond, MD
+Tim Byers, MD, MPH
+Jack S. Mandel, PhD, MPH
+Leila A. Mott, MS
+Loretta H. Pearson, MPhil
+Elizabeth L. Barry, PhD
+Judy R. Rees, BM, BCh, MPH, PhD
+Norman Marcon, MD
+Fred Saibil, MD
+Per Magne Ueland, MD
+E. Robert Greenberg, MD
+for the Polyp Prevention Study Group
+
+Context Laboratory and epidemiological data suggest that folic acid may have an
+antineoplastic effect in the large intestine.
+Objective To assess the safety and efficacy of folic acid supplementation for pre-
+venting colorectal adenomas.
+Design, Setting, and Participants A double-blind, placebo-controlled, 2-factor,
+phase 3, randomized clinical trial conducted at 9 clinical centers between July 6, 1994,
+and October 1, 2004. Participants included 1021 men and women with a recent his-
+tory of colorectal adenomas and no previous invasive large intestine carcinoma.
+Intervention Participants were randomly assigned in a 1:1 ratio to receive 1 mg/d
+of folic acid (n=516) or placebo (n=505), and were separately randomized to receive
+aspirin (81 or 325 mg/d) or placebo. Follow-up consisted of 2 colonoscopic surveil-
+lance cycles (the first interval was at 3 years and the second at 3 or 5 years later).
+Main Outcome Measures The primary outcome measure was occurrence of at
+least 1 colorectal adenoma. Secondary outcomes were the occurrence of advanced
+lesions (ⱖ25% villous features, high-grade dysplasia, size ⱖ1 cm, or invasive cancer)
+and adenoma multiplicity (0, 1-2, or ⱖ3 adenomas).
+Results During the first 3 years, 987 participants (96.7%) underwent colonoscopic
+follow-up, and the incidence of at least 1 colorectal adenoma was 44.1% for folic acid
+(n=221) and 42.4% for placebo (n=206) (unadjusted risk ratio [RR], 1.04; 95% con-
+fidence interval [CI], 0.90-1.20; P=.58). Incidence of at least 1 advanced lesion was
+11.4% for folic acid (n=57) and 8.6% for placebo (n=42) (unadjusted RR, 1.32; 95%
+CI, 0.90-1.92; P=.15). A total of 607 participants (59.5%) underwent a second follow-
+up, and the incidence of at least 1 colorectal adenoma was 41.9% for folic acid (n=127)
+and 37.2% for placebo (n=113) (unadjusted RR, 1.13; 95% CI, 0.93-1.37; P=.23);
+and incidence of at least 1 advanced lesion was 11.6% for folic acid (n=35) and 6.9%
+for placebo (n=21) (unadjusted RR, 1.67; 95% CI, 1.00-2.80; P=.05). Folic acid was
+associated with higher risks of having 3 or more adenomas and of noncolorectal can-
+cers. There was no significant effect modification by sex, age, smoking, alcohol use,
+body mass index, baseline plasma folate, or aspirin allocation.
+Conclusions Folic acid at 1 mg/d does not reduce colorectal adenoma risk. Further
+research is needed to investigate the possibility that folic acid supplementation might
+increase the risk of colorectal neoplasia.
+Trial Registration clinicaltrials.gov Identifier: NCT00272324
+JAMA. 2007;297:2351-2359
+
+www.jama.com
+
+FOLIC ACID AND ITS DERIVATIVES
+
+(folate) are essential nutrients
+in humans and play an impor-
+tant role in nucleotide synthe-
+sis and methylation reactions.1 Folate
+deficiency leads to macrocytic ane-
+mia, and abundant evidence indicates
+
+For editorial comment see p 2408.
+
+that even in well-nourished western
+populations, folate supplementation re-
+duces the risk of neural tube defects.2
+Considerable epidemiological evi-
+dence suggests that a low-folate diet is
+associated with an increased risk of co-
+lorectal neoplasia,3-5 particularly in con-
+cert with alcohol, which can antago-
+nize the metabolism of folate.6,7 Much
+
+animal data support an antineoplastic
+effect of folate. However, in some ani-
+mal studies, folate deficiency protects
+against, and supplementation in-
+creases, experimental carcinogenesis.3
+
+Author Affiliations are listed at the end of this article.
+Corresponding Author: Bernard F. Cole, PhD, Dart-
+mouth-Hitchcock Medical Center, 7927 Rubin Bldg,
+Lebanon, NH 03756 (bernard.cole@dartmouth.edu).
+
+©2007 American Medical Association. All rights reserved.
+
+(Reprinted) JAMA, June 6, 2007—Vol 297, No. 21 2351
+
+Downloaded From:  by a University of Ottawa User  on 06/11/2018FOLIC ACID FOR THE PREVENTION OF COLORECTAL ADENOMAS
+
+Nevertheless, on the whole, the bio-
+logical and epidemiological evidence
+supports the potential for folate supple-
+mentation to prevent colorectal neo-
+plasia in humans.
+
+Adenomas are precursors of most co-
+lorectal cancers8,9 and are an appropri-
+ate end point for assessing efficacy of
+chemopreventive agents against the de-
+velopment of large intestine cancer. To
+evaluate the chemopreventive effect of
+folate in humans, we conducted a ran-
+domized trial of folic acid supplemen-
+tation, with and without aspirin, for the
+prevention of new colorectal adeno-
+mas in persons with a recent history of
+these lesions.
+
+METHODS
+Study Design
+The study design has been previously
+described.10 In brief, the Aspirin/
+Folate Polyp Prevention Study was a
+double-blind, placebo-controlled, ran-
+domized clinical trial of the efficacy of
+oral aspirin, folic acid, or both to pre-
+vent colorectal adenomas in persons
+with a history of adenomas. Using a
+3 ⫻2 factorial design, our study com-
+pared 81 mg/d and 325 mg/d of aspi-
+rin with placebo and 1 mg/d of folic acid
+with placebo. Originally, the trial was
+designed to investigate only aspirin, but
+shortly after enrollment began, it was
+expanded to examine folic acid (100 in-
+dividuals were randomized before the
+folic acid component was initiated). The
+findings regarding aspirin have been
+previously reported.10 In brief, we re-
+ported that low-dose aspirin (81 mg/d)
+had a moderate, statistically signifi-
+cant chemopreventive effect, reduc-
+ing the risk of colorectal adenomas by
+19%, while high-dose aspirin (325
+mg/d) provided no significant ben-
+efit.10 This article focuses on folic acid.
+The folic acid investigation was ini-
+tially designed to parallel the investiga-
+tion for aspirin, evaluating a 3-year treat-
+ment period. However, because longer
+exposure to folic acid might be re-
+quired to observe an antineoplastic
+effect,11 participants who underwent a
+colonoscopy during the first follow-up
+interval were invited to continue their
+
+blinded randomized treatment (folic acid
+or placebo) for an additional 3 or 5 years.
+Because of the expected rapid effect of
+aspirin, and the anticipated difficulty in
+maintaining adherence, we did not at-
+tempt to prolong the aspirin investiga-
+tion. Our analysis of folic acid includes
+both follow-up intervals.
+
+The trial involved 9 clinical centers
+(Cleveland Clinic Foundation, Cleve-
+land, Ohio; University of Colorado
+Health Sciences Center, Denver; Dart-
+mouth-Hitchcock Medical Center,
+Lebanon, NH; Henry Ford Health Sci-
+ences Center, Detroit, Mich; Univer-
+sity of Iowa College of Medicine, Iowa
+City; University of Minnesota, Minne-
+apolis; University of North Carolina
+School of Medicine, Chapel Hill; Uni-
+versity of Southern California, Los An-
+geles; and University of Toronto,
+Toronto, Ontario). An independent data
+and safety monitoring committee re-
+viewed the study semiannually. Hu-
+man subjects committees at the clini-
+cal centers approved the study protocol
+and materials distributed to the par-
+ticipants. All participants provided writ-
+ten informed consent.
+
+Study Population, Randomization,
+and Interventions
+Recruitment occurred between July 6,
+1994, and March 20, 1998. Potential par-
+ticipants were identified by clinical cen-
+ter staff using colonoscopy and pathol-
+ogy reports. Those participants eligible
+were aged 21 to 80 years and had at least
+1 of the following criteria: at least 1 his-
+tologically confirmed adenoma re-
+moved within 3 months before recruit-
+ment, at least 1 histologically confirmed
+adenoma removed within 16 months be-
+fore recruitment and a lifetime history
+of 2 or more confirmed adenomas, or a
+histologically confirmed adenoma of at
+least 1 cm in diameter removed within
+16 months before recruitment. We re-
+quired that each participant had a com-
+plete colonoscopy, with removal of all
+known polyps, within 3 months of en-
+rollment. Exclusion criteria included a
+history of familial polyposis syn-
+dromes, invasive large intestine cancer,
+malabsorption syndromes, any condi-
+
+tion that could be worsened by supple-
+mental aspirin or folic acid, and any con-
+dition commonly treated with aspirin,
+nonsteroidal anti-inflammatory drugs, or
+folate (eg, recurrent arthritis, atheroscle-
+rotic vascular disease, and folic acid de-
+ficiency).10 To avoid the potential for fo-
+late supplementation to mask vitamin B12
+deficiency,12 we measured plasma vita-
+min B12 levels in all participants before
+randomization and excluded those with
+evidence of deficiency (⬍162 pg/mL).
+We also assayed methylmalonic acid in
+those participants whose vitamin B12 lev-
+els were marginal (162-366 pg/mL). Par-
+ticipants having increased methylmalo-
+nic acid (⬎396 nmol/L) were not
+randomized. Additionally, participants
+who required baseline methylmalonic
+acid testing, and who were in the high-
+est quintile of acceptable methylmalo-
+nic acid at baseline, were retested be-
+fore treatment continuation in the second
+follow-up interval. Women of childbear-
+ing potential had to provide agreement
+to use effective birth control for the du-
+ration of the study.
+
+Participants completed a question-
+naire regarding personal characteris-
+tics, medical history, and lifestyle hab-
+its. To describe the population of
+participants, the questionnaire in-
+quired about race/ethnicity using the
+following categories: non-Hispanic
+white, non-Hispanic black, Hispanic,
+American Indian or Alaskan Native,
+Asian or Pacific Islander, other (par-
+ticipants specified using a text field),
+and uncertain (no participants se-
+lected this category).
+
+After recruitment, participants be-
+gan a 3-month, single-blind, run-in pe-
+riod to assess tolerance of aspirin and
+adherence with pill taking. During this
+run-in period, participants received 325
+mg/d of aspirin and a placebo tablet
+identical in appearance to the folic acid
+tablets. Run-in participants who re-
+ported taking at least 80% of the tab-
+lets and who wished to continue par-
+ticipating underwent randomization.
+We used a computer-generated ran-
+domization in blocks of 6 to allocate
+participants in a 1:1 ratio to 1 mg/d of
+folic acid or placebo within strata de-
+
+2352 JAMA, June 6, 2007—Vol 297, No. 21 (Reprinted)
+
+©2007 American Medical Association. All rights reserved.
+
+Downloaded From:  by a University of Ottawa User  on 06/11/2018fined by study center, sex, and age (ⱕ60
+years vs ⬎60 years). The study was
+double-blinded. Treatment assign-
+ments were concealed from partici-
+pants and study staff except for the
+pharmacist technician and the statisti-
+cal analyst (L.A.M.). Study tablets (pro-
+vided by Wyeth Consumer Health Care,
+Madison, NJ) were distributed in cal-
+endar packs or bottles. Placebo tablets
+were identical in appearance to folic
+acid tablets. On October 1, 2004, fund-
+ing for the folic acid treatment was dis-
+continued, and participants were asked
+to stop taking all study tablets by Oc-
+tober 1, 2004. As originally planned, ex-
+tended treatment and follow-up would
+have ended December 31, 2006.
+
+Follow-up
+Adenoma occurrence was determined
+by colonoscopy and pathology re-
+view. Follow-up was conducted in 2 in-
+tervals. The first interval corre-
+sponded to the initial 3-year protocol,
+in which participants were to undergo
+a complete colonoscopy 34 to 40
+months after the qualifying examina-
+tion. The planned length of the sec-
+ond follow-up interval was at the dis-
+cretion of the participant’s physician
+and was generally 3 or 5 years. When-
+ever possible, participants who discon-
+tinued taking study tablets were fol-
+lowed up (in both intervals) for study
+end points.
+
+Participants were regularly coun-
+seled regarding avoidance of folic acid–
+containing supplements (as well as
+avoidance of aspirin and other nonste-
+roidal anti-inflammatory drugs during
+the first study interval). During the first
+follow-up interval, participants re-
+ceived questionnaires every 4 months re-
+garding adherence to study treatment;
+use of medications, over-the-counter
+drugs, and nutritional supplements; in-
+testine procedures (in particular endos-
+copy and surgery); and the occurrence
+of symptoms, illnesses, and hospitaliza-
+tions. During the second follow-up in-
+terval, questionnaires were adminis-
+tered every 4 months to participants who
+continued taking study tablets and an-
+nually to all other participants.
+
+FOLIC ACID FOR THE PREVENTION OF COLORECTAL ADENOMAS
+
+Important medical events reported by
+participants were verified with medi-
+cal record review. The follow-up pe-
+riod for such events was from random-
+ization until study withdrawal or
+October 1, 2004, whichever occurred
+first. Records for all large intestine pro-
+cedures (endoscopy or surgery) were
+obtained. Slides for all tissue removed
+from the intestine were retrieved and
+sent to a single study pathologist
+(D.C.S.) for uniform review who clas-
+sified lesions as neoplastic (adenoma-
+tous, including sessile serrated adeno-
+mas13) or nonneoplastic.
+
+The primary outcome measure was
+the occurrence of at least 1 colorectal
+adenoma. Prespecified secondary out-
+comes were advanced lesions (tubulo-
+villous adenomas [25%-75% villous fea-
+tures], villous adenomas [ⱖ75% villous
+features], large adenomas [ⱖ1 cm in di-
+ameter], adenomas with high-grade
+dysplasia, or invasive cancer), ad-
+enoma multiplicity (0, 1-2, or ⱖ3 ad-
+enomas), and adverse events.
+
+Plasma folate was evaluated at the
+end of the first follow-up interval to as-
+certain adherence with randomized
+treatment. Plasma levels of vitamin B12
+and folate were determined by micro-
+biological assays using a chlorampheni-
+col-resistant strain of Lactobacillus ca-
+sei and colistin-sulfate resistant strain
+of Lactobacillus leichmannii, respec-
+tively.14,15 Methylmalonic acid16 and
+total plasma homocysteine17 were as-
+sayed by gas chromatography/mass
+spectroscopy.
+
+Statistical Analysis and Sample Size
+Fisher exact and t tests were used for
+comparisons between groups in cat-
+egorical and continuous variables, re-
+spectively. Analyses of adenoma occur-
+rence were performed for each of the 2
+follow-up intervals and for the 2 inter-
+vals combined. The period of risk for the
+first follow-up interval was from 1 year
+after randomization through the 3-year
+examination (including findings from in-
+terim examinations, if any). If a 3-year
+follow-up colonoscopy was not per-
+formed, the last examination at least 1
+year after randomization was used to
+
+mark the end of the first follow-up in-
+terval. The second follow-up interval
+pertained to participants who under-
+went a 3-year examination and was de-
+fined as the time from the end of the first
+interval through the first subsequent sur-
+veillance colonoscopy or until October
+1, 2004, whichever was earlier.
+
+The predefined primary statistical
+analysis was a ␹2 test comparing the risk
+of 1 or more adenomas in the 2 treat-
+ment groups. Unadjusted risk ratios
+(RRs) and 95% confidence intervals
+(CIs) were also used to compare folic
+acid with placebo. Adjusted RRs were
+obtained from generalized linear mod-
+els in which age, sex, clinical center,
+number of lifetime adenomas, dura-
+tion of follow-up, and aspirin treat-
+ment group were covariates. These
+models used a natural logarithm link
+function and Poisson distributed er-
+rors and were adjusted for overdisper-
+sion and underdispersion. The possi-
+bility that baseline factors modified the
+folic acid effect was assessed using in-
+teraction terms and Wald tests. For ex-
+ample, to evaluate whether random-
+ized aspirin allocation modified the
+effect of folic acid, we fit the regres-
+sion model, including indicator vari-
+ables for folic acid and aspirin dose as
+well as appropriate interaction terms.
+We then used a 2-df Wald test to test
+for interaction. The following poten-
+tial effect modifiers were considered:
+sex, alcohol consumption (users vs
+nonusers), smoking status (current and
+former users vs nonusers), presence of
+advanced lesions (none vs ⱖ1) at base-
+line examinations, and the following co-
+variates disaggregated at the median:
+age (⬍57 vs ⱖ57 years), plasma folate
+level (ⱕ8.4 vs ⬎8.4 ng/mL [ⱕ19.0 vs
+⬎19.0 nmol/L]), and body mass in-
+dex (calculated as weight in kilo-
+grams divided by height in meters
+squared, ⱕ26.7 vs ⬎26.7). Adenoma
+multiplicity was assessed by grouping
+participants as having 0, 1 to 2, or 3 or
+more adenomas and using the ␹2 test
+to compare the treatment groups.
+
+We performed analyses on the in-
+tention-to-treat population consisting
+of all randomized participants who un-
+
+©2007 American Medical Association. All rights reserved.
+
+(Reprinted) JAMA, June 6, 2007—Vol 297, No. 21 2353
+
+Downloaded From:  by a University of Ottawa User  on 06/11/2018FOLIC ACID FOR THE PREVENTION OF COLORECTAL ADENOMAS
+
+derwent a follow-up examination, in-
+cluding those who discontinued ran-
+domized supplementation. In addition,
+we used multiple imputation18 to esti-
+mate the folic acid effect after imput-
+ing missing examination data. The im-
+putation used logistic regression to
+model adenoma occurrence with the
+following baseline covariates: age, sex,
+clinical center, number of lifetime ad-
+enomas, aspirin treatment, and folic
+acid treatment. We imputed a suffi-
+cient number of complete data sets to
+achieve more than 99% relative effi-
+ciency and combined the results using
+established methods18 to provide sum-
+mary RRs, 95% CIs, and P values. Fi-
+nally, we considered the subset of par-
+t i c i p a n t s w h o c o n t i n u e d t h e i r
+randomized treatment into the sec-
+ond follow-up interval. Two-sided
+P⬍.05 was considered statistically sig-
+nificant. All statistical analyses were per-
+formed by using SAS version 9.1 (SAS
+Institute, Cary, NC) and Stata version
+9 (StataCorp LP, College Station, Tex).
+
+During final data review, we discov-
+ered that 3 participants did not satisfy
+all initial eligibility criteria. Two par-
+ticipants had low vitamin B12 levels
+(⬍162 pg/mL) but were tested for
+methylmalonic acid, and their methyl-
+malonic acid levels were in the accept-
+able range. One participant was en-
+rolled on the basis of having had an
+adenoma of at least 1 cm removed
+within 16 months of recruitment, but
+the actual size of the adenoma was less
+than 1 cm. Six participants received
+treatment in the second follow-up in-
+terval despite either increased methyl-
+malonic acid (n=2) or no methylma-
+lonic acid testing (n=4). We analyzed
+our primary outcome measure both in-
+cluding and excluding these partici-
+pants and found no appreciable differ-
+ence in the results. Therefore, we
+included these participants in all analy-
+ses reported herein.
+
+A sample size of 1000 participants
+was selected to provide power of at least
+80% to detect a risk reduction with as-
+
+Figure 1. Design of the Trial and Flow of Participants
+
+1409 Individuals Entered Run-in Period
+
+388 Excluded
+
+288 Failed to Complete Run-in
+
+73 Had Bleeding or Another Adverse Event
+62 Were Unable to Avoid Taking Prohibited
+
+Medication or Supplements
+
+34 Were Nonadherent
+119 Excluded for Other Reasons
+
+100 Participated Only in Aspirin Study10
+
+1021 Randomized
+
+505 Randomized to Receive Placebo With
+
+or Without Aspirin
+169 Received Aspirin 81 mg/d
+167 Received Aspirin 325 mg/d
+169 Received Aspirin Placebo
+
+516 Randomized to Receive Folic Acid With
+
+or Without Aspirin
+175 Received Aspirin 81 mg/d
+171 Received Aspirin 325 mg/d
+170 Received Aspirin Placebo
+
+486 Completed First Follow-up Examination and
+
+Included in Primary Efficacy Analysis
+
+501 Completed First Follow-up Examination and
+
+Included in Primary Efficacy Analysis
+
+19 Excluded
+
+13 Lost to Follow-up
+6 Died
+
+15 Excluded
+
+12 Lost to Follow-up
+3 Died
+
+451 Consented to Extended Follow-up
+
+475 Consented to Extended Follow-up
+
+359 Consented to Continue Taking Folic Acid/Placebo
+
+370 Consented to Continue Taking Folic Acid/Placebo
+
+304 Completed Second Follow-up Examination
+
+and Included in Primary Efficacy Analysis
+
+303 Completed Second Follow-up Examination
+
+and Included in Primary Efficacy Analysis
+
+147 Excluded
+
+10 Lost to Follow-up
+11 Died
+126 No Examination Before October 1, 2004
+
+172 Excluded
+
+21 Lost to Follow-up
+5 Died
+
+146 No Examination Before October 1, 2004
+
+505 Included in Safety Analysis
+
+516 Included in Safety Analysis
+
+pirin (25% reduction with low-dose and
+55% reduction with high-dose) or fo-
+lic acid (40% reduction) using a 2-sided
+statistical significance level of P⬍.05.
+This assumed a 35% adenoma occur-
+rence rate in the placebo group and a
+follow-up rate of 80%. The power to de-
+tect a 40% decrease in risk with folic
+acid supplementation was 94%.
+
+RESULTS
+Participants, Follow-up,
+and Adherence
+Of the 1409 participants who began the
+run-in period, 1021 underwent random-
+ization in both the folic acid and aspirin
+components of the study (FIGURE 1). An
+additional 100 participants were ran-
+domized only to the aspirin compo-
+nent and are thus excluded from this
+analysis. Of the 288 participants who
+were not randomized, 73 (25.3%) had
+bleeding or another possible adverse
+event, 62 (21.5%) were unable to avoid
+taking medication or supplements pro-
+hibited by the study, 34 (11.8%) were
+nonadherent, and the remaining 119
+(41.3%) were excluded for other rea-
+sons (1 participant died, 64 were found
+to be ineligible, 28 had an intercur-
+rent illness, and 26 declined to con-
+tinue the study). A total of 505 partici-
+pants were randomized to the placebo
+group and 516 participants were ran-
+domized to 1 mg/d of folic acid (with
+or without aspirin). A total of 987 par-
+ticipants (96.7%) underwent a fol-
+low-up colonoscopy at least 1 year fol-
+lowing randomization during the first
+follow-up interval. The remaining 34
+participants either died (n=9) or were
+lost to follow-up (n = 25). The mean
+(SD) time from randomization to
+completion of the first follow-up inter-
+val was 32.7 (3.6) months. A total of
+926 participants (90.7%) participated
+in the second follow-up interval (729
+[71.4%] continued randomized folic
+acid/placebo treatment and 197 [19.3%]
+discontinued study tablets but agreed
+to be followed up for study end points).
+One participant was discontinued from
+randomized treatment due to a high
+methylmalonic acid level and was fol-
+lowed up observationally. During the
+
+2354 JAMA, June 6, 2007—Vol 297, No. 21 (Reprinted)
+
+©2007 American Medical Association. All rights reserved.
+
+Downloaded From:  by a University of Ottawa User  on 06/11/2018second follow-up interval, 16 partici-
+pants died, 31 were lost to follow-up,
+and 272 did not have an examination
+before treatment was discontinued on
+October 1, 2004. The remaining 607
+participants (59.5%) completed the sec-
+ond follow-up interval a mean (SD) of
+41.8 (11.8) months after the 3-year fol-
+low-up. Approximately, 50% of par-
+ticipants in the second follow-up in-
+terval had planned to undergo
+colonoscopic follow-up 4 or less years
+after the 3-year examination.
+
+There were no important differ-
+ences in the baseline characteristics be-
+tween the folic acid and placebo groups
+(TABLE 1). Reported adherence with the
+study protocol was excellent (TABLE 2).
+Overall, 87% of participants took their
+allocated study pills at least 6 days per
+week during the first follow-up inter-
+val. Pill taking adherence decreased
+during the second follow-up interval,
+with 71% of participants taking study
+pills at least 6 days per week. A signifi-
+cant portion of this decrease was due
+to lack of consent to extended proto-
+col treatment. Avoidance of nonstudy
+folic acid supplements was also excel-
+lent, with 87% of participants avoid-
+ing them completely during the first fol-
+low-up interval. The use of folic acid
+supplements was not restricted among
+those participants who did not con-
+sent to extended protocol treatment.
+Thus, reported avoidance of folic acid
+decreased to 73% during the second fol-
+low-up interval.
+
+Allocation to the folic acid group re-
+sulted in a pronounced increase in
+plasma folate and a modest decrease in
+total plasma homocysteine. Fol-
+low-up measurements (at the 3-year ex-
+amination) for both folate and homo-
+cysteine were available from 419
+participants in the placebo group and
+430 participants in the folic acid group.
+Mean (SD) plasma folate increased from
+10.4 (7.5) ng/mL at baseline to 13.2
+(6.3) ng/mL at follow-up in the pla-
+cebo group and from 10.5 (7.9) ng/mL
+to 32.8 (15.8) ng/mL in the folic acid
+group (P⬍.001). Mean (SD) plasma ho-
+mocysteine decreased from 1.32 (0.39)
+mg/L to 1.24 (0.34) mg/L in the pla-
+
+FOLIC ACID FOR THE PREVENTION OF COLORECTAL ADENOMAS
+
+cebo group and from 1.34 (0.40) mg/L
+to 1.21 (0.30) mg/L in the folic acid
+group (P=.02). Among participants in
+the folic acid group, mean plasma fo-
+late decreased as self-reported adher-
+ence decreased. At the 3-year exami-
+nation, the mean (SD) plasma folate was
+33.3 (15.4) ng/mL among the 383 par-
+ticipants in the folic acid group who re-
+ported taking study tablets 6 to 7 days
+per week and 25.7 (18.5) ng/mL among
+the 31 participants in the folic acid
+group who reported taking study tab-
+lets less than 6 days per week (P=.009).
+
+Primary Outcome Measure
+In the first follow-up interval, adeno-
+mas occurred in 206 participants
+(42.4%) in the placebo group and 221
+participants (44.1%) in the folic acid
+group (unadjusted RR, 1.04; 95% CI,
+0.90-1.20; P=.58) (TABLE 3). In the sec-
+ond follow-up interval, adenomas oc-
+curred in 113 participants (37.2%) in
+the placebo group and 127 partici-
+pants (41.9%) in the folic acid group
+(unadjusted RR, 1.13; 95% CI, 0.93-
+1.37; P=.23). Among the 607 partici-
+pants with end point information in
+
+Table 1. Baseline Characteristics of the Participants*
+
+Characteristic
+
+Age, mean (SD), y
+Male sex
+Race/ethnicity†
+
+Non-Hispanic white
+Non-Hispanic black
+Hispanic
+Asian, Pacific Islander, or other
+
+BMI, mean (SD)
+Current cigarette smoker‡
+No. of previous lifetime adenomas
+
+1-2
+ⱖ3
+
+No. of adenomas on examinations qualifying
+
+for study entry
+
+1-2
+ⱖ3
+
+Advanced lesion on examinations qualifying
+
+for study entry
+
+Colorectal cancer in first-degree relative
+Using multivitamins
+Dietary intake, mean (SD), kcal/d
+Dietary folate intake, mean (SD), µg/d
+Alcohol intake, mean (SD), drinks per d
+Plasma folate, mean (SD), ng/mL
+Total plasma homocysteine, mean (SD), mg/L
+Specific criteria for study entry§
+
+Adenoma removed ⱕ3 mo before recruitment
+Adenoma removed ⱕ16 mo before
+
+recruitment and ⱖ2 lifetime adenomas
+
+Placebo
+(n = 505)
+57 (9.5)
+321 (63.6)
+
+431 (85.3)
+35 (6.9)
+22 (4.4)
+17 (3.4)
+27.4 (4.5)
+68 (13.6)
+
+347 (68.9)
+157 (31.2)
+
+439 (86.9)
+66 (13.1)
+139 (27.5)
+
+154 (37.9)
+191 (37.8)
+1632 (654)
+325 (163)
+0.6 (1.1)
+10.4 (7.5)
+1.32 (0.39)
+
+496 (98.2)
+265 (52.5)
+
+Folic Acid
+(n = 516)
+57 (9.6)
+330 (64.0)
+
+443 (85.9)
+28 (5.4)
+30 (5.8)
+15 (2.9)
+27.5 (4.6)
+79 (15.4)
+
+363 (70.8)
+150 (29.2)
+
+450 (87.2)
+66 (12.8)
+151 (29.3)
+
+159 (38.5)
+176 (34.1)
+1637 (674)
+320 (147)
+0.6 (1.1)
+10.5 (7.9)
+1.34 (0.40)
+
+506 (98.1)
+270 (52.3)
+
+Adenoma ⱖ1 cm in diameter removed ⱕ16 mo
+
+before recruitment
+
+99 (19.6)
+
+127 (24.6)
+
+P
+
+Value
+.97
+.95
+
+.54
+
+.81
+.42
+
+.54
+
+.93
+
+.58
+
+.89
+.24
+.91
+.62
+.92
+.89
+.62
+
+⬎.99
+⬎.99
+
+.06
+
+Abbreviation: BMI, body mass index, calculated as weight in kilograms divided by height in meters squared.
+SI conversions: To convert plasma folate to nmol/L, multiply by 2.266; and plasma homocysteine to µmol/L, multiply by 7.397.
+*Data are presented as No. (%) unless otherwise specified. Percentages do not always sum to 100 due to rounding. Data
+were missing for BMI for 2 participants, smoking status for 4 participants, number of previous lifetime adenomas for 4 par-
+ticipants, family history of colorectal cancer for 202 participants, dietary intake for 46 participants, alcohol intake for 48 par-
+ticipants, plasma folate level for 118 participants, and total plasma homocysteine for 116 participants.
+
+†Self-reported on the participant questionnaire. “Other” was specified by the participant and consisted of “American Indian
+or Alaska native” (2 in placebo and 2 in folic acid groups), “South African” (1 in placebo group), “white/American Indian” (1
+in placebo group), “Chinese/Italian” (1 in folic acid group), “Middle Eastern” (1 in folic acid group), or “Asian/black” (1 in folic
+acid group).
+
+‡Defined as someone who currently smokes at least 1 cigarette per day and has a history of smoking at least 1 cigarette per
+
+day for at least 1 year.
+
+§Categories are not mutually exclusive; many participants qualified under more than 1 criterion.
+
+©2007 American Medical Association. All rights reserved.
+
+(Reprinted) JAMA, June 6, 2007—Vol 297, No. 21 2355
+
+Downloaded From:  by a University of Ottawa User  on 06/11/2018FOLIC ACID FOR THE PREVENTION OF COLORECTAL ADENOMAS
+
+both follow-up intervals, the ad-
+enoma rate (any adenoma in either in-
+terval) was 65.5% in the placebo group
+and 71.3% in the folic acid group (RR,
+1.09; 95% CI, 0.98-1.21; P=.12). Ad-
+justment for age, sex, clinical center,
+length of follow-up, number of life-
+time adenomas at baseline, and ran-
+domized aspirin treatment did not sub-
+stantially affect these findings. Results
+using multiple imputation to account
+for missing follow-up examinations
+were also similar.
+
+We evaluated the folic acid effect in
+subgroups defined by the following
+baseline factors: sex, age, alcohol
+intake, smoking status, plasma folate
+level, body mass index, and presence/
+absence of advanced lesions. There
+
+was no significant effect modification
+in either follow-up interval. We also
+found no significant interaction
+between folic acid and randomized
+aspirin treatment (P=.24) (FIGURE 2).
+However, the suggestion of an
+increased risk with folic acid was
+confined to participants not allocated
+to aspirin.
+
+The effect of folic acid supplemen-
+tation among the 501 participants who
+agreed to continue pill taking (folic acid
+or placebo) in the second follow-up in-
+terval (254 allocated to the placebo
+group and 247 allocated to the folic acid
+group) was similar to that in the inten-
+tion-to-treat analysis. Within this sub-
+group, adenomas occurred in 92 par-
+ticipants (36.2%) in the placebo group
+
+Table 2. Percentage Self-reported Adherence With Study Treatment and Avoidance of Folate
+Supplements, According to Treatment Assignment and Study Follow-up Period*
+
+Reported Frequency of Tablet Taking, %
+
+First Follow-up Interval
+
+Second Follow-up Interval
+
+Placebo
+(n = 486)
+
+Folic Acid
+(n = 501)
+
+Placebo
+(n = 304)
+
+Folic Acid
+(n = 303)
+
+87.4
+6.2
+3.9
+2.5
+
+86.0
+6.2
+7.4
+0.4
+
+87.2
+5.6
+3.2
+4.0
+
+87.2
+4.8
+7.0
+1.0
+
+72.4
+4.9
+18.4
+4.3
+
+71.7
+9.9
+18.1
+0.3
+
+69.0
+5.0
+19.5
+6.6
+
+74.3
+11.2
+13.5
+1.0
+
+Adherence with study treatment,
+
+d per wk
+
+6-7
+3-5
+⬍3
+Unknown
+
+Use of (nonstudy) folic acid
+
+supplementation, d per wk
+
+None
+1-4
+⬎4
+Unknown
+
+*Only patients who underwent a follow-up colonoscopy are included. First follow-up interval included the initial 3-year
+protocol, and the second follow-up interval was 3 or 5 years later. The percentage adherence with study treatment
+for less than 3 days per week in the second follow-up interval includes 50 patients in the placebo group and 56
+patients in the folic acid group who did not consent to extended treatment.
+
+and 106 participants (42.9%) in the fo-
+lic acid group (RR, 1.18; 95% CI, 0.95-
+1.47; P=.13).
+
+Secondary Outcome Measures
+In both follow-up intervals, partici-
+pants in the folic acid group tended to
+have higher rates of advanced adeno-
+mas and multiple adenomas (Table 3).
+In the first follow-up interval, ad-
+vanced lesions occurred in 42 partici-
+pants (8.6%) in the placebo group and
+57 participants (11.4%) in the folic acid
+group (unadjusted RR, 1.32; 95% CI,
+0.90-1.92; P=.15). The respective num-
+bers in the second follow-up interval
+were 21 (6.9%) and 35 (11.6%) for both
+groups (unadjusted RR, 1.67; 95% CI,
+1.00-2.80; P = .05). Among partici-
+pants with follow-up information in
+both intervals, the overall rate of ad-
+vanced lesions (any advanced lesion in
+either interval) was 17.1% in the pla-
+cebo group and 23.1% in the folic acid
+group (RR, 1.35; 95% CI, 0.98-1.86;
+P = .07). Randomized aspirin treat-
+ment did not significantly modify the
+effect of folic acid on advanced adeno-
+mas in the first follow-up interval
+(P=.34) (Figure 2).
+
+Three or more adenomas occurred in
+38 participants (7.8%) in the placebo
+group and 47 participants (9.4%) in the
+folic acid group in the first follow-up
+interval (unadjusted RR, 1.20; 95% CI,
+0.80-1.81; P=.38). The respective rates
+in the second follow-up interval were
+13 (4.3%) and 30 (9.9%) for both
+groups (unadjusted RR, 2.32; 95% CI,
+1.23-4.35; P=.007).
+
+Table 3. Risk of Adenoma After Randomization in the Intention-to-Treat Population*
+
+First Follow-up Interval
+
+Second Follow-up Interval
+
+No. (%) of Participants
+
+No. (%) of Participants
+
+End Point
+Any adenoma
+Advanced lesion
+No. of adenomas
+
+1-2
+ⱖ3
+
+Placebo
+(n = 486)
+206 (42.4)
+42 (8.6)
+
+168 (34.6)
+38 (7.8)
+
+Folic Acid
+(n = 501)
+221 (44.1)
+57 (11.4)
+
+Unadjusted RR
+
+(95% CI)
+
+1.04 (0.90-1.20)
+1.32 (0.90-1.92)
+
+174 (34.7)
+47 (9.4)
+
+1.00 (0.85-1.19)
+1.20 (0.80-1.81)
+
+P
+
+Value
+.58
+.15
+
+.66
+
+Placebo
+(n = 304)
+113 (37.2)
+21 (6.9)
+
+100 (32.9)
+13 (4.3)
+
+Folic Acid
+(n = 303)
+127 (41.9)
+35 (11.6)
+
+Unadjusted RR
+
+(95% CI)
+
+1.13 (0.93-1.37)
+1.67 (1.00-2.80)
+
+97 (32.0)
+30 (9.9)
+
+0.97 (0.77-1.22)
+2.32 (1.23-4.35)
+
+P
+
+Value
+.23
+.05
+
+.02
+
+Abbreviations: CI, confidence interval; RR, risk ratio.
+*The intention-to-treat population consisted of all randomized participants with a follow-up examination, including those participants who discontinued randomized supplementa-
+tion. First follow-up interval included the initial 3-year protocol, and the second follow-up interval was 3 or 5 years later. P values are based on ␹2 tests. For number of adenomas,
+P values are global for the 3 categories (0, 1-2, and ⱖ3 adenomas), and separate RRs are shown to summarize the effect of folic acid on each adenoma-multiplicity category.
+
+2356 JAMA, June 6, 2007—Vol 297, No. 21 (Reprinted)
+
+©2007 American Medical Association. All rights reserved.
+
+Downloaded From:  by a University of Ottawa User  on 06/11/2018Results were similar when the analy-
+sis was restricted to the 501 partici-
+pants who agreed to extended treat-
+ment with folic acid or placebo in the
+second follow-up interval. In this sub-
+group, advanced lesions occurred in 18
+participants (7.1%) in the placebo group
+and 29 participants (11.7%) in the fo-
+lic acid group (RR, 1.66; 95% CI, 0.95-
+2.90; P = .08); and 3 or more adeno-
+mas occurred in 11 participants (4.3%)
+in the placebo group and 27 partici-
+pants (10.9%) in the folic acid group
+(RR, 2.52; 95% CI, 1.28-4.98; P=.008).
+We evaluated the folic acid impact on
+sessile serrated adenomas and found no
+significant effect in either follow-up in-
+terval. In the first follow-up interval, ses-
+sile serrated adenomas occurred in 43
+participants (8.9%) in the placebo group
+and 54 participants (10.8%) in the folic
+acid group (RR, 1.22; 95% CI, 0.83-
+1.78; P=.31). In the second follow-up in-
+terval, sessile serrated adenomas oc-
+curred in 11 participants (3.6%) in the
+placebo group and 17 participants (5.6%)
+in the folic acid group (RR, 1.55; 95% CI,
+0.74-3.26; P=.25).
+
+No significant association was found
+between allocation to folic acid and
+risks of death, colorectal cancer, myo-
+cardial infarction, coronary revascular-
+ization, or stroke (TABLE 4). A higher
+rate of noncolorectal cancers was ob-
+served among participants allocated to
+the folic acid group (54 [10.5%] vs 32
+[6.3%], respectively; P=.02). This dif-
+ference was due to an excess of pros-
+tate cancer, with 24 cases (7.3%) in the
+folic acid group and 9 cases (2.8%) in
+the placebo group (P=.01).
+
+COMMENT
+In this double-blind, placebo-con-
+trolled, randomized clinical trial, we
+found that folic acid supplementation
+did not decrease the risk of adenoma oc-
+currence among participants with a re-
+cent history of adenomas. There was no
+evidence of benefit even among sub-
+groups that might be considered sensi-
+tive to the chemopreventive effects of fo-
+late, such as those participants with low
+baseline folate status, those partici-
+pants who drank alcohol, and cigarette
+
+FOLIC ACID FOR THE PREVENTION OF COLORECTAL ADENOMAS
+
+smokers. Indeed, there was a sugges-
+tion of an increase in risk for advanced
+lesions and in adenoma multiplicity
+among those participants randomized to
+the folic acid group.
+
+Our results may have been affected by
+fortification of the food supply with fo-
+late, which began in 1996, shortly after
+enrollment in this study was initiated,
+and became mandatory in 1998, largely
+to reduce the risks of neural tube de-
+fects by increasing maternal folate lev-
+els during early pregnancy.19 The forti-
+fication levels (an average of 140 µg per
+100 g of grain product) were expected
+to increase dietary folate intake by 70 to
+120 µg/d in middle-aged and older
+adults.20 Although this is only a frac-
+tion of the amount in our supplement,
+it is possible that by increasing the floor
+folate status of our participants, as well
+as increasing the peak folate levels in
+those receiving active treatment, forti-
+fication may have altered the impact of
+our supplement. This is consistent with
+a recent observational study that found
+that adenoma risk is inversely associ-
+ated with plasma folate levels only
+among individuals not taking multivi-
+
+tamins, a group with lower folate sta-
+tus than multivitamin users.21 The in-
+crease in plasma folate and the decrease
+in total plasma homocysteine over time
+in our placebo group was likely due to
+folate fortification and probably under-
+lies the modest change in homocyste-
+ine in the folic acid group. These data
+clearly indicate that we conducted our
+study in a folate-replete population.
+
+Previous research regarding the effect
+of folate on carcinogenesis is difficult to
+integrate into one coherent picture. Ani-
+mal studies have provided conflicting evi-
+dence, suggesting that folate may have
+a dual effect on carcinogenesis, protect-
+ing normal mucosa, but enhancing pro-
+gression of early lesions.3 Although some
+animal studies reported that folate defi-
+ciency enhances experimental carcino-
+genesis,22,23 other evidence suggests that
+deficiency may reduce the develop-
+ment of colorectal cancer.24,25 Similarly,
+an animal study reported that supple-
+mentation above nutritional require-
+ments may limit intestine carcinogen-
+esis,23 although other findings reported
+an increase in risk.25,26 Evidence also ex-
+ists suggesting that aggressive supple-
+
+Figure 2. Unadjusted Risk Ratios Comparing Folic Acid vs Placebo by Randomized Aspirin
+Treatment in the Intention-to-Treat Population in the First Follow-up Interval
+
+Any Adenoma
+
+Aspirin Placebo
+Aspirin 81 mg/d
+Aspirin 325 mg/d
+
+Advanced Lesion
+Aspirin Placebo
+Aspirin 81 mg/d
+Aspirin 325 mg/d
+
+Adenomas, No./Total No. (%) of Patients
+
+Folate
+
+87/168 (51.8)
+58/168 (34.5)
+76/165 (46.1)
+
+Placebo
+
+70/162 (43.2)
+65/166 (39.2)
+71/158 (44.9)
+
+27/168 (16.1)
+11/168 (6.5)
+19/165 (11.5)
+
+14/162 (8.6)
+10/166 (6.0)
+18/158 (11.4)
+
+Favors
+Folate
+
+Favors
+Placebo
+
+0.4
+
+1.0
+
+4.0
+
+Risk Ratio (95% Confidence Interval)
+
+Table 4. Incidence of Serious Adverse Events After Randomization
+No. (%) of Participants
+
+Adverse Event
+
+Death
+Noncolorectal cancer
+Colorectal cancer
+Myocardial infarction
+Coronary revascularization
+Stroke
+
+Placebo
+(n = 505)
+19 (3.8)
+32 (6.3)
+4 (0.8)
+8 (1.6)
+16 (3.2)
+5 (1.0)
+
+Folic Acid
+(n = 516)
+10 (1.9)
+54 (10.5)
+3 (0.6)
+14 (2.7)
+16 (3.1)
+9 (1.7)
+
+P
+
+Value
+.09
+.02
+.72
+.28
+⬎.99
+.42
+
+©2007 American Medical Association. All rights reserved.
+
+(Reprinted) JAMA, June 6, 2007—Vol 297, No. 21 2357
+
+Downloaded From:  by a University of Ottawa User  on 06/11/2018FOLIC ACID FOR THE PREVENTION OF COLORECTAL ADENOMAS
+
+mentation may enhance the growth of
+established, microscopic lesions.23 Over-
+all, epidemiological data from cohort and
+case-control studies have tended to find
+folate intake to be inversely associated
+with risks of colorectal cancer4 and ad-
+enomas.4,27-32 Analyses of red blood cell
+or serum folate levels also largely sug-
+gest a protective effect of folate on the
+risk of colorectal cancer or adeno-
+mas,31,33-35 although data have not been
+entirely consistent.36,37
+
+One hypothesis to explain the pur-
+ported chemopreventive properties of fo-
+late pertains to DNA methylation, which
+can have strong effects on gene expres-
+sion38 and implications for the suscep-
+tibility of DNA to damage.39 Overall, ge-
+nomic hypomethylation is one of the
+earliest molecular abnormalities in hu-
+man colorectal neoplasia,40,41 observed
+even in small adenomas.40-43 Because fo-
+late is an important factor for the trans-
+fer of methyl groups, it is critical to DNA
+methylation. Low folate status may also
+contribute to imbalances in nucleotide
+pools, DNA strand breaks, and muta-
+tions.44 The pathway that may be most
+relevant for the development of colo-
+rectal cancer in the setting of methyl-
+ation disturbances is the serrated polyp,
+which is associated with a higher preva-
+lence of CpG island methylator pheno-
+type45; however, we found no folic acid
+effect on sessile serrated adenoma oc-
+currence.
+
+We found no clear evidence that fo-
+lic acid supplementation provided any
+health benefits. Although a significant ex-
+cess of prostate cancers was observed in
+the folate group, this might be spurious
+given the number of adverse events
+evaluated. A recent randomized trial of
+folic acid in combination with B vita-
+mins for vascular disease also sug-
+gested that treatment with these agents
+may increase the risk of colon cancer
+(RR, 1.36; 95% CI, 0.89-2.08; P=.16) and
+prostate cancer (RR, 1.21; 95% CI, 0.86-
+1.72; P=.28), although these results were
+not statistically significant.46 Observa-
+tional studies regarding prostate cancer
+have been mixed. Some studies re-
+ported an increased risk of prostate can-
+cer in association with high folate in-
+
+take or blood levels, but these results
+were not statistically significant or were
+limited to early-stage cancers.47-49 A case-
+control study reported a statistically sig-
+nificant, favorable role of dietary folate
+on prostate cancer risk.50
+
+In conclusion, our study indicates
+that folate, when administered as folic
+acid for up to 6 years, does not de-
+crease the risk of adenoma formation
+in the large intestine among individu-
+als with previously removed adeno-
+mas. The evidence for an increased risk
+of adenomas is equivocal and requires
+further research. In view of the fortifi-
+cation of the US food supply with fo-
+late, and some suggestions that folate
+could conceivably increase the risk of
+neoplasia even outside the colorec-
+tum,51-55 this line of investigation should
+have a high priority.
+
+S c i e n c e s
+
+a n d N u t r i t i o n a l
+
+Author Affiliations: Departments of Community and
+Family Medicine (Drs Cole, Baron, Barry, Rees, and
+Greenberg, and Mss Mott and Pearson) and Medi-
+cine (Drs Baron, Rothstein, and Greenberg), Dart-
+mouth Medical School, Hanover, NH; Department of
+Medicine, University of North Carolina School of Medi-
+cine, Chapel Hill (Dr Sandler); Department of Preven-
+tive Medicine, University of Southern California Keck
+School of Medicine, Los Angeles (Dr Haile); Depart-
+ments of Medicine (Dr Ahnen) and Preventive Medi-
+cine and Biometrics (Dr Byers), University of Colo-
+rado, Denver; Department of Gastrointestinal Medicine
+and Nutrition, MD Anderson Cancer Center, Hous-
+ton, Tex (Dr Bresalier); Departments of Public Health
+S c i e n c e s
+( D r
+McKeown-Eyssen) and Medicine (Drs Marcon and
+Saibil), University of Toronto, Toronto, Ontario; Di-
+vision of Gastroenterology/Hepatology, University of
+Iowa Carver College of Medicine, Iowa City (Dr Sum-
+mers); Departments of Gastroenterology (Dr Burke)
+and Quantitative Health Sciences (Dr Beck), The Cleve-
+land Clinic Foundation, Cleveland, Ohio; Depart-
+ment of Pathology, Fairview Southdale Hospital, Edina,
+Minn (Dr Snover); Division of Environmental Health
+Sciences, University of Minnesota School of Public
+Health, Minneapolis (Dr Church); Department of Medi-
+cine, Minneapolis Veterans Affairs Medical Center,
+Minneapolis, Minn (Dr Bond); Minnesota Gastroen-
+terology PA, Plymouth (Dr Allen); Section of Gastro-
+enterology, Department of Veterans Affairs Medical
+Center, White River Junction, Vt (Dr Robertson); De-
+partment of Epidemiology, Emory University Rollins
+School of Public Health, Atlanta, Ga (Dr Mandel); and
+Section of Pharmacology, Institute of Medicine, Uni-
+versity of Bergen and Haukeland University Hospital,
+Bergen, Norway (Dr Ueland).
+Author Contributions: Drs Cole and Baron had full ac-
+cess to all of the data in the study and take respon-
+sibility for the integrity of the data and the accuracy
+of the data analysis.
+Study concept and design: Cole, Baron, Sandler, Ahnen,
+Bresalier, Burke, Snover, Allen, Beck, Bond, Byers,
+Mandel, Pearson, Greenberg.
+Acquisition of data: Baron, Sandler, Haile, Ahnen,
+Bresalier, McKeown-Eyssen, Summers, Rothstein,
+Burke, Snover, Church, Allen, Beck, Bond, Byers,
+Mandel, Barry, Rees, Marcon, Saibil, Ueland.
+Analysis and interpretation of data: Cole, Baron,
+
+Sandler, Haile, Ahnen, Bresalier, McKeown-Eyssen,
+Church, Allen, Robertson, Beck, Byers, Mott,
+Greenberg.
+Drafting of the manuscript: Cole, Baron, Allen, Byers,
+Mott, Saibil, Greenberg.
+Critical revision of the manuscript for important intel-
+lectual content: Baron, Sandler, Haile, Ahnen, Bresalier,
+McKeown-Eyssen, Summers, Rothstein, Burke, Snover,
+Church, Allen, Robertson, Beck, Bond, Byers, Mandel,
+Pearson, Barry, Rees, Marcon, Ueland, Greenberg.
+Statistical analysis: Cole, Baron, Haile, Church, Byers,
+Mott, Greenberg.
+Obtained funding: Cole, Baron, Ahnen, Bresalier,
+Church, Byers, Mandel.
+Administrative, technical, or material support: Cole,
+Baron, Sandler, Bresalier, McKeown-Eyssen, Rothstein,
+Burke, Snover, Church, Beck, Bond, Mandel, Pearson,
+Barry, Saibil.
+Study supervision: Cole, Baron, Haile, Bresalier,
+Summers, Church, Allen, Beck, Mandel, Marcon.
+Financial Disclosures: Dr Cole reported being a con-
+sultant to Schering-Plough. Dr Baron reported being
+a consultant to Merck and Bayer. Dartmouth College
+and Dr Baron hold a use patent for calcium supple-
+mentation, which is licensed to Wyeth Consumer
+Health Care. Dr Sandler reported receiving research
+support from Merck and being a consultant to Merck,
+Bayer, GlaxoSmithKline, and Procter & Gamble. Ms
+Mott reported that she has equity interest in Wyeth.
+No other authors reported any financial disclosures.
+Polyp Prevention Study Group Investigators, Study
+Coordinators, and Coordinating Center Staff (listed
+alphabetically within study site): Cleveland Clinic
+Foundation, Cleveland, Ohio: J. Bauman, H. Has-
+son; University of Colorado Health Sciences Center,
+Denver: L. Richman, R. Reveille, R. Roller (Rocky Moun-
+tain Gastroenterology Associates, Lakewood, Colo),
+J. Levine (University of Colorado Hospital, Denver),
+P. Baker, P. Hanna, D. Hruza (South Denver Endos-
+copy, Denver, Colo), A. Triebling (Arapahoe Gastro-
+enterology, Littleton, Colo), S. Lawrence, V. Jakribet-
+tuu (Denver Veterans Affairs Medical Center, Denver,
+Colo), S. Frederick, S. Rein; Dartmouth-Hitchcock
+Medical Center, Lebanon, NH: D. Howell (Portland
+Gastroenterology Associates, Portland, Me), P. Mo-
+ses (University of Vermont College of Medicine, Bur-
+lington), A. Robinson (Claremont, NH), A. Warner (La-
+hey Clinic, Burlington, Mass), D. Chamberlain, M.
+Hynes, L. Wetteman; Henry Ford Health Sciences Cen-
+ter, Detroit, Mich: B. Zonka; University of Iowa Col-
+lege of Medicine, Iowa City: D. Abramson, D. Purdy,
+R. Silber, G. Weinman (Gastroenterologists, P.C.I., Ce-
+dar Rapids, Iowa), N. Dusdieker (Internists, P.C., Ce-
+dar Rapids, Iowa), J. Ewing, B. O’Meara (Gastroen-
+terology Associates of Iowa City, Iowa City, Iowa), R.
+Thompson; University of Minnesota, Minneapolis:
+the physicians of Minnesota Gastroenterology P.A.,
+J. Blomquist; University of North Carolina School of
+Medicine, Chapel Hill: S. Levinson (Chapel Hill Inter-
+nal Medicine, Chapel Hill, NC), R. McCall, M. Pate
+(Mid-Carolina Gastroenterology, Sanford, NC), R.
+Schwarz (Raleigh Medical Group, Raleigh, NC), R. Buc-
+cini (Eagle Gastroenterology, Greensboro, NC), J.
+Weissman (Tannenbaum Associates, Greensboro, NC),
+B. Schliebe; University of Southern California, Los An-
+geles: B. Batra, D. Berkowitz, E. Lever (Kaiser-
+Bellflower, Bellflower, Calif ), C. Conteas, T. Teller
+(Kaiser-Sunset, Los Angeles, Calif ), L. Gerstmann, P.
+Harmon, A. Montes, N. Uk.; University of Toronto,
+Toronto, Ontario: E. Irvine (McMaster University
+Hamilton Health Sciences Centre, Hamilton, On-
+tario), L. Cohen, M. Cooper, T. Devlin, D. Hemphill,
+E. Hurowitz, H. Price, S. Stafford (Sunnybrook and
+Women’s College Health Sciences Centre, Toronto,
+Ontario), N. Bassett, V. Jazmaji, M. Morgan, L. Ver-
+nich; Dartmouth Medical School, Hanover, NH: B.
+Beaulieu, D. Carmichael, P. Courtney, J. Dykes, S. Ewell,
+J. Hebb, S. Raymond, S. Rovell-Rixx, B. Thomas.
+
+2358 JAMA, June 6, 2007—Vol 297, No. 21 (Reprinted)
+
+©2007 American Medical Association. All rights reserved.
+
+Downloaded From:  by a University of Ottawa User  on 06/11/2018Data and Safety Monitoring Committee: F. Giardiello
+( Johns Hopkins University School of Medicine, Balti-
+more, Md), J. Lachin (George Washington Univer-
+sity, Washington, DC), J. Neaton (University of Min-
+nesota, Minneapolis), L.J. Roberts (Vanderbilt University
+School of Medicine, Nashville, Tenn), W. Willett (chair-
+man; Harvard University, Boston, Mass).
+Funding/Support: This work was supported in part
+by grants 5 R01 CA059005 and U54 CA100971
+from the National Institutes of Health. Study tablets
+were provided by Wyeth Consumer Health Care,
+Madison, NJ.
+Role of the Sponsor: The funding organizations played
+no role in the design and conduct of the study, in the
+collection, management, analysis, and interpretation of
+the data, or in the preparation, review, or approval of
+the manuscript.
+Acknowledgment: We thank all the individuals who
+participated in this clinical trial.
+
+REFERENCES
+
+1. Herbert V. Folic Acid. In: Shils M, Olson J, Shike
+M, Ross AC, eds. Nutrition in Health and Disease. Bal-
+timore, Md: Williams & Wilkins; 1999.
+2. Shaw GM, Schaffer D, Velie EM, Morland K, Har-
+ris JA. Periconceptional vitamin use, dietary folate, and
+the occurrence of neural tube defects. Epidemiology.
+1995;6:219-226.
+3. Kim Y-I. Folate, colorectal carcinogenesis and DNA
+methylation: lessons from animal studies. Environ Mol
+Mutagen. 2004;44:10-25.
+4. Giovannucci E. Epidemiologic studies of folate
+and colorectal neoplasia: a review. J Nutr. 2002;
+132(suppl):2350S-2355S.
+5. Harnack L, Jacobs DR, Nicodemus K, Lazovitch D,
+Anderson K, Folsom AR. Relationship of folate vita-
+min B-6, vitamin B-12, and methionine intake to in-
+cidence of colorectal cancers. Nutr Cancer. 2002;43:
+152-158.
+6. Giovannucci E, Stampfer MJ, Colditz GA, et al. Fo-
+late, methionine, and alcohol intake and risk of colo-
+rectal adenoma. J Natl Cancer Inst. 1993;85:875-884.
+7. Giovannucci E, Rimm EB, Ascherio A, Stampfer MJ,
+Colditz GA, Willett WC. Alcohol, low-methionine-
+low-folate diets, and risk of colon cancer in men. J Natl
+Cancer Inst. 1995;87:265-273.
+8. Peipins LA, Sandler RS. Epidemiology of colorec-
+tal adenomas. Epidemiol Rev. 1994;16:273-297.
+9. Neugut AI, Jacobson JS, DeVivo I. Epidemiology
+of colorectal adenomatous polyps. Cancer Epidemiol
+Biomarkers Prev. 1993;2:159-176.
+10. Baron JA, Cole BF, Sandler RS, et al. A random-
+ized trial of aspirin to prevent colorectal adenomas.
+N Engl J Med. 2003;348:891-899.
+11. Giovannucci E, Stampfer MJ, Colditz GA, et al.
+Multivitamin use, folate, and colon cancer in women
+in the Nurses’ Health Study. Ann Intern Med. 1998;129:
+517-524.
+12. Mills JL. Fortification of foods with folic acid: how
+much is enough? N Engl J Med. 2000;342:1442-1445.
+13. Snover DC. Serrated polyps of the large intestine.
+Semin Diagn Pathol. 2005;22:301-308.
+14. Molloy AM, Scott JM. Microbiological assay for
+serum, plasma, and red cell folate using cryopre-
+served, microtiter plate method. Methods Enzymol.
+1997;281:43-53.
+15. Kelleher BP, Broin SD. Microbiological assay for
+vitamin B12 performed in 96-well microtitre plates.
+J Clin Pathol. 1991;44:592-595.
+16. Rasmussen K. Solid-phase sample extraction for
+rapid determination of methylmalonic acid in serum
+and urine by a stable-isotope-dilution method. Clin
+Chem. 1989;35:260-264.
+
+FOLIC ACID FOR THE PREVENTION OF COLORECTAL ADENOMAS
+
+17. Windelberg A, Arseth O, Kvalheim G, Ueland PM.
+Automated assay for the determination of methylma-
+lonic acid, total homocysteine, and related amino ac-
+ids in human serum or plasma by means of methyl-
+chloroformate derivatization and gas chromatography-
+mass spectrometry. Clin Chem. 2005;51:2103-2109.
+18. Little RJA, Rubin DB. Statistical Analysis With Miss-
+ing Data. New York, NY: John Wiley & Sons; 1987.
+19. Final Rule on Food Labeling, Health Claims and
+Label Statements, Folic Acid and Neural Tube De-
+fects, 58 Federal Register 2606 (1993).
+20. Food Standards: Amendment of the Standards of
+Identity for Enriched Grain Products to Require Ad-
+dition of Folic Acid, 58 Federal Register 53305-
+53312 (1993).
+21. Martı´nez ME, Giovannucci E, Jiang R, et al. Fo-
+late fortification, plasma folate, homocysteine and co-
+lorectal adenoma recurrence. Int J Cancer. 2006;119:
+1440-1446.
+22. Cravo ML, Mason JB, Dayal Y, et al. Folate de-
+ficiency enhances the development of colonic neo-
+plasia in dimethylhydrazine-treated rats. Cancer Res.
+1992;52:5002-5006.
+23. Kim Y-I, Salomon RN, Graeme-Cook F, et al. Di-
+etary folate protects against the development of mac-
+roscopic colonic neoplasia in a dose responsive man-
+ner in rats. Gut. 1996;39:732-740.
+24. Le Leu RK, Young GP, McIntosh GH. Folate de-
+ficiency reduces the development of colorectal can-
+cer in rats. Carcinogenesis. 2000;21:2261-2265.
+25. Song J, Medline A, Mason JB, Gallinger S, Kim
+Y-I. Effects of dietary folate on intestinal tumorigen-
+esis in the apcMin mouse. Cancer Res. 2000;60:5434-
+5440.
+26. Wargovich MJ, Chen CD, Jimenez A, et al. Ab-
+errant crypts as a biomarker for colon cancer: evalu-
+ation of potential chemopreventive agents in the rat.
+Cancer Epidemiol Biomarkers Prev. 1996;5:355-360.
+27. Benito E, Cabeza E, Moreno V, Obrador A, Bosch
+FX. Diet and colorectal adenomas: a case-control study
+in Majorca. Int J Cancer. 1993;55:213-219.
+28. Tseng M, Murray SC, Kupper LL, Sandler RS. Mi-
+cronutrients and the risk of colorectal adenomas. Am
+J Epidemiol. 1996;144:1005-1014.
+29. Baron JA, Sandler RS, Haile RW, Mandel JS, Mott
+LA, Greenberg ER. Folate intake, alcohol consump-
+tion, cigarette smoking, and risk of colorectal
+adenomas. J Natl Cancer Inst. 1998;90:57-62.
+30. Breuer-Katschinski B, Nemes K, Marr A, et al; Co-
+lorectal Adenoma Study Group. Colorectal adeno-
+mas and diet: a case-control study. Dig Dis Sci. 2001;
+46:86-95.
+31. Bird CL, Swendseid ME, Witte JS, et al. Red cell
+and plasma folate, folate consumption, and the risk
+of colorectal adenomatous polyps. Cancer Epidemiol
+Biomarkers Prev. 1995;4:709-714.
+32. Whelan RL, Horvath KD, Gleason NR, et al. Vi-
+tamin and calcium supplement use is associated with
+decreased adenoma recurrence in patients with a pre-
+vious history of neoplasia. Dis Colon Rectum. 1999;42:
+212-217.
+33. Paspatis GA, Kalafatis E, Oros L, Xourgias V,
+Koutsioumpa P, Karamanolis DG. Folate status and ad-
+enomatous colonic polyps: a colonoscopically con-
+trolled study. Dis Colon Rectum. 1995;38:64-67.
+34. Kato I, Dnistrian AM, Schwartz M, et al. Serum
+folate, homocysteine and colorectal cancer risk in wom-
+en: a nested case-control study. Br J Cancer. 1999;79:
+1917-1921.
+35. Martı´nez ME, Henning SM, Alberts DS. Folate and
+colorectal neoplasia: relation between plasma and di-
+etary markers of folate and adenoma recurrence. Am
+J Clin Nutr. 2004;79:691-697.
+36. Glynn SA, Albanes D, Pietinen P, et al. Colorec-
+tal cancer and folate status: a nested case-control study
+
+among male smokers. Cancer Epidemiol Biomarkers
+Prev. 1996;5:487-494.
+37. Van Guelpen B, Hultdin J, Johansson I, et al. Low
+folate levels may protect against colorectal cancer. Gut.
+2006;55:1461-1466.
+38. Razin A, Cedar H. DNA methylation and gene
+expression. Microbiol Rev. 1991;55:451-458.
+39. Pogribny IP, Basnakian AG, Miller BJ, Lopatina
+NG, Poirier LA, James SJ. Breaks in genomic DNA and
+within the p53 gene are associated with hypometh-
+ylation in livers of folate/methyl-deficient rats. Can-
+cer Res. 1995;55:1894-1901.
+40. Bedford MT, van Helden PD. Hypomethylation
+of DNA in pathological conditions of the human
+prostate. Cancer Res. 1987;47:5274-5276.
+41. Gama-Sosa MA, Slagel VA, Trewyn RW, et al. The
+5-methylcytosine content of DNA from human tumors.
+Nucleic Acids Res. 1983;11:6883-6894.
+42. Goelz SE, Vogelstein B, Hamilton SR, Feinberg
+AP. Hypomethylation of DNA from benign and ma-
+lignant human colon neoplasms. Science. 1985;228:
+187-190.
+43. Feinberg AP, Gehrke CW, Kuo KC, Ehrlich M. Re-
+duced genomic 5-methylcytosine content in human
+colonic neoplasia. Cancer Res. 1988;48:1159-1161.
+44. Blount BC, Ames BN. DNA damage in folate
+deficiency. Baillieres Clin Haematol. 1995;8:461-
+478.
+45. Kambara T, Simms LA, Whitehall VL, et al. BRAF
+mutation is associated with DNA methylation in ser-
+rated polyps and cancers of the colorectum. Gut. 2004;
+53:1137-1144.
+46. Lonn E, Yusuf S, Arnold MJ, et al; Heart Out-
+comes Prevention Evaluation (HOPE) 2 Investigators.
+Homocysteine lowering with folic acid and B vita-
+mins in vascular disease. N Engl J Med. 2006;354:1567-
+1577.
+47. Stevens VL, Rodriguez C, Pavluck AL, McCullough
+ML, Thun MJ, Calle EE. Folate nutrition and prostate
+cancer incidence in a large cohort of US men [pub-
+lished online ahead of print March 22, 2006]. Am J
+Epidemiol. 2006;163:989-996.
+48. Hultdin J, Van Guelpen B, Bergh A, Hallmans G,
+Stattin P. Plasma folate, vitamin B12 and homocys-
+teine and prostate cancer risk: a prospective study. Int
+J Cancer. 2005;113:819-824.
+49. Weinstein SJ, Hartman TJ, Stolzenberg-Solomon
+R, et al. Null association between prostate cancer and
+serum folate, vitamin B6, vitamin B12 and
+homocysteine. Cancer Epidemiol Biomarkers Prev.
+2003;12:1271-1272.
+50. Pelucchi C, Galeone C, Talamini R, et al. Dietary
+folate and risk of prostate cancer in Italy. Cancer Epi-
+demiol Biomarkers Prev. 2005;14:944-948.
+51. Bills ND, Hinrichs SH, Morgan R, Clifford AJ. De-
+layed tumor onset in transgenic mice fed a low-
+folate diet. J Natl Cancer Inst. 1992;84:332-337.
+52. Baggott JE, Vaughn WH, Juliana MM, Eto I, Krum-
+dieck CL, Grubbs CJ. Effects of folate deficiency and
+supplementation on methylnitrosourea-induced rat
+mammary tumors. J Natl Cancer Inst. 1992;84:1740-
+1744.
+53. Kotsopoulos J, Medline A, Renlund R, et al. Ef-
+fects of dietary folate on the development and pro-
+gression of mammary tumors in rats. Carcinogenesis.
+2005;26:1603-1612.
+54. Charles D, Ness AR, Campbell D, Smith GD, Hall
+MH. Research pointers: taking folate in pregnancy and
+risk of maternal breast cancer. BMJ. 2004;329:1375-
+1376.
+55. Stolzenberg-Solomon RZ, Chang SC, Leitzmann
+MF, et al. Folate intake, alcohol use, and postmeno-
+pausal breast cancer risk in the Prostate, Lung, Colo-
+rectal, and Ovarian Cancer Screening Trial. Am J Clin
+Nutr. 2006;83:895-904.
+
+©2007 American Medical Association. All rights reserved.
+
+(Reprinted) JAMA, June 6, 2007—Vol 297, No. 21 2359
+
+Downloaded From:  by a University of Ottawa User  on 06/11/2018
