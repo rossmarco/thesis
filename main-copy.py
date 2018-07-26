@@ -26,7 +26,7 @@ global full_training_trigram_filename
 global full_training_quadgram_filename
 global full_test_word_freq_filename
 global full_test_bigram_filename
-global full_test_rigram_filename
+global full_test_trigram_filename
 global full_test_quadgram_filename
 
 disease_type = ''
@@ -36,7 +36,7 @@ full_training_trigram_filename = ''
 full_training_quadgram_filename = ''
 full_test_word_freq_filename = ''
 full_test_bigram_filename = ''
-full_test_rigram_filename = ''
+full_test_trigram_filename = ''
 full_test_quadgram_filename = ''
 
 def normalize_text(txt_file):
