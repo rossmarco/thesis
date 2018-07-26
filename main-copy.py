@@ -197,12 +197,12 @@ def compare_csv(training_data, test_data):
 
 # Make function calls
 normalize_text('cancer-training.txt')
-#get_word_frequency(25)
-get_bigrams(400)
+get_word_frequency(800)
+#get_bigrams(400)
 
 del word_set[:]
 
 normalize_text('cancer-71.txt')
-#get_word_frequency(25)
-get_bigrams(50)
-compare_csv(full_training_bigram_filename, full_test_bigram_filename)
+get_word_frequency(50)
+#get_bigrams(50)
+compare_csv(full_training_word_freq_filename, full_test_word_freq_filename)
