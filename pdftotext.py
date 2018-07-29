@@ -7,14 +7,17 @@ import os
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-mypath = '/Users/marcoross/Documents/summer2018_thesis/cancer-test'
+mypath = '/Users/marcoross/Documents/summer2018_thesis/cancer'
 files = [f for f in listdir(mypath) if isfile(join(mypath, f))]
 
-# files = [
-#     'cancer-71.pdf'
-# ]
+""" files = [
+     'diabetes-57.pdf',
+     'diabetes-14.pdf',
+     'diabetes-18.pdf',
+     'diabetes-33.pdf',
+] """
 
-os.chdir('/Users/marcoross/Documents/summer2018_thesis/cancer-test')
+os.chdir('/Users/marcoross/Documents/summer2018_thesis/cancer')
 
 for f in files:
     cmd = 'python pdf2txt.py -o %s.txt %s' % (f.split('.')[0], f)

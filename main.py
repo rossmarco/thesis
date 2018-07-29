@@ -10,7 +10,7 @@ from nltk.collocations import ngrams
 from collections import Counter
 import csv
 
-class training_set:
+class TextAnalyzer:
 
     def __init__(self, disease):
         self.word_set = []
@@ -188,11 +188,11 @@ def compare_csv(training_data, test_data):
             message2 = 'The similarity metric is {0:.2f}'.format(similarity_metric)
             writer.writerow([message2])
 
-x = training_set('cancer')
+x = TextAnalyzer('cancer')
 x.normalize_text('cancer-training.txt')
 x.get_word_frequency(25)
 
-y = training_set('cancer')
+y = TextAnalyzer('cancer')
 y.normalize_text('cancer-71.txt')
 y.get_word_frequency(25)
 
