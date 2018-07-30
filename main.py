@@ -10,7 +10,7 @@ from nltk.collocations import ngrams
 from collections import Counter
 import csv
 
-
+#Github first commit test
 class TextAnalyzer:
 
     def __init__(self, disease):
