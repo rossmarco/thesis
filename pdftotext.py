@@ -7,7 +7,7 @@ import os
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-mypath = '/Users/marcoross/Documents/summer2018_thesis/cancer'
+mypath = '/Users/marcoross/Documents/summer2018_thesis'
 files = [f for f in listdir(mypath) if isfile(join(mypath, f))]
 
 """ files = [

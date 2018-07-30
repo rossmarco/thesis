@@ -10,8 +10,7 @@ from nltk.collocations import ngrams
 from collections import Counter
 import csv
 
-#Github first commit test
-#not working lets try the command line commit
+# TO DO: document this code
 class TextAnalyzer:
 
     def __init__(self, disease):
@@ -190,12 +189,21 @@ def compare_csv(training_data, test_data):
             message2 = 'The similarity metric is {0:.2f}'.format(similarity_metric)
             writer.writerow([message2])
 
-x = TextAnalyzer('cancer')
-x.normalize_text('cancer-training.txt')
-x.get_word_frequency(25)
+test_article = TextAnalyzer('diabetes-test')
+test_article.normalize_text('diabetes-72.txt')
+test_article.get_word_frequency(50)
 
-y = TextAnalyzer('cancer')
-y.normalize_text('cancer-71.txt')
-y.get_word_frequency(25)
+cancer_training = TextAnalyzer('cancer')
+cancer_training.normalize_text('cancer-training.txt')
+cancer_training.get_word_frequency(50)
+compare_csv(full_training_word_freq_filename, full_test_word_freq_filename)
 
+diabetes_training = TextAnalyzer('diabetes')
+diabetes_training.normalize_text('diabetes-training.txt')
+diabetes_training.get_word_frequency(50)
+compare_csv(full_training_word_freq_filename, full_test_word_freq_filename)
+
+cvd_training = TextAnalyzer('cvd')
+cvd_training.normalize_text('cvd-training.txt')
+cvd_training.get_word_frequency(50)
 compare_csv(full_training_word_freq_filename, full_test_word_freq_filename)
