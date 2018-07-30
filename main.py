@@ -13,8 +13,13 @@ import csv
 # TO DO: document this code
 class TextAnalyzer:
 
+    global smetric_diabetes
+    global smetric_cancer
+    global smetric_cvd
+
     def __init__(self, disease):
         self.word_set = []
+        #not being used for anything at the moment but will in the future
         self.disease = disease
         #self.txt_file = txt_file
         self.full_training_word_freq_filename = ''
@@ -25,6 +30,8 @@ class TextAnalyzer:
         self.full_test_bigram_filename = ''
         self.full_test_trigram_filename = ''
         self.full_test_quadgram_filename = ''
+        self.test_file_name = ''
+
 
     def normalize_text(self, txt_file):
         # Import the text file we will work with
@@ -158,7 +165,7 @@ class TextAnalyzer:
         return self.full_training_trigram_filename, self.full_test_trigram_filename
 
 
-def compare_csv(training_data, test_data):
+def compare_csv(training_data, test_data, disease_type):
 
     num_of_matches = 0
     num_of_nonmatches = 0
@@ -169,7 +176,8 @@ def compare_csv(training_data, test_data):
         master_indices = dict((r[0], i) for i, r in enumerate(csv.reader(master)))
 
     with open(test_data, 'rb') as test_file:
-        with open('results.csv', 'wb') as results:    
+        file_name_results = 'results-'+disease_type+'.csv'
+        with open(file_name_results, 'wb') as results:    
             reader = csv.reader(test_file)
             writer = csv.writer(results)
 
@@ -186,24 +194,64 @@ def compare_csv(training_data, test_data):
 
             total_num_of_compares = (num_of_matches + num_of_nonmatches)
             similarity_metric = ((num_of_matches/total_num_of_compares) * 100)
+            if disease_type == 'cancer':
+                global smetric_cancer
+                smetric_cancer = similarity_metric
+            elif disease_type == 'cvd':
+                global smetric_cvd
+                smetric_cvd = similarity_metric
+            elif disease_type == 'diabetes':
+                global smetric_diabetes
+                smetric_diabetes = similarity_metric
+            
             message2 = 'The similarity metric is {0:.2f}'.format(similarity_metric)
             writer.writerow([message2])
 
-test_article = TextAnalyzer('diabetes-test')
-test_article.normalize_text('diabetes-72.txt')
-test_article.get_word_frequency(50)
+def determine_best_match(smetric_cancer, smetric_diabetes, smetric_cvd, ngram_size):
+    
+    test_article_file_name = ''
+
+    if ngram_size == 1:
+        test_article_file_name = full_test_word_freq_filename
+    elif ngram_size == 2:
+        test_article_file_name = full_test_bigram_filename
+    elif ngram_size == 3:
+        test_article_file_name = full_test_trigram_filename
+    elif ngram_size == 4:
+        test_article_file_name = full_test_quadgram_filename
+    else:
+        raise ValueError("Please only choose an n-gram size between 1-4, inclusive")
+
+    with open ('best_matches.csv', 'wb') as csvfile:
+        matches_writer = csv.writer(csvfile)
+
+        if (smetric_cancer > smetric_diabetes) and (smetric_cancer > smetric_cvd):
+            matches_writer.writerow(['The article ' + test_article_file_name + ' is a cancer article with a similary metric of {0:.2f}'.format(smetric_cancer)])
+        elif (smetric_diabetes > smetric_cancer) and (smetric_diabetes > smetric_cvd):
+            matches_writer.writerow(['The article ' + test_article_file_name + ' is a diabetes article with a similary metric of {0:.2f}'.format(smetric_diabetes)])
+        elif (smetric_cvd > smetric_cancer) and (smetric_cvd > smetric_diabetes):
+            matches_writer.writerow(['The article ' + test_article_file_name + ' is a CVD article with a similary metric of {0:.2f}'.format(smetric_cvd)])
+
+test_article72 = TextAnalyzer('diabetes-test')
+test_article72.normalize_text('diabetes-72.txt')
+test_article72.get_trigrams(200)
 
 cancer_training = TextAnalyzer('cancer')
 cancer_training.normalize_text('cancer-training.txt')
-cancer_training.get_word_frequency(50)
-compare_csv(full_training_word_freq_filename, full_test_word_freq_filename)
+cancer_training.get_trigrams(200)
+compare_csv(full_training_trigram_filename, full_test_trigram_filename, 'cancer')
 
 diabetes_training = TextAnalyzer('diabetes')
 diabetes_training.normalize_text('diabetes-training.txt')
-diabetes_training.get_word_frequency(50)
-compare_csv(full_training_word_freq_filename, full_test_word_freq_filename)
+diabetes_training.get_trigrams(200)
+compare_csv(full_training_trigram_filename, full_test_trigram_filename, 'diabetes')
 
 cvd_training = TextAnalyzer('cvd')
 cvd_training.normalize_text('cvd-training.txt')
-cvd_training.get_word_frequency(50)
-compare_csv(full_training_word_freq_filename, full_test_word_freq_filename)
+cvd_training.get_trigrams(200)
+compare_csv(full_training_trigram_filename, full_test_trigram_filename, 'cvd')
+determine_best_match(smetric_cancer, smetric_diabetes, smetric_cvd, 3)
+
+test_article71 = TextAnalyzer('diabetes-test')
+test_article71.normalize_text('diabetes-71.txt')
+test_article71.get_trigrams(200)
