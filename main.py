@@ -11,6 +11,7 @@ from collections import Counter
 import csv
 
 #Github first commit test
+#not working lets try the command line commit
 class TextAnalyzer:
 
     def __init__(self, disease):
