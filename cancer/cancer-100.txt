@@ -1,0 +1,1136 @@
+Garlic consumption and cancer prevention: meta-analyses of 
+colorectal and stomach cancers1–3
+
+Aaron T Fleischauer, Charles Poole, and Lenore Arab
+
+ABSTRACT
+Background: Animal and in vitro studies have provided evidence
+of an anticarcinogenic effect of active ingredients in garlic.
+Objective: The  objective  was  to  conduct  meta-analyses  of  the
+epidemiologic literature on the association between garlic con-
+sumption  and  risk  of  stomach, colon, head  and  neck,
+lung,
+breast, and prostate cancers.
+Design: Meta-analyses were conducted for all cancers mutually
+and separately for colorectal and stomach cancers in relation to
+consumption  of  exclusively  raw  garlic, cooked  garlic, or  both
+(RC garlic). Eighteen studies reported a relative risk estimate for
+RC garlic consumption and cancer risk.
+Results: In the meta-analyses of colorectal and stomach cancer,
+the  reference  categories  ranged  from  no  consumption  to  con-
+sumption  of  3.5  g/wk, whereas  the  highest  categories  ranged
+from  any  consumption  to  > 28.8  g/wk.  The  average  difference
+between  the  highest  and  lowest  categories  was  16  g/wk.  The
+random-effects relative risk (RR) estimate of colorectal cancer
+and RC garlic consumption, excluding garlic supplements, was
+0.69  (95%  CI: 0.55, 0.89).  For  stomach  cancer, the  random-
+effects RR estimate was 0.53 (95% CI: 0.31, 0.92). The hetero-
+geneity among studies for the latter outcome (P = 0.0002) indi-
+cates  the  questionableness  of  the  generalizability  of  this
+summary estimate. An indication of publication bias for all can-
+cers combined is evident from a funnel plot of RC garlic con-
+sumption and cancer risk and from the results of the Begg and
+Mazumdar test (P = 0.049).
+Conclusions: High intake of RC garlic may be associated with a
+protective effect against stomach and colorectal cancers. Hetero-
+geneity of effect estimates, differences in dose estimation, publi-
+cation bias, and possible alternative hypotheses (eg, confounding
+by  total  vegetable  consumption)  preclude  sole  reliance  on  sum-
+mary effect estimates.
+
+Am J Clin Nutr 2000;72:1047–52.
+
+KEY WORDS
+Garlic, Allium vegetables, cancer risk, colo-
+rectal  cancer, stomach  cancer, meta-analysis, epidemiology,
+prevention
+
+INTRODUCTION
+
+Numerous  scientific  reports  imply  that  vegetable  intake  may
+affect cancer incidence. Epidemiologic studies offer evidence that
+a high consumption of vegetables reduces the risk of colorectal
+and stomach cancers (1). In addition, there is some evidence that
+
+the same is true for cancers of the breast, larynx, and prostate (1).
+On the basis of results of animal and in vitro studies indicating an
+anticarcinogenic effect of garlic (Allium sativum), a review of the
+epidemiologic literature was conducted and presented elsewhere
+(2, 3). The review suggested a protective effect of high intakes of
+garlic against cancers of the stomach, colon and rectum, breast,
+prostate, and  larynx.  Since  the  results  of  this  review  were  pub-
+lished, 3  additional  studies  of  garlic  consumption  and  cancer
+reported  results  supporting  this  hypothesis  (4–6).  Motivated  by
+this  and  the  findings  of  animal  experiments, we  report  results
+from site-specific meta-analyses of the relation between the con-
+sumption  of  raw  garlic, cooked  garlic, or  both  raw  and  cooked
+garlic (RC) and the risk of cancer in humans.
+
+METHODS
+
+Epidemiologic  studies  included  in  these  meta-analyses
+were  identified  through  a  literature  search  conducted  in
+August  1999.  The  MEDLINE  database  (National  Library  of
+Medicine, Bethesda, MD)  was  searched  for  articles  published
+between  1  January  1966  and  15  August  1999.  The  reference
+terms garlic, Allium vegetable, vegetable, diet, and nutrition in
+combination with cancer, neoplasm, and individual cancer sub-
+types  were  used  as  both  key  words  and  subject  terms.  The
+search  was  limited  to  human  studies  published  in  English.  In
+addition, journal articles cited in the primary articles were col-
+lected and added to the review. From the ⬇300 studies of veg-
+etable consumption and cancer risk, 22 reported a relative risk
+(RR)  estimate  for  RC  garlic  intake  and  cancer  risk.  Two  of
+these studies examined the combination of RC garlic and total
+Allium vegetable  consumption  and  4  studies  examined  garlic
+supplements only. The adjusted RR estimate, CI, P value, year
+of publication, country, number of subjects, and RC garlic cat-
+egorization and covariates were abstracted from these studies.
+From each published report, RR estimates and 95% CIs for the
+
+1 From  the  Departments  of  Epidemiology  and  Nutrition, University  of
+
+North Carolina, Chapel Hill.
+
+2 Supported by the National Cancer Institute (training grant CA72319-01A1).
+3 Address  reprint  requests  to AT  Fleischauer, Department  of  Epidemiol-
+ogy, University of North Carolina, CB 7400, Chapel Hill, NC 27599. E-mail:
+afleisch@sph.unc.edu.
+
+Received August 31, 1999.
+Accepted for publication March 8, 2000.
+
+Am J Clin Nutr 2000;72:1047–52. Printed in USA. © 2000 American Society for Clinical Nutrition
+
+1047
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/72/4/1047/4729512
+by Sheridan College user
+on 02 August 2018
+
+1048
+
+FLEISCHAUER ET AL
+
+TABLE 1
+Garlic consumption and stomach cancer: epidemiologic studies1
+
+Reference
+
+Country
+
+Subjects
+
+Consumption
+
+OR2
+
+RR2
+
+Case-control studies
+
+You et al (7)
+
+China
+
+564 cases, 1131 controls
+
+Buiatti et al (8)
+
+Italy
+
+640 males, 376 females, 1159 controls
+
+Hansson et al (9)
+
+Sweden
+
+218 males, 120 females, 669 controls
+
+Gao et al (6)
+
+China
+
+110 males, 43 females, 234 controls
+
+0 kg/y
+0.1–1.5 kg/y
+> 1.5 kg/y
+
+< 0.69 servings/wk
+0.70–1.61 servings/wk
+1.61–7.15 servings/wk
+
+0 servings/mo
+> 0 servings/mo
+< 1 servings/mo
+1–3 servings/mo
+≥ 4 servings/mo
+
+Referent
+
+0.8 (0.5, 1.2)
+0.7 (0.4, 1.0)
+
+Referent
+0.6 (NA)
+0.4 (NA)
+Referent
+
+0.89 (0.64, 1.24)
+
+Referent
+
+0.40 (0.2, 0.8)
+0.31 (0.2, 0.4)
+
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+
+Cohort studies
+
+Dorant et al (10)
+
+Netherlands
+
+106 males, 33 females, 3123 controls
+
+No supplements
+
+Garlic supplement only
+
+Other supplements
+
+Garlic and other supplements
+
+—
+—
+—
+—
+
+Referent
+
+1.27 (0.6, 2.6)
+
+Referent
+
+1.28 (0.5, 3.7)
+
+1 OR, odds ratio; RR, relative risk; NA, not available.
+2 95% CIs in parentheses.
+
+highest category of RC garlic intake compared with the lowest
+were  extracted.  Reference  groups  consisted  primarily  of  non-
+consumers of RC garlic. Details of the studies are presented in
+Tables  1–4 by  cancer  site  and  study  design.  The  individual
+studies  included  in  the  meta-analyses  were  presented  and  cri-
+
+tiqued  in  a  previous  review  (2), except  for  reports  published
+after 1 August 1998 (4–6).
+
+Publication bias was assessed by using a funnel plot method
+(25). The log RR estimates are plotted against the inverse of the
+squared  estimated  SE  of  the  RR  estimate  (26).  Details  of  this
+
+TABLE 2
+Garlic consumption and colorectal cancer: epidemiologic studies1
+
+Reference
+
+Country
+
+Subjects
+
+Consumption
+
+OR2
+
+RR2
+
+Case-control studies
+Iscovich et al (11)3
+
+Argentina
+
+62 males, 48 females, 220 neighbor controls
+
+Le Marchand et al (12) United States
+
+698 males, 1192 total controls
+
+(Hawaii)
+
+498 females, 1192 total controls
+
+Hu et al (13)
+
+China
+
+109 females, 109 hospital controls
+
+Levi et al (5)
+
+Switzerland
+
+142 males, 81 females, 491 controls
+
+Cohort studies
+
+Steinmetz et al (14)
+
+United States
+
+212 females, 35 004 controls
+
+(Iowa)
+
+Giovannucci et al (15) United States
+
+205 males, 47 949 controls (Distal colon)
+
+(Boston)
+
+Dorant et al (16)
+
+Netherlands
+
+243 males, 200 females, 3123 controls
+
+≤ 66 servings/y
+67–248 servings/y
+> 248 servings/y
+≤ 0.37 g/d
+0.38–0.99 g/d
+1.0–1.8 g/d
+> 1.8 g/d
+≤ 0.51 g/d
+0.52–1.29 g/d
+1.30–2.17 g/d
+> 2.18 g/d
+
+0 kg/y
+> 0 kg/y
+
+Low intake
+
+Medium intake
+
+High intake
+
+0 servings/wk
+0.5 servings/wk
+≥ 1.0 servings/wk
+
+0
+
+≥ 2 servings/wk
+0 servings/wk
+≥ 2 servings/wk
+No supplements
+Exclusively garlic
+Other supplements
+
+Garlic and other supplements
+
+1 OR, odds ratio; RR, relative risk; NA, not available.
+2 95% CIs in parentheses.
+3 Garlic combined with onions and peppers.
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/72/4/1047/4729512
+by Sheridan College user
+on 02 August 2018
+
+Referent
+
+0.42 (0.19, 0.91)
+0.22 (0.10, 0.51)
+
+Referent
+
+Referent
+
+—
+—
+—
+—
+—
+0.9 (NA)
+0.9 (NA)
+—
+0.8 (0.5, 1.1) —
+—
+—
+1.0 (NA)
+0.6 (NA)
+—
+0.9 (0.6, 1.4) —
+—
+—
+—
+—
+—
+
+Referent
+
+0.21 (0.05, 0.84)
+
+Referent
+
+0.50 (0.3, 0.7)
+0.39 (0.2, 0.7)
+
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+
+Referent
+
+1.07 (0.77, 1.50)
+0.68 (0.46, 1.02)
+
+Referent
+
+0.77 (0.51, 1.16)
+
+Referent
+
+0.63 (0.38, 1.65)
+
+Referent
+
+1.36 (0.8, 2.4)
+
+Referent
+
+0.93 (0.5, 1.7)
+
+META-ANALYSES OF GARLIC AND CANCER
+
+1049
+
+TABLE 3
+Garlic consumption and head and neck cancers: epidemiologic studies1
+
+Country
+
+Subjects
+
+Consumption
+
+OR2
+
+Reference
+
+Case-control studies
+
+Esophageal
+
+Hu et al (17)
+
+China
+
+170 males, 392 hospital controls
+
+Gao et al (18)3
+
+China
+
+624 males, 1552 controls
+
+Gao et al (6)
+
+China
+
+44 males, 37 females, 234 total controls
+
+Laryngeal
+
+Zheng et al (19)
+
+China
+
+177 males, 414 total controls
+
+Nasal
+
+Zheng et al (20)3
+
+China
+
+39 males, 21 females, 414 controls
+
+24 females, 414 total controls
+
+1 OR, odds ratio; NA, not available.
+2 95% CIs in parentheses.
+3 Garlic combined as total Allium vegetable consumption.
+
+0 kg/y
+
+0.1–1.5 kg/y
+0.6–2.0 kg/y
+> 2.0 kg/y
+Quartile 1
+Quartile 2
+Quartile 3
+Quartile 4
+
+< 1 serving/mo
+1–3 servings/mo
+≥ 4 servings/mo
+
+Tertile 1
+Tertile 2
+Tertile 3
+
+Low intake
+High intake
+
+Never or rare
+
+Month or weekly
+
+Daily
+
+Referent
+
+1.2 (0.6, 2.1)
+0.6 (0.4, 1.0)
+1.0 (0.6, 1.8)
+
+Referent
+1.1 (NA)
+1.1 (NA)
+1.1 (NA)
+Referent
+
+0.48 (0.2, 1.3)
+0.30 (0.2, 0.5)
+
+Referent
+0.6 (NA)
+0.5 (NA)
+Referent
+
+0.7 (0.2, 2.1)
+
+Referent
+
+1.1 (0.6, 2.1)
+0.6 (0.3, 1.2)
+
+procedure were described elsewhere (25, 26). In brief, the pro-
+cedure assumes that large studies are more prone to yield results
+close to the true value than are smaller studies. Larger studies,
+with  smaller  SEs  and  increased  power  to  detect  a  true  effect,
+will form the spout of a funnel. Smaller studies with larger vari-
+ance will tend to disperse, forming the cone. Gaps that appear in
+this  graph  are  an  indication  of  publication  bias.  Gaps  are
+hypothesized to be particularly likely among studies with high
+SEs  and  implausible  point  estimates.  In  addition, two-sided
+P values were obtained for a log-rank test of publication bias,
+developed by Begg and Mazumdar (27). Results for all cancers
+are presented in Figure 1.
+
+A  meta-analysis  of  multiple  groupings  of  the  published  epi-
+demiologic  studies  was  performed.  The  SEs  were  calculated
+from the extracted RR estimates and 95% CIs by using the fol-
+lowing equation:
+
+SE = [ln(RRupper) ⫺ ln(RRlower)]/3.92
+
+(1)
+
+However, when the 95% CI was not reported, an estimate of the
+SE was calculated from an exact P value (to ≥ 2 decimal places)
+by using the following equation:
+
+SE = [ln(RR)]/z
+
+(2)
+
+where  z is  the z score  of  the  normal  distribution  for  the  exact
+P value. In converting RC garlic consumption frequency (ie, the
+number of times RC garlic was consumed in a given time period)
+into grams consumed per week, one serving size was considered
+to equal one clove of garlic, or ⬇3 g. Average differences in RC
+garlic  consumption  between  the  highest  category  of  intake  and
+the  reference  group  were  computed  by  assigning  a  midrange
+dose to each category and averaging values across all reports.
+
+Fixed-  and  random-effects  estimates  were  computed  by
+using  inverse  variance  weighting  (Table  5)  (26, 28).  Fixed-
+effects  estimates  assume  that  the  effect  measures  in  the  study
+populations have a uniform value. Random-effects estimates do
+not  assume  that  the  effect  measures  are  uniform  across  study
+populations (26, 28); an additional component of among-study
+variance  is  added  to  each  study-specific  variance  estimate.
+Tests  of  homogeneity  were  conducted  for  each  meta-analysis.
+The P values are presented in Table 5.
+
+Seven  meta-analyses  were  performed.  The  first  aggregated
+all cancer sites and included data from 20 studies; the studies
+that examined total Allium vegetable consumption were excluded
+because  these  reports  examined  the  combination  of  Allium
+vegetable  and  RC  garlic  consumption  (18, 20).  Two  separate
+RR  estimates  for  males  and  females  from  the  studies  by  Le
+Marchand et al (12) and Zheng et al (19) were used. A second
+meta-analysis of all cancers was performed, excluding 4 cohort
+studies of the relation between garlic supplement consumption
+and  cancers  of  the  stomach, colon, lung, and  breast.  These
+4 studies, all  published  by  Dorant  et  al  (10, 16, 23, 24),
+analyzed one population—the Netherlands follow-up cohort.
+Site-specific  meta-analyses  were  subsequently  conducted  on
+colorectal and stomach cancers. Three separate meta-analyses
+of the colorectal cancer studies were conducted: one included
+all  8  of  these  studies, one  included  all  8  of  these  studies
+except  that  by  Dorant  et  al  (16), and  one  included  all  8  of
+these studies except those by Dorant et al (16) and Iscovich et
+al (11). The latter study examined the relation between cancer
+risk and the combined consumption of RC garlic, peppers, and
+onions. A similar procedure was used for the studies of stomach
+cancer.  All  5  stomach  cancer  studies  were  aggregated  for
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/72/4/1047/4729512
+by Sheridan College user
+on 02 August 2018
+
+1050
+
+FLEISCHAUER ET AL
+
+TABLE 4
+Garlic consumption and other sites of cancer: epidemiologic studies1
+
+Reference
+
+Country
+
+Subjects
+
+Consumption
+
+OR2
+
+RR2
+
+Case-control studies
+
+Prostate
+
+Key et al (21)
+
+England
+
+328 cases, 328 controls
+
+Breast
+
+Levi et al (22)
+
+Switzerland
+
+107 cases, 318 hospital controls
+
+Challier et al (4)3
+
+France
+
+345 cases, 345 controls
+
+0 servings/mo
+< 1 serving/mo
+1–4 servings/mo
+≥ 2 servings/wk
+
+Low intake
+
+Moderate intake
+
+High intake
+≤ 6 servings/wk
+7–10 servings/wk
+11–12 servings/wk
+13–16 servings/wk
+> 16 servings/wk
+
+Referent
+
+0.94 (0.51, 1.73)
+0.77 (0.49, 1.20)
+0.64 (0.38, 1.09)
+
+Referent
+
+0.7 (0.4, 1.1)
+0.6 (0.3, 0.9)
+
+Referent
+
+0.52 (0.3, 0.8)
+0.25 (0.1, 0.6)
+0.40 (0.3, 0.6)
+0.30 (0.2, 0.5)
+
+—
+—
+—
+—
+
+—
+—
+—
+—
+—
+—
+—
+—
+
+Cohort studies
+
+Lung
+
+Dorant et al (23)
+
+Netherlands
+
+430 males, 54 females, 3123 controls
+
+No supplements
+
+Breast
+
+Dorant et al (24)
+
+Netherlands
+
+469 cases, 1713 controls
+
+1 OR, odds ratio; RR, relative risk.
+2 95% CIs in parentheses.
+3 Garlic combined with onions.
+
+Garlic supplements only
+
+Other supplements
+
+Garlic and other supplements
+
+No supplements
+
+Garlic supplements only
+
+Other supplements
+
+Garlic and other supplements
+
+—
+—
+—
+—
+
+—
+—
+—
+—
+
+Referent
+
+1.78 (1.1, 2.9)
+
+Referent
+
+0.93 (0.5, 1.9)
+
+Referent
+
+1.0 (0.6, 1.6)
+
+Referent
+
+0.98 (0.6, 1.6)
+
+analysis, and then a separate analysis was made after the study
+by Dorant et al (10) was excluded.
+
+RESULTS
+
+The funnel plot suggests a deficit of studies with a low number
+of subjects with results indicating a positive association between
+RC garlic consumption and cancer risk (Figure 1). This was fur-
+ther evidenced in the log-rank test by Begg and Mazumdar (27)
+for all studies of RC garlic and cancer risk (n = 17; P = 0.049).
+
+The results of the meta-analyses are presented in Table 5. The
+mean (± SD) intake of the highest consumers of RC garlic across
+all  published  reports  was  18.3 ± 14.2  g/wk, or  ⬇6  cloves  gar-
+lic/wk. In the meta-analyses of colorectal and stomach cancer, the
+reference  categories  of  RC  garlic  consumption  ranged  from  no
+consumption to consumption of 3.5 g/wk (⬇1 clove), whereas the
+highest categories of RC garlic intake ranged from any consump-
+tion  to  > 28.8  g/wk  (⬇9–10  cloves). The  difference  between  the
+midrange dose of the highest consumption categories and the mid-
+range dose of the reference groups was ⬇16 g/wk (⬇5–6 cloves).
+Each meta-analysis, except for the most reduced colorectal model
+(n = 6;  2-sided  homogeneity;  P = 0.17), yielded  considerable
+evidence of heterogeneity (P < 0.0001 to 0.02). As a result of the
+limited number of studies, a meta-regression using the aforemen-
+tioned extracted variables was not performed.
+
+Given  these  limitations, the  random-effects  RR  estimate  for
+all sites of cancer represented in the literature, after removal of
+the 4 garlic-supplement studies, was 0.54 (95% CI: 0.43, 0.67).
+The  random-effects  estimate  for  the  reduced  colorectal  model
+
+(n = 6) was 0.69 (95% CI: 0.55, 0.89). This suggests that high
+consumption of RC garlic decreases the risk of colorectal cancer
+from  10%  to  nearly  50%, with  a  point  estimate  of  an  approxi-
+mate 30% reduction. The random-effects RR estimate from the
+stomach cancer model was 0.53 (95% CI: 0.31, 0.92), ie, the RR
+of developing stomach cancer was reduced by ⬇ 50% (95% CI:
+10%, 70%) with a high consumption of RC garlic.
+
+DISCUSSION
+
+The published epidemiologic evidence suggests that protec-
+tion  against  stomach  and  colorectal  cancers  is  conferred  by
+consumption  of  RC  garlic.  Because  the  studies  we  reviewed
+were observational, and many did not control for other dietary
+differences, a review of interventional studies may be required
+to confirm the effect, especially because garlic supplements did
+not  show  a  similar  association. Although  the  mean  consump-
+tion in the highest categories in all the studies was reported, it
+is unclear what the minimum dose of garlic necessary to elicit
+a  protective  effect  might  be  because  there  was  great  hetero-
+geneity of frequency categories among the highest categories,
+and some reports did not provide quantitative cutoffs. Evidence
+of heterogeneity of RC garlic intake among studies is not evi-
+dence against an effect; rather, it suggests that there are appre-
+ciable  differences  among  the  results  beyond  those  expected
+from chance and thus that a single summary estimate does not
+adequately  reflect  the  literature.  It  can  be  argued  that  these
+studies may be subject to biases and that the sample sizes at the
+higher  exposure  levels  were  too  small.  Thus, the  strongest
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/72/4/1047/4729512
+by Sheridan College user
+on 02 August 2018
+
+META-ANALYSES OF GARLIC AND CANCER
+
+1051
+
+with null or positive (RR estimate > 1.0) results. If the funnel plot
+for all studies, both published and unpublished, had the symmet-
+ric  shape  expected  by  chance, the  summary  estimates  of  effect
+would be closer to the null value.
+
+In addition to evidence of publication bias, interpretation of
+these  meta-analyses  is  further  limited  by  other  considerations.
+First, the full cancer model should not be considered represen-
+tative  of  all  cancers  because  the  literature  heavily  favors  colo-
+rectal and stomach cancers; other cancer sites were scant or not
+represented. The most homogeneous models of colorectal cancer
+(n = 6) and stomach cancer (n = 4) consist of only a small num-
+ber  of  reports.  Furthermore, the  stomach  cancer  model  of  RC
+garlic consumption consists of only 4 case-control studies. The
+RR  estimates  for  both  stomach  and  colorectal  cancers  never
+exceeded  1.0  for  the  highest  level  of  RC  garlic  consumption
+compared with the lowest, suggesting either a protective associ-
+ation across all reports or publication bias.
+
+It  is  possible  that  residual  confounding  accounts  for  some
+degree of the association because several reports did not con-
+trol for total vegetable consumption, the known risk factors for
+these diseases, or both. Promising results for a potentially pro-
+tective effect of RC garlic consumption against prostate, laryn-
+geal, and breast cancers were observed, although these results
+were based on only 4 case-control studies. There was divergent
+evidence to support a relation with esophageal cancer, in which
+one smaller report showed a protective effect whereas the other
+2 showed no association.
+
+On visual inspection of the few studies of garlic supplements,
+there appeared to be no association with risk of cancer. A positive
+relation  was  reported  for  exclusive  users  of  garlic  supplements
+and risk of lung cancer. This result may be either a spurious asso-
+ciation or the outcome of a physiologic or behavioral interaction
+with known risk factors for lung cancer, such as smoking. Garlic
+supplement use has been associated with higher levels of educa-
+tion, physical  activity, health  complaints, and  recent  dietary
+change (29). Further research of the association between garlic
+supplement consumption and cancer risk is necessary before any
+definitive conclusions can be made (30).
+
+An  alternative  hypothesis, which  may  explain  the  consistent
+effect seen in meta-analysis, is the protective effect of total veg-
+etable  consumption  against  cancers  of  the  stomach  and  colon
+(31). Total vegetable consumption may be positively correlated
+
+FIGURE  1.  Funnel  plot  indicating  publication  bias  in  the  studies
+included  in  the  meta-analyses  of  the  association  between  garlic  con-
+sumption  and  risk  of  stomach, colorectal, head  and  neck, lung, breast,
+and prostate cancers. RR, relative risk; OR, odds ratio.
+
+evidence for a protective effect of RC garlic consumption exists
+for stomach and colorectal cancers.
+
+Unlike evidence of heterogeneity, evidence of publication bias
+does  detract  from  the  evidence  of  an  effect.  Publication  bias
+almost undoubtedly inﬂuenced the results, particularly for stom-
+ach and colon cancers, for which several studies were available for
+analysis. The funnel plot indicated that the apparently protective
+effect  found  between  RC  garlic  consumption  and  cancers  of  the
+stomach  and  colon  may  have  been  overestimated  or, in  extreme
+cases, entirely due to an absence in the published record of reports
+
+TABLE 5
+Meta-analysis of relative risk (RR) estimates (95% CIs) by cancer site1
+
+Model and references
+
+Fixed-effects estimate
+
+Random-effects estimate
+
+All cancers, n = 22 RRs (4–17, 19, 21–24)
+All cancers, excluding the studies by Dorant et al (10, 16, 23, 24),2
+
+n = 18 RRs (4–9, 11–15, 17, 19, 21, 22)
+
+Colorectal cancers, n = 8 RRs (5, 11–16)
+Colorectal cancers, excluding the study by Dorant et al (16),2
+
+n = 7 RRs (5, 11–15)
+
+Colorectal cancers, excluding the studies by Dorant et al (16)2
+
+and Iscovich et al (11),3 n = 6 RRs (5, 12–15)
+
+0.65 (0.58, 0.72)
+0.57 (0.51, 0.64)
+
+0.72 (0.61, 0.85)
+0.67 (0.56, 0.80)
+
+0.63 (0.50, 0.80)
+0.54 (0.43, 0.67)
+
+0.66 (0.48, 0.91)
+0.60 (0.44, 0.83)
+
+0.71 (0.59, 0.86)
+
+0.69 (0.55, 0.89)
+
+P
+
+< 0.0001
+< 0.0001
+
+0.003
+0.02 
+
+0.17
+
+Stomach cancers, n = 5 RRs (6–10)
+Stomach cancers, excluding the study by Dorantet al (10),2 n = 4 RRs (6–9)
+
+< 0.0001
+0.0002
+1 Mean (± SD) consumption for the highest category of raw garlic, cooked garlic, or both (RC) was 18.3 ± 14.2 g/wk for all studies combined. Four stud-
+
+0.57 (0.47, 0.70)
+0.54 (0.44, 0.66)
+
+0.61 (0.37, 1.03)
+0.53 (0.31, 0.92)
+
+ies did not report cutoffs for RC garlic consumption.
+
+2 The studies by Dorant et al examined garlic supplements exclusively and cancer incidence.
+3 Iscovich et al’s study combined garlic, onions, and peppers into a single exposure category.
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/72/4/1047/4729512
+by Sheridan College user
+on 02 August 2018
+
+1052
+
+FLEISCHAUER ET AL
+
+with  RC  garlic  consumption.  In  addition, garlic  is  most  often
+used  as  a  condiment  in  recipes  and  dishes  such  as  pasta  sauce
+and is rarely consumed as a single food. Because of the absence
+of  information  on  total  vegetable  consumption  in  the  present
+meta-analyses, it was not controlled for. The random-effects RR
+estimates presented are adjusted inasmuch as the individual stud-
+ies controlled for confounding factors. No further adjustment for
+confounders  was  made  in  the  meta-analyses.  However, except
+for one study (13) in which the RR estimate was unadjusted, the
+estimates included in the meta-analysis were the most-adjusted
+estimates presented in the studies. Typical adjustments were for
+known cancer confounders such as age, sex, and other factors.
+
+In the present meta-analyses, the inverse association between
+RC garlic consumption and stomach and colorectal cancers was
+consistent.  In  contrast, garlic  supplement  consumption  in  one
+case-control study of prostate cancer and in 4 studies from the
+Netherlands  cohort  of  colorectal, stomach, lung, and  breast
+cancers did not appear to be associated with cancer risk. Addi-
+tional studies are required before definitive conclusions can be
+drawn about the role of RC garlic and garlic supplement con-
+sumption in cancer etiology.
+
+We  thank  Neal  Simonsen  for  reviewing  the  manuscript  and  E  Buiatti  and
+L Le Marchand for contributing data additional to those of their published reports.
+
+REFERENCES
+
+1.  World  Cancer  Research  Fund, American  Institute  for  Cancer
+Research. Food, nutrition and the prevention of cancer: a global per-
+spective. Washington, DC: AICR, 1997.
+
+2.  Fleischauer AT, Kohlmeier L. Garlic and cancer: a critical review of
+
+the epidemiologic literature. J Nutr (in press).
+
+3.  Wargovich MJ, Uda N, Woods C, Velasco M, McKee K. Allium veg-
+etables: their role in the prevention of cancer. Biochem Soc Trans
+1996;24:811–4.
+
+4.  Challier B, Perarnau J-M, Viel J-F. Garlic, onion and cereal fibre as
+protective factors for breast cancer: a French case-control study. Eur
+J Epidemiol 1998;14:737–47.
+
+5.  Levi  F, Pasche  C, La  Vecchia  C, Lucchini  F, Franceschi  S.  Food
+
+groups and colorectal cancer risk. Br J Cancer 1999;79:1283–7.
+
+6.  Gao C-M, Takezaki T, Ding J-H, Li M-S, Tajima K. Protective effect
+of Allium vegetables against both esophageal and stomach cancer: a
+simultaneous case-referent study of a high-epidemic area in Jiangsu
+Province, China. Jpn J Cancer Res 1999;90:614–21.
+
+7.  You W, Blot WJ, Chang Y, et al. Allium vegetables and reduced risk
+
+of stomach cancer. J Natl Cancer Inst 1989;81:162–4.
+
+8.  Buiatti E, Palli D, Decarli A, et al. A case-control study of diet and
+
+gastric cancer in Italy. Int J Cancer 1989;44:611–6.
+
+9.  Hansson LE, Nyren O, Bergstrom R, et al. Diet and risk of gastric
+cancer: a  population-based  case-control  study  in  Sweden.  Int  J
+Cancer 1993;55:181–9.
+
+10.  Dorant  E, van  den  Brandt  PA, Goldbohm  RA, Sturmans  F.  Con-
+sumption of onions and a reduced risk of stomach carcinoma. Gas-
+troenterology 1996;110:12–20.
+
+11.  Iscovich  JM, L’Abbe  KA, Castelleto  R, et  al.  Colon  cancer  in
+Argentina. I: Risk from intake of dietary items. Int J Cancer 1992;
+51:851–7.
+
+12.  Le Marchand L, Hankin JH, Wilkens LR, Kolonel LN, Englyst HN,
+Lyu  L-C.  Dietary  fiber  and  colorectal  cancer  risk.  Epidemiology
+1997;8:658–65.
+
+13.  Hu J, Liu Y, Zhao T, Liu S, Wang Q. Diet and cancer of the colon and
+rectum: a case-control study in China. Int J Epidemiol 1991;20:362–7.
+14.  Steinmetz KA, Kushi LH, Bostick RM, Folsom AR, Potter JD. Veg-
+etables, fruit and colon cancer in the Iowa Women’s Health Study.
+Am J Epidemiol 1994;139:1–13.
+
+15.  Giovannucci E, Rimm EB, Stampfer MJ, Colditz GA, Ascherio A,
+Willett WC. Intake of fat, meat, and fiber in relation to risk of colon
+cancer in men. Cancer Res 1994;54:2390–7.
+
+16.  Dorant E, van den Brandt PA, Goldbohm RA. A prospective cohort
+study on the relationship between onion and leek consumption, gar-
+lic  supplement  use  and  the  risk  of  colorectal  carcinoma  in  the
+Netherlands. Carcinogenesis 1996;17:477–84.
+
+17.  Hu J, Nyren O, Wolk A, et al. Risk factors for esophageal cancer in
+
+northeast China. Int J Cancer 1994;57:38–46.
+
+18.  Gao  YT, McLaughlin  JK, Gridley  G, et  al.  Risk  factors  for
+esophageal cancer in Shanghai, China. II. Role of diet and nutrients.
+Int J Cancer 1994;58:197–202.
+
+19.  Zheng W, Blot WJ, Shu XO, et al. Diet and other risk factors for laryn-
+
+geal cancer in Shanghai, China. Am J Epidemiol 1992;136:178–91.
+
+20.  Zheng W, Blot WJ, Shu XO, et al. A population-based case-control
+study of cancers of the nasal cavity and paranasal sinuses in Shang-
+hai. Int J Cancer 1992;52:557–61.
+
+21.  Key TJA, Silcocks PB, Davey GK, Appleby GK, Bishop DT. A case-
+control  study  of  diet  and  prostate  cancer.  Br  J  Cancer  1997;76:
+678–87.
+
+22.  Levi F, La Vecchia C, Gulie C, Negri E. Dietary factors and breast
+
+cancer risk in Vaud, Switzerland. Nutr Cancer 1993;19:327–34.
+
+23.  Dorant E, van den Brandt PA, Goldbohm RA. A prospective cohort
+study on Allium vegetable consumption, garlic supplement use, and
+the risk of lung carcinoma in the Netherlands. Cancer Res 1994;54:
+6148–53.
+
+24.  Dorant E, van den Brandt PA, Goldbohm RA. Allium vegetable con-
+sumption, garlic  supplement  intake, and  female  breast  carcinoma
+incidence. Breast Cancer Res Treat 1995;33:163–70.
+
+25.  Begg CB, Berlin JA. Publication bias and dissemination of clinical
+
+research. J Natl Cancer Inst 1989;81:107–15.
+
+26.  Greenland S. Meta-analysis. In: Rothman K, Greenland S. Modern
+
+epidemiology. Philadelphia: Lippincott-Raven, 1998:643–73.
+
+27.  Begg CB, Mazumdar M. Operating characteristics of a rank corre-
+
+lation test for publication bias. Biometrics 1994;50:1088–101.
+
+28.  Berlin JA, Longnecker MP, Greenland S. Meta-analysis of the epi-
+
+demiologic dose-response data. Epidemiology 1993;4:218–28.
+
+29.  Klipstein-Grobusch  K, Kroke  A, Voss  S, Boeing  H.  Influence  of
+lifestyle on the use of supplements in the Brandenburg nutrition and
+cancer study. Z Ernahrungswiss 1998;37:38–46.
+
+30.  Dorant  E, van  den  Brandt  PA, Goldbohm  RA, Hermus  RJJ, Stur-
+mans F. Garlic and its significance for the prevention of cancer in
+humans: a critical view. Br J Cancer 1993;67:424–9.
+
+31.  Hensrud  DD, Heimburger  DC.  Diet, nutrients  and  gastrointestinal
+
+cancer. Gastroenterol Clin North Am 1998;27:325–46.
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/72/4/1047/4729512
+by Sheridan College user
+on 02 August 2018
+
+

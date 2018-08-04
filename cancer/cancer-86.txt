@@ -1,0 +1,1967 @@
+Public Health Nutrition: 7(1A), 187–200
+
+DOI: 10.1079/PHN2003588
+
+Diet, nutrition and the prevention of cancer
+
+Timothy J Key1,*, Arthur Schatzkin2, Walter C Willett3, Naomi E Allen1,
+Elizabeth A Spencer1 and Ruth C Travis1
+1Cancer Research UK Epidemiology Unit, University of Oxford, Oxford, UK: 2Nutritional Epidemiology Branch,
+Division of Cancer, Epidemiology and Genetics, National Cancer Institute, Bethesda, USA: 3Departments of
+Epidemiology and Nutrition, Harvard School of Public Health, Boston, USA
+
+Abstract
+Objective: To assess the epidemiological evidence on diet and cancer and make
+public health recommendations.
+Design: Review of published studies, concentrating on recent systematic reviews,
+meta-analyses and large prospective studies.
+Conclusions and recommendations: Overweight/obesity increases the risk for
+cancers of the oesophagus (adenocarcinoma), colorectum, breast (postmenopausal),
+endometrium and kidney; body weight should be maintained in the body mass index
+range of 18.5-25 kg/m2, and weight gain in adulthood avoided. Alcohol causes
+cancers of the oral cavity, pharynx, oesophagus and liver, and a small increase in the
+risk for breast cancer; if consumed, alcohol intake should not exceed 2 units/d.
+Aﬂatoxin in foods causes liver cancer, although its importance in the absence of
+hepatitis virus infections is not clear; exposure to aﬂatoxin in foods should be
+minimised. Chinese-style salted ﬁsh increases the risk for nasopharyngeal cancer,
+particularly if eaten during childhood, and should be eaten only in moderation. Fruits
+and vegetables probably reduce the risk for cancers of the oral cavity, oesophagus,
+stomach and colorectum, and diets should include at least 400 g/d of total fruits and
+vegetables. Preserved meat and red meat probably increase the risk for colorectal
+cancer; if eaten, consumption of these foods should be moderate. Salt preserved
+foods and high salt intake probably increase the risk for stomach cancer; overall
+consumption of salt preserved foods and salt should be moderate. Very hot drinks and
+foods probably increase the risk for cancers of the oral cavity, pharynx and
+oesophagus; drinks and foods should not be consumed when they are scalding hot.
+Physical activity, the main determinant of energy expenditure, reduces the risk for
+colorectal cancer and probably reduces the risk for breast cancer; regular physical
+activity should be taken.
+
+Keywords
+Diet
+Nutrition
+Cancer
+Review
+
+Dietary factors have been thought to account for about
+30% of cancers in Western countries1, making diet second
+only to tobacco as a preventable cause of cancer. The
+contribution of diet to cancer risk in developing countries
+has been considered to be lower, perhaps around 20%2.
+Unravelling the effects of diet on cancer risk is, therefore,
+of great public health importance, but research to date has
+uncovered few deﬁnite effects and left frustratingly large
+areas of uncertainty.
+
+In this paper, we summarise our view of the current
+state of knowledge on diet and cancer. This paper is not a
+systematic review of diet and cancer. Other organisations
+have recently published detailed reviews of this subject, in
+particular the World Cancer Research Fund/American
+Institute for Cancer Research3, and the Department of
+Health in the UK4. These publications provide good
+reviews of research published up until the mid 1990s; we
+
+therefore, based our
+
+review on the material
+have,
+summarised in these reports and on more recent studies,
+large
+giving particular credence to the results of
+prospective studies and to the few results
+from
+randomised controlled trials. We start by brieﬂy discussing
+the types of evidence available for formulating and testing
+hypotheses.
+
+International comparisons, migrants and time
+trends
+Many of the prominent hypotheses for effects of diet on
+cancer risk have been derived from examination of the
+associations between dietary patterns and cancer rates in
+different populations around the world. It was noted in the
+1970s that developed Western countries have diets high in
+animal products, fat and sugar, and high rates of cancers
+of
+In contrast,
+
+the colorectum, breast and prostate.
+
+*Corresponding author: Email tim.key@cancer.org.uk
+
+q The Authors 2004
+
+188
+
+developing countries typically have diets based on one or
+two starchy staple foods, low intakes of animal products,
+fat and sugar, low rates of these ‘Western’ cancers, and
+sometimes high rates of other types of cancer such as
+cancers of the oesophagus, stomach and liver5. Other
+studies have shown that cancer rates often change in
+populations which migrate from one country to another,
+and change over time within countries. For example, the
+formerly low rates of colorectal cancer among Japanese
+people have increased both on migration to the USA and,
+more recently, with the increasing Westernisation of the
+diet in Japan6. As discussed below, some of the main
+hypotheses that were derived from these ecological
+observations have not been supported by the results of
+detailed studies of the diets of individuals. However, the
+international variations in diet and cancer rates continue to
+suggest that diet is an important risk factor for many
+common cancers, and therefore that cancer may be partly
+preventable by dietary changes.
+
+Figure 1 shows estimated incidence rates for the most
+common cancers world-wide in 20007. Lung cancer is the
+most common cancer in the world, and the most common
+cancer among men in both developed and developing
+countries, whereas breast cancer is the most common
+cancer among women. The archetypal Western cancers
+are those of
+the colorectum, breast and prostate.
+Westernisation encompasses many changes in diet and
+lifestyle, including increased consumption of meat, dairy
+
+Fig. 1 Age-adjusted incidence rates of common cancers among
+men and women in developed and developing countries
+
+TJ Key et al.
+
+products, sugar and other reﬁned carbohydrates, and
+reduced intake of relatively unreﬁned starchy staple foods.
+In terms of nutrients, Western diets are characterised by
+adequate or excessive energy intake, together with high
+intakes of protein and fat, whereas micronutrient
+deﬁciency (i.e. deﬁciency of vitamins or trace minerals)
+is much more common in developing countries. Thus, the
+search for the nutritional causes of the typical Western
+cancers has focussed mainly on excess consumption of
+macronutrients, whereas the search for the nutritional
+causes of the typical cancers of developing countries has
+focussed on deﬁcient intake of micronutrients.
+
+Case-control studies
+During the last 30 years, hundreds of studies have been
+published that have examined the association between the
+diets of individuals and their risk for developing cancer.
+Most of the earlier studies used a case-control design, in
+which people who already have cancer are asked what
+they used to eat before they were diagnosed with cancer,
+and their diets are compared with those reported by
+people without cancer (controls). These case-control
+studies are useful for searching for possible dietary effects,
+but cannot be relied on to establish moderate dietary
+associations because they are susceptible to both recall
+and selection biases: people with cancer may recall their
+diet differently from healthy people, and healthy controls
+are rarely fully representative of the base population and
+may report a relatively ‘healthy’ diet8,9. The impact of these
+biases varies between studies, especially in relation to the
+participation rate among eligible controls, but in general
+relative risks in case-control studies of up to at least 1.3
+may reﬂect bias rather than a true association.
+
+Prospective studies
+In prospective studies, dietary intakes are measured at
+recruitment and people are followed-up for cancer
+incidence, then the cancer incidence rates are compared
+between groups with different diets at baseline. This
+design eliminates the recall and selection biases to which
+case-control studies are susceptible, but other factors such
+as measurement error and confounding must be
+considered when interpreting the results of prospective
+studies (as well as case-control studies) of diet and cancer.
+Another limitation of most prospective studies is that the
+baseline dietary intake is measured at one point during
+adult life, which may not be the most relevant period in
+relation to the development of cancer over many years.
+
+Interpretation of observational studies
+Large prospective studies can establish whether or not
+there is any association between reported diet and cancer
+risk within the population studied. The main factors that
+need to be considered when interpreting results from such
+studies are measurement error and confounding.
+
+Diet, nutrition and cancer
+
+189
+
+Measurement error
+Epidemiological studies generally use a relatively short
+and simple dietary questionnaire. The validity of such
+questionnaires has been extensively investigated, and
+while it
+is clear that current assessment methods are
+moderately precise and can detect some associations of
+diet with disease risk,
+the
+measurement error is sometimes large enough to obscure
+some potentially important associations of diet with cancer
+risk. A further problem is that there are often strong
+correlations between different
+foods and nutrients,
+making it hard to attribute associations with risk to
+particular dietary factors, especially when the precision of
+the measurements is variable.
+
+is also possible that
+
+it
+
+Body mass index (the weight in kilograms divided by
+the square of the height in metres: kg/m2 ) and alcohol
+present special cases. Body mass index is not diet per se,
+but is determined by the balance of energy intake and
+energy expenditure; body mass index therefore serves as
+an indicator of chronic energy balance, and can be
+measured much more accurately and precisely in
+epidemiological studies than either energy intake or
+energy expenditure. Alcohol is not always included under
+the term diet, but alcoholic drinks do contribute a
+signiﬁcant supply of energy and some nutrients in many
+populations. Although estimates of alcohol
+intake
+they generally
+commonly suffer from underreporting,
+rank individuals much more precisely than estimates of
+intakes of other foods and nutrients.
+
+Confounding
+Observed associations of dietary factors with cancer risk
+can be confounded by other risk factors for cancer, such as
+smoking and physical activity, which are associated with
+dietary habits. In theory, confounding can be allowed for
+by statistical adjustments, but in practice this adjustment is
+never perfect because the non-dietary risk factors
+themselves are measured with some error. The possibility
+that apparent dietary associations with cancer risk are
+confounded by other risk factors, therefore, needs to be
+examined very carefully. Allowing for confounding is
+extremely important for cancers such as lung cancer, where
+smoking causes a very large increase in risk and is known
+to be associated with diet. The relationship between diet
+and other cancers needs to take into account potential
+confounding factors, such as Helicobacter pylori
+for
+stomach cancer, physical activity for colorectal cancer,
+and human papillomavirus for cervical cancer (see below).
+
+Randomised controlled trials
+Randomised controlled trials eliminate both the biases and
+the confounding which can affect observational studies
+and the results can, therefore, be conﬁdently interpreted in
+terms of cause and effect. Within the ﬁeld of diet and
+cancer, however, trials are limited by the difﬁculty of
+randomising at the level of foods, and by the constraints
+
+that only a small number of nutritional factors can be
+tested in each trial, usually for a short period. The results of
+the few large trials that have been completed are
+important, but where trials do not show an effect
+it
+remains possible that an effect would have been seen at a
+different dose, at a different time in life, or if the duration
+of the trial had been longer. Another point which should
+be considered when interpreting the results from
+randomised controlled trials is the possibility that
+the
+effect of a dietary component on cancer risk may differ
+according to the characteristics of the population studied;
+for example, the effects of a multinutrient supplement
+could be more marked in a population with a low dietary
+intake of micronutrients than in a population with a high
+dietary intake of micronutrients.
+
+Within the ﬁeld of diet and cancer,
+
+randomised
+controlled trials are most suitable for testing hypotheses
+for protective effects of speciﬁc micronutrients. An
+extensive review of these hypotheses and of the design
+and interpretation of such trials is given in the ﬁrst IARC
+Handbook of Cancer Prevention10.
+
+Review of the role of diet in the aetiology of the
+major cancers
+
+Cancers of the oral cavity, pharynx and
+oesophagus
+Cancers of the oral cavity, pharynx and oesophagus were
+estimated to account for 867,000 cases and 582,000 deaths
+in 200011. Incidence rates of these cancers vary widely
+between populations; for example, oesophageal cancer is
+over a hundred times more common in parts of Central
+Asia, China and Southern Africa than in most parts of
+Europe, North America and West Africa7. In developed
+countries, the main risk factors are alcohol and tobacco,
+and up to 75% of these cancers are attributable to these
+two lifestyle factors6. The mechanism of the effect of
+alcohol on these cancers is not known, but may involve
+direct effects on the epithelium12. Overweight/obesity is
+an established risk factor speciﬁcally for adenocarcinoma
+(but not squamous cell carcinoma) of the oesophagus13 –
+15. In developing countries, around 60% of cancers of the
+oral cavity, pharynx and oesophagus are thought to be
+due to micronutrient deﬁciencies related to a restricted
+is low in fruits and vegetables and animal
+diet
+products3,16;
+the
+evidence for a protective effect of fruits and vegetables is
+largely derived from case-control studies and there are few
+data yet from prospective studies17. The relative roles of
+various micronutrients are not yet clear, but deﬁciencies of
+riboﬂavin,
+folate, vitamin C and zinc may all be
+important3,16. There is also consistent evidence that
+consuming drinks and foods at a very high temperature
+increases the risk for these cancers18. The results of trials
+in Linxian, China, aimed at reducing oesophageal cancer
+
+it should be noted, however,
+
+that
+
+that
+
+190
+
+rates with micronutrient supplements, have been prom-
+ising but not deﬁnitive19,20.
+
+Nasopharyngeal cancer
+This is particularly common in Southeast Asia7, and has
+been consistently associated with a high intake of Chinese-
+style salted ﬁsh, especially during early childhood21,22, as
+well as with infection with the Epstein– Barr virus23.
+Chinese-style salted ﬁsh is a special product which is
+usually softened by partial decomposition before or
+during salting; other types of salted ﬁsh have been studied
+and not found to be convincingly associated with the risk
+for developing nasopharyngeal cancer22.
+
+Stomach cancer
+Stomach cancer was estimated to account for 876,000
+cases and 647,000 deaths in 200011. Until about 20 years
+ago stomach cancer was the most common cancer in the
+world, but mortality rates have been falling in all Western
+countries24 and stomach cancer
+is now much more
+common in Asia than in Europe or North America7.
+Infection with the bacterium H. pylori is an established
+risk factor, but not a sufﬁcient cause, for the develop-
+ment of stomach cancer25. Diet is also thought to be
+important in the aetiology of this disease, and dietary
+changes are implicated in the recent decline in stomach
+cancer incidence and mortality rates in many countries.
+Substantial evidence, mainly from case-control studies,
+suggests that risk is increased by high intakes of some
+traditionally preserved salted foods, especially meats and
+pickles, and with salt per se, and that risk is decreased by
+high intakes of fruits and vegetables26, perhaps due to
+their vitamin C content. However, evidence from
+prospective studies does not clearly support a protective
+effect for fruits and vegetables27,28. The introduction of
+refrigeration has also been associated with decreased
+risk, probably through reducing intakes of salted foods
+and facilitating year-round fruit and vegetable availability3.
+The results of micronutrient supplementation trials in
+developing countries have been encouraging but not
+deﬁnitive. In Linxian, China, combined supplementation
+with b-carotene, selenium and a-tocopherol resulted in a
+signiﬁcant reduction in stomach cancer mortality, but no
+signiﬁcant beneﬁt was obtained from vitamin C19. A recent
+trial
+in Colombia showed increased regression of
+precancerous gastric dysplasia both in subjects given
+b-carotene and in subjects given vitamin C29.
+
+Further prospective data are needed, in particular to
+examine whether some of the dietary associations may be
+partly confounded by H. pylori infection and whether
+dietary factors may modify the association of H. pylori
+with risk.
+
+Colorectal cancer
+Colorectal cancer is the third most common cancer in the
+world7 and was estimated to account for 945,000 cases and
+
+TJ Key et al.
+
+492,000 deaths in 200011. Incidence rates are approximately
+10-fold higher in developed than in developing countries7.
+It has been suggested that diet-related factors may account
+for up to 80% of the between-country differences in rates30.
+The best established dietary-related risk factor is over-
+weight/obesity15. Alcohol probably causes a small increase
+in risk3. Adult height, which is partly determined by the
+adequacy of nutrition in childhood and adolescence, is
+weakly associated with increased risk, and physical activity
+has been consistently associated with a reduced risk15,31.
+These factors together, however, do not explain the large
+variation between populations, and there is almost
+universal agreement that some aspects of a Western diet
+are a major determinant of risk.
+
+Meat
+International correlation studies show a strong association
+between per capita consumption of meat and colorectal
+cancer mortality5, and several mechanisms have been
+proposed through which meat may increase cancer risk.
+Mutagenic heterocyclic amines and polycyclic aromatic
+hydrocarbons can be formed during the cooking of meat
+at high temperatures32,33, and nitrites and their related
+compounds found in smoked, salted and some processed
+meat products may be converted to carcinogenic N-nitroso
+compounds in the colon34. In addition, high iron levels in
+the colon may increase the formation of mutagenic free
+radicals35. The results of observational studies of meat and
+colorectal cancer have varied3; a recent systematic review
+concluded that preserved meat
+is associated with an
+increased risk for colorectal cancer but that fresh meat is
+not36 and most studies have not observed positive
+associations with poultry or ﬁsh3. However, mortality
+rates for colorectal cancer are similar
+in Western
+vegetarians and comparable non-vegetarians37. Overall,
+the evidence is not conclusive but suggests that high
+consumption of preserved and red meat probably
+increases the risk for colorectal cancer.
+
+Fat
+As with meat, international correlation studies show a
+strong association between per capita consumption of fat
+and colorectal cancer mortality5. Possible mechanisms
+proposed to explain such an association are that a high fat
+intake may increase the levels of cytotoxic free fatty acids
+or secondary bile acids in the lumen of the large intestine.
+However, the results of observational studies of fat and
+colorectal cancer have, overall, not been supportive of an
+association with fat intake, especially after adjusting for
+total energy intake3,38.
+
+Fruits, vegetables and ﬁbre
+Burkitt39 suggested that the low rates of colorectal cancer
+in Africa were due to the high consumption of dietary
+ﬁbre, and there are several plausible mechanisms for a
+protective effect. Fibre increases stool bulk and speeds the
+
+Diet, nutrition and cancer
+
+191
+
+inhibit
+
+induce apoptosis and/or
+
+transit of food through the colon, thus diluting the gut
+contents and perhaps reducing the absorption of
+carcinogens by the colonic mucosa40. Fermentation of
+ﬁbre (and resistant starch) in the large intestine produces
+short chain fatty acids such as butyrate, which may protect
+against colorectal cancer through the ability to promote
+differentiation,
+the
+production of secondary bile acids by reducing luminal
+pH41,42. Many case-control studies of colorectal cancer
+have observed moderately lower risk in association with
+high consumption of dietary ﬁbre, and/or fruits and
+vegetables43,44, but the results of recent large prospective
+studies have been inconsistent45 – 47. Furthermore, results
+from randomised controlled trials have not shown that
+intervention over a 3 – 4 year period with supplemental
+ﬁbre or a diet low in fat and high in ﬁbre and fruits and
+vegetables can reduce the recurrence of colorectal
+adenomas48 – 50. It is possible that some of the incon-
+sistencies are due to differences between studies in the
+types of ﬁbre eaten and in the methods for classifying ﬁbre
+in food tables. Other possibilities are that the association
+with fruits and vegetables is principally due to an increase
+in risk at very low levels of consumption51, or that high
+intakes of reﬁned ﬂour or sugar (rather than low intakes of
+ﬁbre) increase risk through chronic hyperinsulinaemia or
+other mechanisms52,53. At present, the hypothesis that
+fruits, vegetables and ﬁbre may reduce the risk for
+colorectal cancer has not been ﬁrmly established.
+
+(i.e. a diet
+
+Folate
+Some recent prospective studies have suggested that a
+methyl-deplete diet
+low in folate and
+methionine and high in alcohol) is associated with an
+increased risk of colon cancer54,55. Also, use of folic acid-
+containing multiple vitamin supplements has been
+associated with lower risk of colon cancer56. A diminished
+folate status may contribute to carcinogenesis by alteration
+of gene expression and increased DNA damage57,58 and
+chromosome breakage59. The ﬁnding that a common
+polymorphism in the methylenetetrahydrofolate reductase
+gene involved in folic acid metabolism may also be
+associated with colorectal cancer60 strengthens the
+hypothesis that dietary folate may be an important factor
+in colorectal carcinogenesis.
+
+Calcium
+Another promising hypothesis is that
+relatively high
+intakes of calcium may reduce the risk for colorectal
+cancer, perhaps by forming complexes with secondary
+bile acids in the intestinal lumen3 or by inhibiting the
+hyperproliferative effects of dietary haem61. Several
+observational studies have supported this hypothesis3,4,
+and two trials have suggested that supplemental calcium
+may have a modest protective effect on the recurrence of
+colorectal adenomas50,62. More data are needed to
+evaluate this hypothesis.
+
+Cancer of the liver
+Liver cancer was estimated to account for 564,000 cases
+and 549,000 deaths in 200011. Approximately 75% of cases
+of liver cancer occur in developing countries, and liver
+cancer rates vary over 20-fold between countries, being
+much higher in sub-Saharan Africa and Southeast Asia
+than in Europe and North America7. The major risk factor
+for hepatocellular carcinoma,
+liver
+cancer, is chronic infection with hepatitis B, and to a lesser
+extent, hepatitis C virus63. Ingestion of foods contaminated
+with the mycotoxin aﬂatoxin22,64 is an important risk factor
+among people in developing countries with active
+hepatitis virus infection. Excessive alcohol consumption
+is the main diet-related risk factor for liver cancer in
+Western countries, probably via the development of
+cirrhosis and alcoholic hepatitis6. Little is known about
+possible nutritional cofactors for viral carcinogenesis, but
+this may be an important area for research3.
+
+the main type of
+
+Cancer of the pancreas
+Cancer of the pancreas was estimated to account for
+216,000 cases and 214,000 deaths in 2000 and is more
+common in Western countries than in developing
+countries7,11. Time trends suggest
+that both incidence
+and mortality for cancer of the pancreas are increasing in
+most parts of the world, although some of this apparent
+increase may be due to improvements in diagnostic
+methods6. Overweight/obesity possibly increases the
+risk3,65. Some studies have suggested that risk is increased
+by high intakes of meat, and reduced by high intakes of
+vegetables, but these data are not consistent and come
+mostly from case-control studies3. Over the next few years
+there will be substantially more prospective data on diet
+and cancer of the pancreas, and it is possible that more
+clear-cut associations with dietary factors will emerge.
+
+Lung cancer
+Lung cancer is the most common cancer in the world7 and
+was estimated to account for 1,239,000 cases and 1,103,000
+deaths in 200011. Heavy smoking increases the risk by
+around 30-fold, and smoking causes over 80% of lung
+cancers in Western countries6. The possibility that diet
+might also have an effect on lung cancer risk was raised in
+the 1970s following the observation that, after allowing for
+smoking, increased lung cancer risk was associated with a
+low dietary intake of vitamin A66. Since then, numerous
+observational studies have found that lung cancer patients
+generally report a lower intake of fruits, vegetables and
+related nutrients (such as b-carotene) than controls3,4. The
+only one of these factors to have been tested in controlled
+trials, namely b-carotene, has however, failed to produce
+any beneﬁt when given as a supplement for up to 12
+years67 – 69.
+
+The possible effect of diet on lung cancer risk remains
+controversial. Several recent observational studies have
+continued to observe an association of
+fruits and
+
+192
+
+vegetables with reduced risk, but this association has been
+weak in prospective studies70,71. This apparent relation-
+ship may be partly due to residual confounding by
+smoking, since smokers generally consume less fruits and
+vegetables than non-smokers, but there may also be some
+protective effect of these foods. In public health terms,
+however,
+the overriding priority is to reduce the
+prevalence of smoking.
+
+Breast cancer
+Breast cancer is the second most common cancer in the
+world and the most common cancer among women.
+Breast cancer was estimated to account for 1,105,000 cases
+and 373,000 deaths in women in 200011. Incidence rates
+are about ﬁve times higher in Western countries than in
+less developed countries and Japan7. Much of
+this
+international variation is due to differences in established
+reproductive risk factors such as age at menarche, parity
+and age at births, and breastfeeding72,73, but differences in
+dietary habits and physical activity may also contribute. In
+fact, age at menarche is partly determined by dietary
+factors, in that restricted dietary intake during childhood
+and adolescence leads to delayed menarche. Adult height,
+also, is weakly positively associated with risk, and is partly
+determined by dietary factors during childhood and
+adolescence72. Oestradiol and perhaps other hormones
+play a key role in the aetiology of breast cancer72, and it is
+possible that any further dietary effects on risk are
+mediated by hormonal mechanisms.
+
+Overweight/obesity
+Obesity increases breast cancer risk in postmenopausal
+women by around 50%, probably by increasing serum
+free oestradiol72. Obesity does not
+concentrations of
+increase risk among premenopausal women (perhaps
+because it frequently leads to anovular menstrual cycles),
+but obesity in premenopausal women is likely to lead to
+obesity throughout
+life and therefore to an eventual
+increase in breast cancer risk.
+
+Alcohol
+The only other established dietary risk factor for breast
+cancer is alcohol. There is now a large amount of data
+from well-designed studies which consistently shows a
+small increase in risk with increasing consumption, with
+about a 7% increase in risk for an average of one alcoholic
+drink every day74. The mechanism for this association is
+not known, but may involve increases in oestrogen
+levels75; alternatively, some recent studies suggest that the
+adverse effect of alcohol may be exacerbated by a low
+folate intake76.
+
+Fat
+Much research and controversy has surrounded the
+hypothesis that a high fat intake increases breast cancer
+risk. The best data currently available, however, do not
+
+this hypothesis77, and only limited data are
+support
+available to evaluate whether dietary fat alters circulating
+oestrogen levels78,79.
+
+TJ Key et al.
+
+Other dietary factors
+The results of studies of other dietary factors including
+meat, dairy products, fruits and vegetables, ﬁbre and
+phyto-oestrogens are inconsistent3,4,80,81.
+
+Cancer of the endometrium
+Endometrial cancer was estimated to account for 189,000
+cases and 45,000 deaths in women in 2000, with the
+highest incidence rates occurring in Western countries7,11.
+Endometrial cancer risk is about 3-fold higher in obese
+women than lean women15,82. As with breast cancer, the
+effect of obesity in postmenopausal women on the risk for
+endometrial cancer is probably mediated by the increase
+in serum concentrations of oestradiol and the reduction in
+serum concentrations of sex hormone-binding globulin; in
+premenopausal women,
+the mechanism probably
+involves the increase in anovulation and consequent
+increased exposure to oestradiol unopposed by pro-
+gesterone83. Some case-control studies have suggested
+that diets high in fruits and vegetables may reduce risk and
+that diets high in saturated or total fat may increase risk,
+but the data are limited3.
+
+Cancer of the cervix
+Cancer of the cervix was estimated to account for 471,000
+cases and 233,00 deaths in women in 200011. The highest
+rates are in sub-Saharan Africa, Central and South America,
+and south-east Asia7. The major cause of cervical cancer is
+infection with certain subtypes of the human papilloma-
+virus84. Fruits, vegetables and related nutrients such as
+carotenoids and folate tend to be inversely related with
+risk3,4, but
+these associations may be largely due to
+confounding by papillomavirus infections, smoking and
+other factors. Further research is needed, particularly on
+the possible role of folate deﬁciency3,4.
+
+Cancer of the ovary
+Cancer of the ovary was estimated to account for 192,000
+cases and 114,000 deaths in women in 200011, with the
+highest incidence rates occurring in Western countries7.
+Risk is reduced by high parity and by long-term use of
+combined oral contraceptives85. Some studies have
+suggested that risk is increased by high intakes of fat or
+dairy products, and reduced by high intakes of vegetables,
+but the data are not consistent and more prospective data
+are required to examine these possible associations3.
+
+Prostate cancer
+Prostate cancer was estimated to account for 543,000
+cases and 204,000 deaths in 200011. Prostate cancer
+incidence rates are strongly affected by diagnostic
+practices and, therefore, difﬁcult to interpret, but mortality
+
+Diet, nutrition and cancer
+
+rates show that death from prostate cancer is about ten
+times more common in North America and Europe than in
+Asia7.
+
+Little is known about the aetiology of prostate cancer,
+although ecological studies suggest that it is positively
+associated with a Western-style diet5. The data from
+prospective studies have not established causal or
+protective associations for speciﬁc nutrients or dietary
+factors3,4. Diets high in red meat, dairy products and
+animal
+fat have frequently been implicated in the
+development of prostate cancer, although the data are
+not entirely consistent3,86 – 88. Randomised controlled trials
+have provided substantial, consistent evidence that
+supplements of b-carotene do not alter the risk for
+prostate cancer67,68,89 but have suggested that vitamin E89
+and selenium90 might have a protective effect. Lycopene,
+primarily from tomatoes, has been associated with a
+reduced risk in some observational studies, but the data
+are not consistent91.
+Hormones control
+
+the growth of the prostate, and
+interventions that lower androgen levels are moderately
+effective in treating this disease. Prospective studies which
+have examined the possible associations between serum
+hormone concentrations and prostate cancer risk have
+suggested that risk may be increased by high levels of
+bioavailable androgens92,93 and of insulin-like growth
+factor-I (IGF-I)94,95, although there are not sufﬁcient data
+to consider either of these associations as established. Diet
+might affect prostate cancer risk by affecting hormone
+levels, and recent data suggest that animal protein may
+increase levels of IGF-I96,97.
+
+Bladder cancer
+Cancer of the urinary bladder was estimated to account
+for 336,000 cases and 132,000 deaths in 200011. The
+geographic variation in incidence is about 10-fold, with
+relatively high rates in Western countries7. Smoking
+increases the risk for bladder cancer6. Studies suggest
+that high intakes of fruits and vegetables may reduce risk,
+but this is not established and more prospective data are
+needed3,98,99.
+
+Kidney cancer
+Cancer of the kidney was estimated to account for 189,000
+cases and 91,000 deaths in 200011. The range of
+geographic variation in incidence is moderate, with the
+highest incidence in Scandinavia and among the Inuit6.
+Overweight/obesity is an established risk factor for cancer
+of the kidney, and may account for up to 30% of kidney
+cancers in both men and women100. There are only limited
+data on the possible role of diet in the aetiology of kidney
+cancer, but some studies have observed an increase in risk
+with high intakes of meat and dairy products and a
+reduced risk with high intakes of vegetables3.
+
+193
+
+Conclusions on the effects of diet on cancer risk
+
+Strengths and weaknesses of the evidence
+Attaining deﬁnitive evidence to conﬁrm or refute effects of
+speciﬁc dietary factors on risks of human cancers is
+challenging and for many relationships may be imposs-
+ible9. Ideally, each potential relationship would be tested
+in multiple randomised trials to achieve a clear conclusion.
+However, this is not feasible for many reasons, including
+the large number of dietary constituents that could be
+tested and the many different human cancers. In addition,
+uncertainty about the time in life and number of years
+before diagnosis that a speciﬁc aspect of diet may act
+hinders the design and interpretation of randomised trials.
+Practical problems with compliance in long-term studies
+and the need for many thousands of subjects create further
+obstacles. Finally, many dietary factors may not act in
+isolation and it may be their interaction with other dietary,
+lifestyle and/or genetic factors that may alter cell growth
+and affect cancer risk. For these and other reasons,
+randomised trials have contributed only modestly to
+present knowledge about diet and cancer, and this is likely
+to continue to be true for many years to come.
+
+The primary alternative to randomised trials is observa-
+tional studies of human cancers or their precursors,
+interpreted in the light of other evidence including
+metabolic studies, animal experiments and mechanistic
+investigations. Studies comparing rates of cancer in various
+populations and among migrants have been of prime
+importance in documenting the major role of environ-
+mental factors in the aetiology of nearly all major human
+cancers. However, from the beginning, epidemiologists
+have recognised that ﬁrm conclusions about speciﬁc
+aetiological factors cannot be based on comparisons of
+cancer rates among countries due to potential confounding
+by the multitude of lifestyle and other environmental
+factors that vary geographically. Case-control and pro-
+spective cohort studies within countries can provide better
+control of potential confounding variables, because these
+factors usually vary less within a geographic region and
+they can be measured and controlled for in statistical
+analyses. Until the last few years, case-control studies
+provided the large majority of data on diet and cancer.
+Concerns have existed that methodological biases, related
+to both the selection of study participants and the recall of
+diet after
+the diagnosis of cancer, could in some
+circumstances seriously distort the results of case-control
+studies. Now that a number of prospective studies are
+providing data on diet and cancer incidence,
+these
+concerns about
+for bias in case-control
+studies have been supported because different results have
+often been observed, even within the same study
+population8,9. At the time of the 1997 WCRF/AICR review3
+it was recognised that associations between dietary fat and
+risk of breast cancer seen in case-control studies had not
+been conﬁrmed in prospective studies with substantial
+
+the potential
+
+194
+
+statistical power. Similar differences in results have now
+been observed for fat intake in relation to incidence of
+colon and lung cancers. A major conclusion of the 1997
+review was that a greater intake of fruits and vegetables
+would substantially reduce risks of a broad range of
+cancers and decrease total cancer incidence by approxi-
+mately 20%. However, most of the evidence was derived
+from case-control studies and, again, prospective studies
+have often found no or only weak support for the earlier
+ﬁndings.
+In particular, prospective studies have not
+supported earlier suggestions for strong inverse associ-
+ations between overall intakes of fruits and vegetables and
+risks of lung and colon cancer, and little relation has been
+observed with breast cancer. Because rates of oral and
+oesophageal cancer are low in afﬂuent populations, these
+have not been adequately evaluated in prospective studies.
+Thus, conclusions regarding protective effects of fruits and
+vegetables for these cancer sites should be viewed with
+some caution until conﬁrmed in prospective studies.
+
+Although prospective cohort studies will often provide
+the best available evidence regarding diet and cancer
+relationships,
+like any study they also have potential
+limitations that should be considered in the interpretation
+of ﬁndings. As in almost all dietary studies, only a part of
+the range of possible human intakes can be investigated.
+Thus, conclusions need to be limited to the range of diets
+investigated, in part because dose– response relationships
+may be non-linear. As with randomised trials, conclusions
+about ﬁndings need to be limited to the period in life or
+interval between dietary assessment and cancer diagnosis
+that was studied. Adequate precision in measurement of
+dietary intakes is necessary to detect true associations; the
+extensive literature on validity of dietary questionnaires,
+and the ability of current dietary assessment methods to
+
+TJ Key et al.
+
+predict cardiovascular disease incidence, strongly suggest
+that major associations between dietary factors and cancer
+risk can be detected. In addition, prospective studies offer
+the opportunity for repeated measurements of dietary
+intake, which can reduce the error in measurement of
+long-term diet. However, because dietary assessments are
+inevitably imperfect and the size of study populations is
+ﬁnite, modest but still potentially important associations
+are usually impossible to exclude entirely. For some
+speciﬁc dietary factors, biochemical measurements can
+improve assessments of intake, but for many aspects of
+diet such measurements do not exist or enhance precision.
+A fundamental challenge in nutritional epidemiology is
+that foods are complex combinations of thousands of
+chemical constituents, thus isolation of the active factors
+can be difﬁcult or impossible. For this reason, conclusions
+will be most reliable for foods or food groups, although
+data on supplement use can assist
+in evaluating
+hypotheses related to speciﬁc nutrients. Because dietary
+behaviours are often associated with other aspects of
+lifestyle that could affect cancer risk, studies also need to
+be evaluated for the degree to which confounding by such
+variables has been addressed.
+
+Because all forms of studies have constraints, in most
+situations no single form of evidence will provide
+deﬁnitive conclusions regarding diet and cancer relation-
+ships. Thus, the best conclusions will be based on careful
+and critical evaluation of all forms of evidence.
+
+Summary of the evidence for dietary factors and
+human cancer
+Dietary components that we believe to be convincingly or
+probably related to the incidence of speciﬁc cancers are
+summarised in Table 1, together with other dietary factors
+
+Table 1 Diet, nutrition and cancer: levels of evidence
+
+Level of evidence
+
+Decrease risk
+
+Increase risk
+
+Convincing
+
+Physical activity (colon)
+
+Probable
+
+Fruits and vegetables (oral cavity,
+
+oesophagus, stomach, colorectum*)
+
+Physical activity (breast)
+
+Overweight and obesity (oesophagus, colorectum,
+breast in postmenopausal women, endometrium,
+kidney)
+
+Alcohol (oral cavity, pharynx, larynx,
+
+oesophagus, liver, breast)
+
+Aﬂatoxin (liver)
+Chinese-style salted ﬁsh (nasopharynx)
+
+Preserved meat and red meat
+
+(colorectum)
+
+Salt preserved foods and salt
+
+(stomach)
+
+Very hot (thermally) drinks and
+
+food (oral cavity, pharynx, oesophagus)
+
+Insufﬁcient
+
+Fibre, soya, ﬁsh, n-3 fatty acids, carotenoids, vitamins
+
+Animal fats, heterocyclic amines, polycyclic
+
+B2, B6, folate, B12, C, D, E, calcium,
+zinc, selenium, non-nutrient plant constituents
+(e.g. allium compounds, ﬂavonoids, isoﬂavones,
+lignans)
+
+aromatic hydrocarbons, nitrosamines
+
+* A protective effect of fruit and vegetable intake has been suggested by many case-control studies but has not been supported in several large prospective
+studies, suggesting that if a beneﬁt does exist it is likely to be modest.
+
+Diet, nutrition and cancer
+
+195
+
+which were considered to be possibly related to cancer
+risk but
+for which the evidence was considered
+insufﬁcient. Physical activity is also listed in Table 1
+because it is related to energy balance and overweight/-
+obesity; a full discussion of the effects of physical activity
+on cancer risk is outside the scope of this paper, therefore,
+we have based our evaluation on the conclusions in the
+IARC Handbook on Weight Control and Physical
+Activity101.
+
+may potentially inﬂuence the accumulation of body fat
+include high consumption of reﬁned carbohydrate, highly
+energy-dense food (i.e. high energy content relative to
+volume or weight of food), and low ﬁbre intake. However,
+evidence based on long-term studies for these effects of
+dietary composition is inadequate at present. Thus, at this
+time the appropriate emphasis for weight control appears
+to be limitation of excessive energy intake from any source
+and the adoption of adequate daily physical activity.
+
+Dietary factors which convincingly increase risk
+
+factor
+
+important
+
+Overweight/obesity
+The nutritional
+for which the evidence was
+considered most convincing, and for which the quantitative
+impact on overall cancer rates is most
+in
+populations with Western cancer incidence patterns, is
+overweight/obesity. Overweight/obesity is convincingly
+related to risks for cancers of the oesophagus (adenocarci-
+noma), colorectum, breast (postmenopausal), endome-
+trium and kidney. Importantly, excess risk of these cancers
+increases continuously with greater adiposity and is not
+limited to clinical obesity (BMI over 30 kg/m2). The large
+increases in endogenous estrogen levels caused by excess
+body fat among postmenopausal women probably explain
+the higher risks of postmenopausal breast and endometrial
+cancer. The mechanisms for other cancers are less clear, but
+it has been suggested that hyperinsulinaemia may increase
+the risk for colon cancer52,102. The WHO/IARC working
+group on weight control and physical activity estimated
+that in countries with high rates of cancers related to
+overweight, excess body weight (BMI over 25 kg/m2)
+accounts for approximately 39% of endometrial, 25% of
+kidney, 11% of colon, 9% of postmenopausal breast cancer
+and 5% of total cancer incidence82,101. Although these
+percentages will be lower
+in populations in some
+developing countries where virally related cancers are
+more important, the rapid increase in overweight/obesity
+in developing countries means that cancers due to
+overweight/obesity will become increasingly important
+world-wide.
+
+We recognise that overweight/obesity, a reﬂection of
+excessive energy intake, can result
+from both over-
+consumption of energy from food and low expenditure of
+energy as physical activity; the relative importance of these
+two factors can vary among individuals and populations.
+Considerable attention has been given to the possibility
+that the composition of the diet inﬂuences the probability
+of body fat accumulation and thus,
+indirectly, risk of
+cancer. Although the percentage of energy from dietary fat
+has been hypothesised to be an important determinant of
+body fat and the topic has been controversial, an
+important effect of dietary fat has not been supported in
+randomised trials lasting 1 year or more, and populations
+consuming low fat/high carbohydrate diets can clearly
+develop high rates of obesity103. Other dietary factors that
+
+Alcoholic beverages
+Another aspect of diet clearly related to cancer incidence is
+consumption of alcoholic beverages, which convincingly
+increases the risk of cancers of the oral cavity, pharynx,
+larynx, oesophagus,
+liver and breast (and probably
+colorectum). The increase in risk appears to be primarily
+due to alcohol per se rather than speciﬁc alcoholic
+beverages. Whereas most of the excess risks occurs with
+high alcohol consumption, a small (about 7%) increase in
+risk of breast cancer has been observed with approxi-
+mately one drink per day. Recent studies suggest that the
+excess risk of breast and colon cancer associated with
+alcohol consumption may be concentrated in persons with
+low folate intake.
+
+liver cancer. However,
+
+Aﬂatoxin
+Food contaminated with aﬂatoxin convincingly increases
+the risk of
+this contamination
+occurs mainly in areas where hepatitis viruses are a major
+cause of liver cancer, and the importance of aﬂatoxin in
+the absence of hepatitis virus infections (for example, after
+immunisation) is not clear.
+
+Chinese-style salted ﬁsh
+High intake of Chinese-style salted ﬁsh, predominantly
+consumed in some Asian populations, convincingly
+increases the risk of nasopharyngeal cancer.
+
+Dietary factors which probably reduce risk
+
+Fruits and vegetables
+Overall, a high intake of fruits and vegetables probably
+reduces the risks of cancers of the oral cavity, oesophagus,
+stomach and colorectum. Previous reviews of diet and
+cancer, including the 1997 WCRF/AICR review, have given
+greater emphasis to increasing fruit and vegetable
+consumption for cancer prevention, and have included
+cancers of the larynx, lung, pancreas, breast and bladder.
+At that time, however, the available literature was based
+largely on case-control studies, and subsequent prospec-
+tive studies have not supported important protective
+effects for cancers of the lung and breast, and have
+suggested that the reduction in risk for colorectal cancer
+may be modest. These discordant results, which add to
+concerns about
+for bias in case-control
+studies, also suggest the need for some caution regarding
+
+the potential
+
+196
+
+conclusions about intake of fruits and vegetables and the
+risks of oral, oesophageal and stomach cancers, which
+have not been adequately examined in large prospective
+studies. Furthermore, none of
+the dietary studies of
+stomach cancer has controlled adequately for infection by
+H. pylori, which is a potential confounding variable.
+
+Although support for a broad and strong protective
+effect of higher fruit and vegetable intake against cancer
+incidence has weakened with the results from recent
+studies, modest beneﬁts of increasing fruit and vegetable
+intake have not been excluded and probably do exist. The
+issue of dose – response is important, and some evidence
+suggests that a very low intake of fruits and vegetables,
+e.g. less than 2 servings or 200 g/d, is related to increases in
+risk compared with higher intakes, but that there may be
+little additional beneﬁt
+for intakes higher than about
+400 g/d51,81. Also,
+fruits and vegetables are extremely
+heterogeneous, and it is possible that only speciﬁc foods
+are related to risk for speciﬁc cancers. As examples, some
+studies have suggested that intake of tomato products,
+high in lycopene104, is inversely related to risk of prostate
+cancer and that cruciferous vegetable intake is inversely
+associated with bladder cancer incidence99. In these same
+studies, overall fruit and vegetable consumption was not
+associated with cancer risk. Should this be considered as
+general support
+fruits and
+vegetables, or only for more speciﬁc relationships?
+Another complexity can arise when a micronutrient in
+the form of a supplement is shown to be related to cancer
+risk. This might be construed as evidence that fruits and
+vegetables containing this factor are protective against
+cancer. However, this does not necessarily follow because
+bioavailability of micronutrients in fruits and vegetables
+might be low or antagonistic factors might be present.
+Folate may provide such an example as there is now
+considerable evidence that higher intake, mainly due to
+use of multiple vitamins, may be related to lower risks of
+colorectal and breast cancers. Also, in this situation, use of
+supplements and fortiﬁed foods could mask a beneﬁcial
+effect of fruits and vegetables if folate were an important
+protective component of these foods.
+
+for a protective effect of
+
+Preserved meat and red meat
+In many studies, high intakes of preserved meat or red
+meat have been associated with increased risk of
+colorectal cancer, whereas the total fat content of the
+diet does not appear to be related to risk. The components
+of preserved and red meat that might increase colorectal
+cancer
+risk are not established; heterocyclic amines
+created by cooking, haeme iron, and speciﬁc fatty acids
+have been proposed as explanations.
+
+Salt preserved foods and salt
+High intakes of salt-preserved foods and of salt probably
+increases the risk of stomach cancer. Convincing evidence
+would require conﬁrmation in prospective studies and
+
+TJ Key et al.
+
+evidence that this relationship was not confounded by H.
+pylori infection. Notably, stomach cancer rates in the US
+are now very low even though salt intake is not.
+
+Very hot drinks and foods
+Consumption of very hot drinks and foods typically
+consumed in some cultures probably increases risk of
+cancers of the oral cavity, pharynx and oesophagus.
+
+Cancers not included in table
+For cancers of the pancreas, lung, cervix and ovary, we did
+not consider these to be convincing or probable evidence
+of a dietary relationship. In earlier reviews, evidence had
+been considered stronger for a protective effect of fruit
+and vegetable consumption against
+lung cancer risk.
+However, more recent prospective studies have found
+weaker associations, and residual confounding by
+cigarette smoking remains a concern. Although a weak
+relation with fruit and vegetable intake is possible,
+avoidance of smoking is the only effective way to
+substantially reduce lung cancer rates.
+
+Diets very high in starch and low in overall
+micronutrient intake, consumed by poor populations in
+many countries, have been associated with increased risks
+of oral and oesophageal cancers. Isolation of the speciﬁc
+micronutrients responsible has been elusive, but an
+overall
+these poverty-related diets is
+clearly warranted for health in general.
+
+improvement of
+
+Conclusions on dietary factors and cancer
+Since the 1981 Doll and Peto review on diet and cancer
+mortality1, about one third of cancers have generally been
+thought
+to be related to dietary factors. More recent
+evidence suggests that this number may be too high, but a
+revised quantitative estimate is beyond the scope of this
+review. Among the diet-related factors, overweight/obesity
+convincingly increases the risks of several common
+cancers. After tobacco, overweight/obesity appears to be
+the most
+in
+populations with Western patterns of cancer incidence.
+Among non-smoking individuals in these populations,
+avoidance of overweight is the most important strategy for
+cancer prevention.
+
+important avoidable cause of cancer
+
+Policy implications
+
+Public health policy with respect to nutrition and cancer
+should be based on the best available scientiﬁc research.
+In the previous section, we concluded that few dietary
+effects on cancer risk have been established. Avoiding
+overweight/obesity, limiting alcohol intake and increasing
+physical activity will reduce cancer risk, as will limiting
+consumption of Chinese-style salted ﬁsh and minimising
+dietary exposure to aﬂatoxin in populations where these
+dietary factors are important. Risk will probably be
+decreased by increasing the average intake of fruits and
+
+Diet, nutrition and cancer
+
+Table 2 Diet, nutrition and cancer: recommendations
+
+1.
+
+2.
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+Maintain BMI in range of
+18.5– 25 kg/m2, and avoid weight gain
+in adulthood
+Engage in regular physical activity
+Consumption of alcoholic beverages is
+not recommended: if consumed, do
+not exceed 2 units/d (1 unit is equivalent to approximately
+10 g of alcohol and is
+provided by one glass of
+beer, wine or spirits)
+Minimise exposure to aﬂatoxin in
+foods
+Chinese-style salted ﬁsh should only
+be eaten in moderation, especially
+during childhood. Overall consumption of
+salt-preserved foods and salt should
+be moderate
+Have a diet which includes
+at least 400 g/d of total fruit and
+vegetables
+Meat: those who are not
+vegetarian are advised to moderate
+consumption of preserved meat (e.g.
+sausages, salami, bacon, ham etc.)
+and red meat (e.g. beef,
+pork, lamb). Poultry and ﬁsh
+(except Chinese-style salted ﬁsh, see
+5. above) have been studied
+and found not to be
+associated with increased cancer risk
+Do not consume foods or
+drinks when they are at
+a very hot (scalding hot)
+temperature
+
+vegetables, and by limiting intake of preserved and red
+meat, salt preserved foods and salt, and very hot drinks
+and food. Public health policy should,
+therefore, be
+focussed on these factors (Table 2). If other dietary factors
+are established to affect cancer risk then these can be
+added to existing policy frameworks, but at present the
+other potentially important dietary factors are not
+sufﬁciently well supported by evidence, and including
+them in policy would risk confusing priorities and
+diverting attention from the really important issues.
+
+Acknowledgements
+
+for
+
+this paper was prepared as a
+An earlier version of
+the Joint WHO/FAO Expert
+background paper
+Consultation on diet, nutrition and the porevention of
+chronic diseases (Geneva, 28 January – 1 February 2002).
+The authors wish to thank Professor Tony McMichael,
+National Centre for Epidemiology and Population Health,
+Australia National University, Canberra, Australia, Dr Larry
+N.Kolonel, Cancer Research Center of Hawaii, University
+of Hawaii, Honolulu, USA, Dr Shaw Watanabe, Depart-
+ment of Nutrition and Epidemiology, Tokyo University of
+Agriculture, Tokyo, Japan, and Dr Shoichiro Tsugane,
+Epidemiology & Biostatistics Division, National Cancer
+Center Research Institute, Kashiwa-City, Japan, for their
+thoughtful and constructive comments on the earlier
+
+manuscript. The authors are particularly thankful to Dr
+Elio Riboli, International Agency for Research on Cancer
+(IARC), Lyon, France,
+for his valuable help and
+contributions during the drafting of the manuscript.
+
+197
+
+References
+
+1 Doll R, Peto R. The causes of cancer: quantitative estimates
+of avoidable risks of cancer in the United States today.
+the National Cancer Institute 1981; 66:
+Journal of
+1191– 308.
+
+2 Miller AB. Diet in cancer prevention. http://www.who.int/
+ncd/cancer/publications/abstracts/abs9810_05 (accessed
+2001).
+
+3 World Cancer Research Fund. Food, Nutrition, and the
+Prevention of Cancer: A Global Perspective. Washington,
+DC: American Institute for Cancer Research, 1997.
+
+4 COMA. Nutritional Aspects of the Development of Cancer
+(Report of the Working Group on Diet and Cancer of the
+Committee on Medical Aspects of Food and Nutrition
+Policy). London: The Stationery Ofﬁce, 1998.
+
+5 Armstrong B, Doll R. Environmental factors and cancer
+incidence and mortality in different countries, with special
+reference to dietary practices. International Journal of
+Cancer 1975; 15: 617 –31.
+
+6 International Agency for Research on Cancer. Cancer:
+Causes, Occurrence and Control. IARC Scientiﬁc Publi-
+cations No. 100. Lyon: IARC, 1990.
+
+7 FerIay J, Bray P, Pisani P, Parkin DM. Globocan 2000:
+Cancer incidence, mortality and prevalence worldwide,
+Version 1.0. IARC CancerBase No. 5. http://www-dep.iarc.
+fr/globocan/globocan.html (accessed Nov 3, 2001).
+
+8 Giovannucci E, Stampfer MJ, Colditz GA, et al. A
+comparison of prospective and retrospective assessments
+of diet in the study of breast cancer. American Journal of
+Epidemiology 1993; 137: 502 – 11.
+
+9 Willett WC. Nutritional Epidemiology. New York: Oxford
+
+10
+
+University Press, 1998.
+International Agency for Research on Cancer. Principles of
+Chemoprevention. IARC Scientiﬁc Publications No. 139.
+Lyon: IARC, 1996.
+
+11 Parkin DM, Bray F, Ferlay J, Pisani P. Estimating the world
+cancer burden: Globocan 2000. International Journal of
+Cancer 2001; 94: 153 – 6.
+International Agency for Research on Cancer.
+IARC
+Monographs on the Evaluation of Carcinogenic Risks to
+Humans, vol. 44. Alcohol drinking. Lyon: IARC, 1988.
+
+12
+
+13 Brown LM, Swanson CA, Gridley G, et al. Adenocarcinoma
+of the esophagus: role of obesity and diet. Journal of the
+National Cancer Institute 1995; 87: 104 –9.
+
+14 Cheng KK, Sharp L, McKinney PA, et al. A case-control
+study of oesophageal adenocarcinoma in women: a
+preventable disease. British Journal of Cancer 2000; 83:
+127 – 32.
+International Agency for Research on Cancer. Overweight
+and lack of exercise linked to increased cancer risk. IARC
+Handbooks of Cancer Prevention. vol. 6. Geneva: World
+Health Organisation, 2002.
+
+15
+
+16 World Health Organisation:
+
+International Agency for
+Research on Cancer. Cancer: Causes, Occurrence and
+Control. Lyon: IARC, 1990.
+Steinmetz KA, Potter JD. Vegetables,
+fruit, and cancer
+prevention: a review. Journal of the American Dietetic
+Association 1996; 96: 1027 –39.
+Sharp L, Chilvers CE, Cheng KK, et al. Risk factors for
+squamous cell carcinoma of the oesophagus in women: a
+case-control study. British Journal of Cancer 2001; 85:
+1667 – 70.
+
+17
+
+18
+
+198
+
+19 Blot WJ, Li JY, Taylor PR, et al. Nutrition intervention trials
+in Linxian, China: supplementation with speciﬁc vitamin/
+mineral combinations, cancer
+incidence, and disease-
+speciﬁc mortality in the general population. Journal of
+the National Cancer Institute 1993; 85: 1483 – 92.
+Li JY, Taylor PR, Li B, et al. Nutrition intervention trials in
+Linxian, China: multiple vitamin/mineral supplementation,
+cancer incidence, and disease-speciﬁc mortality among
+adults with esophageal dysplasia. Journal of the National
+Cancer Institute 1993; 85: 1492 – 8.
+
+20
+
+21 Yu MC. Nasopharyngeal carcinoma: epidemiology and
+dietary factors. In: O’Neill IK, Chen J, Bartsch H, eds.
+Relevance to Human Cancer of N-nitroso Compounds,
+Tobacco Smoke and Mycotoxins. IARC Scientiﬁc Publi-
+cations No. 105. Lyon: 1ARC, 1991, 39– 47.
+International Agency for Research on Cancer.
+IARC
+Monographs on the Evaluation of Carcinogenic Risks to
+Humans, vol 56. Some Naturally Occurring Substances:
+Food Items and Constituents, Heterocyclic Aromatic
+Amines and Mycotoxins. Lyon: IARC, 1993.
+
+22
+
+23 Doll R, Peto R. Epidemiology of cancer. In: Weatherall DJ,
+Ledingham JGG, Warrell DA, eds. Oxford Textbook of
+Medicine. Oxford: Oxford University Press, 1996, 197 –221.
+24 World Health Organisation. World Health Statistics Annual.
+
+http://www.who.int/whosis/ (accessed Nov 10, 2001).
+
+25 Helicobacter and Cancer Collaborative Group. Gastric
+cancer and Helicobacter pylori: a combined analysis of 12
+case control studies nested within prospective cohorts. Gut
+2001; 49: 347 – 53.
+
+26 Palli D. Epidemiology of gastric cancer: an evaluation of
+Journal of Gastroenterology 2000;
+
+available evidence.
+35(Suppl. 12): 84 –9.
+
+27 McCullough ML, Robertson AS, Jacobs EJ, Chao A, Calle EE,
+Thun MJ. A prospective study of diet and stomach cancer
+mortality in United States men and women. Cancer
+Epidemiology Biomarkers & Prevention 2001; 10: 1201 – 5.
+28 Botterweck AA, van den Brandt PA, Goldbohm RA. A
+prospective cohort study on vegetable and fruit consump-
+tion and stomach cancer risk in The Netherlands. American
+Journal of Epidemiology 1998; 148: 842 –53.
+
+29 Correa P, Fontham ET, Bravo JC, et al. Chemoprevention of
+gastric dysplasia: randomized trial of antioxidant sup-
+plements and anti-Helicobacter pylori therapy. Journal of
+the National Cancer Institute 2000; 92: 1881 – 8.
+
+30 Cummings JH, Bingham SA. Diet and the prevention of
+
+cancer. British Medical Journal 1998; 317: 1636– 40.
+
+31 Hardman AE. Physical activity and cancer risk. Proceeding
+
+of the Nutrition Society 2001; 60: 107 – 13.
+
+32 Gooderham NJ, Murray S, Lynch AM, et al. Assessing
+human risk to heterocyclic amines. Mutation Research
+1997; 376: 53– 60.
+
+33 Kazerouni N, Sinha R, Hsu CH, Greenberg A, Rothman N.
+Analysis of 200 food items for benzo[a]pyrene and
+estimation of its intake in an epidemiologic study. Food
+Chemistry and Toxicology 2001; 39: 423 – 36.
+
+35
+
+34 Bingham SA, Pignatelli B, Pollock JR, et al. Does increased
+endogenous formation of N-nitroso compounds in the
+human colon explain the association between red meat and
+colon cancer? Carcinogenesis 1996; 17: 515 – 23.
+Lund EK, Wharf SG, Fairweather-Tait SJ,
+Johnson IT.
+Oral
+ferrous sulfate supplements increase the free
+radical-generating capacity of feces from healthy volun-
+teers. American Journal of Clinical Nutrition 1999; 69:
+250 –5.
+
+36 Norat T, Lukanova A, Ferrari P, Riboli E. Meat consumption
+and colorectal cancer risk: a dose– response meta-analysis
+of epidemiological studies.
+Journal of
+Cancer 2002; 98: 241 – 56.
+
+International
+
+37 Key TJ, Fraser GE, Thorogood M, et al. Mortality in
+vegetarians and non-vegetarians: a collaborative analysis of
+
+TJ Key et al.
+
+8300 deaths among 76,000 men and women in ﬁve
+prospective studies. Public Health Nutrition 1998; 1:
+33– 41.
+
+38 Howe GR, Aronson KJ, Benito E, et al. The relationship
+between dietary fat intake and risk of colorectal cancer:
+evidence from the combined analysis of 13 case-control
+studies. Cancer Causes & Control 1997; 8: 215 – 28.
+
+39 Burkitt DP. Related disease—related cause? Lancet 1969; 2:
+
+40
+
+1229 –31.
+La Vecchia C. Diet and human cancer: a review. European
+Journal of Cancer Prevention 2001; 10: 177 –81.
+
+41 Hague A, Elder DJ, Hicks DJ, Paraskeva C. Apoptosis in
+colorectal tumour cells: induction by the short chain fatty
+acids butyrate, propionate and acetate and by the bile salt
+deoxycholate. International Journal of Cancer 1995; 60:
+400 – 6.
+
+42 Nagengast FM, Grubben MJ, van Munster IP. Role of bile
+acids in colorectal carcinogenesis. European Journal of
+Cancer 1995; 31A: 1067 –70.
+
+43 Potter JD, Steinmetz K. Vegetables, fruit and phytoestro-
+gens as preventive agents. In: Stewart BW, McGregor D,
+eds. Principles of Chemoprevention.
+IARC Scientiﬁc
+Publication No. 139. Lyon: 1ARC, 1996, 61– 90.
+Jacobs DRJ, Marquart L, Slavin J, Kushi LH. Whole-grain
+intake and cancer: an expanded review and meta-analysis.
+Nutrition and Cancer 1998; 30: 85– 96.
+
+44
+
+45 Bueno De Mesquita HB, Ferrari P, Riboli E, on behalf of
+EPIC. Plant foods and the risk of colorectal cancer in
+Europe: preliminary ﬁndings. IARC Scientiﬁc Publications
+Series. 2002; 156: 89–95.
+
+46 Fuchs CS, Giovannucci EL, Colditz GA, et al. Dietary ﬁber
+and the risk of colorectal cancer and adenoma in women.
+New England Journal of Medicine 1999; 340: 169 – 76.
+
+47 Michels KB, Edward G, Joshipura KJ, et al. Prospective
+study of fruit and vegetable consumption and incidence of
+colon and rectal cancers. Journal of the National Cancer
+Institute 2000; 92: 1740 – 52.
+Schatzkin A, Lanza E, Corle D, et al. Lack of effect of a low-
+fat, high-ﬁber diet on the recurrence of colorectal
+adenomas. Polyp Prevention Trial Study Group. New
+England Journal of Medicine 2000; 342: 1149 –55.
+
+48
+
+49 Alberts DS, Martinez ME, Roe DJ, et al. Lack of effect of a
+high-ﬁber cereal supplement on the recurrence of color-
+ectal adenomas. Phoenix Colon Cancer Prevention
+Physicians’ Network. New England Journal of Medicine
+2000; 342: 1156 – 62.
+
+50 Bonithon-Kopp C, Kronborg O, Giacosa A, Rath U, Faivre J.
+Calcium and ﬁbre supplementation in prevention of
+colorectal adenoma recurrence: a randomised intervention
+trial. European Cancer Prevention Organisation Study
+Group. Lancet 2000; 356: 1300 – 6.
+
+51 Terry P, Giovannucci E, Michels KB, et al. Fruit, vegetables,
+dietary ﬁber, and risk of colorectal cancer. Journal of the
+National Cancer Institute 2001; 93: 525 – 33.
+
+52 McKeown-Eyssen G. Epidemiology of colorectal cancer
+revisited: are serum triglycerides and/or plasma glucose
+associated with risk? Cancer Epidemiology Biomarkers &
+Prevention 1994; 3: 687 –95.
+
+53 Franceschi S, Dal Maso L, Augustin L, et al. Dietary glycemic
+load and colorectal cancer risk. Annals of Oncology 2001;
+12: 173 – 8.
+
+54 Giovannucci E, Rimm EB, Ascherio A, Stampfer MJ, Colditz
+GA, Willett WC. Alcohol, low-methionine, low-folate diets,
+and risk of colon cancer in men. Journal of the National
+Cancer Institute 1995; 87: 265 – 73.
+
+55 Glynn SA, Albanes D, Pietinen P, et al. Alcohol consump-
+tion and risk of colorectal cancer in a cohort of Finnish
+men. Cancer Causes & Control 1996; 7: 214 – 23.
+
+56 Giovannucci E, Stampfer MJ, Colditz GA, et al. Multivitamin
+use, folate, and colon cancer in women in the Nurses’
+
+Diet, nutrition and cancer
+
+Health Study. Annals of Internal Medicine 1998; 129:
+517 – 24.
+
+57 Choi SW, Mason JB. Folate and carcinogenesis: an
+integrated scheme. Journal of Nutrition 2000; 130: 129 –32.
+58 Potter JD. Colorectal cancer: molecules and populations.
+Journal of the National Cancer Institute 1999; 91: 916 –32.
+59 Blount BC, Mack MM, Wehr CM, et al. Folate deﬁciency
+causes uracil misincorporation into human DNA and
+chromosome breakage:
+implications for cancer and
+neuronal damage. Proceedings of the National Academy
+of Sciences of the United States of America 1997; 94:
+3290 –5.
+
+60 Ma J, Stampfer MJ, Christensen B, et al. A polymorphism of
+the methionine synthase gene: association with plasma
+folate, vitamin B12, homocyst(e)ine, and colorectal cancer
+risk. Cancer Epidemiology Biomarkers & Prevention 1999;
+8: 825 –9.
+Sesink AL, Termont DS, Kleibeuker JH, Van Der Meer R.
+Red meat and colon cancer: dietary haem-induced colonic
+cytotoxicity and epithelial hyperproliferation are inhibited
+by calcium. Carcinogenesis 2001; 22: 1653 – 9.
+
+61
+
+63
+
+62 Baron JA, Beach M, Mandel JS, et al. Calcium supplements
+and colorectal adenomas. Polyp Prevention Study Group.
+Annals of the New York Academy of Sciences 1999; 889:
+138 – 45.
+International Agency for Research on Cancer.
+IARC
+Monographs on the Evaluation of Carcinogenic Risks to
+Humans, vol 59. Hepatitis Viruses. Lyon: IARC, 1994.
+Saracco G. Primary liver cancer is of multifactorial origin:
+importance of hepatitis B virus infection and dietary
+aﬂatoxin.
+Journal of Gastroenterology and Hepatology
+1995; 10: 604 – 8.
+
+64
+
+65 Michaud DS, Giovannucci E, Willett WC, Colditz GA,
+Stampfer MJ, Fuchs CS. Physical activity, obesity, height,
+and the risk of pancreatic cancer. Journal of the American
+Medical Association 2001; 286: 921 – 9.
+
+66 Bjelke E. Dietary vitamin A and human lung cancer.
+
+International Journal of Cancer 1975; 15: 561 –5.
+
+67 Hennekens CH, Buring JE, Manson JE, et al. Lack of effect
+of long-term supplementation with beta carotene on the
+incidence of malignant neoplasms and cardiovascular
+disease. New England Journal of Medicine 1996; 334:
+1145 –9.
+
+68 Omenn GS, Goodman GE, Thornquist MD, et al. Effects of a
+combination of beta carotene and vitamin A on lung cancer
+and cardiovascular disease. New England Journal of
+Medicine 1996; 334: 1150 –5.
+
+69 The Alpha-Tocopherol Beta Carotene Cancer Prevention
+Study Group. The effect of vitamin E and beta carotene on
+the incidence of lung cancer and other cancers in male
+smokers. New England Journal of Medicine 1994; 330:
+1029 –35.
+
+70 Feskanich D, Ziegler RG, Michaud DS, et al. Prospective
+study of fruit and vegetable consumption and risk of lung
+cancer among men and women. Journal of the National
+Cancer Institute 2000; 92: 1812– 23.
+
+71 Voorrips LE, Goldbohm RA, Verhoeven DT, et al. Vegetable
+and fruit consumption and lung cancer
+risk in the
+Netherlands Cohort Study on diet and cancer. Cancer
+Causes & Control 2000; 11: 101 – 15.
+
+72 Key TJ, Verkasalo PK, Banks E. Epidemiology of breast
+
+cancer. Lancet Oncology 2001; 2: 133 – 40.
+
+73 Collaborative Group on Hormonal Factors in Breast Cancer.
+Breastfeeding and breast cancer: collaborative reanalysis of
+individual data from 47 epidemiological studies in 30
+countries, including 50,302 women with breast cancer and
+the disease. Lancet 2002; 360:
+96,973 women without
+187 – 95.
+
+74 Collaborative group on hormonal factors in breast cancer.
+Alcohol, tobacco and breast cancer-collaborative reanalysis
+
+of
+individual data from 53 epidemiological studies,
+including 58,515 women with breast cancer and 95,067
+women without the disease. British Journal of Cancer
+2002; 87: 1234– 45.
+
+199
+
+76
+
+75 Dorgan JF, Baer DJ, Albert PS, et al. Serum hormones and
+the alcohol-breast cancer association in postmenopausal
+women. Journal of the National Cancer Institute 2001; 93:
+710 – 5.
+Sellers TA, Kushi LH, Cerhan JR, et al. Dietary folate intake,
+alcohol, and risk of breast cancer in a prospective study of
+postmenopausal women. Epidemiology 2001; 12: 420 – 8.
+Smith-Warner SA, Spiegelman D, Adami HO, et al. Types
+of dietary fat and breast cancer: a pooled analysis of
+cohort studies. International Journal of Cancer 2001; 92:
+767 – 74.
+
+77
+
+78 Wu AH, Pike MC, Stram DO. Meta-analysis: dietary fat
+intake, serum estrogen levels, and the risk of breast cancer.
+Journal of the National Cancer Institute 1999; 91: 529 – 34.
+79 Holmes MD, Spiegelman D, Willett WC, et al. Dietary fat
+intake and endogenous sex steroid hormone levels in
+postmenopausal women.
+Journal of Clinical Oncology
+2000; 18: 3668– 76.
+
+80 Key TJ, Allen NE. Nutrition and breast cancer. The Breast
+
+81
+
+2001; 10(Suppl. 3): 9– 13.
+Smith-Warner SA, Spiegelman D, Yaun SS, et al. Intake of
+fruits and vegetables and risk of breast cancer: a pooled
+analysis of cohort studies. Journal of the American Medical
+Association 2001; 285: 769 – 76.
+
+82 Bergstrom A, Pisani P, Tenet V, Wolk A, Adami HO.
+Overweight as an avoidable cause of cancer in Europe.
+International Journal of Cancer 2001; 91: 421 – 30.
+
+83 Key TJ, Pike MC. The dose –effect relationship between
+‘unopposed’ oestrogens and endometrial mitotic rate: its
+central role in explaining and predicting endometrial
+cancer risk. British Journal of Cancer 1988; 57: 205 – 12.
+International Agency for Research on Cancer.
+IARC
+Monographs on the Evaluation of Carcinogenic Risks to
+Humans, vol 64. Human Papillomaviruses. Lyon: IARC,
+1995.
+
+84
+
+86
+
+85 Banks E, Beral V, Reeves G. The epidemiology of epithelial
+Journal of
+
+ovarian cancer: a review.
+Gynecological Cancer 1997: 425 – 38.
+Schuurman AG, van den Brandt PA, Dorant E, Goldbohm
+RA. Animal products, calcium and protein and prostate
+cancer risk in The Netherlands Cohort Study. British
+Journal of Cancer 1999; 80: 1107– 13.
+
+International
+
+87 Chan JM, Stampfer MJ, Ma J, Gann PH, Gaziano JM,
+Giovannucci EL. Dairy products, calcium, and prostate
+cancer risk in the Physicians’ Health Study. American
+Journal of Clinical Nutrition 2001; 74: 549 – 54.
+
+88 Michaud DS, Augustsson K, Rimm EB, Stampfer MJ, Willett
+WC, Giovannucci E. A prospective study on intake of
+animal products and risk of prostate cancer. Cancer Causes
+& Control 2001; 12: 557 – 67.
+
+89 Heinonen OP, Albanes D, Virtamo J, et al. Prostate
+cancer and supplementation with alpha-tocopherol
+and beta-carotene: incidence and mortality in a controlled
+trial. Journal of the National Cancer Institute 1998; 90:
+440 – 6.
+
+90 Clark LC, Dalkin B, Krongrad A, et al. Decreased incidence
+of prostate cancer with selenium supplementation: results
+of a double-blind cancer prevention trial. British Journal of
+Urology 1998; 81: 730 – 4.
+91 Kristal AR, Cohen JH.
+
+tomatoes,
+lycopene, and prostate cancer. How strong is the evidence?
+American Journal of Epidemiology 2000; 151: 124 – 7.
+
+Invited commentary:
+
+92 Eaton NE, Reeves GK, Appleby PN, Key TJ. Endogenous
+sex hormones and prostate cancer: a quantitative review of
+prospective studies. British Journal of Cancer 1999; 80:
+930 – 4.
+
+200
+
+93 Gann PH, Hennekens CH, Ma J, Longcope C, Stampfer MJ.
+Prospective study of sex hormone levels and risk of
+prostate cancer. Journal of the National Cancer Institute
+1996; 88: 1118 –26.
+
+95
+
+94 Chan JM, Stampfer MJ, Giovannucci E, et al. Plasma insulin-
+like growth factor-I and prostate cancer risk: a prospective
+study. Science 1998; 279: 563 –6.
+Stattin P, Bylund A, Rinaldi S, et al. Plasma insulin-like
+growth factor-I, insulin-like growth factor-binding proteins
+and prostate cancer risk: a prospective study. Journal of the
+National Cancer Institute 2000; 92: 1910 –7.
+
+96 Allen NE, Appleby PN, Davey GK, Key TJ. Hormones and
+diet: low insulin-like growth factor-I but normal bioavail-
+able androgens in vegan men. British Journal of Cancer
+2000; 83: 95– 7.
+
+97 Heaney RP, McCarron DA, Dawson-Hughes B, et al. Dietary
+changes favorably affect bone remodeling in older adults.
+Journal of the American Dietetic Association 1999; 99:
+1228– 33.
+
+98 Zeegers MP, Goldbohm RA, van den Brandt PA. Consump-
+tion of vegetables and fruits and urothelial cancer
+incidence: a prospective study. Cancer Epidemiology
+Biomarkers & Prevention 2001; 10: 1121 – 8.
+
+99 Michaud DS, Spiegelman D, Clinton SK, Rimm EB, Willett
+WC, Giovannucci EL. Fruit and vegetable intake and
+incidence of bladder cancer
+in a male prospective
+cohort. Journal of the National Cancer Institute 1999; 91:
+605 –13.
+
+100 Bergstrom A, Hsieh CC, Lindblad P, Lu CM, Cook NR, Wolk
+A. Obesity and renal cell cancer—a quantitative review.
+British Journal of Cancer 2001; 85: 984 – 90.
+International Agency for Research on Cancer.
+IARC
+Handbooks of Cancer Prevention. Vol 6. Weight Control
+and Physical Activity. Lyon: IARC, 2002.
+
+101
+
+102 Giovannucci E. Insulin and colon cancer. Cancer Causes &
+
+Control 1995; 6: 164 – 79.
+
+103 Willett WC. Is dietary fat a major determinant of body fat?
+American Journal of Clinical Nutrition 1998; 67:
+556S– 62S.
+
+104 Giovannucci E, Clinton SK. Tomatoes,
+
+lycopene, and
+prostate cancer. Proceedings of the Society for Experimental
+Biology and Medicine 1998; 218: 129 – 39.
+
+Note added in press—acrylamide
+
+Acrylamide is a chemical classiﬁed by the International
+Agency for Research on Cancer as a probable human
+carcinogen1. This classiﬁcation is based on experiments in
+rats and mice, which show that high doses of acrylamide
+increase the risk for several cancers, including cancers of
+the lung, mammary gland, thyroid and oral cavity. In 2002, a
+
+TJ Key et al.
+
+Swedish food survey reported that common foods such as
+fried potatoes, potato crisps (chips), bread and breakfast
+cereals contain moderately high levels of acrylamide2.
+Subsequent studies showed that acrylamide is generated
+when the amino acid asparagine is heated above 1008C in
+the presence of sugars; potatoes and cereals are both rich in
+asparagine3,4. Moderate acrylamide levels in common
+foods have now been reported from several countries, and
+these ﬁndings have raised concern that dietary acrylamide
+may increase cancer risk in humans5. The intake of
+acrylamide from food may be several hundred-fold lower
+than the lowest dose at which adverse effects have been
+observed in rats6, and at the time of writing ( January 2003)
+the only information concerning cancer risk in humans
+comes from a case-control study in Sweden7. This study
+estimated acrylamide intake from the reported intake of 10
+foods, and observed no evidence that increasing intake of
+food sources of acrylamide was associated with the risk for
+cancers of the colorectum, kidney or bladder. Although
+these ﬁrst results are moderately reassuring, more data are
+urgently needed from studies using questionnaires
+validated for estimating acrylamide intake, or biomarkers
+of acrylamide exposure.
+
+Further reading
+
+1 International Agency for Research in Cancer. Acrylamide.
+IARC Monographs on the Evaluation of Carcinogenic Risks to
+Humans 1994; 60: 389 –433.
+
+2 Tarake E, Rydberg P, Karlsson P, Eriksson S, To¨rnqvist M.
+Analysis of acrylamide, a carcinogen formed in heated
+foodstuffs. Journal of Agricultural and Food Chemistry 2002;
+50: 4998 – 5006.
+
+3 Mottram DS, Wedzicha BL, Dodson AT. Food chemistry:
+acrylamide is formed in the Maillard reaction. Nature 2002;
+419: 448 –9.
+
+4 Stadler RH, Blank I, Varga N, et al. Food chemistry: acrylamide
+from Maillard reaction products. Nature 2002; 419: 449 – 50.
+5 Food and Agriculture Organization/ World Health Organiz-
+ation. FAO/WHO Consultation on the Health Implications or
+Acrylamide in Food: Summary Report. Geneva: WHO, 2002.
+6 Shaw I, Thomson B. Acrylamide food risk. Lancet 2003; 361:
+
+434.
+
+7 Mucci LA, Dickman PW, Steineck G, Adami H-O, Augustsson
+K. Dietary acrylamide and cancer of the large bowel, kidney,
+and bladder: absence of an association in a population-based
+study in Sweden. British Journal of Cancer 2003; 88: 84– 9.
+
+

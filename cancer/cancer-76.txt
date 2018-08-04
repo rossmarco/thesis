@@ -1,0 +1,755 @@
+The Journal of Nutrition
+Nutritional Epidemiology
+
+Dietary Energy Density Is Positively Associated
+with Risk of Pancreatic Cancer in Urban
+Shanghai Chinese1,2
+Jing Wang,3 Wei Zhang,3 Lu Sun,3 Herbert Yu,4 Quan-Xing Ni,5 Harvey A. Risch,6 and Yu-Tang Gao3*
+
+3Department of Epidemiology, Shanghai Cancer Institute, Renji Hospital, Shanghai Jiaotong University School of Medicine, Shanghai,
+China; 4Epidemiology Program, University of Hawaii Cancer Center, Honolulu, HI; 5Department of Pancreatic and Hepatobiliary
+Surgery, Fudan University Shanghai Cancer Center, Shanghai, China; and 6Department of Epidemiology, Yale School of Public Health
+and Yale Cancer Center, New Haven, CT
+
+Abstract
+
+Regular consumption of energy-dense foods predisposes to obesity and type 2 diabetes, both of which are suggested risk
+
+factors for pancreatic cancer. The aim of this study was to investigate whether energy density of foods is an independent
+
+risk factor for pancreatic cancer. In this population-based case-control study in urban Shanghai, 908 patients with pancreatic
+
+cancer and 1067 normal controls, aged 35–79 y, were recruited. The energy density for overall diet was calculated from food-
+
+frequency questionnaire data. Energy density (adjusted for age, sex, and total energy intake) was signiﬁcantly higher in cases
+(6.08 6 0.04 kJ/g) than in controls (5.91 6 0.04 kJ/g) (P = 0.003). Energy density was positively associated with pancreatic
+cancer risk (OR: 1.16 per unit increase; 95% CI: 1.07, 1.27; P < 0.001). In adjusted analysis, the risk of pancreatic cancer was
+72% greater (OR: 1.72; 95% CI: 1.25, 2.35; P = 0.001) in the highest quintile of energy density compared with the lowest
+
+quintile. In this case-control study, dietary energy density is positively associated with risk of pancreatic cancer. This
+
+association should be further investigated in prospective studies. J. Nutr. 143: 1626–1629, 2013.
+
+Introduction
+
+Pancreatic cancer is one of the most aggressive cancers, with a
+median survival time <6 mo (1). The incidence rate of pancreatic
+cancer in urban Shanghai increased >2-fold from 1973 to 2000
+(2). However, little is known about its etiology and risk factors.
+Dietary energy density (DED) is deﬁned as the amount of
+energy theoretically able to be metabolized per unit weight of
+food (3). High energy density, as demonstrated by both short-
+and long-term intervention trials, can lead to increased energy
+intake and weight gain (3–5). Wang et al. (6) showed in the large
+prospective European Prospective Investigation into Cancer and
+Nutrition (EPIC) study that low dietary energy density was as-
+sociated with a decreased risk of incident type 2 diabetes, which
+may be a potential risk factor for pancreatic cancer (7–10). Low
+energy density was also associated with intake patterns charac-
+terized by relatively more fresh fruits and vegetables and less
+meat and soft drinks (6).
+
+The purpose of this study was to investigate the relation
+between DED and the risk of pancreatic cancer in a large-scale,
+population-based case-control study in urban Shanghai.
+
+1 Supported by the U.S. National Cancer Institute (5R01CA114421), the Science
+and Technology Commission of Shanghai Municipality (08411954100), the
+Shanghai Municipal Health Bureau (grant 20114080), and the Shanghai Cancer
+Institute (SB10-06).
+2 Author disclosures: J. Wang, W. Zhang, L. Sun, H. Yu, Q.-X. Ni, H. A. Risch, and
+Y.-T. Gao, no conﬂicts of interest.
+* To whom correspondence should be addressed. E-mail: ytgao@vip.sina.com.
+
+Participants and Methods
+
+Study population. A population-based case-control study of pancreatic
+cancer was carried out in urban Shanghai during December 2006-
+January 2011. All participants were long-term residents of Shanghai and
+between 35 and 79 y of age. Details of the study design and participant
+recruitment have been described elsewhere (11). Brieﬂy, 908 incident
+cases were recruited via an ‘‘instant case reporting system’’ in 37 urban
+Shanghai hospitals. Related hospital records, pathology reports, pathol-
+ogy slides, and/or imaging materials (computed tomography and/or
+positron emission tomography–computed tomography and/or MRI)
+were collected for case ascertainment by a group of local pathological
+and clinical experts. Patients with endocrine and other nonadenocarci-
+noma tumors (n = 16) were excluded, leaving 892 patients in risk
+analyses. At the same time, a total of 1067 controls were randomly
+selected from a list provided by the Shanghai Residents Registry, with
+frequency matching by 5-y age group (i.e., 35–39, 40–44, 45–49, 50–54,
+55–59, 60–64, 65–69, 70–74, and 75–79 y) and sex. The study was
+approved by the institutional review boards of the Shanghai Cancer
+Institute and Yale University, and written informed consent was given by
+all participants.
+
+Assessment of diet. Diet intake information on the most recent 5 y
+before the interview was ascertained by using a 107-item validated FFQ
+(12,13). The FFQ was developed from a similar dietary questionnaire
+used in the Shanghai WomenÕs Health Study and the Shanghai MenÕs
+Health Study. The validity of the questionnaire was assessed by the FFQ
+and the multiple 24-h dietary recalls. In women, the correlation
+coefﬁcients were 0.59–0.66 for macronutrients, 0.41–0.59 for micronu-
+trients, and 0.41–0.66 for major food groups (12).
+the
+correlation coefﬁcients were 0.38–0.64 for macronutrients, 0.33–0.58
+
+In men,
+
+1626
+
+ã 2013 American Society for Nutrition.
+Manuscript received April 8, 2013. Initial review completed May 3, 2013. Revision accepted June 9, 2013.
+First published online July 31, 2013; doi:10.3945/jn.113.178129.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/143/10/1626/4571615
+by University of Ottawa user
+on 24 June 2018
+
+for micronutrients, and 0.35–0.72 for food groups (13). Participants
+were asked how often they had regularly consumed each food, on
+average, in last 5 y, choosing from 5 possible frequency responses
+ranging from ‘‘never’’ or ‘‘once per year’’ to ‘‘every day,’’ and how much
+they consumed each time (in ‘‘liang,’’ 1 liang = 50 g). The average intake
+(g/d) of each food item was then calculated. For seasonal foods (i.e., fresh
+vegetables and fruits), the duration of intake (mo/y) was also asked, and
+the average intake of these foods was further multiplied by the number of
+months and then divided by 12. Average nutrient intakes (per day) were
+computed by multiplying the average intake (g/d) by the nutrient density
+content from the China Food Composition Tables (14). The energy and
+weight of each food item were summed for all caloric beverages and solid
+foods (e.g., not including tea or pure water consumption, for which
+energy content is almost zero) to derive the total energy intake (kJ/d) and
+the total weight of foods (g/d). DED was calculated as the available
+dietary energy per unit weight of foods (kJ/g) as follows:
+
+DED ¼
+
+n
++
+i¼1
+n
++
+i¼1
+
+Energyi
+
+Quantityi
+
+Assessment of other factors. A detailed structured questionnaire was
+completed in face-to-face interviews carried out by trained study staff. It
+included questions on age, sex, educational level, disease history, family
+history of cancer, cigarette smoking, tea and alcohol drinking, and
+medication use. Smoking was coded as 0, 0.025 to <13.7, 13.7 to <27.4,
+27.4 to <41.1, $41.1 pack-years. The following anthropometric informa-
+tion was also requested: height at age 21 y, adult usual body weight, and
+adult usual BMI calculated as body weight in kilograms divided by the
+square of height in meters.
+
+Calculations and statistical analyses. Results were expressed as
+means 6 SDs for continuous variables and frequencies (percentages) for
+categorical variables. Differences between cases and controls were tested
+by t tests for continuous variables and by x2 tests for categorical
+variables. DED was deﬁned both as a continuous variable and a
+categorical variable (5 groups by distributions in control participants).
+Associations between DED and risk of pancreatic cancer were examined
+by using unconditional logistic regressions. The ﬁrst model was adjusted
+for age (continuous), sex, and adult BMI (continuous). The second
+model was further adjusted for the following potential confounding
+factors: education (primary school or lower, middle or high school,
+college or higher), family history of cancer (none, nonpancreatic cancer,
+pancreatic cancer), smoking (0, 0.025 to <13.7, 13.7 to <27.4, 27.4 to
+<41.1, $41.1 pack-years), self-reported history of type 2 diabetes (yes,
+no), and self-reported history of pancreatitis. The third model further
+included the following dietary factors: regular alcohol consumption (g/d,
+continuous), total energy intake (kJ/d, continuous), and green tea
+drinking (g/d, continuous). We repeated the analyses using energy-
+adjusted DED computed as residuals from the regression model
+developed by Willett et al. (15).
+
+Values in the text are means 6 SEMs. All statistical analyses were
+performed by using STATA statistical software (version 9.2; StataCorp).
+
+Results
+
+Characteristics of the cases and controls are shown in Table 1.
+Pancreatic cancer patients consumed a more-energy-dense diet
+than control participants. Energy density (adjusted for age, sex,
+and total energy intake) was signiﬁcantly higher in cases (6.08 6
+0.04 kJ/g) than in controls (5.91 6 0.04 kJ/g) (P = 0.003).
+
+Increased risk of pancreatic cancer was associated with DED
+as shown in Table 2. This was true both for the continuous
+association per unit increase in energy density and according to
+quintiles of energy density. A 1-unit increase in DED was
+
+Downloaded from https://academic.oup.com/jn/article-abstract/143/10/1626/4571615
+by University of Ottawa user
+on 24 June 2018
+
+TABLE 1 Characteristics of case patients with pancreatic
+cancer and normal controls in urban Shanghai, 2006–20111
+
+Characteristic
+
+n
+Sex, n (%)
+
+Men
+Women
+
+Age, y
+Adult BMI, kg/m2
+
+Men
+Women
+
+Education, n (%)
+
+Primary school or lower
+Middle school
+College or higher
+
+Family history of cancer, n (%)
+
+None
+Nonpancreatic cancer
+Pancreatic cancer
+Regular alcohol use
+Tobacco use, n (%)
+
+0 pack-years
+0.025–,13.7 pack-years
+13.7–,27.4 pack-years
+27.4–,41.1 pack-years
+$41.1 pack-years
+
+1 Values are means 6 SDs or n (%).
+
+Cases
+
+892
+
+519 (58.2)
+373 (41.8)
+64.9 6 9.6
+
+23.9 6 6.9
+23.7 6 9.9
+
+172 (19.3)
+526 (59.0)
+194 (21.7)
+
+556 (62.3)
+303 (34.0)
+33 (3.7)
+398 (44.6)
+
+494 (55.4)
+84 (9.4)
+106 (11.9)
+112 (12.6)
+96 (10.8)
+
+Controls
+
+1067
+
+605 (56.7)
+462 (43.3)
+65.1 6 9.9
+
+23.5 6 3.1
+22.7 6 3.7
+
+208 (19.5)
+651 (61.0)
+208 (19.5)
+
+753 (70.6)
+296 (27.7)
+18 (1.7)
+512 (48.0)
+
+626 (58.7)
+110 (10.3)
+132 (12.4)
+123 (11.5)
+76 (7.1)
+
+P
+
+0.51
+
+0.57
+
+,0.001
+,0.001
+0.46
+
+,0.001
+
+0.14
+0.06
+
+associated with a 16% increase in risk (OR: 1.16; 95% CI: 1.07,
+1.27; P < 0.001). Compared with the lowest quintile of DED, the
+highest quintile showed a 72% increased risk (OR: 1.72; 95%
+CI: 1.25, 2.35; P = 0.001). Adjusting for percentage of energy
+from fat instead of total energy intake did not materially change
+the results (highest vs. lowest quintile OR: 1.84; 95% CI: 1.32,
+2.56; P < 0.001). We repeated the analyses in men and women
+separately and found similar trends in both sexes, although with
+reduced statistical power because of smaller sample sizes: with
+DED as continuous variable (OR: 1.20; 95% CI: 1.07, 1.33 in
+men; OR: 1.14; 95% CI: 0.99, 1.30 in women; model 3). We
+also repeated the analyses in different SEER (Surveillance,
+Epidemiology, End-Stages) separately and found similar trends
+in all stages (data not shown).
+
+In analyses using energy-adjusted residuals (see Participants
+and Methods), the results were unchanged. The correlation
+coefﬁcient was 0.168 (P < 0.001) between raw energy density
+and total energy intake and 0.0002 (P = 0.99) between energy-
+adjusted residuals and total energy intake. A 1-unit increase in
+energy-adjusted residuals was associated with an 18% increase
+in risk (OR: 1.18; 95% CI: 1.08, 1.28; P < 0.001; model 3).
+Compared with the lowest quintile of energy-adjusted residuals,
+the highest quintile showed an 80% increased risk (OR: 1.80;
+95% CI: 1.31, 2.47; P < 0.001).
+
+To show the composition of an energy-diluted diet, we
+summarized the mean intake of major food groups by categories
+of DED (Table 3). After adjusting for age, sex, and total energy
+intake, compared with the most energy-dense group, partici-
+pants in the most energy-diluted group consumed signiﬁcantly
+more fresh fruits, vegetables, white meat, soy products, and
+dairy products; a moderate amount of alcohol; fewer staple
+foods (rice, noodles, breads, etc.) and had less total energy
+intake.
+
+Dietary energy density and pancreatic cancer
+
+1627
+
+TABLE 2 RR of pancreatic cancer by quintiles of DED in urban Shanghai, 2006–20111
+
+Cases, n
+Controls, n
+Median DED, kJ/g
+Model 1
+Model 2
+Model 3
+
+P
+
+Total
+
+892
+1067
+5.72
+
+1.12 (1.04, 1.21)2
+1.15 (1.06, 1.24)2
+1.16 (1.07, 1.27)2
+
+0.003
+,0.001
+,0.001
+
+Q1
+
+148
+214
+4.60
+1.0
+1.0
+1.0
+
+Q2
+
+172
+213
+5.25
+
+Q3
+
+154
+214
+5.72
+
+Q4
+
+198
+213
+6.39
+
+P
+
+Q5
+
+220
+213
+7.55
+
+1.17 (0.87, 1.56)
+1.26 (0.93, 1.69)
+1.28 (0.95, 1.73)
+
+1.05 (0.78, 1.41)
+1.11 (0.82, 1.50)
+1.14 (0.84, 1.56)
+
+1.36 (1.02, 1.82)
+1.47 (1.09, 1.97)
+1.51 (1.11, 2.05)
+
+1.50 (1.12, 2.00)
+1.65 (1.23, 2.23)
+1.72 (1.25, 2.35)
+
+0.003
+0.001
+0.001
+
+1 Values are ORs (95% CIs) unless otherwise indicated. Model 1 was adjusted for age, sex, and adult BMI. Model 2 was further adjusted for education (primary school or lower,
+middle or high school, college or higher), family history of cancer (none, nonpancreatic cancer, pancreatic cancer), smoking (0, 0.025–,13.7, 13.7–,27.4, 27.4–,41.1, $41.1 pack-
+years), self-reported history of type 2 diabetes (yes, no), and self-reported history of pancreatitis. Model 3 was further adjusted for green tea drinking (continuous), alcohol
+consumption (continuous), and total nonalcohol energy intake (continuous). DED, dietary energy density; Q, quartile.
+2 ORs for 1-unit increase in DED.
+
+Discussion
+
+We found, separate from age, sex, BMI, cigarette smoking,
+family history of cancer, and total energy intake, a positive
+association between DED and risk of pancreatic cancer. The risk
+was elevated by 72% in the highest energy density quintile
+compared with the lowest one. This ﬁnding, if conﬁrmed, could
+be helpful in understanding the etiology of pancreatic cancer and
+may provide scientiﬁc evidence for its prevention.
+
+Our study adds new information on the association of dietary
+intake and pancreatic cancer. In the EPIC study, Wang et al. (6)
+found a low-energy-dense diet to be associated with a lower risk
+of type 2 diabetes. DED assesses the quality of the whole diet
+instead of its elements. There are 3 major determinants of DED.
+One is fat, because fat is the most energy-dense nutrient and fat
+content varies substantially between various foods (16). The
+other is water, because its energy content is zero and its amount
+varies greatly among foods. In addition, ﬁber also has the
+potential to inﬂuence DED, because it has a low energy content
+and is able to bind water, but its range of concentrations in
+commonly eaten foods is much smaller. Therefore, an advantage
+of our study was our evaluation of the quality of diet using DED
+rather than the proportions of a single food or a group of foods.
+The energy density of the whole diet accounts for the
+complicated interactions between various foods in the context of
+a free-living population. DED is a weighed energy density of
+individual elements in a diet, and thus is less informative in
+
+biological relations between a single food or nutrient and cancer
+risk. Large proportions of foods with high energy density, such
+as fatty foods, contribute to a more energy-dense diet, whereas
+foods with a high water content contribute to an energy-diluted
+diet. In our study, energy-diluted diets included fewer staple
+foods, more fresh fruits and vegetables, more white meat, more
+soy and dairy products, and more (i.e., modest amounts of)
+alcohol.
+
+Our study is the ﬁrst, to our knowledge, to examine the
+association between DED and pancreatic cancer risk in a large,
+population-based case-control setting of >900 cases. The
+participants in our study were more representative of the urban
+Shanghai population. Cases in our study were recruited from 37
+major hospitals in urban Shanghai, and controls were randomly
+selected from the whole population in the same area. Further-
+more, the ascertainment of our cases was thorough. Patients
+were included as potential cases once reported by a physician,
+and then conﬁrmed by a group of pathological and clinical
+experts on the basis of hospital records, pathology reports and
+slides, and/or imaging material.
+
+The limitations of our study merit consideration. Dietary
+intake in our study was assessed by a semiquantitative FFQ with
+its associated limitations. Disease bias (i.e., people with cancer
+try to explain their disease as a consequence of their dietary
+choices) also inﬂuences participantsÕ recall of food intake. For
+example, patients might overestimate their intake of ‘‘un-
+healthy’’ foods and underestimate their intake of ‘‘healthy’’
+
+TABLE 3 Intake pattern of food groups by quintiles of DED in urban Shanghai, 2006–20111
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+Q5
+
+P
+
+n2
+Median DED, kJ/g
+Staple foods, g/d
+Fruits, g/d
+Vegetables, g/d
+Red meat, g/d
+White meat, g/d
+Soy products, g/d
+Dairy products, g/d
+Alcohol, g/d
+Green tea, g/d
+Total energy3, MJ/d
+
+362
+4.60
+288 6 2
+270 6 5
+485 6 6
+49.0 6 1.2
+86.4 6 2.2
+186 6 4
+165 6 4
+163 6 8
+96.6 6 5.2
+7.6 6 0.08
+
+385
+5.25
+311 6 2
+223 6 3
+433 6 4
+48.8 6 0.8
+78.2 6 1.5
+159 6 3
+137 6 3
+122 6 6
+96.7 6 3.6
+7.7 6 0.06
+
+368
+5.72
+334 6 1
+176 6 3
+381 6 4
+48.5 6 0.7
+70.0 6 1.2
+132 6 2
+108 6 2
+82 6 5
+
+96.8 6 2.9
+7.9 6 0.05
+
+411
+6.39
+357 6 2
+129 6 3
+329 6 4
+48.3 6 0.8
+61.8 6 1.5
+105 6 3
+80 6 3
+41 6 6
+
+96.9 6 3.6
+8.0 6 0.06
+
+433
+7.55
+381 6 2
+83 6 5
+278 6 6
+48.1 6 1.2
+53.7 6 2.2
+
+78 6 4
+51 6 4
+0.8 6 8
+97.0 6 5.2
+8.1 6 0.08
+
+,0.001
+,0.001
+,0.001
+0.63
+,0.001
+,0.001
+,0.001
+,0.001
+0.97
+,0.001
+
+1 Values are means 6 SEs unless otherwise indicated and were adjusted for age, sex, and total energy intake. DED, dietary energy density;
+Q, quintile.
+2 Cases and controls combined.
+3 Total energy intake was adjusted for age and sex.
+
+1628 Wang et al.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/143/10/1626/4571615
+by University of Ottawa user
+on 24 June 2018
+
+foods. However, to record usual dietary habits, the question-
+naire asked participants about food intakes in the previous 5 y.
+Given that patients might change their diet during this period
+because of their as yet undiagnosed disease, the questionnaire
+also asked about changes in diet during the last year. In
+Shanghai, most food is home-produced (i.e., typically, house-
+wives purchase raw materials from markets and cook at home,
+and fast food is less available or popular than in developed
+countries). Thus, if undiagnosed cases reduced their intake of
+high-protein, high-fat foods, they would tend to turn to grains,
+vegetables, and fruits because of their increasing inability to
+tolerate foods requiring pancreatic enzymes for digestion. The
+diet change questionnaire gave us some clues about how patients
+changed their diets 1 y before diagnosis. We found that 57% of
+cases did not change their diets (i.e., did not change any food
+group intake), 39% of cases reduced their red meat consumption
+(beef, lamb, and pork), 27% of cases reduced poultry consump-
+tion (chicken and duck), 14% of cases increased their intake of
+vegetables, and 10% increased their intake of fruits. There was
+no signiﬁcant difference in total energy intake between cases and
+controls (P = 0.67). Therefore, whole-diet energy density of
+cases tended to decrease, which weakened the association of
+DED with pancreatic cancer risk in our study. We also repeated
+all risk analyses using energy-adjusted residuals of energy
+density, which removed the effect of total energy intake, and
+the results remained the same. Another limitation is the use of
+self-reported history of type 2 diabetes, which was reported to be
+a potential risk factor for pancreatic cancer. However, the
+questionnaire included several other related questions to help
+participants recall their medical history. In all, 339 participants
+reported they had been ‘‘told by a doctor that they have type 2
+diabetes’’; among these, 326 (96.2%) reported that they had
+been ‘‘diagnosed based upon blood tests,’’ 309 (91.2%) reported
+that they had ‘‘used oral anti-diabetic drugs,’’ and 104 (30.7%)
+reported that they had ‘‘used insulin.’’ In addition, self-reported
+adult height and body weight were used in statistical analyses,
+which would reﬂect their normal status before cancer develop-
+ment better but which is also less accurate.
+
+The mechanism for an association between DED and risk of
+pancreatic cancer is not yet understood. It has been reported that
+a high-energy-dense diet increased the risk of type 2 diabetes,
+which would result in insulin resistance and induced compen-
+satory hyperinsulinemia (6). High concentrations of insulin
+would enhance insulin-like growth factor (IGF)-1 synthesis and
+downregulate IGF-1 binding proteins, leading to an increase in
+the bioavailability of free IGF-1, which transduces its down-
+stream signaling pathways to promote tumor development by
+inhibiting apoptosis, stimulating cell proliferation, and enhanc-
+ing angiogenesis (7). Foods that are high in DED tend to be more
+palatable than foods that are low in DED, and high palatability
+is associated with increased food intake in single-meal studies
+and with increased energy intake at subsequent meals, so-called
+passive overeating. In our study, DED was positively associated
+with increased total energy intake, but with adjustment, the
+association between DED and risk of pancreatic cancer was
+independent of total energy intake, BMI, and self-reported
+history of type 2 diabetes (Table 2). Future studies are needed to
+elucidate the possible mechanisms of the association between
+high DED and the development of pancreatic cancer.
+
+In summary, we have shown in a large-scale, population-
+based case-control study that higher-energy-dense diets are
+associated with increased risk of pancreatic cancer risk,
+independent of age, BMI, cigarette smoking, family history of
+cancer, history of type 2 diabetes, and total energy intake. This
+ﬁnding has potential
+implications for preventing pancreatic
+cancer through modiﬁcation of diet and merits further research.
+
+Acknowledgments
+H.A.R., H.Y., Q.-X.N., and Y.-T.G. designed the research;
+W.Z., L.S., and J.W. conducted the research; J.W. analyzed the
+data and wrote the initial draft of the paper; and J.W., Y.-T.G.,
+H.Y., and H.A.R.
+interpreted the results and had primary
+responsibility for ﬁnal content. All authors read and approved
+the ﬁnal manuscript.
+
+Literature Cited
+
+1.
+
+Jemal A, Siegel R, Ward E, Hao Y, Xu J, Thun MJ. Cancer statistics,
+2009. CA Cancer J Clin. 2009;59:225–49.
+
+2. Gao Y-T, Lu W. Cancer incidence, mortality and survival rates in urban
+Shanghai (1973–2000). Shanghai (China): Second Military Medical
+University Press; 2007.
+
+3. Yao M, Roberts SB. Dietary energy density and weight regulation. Nutr
+
+4.
+
+Rev. 2001;59:247–58.
+Johnson L, Mander AP, Jones LR, Emmett PM, Jebb SA. A prospective
+analysis of dietary energy density at age 5 and 7 years and fatness at 9
+years among UK children. Int J Obes (Lond). 2008;32:586–93.
+
+5. Mendoza JA, Drewnowski A, Christakis DA. Dietary energy density is
+associated with obesity and the metabolic syndrome in U.S. adults.
+Diabetes Care. 2007;30:974–9.
+
+6. Wang J, Luben R, Khaw KT, Bingham S, Wareham NJ, Forouhi NG.
+Dietary energy density predicts the risk of incident type 2 diabetes: the
+European Prospective Investigation of Cancer (EPIC)-Norfolk Study.
+Diabetes Care. 2008;31:2120–5.
+
+7. Bao B, Wang Z, Li Y, Kong D, Ali S, Banerjee S, Ahmad A, Sarkar FH.
+The complexities of obesity and diabetes with the development and
+progression of pancreatic cancer. Biochim Biophys Acta. 2011;1815:
+135–46.
+
+8. Ben Q, Xu M, Ning X, Liu J, Hong S, Huang W, Zhang H, Li Z.
+Diabetes mellitus and risk of pancreatic cancer: a meta-analysis of
+cohort studies. Eur J Cancer. 2011;47:1928–37.
+
+9. Li D, Yeung SC, Hassan MM, Konopleva M, Abbruzzese JL. Antidi-
+abetic therapies affect risk of pancreatic cancer. Gastroenterology.
+2009;137:482–8.
+
+10. Pezzilli R, Casadei R, Morselli-Labate AM. Is type 2 diabetes a risk
+
+factor for pancreatic cancer? JOP. 2009;10:705–6.
+
+11. Wang J, Zhang W, Sun L, Yu H, Ni QX, Risch HA, Gao YT. Green tea
+drinking and risk of pancreatic cancer: a large-scale, population-based
+case-control study in urban Shanghai. Cancer Epidemiol. 2012;36:
+e354–8.
+
+12. Shu XO, Yang G, Jin F, Liu D, Kushi L, Wen W, Gao YT, Zheng W.
+Validity and reproducibility of the food frequency questionnaire used in
+the Shanghai Women’s Health Study. Eur J Clin Nutr. 2004;58:17–23.
+13. Villegas R, Yang G, Liu D, Xiang YB, Cai H, Zheng W, Shu XO.
+Validity and reproducibility of the food-frequency questionnaire used in
+the Shanghai men’s health study. Br J Nutr. 2007;97:993–1000.
+
+14. Institute of Nutrition and Food Safety, China CDC. China food
+
+composition 2002. Beijing: Peking University Medical Press; 2002.
+
+15. Willett W, Stampfer MJ. Total energy intake: implications for epidemi-
+
+ologic analyses. Am J Epidemiol. 1986;124:17–27.
+
+16. Diet, nutrition and the prevention of chronic diseases. World Health
+
+Organ Tech Rep Ser. 2003;916:i–viii, 1–149.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/143/10/1626/4571615
+by University of Ottawa user
+on 24 June 2018
+
+Dietary energy density and pancreatic cancer
+
+1629
+
+

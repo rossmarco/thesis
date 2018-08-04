@@ -1,0 +1,858 @@
+Nutrition and Cancer
+
+Orally Administered Green Tea Polyphenols Prevent Ultraviolet Radiation-
+Induced Skin Cancer in Mice through Activation of Cytotoxic T Cells and
+Inhibition of Angiogenesis in Tumors1,2
+
+Sudheer K. Mantena,* Syed M. Meeran,* Craig A. Elmets,*†** and Santosh K. Katiyar*†**3
+*Department of Dermatology, †Skin Diseases Research Center, University of Alabama at Birmingham,
+Birmingham, AL and **VA Medical Center, Birmingham, AL
+
+ABSTRACT Green tea polyphenols (GTPs) show promise as anticarcinogenic agents and may prevent the develop-
+ment of solar UV radiation–induced skin cancer. Here we investigated the mechanisms by which GTPs prevent
+UVB-induced skin cancer in mice. Two groups of 6- to 7-wk-old female SKH-1 hairless mice were UVB irradiated (180
+mJ/cm2) 3 times each week for 24 wk. One group consumed water and the other, water containing 2 g/L GTPs. A
+control group drank water and was not exposed to UVB radiation. UVB-induced tumors and skin biopsies from the
+control group were analyzed using immunostaining, Western blotting, and gelatinolytic zymography. Oral administration
+of GTPs reduced UVB-induced tumor incidence (35%), tumor multiplicity (63%), and tumor growth (55%). The
+GTPs⫹UVB group had reduced expression of the matrix metalloproteinases (MMP)-2 and MMP-9, which have crucial
+roles in tumor growth and metastasis, and enhanced expression of tissue inhibitor of MMP in the tumors compared with
+mice that were treated with UVB alone. The GTPs⫹UVB group also had reduced expressions of CD31 and vascular
+endothelial growth factor, which are essential for angiogenesis, and inhibited expression of proliferating cell nuclear
+antigen in the tumors compared with the UVB group. Additionally, there were more cytotoxic CD8⫹ T cells in the tumors
+of the GTPs⫹UVB group than in the UVB group and their tumor cells exhibited greater activation of caspase-3,
+indicating the apoptotic death of the tumor cells. Taken together, these data suggest that in mice, administration of
+GTPs affects several biomarkers that are involved in UV-carcinogenesis, including inhibition of angiogenic factors and
+recruitment of cytotoxic T cells in the tumor microenvironment.
+
+J. Nutr. 135: 2871–2877, 2005.
+
+KEY WORDS:
+● cytotoxic T cells
+
+● green tea polyphenols ● matrix metalloproteinases ● ultraviolet radiation ● angiogenesis
+
+Nonmelanoma skin cancers, including basal and squamous
+cell carcinoma, represent the most common malignant neoplasms
+in humans, particularly in Caucasians. Although many environ-
+mental and genetic factors contribute to the development of skin
+cancers, epidemiologic, clinical and biological studies have estab-
+lished that chronic exposure to UV radiation is a well-recognized
+etiological agent for both nonmelanoma and melanoma skin
+cancers, and accounts for ⬃1.3 million new cases of skin cancers
+each year in the United States (1). These numbers are probably
+underestimates because many skin cancers are treated or removed
+in clinics without being reported to cancer registries. Thus, cu-
+taneous malignancies currently are a major burden on public
+health and healthcare expenditures. Moreover, it is expected that
+
+1 Presented at the 2005 Annual Meeting of the Society of Investigative Der-
+matology, May 2005, St. Louis, MO [Mantena, S. K., Roy, A. M., Elmets, C. A. &
+Katiyar, S. K.
+(2005) Orally administered green tea prevents UVB-induced skin
+tumor growth through the inhibition of angiogenesis and stimulation of cytotoxic
+T cells in tumors. J. Investig. Dermatol. 124: A131 (abs.)].
+
+2 Supported by the funds from U.S. Public Health Service Grants, CA105368
+and CA79820, the Merit Review Awards from the Veterans Administration (S.K.K.
+and C.A.E.), and the UAB Skin Diseases Research Center (AR050948-01). This
+work was conducted in a facility constructed with support from Research Facil-
+ities Improvement Program Grant No. C06 RR 15490 from the National Center for
+Research Resources (National Institutes of Health).
+
+3 To whom correspondence should be addressed. E-mail: skatiyar@uab.edu.
+
+the dramatic recent increase in the incidence of skin cancer will
+be sustained due to the aging of the population, the greater
+amounts of UV radiation reaching the surface of the earth be-
+cause of depletion of the ozone layer (2–4), and the continuing
+use of sun tanning devices for cosmetic purposes. The develop-
+ment of effective chemopreventive agents that can reduce or
+control the risk of UV-induced skin cancer is required to address
+this pressing public health issue.
+
+In recent years, there has been a great interest in the use of
+dietary supplements in the form of complementary and alter-
+native medicines that are derived from naturally occurring
+botanicals for the prevention of UV photodamage, including
+skin cancer risk. Botanical supplements, speciﬁcally dietary
+botanicals, possessing anti-inﬂammatory, immunomodulatory,
+and antioxidant properties are among the most promising
+group of compounds that can be exploited as ideal chemopre-
+ventive agents for skin cancer prevention.
+
+Using in vitro and in vivo model systems, we and others
+showed that green tea polyphenols (GTPs)4 have potent anti-
+
+4 Abbreviations used: EGCG, (-)-epigallocatechin-3-gallate; FITC, ﬂuorescein
+isothiocyanate; GTP, green tea polyphenol; MMP, matrix metalloproteinase;
+PCNA, proliferating cell nuclear antigen; PE, phycoerythrin; PMSF, phenylmeth-
+ylsulfonyl ﬂuoride; TIMP, tissue inhibitor of matrix metalloproteinase; VEGF, vas-
+cular endothelial growth factor.
+
+0022-3166/05 $8.00 © 2005 American Society for Nutrition.
+Manuscript received 1 August 2005. Initial review completed 23 August 2005. Revision accepted 19 September 2005.
+
+2871
+
+Downloaded from https://academic.oup.com/jn/article-abstract/135/12/2871/4669980
+by University of Ottawa user
+on 24 June 2018
+
+2872
+
+MANTENA ET AL.
+
+inﬂammatory, antioxidant, and immunomodulatory activities
+(5–7). Topical application of (-)-epigallocatechin-3-gallate
+(EGCG), a major chemopreventive constituent of GTPs, or
+oral administration of a crude water extract of green tea as the
+sole source of drinking water to SKH-1 hairless mice was
+shown to inhibit the growth of UV-induced skin tumors (8,9).
+However, the mechanisms by which the GTPs exert antipho-
+tocarcinogenic effects in vivo in tumors have not been well
+deﬁned. We therefore conducted this study using the UVB-
+induction of skin tumors in SKH-1 hairless mice. Puriﬁed
+GTPs were administered orally in the drinking water (2 g/L)
+because green tea is commonly consumed as a beverage. Thus,
+the information generated by this study should be directly
+relevant to the development of this agent as a complementary
+and alternative medicine for the prevention of solar UVB-
+induced cutaneous malignancies.
+
+MATERIALS AND METHODS
+
+Animals. The 6- to 7-wk-old female SKH-1 hairless mice used in
+this study were obtained from Charles River Laboratories. Mice were
+housed 5/cage and acclimated for at least 1 wk in the animal research
+facility before their use in this study. The mice were maintained
+under standard conditions with a 12-h light:dark cycle, 24 ⫾ 2°C
+temperature, and 50 ⫾ 10% relative humidity. They consumed an
+AIN76A control diet and drinking water ad libitum (10). The animal
+protocol for this study was approved by the Institutional Animal Care
+and Use Committee of the University of Alabama at Birmingham, in
+accordance with the current USDA and Department of Health and
+Human Service regulations and standards. A group of mice also
+consumed the AIN76A diet and water ad libitum but without treat-
+ment with GTPs and UVB irradiation. At the end of the photocar-
+cinogenesis experiment, mice were killed by exposure to CO2 gas
+followed by cervical dislocation to conﬁrm their death, as recom-
+mended by IACUC.
+
+Experimental design and photocarcinogenesis protocol. After
+in the Animal
+acclimation for at least 1 wk after their arrival
+Research Facility, the mice were divided into 3 age-matched treat-
+ment groups for the experiments with 20 mice in each group: control
+group, the UVB group, and the GTPs⫹UVB group. GTPs were given
+in the drinking water as the sole source of drinking water to the mice
+and continued during the entire photocarcinogenesis protocol. In
+addition, the mice administered GTPs were switched to GTPs in the
+drinking water 14 d before the initiation of the photocarcinogenesis
+protocol. This protocol was employed as described previously (9);
+mice were irradiated every day with UVB (180 mJ/cm2) for a total of
+10 d to stimulate tumor initiation (the tumor initiation stage). One
+week after the last UVB exposure of this tumor initiation stage, the
+mice were again irradiated with the same dose of UVB 3 times/wk
+(tumor promotion stage) for a total of 24 wk.
+
+Antibodies and chemicals. Monoclonal antibodies for CD31
+(PECAM-1), a secondary antibody conjugated to phycoerythrin
+(PE)-Cy5, ﬂuorescein isothiocyanate (FITC) conjugated CD8 (Ly-2)
+and anti-vascular endothelial growth factor (VEGF) were purchased
+from BD Biosciences Pharmingen. Primary antibodies speciﬁc for
+matrix metalloproteinase (MMP)-2, MMP-9, tissue inhibitor of MMP
+(TIMP1), and proliferating cell nuclear antigen (PCNA) were pur-
+chased from Santa Cruz Biotechnology. The antibody used to detect
+activated caspase 3 was purchased from Cell Signaling Technology.
+The diaminobenzidine substrate kit was purchased from Kirkgaard
+and Perry. All other chemicals were of analytical grade and were
+purchased from Sigma Chemical.
+
+Administration of GTPs in drinking water. Puriﬁed GTPs, also
+known as “Polyphenone E,” were obtained from Mitsui Norin. GTP
+is a mixture of polyphenols, primarily (-)-epicatechin (11%), (-)-
+epicatechin gallate (7%), (-)-epigallocatechin (9%), (-)-epigallocat-
+echin-3-gallate (60%), (-)-gallocatechin gallate (5%), (-)-catechin
+gallate (1%), and (-)-catechins (1%); it is ⬃98% pure and includes
+2.9% moisture and 1.5% ash. To avoid autodegradation, GTPs were
+kept in the refrigerator at 4°C and remain stable for at least 2 y (6,7).
+GTP is readily soluble in water and is therefore easy to add to
+
+Downloaded from https://academic.oup.com/jn/article-abstract/135/12/2871/4669980
+by University of Ottawa user
+on 24 June 2018
+
+drinking water. GTP was given in normal drinking water (2 g/L) to
+mice and provided in water bottles that were covered with aluminum
+foil to avoid the possibility of light-induced alterations in the poly-
+phenols, if any. The water was changed at least 3 times/wk. The dose
+of GTPs (2 g/L) was selected on the basis of our earlier study in which
+oral administration of GTP was found to prevent UVB induction of
+markers of tumor promotion (11).
+
+UVB irradiation of mice. Mice were UVB-irradiated as described
+previously (9). Brieﬂy, dorsal skin was exposed to UV radiation from
+a band of 4 UVB lamps (Daavlin, UVA/UVB Research Irradiation
+Unit) from which short wave lengths of UV (⬍290 nm) not normally
+present in natural solar light were ﬁltered out using Kodacel cellulose
+ﬁlm (Eastman Kodak). The majority of the resulting wave lengths
+after Kodacel ﬁlm ﬁltration were in the UVB (290 –320 nm) and
+UVA range with peak emission at 314 nm. The UVB emission was
+monitored regularly before each UV irradiation with an IL-1700
+phototherapy radiometer equipped with an IL SED 240 detector
+(International Light). All UVB exposures were of 180 mJ/cm2.
+
+Evaluation of tumor formation. During the experimental proto-
+col, UVB-irradiated dorsal skin area of the mice was examined for
+papillomas or tumor on a weekly basis. Growths ⬎ 1 mm in diameter
+that persisted for at least 2 wk were deﬁned as tumors and recorded.
+Tumor data on each mouse were recorded until their yield and size
+stabilized. At that time point, the dimensions of all of the tumors on
+each mouse were recorded. Tumor volumes were calculated using the
+hemiellipsoid model formula: tumor volume ⫽ 1/2 (4␲/3) (l/2) (w/2)
+h, where l ⫽ length, w ⫽ width, and h ⫽ height, as described earlier
+(9). The tumors were then harvested and either snap-frozen in liquid
+nitrogen or embedded and frozen in OCT medium for further exam-
+ination.
+
+Immunohistochemical analysis of expression of MMP-2 and
+MMP-9. Sections (5 ␮m thick) were obtained from the parafﬁn-
+embedded tissues and subjected to a heat-induced antigen retrieval
+protocol by boiling with citrate buffer (pH 6.0) in a microwave oven
+for 15 min. After washing in PBS, nonspeciﬁc staining sites were
+blocked by incubation with 5% goat serum. The sections were then
+incubated with either mouse monoclonal antibody for MMP-2 or
+MMP-9 for 2 h at room temperature followed by incubation with a
+secondary horseradish peroxidase-conjugated antibody for 1 h. After
+washing, the sections were incubated with a diaminobenzidine per-
+oxidase substrate and counterstained with either methyl green or
+hematoxylin and eosin.
+
+Gelatinolytic zymography. The activity of MMP-2 and MMP-9
+proteins in skin or tumor homogenates was analyzed by gelatinolytic
+zymography using SDS-PAGE as described previously (12). Brieﬂy,
+the samples (30 – 40 ␮g protein) were resolved on a gel copolymerized
+with 0.1% gelatin using electrophoresis. After electrophoresis, the
+gels were washed to remove the SDS. The gels were rinsed twice with
+zymogen activation buffer and then incubated for 18 h at 37°C in the
+same buffer. After washing, the gels were stained for 2 h with
+PhastGel Blue R stain as described by the manufacturer.
+
+Assessment of expression of vascular endothelial cell antigen,
+CD31. Frozen sections (5 ␮m thick) were ﬁxed in cold acetone for
+10 min. Nonspeciﬁc binding sites were blocked in Tris-HCl buffer
+(pH 7.6) containing goat serum (5%) and bovine serum albumin
+(0.5%, wt/v). After blocking, the sections were incubated with mono-
+clonal antibodies speciﬁc for CD31 in blocking buffer for 1 h. Anti-
+body binding was detected by subsequent incubation of tissue sections
+with streptavidin-PE-Cy5 secondary antibody for 1 h. The sections
+were counterstained with Hoechst 33342 which stains nuclei. The
+intensity of the staining was evaluated using a microscope equipped
+for immunoﬂuorescence analysis. In addition, vascular peritumoral
+density was assessed by localizing the staining.
+
+Immunohistochemical detection of CD8ⴙ cytolytic T lympho-
+cytes.
+Immunoﬂuorescent staining was carried out as described for
+CD31 except that a FITC-conjugated CD8 monoclonal antibody was
+used.
+
+Preparation of skin and tumor lysates for Western blotting. The
+tumors and epidermal skin from the control group were used for lysate
+preparation as described previously (13,14). The epidermis was sep-
+arated from the whole skin as described earlier (15). Tissue samples
+were pooled from 6 mice in each experimental group and lysates were
+
+GREEN TEA INHIBITS ANGIOGENESIS IN SKIN TUMORS
+
+2873
+
+prepared as described previously (13). There were 3 sets of pooled
+samples from each group, n ⫽ 3.
+
+Western blot analysis was performed as described previously (14).
+Brieﬂy, proteins (25–50 ␮g) were resolved on 10% SDS-polyacryl-
+amide gel and transferred onto nitrocellulose membranes. After in-
+cubation in blocking buffer for 1 h, the membranes were incubated
+with the primary antibodies in blocking buffer overnight at 4°C. The
+blot was then washed with PBS and incubated with secondary anti-
+body conjugated with horseradish peroxidase. Protein bands were
+then visualized using the ECL detection system (Amersham Life
+Science). To verify equal protein loading and transfer of proteins
+from gel to membrane, the blots were stripped and reprobed for
+␤-actin using an anti-actin rabbit polyclonal antibody.
+
+Statistical analysis. Tumor
+
+incidence in the UVB and
+GTPs⫹UVB groups was compared by ␹2 analysis. Tumor multiplicity
+data were analyzed using the Wilcoxon rank-sum test, and tumor
+volume was analyzed using ANOVA followed by Tukey’s test. Sta-
+tistical analysis of tumor data was performed at the termination of the
+experiment. A simple ANOVA followed by Tukey’s test was also used
+to calculate the signiﬁcance of the data obtained from Western blot
+analysis. To compare the intensity of different biomarkers in immu-
+nostaining, at least 4 different areas from each section were selected
+and the color intensity of positive cells was measured and quantiﬁed
+using the OPTIMAS 6.2 computerized software program. Differences
+with P ⬍ 0.05 were considered signiﬁcant.
+
+RESULTS
+
+GTPs prevent UVB-induced skin carcinogenesis. The
+administration of GTPs in drinking water reduced UVB-in-
+duced skin carcinogenesis in terms of tumor incidence (Fig. 1,
+Panel A), tumor multiplicity (Fig. 1B), and tumor size (Fig.
+1C) compared with mice not administered GTPs. Oral admin-
+istration of GTPs resulted in a 35% (P ⬍ 0.05) lower tumor
+incidence at the termination of the experiment at 24 wk (Fig.
+1A). The mice that did not receive GTPs had a 100% tumor
+incidence during wk 16 of tumor promotion, whereas the mice
+administered GTPs did not have 100% tumor incidence until
+the end of wk 24 (P ⬍ 0.05) when the tumor yield was
+stabilized. Thus oral administration of GTPs inhibited UVB-
+induced tumor multiplicity (63%, P ⬍ 0.005) compared with
+the group exposed to UVB but not administered GTP (Table
+1). Compared with the group of mice not administered GTPs,
+the size of the tumors in the mice receiving GTPs was reduced
+when determined in terms of total tumor volume/group (Table
+1, 62%, P ⬍ 0.005), tumor volume/tumor-bearing mouse (Fig.
+1C, 55%, P ⬍ 0.005) and mean tumor volume/tumor (Table 1,
+38%, P ⬍ 0.05). The mice in the control group that were not
+irradiated did not develop tumors within the 24-wk study
+period. During the photocarcinogenesis protocol, body weights
+and food and ﬂuid intakes did not differ among the 3 groups
+(data not shown).
+
+GTPs inhibit MMP-2 and MMP-9 expression while in-
+creasing TIMP1 in tumors.
+Immunohistochemical staining
+revealed the presence of MMP-2 positive cells in the tumors of
+mice administered UVB or GTPs⫹UVB, but they were rarely
+observed in the control group (Fig. 2, Panel A). However,
+there were fewer MMP-2-positive cells in the tumors of the
+mice administered GTPs⫹UVB (P ⬍ 0.01) and their distri-
+bution was more sporadic (Fig. 2A) compared with the UVB
+group. Western blot analysis indicated a higher expression of
+MMP-2 in UV-induced tumors compared with the epidermal
+skin of the control group (Fig. 3, Panel A, P ⬍ 0.005) and
+conﬁrmed the inhibition (P ⬍ 0.05) of MMP-2 expression in
+the tumors of mice that were administered GTPs⫹UVB.
+Analysis of the activity of the MMP-2 protein in the homog-
+enates by gelatinolytic zymography (Fig. 3B) clearly indicated
+that the activity was markedly inhibited in the mice admin-
+
+Downloaded from https://academic.oup.com/jn/article-abstract/135/12/2871/4669980
+by University of Ottawa user
+on 24 June 2018
+
+FIGURE 1 Administration of GTPs (2 g/L) in drinking water inhibits
+UVB-induced skin tumorigenesis in SKH-1 hairless mice. The tumor
+data are presented in terms of the percentage of mice with tumors
+(Panel A), the number of tumors per tumor-bearing mouse (Panel B),
+and are plotted as a function of the weeks of treatment. The number of
+tumors per tumor-bearing mouse (Panel B) and the tumor volume per
+tumor-bearing mouse (Panel C) are shown as means ⫾ SD, n ⫽ 20 in
+the UVB group and n ⫽ 13 in the GTPs⫹UVB group. Asterisks indicate
+different from UVB alone, **P ⬍ 0.05; *P ⬍ 0.005.
+
+istered GTPs⫹UVB compared with UVB alone. Similarly, the
+administration of GTPs inhibited the activity of MMP-9 (ge-
+latinase B) in the tumors (Fig. 3D; P ⬍ 0.001), and also
+inhibited MMP-9 protein expression as determined by immu-
+nostaining (Fig. 2B; P ⬍ 0.01) and Western blot analysis (Fig.
+3C, P ⬍ 0.005) compared with the UVB group. The immu-
+nohistochemical staining intensity of MMP-9 in the tumors
+obtained from the mice of UVB group was higher (P ⬍ 0.001)
+than that in control skin; however, the MMP-9 staining in the
+tumors obtained from the mice administered GTPs⫹UVB was
+widely scattered and fainter than the staining pattern of the
+tumors obtained from the UVB group. Further, administration
+of GTPs (GTPs⫹UVB group) resulted in an ⬃200% increase
+
+2874
+
+MANTENA ET AL.
+
+induced angiogenesis, tumor growth, and metastasis thus iden-
+tiﬁes VEGF as a promising target for antitumor therapy
+(20,21). Western blot analysis revealed that UVB-induced
+tumors overexpressed VEGF compared with normal skin bi-
+opsies and that oral administration of GTPs inhibited the
+expression of VEGF in the UVB-induced tumors (Fig. 5, Panel
+A, P ⬍ 0.005).
+
+GTPs inhibit PCNA expression in tumors. The expres-
+sion of PCNA is an indicator of the proliferative activity of
+tumor cells. Western blot analysis indicated that the levels of
+PCNA were higher in the UVB-induced tumors than in the
+skin biopsies of control mice (Fig. 5B). Administration of
+GTPs inhibited the enhancement of the expression of PCNA
+in the UVB-induced tumors (P ⬍ 0.005).
+
+GTPs increase the numbers of cytotoxic T lymphocytes in
+skin tumors. Because cytotoxic T cells (CD8⫹ cells) are
+tumoricidal in nature, we determined whether administration
+of GTPs induces the recruitment of cytotoxic T lymphocytes
+to the tumor site using immunoﬂuorescence analysis. The
+intensity of ﬂuorescence staining and the number of CD8⫹ T
+cells were higher in tumors treated with GTPs⫹UVB com-
+pared with the UVB group of mice (Fig. 4B). These results
+indicate another major pathway by which GTPs can inhibit
+tumor growth.
+
+GTPs induce the activation of caspase-3 in tumors. Be-
+cause we observed that treatment with GTPs increased the
+numbers of CD8⫹ T cells in the tumor microenvironment, and
+these cells are cytotoxic to tumor cells, it is possible that the
+tumor cells are undergoing apoptosis. Activation of caspase-3
+is a terminal event in apoptotic cells. We found higher levels
+of activation of caspase-3, as indicated by its cleavage in the
+UVB-induced tumors of mice administered GTPs (Fig. 5C)
+than in the mice with UVB-induced tumors or mice not given
+GTPs. These data suggest that induction of cell death or
+apoptosis mediated by the activation of caspase-3 in tumor
+cells contributes to the inhibition of UVB-induced tumor
+growth with administration of GTPs. The activation of
+caspase-3 was not evident in the skin of the control group.
+
+DISCUSSION
+
+In our continuing efforts to develop effective dietary bo-
+tanical supplements as chemopreventive agents for the pre-
+
+TABLE 1
+
+Photoprotective effect of GTPs on UVB-induced skin tumors
+
+in mice at the end of the photocarcinogenesis protocol1,2
+
+UVB
+alone
+
+GTPs ⫹
+
+UVB
+
+% Inhibition
+
+Tumor-bearing mice/group, n
+Total tumors/group, n
+Total tumor volume/group, mm3
+Mean tumor volume/tumor, mm3
+
+20
+362
+9230
+26 ⫾ 7
+
+13
+132*
+3507*
+
+16 ⫾ 4**
+
+35
+63
+62
+
+38 ⫾ 4
+
+1 Values are means ⫾ SEM or n. Asterisks indicate different from
+
+UVB alone: * P ⬍ 0.005, ** P ⬍ 0.05.
+
+2 Number of tumors and tumor volume were recorded at 24 wk
+
+when tumor yield and growth had stabilized.
+
+in TIMP1, the naturally occurring inhibitor of these proteins
+(Fig. 3E, P ⬍ 0.005) compared with UVB group; this may have
+contributed to the inhibition of the expression of both MMP-2
+and MMP-9 in these mice. Thus, our data suggest that one
+mechanism by which the administration of the GTPs acts to
+inhibit UVB-induced tumor formation is through inhibition of
+the synthesis or secretion of MMP-2 and MMP-9 proteins,
+thus curtailing the proangiogenic stimuli that promote tumor
+growth (16 –19).
+
+GTPs inhibit the expression of CD31 and VEGF in tu-
+mors.
+Immunohistochemical analysis of the expression of
+CD31 indicated intense staining of the tumor cells in the mice
+of the UVB group (Fig. 4, Panel A) which was greater than
+that of control skin (P ⬍ 0.001). Staining of CD31 was weak
+in the tumors of the mice administered GTPs⫹UVB (Fig. 4
+A). Moreover, the staining pattern of CD31 in the tumor
+tissue sections from mice of the UVB group revealed elongated
+vessels that were often arranged in clusters (Fig. 4A). In
+contrast, the CD31 staining pattern of the tumors in the mice
+administered GTPs indicated inhibition of the peritumoral
+vascular density and a reduction in the clusters and elongated
+structures of vessels in tumors compared with the UVB group.
+This suggests inhibition of the formation of new vasculature
+and thus inhibition of tumor growth by GTPs.
+
+The evidence supporting a central role for VEGF in tumor-
+
+FIGURE 2 Oral administration of
+GTPs to mice inhibits enhanced ex-
+pression of MMP-2 and MMP-9 in the
+UVB-induced skin tumors. Represen-
+tative examples of micrographs of
+staining ﬁgures for MMP-2 (Panel A)
+and MMP-9 (Panel B) are shown from
+experiments conducted in tumors or
+skin samples from at least 6 mice that
+had identical patterns. Arrows in Panel
+A (UVB alone)
+indicate the intense
+presence of MMP-2⫹ cells, whereas
+sporadic and less intense MMP-2⫹
+cells were found in tumors of mice ad-
+ministered GTPs⫹UVB. Scale bar ⫽ 50
+␮m.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/135/12/2871/4669980
+by University of Ottawa user
+on 24 June 2018
+
+GREEN TEA INHIBITS ANGIOGENESIS IN SKIN TUMORS
+
+2875
+
+FIGURE 3 Oral administration of GTPs to mice inhibits enhanced expression of MMP-2 and MMP-9 in UVB-induced skin tumors while increasing the
+expression of TIMP1. Epidermal skin samples from age-matched control mice that were not UVB-irradiated were included in this assay. The MMP-2 protein
+expression was determined by Western blotting (Panel A) and its activity was assessed by gelatinolytic zymography (Panel B). Similarly, the expression of
+MMP-9 was determined by Western blot analysis (Panel C), and activity by gelatinolytic zymography (Panel D); TIMP1 expression was examined by Western
+blot analysis (Panel E). Representative examples of blots are shown from 3 sets of experiments. One set of experiment included the control, UVB, and
+GTPs⫹UVB groups. The samples in each set were prepared by pooling the skin or tumors from 6 different mice that showed identical results each time,
+n ⫽ 3. Asterisks indicate different from UVB alone, *P ⬍ 0.05, **P ⬍ 0.005.
+
+vention of photocarcinogenesis, we assessed the efﬁcacy of oral
+administration of GTPs. Using a mouse model, we found that
+oral administration of GTPs resulted in signiﬁcant protection
+against photocarcinogenesis in terms of tumor incidence, tu-
+mor multiplicity, and tumor growth (Fig. 1, Table 1). This
+degree of prevention was less than that reported for topical
+application of EGCG (9). Presumably, this difference is asso-
+ciated with the higher concentration of EGCG available in
+the skin after topical application compared with oral admin-
+istration. The chemopreventive effects we observed were ap-
+preciable, however, and directly relevant because green tea is
+commonly consumed as a beverage. Thus, administration of
+GTPs as a beverage may serve as a complementary and alter-
+native medicine for the prevention of skin cancer.
+
+In an effort to deﬁne the pathways by which oral adminis-
+tration of GTPs inhibits UV-induced skin carcinogenesis, we
+examined biomarkers of angiogenesis, cellular proliferation,
+and tumor cell death or apoptosis. The protein expression and
+secretion of both MMP-2 and MMP-9 were markedly lower in
+
+tumors from mice administered GTPs, and the activity of these
+gelatinases also was reduced. The inhibition of MMPs was
+accompanied by elevated expression of their natural inhibitor,
+TIMP1. This suggests one mechanism by which GTPs inhibit
+UV-induced tumor growth. These data are in concordance
+with our previous study of in vitro treatment of human pros-
+tate carcinoma cells (DU145) with (-)-epigallocatechin-3-
+gallate (a major constituent of GTPs) in which we also ob-
+served a downregulation of MMP-2 and MMP-9 protein
+expression as well as downregulation of their activities (12).
+Furthermore, our in vivo tumor model revealed that adminis-
+tration of GTPs in the drinking water inhibited the expression
+of vascular endothelial cell antigens, such as CD31 and VEGF,
+in the UVB-induced tumors. These proteins play an important
+role in tumor growth, invasion, and metastasis due to their
+promotion of the new vasculature formation that supports the
+growth of the tumor. Thus, administration of GTPs in the
+drinking water has a strong antiangiogenic effect and has the
+potential to check the growth, or cause regression, of the
+
+FIGURE 4 Oral administration
+of GTPs in mice inhibits enhanced ex-
+pression of vascular endothelial cell an-
+tigen CD31, a marker of angiogenesis
+(Panel A) and enhances the recruitment
+of CD8⫹ T cells in UVB-induced tumors
+(Panel B). Immunoﬂuorescence analysis
+indicates reduced staining of CD31 (red)
+and fewer CD31⫹ cells after oral admin-
+istration of GTPs as well as a reduction
+in the presence of clustering and elon-
+gation of vessels as revealed by the
+CD31 staining of the endothelial cells.
+Arrows in Panel A indicate the presence
+of clustering and elongation of the ves-
+sels of CD31⫹ cells.
+Immunoﬂuores-
+cence analysis using FITC conjugated
+anti-CD8 monoclonal antibody revealed
+enhanced recruitment of CD8⫹ T cells
+(green) in the tumors of the mice admin-
+istered GTPs⫹UVB compared with the
+UVB group (Panel B). Scale bar ⫽ 50
+␮m.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/135/12/2871/4669980
+by University of Ottawa user
+on 24 June 2018
+
+2876
+
+MANTENA ET AL.
+
+istered GTPs. This indicates that the cells are undergoing
+apoptosis (23,24) and could reﬂect apoptosis induced by the
+activity of the cytotoxic T cells and/or a direct effect of the
+GTPs. Similar studies were conducted with EGCG (a major
+component of GTPs) in which the chemopreventive effect of
+topical application of EGCG in a hydrophilic cream was
+evaluated with an identical photocarcinogenesis protocol and
+biomarkers of angiogenesis and cytotoxic T cells in tumors
+(25). The degree of chemopreventive effect of GTPs was lower
+than that with topical application of EGCG. Presumably, this
+difference may be due to the higher concentration of EGCG
+available in the skin with topical application compared with
+oral administration of GTPs. However, the chemopreventive
+effect of orally administered GTPs in mice was notable against
+the biomarkers studied in this study; it can be considered as
+important as EGCG because GTPs are affordable, less costly
+than pure EGCG, and can be easily obtained from green tea
+beverage for the prevention of UV-induced skin cancer and
+other harmful effects of UV radiation. On the basis of the
+information obtained in this study, it is suggested that the
+daily consumption of 5– 6 cups (1 cup ⫽ 150 mL) of green tea
+(1 g green tea leaves/150 mL) by humans may provide the
+same level of GTPs in the in vivo human system and should
+provide similar protection against harmful effects of UV radi-
+ation. However, the magnitude of chemopreventive effect of
+GTPs may differ from person to person due to differences in
+race, and UV radiation intensity and exposure time.
+
+In summary, our data suggest that GTPs can act to prevent
+both UVB-induced skin carcinogenesis and the growth of the
+tumors once established. They further indicate that GTPs can
+act through at least 2 mechanisms in our in vivo tumor model
+system: 1) inhibition of the proangiogenic stimuli, and 2)
+promotion of cell death or apoptosis of the tumor cells. Thus,
+green tea polyphenols have potential for development as a
+complementary and alternative medicine to prevent UV-in-
+duced nonmelanoma and melanoma skin cancers.
+
+LITERATURE CITED
+
+1. O’Shaughnessy, J. A., Kelloff, G. J., Gordon, G. B., Dannenberg, A. J.,
+Hong, W. K., Fabian, C. J., Sigman, C. C., Bertagnolli, M. M., Stratton, S. P., Lam,
+S., Nelson, W. G., Meyskens, F. L., Alberts, D. S., Follen, M., Rustgi, A. K.,
+Papadimitrakopoulou, V., Scardino, P. T., Gazdar, A. F., Wattenberg, L. W.,
+Sporn, M. B., Sakr, W. A., Lippman, S. M. & Von Hoff, D.
+(2002) Treatment and
+prevention of intraepithelial neoplasia: an important target for accelerated new
+agent development. Recommendations of the American Association for Cancer
+Research task force on the treatment and prevention of intraepithelial neoplasia.
+Clin. Cancer Res. 8: 314 –346.
+
+2. Miller, D. L. & Weinstock, M. A.
+
+(1994) Nonmelanoma skin cancer in
+
+the United States: incidence. J. Am. Acad. Dermatol. 30: 774 –778.
+
+3. Urbach, F.
+
+(1991)
+
+Incidences of nonmelanoma skin cancer. Dermatol.
+
+5. Katiyar, S. K. & Mukhtar, H.
+
+Tea and chemoprevention of
+cancer: epidemiologic and experimental studies (Review). Int. J. Oncol. 8: 221–
+238.
+
+(1996)
+
+6. Katiyar, S. K.
+
+(2003) Skin photoprotection by green tea: Antioxidant
+and immunomodulatory effects. Current Drug Targets Immune Endocr. Metabol.
+Disord. 3: 234 –242.
+
+7. Katiyar, S. K. & Elmets, C. A.
+
+(2001) Green tea polyphenolic antioxi-
+
+dants and skin photoprotection. Int. J. Oncol. 18: 1307–1313.
+
+8. Wang, Z. Y., Huang, M. T., Ferraro, T., Wong, C.-Q., Lou, Y.-R., Reuhl, K.,
+Iatropoulos, M., Yang, C. S. & Conney, A. H.
+Inhibitory effect of green
+tea in the drinking water on tumorigenesis by ultraviolet light and 12-O-tetradeca-
+noylphorbol-13-acetate in the skin of SKH-1 mice. Cancer Res. 52: 1162–1170.
+(2003) Exceptionally
+high protection of photocarcinogenesis by topical application of (-)-epigallocat-
+echin-3-gallate in hydrophilic cream in SKH-1 hairless mouse model: relationship
+to inhibition of UVB-induced global DNA hypomethylation. Neoplasia 5: 555–565.
+10. American Institute of Nutrition (1980) Second report of the ad hoc
+
+9. Mittal, A., Piyathilake, C., Hara, Y. & Katiyar, S. K.
+
+(1992)
+
+committee on standards for nutritional studies J. Nutr. 110: 1726.
+
+Clin. 9: 751–755.
+
+& Lowe, L.
+Dermatol. 38: 681– 686.
+
+4. Johnson, T. M., Dolan, O. M., Hamilton, T. A., Lu, M. C., Swanson, N. A.
+(1998) Clinical and histologic trends of melanoma. J. Am. Acad.
+
+FIGURE 5 Oral administration of GTPs in mice inhibits UVB-
+induced expression of VEGF (Panel A) and PCNA (Panel B) while
+increasing the activation of caspase-3 (Panel C). Activation of
+caspase-3 is indicated by its cleavage. The band intensities relative to
+␤-actin are shown under each blot. Epidermal skin lysates from the
+control group were included in this assay. Representative examples of
+blots are shown from 3 sets of experiments conducted. One set of
+experiment includes control, UVB, and GTPs⫹UVB groups. The sam-
+ples in each set were prepared by pooling the skin or tumors from 6
+different mice that showed identical results each time, n ⫽ 3. *Different
+from UVB alone group, P ⬍ 0.005.
+
+tumors through this mechanism. Whether the GTPs affect the
+expression of each of these proteins separately or target a key
+molecule that regulates angiogenesis is yet to be resolved.
+
+The inhibition of PCNA in the microenvironment of the
+tumors supports the concept that the proliferation of the
+tumor cells is suppressed. Again, this may reﬂect the action of
+the GTPs on other mechanisms, such as angiogenesis or may
+be a direct effect of the inhibitory action of GTPs. Such an
+effect on the expression of PCNA would have the potential to
+inhibit both UVB-induced carcinogenesis and growth of the
+tumors once initiated.
+
+CD8⫹ T cells are the effector cells in the cytotoxic response
+of the host to UV-induced skin tumor cells; they play an
+important role in protection against tumor immunity at least
+for skin tumors induced by chronic UV exposure (22). The
+ability of oral administration of GTPs to enhance the inﬁltra-
+tion or recruitment of higher numbers of CD8⫹ T cells in the
+tumor microenvironment may act to enhance the immunosur-
+veillance that is mediated by these cells, thereby reducing the
+incidence of tumors. It also has the potential to inhibit UV-
+induced tumor growth and promote regression of developing
+tumors. Finally, our studies established that the level of acti-
+vation of caspase 3 was enhanced in tumors from mice admin-
+
+Downloaded from https://academic.oup.com/jn/article-abstract/135/12/2871/4669980
+by University of Ottawa user
+on 24 June 2018
+
+GREEN TEA INHIBITS ANGIOGENESIS IN SKIN TUMORS
+
+2877
+
+18. Westermarck, J. & Kahari, V. M.
+
+(1999) Regulation of matrix metallo-
+
+proteinase expression in tumor invasion. FASEB J. 13: 781–792.
+
+19. Sternlicht, M. D. & Werb, Z.
+
+(2001) How matrix metalloproteinases
+
+regulate cell behavior. Annu. Rev. Cell Dev. Biol. 17: 463–516.
+
+20. Hanahan, D. & Folkman, J.
+
+(1996) Patterns and emerging mechanisms
+
+of the angiogenic switch during tumorigenesis. Cell 86: 353–364.
+
+21. Schlaeppi, J. M. & Wood, J. M.
+
+(1999) Targeting vascular endothelial
+growth factor (VEGF) for anti-tumor therapy, by anti-VEGF neutralizing monoclo-
+nal antibodies or by VEGF receptor tyrosine-kinase inhibitors. Cancer Metastasis
+Rev. 18: 473– 481.
+
+22. de Gruijl, F. R.
+
+(2002) Ultraviolet radiation and tumor immunity. Meth-
+
+ods 28: 122–129.
+
+23. Yang, J., Liu, X., Bhalla, K., Kim, C. N., Ibrado, A. M., Cai, J., Peng, T. I.,
+Jones, D. P. & Wang, X.
+(1997) Prevention of apoptosis by Bcl-2: release of
+cytochrome c from mitochondria blocked. Science (Washington, DC) 275: 1129 –
+1132.
+
+24. Kluck, R. M., Bossy-Wetzel, E., Green, D. R. & Newmeyer, D. D.
+
+(1997)
+The release of cytochrome c from mitochondria: a primary site for Bcl-2 regulation
+of apoptosis. Science (Washington, DC) 275: 1132–1136.
+
+25. Mantena, S. K., Roy, A. M. & Katiyar, S. K.
+
+(2005) Epigallocatechin-
+3-gallate inhibits photocarcinogenesis through inhibition of angiogenic factors
+and activation of CD8⫹ T cells in tumors. Photochem. Photobiol. DOI: 10.1562/
+2005-04-11-RA-487.
+
+11. Agarwal, R., Katiyar, S. K., Khan, S. G. & Mukhtar, H.
+
+(1993) Protection
+against ultraviolet B radiation-induced effects in the skin of SKH-1 hairless mice
+by a polyphenolic fraction isolated from green tea. Photochem. Photobiol. 58:
+695–700.
+
+12. Vayalil, P. K. & Katiyar, S. K.
+
+(2004) Treatment of epigallocatechin-3-
+gallate inhibits matrix metalloproteinase-2 and -9 via inhibition of activation of
+mitogen-activated protein kinases, c-jun and NF-␬B in human prostate carcinoma
+DU-145 cells. Prostate 59: 33– 42.
+
+13. Vayalil, P. K., Elmets, C. A. & Katiyar, S. K.
+
+(2003) Treatment of green
+tea polyphenols in hydrophilic cream prevents UVB-induced oxidation of lipids
+and proteins, depletion of antioxidant enzymes and phosphorylation of MAPK
+proteins in SKH-1 hairless mouse skin. Carcinogenesis 24: 927–936.
+
+14. Roy, A. M., Baliga, M. S., Elmets, C. A. & Katiyar, S. K.
+
+(2005) Grape
+seed proanthocyanidins induce apoptosis through p53, Bax and caspase 3
+pathways. Neoplasia 7: 24 –36.
+
+15. Katiyar, S. K., Challa, A., McCormick, T. S., Cooper, K. D. & Mukhtar, H.
+(1999) Prevention of UVB-induced immunosuppression in mice by green tea
+polyphenol (-)-epigallocatechin-3-gallate may be associated with alterations in
+IL-10 and IL-12 production. Carcinogenesis 20: 2117–2124.
+
+16. Egeblad, M. & Werb, Z.
+
+(2002) New functions for the matrix metallo-
+
+proteinases in cancer progression. Nat. Rev. Cancer 2: 161–174.
+
+(1999) MMP inhibition in prostate cancer. Ann. N.Y.
+
+17. Lokeshwar, B. L.
+Acad. Sci. 878: 271–289.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/135/12/2871/4669980
+by University of Ottawa user
+on 24 June 2018
+
+

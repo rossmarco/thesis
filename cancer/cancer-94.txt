@@ -1,0 +1,1077 @@
+Meta-Analysis of Observational Studies in Epidemiology Medicine®
+
+OPEN
+
+Circulating 25-hydroxyvitamin D and lung
+cancer risk and survival
+A dose–response meta-analysis of prospective cohort studies
+Qianqian Feng, MD, Han Zhang, MD, Zhengqin Dong, MD, Yang Zhou, MD, Jingping Ma, MD
+
+∗
+
+Abstract
+Lower serum level of 25-hydroxyvitamin D is associated with several negative outcomes. However, previous studies have indicated
+that 25-hydroxyvitamin D is associated with lung cancer risk and survival, but presented controversial results.
+
+PubMed and Embase databases were searched update to August 2017 to identify and quantify the potential association between
+
+25-hydroxyvitamin D and lung cancer risk and survival.
+
+Seventeen eligible studies involving a total of 138,858 participants with 4368 incident cases were included in this meta-analysis.
+Our results showed statistically signiﬁcant association between 25-hydroxyvitamin D and lung cancer risk and mortality. However,
+circulating 25-hydroxyvitamin D was not associated with overall
+lung cancer survival. Furthermore, compared with the lowest
+circulating 25-hydroxyvitamin D, the highest circulating 25-hydroxyvitamin D is signiﬁcantly decreased risk of lung cancer risk in male
+and female. In addition, the highest circulating 25-hydroxyvitamin D was signiﬁcantly associated with a lower risk in Caucasian and
+Asian. We also obtained the best ﬁt at an inﬂection point of 10 nmol/L in piecewise regression analysis, increasing 10 nmol/L dose of
+circulating 25-hydroxyvitamin D was associated with an 8% reduction in the risk of lung cancer risk and an 7% reduction in the risk of
+lung cancer mortality. Subgroup meta-analyses in study quality, number of participants, and number of cases showed consistent
+with the primary ﬁndings.
+
+The highest circulating 25-hydroxyvitamin D was associated with decreased lung cancer risk and mortality but not overall survival
+
+Abbreviations: CI = conﬁdence interval, OR = odds ratio, RR = relevant risk.
+Keywords: circulating 25-hydroxyvitamin D, dose–response relationship, lung cancer, meta-analysis
+
+1. Introduction
+
+Lung cancer is one of the most serious and malignant diseases
+with the highest morbidity and mortality, and one of the most
+serious malignancies for population health and life.[1] It accounts
+for the ﬁrst incidence of all malignancies in male, with the second
+highest incidence in female, and the mortality rate account for the
+second of all malignancies.[2] According to the American Cancer
+Association statistics, lung cancer mortality gradually increased,
+the overall cure rate for lung cancer has not
+improved
+signiﬁcantly over the past decade.[3] These data reveal the poor
+prognosis of lung cancer, and thus to prevent the occurrence of
+lung cancer is essential. Compared with many other cancers,
+
+Editor: Peng Luo.
+QF and HZ have contributed equally to this work.
+The authors have no funding and conﬂicts of interest to disclose.
+Supplemental Digital Content is available for this article.
+Department of Respiratory Medicine, The Second Clinical Medical College,
+Yangtze University, Jingzhou, Hubei, China.
+∗
+Correspondence: Jingping Ma, Department of Respiratory Medicine, The
+Second Clinical Medical College, Yangtze University, Renmin Road No. 1,
+Jingzhou, Hubei 434000, China (e-mail: jingping__ma@sina.com).
+Copyright © 2017 the Author(s). Published by Wolters Kluwer Health, Inc.
+This is an open access article distributed under the Creative Commons
+Attribution License 4.0 (CCBY), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly cited.
+Medicine (2017) 96:45(e8613)
+Received: 23 August 2017 / Received in ﬁnal form: 19 October 2017 /
+Accepted: 23 October 2017
+http://dx.doi.org/10.1097/MD.0000000000008613
+
+there are a few identiﬁed risk factors for lung cancer, including
+asthma, chronic obstructive emphysema, pneumonia, tuberculo-
+sis, and atmospheric pollution.[4,5] Meanwhile,
+the role of
+vitamin D has been recognized as an independently risk in several
+cancers, including lung cancer.[6] Vitamin D mainly exists in the
+body in the form of circulating vitamin D, which is hydroxylated
+into 25-hydroxyvitamin D in the liver.[7]
+
+Vitamin D is a fat-soluble vitamin, and the human body is
+mainly vitamin D2 and vitamin D3. The body’s vitamin D is
+mainly derived from the body’s own synthesis and animal
+food. The main function of vitamin D is to maintain the
+metabolism balance of human calcium and the formation of
+bone. In addition, vitamin D deﬁciency is closely related to
+abnormal immune function, cardiovascular disease, metabolic
+diseases, and tumors.[8] Lower circulating 25-hydroxyvitamin
+D is a common condition in lung cancer. Also, lower vitamin D
+level is a potential reversible/modiﬁable risk factors for lung
+cancer.[9]
+
+Previous studies have examined the relationship between
+circulating 25-hydroxyvitamin D and risk of cardiovascular
+disease, type 2 diabetes, and all-cause mortality, and have found
+higher circulating 25-hydroxyvitamin D is signiﬁcantly reduce
+disease risk.[8,10] Even though some studies supported higher
+circulating 25-hydroxyvitamin D signiﬁcantly decrease lung
+cancer risk and survival. However, the result remains controver-
+sial. In addition, no study to quantitative assessed circulating 25-
+hydroxyvitamin D and lung cancer risk and survival. Thus, we
+performed this comprehensive dose–response meta-analysis to
+clarify and quantitative assessed the correlation between
+circulating 25-hydroxyvitamin D and lung cancer.
+
+1
+
+Feng et al. Medicine (2017) 96:45
+
+2. Methods
+
+Our meta-analysis was conducted according to the Meta-analysis
+Of Observational Studies in Epidemiology checklist.[11] There are
+no ethical issues involved in our study for our data were based on
+published studies.
+
+2.1. Search strategy
+
+Eligible studies were systematically searched of PubMed and
+Embase update to August 2017 examining the association between
+circulating 25-hydroxyvitamin D and lung cancer risk and
+survival, with keywords
+including “25-hydroxyvitamin D”
+[MeSH] OR “vitamin D” [MeSH] AND “lung cancer” [MeSH]
+OR “lung tumor” [MeSH]. We refer to the relevant original essays
+and commentary articles to determine further relevant research.
+
+2.2. Study selection
+
+lung cancer
+
+Two independent researchers investigate information: outcome
+was
+incidence and mortality. Moreover, we
+precluded nonhuman studies, reviews, editorials, and published
+letters. To ensure the correct identiﬁcation of qualiﬁed research,
+the 2 researchers read the reports independently.
+
+2.3. Data extraction
+
+Use standardized data collection tables to extract data. Each
+eligible article information was extracted by 2 independent
+researchers. The following information was extracted: ﬁrst
+author; publication year; age; country; sex; cases and partic-
+ipants; and relative risk or odds ratio. We collect the risk
+estimates with multivariable-adjusted. According to the New-
+castle–Ottawa scale,[12] quality assessment was performed for
+nonrandomized studies.
+
+2.4. Statistical analysis
+
+We pooled relative risk estimates to measure the association
+between circulating 25-hydroxyvitamin D and lung cancer risk
+and survival. Results in different subgroup of circulating 25-
+hydroxyvitamin D and lung cancer risk and survival were treated
+as 2 separate reports.
+
+Due to different deﬁnitions cut-off points in the included
+studies for categories, using the method recommended by
+Greenland, Longnecker and Orsini et al[13] by increase per 10
+nmol/L circulating 25-hydroxyvitamin D. A ﬂexible meta-
+regression based on restricted cubic spline function was used
+to ﬁt the potential nonlinear trend, and generalized least-square
+method was used to estimate the parameters. This procedure
+treats circulating 25-hydroxyvitamin D (continuous data) as an
+independent variable and logRR of diseases as a dependent
+variable, with both tails of the curve restricted to linear.[14]
+The between-study heterogeneity was assessed by Q-statistic
+(signiﬁcance level at P  .10) and the I2 statistic.[15] STATA
+software 12.0 (STATA Corp, College Station, TX) was used in all
+analyses. P < .05 was considered signiﬁcant for all tests.
+
+3. Results
+
+3.1. Literature search results
+
+Figure 1 shows literature research and selection. A total of 1685
+studies were retrieved (PubMed: 1634, Embase: 1862). After
+
+Medicine
+
+Figure 1. Flow diagram of the study selection process.
+
+exclusion of studies, 17 studies were chosen, among the selected
+studies, 9 studies about the relationships between circulating 25-
+hydroxyvitamin D and lung cancer risk,[16–24] 3 studies about the
+relationships between circulating 25-hydroxyvitamin D and lung
+cancer mortality,[25–27] 5 studies about the relationships between
+circulating 25-hydroxyvitamin D and lung cancer survival,[28–32]
+and the data were extracted. These studies were published update
+to August 2017.
+
+3.2. Study characteristics
+
+The characteristics of the included studies are shown in Tables 1
+and 2. A total of 138,858 participants with 4368 incident cases
+were included in this meta-analysis.
+3.3. Circulating 25-hydroxyvitamin D and lung cancer risk
+
+Nine studies including 11 independent reports investigated the
+association between circulating 25-hydroxyvitamin D and lung
+cancer risk. Higher circulating 25-hydroxyvitamin D was
+signiﬁcantly decreased risk of lung cancer (relevant risk [RR]:
+0.84; 95% conﬁdence interval (CI): 0.74–0.95; P = .006; Table 3).
+Furthermore, higher circulating 25-hydroxyvitamin D was
+associated with a signiﬁcantly decrement risk of lung cancer in
+female (odds ratio [OR] = 0.16, 95% CI: 0.04–0.59, P < .001;
+Table 3) and in male (OR = 0.82, 95% CI: 0.71–0.91, P < .001;
+Table 3). In addition, higher circulating 25-hydroxyvitamin D
+was signiﬁcantly decreased risk in Caucasian (RR: 0.92; 95% CI:
+0.88–0.95; P < .001; Table 3) and Asian (RR: 0.41; 95% CI:
+0.19–0.91; P < .001; Table 3). We also obtained the best ﬁt at an
+inﬂection point of 10 nmol/L in piecewise regression analysis,
+increasing 10 nmol/L of circulating 25-hydroxyvitamin D was
+associated with a 8% reduction in the risk of lung cancer, the
+summary relative risk of lung cancer risk for an per 10 nmol/L of
+
+2
+
+Feng et al. Medicine (2017) 96:45
+
+www.md-journal.com
+
+Table 1
+Characteristics of participants in included studies of circulating 25-hydroxyvitamin D in relation to lung cancer.
+
+Author (year)
+
+Study design
+
+Country
+
+Sex of
+
+population
+
+Age at
+
+baseline, y
+
+No. of
+
+participants
+
+Endpoints
+(cases)
+
+Quality
+score
+
+Circulating 25-hydroxyvitamin D and lung cancer risk
+
+Afzal et al (2013)[16]
+Ananthakrishnan et al (2014)[17]
+Giovannucci et al (2006)[18]
+Kilkkinen et al (2008)[19]
+
+Ordóñez-Mena et al (2016)[20]
+Skaaby et al (2014)[21]
+Wang et al (2015)[24]
+Weinstein et al (2011)[22]
+Wong et al (2014)[23]
+
+Circulating 25-hydroxyvitamin D and mortality
+
+Cheng and Neuhouser (2012)[27]
+Liu et al (2011)[25]
+Tretli et al (2012)[26]
+
+Circulating 25-hydroxyvitamin D and survival
+
+Anic et al (2014)[28]
+Heist et al (2008)[29]
+Vashi et al (2015)[30]
+Zhou et al (2007)[31]
+Ma et al (2017)[32]
+
+NA = not available.
+
+Cohort
+Cohort
+Cohort
+Cohort
+
+Cohort
+Cohort
+Case–control
+Case–control
+Cohort
+
+Cohort
+Case–control
+Case–control
+
+Cohort
+Cohort
+Cohort
+Cohort
+Cohort
+
+Denmark
+The United States
+The United States
+Finland
+
+Mix
+Mix
+Male
+Female and male
+
+Germany
+Denmark
+China
+Finland
+Australia
+
+The United States
+China
+Norwegian
+
+Finland
+The United States
+The United States
+The United States
+China
+
+Mix
+Mix
+Mix
+Male
+Male
+
+Female and male
+Mix
+Mix
+
+Male
+Mix
+Mix
+Mix
+Mix
+
+58
+46
+
+40–75
+≥30
+
+63
+
+18–71
+57.1
+59
+77.9
+
+43.7
+NA
+56.5
+
+58.6
+62
+57.4
+68.6
+>18
+
+9791
+2809
+47,800
+6937
+
+8928
+11,133
+
+200
+
+29,133
+4208
+
+16,693
+
+568
+658
+
+NA
+NA
+NA
+NA
+NA
+
+Lung cancer (507)
+Lung cancer (19)
+Lung cancer (418)
+Lung cancer (128)
+Male (97)
+Female (31)
+Lung cancer (134)
+Lung cancer (111)
+Lung cancer (100)
+Lung cancer (500)
+Lung cancer (101)
+
+Lung cancer (258)
+Lung cancer (87)
+Lung cancer (210)
+
+Lung cancer (500)
+Lung cancer (294)
+Lung cancer (359)
+Lung cancer (447)
+Lung cancer (195)
+
+7
+7
+7
+8
+
+7
+6
+6
+7
+6
+
+7
+6
+6
+
+7
+7
+6
+7
+7
+
+Table 2
+Outcomes and covariates of included studies of circulating 25-hydroxyvitamin D in relation to lung cancer.
+Author (year)
+
+Category and relative risk (95% CI)
+
+Data source
+
+Endpoints
+
+Covariates in fully adjusted model
+
+Kilkkinen et al
+(2008)[19]
+
+Lung cancer (128)
+
+Male (97)
+Female (31)
+
+Population-based Male: >5 to <34 nmol/L, 1.0 (reference); >35 to <51, 1.29
+
+(0.80, 2.09); >52 to <180, 1.03 (0.59, 1.82)
+
+Female: >4 to <30 nmol/L, 1.0 (reference); >31 to <46, 0.28
+
+(0.11, 0.74); >47 to <51, 0.16 (0.04, 0.59)
+
+Adjusted for age, marital status, education, BMI, alcohol
+
+consumption, smoking, and season of baseline
+measurement
+
+Lung cancer (134)
+
+Hospital-based
+
+ESTHER study
+
+<30 nmol/L, 1.0 (reference); >30 to <50, 0.86 (0.52, 1.45);
+
+>50, 0.81 (0.54, 1.19)
+
+Adjusted for sex, age, season of blood draw, highest level of
+
+education, smoking status, BMI, and vigorous physical activity
+
+Ordóñez-Mena et al
+
+(2016)[20]
+
+Weinstein et al
+
+(2011)[22]
+
+Wong et al (2014)[23]
+
+TROMSØ study
+<30 nmol/L, 1.0 (reference); >30 to <50, 0.45 (0.17, 1.20)
+>50, 0.64 (0.37, 1.11)
+
+Lung cancer (500)
+
+Population-based <25 nmol/L, 1.0 (reference); >25 to <37.5, 0.80 (0.57, 1.12);
+>37.5 to <50, 0.87 (0.61, 1.24); >50 to <75, 0.74 (0.48,
+1.15); >75, 0.91 (0.53, 1.57)
+
+Lung cancer (101)
+
+Hospital-based
+
+<50 nmol/L, 1.0 (reference); >50 to <75, 0.72 (0.43, 1.23);
+
+>75, 0.99 (0.59, 1.66)
+
+Cheng and Neuhouser
+
+(2012)[27]
+
+Lung cancer (258)
+
+Liu et al (2011)[25]
+
+Lung cancer (87)
+
+Tretli et al (2012)[26]
+
+Lung cancer (210)
+
+Anic et al (2014)[28]
+
+Lung cancer (500)
+
+Heist et al (2008)[29]
+
+Lung cancer (294)
+
+Population-based Male: <44.0 nmol/L, 1.0 (reference); >44 to <60.8, 0.78
+
+(0.44, 1.37); >60.9 to <80.3, 0.48 (0.25, 0.92); >80.3,
+1.05 (0.64, 1.73)
+
+Female: <44.0 nmol/L, 1.0 (reference); >44 to <60.8, 0.79
+(0.40, 1.58); >60.9 to <80.3, 1.05 (0.56, 1.97); >80.3,
+0.47 (0.17, 1.32)
+
+Population-based <25.36 nmol/L, 1.0 (reference); >25.36 to <37.72, 1.47 (0.58,
+3.73); >37.72 to <56.54, 1.59 (0.75, 3.39); >56.54, 2.54
+(1.01, 6.41)
+
+Population-based <46 nmol/L, 1.0 (reference); >46 to <61, 0.39 (0.26, 0.58);
+
+>62 to <81, 0.34 (0.22, 0.53); >81, 0.18 (0.11, 0.29)
+
+Population-based <17.8 nmol/L, 1.0 (reference); >17.8 to <25.3, 1.08 (0.81,
+1.43); >25.3 to <40.8, 0.97 (0.72, 1.29); >40.8, 1.18
+(0.89, 1.56)
+
+Population-based <12.6 nmol/L, 1.0 (reference); >12.6 to <20.2, 1.09 (0.75,
+1.57); >20.3 to <27.6, 1.03 (0.71, 1.50); >27.7, 1.08
+(0.75, 1.57)
+
+<20 nmol/L, 1.0 (reference); >20, 1.01 (0.79, 1.28)
+<10.2 nmol/L, 1.0 (reference); >10.2 to <15.7, 1.07 (0.74,
+1.53); >15.8 to <21.5, 0.80 (0.55, 1.18); >21.6, 0.74
+(0.50, 1.10)
+
+Vashi et al (2015)[30]
+Zhou et al (2007)[31]
+
+Lung cancer (359)
+Lung cancer (447)
+
+Hospital-based
+Hospital-based
+
+Ma et al (2017)[32]
+
+Lung cancer (195)
+
+Hospital-based
+
+<20 nmol/L, 1.0 (reference); >20, 0.96 (0.67, 1.38)
+
+BMI = body mass index, CI = conﬁdence interval, ECOG = Eastern Cooperative Oncology Group.
+
+3
+
+Adjusted for age, BMI, smoking, alcohol consumption, serum
+cholesterol, study supplementation group, and the date of
+blood collection
+
+Adjusted for age, BMI, smoking, physical activity, education,
+
+living circumstance, Charlson comorbidity index,
+creatinine, seasonality, and previous diagnosis of cancer
+other than lung cancer before blood sampling
+
+Adjusted for age, sex, race/ethnicity, region, and body mass
+
+index
+
+Adjusted for age, gender, smoking status, stage, histology,
+
+surgical operation, and chemotherapy or radiation
+treatment
+
+Adjusted for sex, age at diagnosis, season of blood sampling,
+time between serum sampling and 25-OHD measurement,
+and stage of the disease at the time of diagnosis
+
+Adjusted for age at randomization, date of blood collection,
+cigarettes per day, total years smoked, BMI, total serum
+cholesterol, calcium intake, energy intake, alcohol intake,
+fat intake, trial supplementation, family history of lung
+cancer, stage at diagnosis, and age at diagnosis
+
+Adjusted for sex, stage, and performance status
+
+Adjusted for age, sex, race/ethnicity, region, and body mass index
+Adjusted for age, sex, stage, pack-years of smoking,
+
+chemotherapy/radiation therapy, and surgery season in Cox
+proportional hazards model, where appropriate with serum
+25 (OH)D levels <10.2 ng/mL as the reference group
+
+Adjusted for age, gender, smoking status, pathological type, ECOG
+
+performance status, clinical stage, and treatment regimen
+
+Feng et al. Medicine (2017) 96:45
+
+Table 3
+Stratiﬁed analyses of relative risk of lung cancer.
+
+Study groups
+
+No. of reports
+
+Relative risk (95% CI)
+
+Circulating vitamin D and lung cancer risk
+Total
+11
+Subgroup analyses for lung cancer risk
+
+Sex
+
+Male
+Female
+
+Study location
+
+Caucasia
+Asia
+
+No of participants
+
+≥10,000
+<10,000
+No of cases
+
+≥500
+<500
+
+Study quality
+Score ≥7
+Score <7
+
+4
+1
+
+10
+1
+
+3
+8
+
+2
+9
+
+8
+3
+
+Circulating vitamin D and lung cancer mortality
+
+Total
+
+4
+
+Circulating vitamin D and lung cancer survival
+
+Total
+
+CI = conﬁdence interval.
+
+5
+
+0.84 (0.74–0.95)
+
+0.82 (0.71–0.91)
+0.16 (0.04–0.59)
+
+0.92 (0.88–0.95)
+0.41 (0.19–0.91)
+
+0.79 (0.62–0.98)
+0.85 (0.73–0.97)
+
+0.84 (0.77–0.92)
+0.93 (0.89–0.97)
+
+0.92 (0.88–0.96)
+0.71 (0.50–0.99)
+
+0.76 (0.61–0.94)
+
+1.01 (0.88–1.16)
+
+Medicine
+
+P for test
+
+.006
+
+<.001
+<.001
+
+<.001
+<.001
+
+.031
+.022
+
+<.001
+.006
+
+<.001
+.048
+
+.014
+
+.872
+
+Heterogeneity
+
+I2, %
+
+50.3
+
+0.0
+
+43.9
+
+0.0
+61.4
+
+0.0
+50.2
+
+50.8
+45.2
+
+96.1
+
+0.0
+
+P
+
+.028
+
+.914
+
+.066
+
+.645
+.011
+
+.808
+.041
+
+.047
+.161
+
+.000
+
+.437
+
+circulating 25-hydroxyvitamin D was 0.92 (95% CI: 0.87–0.96,
+P < .001; Fig. 2).
+
+nmol/L of circulating 25-hydroxyvitamin D was 0.93 (95% CI:
+0.88–0.96, P < .001; Fig. 3).
+
+3.4. Circulating 25-hydroxyvitamin D and lung cancer
+mortality
+
+3.5. Circulating 25-hydroxyvitamin D and lung cancer
+survival
+
+Three studies including 4 independent reports investigated the
+association between circulating 25-hydroxyvitamin D and lung
+cancer mortality. Higher circulating 25-hydroxyvitamin D was
+signiﬁcantly decreased risk of lung cancer mortality (RR: 0.76;
+95% CI: 0.61–0.94; P = .014; Table 3). We also obtained the best
+ﬁt at an inﬂection point of 10 nmol/L in piecewise regression
+analysis, increasing 10 nmol/L of circulating 25-hydroxyvitamin
+D was associated with a 7% reduction in lung cancer mortality,
+the summary relative risk of lung cancer mortality for an per 10
+
+Five studies including 5 independent reports investigated the
+association between circulating 25-hydroxyvitamin D and lung
+cancer survival. Higher circulating 25-hydroxyvitamin D did not
+signiﬁcantly decreased risk of lung cancer survival (RR: 1.01;
+95% CI: 0.88–1.16; P < .001; Table 3). We also obtained the best
+ﬁt at an inﬂection point of 10 nmol/L in piecewise regression
+analysis, increasing 10 nmol/L of circulating 25-hydroxyvitamin
+D was not increase lung cancer survival, the summary relative
+risk of lung cancer survival for an per 10 nmol/L of circulating
+
+Figure 2. Circulating 25-hydroxyvitamin D is associated with lung cancer risk.
+
+Figure 3. Circulating 25-hydroxyvitamin D is associated with lung cancer
+mortality.
+
+4
+
+Feng et al. Medicine (2017) 96:45
+
+www.md-journal.com
+
+number of participants, and number of cases showed consistent
+with the primary ﬁndings.
+
+Several plausible pathways may reasonable for the relation-
+ship between 25-hydroxyvitamin D and lung cancer. Vitamin D
+metabolites play a cytostatic effect most dependent on vitamin
+D receptor. Previous study found that 25-hydroxyvitamin D
+plays the role of inhibiting lung cancer cells growth in mouse
+epidermal cells formation.[34] The immunomodulatory func-
+tion of vitamin D metabolites may be an important mechanism
+for vitamin D in prevent lung cancer; 25-hydroxyvitamin D can
+inhibit the activity of mammalian target of rapamycin in lung
+cancer cells and raise the level of protein expression, which can
+promote the autophagy of tumor cells.[35] Meanwhile, 25-
+hydroxyvitamin can induce the expression of major antioxidant
+protein–superoxide dismutase SOD1 and SOD2,
+thereby
+inhibiting the formation of lung cancer to some extent.[36] In
+addition, vitamin D can regulate immunological function of
+lung epithelial cells and inhibit cellular proliferation and
+angiogenesis while promoting cellular differentiation and
+apoptosis.[34,37,38]
+
+Some limitations must be considered in this meta-analysis.
+First, we only select literature written in English, which may have
+resulted in a language or cultural bias, other languages should be
+chosen in the further. Second, we only select literature from
+PubMed and Embase databases, other databases should be
+chosen in the further.
+
+In conclusion, our ﬁndings underscore the notion that higher
+vitamin D was
+signiﬁcantly associated with lung cancer
+decrement.
+large-scale and population-based
+association studies must be performed in the future to validate
+the risk identiﬁed in the current meta-analysis.
+
+In the future,
+
+References
+
+[1] Jemal A, Bray F, Center M, et al. Global cancer statistics. CA Cancer J
+
+Clin 2011;61:69–90.
+
+[2] Zeng H, Zheng R, Guo Y, et al. Cancer survival in China, 2003–2005: a
+
+population-based study. Int J Cancer 2015;136:1921–30.
+
+[3] Miller K, Siegel R, Lin C, et al. Cancer treatment and survivorship
+
+statistics. CA Cancer J Clin 2016;66:271–89.
+
+[4] Ezzati M, Lopez A. Estimates of global mortality attributable to smoking
+
+in 2000. Lancet 2003;362:847–52.
+
+[5] Kushi L, Doyle C, McCullough M, et al. American Cancer Society
+Guidelines on nutrition and physical activity for cancer prevention:
+reducing the risk of cancer with healthy food choices and physical
+activity. CA Cancer J Clin 2012;62:30–67.
+
+[6] van der Rhee H, Coebergh J, de Vries E. Sunlight, vitamin D and the
+prevention of cancer: a systematic review of epidemiological studies. Eur
+J Cancer Prev 2009;18:458–75.
+
+[7] Zerwekh J. Blood biomarkers of vitamin D status. Am J Clin Nutr
+
+2008;87:1087S–91S.
+
+[8] Holick M. Vitamin D deﬁciency. N Engl J Med 2007;357:266–81.
+[9] LaPar D, Nagji A, Bhamidipati C, et al. Seasonal variation inﬂuences
+outcomes following lung cancer resections. Eur J Cardiothorac Surg
+2011;40:83–90.
+
+[10] Marshall Brinkley D, Ali O, Zalawadiya S, et al. Vitamin D and heart
+
+failure. Curr Heart Fail Rep 2017.
+
+[11] Stroup D, Berlin J, Morton S, et al. Meta-analysis of observational studies
+in epidemiology: a proposal for reporting. Meta-analysis Of Observa-
+tional Studies in Epidemiology (MOOSE) group. JAMA 2000;283:
+2008–12.
+
+[12] Stang A. Critical evaluation of the Newcastle–Ottawa scale for the
+assessment of the quality of nonrandomized studies in meta-analyses. Eur
+J Epidemiol 2010;25:603–5.
+
+[13] Orsini N, Li R, Wolk A, et al. Meta-analysis for linear and nonlinear
+dose–response relations: examples, an evaluation of approximations,
+and software. Am J Epidemiol 2012;175:66–73.
+
+[14] Durrleman S, Simon R. Flexible regression models with cubic splines.
+
+Stat Med 1989;8:551–61.
+
+Figure 4. Circulating 25-hydroxyvitamin D is associated with lung cancer
+survival.
+
+25-hydroxyvitamin D was 1.04 (95% CI: 0.91–1.17, P = .827;
+Fig. 4).
+
+3.6. Subgroup analyses
+
+Subgroup analysis was performed to check the stability of the
+primary outcome. Subgroup meta-analyses in study quality,
+number of participants, and number of cases showed consistent
+ﬁndings (Table 3).
+
+3.7. Publication bias
+
+The results show that no obvious evidence of publication bias
+was found in the associations between circulating 25-hydrox-
+yvitamin D and lung cancer risk (Supplementary Table 1, http://
+links.lww.com/MD/B951). P > .05 was considered no publica-
+tion bias. A funnel plot for publication bias assessment is shown
+in Supplementary Figures 1 to 3, http://links.lww.com/MD/B951.
+
+4. Discussion
+
+Vitamin D is an important vitamin, mainly from fat-rich ﬁsh,
+butter, cheese, and fortiﬁed milk. The body itself can produce
+vitamin D in the sun. However, vitamin D deﬁciency is a common
+phenomenon.[8] It can maintain the stability of serum calcium
+and phosphorus levels, when the serum calcium concentration is
+low, it induced parathyroid hormone secretion, release it to the
+kidney and bone cells.[33] Also, vitamin D participates in critical
+cell functions such as cell proliferation, apoptosis, differentiation,
+metastasis, and angiogenesis. Vitamin D is one of the indispens-
+able elements of health and disease prevention. Previous studies
+supported higher circulating 25-hydroxyvitamin D signiﬁcantly
+decrease lung cancer risk and survival. However, the result
+remains controversial.
+
+In the current, meta-analysis was based on 17 prospective
+cohort studies, with 138,858 participants with 4368 incident
+cases. Thus, this meta-analysis provides the most up-to-date
+epidemiological evidence supporting higher circulating 25-
+hydroxyvitamin D is helpful for lung cancer. A dose–response
+analysis revealed that increasing 10 nmol/L dose of circulating
+25-hydroxyvitamin D was associated with an 8% reduction in
+the risk of lung cancer risk and a 7% reduction in the risk of lung
+cancer mortality. Subgroup meta-analyses in study quality,
+
+5
+
+Feng et al. Medicine (2017) 96:45
+
+Medicine
+
+[15] Higgins J, Thompson S, Deeks J, et al. Measuring inconsistency in meta-
+
+analyses. BMJ 2003;327:557–60.
+
+[16] Afzal S, Bojesen S, Nordestgaard B. Low plasma 25-hydroxyvitamin D
+
+and risk of tobacco-related cancer. Clin Chem 2013;59:771–80.
+
+[17] Ananthakrishnan A, Cheng S, Cai T, et al. Association between reduced
+plasma 25-hydroxy vitamin D and increased risk of cancer in patients
+with inﬂammatory bowel diseases. Clin Gastroenterol Hepatol 2014;12:
+821–7.
+
+[18] Giovannucci E, Liu Y, Rimm E, et al. Prospective study of predictors of
+vitamin D status and cancer incidence and mortality in men. J Natl
+Cancer Inst 2006;98:451–9.
+
+[19] Kilkkinen A, Knekt P, Heliövaara M, et al. Vitamin D status and the risk
+of lung cancer: a cohort study in Finland. Cancer Epidemiol Biomarkers
+Prev 2008;17:3274–8.
+
+[20] Ordóñez-Mena J, Schöttker B, Fedirko V, et al. Pre-diagnostic vitamin D
+concentrations and cancer risks in older individuals: an analysis of
+cohorts participating in the CHANCES consortium. Eur J Epidemiol
+2016;31:311–23.
+
+[21] Skaaby T, Husemoen L, Thuesen B, et al. Prospective population-based
+study of the association between serum 25-hydroxyvitamin-D levels and
+the incidence of speciﬁc types of cancer. Cancer Epidemiol Biomarkers
+Prev 2014;23:1220–9.
+
+[22] Weinstein S, Yu K, Horst R, et al. Serum 25-hydroxyvitamin D and risk
+of lung cancer in male smokers: a nested case–control study. PLoS ONE
+2011;6:e20796.
+
+[23] Wong Y, Hyde Z, McCaul K, et al. In older men, lower plasma 25-
+hydroxyvitamin D is associated with reduced incidence of prostate, but
+not colorectal or lung cancer. PLoS ONE 2014;9:e99954.
+
+[24] Wang X, Cui J, Gu J, et al. Plasma 25-hydroxyvitamin D deﬁciency is
+associated with the risk of non-small cell lung cancer in a Chinese
+population. Cancer Biomark 2015;15:663–8.
+
+[25] Liu Y, Chen W, Hu Z, et al. Plasma vitamin D levels and vitamin D
+receptor polymorphisms are associated with survival of non-small cell
+lung cancer. Chin J Cancer Res 2011;23:33–7.
+
+[26] Tretli S, Schwartz G, Torjesen P, et al. Serum levels of 25-hydroxyvitamin
+D and survival in Norwegian patients with cancer of breast, colon, lung,
+and lymphoma: a population-based study. Cancer Causes Control
+2012;23:363–70.
+
+[27] Cheng T, Neuhouser M. Serum 25-hydroxyvitamin D, vitamin A, and
+lung cancer mortality in the US population: a potential nutrient-nutrient
+interaction. Cancer Causes Control 2012;23:1557–65.
+
+[28] Anic G, Weinstein S, Mondul A, et al. Serum vitamin D, vitamin D
+binding protein, and lung cancer survival. Lung Cancer 2014;86:297–
+303.
+
+[29] Heist R, Zhou W, Wang Z, et al. Circulating 25-hydroxyvitamin D, VDR
+polymorphisms, and survival in advanced non-small-cell lung cancer. J
+Clin Oncol 2008;26:5596–602.
+
+[30] Vashi P, Edwin P, Popiel B, et al. The relationship between circulating 25-
+hydroxyvitamin D and survival in newly diagnosed advanced non-small-
+cell lung cancer. BMC Cancer 2015;15:1012.
+
+[31] Zhou W, Heist R, Liu G, et al. Circulating 25-hydroxyvitamin D levels
+predict survival in early-stage non-small-cell lung cancer patients. J Clin
+Oncol 2007;25:479–85.
+
+[32] Ma K, Xu W, Wang C, et al. Vitamin D deﬁciency is associated with a
+poor prognosis in advanced non-small cell lung cancer patients treated
+with platinum-based ﬁrst-line chemotherapy. Cancer Biomark 2017;18:
+297–303.
+
+[33] Higashimoto Y, Ohata M, Nishio K, et al. 1 alpha, 25-dihydroxyvitamin
+D3 and all-trans-retinoic acid inhibit the growth of a lung cancer cell line.
+Anticancer Res 1996;16:2653–9.
+
+[34] Nakagawa K, Sasaki Y, Kato S, et al. 22-Oxa-1alpha,25-dihydrox-
+yvitamin D3 inhibits metastasis and angiogenesis in lung cancer.
+Carcinogenesis 2005;26:1044–54.
+
+[35] Hershberger P, Modzelewski R, Shurin Z, et al. 1,25-Dihydroxycho-
+lecalciferol (1,25-D3) inhibits the growth of squamous cell carcinoma
+and down-modulates p21(Waf1/Cip1) in vitro and in vivo. Cancer Res
+1999;59:2644–9.
+
+[36] Skaaby T, Husemoen L, Thuesen B, et al. Vitamin D status and chronic
+obstructive pulmonary disease: a prospective general population study.
+PLoS ONE 2014;9:e90654.
+
+[37] Hansdottir S, Monick MM, Hinde SL, et al. Respiratory epithelial cells
+convert inactive vitamin D to its active form: potential effects on host
+defense. J Immunol (Baltimore, MD: 1950) 2008;181:7090–9.
+
+[38] Nakagawa K, Kawaura A, Kato S, et al. 1 alpha,25-Dihydroxyvitamin D
+(3) is a preventive factor in the metastasis of lung cancer. Carcinogenesis
+2005;26:429–40.
+
+6
+
+

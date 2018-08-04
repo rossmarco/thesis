@@ -1,0 +1,4689 @@
+Nut and peanut butter consumption and the risk of esophageal and
+gastric cancer subtypes
+
+Maryam Hashemian,1,2,3 Gwen Murphy,1 Arash Etemadi,1 Sanford M Dawsey,1 Linda M Liao,1 and Christian C Abnet1
+
+1Metabolic Epidemiology Branch, Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD; 2Departments of Nutrition and
+Biochemistry, Faculty of Medicine, Sabzevar University of Medical Sciences, Sabzevar, Iran; and 3Digestive Oncology Research Center, Digestive Diseases
+Research Institute, Tehran University of Medical Sciences, Tehran, Iran
+
+ABSTRACT
+Background: Nut consumption has been associated with decreased
+risk of colorectal, endometrial, lung, and pancreatic cancers. Polyphe-
+nols, ﬁber, vitamins, and minerals in nuts may confer this observed
+protective effect. To our knowledge, no prospective study has evaluated
+the effect of nut consumption on esophageal and gastric cancers.
+Objective: The objective was to evaluate the associations between
+nut and peanut butter consumption and the risk of esophageal and
+gastric cancers and their different subtypes.
+Design: In this study we used data from the NIH-AARP Diet and
+Health Study, which enrolled 566,407 persons who were 50–71 y
+old at baseline (1995–1996). The median follow-up time was 15.5 y.
+Intakes of nuts and peanut butter were assessed through the use of a
+validated food-frequency questionnaire. We used Cox proportional
+hazard models to estimate HRs and 95% CIs for esophageal and
+gastric cancers and their subtypes.
+Results: We identiﬁed 966 incident cases of esophageal adenocar-
+cinomas, 323 cases of esophageal squamous cell carcinoma, 698
+cases of gastric cardia adenocarcinoma, and 732 cases of gastric
+noncardia adenocarcinoma. Compared with those who did not con-
+sume nuts or peanut butter [lowest category of consumption (C0)],
+participants in the highest category of nut consumption (C3) had a
+lower risk of developing gastric noncardia adenocarcinoma [C3
+compared with C0, HR: 0.73 (95% CI: 0.57, 0.94)]. This inverse
+association was also seen for peanut butter consumption [C3 com-
+pared with C0, HR: 0.75 (95% CI: 0.60, 0.94)]. We observed no
+signiﬁcant associations between the highest and lowest intakes of nuts
+or peanut butter and the risk of gastric cardia adenocarcinoma,
+esophageal adenocarcinoma, or esophageal squamous cell carci-
+noma.
+Conclusions: Among older American adults, both nut and peanut
+butter consumption were inversely associated with the risk of gastric
+noncardia adenocarcinoma. This trial was registered at clinicaltrials.
+gov as NCT00340015.
+
+Am J Clin Nutr 2017;106:858–64.
+
+Keywords: nut, peanut butter, esophageal cancer, gastric cancer,
+Mediterranean diet, prevention, adenocarcinoma, squamous cell
+carcinoma
+
+INTRODUCTION
+
+Gastric cancer is the third and esophageal cancer the sixth most
+common cause of death from cancer worldwide (1). Gastric
+
+cancer has 2 subtypes, gastric cardia cancer and gastric noncardia
+cancer. Esophageal cancer also has 2 subtypes, adenocarcinoma
+and squamous cell carcinoma, which have distinct causes (2, 3).
+The incidence of gastric cardia adenocarcinoma and esophageal
+adenocarcinoma is increasing in the United States and some other
+Western countries, whereas the incidence of gastric noncardia
+adenocarcinoma and esophageal squamous cell carcinoma is
+decreasing (4); this warrants separate evaluations of the risk
+factors for these subtypes.
+
+Nuts have been shown to have anti-inﬂammatory effects by
+affecting the production of prostaglandins and cytokines (5), and
+antioxidative effects by decreasing lipid peroxidation and pro-
+tecting against oxidative DNA damage (6). These protective
+effects could be due to some components of nuts, including
+polyphenols, ﬁbers, vitamins, and minerals (7). In some studies,
+nut consumption has been associated with decreased total and
+cancer-speciﬁc mortalities (6, 8–11). Also, a few studies have
+reported inverse associations with speciﬁc cancer sites,
+in-
+cluding the colon and rectum, endometrium, lungs, and pancreas
+(12, 13). Case-control studies have reported conﬂicting results
+(14, 15), and to our knowledge no study has prospectively
+evaluated the effect of nut consumption on upper gastrointestinal
+cancers. In addition, while 50% of the peanuts consumed in the
+United States take the form of peanut butter (16), just one
+previous publication reported the association of peanut butter
+with colorectal cancer incidence in the Nurses’ Health Study
+(17).
+
+In this analysis, we investigated the association between nut
+and peanut butter consumption and the risk of esophageal and
+
+Supported by the Intramural Research Program of the National Cancer
+
+Institute, NIH (https://dietandhealth.cancer.gov/acknowledgement.html).
+
+Supplemental Table 1 is available from the “Online Supporting Material”
+link in the online posting of the article and from the same link in the online
+table of contents at http://ajcn.nutrition.org.
+
+Address correspondence to CCA (e-mail: abnetc@mail.nih.gov).
+Abbreviations used: C0, lowest category of nut consumption; C3, highest
+category of nut consumption; FFQ, food frequency questionnaire; HEI-2010,
+Healthy Eating Index 2010; ICD-O, International Classiﬁcation of Diseases
+for Oncology.
+
+Received April 28, 2017. Accepted for publication June 29, 2017.
+First published online August 2, 2017; doi: https://doi.org/10.3945/ajcn.
+
+117.159467.
+
+858
+
+Am J Clin Nutr 2017;106:858–64. Printed in USA. Ó 2017 American Society for Nutrition
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/106/3/858/4822393
+by Sheridan College user
+on 02 August 2018
+
+PEANUT BUTTER AND ESOPHAGEAL CANCER
+
+859
+
+gastric cancers in the prospective NIH-AARP Diet and Health
+Study, which allowed us to evaluate the association of con-
+sumption with different subtypes of these 2 cancers.
+
+each item in the FFQ to the 1994–1996 USDA Continuing
+Survey of Food Intakes by Individuals (20).
+
+METHODS
+
+Study setting and population
+
+The NIH-AARP Diet and Health Study was established in
+1995–1996; 3.5 million members of AARP were mailed a
+baseline questionnaire that queried demographic characteristics,
+dietary intake, and other health-related factors. Eligible partic-
+ipants were 50–71 y old and resided in California, Florida,
+Louisiana, New Jersey, North Carolina, Pennsylvania, or either
+of 2 metropolitan areas (Atlanta, Georgia, or Detroit, Michigan).
+The details of the NIH-AARP Diet and Health Study have been
+described previously (18).
+
+In total, 617,119 baseline questionnaires were returned (18%
+response rate). After excluding subjects who moved out of the
+registry ascertainment area, those who later requested to be re-
+moved from the study, and those who returned incomplete
+questionnaires, the cohort comprised 566,398 participants. For
+this analysis we excluded 1) proxy respondents (n = 15,760); 2)
+participants with a self-reported history of cancer other than
+nonmelanoma skin cancer, prevalent cancer, or cancer diagnosed
+only on a death certiﬁcate (n = 51,334); 3) participants outside 2
+times the interquartile range (25th to 75th percentile) of the
+normalized distribution for energy intake (n = 4415); 4) those
+who self-reported end-stage renal disease at baseline (n = 997);
+and 5) participants with missing information on nut consump-
+tion (n = 8267) or peanut butter consumption (n = 6815). This
+analysis contains 2 substantially overlapping data sets: one for
+nut consumption, which consists of 485,625 participants, and
+one for peanut butter consumption, which consists of 487,077
+participants.
+
+The NIH-AARP Diet and Health study was approved by the
+Special Studies Institutional Review Board of the US National
+Cancer Institute, and all participants provided written informed
+consent.
+
+Exposure assessment
+
+A baseline food-frequency questionnaire (FFQ) was self-
+administered and queried intake of 124 items over the pre-
+vious 12 mo. The NIH-AARP Diet and Health Study FFQ has
+been shown to be valid and reproducible (19). Nut consumption
+was deﬁned as consumption of “peanuts, walnuts, seeds or other
+nuts” and was assessed through the use of 10 frequency cate-
+gories, ranging from never to $2 times/d, and 3 portion size
+categories, including less than one-quarter cup, a quarter to a
+half-cup, and “more than a half cup.” According to the USDA
+nutrient database, a quarter cup of nuts weighs 32.75 g. Peanut
+butter consumption was assessed with the same frequency cat-
+egories, but the portion sizes of peanut butter consisted of 3
+different options: ,1, 1–2, and .2 tablespoons. According to
+the USDA nutrient database, 1 tablespoon of peanut butter
+weighs 16 g. Grams of nuts and peanut butter consumed daily
+were computed through the use of frequency and portion size
+data. Energy and nutrient intakes were calculated by linking
+
+Ascertainment of endpoints
+
+Incident cases of gastroesophageal cancers were identiﬁed by
+linking to 11 state cancer registry databases (the 8 original states
+and 3 additional ones: Arizona, Nevada, and Texas). A previous
+study found that the sensitivity and speciﬁcity of case identiﬁ-
+cation in the NIH-AARP Diet and Health Study cohort were
+89.2% and 99.5%, respectively (21). Addresses of subjects were
+linked annually to the US Postal Service National Change of
+Address database to aid follow-up. Vital status was identiﬁed
+through linkages to the National Death Index, linkages to state
+cancer registries, and responses to annual mailings.
+
+Cancer subtypes were determined based on the histologic
+codes of the International Classiﬁcation of Diseases for Oncology
+(ICD-O), Third Edition, as well as anatomic site (22). We
+identiﬁed subjects with esophageal cancer with site codes C150–
+C159. Then we classiﬁed them by histology type and identiﬁed
+966 incident cases of esophageal adenocarcinomas and 323 in-
+cident cases of esophageal squamous cell carcinoma. We ex-
+cluded cases with nonadenocarcinoma or nonsquamous (n = 83)
+and unspeciﬁed (n = 39) histologies. We identiﬁed 698 incident
+cases of gastric cardia adenocarcinoma (site code 160) and 732
+incident cases of gastric noncardia adenocarcinoma (site codes
+161–169). Cases with nonadenocarcinoma histology (n = 183)
+were excluded because the risk factors for these malignancies
+are different.
+
+Statistical analysis
+
+Nut and peanut butter consumptions were tabulated for known
+and suspected risk factors for gastric and esophageal cancers. The
+correlation between nut consumption and peanut butter con-
+sumption was determined with Spearman correlation tests. Cox
+proportional hazards regression models were used to estimate
+HRs and 95% CIs. The proportional hazards assumption was
+veriﬁed through the use of the Schoenfeld residuals test for either
+nut or peanut butter consumption. Person-years were used as the
+underlying time metric and were computed from the date of
+receipt of a valid baseline questionnaire to the date of diagnosis of
+gastric, esophageal, or head and neck cancer (individuals with
+these cancers are more susceptible to gastroesophageal cancers);
+the date of departing the catchment area or loss to follow-up; the
+date of death; or the end of the follow-up period (31 December
+2011), whichever occurred ﬁrst.
+
+For adjusted models, we investigated all suspected con-
+founders, including age, sex, smoking status and dose (never,
+former ,20 cigarettes/d,
+former $20 cigarettes/d, current
+,20 cigarettes/d, or current $20 cigarettes/d), alcohol drinking
+(grams per day), BMI (kg/m2), education (less than high school,
+completed high school, post-high school or some college, or
+college and postgraduate), leisure physical activity (never, rarely,
+1–3 times/mo, 1–2 times/wk, 3–4 times/wk, $5 times/wk), fruit
+and vegetable intake (servings per day), and calorie intake
+(kilocalories per day). For energy adjustment, we used a nutrition
+density model based on grams per 1000-kcal intake, in addition to
+including energy in the models (23). Ethnicity (non-Hispanic
+white; non-Hispanic black; Hispanic; or Asian, Paciﬁc Islander, or
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/106/3/858/4822393
+by Sheridan College user
+on 02 August 2018
+
+860
+
+HASHEMIAN ET AL.
+
+Native American) was included in the model only for noncardia
+gastric adenocarcinoma because .95% of participants with all
+other cancers were non-Hispanic white.
+
+Multivariate HRs were calculated for categories of nut and
+peanut butter consumption. Because a large percentage of the
+population reported never consuming nuts or peanut butter during
+the previous 12 mo, we used never consumers as the reference
+category and categorized ever-consumers into tertiles based on
+the grams of nuts they consumed per 1000 kcal. The median value
+of each category was used to assess linear trend. HRs for the
+continuous scale were reported for each one-quarter-cup increase
+in nut consumption and each 1-tablespoon increase in peanut
+butter consumption per 1000 kcal/d.
+
+We performed several secondary analyses. We used the
+frequency of nut and peanut butter consumption to compare the
+risk of each cancer between participants who never or almost
+never (1–6 times/y) ate nuts or peanut butter, and participants
+who reported frequently consuming nuts or peanut butter. We
+also examined total nut consumption (grams) by adding the
+amount of nuts to the amount of peanut butter reported on the
+FFQ by each participant (24). To minimize the effect of healthy
+eating, an additional analysis further adjusted for the Healthy
+Eating Index 2010 (HEI 2010), because nut consumption could
+be a marker of healthy eating. To control for the effects of
+MUFAs and PUFAs, additional analyses further adjusted for
+MUFA and PUFA intake. Mutual adjustment was done for nut
+and peanut butter consumption. To accommodate the possible
+confounding of socioeconomic status, we performed a strati-
+ﬁed analysis. We excluded from sensitivity analyses cases di-
+agnosed in the ﬁrst 2 y of follow-up in order to assess potential
+reverse causality. Finally, to minimize misclassiﬁcation, we
+excluded participants with ICD-O codes C168 and C169; the
+C168 code designates lesions of the stomach that overlap
+different anatomic areas, and the C169 code designates gas-
+tric adenocarcinoma without a speciﬁc location within the
+stomach.
+
+Using likelihood ratio tests, we also evaluated interactions
+between never or almost never nut or peanut butter consumption
+with age, sex, BMI, smoking status, smoking dose, alcohol
+drinking, education, and total energy consumption. We used the
+median of continuous variables to categorize them for evaluating
+interactions. The signiﬁcance cutoff for the interaction likelihood
+ratio test was P , 0.05. Statistical analyses were done with
+STATA software (version 13; STATA Corp). All P values were
+2-sided, and P , 0.05 was considered signiﬁcant.
+
+RESULTS
+
+The median (IQR) follow-up time was 15.5 y (13.5–15.6 y).
+The median age of the participants was 62.6 y, 59.6% were
+male, and 91.2% were non-Hispanic white. The mean intake of
+nut consumption was 2.8 6 8.4 g/d, and the mean intake of
+peanut butter consumption was 3.0 6 7.4 g/d. The correlation
+between nut consumption and peanut butter consumption was
+0.20 (P , 0.001).
+
+In general, nut consumers were more likely to be male, drink
+more alcohol, have more education, be more active, and consume
+more calories; they were less likely to smoke or to have a history
+of cardiovascular disease, diabetes, or hypertension (Table 1).
+Suspected risk factors were less different among subjects in the
+
+categories of peanut butter consumption. However, peanut butter
+consumers were more likely to be smokers, be more active,
+have a higher BMI, consume more calories, drink less alcohol,
+have less education, and be less likely to have a history of heart
+disease and hypertension, according to their reports (Table 1).
+The associations between nut consumption and each outcome
+are summarized in Table 2. Being in the highest category of nut
+consumption was associated with a statistically signiﬁcant lower
+risk of developing gastric noncardia adenocarcinoma com-
+pared with non-consumers [HR: 0.73 (95% CI: 0.57, 0.94)].
+However, no signiﬁcant association was found between every
+quarter-cup (per 1000 kcal/d) increase in the consumption of
+nuts and risk of gastric noncardia adenocarcinoma [HR: 0.73
+(95% CI: 0.32, 1.64)] (Table 2). We observed no signiﬁcant
+associations between nut consumption and risk of gastric cardia
+cancer, esophageal adenocarcinoma, or esophageal squamous
+cell carcinoma (Table 2).
+
+The associations between peanut butter consumption and each
+outcome are summarized in Table 3. Being in the highest peanut
+butter consumption group was associated with a statistically
+signiﬁcant
+lower risk of gastric noncardia adenocarcinoma
+compared with those who did not consume peanut butter [HR:
+0.75 (95% CI: 0.60, 0.94)]. We also observed a signiﬁcant 48%
+decreased risk of gastric noncardia adenocarcinoma for every 1
+tablespoon (per 1000 kcal/d) of peanut butter consumed [HR:
+0.52 (95% CI: 0.32, 0.84)] (Table 3). The P-trend for the risk of
+esophageal adenocarcinoma was statistically signiﬁcant. How-
+ever, neither the HR of the highest (C3) versus the lowest (C0)
+category of nut consumption nor the HR of continuous intake for
+esophageal adenocarcinoma was signiﬁcant (Table 3).
+
+Eating nuts was associated with an 18% lower risk of de-
+veloping gastric noncardia adenocarcinoma than reporting never
+or almost never eating nuts [HR: 0.82 (95% CI: 0.70, 0.95)].
+Eating peanut butter was associated with a 28% lower risk of
+developing esophageal squamous cell carcinoma [HR: 0.72
+(95% CI: 0.56, 0.91)] and a 19% lower risk of developing gastric
+noncardia adenocarcinoma [HR: 0.81 (95% CI: 0.69, 0.94)] than
+never or almost never eating peanut butter.
+
+We also examined the association between total nut intake
+(nuts and peanut butter together, grams per 1000 kcal/d) and risk
+of each cancer subtype. Total nut intake was inversely associated
+with the risk of gastric noncardia cancer [C3 compared with C0,
+HR: 0.66 (95% CI: 0.53, 0.82)]. Total nut intake was not sta-
+tistically signiﬁcantly associated with the other 3 cancer subtypes
+(data not shown).
+
+In additional analyses, including the HEI 2010 in the Cox
+proportional hazards regression model shifted the results of
+gastric noncardia adenocarcinoma toward the null, but the pro-
+tective effect remained signiﬁcant for nut [C3 compared with C0,
+HR: 0.76 (95% CI: 0.59, 0.99)] and peanut butter [C3 compared
+with C0, HR: 0.79 (95% CI: 0.63, 0.99)] consumption. Including
+HEI 2010 in the model did not change the results for the other
+cancer subtypes. When including monounsaturated fat intake in
+the model, the association between peanut butter consumption
+and the risk of esophageal squamous cell carcinoma became
+signiﬁcant [C3 compared with C0, HR: 0.69 (95% CI: 0.49,
+0.98)], but this did not change the results for the other cancers.
+Including polyunsaturated fat intake in the model did not sig-
+niﬁcantly change any of the results. Adjusting the models for self-
+reported history of heart disease, diabetes, and stroke did not
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/106/3/858/4822393
+by Sheridan College user
+on 02 August 2018
+
+PEANUT BUTTER AND ESOPHAGEAL CANCER
+
+861
+
+s
+e
+i
+r
+o
+g
+e
+t
+a
+c
+
+e
+k
+a
+t
+n
+i
+
+r
+e
+t
+t
+u
+b
+
+t
+u
+n
+a
+e
+P
+
+s
+e
+i
+r
+o
+g
+e
+t
+a
+c
+
+e
+k
+a
+t
+n
+i
+
+t
+u
+N
+
+)
+0
+9
+.
+5
+
+,
+9
+9
+.
+1
+(
+
+4
+0
+.
+3
+
+)
+0
+9
+.
+0
+
+,
+5
+4
+.
+0
+(
+
+4
+6
+.
+0
+
+)
+1
+2
+.
+0
+
+,
+8
+0
+.
+0
+(
+
+4
+1
+.
+0
+
+0
+
+)
+2
+1
+
+.
+
+4
+
+,
+
+5
+3
+
+.
+
+1
+(
+
+0
+2
+
+.
+
+2
+
+)
+8
+6
+
+.
+
+0
+
+,
+
+6
+3
+
+.
+
+0
+(
+
+1
+5
+
+.
+
+0
+
+)
+6
+1
+
+.
+
+0
+
+,
+
+5
+0
+
+.
+
+0
+(
+
+1
+1
+
+.
+
+0
+
+0
+
+)
+8
+8
+5
+,
+9
+2
+1
+
+=
+
+n
+(
+
+3
+C
+
+)
+6
+9
+7
+,
+4
+2
+1
+
+=
+
+n
+(
+
+2
+C
+
+)
+4
+5
+9
+,
+6
+2
+1
+
+=
+
+n
+(
+
+1
+C
+
+)
+9
+3
+7
+
+,
+
+5
+0
+1
+
+=
+
+n
+(
+
+0
+C
+
+)
+3
+3
+1
+
+,
+
+0
+5
+1
+
+=
+
+n
+(
+
+3
+C
+
+)
+5
+9
+1
+
+,
+
+4
+4
+1
+
+=
+
+n
+(
+
+2
+C
+
+)
+6
+9
+7
+
+,
+
+3
+4
+1
+
+=
+
+n
+(
+
+1
+C
+
+)
+1
+0
+5
+
+,
+
+7
+4
+
+=
+
+n
+(
+
+0
+C
+
+)
+7
+.
+6
+6
+
+,
+1
+.
+8
+5
+(
+
+9
+.
+2
+6
+
+)
+5
+.
+6
+6
+
+,
+7
+.
+7
+5
+(
+
+5
+.
+2
+6
+
+)
+3
+.
+6
+6
+
+,
+3
+.
+7
+5
+(
+
+1
+.
+2
+6
+
+)
+7
+
+.
+
+6
+6
+
+,
+
+8
+
+.
+
+7
+5
+(
+
+7
+
+.
+
+2
+6
+
+)
+5
+
+.
+
+6
+6
+
+,
+
+7
+
+.
+
+7
+5
+(
+
+5
+
+.
+
+2
+6
+
+)
+3
+
+.
+
+6
+6
+
+,
+
+4
+
+.
+
+7
+5
+(
+
+3
+
+.
+
+2
+6
+
+)
+6
+
+.
+
+6
+6
+
+,
+
+7
+
+.
+
+7
+5
+(
+
+6
+
+.
+
+2
+6
+
+)
+1
+
+.
+
+7
+6
+
+,
+
+5
+
+.
+
+8
+5
+(
+
+5
+
+.
+
+3
+6
+
+5
+.
+6
+6
+
+0
+.
+7
+5
+
+4
+.
+3
+5
+
+2
+
+.
+
+2
+6
+
+0
+
+.
+
+5
+6
+
+4
+
+.
+
+0
+6
+
+7
+
+.
+
+4
+5
+
+6
+
+.
+
+5
+5
+
+)
+7
+.
+9
+2
+
+,
+4
+2
+(
+
+6
+.
+6
+2
+
+)
+7
+.
+9
+2
+
+,
+0
+.
+4
+2
+(
+
+6
+.
+6
+2
+
+)
+5
+.
+9
+2
+
+,
+9
+.
+3
+2
+(
+
+5
+.
+6
+2
+
+)
+9
+
+.
+
+8
+2
+
+,
+
+6
+
+.
+
+3
+2
+(
+
+9
+
+.
+
+5
+2
+
+)
+3
+
+.
+
+9
+2
+
+,
+
+9
+
+.
+
+3
+2
+(
+
+5
+
+.
+
+6
+2
+
+)
+6
+
+.
+
+9
+2
+
+,
+
+1
+
+.
+
+4
+2
+(
+
+6
+
+.
+
+6
+2
+
+)
+3
+
+.
+
+9
+2
+
+,
+
+7
+
+.
+
+3
+2
+(
+
+3
+
+.
+
+6
+2
+
+)
+7
+
+.
+
+9
+2
+
+,
+
+7
+
+.
+
+3
+2
+(
+
+4
+
+.
+
+6
+2
+
+1
+.
+5
+3
+
+5
+.
+8
+2
+
+7
+.
+2
+2
+
+5
+.
+8
+
+1
+.
+5
+
+9
+.
+6
+3
+
+9
+.
+8
+2
+
+3
+.
+1
+2
+
+4
+.
+8
+
+5
+.
+4
+
+8
+.
+7
+3
+
+1
+.
+9
+2
+
+1
+.
+1
+2
+
+9
+.
+7
+
+2
+.
+4
+
+9
+
+.
+
+5
+3
+
+.
+
+0
+9
+2
+
+.
+
+3
+4
+2
+
+.
+
+2
+7
+
+.
+
+6
+3
+
+1
+
+.
+
+6
+3
+
+.
+
+7
+9
+2
+
+.
+
+0
+3
+2
+
+1
+7
+
+.
+
+1
+4
+
+.
+
+6
+
+.
+
+6
+3
+
+.
+
+0
+9
+2
+
+.
+
+3
+2
+2
+
+8
+7
+
+.
+
+2
+4
+
+.
+
+6
+
+.
+
+7
+3
+
+.
+
+5
+8
+2
+
+.
+
+9
+0
+2
+
+5
+8
+
+.
+
+4
+4
+
+.
+
+8
+
+.
+
+3
+3
+
+.
+
+7
+6
+2
+
+.
+
+6
+3
+2
+
+6
+5
+
+.
+
+.
+
+2
+0
+1
+
+)
+2
+.
+9
+
+,
+0
+(
+
+6
+.
+1
+
+)
+4
+.
+0
+1
+
+,
+2
+.
+0
+(
+
+8
+.
+1
+
+)
+8
+.
+2
+1
+
+,
+2
+.
+0
+(
+
+9
+.
+1
+
+)
+6
+
+.
+
+4
+
+,
+
+.
+
+2
+0
+(
+
+4
+2
+2
+
+.
+
+)
+2
+
+.
+
+4
+1
+
+,
+
+.
+
+4
+0
+(
+
+7
+
+.
+
+2
+
+)
+7
+
+.
+
+1
+1
+
+,
+
+.
+
+2
+0
+(
+
+0
+
+.
+
+2
+
+)
+3
+
+.
+
+0
+1
+
+,
+
+0
+(
+
+5
+
+.
+
+1
+
+)
+7
+
+.
+
+5
+
+,
+
+0
+(
+
+6
+6
+
+.
+
+0
+
+l
+a
+c
+k
+
+0
+0
+0
+1
+/
+g
+
+,
+e
+k
+a
+t
+n
+i
+
+r
+e
+t
+t
+u
+b
+
+t
+u
+n
+a
+e
+p
+
+r
+o
+
+t
+u
+N
+
+d
+/
+s
+e
+t
+t
+e
+r
+a
+g
+i
+c
+
+d
+/
+s
+e
+t
+t
+e
+r
+a
+g
+i
+c
+
+d
+/
+s
+e
+t
+t
+e
+r
+a
+g
+i
+c
+
+d
+/
+s
+e
+t
+t
+e
+r
+a
+g
+i
+c
+
+0
+2
+,
+
+r
+e
+m
+r
+o
+F
+
+r
+e
+v
+e
+N
+
+0
+2
+$
+
+0
+2
+,
+
+t
+n
+e
+r
+r
+u
+C
+
+0
+2
+$
+
+d
+/
+g
+
+,
+l
+o
+h
+o
+c
+l
+A
+
+%
+
+,
+
+n
+o
+i
+t
+a
+c
+u
+d
+E
+
+%
+
+,
+
+x
+e
+s
+
+e
+l
+a
+M
+
+2
+
+m
+/
+g
+k
+
+,
+I
+
+M
+B
+
+%
+
+,
+
+g
+n
+i
+k
+o
+m
+S
+
+y
+
+,
+e
+g
+A
+
+6
+.
+6
+2
+
+7
+.
+0
+1
+
+9
+.
+3
+2
+
+8
+.
+8
+3
+
+1
+.
+4
+
+2
+.
+3
+1
+
+5
+.
+3
+1
+
+3
+.
+2
+2
+
+5
+.
+7
+2
+
+3
+.
+9
+1
+
+7
+.
+6
+2
+
+4
+.
+0
+1
+
+2
+.
+4
+2
+
+8
+.
+8
+3
+
+1
+.
+4
+
+8
+.
+3
+1
+
+4
+.
+4
+1
+
+6
+.
+2
+2
+
+3
+.
+7
+2
+
+8
+.
+7
+1
+
+0
+.
+6
+2
+
+3
+.
+0
+1
+
+2
+.
+4
+2
+
+5
+.
+9
+3
+
+3
+.
+4
+
+0
+.
+4
+1
+
+4
+.
+4
+1
+
+0
+.
+2
+2
+
+7
+.
+6
+2
+
+7
+.
+8
+1
+
+1
+9
+
+.
+
+2
+
+.
+
+5
+2
+
+3
+
+.
+
+3
+2
+
+4
+
+.
+
+2
+4
+
+5
+
+.
+
+5
+
+6
+
+.
+
+3
+1
+
+.
+
+2
+2
+1
+
+.
+
+8
+9
+1
+
+.
+
+6
+6
+2
+
+2
+
+.
+
+2
+2
+
+3
+9
+
+.
+
+3
+
+.
+
+1
+2
+
+9
+
+.
+
+3
+2
+
+6
+
+.
+
+5
+4
+
+3
+
+.
+
+3
+
+1
+
+.
+
+2
+1
+
+.
+
+4
+3
+1
+
+.
+
+5
+2
+2
+
+.
+
+3
+8
+2
+
+3
+
+.
+
+0
+2
+
+1
+
+.
+
+5
+2
+
+2
+
+.
+
+0
+1
+
+1
+
+.
+
+4
+2
+
+6
+
+.
+
+0
+4
+
+8
+
+.
+
+3
+
+5
+
+.
+
+3
+1
+
+3
+
+.
+
+4
+1
+
+6
+
+.
+
+2
+2
+
+2
+
+.
+
+7
+2
+
+6
+
+.
+
+8
+1
+
+9
+
+.
+
+8
+2
+
+.
+
+8
+0
+1
+
+1
+
+.
+
+4
+2
+
+.
+
+1
+6
+3
+
+8
+
+.
+
+4
+
+4
+
+.
+
+4
+1
+
+.
+
+9
+3
+1
+
+.
+
+3
+1
+2
+
+.
+
+5
+6
+2
+
+1
+
+.
+
+9
+1
+
+3
+
+.
+
+8
+3
+
+1
+
+.
+
+0
+1
+
+5
+
+.
+
+2
+2
+
+1
+
+.
+
+9
+2
+
+3
+
+.
+
+9
+
+1
+
+.
+
+7
+1
+
+0
+
+.
+
+2
+1
+
+7
+
+.
+
+7
+1
+
+4
+
+.
+
+3
+2
+
+4
+
+.
+
+0
+2
+
+e
+g
+e
+l
+l
+o
+c
+
+e
+m
+o
+s
+
+r
+o
+
+l
+o
+o
+h
+c
+s
+
+h
+g
+i
+h
+–
+t
+s
+o
+P
+
+e
+t
+a
+u
+d
+a
+r
+g
+t
+s
+o
+p
+
+d
+n
+a
+
+e
+g
+e
+l
+l
+o
+C
+
+%
+
+,
+
+y
+t
+i
+v
+i
+t
+c
+a
+
+l
+a
+c
+i
+s
+y
+h
+P
+
+l
+o
+o
+h
+c
+s
+
+h
+g
+i
+h
+
+d
+e
+t
+e
+l
+p
+m
+o
+C
+
+l
+o
+o
+h
+c
+s
+
+h
+g
+i
+h
+
+n
+a
+h
+t
+
+s
+s
+e
+L
+
+o
+m
+
+/
+s
+e
+m
+
+i
+t
+
+3
+–
+1
+
+k
+w
+/
+s
+e
+m
+
+i
+t
+
+2
+–
+1
+
+k
+w
+/
+s
+e
+m
+
+i
+t
+
+k
+w
+/
+s
+e
+m
+
+i
+t
+
+4
+–
+3
+
+5
+$
+
+r
+e
+v
+e
+N
+
+y
+l
+e
+r
+a
+R
+
+)
+9
+.
+4
+
+,
+3
+.
+2
+(
+
+4
+.
+3
+
+)
+7
+.
+3
+
+,
+4
+.
+1
+(
+
+4
+.
+2
+
+)
+7
+.
+4
+
+,
+3
+.
+2
+(
+
+4
+.
+3
+
+)
+7
+.
+3
+
+,
+4
+.
+1
+(
+
+4
+.
+2
+
+)
+1
+.
+5
+
+,
+3
+.
+2
+(
+
+5
+.
+3
+
+)
+0
+.
+4
+
+,
+5
+.
+1
+(
+
+5
+.
+2
+
+)
+0
+
+.
+
+5
+
+,
+
+2
+
+.
+
+2
+(
+
+4
+
+.
+
+3
+
+)
+0
+4
+
+.
+
+,
+
+4
+
+.
+
+1
+(
+
+5
+2
+
+.
+
+)
+2
+
+.
+
+5
+
+,
+
+4
+
+.
+
+2
+(
+
+6
+
+.
+
+3
+
+)
+8
+3
+
+.
+
+,
+
+5
+
+.
+
+1
+(
+
+5
+2
+
+.
+
+)
+9
+
+.
+
+4
+
+,
+
+3
+
+.
+
+2
+(
+
+4
+
+.
+
+3
+
+)
+7
+3
+
+.
+
+,
+
+4
+
+.
+
+1
+(
+
+4
+2
+
+.
+
+)
+8
+
+.
+
+4
+
+,
+
+2
+
+.
+
+2
+(
+
+3
+
+.
+
+3
+
+)
+8
+
+.
+
+3
+
+,
+
+4
+
+.
+
+1
+(
+
+4
+
+.
+
+2
+
+)
+8
+
+.
+
+3
+
+,
+
+2
+
+.
+
+1
+(
+
+3
+
+.
+
+2
+
+)
+8
+
+.
+
+4
+
+,
+
+9
+
+.
+
+1
+(
+
+2
+1
+
+.
+
+3
+
+d
+/
+s
+g
+n
+i
+v
+r
+e
+s
+
+,
+e
+k
+a
+t
+n
+i
+
+e
+l
+b
+a
+t
+e
+g
+e
+V
+
+d
+/
+s
+g
+n
+i
+v
+r
+e
+s
+
+,
+e
+k
+a
+t
+n
+i
+
+t
+i
+u
+r
+F
+
+)
+3
+1
+4
+2
+
+,
+5
+4
+3
+1
+(
+
+0
+3
+8
+1
+
+)
+4
+5
+0
+2
+
+,
+2
+2
+3
+1
+(
+
+1
+5
+6
+1
+
+)
+4
+8
+2
+2
+
+,
+0
+5
+2
+1
+(
+
+0
+1
+7
+1
+
+)
+1
+8
+0
+2
+
+,
+
+0
+9
+1
+1
+(
+
+2
+8
+5
+1
+
+)
+8
+2
+3
+2
+
+,
+
+0
+7
+3
+1
+(
+
+5
+2
+8
+1
+
+)
+7
+3
+2
+2
+
+,
+
+2
+5
+2
+1
+(
+
+8
+6
+6
+1
+
+)
+1
+2
+1
+2
+
+,
+
+5
+8
+2
+1
+(
+
+9
+2
+6
+1
+
+)
+8
+7
+0
+2
+
+,
+
+2
+4
+1
+1
+(
+
+8
+4
+5
+1
+
+)
+5
+.
+4
+7
+
+,
+4
+.
+0
+6
+(
+
+0
+.
+8
+6
+
+)
+1
+.
+5
+3
+
+,
+2
+.
+7
+1
+(
+
+9
+.
+4
+2
+
+)
+6
+.
+0
+2
+
+,
+3
+.
+0
+1
+(
+
+7
+.
+4
+1
+
+)
+4
+.
+3
+7
+
+,
+1
+.
+9
+5
+(
+
+8
+.
+6
+6
+
+)
+2
+.
+8
+2
+
+,
+1
+.
+5
+1
+(
+
+9
+.
+0
+2
+
+)
+0
+.
+7
+1
+
+,
+1
+.
+9
+(
+
+5
+.
+2
+1
+
+)
+4
+.
+3
+7
+
+,
+3
+.
+8
+5
+(
+
+6
+.
+6
+6
+
+)
+1
+.
+9
+2
+
+,
+5
+.
+3
+1
+(
+
+0
+.
+0
+2
+
+)
+5
+.
+7
+1
+
+,
+4
+.
+8
+(
+
+2
+.
+2
+1
+
+)
+0
+
+.
+
+4
+7
+
+,
+
+7
+
+.
+
+8
+5
+(
+
+1
+
+.
+
+7
+6
+
+)
+2
+
+.
+
+5
+2
+
+,
+
+6
+
+.
+
+1
+1
+(
+
+3
+
+.
+
+7
+1
+
+)
+4
+
+.
+
+5
+1
+
+,
+
+4
+
+.
+
+7
+(
+
+7
+
+.
+
+0
+1
+
+)
+9
+
+.
+
+4
+7
+
+,
+
+2
+
+.
+
+1
+6
+(
+
+6
+
+.
+
+8
+6
+
+)
+3
+
+.
+
+3
+3
+
+,
+
+6
+
+.
+
+6
+1
+(
+
+9
+
+.
+
+3
+2
+
+)
+0
+2
+
+,
+
+2
+
+.
+
+0
+1
+(
+
+5
+
+.
+
+4
+1
+
+)
+3
+
+.
+
+3
+7
+
+,
+
+9
+
+.
+
+8
+5
+(
+
+7
+
+.
+
+6
+6
+
+)
+6
+
+.
+
+9
+2
+
+,
+
+4
+
+.
+
+4
+1
+(
+
+7
+
+.
+
+0
+2
+
+)
+6
+
+.
+
+7
+1
+
+,
+
+8
+
+.
+
+8
+(
+
+5
+
+.
+
+2
+1
+
+)
+4
+
+.
+
+3
+7
+
+,
+
+2
+
+.
+
+8
+5
+(
+
+5
+
+.
+
+6
+6
+
+)
+0
+
+.
+
+7
+2
+
+,
+
+.
+
+4
+3
+1
+(
+
+2
+
+.
+
+9
+1
+
+)
+2
+
+.
+
+6
+1
+
+,
+
+3
+
+.
+
+8
+(
+
+6
+
+.
+
+1
+1
+
+)
+0
+
+.
+
+3
+7
+
+,
+
+6
+
+.
+
+6
+5
+(
+
+7
+
+.
+
+5
+6
+
+)
+8
+
+.
+
+5
+2
+
+,
+
+3
+
+.
+
+1
+1
+(
+
+3
+
+.
+
+7
+1
+
+)
+3
+
+.
+
+5
+1
+
+,
+
+1
+
+.
+
+7
+(
+
+5
+
+.
+
+0
+1
+
+0
+.
+4
+1
+
+7
+.
+0
+1
+
+2
+.
+2
+
+6
+.
+2
+4
+
+6
+.
+8
+
+9
+.
+1
+
+0
+.
+3
+1
+
+9
+.
+2
+4
+
+8
+.
+7
+
+0
+.
+2
+
+6
+.
+2
+1
+
+4
+.
+3
+4
+
+9
+
+.
+
+8
+
+2
+
+.
+
+2
+
+9
+
+.
+
+5
+1
+
+7
+
+.
+
+4
+4
+
+0
+
+.
+
+9
+
+7
+
+.
+
+1
+
+2
+
+.
+
+2
+1
+
+2
+
+.
+
+1
+4
+
+4
+
+.
+
+8
+
+8
+
+.
+
+1
+
+1
+
+.
+
+3
+1
+
+9
+
+.
+
+2
+4
+
+3
+
+.
+
+8
+
+2
+
+.
+
+2
+
+4
+
+.
+
+4
+1
+
+1
+
+.
+
+4
+4
+
+3
+
+.
+
+9
+1
+
+5
+
+.
+
+2
+1
+
+4
+
+.
+
+3
+
+1
+
+.
+
+9
+4
+
+%
+
+,
+
+y
+r
+o
+t
+s
+i
+h
+
+d
+e
+t
+r
+o
+p
+e
+r
+-
+f
+l
+e
+S
+
+d
+/
+g
+
+,
+e
+k
+a
+t
+n
+i
+
+A
+F
+U
+M
+
+d
+/
+g
+
+,
+e
+k
+a
+t
+n
+i
+
+A
+F
+U
+P
+
+d
+/
+l
+a
+c
+k
+
+,
+s
+e
+i
+r
+o
+l
+a
+C
+
+0
+1
+0
+2
+
+I
+E
+H
+
+e
+s
+a
+e
+s
+i
+d
+
+t
+r
+a
+e
+H
+
+n
+o
+i
+s
+n
+e
+t
+r
+e
+p
+y
+H
+
+s
+e
+t
+e
+b
+a
+i
+D
+
+e
+k
+o
+r
+t
+S
+
+,
+0
+1
+0
+2
+
+I
+E
+H
+
+;
+y
+r
+o
+g
+e
+t
+a
+c
+
+,
+
+C
+
+.
+1
+0
+0
+.
+0
+,
+P
+
+,
+n
+o
+i
+t
+p
+m
+u
+s
+n
+o
+c
+
+r
+e
+t
+t
+u
+b
+
+t
+u
+n
+a
+e
+p
+
+r
+o
+
+t
+u
+n
+
+h
+t
+i
+
+w
+d
+e
+t
+a
+i
+c
+o
+s
+s
+a
+
+e
+r
+e
+w
+s
+r
+o
+t
+c
+a
+f
+
+k
+s
+i
+r
+
+l
+l
+
+A
+
+.
+l
+a
+c
+k
+
+0
+0
+0
+1
+
+r
+e
+p
+
+s
+
+m
+a
+r
+g
+
+n
+o
+
+d
+e
+s
+a
+b
+
+s
+i
+
+y
+t
+i
+s
+n
+e
+d
+
+e
+k
+a
+t
+n
+I
+
+.
+s
+e
+g
+a
+t
+n
+e
+c
+r
+e
+p
+
+r
+o
+
+)
+s
+R
+Q
+
+I
+(
+
+s
+n
+a
+i
+d
+e
+m
+e
+r
+a
+
+s
+e
+u
+l
+a
+V
+1
+
+.
+
+0
+1
+0
+2
+
+x
+e
+d
+n
+I
+
+g
+n
+i
+t
+a
+E
+
+h
+t
+l
+a
+e
+H
+
+1
+y
+d
+u
+t
+S
+
+h
+t
+l
+a
+e
+H
+d
+n
+a
+
+t
+e
+i
+D
+P
+R
+A
+A
+H
+N
+e
+h
+t
+
+I
+
+-
+
+n
+i
+
+e
+k
+a
+t
+n
+i
+
+r
+e
+t
+t
+u
+b
+
+t
+u
+n
+a
+e
+p
+
+d
+n
+a
+
+t
+u
+n
+
+y
+r
+a
+t
+e
+i
+d
+
+f
+o
+
+s
+e
+i
+r
+o
+g
+e
+t
+a
+c
+
+y
+b
+
+s
+t
+n
+a
+p
+i
+c
+i
+t
+r
+a
+p
+
+f
+o
+
+s
+c
+i
+t
+s
+i
+r
+e
+t
+c
+a
+r
+a
+h
+c
+
+e
+n
+i
+l
+e
+s
+a
+B
+
+1
+E
+L
+B
+A
+T
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/106/3/858/4822393
+by Sheridan College user
+on 02 August 2018
+
+862
+
+HASHEMIAN ET AL.
+
+TABLE 2
+Crude and adjusted HRs of upper gastroesophageal cancers, by categories of nut intake among participants (n = 485,625)1
+
+Person-years, n
+Esophageal adenocarcinoma (n = 951)
+
+Cases, n
+Crude HR (95% CI)
+Adjusted HR (95% CI)2
+
+Esophageal squamous cell carcinoma (n = 313)
+
+Cases, n
+Crude HR (95% CI)
+Adjusted HR (95% CI)2
+
+Gastric cardia adenocarcinoma (n = 688)
+
+Cases, n
+Crude HR (95% CI)
+Adjusted HR (95% CI)2
+
+Gastric noncardia adenocarcinoma (n = 719)3
+
+Cases, n
+Crude HR (95% CI)
+Adjusted HR (95% CI)2
+
+Categories of nut intake
+
+Continuous (every quarter cup,
+
+C0
+
+C1
+
+C2
+
+C3
+
+P-trend
+
+or 32.75 g/1000 kcal)
+
+612,763
+
+2,002,495
+
+1,973,416
+
+2,065,554
+
+93
+1
+1
+
+34
+1
+1
+
+78
+1
+1
+
+85
+1
+1
+
+262
+
+298
+
+298
+
+0.88 (0.70, 1.12) 1.00 (0.79, 1.26) 0.96 (0.76, 1.22)
+0.94 (0.73, 1.21) 0.97 (0.76, 1.24) 0.90 (0.70, 1.16)
+
+0.77
+0.32
+
+0.95 (0.52, 1.74)
+0.84 (0.43, 1.62)
+
+101
+
+80
+
+98
+
+0.92 (0.63, 1.35) 0.74 (0.50, 1.10) 0.84 (0.57, 1.24)
+1.00 (0.66, 1.53) 0.93 (0.61, 1.44) 1.01 (0.66, 1.55)
+
+0.71
+0.78
+
+1.52 (0.65, 3.55)
+0.82 (0.25, 2.73)
+
+175
+
+194
+
+241
+
+0.70 (0.54, 0.90) 0.74 (0.57, 0.96) 0.90 (0.70, 1.16)
+0.71 (0.54, 0.94) 0.76 (0.58, 1.00) 0.88 (0.67, 1.15)
+
+0.03
+0.12
+
+0.74 (0.34, 1.61)
+0.72 (0.32, 1.65)
+
+240
+
+197
+
+197
+
+0.87 (0.69, 1.09) 0.71 (0.56, 0.89) 0.69 (0.54, 0.87)
+0.93 (0.73, 1.18) 0.77 (0.60, 0.99) 0.73 (0.57, 0.94)
+
+0.003
+0.004
+
+0.68 (0.31, 1.47)
+0.73 (0.32, 1.64)
+
+1 Intake density is based on grams per 1000 kcal. C, category.
+2 Adjusted for age (years), sex (male or female), smoking status and dose (never, former ,20 cigarettes/d, former $20 cigarettes/d, current
+,20 cigarettes/d, or current $20 cigarettes/d), alcohol drinking (grams per day), BMI (kg/m2), education (less than high school, completed high school,
+post-high school or some college, or college and postgraduate), physical activity (never, rarely, 1–3 times/mo, 1–2 times/wk, 3–4 times/wk, or $5 times/wk), fruit
+and vegetable intake (servings per day), and calories (kilocalories per day). HRs (95% CIs) were calculated through the use of a Cox regression model.
+
+3 Additionally adjusted for ethnicity (non-Hispanic white, non-Hispanic black, Hispanic, or Asian/Paciﬁc Islander/Native American). HRs (95% CIs)
+
+were calculated through the use of a Cox regression model.
+
+signiﬁcantly change the results of any subtype, and the inverse
+association with gastric noncardia adenocarcinoma remained
+signiﬁcant for nut [C3 compared with C0, HR: 0.73 (95% CI:
+0.56, 0.95)] and peanut butter [C3 compared with C0, HR: 0.76
+(95% CI: 0.62, 0.96)] consumption. Mutual adjustment for nut
+and peanut butter consumption did not alter the results. In
+sensitivity analyses, excluding the ﬁrst 2 y of follow-up did not
+change the results (Supplemental Table 1). Excluding cases
+with ICD-O codes C168 and C169 (w36% of the noncardia
+gastric cancer cases) shifted the point estimates for nut con-
+sumption [C3 compared with C0, HR: 0.89 (95% CI: 0.64,
+1.25)] and peanut butter consumption [C3 compared with C0,
+HR: 0.81 (95% CI: 0.61, 1.07)] toward the null and made these
+associations nonsigniﬁcant (Supplemental Table 1).
+
+When stratifying by level of education, the protective effect on
+gastric noncardia adenocarcinoma seemed to be more prominent in
+those at the more extreme levels of education; however, the dif-
+ferences were not signiﬁcant and should be interpreted as equal.
+No statistical interaction was found between level of education and
+nut intake (P-interaction = 0.33). We found no evidence of a
+statistical interaction between nut or peanut butter consumption
+and any of the other factors evaluated (data not shown).
+
+DISCUSSION
+
+In this large prospective cohort study, nut and peanut butter
+consumption were inversely associated with the risk of noncardia
+gastric cancer in a dose-dependent manner. To our knowledge,
+this is the ﬁrst prospective study to assess the association between
+nut and peanut butter consumption and the risk of esophageal and
+stomach cancers.
+
+A few studies have shown an inverse association between nut
+consumption and speciﬁc cancer sites, including the colon, en-
+dometrium, and pancreas (12). In a population-based case-
+control study in Japan, subjects who ate nuts $3 times/mo
+had a 50% lower risk of gastric cancer than never consumers
+[OR: 0.5 (95% CI: 0.3, 0.7)], and a signiﬁcant trend was ob-
+served in the protective effect across categories of nut con-
+sumption (14), which is consistent with our results. In another
+case-control study in Greece investigating the role of diet in the
+cause of gastric cancer, cases reported signiﬁcantly more fre-
+quent consumption of beans and nuts (15). In a case-control
+study investigating the Mediterranean diet and risk of upper
+aerodigestive tract cancers, including esophageal cancer, nut
+consumption was not signiﬁcantly associated with the risk of
+these cancers (25). All of these studies were case-control studies
+and thus were more likely to be subject to recall bias than our
+prospective study.
+
+To our knowledge, no previous study has evaluated the as-
+sociation between peanut butter and the risk of gastroesophageal
+cancer. Yang et al. (17) reported no association between peanut
+butter and colorectal cancer risk in the Nurses’ Health Study.
+Peanut butter consumption was not associated with cancer
+mortality in the Southern Community Cohort Study (n = 71,764)
+in the southeastern United States, although this study had a
+relatively short follow-up (5.4 y) (24). Peanut butter consump-
+tion was not related to total mortality or cancer mortality in the
+Netherlands Cohort Study (8). However, the mean consumption
+of peanut butter in the Netherlands cohort (1.3 g/d) was less than
+half the mean consumption in our population (3 g/d).
+
+Although nut consumers and peanut butter consumers seemed
+to be different with regard to several baseline characteristics,
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/106/3/858/4822393
+by Sheridan College user
+on 02 August 2018
+
+TABLE 3
+Crude and adjusted HRs of upper gastroesophageal cancers, by categories of peanut butter intake among participants (n = 487,077)1
+
+PEANUT BUTTER AND ESOPHAGEAL CANCER
+
+863
+
+Person-years, n
+Esophageal adenocarcinoma (n = 951)
+
+Cases, n
+Crude HR (95% CI)
+Adjusted HR (95% CI)2
+
+Esophageal squamous cell carcinoma (n = 313)
+
+Cases, n
+Crude HR (95% CI)
+Adjusted HR (95% CI)2
+
+Gastric cardia adenocarcinoma (n = 679)
+
+Cases, n
+Crude HR (95% CI)
+Adjusted HR (95% CI)2
+
+Gastric noncardia adenocarcinoma (n = 721)3
+
+Cases, n
+Crude HR (95% CI)
+Adjusted HR (95% CI)2
+
+Categories of peanut butter intake
+
+Continuous (every 1 tablespoon,
+
+C0
+
+C1
+
+C2
+
+C3
+
+P-trend
+
+or 16 g/1000 kcal)
+
+1,427,476
+
+1,726,574
+
+1,684,746
+
+1,723,520
+
+196
+1
+1
+
+83
+1
+1
+
+152
+1
+1
+
+183
+1
+1
+
+206
+
+229
+
+320
+
+0.87 (0.71, 1.05) 0.99 (0.82, 1.20) 1.35 (1.13, 1.61) ,0.001
+0.95 (0.77, 1.17) 0.98 (0.80, 1.20) 1.17 (0.97, 1.42)
+0.01
+
+1.62 (1.30, 2.00)
+1.25 (0.97, 1.60)
+
+92
+
+70
+
+68
+
+0.91 (0.68, 1.23) 0.71 (0.52, 0.98) 0.69 (0.51, 0.95)
+0.95 (0.69, 1.30) 0.69 (0.49, 0.98) 0.75 (0.53, 1.05)
+
+0.04
+0.14
+
+0.93 (0.54, 1.62)
+0.92 (0.51, 1.66)
+
+166
+
+151
+
+210
+
+0.90 (0.72, 1.12) 0.85 (0.68, 1.06) 1.13 (0.92, 1.40)
+1.00 (0.79, 1.26) 0.91 (0.71, 1.16) 1.09 (0.87, 1.37)
+
+0.02
+0.24
+
+1.39 (1.04, 1.86)
+1.09 (0.78, 1.53)
+
+191
+
+173
+
+174
+
+0.87 (0.71, 1.06) 0.79 (0.64, 0.97) 0.79 (0.65, 0.97)
+0.94 (0.76, 1.17) 0.81 (0.64, 1.00) 0.75 (0.60, 0.94)
+
+0.11
+0.02
+
+0.70 (0.46, 1.06)
+0.52 (0.32, 0.84)
+
+1 Intake density is based on grams per 1000 kcal. C, category.
+2 Adjusted for age (years), sex (male or female), smoking status and dose (never, former ,20 cigarettes/d, former $20 cigarettes/d, current
+,20 cigarettes/d, or current $20 cigarettes/d), alcohol drinking (grams per day), BMI (kg/m2), education (less than high school, completed high school,
+post-high school or some college, or college and postgraduate), physical activity (never, rarely, 1–3 times/mo, 1–2 times/wk, 3–4 times/wk, or $5 times/wk),
+fruit and vegetable intake (servings per day), and calories (kilocalories per day). HRs (95% CIs) were calculated through the use of a Cox regression model.
+3 Additionally adjusted for ethnicity (non-Hispanic white, non-Hispanic black, Hispanic, or Asian/Paciﬁc Islander/Native American). HRs (95% CIs)
+
+were calculated through the use of a Cox regression model.
+
+including alcohol intake, smoking, and amount of education
+(which are all potential risk factors for gastric cancer), a pro-
+tective effect of consumption was observed in both, which
+suggests that confounding by these other factors was not driving
+the observed associations. We found no signiﬁcant differences by
+education level in a stratiﬁed analysis. However, as in all ob-
+servational studies, we cannot rule out the possibility that residual
+confounding was caused by other factors, including socioeco-
+nomic status.
+
+Evidence suggests that some components of nuts—namely,
+phytosterols, ﬁber, MUFAs, vitamins, and minerals—may pro-
+tect against cancer (12, 26). Phytosterols, including polyphenols
+in walnuts and quercetin in almonds, can inhibit carcinogenesis
+and prevent oxidative stress (27). Polyphenols regulate the in-
+ﬂammatory response by affecting the production of prosta-
+glandins and cytokines (5). Peanuts contain resveratrol, which
+has anticarcinogenic and antioxidative effects (28). Nuts are
+also a good source of vitamins such as folate, niacin, carotenoid,
+and vitamin E, and of minerals such as calcium, selenium, zinc,
+and magnesium (8), which may protect against gastroesopha-
+geal cancers (26, 29–31). Nuts contain high concentrations of
+MUFAs and variable amounts of PUFAs (32). A recent study
+showed that unsaturated fatty acids inhibit colorectal cancer
+(33). MUFAs also have anti-inﬂammatory properties. Yu et al.
+(34) showed that nut consumption was inversely associated with
+concentrations of C-reactive protein and IL-6 in the Nurses’
+Health Study and the Health Professionals Follow-up Study.
+
+A nonsigniﬁcant association was found between peanut butter
+consumption and an increased risk of esophageal adenocarci-
+noma. This association could be due to residual confounding by
+BMI; peanut butter consumers had a slightly higher BMI than
+
+non-consumers. However, although nuts contain large amounts of
+calories, nut consumption was not related to obesity in our study
+or those of other groups (6).
+
+This study has several strengths, including its prospective
+design, the very large sample size, extensive information on
+dietary and lifestyle factors, and information on tumor location
+and histology, which allowed us to thoroughly assess the effect
+modiﬁcation and variation in risk by cancer subtype. This study
+also has several limitations. We collected nut and peanut butter
+consumption data from only one FFQ; thus the study is sus-
+ceptible to measurement error as a result of the exposure col-
+lection methods and possible changes in diet during the long
+follow-up period. Our population was also more educated and
+more likely to be non-Hispanic white than the total US pop-
+ulation, which may limit the generalizability of the results. The
+consumption of nuts was asked about in just one question, and we
+therefore could not investigate the effects of different types of
+nuts, such as peanuts and walnuts, which contain different nu-
+trients. Also, we did not collect any information on whether
+participants consumed salted or unsalted nuts, which could be an
+effect modiﬁer. We also do not have any data on Helicobacter
+pylori infection status, which is a known risk factor for gastric
+cancer. Reverse casualty is possible because subjects with early
+undiagnosed cancer may have restricted nut and peanut butter
+consumption. However, after we excluded the ﬁrst 2 y of follow-
+up, the results remained unchanged.
+
+In conclusion, in this large cohort study of older American
+adults, we found inverse associations between both nut and peanut
+butter consumption and the risk of gastric noncardia cancer. These
+prospective inverse associations are novel ﬁndings, and because
+both nuts and peanut butter are widely consumed, more research
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/106/3/858/4822393
+by Sheridan College user
+on 02 August 2018
+
+864
+
+HASHEMIAN ET AL.
+
+into their health effects, including their associations with cancer, is
+warranted. If their associations with cancer were conﬁrmed in
+other prospective studies,
+investigation of possible mediating
+mechanisms in future studies would be valuable.
+
+The authors’ responsibilities were as follows—CCA, SMD, and LML:
+designed and conducted the research; MH and GM: analyzed the data;
+MH: wrote the manuscript; CCA, SMD, and AE: critically revised the man-
+uscript for important intellectual content; MH and CCA: had primary re-
+sponsibility for the ﬁnal content; and all authors: read and approved the ﬁnal
+manuscript. None of the authors reported a conﬂict of interest related to the
+study.
+
+REFERENCES
+
+1. Global Burden of Disease Cancer Collaboration; Fitzmaurice C,
+Allen C, Barber RM, Barregard L, Bhutta ZA, Brenner H, Dicker DJ,
+Chimed-Orchir O, Dandona R, Dandona L, et al. Global, regional, and
+national cancer incidence, mortality, years of life lost, years lived with
+disability, and disability-adjusted life-years for 32 cancer groups, 1990
+to 2015: a systematic analysis for the Global Burden of Disease Study.
+JAMA Oncol 2017;3:524–48.
+
+2. Brown LM, Devesa SS. Epidemiologic trends in esophageal and gastric
+cancer in the United States. Surg Oncol Clin N Am 2002;11:235–56.
+3. Murphy G, McCormack V, Abedi B, Arnold M, Camargo M, Dar N,
+Dawsey S, Etemadi A, Fitzgerald R, Fleischer D, et al. International
+cancer seminars: a focus on esophageal squamous cell carcinoma. Ann
+Oncol 2017. DOI: 10.1093/annonc/mdx279.
+
+4. Arnold M, Soerjomataram I, Ferlay J, Forman D. Global incidence of
+oesophageal cancer by histological subtype in 2012. Gut 2015;64:
+381–7.
+
+5. Grosso G, Estruch R. Nut consumption and age-related disease. Ma-
+
+turitas 2016;84:11–6.
+
+6. Grosso G, Yang J, Marventano S, Micek A, Galvano F, Kales SN. Nut
+consumption on all-cause, cardiovascular, and cancer mortality risk:
+a systematic review and meta-analysis of epidemiologic studies. Am J
+Clin Nutr 2015;101:783–93.
+
+7. Kris-Etherton PM, Hecker KD, Bonanome A, Coval SM, Binkoski AE,
+Hilpert KF, Griel AE, Etherton TD. Bioactive compounds in foods:
+their role in the prevention of cardiovascular disease and cancer. Am J
+Med 2002;113(Suppl 9B):71S–88S.
+
+8. van den Brandt PA, Schouten LJ. Relationship of tree nut, peanut and
+peanut butter intake with total and cause-speciﬁc mortality: a cohort
+study and meta-analysis. Int J Epidemiol 2015;44:1038–49.
+
+9. Eslamparast T, Sharafkhah M, Poustchi H, Hashemian M, Dawsey SM,
+Freedman ND, Boffetta P, Abnet CC, Etemadi A, Pourshams A, et al.
+Nut consumption and total and cause-speciﬁc mortality: results from
+the Golestan Cohort Study. Int J Epidemiol 2017;46:75–85.
+
+10. Bonaccio M, Di Castelnuovo A, De Curtis A, Costanzo S, Bracone F,
+Persichillo M, Donati MB, de Gaetano G, Iacoviello L; Moli-sani
+Project Investigators. Nut consumption is inversely associated with
+both cancer and total mortality in a Mediterranean population: pro-
+spective results from the Moli-sani study. Br J Nutr 2015;114:804–11.
+11. Bao Y, Han J, Hu FB, Giovannucci EL, Stampfer MJ, Willett WC,
+Fuchs CS. Association of nut consumption with total and cause-speciﬁc
+mortality. N Engl J Med 2013;369:2001–11.
+
+12. Wu L, Wang Z, Zhu J, Murad AL, Prokop LJ, Murad MH. Nut con-
+sumption and risk of cancer and type 2 diabetes: a systematic review
+and meta-analysis. Nutr Rev 2015;73:409–25.
+
+13. Lee JT, Lai GY, Liao LM, Subar AF, Bertazzi PA, Pesatori AC,
+Freedman ND, Landi MT, Lam TK. Nut consumption and lung cancer
+risk: results from two large observational studies. Cancer Epidemiol
+Biomarkers Prev 2017;26:826–36.
+
+14. Hoshiyama Y, Sasaba T. A case-control study of stomach cancer and its
+relation to diet, cigarettes, and alcohol consumption in Saitama Pre-
+fecture, Japan. Cancer Causes Control 1992;3:441–8.
+
+15. Trichopoulos D, Ouranos G, Day NE, Tzonou A, Manousos O,
+Papadimitriou C, Trichopoulos A. Diet and cancer of the stomach:
+a case-control study in Greece. Int J Cancer 1985;36:291–7.
+
+16. Awad AB, Chan KC, Downie AC, Fink CS. Peanuts as a source of
+beta-sitosterol, a sterol with anticancer properties. Nutr Cancer 2000;
+36:238–41.
+
+17. Yang M, Hu FB, Giovannucci EL, Stampfer MJ, Willett WC,
+Fuchs CS, Wu K, Bao Y. Nut consumption and risk of colorectal cancer
+in women. Eur J Clin Nutr 2016;70:333–7.
+
+18. Schatzkin A, Subar AF, Thompson FE, Harlan LC, Tangrea J,
+Hollenbeck AR, Hurwitz PE, Coyle L, Schussler N, Michaud DS, et al.
+Design and serendipity in establishing a large cohort with wide dietary
+intake distributions: the National Institutes of Health-American Asso-
+ciation of Retired Persons Diet and Health Study. Am J Epidemiol
+2001;154:1119–25.
+
+19. Thompson FE, Kipnis V, Midthune D, Freedman LS, Carroll RJ,
+Subar AF, Brown CC, Butcher MS, Mouw T, Leitzmann M, et al.
+Performance of a food-frequency questionnaire in the US NIH-AARP
+(National Institutes of Health-American Association of Retired Per-
+sons) Diet and Health Study. Public Health Nutr 2008;11:183–95.
+
+20. Subar AF, Midthune D, Kulldorff M, Brown CC, Thompson FE,
+Kipnis V, Schatzkin A. Evaluation of alternative approaches to assign
+nutrient values to food groups in food frequency questionnaires. Am J
+Epidemiol 2000;152:279–86.
+
+21. Michaud D, Midthune D, Hermansen S, Leitzmann M, Harlan L,
+Kipnis V, Schatzkin A. Comparison of cancer registry case ascertain-
+ment with SEER estimates and self-reporting in a subset of the NIH-
+AARP Diet and Health Study. J Registry Manag 2005;32:70–5.
+
+22. Fritz AG. International classiﬁcation of diseases for oncology: ICD-O.
+
+3rd ed. Geneva (Switzerland): WHO; 2000.
+
+23. Willett WC, Howe GR, Kushi LH. Adjustment for total energy intake
+in epidemiologic studies. Am J Clin Nutr 1997;65(4 Suppl):1220S–8S;
+discussion 9S–31S.
+
+24. Luu HN, Blot WJ, Xiang YB, Cai H, Hargreaves MK, Li H, Yang G,
+Signorello L, Gao YT, Zheng W, et al. Prospective evaluation of the
+association of nut/peanut consumption with total and cause-speciﬁc
+mortality. JAMA Intern Med 2015;175:755–66.
+
+25. Samoli E, Lagiou A, Nikolopoulos E, Lagogiannis G, Barbouni A,
+Lefantzis D, Trichopoulos D, Brennan P, Lagiou P. Mediterranean diet
+and upper aerodigestive tract cancer:
+the Greek segment of the
+Alcohol-Related Cancers and Genetic Susceptibility in Europe study.
+Br J Nutr 2010;104:1369–74.
+
+26. Hashemian M, Poustchi H, Abnet CC, Boffetta P, Dawsey SM,
+Brennan PJ, Pharoah P, Etemadi A, Kamangar F, Sharafkhah M, et al.
+Dietary intake of minerals and risk of esophageal squamous cell car-
+cinoma: results from the Golestan Cohort Study. Am J Clin Nutr 2015;
+102:102–8.
+
+27. Yang CS, Landau JM, Huang MT, Newmark HL. Inhibition of carci-
+nogenesis by dietary polyphenolic compounds. Annu Rev Nutr 2001;
+21:381–406.
+
+28. Sales JM, Resurreccion AV. Resveratrol in peanuts. Crit Rev Food Sci
+
+Nutr 2014;54:734–70.
+
+29. World Cancer Research Fund/American Institute for Cancer Research
+(AICR). Food nutrition, physical activity, and the prevention of cancer:
+a global perspective. Washington (DC): AICR; 2007.
+
+30. Hashemian M, Hekmatdoost A, Poustchi H, Mohammadi Nasrabadi F,
+Abnet CC, Malekzadeh R. Systematic review of zinc biomarkers and
+esophageal cancer risk. Middle East J Dig Dis 2014;6:177–85.
+
+31. Abnet CC, Lai B, Qiao YL, Vogt S, Luo XM, Taylor PR, Dong ZW,
+Mark SD, Dawsey SM. Zinc concentration in esophageal biopsy
+specimens measured by x-ray ﬂuorescence and esophageal cancer risk.
+J Natl Cancer Inst 2005;97:301–6.
+
+32. Brufau G, Boatella J, Rafecas M. Nuts: source of energy and macro-
+
+nutrients. Br J Nutr 2006;96(Suppl 2):S24–8.
+
+33. Yan G, Li L, Zhu B, Li Y. Lipidome in colorectal cancer. Oncotarget
+
+2016;7:33429–39.
+
+34. Yu Z, Malik VS, Keum N, Hu FB, Giovannucci EL, Stampfer MJ,
+Willett WC, Fuchs CS, Bao Y. Associations between nut consumption
+and inﬂammatory biomarkers. Am J Clin Nutr 2016;104:722–8.
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/106/3/858/4822393
+by Sheridan College user
+on 02 August 2018
+
+

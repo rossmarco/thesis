@@ -1,0 +1,1989 @@
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+The New England
+
+Journal 
+
+of
+
+ Medicine
+
+© Copyr ight,  2000,  by  the  Massachusetts  Medical  Societ y
+
+VOLUME  342
+
+A
+
+P R I L
+
+  20,  2000
+
+NUMBER  16
+
+LACK OF EFFECT OF A LOW-FAT, HIGH-FIBER DIET ON THE RECURRENCE OF 
+
+COLORECTAL ADENOMAS
+
+A
+
+RTHUR
+
+ S
+
+CHATZKIN
+ C
+B
+
+ETTE
+
+.P.H., E
+
+, M.D., D
+R
+AAN
+
+, D
+R
+M. R
+
+.P.H., M
+ C
+OBERT
+
+ANZA
+
+, P
+H
+
+ L
+HIKE
+
+LAINE
+ S
+, M.D., J. W
+THE
+
+OSHE
+OOPER
+ 
+AND
+
+.D., D
+OEL
+ALTER
+
+ONALD
+ W
+ K
+REVENTION
+
+, M.D., J
+
+EISSFELD
+IKENDALL
+ T
+ S
+
+OLYP
+
+RIAL
+
+ C
+
+ P
+
+ P
+
+ETER
+
+, M.S., P
+
+ L
+, M.D., M.P.H., R
+, M.D., J
+TUDY
+
+ACK
+ROUP
+
+ C
+* 
+
+ G
+
+ORLE
+
+ANCE
+ANDALL
+
+, M.D., F
+URT
+
+ B
+, M.A., 
+
+AHILL
+
+ I
+BER
+RANK
+, M.D., 
+
+, M.D., 
+
+A
+BSTRACT
+Background
+We  tested  the  hypothesis  that  die-
+tary intervention can inhibit the development of re-
+current  colorectal  adenomas,  which  are  precursors
+of most large-bowel cancers.
+Methods
+We  randomly  assigned  2079  men  and
+women who were 35 years of age or older and who
+had had one or more histologically confirmed colo-
+rectal adenomas removed within six months before
+randomization to one of two groups: an intervention
+group  given  intensive  counseling  and  assigned  to
+follow a diet that was low in fat (20 percent of total
+calories) and high in fiber (18 g of dietary fiber per
+1000 kcal) and fruits and vegetables (3.5 servings per
+1000 kcal), and a control group given a standard bro-
+chure on healthy eating and assigned to follow their
+usual diet. Subjects entered the study after undergo-
+ing complete colonoscopy and removal of adenom-
+atous polyps; they remained in the study for approx-
+imately four years, undergoing colonoscopy one and
+four years after randomization.
+Results
+A total of 1905 of the randomized subjects
+(91.6 percent) completed the study. Of the 958 subjects
+in the intervention group and the 947 in the control
+group  who  completed  the  study,  39.7  percent  and
+39.5 percent, respectively, had at least one recurrent
+adenoma; the unadjusted risk ratio was 1.00 (95 per-
+cent confidence interval, 0.90 to 1.12). Among subjects
+with recurrent adenomas, the mean (±SE) number of
+such lesions was 1.85±0.08 in the intervention group
+and 1.84±0.07 in the control group. The rate of recur-
+rence of large adenomas (with a maximal diameter
+of at least 1 cm) and advanced adenomas (defined as
+lesions that had a maximal diameter of at least 1 cm
+or at least 25 percent villous elements or evidence of
+high-grade  dysplasia,  including  carcinoma)  did  not
+differ significantly between the two groups.
+Conclusions
+Adopting a diet that is low in fat and
+high  in  fiber,  fruits,  and  vegetables  does  not  influ-
+ence the risk of recurrence of colorectal adenomas.
+(N Engl J Med 2000;342:1149-55.)
+©2000, Massachusetts Medical Society.
+
+A
+
+6
+
+5
+
+ and fiber
+
+ WEALTH of laboratory, nutritional, and
+epidemiologic evidence implicates dietary
+factors  in  the  pathogenesis  of  colorectal
+ International variation in the inci-
+cancer.
+1
+dence of and mortality due to large-bowel cancer,
+2
+rapid increases in the incidence of colorectal cancer
+in several countries,
+ are con-
+ and data on migration
+4
+3
+sistent with a role of diet in the causation of colorectal
+cancer. Moreover, altering the proportions of dietary
+ influences the development of colon
+fat
+tumors in animals. In humans, diet affects the pro-
+duction of intracolonic metabolic byproducts that may
+influence carcinogenesis.
+ Observational epidemio-
+logic studies suggest that the ingestion of red meat
+and dietary fat increases the risk of colorectal cancer,
+whereas the ingestion of vegetables, dietary fiber, and
+certain micronutrients lowers the risk.
+ These re-
+ and the evidence that
+sults, however, are inconsistent,
+diet contributes to causing colorectal cancer is hardly
+conclusive.
+
+We studied whether adults can reduce their risk of
+colorectal cancer by modifying their diet. Because ad-
+enomatous polyps are considered precursors of most
+large-bowel cancers, we chose recurrence of adenomas
+as the primary end point.
+
+10-14
+
+7-9
+
+16
+
+15
+
+From the National Cancer Institute, Bethesda, Md. (A.S., E.L., D.C.);
+the School of Medicine and Biomedical Sciences, State University of New
+York at Buffalo, Buffalo (P.L.); Edward Hines, Jr., Hospital, Veterans Affairs
+Medical Center, Hines, Ill. (F.I.); the Kaiser Foundation Research Institute,
+Oakland, Calif. (B.C.); Memorial Sloan-Kettering Cancer Center, New York
+(M.S.); the University of Pittsburgh, Pittsburgh (J.W.); the University of Utah,
+Salt Lake City (R.B.); Wake Forest University Baptist Medical Center, Win-
+ston-Salem, N.C. (M.R.C.); Walter Reed Army Medical Center, Washington,
+D.C. (J.W.K.); and Westat, Rockville, Md. (J.C.).
+
+Other authors were Laurence Freedman, Ph.D., National Cancer Institute,
+Bethesda, Md.; James Marshall, Ph.D., University of Arizona, Tucson; Rob-
+ert  E.  Schoen,  M.D.,  M.P.H.,  University  of  Pittsburgh,  Pittsburgh;  and
+Martha Slattery, Ph.D., University of Utah, Salt Lake City.
+
+*Other members of the Polyp Prevention Trial Study Group are listed in
+
+the Appendix.
+
+Volume 342 Number 16
+
+·
+
+1149
+
+The New England Journal of Medicine Downloaded from nejm.org at UNIVERSITY OF OTTAWA on August 2, 2018. For personal use only. No other uses without permission.  Copyright © 2000 Massachusetts Medical Society. All rights reserved.  
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+The  New  England  Journal  of  Medicine
+
+17-22
+
+23,24
+
+Some earlier trials tested the effects of dietary sup-
+plements, rather than an explicit dietary change, on
+the recurrence of adenomas.
+ Two pioneering stud-
+ies did not find that low-fat diets (coupled with fiber
+supplementation) reduced the recurrence of adeno-
+mas,
+ but these small trials had limited statistical
+power. We report the results of the Polyp Prevention
+Trial, a large multicenter, randomized, controlled trial
+of  the  effect  of  a  comprehensive  dietary  interven-
+tion — counseling of patients and assignment to a
+diet low in fat and high in fiber, fruits, and vegeta-
+bles — on the recurrence of large-bowel adenomas.
+
+METHODS
+
+Study Design and Subjects
+
+25,26
+
+Details of the study design, eligibility criteria, randomization pro-
+cedures, dietary intervention, and end-point assessment have been
+previously reported.
+ In brief, we recruited subjects who were
+at least 35 years old and who had had one or more histologically
+confirmed colorectal adenomas removed during a qualifying co-
+lonoscopy (in which the cecum was visualized, all polyps were re-
+moved, and the bowel was adequately prepared) within six months
+before randomization. Eligible subjects had no history of colorectal
+cancer, surgical resection of adenomas, bowel resection, the poly-
+posis syndrome, or inflammatory bowel disease; weighed no more
+than 150 percent of the recommended level; were taking no lipid-
+lowering drugs; and had no medical condition or dietary restrictions
+or practices that would substantially limit compliance with the pro-
+tocol. The institutional review boards of the National Cancer In-
+stitute and each participating center approved the study. All sub-
+jects provided written informed consent.
+
+Staff members at eight clinical centers (listed in the Appendix)
+identified potential subjects through referrals by endoscopists or re-
+views of the records of the endoscopy service. Of 38,277 poten-
+tial subjects, we enrolled 2079 (5.4 percent) in the trial. A total of
+1037 were randomly assigned to adopt a diet that was low in fat
+and high in fiber, fruits, and vegetables (the intervention group),
+and 1042 were randomly assigned to follow their usual diet (the
+control  group).  The  base-line  characteristics  of  these  subjects
+have been reported previously.
+
+25,26
+
+Collection of Data
+
+At one of two clinic visits before randomization, we measured
+each subject’s weight and height. At the base-line visit and at sub-
+sequent annual visits at years 1, 2, 3, and 4, each subject answered
+a questionnaire assessing a variety of demographic, clinical, and be-
+havioral characteristics and provided a venous blood specimen after
+an overnight fast.
+
+Dietary Goals and Follow-up
+
+For subjects in the intervention group, the dietary goals were
+to provide 20 percent of total calories from fat, 18 g of dietary
+fiber per 1000 kcal, and 3.5 servings of fruits and vegetables per
+1000 kcal (range, 5 to 8 daily servings, depending on total energy
+intake). The intervention program included nutritional informa-
+tion and behavior-modification techniques. We offered each sub-
+ject more than 50 hours of counseling sessions during the four-
+year intervention period, including 20 hours in the first year. Each
+subject in the intervention group was assigned to one nutritionist
+for counseling and another for dietary assessment. We provided
+subjects in the control group with general dietary guidelines from
+the National Dairy Council but gave them no additional nutrition-
+al or behavioral information.
+
+We followed the subjects for approximately four years after ran-
+domization. Each year all subjects completed a four-day food record
+followed by a food-frequency questionnaire, the Block Health Hab-
+
+1150
+
+·
+
+Apr il 20, 2000
+
+27,28
+
+its and History Questionnaire,
+ which was modified slightly to
+reflect the intake of low-fat and high-fiber foods. In addition, sub-
+jects in the intervention group completed a four-day food record
+six months after randomization. Each year we administered un-
+scheduled 24-hour dietary-recall questionnaires to a newly select-
+ed random sample of 10 percent of subjects.
+
+Colonoscopy
+
+Subjects  returned  to  their  usual  endoscopist  for  colonoscopy
+one and four years after randomization. The one-year colonoscopy
+had to be performed at least 180 days after randomization but less
+than 2 years afterward. This colonoscopy served to detect and re-
+move any lesions missed by the base-line colonoscopy. We obtained
+data on any unscheduled endoscopic procedure carried out in ad-
+dition to the follow-up procedures at one and four years. We asked
+all investigators and subjects not to discuss a subject’s randomiza-
+tion status with the endoscopists.
+
+Assessment of Adenomas
+
+Two  central  pathologists,  who  were  unaware  of  the  subjects’
+group assignment, determined the histologic features and degree of
+atypia (low-grade vs. high-grade) of all lesions. The endoscopists’
+reports provided information on the size, number, and location
+of all polyps.
+
+We defined an adenoma as recurrent if it was found during any
+endoscopic procedure after the one-year colonoscopy or, for sub-
+jects who missed the one-year colonoscopy, during any endoscopic
+procedure performed at least two years after randomization. Ad-
+enomas found during the one-year colonoscopy were not consid-
+ered  recurrent.  An  end-points  committee  of  gastroenterologists
+who were unaware of the subjects’ group assignment evaluated com-
+plicated cases, including those involving lost tissue specimens or
+failure to reach the cecum. The few colorectal cancers diagnosed
+after the one-year colonoscopy were counted as recurrent lesions.
+
+Statistical Analysis
+
+29
+
+We used the intention-to-treat principle to compare the inter-
+vention and control groups, defining groups according to the ini-
+tial random assignment rather than according to actual or report-
+ed compliance with the protocol.
+ The primary end point was the
+recurrence of adenomas during the interval from the one-year to
+the four-year colonoscopy. Secondary end points were the num-
+ber, size, location, and histologic features of the adenomas that
+were found. We calculated risk ratios and 95 percent confidence in-
+tervals in order to compare end-point events in the two groups.
+30
+We used logistic regression to adjust the effect of intervention for
+base-line prognostic factors. We used logistic-regression models to
+determine whether there was an interaction between dietary in-
+tervention and various covariates, and where appropriate, we per-
+formed covariate stratum-specific analyses.
+
+RESULTS
+
+Characteristics of the Subjects
+
+The  base-line  demographic,  clinical,  nutritional,
+and behavioral characteristics were similar in the 958
+subjects in the intervention group and the 947 sub-
+jects in the control group who completed the study
+(Table 1). Of these 1905 subjects, 1768 (92.8 per-
+cent) underwent a colonoscopy during year 1; the pro-
+cedure was performed in 93.8 percent of the subjects
+in  the  intervention  group  and  91.8  percent  of  the
+subjects in the control group (Table 2). The median
+observation period (3.05 years) and the mean num-
+ber of colonoscopic examinations after randomization
+(2.31) were the same in both groups (Table 2).
+
+Subjects in the intervention group reduced their
+
+The New England Journal of Medicine Downloaded from nejm.org at UNIVERSITY OF OTTAWA on August 2, 2018. For personal use only. No other uses without permission.  Copyright © 2000 Massachusetts Medical Society. All rights reserved. LACK  OF  EFFECT  OF  A  LOW-FAT,  HIGH-FIBER  DIET  ON  THE  RECURRENCE  OF  COLORECTAL  ADENOMAS
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+T
+
+ABLE
+
+ 1.
+
+ B
+
+ASE
+W
+
+-L
+HO
+
+INE
+ C
+
+ C
+OMPLETED
+
+HARACTERISTICS
+ S
+
+THE
+
+ 
+ 
+OF
+THE
+.*
+TUDY
+
+ 
+
+ S
+
+UBJECTS
+
+ 
+
+T
+
+ABLE
+
+ 2.
+
+ F
+
+-
+OLLOW
+W
+ U
+
+HO
+
+ C
+
+UP
+NDERWENT
+
+ R
+
+OLONOSCOPY
+
+ 
+
+AMONG
+
+ 
+
+ANDOMIZATION
+
+THE
+.
+
+ S
+
+UBJECTS
+
+ 
+
+C
+ONTROL
+G
+ROUP
+
+C
+
+HARACTERISTIC
+
+Age (yr)
+Male sex (%)
+Minority race or ethnic group (%)
+More than high school education (%)
+Married (%)
+Current smoker (%)
+Alcohol intake (g/day)
+Body-mass index
+Vigorous or moderate activity or both (hr/wk)
+Current aspirin use (%)
+Use of calcium supplements (%)
+Use of vitamin E supplements (%)
+Plasma total cholesterol (mg/dl)†
+Serum total carotenoids (µg/dl)‡
+Serum 
+Family history of colorectal cancer (%)
+Adenoma »1 cm in maximal diameter (%)
+»2 Adenomas (%)
+»1 Villous or tubulovillous adenomas (%)¶
+Advanced adenoma (%)¿
+History of adenomas within previous 5 yr (%)
+
+-tocopherol (µg/dl)§
+a
+
+I
+NTERVENTION
+
+G
+ROUP
+(N=958)
+
+C
+ONTROL
+G
+ROUP
+(N=947)
+
+61.0±0.3
+
+65.8
+11.7
+65.3
+78.2
+13.4
+7.4±0.4
+27.6±0.1
+12.6±0.5
+
+23.3
+15.4
+18.8
+
+61.1±0.3
+
+63.2
+9.2
+65.2
+80.8
+13.2
+8.0±0.5
+27.5±0.1
+11.6±0.4
+
+22.0
+14.1
+15.1
+
+202.6±1.8
+92.9±2.0
+1442±39
+
+200.2±1.7
+92.4±2.0
+1335±27
+
+24.3
+27.2
+35.0
+19.2
+36.0
+19.6
+
+26.0
+31.5
+33.8
+21.0
+39.1
+16.9
+
+*Plus–minus values are means ±SE. Body-mass index is calculated as the
+
+weight in kilograms divided by the square of the height in meters.
+
+†To  convert  values  for  cholesterol  to  millimoles  per  liter,  multiply  by
+0.02586. A total of 414 subjects in the intervention group and 412 subjects
+in the control group were assessed after an overnight fast.
+
+‡To  convert  values  for  carotenoids  to  millimoles  per  liter,  multiply  by
+0.0185. A total of 415 subjects in the intervention group and 411 subjects
+in the control group were assessed after an overnight fast.
+
+§A total of 418 subjects in the intervention group and 415 subjects in
+
+the control group were assessed after an overnight fast.
+
+¶Information is based on the histologic analysis conducted by the central
+
+pathologists.
+
+¿Advanced adenoma was defined as one that had a maximal diameter of
+at least 1 cm or at least 25 percent villous elements or evidence of high-
+grade dysplasia (including carcinoma).
+
+fat intake from a mean (±SE) of 35.6±0.2 percent
+of calories at the beginning of the trial to 23.8±0.2
+percent at four years, according to data obtained from
+the food-frequency questionnaire (Table 3). The val-
+ues from four-day food records from a random sam-
+ple  of  20  percent  of  subjects  were  32.2  percent  at
+base line and 20.6 percent at four years. Fat intake
+in  the  control  group  declined  from  36.0±0.2  per-
+cent of calories at base line to 33.9±0.2 percent at
+four years. The values from four-day food records in
+this group were 32.5 percent and 31.1 percent, re-
+spectively. The absolute difference between the inter-
+vention and control groups in the change in dietary
+fat as a proportion of total calories over the four-year
+period was 9.7 percent (95 percent confidence inter-
+val, 9.0 to 10.3 percent).
+
+V
+
+ARIABLE
+
+No. randomized
+No adenoma at base line — no. (%)
+Lost to follow-up — no. (%)
+
+Withdrew*
+Died before follow-up colonoscopy
+
+Follow-up colonoscopy — no. (%)†
+
+Colonoscopy at year 1‡
+Colonoscopy at year 4
+Colonoscopy at year 4 and un-
+
+scheduled colonoscopy
+
+Unscheduled colonoscopy only
+
+No colonoscopy at year 1
+
+Colonoscopy only at year 4
+Colonoscopy at year 4 and un-
+
+scheduled colonoscopy
+
+Unscheduled colonoscopy only
+
+Median follow-up — yr
+No. of procedures — mean ±SE
+
+I
+NTERVENTION
+
+G
+
+ROUP
+
+1037 
+
+1042 
+
+3 (0.3)
+76 (7.3)
+34 (44.7)
+42 (55.3)
+958 (92.4)
+899 (93.8)
+638 (71.0)
+150 (16.7)
+
+111 (12.3)
+59 (6.2)
+19 (32.2)
+26 (44.1)
+
+14 (23.7)
+3.05 
+
+2.31±0.02
+
+1 (0.1)
+94 (9.0)
+48 (51.1)
+46 (48.9)
+947 (90.9)
+869 (91.8)
+550 (63.3)
+169 (19.4)
+
+150 (17.3)
+78 (8.2)
+30 (38.5)
+23 (29.5)
+
+25 (32.1)
+3.05 
+
+2.31±0.03
+
+*The reasons for withdrawal were as follows: no colonoscopy at year 4 in
+29 subjects in the intervention group and 43 subjects in the control group;
+refusal to participate in the case of 5 and 4 subjects, respectively; and illness
+in 1 subject in the control group.
+
+†Among  subjects  in  the  intervention  group  who  underwent  follow-up
+colonoscopy, in 38 the cecum was not visualized; in 22 the bowel was poor-
+ly prepared, which might have caused small polyps to be overlooked; and in
+53 one or more tissue specimens were lost during the procedure and there-
+fore were not analyzed, no slides were available for pathological review, or
+data on histologic findings were unknown. The respective numbers in the
+control group were 40, 25, and 44. Five subjects (three in the intervention
+group and two in the control group) underwent sigmoidoscopy as the fol-
+low-up procedure.
+
+‡P=0.10 for the difference between groups.
+
+Subjects in the intervention group raised their fi-
+ber intake by nearly 75 percent; subjects in the con-
+trol group had a slight increase (Table 3). By the end
+of the study, the difference between the two groups
+in the change in fiber consumption was 6.9 g of di-
+etary fiber per 1000 kcal (95 percent confidence in-
+terval, 6.4 to 7.3). As compared with subjects in the
+control group, those in the intervention group who
+consumed 2000 kcal per day increased their fiber in-
+take by nearly 14 g on average. Data from the four-
+day food records were similar to those from the food-
+frequency questionnaires.
+
+The number of servings of fruits and vegetables per
+1000 kcal increased by about two thirds in the in-
+tervention group; subjects in the control group raised
+their fruit and vegetable intake only slightly (Table 3).
+The difference between the two groups in the change
+in  fruit  and  vegetable  intake  was 1.13  servings  per
+1000  kcal  (95  percent  confidence  interval, 1.04  to
+1.21). As compared with subjects in the control group,
+subjects  in  the  intervention  group  who  consumed
+2000 kcal per day increased their fruit and vegetable
+intake by approximately 2.25 servings. Data from the
+
+Volume 342 Number 16
+
+·
+
+1151
+
+The New England Journal of Medicine Downloaded from nejm.org at UNIVERSITY OF OTTAWA on August 2, 2018. For personal use only. No other uses without permission.  Copyright © 2000 Massachusetts Medical Society. All rights reserved.  
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+The  New  England  Journal  of  Medicine
+
+T
+
+ABLE
+
+ 3.
+
+ R
+
+EPORTED
+
+ D
+
+AILY
+
+ D
+
+IETARY
+
+ 
+
+AND
+
+ S
+
+UPPLEMENT
+
+ I
+
+NTAKES
+
+, B
+
+IOMARKERS
+
+, 
+
+AND
+
+ W
+
+EIGHT
+
+.*
+
+V
+
+ARIABLE
+
+I
+NTERVENTION
+
+ G
+
+ROUP
+
+CONTROL GROUP
+
+AT RANDOM-
+
+IZATION
+(N=958)
+
+35.6±0.2
+10.0±0.1
+2.05±0.03
+
+1972±19
+93.2±1.7
+2.6±0.1
+
+83.4±2.0
+14.2±0.6
+28.9±0.9
+1032±20
+
+AT YEAR 4
+(N=903)
+
+23.8±0.2
+17.4±0.2
+3.41±0.04
+
+1870±16
+74.5±1.4
+1.8±0.1
+
+115.3±2.3
+48.5±1.6
+44.4±1.5
+1193±23
+
+AT RANDOM-
+
+IZATION
+(N=947)
+
+36.0±0.2
+9.5±0.1
+2.00±0.03
+
+1981±20
+97.9±1.8
+2.6±0.1
+
+76.8±1.9
+13.7±0.6
+26.5±1.0
+1002±20
+
+AT YEAR 4
+(N=883)
+
+33.9±0.2
+10.0±0.1
+2.23±0.03
+
+1910±18
+94.9±1.7
+2.9±0.1
+
+72.6±1.9
+16.2±0.7
+27.7±1.0
+1096±23
+
+Fat (% of calories)
+Fiber (g/1000 kcal)
+Fruits and vegetables (servings/
+
+1000 kcal)
+
+Calories (kcal/day)
+Red and processed meat (g/day)
+Ratio of red meat to chicken 
+
+and fish
+
+Whole grains (g/day)
+Legumes (g/day)
+Cruciferous vegetables (g/day)
+Calcium from food and supple-
+
+ments (mg/day)
+
+ABSOLUTE DIFFERENCE IN 
+CHANGE BETWEEN GROUPS
+
+(95% CI)†
+
+¡9.7 (¡10.3 to ¡9.0)
+
+6.9 (6.4 to 7.3)
+1.13 (1.04 to 1.21)
+
+¡25 (¡72 to 22)
+
+¡15.8 (¡20.2 to ¡11.5)
+¡1.0 (¡1.3 to 0.7)
+
+35.9 (30.3 to 41.6)
+31.9 (28.9 to 35.0)
+14.2 (10.8 to 17.5)
+77.2 (16.1 to 138.3)
+
+Folate from food and supple-
+
+ments (µg/day)
+Multivitamin use (%)
+
+No. of subjects
+
+Plasma total cholesterol (mg/dl)‡
+
+No. of subjects
+
+Serum total carotenoids (mg/dl)§
+
+No. of subjects
+
+Weight (lb)¶
+
+No. of subjects
+
+435.0±8.8
+
+593.9±12.7
+
+423.9±9.0
+
+487.5±12.5
+
+95.4 (62.0 to 128.9)
+
+36.6
+958
+
+5.30±0.01
+
+414
+
+4.46±0.02
+
+415
+
+42.2
+921
+
+5.27±0.01
+
+372
+
+4.50±0.02
+
+369
+
+36.4
+947
+
+5.29±0.01
+
+412
+
+4.45±0.02
+
+411
+
+41.7
+912
+
+5.27±0.01
+
+364
+
+4.42±0.02
+
+361
+
+179.9±1.1
+
+958
+
+178.5±1.1
+
+919
+
+178.3±1.1
+
+947
+
+179.3±1.1
+
+907
+
+¡0.3 (¡4.8 to 4.2)
+
+¡0.01 (¡0.03 to 0.01)
+
+0.06 (0.01 to 0.11)
+
+¡2.5 (¡3.6 to ¡1.4)
+
+*Plus–minus  values  are  means  ±SE.  CI  denotes  confidence  interval.  To  convert  values  for  cholesterol  to  millimoles  per  liter,
+multiply by 0.02586; to convert values for carotenoids to millimoles per liter, multiply by 0.0185. Cholesterol and carotenoids were
+measured after an overnight fast.
+
+†Differences were calculated only for subjects who had values at randomization and at year 4.
+‡Log-transformed values are shown. The log-transformed values of ¡0.02 mg per deciliter in the intervention group and ¡0.01
+mg per deciliter in the control group for the difference within groups from randomization to year 4 reflect respective decreases in
+absolute cholesterol concentrations of approximately 2 percent and 1 percent; the absolute difference in the change between groups
+is about ¡1 percent (95 percent confidence interval, ¡3 percent to 1 percent).
+
+§Log-transformed values are shown. The log-transformed values of 0.04 mg per deciliter in the intervention group and ¡0.01
+mg per deciliter in the control group for the difference within groups from randomization to year 4 reflect an increase of approx-
+imately 5 percent in absolute carotenoid concentrations in the intervention group and a decrease of 1 percent in the control group;
+the absolute difference in the change between groups is about 6 percent (95 percent confidence interval, 1 percent to 11 percent).
+
+¶To convert values for weight to kilograms, divide by 2.2.
+
+four-day  food  records  showed  a  difference  in  the
+change between groups of 1.8 servings per 1000 kcal.
+Changes in the intake of fat, fiber, and fruits and
+vegetables generally occurred within the first year and
+were subsequently maintained. Data from the food-
+frequency questionnaire showed that during the first
+year subjects in the intervention group obtained 24.6
+percent of calories from fat, consumed 17.7 g of die-
+tary fiber per 1000 kcal, and ate 3.3 servings of fruits
+and  vegetables  per 1000  kcal.  These  changes  were
+similar for men and women. As compared with sub-
+jects in the control group, subjects in the interven-
+tion group also significantly altered their intake of oth-
+er nutrients and foods, including red and processed
+meat, whole grains, legumes, calcium, and folate (Ta-
+ble 3). Data from the 24-hour dietary recall were sim-
+ilar to those from the four-day food records.
+
+Over the four-year period of observation, the sub-
+jects in the intervention group had a significant in-
+crease  in  serum  carotenoid  concentrations  and  de-
+crease in weight (Table 3), as compared with changes
+measured in subjects in the control group. The small
+reductions in plasma total cholesterol concentrations
+did not differ significantly between the two groups.
+The  differences  in  the  changes  in  total  cholesterol,
+total carotenoids, and weight (calculated as the change
+in the control group over time minus the change in
+the  intervention  group  over  time)  were  somewhat
+greater after one year than after four years.
+
+Recurrence of Adenomas
+
+Adenomatous polyps recurred in 754 of the 1905
+subjects who completed the study (39.6 percent). At
+least one recurrent adenoma was found in 39.7 per-
+
+1152
+
+·
+
+Apr il 20, 2000
+
+The New England Journal of Medicine Downloaded from nejm.org at UNIVERSITY OF OTTAWA on August 2, 2018. For personal use only. No other uses without permission.  Copyright © 2000 Massachusetts Medical Society. All rights reserved. LACK  OF  EFFECT  OF  A  LOW-FAT,  HIGH-FIBER  DIET  ON  THE  RECURRENCE  OF  COLORECTAL  ADENOMAS
+
+TABLE 4. RISK OF RECURRENCE OF ADENOMAS AMONG THE SUBJECTS 
+
+WHO COMPLETED THE STUDY.
+
+VARIABLE
+
+INTERVENTION GROUP
+
+(N=958)
+
+CONTROL GROUP
+
+(N=947)
+
+RISK RATIO
+(95% CI)*
+
+P
+
+VALUE
+
+No. of adenomas
+
+»1†
+1
+2
+»3
+
+Location of adenomas‡
+
+Proximal
+Distal
+Proximal and distal
+Unknown
+
+Largest adenoma »1 cm
+Advanced adenoma§
+
+no. of subjects (%)
+
+380 (39.7)
+219 (22.9)
+88 (9.2)
+73 (7.6)
+
+203 (21.2)
+100 (10.4)
+69 (7.2)
+8 (0.8)
+47 (4.9)
+60 (6.3)
+
+374 (39.5)
+217 (22.9)
+82 (8.7)
+75 (7.9)
+
+173 (18.3)
+124 (13.1)
+72 (7.6)
+5 (0.5)
+53 (5.6)
+66 (7.0)
+
+1.00 (0.90–1.12)
+1.00 (0.85–1.18)
+1.06 (0.80–1.41)
+0.96 (0.71–1.31)
+
+1.16 (0.97–1.39)
+0.80 (0.62–1.02)
+0.95 (0.69–1.30)
+1.58 (0.52–4.82)
+0.88 (0.60–1.28)
+0.90 (0.64–1.26)
+
+0.98
+1.00
+0.75
+0.87
+
+0.12
+0.08
+0.81
+0.59
+0.57
+0.60
+
+*CI denotes confidence interval.
+†The absolute difference between groups was 0.2 percent (95 percent confidence interval, ¡4.2
+percent to 4.6 percent). The mean (±SE) number of recurrent adenomas among those with a recur-
+rence was 1.85±0.08 in the intervention group and 1.84±0.07 in the control group. The distribu-
+tions of adenomas according to size were not significantly different in the two groups (P=0.77).
+
+‡Proximal is defined as the portion of the large bowel from the cecum up to, but not including,
+the splenic flexure. Distal is defined as the portion of the large bowel from the splenic flexure up to
+and including the rectum. The distributions of adenomas according to location were not significantly
+different in the two groups (P=0.17).
+
+§An advanced adenoma was one that had a maximal diameter of at least 1 cm or at least 25 percent
+
+villous elements or evidence of high-grade dysplasia (including carcinoma).
+
+cent of subjects in the intervention group and 39.5
+percent of subjects in the control group; the unad-
+justed risk ratio was 1.00 (95 percent confidence in-
+terval, 0.90 to 1.12; P=0.98) (Table 4). Of these re-
+current adenomas, the mean number was 1.85±0.08
+in the intervention group and 1.84±0.07 in the con-
+trol group (P=0.93). Among the 638 subjects in the
+intervention group and 550 subjects in the control
+group who underwent colonoscopy only at year 1 and
+year  4  after  randomization,  36.7  percent  and  35.8
+percent, respectively, had one or more recurrent ade-
+nomas; the unadjusted risk ratio was 1.02 (95 per-
+cent confidence interval, 0.88 to 1.19; P=0.81).
+
+The intervention and control groups did not dif-
+fer significantly with respect to the number with re-
+current  large  adenomas  (with  a  maximal  diameter
+of at least 1 cm) or advanced adenomas (defined as
+those that had a maximal diameter of at least 1 cm
+or at least 25 percent villous elements or evidence of
+high-grade dysplasia, including carcinoma); this was
+true when the analysis included all those who com-
+pleted the study (Table 4) as well as when it included
+those who underwent only the scheduled colonos-
+copies at year 1 and year 4 after randomization (data
+not shown). In both groups, approximately 27 per-
+cent of subjects had at least one recurrent adenoma
+proximal to the splenic flexure (Table 4). Sixty-three
+percent of recurrent adenomas were proximal to the
+splenic flexure, whereas 58 percent of base-line ade-
+nomas were distal to that site (data not shown).
+
+Colorectal cancer was diagnosed in 14 subjects af-
+ter randomization (10 in the intervention group and
+4  in  the  control  group);  the  unadjusted  risk  ratio
+was 2.5 (95 percent confidence interval, 0.8 to 7.9;
+P=0.19). Of these 14 subjects, 6 (4 in the intervention
+group and 2 in the control group) were given a diag-
+nosis after the one-year colonoscopy; the unadjusted
+risk  ratio  was  2.0  (95  percent  confidence  interval,
+0.4 to 10.8; P=0.69).
+
+To adjust for an imbalance in influential base-line
+variables between the groups, we used logistic-regres-
+sion models that included as covariates the random
+group assignment and the base-line characteristics list-
+ed in Table 1. Adjustment for these factors had no
+effect on the risk of recurrence.
+
+For all but one of the covariates listed in Table 1,
+we found on logistic-regression analysis that there was
+no statistically significant (P<0.01) interaction with
+group assignment. We observed a significant interac-
+tion (P=0.005 before adjustment for multiple com-
+parisons) between the randomization group and sex.
+We therefore examined the recurrence of adenomas
+among men and women separately. Among men, the
+recurrence rate was lower in the intervention group
+than in the control group (41.9 percent vs. 46.7 per-
+cent); the unadjusted risk ratio was 0.89 (95 percent
+confidence interval, 0.79 to 1.02; P=0.11). Among
+women, the rate of recurrence was higher in the in-
+tervention group than in the control group (35.4 per-
+cent vs. 27.2 percent); the unadjusted risk ratio was
+
+Volume 342 Number 16
+
+· 1153
+
+The New England Journal of Medicine Downloaded from nejm.org at UNIVERSITY OF OTTAWA on August 2, 2018. For personal use only. No other uses without permission.  Copyright © 2000 Massachusetts Medical Society. All rights reserved. The  New  England  Journal  of  Medicine
+
+1.30 (95 percent confidence interval, 1.04 to 1.63;
+P=0.03). With respect to both large and advanced
+recurrent lesions, the differences between groups were
+not significant for either men or women; the inter-
+action between the randomization group and sex was
+not significant for either end point. There were also no
+significant (P<0.05) differences between the groups
+in  the  number  of  either  deaths  or  hospitalizations
+(for all causes and for specific diagnoses).
+
+DISCUSSION
+
+We found that the rate of recurrent adenomas was
+not changed by dietary intervention. Our results are
+compatible with, at most, an absolute reduction re-
+lated to the intervention of about 4 percent in the
+incidence of recurrent adenomas (Table 4). We also
+found no effect of the dietary intervention on the in-
+cidence of large or advanced recurrent lesions.
+
+Two previous trials also found that dietary changes
+had no effect on the overall risk of recurrence of co-
+lorectal adenomas. The Toronto Polyp Prevention Tri-
+al reported no significant difference in recurrence af-
+ter  two  years  between  subjects  in  the  intervention
+group and those in the control group (a total of 201
+subjects) who reported ingesting 25 and 33 percent
+of calories from fat and 35 and 16 g of fiber per day,
+respectively.23  In  the  Australian  Polyp  Prevention
+Project, which included 424 subjects, none of the in-
+terventions (a reduction in dietary fat, use of a wheat-
+bran–fiber  supplement,  and  supplementation  with
+beta carotene) resulted in a statistically significant re-
+duction in the risk of recurrence after 48 months of
+observation.24 The Australian trial did report a mar-
+ginally significant reduction in the recurrence of large
+adenomas (»1 cm in diameter) among subjects eat-
+ing a low-fat diet, but in that study large recurrent
+adenomas  developed  in  only  17  subjects,  as  com-
+pared with 100 in our study.
+
+The straightforward interpretation of our finding is
+that a diet that is low in fat, and high in fiber, fruits,
+and vegetables does not reduce the risk of recurrent
+adenomas or, by inference, colorectal cancer. Alter-
+native explanations, however, merit consideration.
+
+Most recurrent adenomas were small; only about
+5 percent of subjects had a recurrent lesion 1 cm or
+more in diameter (Table 4). Adopting a diet that was
+low  in  fat  and  high  in  fiber,  fruits,  and  vegetables
+might affect only the growth of small adenomas into
+large adenomas or the transformation of large ade-
+nomas into invasive carcinomas.31
+
+The dietary-assessment data indicated that the in-
+tervention and control groups differed substantially
+in the consumption of fat, fiber, and fruits and veg-
+etables. The findings regarding carotenoid concentra-
+tions and weight were consistent with such differenc-
+es. (The changes in blood lipid concentrations were
+minimal but compatible with the results of other stud-
+ies of dietary intervention as well as with predictions
+
+1154 · Apr il 20, 2000
+
+based on the equation of Keys et al.32) These data,
+however, do not preclude the possibility that in the
+light of the dietary expectations fostered by the trial,
+subjects in the intervention group systematically un-
+derreported their intake of fat or overreported their
+consumption  of  fiber  or  fruits  and  vegetables.  An-
+other possibility is that the dietary intervention was
+inadequate; a reduction in fat intake to no more than
+15 percent of calories or a greater intake of fiber or
+fruits and vegetables might be required to reduce the
+risk  of  recurrent  adenomas.  Moreover,  we  may  not
+have chosen the optimal set of dietary targets. The 20
+percent  reduction  in  the  consumption  of  red  and
+processed meat among subjects in the intervention
+group may have been too small to affect the risk of
+recurrence of adenomas. The same may be true for
+reductions  in  the  consumption  of  meat  cooked  at
+high temperatures (which contains high concentra-
+tions of heterocyclic amines)33 or sugar.11
+
+The mean age of the subjects at base line was 61
+years.  If  nutritional  factors  influence  critical  events
+in colorectal neoplasia at the molecular, cellular, or
+tissue level only earlier in life, then a change in diet
+later in adult life may be ineffective. A relatively short
+period of dietary intervention (four years) might also
+fail to reduce the risk of recurrent adenomas. A longer
+period of intervention as well as follow-up might al-
+low the development of enough adenomas to reveal
+the protective effect of the intervention, if there were
+one. In a recent clinical trial of calcium supplementa-
+tion to prevent colorectal adenoma,22 however, the av-
+erage age of the subjects, the duration of the interven-
+tion, and the length of follow-up were similar to those
+in our study, but that study did find a lower recur-
+rence rate among subjects in the intervention group.
+Bias is an unlikely explanation for our results. Sub-
+jects in the intervention and control groups who com-
+pleted the study did not differ appreciably with re-
+spect to base-line characteristics, and the main results
+did not change after adjustment for multiple covari-
+ates in logistic-regression analysis. Although we could
+not  disguise  the  group  assignments  from  the  sub-
+jects or guarantee that the endoscopists were unaware
+of these assignments, we have no reason to suspect
+that  endoscopists  tended  to  search  more  diligently
+for — and therefore find more — adenomas among
+subjects in the intervention group than in the control
+group. A series of imputations based on the age and
+sex of subjects who did not undergo follow-up co-
+lonoscopy made no appreciable difference in estimates
+of recurrence.34
+
+The  higher  rate  of  recurrent  adenomas  among
+women in the intervention group than among those
+in the control group and the interaction between sex
+and group was not affected by a multivariate adjust-
+ment for age and the number of adenomas at base line
+(both of which were predictive of the risk of recur-
+rence) and other covariates listed in Table 1. Never-
+
+The New England Journal of Medicine Downloaded from nejm.org at UNIVERSITY OF OTTAWA on August 2, 2018. For personal use only. No other uses without permission.  Copyright © 2000 Massachusetts Medical Society. All rights reserved. LACK  OF  EFFECT  OF  A  LOW-FAT,  HIGH-FIBER  DIET  ON  THE  RECURRENCE  OF  COLORECTAL  ADENOMAS
+
+theless, we conclude that this interaction resulted from
+chance  observations  arising  from  repeated  testing.
+In the Toronto trial, the rate of recurrence was lower
+among women in the intervention group but higher
+among men in that group, as compared with the risk
+in the control subjects, though these differences were
+not statistically significant.23
+
+In summary, our study provided no evidence that
+a diet low in fat and high in fiber, fruits, and vegeta-
+bles reduces the risk of recurrent colorectal adeno-
+mas.  Nevertheless,  we  cannot  definitively  conclude
+that  a  change  in  diet  is  ineffective  in  reducing  the
+risk of colorectal cancer. Nor should we overlook the
+abundant data indicating that a diet low in saturated
+fats and rich in fruits, vegetables, and whole grains has
+a favorable influence on the risk of chronic disease
+and mortality.35-37
+
+APPENDIX
+
+Other members of the Polyp Prevention Trial Study Group were as fol-
+lows: National Cancer Institute — R. Ballard-Barbash, C. Clifford, J. Tangrea;
+State University of New York at Buffalo — D. Hayes, N.J. Petrelli, M. Bed-
+dome, K. Kroldart, S. Rauth, L. Wodarski; Edward Hines, Jr., Hospital, Vet-
+erans Affairs Medical Center — P. Murphy, E.C. Boté, L. Brandt-Whitting-
+ton,  N.  Haroon,  N.  Kazi,  M.A.  Moore,  S.B.  Orloff,  W.J.  Ottosen,  M.
+Patel, R.L. Rothschild, M. Ryan, J.M. Sullivan, A. Verma; Kaiser Founda-
+tion Research Institute — J.V. Selby, G. Friedman, M. Lawson, G. Taff, D.
+Snow,  M.  Belfay,  M.  Schoenberger,  K.  Sampel,  T.  Giboney,  M.  Randel;
+Memorial Sloan-Kettering Cancer Center — S. Winawer, A. Bloch, J. Mayer,
+R. Morse, L. Latkany, D. D’Amato, A. Schaffer, L. Cohen; University of
+Pittsburgh — R.R. Schade, L. Kuller, B. Gahagan, A. Caggiula, T. Coyne,
+C.  Lucas,  S.  Pappert,  G.  Landis,  L.  Dyjak,  R.  Robinson,  L.  Search,  D.
+Hanson;  University  of  Utah  —  N.  Viscofsky,  J.  Benson,  J.  Neilson,  R.
+O’Donnel, M. Briley, K. McDivitt, K. Heinrich; W. Samowitz; Wake Forest
+University Baptist Medical Center — E. Paskett, S. Quandt, C. DeGraffin-
+reid, K. Bradham, L. Kent, M. Self, D. Boyles, D. West, L. Martin, N. Tay-
+lor, E. Dickenson, P. Kuhn, J. Harmon, I. Richardson, H. Lee, E. Marceau;
+Walter  Reed  Army  Medical  Center  —  D.J.  Mateski,  R.K.H.  Wong,  C.
+Cheney, E. Rueda-Pedraza, V. Jones-Miskovsky, A. Greaser, E. Stoute, S.
+Hancock, S. Chandler, M. Burman, E. Crutchfield, C. Slivka, L. Johnson;
+Data and Nutrition Coordinating Center (Westat) — M. Hasson, C. Das-
+ton, B. Brewer, C. Sharbaugh, B. O’Brien, N. Odaka, K. Umbel, J. Pinsky,
+H. Price, P. Clark; Central Pathologists — K. Lewin (University of Califor-
+nia, Los Angeles), H. Appelman (University of Michigan); Laboratories —
+P.S. Bachorik, K. Lovejoy (Johns Hopkins University), A. Sowell (Centers
+for Disease Control and Prevention); Data and Safety Monitoring Committee
+— E.R. Greenberg (Norris Cotton Cancer Center and Dartmouth Medical
+School), E. Feldman (Augusta, Ga.), C. Garza (Cornell University), R. Sum-
+mers (University of Iowa); S. Weiand (University of Minnesota), D. DeMets
+(University of Wisconsin).
+
+REFERENCES
+
+1. Potter JD, Slattery ML, Bostick RM, Gapstur SM. Colon cancer: a re-
+view of the epidemiology. Epidemiol Rev 1993;15:499-545.
+2. Tominaga S, Aoki K, Fujimoto I, Kurihara M, eds. Cancer mortality 
+and morbidity statistics: Japan and the world, 1994. Boca Raton, Fla.: CRC 
+Press, 1994.
+3. Ji B-T, Devesa SS, Chow W-H, Jin F, Gao Y-T. Colorectal cancer inci-
+dence trends by subsite in urban Shanghai, 1972-1994. Cancer Epidemiol 
+Biomarkers Prev 1998;7:661-6.
+4. McMichael AJ, Giles GG. Cancer in migrants to Australia: extending the 
+descriptive epidemiological data. Cancer Res 1988;48:751-6.
+5. Zhao LP, Kushi LH, Klein RD, Prentice RL. Quantitative review of stud-
+ies of dietary fat and rat colon carcinoma. Nutr Cancer 1991;15:169-77.
+6. Kritchevsky D. Protective role of wheat bran fiber: preclinical data. Am 
+J Med 1999;106:Suppl 1A:28S-31S.
+7. Nagengast FM, Grubben MJAL, van Munster IP. Role of bile acids in 
+colorectal carcinogenesis. Eur J Cancer 1995;31A:1067-70.
+8. Lupton JR, Turner ND. Potential protective mechanisms of wheat bran 
+fiber. Am J Med 1999;106:Suppl 1A:24S-27S.
+9. McKeown-Eyssen G. Epidemiology of colorectal cancer revisited: are 
+
+serum triglycerides and/or plasma glucose associated with risk? Cancer Ep-
+idemiol Biomarkers Prev 1994;3:687-95.
+10. Giovannucci E, Rimm EB, Stampfer MJ, Colditz GA, Ascherio A, 
+Willett WC. Intake of fat, meat, and fiber in relation to risk of colon cancer 
+in men. Cancer Res 1994;54:2390-7.
+11. World Cancer Research Fund. Food, nutrition and the prevention of 
+cancer: a global perspective. Washington, D.C.: American Institute for 
+Cancer Research, 1997.
+12. Potter JD. Colorectal cancer: molecules and populations. J Natl Can-
+cer Inst 1999;91:916-32.
+13. Martinez ME, Willett WC. Calcium, vitamin D, and colorectal cancer: 
+a review of the epidemiologic evidence. Cancer Epidemiol Biomarkers Prev 
+1998;7:163-8.
+14. Giovannucci E, Stampfer MJ, Colditz GA, et al. Multivitamin use, 
+folate, and colon cancer in women in the Nurses’ Health Study. Ann Intern 
+Med 1998;129:517-24.
+15. Fuchs CS, Giovannucci EL, Colditz GA, et al. Dietary fiber and the risk 
+of colorectal cancer and adenoma in women. N Engl J Med 1999;340:169-76.
+16. Schatzkin A, Freedman LS, Dawsey SM, Lanza E. Interpreting pre-
+cursor studies: what polyp trials tell us about large-bowel cancer. J Natl 
+Cancer Inst 1994;86:1053-7.
+17. Bussey HJ, DeCosse JJ, Deschner EE, et al. A randomized trial of 
+ascorbic acid in polyposis coli. Cancer 1982;50:1434-9.
+18. DeCosse JJ, Miller HH, Lesser ML. Effect of wheat fiber and vitamins 
+C and E on rectal polyps in patients with familial adenomatous polyposis. 
+J Natl Cancer Inst 1989;81:1290-7.
+19. McKeown-Eyssen G, Holloway C, Jazmaji V, Bright-See E, Dion P, 
+Bruce WR. A randomized trial of vitamins C and E in the prevention of 
+recurrence of colorectal polyps. Cancer Res 1988;48:4701-5.
+20. Roncucci L, Di Donato P, Carati L, et al. Antioxidant vitamins or 
+lactulose for the prevention of the recurrence of colorectal adenomas. Dis 
+Colon Rectum 1993;36:227-34.
+21. Greenberg ER, Baron JA, Tosteson TD, et al. A clinical trial of antioxi-
+dant vitamins to prevent colorectal adenoma. N Engl J Med 1994;331:141-7.
+22. Baron JA, Beach M, Mandel JS, et al. Calcium supplements for the 
+prevention of colorectal adenomas. N Engl J Med 1999;340:101-7.
+23. McKeown-Eyssen GE, Bright-See E, Bruce WR, et al. A randomized 
+trial of a low fat high fibre diet in the recurrence of colorectal polyps.
+J Clin Epidemiol 1994;47:525-36. [Erratum, J Clin Epidemiol 1995;48:i.]
+24. MacLennan R, Macrae F, Bain C, et al. Randomized trial of intake of 
+fat, fiber, and beta carotene to prevent colorectal adenomas: the Australian 
+Polyp Prevention Project. J Natl Cancer Inst 1995;87:1760-6.
+25. Schatzkin A, Lanza E, Freedman LS, et al. The Polyp Prevention Trial. 
+I. Rationale, design, recruitment, and baseline participant characteristics. 
+Cancer Epidemiol Biomarkers Prev 1996;5:375-83.
+26. Lanza E, Schatzkin A, Ballard-Barbash R, et al. The Polyp Prevention 
+Trial. II. Dietary intervention and baseline participant dietary characteris-
+tics. Cancer Epidemiol Biomarkers Prev 1996;5:385-92. [Erratum, Cancer 
+Epidemiol Biomarkers Prev 1996;5:584.]
+27. Block G, Hartman AM, Dresser CM, Carroll MD, Gannon J, Gardner 
+L. A data-based approach to diet questionnaire design and testing. Am J Ep-
+idemiol 1986;124:453-69.
+28. Mares-Perlman JA, Klein BE, Klein R, Ritter LL, Fisher MR, 
+Freudenheim JL. A diet history questionnaire ranks nutrient intakes in 
+middle-aged and older men and women similarly to multiple food records. 
+J Nutr 1993;123:489-501.
+29. Friedman LM, Furberg CD, DeMets DL. Fundamentals of clinical tri-
+als. Littleton, Mass.: PSG Publishing, 1981.
+30. Kleinbaum DG, Kupper LL, Morgenstern H. Epidemiologic research: 
+principles and quantitative methods. Belmont, Calif.: Lifetime Learning, 
+1982.
+31. Hill MJ, Morson BC, Bussey HJ. Aetiology of adenoma-carcinoma se-
+quence in large bowel. Lancet 1978;1:245-7.
+32. Keys A, Anderson JT, Grande F. Serum cholesterol response to changes 
+in the diet. I. Iodine value of dietary fat versus 2S¡P. Metabolism 1965;
+14:747-58.
+33. Wakabayashi K, Nagao M, Esumi H, Sugimura T. Food-derived mu-
+tagens and carcinogens. Cancer Res 1992;52:Suppl:2092s-2098s.
+34. Little RJA, Rubin DB. Statistical analysis with missing data. New York: 
+John Wiley, 1987.
+35. Appel LJ, Moore TJ, Obarzanek E, et al. A clinical trial of the effects 
+of dietary patterns on blood pressure. N Engl J Med 1997;336:1117-24.
+36. Liu S, Stampfer MJ, Hu FB, et al. Whole-grain consumption and risk 
+of coronary heart disease: results from the Nurses’ Health Study. Am J Clin 
+Nutr 1999;70:412-9.
+37. Dietary Guidelines Advisory Committee. Report of the Dietary Guide-
+lines Advisory Committee on the dietary guidelines for Americans, 1995, 
+to the Secretary of Health and Human Services and the Secretary of Agri-
+culture. Washington, D.C.: Department of Agriculture, Agricultural Research 
+Service, 1995.
+
+Volume 342 Number 16
+
+· 1155
+
+The New England Journal of Medicine Downloaded from nejm.org at UNIVERSITY OF OTTAWA on August 2, 2018. For personal use only. No other uses without permission.  Copyright © 2000 Massachusetts Medical Society. All rights reserved. 

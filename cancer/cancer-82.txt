@@ -1,0 +1,886 @@
+N U T R I T I O N R E S E A R C H 3 6 ( 2 0 1 6 ) 6 2 7 – 6 3 5
+
+A v a i l a b l e o n l i n e a t w w w . s c i e n c e d i r e c t . c o m
+
+ScienceDirect
+
+w w w . n r j o u r n a l . c o m
+
+Review Article
+
+Systematic review and meta-analysis suggest
+that dietary cholesterol intake increases risk
+of breast cancer
+
+Changkun Li, Li Yang, Dongfeng Zhang, Wenjie Jiang⁎
+Department of Epidemiology and Health Statistics, the Medical College of Qingdao University, No. 38 Dengzhou Rd, Qingdao, Shandong
+266021, People's Republic of China
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Article history:
+Received 9 November 2015
+Revised 7 April 2016
+Accepted 23 April 2016
+
+Keywords:
+Dietary cholesterol
+Breast cancer
+Fat intake
+Meta-analysis
+Review
+
+Several epidemiological investigations have been conducted to evaluate the relationship
+between dietary cholesterol
+intake and risk of breast cancer, but the results are
+inconsistent. This meta-analysis was performed to summarize the evidence from
+observational studies to test the hypothesis that dietary cholesterol intake increases the
+risk of breast cancer. PubMed, EMBASE, Web of Science, and China National Knowledge
+Infrastructure were searched for relevant articles published up to July 2015. Pooled relative
+risks were calculated with random effects model. Dose-response relationship was assessed
+by restricted cubic spline model. Overall, 9 articles involving 6 cohort studies and 3 case-
+control studies were included in this study. The pooled relative risk with 95% confidence
+intervals of breast cancer for the highest vs lowest category of dietary cholesterol intake
+was 1.29 (1.06-1.56). For dose-response analysis, a nonlinear relationship was found
+between dietary cholesterol and breast cancer, and the association became statistically
+significant when the cholesterol intake was greater than 370 mg/d. Results from this meta-
+analysis indicated that dietary cholesterol was associated with an increased risk of
+breast cancer.
+
+© 2016 Elsevier Inc. All rights reserved.
+
+1.
+
+Introduction
+
+Breast cancer is the second most common cancer in women
+worldwide, with about 1.7 million new cases diagnosed yearly,
+and remains the leading cause of cancer death among women
+in both the developed and developing world. Reproductive,
+hormonal factors and unhealthy lifestyles are considered as
+risk factors of breast cancer [1]. Furthermore, observational
+studies have indicated that obesity, as a potentially modifiable
+
+risk factor, could increase the risk of breast cancer in women
+[2–4]. Because obesity is primarily diet induced and a comor-
+bidity of hypercholesterolemia, a Western diet which is rich in
+fat and cholesterol may increase the risk of breast cancer [5,6].
+Since the 1980s, many epidemiological studies have investigat-
+ed the relation of high-fat/high-cholesterol diet and the risk of
+breast cancer. Although a pooled analysis of 7 cohort studies in
+1996 showed no evidence of an association between total
+dietary cholesterol intake and the risk of breast cancer, recent
+
+Abbreviations: 27HC, 27-hydroxycholesterol; BMI, body mass index; CI, confidence interval; RR, relative risk.
+
+⁎ Corresponding author. Tel: +86 532 82991712; fax: +86 532 83801449.
+
+E-mail address: wenjie-jiang@126.com (W. Jiang).
+
+http://dx.doi.org/10.1016/j.nutres.2016.04.009
+0271-5317/© 2016 Elsevier Inc. All rights reserved.
+
+628
+
+N U T R I T I O N R E S E A R C H 3 6 ( 2 0 1 6 ) 6 2 7 – 6 3 5
+
+Fig. 1 – Flowchart of detailed steps of selection of studies.
+
+studies from animal models found a link between high-fat/
+high-cholesterol diet and the development of breast cancer
+[7–9], and results from in vitro and in vivo studies indicated that
+27-hydroxycholesterol (27HC), a cholesterol metabolite, could
+induce breast cancer [10]. However, recent epidemiologic
+evidence from cohort studies [11,12] and case-control studies
+[13–15] are inconsistent. In addition, the dose-response rela-
+tionship of fat and cholesterol with breast cancer, which is the
+strong evidence for a causal relationship, is unknown.
+
+To our best knowledge, no meta-analysis of dietary
+cholesterol intake and breast cancer has been published.
+Therefore, we reviewed observational studies including co-
+hort studies [11,12,16–19] and case-control studies [13–15] to
+(1) first assess the breast cancer risk for the highest vs lowest
+dietary cholesterol consumption and then explore the poten-
+tial dose-response relationship,
+(2) assess the potential
+between-study heterogeneity, and (3) investigate the poten-
+tial publication bias. The hypothesis that dietary cholesterol
+intake could increase the risk of breast cancer was tested in
+
+this study. The findings of the study might be meaningful for
+the possible prevention of breast cancer.
+
+2.
+
+Methods and materials
+
+2.1.
+
+Literature search strategy
+
+A comprehensive literature search up to July 2015 was
+performed for pertinent available articles from the
+following databases: PubMed, EMBASE, Web of Science,
+and China National Knowledge Infrastructure. The fol-
+lowing search terms were used without
+limitations:
+breast cancer OR breast neoplasm OR breast carcinoma OR
+breast tumor and dietary cholesterol OR cholesterol intake OR
+cholesterol consumption OR fat intake. Moreover, we also
+reviewed the reference lists of reviews and relevant
+articles to identify additional studies not captured by
+our database searches.
+
+N U T R I T I O N R E S E A R C H 3 6 ( 2 0 1 6 ) 6 2 7 – 6 3 5
+
+629
+
+Table 1 – Characteristics of the selected studies on dietary cholesterol and risk of breast cancer included in this meta-
+analysis
+Author,
+year
+
+Adjustment for covariates
+
+Country
+
+Sample
+size
+(cases)
+
+Study design
+(baseline age)
+
+Follow-up
+(y)
+
+RR (95% CI)
+(highest vs
+lowest category)
+
+Jones DY, 1987
+
+American
+
+5485 (99)
+
+Cohort (25-74, range) 10
+
+Knekt P, 1990
+
+Finland
+
+3988 (54)
+
+Cohort (45, mean)
+
+20
+
+Boeke CE, 2014 American
+
+182,671 (1529) Cohort (40, mean)
+
+≥20
+
+Farvid MS, 2014 American
+
+88,804 (2830)
+
+Cohort (35, mean)
+
+20
+
+Kushi LH, 1992 American
+
+34,388 (459)
+
+Cohort (62, mean)
+
+4
+
+0.70 (0.36-1.37)
+(≥415 vs <130 mg/d)
+
+2.21 (0.97-5.02)
+(≥450 vs<220 mg/d)
+1.06 (0.98-1.16)
+(≥318 vs ≤237 mg/d)
+1.05 (0.87-1.26)
+(≥235 vs ≤80 mg/
+1000 kcal [4184 kJ])
+
+1.24 (0.87-1.76)
+(≥394 vs ≤202 mg/
+1000 kcal [4184 kJ])
+
+van den Brandt
+
+Netherland
+
+62,573 (471)
+
+Cohort (62, mean)
+
+3.3
+
+PA, 1993
+
+1.09 (0.74-1.61)
+(≥282 vs ≤ 188 mg/d)
+
+De Stefani E,
+
+Uruguay
+
+762 (365)
+
+1998
+
+Case-control
+(30-89,range)
+
+Alothaimeen
+
+Saudi Arabia 997 (499)
+
+A, 2004
+Hu J, 2012
+
+Canada
+
+7401 (2362)
+
+Case-control
+(47, mean)
+Case-control
+(48, mean)
+
+–
+
+–
+
+–
+
+4.31 (2.11-8.81)
+(>538.2 vs <314.9 mg/d)
+
+1.88 (1.03-3.44)
+(>400.7 vs < 169.6 mg/d)
+1.45 (1.14-1.85)
+(≥269 vs ≤138 mg/d)
+
+Age, PIR, BMI, age at menarche,
+menopausal status, age at
+menopause, and family history
+of breast cancer
+Age, energy
+
+Family history of breast cancer,
+height, age at menarche
+Race, family history of breast
+cancer in mother or sisters,
+smoking, height, BMI, age at
+menarche
+Energy intake, age, age at
+menarche, age at menopause,
+age at first birth, family history
+of breast cancer, BMI, BMI at
+age 18, waist-to-hip ratio,
+history of benign breast
+disease, alcohol intake, and
+total energy intake
+Energy intake, age, history of
+benign breast disease, maternal
+breast cancer, breast cancer in
+sister(s), age at menarche, age
+at menopause, oral
+contraceptive use, parity, age at
+first birth, Quetelet index,
+education, alcohol use, and
+current cigarette smoking
+Age, residence, urban/rural
+status, family history of breast
+cancer in first-degree relative,
+BMI, age at menarche, parity,
+alcohol drinking, total energy
+intake, dietary, fiber, folate
+intake, and quartiles of the
+other dietary lipids
+Age, nationality, province,
+menopause, and triglycerides
+Sex, age group, province,
+education, BMI, alcohol
+drinking, pack year smoking,
+total of vegetable and fruit
+intake, saturated fat and
+total energy intake, strenuous
+and moderate activity for
+colon and rectum cancer
+
+PIR, poverty index ratio; BMI, body mass index.
+
+2.2.
+
+Inclusion criteria
+
+Studies were included in this meta-analysis if they met the
+following criteria: (1) the pooled relative risks (RRs) with
+corresponding 95% confidence intervals (CIs)
+(or data to
+calculate these) were provided; (2) observational studies with
+case-control design or cohort design; (3) studies that were
+published as an original study to evaluate the association
+between dietary cholesterol and breast cancer risk. If the
+same study was used in more than 1 publication, the most
+
+recent and complete study would be included. Data were
+independently extracted by 2 investigators, and disagree-
+ments between the 2 investigators were resolved by discus-
+sion with a third reviewer.
+
+2.3.
+
+Data extraction and quality assessment
+
+Data were independently extracted by 2 investigators. Infor-
+mation extracted from each study is as follows: publication
+year, first author's name, study design, sample size and
+
+630
+
+N U T R I T I O N R E S E A R C H 3 6 ( 2 0 1 6 ) 6 2 7 – 6 3 5
+
+Table 2 – Quality assessment of studies included in the meta-analysis
+Author
+
+Study design
+
+Selection
+
+Comparability
+
+Outcome/exposure
+
+Overall quality
+
+Boeke CE
+Farvid MS
+Kushi LH
+Brandt PA
+Jones DY
+Knekt P
+DeStefani E
+Alothaimeen A
+Hu J
+
+Cohort study
+Cohort study
+Cohort study
+Cohort study
+Cohort study
+Cohort study
+Case-control study
+Case-control study
+Case-control study
+
+***
+***
+****
+****
+****
+****
+****
+***
+****
+
+**
+**
+**
+**
+**
+*
+*
+**
+**
+
+***
+**
+***
+**
+***
+***
+**
+**
+***
+
+8
+7
+9
+8
+9
+8
+7
+7
+9
+
+number of cases, mean age, follow-up years, country where
+the study was performed, RRs (we presented all results as RR
+for simplicity) with corresponding 95% CIs for the highest vs
+lowest categories of dietary cholesterol, the cut points for
+cholesterol exposure, and variables adjusted for in the
+analysis. The RRs adjusted for most of confounding factors
+were extracted. The Newcastle-Ottawa quality assessment
+scale was used to assess the quality of the original studies.
+
+2.4.
+
+Statistical analyses
+
+Pooled RRs were calculated as the inverse variance-weighted
+means of the logarithm of RRs with corresponding 95% CIs to
+assess the strength of
+the association between dietary
+cholesterol and breast cancer risk. The I2 of Higgins and
+Thompson was used to assess between-study heterogeneity
+[20]. The random-effect model was used as the pooling
+method. Meta-regression was conducted to assess the poten-
+tially important covariates that may exert substantial impact
+
+on between-study heterogeneity [21]. “Leave one out” analysis
+[22] was conducted using I2> 50% as the criterion to evaluate
+the influence of the key study on between-study heterogene-
+ity. Influence analysis was performed with 1 study removed
+at a time to evaluate whether the results could have been
+affected markedly by a single study. Publication bias was
+evaluated using the Egger [23] regression asymmetry test and
+the funnel plot. Subgroup analyses were performed by study
+design (cohort study or case-control study) and menstrual
+status (premenopausal or postmenopausal). The power (1 − β)
+of the pooled RR was calculated using the sample size,
+incidence of control group, the pooled RR, and the fixed α (α=
+.05), and the incidence was obtained from the study with the
+smallest incidence of control group.
+
+For dose-response analysis, a 2-stage random-effects
+dose-response meta-analysis was performed to compute the
+trend from the correlated log RR estimates across levels of
+dietary cholesterol [24]. In the first stage, a restricted cubic
+spline model with 3 knots at the 10th, 50th, and 90th centiles
+
+Fig. 2 – Forest plot for dietary cholesterol and risk of breast cancer. White diamond denotes the pooled RRs. Black squares
+indicate the RRs in each study. Horizontal lines represent 95% CIs.
+
+N U T R I T I O N R E S E A R C H 3 6 ( 2 0 1 6 ) 6 2 7 – 6 3 5
+
+631
+
+Fig. 3 – Forest plot of the subgroup analysis stratified by menstrual status for dietary cholesterol and breast cancer.
+
+[25] of the levels of cholesterol consumption was estimated
+using generalized least square regression, taking into account
+the relationship within each set of published RRs. Then the
+restricted maximum likelihood method was used in a
+multivariate random-effects meta-analysis to combine the
+study specific estimates [26]. A P value for nonlinearity was
+calculated by testing the null hypothesis that the coefficient
+of the second spline is equal to 0.
+
+All statistical analyses were performed using STATA
+version 12.0 (Stata Corporation, College Station, TX, USA). All
+reported probabilities (P values) were 2-sided with a statistical
+significance level of .05.
+
+3.
+
+Results
+
+3.1.
+
+Characteristics of studies
+
+The detailed steps of the literature search are shown in Fig. 1. A
+total of 9 studies from 9 articles [11–19]
+including 387,069
+participants and 8668 cases were included in this meta-
+analysis. The characteristics of the 9 included studies are
+shown in Table 1. There are 6 cohort studies with 377,909
+participants, and the follow-up duration ranged from 3 to 20
+years. Three studies with 9160 participants were case-control
+design. Most of the studies were conducted in Europe and United
+States. The quality assessment showed that the Newcastle-
+Ottawa score of each study was not less than 7, indicating that
+the methodological quality was generally good (Table 2).
+
+3.2.
+
+Quantitative synthesis
+
+lowest dose of cholesterol ranged from 80 to 247 mg/d, and
+the median dose was 138 mg/d. For the highest vs lowest
+cholesterol consumption, data from 9 studies [11–19] includ-
+ing 8668 breast cancer cases were used, and the pooled RR of
+all included studies was 1.29 (95% CI, 1.06-1.56; I2= 71.3%,
+Pheterogeneity= .001) (Fig. 2). The power (1 − β) of the pooled RR is
+higher than 99%.
+
+In subgroup analysis by study design, data from 6 studies
+[11,12,16–19] including 5442 breast cancer cases for cohort
+studies and 3 studies [13–15] including 3226 breast cancer
+cases for case-control studies were used. The pooled RR was
+1.07 (95% CI, 0.98-1.17; I2= 5.8%, Pheterogeneity= .380) for cohort
+studies and 2.12 (95% CI, 1.17-3.84; I2= 75.6%, Pheterogeneity=
+.016) for case-control studies (Fig. 3), respectively.
+
+In subgroup analysis by menstrual status, there were 3
+including 6631 breast cancer cases for
+studies [12,15,27]
+premenopausal woman and 4 studies [12,15,18,27] including
+7090 breast cancer cases for postmenopausal woman. The
+pooled RR was 1.24 (95% CI, 1.05-1.47; I2= 0.0%, Pheterogeneity=
+.736) for premenopausal women and 1.12 (95% CI, 0.91-1.39; I2=
+50.6%, Pheterogeneity= .108) for postmenopausal women (Fig. 4).
+
+In dose-response analysis, data from 3 studies [13,14,18]
+were adopted. Evidence of a nonlinear association was
+found (Pnonlinearity= .0003) between dietary cholesterol and
+risk of breast cancer. The association became significant
+when the cholesterol consumption was greater than 370
+mg/d. The RRs with 95% CIs of breast cancer risk were 1.00
+(95% CI, 0.95-1.05), 1.06 (95% CI, 0.95-1.07), 1.18 (95% CI, 1.04-
+1.34), 1.27 (95% CI, 1.10-1.45), and 1.70 (95% CI, 1.34-2.16) for
+201, 315, 370, 394, and 480 mg/d of cholesterol consump-
+tion, respectively (Fig. 5).
+
+3.2.1. Dietary cholesterol and risk of breast cancer
+The highest dose of cholesterol in original studies ranged
+from 268 to 538 mg/d, and the median dose was 394 mg/d. The
+
+Sources of heterogeneity and sensitivity analysis
+
+3.2.2.
+As shown in Fig. 2, a moderate heterogeneity (I2= 71.3%,
+Pheterogeneity= .001) was demonstrated for dietary cholesterol
+
+632
+
+N U T R I T I O N R E S E A R C H 3 6 ( 2 0 1 6 ) 6 2 7 – 6 3 5
+
+Fig. 4 – Forest plot of the subgroup analysis stratified by study design for dietary cholesterol and breast cancer.
+
+with breast cancer. However, univariate meta-regression
+analysis showed that no covariates of age, location, and
+study design had a significant impact on between-study
+heterogeneity. The “leave one out” sensitivity analysis indi-
+cated that the study conducted by De Stefani et al
+[14]
+contributed to the between-study heterogeneity. After ex-
+cluding the article, low heterogeneity (I2= 50.0%, Pheterogeneity=
+.051) (Fig. 6) was found, and the pooled RR was 1.18 (95% CI,
+1.02-1.36). No individual study was found to have an excessive
+influence on the pooled effect in influence analysis (Fig. 7).
+
+Publication bias
+
+3.2.3.
+The visual inspection of the funnel plot (Fig. 8) and Egger test
+(P= .084) showed no evidence of publication bias for all
+included studies on the association between dietary choles-
+terol and the risk of breast cancer.
+
+4.
+
+Discussion
+
+To the best of our knowledge, this is the first meta-analysis to
+examine the association between dietary cholesterol and
+breast cancer risk. The results were consistent with our
+hypothesis that high cholesterol intake could increase the
+risk of breast cancer. The pooled RR with 95% CI of breast
+cancer for the highest vs lowest category of dietary choles-
+terol was 1.29 (1.06-1.56). A significant positive association
+was observed in the subgroup of case-control studies (2.12
+[1.17-3.84]), and a marginally significant association was
+found in subgroup of cohort studies (1.07 [0.98-1.17]). In
+premenopausal women, the pooled RR was 1. 24 (95% CI,
+1.05-1.47; I2= 0.0%, Pheterogeneity= .736); and in postmenopausal
+women, the pooled RR was 1.12 (95% CI, 0.91-1.39; I2= 50.6%,
+
+N U T R I T I O N R E S E A R C H 3 6 ( 2 0 1 6 ) 6 2 7 – 6 3 5
+
+633
+
+that 27HC, a metabolite of cholesterol, can function as an
+estrogen and increase the proliferation of estrogen receptor–
+positive breast cancer cells. With mouse model, McDonnell's
+team also found that mice on a high-cholesterol diet showed
+high blood cholesterol and then high blood 27HC, and they had
+a 30% larger tumor after 15 days than mice on a control diet. The
+findings may explain the mechanism that links high blood
+levels of cholesterol and breast cancer pathogenesis. The serum
+level of cholesterol is closely related to biosynthesis. But some
+studies indicated that elevated dietary cholesterol consump-
+tion could increase the serum level of cholesterol [31]. And a
+meta-analysis published in 2015 showed that elevated serum
+level of cholesterol may be associated with the risk of breast
+cancer [32]. So it is recognized that dietary cholesterol intake
+may increase risk of breast cancer.
+
+Between-study heterogeneity is common in meta-analysis. It
+is necessary to detect the potential sources of between-study
+heterogeneity. Thus, we used both meta-regression and the
+“leave one out” sensitive analysis to explore the potential sources
+of the between study heterogeneity. Characteristics such as
+publication year, sample size, and study design might be the
+sources of between-study heterogeneity. We found that no
+covariates of age, publication year, sample size, study design, or
+measurements of cholesterol exposure were important contrib-
+utors to the between-study heterogeneity. For analysis between
+the risk of breast cancer and dietary cholesterol, 1 study [14] was
+found to be the key contributor to this moderate between-study
+heterogeneity by the “leave one out” sensitivity analysis. After
+further excluding this article, no significant between-study
+heterogeneity (I2= 50.0%, Pheterogeneity= .051) was found. Although
+the pooled RR was modestly attenuated, the result revealed no
+substantial change compared to the one based on all studies,
+indicating that our results were stable and reliable.
+
+Our study had several strengths. First, our study included a
+large number of participants, reducing sampling error to a great
+
+Fig. 5 – The dose-response analysis between dietary cho-
+lesterol and breast cancer risk. The solid line and the long
+dash line represent the estimated RR and its 95% CI. The
+short dash line represents the linear relationship.
+
+Pheterogeneity= .108). The result showed no association between
+dietary cholesterol and breast cancer in postmenopausal
+women, and it might be caused by the limited number of
+cohort studies. For dose-response analysis, a nonlinear
+association was found between dietary cholesterol and breast
+cancer, and the association became significant when the
+cholesterol consumption was greater than 370 mg/d.
+
+Epidemiological evidence indicates that elevated cholester-
+ol, low-density lipoprotein cholesterol, and very low-density
+lipoprotein cholesterol are comorbidities of obesity and may be
+independent risk factors of breast cancer [28,29].However,
+robust mechanisms behind these observations are absent.
+Recently, McDonnell's team and Shaul's team [10,30] reported
+
+Fig. 6 – “Leave one out” analysis of dietary cholesterol and risk of breast cancer in which the pooled RR is reestimated after
+removing 1 study that had a strong effect on between-study heterogeneity.
+
+634
+
+N U T R I T I O N R E S E A R C H 3 6 ( 2 0 1 6 ) 6 2 7 – 6 3 5
+
+control studies are subject to but cohort studies are not.
+Second, even though the researchers had adjusted for some
+confounding factors in the original studies, including age,
+smoking, BMI, and energy intake, the possibility of residual
+confounding cannot be ruled out.
+
+In conclusion, this meta-analysis provides evidence that
+dietary cholesterol is a significant risk factor for breast
+cancer. Given the high prevalence and incidence of breast
+cancer worldwide, the observed association between die-
+tary cholesterol and breast cancer has clinical and public
+health value. A low-fat/low-cholesterol diet and avoidance
+of overweight/obesity will be beneficial. Besides, in the
+future investigations, 27HC, as a metabolite of cholesterol,
+should be paid more attention, especially in postmeno-
+pausal women with estrogen receptor–positive breast
+cancer.
+
+Acknowledgment
+
+No specific funding was obtained, and the authors declare no
+conflict of interest.
+
+R E F E R E N C E S
+
+[1] Torre LA, Bray F, Siegel RL, Ferlay J, Lortet-Tieulent J, Jemal A.
+
+Global cancer statistics, 2012. CA Cancer J Clin 2015;65:
+87–108.
+
+[2] Bianchini F, Kaaks R, Vainio H. Overweight, obesity, and
+
+cancer risk. Lancet Oncol 2002;3:565–74.
+
+[3] Calle EE, Rodriguez C, Walker-Thurmond K, Thun MJ.
+
+Overweight, obesity, and mortality from cancer in a pro-
+spectively studied cohort of U.S. adults. N Engl J Med 2003;
+348:1625–38.
+
+[4] Furberg AS, Veierod MB, Wilsgaard T, Bernstein L, Thune I.
+Serum high-density lipoprotein cholesterol, metabolic pro-
+file, and breast cancer risk. J Natl Cancer Inst 2004;96:1152–60.
+[5] McMillan DC, Sattar N, McArdle CS. ABC of obesity. Obesity
+
+and cancer. BMJ 2006;333:1109–11.
+
+[6] Lof M, Weiderpass E. Impact of diet on breast cancer risk.
+
+Curr Opin Obstet Gynecol 2009;21:80–5.
+
+[7] Pelton K, Coticchia CM, Curatolo AS, Schaffner CP,
+
+Zurakowski D, Solomon KR, et al. Hypercholesterolemia
+induces angiogenesis and accelerates growth of breast
+tumors in vivo. Am J Pathol 2014;184:2099–110.
+
+[8] Llaverias G, Escola-Gil JC, Lerma E, Julve J, Pons C, Cabre
+
+A, et al. Phytosterols inhibit the tumor growth and
+lipoprotein oxidizability induced by a high-fat diet in
+mice with inherited breast cancer. J Nutr Biochem 2013;
+24:39–48.
+
+[9] Alikhani N, Ferguson RD, Novosyadlyy R, Gallagher EJ,
+
+Scheinman EJ, Yakar S, et al. Mammary tumor growth and
+pulmonary metastasis are enhanced in a hyperlipidemic
+mouse model. Oncogene 2013;32:961–7.
+
+[10] Nelson ER, Wardell SE, Jasper JS, Park S, Suchindran S, Howe
+MK, et al. 27-Hydroxycholesterol links hypercholesterolemia
+and breast cancer pathophysiology. Science 2013;342:1094–8.
+[11] Boeke CE, Eliassen AH, Chen WY, Cho E, Holmes MD, Rosner
+B, et al. Dietary fat intake in relation to lethal breast cancer in
+two large prospective cohort studies. Breast Cancer Res Treat
+2014;146:383–92.
+
+[12] Farvid MS, Cho E, Chen WY, Eliassen AH, Willett WC.
+
+Premenopausal dietary fat in relation to pre- and post-
+
+Fig. 7 – Influence analysis of dietary cholesterol and risk of
+breast cancer in which the pooled RR is reestimated after
+omitting 1 study (the “named study” in the left of the graph)
+each time; the circle in each line represents the reestimated
+RR, and the length of the short dash line represents the 95%
+CI of reestimated RR.
+
+extent and allowing a much greater possibility of reaching
+reasonable conclusions. Second, we extracted RRs that reflected
+the greatest degree of control for potential confounders,
+increasing the credibility of the results. Third, almost all studies
+in this meta-analysis adjusted for major risk factors, including
+age, energy intake, body mass index (BMI), and smoking,
+making the results more credible. Fourth, we conducted a
+dose-response analysis to explore the relationship between
+cholesterol consumption and breast cancer.
+
+This study has several limitations. First, 6 cohort studies
+and 3 case-control studies were included in this study, and
+the pooled RR was 1.07 (95% CI, 0.98-1.17) for the cohort study
+and 2.12 (95% CI, 1.17- 3.84) for case-control studies. The most
+likely explanation for this difference is recall bias that case-
+
+Fig. 8 – Funnel plot for dietary cholesterol and breast cancer
+risk.
+
+N U T R I T I O N R E S E A R C H 3 6 ( 2 0 1 6 ) 6 2 7 – 6 3 5
+
+635
+
+menopausal breast cancer. Breast Cancer Res Treat 2014;145:
+255–65.
+
+[13] Alothaimeen A, Ezzat A, Mohamed G, Muammar T, Al-
+
+Madouj A. Dietary fat and breast cancer in Saudi Arabia: a
+case-control study. East Mediterr Health J 2004;10:879–86.
+
+[14] De Stefani E, Deneo-Pellegrini H, Mendilaharsu M, Ronco A.
+Essential fatty acids and breast cancer: a case-control study
+in Uruguay. Int J Cancer 1998;76:491–4.
+
+[15] Hu J, La Vecchia C, de Groh M, Negri E, Morrison H, Mery L, et al.
+Dietary cholesterol intake and cancer. Ann Oncol 2012;23:491–500.
+[16] Jones DY, Schatzkin A, Green SB, Block G, Brinton LA, Ziegler
+RG, et al. Dietary fat and breast cancer in the National Health
+and Nutrition Examination Survey I epidemiologic follow-up
+study. J Natl Cancer Inst 1987;79:465–71.
+
+[17] Knekt P, Albanes D, Seppanen R, Aromaa A, Jarvinen R,
+
+Hyvonen L, et al. Dietary fat and risk of breast cancer. Am J
+Clin Nutr 1990;52:903–8.
+
+[18] Kushi LH, Sellers TA, Potter JD, Nelson CL, Munger RG, Kaye
+
+SA, et al. Dietary fat and postmenopausal breast cancer. J
+Natl Cancer Inst 1992;84:1092–9.
+
+[23] Egger M, Davey Smith G, Schneider M, Minder C. Bias in meta-
+
+analysis detected by a simple, graphical test. BMJ 1997;315:
+629–34.
+
+[24] Orsini N, Li R, Wolk A, Khudyakov P, Spiegelman D. Meta-
+analysis for linear and nonlinear dose–response relations:
+examples, an evaluation of approximations, and software.
+Am J Epidemiol 2012;175:66–73.
+
+[25] Haavik J, Andersson KK, Petersson L, Flatmark T. Soluble
+
+tyrosine hydroxylase (tyrosine 3-monooxygenase) from
+bovine adrenal medulla: large-scale purification and
+physicochemical properties. Biochim Biophys Acta 1988;953:
+142–56.
+
+[26] Jackson D, White IR, Thompson SG. Extending DerSimonian
+
+and Laird's methodology to perform multivariate random
+effects meta-analyses. Stat Med 2010;29:1282–97.
+
+[27] Willett WC, Hunter DJ, Stampfer MJ. Colditz G, Manson JE,
+
+Spiegelman D et al., Dietary fat and fiber in relation to risk of
+breast cancer. An 8-year follow-up. JAMA 1992;268:2037–44.
+[28] Danilo C, Frank PG. Cholesterol and breast cancer develop-
+
+ment. Curr Opin Pharmacol 2012;12:677–82.
+
+[19] van den Brandt PA, van't Veer P, Goldbohm RA, Dorant E,
+
+[29] Nelson ER, Chang CY, McDonnell DP. Cholesterol and breast
+
+Volovics A, Hermus RJ, et al. A prospective cohort study on
+dietary fat and the risk of postmenopausal breast cancer.
+Cancer Res 1993;53:75–82.
+
+[20] Higgins JP, Thompson SG, Deeks JJ, Altman DG. Measuring
+
+inconsistency in meta-analyses. BMJ 2003;327:557–60.
+
+[21] Higgins JP, Thompson SG. Controlling the risk of spurious
+findings from meta-regression. Stat Med 2004;23:1663–82.
+[22] Patsopoulos NA, Evangelou E, Ioannidis JP. Sensitivity of
+between-study heterogeneity in meta-analysis: proposed
+metrics and empirical evaluation. Int J Epidemiol 2008;37:
+1148–57.
+
+cancer pathophysiology. Trends Endocrinol Metab 2014;25:
+649–55.
+
+[30] Wu Q, Ishikawa T, Sirianni R, Tang H, McDonald JG, Yuhanna
+IS, et al. 27-Hydroxycholesterol promotes cell-autonomous,
+ER-positive breast cancer growth. Cell Rep 2013;5:637–45.
+
+[31] Griffin JD, Lichtenstein AH. Dietary cholesterol and plasma
+lipoprotein profiles: randomized-controlled trials. Curr Nutr
+Rep 2013;2:274–82.
+
+[32] Ni H, Liu H, Gao R. Serum lipids and breast cancer risk: a
+
+meta-analysis of prospective cohort studies. PLoS One 2015;
+10:e0142669.
+
+

@@ -1,0 +1,4668 @@
+Accruing evidence on beneﬁts of adherence to the Mediterranean diet
+on health: an updated systematic review and meta-analysis1,2
+
+Francesco Soﬁ, Rosanna Abbate, Gian Franco Gensini, and Alessandro Casini
+
+ABSTRACT
+Background: The Mediterranean diet has long been reported to
+be protective against the occurrence of several different health
+outcomes.
+Objective: We aimed to update our previous meta-analysis of pub-
+lished cohort prospective studies that investigated the effects of
+adherence to the Mediterranean diet on health status.
+Design: We conducted a comprehensive literature search through
+electronic databases up to June 2010.
+Results: The updated review process showed 7 prospective studies
+published in the past 2 y that were not included in the previous
+meta-analysis (1 study for overall mortality, 3 studies for cardiovas-
+cular incidence or mortality, 1 study for cancer incidence or mor-
+tality, and 2 studies for neurodegenerative diseases). These recent
+studies included 2 health outcomes not previously investigated (ie,
+mild cognitive impairment and stroke). The meta-analysis for all
+studies with a random-effects model that was conducted after the
+inclusion of these recent studies showed that a 2-point increase in
+adherence to the Mediterranean diet was associated with a signiﬁ-
+cant reduction of overall mortality [relative risk (RR) = 0.92; 95%
+CI: 0.90, 0.94], cardiovascular incidence or mortality (RR = 0.90;
+95% CI: 0.87, 0.93), cancer incidence or mortality (RR = 0.94;
+95% CI: 0.92, 0.96), and neurodegenerative diseases (RR = 0.87;
+95% CI: 0.81, 0.94). The meta-regression analysis showed that sam-
+ple size was the most signiﬁcant contributor to the model because it
+signiﬁcantly inﬂuenced the estimate of the association for overall
+mortality.
+Conclusion: This updated meta-analysis conﬁrms, in a larger num-
+ber of subjects and studies, the signiﬁcant and consistent protection
+provided by adherence to the Mediterranean diet in relation to the
+Am J Clin
+occurrence of major chronic degenerative diseases.
+Nutr 2010;92:1189–96.
+
+INTRODUCTION
+
+The Mediterranean diet has long been reported to be the
+optimal diet for preventing noncommunicable diseases and
+preserving good health (1–3). The Mediterranean-style diet is not
+a speciﬁc diet, but rather a collection of eating habits traditionally
+followed by people in the different countries bordering the
+Mediterranean Sea. The diet refers to a dietary proﬁle commonly
+available in the early 1960s in the Mediterranean regions and
+characterized by a high consumption of fruit, vegetables, le-
+gumes, and complex carbohydrates, with a moderate consump-
+tion of ﬁsh, and the consumption of olive oil as the main source of
+fats and a low-to-moderate amount of red wine during meals. A
+
+great deal of attention has been given to tools that estimate the
+adherence of individuals to the Mediterranean diet because of the
+usefulness of these tools to identify the whole dietary pattern
+instead of single foods or nutrients (4). Hence, computational
+scores have been created and used in several large epidemiologic
+studies to seek whether they could be useful to estimate the risk of
+disease in the general population (5). Some large epidemiologic
+studies conducted in different cohorts evidenced an association
+between a greater adherence to Mediterranean diet, a reduced risk
+of mortality, and the incidence of major chronic diseases (6–9). In
+2008, we performed a meta-analysis that included all cohort
+prospective studies that investigated this issue, and we observed
+that a 2-point
+increase of adherence to Mediterranean diet
+conferred a signiﬁcant protection against mortality, the occur-
+rence of cardiovascular diseases, and major chronic degenerative
+diseases (3). However, the previous meta-analysis is 3 y old, and
+more prospective cohort studies have since been published.
+
+Therefore, the aim of this study was to update our previous
+systematic review and meta-analysis conducted in cohort pro-
+spective studies that investigated the effects of adherence to
+Mediterranean diet on several health outcomes and to use these
+data to conduct a meta-regression analysis to explore a potential
+source of heterogeneity in studies.
+
+METHODS
+
+Literature search
+
+According to the statement of the Preferred Reporting Items for
+Systematic Reviews and Meta-Analyses (10), we systematically
+searched published cohort prospective studies that investigated
+the association between adherence to the Mediterranean diet and
+health outcomes in electronic databases: MEDLINE (source:
+PubMed, 1966 to June 2010; www.pubmed.com), EMBASE (1980
+to June 2010; www.embase.com), Web of Science (isiweb
+ofknowledge.com), The Cochrane Library (source: The Cochrane
+
+1 From the Department of Medical and Surgical Critical Care, Thrombo-
+sis Centre, University of Florence, Florence, Italy (FS, RA, and GFG); the
+Agency of Nutrition, Azienda Ospedaliero-Universitaria Careggi, Florence,
+Italy (FS and AC); and the Don Carlo Gnocchi Foundation, Centro Santa
+Maria agli Ulivi, Onlus IRCCS, Florence, Italy (FS and GFG).
+
+2 Address correspondence to F Soﬁ, Department of Medical and Surgical
+Critical Care, Thrombosis Centre, University of Florence, Viale Morgagni
+85, 50134 Florence, Italy. E-mail: francescosoﬁ@gmail.com.
+
+Received April 14, 2010. Accepted for publication July 27, 2010.
+First published online September 1, 2010; doi: 10.3945/ajcn.2010.29673.
+
+Am J Clin Nutr 2010;92:1189–96. Printed in USA. Ó 2010 American Society for Nutrition
+
+1189
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/92/5/1189/4597540
+by Sheridan College user
+on 02 August 2018
+
+1190
+
+SOFI ET AL
+
+Central Register of Controlled Trials, 2010, issue 2; www.the
+cochranelibrary.com/), clinicaltrials.org, and Google Scholar
+(scholar.google.com). Relevant keywords relating to the Medi-
+terranean diet in combination as MeSH terms and text words
+(“Mediterranean diet,” or “diet” or “dietary pattern” “Mediterra-
+nean,” or “adherence” or “score” and their variants) were used in
+combination with words relating to health status (“health,” or
+“mortality” or “morbidity,” or “cardiovascular diseases,” or
+“neoplastic diseases,” or “cancer,” or “neoplasm,” or “de-
+generative diseases,” or “Alzheimer’s disease,” or “Parkinson’s
+disease,” or “cerebrovascular disease,” or “dementia,” or “cog-
+nition disorder,” or “stroke,” or “outcome,” or “prospective,” or
+“follow-up,” or “cohort” and their variants). The search strategy
+had no language restrictions. References from the extracted articles
+and reviews were also consulted to complete the data bank. When
+multiple articles for a single study were present, we used the latest
+publication and supplemented it, if necessary, with data from the
+most complete or updated publication.
+
+Study selection
+
+We identiﬁed studies that prospectively evaluated the asso-
+ciation of an a priori score used for assessing adherence to
+Mediterranean diet and adverse clinical outcomes. We excluded
+studies if they had a cross-sectional or case-control design, if they
+analyzed adherence to a nonspeciﬁc dietary pattern or to a rec-
+ommended dietary guideline and not to Mediterranean diet, if
+they evaluated cohort of patients who suffered from a prior
+clinical event (ie, in a secondary prevention), if they did not adjust
+for potential confounders, and if they did not report an adequate
+statistical analysis.
+
+Data extraction
+
+Two investigators (FS and AC) assessed potentially relevant
+articles for eligibility. The decision to include or exclude studies
+was hierarchical and initially made on the basis of the study title,
+then of the study abstract, and ﬁnally of the complete study
+manuscript. Two researchers independently completed searches,
+identiﬁcation of studies, data abstraction, and tabulation, and
+discordances were resolved by discussions. The following base-
+line characteristics were extracted from the original articles by
+using a standardized data extraction form and included in the
+meta-analysis: lead author, year of publication, cohort name,
+country of origin of the cohort, sample size of the cohort, number
+of outcomes, duration of follow-up, age at entry, sex, outcomes,
+components of the Mediterranean diet adherence score, and
+variables that entered into the multivariable model as potential
+confounders (Table 1).
+
+Outcomes of interests were overall mortality, mortality and/or
+incidence from cardio- and cerebrovascular diseases, mortality
+and/or incidence from cancer, and incidence of neurodegenera-
+tive diseases.
+
+Quality assessment
+
+Study quality was assessed according to the following criteria:
+1) number of study participants, 2) duration of follow-up, and 3)
+adjustment for potential confounders. Studies with a high
+number of participants, long duration of follow-up, and adjust-
+
+ment for confounders that include demographic, anthropometric,
+and traditional risk factors were considered of high quality.
+
+Statistical analyses
+
+We used the Review Manager program (RevMan, version
+5.0.18 for Macintosh, 2008; The Cochrane Collaboration,
+Copenhagen, Denmark) and the Statistical Package for Social
+Sciences software (SPSS, version 18.0 for Macintosh; SPSS,
+Chicago, IL) to pool and analyze results from the individual
+studies. The methods and results of all recently identiﬁed cohort
+prospective studies were added to the previous table, and data
+were formally combined. Pooled results were reported as relative
+risks (RRs) and presented with 95% CIs with 2-sided P values by
+using a random-effects model (DerSimonian and Laird method)
+and the general variance-based method. P , 0.05 was consid-
+ered statistically signiﬁcant. When available, we used the results
+of the original studies from multivariate models with the most
+complete adjustment for potential confounders; the confounding
+variables included in the analyses are shown in Table 1.
+
+Statistical heterogeneity was evaluated by using the I2 statistic,
+which assessed the appropriateness of pooling the individual
+study results. The I2 value provided an estimate of the amount of
+variance across studies because of heterogeneity rather than
+chance. Where I2 was .50%, the heterogeneity was considered
+substantial. A small study bias or publication bias was appraised
+by visual inspection of the funnel plot of effect size against the
+SE and, analytically, by the Egger’s test. Moreover,
+to in-
+vestigate possible sources of heterogeneity across studies, we
+performed a meta-regression analysis to investigate the effects
+of various characteristics of studies on the study estimates of
+RRs.
+
+RESULTS
+
+The updated search from recent years resulted in the identi-
+ﬁcation of 7 additional prospective studies (11–17) published up
+to June 2010 that were not identiﬁed and included previously.
+Characteristics of these recent studies are displayed in Table 1. Of
+these, 1 study presented the overall mortality as a clinical out-
+come (14), 3 studies presented the incidence and/or mortality
+from cardiovascular diseases (13, 15, 16), 1 study presented the
+incidence and/or mortality from neoplastic diseases (17), and 2
+studies presented the incidence of neurodegenerative diseases
+(11, 12). Notably, 2 of the 7 studies reported clinical outcomes not
+previously investigated, such as mild cognitive impairment and
+stroke (12, 13). On the other hand, one study was an updated
+analysis of a study already reported in the previous meta-analysis
+for the overall mortality outcome;
+therefore, only the most
+updated study was added to this updated ﬁnal analysis (14). Taken
+altogether, a total of 18 cohort prospective studies were included
+and entered into the ﬁnal analysis. As a whole, the updated
+analysis determined a study population that reached a total of
+2,190,627 subjects analyzed. Included samples ranged in size
+from 161 to 485,044, with a follow-up time that ranged from 4 to
+20 y.
+
+Considerable variations among studies were observed in the
+number of participants, sex and age of participants, length of
+follow-up, and dietary components used to measure the adher-
+ence score to the Mediterranean diet. Studies conducted in
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/92/5/1189/4597540
+by Sheridan College user
+on 02 August 2018
+
+UPDATED META-ANALYSIS ON MEDITERRANEAN DIET
+
+1191
+
+,
+s
+n
+o
+i
+t
+a
+c
+i
+d
+e
+m
+
+,
+y
+t
+i
+v
+i
+t
+c
+a
+
+l
+a
+c
+i
+s
+y
+h
+p
+
+,
+y
+g
+r
+e
+n
+e
+
+l
+a
+t
+o
+t
+
+,
+s
+u
+t
+a
+t
+s
+
+l
+a
+t
+i
+r
+a
+m
+
+,
+n
+o
+i
+t
+a
+c
+u
+d
+e
+
+,
+t
+i
+b
+a
+h
+
+g
+n
+i
+k
+o
+m
+
+s
+
+,
+e
+p
+y
+t
+o
+n
+e
+g
+
+E
+o
+p
+a
+
+,
+n
+o
+i
+s
+s
+e
+r
+p
+e
+d
+
+e
+k
+o
+r
+t
+s
+
+d
+n
+a
+
+,
+y
+g
+r
+e
+n
+e
+
+l
+a
+t
+o
+t
+
+,
+e
+p
+y
+t
+o
+n
+e
+g
+
+E
+o
+p
+a
+
+,
+n
+o
+i
+t
+a
+c
+u
+d
+e
+
+,
+y
+t
+i
+c
+i
+n
+h
+t
+e
+
+,
+x
+e
+s
+
+,
+e
+g
+A
+
+I
+
+M
+B
+d
+n
+a
+
+,
+I
+
+M
+B
+
+,
+t
+i
+b
+a
+h
+
+g
+n
+i
+k
+o
+m
+
+s
+
+,
+e
+g
+A
+
+e
+k
+a
+t
+n
+i
+
+t
+a
+e
+m
+d
+e
+s
+s
+e
+c
+o
+r
+p
+
+d
+n
+a
+
+d
+e
+r
+
+w
+o
+L
+
+n
+o
+i
+t
+p
+m
+u
+s
+n
+o
+c
+
+l
+o
+h
+o
+c
+l
+a
+
+e
+t
+a
+r
+e
+d
+o
+M
+
+e
+k
+a
+t
+n
+i
+
+t
+c
+u
+d
+o
+r
+p
+
+y
+r
+i
+a
+d
+w
+o
+L
+
+n
+o
+i
+t
+p
+m
+u
+s
+n
+o
+c
+
+l
+o
+h
+o
+c
+l
+a
+
+e
+t
+a
+r
+e
+d
+o
+M
+
+e
+k
+a
+t
+n
+i
+
+t
+c
+u
+d
+o
+r
+p
+
+y
+r
+i
+a
+d
+w
+o
+L
+
+e
+k
+a
+t
+n
+i
+
+e
+m
+u
+g
+e
+l
+
+h
+g
+i
+H
+
+e
+k
+a
+t
+n
+i
+
+t
+a
+e
+m
+w
+o
+L
+
+e
+k
+a
+t
+n
+i
+
+e
+l
+b
+a
+t
+e
+g
+e
+v
+
+h
+g
+i
+H
+
+e
+k
+a
+t
+n
+i
+
+h
+s
+ﬁ
+
+h
+g
+i
+H
+
+o
+i
+t
+a
+r
+
+A
+F
+S
+:
+A
+F
+U
+M
+h
+g
+i
+H
+
+e
+k
+a
+t
+n
+i
+
+e
+m
+u
+g
+e
+l
+
+h
+g
+i
+H
+
+e
+k
+a
+t
+n
+i
+
+l
+a
+e
+r
+e
+c
+
+h
+g
+i
+H
+
+e
+k
+a
+t
+n
+i
+
+t
+i
+u
+r
+f
+
+h
+g
+i
+H
+
+e
+k
+a
+t
+n
+i
+
+e
+l
+b
+a
+t
+e
+g
+e
+v
+
+h
+g
+i
+H
+
+e
+k
+a
+t
+n
+i
+
+t
+i
+u
+r
+f
+
+h
+g
+i
+H
+
+e
+k
+a
+t
+n
+i
+
+h
+s
+ﬁ
+
+h
+g
+i
+H
+
+o
+i
+t
+a
+r
+
+A
+F
+S
+:
+A
+F
+U
+M
+h
+g
+i
+H
+
+e
+n
+o
+m
+r
+o
+h
+
+,
+s
+u
+t
+a
+t
+s
+
+l
+a
+s
+u
+a
+p
+o
+n
+e
+m
+
+e
+k
+a
+t
+n
+i
+
+s
+t
+c
+u
+d
+o
+r
+p
+
+n
+i
+a
+r
+g
+-
+e
+l
+o
+h
+w
+h
+g
+i
+H
+
+,
+n
+o
+i
+s
+n
+e
+t
+r
+e
+p
+y
+h
+
+,
+I
+
+M
+B
+
+,
+x
+e
+s
+
+,
+e
+g
+A
+
+e
+k
+a
+t
+n
+i
+
+e
+m
+u
+g
+e
+l
+
+h
+g
+i
+H
+
+,
+a
+i
+m
+e
+l
+o
+r
+e
+t
+s
+e
+l
+o
+h
+c
+r
+e
+p
+y
+h
+
+e
+k
+a
+t
+n
+i
+
+s
+t
+c
+u
+d
+o
+r
+p
+
+n
+i
+a
+r
+g
+-
+e
+l
+o
+h
+w
+h
+g
+i
+H
+
+)
+d
+e
+u
+n
+i
+t
+n
+o
+C
+(
+
+n
+i
+m
+a
+t
+i
+v
+i
+t
+l
+u
+m
+
+,
+y
+g
+r
+e
+n
+e
+
+l
+a
+t
+o
+t
+
+,
+e
+s
+u
+
+,
+y
+r
+o
+t
+s
+i
+h
+
+y
+l
+i
+
+m
+a
+f
+
+,
+l
+o
+h
+o
+c
+l
+a
+
+,
+e
+k
+a
+t
+n
+i
+
+d
+n
+a
+
+,
+y
+t
+i
+v
+i
+t
+c
+a
+
+l
+a
+c
+i
+s
+y
+h
+p
+
+e
+s
+u
+
+n
+i
+r
+i
+p
+s
+a
+
+I
+
+M
+B
+d
+n
+a
+
+,
+y
+g
+r
+e
+n
+e
+
+l
+a
+t
+o
+t
+
+,
+e
+r
+o
+c
+s
+
+T
+E
+M
+
+,
+o
+i
+t
+a
+r
+
+p
+i
+h
+:
+t
+s
+i
+a
+w
+
+,
+t
+i
+b
+a
+h
+
+g
+n
+i
+k
+o
+m
+
+s
+
+,
+n
+o
+i
+t
+a
+c
+u
+d
+e
+
+,
+x
+e
+s
+
+,
+e
+g
+A
+
+e
+k
+a
+t
+n
+i
+
+t
+a
+e
+m
+d
+e
+s
+s
+e
+c
+o
+r
+p
+
+d
+n
+a
+
+d
+e
+r
+
+w
+o
+L
+
+n
+o
+i
+t
+p
+m
+u
+s
+n
+o
+c
+
+l
+o
+h
+o
+c
+l
+a
+
+e
+t
+a
+r
+e
+d
+o
+M
+
+n
+o
+i
+t
+p
+m
+u
+s
+n
+o
+c
+
+l
+o
+h
+o
+c
+l
+a
+
+e
+t
+a
+r
+e
+d
+o
+M
+
+e
+k
+a
+t
+n
+i
+
+y
+r
+t
+l
+u
+o
+p
+
+d
+n
+a
+
+t
+a
+e
+m
+w
+o
+L
+
+e
+k
+a
+t
+n
+i
+
+t
+c
+u
+d
+o
+r
+p
+
+y
+r
+i
+a
+d
+w
+o
+L
+
+e
+k
+a
+t
+n
+i
+
+s
+t
+u
+n
+/
+t
+i
+u
+r
+f
+
+h
+g
+i
+H
+
+e
+k
+a
+t
+n
+i
+
+e
+l
+b
+a
+t
+e
+g
+e
+v
+
+h
+g
+i
+H
+
+e
+k
+a
+t
+n
+i
+
+e
+m
+u
+g
+e
+l
+
+h
+g
+i
+H
+
+e
+k
+a
+t
+n
+i
+
+l
+a
+e
+r
+e
+c
+
+h
+g
+i
+H
+
+e
+k
+a
+t
+n
+i
+
+h
+s
+ﬁ
+
+h
+g
+i
+H
+
+o
+i
+t
+a
+r
+
+A
+F
+S
+:
+A
+F
+U
+M
+h
+g
+i
+H
+
+e
+k
+a
+t
+n
+i
+
+e
+l
+b
+a
+t
+e
+g
+e
+v
+
+h
+g
+i
+H
+
+e
+k
+a
+t
+n
+i
+
+t
+i
+u
+r
+f
+
+h
+g
+i
+H
+
+e
+k
+a
+t
+n
+i
+
+h
+s
+ﬁ
+
+h
+g
+i
+H
+
+e
+k
+a
+t
+n
+i
+
+s
+t
+u
+n
+
+h
+g
+i
+H
+
+o
+i
+t
+a
+r
+
+A
+F
+S
+:
+A
+F
+U
+M
+h
+g
+i
+H
+
+)
+1
+
+)
+2
+
+)
+3
+
+)
+4
+
+)
+5
+
+)
+6
+
+)
+7
+
+)
+8
+
+)
+9
+
+)
+1
+
+)
+2
+
+)
+3
+
+)
+4
+
+)
+5
+
+)
+6
+
+)
+7
+
+)
+8
+
+)
+9
+
+)
+1
+
+)
+2
+
+)
+3
+
+)
+4
+
+)
+5
+
+)
+6
+
+)
+7
+
+)
+8
+
+)
+9
+
+)
+1
+
+)
+2
+
+)
+3
+
+)
+4
+
+)
+5
+
+)
+6
+
+)
+7
+
+)
+8
+
+)
+9
+
+F
+/
+M
+
+2
+
+5
+9
+–
+8
+6
+
+y
+
+y
+
+5
+
+e
+s
+a
+e
+s
+i
+d
+
+r
+e
+m
+i
+e
+h
+z
+l
+A
+
+n
+
+l
+a
+t
+o
+t
+/
+n
+
+0
+1
+4
+1
+/
+0
+5
+
+e
+c
+n
+a
+r
+F
+
+,
+l
+a
+
+t
+e
+
+t
+r
+a`
+e
+F
+
+y
+t
+i
+
+C
+
+-
+e
+e
+r
+h
+T
+(
+
+)
+1
+1
+(
+
+9
+0
+0
+2
+
+)
+y
+d
+u
+t
+S
+
+F
+/
+M
+
+3
+
+7
+
+.
+
+6
+7
+
+5
+
+.
+
+4
+
+d
+l
+i
+
+M
+
+9
+9
+1
+1
+/
+1
+4
+2
+
+s
+e
+t
+a
+t
+S
+
+d
+e
+t
+i
+n
+U
+
+,
+l
+a
+
+t
+e
+
+s
+a
+e
+m
+r
+a
+c
+S
+
+t
+n
+e
+m
+
+r
+i
+a
+p
+m
+
+i
+
+e
+v
+i
+t
+i
+n
+g
+o
+c
+
+e
+s
+o
+h
+t
+
+n
+i
+
+y
+l
+n
+o
+(
+
+y
+l
+e
+v
+i
+t
+i
+n
+g
+o
+c
+
+e
+r
+e
+w
+o
+h
+w
+
+t
+a
+
+l
+a
+m
+r
+o
+n
+
+)
+e
+n
+i
+l
+e
+s
+a
+b
+
+F
+
+3
+6
+–
+8
+3
+
+0
+2
+
+e
+k
+o
+r
+t
+S
+
+D
+H
+C
+
+6
+8
+8
+
+,
+
+4
+7
+/
+1
+9
+3
+2
+
+6
+8
+8
+
+,
+
+4
+7
+/
+3
+6
+7
+1
+
+s
+e
+t
+a
+t
+S
+
+d
+e
+t
+i
+n
+U
+
+n
+o
+t
+g
+n
+i
+h
+s
+a
+
+W
+
+(
+
+)
+2
+1
+(
+
+9
+0
+0
+2
+
+-
+s
+t
+h
+g
+i
+e
+H
+
+d
+o
+o
+w
+n
+I
+
+a
+i
+b
+m
+u
+l
+o
+C
+
+)
+t
+c
+e
+j
+o
+r
+P
+
+g
+n
+i
+g
+A
+
+’
+s
+e
+s
+r
+u
+N
+
+(
+
+)
+3
+1
+(
+
+,
+l
+a
+
+t
+e
+
+g
+n
+u
+F
+
+9
+0
+0
+2
+
+h
+t
+l
+a
+e
+H
+
+)
+y
+d
+u
+t
+S
+
+F
+/
+M
+
+6
+8
+–
+0
+2
+
+5
+
+.
+
+8
+
+y
+t
+i
+l
+a
+t
+r
+o
+m
+
+l
+l
+a
+r
+e
+v
+O
+
+9
+4
+3
+
+,
+
+3
+2
+/
+5
+7
+0
+1
+
+e
+c
+e
+e
+r
+G
+
+u
+o
+l
+u
+o
+p
+o
+h
+c
+i
+r
+T
+
+-
+
+C
+
+I
+P
+E
+(
+
+)
+4
+1
+(
+
+9
+0
+0
+2
+
+,
+l
+a
+
+t
+e
+
+)
+e
+c
+e
+e
+r
+G
+
+t
+n
+e
+m
+
+t
+s
+u
+j
+d
+A
+
+e
+r
+o
+c
+s
+
+e
+c
+n
+e
+r
+e
+h
+d
+a
+
+e
+h
+t
+
+f
+o
+
+s
+t
+n
+e
+n
+o
+p
+m
+o
+C
+
+x
+e
+S
+
+e
+g
+A
+
+p
+u
+-
+w
+o
+l
+l
+o
+F
+
+e
+m
+o
+c
+t
+u
+O
+
+t
+r
+o
+h
+o
+c
+
+l
+a
+t
+o
+t
+/
+e
+z
+i
+s
+
+e
+l
+p
+m
+a
+S
+
+y
+r
+t
+n
+u
+o
+C
+
+)
+t
+r
+o
+h
+o
+c
+(
+
+r
+a
+e
+y
+
+,
+r
+o
+h
+t
+u
+A
+
+1
+
+s
+e
+m
+o
+c
+t
+u
+o
+
+h
+t
+l
+a
+e
+h
+
+d
+n
+a
+
+t
+e
+i
+d
+
+n
+a
+e
+n
+a
+r
+r
+e
+t
+i
+d
+e
+M
+e
+h
+t
+
+o
+t
+
+e
+c
+n
+e
+r
+e
+h
+d
+a
+
+g
+n
+i
+t
+a
+g
+i
+t
+s
+e
+v
+n
+i
+
+s
+e
+i
+d
+u
+t
+s
+
+e
+v
+i
+t
+c
+e
+p
+s
+o
+r
+p
+
+t
+n
+e
+c
+e
+r
+
+e
+h
+t
+
+f
+o
+
+s
+c
+i
+t
+s
+i
+r
+e
+t
+c
+a
+r
+a
+h
+c
+
+y
+d
+u
+t
+S
+
+1
+E
+L
+B
+A
+T
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/92/5/1189/4597540
+by Sheridan College user
+on 02 August 2018
+
+1192
+
+SOFI ET AL
+
+l
+a
+c
+i
+s
+y
+h
+p
+
+,
+I
+
+M
+B
+
+,
+n
+o
+i
+t
+a
+c
+u
+d
+e
+
+,
+e
+g
+A
+
+,
+t
+i
+b
+a
+h
+
+g
+n
+i
+k
+o
+m
+
+s
+
+,
+y
+t
+i
+v
+i
+t
+c
+a
+
+,
+n
+o
+i
+s
+n
+e
+t
+r
+e
+p
+y
+h
+
+,
+s
+e
+t
+e
+b
+a
+i
+d
+
+l
+a
+t
+o
+t
+
+d
+n
+a
+
+,
+a
+i
+m
+e
+d
+i
+p
+i
+l
+r
+e
+p
+y
+h
+
+y
+g
+r
+e
+n
+e
+
+,
+y
+t
+i
+v
+i
+t
+c
+a
+
+l
+a
+c
+i
+s
+y
+h
+p
+
+,
+y
+g
+r
+e
+n
+e
+
+l
+a
+t
+o
+t
+
+,
+s
+e
+t
+e
+b
+a
+i
+d
+
+,
+I
+
+M
+B
+
+,
+t
+i
+b
+a
+h
+
+g
+n
+i
+k
+o
+m
+
+s
+
+,
+
+D
+V
+C
+
+f
+o
+
+y
+r
+o
+t
+s
+i
+h
+
+y
+l
+i
+
+m
+a
+f
+
+,
+x
+e
+s
+
+,
+e
+g
+A
+
+d
+n
+a
+
+,
+n
+o
+i
+s
+n
+e
+t
+r
+e
+p
+y
+h
+
+,
+n
+i
+r
+i
+p
+s
+a
+
+a
+i
+m
+e
+l
+o
+r
+e
+t
+s
+e
+l
+o
+h
+c
+r
+e
+p
+y
+h
+
+l
+a
+t
+o
+t
+
+d
+n
+a
+
+,
+t
+i
+b
+a
+h
+
+g
+n
+i
+k
+o
+m
+
+s
+
+,
+n
+o
+i
+t
+a
+c
+u
+d
+e
+
+,
+I
+
+M
+B
+
+,
+x
+e
+s
+
+,
+e
+g
+A
+
+y
+g
+r
+e
+n
+e
+
+n
+o
+i
+t
+p
+m
+u
+s
+n
+o
+c
+
+l
+o
+h
+o
+c
+l
+a
+
+e
+t
+a
+r
+e
+d
+o
+M
+
+e
+k
+a
+t
+n
+i
+
+y
+r
+t
+l
+u
+o
+p
+
+d
+n
+a
+
+t
+a
+e
+m
+w
+o
+L
+
+e
+k
+a
+t
+n
+i
+
+t
+c
+u
+d
+o
+r
+p
+
+y
+r
+i
+a
+d
+w
+o
+L
+
+e
+k
+a
+t
+n
+i
+
+s
+t
+u
+n
+/
+t
+i
+u
+r
+f
+
+h
+g
+i
+H
+
+e
+k
+a
+t
+n
+i
+
+e
+l
+b
+a
+t
+e
+g
+e
+v
+
+h
+g
+i
+H
+
+e
+k
+a
+t
+n
+i
+
+e
+m
+u
+g
+e
+l
+
+h
+g
+i
+H
+
+e
+k
+a
+t
+n
+i
+
+l
+a
+e
+r
+e
+c
+
+h
+g
+i
+H
+
+e
+k
+a
+t
+n
+i
+
+h
+s
+ﬁ
+
+h
+g
+i
+H
+
+o
+i
+t
+a
+r
+
+A
+F
+S
+:
+A
+F
+U
+M
+h
+g
+i
+H
+
+n
+o
+i
+t
+p
+m
+u
+s
+n
+o
+c
+
+l
+o
+h
+o
+c
+l
+a
+
+e
+t
+a
+r
+e
+d
+o
+M
+
+e
+k
+a
+t
+n
+i
+
+y
+r
+t
+l
+u
+o
+p
+
+d
+n
+a
+
+t
+a
+e
+m
+w
+o
+L
+
+e
+k
+a
+t
+n
+i
+
+t
+c
+u
+d
+o
+r
+p
+
+y
+r
+i
+a
+d
+w
+o
+L
+
+e
+k
+a
+t
+n
+i
+
+s
+t
+u
+n
+/
+t
+i
+u
+r
+f
+
+h
+g
+i
+H
+
+e
+k
+a
+t
+n
+i
+
+e
+l
+b
+a
+t
+e
+g
+e
+v
+
+h
+g
+i
+H
+
+e
+k
+a
+t
+n
+i
+
+e
+m
+u
+g
+e
+l
+
+h
+g
+i
+H
+
+e
+k
+a
+t
+n
+i
+
+l
+a
+e
+r
+e
+c
+
+h
+g
+i
+H
+
+e
+k
+a
+t
+n
+i
+
+h
+s
+ﬁ
+
+h
+g
+i
+H
+
+o
+i
+t
+a
+r
+
+A
+F
+S
+:
+A
+F
+U
+M
+h
+g
+i
+H
+
+e
+k
+a
+t
+n
+i
+
+s
+t
+u
+n
+/
+t
+i
+u
+r
+f
+
+h
+g
+i
+H
+
+e
+k
+a
+t
+n
+i
+
+e
+l
+b
+a
+t
+e
+g
+e
+v
+
+h
+g
+i
+H
+
+e
+k
+a
+t
+n
+i
+
+l
+i
+o
+
+e
+v
+i
+l
+o
+
+h
+g
+i
+H
+
+e
+k
+a
+t
+n
+i
+
+h
+s
+ﬁ
+
+h
+g
+i
+H
+
+e
+k
+a
+t
+n
+i
+
+e
+m
+u
+g
+e
+l
+
+h
+g
+i
+H
+
+e
+k
+a
+t
+n
+i
+
+l
+a
+e
+r
+e
+c
+
+h
+g
+i
+H
+
+n
+o
+i
+t
+p
+m
+u
+s
+n
+o
+c
+
+l
+o
+h
+o
+c
+l
+a
+
+e
+t
+a
+r
+e
+d
+o
+M
+
+e
+k
+a
+t
+n
+i
+
+y
+r
+t
+l
+u
+o
+p
+
+d
+n
+a
+
+t
+a
+e
+m
+w
+o
+L
+
+e
+k
+a
+t
+n
+i
+
+t
+c
+u
+d
+o
+r
+p
+
+y
+r
+i
+a
+d
+w
+o
+L
+
+)
+1
+
+)
+2
+
+)
+3
+
+)
+4
+
+)
+5
+
+)
+6
+
+)
+7
+
+)
+8
+
+)
+9
+
+)
+1
+
+)
+2
+
+)
+3
+
+)
+4
+
+)
+5
+
+)
+6
+
+)
+7
+
+)
+8
+
+)
+9
+
+)
+1
+
+)
+2
+
+)
+3
+
+)
+4
+
+)
+5
+
+)
+6
+
+)
+7
+
+)
+8
+
+)
+9
+
+F
+/
+M
+
+9
+6
+–
+9
+2
+
+y
+
+y
+
+4
+
+.
+
+0
+1
+
+n
+
+l
+a
+t
+o
+t
+/
+n
+
+D
+H
+C
+
+,
+
+1
+5
+1
+0
+4
+/
+6
+0
+6
+
+n
+i
+a
+p
+S
+
+,
+l
+a
+
+t
+e
+
+d
+n
+a
+l
+k
+c
+u
+B
+
+)
+n
+i
+a
+p
+S
+C
+
+I
+P
+E
+(
+
+)
+5
+1
+(
+
+9
+0
+0
+2
+
+F
+/
+M
+
+3
+
+8
+3
+
+9
+
+.
+
+4
+
+D
+V
+C
+
+,
+
+9
+0
+6
+3
+1
+/
+0
+0
+1
+
+n
+i
+a
+p
+S
+
+z
+e
+l
+a´
+z
+n
+o
+G
+-
+z
+e
+n
+ı´
+t
+r
+a
+M
+
+F
+/
+M
+
+0
+7
+–
+5
+3
+
+9
+
+.
+
+8
+
+c
+i
+r
+t
+s
+a
+G
+
+4
+4
+0
+
+,
+
+5
+8
+4
+/
+9
+4
+4
+
+,
+
+m
+o
+d
+g
+n
+i
+K
+d
+e
+t
+i
+n
+U
+
+a
+m
+o
+n
+i
+c
+r
+a
+c
+o
+n
+e
+d
+a
+
+,
+
+k
+r
+a
+m
+n
+e
+D
+
+,
+e
+c
+n
+a
+r
+F
+
+,
+
+y
+n
+a
+m
+r
+e
+G
+
+,
+
+n
+e
+d
+e
+w
+S
+
+,
+
+n
+i
+a
+p
+S
+
+,
+
+y
+l
+a
+t
+I
+
+,
+s
+d
+n
+a
+l
+r
+e
+h
+t
+e
+N
+
+d
+n
+a
+
+,
+
+y
+a
+w
+r
+o
+N
+
+e
+c
+e
+e
+r
+G
+
+)
+6
+1
+(
+
+0
+1
+0
+2
+
+,
+l
+a
+
+t
+e
+
+)
+y
+d
+u
+t
+S
+N
+U
+S
+(
+
+t
+r
+a
+e
+H
+C
+I
+P
+E
+
+-
+
+e
+h
+t
+
+f
+o
+
+t
+r
+o
+h
+o
+c
+
+h
+s
+i
+n
+a
+p
+S
+(
+
+)
+y
+d
+u
+t
+S
+
+,
+l
+a
+
+t
+e
+
+d
+n
+a
+l
+k
+c
+u
+B
+
+)
+7
+1
+(
+
+0
+1
+0
+2
+
+,
+
+N
+U
+S
+;
+s
+k
+s
+a
+t
+
+t
+n
+e
+l
+a
+v
+i
+u
+q
+e
+
+c
+i
+l
+o
+b
+a
+t
+e
+m
+
+,
+
+T
+E
+M
+
+;
+n
+o
+i
+t
+i
+r
+t
+u
+N
+d
+n
+a
+
+r
+e
+c
+n
+a
+C
+o
+t
+n
+i
+
+n
+o
+i
+t
+a
+g
+i
+t
+s
+e
+v
+n
+I
+
+e
+v
+i
+t
+c
+e
+p
+s
+o
+r
+P
+n
+a
+e
+p
+o
+r
+u
+E
+
+,
+
+C
+I
+P
+E
+
+;
+e
+s
+a
+e
+s
+i
+d
+
+t
+r
+a
+e
+h
+
+y
+r
+a
+n
+o
+r
+o
+c
+
+,
+
+D
+H
+C
+
+;
+d
+i
+c
+a
+y
+t
+t
+a
+f
+
+d
+e
+t
+a
+r
+u
+t
+a
+s
+
+,
+
+A
+F
+S
+;
+d
+i
+c
+a
+y
+t
+t
+a
+f
+
+d
+e
+t
+a
+r
+u
+t
+a
+s
+n
+u
+o
+n
+o
+m
+
+,
+
+A
+F
+U
+M
+
+1
+
+t
+n
+e
+m
+
+t
+s
+u
+j
+d
+A
+
+e
+r
+o
+c
+s
+
+e
+c
+n
+e
+r
+e
+h
+d
+a
+
+e
+h
+t
+
+f
+o
+
+s
+t
+n
+e
+n
+o
+p
+m
+o
+C
+
+x
+e
+S
+
+e
+g
+A
+
+p
+u
+-
+w
+o
+l
+l
+o
+F
+
+e
+m
+o
+c
+t
+u
+O
+
+t
+r
+o
+h
+o
+c
+
+l
+a
+t
+o
+t
+/
+e
+z
+i
+s
+
+e
+l
+p
+m
+a
+S
+
+y
+r
+t
+n
+u
+o
+C
+
+)
+t
+r
+o
+h
+o
+c
+(
+
+r
+a
+e
+y
+
+,
+r
+o
+h
+t
+u
+A
+
+)
+d
+e
+u
+n
+i
+t
+n
+o
+C
+
+(
+
+1
+E
+L
+B
+A
+T
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/92/5/1189/4597540
+by Sheridan College user
+on 02 August 2018
+
+.
+e
+s
+a
+e
+s
+i
+d
+
+r
+a
+l
+u
+c
+s
+a
+v
+o
+i
+d
+r
+a
+c
+
+,
+
+D
+V
+C
+
+;
+a
+r
+r
+a
+v
+a
+N
+e
+d
+
+d
+a
+d
+i
+s
+r
+e
+v
+i
+n
+U
+o
+t
+n
+e
+i
+m
+i
+u
+g
+e
+S
+
+.
+)
+s
+e
+u
+l
+a
+v
+
+h
+c
+u
+s
+
+l
+l
+a
+(
+
+e
+g
+n
+a
+R
+
+.
+
+n
+a
+e
+M
+
+2
+
+3
+
+UPDATED META-ANALYSIS ON MEDITERRANEAN DIET
+
+1193
+
+European countries increased to 9 studies (50% of the total
+number of studies included).
+
+By grouping the studies according to the different clinical
+outcomes, the overall mortality did not change for the number
+of studies evaluated (ie, 9 studies that included an updated
+analysis of the Greek cohort of the EPIC (European Prospective
+Investigation into Cancer and Nutrition) with a total of 514,118
+subjects and 34,322 deaths, whereas a consistent increase of
+studies and subjects analyzed for the other clinical outcomes
+has been reported. Indeed, cardiovascular mortality and in-
+cidence were consistently augmented by the number of studies
+and subjects analyzed, with a total of 7 cohorts, 534,064
+subjects, and 8739 deaths or incident cases. Similarly, the
+mortality from and incidence of neoplastic diseases reached
+1,006,410 subjects and 11,378 events, whereas the number of
+studies that evaluated the association between adherence to the
+Mediterranean diet and neurodegenerative diseases increased
+from 3 to 5 cohorts, with a total of 136,235 subjects and 1074
+cases, including an additional clinical outcome such as mild
+cognitive impairment.
+
+from and incidence of neoplastic diseases (Figure 3), a greater
+adherence to the Mediterranean diet still determined a signiﬁ-
+cant amount of protection, with a similar extent than that of
+previous meta-analysis (RR = 0.94; 95% CI: 0.92, 0.96; P ,
+0.00001) and again no signiﬁcant heterogeneity (I2 = 6%; P =
+0.38). The results of the previous meta-analysis were also
+conﬁrmed for the occurrence of neurodegenerative diseases
+(Figure 4), which extended to mild cognitive impairment, with
+a 13% reduced risk of individuals who most adhered to the
+Mediterranean diet (RR = 0.87; 95% CI: 0.81, 0.94; P ,
+0.00001) and no signiﬁcant heterogeneity across studies (I2 =
+0%; P = 0.73).
+
+Publication bias
+
+The funnel plots of effect sizes compared with SEs that were
+performed to investigate possible publication biases were sym-
+metric for all different clinical outcomes, which suggested the
+absence of possible publication biases.
+
+Meta-analysis
+
+Meta-regression analysis
+
+Meta-analytic pooling under a random-effects model con-
+ﬁrmed the already reported signiﬁcant association between a 2-
+point increased adherence to the Mediterranean diet and a reduced
+risk of mortality from all causes (RR = 0.92; 95% CI: 0.90, 0.94;
+P , 0.00001) (Figure 1) with no evidence of statistical
+heterogeneity across studies (I2 = 33%; P = 0.15). When studies
+that evaluated different clinical outcomes were grouped, we
+observed that a 2-point increase of adherence to the Mediter-
+ranean diet still remained associated with a reduced risk of
+mortality from and incidence of cardiovascular diseases (RR =
+0.90; 95% CI: 0.87, 0.93; P , 0.00001) (Figure 2), which
+showed no signiﬁcant heterogeneity across studies (I2 = 35%;
+P = 0.15). Likewise, in studies that investigated the mortality
+
+Finally, to investigate the effects of various study character-
+istics on the study estimates of the RRs, we conducted a meta-
+regression analysis by grouping studies according to some
+characteristics, such as the number of subjects studied, number of
+cases observed, country of origin of the patients, age of the
+patients, and length of follow-up. The sample size of the included
+studies was the only contributor to the protection compared with
+the overall mortality (b = 0.059 6 0.018; P = 0.013) in the
+present model. By plotting the estimates of associations for
+overall mortality with the number of subjects analyzed for each
+study, it was shown that the average protection compared with
+the overall mortality was reached with studies that investigated
+.2000 subjects (Figure 5).
+
+FIGURE 1. Forest plot of the association between a 2-point increase of adherence score to the Mediterranean diet and the risk of all-cause mortality. The
+center of each square indicates the relative risk of the study, and the horizontal lines indicate 95% CIs. The area of the square is proportional to the amount of
+information from the study. The diamond indicates pooled estimates.
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/92/5/1189/4597540
+by Sheridan College user
+on 02 August 2018
+
+1194
+
+SOFI ET AL
+
+FIGURE 2. Forest plot of the association between a 2-point increase of adherence score to the Mediterranean diet and the risk of mortality from or
+incidence of cardiovascular diseases. The center of each square indicates the relative risk of the study, and the horizontal lines indicate 95% CIs. The area of
+the square is proportional to the amount of information from the study. The diamond indicates pooled estimates. CHD, coronary heart disease.
+
+DISCUSSION
+
+In this updated meta-analysis of prospective studies that in-
+vestigated the association between adherence to the Mediterranean
+diet and health status, ﬁndings were pooled from .2 million
+subjects and 50,000 deaths or incident cases from any causes and/
+or from any cardiovascular, neoplastic, and neurodegenerative
+diseases. We conﬁrmed the results of our previously published
+meta-analysis, which suggested a signiﬁcant protection against
+major chronic degenerative diseases for subjects who reported
+a greater adherence to the Mediterranean diet (3). Indeed, a 2-
+point increase of adherence to the Mediterranean diet signiﬁcantly
+determined a 8% reduction of death from any causes, a 10% re-
+duction from death and/or incidence of cardio- and cerebrovas-
+cular diseases, a 6% reduction from death and/or the incidence
+of neoplastic diseases, and a 13% reduction of the incidence of
+
+neurodegenerative diseases. Furthermore, in this updated meta-
+analysis, which included 7 articles published in the past 3 y that
+could not be considered in the previous meta-analysis, some other
+clinical outcomes, such as stroke and mild cognitive impairment,
+were included, and a meta-regression analysis to investigate the
+possible role of confounding factors was also conducted.
+
+Several studies over the past decades showed the Mediterra-
+nean diet to be signiﬁcantly associated with different health
+outcomes, such as a favorable health status, better biochemical
+proﬁle, and quality of life (1–3, 26, 27). Accordingly, over-
+whelming evidence on the health effects of such a dietary proﬁle
+has been reported in many different study cohorts by stimulating
+both scientiﬁc and lay communities to promote this dietary
+pattern as
+the ideal dietary pattern for preventing non-
+communicable diseases (3, 27).
+
+FIGURE 3. Forest plot of the association between a 2-point increase of adherence score to the Mediterranean diet and the risk of mortality from or
+incidence of neoplastic diseases The center of each square indicates the relative risk of the study, and the horizontal lines indicate 95% CIs. The area of the
+square is proportional to the amount of the information from the study. The diamond indicates pooled estimates.
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/92/5/1189/4597540
+by Sheridan College user
+on 02 August 2018
+
+UPDATED META-ANALYSIS ON MEDITERRANEAN DIET
+
+1195
+
+FIGURE 4. Forest plot of the association between a 2-point increase of adherence score to the Mediterranean diet and the risk of incidence of
+neurodegenerative diseases. The center of each square indicates the relative risk of the study, and the horizontal lines indicate 95% CIs. The area of the
+square is proportional to the amount of the information from the study. The diamond indicates pooled estimates.
+
+In this context, with the aim of identifying a practical tool to
+estimate how populations follow the guidelines of Mediterranean
+diet, adherence scores were computed (4). Many different scores
+were created and tested in different study cohorts, but the most
+important was deﬁnitely that created in 1995 and developed in
+its ﬁnal form in 2003 by Trichopoulou et al (6, 18). In their
+studies, which investigated the Greek cohort of the EPIC study,
+Trichopoulou et al showed, for the ﬁrst time to our knowledge,
+a signiﬁcant association between an increase of such an adher-
+ence score and the reduction of overall mortality. Subsequently,
+many studies that used this kind of epidemiologic approach have
+been released by extending the evidence to many different health
+outcomes (3).
+
+The results of the ﬁrst meta-analysis published in 2008, which
+comprised a total of 12 studies and .1.5 million subjects, were
+that a 2-point increase of score that estimated adherence to the
+Mediterranean diet signiﬁcantly determined protection com-
+pared with premature death and various diseases. In the past 3 y,
+
+the interest of researchers on this issue rose, and a total of 7 new
+cohort prospective studies were added to the literature (11–17).
+On the other hand, the issue has been shown to be of extreme
+interest for the general population as well as for health admin-
+istrators and governments for better tailoring their prevention
+strategies and policies.
+
+The present updated meta-analysis has some advantages with
+respect to the previous one: ﬁrst, it present, to out knowledge, the
+most comprehensive and updated assessment on this issue, with
+inclusion of new studies and an update of previously reported
+studies; second, the association between the Mediterranean diet
+and health outcomes was extended to other relevant disease states
+that were not previously investigated, such as stroke and mild
+cognitive impairment. These clinical outcomes are of clinical
+relevance for the ever-increasing age of the general population.
+Third, it reinforces the ﬁndings that a slight increase of the
+adherence score to the Mediterranean diet, as was observed by an
+increase of 2 points of the adherence score, is signiﬁcantly
+
+FIGURE 5. Meta-regression analysis of the relation between sample sizes of the studies and all-cause mortality. The area of the circle is proportional to the
+
+number of subjects studied in the study; the dashed line indicates the overall estimate of the association for studies that investigated all-cause mortality.
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/92/5/1189/4597540
+by Sheridan College user
+on 02 August 2018
+
+1196
+
+SOFI ET AL
+
+associated with a reduced risk of mortality and the incidence of
+main chronic degenerative diseases. Moreover, in the present
+updated meta-analysis, we performed a meta-regression analysis
+to give deeper insight into the nature of the association between
+the adherence score and health status. The meta-regression
+analysis showed that studies with larger study populations were
+more signiﬁcantly associated with a lesser degree of heterogeneity
+and a higher estimate of association. In particular, studies with
+populations of .2000 subjects seemed to be more signiﬁcantly
+related to the mean outcome observed in the meta-analysis. This
+ﬁnding could be easily explained by the increased power of the
+studies related to the higher number of subjects analyzed.
+
+information,
+
+In contrast, although we believe that
+
+this updated meta-
+analysis provides useful
+the ﬁndings must be
+interpreted with caution because of some weaknesses. First, the
+short interval of time that passed from the ﬁrst meta-analysis and
+the present meta-analysis, as well as the not so high number of
+new studies, did not allow us to be conﬁdent that these updated
+data can be used for all studied outcomes. Second, the use of
+meta-analysis technique to evaluate the protection of a dietary
+pattern, such as the Mediterranean diet, compared with the oc-
+currence of several and different diseases can lead to an over-
+estimation of the results. Third, the transferability of such an
+adherence score to the general population and the day-to-day
+clinical practice is not free of practical problems. The adherence
+score’s ease of use is low because the method of calculation
+implies the analysis of raw data that comes from a cohort study,
+and the real amount of each food category to consume is not
+established. Some relevant differences among the studies are
+present, and the transferability to the clinical practice is difﬁcult
+to understand. However, with the use of such meta-analyses, we
+are able to understand the real estimate of the association between
+the adherence score to the Mediterranean diet and health status
+and to stimulate the interest of researchers to make uniform and
+standardize, if possible, the score and its components.
+
+In conclusion, we updated the results of our previous meta-
+analysis and were able to conﬁrm the estimates of the association
+of adhering to the Mediterranean diet in terms of protection
+against overall mortality and incidences of various chronic de-
+generative diseases, with an extension of the ﬁndings to some
+other health outcomes such as stroke and mild cognitive im-
+pairment. Moreover, the results of the meta-regression analysis
+indicated that the number of subjects enrolled in a population
+study is the most important contributor to the statistical model of
+association. These results will likely help researchers and health
+administrators to better tailor forthcoming studies in the ﬁeld of
+nutrition and public health.
+
+The authors’ responsibilities were as follows—FS and AC: conception and
+design of the study and drafting of the manuscript; FS, RA, GFG, and AC:
+analysis and interpretation of the data: FS; RA and GFG: critical revision of
+the article for important intellectual content; FS: statistical expertise and guar-
+antor of the manuscript; and all authors: ﬁnal approval of the manuscript.
+None of the authors had a conﬂict of interest.
+
+REFERENCES
+1. Martinez-Gonzalez MA, Bes-Rastrollo M, Serra-Majem L, Lairon D,
+Estruch R, Trichopoulou A. Mediterranean food pattern and the primary
+prevention of chronic disease: recent developments. Nutr Rev 2009;67:
+S111–6.
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/92/5/1189/4597540
+by Sheridan College user
+on 02 August 2018
+
+2. Serra-Majem L, Roman B, Estruch R. Scientiﬁc evidence of inter-
+ventions using the Mediterranean diet: a systematic review. Nutr Rev
+2006;64:S27–47.
+
+3. Soﬁ F, Cesari F, Abbate R, Gensini GF, Casini A. Adherence to Medi-
+
+terranean diet and health status: meta-analysis. BMJ 2008;337:a1344.
+
+4. Bach A, Serra-Majem L, Carrasco JL, et al. The use of indexes evalu-
+ating the adherence to the Mediterranean diet in epidemiological studies:
+a review. Public Health Nutr 2006;9:132–46.
+
+5. Kourlaba G, Panagiotakos DB. Dietary quality indices and human
+
+health: a review. Maturitas 2009;62:1–8.
+
+6. Trichopoulou A, Costacou T, Bamia C, Tricopoulou D. Adherence to
+a Mediterranean diet and survival in a Greek population. N Engl J Med
+2003;348:2599–608.
+
+7. Knoops KTB, de Groot LCPGM, Kromhout D, et al. Mediterranean diet,
+lifestyle factors, and 10-year mortality in elderly European men and
+women. JAMA 2004;292:1433–9.
+
+8. Lagiou P, Trichopoulos D, Sandin S, et al. Mediterranean dietary pattern
+and mortality among young women: a cohort study in Sweden. Br J Nutr
+2006;96:384–92.
+
+9. Mitrou PN, Kipnis V, Thie´baut AC, et al. Mediterranean dietary pattern
+and prediction of all-cause mortality in a US population. Arch Intern
+Med 2007;167:2461–8.
+
+10. Moher D, Liberati A, Tetzlaff J, Altman DG; PRISMA Group. Preferred
+reporting items for systematic reviews and meta-analyses: the PRISMA
+statement. BMJ 2009;339:b2535.
+
+11. Fea`rt C, Samieri C, Rondeau V, et al. Adherence to a Mediterranean
+diet, cognitive decline, and risk of dementia. JAMA 2009;302:638–48.
+12. Scarmeas N, Stern Y, Mayeux R, Manly JJ, Schupf N, Luchsinger JA.
+Mediterranean diet and mild cognitive impairment. Arch Neurol 2009;
+66:216–25.
+
+13. Fung TT, Rexrode KM, Mantzoros CS, Manson JE, Willett WC, Hu FB.
+Mediterranean diet and incidence of and mortality from coronary heart
+disease and stroke in women. Circulation 2009;119:1093–100.
+
+14. Trichopoulou A, Bamia C, Trichopoulos D. Anatomy of health effects of
+Mediterranean diet: Greek EPIC prospective cohort study. BMJ 2009;
+338:b2337.
+
+15. Buckland G, Gonza´lez CA, Agudo A, et al. Adherence to the Medi-
+terranean diet and risk of coronary heart disease in the Spanish EPIC
+Cohort Study. Am J Epidemiol 2009;170:1518–29.
+
+16. Martı´nez-Gonza´lez MA, Garcı´a-Lo´pez M, Bes-Rastrollo M, et al. Medi-
+terranean diet and the incidence of cardiovascular disease: a Spanish co-
+hort. Nutr Metab Cardiovasc Dis (Epub ahead of print 20 January 2010).
+17. Buckland G, Agudo A, Luja´n L, et al. Adherence to a Mediterranean
+diet and risk of gastric adenocarcinoma within the European Prospective
+Investigation into Cancer and Nutrition (EPIC) cohort study. Am J Clin
+Nutr 2010;91:381–90.
+
+18. Trichopoulou A, Kouris-Blazos A, Wahlqvist ML, et al. Diet and overall
+
+survival in elderly people. BMJ 1995;311:1457–60.
+
+19. Kouris-Blazos A, Gnardellis C, Wahlqvist ML, Trichopoulos D, Lukito
+W, Trichopoulou A. Are the advantages of the Mediterranean diet
+transferable to other populations? A cohort study in Melbourne, Aus-
+tralia. Br J Nutr 1999;82:57–61.
+
+20. Lasheras C, Fernandez S, Patterson AM. Mediterranean diet and age
+with respect to overall survival in institutionalized, nonsmoking elderly
+people. Am J Clin Nutr 2000;71:987–92.
+
+21. Trichopoulou A, Orfanos P, Norat T, et al. Modiﬁed Mediterranean diet
+and survival: EPIC-elderly prospective cohort study. BMJ 2005;330:991.
+22. Fung TT, Hu FB, McCullough ML, Newby PK, Willett WC, Holmes
+MD. Diet quality is associated with the risk of estrogen receptor-negative
+breast cancer in postmenopausal women. J Nutr 2006;136:466–72.
+
+23. Benetou V, Trichopoulou A, Orfanos P, et al. Conformity to traditional
+Mediterranean diet and cancer incidence: the Greek EPIC cohort. Br J
+Cancer 2008;99:191–5.
+
+24. Scarmeas N, Stern Y, Tang MX, Mayeux R, Luchsinger JA. Mediter-
+ranean diet and risk for Alzheimer’s disease. Ann Neurol 2006;59:
+912–21.
+
+25. Gao X, Chen H, Fung TT, et al. Prospective study of dietary pattern and
+
+risk of Parkinson disease. Am J Clin Nutr 2007;86:1486–94.
+
+26. Sanchez-Tainta A, Estruch R, Bullo M, et al. Adherence to a Mediterranean-
+type diet and reduced prevalence of clustered cardiovascular risk factors
+in a cohort of 3204 high-risk patients. Eur J Cardiovasc Prev Rehabil
+2008;15:589–93.
+
+27. Soﬁ F. The Mediterranean diet revisited: evidence of its effectiveness
+
+grows. Curr Opin Cardiol 2009;24:442–6.
+
+

@@ -18,7 +18,7 @@ filenames = [f for f in listdir(mypath) if isfile(join(mypath, f))]
             outfile.write(infile.read()) """
 
 
-with open('cancer-training.txt', 'w') as fout:
+with open('cancer-testing.txt', 'w') as fout:
     fin = fileinput.input(filenames)
     for line in fin:
         fout.write(line)

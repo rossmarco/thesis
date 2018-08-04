@@ -1,0 +1,1370 @@
+Cohort Study of Diet, Lifestyle, and Prostate 
+
+Cancer in Adventist Men 
+
+PAUL  K.  MILLS,  PHD,  MPH,  W.  LAWRENCE  BEESON,  MSPH,  ROLAND  L.  PHILLIPS,  MD,  DRPH,t 
+
+AND  GARY  E.  FRASER,  MD,  PHD 
+
+Dietary and lifestyle  characteristics  were  evaluated  in relation to subsequent prostatic cancer risk  in a 
+cohort of approximately 14,000 Seventh-day Adventist men who completed a detailed lifestyle questionnaire 
+in 1976 and who were monitored  for cancer incidence until the end of  1982. During the 6-year  follow-up 
+period,  180 histologically  confirmed  prostatic  cancers were detected  among some 78,000 man-years  of 
+follow-up. Increasing educational attainment was associated with significantly decreased risk of prostate 
+cancer in this study; age at first marriage was also inversely associated with  risk,  although this was not 
+significant. There was no relationship between  body  mass index (as measured  by  Quetelet's  Index) and 
+risk. A history of prostate '%rouble"  was associated with a 60% increase in risk which was highly significant. 
+Although there were suggestive relationships between increasing animal product consumption and increased 
+risk,  these results did  not persist after accounting  for the influence  of fruit and vegetable  consumption. 
+Nor was exposure to the vegetarian  lifestyle  during the childhood  years  associated with  alterations  in 
+subsequent risk.  However, increasing consumption  of beans,  lentils and peas, tomatoes,  raisin, dates, and 
+other dried fruit were all associated with  significantly decreased prostate cancer risk. 
+
+Cancer 64:598-604,  1989. 
+
+C mon malignancy among men in the United States, 
+
+ANCER OF THE PROSTATE is the second most Corn- 
+
+ranking only  behind  lung cancer.  Among  men,  20% of 
+all newly diagnosed cancers are prostatic cancer and they 
+comprise  1 1 % of all male cancer deaths. Incidence rates 
+have  been  increasing  during  the  last  several  decades.' 
+Various  factors have been  investigated in  regard  to the 
+etiology of  this  cancer  including  socioeconomic  status, 
+sexual activity, marital status, venereal disease, and race. 
+The incidence rates for blacks in the United States are the 
+highest  recorded  in  the world.  Dietary  habits  have  also 
+been related to this cancer by some investigators. 
+
+Diets rich  in animal fat appear to be associated with 
+increased risk for prostatic cancer. In ecologic studies there 
+is a  strong positive correlation  between dietary  fat con- 
+sumption  and  prostatic  cancer  incidence  worldwide.* 
+Within the US prostatic cancer mortality rates are highest 
+in counties with the highest fat consumption.'  Also, pros- 
+tatic cancer is increasing in Japan which is experiencing 
+
+From the Department of Preventive Medicine, Lorna Linda University 
+
+School of Medicine, Lorna Linda, California. 
+
+(R.L.P.). 
+
+Supported by grant ROI-CA 14703 from the National Cancer Institute 
+t Deceased. 
+Address for reprints: Paul K. Mills,  PhD, Department  of Preventive 
+Medicine,  Lorna  Linda  University School of  Medicine, Lorna  Linda, 
+CA 92350. 
+
+Accepted for publication February 28,  1989. 
+
+increases in fat consumption. The migrant studies of Jap- 
+anese (and Polish)  in  the US  also support  some of the 
+hypotheses  relating  dietary  practices  common  to  the 
+western diet to the etiology of prostate cancer. 
+
+Previous  studies among Seventh-day  Adventist  vege- 
+tarians  have  found  lower  rates  for  prostate  cancer4 as 
+compared to other white men in California. Fatal prostate 
+cancer  risk  among Adventists  has been  associated with 
+increasing milk consumption and over~eight.~ Hirayama 
+has provided evidence that men who eat green and yellow 
+vegetables on a daily basis have lower prostate cancer risk 
+than those men who do not.6 However, three recent studies 
+suggest that increased vitamin A intake may be associated 
+with increased prostate cancer r i ~ k . ~ - ~  
+Adventists consume 
+nearly twice the daily average vitamin  A than other US 
+whites. lo  Therefore, we  investigated the relationship  be- 
+tween dietary and other lifestyle habits and prostate cancer 
+risk  in  approximately  15,000 Adventist  men  who com- 
+pleted a lifestyle questionnaire in  1976 and who were fol- 
+lowed for cancer incidence through  1982. 
+
+Methods 
+
+The  study  design  has  been  described  in  detail  else- 
+where."  Briefly,  in  1974  a  census  questionnaire  was 
+mailed  to  all  Seventh-day  Adventist  households  in  the 
+state  of California.  ~h~ 
+identified approximately 
+60,000 Adventists 25 years or older who were then mailed 
+a  detailed  lifestyle questionnaire  in  1976. Among  non- 
+
+598 
+
+No. 3 
+
+DIET, LIFESTYLE, AND PROSTATE CANCER -  Mills et al. 
+
+599 
+
+Hispanic whites, the response rate to the lifestyle ques- 
+tionnaire was in excess of 75% whereas among other ethnic 
+groups, the response rates were considerably lower. Hence, 
+cancer  incidence  among  the  35,000  non-Hispanic 
+white Adventists was  monitored  for a  total  of  6 years’ 
+follow-up. 
+
+A surveillance program  consisted of annual mailings 
+to every member of the cohort, requesting information 
+on any hospitalization in the previous  12-month period 
+of follow-up. If a hospitalization was reported, the name 
+and address of the appropriate hospital was recorded and 
+permission to review the resulting medical record was ob- 
+tained. Adventist  Health  Study personnel  reviewed  all 
+medical records for evidence of a cancer diagnosis; per- 
+tinent portions of the records were microfilmed to allow 
+confirmation of the diagnosis by senior medical personnel. 
+Follow-up in  this fashion was  complete for 99% of  the 
+cohort. Computerized record linkage with those areas of 
+the state of California with population-based tumor reg- 
+istries was  also used to detect cases in these geographic 
+areas (the Cancer Surveillance Program in Los Angeles 
+County and the Resource for Cancer Epidemiology in the 
+San Francisco Bay  area). This report is concerned with 
+all newly diagnosed prostatic cancers (ICDO: 185) occur- 
+ring in the cohort between the return of the lifestyle ques- 
+tionnaire and the end of follow-up in December 1982. 
+
+An  index of percent of total calories from animal fat 
+was derived by comparing responses on the food frequency 
+questions of the lifestyle questionnaire with the results of 
+five 24-hour dietary recalls administered randomly over 
+a period of 6 weeks to sample of study subjects. A mean 
+weekly intake of nutrients was obtained in this way and 
+provided the value for the dependent variable in a series 
+of stepwise multiple regression analyses which regressed 
+the food frequencies from the lifestyle questionnaire on 
+the mean weekly nutrients. 
+
+Statistical Analysis 
+
+Members of the study population contributed person- 
+years at risk beginning at the time they returned the life- 
+style questionnaire and ending on December 3 I,  I982 or 
+at the time of death or loss to follow-up. Distribution of 
+exposure variables under  study were examined for the 
+entire cohort in  order to  create categories of exposures 
+which were biologically meaningful and which included 
+adequate numbers of person-years at risk in each exposure 
+category for analysis. Univariate analyses (age adjusted) 
+were  conducted  to  obtain  relative risk  estimates using 
+stratification  and  the  person-years  adaptation  of  the 
+Mantel-Haenszel procedure for cohort studies. l 2   Where 
+possible, three or more categories of  exposure were ex- 
+amined in order to detect dose-response gradients between 
+exposure and outcome. 
+
+In order to evaluate the age-adjusted results in a mul- 
+tivariate  setting,  Cox  proportional  hazards  regression 
+models were constructed, including the primary exposure 
+variable of interest and several covariates of interest. The 
+proportionality requirement was evaluated graphically by 
+inspecting the log-log  plots for all exposue variables un- 
+der study. Interaction between the primary exposure vari- 
+ables and covariates was assessed by  the change in log 
+likelihood resulting from removal of all first order cross- 
+product  terms simultaneously. This was  done to avoid 
+the problem of multiple comparisons in the analysis. All 
+multivariate-adjusted relative risks are accompanied by 
+95% confidence intervals; all P’values are two-sided. 
+
+Results 
+
+Between 1976 and 1982, there were 180 incident cases 
+of  prostate  cancer  (ICDO: 185) detected in  the  cohort 
+among some 78,000 man-years of follow-up. 
+
+The age-specific incidence of prostate cancer showed a 
+steep elevation in the eighth decade of life. Mean age at 
+diagnosis was approximately 74 years. Histologically, the 
+large majority of the cancers were adenocarcinoma (89%) 
+and more than 50% were still localized at diagnosis. Age- 
+stratified analyses were performed first. Among lifestyle 
+characteristics proposed  to  be  associated with  prostate 
+cancer risk, higher educational attainment was associated 
+with a significantly decreased prostate cancer risk (Table 
+1). Risk among men with postgraduate education was less 
+than  50% the risk  found among men  with  only a  high 
+school education. Risk was also somewhat lower among 
+unmarried men (including single, separated, divorced, and 
+widowed) although this was not significant. Small num- 
+bers precluded the analysis of separate subgroups of un- 
+married men (e.g., single, widowed, divorced). Risk was 
+also inversely associated with age at first marriage which 
+was of borderline statistical significance (Trend P = 0.09). 
+Cigarette smoking was not associated with a discernible 
+trend in risk but any alcohol consumption was associated 
+with a nonsignificant decrease in prostate cancer risk in 
+these data. There was no relationship between Quetelet’s 
+Index  and  prostate  cancer  risk.  A  history  of  prostate 
+“trouble” or enlargement was associated with a significant 
+increase in subsequent risk of prostate cancer. 
+
+Since previous studies have noted a positive association 
+between fat intake and prostate cancer risk, animal prod- 
+uct  consumption  (which represents the  majority of  fat 
+intake among Adventists) was evaluated, as before strat- 
+ifying on age. Various types of beef (steak, hamburger, or 
+veal) were not associated with prostate cancer risk in these 
+data nor was  an overall index of  beef  intake (Table 2). 
+There was, however, a suggestive relationship between re- 
+ported consumption  of meat, poultry or fish as a com- 
+posite variable and prostate cancer risk. Also increasing 
+
+600 
+
+CANCER August 1 1 9 89 
+
+Vol. 64 
+
+TABLE 1.  Age-Adjusted  Relative Risks of Prostate Cancer 
+
+by  Selected Personal Characteristics 
+
+TABLE 2.  Age-Adjusted Relative Risks for Prostate Cancer 
+
+by Animal Product Consumption 
+
+Characteristic 
+
+Educational attainment 
+Less than  high school 
+High school grad 
+Some college 
+College grade 
+Post-grad 
+
+Marital status 
+
+Mamed 
+Not married 
+
+Age at first mamage 
+
+<20 
+20-24 
+25-29 
+230 
+
+Smoking history 
+
+Never 
+Past only 
+Current 
+
+Alcohol intake (any) 
+
+No 
+Yes 
+
+Quetelet’s Index 
+
+523.2 
+23.3-25.8 
+225.9 
+
+Prostrate trouble or enlarged 
+
+prostate 
+
+No 
+Yes 
+
+Relative risk 
+
+(95% CI) 
+
+No. cases/ 
+person-yr 
+
+1 .oo 
+871 15,162 
+0.75 (0.44-1.27) 
+1718405 
+0.82 (0.57-1.18) 
+46124,221 
+0.64 (0.36-1.14) 
+14112,546 
+0.41 (0.22-0.74) 
+13116,807 
+Overall xt4:  = 10.73, P = 0.03 
+Trend P = 0.002 
+1 .oo 
+163167,017 
+1315816 
+0.87 (0.50-1.54) 
+Overall x ( ~ ;  = 0.22, P = 0.64 
+1 .oo 
+11/6610 
+1.04 (0.56-1.95) 
+89138,007 
+0.80 (0.41-1.55) 
+4611 1,754 
+0.80 (0.39-1.65) 
+2616830 
+Overall x ( ~ :  = 4.30, P = 0.23 
+Trend P = 0.09 
+1 .oo 
+90143,977 
+1.24 (0.91-1.67) 
+79123,393 
+0.49 (0.16-1.57) 
+314234 
+Overall x(2,2 = 3.97, P = 0.14 
+Trend P = 0.72 
+1 .oo 
+515131 
+0.71 (0.29-1.74) 
+Overall x ( ~ :  = 0.56, P = 0.46 
+1 .oo 
+0.98 (0.67-1.44) 
+1.17 (0.79-1.72) 
+Overall xc2: = 0.35, P = 0.84 
+Trend P = 0.63 
+
+57121,657 
+5 1121,792 
+53123,772 
+
+142161,089 
+
+1 .oo 
+101/59,77 1 
+1.57 (1.14-2.15) 
+711 10,207 
+Overall x,,? = 8.42.  P = 0.004 
+
+Characteristic 
+
+Beef hamburger 
+
+Beef steak 
+
+Other beef and veal 
+
+Beef index 
+
+Current use of 
+
+Meat, poultry, or 
+
+fish 
+
+Fish 
+
+Poultry 
+
+Eggs 
+
+Grad: graduate. 
+
+consumption of fish was associated with statistically sig- 
+nificant elevated prostate cancer risk. Both eggs and milk 
+consumption  were  associated  with  nonsignificant  de- 
+creases in the risk estimates. 
+
+In order to evaluate the relationship of vitamins A, C, 
+and beta-carotene-containing foods to prostate cancer risk, 
+various types of fruits and vegetables commonly found 
+in the Adventist diet were examined with  age-stratified 
+analyses (Table 3).  Strong protective relationships were 
+
+Frequency 
+of use of 
+category 
+
+Never 
+< 1 X/wk 
+2 1 X/wk 
+
+Never 
+< 1 Xlwk 
+2 1 Xlwk 
+
+Never 
+< 1 Xlwk 
+2 1 Xlwk 
+
+Never 
+< 1 X/wk 
+2 1 X/wk 
+
+Never 
+<daily 
+>daily 
+
+Never 
+< 1 X/wk 
+2 1 Xlwk 
+
+Never 
+< 1 Xlwk 
+2 1 X/wk 
+
+< 1 X/wk 
+
+1-2XIwk 
+
+r3XIwk 
+
+Relative risk 
+
+(95% CI) 
+
+No. cases/ 
+person-yr 
+
+1 .oo 
+66127,363 
+55121,285 
+1.28 (0.89-1.84) 
+1.07 (0.73-1.59) 
+43125,367 
+Overall x ( ~ :  = 1.75, P = 0.42 
+Trend P = 0.67 
+1 .oo 
+77129,530 
+1.19 (0.75-1.65) 
+70/30,40 
+0.81 (0.72-1.50) 
+17113,913 
+Overall x(*? = 1.75, P = 0.42 
+Trend P = 0.67 
+1 .oo 
+68128,994 
+60127,939 
+1.13 (0.80-1.61) 
+1.09 (0.71-1.67) 
+32/16,867 
+Overall x(2? = 0.47, P = 0.79 
+Trend P = 0.60 
+1 .oo 
+1.27 (0.85-1.90) 
+1.21 (0.83-1.75) 
+Overall 
+Trend P = 0.38 
+
+54123,905 
+44117,780 
+63132,156 
+= 1.44, P = 0.49 
+
+361 19,605 
+43114,598 
+73132,930 
+= 5.37, P = 0.07 
+
+1 .oo 
+1.67 (1.07-2.61) 
+1.47 (0.98-2.21) 
+Overall 
+Trend P = 0.1 I 
+1 .oo 
+43124,916 
+86/34,413 
+1.68 (1.16-2.43) 
+1.47 (0.84-2.60) 
+1717597 
+Overall x ( ~ ;  = 7.71, P = 0.02 
+Trend P = 0.03 
+1 .oo 
+471243 15 
+77132,232 
+1.39 (0.97-2.01) 
+1.34 (0.82-2.19) 
+2419816 
+Overall x(~,’ = 3.13, P = 0.21 
+Trend P = 0.17 
+1 .oo 
+55121,575 
+0.80 (0.55- 1.15) 
+60/29,66 1 
+36116,564 
+0.76 (0.50-1.15) 
+Overall x ( ~ :  = 2.18, P = 0.34 
+Trend P = 0.20 
+1 .oo 
+53122,734 
+0.97 (0.65-1.45) 
+44122,563 
+0.80 (0.54-1.19) 
+47120,902 
+Overall x,,? = 1.43. P = 0.49 
+Trend P z0.29 
+
+’ 
+
+Whole milk 
+
+Never 
+<daily 
+rdaily 
+
+noted with increasing consumption of dried beans, lentils 
+or peas, fresh citrus fruit, raisins, dates and other dried 
+fruit,  nuts,  and  tomatoes.  Also,  daily  consumption of 
+
+No. 3 
+
+DIET, LIFESTYLE, AND PROSTATE CANCER 
+
+*  Mills et d. 
+
+60 1 
+
+TABLE 3.  Age-Adjusted Relative Risks for Prostate Cancer 
+
+by  Fruit and Vegetable Consumption 
+
+TABLE 4.  Multivariate Analysis* of Selected Foods as Related to 
+
+Prostate Cancer Risk in  Male Adventists, 1976 to 1982 
+
+Relative risk 
+
+(95% CI) 
+
+No. cases1 
+person-yr 
+
+~~ 
+
+Foodlfrequency 
+
+RR (95% CI) 
+
+Two-tailed 
+P value 
+
+Current  use of meat, poultry, fish 
+
+Never 
+<daily 
+rdailv 
+
+Current use of fish 
+
+Never 
+< I  X/wk 
+r 1 X/wk 
+
+Beans, lentils, and peas 
+
+< 1 X/mo 
+t3X/wk 
+>3X/wk 
+
+Fresh citrus fruit 
+
+< 1 X/wk 
+I -4XIwk 
+r5XIwk 
+Fruit index 
+<12X/mo 
+< I2-60XImo 
+r60X/mo 
+
+Current use of nuts 
+
+< 1 Xlwk 
+l-4X/wk 
+r5XIwk 
+
+Current use of tomatoes 
+
+< 1 X/wk 
+l-4XIwk 
+?5X/wk 
+
+Raisins, dates, other dried fruits 
+
+1 .oo 
+1.15 (0.79-1.69) 
+1.41 (0.79-2.5  1) 
+I .oo 
+1.37 (0.95-1.96) 
+1.57 (0.88-2.78) 
+1 .oo 
+0.74 (0.46- 1.08) 
+0.53 (0.3 1-0.90) 
+I .oo 
+0.93 (0.65- I .32) 
+0.88 (0.52-1.47) 
+
+1 .oo 
+0.95 (0.41-2.22) 
+1.07 (0.72-1.58) 
+1 .oo 
+0.86 (0.59-1.24) 
+0.79 (0.51-1.22) 
+1 .oo 
+0.64 (0.42-0.97) 
+0.60 (0.37-0.97) 
+1 .oo 
+1.17 (0.82-1.66) 
+0.62 (0.36- 1.06) 
+
+0.23 
+0.07 
+
+0.06 
+0.07 
+
+0.08 
+0.0 I 
+
+0.34 
+0.3 I 
+
+0.45 
+0.37 
+
+0.20 
+0.14 
+
+0.02 
+0.02 
+
+< I   x/wk 
+I -4X/wk 
+r5XIwk 
+* Cox proportional  hazards model includes terms for age; education; 
+current  use of meat, poultry, or fish; current fish only; beans; legumes 
+or peas; citrus fruit; dry fruit; index of fruit, nuts, and tomatoes. 
+
+0.20 
+0.06 
+
+green salads was associated with a suggestive protective 
+effect. Use of vegetarian protein products (meat substitutes 
+such as soy products and gluten) was associated with  a 
+nonsignificant decrease in the risk estimate. 
+
+Multivariate Results 
+
+In order to evaluate the age-adjusted results in a mul- 
+tivariate  setting,  Cox  Proportional  Hazards  Regression 
+Models were  constructed which  included terms for  all 
+variables which were statistically meaningful in the uni- 
+variate analyses (Table 4). Such a model is useful as an 
+attempt  to  control  confounding.  The  primary  dietary 
+variable of interest was dummy coded to reflect the cat- 
+egories of exposure which were evaluated in the univariate 
+approach. 
+ues were  included  in  the  Cox  models.  Interaction was 
+
+with  unknown 
+
+for 
+
+Characteristic 
+
+Dried-canned  beans, 
+
+lentils, peas 
+
+Canned or frozen fruit 
+
+Fresh citrus fruit 
+
+Fresh winter fruit 
+
+Other fresh fruit 
+
+Raisins, dates, or 
+other dried fruit 
+
+Frequency 
+of use or 
+category 
+
+< 1 Xlmo 
+<3X/wk 
+23XIwk 
+
+<lX/wk 
+
+I-4XIwk 
+
+r5XIwk 
+
+< I   X/wk 
+
+I-4XIwk 
+
+r5XIwk 
+
+5 1 Xlwk 
+
+l-4XIwk 
+
+r5XIwk 
+
+<1X/wk 
+
+l-4XIwk 
+
+r5XIwk 
+
+< I  X/wk 
+
+1-4Xlwk 
+
+r5XIwk 
+
+Fruit index* 
+
+<3X/wk 
+c2X/day 
+r2XIday 
+
+Current  use of nuts 
+
+< I   Xlwk 
+
+1-4Xlwk 
+
+r5X/wk 
+
+Green  salads 
+
+_c2X/wk 
+
+3-6XIwk 
+2 1 X/day 
+
+Current  use of 
+
+tomatoes 
+
+Vegetarian protein 
+
+products 
+
+< I  Xlwk 
+
+1 -4X/wk 
+
+r5Xlwk 
+
+< I  X/wk 
+
+I-4XIwk 
+
+r5XIwk 
+
+30190 14 
+1 .OO 
+109143,334 
+0.69  (0.46-1.03) 
+0.48 (0.29-0.80) 
+30117,704 
+Overall x(2? = 8.28, P = 0.02 
+Trend P = 0.005 
+1 .oo 
+48/23,5 15 
+0.83 (0.57-1.20) 
+63131,468 
+0.82 (0.53-1.27) 
+3711 1,210 
+Overall xt2) =  1.08, P = 0.58 
+Trend P = 0.48 
+1 .oo 
+7 1126,464 
+0.76 (0.53-1.08) 
+54128,126 
+0.53 (0.34-0.86) 
+2111 1,262 
+Overall xb, = 7.30, P = 0.03 
+Trend P = 0.008 
+1 .oo 
+1316 I20 
+1.04 (0.58-1.89) 
+72131,468 
+0.73 (0.40-1.33) 
+62128,281 
+Overall xt2, = 4.47,  P = 0. I I 
+Trend P = 0.07 
+1 .oo 
+371 15,932 
+61131,762 
+0.79 (0.52-1.19) 
+0.78 (0.50-1.20) 
+46117,483 
+Overall xt2, =  1.57, P = 0.46 
+Trend P = 0.45 
+I .oo 
+61128,761 
+0.96 (0.68-1.36) 
+65126,014 
+0.51 (0.31-0.85) 
+2111 1,033 
+Overall x&  = 9.17, P = 0.0 1 
+Trend P = 0.01 
+1 .oo 
+714482 
+74133,682 
+1.06 (0.49-2.30) 
+0.70 (0.32-1.51) 
+75129,581 
+Overall X&  = 5.08, P = 0.08 
+Trend P = 0.04 
+I .oo 
+60123,472 
+55127,944 
+0.75 (0.52-1.09) 
+0.55 (0.36-0.84) 
+33114,999 
+Overall xt2, = 8.16, P = 0.02 
+Trend P = 0.005 
+1 .oo 
+461 14,765 
+0.86 (0.59-1.26) 
+69132,236 
+0.68 (0.44-1.05) 
+37119,966 
+Overall xt2) = 2.87,  P = 0.24 
+Trend P = 0.10 
+1 .oo 
+2718 I29 
+82139,725 
+0.62 (0.40-0.96) 
+0.57  (0.35-0.93) 
+41/18,189 
+Overall xt2, = 5.91, P = 0.05 
+Trend P = 0.06 
+1 .oo 
+70124,776 
+0.83 (0.59-1.16) 
+63130,049 
+18/13,060 
+0.67 (0.40-1.12) 
+Overall x&, = 2.84, P = 0.24 
+Trend P = 0.10 
+
+* The fruit index was a combination  of canned or frozen fruit, fresh 
+
+citrus fruit, fresh winter fruit, other fresh fruit. and dried fruit. 
+
+602 
+
+CANCER August  1 1989 
+
+Vol. 64 
+
+TABLE 5.  Age-Adjusted Relative Risk for Prostate Cancer by Indirect  Measures of Exposure to Adventism and the Vegetarian Lifestyle 
+
+Before Age  15 Years Among Men in the Adventist Cohort 
+
+Characteristic 
+
+Neither parent  SDA 
+One or both  parents SDA and nonvegetarian lifestyle 
+
+practiced in the home 
+
+One or both parents SDA and vegetarian lifestyle practiced 
+
+in the home 
+
+Age-adjusted 
+RR (95% C1) 
+1 .oo 
+0.92 (0.64-1.31) 
+
+0.76 (0.50-1.18) 
+
+MV-adjusted* 
+RR (95% CI) 
+1 .oo 
+
+0.98 (0.68-1.40) 
+
+0.80 (0.51-1.26) 
+
+Overall x(zf =  1.60,  P  = 0.45 
+Trend P  = 0.24 
+
+No. cases/ 
+person-yr 
+
+98134,487 
+
+45123,928 
+
+26116,981 
+
+MV: multivariate analysis; SDA: Seventh-day Adventist. 
+* Cox proportional hazards regression model including terms for age; 
+education; current use of meat, poultry, or fish; current use of fish only; 
+
+beans; legumes or peas; citrus fruit; dry fruit; index of fruit, nuts, tomatoes; 
+and exposure to Adventism. 
+
+assessed by  removing all first order cross product terms 
+from the model simultaneously and evaluating the change 
+in the log-likelihood. No significant interactions were de- 
+tected in this fashion. 
+
+In this multivariate approach, increasing use of beans, 
+lentils, and peas continued to be associated with a signif- 
+icant reduction  in  prostate cancer  risk; also increasing 
+tomato  consumption  conferred  significant  protection 
+against prostate cancer, whereas increasing use of raisins, 
+dates and other dried fruit was associated with decreases 
+in risk  which were of  borderline significance. Fish  and 
+other aaimal products did not show significant indepen- 
+dent effects, though relatively strong trends were still ap- 
+parent. 
+
+Age at First Exposure to the Vegetarian Lifestyle 
+
+We hypothesized the age at first exposure to a vegetarian 
+lifestyle may be associated with subsequent cancer risk. 
+In  order to evaluate the  hypothesis an index based  on 
+
+TABLE 6.  Adjusted-Relative Risks of Prostate Cancer by Levels 
+
+of Percentage of Calories From Animal Fat in the 
+
+Adventist Cohort.  1976 to 1982 
+
+Quartiles of 
+percentage of 
+calories from 
+animal fat 
+
+Lowest quartile 
+
+QI 
+4 2  
+Q3 
+
+Highest quartile 
+
+4 4  
+
+UV* RR 
+(95% CI) 
+
+MV* RR 
+(95% CI) 
+
+No. cases/ 
+person yr 
+
+1 .oo 
+0.86 (0.54-1.38) 
+1.13  (0.71-1.79) 
+
+1 .00 
+0.84  (0.52-1.34) 
+0.98  (0.59-1.61) 
+
+36117,762 
+33117,717 
+37/17,311 
+
+1.38 (0.89-2.16) 
+
+1.35 (0.81-2.226) 
+
+45/18,512 
+
+Overall xz = 4.09,  P  = 0.25 
+Trend P  = 0.12 
+
+UV: univariate analysis; MV: multivariate analysis. 
+* Cox proportional hazards regression model including terms for age; 
+education, current use of meat, poultry, or fish; current use of fish only; 
+beans; legumes and peas; citrus fruit; dry fruit; index of fruit, nuts, and 
+tomatoes; and percentage of total caloric intake from animal fat, 
+
+parental religion and the lifestyle practiced in the home 
+before 15 years of age was developed. In Table 5 the results 
+of this analysis are presented. We assume that if neither 
+parent was  an Adventist, then  an omnivorous diet was 
+available during the childhood years. Those men who had 
+at least one Seventh-day Adventist parent and a vegetar- 
+ian lifestyle in the home during the childhood and teenage 
+years experienced a nonsignificant reduction in the relative 
+risk of prostate cancer (RR = 0.76). Therefore, only weak 
+evidence was found to support the hypothesis. 
+
+Animal Fat Index 
+
+Although the ability of the food frequency type of ques- 
+tionnaire used in this study to derive nutrients was some- 
+what limited, an index of percentage of total calories from 
+animal fat was derived and showed a high degree of va- 
+lidity. However, the relationship between quartiles of the 
+animal fat index and prostate cancer risk was very weak 
+(Table 6). In both the univariate and multivariate analyses, 
+the  risk  of  prostate  cancer  among men  in  the  highest 
+quartiles of  animal  fat  intake  was  approximately  35% 
+higher than that among men in the lowest quartile of an- 
+imal fat intake. None of the point estimates are signifi- 
+cantly greater than one, nor is there convincing evidence 
+of an increasing trend in risk with increasing consumption 
+of animal fat in these data. 
+
+Discussion 
+
+In this cohort of Adventist men, prostate cancer risk 
+was associated with several lifestyle and dietary variables, 
+some of which have been reported in other populations 
+and some of which have not. Age was strongly associated 
+with risk in these data and also in other populations of 
+US White males.I3 There is evidence that prostate cancer 
+increases in  incidence with  age  more rapidly than  any 
+other cancerI4 and that latent prostatic carcinoma displays 
+a similar age gradient.I5 More than 50% of the prostate 
+cancers in this population were still localized at the time 
+of diagnosis; among US men approximately 65% are lo- 
+
+No. 3 
+
+DIET, LIFESTYLE, AND PROSTATE  CANCER 
+
+*  Mills el a/. 
+
+603 
+
+calized at the time of diagnosis.16 Given the high level of 
+access to medical care common to the Adventist popu- 
+lation, it is surprising that the proportion of prostate can- 
+cers still localized at the time of diagnosis was not greater. 
+Increasing educational attainment was associated with 
+decreased prostate cancer risk which was highly significant. 
+Educational attainment  is highly correlated with  socio- 
+economic status in this and other populations. However, 
+previous studies have not shown prostate cancer risk to 
+be associated with socioeconomic status in a consistent 
+fashion."  This may be due to lack of a consistent measure 
+of social class in various studies.I8 Occupation, education, 
+residence, and other measures of social standing have all 
+been evaluated in relation to prostate cancer risk. Several 
+early studies in Britain'9*20 demonstrated higher prostate 
+cancer  mortality  in  the  higher  socioeconomic groups. 
+Also, studies in the US21-23 and in Scotland24 showed sim- 
+ilar relationships. Other US  studies have  noted  slightly 
+higher prostate cancer mortality  in the lower socioeco- 
+a  finding  consistent  with  ours, 
+nomic  g r o ~ p i n g s , ~ ' , ~ ~  
+whereas Ernster et  al. noted higher prostate cancer mor- 
+tality in  younger men  of  lower  social class, but  higher 
+prostate cancer mortality in  older men  of  higher social 
+class.27 However, prostatic cancer incidence was  higher 
+in the lower social class at all age groups in that study, 
+again a  finding consonant  with the incidence data pre- 
+sented here. It is possible that the protective relationship 
+associated with  higher educational attainment noted in 
+this study is secondary to delay in age at mamage or the 
+onset of sexual activity. 
+
+In this study married men experienced slightly higher 
+risk of prostate cancer than unmarried men although the 
+difference was not significant. Small numbers precluded 
+the analysis of specific subgroups of unmarried men. Also, 
+there was a suggestive, inverse relationship between age 
+at first marriage and prostate cancer risk. This may be 
+consistent with previous studies which indicate that early 
+age at first sexual intercourse, number of sexual partners, 
+and other measures of sexual activity may be positively 
+associated with  risk  of  prostate cancer. Prostate cancer 
+mortality  rates  for both  whites  and  non-whites in  the 
+United  States are  higher  for  married  men  than  single 
+men28 and incidence rates for cancer of the prostate are 
+higher in ever married men than unmarried men in Den- 
+mark.29 Newel1 et  al. recently  noted  no  excess risk  for 
+prostate cancer among  widower^,^' a finding in agreement 
+with an earlier 
+
+There  was  no  relationship between body  weight  ad- 
+justed for height (Quetelet's Index) and risk  of prostatic 
+cancer in those data, a finding which is in agreement with 
+some previous s t ~ d i e s ~ , ~ ' . ~ ~  
+but  not  with   other^^^,^^  in- 
+cluding an earlier study of fatal prostate cancer risk  in 
+Adventists.'  These discrepant results are difficult to ex- 
+plain although various measures of weight corrected for 
+height have been employed in various studies. The earlier 
+
+study  of  prostatic cancer  mortality  in  Adventists  used 
+percent desirable weight with Metropolitan Life Insurance 
+Company data as the standard.35 We also evaluated per- 
+cent desirable weight and observed no relationship to risk 
+(data not shown). When Quetelet's Index was used as the 
+measure of body mass, no relationship was evident, either. 
+Although there were no data to evaluate diagnosed (z.e., 
+histologically or  clinically  confirmed) benign  prostatic 
+hypertrophy (BPH) in regard to subsequent prostate can- 
+cer risk in this study, affirmative response to the question, 
+"Has a doctor ever told you that you had prostate trouble 
+(enlarged prostate)?'  resulted in a relative risk of prostate 
+cancer of approximately 1.6 which was highly significant. 
+Two previous studies have shown a positive relationship 
+between BPH and prostatic c a n ~ e r , ~ ~ . ~ ~  
+although another 
+retrospective cohort study did not.38 However, with the 
+data available in this study, it is impossible to determine 
+if the prostate trouble was truly BPH or incipient prostate 
+cancer. 
+
+The relationship between dietary practices and prostate 
+cancer risk has been evaluated by  various types of study 
+designs including ecologic analyses, migrant studies, co- 
+hort studies, and retrospective case-control studies. Most 
+of these studies have been reviewed r e ~ e n t l y . ' ~ . ~ ~  
+In gen- 
+eral, prostate cancer risk appears to be enhanced by  in- 
+creasing consumption of dietary fat and/or high fat animal 
+products such as meat, milk, cheese, and eggs, although 
+the  findings in  this  regard  are  not  entirely consistent. 
+Conversely, there  is  some  evidence that  frequent con- 
+sumption of dark green and yellow vegetables may exert 
+a protective influence on prostate cancer r i ~ k , ~ , ~ '  
+although 
+three recent case-control studies suggest an enhancement 
+of risk with high dietary vitamin A intake.7-9 The ques- 
+tionnaire employed in this study was not sufficiently de- 
+tailed to allow the accurate derivation of an index of vi- 
+tamin  A.  However, several  foods with  high  vitamin A 
+and/or  C ,  such as green  salads, fresh citrus fruits, and 
+tomatoes, were evaluated. 
+
+The results of this analysis of the dietary habits indicate 
+that increased consumption of various types of fruits and 
+vegetables are strongly protective. Consumption of high 
+fat animal  products are not significantly related to risk, 
+although a trend compatible with increased risk remains 
+even after multivariate adjustment. However, in the mul- 
+tivariate analysis in which the animal products and fruits 
+and vegetables were  each simultaneously controlled for 
+the other, the protective relationships associated with fruit 
+and vegetable use persisted. This observation may be con- 
+sistent with the hypothesis that exposure to anticarcino- 
+gens in the diet may be the critical element in the initiation 
+of the malignant process rather than the presence of car- 
+cinogen~.~' 
+
+We did not observe any enhancement of risk attendent 
+to increasing consumption of foods containing vitamins 
+A or C or beta-carotene as noted by previous  worker^.^-^ 
+
+604 
+
+CANCER August  1 1989 
+
+Vol. 64 
+
+Indeed,  consumption  of  those  foods  containing  large 
+quantities of those nutrients were consistently associated 
+with decreased risk in this population. The protective re- 
+lationships  appeared,  perhaps,  strongest  in  those  men 
+older than  70 years.  The enhanced  risk  associated with 
+high vitamin A intake noted by others’s8 was strongest in 
+men older than 70 years. 
+
+There were no striking alterations in prostatic cancer 
+risk in regard to use of cigarettes or alcohol, although this 
+population  is not ideally suited for evaluating those ex- 
+posures since both practices are proscribed by the church. 
+However, since a large proportion of Adventists are adult 
+converts to the church, past smoking habits were evalu- 
+ated. In this study, past smoking was associated with  a 
+nonsignificant increase in  risk  (RR = 1.24) which is in 
+agreement with some previous 
+
+but not 
+
+In summary, this prospective cohort study of various 
+lifestyle and dietary habits among Adventist men  dem- 
+onstrated strong protective relationships with increasing 
+educational attainment, which may have been secondary 
+to sexual practices, the history of which was not available 
+from the study questionnaire. Also, strong protective re- 
+lationships were seen to be afforded by the increased con- 
+sumption of various fruits and vegetables, in particular, 
+beans, lentils, peas, tomatoes, and dried fruit. These find- 
+ings  should  be  considered  in  future  efforts  involving 
+chemoprevention of prostate cancer in man. 
+
+REFERENCES 
+
+1.  DeVesa SS, Silverman DT, Young JL et a/. Cancer incidence and 
+mortality trends among Whites in the United States. J Nati Cancer Inst 
+1987; 79:701-770. 
+
+2.  Armstrong B, Doll R. Environmental factors and cancer incidence 
+and mortality in different countries, with special references to dietary 
+practices. Int JCancer  1975; 15:617-631. 
+
+3.  Blair A,  Fraumeni JF. Geographic patterns of  prostate  cancer in 
+
+the United States. JNatl Cancer Insf 1978; 61:1379-1384. 
+
+4.  Phillips RL. Role of lifestyle and dietary habits in risk of cancer 
+
+among Seventh-Day Adventists. Cancer Res 1975; 35:3345-3350. 
+
+5.  Snowdon DA, Phillips RL, Choi W. Diet, obesity and risk of fatal 
+
+prostate cancer. Am J Epidemiol  1984; 120:244-250. 
+
+6.  Hirayama, T. Epidemiology of prostate cancer with special reference 
+
+to the role of diet. Natl Cancer Inst Monogr  1979; 53: 149-1 55. 
+
+7.  Kolonel LN, Hankin J, Yoshizawa CN. Vitamin  A and prostate 
+cancer in elderly men: Enhancement of risk. Cancer Res 1987; 47:2982- 
+2985. 
+
+8.  Graham S, Haughey B, Marshall J et a/. Diet in the epidemiology 
+of carcinoma  of the prostate gland. J  Natl  Cancer Inst  1983; 70:687- 
+692. 
+
+9.  Heshmat MY, Kaul L, Kovi J ef al. Nutrition and prostate cancer: 
+
+A case-control study. Prostate  1985; 6:7-17. 
+
+10.  Phillips RL, Snowdon D, Brin B. Cancer in vegetarians. In: Wynder 
+EL, Leveille GA, Weisburger JH, Livingston GE, eds. Environmental 
+Aspects of Cancer: The role of macro and micro components of foods. 
+Westport, C T  Food and Nutrition Press, 1983; 53-72. 
+
+1 1.  Beeson WL, Mills PK, Phillips RL et a/. Chronic disease among 
+Seventh-day Adventists. A low-risk group. Rationale, methodology, and 
+description of the population.  Cancer 1989; 64:570-58 I .  
+
+12.  Breslow N. Elementary methods of cohort analysis. Int J Epidemiol 
+
+1984; 13:112-115. 
+
+13.  Silverberg E. Statistical and epidemiologic data on urologic cancer. 
+
+42.  Dorn HF. Tobacco consumption and mortality from cancer and 
+
+Cancer 1987; (Supp1)60:692-717. 
+
+14.  Cook PJ, Doll R, Fellingham SA. A mathematical model for the 
+
+age distribution of cancer in men. Int J Cancer 1969; 493-1 12. 
+
+other diseases. Public Health Rep  1959; 74:581-593. 
+
+43.  Doll R, Pet0 R. Mortality in relation to smoking: Twenty years’ 
+
+observations on male British doctors. Br Med J  1976; 2:1525-1536. 
+
+15.  Ashley  DJB. On the incidence of carcinoma of  the  prostate. J 
+
+Pathol Bacteriol  1965; 90:217-224. 
+
+16.  National Cancer Institute. Report to the National Cancer Advisory 
+Board.  Bethesda,  M D  Annual  Cancer  Statistics  Review.  Biometry 
+Branch, National Cancer Inst,  1985. 
+
+17.  Ernster VL, Selvin S, Sacks ST et  a/. Prostate cancer: Mortality 
+and incidence rates by race and social class. Am J Epidemiol  1978; 107: 
+3 1 1-320. 
+
+18.  Mandel JS, Schuman LM. Epidemiology of cancer of the prostate. 
+In: Lilienfeld A, ed. Reviews in Cancer Epidemiology. New York, Am- 
+sterdam: Elsevier/North-Holland,  1980, pp  1-83. 
+
+19.  Young M. Variations in mortality from cancer of different parts 
+of the  body in  groups of men  of  different social status. J  Hyg (Lond) 
+1926; 25: 109-27 1. 
+
+20.  Registrar General. The Registrar General‘s Decennial Supplement, 
+England and Wales, 195 1. Occupational Mortality, part 2, vol. 2. London: 
+HMSO,  1957. 
+
+2 1.  Buell P, Dunn JE, Breslow L. The occupational social class risk 
+
+of cancer mortality in men. J Chronic Dis  1960; 12:600-621. 
+
+22.  Guralnick K. Mortality by occupational level and cause of death 
+among men 20 to 64 years of age: United States, 1950. In: Vital Statistics: 
+Special Reports, 53, no. 3. Washington, D C  United States Department 
+of HEW, US Government Printing Office,  1963. 
+
+23.  Ross RK, McCurtis JW, Henderson BE et al. Descriptive epide- 
+miology of testicular and prostatic cancer in Los Angeles. Br J Cancer 
+1979; 39:284-292. 
+
+24.  Richardson  IM.  Prostatic cancer and social class. Br J Soc P r o  
+
+Med  1965; 19:140-142. 
+
+25.  Dorn HF, Cutler SJ. Morbidity from cancer in the United States. 
+In: US Public Health Service Monograph no. 56. Washington, D C  Gov- 
+ernment Printing Office,  1958. 
+
+26.  Seidman H. Cancer death rates by site and sex for religious and 
+socioeconomic groups in New York City. Environ Res 1970; 3:235-250. 
+27.  Emster VL, Winkelstein W, Selvin S  el a/. Race, socioeconomic 
+
+status and prostatic cancer. Cancer Treat Rep  1977; 61:187-191. 
+
+28.  Lilienfeld AM, Levin ML, Kessler 11. Cancer in the United States. 
+
+Cabridge, MA: Harvard University Press,  1972. 
+
+29.  Clemmesen  J. Statistical studies in malignant  neoplasms. Acta 
+
+Pathol Microbiol Scand [Suppo 1965; 174:348. 
+
+30.  Newell GR,  Pollack ES,  Spitz MR et  a/. Incidence of  prostate 
+
+cancer and marital status. J Nut1 Cancer Ins1 1987; 79:259-262. 
+
+3 I.  Greenwald P, Damon A, Kirmss V el  a/. Physical and demographic 
+features of men before developing cancer of the prostate. J Nut1 Cancer 
+Inst  1974; 53:341-346. 
+
+32.  Wynder EL, Mabuchi K, Whitmore WF Jr. Epidemiology of can- 
+
+cer of the prostate. Cancer 1971; 28:344-360. 
+
+33.  Lew EA, Garfinkel L.  Variations in mortality by  weight among 
+
+750,000 men and women. J  Chronic Dis  1979; 32:563-576. 
+
+34.  Talamini R, La Vecchia C, DeCarli A et a/. Nutrition, social factors 
+and prostatic cancer in a Northern Italian population. Br JCancer 1986; 
+5318 17-82 1. 
+
+35.  Metropolitan Life Insurance Company. New weight standards for 
+
+men and women. Stat Bull Metropol Life Ins Co 1959; 4O:l-4. 
+
+36.  Armenian HK, Lilienfeld AM, Diamond  EL et  al. Relation be- 
+tween benign  prostatic  hyperplasia and cancer of the prostate. Lancet 
+1977; 2:115-117. 
+37.  Sommers SC. Endocrine changes with prostatic carcinoma. Cancer 
+
+1957; 10~345-358. 
+
+38.  Greenwald  P,  Kirmss V,  Polan  A et  a/. Cancer of  the prostate 
+among men with benign prostatic hypertrophy. JNatl Cancer Inst 1974; 
+53~335-340. 
+
+39.  Bosland MC. Diet and cancer of the prostate: Epidemiologic and 
+experimental evidence. In: Reddy B, Cohen L, eds. Diet, Nutrition and 
+Cancer: A Critical Evaluation, vol.  1. Macronutrients and Cancer. Boca 
+Raton, F L  CRC Press,  1986, pp 126-149. 
+
+40.  Ross RK, Shimizu H, Paganini-Hill A et al. Case-control studies 
+of prostate cancer in blacks and whites in southern California. J  Natl 
+Cancer Inst  1987; 78:869-874. 
+
+41.  Ames BN. Dietary carcinogens and anticarcinogens. Science 1983; 
+
+221: 1256-1266. 
+
+

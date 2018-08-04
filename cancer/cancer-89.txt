@@ -1,0 +1,1066 @@
+Gastric Cancer (2007) 10: 75–83
+DOI 10.1007/s10120-007-0420-0
+
+Review article
+
+ 2007 by
+
+International and
+Japanese Gastric
+
+Cancer Associations
+
+Diet and the risk of gastric cancer: review of epidemiological evidence
+
+Shoichiro Tsugane and Shizuka Sasazuki
+
+Epidemiology and Prevention Division, Research Center for Cancer Prevention and Screening, National Cancer Center, 5-1-1 Tsukiji, 
+Chuo-ku, Tokyo 104-0045, Japan
+
+Abstract
+There are geographic and ethnic differences in the incidence 
+of gastric cancer around the world as well as with its trends 
+for  each  population  over  time.  The  incidence  patterns  ob-
+served  among  immigrants  change  according  to  where  they 
+live. All of these factors serve to indicate the close association 
+of  gastric  cancer  with  modiﬁ able  factors  such  as  diet.  This 
+review presents epidemiological evidence on the association 
+between dietary factors and gastric cancer based on previous 
+systematic  reviews  and  subsequent  updates.  Infection  with 
+Helicobacter pylori is a strong and established risk factor of 
+gastric cancer but is not a sufﬁ cient cause for its development. 
+Substantial evidence from ecological, case-control, and cohort 
+studies strongly suggests that the risk may be increased with 
+a high intake of various traditional salt-preserved foods and 
+salt per se and decreased with a high intake of fruit and vege-
+tables,  particularly  fruit.  However,  it  remains  unclear  which 
+constituents in fruit and vegetables play a signiﬁ cant role in 
+gastric cancer prevention. Among them, vitamin C is a plau-
+sible candidate supported by a relatively large body of epide-
+miological  evidence.  Consumption  of  green  tea  is  possibly 
+associated  with  a  decreased  risk  of  gastric  cancer,  although 
+the protective effects have been, for the most part, identiﬁ ed 
+in Japanese women, most of whom are nonsmokers. In con-
+trast, processed meat and N-nitroso compounds may be posi-
+tively associated with the risk of gastric cancer. In conclusion, 
+dietary modiﬁ cation by reducing salt and salted food intake, 
+as well as by increasing intake of fruit and vitamin C, repre-
+sents a practical strategy to prevent gastric cancer.
+
+Key  words  Stomach  neoplasms  ·  Diet  ·  Salt  ·  Helicobacter 
+pylori · Fruit and vegetables · Epidemiological studies
+
+Offprint requests to: S. Tsugane
+Received: March 8, 2007 / Accepted: April 15, 2007
+
+Introduction
+
+In  2000,  gastric  cancer  was  the  second  most  frequent 
+cause  of  cancer  death  worldwide  and  the  fourth  most 
+common cancer, with an estimated 650 000 deaths and 
+880 000 new cases per year. Almost two-thirds of these 
+new cases occurred in developing countries [1]. In Ja-
+pan, gastric cancer accounted for 51 000 deaths in 2004, 
+or 16% of all cancer deaths (Vital Statistics: Ministry of 
+Health,  Labor  and  Welfare,  Japan);  a  total  of  103 000 
+new cases were detected in 2000, or 19% of all incident 
+cancers [2]. The prevention of gastric cancer therefore 
+represents  one  of  the  most  important  aspects  of  any 
+cancer control strategy in Japan and around the world.
+There are geographic and ethnic differences in gastric 
+cancer incidence in the world and in its trends for each 
+population with time. The incidence patterns observed 
+among immigrants change according to where they live. 
+These  factors  indicate  the  close  association  of  gastric 
+cancer with modiﬁ able factors such as diet. Substantial 
+evidence from ecological, case-control, and cohort stud-
+ies strongly suggest that the risk of cancer increases with 
+a high intake of various traditional salt-preserved foods 
+as  well  as  salt  per  se  and  that  this  risk  could  be  de-
+creased with a high intake of fruit and vegetables [3,4]. 
+A recent report of a joint World Health Organization 
+(WHO)/Food  and  Agriculture  Organization  (FAO) 
+Expert Consultation concluded that salt-preserved food 
+and salt “probably” increase the risk of gastric cancer, 
+whereas  fruit  and  vegetables  “probably”  decrease  the 
+risk  [5].  Other  established  nondietary  factors  include 
+cigarette smoking [6] and infection with the bacterium 
+Helicobacter pylori (H. pylori) [7]. In addition, there is 
+some evidence that the intake of green tea and vitamin 
+C is associated with the risk of gastric cancer.
+
+In this review, we present epidemiological evidence 
+for the association between dietary factors and gastric 
+cancer, with particular reference to our recent work as 
+well as related articles.
+
+76 
+
+S. Tsugane and S. Sasazuki: Diet and the risk of gastric cancer
+
+Salt-preserved food and salt
+
+In experimental studies in rats, ingestion of salt is known 
+to cause gastritis and, on co-administration, to enhance 
+the  carcinogenic  effects  of  known  gastric  carcinogens 
+such as N-methyl-N-nitro-N-nitrosoguanidine (MNNG) 
+[8,9]. A high salt concentration in the stomach destroys 
+the mucosal barrier and leads to inﬂ ammation and dam-
+age such as diffuse erosion and degeneration. Further-
+more,  the  induced  proliferative  change  may  act  to 
+promote  the  effect  of  food-derived  carcinogens.  It  is 
+therefore biologically plausible that high salt intake in-
+creases the risk of gastric cancer in humans.
+
+Evidence from ecological studies
+
+There are substantial geographic differences in the in-
+cidence of and mortality associated with gastric cancer 
+worldwide, as well as nationwide in Japan. Using data 
+from  the  INTERSALT  study,  in  which  randomly 
+selected 24-h urine samples from 39 populations were 
+sampled  from  24  countries  (n  =  5756),  Joossens  and 
+colleagues  analyzed  median  sodium  levels  in  samples 
+from  subjects  aged  20–49  years  in  relation  to  the 
+national gastric cancer mortality rates [10]. For the 24 
+countries, the Pearson correlation of gastric cancer mor-
+tality with sodium was 0.70 in men and 0.74 in women 
+(both  P  <  0.001).  In  an  ecological  study  of  65  rural 
+counties  in  China,  the  consumption  of  salt-preserved 
+vegetables was correlated with gastric cancer mortality 
+(r = 0.26 in men, 0.36 in women) [11].
+
+Approximately 
+
+threefold  differences 
+
+in  age-
+standardized  mortality  rates  have  been  identiﬁ ed  in 
+Japan, with higher rates in Akita and Yamagata prefec-
+tures, lower rates in Kyushu district prefectures such as 
+Kagoshima and Miyazaki, and an especially low rate in 
+Okinawa  (Vital  Statistics:  Ministry  of  Health,  Labor 
+and  Welfare,  Japan).  Our  ecological  study  of  ﬁ ve  se-
+lected areas in Japan showed an almost linear correla-
+tion  between  the  cumulative  mortality  rate  for  gastric 
+cancer in subjects up to 75 years of age and the urinary 
+salt excretion level in 24-h urine samples [12,13].
+
+Both  age-adjusted  mortality  and  incidence  rates 
+have  been  decreasing  for  several  decades  in  Japan. 
+In the United States [14] and Europe [15], gastric can-
+cer used to be one of the most common cancers; how-
+ever, mortality rates have fallen dramatically over the 
+last 50 years in all Western countries without any spe-
+ciﬁ c intervention taken, and gastric cancer is now rare. 
+This  worldwide  decline  in  incidence  is  likely  attribut-
+able  to  the  spread  of  refrigeration,  the  use  of  which 
+would  inversely  correlate  with  salting  and  other  salt-
+based  methods  of  preservation  such  as  curing  and 
+smoking, and with the overall volume of salt in the diet 
+[3].
+
+Studies in migrants offer clues about the relative im-
+portance  of  genetic  and  environmental  factors  in  the 
+etiology of cancer and are particularly useful when large 
+differences  exist  between  the  original  and  host  coun-
+tries  in  incidence  and  lifestyle.  Age-adjusted  (world 
+population)  incidence  rates  of  gastric  cancer  among 
+Japanese residents in Hawaii (USA) were signiﬁ cantly 
+lower  than  in  Japan  among  both  men  and  women, 
+whereas  rates  in  São  Paulo,  Brazil,  were  relatively 
+similar to those in Japan [16]. These differences in inci-
+dence  among  three  Japanese  populations  suggest  that 
+lifestyle  changes,  mainly  dietary,  are  associated  with 
+a  decreased  risk  of  gastric  cancer  depending  on  the 
+degree  of  westernization  and  the  individual  incidence 
+rate  in  the  respective  host  country  (United  States  or 
+Brazil).
+
+According  to  cross-sectional  studies  of  randomly 
+selected  Japanese  Brazilians  in  the  city  of  São  Paulo 
+(1989)  and  Japanese  living  in  ﬁ ve  prefectures  across 
+Japan (1989–1991), the dietary habits of Japanese Bra-
+zilians have shifted toward the pattern seen in Western 
+countries  [17].  However,  Japanese  Brazilians  still 
+consumed  traditional  and  salted  Japanese  foods:  15% 
+of Japanese Brazilian men aged 40–49 years consumed 
+miso soup almost daily, and 4% consumed pickled veg-
+etables [18]. The degree of westernization was not strik-
+ing  when  compared  with  that  of  Japanese  Americans. 
+For example, only 2% of Japanese American men aged 
+45–69 years in Hawaii consumed miso soup almost daily 
+during the 1960s [19]. Furthermore, salt excretion levels 
+in 24-h urine samples among Japan-born male residents 
+aged  40–59  years  in  São  Paulo  were  14.0 g/day  for  21 
+volunteers originally from Iwate, Akita, and Nagasaki 
+prefectures  and  8.7 g/day  for  12  volunteers  from 
+Okinawa  Prefecture  (unpublished  data).  These  levels 
+were closely comparable with those seen in each prefec-
+ture in Japan.
+
+The  substantial  decrease  in  the  incidence  of  gastric 
+cancer among Japanese immigrants in the United States 
+and the minimal decrease among Japanese immigrants 
+in Brazil can be explained on the basis of the manner 
+in  which  they  continue  to  maintain  Japanese  dietary 
+habits, which are typically high in salt.
+
+Evidence from case-control studies
+
+Many but not all case-control studies have found a posi-
+tive association between gastric cancer and the intake 
+of  highly  salted  foods  such  as  salted  ﬁ sh,  cured  meat, 
+and salted vegetables or the use of table salt [4]. Several 
+studies  have  quantitatively  estimated  total  salt  intake 
+and found a strong positive association with the risk of 
+gastric cancer, and several others evaluated its associa-
+tion  with  the  intake  of  salted  food  such  as  salted  ﬁ sh 
+and  vegetables.  In  an  evaluation  performed  by  the 
+
+S. Tsugane and S. Sasazuki: Diet and the risk of gastric cancer 
+
+77
+
+World Cancer Research Fund (WCRF) and the Ameri-
+can Institute for Cancer Research (AICR) in 1997 [3], 
+16 case-control studies reported an association between 
+salt or salted food and the risk of gastric cancer. Eight 
+of these estimated overall dietary salt or sodium intake; 
+four showed strong statistically signiﬁ cant increases in 
+risk  [odds  ratio  (OR)  =  2.1–5.0  for  the  highest  intake 
+level], whereas the remaining four showed no substan-
+tial association. Six of sixteen studies speciﬁ cally exam-
+ined the use of table salt, with three reporting statistically 
+signiﬁ cant  increased  risks  (OR  =  1.6–6.2  for  highest 
+intakes)  and  two  nonsigniﬁ cant  ORs.  Several  recent 
+case-control  studies  have  also  revealed  an  association 
+between  salted  food  and  the  risk  of  gastric  cancer 
+[20–23].
+
+Evidence from cohort studies
+
+Prospective data are scarce, and only two studies were 
+evaluated in the 1997 report by the WCRF and AICR 
+[3]. One reported no association with the intake of table 
+salt or soy sauce, although the second found an associa-
+tion between salted ﬁ sh intake and an increased risk of 
+gastric cancer in white American men, largely of Scan-
+dinavian and German descent [relative risk (RR) = 1.9 
+for the highest intake level].
+
+Four  more  recent  studies  have  also  reported  this 
+association.  Ngoan  and  colleagues  examined  13 000 
+Japanese  men  and  women  and  identiﬁ ed  116  gastric 
+cancer deaths during a 10-year follow-up. Higher con-
+sumption  of  pickled  foods  and  traditional  soups  were 
+associated with increased risk, although without statisti-
+cal signiﬁ cance [24].
+
+The  Netherlands  Cohort  Study  examined  120 852 
+men and women and identiﬁ ed 282 gastric cancer cases 
+at a 6.3-year follow-up [25]. Salt intake was measured 
+by  calculating  the  mean  daily  sodium  intake  (dietary 
+salt) from 150 food items and by speciﬁ c questions re-
+lated to the consumption of salt. The intake of dietary 
+salt  and  several  types  of  cured  meat  showed  a  weak 
+positive association with the risk of gastric cancer.
+
+The Hisayama study examined 2476 men and women 
+and identiﬁ ed 93 gastric cancer cases during a 14-year 
+follow-up [26]. Dietary salt intake from a 70-item food 
+frequency  questionnaire  was  signiﬁ cantly  associated 
+with the risk of gastric cancer after considering H. pylori 
+infection.
+
+Our population-based prospective study examined a 
+total of 18 684 men and 20 381 women aged 40–59 years 
+and  documented  358  men  and  128  women  with  histo-
+logically conﬁ rmed gastric cancer during the 12 years of 
+follow-up [27]. After adjustment for potential confound-
+ing factors, the category salt intake by quintile was dose-
+dependently associated with the risk of gastric cancer in 
+men (for trend, P < 0.001), whereas no clear trend was 
+
+seen  in  women  (P  =  0.48).  The  weak  association  be-
+tween salt intake and gastric cancer in women may have 
+been due to the relatively low validity of the estimated 
+salt intake: the Spearman rank correlation with a 2-day 
+urinary excretion level was only 0.12 for women but 0.38 
+for  men.  Although  the  association  was  less  clear  for 
+miso  soup,  pickled  vegetables,  and  dried  ﬁ sh,  the  fre-
+quency categories of highly salted food (e.g., salted ﬁ sh 
+roe and salted ﬁ sh preserves) were strongly associated 
+with gastric cancer risk in both sexes.
+
+These ﬁ ndings imply that either the intake of highly 
+salted food increases the risk of gastric cancer or that it 
+is merely a good marker of a preference for salted food 
+or salt intake in general. An alternative explanation for 
+the  strong  association  between  highly  salted  food  and 
+gastric  cancer  might  involve  the  presence  of  chemical 
+carcinogens  such  as  N-nitroso  compounds,  which  are 
+formed by the reacting nitrate or nitrite during the pro-
+cess of preservation and during digestion in the stom-
+ach.  A  recent  meta-analysis  based  on  six  prospective 
+and nine case-control studies showed that the consump-
+tion of processed meat was associated with an increased 
+risk of gastric cancer [28]. Of note, processed meat often 
+contains  chemical  carcinogens  such  as  the  N-nitroso 
+compounds as well as high amounts of salt.
+
+Salt, salted food intake, and Helicobacter pylori 
+infection
+
+Infection with H. pylori is an established risk factor of, 
+but not a sufﬁ cient cause for, the development of gastric 
+cancer  [7,29].  It  is  important  to  elucidate  the  role  salt 
+and salted food play in the causal link between H. pylori 
+infection and gastric cancer.
+
+We  previously  tested  the  association  between  life-
+style factors and H. pylori infection in a cross-sectional 
+study of 634 men aged 40–49 years selected randomly 
+from ﬁ ve areas in Japan. A total of 474 of the 628 men 
+evaluated  were  positive  for  immunoglobulin  G  anti-
+body against the bacterium [30]. Intake of pickled veg-
+etables  was  positively  associated  with  the  prevalence 
+of  H.  pylori  (ORs  against  men  who  consume  <1  day/
+week = 1.19 for 1–2 days/week, 1.92 for 3–4 days/week, 
+and 1.90 for 5–7 days/week; for trend, P = 0.02), as was 
+the daily consumption of miso soup [OR against non-
+daily consumers = 1.60, 95% conﬁ dence interval (CI) = 
+1.03–2.49]. In contrast, occupation, number of siblings, 
+education,  smoking,  alcohol  consumption,  and  other 
+dietary habits were not signiﬁ cantly associated with the 
+prevalence  of  infection  in  this  population.  Although 
+there  are  limitations  to  cross-sectional  studies  such  as 
+this one, the consumption of salted food appears to in-
+crease the risk of H. pylori infection.
+
+Mucosal damage induced by salt and salted food may 
+increase  the  possibility  of  persistent  infection  with 
+
+78 
+
+S. Tsugane and S. Sasazuki: Diet and the risk of gastric cancer
+
+H. pylori [31]. Although salted food intake may increase 
+the risk of H. pylori infection, salt per se was shown to 
+act synergistically and dose-dependently to promote the 
+development  of  gastric  adenocarcinoma  in  Mongolian 
+gerbils  treated  with  N-methyl-N-nitrosourea  (MNU) 
+[32,33].  A  synergistic  exacerbatory  effect  of  H.  pylori 
+infection and salted food intake has also been reported 
+in case-control studies in Japan [34] and Korea [23].
+
+Infection with H. pylori, however, is by itself unlikely 
+to increase the intake of salted food, and H. pylori infec-
+tion therefore cannot act as a confounder in the causal 
+link  between  salt  and  salted  food  intake  and  gastric 
+cancer.  Restricting  salt  and  salted  food  intake  can,  at 
+the least, reduce the risk of gastric cancer.
+
+In summary, a large body of evidence from descrip-
+tive and analytical epidemiological studies on the asso-
+ciation between salt and salted food intake and the risk 
+of gastric cancer indicates that dietary modiﬁ cation to 
+reduce salt and salted food intake is probably protective 
+against gastric cancer even after considering H. pylori 
+infection.
+
+Fruit and vegetables
+
+Fruit  and  vegetables  are  rich  sources  of  carotenoids, 
+vitamin C, folate, and phytochemicals, which may have 
+a  protective  role  in  the  carcinogenesis  process.  It  is 
+likely  that  modulation  of  xenobiotic-metabolizing 
+enzymes, in particular phase II enzymes, contributes to 
+this putative preventive mechanism. The mechanisms of 
+antioxidant activity may be also possible.
+
+In 1997, an expert panel assembled by the WCRF and 
+AICR concluded that diets high in fruit and vegetables 
+“convincingly”  protect  against  gastric  cancer  [3].  This 
+evaluation was based mainly on reports of case-control 
+studies.  Since  then,  however,  several  cohort  studies 
+have reported conﬂ icting results. The joint WHO/FAO 
+Expert  Consultation  in  2003  concluded  that  fruit  and 
+vegetables “probably,” but not “convincingly,” decrease 
+the risk of gastric cancer [5].
+
+A subsequent report by the International Agency for 
+Research  on  Cancer  (IARC)  determined  that  higher 
+intake of fruit “probably” and higher intake of vegeta-
+bles “possibly” reduce the risk of gastric cancer [35]. For 
+fruit,  the  association  has  been  evaluated  in  10  cohort 
+studies, most of which reported an inverse association 
+with a summary value of 0.85 (95% CI = 0.77–0.95). In-
+verse  associations  were  more  striking  in  the  28  evalu-
+able  case-control  studies,  with  summary  ORs  of  0.63 
+(95%  CI  =  0.58–0.69).  For  vegetables,  the  association 
+has been evaluated in ﬁ ve cohort studies, most of which 
+reported  RRs  below  1.0.  However,  none  of  these  RR 
+values  were  statistically  signiﬁ cant,  and  the  summary 
+value was 0.94 (95% CI = 0.84–1.06). In contrast, most 
+
+of the 20 evaluable case-control studies provided statis-
+tically signiﬁ cant ORs below 1.0 and a summary value 
+of 0.66 (95% CI = 0.61–0.71). The reason case-control 
+studies were more likely to show an inverse association 
+is not clear, although one explanation might be the re-
+call bias inherent to case-control studies. Furthermore, 
+people  with  preclinical  symptoms  of  gastric  cancer  or 
+stomach  disorders  may  change  their  dietary  habits 
+months or years before diagnosis.
+
+A  meta-analysis  of  cohort  studies  published  up  to 
+2004  reported  nonsigniﬁ cant  summary  estimates  (RR 
+for the highest versus the lowest consumption category) 
+of 0.89 (95% CI = 0.78–1.02) for fruit (13 studies) and 
+0.98  (95%  CI  =  0.86–1.13)  for  vegetables  (8  studies) 
+[36]. However, the inverse associations became clearer 
+when the studies were limited to those with incidence 
+data  (seven  studies  for  fruit:  RR  =  0.82,  95% 
+CI =  0.73–0.93;  ﬁ ve  studies  for  vegetables:  RR =  0.88, 
+95% CI = 0.69–1.13) and with follow-up periods of 10 
+years or longer (three studies for fruit: RR = 0.66, 95% 
+CI = 0.52–0.83; two studies for vegetables: RR = 0.71, 
+95% CI = 0.53–0.94).
+
+Subsequent to the evaluation by the IARC [35] and 
+the  meta-analysis  of  Lunet  et  al.  [36],  several  cohort 
+studies have reported the association with fruit and veg-
+etables. In a study in Sweden (139 gastric cancer cases 
+among 70 000 men and women) [37], subjects who con-
+sumed 2.5 servings of vegetables or more per day had a 
+hazard  ratio  of  0.56  (95%  CI  =  0.34–0.93)  compared 
+with those who consumed less than 1.0 serving per day. 
+The respective hazard ratio for fruit consumption was 
+0.86 (95% CI = 0.52–1.43). In the European Prospective 
+Investigation  into  Cancer  and  Nutrition  (330  gastric 
+cancer  cases  among  520 000  men  and  women)  [38],  a 
+protective  role  for  vegetable  intake  was  observed  for 
+the  intestinal  type  of  gastric  cancer.  Citrus  fruit  con-
+sumption may play a role in protection against gastric 
+cardia cancer.
+
+In  our  cohort  study  with  400  gastric  cancer  cases 
+among  40 000  men  and  women,  the  RR  associated 
+ with intake 1 day or more per week compared with less 
+than 1 day per week was 0.64 (95% CI = 0.45–0.92) for 
+yellow vegetables, 0.48 (95% CI = 0.25–0.89) for white 
+vegetables, and 0.70 (95% CI = 0.49–1.00) for fruit. RRs 
+associated with the quintile of total vegetable consump-
+tion were 1.00, 0.86, 0.75, 0.90, and 0.75 (for trend, P = 
+0.17). This association became clearer for the differenti-
+ated type of gastric cancer, at 1.00, 0.96, 0.78, 0.88, and 
+0.53  (for  trend,  P  =  0.03).  These  ﬁ ndings  suggest  that 
+vegetable  and  fruit  intake,  even  in  relatively  low 
+amounts,  is  associated  with  a  lower  risk  of  gastric 
+cancer.
+
+In  summary,  consumption  of  fruit  and  vegetables, 
+particularly fruit, is probably protective against gastric 
+cancer.  Nevertheless,  it  remains  unknown  which  con-
+
+S. Tsugane and S. Sasazuki: Diet and the risk of gastric cancer 
+
+79
+
+stituents in fruit and vegetables play a signiﬁ cant role in 
+gastric cancer prevention.
+
+Vitamin C (ascorbic acid)
+
+Fruit  and  vegetables  are  rich  sources  of  vitamin  C. 
+Vitamin C acts as an antioxidant and can quench reac-
+tive oxygen species produced in the gastric environment 
+[39]; it is also known to inhibit production of carcino-
+genic N-nitroso compound in the stomach [40]. A pos-
+sible relation between H. pylori infection and ascorbic 
+acid is under investigation, as some research has indi-
+cated that high-dose vitamin C is effective in inhibiting 
+H. pylori infection [41,42].
+
+The  WCRF/AICR  report  [3]  concluded  that  high 
+dietary vitamin C intake probably decreases the risk of 
+gastric cancer. This conclusion is based on 1 of 2 cohort 
+studies  and  12  of  13  case-control  studies  showing 
+inverse  associations  between  dietary  vitamin  C  intake 
+and the risk of gastric cancer. In addition, one prospec-
+tive study showed that baseline plasma vitamin C levels 
+among subjects who died from gastric cancer (n = 20) 
+was  20%  lower  than  those  who  remained  cancer-free 
+(n  =  2421)  during  more  than  12  years  of  follow-up 
+[43].
+
+Since  then  a  limited  number  of  prospective  studies 
+have directly tested the association between dietary in-
+take or blood level of vitamin C and the risk of gastric 
+cancer.  Dietary  intake  from  comprehensive  food  fre-
+quency questionnaires was inversely associated with the 
+risk of noncardia gastric cancer (n = 179) during a me-
+dian follow-up of 12 years in Finnish male smokers [44] 
+and  with  the  risk  of  gastric  cancer  (n  =  282)  over  6.3 
+years in a Dutch cohort [45], with an inverse association, 
+albeit  diminished,  in  the  latter  study  after  excluding 
+cases diagnosed within 2 years of baseline.
+
+A  nested  case-control  study  in  the  European  Pro-
+spective Investigation into Cancer and Nutrition (EPIC) 
+compared the levels of dietary and prediagnostic plasma 
+vitamin  C  between  215  gastric  cancer  cases  and  416 
+matched controls [46]. No association with gastric can-
+cer risk was observed for dietary vitamin C, whereas an 
+inverse association was seen in the highest versus lowest 
+quartile  of  plasma  vitamin  C  (OR  =  0.55,  95%  CI  = 
+0.31–0.97; for trend, P = 0.04). This inverse association 
+was more pronounced in subjects consuming high levels 
+of red and processed meat, a factor that may increase 
+endogenous N-nitroso compound production. In a nest-
+ed case-control study in a cohort of 20 000 Chinese men 
+(191 cases and 570 matched controls), increased serum 
+levels of vitamin C were signiﬁ cantly associated with a 
+reduced risk of gastric cancer among never-smoker and 
+non-heavy-alcohol  drinking  men  (for  trend,  P  =  0.02) 
+[47].
+
+The use of vitamin C supplements was inversely and 
+nonsigniﬁ cantly associated with the risk of gastric can-
+cer mortality (n = 1725; RR = 0.83, 95% CI = 0.68–1.01) 
+among a million U.S. adults followed for 16 years (Can-
+cer Prevention Study II) [48]. However, the decrease in 
+risk was observed among users of shorter duration only, 
+not among those of longer duration.
+
+A  nutritional  intervention  trial  in  Linxian,  China, 
+showed that supplementation with β-carotene (15 mg), 
+α-tocopherol (30 mg), and selenium (50 µg) reduced the 
+risk of gastric cancer mortality by approximately 20% 
+after  5.25  years  [49].  Other  micronutrients,  including 
+vitamin C (120 mg), however, were associated with no 
+reduction. In contrast, a chemoprevention trial of gas-
+tric dysplasia in Colombia in which vitamin C supple-
+mentation  at  2 g/day  for  6  years  was  tested  as  one  of 
+three treatment regimens showed that vitamin C as well 
+as 30 mg β-carotene and anti-H. pylori therapy increased 
+the regression rate of gastric precancerous lesions [50].
+In  our  population-based,  double-blind,  randomized 
+controlled trial to examine the effect of 5 years of vita-
+min C supplementation, a statistically signiﬁ cant differ-
+ence was seen between the high-dose group (500 mg/day) 
+and the low-dose group (50 mg/day) (P = 0.046) in the 
+change in the pepsinogen I/pepsinogen II ratio, a mark-
+er of mucosal atrophic change in the stomach. This ﬁ nd-
+ing suggests that vitamin C supplementation may protect 
+against  the  progression  of  gastric  mucosal  atrophy 
+[51].
+
+In summary, when the relatively consistent epidemio-
+logical  evidence  and  biological  plausibility  are  consid-
+ered, dietary or supplemental vitamin C intake probably 
+decreases the risk of gastric cancer.
+
+Green tea and other beverages
+
+Green tea
+
+Green tea contains polyphenols, more commonly known 
+as  catechins.  Major  green  tea  catechins  include  (−)-
+epigallocatechin-3-gallate  (EGCG),  (−)-epigallocate-
+chin  (EGC),  (−)-epicatechin-3-gallate  (ECG),  and 
+(−)-epicatechin  (EC).  Antioxidant  activities  and  the 
+ability  to  inhibit  the  nitrosation  of  polyphenols  have 
+been isolated from green tea in both in vitro and in vivo 
+studies  [52–54].  In  addition,  recent  research  has  pro-
+posed many other possible mechanisms for the cancer-
+inhibitory effects of green tea, including modulation of 
+signal transduction pathways, leading to the inhibition 
+of  cell  proliferation  and  transformation,  induction  of 
+apoptosis and cell cycle arrest, and inhibition of tumor 
+invasion and angiogenesis [55–57].
+
+The  WCRF/AICR  report  [3]  included  ﬁ ve  case-
+control studies investigating the relation between green 
+
+80 
+
+S. Tsugane and S. Sasazuki: Diet and the risk of gastric cancer
+
+tea intake and gastric cancer risk. Among these studies, 
+four suggested a protective effect. Although a Japanese 
+study showed a signiﬁ cant decrease in risk only among 
+those  consuming  10  cups  or  more  per  day,  a  Chinese 
+study identiﬁ ed a clear dose relation. In contrast, a case-
+control  study  in  Japan  observed  no  material  associa-
+tions  for  green  tea.  Based  on  these  ﬁ ndings,  the 
+WCRF/AICR report concluded that high consumption 
+of  green  tea  “possibly”  decreases  the  risk  of  gastric 
+cancer.  More  recent  case-control  studies  have  also 
+shown  a  reduction  in  the  risk  with  green  tea  intake, 
+most with statistical signiﬁ cance [58–61].
+
+In  contrast  to  laboratory  studies  and  most  case-
+control  studies,  however,  all  but  one  recent  cohort 
+study have shown no protective effect of green tea for 
+gastric cancer [62–65]. In a population-based prospec-
+tive study conducted in Miyagi Prefecture in northern 
+Japan,  the  RRs  associated  with  drinking  one  or  two, 
+three  or  four,  and  ﬁ ve  or  more  cups  of  green  tea  per 
+day, as compared with less than one cup per day, were 
+1.3 (95% CI = 0.8–1.9), 1.2 (95% CI = 0.8–1.8), and 1.5 
+(95% CI = 1.0–2.1), respectively, in men (for trend, P 
+=  0.03),  and  0.8  (95%  CI  =  0.5–1.5),  0.7  (95%  CI  = 
+0.4–1.3),  and  0.8  (95%  CI  =  0.5–1.3),  respectively,  in 
+women (for trend, P = 0.46) [62]. In a nationwide mul-
+ticenter  prospective  study,  no  inverse  association  was 
+found between green tea consumption and gastric can-
+cer death, with the risks associated with drinking 1 or 
+2, 3 or 4, 5–9, and ≥ 10 cups of green tea per day, rela-
+tive to those of drinking less than 1 cup per day, of 1.6 
+(95%  CI =  0.9–2.9),  1.1  (95%  CI =  0.6–1.9),  1.0  (95% 
+CI = 0.5–2.0), and 1.0 (95% CI = 0.5–2.0), respectively, 
+in men (for trend, P = 0.669), and 1.1 (95% CI = 0.5–
+2.5),  1.0  (95%  CI  =  0.5–2.5),  0.8  (95%  CI  =  0.4–1.6), 
+and 0.8 (95% CI = 0.3–2.1), respectively, in women (for 
+trend,  P  =  0.448)  [63].  Furthermore,  green  tea  con-
+sumption  was  virtually  unrelated  to  the  incidence  of 
+any  cancer,  including  gastric  cancer,  in  a  follow-up 
+study  of  atomic  bomb  survivors  in  Hiroshima  and 
+Nagasaki [64].
+
+In our cohort study, among 73 000 subjects with 890 
+gastric cancers, although no association between green 
+tea consumption and gastric cancer was observed among 
+men, decreased risk was suggested in women, with RRs 
+and 95% CI for one or two, three or four, and ﬁ ve or 
+more cups per day compared to less than one cup per 
+day of 0.85 (95% CI = 0.53–1.38), 1.04 (95% CI = 0.68–
+1.58), and 0.67 (95% CI = 0.43–1.04), respectively (for 
+trend,  P  =  0.08)  [65].  This  association  was  further 
+strengthened  when  cancer  was  restricted  to  the  distal 
+portion,  with  a  RR  of  0.51  (95%  CI  =  0.30–0.86)  for 
+consumption  of  ﬁ ve  or  more  cups  of  green  tea  (for 
+trend, P = 0.01). These results are consistent with those 
+of  previous  prospective  studies  in  that  decreased  risk 
+was more apparent in women.
+
+In summary, consumption of green tea is possibly as-
+sociated with decreased risk of gastric cancer, especially 
+in  Japanese  women,  most  of  whom  are  nonsmokers. 
+Further  prospective  studies  with  detailed  information 
+are  needed  to  clarify  the  role  of  green  tea  on  gastric 
+carcinogenesis.
+
+Black tea and coffee
+
+Although  catechin  levels  in  black  tea  are  only  about 
+30%  of  those  in  green  tea,  the  inhibitory  activity  of 
+black tea against tumorigenesis has been shown to be 
+comparable to that of green tea in several animal mod-
+els [66]. Most of three prospective studies and 12 case-
+control studies showed no association with the risk of 
+gastric cancer. Thus, the WCRF/AICR found that high 
+consumption of black tea “probably” has no association 
+with the risk of gastric cancer [3]. Only one prospective 
+study  in  Japan  has  been  conducted  since  then,  and  it 
+showed  a  nonsigniﬁ cant  increase  in  the  risk  of  gastric 
+cancer  among  women  who  drink  black  tea  more  than 
+several times per week [67]. It is possible that lifestyle, 
+which was not investigated in this study, was associated 
+with the increased risk of gastric cancer. Thus, the evi-
+dence is less clear for black tea than for green tea.
+
+Caffeine,  kahweol,  and  cafestol  in  coffee  may  con-
+tribute to a protective effect against cancer [68]. Based 
+on  the  evaluation  of  two  prospective  and  eight  case-
+control studies, which showed no statistically signiﬁ cant 
+association  between  coffee  consumption  and  gastric 
+cancer, the WCRF/AICR concluded that high consump-
+tion of coffee “probably” has no relation with the risk 
+of gastric cancer [3]. In a more recent systematic review 
+and meta-analysis of 23 studies (7 cohort studies and 16 
+case-control studies) [68], coffee intake showed no ef-
+fect on gastric cancer when all studies were combined 
+(OR = 0.97, 95% CI = 0.86–1.09), with a combined risk 
+estimate of 1.02 (95% CI = 0.76–1.37) for cohort studies, 
+0.90  (95%  CI  =  0.70–1.15)  for  population-based  case-
+control studies, and 0.97 (95% CI = 0.83–1.13) for hos-
+pital-based  case-control  studies.  Notwithstanding  that 
+risk estimates differed signiﬁ cantly according to country 
+of  origin,  with  North  American  studies  presenting  a 
+signiﬁ cantly  higher  risk,  this  meta-analysis  showed  no 
+overall  effect  of  coffee  consumption  on  gastric  cancer 
+risk.
+
+In summary, there is no apparent evidence that black 
+tea or coffee consumption has any effect on the risk of 
+gastric cancer.
+
+Conclusions
+
+Although the eradication of H. pylori may be a promis-
+ing strategy for gastric cancer prevention, most middle-
+
+S. Tsugane and S. Sasazuki: Diet and the risk of gastric cancer 
+
+81
+
+aged and elderly Japanese are already infected with this 
+pathogen  [30].  The  worldwide  decrease  in  the  age-
+adjusted  incidence  of  gastric  cancer  over  the  last  50 
+years occurred without any intentional H. pylori infec-
+tion  eradication  program.  Rather,  and  perhaps  more 
+importantly, it can be related to decreased intake of salt 
+and salted food and increased intake of fresh fruit and 
+vegetables,  which  arose  subsequent  to  the  mass  avail-
+ability of refrigeration. Dietary modiﬁ cation to reduce 
+salt  and  salted  food  intake  and  to  increase  intake  of 
+fruit, particularly vitamin C — as well as quitting smok-
+ing — represents an effective, practical, low-cost means 
+of preventing gastric cancer.
+
+Acknowledgments This study was supported by Grants-
+in-aid  for  Cancer  Research,  for  the  Third  Term 
+Comprehensive Ten-Year Strategy for Cancer Control, 
+and for Risk Analysis Research on Food and Pharma-
+ceuticals  from  the  Ministry  of  Health,  Labor  and 
+Welfare  of  Japan,  and  for  Scientiﬁ c  Research  from 
+the  Ministry  of  Education,  Culture,  Sports,  Science, 
+and Technology.
+
+References
+
+  1.  Stewart  BW,  Kleihues  P,  editors.  World  Cancer  Report.  Lyon: 
+
+IARC Press; 2003.
+
+  2.  Marugame  T,  Kamo  K,  Katanoda  K,  Ajiki  W,  Sobue  T.  Japan 
+Cancer  Surveillance  Research  Group.  Cancer  incidence  and 
+incidence  rates  in  Japan  in  2000:  estimates  based  on  data  from 
+11  population-based  cancer  registries.  Jpn  J  Clin  Oncol  2006;
+36:668–75.
+
+  3.  World  Cancer  Research  Fund,  American  Institute  for  Cancer 
+Research. Food, nutrition and the prevention of cancer: a global 
+perspective.  Washington,  DC:  American  Institute  for  Cancer 
+Research; 1997.
+
+  4.  Kono  S,  Hirohata  T.  Nutrition  and  stomach  cancer.  Cancer 
+
+Causes Control 1996;7:41–55.
+
+  5.  World Health Organization. Diet, nutrition and the prevention of 
+chronic  diseases.  WHO  technical  report  series  916.  Geneva: 
+World Health Organization; 2003.
+
+  6.  International Agency for Research on Cancer. Tobacco smoking 
+and tobacco smoke. IARC monographs on the evaluation of the 
+carcinogenic risk of chemicals to humans. Vol. 83. Lyon: Interna-
+tional Agency for Research on Cancer; 2004.
+
+  7.  International Agency for Research on Cancer. Schistosomes, liver 
+ﬂ ukes, and Helicobacter pylori. IARC monographs on the evalu-
+ation  of  carcinogenic  risks  to  humans.  Vol.  61.  Lyon:  Interna-
+tional Agency for Research on Cancer; 1994.
+
+  8.  Tatematsu M, Takahashi M, Fukushima S, Hananouchi M, Shirai 
+T. Effects in rats of salt on experimental gastric cancers induced 
+by  N-methyl-N-nitro-N-nitrosoguanidine  or  4-nitroquinoline-1-
+oxide. J Natl Cancer Inst 1975;55:101–6.
+
+  9.  Takahashi M, Hasegawa R. Enhancing effects of dietary salt on 
+both initiation and promotion stages of rat gastric carcinogenesis. 
+Princess Takamatsu Symp 1985;16:169–82.
+
+10.  Joossens JV, Hill MJ, Elliott P, Stamler R, Lesaffre E, Dyer A, 
+et  al.  Dietary  salt,  nitrate  and  stomach  cancer  mortality  in  24 
+countries: European Cancer Prevention (ECP) and the INTER-
+SALT  Cooperative  Research  Group.  Int  J  Epidemiol  1996;25:
+494–504.
+
+11.  Kneller RW, Guo WD, Hsing AW, Chen JS, Blot WJ, Li JY, et 
+al. Risk factors for stomach cancer in sixty-ﬁ ve Chinese counties. 
+Cancer Epidemiol Biomarkers Prev 1992;1:113–18.
+
+12.  Tsugane  S,  Gey  F,  Ichinowatari  Y,  Miyajima  Y,  Ishibashi  T, 
+Matsushima S, et al. Cross-sectional epidemiologic study for as-
+sessing cancer risks at the population level. I. Study design and 
+participation rate. J Epidemiol 1992;2:75–81.
+
+13.  Tsugane  S,  Gey  F,  Ichinowatari  Y,  Miyajima  Y,  Ishibashi  T, 
+Matsushima  S,  et  al.  Cross-sectional  epidemiologic  study  for 
+assessing  cancer  risks  at  the  population  level.  II.  Baseline  data 
+and correlation analysis. J Epidemiol 1992;2:83–9.
+
+14.  National Cancer Institute. Cancer rates and risks: cancer mortal-
+ity 
+in  the  United  States,  1950–91.  Changing  pattern  for 
+major  cancers.  http://seer.cancer.gov/publications/raterisk/index.
+html/.
+
+15.  La Vecchia C, Franceschi S, Levi F. Epidemiological research on 
+cancer  with  a  focus  on  Europe.  Eur  J  Cancer  Prev  2003;12:
+5–14.
+
+16.  Tsugane  S,  de  Souza  JM,  Costa  ML  Jr,  Mirra  AP,  Gotlieb  SL, 
+Laurenti R, et al. Cancer incidence rates among Japanese immi-
+grants  in  the  city  of  Sao  Paulo,  Brazil,  1969–78.  Cancer  Causes 
+Control 1990;1:189–93.
+
+17.  Tsugane S, Hamada GS, Souza JM, Gotlieb SLD, Takashima Y, 
+Todoriki H, et al. Lifestyle and health related factors among ran-
+domly selected Japanese residents in the city of Sao Paulo, Brazil, 
+and  their  comparisons  with  Japanese  in  Japan.  J  Epidemiol 
+1994;4:37–46.
+
+18.  Tsugane S, Hamada GS, Karita K, Tsubono Y, Laurenti R. Can-
+cer patterns and lifestyle among Japanese immigrants and their 
+descendants in the city of Sao Paulo, Brazil. Gann Monogr Cancer 
+Res 1996;44:43–50.
+
+19.  Severson  RK,  Nomura  AM,  Grove  JS,  Stemmermann  GN.  A 
+prospective  study  of  demographics,  diet,  and  prostate  cancer 
+among  men  of  Japanese  ancestry  in  Hawaii.  Cancer  Res  1989;
+49:1857–60.
+
+20.  Ye WM, Yi YN, Luo RX, Zhou TS, Lin RT, Chen GD. Diet and 
+gastric  cancer:  a  case-control  study  in  Fujian  Province,  China. 
+World J Gastroenterol 1998;4:516–18.
+
+21.  Ward  MH,  Lopez-Carrillo  L.  Dietary  factors  and  the  risk  of 
+gastric  cancer  in  Mexico  City.  Am  J  Epidemiol  1999;149:
+925–32.
+
+22.  Kim HJ, Chang WK, Kim MK, Lee SS, Choi BY. Dietary factors 
+and  gastric  cancer  in  Korea:  a  case-control  study.  Int  J  Cancer 
+2002;97:531–5.
+
+23.  Lee SA, Kang D, Shim KN, Choe JW, Hong WS, Choi H. Effect 
+of diet and Helicobacter pylori infection to the risk of early gastric 
+cancer. J Epidemiol 2003;13:162–8.
+
+24.  Ngoan LT, Mizoue T, Fujino Y, Tokui N, Yoshimura T. Dietary 
+factors  and  stomach  cancer  mortality.  Br  J  Cancer  2002;87:
+37–42.
+
+25.  Van den Brandt PA, Botterweck AA, Goldbohm RA. Salt intake, 
+cured  meat  consumption,  refrigerator  use  and  stomach  cancer 
+incidence:  a  prospective  cohort  study  (Netherlands).  Cancer 
+Causes Control 2003;14:427–38.
+
+26.  Shikata  K,  Kiyohara  Y,  Kubo  M,  Yonemoto  K,  Ninomiya  T, 
+Shirota  T,  et  al.  A  prospective  study  of  dietary  salt  intake  and 
+gastric  cancer  incidence  in  a  deﬁ ned  Japanese  population:  the 
+Hisayama study. Int J Cancer 2006;119:196–201.
+
+27.  Tsugane  S,  Sasazuki  S,  Kobayashi  M,  Sasaki  S,  JPHC  Study 
+Group. Salt and salted food intake and subsequent risk of gastric 
+cancer  among  middle-aged  Japanese  men  and  women.  Br  J 
+Cancer 2004;90:128–34.
+
+28.  Larsson SC, Orsini N, Wolk A. Processed meat consumption and 
+stomach cancer risk: a meta-analysis. J Natl Cancer Inst 2006;98:
+1078–87.
+
+29.  Helicobacter  and  Cancer  Collaborative  Group.  Gastric  cancer 
+and  Helicobacter  pylori:  a  combined  analysis  of  12  case-control 
+studies  nested  within  prospective  cohorts.  Gut  2001;49:347–
+53.
+
+82 
+
+S. Tsugane and S. Sasazuki: Diet and the risk of gastric cancer
+
+30.  Tsugane S, Tei Y, Takahashi T, Watanabe S, Sugano K. Salty food 
+intake and risk of Helicobacter pylori infection. Jpn J Cancer Res 
+1994;85:474–8.
+
+31.  Fox  JG,  Dangler  CA,  Taylor  NS,  King  A,  Koh  TJ,  Wang  TC. 
+High-salt diet induces gastric epithelial hyperplasia and parietal 
+cell loss, and enhances Helicobacter pylori colonization in C57BL/6 
+mice. Cancer Res 1999;59:4823–8.
+
+32.  Nozaki K, Shimizu N, Inada K, Tsukamoto T, Inoue M, Kumagai 
+T, et al. Synergistic promoting effects of Helicobacter pylori infec-
+tion  and  high-salt  diet  on  gastric  carcinogenesis  in  Mongolian 
+gerbils. Jpn J Cancer Res 2002;93:1083–9.
+
+33.  Kato S, Tsukamoto T, Mizoshita T, Tanaka H, Kumagai T, Ota 
+H, et al. High salt diets dose-dependently promote gastric chemi-
+cal carcinogenesis in Helicobacter pylori-infected Mongolian ger-
+bils associated with a shift in mucin production from glandular to 
+surface mucous cells. Int J Cancer 2006;119:1558–66.
+
+34.  Machida-Montani A, Sasazuki S, Inoue M, Natsukawa S, Shaura 
+K, Koizumi Y, et al. Association of Helicobacter pylori infection 
+and environmental factors in non-cardia gastric cancer in Japan. 
+Gastric Cancer 2004;7:46–53.
+
+35.  International Agency for Research on Cancer. Fruit and vegeta-
+bles. IARC handbooks of cancer prevention. Vol. 8. Lyon: IARC; 
+2003.
+
+36.  Lunet  N,  Lacerda-Vieira  A,  Barros  H.  Fruit  and  vegetables 
+consumption  and  gastric  cancer:  a  systematic  review  and  meta-
+analysis of cohort studies. Nutr Cancer 2005;53:1–10.
+
+37.  Larsson SC, Bergkvist L, Wolk A. Fruit and vegetable consump-
+tion and incidence of gastric cancer: a prospective study. Cancer 
+Epidemiol Biomarkers Prev 2006;15:1998–2001.
+
+38.  Gonzalez CA, Pera G, Agudo A, Bueno-de-Mesquita HB, Ceroti 
+M,  Boeing  H,  et  al.  Fruit  and  vegetable  intake  and  the  risk  of 
+stomach  and  oesophagus  adenocarcinoma  in  the  European 
+Prospective  Investigation  into  Cancer  and  Nutrition  (EPIC-
+EURGAST). Int J Cancer. 2006;118:2559–66.
+
+39.  Drake  IM,  Davies  MJ,  Mapstone  NP,  Dixon  MF,  Schorah  CJ, 
+White KL, et al. Ascorbic acid may protect against human gastric 
+cancer  by  scavenging  mucosal  oxygen  radicals.  Carcinogenesis 
+1996;17:559–62.
+
+40.  Tannenbaum  SR,  Wishnok  JS,  Leaf  CD.  Inhibition  of  nitrosa-
+mine  formation  by  ascorbic  acid.  Am  J  Clin  Nutr  1991;53:
+247S–50S.
+
+41.  Zhang HM, Wakisaka N, Maeda O, Yamamoto T. Vitamin C in-
+hibits the growth of a bacterial risk factor for gastric carcinoma: 
+Helicobacter pylori. Cancer 1997;80:1897–903.
+
+42.  Jarosz  M,  Dzieniszewski  J,  Ufniarz  ED,  Wartanowicz  M, 
+Ziemlanski S, Reed PI. Effects of high dose vitamin C treatment 
+on Helicobacter pylori infection and total vitamin C concentration 
+in gastric juice. Eur J Cancer Prev 1998;7:449–54.
+
+43.  Stahelin  HB,  Gey  KF,  Eichholzer  M,  Ludin  E,  Bernasconi  F, 
+Thurneysen J, et al. Plasma antioxidant vitamins and subsequent 
+cancer mortality in the 12-year follow-up of the prospective Basel 
+study. Am J Epidemiol 1991;133:766–75.
+
+44.  Nouraie  M,  Pietinen  P,  Kamangar  F,  Dawsey  SM,  Abnet  CC, 
+Albanes D, et al. Fruits, vegetables, and antioxidants and risk of 
+gastric cancer among male smokers. Cancer Epidemiol Biomark-
+ers Prev 2005;14:2087–92.
+
+45.  Botterweck AA, van den Brandt PA, Goldbohm RA. Vitamins, 
+carotenoids,  dietary  ﬁ ber,  and  the  risk  of  gastric  carcinoma:  re-
+sults from a prospective study after 6.3 years of follow-up. Cancer 
+2000;88:737–48.
+
+46.  Jenab  M,  Riboli  E,  Ferrari  P,  Sabate  J,  Slimani  N,  Norat  T, 
+et  al.  Plasma  and  dietary  vitamin  C  levels  and  risk  of  gastric 
+cancer  in  the  European  Prospective  Investigation  into  Cancer 
+and  Nutrition  (EPIC-EURGAST).  Carcinogenesis  2006;27:
+2250–7.
+
+47.  Yuan JM, Ross RK, Gao YT, Qu YH, Chu XD, Yu MC. Predi-
+agnostic  levels  of  serum  micronutrients  in  relation  to  risk  of 
+gastric cancer in Shanghai, China. Cancer Epidemiol Biomarkers 
+Prev 2004;13:1772–80.
+
+48.  Jacobs  EJ,  Connell  CJ,  McCullough  ML,  Chao  A,  Jonas  CR, 
+Rodriguez C, et al. Vitamin C, vitamin E, and multivitamin sup-
+plement use and stomach cancer mortality in the Cancer Preven-
+tion  Study  II  cohort.  Cancer  Epidemiol  Biomarkers  Prev  2002;
+11:35–41.
+
+49.  Blot WJ, Li JY, Taylor PR, Guo W, Dawsey S, Wang GQ, et al. 
+Nutrition intervention trials in Linxian, China: supplementation 
+with speciﬁ c vitamin/mineral combinations, cancer incidence, and 
+disease-speciﬁ c mortality in the general population. J Natl Cancer 
+Inst 1993;85:1483–92.
+
+50.  Correa P, Fontham ET, Bravo JC, Bravo LE, Ruiz B, Zarama G, 
+et al. Chemoprevention of gastric dysplasia: randomized trial of 
+antioxidant  supplements  and  anti-Helicobacter  pylori  therapy. 
+J Natl Cancer Inst 2000;92:1881–8.
+
+51.  Sasazuki S, Sasaki S, Tsubono Y, Okubo S, Hayashi M, Kakizoe 
+T, et al. The effect of 5-year vitamin C supplementation on serum 
+pepsinogen  level  and  Helicobacter  pylori  infection.  Cancer  Sci 
+2003;94:378–82.
+
+52.  Wang ZY, Cheng SJ, Zhou ZC, Athar M, Khan WA, Bickers DR, 
+et al. Antimutagenic activity of green tea polyphenols. Mutat Res 
+1989;223:273–85.
+
+53.  Xu Y, Ho CT, Amin SG, Han C, Chung FL. Inhibition of tobacco-
+speciﬁ c  nitrosamine-induced  lung  tumorigenesis  in  A/J  mice  by 
+green tea and its major polyphenols as antioxidants. Cancer Res 
+1992;52:3875–9.
+
+54.  Wang ZY, Hong JY, Huang MT, Reuhl KR, Conney AH, Yang 
+CS.  Inhibition  of  N-nitrosodiethylamine  and  4-(methylnitro-
+samino)-1-(3-pyridyl)-1-butanone-induced  tumorigenesis  in  A/J 
+mice by green tea and black tea. Cancer Res 1992;52:1943–7.
+
+55.  Yang  CS,  Maliakal  P,  Meng  X.  Inhibition  of  carcinogenesis  by 
+
+tea. Annu Rev Pharmacol Toxicol 2002;42:25–54.
+
+56.  Moyers  SB,  Kumar  NB.  Green  tea  polyphenols  and  cancer 
+chemoprevention: multiple mechanisms and endpoints for phase 
+II trials. Nutr Rev 2004;62:204–11.
+
+57.  Mukhtar H, Ahmad N. Tea polyphenols: prevention of cancer and 
+
+optimizing health. Am J Clin Nutr 2000;71(suppl):698S–702S.
+
+58.  Ji BT, Chow WH, Yang G, McLaughlin JK, Gao RN, Zheng W, 
+et al. The inﬂ uence of cigarette smoking, alcohol, and green tea 
+consumption  on  the  risk  of  carcinoma  of  the  cardia  and  distal 
+stomach in Shanghai, China. Cancer 1996;77:2449–57.
+
+59.  Inoue M, Tajima K, Hirose K, Hamajima N, Takezaki T, Kuroishi 
+T, et al. Tea and coffee consumption and the risk of digestive tract 
+cancers:  data  from  a  comparative  case-referent  study  in  Japan. 
+Cancer Causes Control 1998;9:209–16.
+
+60.  Setiawan VW, Zhang ZF, Yu GP, Lu QY, Li YL, Lu ML, et al. 
+Protective effect of green tea on the risks of chronic gastritis and 
+stomach cancer. Int J Cancer 2001;92:600–4.
+
+61.  Takezaki T, Gao CM, Wu JZ, Ding JH, Liu YT, Zhang Y, et al. 
+Dietary  protective  and  risk  factors  for  esophageal  and  stomach 
+cancers  in  a  low-epidemic  area  for  stomach  cancer  in  Jiangsu 
+Provance, China: comparison with those in a high-epidemic area. 
+Jpn J Cancer Res 2001;92:1157–65.
+
+62.  Tsubono Y, Nishino Y, Komatsu S, Hsieh CC, Kanemura S, Tsuji 
+I, et al. Green tea and the risk of gastric cancer in Japan. N Engl 
+J Med 2001;344:632–6.
+
+63.  Hoshiyama  Y,  Kawaguchi  T,  Miura  Y,  Mizoue  T,  Tokui  N, 
+Yatsuya H, et al. A prospective study of stomach cancer death in 
+relation to green tea consumption in Japan. Br J Cancer 2002;87:
+309–13.
+
+64.  Nagano J, Kono S, Preston DL, Mabuchi K. A prospective study 
+of green tea consumption and cancer incidence, Hiroshima and 
+Nagasaki, Japan. Cancer Causes Control 2001;15:501–8.
+
+65.  Sasazuki  S,  Inoue  M,  Hanaoka  T,  Yamamoto  S,  Sobue  T, 
+Tsugane S. Green tea consumption and subsequent risk of gastric 
+cancer by subsite: the JPHC study. Cancer Causes Control 2004;
+15:483–91.
+
+66.  Yang CS, Lee MJ, Chen L, Yang GY. Polyphenols as inhibitors 
+of  carcinogenesis.  Environ  Health  Perspect  1997;105(suppl  4):
+971–6.
+
+S. Tsugane and S. Sasazuki: Diet and the risk of gastric cancer 
+
+83
+
+67.  Khan  MMH,  Goto  R,  Kobayashi  K,  Suzumura  S,  Nagata  Y, 
+Sonoda T, et al. Dietary habits and cancer mortality among mid-
+dle aged and older Japanese living in Hokkaido, Japan by cancer 
+site and sex. Asian Pac J Cancer Prev 2004;5:58–65.
+
+68.  Botelho F, Lunet N, Barros H. Coffee and gastric cancer: system-
+atic  review  and  meta-analysis.  Cad  Saude  Publica  2006;22:
+889–900.
+
+

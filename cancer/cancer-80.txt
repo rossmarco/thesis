@@ -1,0 +1,1896 @@
+Int. J. Cancer: 119, 2657–2664 (2006)
+' 2006 Wiley-Liss, Inc.
+
+Meat consumption and risk of colorectal cancer: A meta-analysis
+of prospective studies
+
+Susanna C. Larsson* and Alicja Wolk
+Division of Nutritional Epidemiology, The National Institute of Environmental Medicine, Karolinska Institutet, Stockholm, Sweden
+
+Accumulating epidemiologic evidence indicates that high con-
+sumption of red meat and of processed meat may increase the risk
+of colorectal cancer. We quantitatively assessed the association
+between red meat and processed meat consumption and the risk
+of colorectal cancer in a meta-analysis of prospective studies pub-
+lished through March 2006. Random-effects models were used to
+pool study results and to assess dose-response relationships. We
+identiﬁed 15 prospective studies on red meat (involving 7,367
+cases) and 14 prospective studies on processed meat consumption
+(7,903 cases). The summary relative risks (RRs) of colorectal can-
+cer for the highest vs. the lowest intake categories were 1.28 (95%
+conﬁdence interval (CI) 5 1.15–1.42) for red meat and 1.20 (95%
+CI 5 1.11–1.31) for processed meat. The estimated summary RRs
+were 1.28 (95% CI 5 1.18–1.39) for an increase of 120 g/day of red
+meat and 1.09 (95% CI 5 1.05–1.13) for an increase of 30 g/day of
+processed meat. Consumption of red meat and processed meat
+was positively associated with risk of both colon and rectal cancer,
+although the association with red meat appeared to be stronger
+for rectal cancer. In 3 studies that reported results for subsites in
+the colon, high consumption of processed meat was associated with
+an increased risk of distal colon cancer but not of proximal colon
+cancer. The results of this meta-analysis of prospective studies
+support the hypothesis that high consumption of red meat and of
+processed meat is associated with an increased risk of colorectal
+cancer.
+' 2006 Wiley-Liss, Inc.
+
+Key words: cohort studies; meat; meta-analysis; prospective studies;
+systematic review
+
+High consumption of red meat and processed meat has been
+associated with increased risk of colorectal cancer in many epide-
+miologic studies, although the associations were usually not statis-
+tically signiﬁcant. A meta-analysis of prospective studies pub-
+lished through June 1999 reported that a daily increase of 100 g of
+red meat or 25 g of processed meat was associated with a 17% and
+49%, respectively, increased risk of colorectal cancer.1 Similar
+associations between red meat and processed meat consumption
+with colorectal cancer risk were found in another meta-analysis,2
+which included both case–control and prospective studies publish-
+ed through 1999. These 2 meta-analyses did not report prospective
+results for colon and rectal cancer separately, and there is evidence
+that colon and rectal cancers as well as those in the proximal and
+distal colon may have distinct etiologies.3–5
+
+Ten prospective studies4–13 have since 1999 been published on
+red meat and/or processed meat consumption in relation to risk of
+colorectal cancer. The current meta-analysis updates and expands
+the previous meta-analyses1,2 to include all prospective studies on
+this issue published through March 2006. This meta-analysis
+includes up to 6 times as many cases of colorectal cancer as the 2
+earlier meta-analyses, thus providing more precise risk estimates.
+Herein, we also report summary results for colon and rectal cancer
+separately as well as for subsites in the colon (i.e., proximal and
+distal colon).
+
+Material and methods
+Assembly of literature
+
+To be included in this meta-analysis, studies had to (i) use a
+prospective study design and (ii) provide relative risks with corre-
+sponding conﬁdence intervals (or data to calculate them) of the
+association of red meat or processed meat consumption with
+
+Publication of the International Union Against Cancer
+
+incidence of or mortality from colon, rectal or colorectal cancer.
+We omitted studies that reported results only for total meat
+(including chicken or ﬁsh). Studies were identiﬁed by searching
+MEDLINE for literature published in any language from 1966
+through March 2006, using the search terms meat, foods, diet, colo-
+rectal, colon, rectal, cancer, neoplasm, prospective, cohort and
+exploded variants. References in the retrieved publications as well
+as those in previous meta-analyses,1,2 were checked for any other
+pertinent studies.
+
+We identiﬁed 23 publications that reported results from prospec-
+tive studies on red meat and/or processed meat consumption in
+relation to risk of colon or colorectal cancer.4–26 Four publica-
+tions14–17 were excluded because they were superseded by later
+publication.4,6,9 There were 2 publications based on the Iowa
+Women’s Health.18,25 The earlier publication by Bostick et al.18
+was included in the meta-analysis because this study focused on
+meat consumption and adjusted for more covariates than the latter
+publication by Sellers et al.25 (the latter publication presented
+results stratiﬁed by family history of colon cancer25). The remain-
+ing 18 publications4–13,18–24,26 were included in the meta-analysis.
+
+Data extraction
+
+We extracted the following data from each publication: the ﬁrst
+author’s last name, the year of publication, the country in which
+the study was performed, the sample size, the age of the partici-
+pants at cohort entry, the method of assessment of diet, the years
+of follow-up, the categories of meat consumption, the variables
+controlled for in the multivariate models, and the relative risks
+and 95% CI for colorectal cancer associated with red meat and
+processed meat consumption. From each study, we extracted the
+relative risks that reﬂected the greatest degree of control for poten-
+tial confounders.
+
+Statistical analysis
+
+We used the reported relative risk (RR) as the measure of asso-
+ciation of red meat or processed meat consumption with colorectal
+cancer risk. Reported RRs and corresponding standard errors
+(SEs) were transformed to their natural logarithms to stabilize the
+variances and to normalize the distributions. The SEs were derived
+from the conﬁdence intervals (CIs) provided in each study. We
+quantiﬁed the relations between red meat and processed meat con-
+sumption with colorectal cancer risk with the method of DerSimo-
+nian and Laird27 by use of the assumptions of a random-effects
+model, which considers both within-study and between-study vari-
+ation. For studies that provided separate RRs for colon and rectal
+cancer4,6,7,9 and/or for women and men,7,26 we pooled the RRs,
+weighted by the inverse of the variance, within each study.
+
+Grant sponsor: Swedish Research Council/Longitudinal Studies and The
+
+Swedish Cancer Society.
+
+*Correspondence to: Division of Nutritional Epidemiology, The
+National Institute of Environmental Medicine, Karolinska Institutet, Box
+210, SE-171 77 Stockholm, Sweden. Fax: 146-8-304571.
+E-mail: susanna.larsson@ki.se
+
+Received 7 February 2006; Revised 24 March 2006; Accepted 25 April
+
+2006
+
+DOI 10.1002/ijc.22170
+Published online 21 September 2006 in Wiley InterScience (www.interscience.
+
+wiley.com).
+
+TABLE I – CHARACTERISTICS OF PROSPECTIVE STUDIES OF RED MEAT AND PROCESSED MEAT CONSUMPTION AND COLORECTAL CANCER RISK1
+
+Study and country
+
+Study participants;
+age at cohort entry
+
+Exposure
+assessment
+
+Follow-up years
+
+(mean)2
+
+No. of cases
+by cancer site
+
+Adjusted RR (95% CI)3
+
+Red meat4
+
+Processed meat
+
+Adjustments
+
+Bostick et al., 199418;
+
+Iowa Women’s Health
+Study, USA
+
+35,215 women;
+55–69 years
+
+127-item FFQ5
+
+1986–1990
+(4 years)
+
+212 CC
+
+1.04 (0.62–1.76) CC
+
+1.51 (0.72–3.17) CC
+
+Age, height, parity,
+
+vitamin A
+supplement use,
+intakes of energy
+and total vitamin E
+
+Gaard et al., 199626;
+
+Norwegian National
+Health Screening
+Service, Norway
+Kato et al., 199721;
+
+New York University
+Women’s Health Study, USA
+
+Chen et al., 199819;
+
+Physicians’ Health Study,
+USA
+
+Hsing et al., 199820;
+
+Lutheran Brotherhood Study,
+USA
+
+Singh and Fraser, 199824;
+Adventist Health Study,
+USA
+
+50,535 women and
+
+men; 20–53 years
+
+14,727 women;
+34–65 years
+
+Nested case–control
+study of 212 male
+cases and 221 male
+controls; 40–84 years
+17,633 men; 35 years
+
+32,051 women and
+men; 25 years
+
+80-item FFQ5
+
+1977–1991
+
+143 CC
+
+NA
+
+2.51 (1.14–5.55) CC6
+
+Age
+
+(11.4 years)
+
+70-item FFQ
+
+1985–1994
+
+100 CRC
+
+1.23 (0.68–2.22) CRC
+
+1.09 (0.59–2.02) CRC Age, place of
+
+(7.1 years)
+
+enrollment, education,
+energy intake
+
+20-item FFQ5
+
+1982–1994
+
+212 CRC
+
+1.17 (0.68–2.02) CRC NA
+
+Age, smoking
+
+35-item FFQ
+
+1966–1986
+
+145 CRC7
+
+1.9 (0.9–4.3) CRC
+
+NA
+
+120 CC7 1.8 (0.8–4.4) CC
+
+55-item FFQ5
+
+1976–1982
+
+157 CC8
+
+1.41 (0.90–2.21) CC
+
+NA
+
+Age, smoking, alcohol,
+
+energy intake
+
+Age, sex, family
+
+history, smoking, BMI,
+physical activity,
+aspirin use, alcohol
+
+Pietinen et al., 199923;
+
+27,111 male smokers;
+
+276-item FFQ5
+
+ATBC Cancer Prevention
+Study, Finland
+
+50–69 years
+
+1988–1995
+(8 years)
+
+185 CRC
+
+1.1 (0.7–1.7)
+
+1.2 (0.7–1.8) CRC
+
+Age, supplement group,
+
+education, smoking
+years, BMI, physical
+activity, alcohol,
+calcium intake
+
+9,985 women and men;
+
+1 year dietary
+
+1966–1990
+
+73 CRC
+
+NA
+
+1.84 (0.98–3.47) CRC Age, sex, geographic
+
+Knekt et al., 199922;
+
+Finnish Mobile Clinic
+Health Examination Survey,
+Finland
+
+J€arvinen et al., 200112;
+
+Finnish Mobile Clinic Health
+Examination Survey, Finland
+
+Tiemersma et al., 200213;
+Monitoring Project on
+Cardiovascular Disease Risk
+Factors, The Netherlands
+
+Flood et al., 200311;
+
+Breast Cancer Detection
+Demonstration Project, USA
+
+Wei et al., 20044;
+
+Nurses’ Health Study, USA
+
+15–99 years
+
+history interview
+
+9,959 women and
+
+men; 15–99 years
+
+1 year dietary
+
+1966–1999
+
+history interview
+
+109 CRC
+63 CC
+46 RC
+
+1.50 (0.77–2.94) CRC NA
+1.34 (0.57–3.15) CC
+1.82 (0.60–5.52) RC
+
+Nested case–control
+
+Short FFQ5
+
+1987–1998
+
+102 CRC
+
+1.6 (0.9–2.9) CRC
+
+NA
+
+area, smoking,
+energy intake
+
+Age, sex, occupation,
+
+geographic area,
+smoking, BMI, intakes
+of energy, vegetables,
+fruits and cereals
+
+Age, sex, height,
+
+alcohol, energy intake
+
+study of 102
+cases and 537
+controls; 20–59 years
+
+45,496 women;
+40–93 years
+
+87,733 women;
+30–55 years
+
+(8.5 years)
+
+62-item FFQ5
+
+1987–1998
+(8.5 years)
+
+61-item FFQ5
+
+1980–2000
+
+487 CRC
+
+1.10 (0.83–1.45) CRC
+
+1.00 (0.76–1.31) CRC Age, energy intake
+
+876 CRC
+672 CC
+204 RC
+
+1.21 (0.72–2.03) CRC6 1.10 (0.64–1.88) CRC6 Age, history of
+1.31 (0.73–2.36) CC
+0.92 (0.31–2.71) RC
+
+1.32 (0.95–1.83) CC
+0.72 (0.33–1.59) RC
+
+endoscopy, family
+history, smoking,
+height, BMI, physical
+activity, intakes of
+alcohol, calcium
+and folate
+
+(Continued)
+
+TABLE I – CHARACTERISTICS OF PROSPECTIVE STUDIES OF RED MEAT AND PROCESSED MEAT CONSUMPTION AND COLORECTAL CANCER RISK1 (CONTINUED)
+
+Study and country
+
+Study participants;
+age at cohort entry
+
+Exposure
+assessment
+
+Follow-up years
+
+(mean)2
+
+No. of cases
+by cancer site
+
+Adjusted RR (95% CI)3
+
+Red meat4
+
+Processed meat
+
+Adjustments
+
+Wei et al., 20044;
+
+Health Professionals
+Follow-Up Study, USA
+
+46,632 men;
+
+40–75 years
+
+131-item FFQ5
+
+1986–1999
+
+602 CRC
+467 CC
+135 RC
+
+1.24 (0.78–1.96) CRC6
+1.35 (0.80–2.27) CC
+0.90 (0.34–2.45) RC
+
+1.23 (0.87–1.73) CRC6 Age, history of
+1.27 (0.87–1.85) CC
+1.06 (0.48–2.33) RC
+
+endoscopy, family history,
+smoking, height, BMI,
+physical activity,
+intakes of alcohol,
+calcium and folate
+1.18 (0.87–1.62) CRC6 Age, sex, education,
+1.20 (0.79–1.82) CC6
+1.16 (0.72–1.86) RC6
+
+family history,
+smoking, BMI,
+walking, alcohol
+
+107,824 women and
+men; 40–79 years
+
+33-item FFQ5
+
+1988–1999
+
+(9.9 years)
+
+457 CRC7
+284 CC7
+173 RC7
+
+NA
+
+Kojima et al., 20047;
+
+Japan Collaborative
+Cohort Study, Japan
+
+English et al., 200410;
+
+Melbourne Collaborative
+Cohort Study, Australia
+
+37,112 women
+
+121-item FFQ
+
+and men; 40–69 years
+
+1990–2002
+(9 years)
+
+451 CRC
+283 CC
+169 RC
+
+1.4 (1.0–1.9) CRC
+1.1 (0.7–1.6) CC
+2.3 (1.2–4.2) RC
+
+1.5 (1.1–2.0) CRC
+1.3 (0.9–1.9) CC
+2.0 (1.1–3.4) RC
+
+Age, sex, country
+of birth, intakes
+of energy, fat
+and cereals
+
+Larsson et al., 20055;
+
+Swedish Mammography
+Cohort, Sweden
+
+61,433 women;
+40–75 years
+
+67-item FFQ5
+
+1987–2003
+
+(13.9 years)
+
+Chao et al., 20059;
+
+Cancer Prevention Study II
+Nutrition Cohort, USA
+
+148,610 women
+
+and men; 50–74 years
+
+68-item FFQ5
+
+1992–2001
+
+Norat et al., 20058;
+
+EPIC, Europe9
+
+478,040 women
+
+and men; 35–70 years
+
+88- to 266-item FFQ51992–1998
+
+(4.8 years)
+
+L€uchtenborg et al., 20056;
+
+Case-cohort 2,948
+
+150-item FFQ5
+
+1989–1994
+
+Netherlands Cohort study,
+The Netherlands
+
+women and men;
+55–69 years
+
+733 CRC
+389 CC
+234 PCC
+155 DCC
+230 RC
+
+1667 CRC
+1197 CC
+667 PCC
+408 DCC
+470 RC
+
+1.32 (1.03–1.68) CRC
+1.41 (0.92–2.16) CC6
+1.03 (0.67–1.60) PCC
+2.22 (1.34–3.68) DCC
+1.28 (0.83–1.98) RC
+
+1.36 (0.93–2.00) CRC6
+1.15 (0.90–1.46) CC
+1.27 (0.91–1.76) PCC
+0.71 (0.47–1.07) DCC
+1.71 (1.15–2.52) RC
+
+1329 CRC
+855 CC
+351 PCC
+391 DCC
+474 RC
+588 CRC
+434 CC
+154 RC
+
+1.35 (0.96–1.88) CRC
+1.17 (0.78–1.77) CC
+1.03 (0.56–1.91) PCC
+1.51 (0.76–3.02) DCC
+1.75 (0.98–3.10) RC
+NA
+
+1.07 (0.85–1.33) CRC Age, education,
+1.06 (0.83–1.35) CC6
+1.02 (0.69–1.52) PCC
+1.39 (0.86–2.24) DCC
+0.90 (0.60–1.34) RC
+
+BMI, intakes of energy,
+alcohol, saturated fat,
+calcium, folate, fruits,
+vegetables and
+whole grain foods
+1.16 (0.96–1.40) CRC6 Age, sex, smoking,
+1.13 (0.91–1.41) CC
+0.97 (0.72–1.29) PCC
+1.39 (0.94–2.05) DCC
+1.26 (0.86–1.83) RC
+
+education, hormone
+therapy use (women),
+BMI, physical activity,
+multivitamin use,
+aspirin use, intakes
+of energy, alcoholic
+beverages, fruits,
+vegetables and high-ﬁber
+grain foods
+
+1.42 (1.09–1.86) CRC Age, sex, center,
+1.30 (0.92–1.84) CC
+1.19 (0.70–2.01) PCC
+1.48 (0.87–2.53) DCC
+1.62 (1.04–2.50) RC
+1.13 (0.87–1.47) CRC6 Age, sex, family
+1.17 (0.86–1.59) CC
+1.04 (0.64–1.68) RC
+
+history, smoking,
+BMI, energy intake
+
+smoking, height, weight,
+physical activity, alcohol,
+energy intake
+
+1BMI, body mass index; CI, conﬁdence interval; CRC, colorectal cancer; CC, colon cancer; DCC, distal colon cancer; FFQ, food-frequency questionnaire; NA, not available; PCC, proximal
+colon cancer; RC, rectal cancer; RR, relative risk.–2Means are shown when reported in the article.–3Highest vs. lowest consumption category.–4Relative risks for total red meat (fresh red meat plus
+processed meat) were chosen when provided; otherwise, relative risks for fresh red meat were included.–5Undertook validation of dietary assessment.–6The relative risk (and its 95% CI) was
+derived by pooling the sex- and/or subsite-speciﬁc relative risks (weighted by the inverse of the variance).–7Fatal cancer cases.–8Including 22 cancers in the rectosigmoid junction.–9European
+Prospective Investigation into Cancer and Nutrition (EPIC) includes subjects from 10 European countries: Denmark, France, Germany, Greece, Italy, Netherlands, Norway, Spain, Sweden and
+United Kingdom.
+
+2660
+
+LARSSON AND WOLK
+
+FIGURE 1 – Relative risks of colorectal cancer comparing the highest with the lowest category of red meat consumption. Studies are ordered
+by year of publication. Squares represent study-speciﬁc relative risks (RRs) and the sizes of the squares reﬂect the statistical weight that each
+study contributed to the summary estimate; horizontal lines represent 95% conﬁdence intervals (CIs); diamond represents the summary estimate
+and its 95% CI. *Nurses’ Health Study; **Health Professionals Follow-Up Study.
+
+For the dose-response meta-analysis, we used the method pro-
+posed by Greenland and coworkers28,29 to compute study-speciﬁc
+slopes (linear trends) from the correlated natural log of the RRs
+across categories of meat intake. This method requires that the dis-
+tribution of cases and noncases (or person-time) and the RR with
+its variance estimate for at least 3 quantitative exposure categories
+are known. For studies that did not provide the number of cases
+and noncases in each consumption category, we estimated the
+slopes using variance-weighted least squares regression. Because
+the studies included in our meta-analysis used different units to
+report meat consumption (i.e., grams, servings or frequencies), we
+rescaled meat consumption into grams per day. We used 120 g as
+the approximate average portion size for red meat and 50 g as
+the average portion size for processed meat.2 For the study by
+Gaard et al.,26 120 g was used as the average portion size for
+sausage. For each study, the median or mean level of consumption
+for each category was assigned to each corresponding RR. When
+the median or mean consumption was not reported, we assigned
+the midpoint of the upper and lower bound in each category as the
+average intake. If the upper bound was not provided, we assumed
+that it had the same amplitude as the preceding category.
+
+We used the Q and I2 statistics30 to examine statistical hetero-
+geneity among the studies included in the meta-analysis. For the Q
+statistic, heterogeneity was considered present for p  0.1. I2 is
+the proportion of total variation contributed by between-study var-
+iation.30 We conducted subgroup analyses to examine potential
+sources of heterogeneity by cancer site, sex, study location, start
+of follow-up, length of follow-up, the year of publication and con-
+trol for potential confounders. Publication bias was assessed with
+the use of funnel plots and with the Egger’s regression asymmetry
+test31 (p  0.1 was considered representative of statistically signi-
+ﬁcant publication bias). The potential inﬂuence that unpublished
+
+studies could have on the summary results was examined using a
+trim and ﬁll analysis.32 Statistical analyses were performed using
+Stata (release 9.0; StataCorp, College Station, TX).
+
+Results
+Characteristics of studies
+
+Characteristics of the 19 prospective studies (1 publication4
+had 2 independent cohorts, which were included as 2 separate
+studies) included in the meta-analysis are shown in Table I. Two
+studies13,19 were case–control studies nested within prospective
+cohorts. Nine studies were conducted in the United States, 8 in
+Europe and 1 each in Australia and Japan. The study population
+in 10 studies included men and women, 4 consisted entirely of
+men, and 5 consisted of only women. The cohort sizes ranged
+from 9,959 to 478,040, and the number of cases ranged from 73 to
+1,667.
+
+Red meat (highest vs. lowest category)
+
+All 15 studies that examined the association between red meat
+consumption and risk of colorectal cancer found a positive rela-
+tionship (Fig. 1). Combined, the 15 studies included 1,042,824
+participants and 7,367 cases. There was no heterogeneity among
+studies (Q 5 4.86; p 5 0.99; I2 5 0%). The summary RR of color-
+ectal cancer was 1.28 (95% CI 5 1.15–1.42) for subjects in the
+highest category of red meat consumption compared with those in
+the lowest category. Summary results did not change materially
+when we excluded the 2 nested case–control studies13,19 (RR 5 1.28;
+95% CI 5 1.15–1.42) or the 2 studies based on colorectal cancer
+mortality7,20 (RR 5 1.27; 95% CI 5 1.14–1.42). The association
+
+MEAT CONSUMPTION AND RISK OF COLORECTAL CANCER
+
+2661
+
+TABLE II – SUMMARY RELATIVE RISKS OF COLORECTAL CANCER BY RED MEAT AND PROCESSED MEAT CONSUMPTION (HIGHEST
+
+VS. LOWEST CATEGORY)
+
+n1
+
+RR (95% CI)
+
+Q2
+
+p-value2
+
+I2 (%)2
+
+n1
+
+RR (95% CI)
+
+Q2
+
+p-value2
+
+I2 (%)2
+
+Red meat
+
+Processed meat
+
+1.21 (1.05–1.40)
+1.15 (0.91–1.47)
+1.31 (0.62–2.79)
+1.56 (1.25–1.95)
+
+2.35
+0.72
+12.36
+4.82
+
+0.97
+0.70
+0.002
+0.57
+
+0
+0
+
+83.8
+
+0
+
+0
+0
+–
+0
+0
+0
+
+0
+0
+–
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+10
+3
+3
+8
+
+5
+4
+2
+8
+6
+2
+
+6
+6
+2
+
+2
+12
+
+9
+5
+
+5
+9
+
+–
+–
+
+6
+2
+6
+
+8
+6
+
+7
+7
+
+9
+5
+
+1.21 (1.09–1.34)
+1.02 (0.82–1.26)
+1.41 (1.09–1.84)
+1.20 (0.98–1.46)
+
+1.27 (1.06–1.52)
+1.34 (1.08–1.67)
+1.02 (0.64–1.63)
+1.07 (0.94–1.23)
+1.14 (0.95–1.37)
+1.06 (0.50–2.23)
+
+1.27 (1.06–1.52)
+1.13 (0.99–1.29)
+1.34 (1.06–1.69)
+
+5.81
+0.44
+0.04
+9.06
+
+0.82
+0.74
+0.01
+4.91
+5.97
+1.72
+
+7.69
+1.69
+1.19
+
+1.38 (0.84–2.28)
+1.20 (1.10–1.31)
+
+1.47
+10.55
+
+1.21 (1.09–1.33)
+1.27 (1.00–1.62)
+
+1.44 (1.10–1.90)
+1.18 (1.08–1.29)
+
+–
+–
+
+1.22 (1.08–1.38)
+1.10 (0.92–1.30)
+1.37 (1.06–1.78)
+
+1.22 (1.09–1.36)
+1.23 (1.00–1.51)
+
+1.19 (1.07–1.32)
+1.29 (1.06–1.58)
+
+1.20 (1.08–1.33)
+1.24 (1.03–1.50)
+
+6.18
+6.22
+
+3.85
+6.73
+
+–
+–
+
+1.71
+0.10
+8.73
+
+3.66
+8.61
+
+2.73
+9.43
+
+8.93
+3.36
+
+4
+10
+
+1.12 (0.95–1.33)
+1.25 (1.11–1.40)
+
+0.53
+10.98
+
+0.76
+0.80
+0.98
+0.25
+
+0.94
+0.86
+0.91
+0.67
+0.31
+0.19
+
+0.17
+0.63
+0.28
+
+0.23
+0.48
+
+0.63
+0.18
+
+0.43
+0.57
+
+–
+–
+
+0.89
+0.76
+0.12
+
+0.82
+0.13
+
+0.84
+0.15
+
+0.35
+0.50
+
+0.91
+0.28
+
+0
+0
+0
+
+22.7
+
+0
+0
+0
+0
+
+16.2
+42.0
+
+35.0
+
+0
+0
+
+32.1
+
+0
+
+0
+
+35.7
+
+0
+0
+
+–
+–
+
+0
+0
+
+42.7
+
+0
+
+41.9
+
+0
+
+36.3
+
+10.4
+
+0
+
+0
+
+18.1
+
+9
+3
+3
+7
+
+5
+3
+1
+6
+4
+2
+
+5
+9
+1
+
+Cancer subsite
+Colon
+
+Proximal colon
+Distal colon
+
+Rectum
+Sex
+Men
+
+Colon
+Rectum
+Women
+Colon
+Rectum
+
+Study location
+Europe
+United States
+Other3
+Start of follow-up
+Before 1985
+After 1985
+Length of follow-up
+<10 years
+10 years
+Publication year
+1994–2000
+2001–2006
+Type of meat4
+Total red meat
+Fresh red meat only
+Adjustment for
+
+potential confounders
+
+Physical activity
+
+and BMI
+Yes
+BMI only
+No
+
+Smoking
+
+Yes
+No
+
+Alcohol intake
+
+Yes
+No
+
+Total energy intake
+
+Yes
+No
+
+Calcium intake
+
+Yes
+No
+
+1.26 (1.02–1.54)
+1.36 (1.04–1.77)
+
+–
+
+1.16 (1.01–1.34)
+1.14 (0.91–1.43)
+1.22 (0.82–1.83)
+
+1.32 (1.12–1.57)
+1.23 (1.06–1.42)
+
+–
+
+5
+10
+
+1.36 (1.06–1.75)
+1.27 (1.13–1.42)
+
+9
+6
+
+6
+9
+
+8
+9
+
+6
+2
+7
+
+9
+6
+
+9
+6
+
+10
+5
+
+4
+11
+
+1.26 (1.11–1.42)
+1.31 (1.10–1.57)
+
+1.23 (0.99–1.53)
+1.30 (1.15–1.47)
+
+1.24 (1.09–1.42)
+1.22 (1.08–1.37)
+
+1.29 (1.09–1.53)
+1.34 (1.07–1.69)
+1.25 (1.06–1.47)
+
+1.31 (1.12–1.53)
+1.26 (1.09–1.45)
+
+1.33 (1.16–1.52)
+1.21 (1.02–1.44)
+
+1.30 (1.15–1.47)
+1.23 (0.99–1.52)
+
+1.25 (1.05–1.50)
+1.30 (1.14–1.48)
+
+1.53
+0.49
+–
+2.28
+1.96
+0.31
+
+1.22
+2.86
+–
+
+1.30
+3.30
+
+3.40
+1.34
+
+2.22
+2.47
+
+3.33
+5.62
+
+0.88
+0.12
+3.61
+
+2.10
+2.63
+
+2.19
+1.98
+
+4.00
+0.63
+
+0.52
+4.25
+
+0.82
+0.78
+–
+0.81
+0.58
+0.58
+
+0.88
+0.94
+–
+
+0.86
+0.95
+
+0.91
+0.93
+
+0.82
+0.96
+
+0.85
+0.69
+
+0.97
+0.73
+0.73
+
+0.98
+0.76
+
+0.98
+0.85
+
+0.91
+0.96
+
+0.91
+0.94
+
+1n, number of prospective studies.–2Heterogeneity test.–3One study each in Australia10 and Japan7.–4Four studies5,8,18,23 reported results
+for both total red meat (fresh red meat plus processed meat) and fresh red meat, 4 studies9,11,19,20 reported results only for total red meat and
+5 studies4,10,13,24 reported results only for fresh red meat; 2 studies12,21 were excluded because the meat items included in red meat were not
+speciﬁed.
+
+with red meat consumption was stronger for rectal cancer than
+for colon cancer (p-heterogeneity between cancer sites 5 0.06), but
+did not differ signiﬁcantly by subsite in the colon (p-heterogene-
+ity between subsites 5 0.75) (Table II). Positive relationships of
+comparable strengths were present in all subgroups according to
+sex, study location, start of follow-up, length of follow-up, pub-
+lication year and deﬁnition of red meat (Table II). Stratiﬁcation
+by adjustment
+including physical
+activity and body mass index, smoking and intakes of alcohol,
+total energy and calcium showed no signiﬁcant differences in
+the summary RRs between studies that did control for these var-
+iables and those that did not (Table II). When we restricted the
+analysis to studies that adjusted for physical activity, body mass
+index, smoking and any of the considered dietary variables
+(alcohol, energy or calcium intake)4,8,9,23,24 the summary RR of
+colorectal cancer comparing the highest with the lowest intake
+categories of red meat was 1.29 (95% CI 5 1.09–1.53). The
+
+for potential confounders,
+
+funnel plot did not provide strong evidence for publication bias
+(p 5 0.42 by Egger’s test).
+
+Processed meat (highest vs. lowest category)
+
+The 14 studies that investigated the association between proc-
+essed meat consumption and colorectal cancer risk (involving
+1,153,401 participants and 7,903 cases) did not show substantial
+heterogeneity (Q 5 12.41; p 5 0.50; I2 5 0%). The summary RR
+of colorectal cancer was 1.20 (95% CI 5 1.11–1.31) for individu-
+als in the highest relative to the lowest category of processed meat
+consumption (Fig. 2). High vs. low consumption of processed
+meat was associated with an increased risk of both colon and
+rectal cancer (Table II). Only 3 studies5,8,9 reported results for
+subsites in the colon. In these studies, high consumption of pro-
+cessed meat was associated with an increased risk of distal colon
+cancer but not of proximal colon cancer (p-heterogeneity between
+
+2662
+
+LARSSON AND WOLK
+
+FIGURE 2 – Relative risks of colorectal cancer comparing the highest with the lowest category of processed meat consumption. Studies are
+ordered by year of publication. Squares represent study-speciﬁc relative risks (RRs) and the sizes of the squares reﬂect the statistical weight that
+each study contributed to the summary estimate; horizontal lines represent 95% conﬁdence intervals (CIs); diamond represents the summary
+estimate and its 95% CI. *Nurses’ Health Study; **Health Professionals Follow-Up Study.
+
+TABLE III – DOSE-RESPONSE RELATIONSHIPS BETWEEN RED MEAT OR PROCESSED MEAT CONSUMPTION AND COLORECTAL CANCER RISK
+
+Red meat, 120 g/day
+
+Processed meat, 30 g/day
+
+n1
+
+RR (95% CI)
+
+Q2
+
+p-value2
+
+I2 (%)2
+
+All studies
+Colon cancer
+Rectal cancer
+Europe
+United States
+
+14
+10
+7
+5
+8
+
+1.28 (1.18–1.39)
+1.24 (1.12–1.38)
+1.63 (1.24–2.14)
+1.33 (1.17–1.50)
+1.24 (1.10–1.39)
+
+8.82
+8.39
+12.08
+3.06
+4.91
+
+0.79
+0.50
+0.06
+0.55
+0.67
+
+0
+0
+
+50.3
+
+0
+0
+
+1n, number of prospective studies.–2Heterogeneity test.
+
+n1
+
+11
+9
+7
+5
+4
+
+RR (95% CI)
+
+Q2
+
+p-value2
+
+I2 (%)2
+
+1.09 (1.05–1.13)
+1.10 (1.05–1.16)
+1.07 (0.98–1.18)
+1.08 (1.03–1.14)
+1.08 (1.02–1.14)
+
+6.42
+4.14
+8.05
+3.12
+0.86
+
+0.78
+0.85
+0.23
+0.54
+0.84
+
+0
+0
+
+25.5
+
+0
+0
+
+subsites 5 0.06). There were no signiﬁcant differences (p-hetero-
+geneity > 0.10) in the summary RRs between subgroups deﬁned
+by sex, study location, start of follow-up, length of follow-up or
+year of publication (Table II). In addition, stratifying the studies
+by adjustment for potential confounders, there were no signiﬁcant
+differences between subgroups. Restricting the analysis to studies
+that adjusted for physical activity, body mass index, smoking and
+any of the considered dietary variables (alcohol, energy or calcium
+intake)4,7–9,23 yielded a summary RR of 1.22 (95% CI 5 1.08–
+1.38). The funnel plot suggested a possible absence of negative
+studies involving small sample sizes (p 5 0.08 by Egger’s test).
+According to the trim and ﬁll analysis, 2 such studies may be
+missing. Adding those missing studies to the meta-analysis gave a
+summary RR of 1.19 (95% CI 5 1.08–1.31).
+
+Dose-response meta-analysis
+
+For the dose-response meta-analysis of red meat consumption,
+14 studies4,5,8–13,18–20,23,24 were included, whereas 1 study21 was
+excluded because red meat consumption could not be quantiﬁed.
+The estimated summary RR of colorectal cancer for an increase in
+red meat consumption of 120 g/day was 1.28 (95% CI 5 1.18–
+1.39), without heterogeneity among studies (Table III). The
+summary RR was greater for rectal cancer than for colon cancer
+
+(p-heterogeneity between cancer sites 5 0.07); there was hetero-
+geneity among study results for rectal cancer (Table III).
+
+Eleven studies4–8,10,11,18,23,26 were included in the dose-response
+meta-analysis of processed meat consumption. Three studies9,21,22
+were excluded because processed meat consumption could not be
+quantiﬁed. The estimated summary RR of colorectal cancer for an
+increase in processed meat consumption of 30 g/day was 1.09 (95%
+CI 5 1.05–1.13), without heterogeneity among studies (Table III).
+The summary RRs were similar for colon and rectal cancer, and for
+studies conducted in Europe and in the United States (Table III).
+
+Discussion
+
+Findings of this meta-analysis involving almost 8,000 cases
+from 19 prospective studies show consistent associations between
+high consumption of red meat and of processed meat and an
+increased risk of colorectal cancer. Individuals in the highest cate-
+gory of red meat or processed meat consumption had a 28% and
+20%, respectively, higher risk of colorectal cancer compared with
+those in the lowest intake categories. High consumption of red
+meat and processed meat was associated with an increased risk of
+both colon and rectal cancer, although the association with red
+meat was more pronounced for rectal cancer. The positive associa-
+
+MEAT CONSUMPTION AND RISK OF COLORECTAL CANCER
+
+2663
+
+tion with processed meat consumption was stronger for distal
+colon cancer than for proximal colon cancer. Results were consist-
+ent for women and men, and for studies carried out in Europe and
+in the United States.
+
+Our meta-analysis has several strengths. First, our quantitative
+assessment was based on prospective studies, which tend to be less
+susceptible to bias (e.g., recall and selection bias) than retrospec-
+tive case–control studies. Moreover, most of the included studies,
+particularly those published since 2004, had a large sample size.
+Hence, meta-analysis of these studies provides high statistical
+power for estimating the relationship between meat consumption
+and colorectal cancer risk. The relatively large number of included
+studies also allowed us to perform subgroup analyses according to
+study characteristics.
+
+As a meta-analysis of observational studies, our ﬁndings have
+several limitations. First, this type of meta-analysis leaves the pos-
+sibility of confounding as a potential explanation for the observed
+associations. Nevertheless, the associations between meat con-
+sumption and colorectal cancer risk persisted when we restricted
+the analysis to studies that adjusted for major potential con-
+founders. A second limitation is that our ﬁndings were likely to be
+inﬂuenced by imprecise measurement of meat consumption. Cate-
+gorization of exposures that are measured with nondifferential
+error may produce differential misclassiﬁcation and may bias the
+relative risk toward or away from the null value.33,34 Hence, mis-
+classiﬁcation of meat consumption in the original studies might
+have lead to an underestimate or an overestimate of the summary
+relative risks estimates. Finally, because our meta-analysis was
+based on published studies, the possibility of publication bias
+could be of concern. Studies with null results or small sample
+sizes are less likely to be published.35 There was suggestion of
+publication bias in the literature for processed meat consumption.
+However, adjusting for unpublished studies had negligible effect
+on the summary results.
+
+In general, our ﬁndings for red meat consumption and risk
+of colorectal cancer are in accord with those of 2 previous meta-
+analyses,1,2 but are more precise because of a larger number of
+cases. In the 2 earlier meta-analyses, for prospective studies
+(including 2,100–2,500 cases), an increase in red meat consump-
+tion of 100–120 g/day was associated with a 17–22% increased
+risk of colorectal cancer.1,2 In the present meta-analysis, the mag-
+nitude of the relationship of processed meat consumption with col-
+orectal cancer risk was weaker than in the earlier meta-analyses,1,2
+
+which estimated a 49–54% increase in risk of colorectal cancer
+(including about 1,200 cases) for an increment in processed meat
+consumption of 25–30 g/day.
+
+Several hypotheses have been proposed to explain the relation-
+ship between red meat or processed meat consumption and colo-
+rectal cancer risk. Red meat contains higher amounts of heme iron
+than white meat. Heme damages the colonic mucosa and stimu-
+lates epithelial proliferation in animal studies.36 Heme iron intake
+has been positively associated with the risk of colon cancer in pro-
+spective cohort studies.37,38 Ingestion of red meat and heme iron
+supplementation has been shown to increase fecal concentrations
+of N-nitroso compounds (NOCs),39–41 many of which are potent
+animal carcinogens.42 The positive association with processed
+meat consumption may be partly due to NOCs already present in
+the meat. Meat cooked at high temperatures also contains other
+potential mutagens and carcinogens in the form of heterocyclic
+amines (HCAs) and polycyclic aromatic hydrocarbons (PAHs).
+The cancer risk posed to humans by HCAs and PAHs may depend
+on the extent to which these compounds are activated by meta-
+bolic enzymes.43 The fat content of meat may inﬂuence the risk of
+colorectal cancer by increasing the production of secondary bile
+acids,44 which may promote colon carcinogenesis.45 However,
+epidemiologic studies have generally not shown an association
+between fat intake and colon cancer risk.46
+
+Several lines of evidence indicate that cancers occurring in the
+proximal and distal colon may have distinct etiologies.3,47–49
+Proximal and distal colon cancers display differences in incidence
+by geographic region, age and sex.3 There are also differences
+between subsites with regard to pH,50 apoptotic index,3 metabo-
+lism of bile acids,3 bacterial composition and bacterial metabolic
+capacity51,52 and expression of carcinogen metabolizing enzymes.3
+All 3 studies that reported results for subsites in the colon showed
+that the positive relationship between processed meat consumption
+and cancer risk was stronger for distal colon than for proximal
+colon.5,8,9 In this regard, it is noteworthy that levels of the promuta-
+genic lesion O6-methyldeoxyguanosine, a marker of exposure to
+NOCs, have been found to be higher in tissues from the distal colon
+than from the proximal colon.53
+
+In summary, results of this meta-analysis support the hypothesis
+that high consumption of red meat and processed meat may
+increase the risk of colon and rectal cancer. Whether the associa-
+tion with red meat or processed meat consumption varies accord-
+ing to subsites in the colorectum warrants further investigation.
+
+References
+
+1.
+
+Sandhu MS, White IR, McPherson K. Systematic review of the
+prospective cohort studies on meat consumption and colorectal cancer
+risk: a meta-analytical approach. Cancer Epidemiol Biomarkers Prev
+2001;10:439–46.
+
+2. Norat T, Lukanova A, Ferrari P, Riboli E. Meat consumption and
+colorectal cancer risk: dose-response meta-analysis of epidemiologi-
+cal studies. Int J Cancer 2002;98:241–56.
+Iacopetta B. Are there two sides to colorectal cancer? Int J Cancer
+2002;101:403–8.
+
+3.
+
+4. Wei EK, Giovannucci E, Wu K, Rosner B, Fuchs CS, Willett WC,
+Colditz GA. Comparison of risk factors for colon and rectal cancer.
+Int J Cancer 2004;108:433–42.
+
+5. Larsson SC, Rafter J, Holmberg L, Bergkvist L, Wolk A. Red meat
+consumption and risk of cancers of the proximal colon, distal colon
+and rectum:
+Int J Cancer
+2005;113:829–34.
+
+the Swedish Mammography Cohort.
+
+6. L€uchtenborg M, Weijenberg MP, de Goeij AF, Wark PA, Brink M,
+Roemen GM, Lentjes MH, de Bruine AP, Goldbohm RA, van ’t Veer
+P, van den Brandt PA. Meat and ﬁsh consumption, APC gene muta-
+tions and hMLH1 expression in colon and rectal cancer: a prospective
+cohort study (The Netherlands). Cancer Causes Control 2005;16:
+1041–54.
+
+7. Kojima M, Wakai K, Tamakoshi K, Tokudome S, Toyoshima H,
+Watanabe Y, Hayakawa N, Suzuki K, Hashimoto S, Ito Y, Tamakoshi
+A. Diet and colorectal cancer mortality: results from the Japan Collab-
+orative Cohort Study. Nutr Cancer 2004;50:23–32.
+
+8. Norat T, Bingham S, Ferrari P, Slimani N, Jenab M, Mazuir M,
+Overvad K, Olsen A, Tjonneland A, Clavel F, Boutron-Ruault MC,
+Kesse E et al. Meat, ﬁsh, and colorectal cancer risk: the European
+Prospective Investigation into cancer and nutrition. J Natl Cancer Inst
+2005;97:906–16.
+
+9. Chao A, Thun MJ, Connell CJ, McCullough ML, Jacobs EJ, Flanders
+WD, Rodriguez C, Sinha R, Calle EE. Meat consumption and risk of
+colorectal cancer. JAMA 2005;293:172–82.
+
+10. English DR, MacInnis RJ, Hodge AM, Hopper JL, Haydon AM,
+Giles GG. Red meat, chicken, and ﬁsh consumption and risk of
+colorectal cancer. Cancer Epidemiol Biomarkers Prev 2004;13:
+1509–14.
+
+11. Flood A, Velie EM, Sinha R, Chaterjee N, Lacey JV, Jr, Schairer C,
+Schatzkin A. Meat, fat, and their subtypes as risk factors for colorectal
+cancer in a prospective cohort of women. Am J Epidemiol 2003;158:
+59–68.
+
+12. J€arvinen R, Knekt P, Hakulinen T, Rissanen H, Heli€ovaara M. Dietary
+fat, cholesterol and colorectal cancer in a prospective study. Br J
+Cancer 2001;85:357–61.
+
+13. Tiemersma EW, Kampman E, Bueno de Mesquita HB, Bunschoten
+A, van Schothorst EM, Kok FJ, Kromhout D. Meat consumption,
+cigarette smoking, and genetic susceptibility in the etiology of color-
+ectal cancer: results from a Dutch prospective study. Cancer Causes
+Control 2002;13:383–93.
+
+14. Goldbohm RA, van den Brandt PA, van ’t Veer P, Brants HA, Dorant
+E, Sturmans F, Hermus RJ. A prospective cohort study on the relation
+
+2664
+
+LARSSON AND WOLK
+
+between meat consumption and the risk of colon cancer. Cancer Res
+1994;54:718–23.
+
+15. Thun MJ, Calle EE, Namboodiri MM, Flanders WD, Coates RJ, Byers
+T, Boffetta P, Garﬁnkel L, Heath CW, Jr. Risk factors for fatal colon
+cancer in a large prospective study. J Natl Cancer Inst 1992;84:1491–
+500.
+
+16. Willett WC, Stampfer MJ, Colditz GA, Rosner BA, Speizer FE.
+Relation of meat, fat, and ﬁber intake to the risk of colon cancer
+in a prospective study among women. N Engl J Med 1990;323:1664–
+72.
+
+17. Giovannucci E, Rimm EB, Stampfer MJ, Colditz GA, Ascherio A,
+Willett WC. Intake of fat, meat, and ﬁber in relation to risk of colon
+cancer in men. Cancer Res 1994;54:2390–7.
+
+18. Bostick RM, Potter JD, Kushi LH, Sellers TA, Steinmetz KA,
+McKenzie DR, Gapstur SM, Folsom AR. Sugar, meat, and fat intake,
+and non-dietary risk factors for colon cancer incidence in Iowa
+women (United States). Cancer Causes Control 1994;5:38–52.
+
+19. Chen J, Stampfer MJ, Hough HL, Garcia-Closas M, Willett WC,
+Hennekens CH, Kelsey KT, Hunter DJ. A prospective study of
+N-acetyltransferase genotype, red meat intake, and risk of colorectal
+cancer. Cancer Res 1998;58:3307–11.
+
+20. Hsing AW, McLaughlin JK, Chow WH, Schuman LM, Co Chien HT,
+Gridley G, Bjelke E, Wacholder S, Blot WJ. Risk factors for colorec-
+tal cancer in a prospective study among U.S. white men. Int J Cancer
+1998;77:549–53.
+
+21. Kato I, Akhmedkhanov A, Koenig K, Toniolo PG, Shore RE,
+Riboli E. Prospective study of diet and female colorectal cancer: the
+New York University Women’s Health Study. Nutr Cancer 1997;28:
+276–81.
+
+22. Knekt P, J€arvinen R, Dich J, Hakulinen T. Risk of colorectal and other
+gastro-intestinal cancers after exposure to nitrate, nitrite and N-nitroso
+compounds: a follow-up study. Int J Cancer 1999;80:852–6.
+
+23. Pietinen P, Malila N, Virtanen M, Hartman TJ, Tangrea JA, Albanes
+D, Virtamo J. Diet and risk of colorectal cancer in a cohort of Finnish
+men. Cancer Causes Control 1999;10:387–96.
+
+24. Singh PN, Fraser GE. Dietary risk factors for colon cancer in a low-
+
+risk population. Am J Epidemiol 1998;148:761–74.
+
+25. Sellers TA, Bazyk AE, Bostick RM, Kushi LH, Olson JE, Anderson
+KE, Lazovich D, Folsom AR. Diet and risk of colon cancer in a large
+prospective study of older women: an analysis stratiﬁed on family
+history (Iowa, United States). Cancer Causes Control 1998;9:357–67.
+26. Gaard M, Tretli S, Loken EB. Dietary factors and risk of colon
+cancer: a prospective study of 50,535 young Norwegian men and
+women. Eur J Cancer Prev 1996;5:445–54.
+
+34. Wacholder S, Dosemeci M, Lubin JH. Blind assignment of exposure
+does not always prevent differential misclassiﬁcation. Am J Epide-
+miol 1991;134:433–7.
+
+35. Dickersin K, Min YI. Publication bias: the problem that won’t go
+
+away. Ann N Y Acad Sci 1993;703:135–46; discussion 46–8.
+
+36. Sesink AL, Termont DS, Kleibeuker JH, Van der Meer R. Red meat
+and colon cancer: the cytotoxic and hyperproliferative effects of
+dietary heme. Cancer Res 1999;59:5704–9.
+
+37. Larsson SC, Adami HO, Giovannucci E, Wolk A. Re: Heme iron,
+zinc, alcohol consumption, and risk of colon cancer. J Natl Cancer
+Inst 2005;97:232–3; author reply 33–4.
+
+38. Lee DH, Anderson KE, Harnack LJ, Folsom AR, Jacobs DR, Jr.
+Heme iron, zinc, alcohol consumption, and colon cancer: Iowa Wom-
+en’s Health Study. J Natl Cancer Inst 2004;96:403–7.
+
+39. Cross AJ, Pollock JR, Bingham SA. Haem, not protein or inorganic
+iron, is responsible for endogenous intestinal N-nitrosation arising
+from red meat. Cancer Res 2003;63:2358–60.
+
+40. Bingham SA, Pignatelli B, Pollock JR, Ellul A, Malaveille C, Gross
+G, Runswick S, Cummings JH, O’Neill IK. Does increased endoge-
+nous formation of N-nitroso compounds in the human colon explain
+the association between red meat and colon cancer? Carcinogenesis
+1996;17:515–23.
+
+41. Hughes R, Cross AJ, Pollock JR, Bingham S. Dose-dependent effect
+of dietary meat on endogenous colonic N-nitrosation. Carcinogenesis
+2001;22:199–202.
+IARC monographs on the evaluation of the carcinogenic risk of chem-
+icals to humans: some N-nitroso compounds, vol. 17. Lyon, France:
+International Agency for Research on Cancer, 1978. 1–349.
+
+42.
+
+43. Cross AJ, Sinha R. Meat-related mutagens/carcinogens in the etiology
+
+of colorectal cancer. Environ Mol Mutagen 2004;44:44–55.
+
+44. Reddy BS, Hanson D, Mangat S, Mathews L, Sbaschnig M, Sharma
+C, Simi B. Effect of high-fat, high-beef diet and of mode of cooking
+of beef in the diet on fecal bacterial enzymes and fecal bile acids and
+neutral sterols. J Nutr 1980;110:1880–7.
+
+45. Narisawa T, Magadia NE, Weisburger JH, Wynder EL. Promoting
+effect of bile acids on colon carcinogenesis after intrarectal instillation
+of N-methyl-N0-nitro-N-nitrosoguanidine in rats. J Natl Cancer Inst
+1974;53:1093–7.
+
+46. Giovannucci E, Goldin B. The role of fat, fatty acids, and total energy
+intake in the etiology of human colon cancer. Am J Clin Nutr 1997;
+66:1564S–71S.
+
+47. Buﬁll JA. Colorectal cancer: evidence for distinct genetic categories
+based on proximal or distal tumor location. Ann Intern Med 1990;
+113:779–88.
+
+27. DerSimonian R, Laird N. Meta-analysis in clinical trials. Control Clin
+
+48. Lindblom A. Different mechanisms in the tumorigenesis of proximal
+
+Trials 1986;7:177–88.
+
+28. Greenland S, Longnecker MP. Methods for trend estimation from
+summarized dose-response data, with applications to meta-analysis.
+Am J Epidemiol 1992;135:1301–9.
+
+29. Orsini N, Bellocco R, Greenland S. Generalized least squares for
+trend estimation of summarized dose-response data. Stata J 2006;6:
+40–57.
+
+30. Higgins JP, Thompson SG. Quantifying heterogeneity in a meta-
+
+analysis. Stat Med 2002;21:1539–58.
+
+31. Egger M, Davey Smith G, Schneider M, Minder C. Bias in meta-
+
+analysis detected by a simple, graphical test. BMJ 1997;315:629–34.
+
+32. Duval S, Tweedie R. Trim and ﬁll: A simple funnel-plot-based
+method of testing and adjusting for publication bias in meta-analysis.
+Biometrics 2000;56:455–63.
+
+33. Flegal KM, Keyl PM, Nieto FJ. Differential misclassiﬁcation arising
+from nondifferential errors in exposure measurement. Am J Epidemiol
+1991;134:1233–44.
+
+and distal colon cancers. Curr Opin Oncol 2001;13:63–9.
+
+49. Bonithon-Kopp C, Benhamiche AM. Are there several colorectal
+cancers? Epidemiological data. Eur J Cancer Prev 1999;8(Suppl 1):
+S3–S12.
+
+50. Evans DF, Pye G, Bramley R, Clark AG, Dyson TJ, Hardcastle JD.
+Measurement of gastrointestinal pH proﬁles in normal ambulant
+human subjects. Gut 1988;29:1035–41.
+
+51. Macfarlane GT, Macfarlane S. Human colonic microbiota: ecology,
+physiology and metabolic potential of intestinal bacteria. Scand J
+Gastroenterol Suppl 1997;222:3–9.
+
+52. Macfarlane GT, Gibson GR, Cummings JH. Comparison of fermenta-
+tion reactions in different regions of the human colon. J Appl Bacter-
+iol 1992;72:57–64.
+
+53. Povey AC, Hall CN, Badawi AF, Cooper DP, O’Connor PJ. Elevated
+levels of the pro-carcinogenic adduct, O(6)-methylguanine, in normal
+DNA from the cancer prone regions of the large bowel. Gut 2000;47:
+362–5.
+
+

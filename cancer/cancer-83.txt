@@ -1,0 +1,4153 @@
+Int. J. Cancer: 98, 241–256 (2002)
+© 2002 Wiley-Liss, Inc.
+DOI 10.1002/ijc.10126
+
+Publication of the International Union Against Cancer
+
+MEAT CONSUMPTION AND COLORECTAL CANCER RISK: DOSE-RESPONSE
+META-ANALYSIS OF EPIDEMIOLOGICAL STUDIES
+
+Teresa NORAT, Annekatrin LUKANOVA, Pietro FERRARI and Elio RIBOLI*
+
+Unit of Nutrition and Cancer, International Agency for Research on Cancer, Lyon, France
+
+The hypothesis that consumption of red and processed
+meat increases colorectal cancer risk is reassessed in a meta-
+analysis of articles published during 1973–99. The mean rel-
+ative risk (RR) for the highest quantile of intake vs. the lowest
+was calculated and the RR per gram of intake was computed
+through log-linear models. Attributable fractions and pre-
+ventable fractions for hypothetical reductions in red meat
+consumption in different geographical areas were derived
+using the RR log-linear estimates and prevalence of red meat
+consumption from FAO data and national dietary surveys.
+High intake of red meat, and particularly of processed meat,
+was associated with a moderate but signiﬁcant increase in
+colorectal cancer risk. Average RRs and 95% conﬁdence in-
+tervals (CI) for the highest quantile of consumption of red
+meat were 1.35 (CI: 1.21–1.51) and of processed meat, 1.31
+(CI: 1.13–1.51). The RRs estimated by log-linear dose-re-
+sponse analysis were 1.24 (CI: 1.08 –1.41) for an increase of
+120 g/day of red meat and 1.36 (CI: 1.15–1.61) for 30 g/day of
+processed meat. Total meat consumption was not signiﬁ-
+cantly associated with colorectal cancer risk. The risk frac-
+tion attributable to current levels of red meat intake was in
+the range of 10 –25% in regions where red meat intake is high.
+If average red meat intake is reduced to 70 g/week in these
+regions, colorectal cancer risk would hypothetically decrease
+by 7–24%.
+© 2002 Wiley-Liss, Inc.
+
+Key words: meat; colorectal cancer; attributable risk; preventable
+fraction
+
+Experimental and epidemiological studies have shown that food
+and nutrition modify colorectal cancer risk. The scientiﬁc evidence
+has been evaluated and summarised in recommendations by dif-
+ferent expert groups that conclude that red meat consumption is
+likely to be related to increased risk of colorectal cancer. In 1996,
+the Colon Cancer Panel of the World Health Organisation-consen-
+sus conference on Nutrition in Prevention and Therapy on Cancer1
+concluded that consumption of red meat and processed meat was
+probably associated with increased risk for colorectal cancer and
+recommended that consumption of ﬁsh and poultry should be
+preferred to red meat. In the same year,
+the Centre national
+d’E` tudes et de Recommandations sur la Nutrition et l’Alimentation
+(CNERNA) in France published an evaluation of the scientiﬁc data
+on nutrition and cancer, in which the experts concluded that a diet
+poor in vegetables and rich in meat or fat of animal origin (ex-
+cepting ﬁsh) is usually associated with an increased risk of colon
+cancer.2 More recently, 2 major reports by the World Cancer
+Research Fund (WCRF)/American Institute for Cancer Research
+Report (AICR)3 and the Working Group on Diet and Cancer of the
+Committee on Medical Aspects of Food and Nutrition Policy
+(COMA)4 of the United Kingdom, recommended that western
+populations should decrease their consumption of red meat and
+increase consumption of vegetables in order to reduce colorectal
+cancer risk. Both panels agreed that the epidemiological results on
+meat were not consistent, but recognised that the studies conducted
+so far found either increased colorectal cancer risk or no associa-
+tion with risk, while no study has found a reduction in risk
+associated with high meat consumption.
+
+Several hypotheses have been developed to explain the associ-
+ation between colorectal cancer risk and red meat.5 The fat content
+of red meat could inﬂuence colon cancer risk by increasing the
+excretion of bile acids, whose products may act as tumour pro-
+moters by a non-speciﬁc irritant effect that increases cell prolifer-
+
+ation in the colonic mucosa.6,7 Other products of fat digestion,
+such as diacylglycerides, could selectively induce mitogenesis of
+adenomas and some carcinoma cells.8 Fat could act by increasing
+saturated fatty acid content, or decreasing polyunsaturated fatty
+acid content in cell membranes leading to a reduction of the
+number and activity of insulin receptors.9,10 Hyperinsulinemia
+could act as a growth factor and tumor promoter11,12 and recent
+epidemiological evidence supports the association of insulin resis-
+tance with colon cancer risk.13 The meat fat-hypothesis is consis-
+tent with the ﬁnding that lean beef did not promote colon carci-
+nogenesis in rats14 and that high consumption of beef could
+increase the concentration of secondary faecal bile acids.15,16 Nev-
+ertheless, epidemiological studies have failed to show a consistent
+relationship between fat intake and colorectal cancer.5,17
+
+During digestion, dietary protein is broken down into amino
+acids that are further degraded to ammonia, which may be carci-
+nogenic to the colon.18 There is, however, very limited evidence
+that protein per se increases colorectal cancer risk and some
+epidemiological studies have even reported a protective associa-
+tion between dietary protein and colon cancer. A possible expla-
+nation for this unexpected ﬁnding is that low intake of methionine
+may contribute to DNA methylation abnormalities, which might
+appear to be important in the initiation and progression of colon
+cancer.19 Meat can be a major source of protein, but there is no
+evidence of an effect of meat protein on colorectal cancer risk.
+
+Red meat has a higher iron content than white meat. Dietary iron
+enhances lipid peroxidation in the mouse colon and augments
+dimethylhydrazine-induced colorectal tumours in mice and rats20
+but the results of epidemiological studies are still insufﬁcient.21,22
+Red meat intake23 enhances the production of endogenous pro-
+moters and possible carcinogens24,25 such as N-nitroso compounds
+(NOC), which have been shown to induce the formation of DNA
+adducts in human colonocytes.26 The same effect has not been
+observed with white meat.23,27 NOC are also formed endogenously
+because the amines and amides produced primarily by bacterial
+decarboxylation of amino acids can be N-nitrosated in the presence
+of a nitrosating agent.28 –30 Nitrosamines have been detected in
+foods with added nitrates or nitrites, including salt-preserved ﬁsh
+and meat and in food processed by smoking or direct-ﬁre dry-
+
+Abbreviations: 95% CI, 95% conﬁdence intervals; AP, attributable pro-
+portion; EPIC, European Prospective Investigation into Cancer and Nutri-
+tion; FAO, Food and Agricultural Organisation; FFQ, food frequency
+questionnaire; HCA, heterocyclic amines; NOC, N-nitroso compounds;
+PAH, polycyclic aromatic hydrocarbons; PP, preventable proportion; RR,
+relative risk.
+
+Grant sponsor: World Cancer Research Fund.
+
+*Correspondence to: Unit of Nutrition and Cancer, IARC, 150, Cours
+Albert Thomas, 69372 Lyon Cedex 08, France. Fax: ⫹33-472-73-83-61.
+E-mail: Riboli@iarc.fr
+
+Received 30 May 2001; Revised 3 September 2001; Accepted 21 Sep-
+
+tember 2001
+
+Published online 18 December 2001
+
+242
+
+NORAT ET AL.
+
+ing.31,32 Supplements of nitrate have been shown to elevate faecal
+NOC levels.27
+
+A mechanism that has attracted particular attention is the for-
+mation of heterocyclic amines (HCA) and polycyclic aromatic
+hydrocarbons (PAH) in meat when it is cooked at high temperature
+for a long time or over an open ﬂame. HCA and particularly the
+2-amino-1-methyl-6-phenylimidazo (4,5-b) pyridine (PhIP) and
+the 2-amino-3,8-dimethylimidazo[4,5-f]quinoxaline (MeIQx) are
+powerful mutagens and carcinogenic in mice, rats and non-human
+primates in a wide variety of organs, mainly the liver, but also skin,
+lung, colon and mammary gland.23,33 The carcinogenic potential of
+heterocyclic amines in humans has not been established. PAHs are
+widely believed to make a substantial contribution to the overall
+burden of cancer in humans via tobacco smoking, occupational and
+environmental exposures. The major dietary sources of PAHs are
+cereals and vegetables rather than meat due to environmental
+contamination, except where there is high consumption of meat
+cooked over an open ﬂame, as when barbecuing.34,35 Information
+on dietary practices, such as cooking methods (frying, broiling,
+smoking and barbecuing), meat doneness and surface browning
+has been used to evaluate the potential relationship of dietary
+exposure to HCAs and PAHs with colorectal cancer or colorectal
+adenoma risk,36 –50 but the epidemiological evidence is still limited
+and many methodological issues need to be solved. The fact that
+the metabolism of heterocyclic amines can be more or less efﬁcient
+depending on the genetic variability of at least three enzymes
+involved in N-acetylation (NAT1, NAT2 and CYP1a2) makes the
+problem more complex and data from epidemiological stud-
+ies45,51–57 on acetylation status and colorectal cancer risk are
+sparse and somewhat conﬂicting.
+
+In this article, the epidemiological literature on meat and colo-
+rectal cancer is reviewed and the results quantitatively summarized
+with two purposes. The ﬁrst is to reassess the status of the meat/
+colorectal cancer hypothesis based on the global epidemiological
+evidence. The second aim is to provide estimates of the proportion
+of colorectal cancer attributable to current red meat consumption,
+as well as estimates of the effect that hypothetical changes in red
+meat consumption could have on colorectal cancer incidence in
+different geographical areas of the world, assuming that the asso-
+ciation is causal and that the simulated change in meat consump-
+tion levels could be achieved.
+
+Search methods
+
+MATERIAL AND METHODS
+
+The criteria for inclusion of epidemiological studies were: case-
+control or cohort studies evaluating the relationship between total
+meat, red meat or processed meat and colon, rectal or colorectal
+cancer risk; in males, females or in both sexes combined; with
+incidence or mortality as the endpoint; providing the information
+required for the statistical analysis; published in English between
+1973 and 1999 and referenced in the Medline database (National
+Library of Medicine, Washington, DC). Besides the MEDLINE
+search, we systematically examined the list of references in the
+identiﬁed articles.
+
+The deﬁnition of exposure varied between studies. In most of
+the articles, total meat (sometimes simply called meat) included
+white and red meat from all sources while in others, fresh meat
+only was considered. Red meat was sometimes deﬁned as the
+intake of beef, veal, pork, mutton and lamb consumed fresh,
+whereas in others, processed red meat was also included as part of
+the red meat group. Processed meat was deﬁned in our article as
+the group including any of the following foods: ham, raw ham,
+cured or smoked bacon, sausage, cured or smoked lunch meat,
+salami, nitrite-treated meats and meat-products. “Charcuterie” and
+“delicatessen” were also considered equivalent
+to “processed
+meat.”
+
+Statistical methods
+
+The overall effect-size statistics estimated were the average of
+the logarithm of the observed relative risks (estimated as the odds
+ratio in most of the studies) associated to the highest versus the
+lowest level of consumption, as reported in the papers. The RR
+was weighted by the inverse of its variance. A random effect
+meta-analysis was performed in situations where heterogeneity
+was present58 to incorporate the between-study component of
+variance in the weight.59 Only studies reporting RR estimates with
+conﬁdence intervals or quantitative information allowing their
+computation were included in the meta-analysis.
+
+For the dose-response analysis, the method proposed by Green-
+land and Longnecker60 was used, that accounts for the correlation
+between risk estimates for separate exposure levels depending on
+the same reference group. The summary estimate was the pooled
+coefﬁcient b in the linear-logistic regression model lnRR ⫽ bX,
+where X is the difference of meat intake between each category
+and the reference category. The individual slopes of each study
+were combined by weighted average, using the inverse of their
+variances as weights. Random effect models were assumed when
+there was evidence of heterogeneity. 95% conﬁdence intervals (CI)
+were calculated for the common regression slopes. An SAS macro
+was written for this purpose.
+
+We extracted from the studies the risk estimates that reﬂected
+the greatest degree of controlling for confounders (i.e., risk factors
+or energy). The method required that the number of case subjects,
+the number of control subjects, the adjusted logarithm of the RR
+and its variance estimates for three or more exposure levels were
+known. Some extra-computation was performed to complete the
+required data, provided that the paper gave the information to do
+so. If this was not possible, the paper was not included in the
+dose-response analysis. The log-rank test of Begg and Mazumdar61
+were used to explore publication bias.
+
+Interstudy variation was analyzed by performing subgroup iden-
+tiﬁcation62 and meta-regression analysis60 using the Genmod pro-
+cedure in SAS. The main sources of heterogeneity examined were
+design (case-control or cohort), site (colon, rectum or colorectal),
+geographical area (USA, Europe or other), gender (males, females
+or both genders combined) and meat deﬁnition (fresh meat and
+fresh plus processed meat together).
+
+Rescaling of exposure
+
+For the dose-response analysis the intake was rescaled to grams
+per day. If the highest category was open-ended, the open-ended
+boundary was calculated using as interval length the width of the
+closest interval. When the lowest category was open-ended, the
+lowest boundary was considered as zero. The value of X of each
+category was then calculated as the mid-point of the logarithm of
+the boundaries, retransformed to grams per day.
+
+When the exposures were expressed on a qualitative scale (e.g.,
+high, medium, low), we used the mean consumption and the
+variance given in the article to estimate midpercentiles of each
+category assuming lognormal distribution. When exposure was
+expressed as the frequency of consumption, we used 120 g as the
+approximate average “portion size” of meat and of red meat and
+50 g as “serving size.” The portion size of processed meat was 50 g
+as well. We based our decision on the results of the Continuing
+Survey of Food Intakes by Individuals 1989 –91 of the United
+States63 and preliminary results of the Dietary Survey of the
+European Prospective Investigation into Cancer and Nutrition
+(EPIC) (Riboli, unpublished data).64
+
+Fraction of colorectal cancer risk attributable to red meat
+consumption
+
+We obtained estimates of the proportion of risk attributable to
+red meat consumption (AP) using the relative risks estimated with
+the dose-response curve associated to quartiles of consumption of
+red meat using non-consumption as reference category. The for-
+mula provided by Miettinen was applied.65
+
+COLORECTAL CANCER RISK AND MEAT CONSUMPTION
+
+243
+
+reasons: odds ratios reported only when they were signiﬁcant,84 no
+conﬁdence intervals,80 or no odds ratios provided.37 The excluded
+RR were not signiﬁcant with the exception of a study reporting a
+signiﬁcant risk decrease for cancer of the rectum, but not of the
+colon80 and the signiﬁcant values found in another study for 2 of
+the 8 odds ratios reported.84
+
+The pooled estimate of the average RR was 1.14 (95% CI
+0.99 –1.31) (Fig. 1). There was evidence of lack of homogeneity
+when all studies were considered together. The estimates by sub-
+groups together with the results of the heterogeneity tests are given
+in Table I. Only one cohort study on an Adventist population42
+found a signiﬁcant association. In this study, both red meat and
+white meat contributed independently to a risk increase of 85% in
+subjects consuming meat once a week or more often, compared
+with non-consumers. Studies in which meat was deﬁned as fresh
+meat have a lower average relative risk (RR: 1.01; 95% CI:
+0.64 –1.60) than studies deﬁning meat as fresh plus processed meat
+(1.16; 95% CI: 1.01–1.34). The subgroups of cohort studies, the
+subgroups of males, females and of cancer of the rectum were the
+only subgroups not heterogeneous.
+
+Dose-response meta-analysis
+
+Eighteen studies (5 cohort and 13 case-control) were included in
+the dose-response meta-analysis and 9 were excluded, of which
+284,93 found a signiﬁcant risk increase associated with high con-
+sumption. In addition to 3 case-control studies that were excluded
+from the previous analysis,37,80,84 7 more studies were excluded
+because the exposure was classiﬁed in 2 categories69,71,74 or be-
+cause the distribution of cases and control subjects by exposure
+level78,87,93,97 was not provided.
+
+Among the 18 studies included in the meta-analysis, only 4
+case-control and 1 cohort study reported exposure in grams per
+day. For case-control studies the inter-quantile mean range of
+intake was 126 g/day for studies reporting consumption in g/day
+
+As estimates of the prevalence of red meat consumption by
+geographical area, we used per caput intakes provided in Food
+Balance Sheets by the Food and Agricultural Organisation (FAO,
+http://apps.fao.org), corrected for overestimation with data pub-
+lished from 18 national dietary surveys.66,67 The correction factor
+was computed as the ratio between the per caput calorie intake
+estimated in a dietary survey in a given country and the per caput
+calorie intake published by the FAO for that country in the same
+year as the survey. Caloric intake was chosen to deduce an overall
+“correction factor,” even if its overestimation is not exactly the
+same as for red meat, because energy values were available in all
+the surveys. For geographical areas for which we were not able to
+ﬁnd dietary surveys, the correction factor of the closest region was
+applied (Appendix 1). A ratio of male/female consumption was
+computed in the surveys providing the information and its average
+applied for those regions for which this information was not
+available.
+
+Quartiles of consumption were calculated assuming a lognormal
+distribution. To do that, we applied the total coefﬁcient of variation
+of red meat consumption by gender estimated in the EPIC cohort
+study, that is, 83% for women and 85% for men.
+
+Finally, the exercise included an estimation of the proportion of
+cancer cases that could potentially be prevented assuming a hypo-
+thetical reduction in red meat consumption in each population to
+an average of 70 g/week, i.e., a small portion of red meat once a
+week. The preventable proportion (PP) was estimated as proposed
+by Miettinen.65
+
+Attributable risk could not be estimated for processed meat
+consumption because we could not ﬁnd estimates of processed
+meat consumption worldwide.
+
+Characteristics of studies
+
+RESULTS
+
+Thirty-four case-control studies37,39,41,43,47,54,68 –95 and 14 cohort
+studies19,40,42,44,48,50,57,96 –102 were identiﬁed in our search. The
+main characteristics of the studies are presented in Appendix 2.
+Fourteen case-control studies were carried out in Europe, 11 in the
+USA (including 2 in Hawaii), 3 in Japan, 2 in Australia and 1 each
+in Canada, China, Singapore and Argentina. Nine out of the 14
+cohort studies were conducted in USA, 2 of which were based on
+Adventist Populations. Four cohorts were European and 1 was
+Japanese. Twenty-two of the case-control studies reported results
+on colon cancer risk, but only 16 provided also results on rectal
+cancer risk. Twelve studies reported the results for the 2 sites
+combined and not separately for colon and rectum. Ten case-
+control studies gave the results separately for men and women and
+2 case-control studies were carried out only in men. The remaining
+reported odds ratios for both sexes combined. Seven of the cohorts
+reported results for colorectal cancer, only 1 analysed colon and
+rectal cancer separately and 6 focused only on colon cancer. Four
+cohort studies were carried out in men; 3 in women and 3 cohort
+studies reported the results separately for both men and women.
+Total meat was deﬁned as fresh plus processed meat in 19
+studies, whereas only fresh meat was evaluated in 8 studies. Fish
+was reported together with meat in 4 case-control studies and eggs
+in 2. Red meat was deﬁned as fresh beef, pork and lamb consump-
+tion in 13 studies whereas processed red meat was also included in
+this category in 11 studies.
+
+Total meat
+
+Twenty-one case-control and 6 cohort studies investigated total
+meat consumption and colorectal cancer risk, of which 3 case-
+control and one cohort study found a signiﬁcant positive associa-
+tion. Only 1 study found a signiﬁcantly reduced colorectal cancer
+risk for meat consumption.
+
+Average relative risk
+
+All cohort studies were included in the estimation of the average
+RR. Three case-control studies were excluded for the following
+
+FIGURE 1 – Relative risks (highest vs. lowest category) for case-
+
+control and cohort studies (meat).
+
+244
+
+NORAT ET AL.
+
+TABLE I – AVERAGE RELATIVE RISK FOR HIGHEST VERSUS LOWEST LEVEL OF INTAKE OF TOTAL MEAT, RED MEAT AND PROCESSED MEAT1
+
+Sub-groups
+
+Total meat
+
+Red meat
+
+Processed meat
+
+RR (95% CI)
+
+n
+
+p Het.
+
+RR (95% CI)
+
+n
+
+p Het.
+
+RR (95% CI)
+
+n
+
+p Het.
+
+All studies
+Case-control
+Cohort
+Colon
+Rectum
+Males
+Females
+Europe
+USA
+Fresh meat only
+Fresh and processed meat
+
+1.14 (0.99–1.31)
+1.18 (0.99–1.40)
+1.03 (0.81–1.32)
+1.09 (0.90–1.33)
+1.31 (1.00–1.73)
+1.05 (0.85–1.30)
+1.01 (0.81–1.25)
+1.20 (0.88–1.63)
+1.32 (1.03–1.70)
+1.01 (0.64–1.60)
+1.16 (1.08–1.34)
+
+24 ⬍0.001
+18 ⬍0.001
+
+0.14
+0.01
+0.24
+0.64
+0.32
+
+6
+15
+5
+7
+7
+8 ⬍0.001
+8
+6
+18
+
+0.05
+0.001
+0.004
+
+1.35 (1.21–1.51)
+1.36 (1.17–1.59)
+1.27 (1.11–1.45)
+1.32 (1.18–1.48)
+1.36 (1.17–1.57)
+1.40 (1.20–1.64)
+1.13 (0.85–1.50)
+1.46 (1.22–1.75)
+1.30 (1.12–1.52)
+1.28 (1.11–1.47)
+1.49 (1.26–1.77)
+
+23 ⬍0.001
+14 ⬍0.001
+
+9
+
+0.45
+
+19 ⬍0.001
+
+7
+9
+8
+7
+13
+13
+11
+
+0.23
+0.64
+0.03
+0.03
+0.002
+0.003
+0.02
+
+1.31 (1.13–1.51)
+1.29 (1.09–1.52)
+1.39 (1.09–1.76)
+1.22 (1.06–1.39)
+1.21 (0.98–1.50)
+1.57 (1.27–1.93)
+1.17 (0.95–1.44)
+1.39 (1.12–1.74)
+1.38 (1.10–1.73)
+
+23 ⬍0.001
+16 ⬍0.001
+
+7
+
+0.85
+
+15 ⬍0.001
+
+0.14
+5
+0.22
+7
+0.85
+7
+10
+0.001
+10 ⬍0.001
+
+1n, number of studies. p Het., p heterogeneity test.
+
+TABLE II – DOSE-RESPONSE ANALYSIS1
+
+Total meat
+
+Red meat
+
+Processed meat
+
+RR (95% CI)
+
+n
+
+p Het.
+
+RR (95% CI)
+
+n
+
+p Het.
+
+RR (95% CI)
+
+n
+
+p Het.
+
+All studies
+Case-control
+Cohort
+Colon
+Rectum
+Males
+Females
+Europe
+USA
+Fresh meat only
+Fresh and processed meat
+
+1.12 (0.98–1.30)
+1.10 (0.94–1.29)
+0.99 (0.71–1.39)
+1.10 (0.83–1.45)
+1.89 (1.02–3.51)
+1.07 (0.85–1.34)
+0.87 (0.72–1.09)
+1.26 (1.05–1.51)
+1.04 (0.75–1.45)
+1.01 (0.71–2.19)
+1.15 (0.99–1.35)
+
+18 ⬍0.001
+13 ⬍0.001
+
+5
+14
+5
+6
+6
+9
+5
+6
+12
+
+0.18
+0.02
+0.01
+0.25
+0.47
+0.14
+0.01
+0.03
+0.001
+
+1.24 (1.08–1.41)
+1.26 (1.02–1.55)
+1.22 (1.05–1.41)
+1.23 (1.04–1.46)
+1.64 (0.64–4.21)
+1.36 (1.18–1.55)
+1.11 (0.78–1.56)
+1.56 (1.07–2.26)
+1.22 (1.05–1.41)
+1.19 (0.91–1.55)
+1.28 (1.11–1.48)
+
+17 ⬍0.001
+8 ⬍0.001
+9
+14
+2
+9
+8
+5
+
+0.17
+0.01
+0.11
+0.12
+0.03
+0.01
+
+10 ⬍0.001
+8 ⬍0.001
+9
+
+0.01
+
+1.36 (1.15–1.61)
+1.37 (1.13–1.66)
+1.54 (1.10–2.17)
+1.32 (1.02–1.70)
+
+1.48 (1.08–2.04)
+1.44 (1.10–1.89)
+1.39 (1.09–1.77)
+1.54 (1.32–1.78)
+
+16 ⬍0.001
+0.002
+0.001
+0.10
+
+9
+7
+8
+—
+
+0.69
+
+6 ⬍0.001
+4
+8 ⬍0.001
+6
+
+0.63
+
+Relative risks for a consumption of 120 g/day (meat and red meat) or 30 g/day (processed meat) vs. no consumption.–1n, number of studies.
+
+p Het.: p heterogeneity test.
+
+and slightly lower, 114 g/day for studies where the rescaling was
+applied. In cohort studies the mean ranges were 100 g/day and 94
+g/day respectively.
+
+The results for all studies combined and for subgroups are given
+in Table II. The RR estimated from the beta pooling that is
+associated with a consumption of 120 g/day of meat compared to
+no consumption is RR: 1.12 (95% CI: 0.98 –1.30). On average, the
+epidemiological studies included in the analysis found no increase
+in colorectal cancer risk associated with this level of meat intake.
+The publication bias test was not statistically signiﬁcant (p ⫽
+0.58).
+
+There is heterogeneity between all studies, but homogeneity
+is not rejected for cohort studies. Meta-regressions using the
+beta estimates for each study as the dependent variable, and the
+design, geographical area, cancer site, sex and meat deﬁnition
+as explanatory variables were tested in different models using
+as weight the inverse of the variance of the beta estimate. The
+only signiﬁcant predictor of beta was geographical area, with
+North American studies ﬁnding lower slopes than studies from
+other geographical areas. When the two variables, geographical
+area and meat deﬁnition were included together in the model,
+the difference between American studies and the other geo-
+graphical areas disappeared. The slope for studies on fresh meat
+was lower than for fresh plus processed meat, but they were not
+signiﬁcantly different.
+
+Red meat
+
+Fifteen case-control and 9 cohort studies investigated red meat.
+Six case-control studies reported a signiﬁcant risk increase or
+signiﬁcant trend associated with higher levels of red meat intake.
+In 2 of them the association was signiﬁcant for cancer of the
+rectum but not for the colon. In 1 study there was a signiﬁcant
+trend in females but not in males or in both sexes combined. Two
+
+out of 9 cohort studies reported relative risks signiﬁcantly higher
+than 1.
+
+Average relative risk
+
+Only 1 case-control study,80 which did not provide conﬁdence
+intervals, was excluded from the analysis (Fig. 2). In contrast with
+the results for total meat, the estimated averaged RR for red meat
+was signiﬁcantly higher than one (RR: 1.35; 95% CI: 1.21–1.51).
+As for total meat, homogeneity was not rejected for cohort studies,
+while case-control studies were heterogeneous and, on average,
+provided higher RR estimates than cohort studies (Table I). The
+subgroups of European and North American studies are internally
+heterogeneous, with Europeans having a larger average relative
+risk. Within North American studies, cohort studies have a larger
+average relative risk (RR: 1.45; 95% CI: 1.20 –1.76) than case-
+control studies (RR: 1.28; 95% CI: 0.87–1.89). Studies on males
+and on cancer of the rectum were homogeneous. For the remaining
+subgroups homogeneity was rejected. When considering the def-
+inition of exposure, a higher average RR was obtained from studies
+that included processed meat in the red meat group (RR: 1.49;
+95%CI: 1.26 –1.77), compared to studies that did not (RR: 1.28;
+95% CI: 1.11–1.47).
+
+Dose-response meta-analysis
+
+Eighteen studies (9 case-control and 9 cohort) were included in
+the dose-response meta-analysis whereas 5 studies had to be ex-
+cluded. The reasons for exclusion are: no conﬁdence interval,80
+only 2 levels of exposure,74,90 no distribution of cases and control
+subjects by exposure level87 and RR not reported.39 One of the
+excluded studies found a signiﬁcant risk increase associated with
+high consumption90 and the others found no signiﬁcant risk in-
+crease. The inter-quantile mean ranges of intake were 116 g/day
+for 3 cohort studies that reported intake in g/day and 101 g/day for
+the remaining cohort studies for which we estimated intake by
+
+COLORECTAL CANCER RISK AND MEAT CONSUMPTION
+
+245
+
+FIGURE 2 – Relative risks (highest vs. lowest category) for case-
+
+control and cohort studies (red meat).
+
+rescaling. The three case-control studies that reported intake in
+g/day had the same inter-quantile mean range as the remaining
+case-control studies after rescaling (93 g/day).
+
+The results are presented in Table II. The estimated risk asso-
+ciated with consumption of 120 g/day of red meat compared to no
+consumption was 1.24 (95% CI: 1.08 –1.41). Based on the studies
+included in the meta-analysis, there was no evidence of publication
+bias (p ⫽ 0.52). There was heterogeneity between all studies
+together but homogeneity was not rejected for cohort studies
+(p-heterogeneity ⫽ 0.17). In the meta-regression analysis, only the
+model with geographical area as predictor produced statistically
+signiﬁcant estimates: the estimate of relative risk was higher for
+European than for North American studies. The signiﬁcance of
+geographical area disappeared when meat deﬁnition was included
+in the model.
+
+The dose-response was stronger and statistically signiﬁcant for
+studies that included processed meat in the red meat group (RR:
+1.28; 95%CI: 1.11–1.48) compared to studies that investigated
+only fresh red meat, for which the estimated risk was not signiﬁ-
+cant (RR: 1.19 95% CI: 0.91–1.55). If the American studies are
+considered separately, studies evaluating only fresh meat reported
+lower risks on average (RR: 1.05; 95%CI: 0.55–2.00) than studies
+where the red meat category included processed meats (RR: 1.24;
+95%CI: 1.07–1.43) but the homogeneity was rejected for both
+groups. The results are similar for European studies, where the RR
+estimated for studies on fresh red meat is lower (RR: 1.41; 95%CI:
+0.91–2.20) than for studies on fresh red meat plus processed meat
+(RR: 2.07; 95% CI: 1.25–3.42).
+
+Processed meat
+
+Processed meat was evaluated in 29 studies, 22 case-controls
+and 7 cohorts. Two cohort studies found a signiﬁcant trend, one
+cohort found a signiﬁcantly increased risk for consumption be-
+tween 2 and 4 times/week compared to no consumption and 12
+case-control studies reported odds ratios signiﬁcantly higher than 1.
+
+FIGURE 3 – Relative risks (highest vs. lowest category) for case-
+
+control and cohort studies (processed meat).
+
+Average relative risks
+
+Six studies were not included in the estimation of the average
+relative risks because either they did not provide conﬁdence inter-
+vals,69,75,80 each type of processed meat was evaluated separate-
+ly79,85 or the number of subjects was very small.82 The average RR
+for the 23 studies included in the analysis was 1.31 (95% CI:
+1.13–1.51) (Fig. 3). The results were heterogeneous and, similarly
+to what was found for total meat and red meat, homogeneity was
+not rejected within cohort studies. Subgroup analysis within case-
+control studies showed that homogeneity was not rejected for the
+subgroups of males, females and for rectal cancer (Table I).
+
+Dose-response meta-analysis
+
+Sixteen studies (9 case-control and 7 cohort) were included in
+the dose-response meta-analysis and 13 case-control studies were
+excluded, of which 6 studies had also been excluded from the
+previous average RR estimation. The reasons for exclusion were:
+only 2 categories of exposure,74,78,88 RR estimated only for the
+highest level of consumption37,41 and distribution of case and
+control subjects not provided.39,87 Five of the excluded studies
+reported a signiﬁcant risk increase associated with increased con-
+sumption, 1 a non-signiﬁcant decrease and the remainder found
+non-signiﬁcant risk increases. There is no evidence of publication
+bias (p ⫽ 0.75). The mean range of intake for case-control studies
+was 39 g/day for the 3 studies that reported intake quantitatively
+and 34 g/day when rescaled; for cohort studies the mean range was
+60 g/day (2 cohorts) and 30 g/day respectively.
+
+The association estimated with the pooled dose-response meta-
+analysis was stronger for processed meat than for any other meat
+type considered in this study (Fig. 4). The relative risk estimated
+for a consumption of 30 g/day compared with no consumption was
+1.36 (95% CI: 1.15–1.61) (Table II). The same relative risk would
+be associated with a consumption of 170 g/day of red meat,
+
+246
+
+NORAT ET AL.
+
+according to the results of the dose-response meta-analysis on red
+meat. Overall, the studies are not homogenous (p-heterogeneity ⬍
+0.001), but heterogeneity was not rejected for cohort studies. None
+of the variables evaluated in the meta-regression analysis ex-
+plained the heterogeneity.
+
+Estimation of the fraction prevented by current consumption of
+red meat worldwide
+
+The per caput intake of red meat by geographical area estimated
+for 1995 is presented in Table III. The regions with the lowest
+correction factor, i.e., with the highest discrepancy between FAO
+data and current consumption, are Europe, United States and High
+Income Asia (correction factors of 0.69, 0.60 and 0.70 respec-
+tively). These discrepancies can be explained in part because food
+waste in these countries is high and possibly because the surveys
+from which the correction factors were deduced are of better
+quality. The correction factor for Middle East Asia was similar to
+the value for Europe and America, but was based only on a survey
+
+FIGURE 4 – Dose-response analysis of relative risk of colorectal
+
+cancer for meat consumption.
+
+in Turkey. FAO per caput intakes were lower than the mean
+consumption reported in dietary surveys for India and for males in
+Low Income Asia, China, India, South America, Caribbean, North
+Africa and Sub-Saharan Africa.
+
+The proportion of colorectal cancer incidence attributable to
+current levels of red meat intake was computed using the beta-
+pooled estimates in the dose-response analysis. The same slope
+was used for all geographical areas and for both sexes for two main
+reasons: ﬁrst the overall estimate had the advantage of being based
+on a larger number of studies and second, the subgroups deﬁned by
+geographical area and by sex were not homogeneous.
+
+The proportion of cancer risk attributable to current red meat
+consumption compared to non-consumption, as well as the pre-
+ventable proportion simulating a shift of average consumption to
+70 g/week are presented in Table III. The attributable proportion
+ranges from almost 25% for men in some countries of South
+America, followed by Australia and New Zealand (19.6%) and
+North America (13.9%) where consumption of red meat is high, to
+2–3% in Chinese and Indian women, who eat very little red meat.
+When a hypothetical reduction to an average consumption of 70
+g/week is simulated, the proportion of preventable risk ranges from
+25–11.9% in men and from 17.2–7.5% in women in countries
+where the consumption is very high. In countries where the con-
+tribution of red meat to the diet is very low, as in India, Africa and
+some regions of Asia, less than 5% of the incidence could be
+potentially prevented.
+
+DISCUSSION
+
+The quantitative summary of the published literature on the risk
+of colorectal cancer and meat consumption suggests that high
+intakes of red meat and of processed meat are associated with
+increased risk of colorectal cancer. No signiﬁcant association was
+found for total meat consumption and colorectal cancer risk. These
+results are consistent for case-control and cohort studies, for Amer-
+ican, European and Asian studies (with the exception of one
+Argentinean study), for studies on males, females and both genders
+combined, and for studies on colon, rectal and colorectal cancer.
+The use and interpretation of meta-analysis in epidemiology has
+raised methodological debates and controversial opinions. The
+most obvious limitation is that results are combined from studies
+conducted with different methods in different populations, result-
+ing in heterogeneity. In our meat-analyses, heterogeneity was more
+often present within case-control than within cohort studies, which
+
+TABLE III – PROPORTION OF COLORECTAL CANCER RISK ATTRIBUTABLE TO CURRENT RED MEAT CONSUMPTION AND PROPORTION PREVENTABLE
+
+BY REDUCING PER CAPUT RED MEAT CONSUMPTION TO 10 GRAMS PER DAY1
+
+World regions
+
+North America
+Central America
+Caribbean
+Argentina, Uruguay, Paraguay
+Rest of South America
+North and Central Europe
+Southern Europe
+Eastern Europe
+ex-URSS Asia
+Middle east Asia
+High income Asia
+Middle income Asia
+Low income Asia
+China
+India
+North Africa
+Subsaharan Africa
+Australia, New Zealand
+Oceania
+
+Red meat per
+caput g/day
+
+Males
+
+AP %
+
+85.9
+41.5
+26.0
+168.1
+70.3
+47.3
+59.0
+45.3
+33.8
+21.6
+26.6
+14.3
+26.9
+12.8
+15.1
+30.0
+20.7
+125.7
+41.0
+
+13.9
+11.1
+4.2
+25.6
+11.5
+7.8
+9.7
+7.5
+5.6
+3.6
+0.4
+2.4
+4.5
+2.2
+2.6
+5.0
+3.5
+19.6
+6.8
+
+PP %
+
+11.9
+9.1
+2.4
+23.7
+9.5
+5.9
+7.7
+5.6
+3.7
+1.7
+2.5
+0.5
+2.6
+0.2
+0.6
+3.1
+1.5
+17.7
+4.9
+
+Red meat per
+caput g/day
+
+57.7
+30.2
+18.9
+
+122
+51
+35.0
+43.7
+34.8
+26.0
+15.7
+19.3
+10.4
+19.5
+9.3
+11.0
+21.7
+15.0
+84.1
+29.7
+
+Females
+
+AP %
+
+9.5
+5.1
+3.2
+19.2
+8.4
+5.8
+7.3
+5.8
+4.4
+2.7
+3.2
+1.7
+3.5
+1.6
+1.9
+3.7
+2.5
+13.6
+5.0
+
+PP %
+
+7.5
+3.1
+1.2
+17.2
+6.5
+3.9
+5.3
+3.9
+2.4
+0.7
+1.3
+NC
+1.3
+NC
+0.0
+1.7
+0.6
+11.6
+3.0
+
+1NC, not computed because per caput consumption is 10 g/day or less; AP, proportion attributable; PP, proportion preventable.
+
+COLORECTAL CANCER RISK AND MEAT CONSUMPTION
+
+247
+
+could be explained to some extent by the fact that most of the
+cohorts are North-American and used similar methodologies for
+dietary assessment. Case-control studies from North America and
+also from Europe remained heterogeneous, however, when studies
+in the two geographical areas were analyzed separately. Homoge-
+neity was not always rejected when composing subgroups by sex
+and by cancer site. It is not clear how much of it could be explained
+by publication bias, because it may be that results are reported
+separately by sex or cancer site only when they correspond to a
+certain expectation.
+
+Even though the effect-size estimates differed slightly between
+case-control and cohort studies, recall bias is very unlikely to
+account for the positive association we found between red and
+processed meat and colorectal cancer risk because the direction-
+ality of the summary measure of association was the same for both
+types of studies. Differences between the 2 study designs can
+partially explain the differences. The time interval between the
+period covered by the dietary assessment and diagnosis of the
+disease is usually 1 year (recent diet) in case-control studies
+although it can be as large as 10 –20 years (current diet at the time
+of subject recruitment) in cohort studies.
+
+Additional methodological issues concern the dietary measure-
+ment methods and their validation. We did not attempt to stratify
+studies by type of questionnaire or by results of their validity
+studies, because the information given in the papers was very often
+insufﬁcient to do so. The imprecision of dietary assessment meth-
+ods causes random measurement errors, which lead to underesti-
+mation of the magnitude of the relationship between dietary intake
+and cancer risk. It has been estimated that, for typical degrees of
+measurement error, the underestimation is roughly 2-fold ,103 but
+this may be larger if dietary intake was not assessed during the
+period of exposure most relevant to cancer etiology, which is not
+known with any precision. We decided not to apply formal cor-
+rections for measurement error, which would have increased the
+pooled relative risk estimates because, with very few exceptions,
+no data from dietary questionnaire validation studies were avail-
+able for the different types of questionnaire used and for the
+speciﬁc underlying study population.
+
+There is the theoretical possibility that the association between
+red meat and processed meat and colorectal cancer risk could be
+due to uncontrolled confounding factors. Known or suspected risk
+factors were controlled for in many of the studies. It is the opinion
+of the authors that the diversity of the populations where the
+studies were carried out argues against the hypothesis that un-
+known confounders can entirely explain the association.
+
+We found that relative risks for total and red meat were more
+elevated in studies that included processed meat in the deﬁnition of
+these 2 meat groups than in studies that evaluated fresh meat and
+fresh red meat (Fig. 4), that could be a support for an increased
+effect of processed meat. These results should be taken with
+caution for different reasons: these subgroups were set up a pos-
+teriori, after the data had been seen, and the ﬁnding could be
+spurious; besides, the deﬁnition of meat groups is not always clear
+in the publications. Nevertheless, this ﬁnding is in agreement with
+the summary relative risk per gram of intake estimated from the
+dose-response relationship, which was higher for processed meat
+than for red meat consumption.
+
+The calculation of population attributable risks for diet has
+speciﬁc methodological limitations, particularly due to the fact that
+the population distribution by exposure level
+is not precisely
+known and the association with cancer risk is measured with some
+approximations. We estimated the prevalence of red meat con-
+sumption using data that do not refer to individuals, but to popu-
+lations. In order to estimate the attributable risk fraction, we used
+the overall slope estimated in the dose-response analysis instead of
+slopes estimated for subgroups of different geographical areas, sex
+or cancer sub-sites. Our decision was mainly due to the fact that
+most of the studies were carried out in the USA and in Western
+Europe, and there were not enough studies to obtain meaningful
+
+estimates for speciﬁc geographical areas of the world. The overall
+slope had the advantage of being the result of the largest number
+of available studies. The coefﬁcient of variation applied for the
+estimation of quartile distribution of red meat intake was the value
+found in the preliminary analysis of EPIC data. The application of
+a lower coefﬁcient of variation will not change the estimates
+substantially, but if the variability is much higher than the hypo-
+thetical value used, our estimates of attributable risk and prevent-
+able proportion would be an overestimation of the real unknown
+corresponding values. For North America, for example, if a coef-
+ﬁcient of variation of an extreme value such as 200% is applied,
+instead of 85% as we did, the attributable risk fraction in men will
+be 9% instead of 14% and the preventable fraction 8% instead of
+12 %. The decrease is more important if the average intake level
+is high than if it is low.
+
+Estimates of cancer risks attributable to diet have been pub-
+lished in the past. Doll and Peto, in their widely quoted 1981
+paper104 estimated that 35% of all US cancer deaths and even 90%
+of colon cancer deaths were attributable to diet. These ﬁgures now
+appear questionable because epidemiological evidence suggests
+quite strongly that physical activity accounts for an important
+percentage of avoidable colon cancer. More recently, Willett105
+estimated that 50 – 80% of colorectal cancer deaths could be avoid-
+able by dietary change. In the Health Professionals Follow-Up
+Study,106 it was estimated that about a third to a half of colon
+cancer risk might be avoidable if exposure to 6 risk factors (over-
+weight, physical activity, supplementation with folic acid, alcohol
+consumption, smoking and red meat intake) were modiﬁed to
+become equal to that of the men in the approximate bottom 20% or
+bottom 5% of a risk score distribution. In a case-control study, La
+Vecchia et al.107 estimated that 56% of colon cancer risk would
+have been avoided if all subjects were moved to the lowest
+exposure levels of 6 risk factors considered together. The attrib-
+utable risk for individual factors was 12% for high education, 14%
+for low physical activity, 14% for high energy intake, 22% for low
+vegetable intake, 7% for high eating frequency, and 8% for a
+family history of colorectal cancer. In a case-control study in
+Northern Italy,90 the proportion of risk of colorectal cancer attrib-
+utable to red meat consumption was estimated as 16% for males
+and 17% for females. In our study, the estimates of colorectal
+cancer risk attributable to current red meat consumption were 9.7%
+and 7.3% for Southern European men and women. The highest
+estimates of the attributable fraction correspond to the areas of
+highest per caput red meat consumption, Argentina, Uruguay and
+Paraguay, followed by Australia and New Zealand and by North
+America.
+
+We computed the reduction in cancer risk that could potentially
+be achieved with a hypothetical dietary reduction of average red
+meat consumption from current levels to an average of 70 g/week.
+In simulating a change, we chose as goal the intake of this small
+portion size once a week because at this level there is no evidence
+of excess risk compared to no consumption. Therefore, this as-
+sumption does not require complete avoidance of red meat. Such
+a reduction could potentially lead to a decrease in colorectal cancer
+risk in men as high as 17.9% in Australia and 12.1% in North
+America. According to the estimated preventable proportions, ap-
+proximately 22,000 incident cases could be avoided in North
+America, 21,000 in Europe, 7,000 in Asia and 6,000 in South
+America.
+
+In calculating attributable and preventable fractions, we as-
+sumed that the association between red meat consumption and
+colorectal cancer is causal and free from bias. Our estimates refer
+only to a single risk factor, but individual dietary factors may not
+contribute independently. Other dietary and non-dietary factors,
+such as vegetable and fruit intake, smoking habits, reproductive
+history, physical activity and infectious agents, may also contrib-
+ute to risk differences. The isolated change of a single dietary
+factor represents a simpliﬁcation and it may well be that interven-
+tions addressing the totality of diet-related risk factors could re-
+
+248
+
+NORAT ET AL.
+
+move a larger proportion of excess risk. Based on the available
+data, it is not possible to determine to what extent reducing
+exposure to modiﬁable risk factors at various ages, after exposure
+at varying levels for varying duration, will prevent colorectal
+cancer. Neither is it possible to estimate the latency between a
+reduction in average red meat consumption occurring in a given
+
+population and the expected reduction in colorectal cancer inci-
+dence.
+
+Our results do not imply that meat consumption should be
+completely avoided as part of a balanced diet. Nevertheless, they
+support previous recommendations3 to adopt a diet characterized
+by low intake of red and processed meat.
+
+REFERENCES
+
+1.
+
+Scheppach W, Bingham S, Boutron-Ruault MC, et al. WHO consen-
+sus statement on the role of nutrition in colorectal cancer. Eur J
+Cancer Prev 1999;8:57– 62.
+
+2. CNERNA-CNRS. Alimentation et Cancer. Evaluation des donn´ees
+scientiﬁques. Riboli E, Decloitre F, Collet-Ribbing C, Coordinators.
+Paris: Lavoisie 1996.
+
+3. World Cancer Research Fund. Food, nutrition and the prevention of
+cancer: a global perspective. Washington, DC: Am Inst Cancer Res,
+1997.
+
+4. COMA. Report of the Working Group on diet and cancer. Nutritional
+aspects of the development of cancer. London: The Stationery Ofﬁce,
+1998.
+Potter JD. Colorectal cancer: molecules and populations. J Natl Can-
+cer Inst 1998;91:916 –32.
+
+5.
+
+6. Narisawa T, Magadia NE, Weisburger JH, et al. Promoting effect of
+bile acids on colon carcinogenesis after intrarectal instillation of
+N-methyl-N⬘-nitro-N-nitrosoguanidine in rats. J Natl Cancer Inst
+1974;53:1093–7.
+
+8.
+
+7. Chomchai C, Bhadrachari N, Nigro ND. The effect of bile on the
+induction of experimental intestinal tumors in rats. Dis Colon Rectum
+1974;17:310 –2.
+Friedman E, Isaksson P, Rafter J, et al. Fecal diglycerides as selective
+endogenous mitogens for premalignant and malignant human colonic
+epithelial cells. Cancer Res 1989;49:544 – 8.
+Field CJ, Ryan EA, Thomson AB, et al. Diet fat composition alters
+membrane phospholipid composition, insulin binding, and glucose
+metabolism in adipocytes from control and diabetic animals. J Biol
+Chem 1990;265:11143–50.
+
+9.
+
+10. Yorek M, Leeney E, Dunlap J, et al. Effect of fatty acid composition
+on insulin and IGF-I binding in retinoblastoma cells. Invest Ophthal-
+mol Vis Sci 1989;30:2087–92.
+
+11. McKeown-Eyssen G. Epidemiology of colorectal cancer revisited: are
+serum triglycerides or plasma glucose associated with risk? Cancer
+Epidemiol Biomarkers Prev 1994;3:687–95.
+
+enous formation of N-nitroso compounds in the human colon explain
+the association between red meat and colon cancer? Carcinogenesis
+1996;17:515–23.
+
+26. Autrup H, Harris CC, Trump BF. Metabolism of acyclic and cyclic
+N-nitrosamines by cultured human colon. Proc Soc Exp Biol Med
+1978;159:111–5.
+
+27. Rowland IR, Granli T, Bockman OC, et al. Endogenous N-nitrosation
+in man assessed by measurement of apparent total N-nitroso com-
+pounds in faeces. Carcinogenesis 1991;12:1395– 401.
+
+28. Forman D. Dietary exposure to N-nitroso compounds and the risk of
+
+human cancer. Cancer Surv 1987;6:719 –38.
+
+29. Mirvish SS. Role of N-nitroso compounds (NOC) and N-nitrosation in
+etiology of gastric, esophageal, nasopharyngeal and bladder cancer
+and contribution to cancer of known exposures to NOC [published
+erratum appears in Cancer Lett 1995;97:271]. Cancer Lett 1995;93:
+17– 48.
+
+30. Bartsch H, Spiegelhalder B. Environmental exposure to N-nitroso
+compounds (NNOC) and precursors: an overview. Eur J Cancer Prev
+1996;5(Suppl):11–7.
+
+31. Scanlan RA. Formation and occurrence of nitrosamines in food.
+
+Cancer Res 1983;43:2435S– 40S.
+
+32. Hotchkiss JH. Preformed N-nitroso compounds in foods and bever-
+
+ages. Cancer Surv 1989;8:295–321.
+
+33. Sugimura T. Nutrition and dietary carcinogens. Carcinogenesis 2000;
+
+21:387–95.
+
+34. Nagao M, Honda M, Seino Y, et al. Mutagenicities of smoke con-
+densates and the charred surface of ﬁsh and meat. Cancer Lett 1977;
+2:221– 6.
+
+35. Phillips DH. Polycyclic aromatic hydrocarbons in the diet. Mutat Res
+
+1999;443:139 – 47.
+
+36. Norat T, Riboli E. Meat consumption and colorectal cancer: a review
+
+of epidemiologic evidence. Nutr Rev 2001;59:37– 47.
+
+37. Young TB, Wolf DA. Case-control study of proximal and distal colon
+
+cancer and diet in Wisconsin. Int J Cancer 1988;42:167–75.
+
+12. Giovannucci E. Insulin and colon cancer. Cancer Causes Control
+
+38. Lyon JL, Mahoney AW. Fried foods and the risk of colon cancer [see
+
+1995;6:164 –79.
+
+13. Bruce WR, Giacca A, Medline A. Possible mechanisms relating diet
+and risk of colon cancer. Cancer Epidemiol Biomarkers Prev 2000;
+9:1271–9.
+
+14. Pence BC, Butler MJ, Dunn DM, et al. Non-promoting effects of lean
+beef in the rat colon carcinogenesis model. Carcinogenesis 1995;16:
+1157– 60.
+
+15. Mastromarino A, Reddy BS, Wynder EL. Metabolic epidemiology of
+colon cancer: enzymic activity of fecal ﬂora. Am J Clin Nutr 1976;
+29:1455– 60.
+
+16. Reddy BS, Hanson D, Mangat S, et al. Effect of high-fat, high-beef
+diet and of mode of cooking of beef in the diet on fecal bacterial
+enzymes and fecal bile acids and neutral sterols. J Nutr 1980;110:
+1880 –7.
+
+17. Giovannucci E, Goldin B. The role of fat, fatty acids, and total energy
+intake in the etiology of human colon cancer. Am J Clin Nutr
+1997;66:1564S–71S.
+
+18. West DW, Slattery ML, Robison LM, et al. Dietary intake and colon
+cancer: sex- and anatomic site-speciﬁc associations. Am J Epidemiol
+1989;130:883–94.
+
+19. Giovannucci E, Rimm EB, Stampfer MJ, et al. Intake of fat, meat, and
+ﬁber in relation to risk of colon cancer in men. Cancer Res 1994;54:
+2390 –7.
+
+20. Babbs CF. Free radicals and the etiology of colon cancer. Free Radic
+
+Biol Med 1990;8:191–200.
+
+21. Deneo-Pellegrini H, De Stefani E, Boffetta P, et al. Dietary iron and
+cancer of the rectum: a case-control study in Uruguay. Eur J Cancer
+Prev 1999;8:501– 8.
+
+22. Kato I, Dnistrian AM, Schwartz M, et al. Iron intake, body iron stores
+and colorectal cancer risk in women: a nested case-control study. Int
+J Cancer 1999;80:693– 8.
+
+23. Bingham SA. High-meat diets and cancer risk. Proc Nutr Soc 1999;
+
+58:243– 8.
+
+24. Clinton SK, Bostwick DG, Olson LM, et al. Effects of ammonium
+acetate and sodium cholate on N-methyl-N⬘-nitro-N-nitrosoguanidine-
+induced colon carcinogenesis of rats. Cancer Res 1988;48:3035–9.
+
+25. Bingham SA, Pignatelli B, Pollock JR, et al. Does increased endog-
+
+comments]. Am J Epidemiol 1988;128:1000 – 6.
+
+39. Peters RK, Garabrant DH, Yu MC, et al. A case-control study of
+occupational and dietary factors in colorectal cancer in young men by
+subsite. Cancer Res 1989;49:5459 – 68.
+
+40. Goldbohm RA, van den Brandt PA, Van ’t Veer P, et al. A prospective
+cohort study on the relation between meat consumption and the risk of
+colon cancer. Cancer Res 1994;54:718 –23.
+
+41. Gerhardsson de Verdier M, Hagman U, Peters RK, et al. Meat,
+cooking methods and colorectal cancer: a case-referent study in
+Stockholm. Int J Cancer 1991;49:520 –5.
+
+42. Singh PN, Fraser GE. Dietary risk factors for colon cancer in a
+
+low-risk population . Am J Epidemiol 1998;148:761–74.
+
+43. Augustsson K, Skog K, Jagerstad M, et al. Dietary heterocyclic
+amines and cancer of the colon, rectum, bladder, and kidney: a
+population-based study. Lancet 1999;353:703–7.
+
+44. Hsing AW, McLaughlin JK, Chow WH, et al. Risk factors for colo-
+rectal cancer in a prospective study among U.S. white men. Int J
+Cancer 1998;77:549 –53.
+
+45. Welfare MR, Cooper J, Bassendine MF, et al. Relationship between
+acetylator status, smoking, and diet and colorectal cancer risk in the
+north-east of England. Carcinogenesis 1997;18:1351– 4.
+
+46. Sinha R, Chow WH, Kulldorff M, et al. Well-done, grilled red meat
+increases the risk of colorectal adenomas. Cancer Res 1999;59:
+4320 – 4.
+
+47. Kampman E, Slattery ML, Bigler J, et al. Meat consumption, genetic
+susceptibility, and colon cancer risk: a United States multicenter
+case-control study. Cancer Epidemiol Biomarkers Prev 1999;8:15–24.
+48. Gaard M, Tretli S, Loken EB. Dietary factors and risk of colon cancer:
+a prospective study of 50,535 young Norwegian men and women. Eur
+J Cancer Prev 1996;5:445–54.
+
+49. Knekt P, Steineck G, Jarvinen R, et al. Intake of fried meat and risk
+of cancer: a follow-up study in Finland. Int J Cancer 1994;59:756 – 60.
+50. Pietinen P, Malila N, Virtanen M, et al. Diet and risk of colorectal
+cancer in a cohort of Finnish men. Cancer Causes Control 1999;10:
+387–96.
+Ilett KF, David BM, Detchon P, et al. Acetylation phenotype in
+colorectal carcinoma. Cancer Res 1987;47:1466 –9.
+
+51.
+
+COLORECTAL CANCER RISK AND MEAT CONSUMPTION
+
+249
+
+52. Lang NP, Butler MA, Massengill J, et al. Rapid metabolic phenotypes
+for acetyltransferase and cytochrome P4501A2 and putative exposure
+to food-borne heterocyclic amines increase the risk for colorectal
+cancer or polyps. Cancer Epidemiol Biomarkers Prev 1994;3:675– 82.
+53. Roberts-Thomson IC, Butler WJ, Ryan P. Meat, metabolic genotypes
+
+and risk for colorectal cancer. Eur J Cancer Prev 1999;8:207–11.
+
+54. Le Marchand L. Combined inﬂuence of genetic and dietary factors on
+colorectal cancer incidence in Japanese Americans. J Natl Cancer Inst
+Monogr 1999;101–5.
+
+55. Bell DA, Stephens EA, Castranio T, et al. Polyadenylation polymor-
+phism in the acetyltransferase 1 gene (NAT1) increases risk of colo-
+rectal cancer. Cancer Res 1995;55:3537– 42.
+
+56. Probst-Hensch NM, Sinha R, Longnecker MP, et al. Meat preparation
+and colorectal adenomas in a large sigmoidoscopy-based case-control
+study in California (United States). Cancer Causes Control 1997;8:
+175– 83.
+
+57. Chen J, Stampfer MJ, Hough HL, et al. A prospective study of
+N-acetyltransferase genotype, red meat intake, and risk of colorectal
+cancer. Cancer Res 1998;58:3307–11.
+
+58. Hardy RJ, Thompson SG. Detecting and describing heterogeneity in
+
+meta-analysis. Stat Med 1998;17:841–56.
+
+59. Dersimonian R, Laird N. Meta-analysis in clinical trials. Control Clin
+
+Trials 1986;7:177– 88.
+
+60. Greenland S, Longnecker MP. Methods for trend estimation from
+summarized dose-response data, with applications to meta-analysis.
+Am J Epidemiol 1992;135:1301–9.
+
+61. Begg CB, Mazumdar M. Operating characteristics of a rank correla-
+
+tion test for publication bias. Biometrics 1994;50:1088 –101.
+
+62. Colditz GA, Burdick E, Mosteller F. Heterogeneity in meta-analysis
+of data from epidemiologic studies: a commentary. Am J Epidemiol
+1995;142:371– 82.
+
+63. Krebs-Smith SM, Cleveland LE, Ballard-Barbash R, et al. Character-
+izing food intake patterns of American adults. Am J Clin Nutr 1997;
+65(Suppl 4):S1264 – 8.
+
+64. Riboli E, Kaaks R. The EPIC Project: rationale and study design.
+European Prospective Investigation into Cancer and Nutrition. Int J
+Epidemiol 1997;26:Suppl 1:S6 –14.
+
+65. Miettinen OS. Proportion of disease caused or prevented by a given
+
+exposure, trait or intervention. Am J Epidemiol 1974;99:325–32.
+
+66. Food and Agriculture Organization of the United Nations, Statistical
+Division. Compendium of food consumption statistics from house-
+hold surveys in developing countries. Volume 1: Asia. Rome: FAO.
+1994.
+
+67. Food and Agriculture Organization of the United Nations, Statistical
+Division. Compendium of food consumption statistics from house-
+hold surveys in developing countries. Volume 2: Africa, Latin Amer-
+ica and Oceania. Rome: FAO. 1994.
+
+80. Tuyns AJ, Kaaks R, Haelterman M. Colorectal cancer and the con-
+sumption of foods: a case-control study in Belgium. Nutr Cancer
+1988;11:189 –204.
+
+81. Lee HP, Gourley L, Duffy SW, et al. Colorectal cancer and diet in an
+Asian population: a case-control study among Singapore Chinese. Int
+J Cancer 1989;43:1007–16.
+
+82. Wohlleb JC, Hunter CF, Blass B, et al. Aromatic amine acetyltrans-
+ferase as a marker for colorectal cancer: environmental and demo-
+graphic associations. Int J Cancer 1990;46:22–30.
+
+83. Benito E, Obrador A, Stiggelbout, et al. A population-based case-
+control study of colorectal cancer in Majorca. I. Dietary factors. Int J
+Cancer 1990;45:69 –76.
+
+84. Hu JF, Liu YY, Yu YK, et al. Diet and cancer of the colon and rectum:
+
+a case-control study in China. Int J Epidemiol 1991;20:362–7.
+
+86.
+
+85. Bidoli E, Franceschi S, Talamini R, et al. Food consumption and
+cancer of the colon and rectum in north-eastern Italy. Int J Cancer
+1992;50:223–9.
+Iscovich JM, L’Abbe KA, Castelleto R, et al. Colon cancer in Argen-
+tina. I: Risk from intake of dietary items. Int J Cancer 1992;51:851–7.
+87. Steinmetz KA, Potter JD. Food-group consumption and colon cancer
+in the Adelaide Case-Control Study. II. Meat, poultry, seafood, dairy
+foods and eggs. Int J Cancer 1993;53:720 –7.
+
+88. Centonze S, Boeing H, Leoci C, et al. Dietary habits and colorectal
+cancer in a low-risk area. Results from a population-based case-
+control study in southern Italy. Nutr Cancer 1994;21:233– 46.
+
+89. Kampman E, Verhoeven D, Sloots L, et al. Vegetable and animal
+products as determinants of colon cancer risk in Dutch men and
+women. Cancer Causes Control 1995;6:225–34.
+
+90. La Vecchia C, Ferraroni M, Mezzetti M, et al. Attributable risks for
+
+colorectal cancer in northern Italy. Int J Cancer 1996;66:60 – 4.
+
+91. Shannon J, White E, Shattuck AL, et al. Relationship of food groups
+and water intake to colon cancer risk . Cancer Epidemiol Biomarkers
+Prev 1996;5:495–502.
+
+92. Franceschi S, Favero A, La Vecchia C, et al. Food groups and risk of
+
+colorectal cancer in Italy. Int J Cancer 1997;72:56 – 61.
+
+93. Murata M, Tagawa M, Watanabe S, et al. Genotype difference of
+aldehyde dehydrogenase 2 gene in alcohol drinkers inﬂuences the
+incidence of Japanese colorectal cancer patients. Jpn J Cancer Res
+1999;90:711–9.
+
+94. Levi F, Pasche C, La Vecchia C, et al. Food groups and colorectal
+
+cancer risk. Br J Cancer 1999;79:1283–7.
+
+95. Boutron-Ruault MC, Senesse P, Faivre J, et al. Foods as risk factors
+for colorectal cancer: a case-control study in Burgundy (France). Eur
+J Cancer Prev 1999;8:229 –35.
+
+96. Phillips RL, Snowdon DA. Dietary relationships with fatal colorectal
+cancer among Seventh-Day Adventists. J Natl Cancer Inst 1985;74:
+307–17.
+
+68. Haenszel W, Berg JW, Segi M, et al. Large-bowel cancer in Hawaiian
+
+97. Hirayama T. Life-style and mortality : a large-scale census-based
+
+Japanese. J Natl Cancer Inst 1973;51:1765–79.
+
+69. Dales LG, Friedman GD, Ury HK, et al. A case-control study of
+relationships of diet and other traits to colorectal cancer in American
+blacks. Am J Epidemiol 1979;109:132– 44.
+
+70. Graham S, Dayal H, Swanson M, et al. Diet in the epidemiology of
+cancer of the colon and rectum. J Natl Cancer Inst 1978;61:709 –14.
+71. Haenszel W, Locke FB, Segi M. A case-control study of large bowel
+
+cancer in Japan. J Natl Cancer Inst 1980;64:17–22.
+
+72. Manousos O, Day NE, Trichopoulos D, et al. Diet and colorectal
+
+cancer: a case-control study in Greece. Int J Cancer 1983;32:1–5.
+
+73. Miller AB, Howe GR, Jain M, et al. Food items and food groups as
+risk factors in a case-control study of diet and colo-rectal cancer. Int
+J Cancer 1983;32:155– 61.
+
+74. Pickle LW, Greene MH, Ziegler RG, et al. Colorectal cancer in rural
+
+Nebraska. Cancer Res 1984;44:363–9.
+
+75. Tajima K, Tominaga S. Dietary habits and gastro-intestinal cancers: a
+comparative case- control study of stomach and large intestinal can-
+cers in Nagoya, Japan. Jpn J Cancer Res 1985;76:705–16.
+
+76. Macquart-Moulin G, Riboli E, Cornee J, et al. Case-control study on
+colorectal cancer and diet in Marseilles. Int J Cancer 1986;38:183–91.
+77. Kune S, Kune GA, Watson LF. Case-control study of dietary etiolog-
+ical factors: the Melbourne Colorectal Cancer Study. Nutr Cancer
+1987;9:21– 42.
+
+78. Vlajinac H, Adanja B, Jarebinski M. Case-control study of the rela-
+tionship of diet and colon cancer. Arch Geschwulstforsch 1987;57:
+493– 8.
+
+79. La Vecchia C, Negri E, Decarli A, et al. A case-control study of diet
+and colo-rectal cancer in northern Italy. Int J Cancer 1988;41:492– 8.
+
+cohort study in Japan Basel, New York: Karger, 1990. 73–95.
+
+98. Thun MJ, Calle EE, Namboodiri MM, et al. Risk factors for fatal
+colon cancer in a large prospective study. J Natl Cancer Inst 1992;
+84:1491–500.
+
+99. Willett WC, Stampfer MJ, Colditz GA, et al. Relation of meat, fat, and
+ﬁber intake to the risk of colon cancer in a prospective study among
+women. N Engl J Med 1990;323:1664 –72.
+
+100. Bostick RM, Potter JD, Kushi LH, et al. Sugar, meat, and fat intake,
+and non-dietary risk factors for colon cancer incidence in Iowa
+women (United States). Cancer Causes Control 1994;5:38 –52.
+
+101. Kato I, Akhmedkhanov A, Koenig K, et al. Prospective study of diet
+and female colorectal cancer: the New York University Women’s
+Health Study. Nutr Cancer 1997;28:276 – 81.
+
+102. Knekt P, Jarvinen R, Dich J, et al. Risk of colorectal and other
+gastro-intestinal cancers after exposure to nitrate, nitrite and N-nitroso
+compounds: a follow-up study. Int J Cancer 1999;80:852– 6.
+
+103. Willett W. Nutritional Epidemiology. Second Edition. New York:
+
+Oxford University Press, 1998. 514 p.
+
+104. Doll R, Peto R. The causes of cancer: quantitative estimates of
+avoidable risks of cancer in the United States today. J Natl Cancer Inst
+1981;66:1191–308.
+
+105. Willett WC. Diet, nutrition, and avoidable cancer. Environ Health
+
+Perspect 1995;103 Suppl 8:165–70.
+
+106. Platz EA, Willett WC, Colditz GA, et al. W.W.C.G.R.E.S. Proportion
+of colon cancer risk that might be preventable in a cohort of middle-
+aged US men. Cancer Causes Control 2000;11:579 – 88.
+
+107. La Vecchia C. Population-attributable risk for colon cancer in Italy.
+
+Nutr Cancer 1999;33:196 –200.
+
+250
+
+NORAT ET AL.
+
+APPENDIX I – CORRECTION FACTORS BY GEOGRAPHICAL AREA AND PER CAPUT ENERGY INTAKE1
+
+Geographical area
+
+North America
+
+USA Females
+USA Males
+South America
+
+Brazil
+
+Caribbean
+St Lucia
+Trinidad Tobago
+
+Europe (EPIC)
+Eastern Europe
+Poland males
+Poland females
+Novosibirsk males
+Novosibirsk females
+Kaunas males
+Kaunas females
+High Income Asia
+
+Japan
+
+Middle Income Asia
+
+Philippines
+
+Low Income Asia
+
+Bangladesh
+Indonesia
+Pakistan
+Sri Lanka
+
+Middle East Asia
+
+Turkey
+
+China
+India
+North Africa
+
+Morocco
+Tunisia
+
+Sub-Saharian Africa
+
+Cote d’Ivoire
+Rwanda Rural
+Togo
+
+Average correction factor
+
+Survey
+
+Energy
+
+(kcal/day)
+
+Year
+
+FAO energy
+
+(kcal/day)
+
+1742
+2593
+
+2262
+
+1881
+2948
+
+2579
+1886
+2907
+2028
+3232
+2792
+
+2034
+
+1769
+
+1773
+1859
+2390
+2281
+
+2105
+2467
+2719
+
+2466
+2275
+
+2104
+2444
+2026
+
+1974/75
+
+1974
+1970
+
+1982–85
+
+1993
+
+1978
+
+1973/74
+
+1987
+
+1984/85
+1981/82
+
+1981/82
+
+1990
+
+1971/72
+
+1970/71
+
+1985
+
+1979
+
+1982/83
+1988/89
+
+3562
+3562
+
+2488
+
+2067
+2481
+
+3351
+3351
+3385
+3385
+3385
+3385
+
+2893
+
+2149
+
+1912
+2475
+2161
+2263
+
+3285
+2668
+2022
+
+2442
+2935
+
+2799
+2279
+2235
+
+Correction factor
+
+Females
+
+0.49
+
+0.77
+0.89
+
+0.60
+0.66
+
+0.60
+
+0.70
+
+0.80
+
+0.54
+
+0.79
+1.14
+0.76
+
+0.77
+
+0.85
+
+Males
+
+0.73
+
+1.06
+1.23
+
+0.81
+0.86
+
+0.82
+
+0.96
+
+1.11
+
+0.75
+
+1.08
+1.57
+1.04
+
+1.06
+
+1.17
+
+1kcal/day, from surveys60,61 and Food Balance Sheets (F.A.O.).
+
+APPENDIX II – TOTAL MEAT, RED MEAT AND PROCESSED MEAT INTAKE AND COLORECTAL CANCER CASE-CONTROL STUDIES
+
+Author, location
+
+Design
+
+Type of meat and partition
+
+OR (95% CI)
+
+Adjustment
+
+Haenzsel et al., 197368 Hawaiian-Japanese
+
+Hawaii
+
+Colorectal 179 Control 357
+Recruitment 1966–1970
+FFQ2
+
+Meat, total (times/month)
+ⱕ20
+20–39
+ⱖ40
+
+Sausage and other processed pork (times/month)
+⬎6
+6–11
+12–23
+ⱖ24
+
+1
+2.2
+2.45
+
+1
+1.27
+1.35
+2.35
+
+Dales et al., 197869
+
+USA
+
+Graham et al., 197870
+
+USA
+
+Colorectum 77
+Controls 215
+American Blacks
+Recruitment: 1973–1976
+FFQ (89)2
+
+White males
+Colon 256 Controls 783
+Rectum 330 Controls 628
+Recruitment: 1959–19653
+
+Haenszel et al., 198071
+
+Colorectum 588 Controls 5882
+
+All meat (times/month)
+⬎66 vs. ⱕ66
+Nitrite-treated meats
+
+(times/month)
+
+⬎32 vs. ⱕ32
+
+Meats, including ﬁsh
+
+(times/month)
+
+0.–20
+21–30
+31–40
+41–50
+50⫹
+Bacon: Not associated
+
+Meat, total (times/month)
+ⱖ12 vs. ⬍12
+
+Unadjusted: 1.54 (0.90–2.66)
+Adjusted: 1.67
+Unadjusted: 1.48 (0.87–2.51)
+
+Adjusted: 1.22
+
+Age, gender,
+
+other foods,
+parity,
+smoking,
+others
+
+Colon
+1
+0.65
+0.59
+0.70
+0.30
+
+Rectum
+1
+1.01
+1.42
+1.45
+1.77
+
+0.87 NS
+
+Age, gender,
+prefecture
+
+Japan
+
+Manousos et al.,
+
+198372
+
+Greece
+
+Colorectum 100 Controls 100
+Recruitment: 1979–1980
+FFQ (80)2
+
+Meat, ﬁsh, eggs, novel protein
+Highest vs. lowest quartile: not reported.
+
+p ⫽ 0.01
+
+COLORECTAL CANCER RISK AND MEAT CONSUMPTION
+
+251
+
+APPENDIX II – TOTAL MEAT, RED MEAT AND PROCESSED MEAT INTAKE AND COLORECTAL CANCER CASE-CONTROL STUDIES (CONTINUED)
+
+Author, location
+
+Design
+
+Type of meat and partition
+
+OR (95% CI)
+
+Adjustment
+
+Miller et al., 198373
+
+348 colon (171 male and 177
+
+Sausages, cold cuts, luncheon meats and animal organs servings/week
+
+Age, gender,
+
+Males
+⬍10.1
+⬍29.1
+ⱖ29.1
+
+Females
+⬍5.1
+⬍17
+ⱖ17
+
+Colon
+1
+0.8
+1.0
+
+Males
+
+Rectum
+1
+1.1
+1.3
+
+Meat, total (serving/week)
+
+ⱖ12.6 vs. ⬍12.6
+Beef, pork, lamb, mutton, wild
+
+game (serving/week)
+
+ⱖ6 vs. ⬍6
+Bacon, sausage, lunch meat,
+
+corned beef (serving/week)
+
+Colon: 1.71
+Rectum: 1.06
+Colon: 1.09
+Rectum: 1.25
+Colon: 1.16
+Rectum: 1.37
+
+Canada
+
+female)
+
+194 rectum (114 male and 80
+
+female)
+
+542 hospital and 535 population
+
+controls
+1976–1978
+
+Pickle et al., 198474
+
+USA
+
+Colon 58 Rectum 28
+Controls 176
+Recruitment: 1970–1977
+Mean age: 74 FFQ (57)
+Rural area2
+
+Tajima and Tominaga,
+
+198575
+
+Japan
+
+Colon 42 Rectum 51
+Controls 186
+Age 40–74
+Recruitment: 1981–1983 FFQ2
+
+Macquart-Moulin et
+
+al., 198676
+
+France
+
+Colorectal 399 Control 399
+Recruitment: 1979–1984
+Mean age ⫽ 65 FFQ (158)2
+
+Kune et al., 198777
+
+Australia
+
+Colon 392 Rectum 323
+Controls 727
+Recruitment: 1980–1981
+Dietary history (⫹300)3
+
+Vlajinac et al., 198778
+
+Colon 81 Controls 162 Hospital
+
+Belgrade
+
+and neighbourhood controls
+age 24–85
+
+Recruitment: 1984–1986
+FFQ (49)
+
+La Vecchia et al.,
+
+198879
+
+Italy
+
+Young et al., 198837
+
+USA
+
+Tuyns et al., 198880
+
+Belgium
+
+Colon 339 Rectum 236
+Controls 778
+Age ⬍ 75
+Recruitment: 1985–1987
+FFQ (29)2
+
+Colon 353 Controls: 618
+white Americans
+Age 35–89
+Recruitment: 1981–1982
+FFQ (25)3
+
+Colon 453 Rectum: 365
+Controls: 3669
+Recruitment: 1978–1982
+Age: 35–75
+FFQ (extensive list)3
+
+ⱖ3 vs. ⬍3
+
+Ham and sausage
+Low
+Medium
+High
+
+Fresh meat Quartiles
+Reference: lowest
+
+“Charcuterie” Quartiles
+Reference: lowest
+
+Males
+⬍830
+⬍1011
+⬍1270
+⬍1600
+⬍1600
+
+Meat (g/week)
+
+Females
+⬍602
+⬍757
+⬍890
+⬍1080
+⬎1080
+
+Meat (times/month)
+⬍24
+24–42
+43–63
+64⫹
+Nitrite-treated meats over and
+
+above the median
+
+Highest vs. lowest tertile
+
+Raw ham
+Ham
+Salami and sausages
+
+Any meat-based meal
+Diet over 35 years
+20 vs. 1/month
+Bacon, ham, lunchmeat
+Sausage, hot dogs, processed
+
+lunch meat
+
+Fresh meat, smoked meat.
+⬍705
+⫺906
+⫺1175
+⫹1175 g/w
+
+Meat, except poultry and rabbit
+⬍575
+⫺767
+⫺1015
+⫹1015 g/w
+
+Charcuterie g/w
+0
+⬍50
+50–125
+⬎125
+
+other foods,
+saturated fat
+
+Females
+
+Colon
+1
+0.9
+1.0
+
+Rectum
+1
+0.9
+1.2
+
+Age, gender,
+
+ethnic group,
+others
+
+Gender, age
+
+Age, gender,
+
+total energy,
+weight
+
+Age, gender
+
+Colon
+1
+2.19
+2.874
+
+1
+1.32
+1.40
+0.89
+1
+1.31
+0.88
+0.89
+
+Males
+1
+0.69
+0.65
+0.80
+1.13
+
+Rectum
+1
+0.60
+0.60
+
+Females
+1
+0.98
+0.77
+0.66
+0.76
+
+vs. Hospital
+1
+1.25
+1.34
+2.34
+
+vs. Neighbours
+1
+0.63
+1.26
+9.20
+Hospital:1.10
+
+Colon
+1.01
+1.04
+1.05
+
+Neighbours: 0.81
+Rectum
+1.05
+0.73
+0.73
+
+Age, gender,
+education,
+area, other
+foods
+
+No differences between cases and controls
+1.85 (1.33–2.58)
+OR not reported, p ⬍ 0.15
+
+Age, gender,
+
+province
+
+Colon
+1
+1.00
+0.98
+0.82
+
+Colon
+1
+0.90
+0.89
+0.89
+
+Colon
+1
+1.16
+0.83
+0.90
+
+Rectum
+1
+1.00
+0.67
+0.754
+
+Rectum
+1
+0.78
+0.74
+0.575
+
+Rectum
+1
+1.38
+0.94
+0.98
+
+Lee et al., 198981
+
+Singapore
+
+Colorectum 203:426
+Males 121:239
+Females 82:187
+Chinese origin
+Colon 77 males 55 females
+Rectum 44 males 27 females
+Recruitment: 1985–1987
+FFQ (116)2
+
+Red meat and poultry excluding ﬁsh and liver (g/day)
+
+Males
+⬍59.8
+⬍112.2
+⬎112.2
+
+Females
+⬍30.3
+⬍73.3
+⬎73.37
+
+Colorectum
+1
+1.17 (0.75–1.80)
+1.18 (0.76–1.83)
+
+Colon
+1
+1.13 (0.67–1.89)
+1.30 (0.78–2.17)
+
+Age, gender,
+
+dialect,
+education
+
+Rectum
+1
+1.17 (0.61–2.23)
+0.91 (0.46–1.81)
+
+252
+
+NORAT ET AL.
+
+APPENDIX II – TOTAL MEAT, RED MEAT AND PROCESSED MEAT INTAKE AND COLORECTAL CANCER CASE-CONTROL STUDIES (CONTINUED)
+
+Author, location
+
+Design
+
+Type of meat and partition
+
+OR (95% CI)
+
+Adjustment
+
+Pork, beef, mutton (g/day)
+
+Males
+⬍43.9
+⬍79
+⬎79
+
+Females
+⬍19.9
+⬍47.5
+⬎47.5
+
+Colorectum
+1
+1.18 (0.77–1.81)
+1.29 (0.84–1.97)
+
+Colon
+1
+1.01 (0.60–1.70)
+1.41 (0.87–2.31)
+
+Rectum
+1
+1.43 (0.75–2.74)
+0.97 (0.48–1.92)
+
+⬎1 time/wk vs. less
+
+Cured or smoked bacon
+⬎1 time/wk vs. less
+Fresh meat times/month
+⬍16
+⬍25
+26–32
+ⱖ32
+
+Cured or smoked luncheon meat
+
+2.9 (1.2–7.1) p ⫽ 0.03
+
+5.0 (0.99–25)
+
+Colorectum
+1
+2.30
+2.11
+2.525
+
+Processed meat
+times/month
+
+0
+⬍11
+11–22
+ⱖ22
+
+Colorectum
+1
+1.35
+1.42
+1.36
+
+Colon
+1
+1.97
+1.99
+2.875
+
+Rectum
+1
+1.98
+2.05
+2.42
+
+Age, gender,
+weight 10
+years prior,
+education,
+occupation,
+physical
+activity, other
+foods
+
+Meat intake before 1966
+ⱖ2 kg/year vs. ⬍2
+Colon not signiﬁcant
+Male rectum not signiﬁcant
+Females rectum 2.06 (1.13–3.75)
+
+Wohlebb et al., 199082
+
+USA
+
+Colorectum 43 Controls 41
+Males
+Age 45–75 FFQ (55)2
+
+Benito et al., 199083
+
+Spain
+
+Hu et al., 199184
+
+China
+
+Colon: 144
+Males 72 Females 72
+Rectum 130
+Males 74 Females 56
+Population controls 295
+Age ⬍ 80
+Recruitment: 1984–1988
+FFQ (99)
+
+Colon 111 Rectum 225
+Controls 336
+Recruitment: 1985–1988
+FFQ (25)2
+
+Gerhardsson et al.,
+
+199141
+
+Sweden
+
+Colon 452 Rectum 268
+Controls: 624
+Recruitment: 1986–1988
+FFQ (55)3
+
+Bidoli et al., 199285
+
+Italy
+
+Colon 123 Rectum 125
+Controls 699
+Mean age: Controls 56.4
+Colon 57 Rectum 62
+Recruitment:
+1986–1990
+FFQ2
+
+Meat intake before 1985
+ⱖ5 kg/year vs. none
+Colon males not signiﬁcant
+Colon females not signiﬁcant
+Rectum Male 3.38 (1.65–6.95)
+Rectum Females not signiﬁcant
+
+Beef, pork, ham, bacon,
+
+sausages
+serving/year
+⬍85
+⬍167
+⬍215
+ⱖ215
+
+Bacon/smoked ham
+More seldom
+1–3 ts/month
+⬎once/week
+
+Sausage fried
+More seldom
+1–3 times/month
+⬎once/week
+
+Sausage oven-roasted
+More seldom
+1–3 ts/month
+⬎once/week
+
+Sausage boiled
+More seldom
+1–3 ts/month ⬎once/week
+
+Beef and pork
+Lowest tertile
+Second tertile
+Highest tertile
+
+Highest vs. lowest tertile
+
+Cured ham
+Boiled ham
+Salami and sausages
+
+Colon
+1
+1.1
+1.3
+1.3
+1.4
+Colon
+1
+0.9 (0.7–1.3)
+1.3 (0.8–1.9)
+
+Colon
+1
+0.9 (0.7–1.3)
+1.3 (0.8–1.9)
+
+Colon
+1
+1.0 (0.7–1.3)
+1.0 (0.6–1.4)
+
+Colon
+1
+1.2 (0.8–1.7)
+1.2 (0.5–2.8)
+
+Colon
+1
+1.5
+1.6
+
+Colon
+
+1.4 NS
+1.3 NS
+1.84
+
+Rect.
+1
+1.6
+1.3
+1.7
+2.44
+Rectum
+1
+1.5 (1.0–2.2)
+1.7 (1.1–2.8)4
+
+Rectum
+1
+1.5 (1.0–2.2)
+1.7 (1.1–2.8)4
+
+Rectum
+1
+1.0 (0.7–1.6) 1.5
+(0.9–2.3)
+
+Rectum
+1
+1.3 (0.9–2.0)
+2.1 (0.9–4.9)4
+
+Rectum
+1
+1.5
+2.05
+
+Rectum
+
+1.6 NS
+1.2 NS
+1.94
+
+Age, gender,
+
+protein, boiled
+and fried meat
+intake
+
+Age, gender,
+
+social status
+
+Age, gender,
+
+social-class
+strata,
+macronutrients,
+alcohol,
+calcium,
+physical
+activity,
+weight, family
+history,
+pregnancy
+history
+
+Age, gender,
+residence,
+other foods
+
+Peters et al., 199239
+
+White men and women 746
+
+Beef, pork or lamb as
+
+USA
+
+colon cancer (327 females,
+419 males) 746 hospital-
+based controls
+
+Incidence: 1983–86
+FFQ (116)
+
+sandwuich, mixed or main
+dish)
+
+RR per 10 servings/month
+Bacon, hot dogs, salami,
+
+bologna, etc.
+
+RR per 10 servings/month
+
+Both genders:
+1.04 (0.92–1.19)
+Males: 1.184
+Females: 1.145
+Both genders: 0.99 (0.93–1.06)
+Males: 1.05
+Females: 1.125
+
+Iscovich et al., 199286
+
+Argentina
+
+Colon 110
+Controls: 220
+Recruitment: 1985–1987
+Age: 35–80 FFQ (140)3
+
+Fresh meat (times/year)
+⬍269
+269–381
+382–392
+⬎392
+
+1
+0.93 (0.42–2.03)
+0.30 (0.11–0.80)
+0.41 (0.19–0.91)5
+
+COLORECTAL CANCER RISK AND MEAT CONSUMPTION
+
+253
+
+APPENDIX II – TOTAL MEAT, RED MEAT AND PROCESSED MEAT INTAKE AND COLORECTAL CANCER CASE-CONTROL STUDIES (CONTINUED)
+
+Author, location
+
+Design
+
+Type of meat and partition
+
+OR (95% CI)
+
+Adjustment
+
+Red Meat (times/year)
+⬍176
+176–315
+⬎315
+
+Processed (times/year)
+⬍16
+16–76
+76–198
+⬎198
+
+1
+2.29 (1.03–5.08)
+0.82 (0.39–1.70)
+
+1
+0.83 (0.41–1.69)
+0.86 (0.42–1.79)
+0.43 (0.21–0.89)4
+
+Steinmetz et al.,
+
+199387
+Australia
+
+Colon
+Males 121 cases, 241 controls
+Females 99 cases, 197 controls
+Recruitment: 1979–1980
+Age: 30–74
+FFQ (165)3
+
+Centonze et al., 199488
+
+Italy
+
+Colorectum 119 Controls 121
+Rural Area
+Median age: 67
+Recruitment: 1987–1989
+FFQ (70)3
+
+Kampman et al.,
+
+199589
+
+Netherlands
+
+232: 259
+Males 130:136
+Females 102:123
+Age ⬍ 75
+Recruitment: 1989–1993
+FFQ (289)3
+
+La Vecchia et al.,
+
+199690
+
+Italy
+
+Shannon et al., 199691
+
+USA
+
+Franceschi et al.,
+
+199792
+
+Italy
+
+Colon 828 Rectum 498
+Controls: 2024 Hospital based
+Age: 20–74
+Recruitment: 1985–1992
+FFQ (29)
+Colon
+Males 238:224
+Females 186:190
+Age: 30–62
+Recruitment: 1985–1989
+FFQ (71)3
+
+Colon Males 238:224
+Females 186:190
+Age 30–62
+Recruitment 1985–1989
+FFQ (71)3
+
+Colon 1225 Rectum 728
+Controls 4154
+Age: 19–74
+Recruitment: 1992–1996
+FFQ (79)3
+
+Red meat, processed meat (servings/week)
+Males
+ⱕ7.4
+7.5–10.9
+11–14.4
+ⱖ14.5
+
+Females
+ⱕ6.1
+6.2–8.1
+8.2–11.2
+ⱖ11.3
+
+Males
+1
+0.53 (0.27–1.04)
+0.71 (0.37–1.33)
+1.18 (0.62–2.25)
+
+Females
+1
+0.57 (0.27–1.20)
+1.17 (0.57–2.40)
+0.95 (0.45–1.99)
+
+Age, gender,
+
+occcupation,
+Quetelet
+index, alcohol
+intake
+
+Red meat (servings/week)
+Males
+Females
+ⱕ3.4
+ⱕ3.9
+3.5–5.0
+4.0–5.5
+5.1–7.1
+5.6–8.2
+ⱖ8.3
+ⱖ7.2
+
+Processed meat (servings/week)
+Males
+ⱕ2.2
+2.3–4.3
+4.4–7.6
+ⱖ7.7
+
+Females
+ⱕ1.4
+1.5–2.8
+2.9–4.3
+ⱖ4.4
+
+Males
+1
+1.80 (0.92–3.52)
+1.64 (0.82–3.27)
+1.59 (0.81–3.13)
+
+Females
+1
+1.44 (0.70–2.93)
+1.15 (0.57–2.32)
+1.48 (0.73–3.01)
+
+Males
+1
+0.69 (0.35–1.37)
+0.68 (0.35–1.34)
+1.03 (0.55–1.95)
+
+Females
+1
+0.54(0.25–1.23)
+0.81 (0.37–1.77)
+0.77 (0.35–1.68)
+
+Meat, ﬁsh, eggs (g/day)
+⬍149
+150–199
+⫹199
+
+Fresh Meat (g/day)
+⬍87
+88–131
+⬎131
+
+Processed (g/day)
+2
+ⱖ3
+
+Red meat (g/d)
+⬍52
+52–72
+73–94
+⬎94
+Males
+⬍60
+60–83
+84–102
+⬎102
+
+Females
+⬍38
+38–59
+60–83
+⬎83
+
+1
+0.8 (0.41–1.54)
+0.74 (0.38–1.44)
+
+1
+1.16 (0.62–2.19)
+0.74 (0.37–1.45)
+
+1
+1.01 (0.57–1.69)
+
+Both genders
+1
+0.80 (0.47–1.38)
+0.91 (0.54–1.55)
+1.11 (0.65–1.90)
+Males
+1
+0.80 (0.39–1.61)
+0.57 (0.27–1.30)
+0.89 (0.43–1.81)
+p ⫽ 0.62
+
+Females
+1
+1.82 (0.75–4.46)
+2.71 (1.15–6.38)
+2.35 (0.97–5.56)
+p ⫽ 0.04
+
+Red meat
+More than 4 times/week vs.
+
+less
+
+Colorectum: 1.6 (1.4–1.9)
+Colon: 1.6 (1.3–1.9)
+Rectum: 1.6 (1.3–2.0)
+
+Total meat (including ﬁsh) serving/day
+Males
+0.–1.5
+1.5–1.9
+2–2.6
+⬎2.6
+
+Females
+0.–1.17
+1.18–1.53
+1.54–2.08
+⬎2.08
+
+Males
+1
+0.79 (0.44–1.41)
+1.18 (0.68–2.05)
+1.52 (0.84–2.77)
+
+Females
+1
+0.67 (0.36–1.24)
+0.76 (0.40–1.45)
+0.78 (0.39–1.55)
+
+Red meat serving/day
+Males
+0.–0.78
+⬎0.78–1.2
+⬎1.2–1.7
+⬎1.7
+
+Females
+0.–0.49
+⬎0.49–0.79
+⬎0.79–1.2
+⬎1.2
+
+Males
+1
+1 (0.58–1.74)
+1.05 (0.61–1.83)
+1.48 (0.82–2.66)
+
+Females
+1
+0.90 (0.50–1.64)
+1.03 (0.55–1.90)
+0.72 (0.37–1.38)
+
+Red meat serving/wk
+⬍2.3
+⬍3.5
+⬍4.8
+⬍6.3
+⬎6.3
+OR per 1 serving/day
+
+Processed meat serving/wk
+⬍1
+⬍2
+
+Colorectum
+1
+0.98 (0.83–1.17)
+1.12 (0.94–1.34)
+1.0 (0.83–1.21)
+1.14 (0.93–1.39)
+Colorectum 1.09 (0.90–1.31)
+Colon 1.06 (0.85–1.32)
+Rectum 1.16 (0.88–1.52)
+Colorectum
+1
+1.21 (1.03–1.42)
+
+Age, gender,
+smoking,
+education,
+changes in
+diet
+
+Age, gender,
+
+total energy,
+alcohol intake
+family
+history, others
+
+Age, gender,
+education,
+area, other
+foods, energy,
+family history
+
+Age, gender,
+
+total energy
+
+Age, gender,
+education,
+total energy,
+physical
+activity,
+others
+
+254
+
+NORAT ET AL.
+
+APPENDIX II – TOTAL MEAT, RED MEAT AND PROCESSED MEAT INTAKE AND COLORECTAL CANCER CASE-CONTROL STUDIES (CONTINUED)
+
+Author, location
+
+Design
+
+Type of meat and partition
+
+OR (95% CI)
+
+Adjustment
+
+Le Marchand et al.,
+
+199754
+
+Hawaii
+
+Prevalent and incidents
+Colorectum
+(Males 698 Females 494)
+
+Right colon (Males 197
+
+Females 164)
+
+Left colon (Males 270 Females
+
+194)
+
+Rectum (Males 221 Females
+
+129)
+
+Controls 1192
+Multiethnic
+Recruitment: 1987–1989
+FFQ (⬎280)3
+
+Colon 521 Rectum 249
+Controls 553
+Age: 51–77
+Recruitment: 1992–1994
+FFQ (188)3
+
+Colon 265 Rectum 164
+Controls 794
+Recruitment: 1989–1997
+FFQ2
+
+Colon
+1542 cases/1860 controls
+Age: 30–79
+Males 868/989
+Females 674/871
+Recruitment: 1992–1995
+FFQ (800)3
+
+Augustsson et al.,
+
+199943
+
+Sweden
+
+Murata et al., 199993
+
+Japan
+
+Kampman et al.,
+
+199947
+
+USA
+
+Levi et al., 199994
+
+Switzerland
+
+Colon 119 Rectum 104
+Control 491
+Mean age: 63
+Recruitment: 1992–1997
+FFQ (70)2
+
+Boutron-Ruault et al.,
+
+199995
+
+France
+
+Right colon: 43
+Left colon: 63
+Rectum: 65
+Controls: 309
+Age 30–79
+Recruitment: 1985–1990
+Dietary history3
+
+⬍3
+⬍4
+⬎4
+OR per 1 serving/day
+
+Red meat
+Colorectum (quartiles,
+
+reference: lowest)
+
+Tertiles (reference: lowest)
+Right colon
+Left colon
+Rectum
+Processed meat
+
+(quartiles)
+
+Right colon
+Left colon
+Rectum
+
+Total meat and ﬁsh intake
+Quintiles. Reference category:
+
+lowest
+
+Total meat excluding ﬁsh.
+Every day vs. rare
+
+1.06 (0.89–1.26)
+1.24 (1.02–1.49)
+1.02 (0.84–1.24)
+Colorectum 0.97 (0.79–1.18)
+Colon: 1.08 (0.87–1.36)
+Rectum: 0.78 (0.57–1.06)
+
+Males
+1-1.2-1.5-
+1.6 (1.0–2.5)
+
+1-1.5-2.34
+1-0.9-1.1
+1-1.2-1.3
+1-1.7-2.2
+2.3 (1.5–3.4)5
+1-1.1-1.6
+1-1.6-1.4
+1-1.1-2.2
+
+Females
+1-0.8-0.7-
+0.7 (0.4–1.2)
+
+1-1.2-0.8
+1-0.8-0.8
+1-0.90.7
+1-0.8-1.1
+1.2 (0.8–2.0)
+1-1.2-1.0
+1-0.8-1.1
+1-0.8-0.8
+
+Colon
+1.4 (0.9–2.2)
+1.4 (0.9–2.1)
+1.7 (1.1–2.6)
+0.9 (0.5–1.4)
+Colon: 1.41 (1.13–1.77)5
+Rectum: 1.33 (1.01–1.77)4
+
+Rectum
+1.4 (0.9–2.3)
+1.4 (0.8–2.3)
+1.4 (0.9–2.4)
+1.0 (0.6–1.6)
+
+Red meat: beef and ham (servings/week)
+Males
+Males
+1
+ⱕ2.2
+0.8 (0.6–1.0)
+2.3–3.7
+1.1 (0.8–1.0)
+3.8–5.6
+1.0 (0.7–1.4)
+5.7–8.8
+⬎8.8
+0.9 (0.7–1.3)
+
+Females
+ⱕ1.5
+1.6–2.5
+2.6–4.0
+4.1–6.2
+⬎6.2
+
+Processed meat: bacon, sausages, cold cuts
+Males
+ⱕ0.5
+0.6–1.0
+1.1–1.8
+1.9–3.1
+⬎3.1
+
+Females
+1
+1.1 (0.8–1.6)
+1.2 (0.9–1.8)
+1.3 (1.0–1.8)
+1.4 (1.0–1.9) ⬎1.7
+
+Males
+ⱕ0.2
+0.3–0.5
+0.6–0.9
+1.0–1.7
+
+Females
+1
+1.1 (0.8–1.5)
+1.3 (0.9–1.8)
+1.3 (0.9–1.8)
+1.0 (0.7–1.5)
+
+Females
+1
+1.3 (1.0–1.9)
+1.2 (0.9–1.7)
+1.3 (0.9–1.8)
+1.1 (0.8–1.6)
+
+Red meat (serving/week)
+
+Colorectum
+
+⬍2.25
+2.25–3.75
+⬎3.75
+
+OR for 1 serving/day
+
+Pork and processed meat
+
+(serving/week)
+
+⬎2.25
+2.25–3.75
+⬎3.75
+OR for 1 serving/day
+
+Fresh meat g/d
+Males
+82.1
+⬍105.0
+⬍127.1
+⬎127.1
+
+Females
+56.5
+⬍81.4
+⬍102.6
+⬎102.6
+
+Delicatessen (g/day)
+Males
+⬍19.2
+⬍34.7
+⬍55.3
+⬎55.3
+
+Females
+⬍11.2
+⬍21.2
+⬍33.3
+⬎33.3
+
+1
+1.27 (0.81–2.02)
+2.06 (1.29–3.30)5
+
+Colorectum 1.54 (1.28–1.85)
+Colon 1.63 (1.30–2.04)
+Rectum 1.50 (1.2–1.88)
+
+Colorectum
+1
+1.12 (0.68–1.85)
+2.33 (1.42–3.830)5
+Colorectum 1.27 (1.13–1.43)
+Colon 1.34 (1.17–1.53)
+Rectum 1.18 (1.02–1.37)
+
+Both genders
+1
+1.2 (0.7–2.0)
+1.0 (0.6–1.8)
+1.2 (0.6–2.1)
+
+Both genders
+1
+1.6 (0.9–2.9)
+1.2 (0.6–2.2)
+2.4 (1.3–4.5)5
+
+Age, gender,
+ethnicity,
+family
+history,
+alcohol,
+tobacco, BMI,
+total energy,
+others
+
+Age, gender,
+
+energy
+
+Age, alcohol,
+
+tobacco,
+gender, eating
+attitude other
+foods
+
+Age, gender,
+
+total energy,
+BMI, dietary
+ﬁber, tobacco,
+other
+
+Education,
+tobacco,
+alcohol, BMI,
+vegetables,
+total energy,
+physical
+activity
+
+Age, gender,
+
+total energy
+
+1FFQ, food frequency questionnaire. Number of items between parentheses.–2Hospital-based.–3Population-based.–4p ⬍ 0.05.–5p ⬍ 0.01.
+
+COLORECTAL CANCER RISK AND MEAT CONSUMPTION
+
+255
+
+APPENDIX III – COHORT STUDIES
+
+Author, location
+
+Design
+
+Type of meat and partition
+
+OR (95% CI)
+
+Adjustment
+
+Phillips and Snowdon, 198596
+
+Colorectum Cancer
+
+Meat (times/week)
+
+Age, gender
+
+Seventh-day Adventist,
+USA
+
+Hirayama, 199097 Japan
+
+Thun et al., 199298
+
+Cancer Prevention Study,
+USA
+
+Mortality
+
+Colon 147 Rectum 35
+Cohort: 25493 subjects
+Age ⬎ 35
+Recruitment: 1960–1980 ⱖ4
+Follow-up 20 years FFQ
+
+⬍1
+1–3
+
+(21)
+
+Colorectal Cancer
+
+Mortality
+
+Age 40 or older
+Intestine: 256 men, 318
+
+women
+
+Rectum: 316 men, 247
+
+women
+
+Cohort: 265118 subjects
+Follow-up: 1966–1982
+
+Colon Cancer Mortality
+Deaths: 2757 Subjects
+
+1185124
+
+Mean age: 57
+Recruitment: 1982
+Follow-up: 2 years
+FFQ (42)
+
+Meat
+Daily
+Occasional
+Rare
+None
+
+Daily
+Occasional
+Rare
+None
+
+Meat excluding ﬁsh and poultry
+Quintiles
+References: lowest
+Red meat (g/day)
+
+1
+1.4 (1.0–1.9)
+
+0.9 (0.6–1.5)
+
+Males
+
+Intestine
+Rectum
+1
+1
+1.86 (1.17–2.97)
+1.50 (1.01–2.22)
+1.52 (0.90–2.57)
+1.47 (0.95–2.28)
+1.89 (0.84–2.47) 1.54 (0.74–3.20)
+
+Females
+
+Rectum
+1
+
+Intestine
+1
+0.83 (0.59–1.18) 1.20 (0.76–1.91)
+0.74 (0.50–1.10) 1.08 (0.65–1.79)
+0.95 (0.57–1.56) 1.41 (0.77–2.60)
+
+Males
+1
+1.12
+1.08
+1.01
+1.21
+
+Females
+1
+0.92
+1.06
+0.91
+1.05
+
+Willett et al., 199099
+
+The Nurses Health Cohort Study,
+USA
+
+Colon: 150 cases
+Cohort: 8875 women
+Age: 34–59
+(512 488 person/years)
+Recruitment: 1980–1986
+FFQ (61)
+
+⬍59
+59–83
+84–105
+106–133
+ⱖ134
+
+Age, energy
+
+Age, obesity, total energy,
+family history, alcohol,
+tobacco, physical
+activity, others
+
+1
+1.16 (0.67–1.99)
+0.25 (0.73–2.13)
+1.13 (0.65–1.97)
+1.77 (1.09–2.88)2
+
+1
+1.09 (0.70–1.69)
+1.45 (0.91–2.31)
+1.86 (1.16–2.98)
+1.21 (0.53–2.72)2
+
+1
+0.97 (0.62–1.54)
+0.98 (0.62–1.56)
+1.21 (0.77–1.88)
+1.71 (1.15–2.55)2
+
+1
+1.25 (0.87–1.80)
+1.40 (0.92–2.13)
+1.67 (1.06–2.61)
+1.16 (0.44–3.04)
+
+Women
+
+Both genders
+
+other types of meat
+
+Age, gender, total energy,
+
+Processed meat
+⬍1/month
+1–3/month
+1/w
+2–4/w
+ⱖ4/w
+
+Red meat (g/day)
+18.5
+42.9
+64.1
+88.5
+129.5
+
+Processed meat
+None
+1–3/month
+1/w
+2–4/w
+ⱖ5/w
+
+Men
+
+Fresh red meat and poultry
+Men, Women
+g/day
+53,43
+84/72
+101,91
+123,107
+158,145
+
+Giovannucci et al., 199419 Health
+Professionals Follow-up Study,
+USA
+
+Colon: 205 cases
+Cohort: 47949 men
+(737910 person/years)
+Age: 40–75
+Recruitment: 1986
+Follow-up 6 years
+
+Goldbohm et al., 199440
+
+Netherlands
+
+Case-cohort
+Males Colon 157
+Cohort: 58279
+
+Females Colon 155
+
+Cohort: 62573
+
+Age 55–69
+Recruitment: 1986–1990
+Follow-up 3.3 years
+FFQ (150)
+
+Bostick et al., 1994100
+
+Iowa Women Health’s Study,
+USA
+
+Colon: 212
+
+Cohort: 35215
+Women
+
+(167447 person/years)
+
+Age: 55–69
+
+Recruitment: 1986–1990
+FFQ (127)
+
+1
+0.83 (0.44–1.56)
+
+1
+1
+1.09 (0.58–2.04)
+0.92 (0.59–1.44)
+1.62 (0.89–2.93) 1.03 (0.58–1.84) 1.24 (0.81–1.90)
+0.98 (0.51–1.91) 1.05 (0.57–1.93) 0.98 (0.62–1.55)
+0.87 (0.43–1.77) 0.88 (0.45–1.69) 0.84 (1.51–1.37)
+
+Both genders: OR per 5 g/day: 0.98 (0.93–1.03)
+
+Processed meat
+
+g/day
+0.–10
+10–20
+⬎20
+
+Processed Meat
+Women
+
+Men
+1.25 (0.59–2.70) 1.22 (0.66–2.26) 1.23 (0.76–1.98)
+1.45 (0.67–3.12) 1.48 (0.77–2.87) 1.43 (0.87–2.35)
+1.84 (0.85–3.95) 1.66 (0.82–3.35) 1.72 (1.03–2.87)2
+
+Both genders
+
+Age, gender, total energy,
+
+other foods, others
+
+Total eggs and meat (serving/week)
+⬍9
+1
+0.83 (0.54–1.26)
+9–11
+1.02 (0.69–1.52)
+11.5–14
+14.5–18
+0.71 (0.44–1.13)
+⬎18
+0.88 (0.52–1.49)
+Red meat (serving/week)
+⬍4
+4–6
+6.5–8
+8.5–11
+⬎11
+Processed meat (serving/week)
+0
+0.5
+1
+2–3
+⬎3
+
+1
+1.13 (0.76–1.69)
+1.20 (0.77–1.87)
+0.88 (0.54–1.42)
+1.04 (0.62–1.76)
+
+1
+1.0 (0.73–1.38)
+1.07 (0.71–1.61)
+0.81 (0.46–1.44)
+1.51 (0.72–3.17)
+
+256
+
+NORAT ET AL.
+
+Author, location
+
+Design
+
+Type of meat and partition
+
+OR (95% CI)
+
+Adjustment
+
+APPENDIX III – COHORT STUDIES (CONTINUED)
+
+Gaard et al., 199648 Norway
+
+Colon: 143 cases
+19% (48) Cohort 570842
+
+person/years
+
+Age 20–53
+Recruitment: 1977–1983 ⱖ5
+Mean follow-up 11.4
+FFQ (80)
+
+Excluding ﬁsh (meals/week)
+ⱕ2
+3
+4
+
+Males
+1
+1.33
+1.44
+0.80
+
+Females
+1
+1.33
+1.40
+1.87
+
+Age
+
+Kato et al., 1997101
+
+New York University Women’s
+Health Study,
+USA
+
+Colorectal Cohort:
+
+15785 women
+
+(105044 person-years)
+Recruitment: 1985–1991
+Age: 34–65 FFQ (70)
+
+Red meat
+Quartiles
+Reference: lowest category
+Ham, sausages
+Quartiles
+Reference: lowest category
+
+Chen et al., 199857
+
+Physicians Health Study,
+USA
+
+Hsing et al., 199844
+
+Lutheran Brotherhood Cohort,
+USA
+
+Singh and Fraser, 199842
+
+Adventist Health Study,
+USA
+
+Nested case-control
+
+Males
+
+Colorectum 212:221
+Age: 40–84
+Recruitment: 1982
+13 years follow-up
+
+Colorectum
+Cancer Mortality in
+
+white males
+
+Colon: 120 Rectum: 25
+286731 person-years
+Recruitment: 1966
+20 y follow-up FFQ (35)
+
+Colorectum: 157
+(135 colon 22 recto-
+
+sigmoidal junction)
+
+Cohort: 32051
+Age ⬎ 25
+Recruitment: 1976–1982
+FFQ (51)
+
+Red meat (srving/day)
+ⱕ5
+⬎0.5–1
+⬎1
+
+Red meat (time/month)
+⬍15
+15–19
+20–29
+30–59
+ⱖ60
+
+Meat
+Never
+ⱖ1 time/wk
+ⱖ1 time/wk
+Red meat
+Never
+⬍1 time/wk
+ⱖ1 time/wk
+
+Knekt et al., 1999102
+
+Finland
+
+Colorectum 73 Cohort:
+
+Meat and meat-products
+
+9985 subjects
+
+(cured)
+
+Recruitment: 1966–1972 Quartiles. Reference: lowest
+Follow-up until 1990
+
+Pietinen et al., 199950
+
+ATBC Prevention Study,
+Finland
+
+(21 years)
+
+Dietary history
+
+Cases: 185
+Cohort: 27111
+Male smokers
+Age: 50–69
+Recruitment: 1988
+
+(Follow up 8 years)
+
+FFQ (276)
+
+Red meat (g/day)
+79
+114
+143
+203
+Processed meat (g/day)
+26
+50
+73
+122
+
+1
+1.28 (0.72–2.28)
+1.27 (0.71–2.28)
+1.23 (0.68–2.22)
+1
+1.39 (0.81–2.38)
+1.38 (0.79–2.42)
+1.09 (0.59–2.02)
+
+1
+0.98 (0.64–1.52)
+1.17 (0.68–2.02)
+
+1
+1.2 (0.6–2.2)
+1.5 (0.9–2.5)
+1.4 (0.8–2.5)
+1.9 (0.9–4.3) p trend ⫽ 0.1
+
+1
+1.50 (0.92–2.45)
+1.85 (1.16–2.87)2
+
+1
+1.58 (1.01–2.45)
+1.41 (0.9–2.21)
+
+1
+1.48 (0.77–2.84)
+1.28 (0.63–2.57)
+1.84 (0.98–3.47)
+
+1
+1.1 (0.8–1.7)
+1.0 (0.7–1.6)
+1.1 (0.7–1.7)
+
+1
+1.5 (1.0–2.2)
+1.2 (0.7–1.8)
+1.2 (0.7–1.8)
+
+Age, total energy,
+
+education, others
+
+Age, smoking status,
+
+alcohol intake, total
+energy
+
+BMI, physical activity,
+
+parental history of
+colon cancer, tobacco
+alcohol,
+
+Age, tobacco years, BMI,
+
+alcohol, education,
+physical activity, others
+
+1FFQ, Food frequency questionnaire. Number of items between parentheses.–2p ⬍ 0.05.–3p ⬍ 0.01.–4p ⬍ 0.05.–5p ⬍ 0.01.
+
+

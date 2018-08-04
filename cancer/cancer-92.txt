@@ -1,0 +1,3029 @@
+REVIEW
+
+Effects of Omega-3 Fatty Acids
+on Cancer Risk
+A Systematic Review
+Catherine H. MacLean, MD, PhD
+Sydne J. Newberry, PhD
+Walter A. Mojica, MD, MPH
+Puja Khanna, MD
+Amalia M. Issa, MPH, PhD
+Marika J. Suttorp, MS
+Yee-Wee Lim, MD, PhD
+Shana B. Traina, MA
+Lara Hilton, BA
+Rena Garland, BA
+
+market claiming to protect against the
+development of a variety of condi-
+tions including cancer. To assess the va-
+
+Author Affiliations are listed at the end of this article.
+Corresponding Author: Catherine H. MacLean, MD,
+PhD, RAND, 1776 Main St, M4W, Santa Monica, CA
+90407-2138 (maclean@rand.org).
+
+©2006 American Medical Association. All rights reserved.
+
+(Reprinted) JAMA, January 25, 2006—Vol 295, No. 4 403
+
+Context Omega-3 fatty acids are purported to reduce the risk of cancer. Studies have
+reported mixed results.
+Objective To synthesize published and unpublished evidence to determine estimates
+of the effect of omega-3 fatty acids on cancer risk in prospective cohort studies.
+Data Sources Articles published from 1966 to October 2005 identified through
+MEDLINE, PREMEDLINE, EMBASE, Cochrane Central Register of Controlled Trials, and
+CAB Health; unpublished literature sought through letters to experts in the neutra-
+ceutical industry.
+Study Selection A total of 38 articles with a description of effects of consumption
+of omega-3 fatty acids on tumor incidence, prospective cohort study design, human
+study population; and description of effect of omega-3 among groups with different
+levels of exposure in the cohort were included. Two reviewers independently re-
+viewed articles using structured abstraction forms; disagreements were resolved by
+consensus.
+Data Extraction Two reviewers independently abstracted detailed data about the
+incidence of cancer, the type of cancer, the number and characteristics of the pa-
+tients, details on the exposure to omega-3 fatty acids, and the elapsed time between
+the intervention and outcome measurements. Data about the methodological quality
+of the study were also abstracted.
+Data Synthesis Across 20 cohorts from 7 countries for 11 different types of cancer
+and using up to 6 different ways to categorize omega-3 fatty acid consumption, 65
+estimates of the association between omega-3 fatty acid consumption were reported.
+Among these, only 8 were statistically significant. The high degree of heterogeneity
+across these studies precluded pooling of data. For breast cancer 1 significant esti-
+mate was for increased risk (incidence risk ratio [IRR], 1.47; 95% confidence interval
+[CI], 1.10-1.98) and 3 were for decreased risk (RR, 0.68-0.72); 7 other estimates did
+not show a significant association. For colorectal cancer, there was 1 estimate of de-
+creased risk (RR, 0.49; 95% CI, 0.27-0.89) and 17 estimates without association. For
+lung cancer one of the significant associations was for increased cancer risk (IRR, 3.0;
+95% CI, 1.2-7.3), the other was for decreased risk (RR, 0.32; 95% CI, 0.13-0.76),
+and 4 other estimates were not significant. For prostate cancer, there was 1 estimate
+of decreased risk (RR, 0.43; 95% CI, 0.22-0.83) and 1 of increased risk (RR, 1.98;
+95% CI, 1.34-2.93) for advanced prostate cancer; 15 other estimates did not show a
+significant association. The study that assessed skin cancer found an increased risk (RR,
+1.13; 95% CI, 1.01-1.27). No significant associations between omega-3 fatty acid con-
+sumption and cancer incidence were found for aerodigestive cancer, bladder cancer,
+lymphoma, ovarian cancer, pancreatic cancer, or stomach cancer.
+Conclusions A large body of literature spanning numerous cohorts from many coun-
+tries and with different demographic characteristics does not provide evidence to sug-
+gest a significant association between omega-3 fatty acids and cancer incidence. Di-
+etary supplementation with omega-3 fatty acids is unlikely to prevent cancer.
+JAMA. 2006;295:403-415
+
+www.jama.com
+
+Sally C. Morton, PhDSTUDIES SHOW THAT TISSUE LEV-
+
+els of arachadonic acid– and
+eicosopentaenoic acid (EPA)–
+derived eicosanoids influence
+many physiological processes, includ-
+ing calcium transport across cell mem-
+branes, angiogenesis, apoptosis, cell
+proliferation, and immune cell func-
+tion.1-4 These processes are integral to
+the immune system and hence the
+pathogenesis of autoimmune diseases
+such as arthritis, systemic lupus ery-
+thematosus, and asthma, as well as can-
+cer. Epidemiological studies have sug-
+gested that groups of people who
+consume diets high in omega-3 fatty ac-
+ids may experience a lower preva-
+lence of some types of cancer,5-8 and
+many small trials have attempted to as-
+sess the effects of omega-3 fatty acids
+on cancer treatment by adding omega-3
+fatty acid to the diet either as omega-3
+fatty acid–rich foods or as dietary
+supplements.9-22 In addition, dietary
+omega-3 fatty acids have been found to
+modulate mammary tumor formation
+and proliferation in rodents.23
+
+In response to this evidence, a num-
+ber of omega-3 fatty acid–containing di-
+etary supplements have appeared on the
+
+Downloaded From:  by a Sheridan College User  on 08/02/2018EFFECT OF OMEGA-3 FATTY ACIDS ON CANCER RISK
+
+lidity of claims that omega-3 fatty ac-
+ids prevent cancer, we systematically
+reviewed the literature for studies that
+evaluated the effect of omega-3 fatty ac-
+ids on the incidence of cancer.
+
+METHODS
+The study on which this report is based
+is part of a larger systematic review of
+the medical literature regarding the ef-
+fects of omega-3 fatty acid supplemen-
+tation on both cancer incidence and
+cancer treatment in humans. Conse-
+quently, our initial search was broad.
+This report deals only with cancer in-
+cidence.
+
+Identification of the Literature
+We used electronic databases to iden-
+tify published human studies about
+omega-3 fatty acids and cancer (com-
+plete search terms can be viewed in Ap-
+pendix A.4 at http://www.ahrq.gov
+/downloads/pub/evidence/pdf/03cancer
+/03cancer.pdf). We did not restrict by
+language. The following databases were
+searched: MEDLINE (1966 through the
+fifth week of October 2003),
+PREMEDLINE (Nov 7, 2003), EMBASE
+(1980 through the 44th week of 2003),
+Cochrane Central Register of Con-
+trolled Trials (third quarter of 2003),
+CAB Health (1973 through October
+2003. All of these databases were
+searched using the Ovid interface, ex-
+cept for CAB Health, which was searched
+through SilverPlatter. We subse-
+quently updated our search in October
+2005 using the same search strategy but
+restricting to observational study de-
+signs. The reference lists of studies that
+met our inclusion criteria were also
+searched for potentially relevant titles.
+External peer reviewers of a draft of this
+report were also asked to identify addi-
+tional relevant studies that were not in-
+cluded in the draft. We also sent letters
+to industry experts recommended by the
+US Office of Dietary Supplements to ob-
+tain any unpublished data.
+
+Evaluation of the Literature
+Two of 4 reviewers (W.A.M., P.K.,
+A.M.I., and Y.-W.L.) independently
+evaluated the citations and abstracts.
+
+The reviewers flagged article titles that
+focused on omega-3 fatty acids and can-
+cer. Articles that either reviewer flagged
+were ordered, as were articles from
+whose abstracts and titles relevance
+could not be determined. Two of the 4
+reviewers independently reviewed each
+article that was obtained to determine
+whether it met inclusion criteria using
+a structured screening form. The re-
+viewers resolved any disagreements by
+consensus. Inclusion criteria included
+description of effects of consumption
+of omega-3 fatty acids on tumor inci-
+dence, prospective cohort study de-
+sign, human study population, and de-
+scription of effects of exposure to
+omega-3 with different levels of expo-
+sure in the cohort. Although param-
+eters of methodological quality were
+evaluated, they were not used as inclu-
+sion criteria. Language was not a bar-
+rier to inclusion. We excluded case-
+control studies because they are highly
+susceptible to methodological biases, es-
+pecially recall bias.
+
+All stages of the review were per-
+formed independently by reviewers
+trained in health services research and
+the principles of critical appraisal; at
+least 1 reviewer was a physician. The
+reviewers resolved differences through
+consensus, and a senior physician re-
+searcher (C.H.M.) resolved any dis-
+agreements.
+
+Data Extraction
+For the articles that passed our screen-
+ing criteria, 2 reviewers indepen-
+dently abstracted detailed data about the
+incidence of cancer, the type of can-
+cer, the number and characteristics of
+the patients, details on the exposure to
+omega-3 fatty acids, and the elapsed
+time between the intervention and out-
+come measurements. To evaluate the
+quality of the design and execution of
+observational studies, we collected in-
+formation about the validity of ascer-
+tainment of cases and exposure, de-
+scription of withdrawals and dropouts,
+adjustment for confounders, and
+blinded assessment of exposure and
+case status when ascertaining case and
+exposure status, respectively.24,25 A score
+
+for quality was not calculated for ob-
+servational studies, for there is no vali-
+dated method to do so.26
+
+Data Synthesis
+For this report, we constructed a
+detailed summary table, stratified by
+cancer type, which describes the mul-
+tivariate-adjusted risk ratios (RRs) that
+were reported for the study group with
+the highest intake of omega-3 fatty acid
+relative to the study group with the low-
+est intake. This table details the spe-
+cific categories of omega-3 consump-
+tion for which the RRs were reported,
+ie, total omega-3, marine omega-3, lino-
+lenic acid (ALA), EPA, or docosahexa-
+neoic acid (DHA) and fish, which can
+reasonably be used as a surrogate for
+omega-3 consumption given the high
+omega-3 content of fish. We describe
+the median intake of the relevant
+omega-3 fatty acid for the study groups,
+if it was reported. The categories of
+omega-3 fatty acids that we report are
+those that were reported in the included
+studies and were not identical across the
+different studies. These studies all cal-
+culated the intake of different catego-
+ries of omega-3 fatty acids by compar-
+ing the food frequency diaries of study
+participants to validated standard tables
+of nutritional components including
+omega-3 fatty acids. Total omega-3
+intake includes all types of omega-3 fatty
+acids (ALA, EPA, and DHA) that can
+be obtained from food. Fish intake
+describes the amount of fish con-
+sumed whereas marine omega-3 fatty
+acids describe the amount of ALA, EPA,
+and DHA derived from marine sources.
+Given the marked heterogeneity of
+the identified studies in terms of
+omega-3 fatty acid components re-
+ported, amount of omega-3 fatty acid
+consumed and exposure time to
+omega-3 fatty acids, it was not reason-
+able to pool data across studies. To
+evaluate the possible effect of sample
+size on the reported estimates of risk,
+we produced plots of the RRs on which
+the point estimate for each risk esti-
+mate was sized according to the in-
+verse of the variance for each risk
+estimate.
+
+404 JAMA, January 25, 2006—Vol 295, No. 4 (Reprinted)
+
+©2006 American Medical Association. All rights reserved.
+
+Downloaded From:  by a Sheridan College User  on 08/02/2018EFFECT OF OMEGA-3 FATTY ACIDS ON CANCER RISK
+
+RESULTS
+Literature Search
+Results from our literature search are de-
+tailed in FIGURE 1. Our search identified
+5040 citations from the electronic da-
+tabases;93additionalcitationswereiden-
+tifiedthroughreferencemining;arequest
+for unpublished data yielded one cita-
+tion; peer reviewers of a draft of this re-
+port identified 11 citations. In total we
+reviewed 5145 citations. Our reviewers
+considered 1264 of these article titles to
+be potentially relevant to our research
+topic. We were able to retrieve 1228
+(97%) of these articles. Of the articles
+retrieved, 264 were accepted for further
+review because they reported on results
+from observational studies of omega-3
+fatty acid in the treatment of cancer. Of
+the 264 articles that went to further re-
+view, a total of 226 were rejected because
+their study designs were either case-
+controlorcaseseries,whichdidnotmeet
+our inclusion criteria.
+
+The remaining 385-8,27-60 reports de-
+scribed the effect of omega-3 fatty acid
+on the incidence of 11 different types of
+cancer among participants enrolled in 20
+different prospective cohorts. The char-
+acteristics of the 20 cohorts in which can-
+cer incidence was studied are summa-
+rized in TABLE 1. These cohorts ranged
+in size from 6000 to 121 000, with from
+9000 to 1.5 million person-years of ob-
+servation. Together, these cohorts in-
+clude more than 700 000 participants
+and 3 million person-years of observa-
+tion. The observation periods in these co-
+horts ranged from 3 to 30 years. Omega-3
+consumption was estimated based on di-
+etary questionnaires that were typically
+completed once at study entry al-
+though a few of the cohorts updated di-
+etary intake. Omega-3 consumption was
+expressed as total omega-3 fatty acid, fish
+or marine omega-3 fatty acid, or as the
+specific omega-3 fatty acid ALA, EPA,
+DHA, or all 3. Fish consumption, which
+serves as a proxy for EPA and DHA con-
+sumption, was also reported in many of
+the studies. Across these cohorts, can-
+cer incidence was assessed during the 1
+to 24 years after dietary information was
+obtained and was typically ascertained
+using population cancer registries.
+
+The methodological quality of the
+studies was variable. All of the cohorts
+reported valid methods to ascertain
+exposure to omega-3 fatty acids and
+cancer incidence. Likewise, all of the
+cohorts reported adjustment for con-
+founders, although the variables used
+in multivariable analyses varied among
+the studies. All but 2 of the cohorts pro-
+vided descriptions of withdrawals
+and dropouts.35,41 Blinded assessment
+of exposure and case status when as-
+certaining case and exposure status,
+respectively, was reported for only 3 co-
+horts: the Health Professionals Fol-
+low-up Study,36,54,57-59 the Netherlands
+Health Study,7,8 and the Nurses’ Health
+Study.30,31,38,48,49,52
+
+More than half of these reports
+described the effect of omega-3 fatty acid
+on 1 of 3 types of cancer: breast,7,29-35
+colorectal,5,36-43 and prostate.8,53-58 The
+remaining publications described the
+effects of omega-3 fatty acid on the inci-
+dence of 8 different types of cancer with
+only 1 or 2 publications describing the
+effects on each of the following types of
+cancer: aerodigestive, bladder, lung, lym-
+phoma (non-Hodgkin), ovarian, pan-
+creatic, skin (basal cell carcinoma), and
+stomach. The reported effects of omega-3
+fatty acids on the incidence for each type
+of cancer are described below. The RRs
+for developing each of these types of can-
+cer for the highest consumption group
+(quartile, quintile, dose group, etc) rela-
+tive to the lowest consumption group for
+fish, total omega-3 fatty acid, marine
+omega-3 fatty acid, ALA, DHA, and EPA
+are detailed in FIGURE 2 and FIGURE 3
+and in TABLE 2 and TABLE 3. A com-
+prehensive evidence table that includes
+information about the study groups with
+intermediate levels of omega-3 fatty
+acid consumption can be viewed in
+Appendix D at http://www.ahrq.gov
+/downloads/pub/evidence/pdf/03cancer
+/03cancer.pdf.
+
+Aerodigestive Cancer
+We identified one study27 that evalu-
+ated the effect of fish consumption on
+the incidence of upper aerodigestive
+tract cancer, which was defined as squa-
+mous cell carcinoma of the oral cavity
+
+Figure 1. Literature Flow to Assess the
+Effects of Omega-3 Fatty Acid on Tumor
+Incidence
+
+5145 Titles Reviewed
+
+5040 From Electronic Databases
+
+93 From Reference Mining
+1 From Request for Unpublished Data
+11 Identified by Peer Reviewers
+
+3644 Excluded Based on Title
+
+or Abstract Review
+
+1264 Articles Requested
+
+1228 Screened
+
+30 Not Found
+
+964 Excluded
+
+336 Topic Not Omega-3
+
+Fatty Acids
+
+611 Ineligible Study Design
+
+26 Descriptive
+285 Review or 
+
+Meta-analysis
+
+300 Not Observational
+
+Study
+
+15 No Outcomes of Interest
+
+Assessed or Described
+
+2 Unable to Translate
+
+226 Excluded (Case-Control
+or Case Series Studies)
+
+264 Underwent Quality
+
+Review
+
+38 Met Inclusion Criteria 
+for Cancer Incidence
+
+Cancer Type
+1 Aerodigestive
+1 Bladder
+8 Breast
+9 Colorectal
+4 Lung
+2 Lymphoma
+2 Ovarian
+2 Pancreatic
+7 Prostate
+1 Skin (Basal Cell 
+
+Carcinoma)
+
+1 Stomach
+
+or pharynx, esophagus, or larynx
+among institutionalized US men of
+Japanese ancestry who resided on the
+Hawaiian island of Oahu. In this study,
+fish consumption had no significant
+effect on the incidence of aerodiges-
+tive tract cancer. Using fish consump-
+tion 1 time per week or less as the
+referent group, the RR of developing
+aerodigestive tract cancer was 1.37
+(95% confidence interval [CI], 0.70-
+2.69) for men consuming fish 5 times
+per week or more.
+
+©2006 American Medical Association. All rights reserved.
+
+(Reprinted) JAMA, January 25, 2006—Vol 295, No. 4 405
+
+Downloaded From:  by a Sheridan College User  on 08/02/2018EFFECT OF OMEGA-3 FATTY ACIDS ON CANCER RISK
+
+Table 1. Characteristics of Cohorts That Have Described the Effects of Omega-3 Fatty Acid on Cancer Incidence
+
+Source
+
+No. of
+
+Participants
+in Cohort*
+
+Honolulu Heart27
+
+8006
+
+Honolulu Heart28
+
+8006
+
+Diet, Cancer, and
+Health Study29
+
+29 875
+
+Life Span Study33
+
+⬵120 000
+
+The Netherlands7
+
+62 573
+
+Base Population
+
+Institutionalized US men of
+
+Japanese ancestry
+residing on Oahu
+
+Institutionalized US men of
+
+Japanese ancestry
+residing on Oahu
+
+Population of greater
+Copenhagen and
+Aarhus, Denmark
+
+Survivors of atomic bomb in
+Hiroshima or Nagasaki,
+Japan, who were alive
+on September 1, 1969
+
+Population of the
+Netherlands
+
+Observation Period
+
+Birth Years of
+Participants
+
+Omega-3
+Exposure
+
+Upper Aerodigestive
+
+Cancer Incidence
+
+Method of Cancer
+
+Ascertainment
+
+1900-1919
+
+1965-1968†
+
+1965-1993
+
+Oahu hospitalizations for
+
+cancer and Hawaii
+Tumor Registry‡
+
+Oahu hospitalizations for
+
+cancer and Hawaii
+Tumor Registry
+
+1965-1968§
+
+1965-1993
+
+Bladder
+1900-1919
+
+Breast
+1929-1947
+
+1993-1997§
+
+1993-2000
+
+Cancer registry
+
+Not described
+
+1969-1970, 1979
+
+1969-1993,
+
+1981-1983
+
+Hiroshima and Nagasaki
+
+cancer registries
+
+1917-1931
+
+1986
+
+1986-1992
+
+Regional cancer registries
+
+Norwegian34
+
+14 729
+
+Population of Norway
+
+1925-1942
+
+1974-1977
+
+11-14 y follow-up
+
+mean = 12
+
+National Cancer Registry
+
+Singapore Chinese
+Health Study35
+
+63 257
+
+Permanent residents or
+
+citizens of Singapore
+living in government
+housing estates
+speaking Hokkien or
+Cantonese
+
+1919-1953
+
+1993-1998
+
+Enrollment -2000
+
+Singapore Cancer registry
+
+Nurses’ Health
+Study30-32
+
+121 700
+
+US female registered nurses
+
+1921-1946
+
+1980, 1984, 1986,
+
+1990, 1994
+
+1980-1994
+
+Colorectal
+
+1911-1946
+
+1986, 1990, 1994
+
+1986-1998
+
+Self-report or vital records
+confirmed by medical
+records review
+
+Self-report or vital records
+confirmed by medical
+records review
+
+Health
+
+Professionals36
+
+51 529
+
+Iowa Women’s
+
+Health40
+
+The Netherlands37
+
+NY University
+Women’s
+Health5
+
+41 837
+
+62 573
+
+14 727
+
+Nurses’ Health
+
+Study38
+
+121 700
+
+Swedish Women39,42
+
+61 463
+
+Women’s Health
+
+Study41
+
+37 547
+
+US male dentists,
+optometrists,
+osteopathic physicians,
+physicians, podiatrists,
+pharmacists, and
+veterinarians who
+responded to a postal
+questionnaire
+
+Women with valid Iowa
+
+driver’s license
+
+Population of the
+Netherlands
+
+Women treated at the
+
+Guttman Breast
+Diagnostic Institute in
+New York City or at
+the Strax Breast
+Cancer Institute in Florida
+US female registered nurses
+
+Participants of
+
+population-based
+mammography
+screening program in
+Sweden
+
+US female health
+
+professionals enrolled in
+randomized controlled
+trial of aspirin, vitamin E
+and placebo
+
+1917-1931
+
+1917-1931
+
+1986
+
+1986
+
+1986-1992
+
+State Health Registry of
+
+Iowa
+
+1986-1992
+
+Regional cancer registries
+
+1920-1957
+
+1985-1991
+
+1985-1992
+
+1921-1946
+
+1980, 1984, 1986,
+
+1990, 1994
+
+1980-1994
+
+Self-report confirmed by
+
+medical records review
+supplemented by review
+of state cancer registries
+and National Death
+Index
+
+Self-report or vital records
+confirmed by medical
+records review
+
+1925-1939
+
+1987-1990, 1997
+
+Enrollment-1998
+
+Regional cancer registries
+
+1917-1945
+
+1992-1995
+
+1993-2003
+
+Self-report confirmed by
+
+medical records
+reviewed by state
+cancer registries
+and National Death
+Index
+
+(continued)
+
+406 JAMA, January 25, 2006—Vol 295, No. 4 (Reprinted)
+
+©2006 American Medical Association. All rights reserved.
+
+Downloaded From:  by a Sheridan College User  on 08/02/2018Table 1. Characteristics of Cohorts That Have Described the Effects of Omega-3 Fatty Acid on Cancer Incidence (cont)
+
+EFFECT OF OMEGA-3 FATTY ACIDS ON CANCER RISK
+
+Source
+
+Aichi Prefecture6
+
+Japanese
+
+Collaborative44
+
+Norwegian45
+
+No. of
+
+Participants
+in Cohort*
+
+Base Population
+
+9753
+
+110 792
+
+Population of Aichi Prefecture,
+
+Japan
+
+Population of 19 prefectures in
+
+Japan
+
+Observation Period
+
+Omega-3
+Exposure
+
+Cancer Incidence
+
+Method of Cancer
+
+Ascertainment
+
+Birth Years of
+Participants
+
+Lung
+
+1917-1972
+
+1986-1989†
+
+1985-1999
+
+Self-report or death
+
+certificate
+
+1909-1950
+
+1988-1990
+
+1988-1997
+
+Death certificates
+
+16 713
+
+Population of Norway
+
+Not reported
+
+Norwegian46
+
+14 729
+
+Population of Norway
+
+1925-1942
+
+Iowa Women’s Health
+
+Study47
+
+41 837
+
+Women with valid Iowa driver’s
+
+license
+
+1917-1931
+
+1986
+
+1986-1992
+
+Nurses’ Health Study48
+
+121 700
+
+US female registered nurses
+
+1921-1946
+
+1980, 1984, 1986,
+
+1990, 1994
+
+1980-1994
+
+Non-Hodgkin Lymphoma
+
+One-time
+
+questionnaire
+between 1967
+and 1969
+1974-1977
+
+From
+
+questionnaire
+until 1978
+
+11-14 y follow-up,
+
+mean = 12
+
+Nurses’ Health Study49
+
+121 700
+
+US female registered nurses
+
+Swedish women53
+
+61 463
+
+Alpha-tocopherol,
+
+Beta-Carotene51
+
+27 111
+
+Participants of population-based
+
+mammography screening
+program in Sweden
+
+Male smokers in southwestern
+Finland enrolled in RCT of
+treatment with ␣-tocopherol
+or beta carotene
+
+Ovarian
+1921-1946
+
+1980, 1984, 1986,
+
+1990, 1994
+
+1980-1994
+
+1925-1939
+
+1987-1990, 1997
+
+Enrollment-1998
+
+Regional cancer registries
+
+Pancreatic
+1916-1938
+
+1985-1988†
+
+1985-1997
+
+Tumor registry with medical
+
+records verification
+
+Nurses’ Health Study52
+
+121 700
+
+US female registered nurses
+
+1921-1946
+
+1980, 1984, 1986,
+
+1990, 1994
+
+1980-1994
+
+Self-report or vital records
+confirmed by medical
+records review
+
+Cancer registry
+
+National Cancer Registry
+
+State Health Registry of
+
+Iowa
+
+Self-report or vital records
+confirmed by medical
+records review
+
+Self-report or vital records
+confirmed by medical
+records review
+
+Prostate
+
+Not described
+
+1975-1980
+
+1975-1989
+
+Hawaii tumor registry
+
+1911-1946
+
+1986, 1990, 1994
+
+1986-1998
+
+Male Hawaiians of Japanese,
+
+European, Filipino, Hawaiian,
+or Chinese ancestry
+
+US male dentists, optometrists,
+
+osteopathic physicians,
+podiatrists, pharmacists,
+and veterinarians who
+responded to a postal
+questionnaire
+
+Population of the Netherlands
+Seventh-day Adventist
+
+households in California
+
+Hawaii Health53
+
+8881
+
+Health
+
+Professionals54,57,58
+
+51 529
+
+The Netherlands8
+Seventh-day
+
+Adventists55
+
+Swedish Twin
+Registry56
+
+Not
+
+62 573
+
+de-
+scribed
+6272
+
+Health Professionals59
+
+51 529
+
+1917-1931
+Not described
+
+1986
+1976
+
+1967
+
+1986-1992
+1976-1982
+
+1967-1997
+
+Male twin pairs residing in
+
+Sweden in 1961
+
+1886-1925
+
+Skin, Basal Cell Carcinoma
+
+1911-1946
+
+1986, 1990, 1994
+
+1986-1998
+
+US male dentists, optometrists,
+
+osteopathic physicians,
+podiatrists, pharmacists,
+and veterinarians who
+responded to a postal
+questionnaire
+
+Fukuoka Prefecture60
+
+13 250
+
+Population of Fukuoka
+Prefecture, Japan
+
+Stomach
+1880-1974
+
+1986-1989†
+
+Not stated
+
+*Total number of participants enrolled in cohort. The number may differ from number of participants in analyses of specific diseases.
+†Ascertained from single questionnaire at enrollment during described time frame.
+
+Self-report or vital records
+confirmed by medical
+records review
+
+Regional cancer registries
+Self-report confirmed by
+
+medical records review
+and cancer registry
+
+National cancer and death
+
+registries
+
+Self-report or vital records
+confirmed by medical
+records review
+
+Not explicitly stated; infer
+
+death certificates from
+text
+
+©2006 American Medical Association. All rights reserved.
+
+(Reprinted) JAMA, January 25, 2006—Vol 295, No. 4 407
+
+Downloaded From:  by a Sheridan College User  on 08/02/2018EFFECT OF OMEGA-3 FATTY ACIDS ON CANCER RISK
+
+Figure 2. Risk of Developing Cancer for Participants in the Highest Grouping vs Those in the
+Lowest Grouping of Omega-3 Fatty Acid Intake by Cancer Type
+
+Cancer Type
+
+Source
+
+Favors Treatment
+
+Favors Control
+
+Colorectal
+
+Upper Aerodigestive Tract Honolulu Heart,27 1995
+Honolulu Heart,28 1993
+Bladder
+Nurses’ Health Study,32 2003
+Breast
+Singapore Chinese Health Study,35 2003
+Singapore Chinese Health Study,35 2003
+Nurses’ Health Study,31 1999
+Life Span Study,33 1999
+Life Span Study,33 1999
+Diet, Cancer, and Health Study,29 2003
+Norwegian,34 1990
+The Netherlands,7 2002
+The Netherlands,7 2002
+The Netherlands,7 2002
+Iowa Women’s Health,40 1994
+Health Professionals,36 1994
+The Netherlands,37 1994
+NY University Women’s Health,5 1997
+Swedish Women,39 2005
+Swedish Women,39 2005
+Swedish Women,39 2005
+Swedish Women,39 2005
+Women’s Health Study,41 2004
+Nurses’ Health Study,43 2005
+Nurses’ Health Study,43 2005
+Nurses’ Health Study,43 2005
+Nurses’ Health Study,43 2005
+Nurses’ Health Study,43 2005
+Swedish Women,42 2001
+Swedish Women,42 2001
+Swedish Women,42 2001
+Nurses’ Health Study,38 1990
+Norwegian,45 1983
+Norwegian,45 1983
+Japanese Collaborative,44 2001
+Japanese Collaborative,44 2001
+Aichi Prefecture,6 2003
+Norwegian,46 1997
+Iowa Women’s Health,47 1996
+Nurses’ Health Study,48 1999
+Nurses’ Health Study,49 2002
+Nurses’ Health Study,49 2002
+Nurses’ Health Study,49 2002
+Swedish Women,50 2005
+Nurses’ Health Study,52 2003
+α-Tocopherol, Beta Carotene,51 2002
+α-Tocopherol, Beta Carotene,51 2002
+α-Tocopherol, Beta Carotene,51 2002
+Health Professionals,54 2003
+Health Professionals,57 1993
+Hawaii Health,53 1994
+Health Professionals,58 2004
+Health Professionals,58 2004
+Health Professionals,58 2004
+Seventh-day Adventists,55 1989
+The Netherlands,8 1999
+The Netherlands,8 1999
+The Netherlands,8 1999
+Swedish Women,42 2001
+Health Professionals,58 2004
+Health Professionals,58 2004
+Health Professionals,58 2004
+Health Professionals,59 2000
+Fukoka Prefecture,60 2002
+
+Non-Hodgkin Lymphoma
+
+Skin
+Stomach
+
+Advanced Prostate
+
+Lung
+
+Ovarian
+
+Pancreatic
+
+Prostate
+
+0.1
+
+1.0
+
+Effect Size
+
+10
+
+Because variance and sample size are approximately inversely related, the point estimates for studies with larger
+sample sizes are represented with larger boxes and the point estimates for studies with smaller sample sizes are
+represented with smaller boxes on the plots.
+
+Bladder Cancer
+We identified one study28 that evalu-
+ated the effect of fish consumption on the
+incidence of urinary bladder cancer
+among institutionalized US men of Japa-
+nese ancestry who resided on the Ha-
+waiian island of Oahu. In this study, fish
+consumption had no significant effect on
+the incidence of bladder cancer. Using
+fish consumption 1 time per week or less
+as the referent group, the RR of devel-
+oping bladder cancer was 0.67 (95% CI,
+0.26-1.67) for men consuming fish 5
+times per week or more.
+
+Breast Cancer
+We identified 8 studies7,29-35 from 6 dif-
+ferent cohorts that evaluated the effect
+of omega-3 fatty acid on the incidence
+of breast cancer. Breast cancer inci-
+dence relative to fish consumption was
+reported in 4 studies,29,30,33,34 inci-
+dence relative to total32,35 and marine
+omega-3 fatty acid35 consumption was
+reported in 2, and incidence relative to
+each of the specific omega-3 fatty acid,
+DHA, EPA, and ALA was reported in 1
+study.7 Among the 4 studies that as-
+sessed the relationship between fish in-
+take and breast cancer, 1 demon-
+strated an increased risk for women in
+the highest quartile of fish intake rela-
+tive to women in the lowest quartile (in-
+cidence RR [IRR], 1.47; 95% CI, 1.10-
+1.98),29 1 demonstrated a reduced risk
+among women with “unknown” dried
+fish intake relative to women who con-
+sumed 1 or fewer servings per week
+(RR, 0.77; 95% CI, 0.60-0.98) but no
+association with “not dry” fish33 and 2
+found no association between fish con-
+sumption and the risk of breast can-
+cer. Neither of the 2 studies that as-
+sessed the effect of total omega-3 fatty
+acid consumption on breast cancer risk
+reported an association with breast can-
+cer. However, 1 of these studies35 found
+a reduced risk for women in the high-
+est quartile of marine omega-3 fatty acid
+consumption relative to those in the
+lowest quartile of consumption (RR,
+0.72; 95% CI, 0.53-0.98). The one
+study7 that assessed the effects of ALA,
+EPA, and DHA consumption on breast
+cancer risk reported a reduced risk for
+
+408 JAMA, January 25, 2006—Vol 295, No. 4 (Reprinted)
+
+©2006 American Medical Association. All rights reserved.
+
+Downloaded From:  by a Sheridan College User  on 08/02/2018women in the highest vs lowest quin-
+tiles of ALA consumption (RR, 0.70;
+95% CI, 0.51-0.97); associations be-
+tween ALA consumption and breast
+cancer incidence were not significant
+for comparisons between the other
+quintiles and the lowest quintiles. There
+was no association between incidence
+of breast cancer and consumption of
+either EPA or DHA.
+
+Among these cohorts, 2 assessed the
+effect of menopausal status on the as-
+sociation between omega-3 fatty acids
+and cancer incidence. In stratified
+analyses, the Nurses’ Health Study,
+which found no association between
+either fish consumption or total
+omega-3 consumption among all
+women, also found no association be-
+tween fish intake and the incidence of
+breast cancer among premenopausal or
+postmenopausal women.30 In this same
+cohort, marine omega-3 fatty acid con-
+sumption was associated with a small
+increased risk of breast cancer among
+postmenopausal women (RR, 1.09; 95%
+CI, 1.02-1.17), but not for premeno-
+pausal women.31 The Singapore Chi-
+nese Health Study reported that the re-
+duced incidence of breast cancer
+associated with marine omega-3 fatty
+acid consumption was confined to post-
+menopausal women and to women with
+advanced stage disease (stage II or
+greater).35
+
+The relationship between fish in-
+take, estrogen receptor positivity, and
+cancer incidence was assessed in 1
+study.29 In this study, the incidence RR
+for breast cancer per mean intake of 25
+g/d of fish was 1.14 (95% CI, 1.03-
+1.26) for estrogen receptor–positive
+women and 1.00 (95% CI, 0.81-1.24)
+for estrogen receptor–negative women.
+The relationship between breast can-
+cer incidence, marine omega-3 fatty acid
+intake, and omega-6 fatty acid intake
+was examined in 1 study.35 In this study,
+among participants in the lowest quar-
+tile of marine omega-3 fatty acid con-
+sumption, breast cancer risk in-
+creased significantly with increasing
+levels of omega-6 fatty acid consump-
+tion (P for trend = .08). Relative to
+women in the lowest quartile of both
+
+EFFECT OF OMEGA-3 FATTY ACIDS ON CANCER RISK
+
+Figure 3. Risk of Developing Cancer for Participants in the Highest Grouping vs Those in the
+Lowest Grouping of Omega-3 Fatty Acid Intake by Omega-3 Fatty Acid Type
+
+Favors Treatment
+
+Favors Control
+
+Type of Omega-3
+  Fatty Acid Intake
+
+Linolenic Acid
+
+Docosahexaneoic Acid
+
+Eiocosopentaenoic Acid
+
+Fish
+
+Omega-3
+
+Omega-3, Marine
+
+Source
+Nurses’ Health Study,49 2002
+Health Professionals,58 2004
+Health Professionals,58 2004
+Health Professionals,52 2003
+The Netherlands,8 1999
+α-Tocopherol, Beta Carotene,51 2002
+Swedish Women,42 2001
+The Netherlands,7 2002
+Nurses’ Health Study,49 2002
+Health Professionals,58 2004
+Health Professionals,58 2004
+The Netherlands,8 1999
+Swedish Women,42 2001
+The Netherlands,7 2002
+Nurses’ Health Study,49 2002
+Health Professionals,58 2004
+Health Professionals,58 2004
+The Netherlands,8 1999
+Swedish Women,42 2001
+The Netherlands,7 2002
+Health Professionals,54 2003
+Iowa Women’s Health,47 1996
+Honolulu Heart,28 1993
+Honolulu Heart,27 1995
+Health Professionals,36 1994
+The Netherlands,37 1994
+Nurse’s Health Study,31 1999
+NY University Women’s Health,5 1997
+Life Span Study,33 1999
+Life Span Study,33 1999
+Norwegian,45 1983
+Norwegian,45 1983
+Swedish Women,39 2005
+Swedish Women,39 2005
+Swedish Women,39 2005
+Swedish Women,39 2005
+Swedish Women,50 2005
+Hawaii Health,53 1994
+Seventh-day Aventists,55 1989
+Fukuoka Prefecture,60 2002
+Japanese Collaborative,44 2001
+Japanese Collaborative,44 2001
+Alpha-tocopherol, Beta Carotene,51 2002
+Diet, Cancer, and Health Study,29 2003
+Aichi Prefecture,6 2003
+Swedish Twin Registry,56 2001
+Norwegian,34 1990
+Norwegian,46 1997
+Nurses’ Health Study,38 1990
+Iowa Women’s Health,40 1994
+Nurses’ Health Study,32 2003
+Singapore Chinese Health Study,35 2003
+Women’s Health Study,41 2004
+α-Tocopherol, Beta Carotene,51 2002
+Nurses’ Health Study,48 1999
+Health Professionals,59 2000
+Singapore Chinese Health Study,35 2003
+Health Professionals,57 1993
+Nurses’ Health Study,43 2005
+Nurses’ Health Study,43 2005
+Nurses’ Health Study,43 2005
+Nurses’ Health Study,43 2005
+Nurses’ Health Study,43 2005
+
+0.1
+
+1.0
+
+Effect Size
+
+10
+
+Because variance and sample size are approximately inversely related, the point estimates for studies with larger
+sample sizes are represented with larger boxes and the point estimates for studies with smaller sample sizes are
+represented with smaller boxes on the plots.
+
+©2006 American Medical Association. All rights reserved.
+
+(Reprinted) JAMA, January 25, 2006—Vol 295, No. 4 409
+
+Downloaded From:  by a Sheridan College User  on 08/02/2018EFFECT OF OMEGA-3 FATTY ACIDS ON CANCER RISK
+
+omega-6 and marine omega-3 con-
+sumption, the RR of developing breast
+cancer for women in both the lowest
+quartile of omega-3 consumption and
+the highest quartile of omega-6 con-
+sumption was 1.87 (95% CI, 1.06-3.27).
+The risk of developing breast can-
+cer associated with fish intake was not
+affected by family history of breast can-
+
+cer, multivitamin use, or glycemic load
+in separate analyses in 1 study.30 In an-
+other study, occupational status and
+body mass index, calculated as weight
+in kilograms divided by the square of
+height in meters, did not affect the re-
+ported association between fish con-
+sumption and breast cancer inci-
+dence.34
+
+Colorectal Cancer
+We identified 9 studies5,36-43 from 7 dif-
+ferent cohorts that evaluated the effect
+of omega-3 fatty acid on the incidence
+of colorectal cancer. Colorectal cancer
+incidence relative to fish consumption
+was reported in 5 studies5,36-39; inci-
+dence relative to total omega-3 fatty acid
+consumption in 240,41; relative to marine
+
+Table 2. Risk of of Cancer From Omega-3 Fatty Acid Intake by Aerodigestive Tract, Bladder, Breast, and Colorectal Cancer
+
+No. of
+
+Participants
+in Analyses
+
+Study
+
+Median Intake
+
+Multivariate Adjusted Risk Ratio (95% CI)
+
+Referent
+Group
+
+Highest
+
+Intake Group
+
+Fish
+
+Total
+
+Omega-3
+
+Marine
+Omega-3
+
+ALA
+
+EPA
+
+DHA
+
+Honolulu Heart27
+
+7995
+
+⬍1 g/wk
+
+ⱖ5 g/wk
+
+1.37 (0.70-2.69)a
+
+Upper Aerodigestive Tract
+
+Honolulu Heart28
+
+7995
+
+⬍1 g/wk
+
+ⱖ5 g/wk
+
+0.67 (0.26-1.67)a
+
+23 693
+
+0-26 g/d
+
+⬎58 g/d
+
+1.47 (1.10-1.98)
+
+34 759
+62 573
+
+14 500
+88 647
+
+88 410
+
+ⱕ1 Times/wk
+0.6 g/d ALA
+0 g/d EPA
+0.01 g/d DHA
+ⱕ2 g/wk
+ⱕ0.13
+
+Servings/d
+
+0.03% Of
+energy
+intake
+
+Unknown
+1.7 g/d ALA
+0.08 g/d EPA
+0.14 g/d DHA
+ⱖ2 g/wk
+ⱖ0.4
+
+Servings/d
+
+0.19% Of
+energy
+intake
+
+0.92 (0.66-1.29)a,b,c
+
+1.2 (0.8-1.7)a,d
+1.04 (0.93-1.14)a
+
+Bladder
+
+Breast
+
+1.01 (0.78-1.31)a
+
+0.70 (0.51-0.97)f
+
+0.98 (0.72-1.35)
+
+1.00 (0.72-1.37)
+
+Diet, Cancer, and
+Health Study29
+Life Span Study33
+The Netherlands7
+
+Norwegian34
+Nurses Health
+
+Study30
+
+Nurses’ Health
+
+Study32
+
+Singapore Chinese
+Health Study35
+
+Health
+
+Professionals36
+
+Iowa Women’s
+
+Health Study40
+The Netherlands37
+NY University
+Women’s
+Health Study5
+
+Nurses’ Health
+
+Study38
+
+Nurses’ Health
+
+Study,43 2005
+
+35 298
+
+Not reported
+
+Not reported
+
+0.87 (0.64, 1.18)a 0.72 (0.53-0.98)a
+
+47 949
+
+8.4 g/d
+
+83.4 g/d
+
+1.06 (0.70-1.60)a,e
+
+Colorectal
+
+35 215
+
+⬍0.03 g/d
+
+⬎0.18 g/d
+
+0.70 (0.45-1.09)a
+
+3111
+14 727
+
+0 g/d
+Not reported
+
+⬎20 g/d
+Not reported
+
+0.81 (0.56-1.17)a
+0.49 (0.27-0.89)f
+
+88 751
+
+⬍1 g/mo
+
+4 g/wk
+
+1.06 (0.36-3.12)a
+
+34 451
+
+0.03% Of
+energy
+
+0.18% Of
+energy
+
+1.04 (0.84-1.27)a,r
+0.74 (0.54-1.01)a,s
+1.36 (1.02-1.81)a,t
+1.04 (0.82-1.32)a,u
+1.11 (0.76-1.62)a,j
+
+Swedish women39
+
+61 433
+
+0.5 servings of
+
+fish/wk
+
+ⱖ2 servings of
+
+fish/wk
+
+1.08 (0.81-1.43)a,g
+1.03 (0.63-1.67)a,h
+0.83 (0.45-1.51)a,i
+1.08 (0.63-1.86)a,j
+
+Swedish women42
+
+61 433
+
+0.03 g EPA/d
+0.08 g DHA/d
+
+0.09 g EPA/d
+0.18 g DHA/d
+
+Women’s Health
+
+Study41
+
+37 547
+
+Not reported
+
+Not reported
+
+1.11 (0.73-1.69)a
+
+Abbreviations: ALA, linolenic acid; CI, confidence interval; DHA, docosahexaneoic acid;
+
+EPA, eicosopentaenoic acid.
+
+aTest for trend across all consumption groups insignificant.
+bFor “fish not dry.”
+cPoint estimate, for dry fish 0.77 (95% CI, 0.60-0.98),
+P for trend is .03.
+dIncidence rate ratio.
+eAdjusted for age only.
+fP for trend ⱕ.05.
+gCancer of proximal colon.
+hCancer of distal colon.
+iColorectal cancer.
+
+0.99 (0.75-1.32)a,i
+1.11 (0.70-1.78)a,j
+0.90 (0.63-1.28)a,k
+
+0.85 (0.60-1.21)a,k
+1.25 (0.75-2.06)a,j
+0.96 (0.72-1.28)a,i
+
+0.90 (0.67-1.20)a,i
+1.03 (0.62-1.71)a,j
+0.88 (0.61-1.26)a,k
+
+jCancer of rectum.
+KCancer of colon.
+lMen.
+mWomen.
+nHistologic verification.
+oSquamous and non-small cell.
+p95% CI not reported but estimated from data presented in manuscript.
+qAdvanced prostate cancer.
+rAdenoma.
+sCancer of large bowel.
+tCancer of small bowel.
+uCancer of distal colon.
+
+410 JAMA, January 25, 2006—Vol 295, No. 4 (Reprinted)
+
+©2006 American Medical Association. All rights reserved.
+
+Downloaded From:  by a Sheridan College User  on 08/02/2018EFFECT OF OMEGA-3 FATTY ACIDS ON CANCER RISK
+
+omega-3 fatty acids in one study (this
+was 62 there is none in the list); and
+relative to each of the specific omega-3
+fatty acid, DHA, EPA, and ALA in one.42
+
+Among the studies that measured fish
+consumption, 4 found no association
+with the incidence of colorectal can-
+cer36-39; 1 study5 demonstrated a reduced
+
+risk among participants in the highest
+quartile of fish intake relative to par-
+ticipants in the lowest quartile of fish
+intake (RR, 0.49; 95% CI, 0.27-0.89).
+
+Table 3. Risk of of Cancer From Omega-3 Fatty Acid Intake by Lung, Non-Hodgkin Lymphoma, Ovarian, Pancreatic, Prostate, Skin, and
+Stomach Cancer*
+
+No. of
+
+Participants
+in Analyses
+
+Study
+
+Aichi Prefecture6
+Japanese
+
+Collaborative44
+
+Norwegian45
+
+Norwegian46
+
+5885
+98 248
+
+13 785
+
+51 452
+
+Median Intake
+
+Multivariate Adjusted Risk Ratio (95% CI)
+
+Referent
+Group
+
+Highest
+
+Intake Group
+
+Fish
+
+Total
+
+Omega-3
+
+Lung
+
+Marine
+Omega-3
+
+ALA
+
+EPA
+
+DHA
+
+⬍1 Time/wk
+ⱖ3 Times/wk
+ⱕ1-2 Times/wk Almost every
+
+0.32 (0.13-0.76)f
+1.03 (0.79-1.34)a,l
+0.88 (0.52-1.49)a,m
+⬍10 Times/mo ⱖ20 Times/mo 0.82 (0.38-1.74)a,n,p
+0.98 (0.35-2.64)a,o,p
+3.0 (1.2-7.3)a,d
+
+⬍1 Times/wk ⱖ5 Time/wk
+
+day
+
+Iowa Women’s
+
+Health Study47
+
+Nurses’ Health
+
+Study48
+
+Nurses’ Health
+
+Study49
+
+Swedish
+
+Women50
+
+␣-Tocopherol,
+
+Beta-Carotene
+Cancer
+Prevention
+Study51
+
+Nurses’ Health
+
+Study52
+
+Hawaii Health53
+Health
+
+Professionals54
+
+Health
+
+Professionals57
+
+35 156
+
+⬍4 Servings/mo ⬎6 Servings/mo 0.81 (0.49-1.35)a
+
+Non-Hodgkin Lymphoma
+
+88 410
+
+0.02% Of
+energy
+intake
+
+0.10% Of
+energy
+intake
+
+1.4 (0.8-2.2)
+
+Ovarian Cancer
+
+80 258
+
+Not reported
+
+Not reported
+
+1.00 (0.72-1.39)a
+
+0.97 (0.64-1.48)a
+
+1.07 (0.71-1.63)a
+
+61 057
+
+⬍1 Servings/wk ⱖ3 Servings/wk 0.82 (0.75-1.55)a
+
+27 111
+
+Not reported
+
+Not reported
+
+0.91 (0.54-1.52)a
+
+0.96 (0.58-1.58)a
+
+1.11 (0.65-1.91)a
+
+Pancreatic Cancer
+
+88 802
+
+0.7 g/d
+
+1.1 g/d
+
+0.77 (0.47-1.26)a
+
+8881
+47 882
+
+Not reported
+Not reported
+⬍2 Times/mo ⬎3 Times/wk
+
+1.2 (0.8-1.8)a
+0.93 (0.80-1.08)
+
+Prostate Cancer
+
+47 855
+
+0.05 g/d
+
+0.55 g/d
+
+0.90 (0.51-1.61)a
+
+⬍0.37% Of
+
+⬎0.58% Of
+
+energy for
+ALA
+
+⬍0.014% Of
+energy for
+EPA
+
+⬍0.032% Of
+energy for
+DHA
+
+energy for
+ALA
+
+⬎0.066% Of
+energy for
+EPA
+
+⬎0.066% Of
+energy for
+DHA
+
+1.04 (0.85-1.27)a
+1.98 (1.34-2.93)f,q
+
+0.87 (0.72-1.06)f
+0.82 (0.58-1.17)a,q
+
+1.02 (0.84-1.25)
+0.71 (0.49-1.08)a,q
+
+0.7 g/d ALA
+0 g/d EPA
+0.01 g/d DHA
+Never
+
+2.1 g/d ALA
+0.10 g/d EPA
+0.18 g/d DHA
+ⱖ1 g/wk
+
+1.47 (0.84-2.60)f
+
+0.76 (0.66-1.04)a
+
+1.0 (0.73-1.35)a
+
+1.03 (0.75-1.40)a
+
+14 000
+
+Health
+
+Professionals58c
+
+47 866
+
+The Netherlands8
+
+58 279
+
+Seventh-day
+
+Adventists55
+
+Swedish Twin
+Registry56
+
+Health
+
+Professionals59
+
+Fukuoka
+
+Prefecture60
+
+6272
+
+Never/seldom Large
+
+1.0 (0.7-1.6)f
+
+43 217
+
+0.07 g/d
+
+0.58 g/d
+
+Skin, Non–Basal Cell Carcinoma
+
+1.13 (1.01-1.27)f
+
+Stomach
+
+13 000
+
+Low
+
+High
+
+1.0 (0.4-2.2)f
+
+Abbreviations: ALA, linolenic acid; CI, confidence interval; DHA, docosahexaneoic acid; EPA, eicosopentaenoic acid.
+*For footnote designations, see Table 2.
+
+©2006 American Medical Association. All rights reserved.
+
+(Reprinted) JAMA, January 25, 2006—Vol 295, No. 4 411
+
+Downloaded From:  by a Sheridan College User  on 08/02/2018EFFECT OF OMEGA-3 FATTY ACIDS ON CANCER RISK
+
+Among the 2 studies that measured total
+omega-3 fatty acid consumption, 1 dem-
+onstrated a trend for reducing the risk
+of colorectal cancer with higher con-
+sumption of omega-3 fatty acid when
+adjusting only for age40; the other did
+not find an association.41 However, with
+adjustment for multiple variables no sig-
+nificant association was observed
+between omega-3 fatty acid consump-
+tion and the incidence of colorectal can-
+cer. Likewise, the study that measured
+marine omega-3 fatty acid consump-
+tion demonstrated a trend for reduc-
+ing the risk of cancer of the large bowel
+with higher consumption of marine
+omega-3 fatty acid when adjusting only
+for age but not with adjustment for mul-
+tiple variables. This same study found
+no association between marine omega-3
+fatty acids and adenomas or with can-
+cers of the small bowel, distal colon, or
+rectum. No significant association
+with the incidence of colorectal cancer
+was found with ALA, DHA, or EPA
+consumption.42
+
+Five of the studies5,38-41 involved 3 dif-
+ferent cohorts of women, 1 involved a
+cohort of men,36 and 2 included co-
+horts of men and women.37,42 Among
+the latter, 1 study performed sub-
+group analyses among men and women
+and found no association between fish
+consumption and colon cancer for men
+or women.37 The study that demon-
+strated a favorable association be-
+tween a source of omega-3 fatty acid
+and incidence of colorectal cancer af-
+ter adjustment for multiple variables
+was performed in a cohort of women.5
+Three of the studies assessed the in-
+cidence of colon cancer only37,38,40 and
+6 assessed the incidence of colorectal
+cancer including cancers of the colon
+or rectum.5,36,39,41-43 In 2 studies from the
+same cohort that assessed the inci-
+dence of colon cancer, rectal cancer, and
+colorectal cancer,39,42 no difference was
+found in the association between fish,
+ALA, EPA, or DHA intake and the in-
+cidence of any of these types of can-
+cer, ie, there was no association in any
+case. The study that demonstrated a fa-
+vorable association between a source of
+omega-3 fatty acid and incidence of co-
+
+lorectal cancer after adjustment for mul-
+tiple variables included both cancers of
+the colon and rectum to define colo-
+rectal cancer.5
+
+Lung Cancer
+We identified 3 studies6,45,46 from 3 dif-
+ferent cohorts that evaluated the effect
+of omega-3 fatty acid on the incidence
+of lung cancer and 1 that evaluated the
+effect of omega-3 fatty acid intake on
+death from lung cancer.44 All of these
+studies assessed lung cancer inci-
+dence relative to fish consumption. In
+1 study,6 fish consumption was asso-
+ciated with a reduced risk of lung can-
+cer (RR, 0.32; 95% CI, 0.13-0.76). In
+another study, fish consumption was as-
+sociated with an increased risk of lung
+cancer46 (IRR, 3.0; 95% CI, 1.2-7.3). In
+the other studies, no significant asso-
+ciation was found between fish intake
+and lung cancer incidence45,46 or death
+from lung cancer.44
+
+Each of the cohorts was population
+based and included men and women.
+The base population comprised resi-
+dents of a single rural prefecture in Ja-
+pan in 1 study,6 19 Japanese prefec-
+tures in another study,44 and people
+residing in Norway in the other 2.45,46
+One study reported the risk of dying
+from lung cancer stratified by sex.44 This
+study found no significant association
+between fish consumption and death
+from lung cancer for either men or
+women.
+
+Lymphoma
+We identified 2 studies from 2 differ-
+ent cohorts that evaluated the effect of
+omega-3 fatty acid on the incidence of
+non-Hodgkin lymphoma.47,48 One study
+assessed incidence relative to fish con-
+sumption, the other relative to marine
+omega-3 fat consumption. Neither
+study found a significant association be-
+tween fish intake and the incidence of
+non-Hodgkin lymphoma.
+
+Both cohorts were restricted to
+women. The Nurses’ Health Study co-
+hort includes US women who are reg-
+istered nurses who responded to a
+mailed questionnaire.48 The Iowa Wom-
+en’s Health Study cohort includes
+
+women who had valid Iowa driver’s li-
+censes at the time of recruitment.
+
+Ovarian
+We identified 2 reports49,50 that evalu-
+ated the effect of omega-3 fatty acids on
+the incidence of ovarian cancer. In 1
+there was no association between fish
+consumption and the incidence of ovar-
+ian cancer.50 The other found no effect
+of different kinds of fat, including the
+omega-3 fatty acids DHA, EPA, and
+ALA, on the incidence of ovarian can-
+cer among women enrolled in the
+Nurses Health Study.49 In this latter
+study, no evidence of an association be-
+tween intake of any type of fat includ-
+ing DHA, EPA, and ALA and the inci-
+dence of ovarian cancer was found.
+Secondary analyses showed that total
+fat intake (ie, different levels of total fat
+intake) had no effect on the develop-
+ment of specific subtypes of ovarian
+cancer (serous, mucinous, and endo-
+metrial tumors). However, these analy-
+ses were not conducted for omega-3
+fatty acids specifically.
+
+The participants in the first study
+were women from a population-based
+sampling of several counties in Swe-
+den. The participants in the latter study
+were all female registered nurses in the
+United States.
+
+The latter study assessed for several
+different subpopulations the effect of
+total fat intake, but not omega-3 fat in-
+take, on the development of ovarian
+cancer. The relation between fat in-
+take and ovarian cancer risk (ie, no as-
+sociation) did not differ substantially
+by age or menopausal status. The ef-
+fects of several covariates on the effect
+of total fat intake but not omega-3 fat
+were also assessed. Neither body mass
+index, oral contraceptive use, smok-
+ing status, nor physical activity level had
+an effect on the relation between fat in-
+take and ovarian cancer.
+
+Pancreatic Cancer
+We identified 2 studies51,52 from 2 dif-
+ferent cohorts that evaluated the effect
+of omega-3 fatty acid on the incidence
+of pancreatic cancer. One study as-
+sessed incidence relative to fish,
+
+412 JAMA, January 25, 2006—Vol 295, No. 4 (Reprinted)
+
+©2006 American Medical Association. All rights reserved.
+
+Downloaded From:  by a Sheridan College User  on 08/02/2018omega-3 fatty acid, and ALA consump-
+tion51; the other assessed incidence rela-
+tive to ALA consumption.52 There was
+no significant association between fish
+intake and any of these measures of
+omega-3 fatty acid in either study.
+
+One cohort comprised women, the
+other of men. In the Nurses Health
+Study, participants responded to a
+mailed questionnaire.52 The Alpha-
+tocopherol, Beta-Carotene Cancer Pre-
+vention Study cohort includes men who
+smoke.
+
+Prostate Cancer
+We identified 7 studies8,53-58 from 5 dif-
+ferent cohorts that evaluated the effect
+of omega-3 fatty acid on the incidence
+of prostate cancer. Prostate cancer in-
+cidence relative to fish consumption was
+reported in 4 studies,53-56 relative to ma-
+rine omega-3 fatty acid consumption
+in 1,57 relative to the specific omega-3
+fatty acid DHA and EPA in 2,8,58 and rela-
+tive to the specific omega-3 fatty acid
+ALA in 3.8,57,58 Among the 4 studies that
+assessed risk relative to fish consump-
+tion, 1 demonstrated a favorable effect
+(risk for never/seldom consumption rela-
+tive to moderate consumption [RR, 2.3;
+95% CI, 1.2, 4.5),56 1 showed a trend to-
+ward a favorable effect,55 and 2 did not
+find an association.53,54 For ALA, there
+was no association with overall pros-
+tate cancer risk in 2 studies,8,58 How-
+ever, 1 of these studies demonstrated in-
+creased risk for advanced prostate cancer
+(RR, 1.98; 95% CI, 1.34-2.93) for high-
+est vs lowest quintile of ALA consump-
+tion).58 No significant association with
+the incidence of prostate cancer was
+found with marine omega-3 fats,57 EPA,
+or DHA consumption.8,58
+
+All analyses were restricted to men
+of racial groups that were homoge-
+neous within but that differed across the
+studies. These studies followed up co-
+horts that are ethnically, geographi-
+cally, socioeconomically distinct. The
+base populations for these studies com-
+prised Hawaiian men of Japanese an-
+cestry,53 Seventh-day Adventist men re-
+siding in California,55 US male health
+care professionals,54 Swedish male twin
+pairs,56 and the Dutch population.8
+
+EFFECT OF OMEGA-3 FATTY ACIDS ON CANCER RISK
+
+Skin Cancer (Basal Cell Carcinoma)
+One study59 evaluated the effect of
+omega-3 fatty acid on the incidence of
+skin cancer among male health care
+professionals. This study assessed in-
+cidence of basal cell carcinoma rela-
+tive to omega-3 fatty acid consump-
+tion. Relative to participants in the
+lowest quartile of omega-3 fat con-
+sumption, those in the highest quar-
+tile of consumption had a small but sta-
+tistically significant increase in the risk
+of basal cell carcinoma (RR, 1.13; 95%
+CI, 1.01-1.27).
+
+Stomach Cancer
+We identified 1 study60 that evaluated
+the effect of omega-3 fatty acid on the
+incidence of stomach cancer. This study
+assessed incidence relative to fish con-
+sumption and found no association with
+the incidence of stomach cancer.
+
+This study performed stratified analy-
+ses for men and women and found no
+association between fish consumption
+and stomach cancer risk for either
+group.
+
+COMMENT
+Among 65 estimates of association cal-
+culated across 20 different cohorts for
+11 different types of cancer and 6 dif-
+ferent ways to assess omega-3 fatty acid
+consumption, only 10 are statistically
+significant. Significant associations be-
+tween omega-3 fatty acid consump-
+tion and cancer risk were reported for
+breast cancer in 4 studies7,29,33,35; for co-
+lorectal cancer in 15; for lung cancer in
+26,46; for prostate cancer in 256,58; and for
+skin cancer in 1.59 However, for each
+breast, lung, and prostate cancer, there
+were significant associations for both
+increased risk and decreased risk and
+far more estimates that did not dem-
+onstrate any association. The study that
+assessed skin cancer risk found a sig-
+nificantly increased risk.59 Hence, no
+trend was found across many different
+cohorts and many different categories
+of omega-3 fatty acid consumption to
+suggest that omega-3 fatty acids re-
+duce overall cancer risk.
+
+Considering these data together,
+there is no overall trend across differ-
+
+ent cohorts and categories of omega-3
+fatty acid consumption to suggest that
+omega-3 fatty acids reduce overall can-
+cer risk; that is, omega-3 fatty acids ap-
+pear not to affect a mechanism of can-
+cer development that is common across
+the different types of cancers evalu-
+ated in this report. Likewise, there is
+little to suggest that omega-3 fatty ac-
+ids reduce the risk of any single type
+of cancer. Although risk reductions
+were observed for breast, colorectal,
+lung, and prostate cancer, the major-
+ity of other studies for these types of
+cancer, found no association. Indeed,
+for each breast, lung, and prostate can-
+cer, there were studies that reported an
+increased risk of cancer. Hence, we did
+not identify any specific types of can-
+cer for which the composite evidence
+suggests an association between
+omega-3 fatty acids and cancer inci-
+dence. However, for most types of can-
+cer, the data are not sufficient to ex-
+clude with confidence an association
+between omega-3 fatty acid consump-
+tion and cancer incidence.
+
+In considering the data, the relative
+strength of the data presented by indi-
+vidual studies should be considered in
+terms of methodological quality and
+sample size. All studies that entered this
+analysis were prospective in design and
+reported methodological attributes sug-
+gestive of high methodological quality
+(Table 1). The sample size was large in
+each of the studies, ranging from 6000
+to 121 000. Although quantitative
+methods to evaluate the effect of sample
+size on overall risk were not used in this
+analysis as a result of substantial het-
+erogeneity across studies, qualitative
+evaluation of the data does not sug-
+gest differences in reported risks based
+on sample size. Indeed, across all stud-
+ies and across studies for each type of
+cancer, those with the largest sample
+size report no association between
+omega-3 fatty acids and cancer risk. Vi-
+sual inspection of Figure 2 and Figure 3
+demonstrates that risk estimates for the
+studies with the smallest variance, ie,
+the largest studies, are generally at or
+near the null value. Studies for which
+the magnitude of the reported risk ra-
+
+©2006 American Medical Association. All rights reserved.
+
+(Reprinted) JAMA, January 25, 2006—Vol 295, No. 4 413
+
+Downloaded From:  by a Sheridan College User  on 08/02/2018EFFECT OF OMEGA-3 FATTY ACIDS ON CANCER RISK
+
+tio (positive or negative) was large and
+generally had large variance and small
+sample size.
+
+The apparent absence of an associa-
+tion between omega-3 fatty acid and the
+incidence of cancer in humans ap-
+pears to contrast with the findings from
+studies of laboratory animals and in
+vitro studies. Reviews of studies in labo-
+ratory animal and in vitro models gen-
+erally report small but significant sup-
+pressive effects of dietary n-3 fatty acid
+on the incidence, growth rate, or pro-
+liferation of mammary, prostate, co-
+lon, and pancreatic tumors.23 How-
+ever, several factors make it unclear
+how much light these results shed on
+the development or progression of can-
+cer in humans. First, the models used
+to conduct these studies do not come
+close to replicating human exposures
+and have not yet succeeded in eluci-
+dating the mechanisms by which
+omega-3 fatty acids might be exerting
+their effects, not to mention the stage
+of tumor development. Second, the
+methods used to modify dietary
+omega-3 fatty acid composition in the
+animal models are controversial.23 Be-
+cause they generally consist of vary-
+ing the ratio of omega-3 to omega-6
+fatty acids or simply supplementing a
+commercial diet with omega-3 fatty ac-
+ids (usually in the form of fish oil), it
+is impossible to assess whether posi-
+tive findings are attributable to in-
+creased exposure to omega-3 fatty ac-
+ids, decreased exposure to omega-6 fatty
+acids, or some other effect such as the
+decreased caloric intake that might re-
+sult from decreased dietary palatabil-
+ity, since these studies almost always
+provide food ad lib and seldom mea-
+sure intake. An additional concern is
+that the high doses of omega-3 fatty acid
+frequently used in animal studies could
+produce bleeding if administered to hu-
+mans.23
+
+Interpretation of the data we report
+are limited by differences in the char-
+acteristics of the populations that were
+studied in the different cohorts and by
+differences in the methods used to as-
+certain exposure to omega-3 fatty acids
+and tumor incidence. With regard to dif-
+
+ferences in population characteristics,
+differences in measured and unmea-
+sured characteristics across cohorts
+could affect the estimates of effect of
+omega-3 fatty acids in studies relative to
+one another. Of particular note is the fact
+that omega-3 fatty acid consumption
+varied a great deal across study co-
+horts. However, given that basically no
+effect was found in any of the cohorts,
+this difference could be regarded as evi-
+dence that omega-3 fatty acids have no
+effect regardless of intake. With regard
+to differences in the methods used to as-
+certain omega-3 fatty acid exposure, with
+the exception of the Health Profession-
+als Follow-up Study and the Nurses’
+Health Study, all other studies assessed
+omega-3 exposure at a single time point.
+For these studies it is not known
+whether omega-3 fatty acid consump-
+tion remained constant over the obser-
+vation period for ascertainment of can-
+cer incidence, which ranged from 1 to
+27 years. Thus, the reported estimates
+of effect for these studies should be in-
+terpreted with caution.
+
+With regard to publication bias, for
+observational studies, publication bias
+occurs as the result of preferential pub-
+lication of studies with outcomes that
+achieve statistical significance, with no
+regard for whether such outcomes were
+secondary in nature. Given that the re-
+sults for the observational studies in-
+cluded in this article were all essen-
+tially negative, publication bias does not
+appear to be present.
+
+Regarding incomplete data, it is pos-
+sible that additional information that
+would change our conclusions is avail-
+able in reports that we were unable to
+locate or for which we were unable to
+find a translator. However, it is un-
+likely that our data were incomplete,
+given that our screening strategy was
+broad and that among the more than
+1200 articles that were of possible rel-
+evance to the report only 36 could not
+be located.
+
+A large body of literature spanning
+numerous cohorts from many coun-
+tries and with different demographic
+characteristics did not provide evi-
+dence to suggest a significant associa-
+
+tion between omega-3 fatty acids and
+cancer incidence. Dietary supplemen-
+tation with omega-3 fatty acids is un-
+likely to reduce the risk of cancer.
+Author Affiliations: Southern California Evidence-
+Based Practice Center, which includes RAND Health,
+Santa Monica (Drs MacLean, Newberry, Mojica, Lim,
+and Morton and Mss Suttorp, Hilton, and Garland),
+the Greater Los Angeles VA Healthcare System, Los
+Angeles (Dr MacLean), and the University of Califor-
+nia Los Angeles School of Public Health, Los Angeles
+(Dr Issa and Ms Traina); and Wright State University
+School of Medicine, Dayton, Ohio (Dr Khanna).
+Author Contributions: Dr MacLean had full access to
+all of the data in the study and takes responsibility for
+the integrity of the data and the accuracy of the data
+analysis.
+Study concept and design: MacLean, Khanna, Issa,
+Garland, Morton.
+Acquisition of data: MacLean, Mojica, Khanna, Issa,
+Traina, Garland.
+Analysis and interpretation of data: MacLean,
+Newberry, Khanna, Suttorp, Lim, Traina, Hilton,
+Garland, Morton.
+Drafting of the manuscript: MacLean, Newberry, Lim,
+Traina, Hilton, Garland, Morton.
+Critical revision of the manuscript for important in-
+tellectual content: MacLean, Newberry, Mojica,
+Khanna, Issa, Suttorp, Morton.
+Statistical analysis: Issa, Suttorp, Morton.
+Obtained funding: Morton.
+Administrative, technical, or material support:
+MacLean, Newberry, Mojica, Issa, Traina, Hilton,
+Garland.
+Study supervision: MacLean, Garland.
+Data management: Hilton.
+Financial Disclosures: None reported.
+Funding/Support: Supported by the Agency for Health-
+care Research and Quality (AHRQ) contract 290-02-
+0003. Dr MacLean is a Veterans Health Administra-
+tion Health Services Research and Career Development
+Awardee.
+Role of the Sponsor: The funding source had no role
+in the conduct of the study, collection of data, man-
+agement, analysis, interpretation of the data or prepa-
+ration of the manuscript. AHRQ did review and ap-
+prove the manuscript.
+Disclaimer: This research was conducted through the
+AHRQ Evidence Based-Practice Center program and as
+such followed AHRQ’s guidelines for the design, col-
+lection, and presentation of data for evidence reports.
+Acknowledgment: We thank Paul Shekelle, MD, PhD,
+of RAND Health and the Greater Los Angeles Veter-
+ans Health Care System, for his review of the manu-
+script.
+
+REFERENCES
+
+1. Baronzio G, Freitas I, Griffini P, et al. Omega-3 fatty
+acids can improve radioresponse modifying tumor in-
+terstitial pressure, blood rheology and membrane
+peroxidability. Anticancer Res. 1994;14:1145-1154.
+2. Avula CPR, Lawrence RA, Jolly CA, Fernandes G.
+Role of n-3 polyunsaturated fatty acids (PUFA) in au-
+toimmunity, inflammation, carcinogenesis, and
+apoptosis. Recent Res Develop Lipids. 2000;4:303-319.
+3. Troyer D, Fernandes G. Nutrition and apoptosis.
+Nutr Res. 1996;16:1959-1987.
+4. Johnson IT. Anticarcinogenic effects of diet-
+related apoptosis in the colorectal mucosa. Food Chem
+Toxicol. 2002;40:1171-1178.
+5. Kato I, Akhmedkhanov A, Koenig K, Toniolo PG,
+Shore RE, Riboli E. Prospective study of diet and fe-
+male colorectal cancer: the New York University Wom-
+en’s Health Study. Nutr Cancer. 1997;28:276-281.
+6. Takezaki T, Inoue M, Kataoka H, et al. Diet and
+
+414 JAMA, January 25, 2006—Vol 295, No. 4 (Reprinted)
+
+©2006 American Medical Association. All rights reserved.
+
+Downloaded From:  by a Sheridan College User  on 08/02/2018EFFECT OF OMEGA-3 FATTY ACIDS ON CANCER RISK
+
+lung cancer risk from a 14-year population-based pro-
+spective study in Japan: with special reference to fish
+consumption. Nutr Cancer. 2003;45:160-167.
+7. Voorrips LE, Brants HA, Kardinaal AF, Hiddink GJ,
+van den Brandt PA, Goldbohm RA. Intake of conju-
+gated linoleic acid, fat, and other fatty acids in rela-
+tion to postmenopausal breast cancer: the Nether-
+lands Cohort Study on Diet and Cancer. Am J Clin Nutr.
+2002;76:873-882.
+8. Schuurman AG, van den Brandt PA, Dorant E, Brants
+HA, Goldbohm RA. Association of energy and fat in-
+take with prostate carcinoma risk: results from the
+Netherlands Cohort Study. Cancer. 1999;86:
+1019-1027.
+9. Kenler AS, Swails WS, Driscoll DF, et al. Early en-
+teral feeding in postsurgical cancer patients: fish oil
+structured lipid-based polymeric formula versus a stan-
+dard polymeric formula. Ann Surg. 1996;223:316-333.
+10. McCarter MD, Gentilini OD, Gomez ME, Daly JM.
+Preoperative oral supplement with immunonutrients
+in cancer patients. JPEN J Parenter Enteral Nutr. 1998;
+22:206-211.
+11. Swails WS, Kenler AS, Driscoll DF, et al. Effect of a
+fish oil structured lipid-based diet on prostaglandin re-
+lease from mononuclear cells in cancer patients after
+surgery. JPEN Parenter Enteral Nutr. 1997;21:266-274.
+12. Braga M, Gianotti L, Vignali A, Carlo VD. Preop-
+erative oral arginine and n-3 fatty acid supplementa-
+tion improves the immunometabolic host response and
+outcome after colorectal resection for cancer. Surgery.
+2002;132:805-814.
+13. Braga M, Gianotti L, Nespoli L, Radaelli G, Di Carlo
+V. Nutritional approach in malnourished surgical pa-
+tients: a prospective randomized study. Arch Surg.
+2002;137:174-180.
+14. Braga M, Vignali A, Gianotti L, Cestari A, Profili
+M, Di Carlo V. Benefits of early postoperative
+enteral feeding in cancer patients. Infusionsther
+Transfusionsmed. 1995;22:280-284.
+15. Braga M, Gianotti L, Radaelli G, et al. Periopera-
+tive immunonutrition in patients undergoing cancer
+surgery: results of a randomized double-blind phase
+3 trial. Arch Surg. 1999;134:428-433.
+16. Daly JM, Lieberman MD, Goldfine J, et al. En-
+teral nutrition with supplemental arginine, RNA, and
+omega-3 fatty acids in patients after operation: im-
+munologic, metabolic, and clinical outcome. Surgery.
+1992;112:56-67.
+17. Daly JM, Weintraub FN, Shou J, Rosato EF, Lu-
+cia M. Enteral nutrition during multimodality therapy
+in upper gastrointestinal cancer patients. Ann Surg.
+1995;221:327-338.
+18. Di Carlo V, Gianotti L, Balzano G, Zerbi A, Braga
+M. Complications of pancreatic surgery and the role
+of perioperative nutrition. Dig Surg. 1999;16:320-326.
+19. Gianotti L, Braga M, Vignali A, et al. Effect of route
+of delivery and formulation of postoperative nutri-
+tional support in patients undergoing major opera-
+tions for malignant neoplasms. Arch Surg. 1997;132:
+1222-1230.
+20. Schilling J, Vranjes N, Fierz W, et al. Clinical out-
+come and immunology of postoperative arginine,
+omega-3 fatty acids, and nucleotide-enriched en-
+teral feeding: a randomized prospective comparison
+with standard enteral and low calorie/low fat i.v.
+solutions. Nutrition. 1996;12:423-429.
+21. Senkal M, Zumtobel V, Bauer KH, et al. Out-
+come and cost-effectiveness of perioperative enteral
+immunonutrition in patients undergoing elective up-
+per gastrointestinal tract surgery: a prospective ran-
+domized study. Arch Surg. 1999;134:1309-1316.
+
+22. Senkal M, Mumme A, Eickhoff U, et al. Early post-
+operative enteral immunonutrition: clinical outcome
+and cost-comparison analysis in surgical patients. Crit
+Care Med. 1997;25:1489-1496.
+23. Fay M, Freedman L, Clifford C, Midthune D. Effect
+of different types and amounts of fat on the devel-
+opment of mammary tumors in rodents: a review. Can-
+cer Res. 1997;57:3979-3988.
+24. Downs S, Black N. The feasibility of creating a
+checklist for the assessment of the methodological qual-
+ity both of randomised and non-randomised studies
+of health care interventions. J Epidemiol Community
+Health. 1998;52:377-384.
+25. Saunders L, Soomro G, Buckingham J, Jamtvedt
+G, Raina P. Assessing the methodological quality of
+nonrandomized intervention studies. West J Nurs Res.
+2003;25:223-237.
+26. Jadad A, Moore A, Carrol D, et al. Assessing the
+quality of reports of randomized clinical trials: is blind-
+ing necessary? Control Clin Trials. 1996;17:1-12.
+27. Chyou PH, Nomura AMY, Stemmermann GN.
+Diet, alcohol, smoking and cancer of the upper aero-
+digestive tract: a prospective study among Hawaii Japa-
+nese men. Int J Cancer. 1995;60:616-621.
+28. Chyou PH, Nomura AMY, Stemmermann GN. A
+prospective study of diet, smoking, and lower uri-
+nary tract cancer. Ann Epidemiol. 1993;3:211-216.
+29. Stripp C, Overvad K, Christensen J, et al. Fish in-
+take is positively associated with breast cancer inci-
+dence rate. J Nutr. 2003;133:3664-3669.
+30. Holmes MD, Colditz GA, Hunter DJ, et al. Meat,
+fish and egg intake and risk of breast cancer. Int J
+Cancer. 2003;104:221-227.
+31. Holmes MD, Hunter DJ, Colditz GA, et al. Asso-
+ciation of dietary intake of fat and fatty acids with risk
+of breast cancer. JAMA. 1999;281:914-920.
+32. Cho E, Spiegelman D, Hunter DJ, et al. Premeno-
+pausal fat intake and risk of breast cancer. J Natl Can-
+cer Inst. 2003;95:1079-1085.
+33. Key TJ, Sharp GB, Appleby PN, et al. Soya foods
+and breast cancer risk: a prospective study in Hiro-
+shima and Nagasaki, Japan. Br J Cancer. 1999;81:1248-
+1256.
+34. Vatten LJ, Solvoll K, Loken EB. Frequency of meat
+and fish intake and risk of breast cancer in a prospec-
+tive study of 14,500 Norwegian women. Int J Cancer.
+1990;46:12-15.
+35. Gago-Dominguez M, Yuan JM, Sun CL, Lee HP,
+Yu MC. Opposing effects of dietary n-3 and n-6 fatty
+acids on mammary carcinogenesis: The Singapore
+Chinese Health Study. Br J Cancer. 2003;89:1686-
+1692.
+36. Giovannucci E, Rimm EB, Stampfer MJ, Colditz
+GA, Ascherio A, Willett WC. Intake of fat, meat, and
+fiber in relation to risk of colon cancer in men. Can-
+cer Res. 1994;54:2390-2397.
+37. Goldbohm RA, van den Brandt PA, van ’t Veer
+P, et al. A prospective cohort study on the relation be-
+tween meat consumption and the risk of colon cancer.
+Cancer Res. 1994;54:718-723.
+38. Willett WC, Stampfer MJ, Colditz GA, Rosner BA,
+Speizer FE. Relation of meat, fat, and fiber intake to
+the risk of colon cancer in a prospective study among
+women. N Engl J Med. 1990;323:1664-1672.
+39. Larsson SC, Rafter J, Holmberg L, Bergkvist L, Wolk
+A. Red meat consumption and risk of cancers of the
+proximal colon, distal colon and rectum: the Swedish
+Mammography Cohort. Int J Cancer. 2005;113:829-
+834.
+40. Bostick RM, Potter JD, Kushi LH, et al. Sugar, meat,
+and fat intake, and non-dietary risk factors for colon
+
+cancer incidence in Iowa women (United States). Can-
+cer Causes Control. 1994;5:38-52.
+41. Lin J, Zhang SM, Cook NR, Lee IM, Buring JE. Di-
+etary fat and fatty acids and risk of colorectal cancer
+in women. Am J Epidemiol. 2004;160:1011-1022.
+42. Terry P, Bergkvist L, Holmberg L, Wolk A. No as-
+sociation between fat and fatty acids intake and risk
+of colorectal cancer. Cancer Epidemiol Biomarkers Prev.
+2001;10:913-914.
+43. Oh K, Willett WC, Fuchs CS, Giovannucci E. Di-
+etary marine n-3 fatty acids in relation to risk of distal
+colorectal adenoma in women. Cancer Epidemiol Bio-
+markers Prev. 2005;14:835-841.
+44. Ozasa K, Watanabe Y, Ito Y, et al. Dietary habits
+and risk of lung cancer death in a large-scale cohort
+study ( JACC Study) in Japan by sex and smoking habit.
+Jpn J Cancer Res. 2001;92:1259-1269.
+45. Kvale G, Bjelke E, Gart JJ. Dietary habits and lung
+cancer risk. Int J Cancer. 1983;31:397-405.
+46. Veierod MB, Laake P, Thelle DS. Dietary fat in-
+take and risk of lung cancer: a prospective study of
+51,452 Norwegian men and women. Eur J Cancer Prev.
+1997;6:540-549.
+47. Chiu BC, Cerhan JR, Folsom AR, et al. Diet and
+risk of non-Hodgkin lymphoma in older women. JAMA.
+1996;275:1315-1321.
+48. Zhang S, Hunter DJ, Rosner BA, et al. Dietary fat
+and protein in relation to risk of non-Hodgkin’s lym-
+phoma among women. J Natl Cancer Inst. 1999;91:
+1751-1758.
+49. Bertone ER, Rosner BA, Hunter DJ, et al. Dietary
+fat intake and ovarian cancer in a cohort of US women.
+Am J Epidemiol. 2002;156:22-31.
+50. Larsson SC, Wolk A. No association of meat, fish,
+and egg consumption with ovarian cancer risk. Can-
+cer Epidemiol Biomarkers Prev. 2005;14:1024-1025.
+51. Stolzenberg-Solomon RZ, Pietinen P, Taylor PR,
+Virtamo J, Albanes D. Prospective study of diet and
+pancreatic cancer in male smokers. Am J Epidemiol.
+2002;155:783-792.
+52. Michaud DS, Giovannucci E, Willett WC, Colditz
+GA, Fuchs CS. Dietary meat, dairy products, fat, and
+cholesterol and pancreatic cancer risk in a prospec-
+tive study. Am J Epidemiol. 2003;157:1115-1125.
+53. Le Marchand L, Kolonel LN, Wilkens LR, Myers BC,
+Hirohata T. Animal fat consumption and prostate can-
+cer: a prospective study in Hawaii. Epidemiology. 1994;
+5:276-282.
+54. Augustsson K, Michaud DS, Rimm EB, et al. A pro-
+spective study of intake of fish and marine fatty acids
+and prostate cancer. Cancer Epidemiol Biomarkers
+Prev. 2003;12:64-67.
+55. Mills PK, Beeson WL, Phillips RL, Fraser GE. Co-
+hort study of diet, lifestyle, and prostate cancer in
+Adventist men. Cancer. 1989;64:598-604.
+56. Terry P, Lichtenstein P, Feychting M, Ahlbom A,
+Wolk A. Fatty fish consumption and risk of prostate
+cancer. Lancet. 2001;357:1764-1766.
+57. Giovannucci E, Rimm EB, Colditz GA, et al. A pro-
+spective study of dietary fat and risk of prostate cancer.
+J Natl Cancer Inst. 1993;85:1571-1579.
+58. Leitzmann MF, Stampfer MJ, Michaud DS, et al.
+Dietary intake of n-3 and n-6 fatty acids and the
+risk of prostate cancer. Am J Clin Nutr. 2004;80:204-
+216.
+59. van Dam RM, Huang Z, Giovannucci E, et al. Diet
+and basal cell carcinoma of the skin in a prospective
+cohort of men. Am J Clin Nutr. 2000;71:135-141.
+60. Ngoan LT, Mizoue T, Fujino Y, Tokui N, Yoshimura
+T. Dietary factors and stomach cancer mortality. Br J
+Cancer. 2002;87:37-42.
+
+©2006 American Medical Association. All rights reserved.
+
+(Reprinted) JAMA, January 25, 2006—Vol 295, No. 4 415
+
+Downloaded From:  by a Sheridan College User  on 08/02/2018LETTERS
+
+Role of the Sponsor: The sponsor had no role in the design and conduct of the
+study; in the collection, management, analysis, or interpretation of the data; and
+in the preparation of the manuscript. The director of the Clinical Investigation Fa-
+cility at the David Grant US Air Force Medical Center reviewed and approved the
+manuscript prior to submission.
+Disclaimer: The opinions and assertions contained herein are the private views of
+the authors and are not to be construed as official or as reflecting the official policy
+of the Department of Defense or other departments of the US Government. The
+voluntary and fully informed consent of the participants described in this study
+was obtained as required by 32 CFR 219 and AFI 40-402, Protection of Human
+Subjects in Biomedical and Behavioral Research.
+Acknowledgment: We are grateful to the many military members who volun-
+teered for this study. We also thank Sarah Stassen for her voluntary technical as-
+sistance in the laboratory, Dana Wallace and Robert Duck of the immunizations
+clinic for their voluntary assistance with vaccination, and Regina Rowell, MLS, medi-
+cal librarian, for her voluntary assistance.
+
+1. Blattner RJ, Norman JO, Heys FM, Aksu I. Antibody response to cutaneous in-
+oculation with vaccinia virus: viremia and viruria in vaccinated children. J Pediatr.
+1964;64:839-852.
+2. Gurvich EB, Braginskaya VP, Shenkman LS, Sokolova AF, Davydova AV. Iso-
+lation of vaccinia virus from the pharynx of children vaccinated against smallpox.
+J Hyg Epidemiol Microbiol Immunol. 1974;18:69-76.
+3. Xia D, Gagni C, Ravizee A, Dempsy M, Cooper L, Hadfield TL. Rapid detection
+of orthopoxvirus DNA by LightCycler RTPCR with TaqMan primer probe set.
+Abstr Gen Meet Am Soc Microbiol. 2003:175-176.
+4. Panning M, Asper M, Kramme S, Schmitz H, Drosten C. Rapid detection and
+differentiation of human pathogenic orthopox viruses by a fluorescence reso-
+nance energy transfer real-time PCR assay. Clin Chem. 2004;50:702-708.
+5. Food and Drug Administration; Center for Biologics Evaluation and Research
+Guidance for industry: recommendations for deferral of donors and quarantine
+and retrieval of blood and blood products in recent recipients of smallpox vaccine
+(vaccinia virus) and certain contacts of smallpox vaccine recipients. Available at:
+http://www.fda.gov/cber/gdlns/smpoxdefquar.pdf. Accessed July 4, 2005.
+
+CORRECTIONS
+
+Data Error: In the Original Contribution entitled “Development and Validation of
+a Prognostic Index for 4-Year Mortality in Older Adults” published in the Febru-
+ary 15, 2006, issue of JAMA (2006;295:801-808), a data error was published. In
+the Box, the number of points assigned for diabetes should have been 1.
+
+Incorrect Study Listed: In the Review Article entitled “Effects of Omega-3 Fatty
+Acids on Cancer Risk: A Systematic Review” published in the January 25, 2006,
+issue of JAMA (2006;295:403-415), a study was incorrectly identified. In Figure
+2, in the “Prostate” cancer section, the “Swedish Women,42 2001” entry should
+read “Swedish Twin Registry,56 2001.”
+
+Incorrect Data: In the Original Contribution entitled “Operating Characteristics of
+Prostate-Specific Antigen in Men With an Initial PSA Level of 3.0 ng/mL or
+Lower” published in the July 6, 2005, issue of JAMA (2005;294:66-70), the data
+in the “Race” section of TABLE 1 were incorrect. These data should have read as
+follows:
+
+Table 1. Characteristics of Participant Population
+
+No. (%)
+
+Race
+
+White
+African American
+Other
+Missing
+
+Verified
+(n = 5587)
+
+5341 (95.6)
+176 (3.2)
+70 (1.3)
+
+0
+
+Unverified
+(n = 2988)
+
+2775 (92.9)
+139 (4.7)
+71 (2.4)
+3 (0.1)
+
+1900 JAMA, April 26, 2006—Vol 295, No. 16 (Reprinted)
+
+©2006 American Medical Association. All rights reserved.
+
+Downloaded From:  by a Sheridan College User  on 08/02/2018

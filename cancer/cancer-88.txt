@@ -1,0 +1,1037 @@
+Food and Chemical Toxicology 38 (2000) 599–605
+
+www.elsevier.com/locate/foodchemtox
+
+Research Section
+
+Intake of Butylated Hydroxyanisole and
+Butylated Hydroxytoluene and Stomach
+Cancer Risk: Results from Analyses in the
+
+Netherlands Cohort Study
+
+A.A.M. BOTTERWECK 1,*, H. VERHAGEN 2,y, R.A. GOLDBOHM 3, J. KLEINJANS 4
+
+and P.A. van den BRANDT 1
+
+1Department of Epidemiology, Maastricht University, PO Box 616, 6200 MD Maastricht,
+
+The Netherlands and 2Food Analysis Department, TNO Voeding, PO Box 360, 3700 AJ Zeist,
+
+The Netherlands and 3Department of Consumer Research and Epidemiology, TNO Voeding, PO Box 360,
+3700 AJ Zeist, The Netherlands and 4Department of Health Risk Analysis and Toxicology, PO Box 616,
+
+6200 MD Maastricht University, Maastricht, The Netherlands
+
+(Accepted 17 October 1999)
+
+Abstract—Both carcinogenic and anticarcinogenic properties have been reported for the synthetic anti-
+oxidants butylated hydroxyanisole (BHA) and butylated hydroxytoluene (BHT). The association between
+dietary intake of BHA and BHT and stomach cancer risk was investigated in the Netherlands Cohort Study
+(NLCS) that started in 1986 among 120,852 men and women aged 55 to 69 years. A semi-quantitative food
+frequency questionnaire was used to assess food consumption. Information on BHA or BHT content of
+cooking fats, oils, mayonnaise and other creamy salad dressings and dried soups was obtained by chemical
+analysis, a Dutch database of food additives (ALBA) and the Dutch Compendium of Foods and Diet Pro-
+ducts. After 6.3 years of follow-up, complete data on BHA and BHT intake of 192 incident stomach cancer
+cases and 2035 subcohort members were available for case-cohort analysis. Mean intake of BHA or BHT
+among subcohort members was 105 and 351 (cid:22)g/day, respectively. For consumption of mayonnaise and other
+creamy salad dressings with BHA or BHT no association with stomach cancer risk was observed. A statisti-
+cally non-signiﬁcant decrease in stomach cancer risk was observed with increasing BHA and BHT intake
+[rate ratio (RR) highest/lowest intake of BHA=0.57 (95% conﬁdence interval (CI): 0.25–1.30] and
+BHT=0.74 (95% CI: 0.38–1.43). In this study, no signiﬁcant association with stomach cancer risk was found
+for usual intake of low levels of BHA and BHT. # 2000 Elsevier Science Ltd. All rights reserved
+
+Keywords: butylated hydroxyanisole; butylated hydroxytoluene; stomach neoplasms; cohort study.
+
+Abbreviations: ALBA=dutch database of food additives; BHA=butylated hydroxyanisole; BHT=buty-
+lated hydroxytoluene; CI=conﬁdence interval; NLCS=Netherlands Cohort Study; RR=rate ratio.
+
+INTRODUCTION
+
+Butylated hydroxyanisole
+(BHA) and butylated
+hydroxytoluene (BHT) are synthetic antioxidants
+which are applied in fat and fatty foods to prevent
+
+*Corresponding author. Tel: +31-(0)-43-388-23-33; Fax:
++31-(0)-43-388-41-28; e-mail: AAM.Botterweck@Epid.
+unimaas.NL
+
+yPresent address: Unilever Research Vlaardingen, Unilever
+Health Institute, PO Box 114, 3130 AC Vlaardingen, The
+Netherlands.
+
+oxidative deterioration (Addis, 1986). Moreover, BHA
+and BHT are synthetic phenolic compounds, which are
+the two most widely applied synthetic antioxidants that
+have been used since the 1950s (IARC, 1986a,b). BHA
+and BHT are present in small amounts in many com-
+mercial foods and thus constitute a small fraction of
+the diet of many people (Hocman, 1988).
+
+BHA and BHT were observed to act as antic-
+arcinogens in various animal models (Hocman, 1988;
+Wattenberg, 1972, 1986; Wattenberg et al., 1980;
+Williams, 1986; Williams and Iatropoulos, 1996). On
+the other hand, results have also been reported for
+
+0278-6915/00/$ - see front matter # 2000 Elsevier Science Ltd. All rights reserved. Printed in Great Britain
+P I I : S 0 2 7 8 - 6 9 1 5 ( 0 0 ) 0 0 0 4 2 - 9
+
+600
+
+A. A. M. Botterweck et al.
+
+the carcinogenicity of BHA and BHT in experi-
+mental animals (Hocman, 1988; Ito et al., 1983;
+Williams, 1986). Originally, BHA appeared to have
+initiating as well as promoting action (Ito et al.,
+1986b). Recently, it was established that tumor for-
+mation appears to involve only tumor promotion
+(Williams et al., 1999). The target organ for BHA is
+the forestomach, an organ only present in rodents,
+whereas BHT has carcinogenic eects in the liver of
+rats and mice (Clayson et al., 1993; Papas, 1993;
+Verhagen et al., 1991). Also, esophagus proliferation
+stimulating eects of BHA have been reported in
+non-rodents (pigs, monkeys) in response to BHA
+administration (Papas, 1993; Verhagen et al., 1991a).
+In a landmark publication in 1981 it was estimated
+that food additives accounted for less than 1% of all
+cancer deaths. The range of estimates for food additives
+varied from +2% to (cid:255)5%, suggesting that food addi-
+tives may either have a positive or negative contribution
+to cancer development (Doll and Peto, 1981).
+
+However, the eects of BHA and BHT on humans
+have been limited. A study by Verhagen et al.
+revealed no clinical eects (Verhagen et al., 1989a).
+Because of the widespread use of BHA and BHT in
+food products and as a consequence long-term and
+widespread exposure of humans, it is important to
+investigate the potential health risks associated with
+their dietary intake. In the Netherlands Cohort
+Study (NLCS), a prospective cohort study in which
+various risk factors for stomach cancer have been
+investigated (Botterweck et al., 1998), we were also
+able to study the eect of usual BHA and BHT
+intake on stomach cancer risk.
+
+MATERIALS AND METHODS
+
+Subjects and study design
+
+The Netherlands Cohort Study on diet and cancer
+(NLCS) is a prospective cohort study which started
+in September 1986 among the general population in
+The Netherlands (van den Brandt et al., 1990a). The
+cohort included 62,573 women and 58,279 men aged
+55 to 69 yr in 1986. At baseline, the cohort members
+completed a mailed, self-administered questionnaire
+on dietary habits, smoking, occupation, medical his-
+tory, personal and family history of cancer, and
+demographic data. Follow-up for the incidence of
+cancer has been established by record linkage with
+cancer registries and a pathology register (van den
+Brandt et al., 1990b). For data analysis the case-
+cohort approach was used in which cases are derived
+from the entire cohort, while the person-years at risk
+of the entire cohort are estimated from a random
+sample of 3500 subjects (subcohort) (Self and Pre-
+ntice, 1988). This subcohort of 1812 women and 1688
+men has been followed up biennially for vital status
+information in order to estimate the accumulated
+person time in the cohort. No subcohort members
+
+were lost
+to follow-up. The present analysis is
+restricted to cancer incidence in the ﬁrst 6.3 yr of
+follow-up from September 1986 until December
+1992. After the exclusion of subjects reporting pre-
+valent stomach cancer at base-line (n=33), cases
+with in situ stomach carcinoma (n=2), and cases
+without microscopically conﬁrmed stomach cancer
+(n=2), there were 310 incident (242 men, 68 women)
+stomach carcinoma cases remaining. In the sub-
+cohort, 1630 men and 1716 women remained after
+the exclusion of prevalent cancer cases other than
+skin cancer.
+
+Exposure assessment
+
+food frequency questionnaire
+
+For assessing BHA and BHT intake, both infor-
+mation on consumption of potential BHA- and/or
+BHT-containing foods and brand names of these
+foods were needed. Consumption of potential BHA-
+and/or BHT-containing foods was assessed using the
+dietary section of the baseline questionnaire of the
+NLCS. The dietary section was a 150-item semi-
+con-
+quantitative
+centrating on usual consumption of
+food and
+beverages during the year preceding the start of the
+study. The questionnaire was validated against a 9-
+day diet record (Goldbohm et al., 1994). Among
+other questions, participants were asked to report
+their frequency of consumption of potential BHA-
+and/or BHT-containing foods: cooking fats, oils,
+dried soups (from a pack), mayonnaise and other
+creamy salad dressings, potato products, cereals and
+cereal products, pastry, cakes and biscuits, sugar,
+sweets and sweet spreads, nuts, seeds and snacks
+(Verhagen et al., 1990a). They could choose one of
+six frequency categories, ranging from ‘‘never or less
+than once per month’’ to ‘‘6–7 times per week’’.
+Standard portion sizes were used to calculate daily
+intake. Participants were asked to specify type and
+brand for cooking fats (for preparing meat, ﬁsh and
+chips), oils, butter, mayonnaise and other creamy salad
+dressings and dried soups. Only those products with
+brand names could be used to obtain information on
+BHA and BHT content.
+
+Collection of information on BHA and BHT content
+of foods
+
+Information on BHA and/or BHT content was
+obtained by chemical analysis of selected potential
+BHA- and/or BHT- containing foods and by the use
+of two other information sources: a Dutch database
+of food additives for people with food intolerance
+and allergy (ALBA) and the Dutch Compendium of
+Foods and Diet Products (Compendium of Food
+and Diet Products, 1989/1990).
+
+Chemical analysis
+
+The most frequently mentioned brand names of
+cooking fats, oils, mayonnaise and other creamy
+salad dressings and dried soups in the baseline ques-
+tionnaire from a random sample of 400 cohort par-
+
+Intake of BHA and BHT and stomach cancer risk
+
+601
+
+ticipants were selected in 1988. Because the fat con-
+tent of dried soups is very low and as a consequence
+the BHA and/or BHT content, dried soups were not
+regarded as relevant for BHA and/or BHT intake.
+Dried soups were therefore excluded from chemical
+analysis. Although oils contain naturally occurring
+tocopherols and do not require the addition of BHA
+or BHT, a number of oils were still analysed. Finally,
+in 1990, 55 brand-speciﬁc foods (30 mayonnaise and
+other creamy salad dressings, 11 oils and 14 cooking
+fats) were bought in local supermarkets and analysed
+by means of HPLC.
+
+Other data sources
+
+The ALBA database comprises data on the pre-
+sence or absence of food additives in food products
+speciﬁed to type and brand for people with food
+intolerance and allergy. Regarding BHA and BHT, a
+list of food brand names containing BHA and/or
+BHT was obtained for the year 1989. Information
+before 1989 was not available.
+
+The Compendium of Food and Diet Products con-
+tains information about the composition of a selection
+of (diet) foods by type and brand and is used by general
+practitioners and dieticians
+(Compendium, 1989/
+1990). Since 1989, information about the presence of
+food additives in food and diet products was added to
+the Compendium. Both ALBA and the Compendium
+obtained their information from food manufacturers.
+We assumed that the BHA and/or BHT content of
+foods in 1989/1990 was the same as in 1986.
+
+Based on the information of these three sources, it
+could be concluded that in this study only mayon-
+naise and other creamy salad dressings contained
+BHA or BHT. There were no foods that contained
+both BHA and BHT.
+
+Calculation of BHA and BHT intake
+
+Foods were coded to contain BHA or BHT if at
+least one of the three sources (chemical analysis,
+ALBA or Compendium) showed that BHA or BHT
+was present. If, in addition, the amount of BHA and/
+or BHT was known by chemical analysis, this infor-
+mation was also used. Foods for which no informa-
+tion was available were coded as missing. Foods of
+which the presence of BHA or BHT was demon-
+strated but no amount of BHA or BHT was known,
+the average content of BHA or BHT in mayonnaise
+or other salad dressings from which the BHA or
+BHT concentration was known, was substituted.
+Mean daily intake was calculated by multiplying
+BHA or BHT content of foods (in mg per gram) and
+consumption of mayonnaise and other creamy salad
+dressings (in gram per day).
+
+Covariates
+
+and higher vocational school) (van Loon et al.,
+1998), stomach disorders (yes or no), family history
+of stomach cancer (yes or no), smoking status (never/
+ex/current smoker), fruit and vegetable consumption
+(in g/day)(Botterweck et al., 1998), monounsaturated
+fat and polyunsaturated fat consumption (in g/day).
+In this study, stomach disorders were deﬁned as hav-
+ing any stomach disease in the past which required
+medical attention (e.g. peptic ulcer, gastritis).
+
+Data analysis
+
+From an epidemiological point of view it
+
+is
+important to investigate the association between the
+consumption of mayonnaise and other creamy salad
+dressings per se and stomach cancer risk. All cases
+(282) and subcohort members (3123) could be classi-
+ﬁed as user or non-user of mayonnaise and other
+creamy salad dressings. Then,
+the association
+between the use of mayonnaise and creamy salad
+dressings with BHA or BHT and intake of BHA or
+BHT and stomach cancer risk was examined. These
+analysis were based on 192 cases (68.1%) and 2035
+subcohort members (65.2%) with complete data on
+BHA or BHT content of mayonnaise and other
+creamy salad dressings. These subjects were classiﬁed
+by the consumption of BHA- or BHT-containing
+foods (yes or no) and categorized into three cate-
+gories of BHA (0, >0–70, >70 mg/day) and BHT (0,
+>0–225, >225 mg/day).
+
+For data analysis, the GLIM statistical package was
+used (Baker, 1985). Case-cohort analyses were per-
+formed based on the assumption that survival times
+were exponentially distributed in the follow-up period
+(Self and Prentice, 1988). Speciﬁc macros were devel-
+oped to account for the additional variance introduced
+by using the subcohort instead of using the entire
+cohort (Volovics and van den Brandt, 1997). All ana-
+lyses were conducted for men and women together.
+Multivariate rate ratios (RRs) of stomach cancer and
+their 95% conﬁdence intervals (CI) were computed
+for all variables. Tests for trend in the RRs were based
+on likelihood ratio tests. The multivariate model
+included age, sex, level of education, stomach dis-
+orders, family history of stomach cancer and smoking
+status. Other multivariate models which included also
+monounsaturated fat or polyunsaturated fat or fruit
+and vegetable consumption were tested too.
+
+Because of potential inﬂuence of preclinical symp-
+toms of stomach cancer on food consumption, all
+analyses were also conducted after excluding cases
+diagnosed in the ﬁrst and second year of follow-up
+(Botterweck et al., 1998; van den Brandt et al., 1994).
+
+RESULTS
+
+Other factors possibly relevant for the association
+between BHA and BHT and stomach cancer risk
+that were measured in the baseline questionnaire
+included age, sex, level of education (lower, medium
+
+Table 1 shows the consumption of mayonnaise and
+creamy salad dressings in cases and subcohort mem-
+bers. Of the subcohort members, 65.8% consumed
+mayonnaise and creamy salad dressings. For the sub-
+
+602
+
+A. A. M. Botterweck et al.
+
+Table 1. Users of mayonnaise and creamy salad dressings and con-
+sumption of mayonnaise and creamy salad dressings with BHA or
+BHT in stomach cancer cases and subcohort members with com-
+
+plete consumption data: Netherlands Cohort Study 1986–1992
+
+Users of mayonnaise and
+creamy salad dressings
+Non-users
+Consumption of mayonnaise
+and creamy salad dressings:(cid:3)
+
+with BHA
+without BHA
+with BHT
+without BHT
+
+Cases n=282
+
+Subcohort n=3123
+
+n(%)
+
+n(%)
+
+180 (63.8)
+
+2056(65.8)
+
+102(36.2)
+
+1067(34.2)
+
+43(15.2)
+149 (52.8)
+43 (15.2)
+149 (52.8)
+
+497 (15.9)
+1538 (49.2)
+499 (16.0)
+1536 (49.2)
+
+*There was no information on BHA and/or BHT content of foods
+
+in 90 cases (31.9%) and 1088 subcohort members (34.8%).
+
+jects with complete data on the consumption of
+mayonnaise and creamy salad dressings with BHA or
+BHT, a slightly smaller percentage of cases used foods
+with BHA or BHT than the subcohort members.
+
+In Table 2, the distribution of BHA or BHT intake
+in cases and subcohort members is presented. Mean
+intake of BHA or BHT among subcohort members
+was 105 and 351 mg/day, respectively. Intake of BHA
+or BHT was lower in cases at 89 and 330 mg/day,
+respectively. There were small dierences in distribu-
+tion of BHA or BHT intake categories between cases
+and subcohort members. In the highest intake cate-
+gory of the two variables the percentage of cases was
+slightly lower compared to the subcohort members.
+
+RRs of stomach cancer according to the con-
+sumption of mayonnaise and creamy salad dressings,
+the use of mayonnaise and creamy salad dressings
+with BHA or BHT and intake of BHA or BHT are
+shown in Table 3. Multivariate analyses of all sto-
+mach cancer cases and multivariate analyses after
+exclusion of cases diagnosed in the ﬁrst and second
+year of follow-up are shown. For consumption of
+mayonnaise and creamy salad dressings and BHA-
+or BHT-containing foods no association with sto-
+mach cancer risk was observed. After exclusion of
+ﬁrst and second year cases, the RRs of the con-
+sumption of mayonnaise and creamy salad dressings
+
+Table 2. Mean intake of BHA and BHT among users of mayonnaise
+and creamy salad dressings (mg/day) and distribution of BHA and
+BHT intake in stomach cancer cases and subcohort members:
+
+Netherlands Cohort Study 1986–1992
+
+Mean intake ((cid:6)SD) in mg/day of:
+BHA
+BHT
+
+BHA intake ((cid:22)g/day)
+
+0
+>0–70
+>70
+
+BHT intake ((cid:22)g/day)
+
+0
+>0–225
+>225
+
+Cases
+
+Subcohort
+
+89((cid:6)83)
+330((cid:6)315)
+
+n(%)
+
+161 (57.1)
+
+19(6.7)
+12(4.3)
+
+161 (57.1)
+
+16 (5.7)
+15 (5.3)
+
+105 ((cid:6)183)
+351((cid:6)347)
+
+n(%)
+
+1638 (52.4)
+
+207 (6.6)
+190(6.1)
+
+1644(52.6)
+182 (5.8)
+209(6.7)
+
+and BHT-containing foods did not change. How-
+ever, the RR of BHA-containing foods decreased to
+0.89 (95% CI 0.58–1.37) after exclusion of ﬁrst and
+second year cases. A decreasing stomach cancer risk
+was observed with increasing BHA or BHT intake.
+The RRs of high intake vs low intake of BHA and
+BHT were 0.84 (95% CI 0.45–1.57) and 0.82 (95%
+CI 0.46–1.43), respectively. However, the RRs for
+stomach cancer with each consumption category of
+the two variables, nor the tests for trend were statis-
+tically signiﬁcant. After exclusion of cases diagnosed
+in the ﬁrst or second follow-up year, the RRs of the
+highest intake of BHA and BHT compared to the
+lowest intake category decreased to 0.57 (95% CI
+0.25–1.30) and 0.74 (95% CI 0.38–1.43), respectively.
+Again, none of the RRs were statistically signiﬁcant
+dierent from unity and none of the tests for trend
+were statistically signiﬁcant.
+
+Inclusion of monounsaturated fat or poly-
+unsaturated fat consumption or fruit and vegetable
+consumption in the model did not change the risk
+estimates.
+
+DISCUSSION
+
+This prospective cohort study is the ﬁrst epidemio-
+logic study that evaluated the association between
+dietary intake of BHA and BHT and stomach cancer
+risk. We found no association between the consump-
+tion of foods containing BHA or BHT and stomach
+cancer risk. There seemed to be an indication for a
+decreased stomach cancer risk with increasing BHA
+and BHT intake.
+
+Methodological considerations
+
+The cohort study has been performed in a large
+sample of the general population aged 55–69 yr at
+baseline. After 6.3 yr of follow-up, 192 cases with
+complete dietary data on BHA or BHT were avail-
+able for analysis. One of the strengths of this study is
+that the food consumption was measured before
+stomach cancer was diagnosed, thus avoiding the
+problem of biased recall of dietary habits. The fol-
+low-up of person-years was 100% complete and the
+completeness of cancer follow-up was also very high,
+indicating that selection bias due to loss of follow-up
+is unlikely. In multivariate analysis, adjustment was
+made for all measured variables that were associated
+with stomach cancer risk in this study. However,
+residual confounding is possible because some uni-
+dentiﬁed risk factors may be involved in the relation
+between BHA or BHT and stomach cancer risk.
+Because people with preclinical symptoms of stomach
+cancer are likely to change their dietary habits months
+or years before stomach cancer is diagnosed, all ana-
+lyses were performed with and without cases diagnosed
+in the ﬁrst and second follow-up year (Botterweck et al.,
+1998; van den Brandt et al., 1994). In this study, these
+analyses revealed slightly dierent RRs.
+
+Intake of BHA and BHT and stomach cancer risk
+
+603
+
+Table 3. Rate ratios (RR) and 95% conﬁdence interval (95% CI) of stomach cancer according to use of mayonnaise and creamy salad
+
+dressings, consumption of BHA or BHT containing foods and intake of BHA or BHT ((cid:22)g/day): Netherlands Cohort Study 1986–1992
+
+Use of mayonnaise and creamy salad dressings
+
+No
+Yes
+
+Use of mayonnaise and creamy salad dressings:
+
+without BHA
+with BHA
+without BHT
+with BHT
+
+BHA intake ((cid:22)g/day)
+
+0
+>0–70
+>70
+
+BHT intake ((cid:22)g/day)
+
+0
+>0–225
+>255
+
+RR(95%CI)(cid:3)
+
+1.00y
+
+0.97 (0.74–1.26)
+
+1.00y
+
+0.97 (0.67–1.40)
+
+1.00y
+
+0.94 (0.65–1.37)
+
+1.00y
+
+0.96 (0.57–1.61)
+0.84 (0.45–1.57)
+
+1.00y
+
+1.00 (0.58–1.76)
+0.82 (0.46–1.43)
+
+P-trend
+
+RR(95%CI)**
+
+P-trend
+
+–
+
+–
+
+–
+
+0.57
+
+0.50
+
+1.00y
+
+0.93 (0.70–1.25)
+
+1.00y
+
+0.89 (0.58–1.37)
+
+1.00y
+
+0.98 (0.65–1.49)
+
+1.00y
+
+0.80 (0.43–1.48)
+0.57 (0.25–1.30)
+
+1.00y
+
+0.85 (0.44–1.66)
+0.74 (0.38–1.43)
+
+–
+
+–
+
+–
+
+0.12
+
+0.30
+
+*Adjusted for age, sex, smoking status, level of education, stomach disorders and stomach cancer in the family.
+**Analyses with ﬁrst and second year cases excluded and adjusted for age, sex, smoking status, level of education, stomach disorders and
+
+stomach cancer in the family.
+
+yReference category.
+
+A fact that could have inﬂuenced the results is
+misclassiﬁcation of exposure. The dietary question-
+naire has been designed to assess an individual’s
+long-term food consumption and not speciﬁcally to
+assess the intake of BHA and BHT. Nevertheless, we
+did have brand speciﬁc information of cooking fats,
+oils, dried soups and mayonnaise and other creamy
+salad dressings which were potential sources of BHA
+and BHT. We did not have information on BHA or
+BHT content of all foods with brand names. In the
+baseline questionnaire, people reported unknown or
+foreign brand names. The chemical analysis on BHA
+and BHT content were performed in a selection of
+foods. These were the most frequently consumed
+foods reported by a sample of 400 people from the
+cohort. Although this was a large sample we could
+not exclude that rather frequently consumed food
+products were not mentioned. Both the ALBA data-
+base and The Compendium of Food and Diet Pro-
+ducts obtained their
+information from food
+manufacturers, but not all food manufacturers pro-
+vided information on food additives. Thus, we did
+not have 100% complete data on BHA or BHT
+content of foods. Despite that, we still could classify
+nearly 70% of cases and subcohort members as to
+whether or not they used BHA- or BHT-containing
+foods. Furthermore, there is no reason to think that
+the proportion of stomach cancer cases is dierent in
+the group with and without missing data, because
+information on food consumption was gathered
+before stomach cancer was diagnosed. However, if
+misclassiﬁcation has occurred, this is to be expected
+non-dierential and risk estimates are most likely
+biased towards the null value.
+
+Interpretation of ﬁndings
+
+In this study, the intake of BHA was 105 (range 2–
+3220) mg/day and BHT was 351 (range 19–2052) mg/
+day which is (approx. 10 times) lower than the
+intakes estimated in other studies (Kirkpatrick and
+
+Lauer, 1986; Van Dokkum et al., 1982; Verhagen et
+al., 1990a). In our study, intake values are only based
+on the consumption of mayonnaise and other creamy
+salad dressings. In a Dutch market-basket study,
+BHA and BHT content was obtained by chemical
+analyses in samples of ﬁve out of 12 food groups
+representing the basic 2-wk diet of 16–18-yr-old male
+adolescents. The maximal BHA intake (BHT could
+not be detected) in this Dutch market-basket study
+was 4 mg/person/day (Van Dokkum et al., 1982). In
+another Dutch study, the mean daily BHA and/or
+BHT intake was 4.51 mg or 0.075 mg/kg/day for a
+60-kg individual. The daily dietary intake of BHA
+and/or BHT in this study was estimated using data
+obtained from a nationwide dietary record survey
+carried out in 1987/1988. The estimates were based
+on the fat content of seven out of 23 selected food
+categories and their respective maximum permitted
+levels of BHA and/or BHT (Verhagen et al., 1990a).
+The dietary intake of BHA in Canada was estimated
+using dietary recall data on food consumption and
+maximum permitted use levels for this antioxidant.
+The BHA intake ranged from 5.5 to 12.1 mg/person/
+day or 0.13 to 0.39 mg/kg body weight/day (Kirkpa-
+trick and Lauer, 1986). In the latter studies, daily
+intake of BHA and BHT are probably over-
+estimated. The estimates are based on maximum
+permitted levels of BHA and/or BHT. These esti-
+mates did not account for losses during storage and
+food processing, or for lower levels of BHA or BHT
+in foods, because of limited use of BHA or BHT in
+foods by the manufacturer, or even for the use of
+other antioxidants in combination with BHA or
+BHT.
+
+In a limited experiment, the daily individual diet-
+ary intake of BHA was assessed using a biological
+monitoring approach which is based on the fact that
+39% of a single oral dose of BHA is recovered from
+the urine as phase II conjugates of BHA with glu-
+curonic acid and sulfate (Verhagen et al., 1989b). Six
+
+604
+
+A. A. M. Botterweck et al.
+
+volunteers consumed foods that might contain BHA
+and subsequently collected their urine for 24 hr.
+Another 22 volunteers collected their urine for a 24-hr
+period without having consumed speciﬁc foods.
+Results of this experiment showed that the actual
+intake of BHA ranged from less than 1 mg to 21.5 mg/
+kg body weight (Verhagen and Kleinjans, 1991).
+
+Finding no association between BHA and BHT
+intake and stomach cancer
+risk incidence sub-
+stantiates the hypothesis that low intake levels of
+BHA and BHT are not carcinogenic in humans. To
+our knowledge, no other relevant data on the eva-
+luation of carcinogenic risk in humans are available.
+Therefore, the current study ﬁndings can only be
+compared with ﬁndings of experimental studies in
+animals on BHA and BHT. Data from animal
+experimental studies reported both carcinogenic and
+anticarcinogenic eects for both BHA and BHT
+(IARC, 1986a,b; Ito et al., 1986b; Wattenberg, 1985;
+Wattenberg et al., 1980; Williams et al., 1999). BHA
+administered in the diet of rats, mice and hamsters
+induced dose-dependently benign and malignant
+tumours of the forestomach (Clayson et al., 1993; Ito
+et al., 1983, 1986a; Masui et al., 1986; IARC, 1986a;
+Williams, 1986). Not only the forestomach but also
+other organs of the digestive tract (oesophagus, small
+intestine and colon/rectum) seem to be potential tar-
+get tissues for the carcinogenic action of BHA (Ver-
+hagen et al., 1990b). When BHT was administered in
+the diet of mice and rats lung and liver tumours were
+induced, but there were also studies that reported no
+increase in tumour incidence were reported (IARC,
+1986b). When administered with known mutagens or
+carcinogens, BHA and BHT either enhanced, inhib-
+ited or had no eect on carcinogenity (Hocman,
+1988; IARC, 1986a,b; Wattenberg, 1985, 1986; Wat-
+tenberg et al., 1980; Williams, 1986). However, for
+both BHA and BHT anticarcinogenic eects were
+seen at low doses when given prior to and during
+exposure to carcinogens (Williams and Iatropoulos,
+1996; Williams et al., 1999). The International
+Agency for Research on Cancer (IARC) that eval-
+uated BHA and BHT, concluded that there is su(cid:129)-
+cient
+carcinogenity of BHA in
+experimental animals (IARC, 1986a), but for BHT
+there is limited evidence (IARC, 1986b). Results of
+experiments performed on animals are di(cid:129)cult to
+compare with human data and should be interpreted
+with caution. The amounts of BHA or BHT used in
+the diet of animals is much higher than the levels
+permitted in the human diet. Humans are exposed to
+low concentrations throughout life. Furthermore,
+humans do not posses a forestomach, and there are
+metabolic dierences between humans and animals.
+The ﬁnding of an apparent decreased risk with
+increasing BHA or BHT intake seem to be more in
+line with the hypothesis that synthetic antioxidants
+may be protective for cancer and supports ﬁndings of
+studies suggesting that low doses of BHA and BHT
+inhibit carcinogenesis (Hocman, 1988; Wattenberg,
+
+evidence
+
+for
+
+1986; Williams, 1986; Williams et al., 1999). Anti-
+oxidants such as BHA and BHT may have beneﬁcial
+eects by protecting against toxic compounds that
+are derived from the destruction of nutrients and the
+oxidation of fatty acids in foods (Grice et al., 1986).
+In conclusion, we found no clear evidence of an
+association between usual dietary intake of low levels
+of BHA and BHT and the risk of stomach cancer in
+humans.
+
+Acknowledgements—We gratefully acknowledge the
+regional cancer registries, the Dutch national data-
+base of Pathology (PALGA), and the National
+Health Care Information Center for providing in-
+cidence data; A. Volovics for statistical advice; E.
+Dorant, S. Van de Crommert, H. Brants, W. Van
+Dijk, P. Florax, M. Moll, J. Nelissen, A. Pisters and
+C. de Zwart for assistance; H. van Monfort, R.
+Schmeitz, T. van Monfort, and M. de Leeuw for
+programming and statistical assistance. The Nether-
+lands Cohort Study was supported by the Dutch
+Cancer Society.
+
+REFERENCES
+
+Addis P. B. (1986) Occurrence of lipid oxidation products in
+
+foods. Food and Chemical Toxicology 24, 1021–1030.
+
+Baker R. (1985) Glim 3.77 Reference manual. Numerical
+
+Algorithms Group, Oxford.
+
+Botterweck A. A. M., van den Brandt P. A. and Goldbohm
+R. A. (1998) A prospective cohort study on vegetable and
+fruit consumption and stomach cancer risk in the Neth-
+erlands. American Journal of Epidemiology 148, 842–853.
+Clayson D. B., Iverson F., Nera E. A. and Lok E. (1993)
+The importance of cellular proliferation induced by BHA
+and BHT. Toxicology and Industrial Health 9, 231–242.
+
+Compendium of Food and Diet Products (1989/1990) De
+
+Toorts, Haarlem.
+
+Doll R. and Peto R. (1981) The causes of cancer: quantita-
+tive estimates of avoidable risks of cancer in the United
+States today. Journal of the National Cancer Institute 66,
+1191–1308.
+
+Goldbohm R. A., van den Brandt P. A., Brants H. A., van’t
+Veer P., Al M., Sturmans F. and Hermus R. J. (1994)
+Validation of a dietary questionnaire used in a large-scale
+prospective cohort study on diet and cancer. European
+Journal of Clinical Nutrition 48, 253–265.
+
+Grice H. C., Clayson D. B., Flamm W. G., Ito N., Kroes
+R., Newberne P. M. and Scheuplein R. (1986) Panel dis-
+cussion: Possible mechanisms of BHA carcinogenicity
+from a consideration of its chemical and biological prop-
+erties. Food and Chemical Toxicology 24, 1235–1242.
+
+Hocman G. (1988) Chemoprevention of cancer: phenolic
+antioxidants (BHT, BHA). International Journal of Bio-
+chemistry and Cell Biology 20, 639–651.
+
+IARC (1986a) IARC Monographs on the Evaluation of Car-
+cinogenic Risk to Humans. Vol. 40. Some Naturally
+Occurring and Synthetic Food Components, Furocoumar-
+ins and Ultraviolet Radiation. Butylated hydroxyanisole
+(BHA), pp. 123-159. International Agency for Research
+on Cancer, Lyon.
+
+IARC (1986b) IARC Monographs on the Evaluation of
+Carcinogenic Risk to Humans. Vol. 40. Some Naturally
+Occurring and Synthetic Food Components, Furocoumar-
+ins and Ultraviolet Radiation. Butylated hydroxytoluene
+(BHT), pp. 161-206. International Agency for Research
+on Cancer, Lyon.
+
+Intake of BHA and BHT and stomach cancer risk
+
+605
+
+Ito N., Fukushima S., Hagiwara A., Shibata M. and Ogiso
+T. (1983) Carcinogenicity of butylated hydroxyanisole in
+F344 rats. Journal of the National Cancer Institute 70,
+343–352.
+
+Ito N., Fukushima S., Tamano S., Hirose M. and Hagiwara
+A. (1986a) Dose response in butylated hydroxyanisole
+induction of forestomach carcinogenesis in F344 rats.
+Journal of the National Cancer Institute 77, 1261–1265.
+
+Ito N., Hirose M., Fukushima S., Tsuda H., Shirai T. and
+Tatematsu M. (1986b) Studies on antioxidants: their car-
+cinogenic and modifying eects on chemical carcinogen-
+esis. Food and Chemical Toxicology 24, 1071–1082.
+
+Kirkpatrick D. C. and Lauer B. H. (1986) Intake of phe-
+nolic antioxidants from foods in Canada. Food and Che-
+mical Toxicology 24, 1035–1037.
+
+Masui T., Hirose M., Imaida K., Fukushima S., Tamano S.
+and Ito N. (1986) Sequential changes of the forestomach
+of F344 rats, Syrian golden hamsters, and B6C3F1 mice
+treated with butylated hydroxyanisole. Japanese Journal
+of Cancer Research 77, 1083–1090.
+
+Papas A. M. (1993) Oil-soluble antioxidants in foods. Tox-
+
+icology and Industrial Health 9, 123–149.
+
+Self S. G. and Prentice R. L. (1988) Asymptotic distribution
+theory and e(cid:129)ciency results for case-cohort studies.
+Annals of Statistics 16, 64–81.
+
+van den Brandt P. A., Goldbohm R. A., van’t Veer P., Bode
+P., Dorant E., Hermus R. J. and Sturmans F. (1994)
+Toenail selenium levels and the risk of breast cancer.
+American Journal of Epidemiology 140, 20–26.
+
+van den Brandt P. A., Goldbohm R. A., vant Veer P.,
+Volovics A., Hermus R. J. and Sturmans F. (1990a) A
+large-scale prospective cohort study on diet and cancer in
+The Netherlands. Journal of Clinical Epidemiology 43,
+285–295.
+
+van den Brandt P. A., Schouten L. J., Goldbohm R. A.,
+Dorant E. and Hunen P. M. (1990b) Development of a
+record linkage protocol for use in the Dutch Cancer
+Registry for Epidemiological Research.
+International
+Journal of Epidemiology 19, 553–558.
+
+Van Dokkum W., De Vos R. H., Cloughley F. A., Hulshof
+K. F., Dukel F. and Wijsman J. A. (1982) Food additives
+and food components in total diets in the Netherlands.
+British Journal of Nutrition 48, 223–231.
+
+van Loon A. J. M., Goldbohm R. A. and van den Brandt
+P. A. (1998) Socioeconomic status and stomach cancer
+incidence in men: results from the Netherlands Cohort
+Study. Journal of Epidemiology and Community Health
+52, 166–171.
+
+Verhagen H., Deerenberg I., Marx A., ten Hoor F., Hen-
+derson P. T. and Kleinjans J. C. (1990a) Estimate of the
+maximal daily dietary intake of butylated hydroxyanisole
+
+and butylated hydroxytoluene in The Netherlands. Food
+and Chemical Toxicology 28, 215–220.
+
+Verhagen H., Furnee C., Schutte B., Bosman F. T., Blijham
+G. H., Henderson P. T., ten Hoor F. and Kleinjans J. C.
+(1990b) Dose-dependent eects of short-term dietary
+administration of the food additive butylated hydro-
+xyanisole on cell kinetic parameters in rat gastro-intest-
+inal tract. Carcinogenesis 11, 1461–1468.
+
+Verhagen H. and Kleinjans J. C. S. (1991) Some comments
+on the dietary intake of butylated hydroxytoluene. Food
+and Chemical Toxicology 29, 74–75.
+
+Verhagen H., Maas L. M., Beckers R. H., Thijssen H. H.,
+ten Hoor F., Henderson P. T. and Kleinjans J. C. (1989a)
+Eect of subacute oral intake of the food antioxidant
+butylated hydroxyanisole on clinical parameters and
+phase-I and -II biotransformation capacity in man.
+Human Toxicology 8, 451–459.
+
+Verhagen H., Schilderman P. A. and Kleinjans J. C. (1991)
+Butylated hydroxyanisole in perspective. Chemico–Biolo-
+gical Interactions 80, 109–134.
+
+Verhagen H., Thijssen H. H., ten Hoor F. and Kleinjans
+J. C. (1989b) Disposition of single oral doses of butylated
+hydroxyanisole in man and rat. Food and Chemical Tox-
+icology 27, 151–158.
+
+Volovics A. and van den Brandt P. A. (1997) Methods for
+the analyses of case-cohort studies. Biometrical Journal
+39, 195–214.
+
+Wattenberg L. W. (1972) Inhibition of carcinogenic and
+toxic eects of polycyclic hydrocarbons by phenolic anti-
+oxidants and ethoxyquin. Journal of the National Cancer
+Institute 48, 1425–1430.
+
+Wattenberg L. W.
+
+(1985) Chemoprevention of cancer.
+
+Cancer Research 45, 1–8.
+
+Wattenberg L. W. (1986) Protective eects of 2(3)-tert-
+butyl-4-hydroxyanisole on chemical carcinogenesis. Food
+and Chemical Toxicology 24, 1099–1102.
+
+Wattenberg L. W., Coccia J. B. and Lam L. K. (1980) Inhi-
+bitory eects of phenolic compounds on benzo(a)pyrene-
+induced neoplasia. Cancer Research 40, 2820–2823.
+
+Williams G. M. (1986) Epigenetic promoting eects of
+butylated hyroxyanisole. Food and Chemical Toxicology
+24, 1163–1166.
+
+Williams G. M. and Iatropoulos M. J. (1996) Inhibition of
+the hepatocarcinogenicity of aﬂatoxin B1 in rats by low
+levels of
+the phenolic antioxidants butylated hydro-
+xyanisole and butylated hydroxytoluene. Cancer Letters
+104, 49–53.
+
+Williams G. M., Iatropoulos M. J. and Whysner J. (1999)
+Safety assessment of butylated hydroxyanisole and buty-
+lated hydroxytoluene as antioxidant food additives. Food
+and Chemical Toxicology 37, 1027–1938.
+
+

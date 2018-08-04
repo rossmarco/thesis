@@ -1,0 +1,2670 @@
+The Journal of Nutrition
+Nutritional Epidemiology
+
+Fruit and Vegetable Intakes Are Associated with
+Lower Risk of Bladder Cancer among Women in
+the Multiethnic Cohort Study1,2
+Song-Yi Park,3,7* Nicholas J. Ollberding,4,7 Christy G. Woolcott,5 Lynne R. Wilkens,3
+Brian E. Henderson,6 and Laurence N. Kolonel3
+
+3Cancer Epidemiology Program, University of Hawaii Cancer Center, Honolulu, HI; 4Division of Biostatistics and Epidemiology,
+Cincinnati Children’s Hospital Medical Center, Cincinnati, OH; 5Departments of Obstetrics, Gynecology, and Pediatrics, Dalhousie
+University, Halifax, NS, Canada; and 6Department of Preventive Medicine, Keck School of Medicine, University of Southern California,
+Los Angeles, CA
+
+Abstract
+
+Fruits and vegetables have been examined for their possible effects on the risk of bladder cancer, as they contain
+
+numerous nutrients, phytochemicals, and antioxidants with potentially anticarcinogenic properties. In a prospective ana-
+
+lysis of 185,885 older adults participating in the Multiethnic Cohort Study, we examined whether the consumption of fruits
+
+and vegetables, or of nutrients concentrated in fruits and vegetables, was associated with bladder cancer risk. Cox
+
+proportional hazards models were used to calculate HRs and 95% CIs for bladder cancer in relation to dietary intakes. A
+
+total of 581 invasive bladder cancer cases (429 men and 152 women) were diagnosed over a mean follow-up period of
+
+12.5 y. In women, total fruits and vegetables [HR = 0.35 (95% CI: 0.22, 0.56); highest vs. lowest quartile], total vegetables
+
+[HR = 0.49 (95% CI: 0.29, 0.83)], yellow-orange vegetables [HR = 0.48 (95% CI: 0.30, 0.77)], total fruits [HR = 0.54 (95%
+
+CI: 0.34, 0.85)], and citrus fruits [HR = 0.56 (95% CI: 0.34, 0.90)] were inversely associated with the risk of invasive bladder
+
+cancer in risk factor-adjusted models. In addition, women with the highest intakes of vitamins A, C, and E; the carotenoids
+a-carotene, b-carotene, and b-cryptoxanthin; and folate had a lower risk of bladder cancer. For men, no associations for
+
+fruits, vegetables, or nutrients were found overall, although inverse associations were observed for vegetable intake
+
+among current smokers, and in ethnic-speciﬁc analyses, for fruit and vegetable intake among Latinos speciﬁcally. Our
+
+ﬁndings suggest that greater consumption of fruits and vegetables may lower the risk of invasive bladder cancer among
+
+women and highlight the need for speciﬁc subgroup analyses in future studies. J. Nutr. 143: 1283–1292, 2013.
+
+Introduction
+
+Bladder cancer is the sixth most commonly diagnosed cancer
+in the United States, with an estimated 73,510 new cases and
+14,880 deaths occurring annually (1). Tobacco smoking is the
+most established risk factor for bladder cancer (2), with ;50%
+of newly diagnosed cases estimated to be attributable to the
+effects of smoking (3). Although occupational exposures and, in
+areas with endemic rates of infection, schistosomiasis have been
+consistently associated with bladder cancer risk (4,5), the evi-
+dence with respect to other environmental exposures in the eti-
+ology of this disease is less consistent.
+
+Dietary factors have been examined in several previous epi-
+demiological studies (6,7), because they provide an abundant
+source of nutrients and phytochemicals with potentially anti-
+carcinogenic properties. However, in a recent consensus report,
+
+1 Supported by grant R37 CA54281 from the NIH.
+2 Author disclosures: S.-Y. Park, N. J. Ollberding, C. G. Woolcott, L. R. Wilkens,
+B. E. Henderson, and L. N. Kolonel, no conﬂicts of interest.
+7 These authors contributed equally to the manuscript.
+* To whom correspondence should be addressed. E-mail: spark@cc.hawaii.edu.
+
+the World Cancer Research Fund (WCRF)8/American Institute
+of Cancer Research (AICR) concluded that the evidence was
+limited with respect to a role of fruits and vegetables in the
+development of bladder cancer (8). Since the 2007 WCRF/AICR
+report, several case-control studies have reported inverse asso-
+ciations for fruits and/or vegetables with the risk of bladder
+cancer (9–13); however, RRs have generally failed to depart
+from unity in prospective cohort studies (14,15).
+
+Because previous prospective studies have been conducted pri-
+marily in ethnically homogeneous populations of European
+ancestry, the Multiethnic Cohort (MEC) Study provides an op-
+portunity to expand research on the diet-bladder cancer relation-
+ship. Therefore, the aim of our study was to examine prospectively
+whether greater consumption of fruits and vegetables, or of
+nutrients concentrated in fruits and vegetables, was associated
+with the risk of bladder cancer in a population of older adults
+from diverse ethnic backgrounds.
+
+8 Abbreviations: AIRC, American Institute of Cancer Research; MEC, Multiethnic
+Cohort; QFFQ, quantitative FFQ; WCRF, World Cancer Research Fund.
+
+ã 2013 American Society for Nutrition.
+Manuscript received January 28, 2013. Initial review completed March 5, 2013. Revision accepted March 14, 2013.
+First published online June 5, 2013; doi:10.3945/jn.113.174920.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/143/8/1283/4637671
+by University of Ottawa user
+on 24 June 2018
+
+1283
+
+Participants and Methods
+
+Study population. The MEC Study is a longitudinal study designed to
+investigate the associations of dietary, lifestyle, and genetic factors with
+the incidence of cancer and was previously described in detail (16).
+Brieﬂy, the cohort was established from 1993 to 1996 by mailing a self-
+administered, 26-page questionnaire to men and women aged 45–75 y
+who were residing in Hawaii and California. More than 215,000 adults
+comprised of 5 main ethnic groups (African Americans, Japanese Americans,
+Latinos, Native Hawaiians, and whites) voluntarily completed the base-
+line questionnaire indicating their consent to participate in the study. The
+study protocol was approved by the institutional review boards of the
+University of Hawaii and the University of Southern California. For
+the present study, data were available for 185,885 participants after
+excluding those who: 1) were not in 1 of the 5 main ethnic groups
+recruited into the study (n = 13,989); 2) reported implausible dietary
+values based on total energy intake or its components (n = 8263) (17); 3)
+were identiﬁed through either the questionnaire or tumor registry linkage
+to have had a diagnosis of cancer of the bladder prior to cohort entry (n =
+292); or 4) had missing data on any of the following key covariates:
+smoking status, duration and intensity of cigarette smoking, or occupa-
+tional history (n = 7353).
+
+Cohort follow-up and case identiﬁcation. Follow-up began on the
+date of questionnaire completion and accrued until a diagnosis of blad-
+der cancer, death, or the last follow-up date for this analysis (December
+31, 2007). Routine linkages to the Surveillance, Epidemiology, and End
+
+Results cancer registries for California and Hawaii were conducted to
+identify incident cases diagnosed over the follow-up period. Routine
+linkages to the California and Hawaii death certiﬁcate ﬁles as well as to
+the National Death Index were conducted to identify deaths during the
+follow-up period. For the entire cohort, the average out-migration rate
+for members was only 3.7% after 7 y and 7.6% after 15 y of follow-up,
+with California as the primary relocation destination for Hawaiian par-
+ticipants. Thus, case ascertainment is thought to be close to complete.
+The primary outcome for this analysis, invasive bladder cancer, was
+classiﬁed using the International Classiﬁcation of Diseases for Oncology,
+Third Edition codes C67.0-C67.9 and was restricted to invasive malig-
+nancies. A total of 581 incident invasive bladder cancer cases were
+diagnosed over a mean follow-up period of 12.5 y. In a secondary out-
+come analysis, we expanded the case status to include incident in situ
+cases (n = 1137 total; n = 556 in situ).
+
+Dietary assessment. Dietary intake was measured at baseline by using
+a quantitative FFQ (QFFQ) that assessed the frequency and quantity of
+food items consumed during the preceding year (16). Grams of food
+consumed were calculated from single food items and mixed dishes.
+Mixed dishes were ﬁrst disaggregated to the ingredient level using a
+customized recipe database. Nutrient intakes were computed using the
+food composition tables developed and maintained by the University of
+Hawaii Cancer Center. Foods and food groups included in this analysis
+were: total fruits and vegetables, total vegetables, light green vegetables,
+dark green vegetables, yellow-orange vegetables, cruciferous vegetables,
+total fruits, fruit juice, citrus fruits, and yellow-orange fruits. Nutrients
+
+TABLE 1 Baseline characteristics of the study sample by bladder cancer status1
+
+Participants, n
+Age at cohort entry, y
+Ethnicity, %
+
+African American
+Native Hawaiian
+Japanese American
+Latino
+White
+
+Education, y
+BMI, kg/m2
+Smoking status, %
+
+Never
+Former
+Current
+
+Pack-years of cigarette smoking2
+High-risk industry,3 %
+Family history of bladder cancer, %
+Alcohol, g/d
+Total energy, kcal/d
+Food intake, g/(1000 kcal  d)
+
+Fruits and vegetables
+Total vegetables
+Light green vegetables
+Dark green vegetables
+Yellow-orange vegetables
+Cruciferous vegetables
+Total fruits
+Fruit juice
+Citrus fruits
+Yellow-orange fruits
+
+Men
+
+Women
+
+Invasive bladder cancer
+
+Entire cohort
+
+Invasive bladder cancer
+
+Entire cohort
+
+429
+
+65.3 6 7.1
+
+83,694
+60.2 6 8.9
+
+152
+
+64.4 6 8.2
+
+102,191
+59.7 6 8.9
+
+12.4
+3.5
+31.5
+18.2
+34.5
+
+13.7
+7.0
+30.2
+23.6
+25.5
+
+36.2
+7.9
+18.4
+14.5
+23.0
+
+19.7
+7.5
+27.7
+20.7
+24.4
+
+12.8 6 3.3
+25.9 6 3.6
+
+13.3 6 3.3
+26.6 6 4.2
+
+12.9 6 3.0
+26.9 6 6.0
+
+13.1 6 3.2
+26.5 6 5.8
+
+20.5
+55.7
+23.8
+
+30.8
+51.1
+18.2
+
+36.8
+36.2
+27.0
+
+56.7
+29.0
+14.3
+
+27.5 6 17.3
+
+20.6 6 16.6
+
+20.9 6 14.3
+
+15.5 6 14.3
+
+2.1
+0.9
+
+16.0 6 32.1
+2260 6 1100
+
+290 6 141
+142 6 67.4
+31.9 6 22.5
+18.2 6 16.5
+11.9 6 12.0
+19.0 6 16.7
+149 6 110
+34.6 6 42.6
+57.9 6 63.0
+23.0 6 29.4
+
+1.7
+0.5
+
+14.6 6 32.4
+2380 6 1100
+
+292 6 144
+147 6 71.6
+31.8 6 22.3
+19.4 6 18.1
+12.3 6 13.1
+20.3 6 19.6
+145 6 113
+37.4 6 49.2
+57.2 6 67.4
+20.8 6 28.0
+
+0.7
+2.0
+
+6.4 6 14.0
+1990 6 1060
+
+325 6 163
+151 6 65.6
+36.2 6 22.0
+22.7 6 17.4
+13.9 6 14.8
+23.4 6 19.1
+174 6 133
+37.7 6 47.7
+59.3 6 67.0
+30.9 6 37.4
+
+1.0
+0.8
+
+4.3 6 14.9
+1940 6 940
+
+373 6 174
+177 6 87.6
+41.5 6 29
+27.1 6 24.5
+17.8 6 18.1
+27.9 6 25.7
+196 6 139
+45.1 6 57.5
+73.2 6 81.5
+32.5 6 38.7
+
+1 Values are percentages or means 6 SDs.
+2 For current and former smokers only.
+3 Employed $10 y in rubber or tire manufacturing, plastic production or processing, or pesticide production.
+
+1284 Park et al.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/143/8/1283/4637671
+by University of Ottawa user
+on 24 June 2018
+
+TABLE 2 HRs and 95% CIs for invasive bladder cancer according to dietary pattern and food intake
+
+Men (n = 83,694)
+
+Women (n = 102,191)
+
+Cases
+
+HR (95% CI)1
+
+HR (95% CI)2
+
+Cases
+
+HR (95% CI)1
+
+HR (95% CI)2
+
+P-interaction3
+
+Dietary pattern (factor score)
+
+Vegetables pattern
+
+Quartile 1
+Quartile 2
+Quartile 3
+Quartile 4
+P-trend4
+
+Fruit and milk pattern
+
+Quartile 1
+Quartile 2
+Quartile 3
+Quartile 4
+P-trend4
+
+Foods [g/(1000 kcal  d)]
+Fruits and vegetables
+
+,216
+216–308
+309–425
+$426
+P-trend4
+
+Total vegetables
+
+,107
+107–147
+148–200
+$201
+P-trend4
+
+Light green vegetables
+
+,19.3
+19.3–30.4
+30.5–47.1
+$47.2
+P-trend4
+
+Dark green vegetables
+
+,10.0
+10.0–17.0
+17.1–29.4
+$29.5
+P-trend4
+
+Yellow-orange vegetables
+
+,5.6
+5.6–10.4
+10.5–19.4
+$19.5
+P-trend4
+
+Cruciferous vegetables
+
+,10.1
+10.1–17.9
+18.0–30.8
+$30.9
+P-trend4
+Total fruits
+,77.4
+77.4–144
+145–238
+$239
+P-trend4
+
+128
+118
+102
+81
+
+111
+110
+108
+100
+
+145
+116
+104
+64
+
+135
+126
+101
+67
+
+134
+121
+107
+67
+
+143
+118
+104
+64
+
+144
+121
+93
+71
+
+135
+122
+105
+67
+
+135
+102
+118
+74
+
+1.00
+
+0.98 (0.76, 1.26)
+0.86 (0.65, 1.13)
+0.70 (0.51, 0.96)
+
+1.00
+
+1.06 (0.82, 1.37)
+0.98 (0.74, 1.30)
+0.85 (0.62, 1.17)
+
+0.02
+
+1.00
+
+0.33
+
+1.00
+
+0.96 (0.73, 1.25)
+0.93 (0.71, 1.24)
+0.95 (0.70, 1.29)
+
+0.67
+
+1.09 (0.83, 1.42)
+1.13 (0.85, 1.50)
+1.26 (0.92, 1.72)
+
+0.17
+
+1.00 (ref)
+
+0.80 (0.63, 1.03)
+0.81 (0.62, 1.04)
+0.67 (0.50, 0.90)
+
+1.00 (ref)
+
+0.92 (0.72, 1.18)
+0.98 (0.76, 1.28)
+0.87 (0.64, 1.17)
+
+0.01
+
+1.00
+
+0.48
+
+1.00
+
+1.02 (0.80, 1.29)
+0.92 (0.71, 1.19)
+0.77 (0.57, 1.03)
+
+1.08 (0.85, 1.38)
+1.01 (0.78, 1.31)
+0.89 (0.66, 1.19)
+
+0.06
+
+1.00
+
+0.39
+
+1.00
+
+0.95 (0.74, 1.22)
+0.90 (0.69, 1.16)
+0.68 (0.51, 0.92)
+
+1.03 (0.80, 1.32)
+1.01 (0.78, 1.31)
+0.80 (0.59, 1.08)
+
+0.01
+
+1.00
+
+0.14
+
+1.00
+
+0.94 (0.73, 1.20)
+0.93 (0.72, 1.20)
+0.70 (0.52, 0.94)
+
+1.00 (0.79, 1.28)
+1.02 (0.79, 1.32)
+0.80 (0.60, 1.09)
+
+0.02
+
+1.00
+
+0.17
+
+1.00
+
+0.87 (0.68, 1.11)
+0.75 (0.58, 0.97)
+0.70 (0.52, 0.93)
+
+0.94 (0.74, 1.20)
+0.86 (0.66, 1.12)
+0.84 (0.63, 1.12)
+
+0.01
+
+1.00
+
+0.21
+
+1.00
+
+0.98 (0.76, 1.26)
+0.92 (0.71, 1.00)
+0.70 (0.52, 0.95)
+
+1.05 (0.82, 1.35)
+1.02 (0.78, 1.33)
+0.81 (0.60, 1.10)
+
+0.02
+
+1.00
+
+0.16
+
+1.00
+
+0.71 (0.55, 0.92)
+0.88 (0.68, 1.13)
+0.69 (0.52, 0.92)
+
+0.05
+
+0.81 (0.62, 1.05)
+1.07 (0.83, 1.38)
+0.89 (0.66, 1.19)
+
+0.82
+
+44
+37
+47
+24
+
+38
+35
+38
+41
+
+45
+40
+35
+32
+
+33
+53
+42
+24
+
+31
+44
+39
+38
+
+24
+47
+44
+37
+
+44
+34
+42
+32
+
+30
+46
+39
+37
+
+42
+35
+34
+41
+
+1.00
+
+0.69 (0.44, 1.08)
+0.78 (0.50, 1.20)
+0.34 (0.20, 0.59)
+
+,0.001
+
+1.00
+
+0.69 (0.43, 1.10)
+0.63 (0.39, 1.01)
+0.57 (0.34, 0.94)
+
+0.03
+
+1.00 (ref)
+
+0.63 (0.41, 0.96)
+0.41 (0.26, 0.64)
+0.28 (0.18, 0.45)
+
+,0.001
+
+1.00
+
+1.38 (0.89, 2.13)
+0.92 (0.58, 1.46)
+0.44 (0.26, 0.75)
+
+,0.001
+
+1.00
+
+1.18 (0.75, 1.88)
+0.88 (0.55, 1.42)
+0.70 (0.43, 1.14)
+
+0.04
+
+1.00
+
+1.00
+
+0.73 (0.47, 1.14)
+0.86 (0.55, 1.33)
+0.40 (0.23, 0.69)
+
+0.004
+
+1.00
+
+0.78 (0.49, 1.25)
+0.76 (0.47, 1.22)
+0.75 (0.45, 1.25)
+
+0.30
+
+1.00 (ref)
+
+0.69 (0.45, 1.06)
+0.48 (0.31, 0.76)
+0.35 (0.22, 0.56)
+
+,0.001
+
+1.00
+
+1.43 (0.92, 2.21)
+0.99 (0.62, 1.56)
+0.49 (0.29, 0.83)
+
+,0.001
+
+1.00
+
+1.23 (0.78, 1.96)
+0.95 (0.59, 1.54)
+0.78 (0.48, 1.27)
+
+0.11
+
+1.00
+
+1.63 (0.99, 2.66)
+1.21 (0.73, 1.99)
+0.80 (0.47, 1.34)
+
+1.66 (1.01, 2.72)
+1.26 (0.76, 2.09)
+0.87 (0.52, 1.46)
+
+0.03
+
+1.00
+
+0.64 (0.41, 1.01)
+0.65 (0.42, 0.99)
+0.40 (0.25, 0.63)
+
+,0.001
+
+1.00
+
+1.21 (0.76, 1.93)
+0.84 (0.51, 1.37)
+0.63 (0.38, 1.03)
+
+0.007
+
+1.00
+
+0.07
+
+1.00
+
+0.69 (0.44, 1.09)
+0.73 (0.48, 1.13)
+0.48 (0.30, 0.77)
+
+0.005
+
+1.00
+
+1.27 (0.79, 2.02)
+0.90 (0.55, 1.47)
+0.70 (0.42, 1.15)
+
+0.02
+
+1.00
+
+0.61 (0.39, 0.96)
+0.45 (0.29, 0.72)
+0.42 (0.27, 0.65)
+
+,0.001
+
+0.69 (0.44, 1.09)
+0.55 (0.35, 0.88)
+0.54 (0.34, 0.85)
+
+0.01
+
+0.14
+
+0.18
+
+,0.001
+
+0.004
+
+0.23
+
+0.48
+
+0.03
+
+0.27
+
+0.02
+
+(Continued)
+
+Downloaded from https://academic.oup.com/jn/article-abstract/143/8/1283/4637671
+by University of Ottawa user
+on 24 June 2018
+
+Fruits, vegetables, and bladder cancer risk
+
+1285
+
+TABLE 2 Continued
+
+Fruit juice
+
+,4.7
+4.7–20.2
+20.3–59.6
+$59.7
+P-trend4
+Citrus fruits
+
+,13.4
+13.4–40.6
+40.7–93.9
+$94.0
+P-trend4
+
+Yellow-orange fruits
+
+,6.0
+6.0–14.7
+14.8–35.1
+$35.2
+P-trend4
+
+Men (n = 83,694)
+
+Women (n = 102,191)
+
+Cases
+
+HR (95% CI)1
+
+HR (95% CI)2
+
+Cases
+
+HR (95% CI)1
+
+HR (95% CI)2
+
+P-interaction3
+
+120
+108
+111
+90
+
+122
+107
+108
+92
+
+136
+116
+90
+87
+
+1.00
+
+0.94 (0.72, 1.22)
+0.98 (0.76, 1.27)
+0.81 (0.62, 1.07)
+
+1.00
+
+1.01 (0.78, 1.31)
+1.10 (0.85, 1.42)
+0.94 (0.72, 1.24)
+
+0.16
+
+1.00
+
+0.67
+
+1.00
+
+0.88 (0.68, 1.14)
+0.86 (0.66, 1.12)
+0.80 (0.61, 1.06)
+
+0.98 (0.76, 1.28)
+1.00 (0.77, 1.31)
+0.97 (0.74, 1.28)
+
+0.17
+
+1.00
+
+0.89
+
+1.00
+
+0.88 (0.69, 1.13)
+0.76 (0.58, 0.99)
+0.77 (0.58, 1.02)
+
+0.10
+
+0.94 (0.73, 1.20)
+0.84 (0.64, 1.10)
+0.90 (0.68, 1.19)
+
+0.53
+
+37
+42
+38
+35
+
+39
+39
+43
+31
+
+29
+45
+33
+45
+
+1.00
+
+1.18 (0.76, 1.84)
+0.89 (0.56, 1.41)
+0.71 (0.45, 1.13)
+
+1.00
+
+1.28 (0.82, 2.00)
+1.01 (0.64, 1.60)
+0.81 (0.51, 1.30)
+
+0.05
+
+1.00
+
+0.91 (0.58, 1.41)
+0.81 (0.52, 1.25)
+0.46 (0.29, 0.74)
+
+,0.001
+
+1.00
+
+1.20 (0.75, 1.92)
+0.72 (0.44, 1.19)
+0.83 (0.51, 1.34)
+
+0.19
+
+0.14
+
+1.00
+
+0.99 (0.64, 1.55)
+0.95 (0.61, 1.47)
+0.56 (0.34, 0.90)
+
+0.007
+
+1.00
+
+1.30 (0.81, 2.08)
+0.82 (0.50, 1.36)
+0.98 (0.60, 1.60)
+
+0.49
+
+0.34
+
+0.03
+
+0.27
+
+1 Adjusted for age at cohort entry, ethnicity, and total energy intake (log transformed).
+2 Additionally adjusted for ﬁrst-degree family history of bladder cancer, employment in a high-risk industry, smoking status, average number of cigarettes, squared average number
+of cigarettes, number of years smoked (time-dependent), number of years since quitting (time-dependent), interactions of ethnicity with smoking status, average number of
+cigarettes, and squared average number of cigarettes.
+3 Based on the Wald statistic for cross-product terms of dietary variables and sex in the risk factor-adjusted models.
+4 Based on the Wald statistic for a trend variable assigned the sex- and ethnic-speciﬁc medians within the appropriate quartiles.
+
+included in this analysis were those known to be concentrated in fruits
+and vegetables. Two dietary patterns previously identiﬁed by exploratory
+factor analysis and validated by conﬁrmatory factor analysis in the entire
+MEC Study population (17) were included in this study. The ‘‘vegeta-
+bles’’ dietary pattern was characterized by high loadings on vegetable
+groups and the ‘‘fruit and milk’’ dietary pattern was characterized by
+high loadings on milk/yogurt and fruit groups. In a calibration study
+(18), using energy-adjusted intakes [g/(1000 kcal  d)] measured from
+the QFFQ and multiple 24-h recalls, Pearson correlation coefﬁcients
+were 0.43 and 0.36 for vegetables and 0.60 and 0.60 for fruits among
+men and women, respectively.
+
+Statistical analysis. Cox proportional hazards models with age as the
+time metric were used to calculate HRs and 95% CIs for invasive bladder
+cancer. Foods and nutrients were examined as energy densities (per 1000
+kcal) in all models, as correlations between dietary estimates from the
+QFFQ and 24-h recalls were found to improve after energy adjustment in
+the calibration study mentioned above (18). Dietary exposures were
+modeled as quartiles and based on the exposure distribution of all cohort
+members. The lowest intake group served as the referent in all models.
+Linear trends were tested by entering sex- and ethnic-speciﬁc medians
+within the appropriate quartile as continuous variables into the models.
+Estimates are presented separately for men and women, as results were
+found to differ by sex. Basic models were adjusted for age at cohort entry,
+ethnicity, and total energy (log-transformed kcal/d) in the log-linear model
+component. Multivariable models were further adjusted for family his-
+tory of bladder cancer (yes/no), occupation in a high-risk industry (yes/
+no; employed $10 y in rubber or tire manufacturing, plastic production
+or processing, or pesticide production), and cigarette smoking using a
+comprehensive base model developed for the study of lung cancer in the
+MEC Study (19). The smoking model included smoking status; average
+number of cigarettes smoked per day; average number of cigarettes smoked
+per day squared; number of years smoked (time-dependent); number of
+years since quitting (time-dependent); and interactions of ethnicity with
+smoking status, average number of cigarettes, and average number of cig-
+arettes squared. Covariates were selected a priori based on their associa-
+tion with bladder cancer risk (20). The assumption of proportional hazards
+was found to be satisﬁed in all models by examining the relationship of
+
+1286 Park et al.
+
+scaled Schoenfeld residuals with time. We also examined a possible non-
+linear relation between fruit and vegetable consumption and bladder
+cancer risk with restricted cubic splines (21).
+
+We ran the models stratiﬁed by smoking status and ethnicity. Tests for
+interactions were based on the Wald test of the cross-product terms of the
+dietary variables and the subgroup membership indicators. Lag analyses
+excluding participants diagnosed with bladder cancer within 2 y of
+questionnaire completion (n = 75) and sensitivity analyses restricting the
+cases to those with transitional cell carcinomas (n = 533) were also
+conducted. Associations with risk were also examined for calibration-
+corrected nutrient density values. All statistical tests were 2-sided and
+P <0.05 was considered signiﬁcant. All data analyses were performed
+using SAS 9.2 statistical software (SAS Institute).
+
+Results
+
+Baseline characteristics of the study population are presented in
+Table 1. For both men and women, participants with incident
+bladder cancer were older than same-sex cohort members. Com-
+pared with all MEC Study participants, the proportions of white
+men and African American women, current/former smokers,
+and the mean values for pack-years of cigarette smoking and
+alcohol consumption were higher among the incident cases.
+Fruit and vegetable intakes were lower in bladder cancer cases,
+particularly for women.
+
+The HRs for bladder cancer according to quartiles of fruit
+and vegetable intakes are provided in Table 2. A dietary pattern
+characterized by the high consumption of vegetables was asso-
+ciated with a decreased risk of bladder cancer among women in
+both basic and risk factor-adjusted [highest vs. lowest quartile,
+HR = 0.40 (95% CI: 0.23, 0.69); P-trend = 0.004] models. In
+women, a dietary pattern characterized by the high intakes of
+fruit and milk was inversely associated with bladder cancer risk
+in the basic model [HR = 0.57 (95% CI: 0.34, 0.94); P-trend =
+0.03]; however, the risk estimates were attenuated and not
+
+Downloaded from https://academic.oup.com/jn/article-abstract/143/8/1283/4637671
+by University of Ottawa user
+on 24 June 2018
+
+TABLE 3 HRs and 95% CIs for invasive bladder cancer according to nutrient intake from foods
+
+Men (n = 83,694)
+
+Women (n = 102,191)
+
+Cases
+
+HR (95% CI)1
+
+HR (95% CI)2
+
+Cases
+
+HR (95% CI)1
+
+HR (95% CI)2
+
+P-interaction3
+
+Vitamin A [RE/(1000 kcal  d)]
+
+,458
+458–630
+631–887
+$888
+P-trend4
+
+a-Carotene [mg/(1000 kcal  d)]
+
+,225
+225–378
+379–674
+$675
+P-trend4
+
+b-Carotene [mg/(1000 kcal  d)]
+
+,1306
+1306–2022
+2023–3193
+$3194
+P-trend4
+
+Lycopene [mg/(1000 kcal  d)]
+
+,860
+860–1287
+1288–1920
+$1921
+P-trend4
+
+b-Cryptoxanthin [mg/(1000 kcal  d)]
+
+,33.0
+33.0–83.8
+83.9–195
+$196
+P-trend4
+
+Lutein [mg/(1000 kcal  d)]
+
+,755
+755–1156
+1157–1773
+$1774
+P-trend4
+
+Vitamin C [mg/(1000 kcal  d)]
+
+,50.0
+50.0–76.8
+76.9–113
+$114
+P-trend4
+
+Vitamin E [a-TE/(1000 kcal  d)]
+
+,4.2
+4.2–4.9
+5.0–5.8
+$5.9
+P-trend4
+
+Folate [mg/(1000 kcal  d)]
+
+,125
+125–164
+165–215
+$216
+P-trend4
+
+142
+122
+98
+67
+
+142
+123
+86
+78
+
+154
+117
+93
+65
+
+113
+115
+113
+88
+
+126
+107
+99
+97
+
+144
+112
+94
+79
+
+144
+103
+111
+71
+
+136
+119
+84
+90
+
+124
+127
+89
+89
+
+1.00
+
+0.86 (0.68, 1.10)
+0.77 (0.59, 1.00)
+0.67 (0.50, 0.90)
+
+1.00
+
+0.96 (0.75, 1.22)
+0.91 (0.70, 1.18)
+0.82 (0.61, 1.11)
+
+0.006
+
+1.00
+
+0.19
+
+1.00
+
+0.89 (0.70, 1.13)
+0.71 (0.54, 0.92)
+0.77 (0.58, 1.01)
+
+0.96 (0.76, 1.23)
+0.81 (0.62, 1.06)
+0.92 (0.69, 1.22)
+
+0.05
+
+1.00
+
+0.49
+
+1.00
+
+0.83 (0.65, 1.06)
+0.75 (0.58, 0.98)
+0.71 (0.53, 0.95)
+
+0.90 (0.71, 1.15)
+0.87 (0.67, 1.13)
+0.86 (0.64, 1.16)
+
+0.02
+
+1.00
+
+0.32
+
+1.00
+
+1.12 (0.86, 1.45)
+1.16 (0.89, 1.51)
+0.97 (0.73, 1.28)
+
+1.17 (0.90, 1.52)
+1.22 (0.94, 1.59)
+1.03 (0.77, 1.37)
+
+0.77
+
+1.00
+
+0.90
+
+1.00
+
+0.84 (0.65, 1.08)
+0.79 (0.61, 1.03)
+0.81 (0.62, 1.07)
+
+0.93 (0.72, 1.20)
+0.93 (0.71, 1.21)
+0.98 (0.74, 1.30)
+
+0.33
+
+1.00
+
+0.85
+
+1.00
+
+0.87 (0.68, 1.12)
+0.84 (0.65, 1.10)
+0.89 (0.67, 1.19)
+
+0.92 (0.72, 1.19)
+0.92 (0.70, 1.20)
+1.01 (0.76, 1.34)
+
+0.53
+
+1.00
+
+0.87
+
+1.00
+
+0.71 (0.55, 0.92)
+0.81 (0.63, 1.04)
+0.65 (0.49, 0.87)
+
+0.81 (0.62, 1.04)
+0.98 (0.76, 1.27)
+0.83 (0.62, 1.11)
+
+0.01
+
+1.00
+
+0.43
+
+1.00
+
+1.02 (0.79, 1.30)
+0.80 (0.61, 1.05)
+0.85 (0.65, 1.11)
+
+1.09 (0.85, 1.40)
+0.89 (0.67, 1.17)
+0.97 (0.74, 1.27)
+
+0.13
+
+1.00
+
+0.60
+
+1.00
+
+0.95 (0.74, 1.23)
+0.70 (0.53, 0.92)
+0.74 (0.56, 0.98)
+
+0.01
+
+1.08 (0.84, 1.38)
+0.84 (0.63, 1.12)
+0.93 (0.70, 1.25)
+
+0.39
+
+34
+43
+36
+39
+
+44
+33
+43
+32
+
+35
+47
+32
+38
+
+39
+35
+34
+44
+
+44
+46
+35
+27
+
+30
+46
+37
+39
+
+39
+43
+35
+35
+
+37
+45
+42
+28
+
+35
+51
+30
+36
+
+1.00
+
+0.83 (0.53, 1.30)
+0.52 (0.32, 0.84)
+0.44 (0.28, 0.71)
+
+,0.001
+
+1.00
+
+0.65 (0.41, 1.03)
+0.72 (0.47, 1.10)
+0.43 (0.27, 0.68)
+
+0.001
+
+1.00
+
+0.98 (0.63, 1.51)
+0.51 (0.32, 0.83)
+0.46 (0.29, 0.74)
+
+,0.001
+
+1.00
+
+0.91 (0.57, 1.43)
+0.85 (0.53, 1.35)
+0.95 (0.61, 1.47)
+
+0.87
+
+1.00
+
+0.89 (0.59, 1.35)
+0.56 (0.36, 0.88)
+0.38 (0.23, 0.62)
+
+,0.001
+
+1.00
+
+1.14 (0.71, 1.81)
+0.72 (0.44, 1.17)
+0.57 (0.35, 0.94)
+
+0.004
+
+1.00
+
+0.77 (0.50, 1.18)
+0.48 (0.30, 0.76)
+0.37 (0.23, 0.58)
+
+,0.001
+
+1.00
+
+0.91 (0.59, 1.40)
+0.74 (0.48, 1.16)
+0.43 (0.26, 0.70)
+
+,0.001
+
+1.00
+
+0.98 (0.63, 1.51)
+0.45 (0.27, 0.74)
+0.46 (0.29, 0.74)
+
+,0.001
+
+1.00
+
+0.90 (0.57, 1.42)
+0.59 (0.37, 0.96)
+0.54 (0.34, 0.87)
+
+0.006
+
+1.00
+
+0.70 (0.45, 1.11)
+0.80 (0.52, 1.24)
+0.52 (0.32, 0.83)
+
+0.01
+
+1.00
+
+1.04 (0.67, 1.62)
+0.57 (0.35, 0.93)
+0.55 (0.35, 0.89)
+
+0.004
+
+1.00
+
+0.94 (0.60, 1.49)
+0.89 (0.56, 1.41)
+0.98 (0.63, 1.53)
+
+0.96
+
+1.00
+
+0.99 (0.65, 1.50)
+0.66 (0.42, 1.03)
+0.47 (0.28, 0.77)
+
+0.002
+
+1.00
+
+1.18 (0.74, 1.88)
+0.77 (0.47, 1.26)
+0.63 (0.39, 1.04)
+
+0.01
+
+1.00
+
+0.85 (0.55, 1.32)
+0.56 (0.35, 0.89)
+0.46 (0.28, 0.73)
+
+,0.001
+
+1.00
+
+0.97 (0.63, 1.50)
+0.81 (0.52, 1.27)
+0.48 (0.29, 0.78)
+
+0.001
+
+1.00
+
+1.06 (0.69, 1.64)
+0.52 (0.31, 0.85)
+0.56 (0.35, 0.91)
+
+0.003
+
+0.05
+
+0.02
+
+0.03
+
+0.85
+
+, 0.001
+
+0.18
+
+0.002
+
+0.03
+
+0.01
+
+(Continued)
+
+Downloaded from https://academic.oup.com/jn/article-abstract/143/8/1283/4637671
+by University of Ottawa user
+on 24 June 2018
+
+Fruits, vegetables, and bladder cancer risk
+
+1287
+
+TABLE 3 Continued
+
+Dietary fiber [g/(1000 kcal  d)]
+
+,14.9
+14.9–21.9
+22.0–32.0
+$32.1
+P-trend4
+
+Men (n = 83,694)
+
+Women (n = 102,191)
+
+Cases
+
+HR (95% CI)1
+
+HR (95% CI)2
+
+Cases
+
+HR (95% CI)1
+
+HR (95% CI)2
+
+P-interaction3
+
+114
+105
+116
+94
+
+1.00
+
+0.76 (0.58, 1.01)
+0.76 (0.57, 1.03)
+0.61 (0.42, 0.88)
+
+0.01
+
+1.00
+
+0.89 (0.67, 1.18)
+0.98 (0.72, 1.33)
+0.89 (0.61, 1.30)
+
+0.58
+
+48
+37
+32
+35
+
+1.00
+
+0.59 (0.37, 0.93)
+0.42 (0.25, 0.70)
+0.35 (0.19, 0.67)
+
+0.004
+
+1.00
+
+0.68 (0.43, 1.07)
+0.53 (0.31, 0.89)
+0.50 (0.26, 0.97)
+
+0.07
+
+0.99
+
+1 Adjusted for age at cohort entry, ethnicity, and total energy intake (log transformed). RE, retinol equivalents (mg); a-TE, a-tocopherol equivalents (mg).
+2 Additionally adjusted for ﬁrst-degree family history of bladder cancer, employment in a high-risk industry, smoking status, average number of cigarettes, squared average number
+of cigarettes, number of years smoked (time dependent), number of years since quitting (time dependent), interactions of ethnicity with smoking status, average number of
+cigarettes, and squared average number of cigarettes.
+3 Based on the Wald statistic for cross-product terms of dietary variables and sex in the risk factor-adjusted models.
+4 Based on the Wald statistic for a trend variable assigned the sex- and ethnic-speciﬁc medians within the appropriate quartiles.
+
+signiﬁcant in the risk factor-adjusted model [HR = 0.75 (95%
+CI: 0.45, 1.25); P-trend = 0.30]. Similarly, among women, higher
+intakes of total fruits and vegetables [HR = 0.35 (95% CI: 0.22,
+0.56); P-trend < 0.001], total vegetables, yellow-orange vegeta-
+bles, total fruits, and citrus fruits were inversely associated with
+the risk of bladder cancer in risk factor-adjusted models. For men,
+a signiﬁcant inverse association was found for the ‘‘vegetables’’
+dietary pattern, fruits and vegetables, all vegetable subgroups,
+and total fruits in the basic models. However, the associations
+did not depart from unity in the risk factor-adjusted models,
+with the attenuation in risk largely attributable to adjustment for
+smoking variables. Restricted cubic spline analyses adjusted for
+covariates also showed a linear reduction in risk with higher
+intake of fruits and vegetables among women but no signiﬁcant
+association among men (data not shown).
+
+The HRs for bladder cancer according to quartiles of selected
+nutrients and carotenoids concentrated in fruits and vegetables
+are presented in Table 3. For women, higher intakes of vitamins
+A, C, and E; the carotenoids a-carotene, b-carotene, and
+b-cryptoxanthin; and folate were associated with a reduced
+risk of bladder cancer in risk factor-adjusted models. For men,
+no signiﬁcant associations were observed in risk factor-adjusted
+models for any nutrient or phytochemical examined. Similar
+results for food groups and nutrients were obtained when ex-
+cluding cases diagnosed within the ﬁrst 2 y of follow-up or when
+restricting case status to include only transitional cell carcino-
+mas (data not shown). Also, in secondary outcome analyses that
+included in situ cases, the results were generally similar to those
+presented in Tables 2 and 3, although modestly attenuated. For
+example, the HRs for fruit and vegetable consumption were 1.03
+(95% CI: 0.84, 1.27; P-trend = 0.61) for men and 0.51 (95% CI:
+0.36, 0.73; P-trend < 0.001) for women (P-interaction between
+sexes < 0.001) (data not shown). When examining noninvasive
+cases only, no signiﬁcant association was found in either men or
+women; for fruit and vegetable intake, HR = 1.24 (95% CI:
+0.93, 1.64; P-trend = 0.11) in men and HR = 0.91 (95% CI:
+0.51, 1.61; P-trend = 0.72) in women, and the P-interaction
+between sexes = 0.37 (data not shown). In addition, for the
+nutrients examined, the risk estimates for bladder cancer were
+similar when modeling calibration-corrected nutrient densities
+(data not shown).
+
+We examined these relationships in selected subgroups among
+men to see whether some of the strong inverse associations in
+women might become apparent in men also. In analyses stra-
+tiﬁed by smoking status at baseline (Table 4), we did ﬁnd sig-
+niﬁcant inverse trends for a dietary pattern characterized by the
+high consumption of vegetables and for total vegetable intake, but
+
+1288 Park et al.
+
+only among current male smokers [HR = 0.40 (95% CI: 0.18,
+0.90); P-trend = 0.02, P-interaction across smoking status =
+0.04; and HR = 0.43 (95% CI: 0.18, 1.02); P-trend = 0.03,
+P-interaction = 0.08, respectively]. In ethnic-speciﬁc analyses
+among men (Table 5) conducted for the 3 largest ethnicities in
+the study (Japanese Americans, Latinos, and whites), there was
+considerable heterogeneity among the groups. The only signif-
+icant ﬁndings were in the Latinos, among whom a lower risk of
+bladder cancer was seen for the highest level of consumption of
+fruits and vegetables [HR = 0.36 (95% CI: 0.17, 0.76); P-trend =
+0.006, P-interaction between Latinos and the other 2 groups =
+0.006] and of total fruits [HR = 0.40 (95% CI: 0.19, 0.84);
+P-trend = 0.02, P-interaction = 0.002]. Inverse associations
+conﬁned to Latino men were also found for lycopene, vitamin C,
+and folate (P-interaction < 0.05, data not shown). Subgroup
+analyses among women indicated that the associations did not
+vary across smoking status and between the 2 ethnic groups with
+more cases [African Americans (n = 55) and whites (n = 35)],
+although the number of cases in all subgroups of women was
+limited (data not shown). We also examined the associations
+separately for Hawaii and California, because differences in
+unmeasured environmental exposures (e.g., drinking water and
+air pollution) between the 2 study areas might modify the diet-
+bladder cancer relationship; however, there was no indication
+that the associations varied for any dietary exposure examined
+between the 2 study areas (data not shown).
+
+Discussion
+
+In this large, multiethnic cohort of older adults, we found a
+lower risk of bladder cancer among women with a dietary pat-
+tern characterized by the high intake of vegetables as well as
+for those consuming the greatest amounts of total fruits and
+vegetables, total vegetables, yellow-orange vegetables, total fruits,
+and citrus fruits. Among women, higher intakes of several nu-
+trients and carotenoids concentrated in fruits and vegetables,
+including vitamins A, C, and E; the carotenoids a-carotene,
+b-carotene, and b-cryptoxanthin; and folate, were also associ-
+ated with a lower risk of bladder cancer. Among men, the inverse
+associations in basic models were attenuated upon adjustment
+for smoking variables. In subgroup analyses based on a limited
+number of cases, vegetable intake remained inversely associated
+with bladder cancer risk only among current smokers at base-
+line. In ethnic-speciﬁc analyses among men, Latinos with the
+greatest consumption of fruits and vegetables, fruits, and citrus
+fruits were at lower risk for bladder cancer.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/143/8/1283/4637671
+by University of Ottawa user
+on 24 June 2018
+
+TABLE 4 HRs and 95% CIs for invasive bladder cancer according to fruit and vegetable intakes by smoking status at baseline among
+men
+
+Never smokers (n = 25,748)
+
+Former smokers (n = 42,758)
+
+Current smokers (n = 15,188)
+
+Cases
+
+HR (95% CI)1
+
+Cases
+
+HR (95% CI)1
+
+Cases
+
+HR (95% CI)1
+
+P-interaction2
+
+Dietary patterns (factor score)
+
+Vegetables pattern
+
+Quartile 1
+Quartile 2
+Quartile 3
+Quartile 4
+P-trend3
+
+Fruit and milk pattern
+
+Quartile 1
+Quartile 2
+Quartile 3
+Quartile 4
+P-trend3
+
+Foods [g/(1000 kcal  d)]
+Fruits and vegetables
+
+,216
+216–308
+309–425
+$426
+P-trend3
+
+Total vegetables
+
+,107
+107–147
+148–200
+$201
+P-trend3
+Total fruits
+,77.4
+77.4–144
+145–238
+$239
+P-trend3
+
+26
+23
+16
+23
+
+14
+19
+29
+26
+
+18
+25
+27
+18
+
+27
+24
+16
+21
+
+16
+19
+31
+22
+
+1.00
+
+0.94 (0.53, 1.66)
+0.68 (0.35, 1.31)
+0.97 (0.51, 1.85)
+
+0.72
+
+1.00
+
+1.04 (0.52, 2.10)
+1.52 (0.78, 2.95)
+1.41 (0.68, 2.93)
+
+0.25
+
+1.00
+
+1.02 (0.56, 1.88)
+1.06 (0.58, 1.92)
+0.81 (0.42, 1.57)
+
+0.54
+
+1.00
+
+0.86 (0.50, 1.49)
+0.63 (0.34, 1.17)
+0.93 (0.53, 1.65)
+
+0.73
+
+1.00
+
+0.83 (0.42, 1.61)
+1.23 (0.67, 2.26)
+0.93 (0.48, 1.78)
+
+0.98
+
+54
+66
+69
+50
+
+58
+64
+60
+57
+
+69
+68
+61
+41
+
+62
+67
+70
+40
+
+61
+64
+72
+42
+
+1.00
+
+1.28 (0.89, 1.85)
+1.36 (0.93, 1.99)
+1.06 (0.69, 1.63)
+
+0.69
+
+1.00
+
+1.13 (0.78, 1.62)
+1.12 (0.76, 1.63)
+1.28 (0.84, 1.94)
+
+0.31
+
+1.00
+
+1.00 (0.71, 1.40)
+1.07 (0.75, 1.52)
+1.03 (0.69, 1.52)
+
+0.78
+
+1.00
+
+1.21 (0.86, 1.71)
+1.40 (0.99, 1.97)
+1.05 (0.71, 1.57)
+
+0.63
+
+1.00
+
+1.00 (0.70, 1.42)
+1.26 (0.89, 1.78)
+1.00 (0.67, 1.49)
+
+0.75
+
+48
+29
+17
+8
+
+39
+27
+19
+17
+
+58
+23
+16
+5
+
+46
+35
+15
+6
+
+58
+19
+15
+10
+
+1.00
+
+0.86 (0.53, 1.38)
+0.65 (0.36, 1.17)
+0.40 (0.18, 0.90)
+
+0.02
+
+1.00
+
+1.08 (0.65, 1.80)
+0.93 (0.52, 1.67)
+1.20 (0.63, 2.29)
+
+0.76
+
+1.00
+
+0.77 (0.48, 1.26)
+0.83 (0.47, 1.46)
+0.56 (0.22, 1.40)
+
+0.17
+
+1.00
+
+1.09 (0.70, 1.69)
+0.66 (0.37, 1.19)
+0.43 (0.18, 1.02)
+
+0.03
+
+1.00
+
+0.57 (0.34, 0.96)
+0.69 (0.39, 1.23)
+0.81 (0.41, 1.60)
+
+0.30
+
+0.04
+
+0.64
+
+0.34
+
+0.08
+
+0.43
+
+1 Adjusted for age at cohort entry, ethnicity, total energy intake (log transformed), ﬁrst-degree family history of bladder cancer, employment in a high-risk industry, average number
+of cigarettes, squared average number of cigarettes, number of years smoked (time dependent), number of years since quitting (time dependent), interactions of ethnicity with
+average number of cigarettes, and squared average number of cigarettes (for current and former smokers only).
+2 Based on the Wald statistic for cross-product terms of dietary variables and smoking status in the risk factor-adjusted models.
+3 Based on the Wald statistic for a trend variable assigned the sex- and ethnic-speciﬁc medians within the appropriate quartiles.
+
+A systematic literature review conducted by the WCRF/AICR
+in 2007 did not ﬁnd strong evidence in support of fruits and
+vegetables in the development of bladder cancer. More recent
+studies have generally reported ﬁndings consistent with the
+WCRF/AICR summary conclusion. Two recent prospective co-
+hort studies reported no association for fruits and vegetables
+(14,15), whereas an additional study suggested a protective ef-
+fect for b-carotene from foods but not from supplements (22).
+Case-control studies have consistently reported inverse associ-
+ations for fruits, vegetables, or related micronutrients with blad-
+der cancer risk (9–13,23); however, these studies are limited due
+to the potential for differential recall between cases and controls
+to have affected the ﬁndings. Contrary to our ﬁndings in women,
+one prior case-control study examined dietary patterns in rela-
+tion to bladder cancer risk and reported no association for a
+prudent dietary pattern characterized by the high consumption
+of fruits and vegetables (24); however, this analysis was con-
+ducted in an Uruguayan population comprised primarily of men
+(;88%). Most previous studies have included noninvasive as
+well as invasive bladder cancer as end points. In the current
+study, we found no association for noninvasive tumors in either
+
+men or women. Thus, should dietary factors operate to inﬂuence
+the progression of bladder cancer from in situ to malignant
+disease, the inclusion of noninvasive tumors may weaken the
+association between diet and bladder cancer risk. Further inves-
+tigation is needed to conﬁrm our ﬁndings that are restricted to
+invasive bladder cancer.
+
+The present study found an inverse association between fruits,
+vegetables, and bladder cancer risk that was largely conﬁned to
+women. The reason for the heterogeneity between sexes is not
+clear, although it may in part reﬂect the higher intake of fruits
+and vegetables among women. However, we found no associ-
+ation in the risk of bladder cancer among men with the highest
+fruit and vegetable intakes when examined as quartiles of ex-
+posure or as continuous variables using restricted cubic splines
+in regression. Interestingly, although the number of cases in
+women (n = 152) was smaller than in men (n = 429), the esti-
+mated risk reduction in women was large enough to reach sig-
+niﬁcance. Also, the signiﬁcant inverse associations for women
+remained in the lag analyses that excluded incident cases di-
+agnosed within 2 y of completing the baseline questionnaire and
+in several sensitivity analyses that included in situ cases, restricted
+
+Fruits, vegetables, and bladder cancer risk
+
+1289
+
+Downloaded from https://academic.oup.com/jn/article-abstract/143/8/1283/4637671
+by University of Ottawa user
+on 24 June 2018
+
+TABLE 5 HRs and 95% CIs for invasive bladder cancer according to fruit and vegetable intakes by ethnicity among men
+
+Japanese Americans (n = 25,250)
+
+Latinos (n = 19,746)
+
+Whites (n = 21,333)
+
+Cases
+
+HR (95% CI)1
+
+Cases
+
+HR (95% CI)1
+
+Cases
+
+HR (95% CI)1
+
+P-interaction2
+
+Dietary patterns (factor score)
+
+Vegetables pattern
+
+Quartile 1
+Quartile 2
+Quartile 3
+Quartile 4
+P-trend3
+
+Fruit and milk pattern
+
+Quartile 1
+Quartile 2
+Quartile 3
+Quartile 4
+P-trend3
+
+Foods [g/(1000 kcal  d)]
+Fruits and vegetables
+
+,216
+216–308
+309–425
+$426
+P-trend3
+
+Total vegetables
+
+,107
+107–147
+148–200
+$201
+P-trend3
+Total fruits
+,77.4
+77.4–144
+145–238
+$239
+P-trend3
+
+19
+32
+39
+45
+
+55
+35
+26
+19
+
+41
+40
+33
+21
+
+48
+37
+28
+22
+
+39
+32
+36
+28
+
+1.00
+
+0.83 (0.47, 1.48)
+0.79 (0.44, 1.39)
+0.77 (0.43, 1.39)
+
+0.45
+
+1.00
+
+1.01 (0.65, 1.56)
+1.12 (0.68, 1.82)
+1.76 (1.00, 3.09)
+
+0.13
+
+1.00
+
+1.17 (0.75, 1.83)
+1.14 (0.71, 1.84)
+1.10 (0.64, 1.91)
+
+0.72
+
+1.00
+
+0.87 (0.57, 1.34)
+0.79 (0.49, 1.26)
+0.87 (0.52, 1.46)
+
+0.51
+
+1.00
+
+0.87 (0.54, 1.41)
+1.11 (0.69, 1.77)
+1.24 (0.74, 2.08)
+
+0.27
+
+40
+15
+14
+9
+
+15
+20
+19
+24
+
+34
+17
+18
+9
+
+23
+19
+20
+16
+
+33
+20
+16
+9
+
+1.00
+
+0.62 (0.33, 1.15)
+0.72 (0.36, 1.42)
+0.68 (0.31, 1.49)
+
+0.22
+
+1.00
+
+0.96 (0.48, 1.93)
+0.79 (0.39, 1.61)
+0.68 (0.32, 1.45)
+
+0.26
+
+1.00
+
+0.40 (0.22, 0.74)
+0.48 (0.26, 0.89)
+0.36 (0.17, 0.76)
+
+0.006
+
+1.00
+
+0.82 (0.44, 1.55)
+0.85 (0.45, 1.58)
+0.71 (0.37, 1.38)
+
+0.35
+
+1.00
+
+0.50 (0.27, 0.91)
+0.56 (0.30, 1.04)
+0.40 (0.19, 0.84)
+
+0.02
+
+46
+54
+33
+15
+
+21
+30
+50
+47
+
+49
+41
+38
+20
+
+42
+51
+39
+16
+
+40
+34
+47
+27
+
+1.00
+
+1.66 (1.12, 2.48)
+1.23 (0.77, 1.94)
+0.76 (0.42, 1.40)
+
+0.70
+
+1.00
+
+1.04 (0.59, 1.82)
+1.49 (0.88, 2.51)
+1.53 (0.88, 2.66)
+
+0.06
+
+1.00
+
+1.05 (0.69, 1.59)
+1.19 (0.77, 1.84)
+0.96 (0.56, 1.65)
+
+0.91
+
+1.00
+
+1.54 (1.02, 2.32)
+1.39 (0.89, 2.15)
+0.82 (0.46, 1.46)
+
+0.62
+
+1.00
+
+0.95 (0.60, 1.51)
+1.51 (0.98, 2.34)
+1.26 (0.75, 2.10)
+
+0.16
+
+0.60
+
+0.005
+
+0.006
+
+0.60
+
+0.002
+
+1 Adjusted for age at cohort entry, ethnicity, total energy intake (log-transformed), ﬁrst-degree family history of bladder cancer, employment in a high-risk industry, smoking status,
+average number of cigarettes, squared average number of cigarettes, number of years smoked (time dependent), and number of years since quitting (time dependent).
+2 Interaction was tested between Latinos and the other 2 groups (Japanese Americans and whites combined) based on the Wald statistic for cross-product terms of dietary
+variables and ethnicity in the risk factor-adjusted models.
+3 Based on the Wald statistic for a trend variable assigned the sex- and ethnic-speciﬁc medians within the appropriate quartiles.
+
+case status to transitional cell carcinomas, and examined associ-
+ations using calibration-corrected nutrient densities. The sex
+differences in the HRs for incident bladder cancer in the MEC
+Study contrast with the associations reported in 2 other cohorts,
+namely, the Health Professionals Follow-up and NursesÕ Health
+Studies: whereas beneﬁcial effects of high cruciferous vegetable
+consumption were suggested for the men in the Health Profes-
+sionals Follow-up (25), no associations were seen for the women
+in NursesÕ Health Studies (26). Other prospective studies have
+reported no sex differences in the associations between fruits or
+vegetables and bladder cancer risk and, accordingly, combined
+men and women in the analysis (14,15,27). Parity and early
+menopause may be related to the incidence of bladder cancer
+among women, although whether effects are due to female hor-
+mones remains uncertain (28). In the current study, however,
+female reproductive factors were not related to bladder cancer
+risk and did not change the associations between fruits or vege-
+tables and bladder cancer risk when included in the models.
+
+In men, the beneﬁcial effect of high vegetable intake was
+conﬁned to current smokers in the risk factor-adjusted models. It
+is plausible that smokers may beneﬁt the most from the greater
+consumption of fruits and vegetables high in antioxidants, as
+
+1290 Park et al.
+
+they have been shown to have lower antioxidant levels than
+nonsmokers (29). In addition, fruits and vegetables contain a
+wide range of bioactive constituents that may operate in the
+development or progression of bladder cancer, including counter-
+acting nitrosation and inﬂuencing bioactive transformations. A
+cohort study in The Netherlands also found that the inverse
+association between fruit consumption and bladder cancer was
+more pronounced in smokers than in those who never smoked
+(27). However, in a Finnish cohort of male smokers, no associ-
+ation of fruits and vegetables with bladder cancer risk was
+observed (30). Two other cohort studies have suggested that an
+inverse association between fruit and/or vegetable intake and the
+risk of bladder cancer was stronger in (25) or limited to those
+who never smoked (14), but no signiﬁcant interaction with smok-
+ing status was found in either study. In ethnic-speciﬁc analyses,
+we found that Latino men consuming high amounts of fruit had
+a lower risk of bladder cancer compared with Japanese American
+and white men. The mean intake of fruit was slightly higher for
+Latinos than other ethnic groups and the proportion of current
+smokers was slightly, but signiﬁcantly, higher in Latinos (18.3%)
+than in Japanese Americans (14.9%) and whites (16.2%), pos-
+sibly contributing to the discrepant ﬁndings. However, we were
+
+Downloaded from https://academic.oup.com/jn/article-abstract/143/8/1283/4637671
+by University of Ottawa user
+on 24 June 2018
+
+not able to examine whether the inverse association of fruits
+with bladder cancer risk in Latino men was independent from
+smoking status due to the limited number of cases.
+
+The current study has several strengths, including the pro-
+spective design that allowed for prediagnostic dietary assess-
+ment, the ethnic diversity of the study sample, the administration
+of a validated FFQ with a detailed nutritional database, and the
+population-based sampling frame utilized by the MEC Study
+allowing for the generalizability of the study results. There were
+also potential limitations. Dietary intake was likely measured
+with error in our study. To minimize errors in dietary assessment
+associated with the use of a FFQ, we used a detailed and vali-
+dated instrument that included a comprehensive list of food
+items. We also examined food and nutrient densities in relation
+to disease risk, potentially reducing measurement error, because
+nutrient densities, when compared with absolute values, were
+more highly correlated with multiple 24-h recalls in our prior
+calibration study (18). In addition, we examined associations for
+calibration-adjusted nutrients intakes. Also, a single FFQ may
+not well represent long-term dietary intake and cannot capture
+possible changes in diet or other health behaviors occurring dur-
+ing the follow-up period. In future analyses, we will be able to
+study the impact of repeated dietary measurements and changes
+in dietary intake and smoking status in relation to bladder cancer
+risk. Due to the smaller number of bladder cancers diagnosed in
+women during the follow-up period for this analysis, the sta-
+tistical power for sex-speciﬁc associations for bladder cancer by
+smoking status or ethnicity was too limited. With additional
+follow-up time and the accrual of more cases, we will be able to
+better examine associations for speciﬁc subgroups of women. In
+addition, we cannot rule out the possibility that subgroup ﬁnd-
+ings in men may reﬂect chance ﬁndings due to the small number
+of cases. Although measured and unmeasured confounding fac-
+tors may have inﬂuenced associations of fruits and vegetables
+with bladder cancer risk, we were able to examine and control
+for a wide range of potential confounders. In particular, we rig-
+orously adjusted for cigarette smoking using a comprehensive
+model developed for a previous lung cancer study, which ac-
+counted for changes in smoking status over time using time-
+dependent variables (19).
+
+In conclusion, our ﬁndings suggest that higher consumption
+of fruits and vegetables may lower the risk of invasive bladder
+cancer among women. Although no overall association was found
+for men, subgroup analyses suggest that the association between
+fruits or vegetables and bladder cancer risk varies by smoking
+status and ethnicity. Further follow-up is required to conﬁrm
+these ﬁndings with a greater number of cases and to examine
+associations with risk for speciﬁc subgroups of women.
+
+Acknowledgments
+S.-Y.P. and N.J.O. analyzed data and wrote the manuscript;
+L.R.W.and L.N.K. supervised the analyses and edited the manu-
+script; and C.G.W. and B.E.H. revised the article for intellectual
+content. All authors read and approved the ﬁnal manuscript.
+
+Literature Cited
+
+1. American Cancer Society. Cancer facts and ﬁgures 2012. Atlanta:
+
+2.
+
+3.
+
+American Cancer Society; 2012.
+Silverman DT, Devesa SS, Moore LE, Rothman N. Bladder cancer. In:
+Schottenfeld D, Fraumeni JF Jr. editors. Cancer epidemiology and pre-
+vention. 3rd ed. New York: Oxford University Press; 2006. p. 1101–27.
+Freedman ND, Silverman DT, Hollenbeck AR, Schatzkin A, Abnet CC.
+Association between smoking and risk of bladder cancer among men
+and women. JAMA. 2011;306:737–45.
+
+4.
+
+Parkin DM. The global burden of urinary bladder cancer. Scand J Urol
+Nephrol Suppl. 2008:12–20.
+
+5. Letasiovs S, Medve’ova A, Sovcikova A, Dusinska M, Volkovova K,
+Mosoiu C, Bartonova A. Bladder cancer, a review of the environmental
+risk factors. Environ Health. 2012;11 Suppl 1:S11.
+Pelucchi C, Bosetti C, Negri E, Malvezzi M, La Vecchia C. Mechanisms
+of disease: the epidemiology of bladder cancer. Nat Clin Pract Urol.
+2006;3:327–40.
+
+6.
+
+7. Brinkman M, Zeegers MP. Nutrition, total ﬂuid and bladder cancer.
+
+Scand J Urol Nephrol Suppl. 2008:25–36.
+
+8. World Cancer Research Fund/American Institute for Cancer Research.
+Food, nutrition, physical activity, and the prevention of cancer: a global
+perspective. Washington, DC: American Institute for Cancer Research;
+2007.
+
+9. Kellen E, Zeegers M, Paulussen A, Van Dongen M, Buntinx F. Fruit
+consumption reduces the effect of smoking on bladder cancer risk. The
+Belgian case control study on bladder cancer. Int J Cancer. 2006;118:
+2572–8.
+
+10. Sacerdote C, Matullo G, Polidoro S, Gamberini S, Piazza A, Karagas
+MR, Rolle L, De Stefanis P, Casetta G, Morabito F, et al. Intake of fruits
+and vegetables and polymorphisms in DNA repair genes in bladder
+cancer. Mutagenesis. 2007;22:281–5.
+
+11. Tang L, Zirpoli GR, Guru K, Moysich KB, Zhang Y, Ambrosone CB,
+McCann SE. Consumption of raw cruciferous vegetables is inversely
+associated with bladder cancer risk. Cancer Epidemiol Biomarkers Prev.
+2008;17:938–44.
+
+12. Garci ´a-Closas R, Garcia-Closas M, Kogevinas M, Malats N, Silverman
+D, Serra C, Tardon A, Carrato A, Castano-Vinyals G, Dosemeci M,
+et al. Food, nutrient and heterocyclic amine intake and the risk of
+bladder cancer. Eur J Cancer. 2007;43:1731–40.
+
+13. Lin J, Kamat A, Gu J, Chen M, Dinney CP, Forman MR, Wu X. Dietary
+intake of vegetables and fruits and the modiﬁcation effects of GSTM1
+and NAT2 genotypes on bladder cancer risk. Cancer Epidemiol Bio-
+markers Prev. 2009;18:2090–7.
+
+14. Bu¨ chner FL, Bueno-de-Mesquita HB, Ros MM, Kampman E, Egevad L,
+Overvad K, Raaschou-Nielsen O, Tjonneland A, Roswall N, Clavel-
+Chapelon F, et al. Consumption of vegetables and fruit and the risk of
+bladder cancer in the European Prospective Investigation into Cancer
+and Nutrition. Int J Cancer. 2009;125:2643–51.
+
+15. Larsson SC, Andersson SO, Johansson JE, Wolk A. Fruit and vegetable
+consumption and risk of bladder cancer: a prospective cohort study.
+Cancer Epidemiol Biomarkers Prev. 2008;17:2519–22.
+
+16. Kolonel LN, Henderson BE, Hankin JH, Nomura AM, Wilkens LR,
+Pike MC, Stram DO, Monroe KR, Earle ME, Nagamine FS. A mul-
+tiethnic cohort in Hawaii and Los Angeles: baseline characteristics. Am
+J Epidemiol. 2000;151:346–57.
+
+17. Park SY, Murphy SP, Wilkens LR, Yamamoto JF, Sharma S, Hankin JH,
+Henderson BE, Kolonel LN. Dietary patterns using the Food Guide
+Pyramid groups are associated with sociodemographic and lifestyle
+factors: The Multiethnic Cohort Study. J Nutr. 2005;135:843–9.
+
+18. Stram DO, Hankin JH, Wilkens LR, Pike MC, Monroe KR, Park S,
+Henderson BE, Nomura AM, Earle ME, Nagamine FS, et al. Calibra-
+tion of the dietary questionnaire for a multiethnic cohort in Hawaii and
+Los Angeles. Am J Epidemiol. 2000;151:358–70.
+
+19. Haiman CA, Stram DO, Wilkens LR, Pike MC, Kolonel LN, Henderson
+BE, Le Marchand L. Ethnic and racial differences in the smoking-related
+risk of lung cancer. N Engl J Med. 2006;354:333–42.
+
+20. Woolcott CG, Maskarinec G, Haiman CA, Henderson BE, Kolonel LN.
+Diabetes and urothelial cancer risk: the Multiethnic Cohort study.
+Cancer Epidemiol. 2011;35:551–4.
+
+21. Govindarajulu US, Spiegelman D, Thurston SW, Ganguli B, Eisen EA.
+Comparing smoothing techniques in Cox models for exposure-response
+relationships. Stat Med. 2007;26:3735–52.
+
+22. Roswall N, Olsen A, Christensen J, Dragsted LO, Overvad K,
+Tjonneland A. Micronutrient intake and risk of urothelial carcinoma
+in a prospective Danish cohort. Eur Urol. 2009;56:764–70.
+
+23. Brinkman MT, Karagas MR, Zens MS, Schned A, Reulen RC,
+Zeegers MP. Minerals and vitamins and the risk of bladder cancer:
+results from the New Hampshire Study. Cancer Causes Control.
+2010;21:609–19.
+
+24. De Stefani E, Boffetta P, Ronco AL, Deneo-Pellegrini H, Acosta G,
+Mendilaharsu M. Dietary patterns and risk of bladder cancer: a factor
+analysis in Uruguay. Cancer Causes Control. 2008;19:1243–9.
+
+Fruits, vegetables, and bladder cancer risk
+
+1291
+
+Downloaded from https://academic.oup.com/jn/article-abstract/143/8/1283/4637671
+by University of Ottawa user
+on 24 June 2018
+
+25. Michaud DS, Spiegelman D, Clinton SK, Rimm EB, Willett WC,
+Giovannucci EL. Fruit and vegetable intake and incidence of bladder
+cancer in a male prospective cohort. J Natl Cancer Inst. 1999;91:605–13.
+26. Holick CN, De Vivo I, Feskanich D, Giovannucci E, Stampfer M,
+Michaud DS. Intake of fruits and vegetables, carotenoids, folate, and
+vitamins A, C, E and risk of bladder cancer among women (United
+States). Cancer Causes Control. 2005;16:1135–45.
+
+27. Zeegers MP, Goldbohm RA, van den Brandt PA. Consumption of
+vegetables and fruits and urothelial cancer incidence: a prospective
+study. Cancer Epidemiol Biomarkers Prev. 2001;10:1121–8.
+
+28. Dietrich K, Demidenko E, Schned A, Zens MS, Heaney J, Karagas MR.
+Parity, early menopause and the incidence of bladder cancer in women:
+a case-control study and meta-analysis. Eur J Cancer. 2011;47:
+592–9.
+
+29. Yanbaeva DG, Dentener MA, Creutzberg EC, Wesseling G, Wouters EF.
+
+Systemic effects of smoking. Chest. 2007;131:1557–66.
+
+30. Michaud DS, Pietinen P, Taylor PR, Virtanen M, Virtamo J, Albanes D.
+Intakes of fruits and vegetables, carotenoids and vitamins A, E, C in
+relation to the risk of bladder cancer in the ATBC cohort study. Br J
+Cancer. 2002;87:960–5.
+
+1292 Park et al.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/143/8/1283/4637671
+by University of Ottawa user
+on 24 June 2018
+
+

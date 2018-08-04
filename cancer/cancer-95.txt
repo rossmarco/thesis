@@ -1,0 +1,2037 @@
+CRITICAL REVIEWS IN FOOD SCIENCE AND NUTRITION
+2017, VOL. 57, NO. 12, 2623–2635
+http://dx.doi.org/10.1080/10408398.2015.1064086
+
+Anticancer potential of dietary vitamin D and ascorbic acid: A review
+
+B. V. Sunil Kumar, Satparkash Singh, and Ramneek Verma
+
+School of Animal Biotechnology, Guru Angad Dev Veterinary and Animal Sciences University, Ludhiana, India
+
+ABSTRACT
+Cancers have been the leading cause of death worldwide and poor diet and physical inactivity are major
+risk factors in cancer-related deaths. Micronutrients such as vitamins and minerals appear to have
+preventive properties against cancer. One important mechanism by which dietary changes can exert
+preventive effects on cancer is via the modulation of micronutrient concentrations in target tissues. Many
+of these micronutrients are available in the form of dietary supplements, and the intake of these
+supplements is prevalent in various parts of the world. However, in most cases, it is not known which
+micronutrient (or combination of micronutrients) is best when it comes to lowering the risk of cancer. The
+present review illustrates the effect of vitamin D and ascorbic acid intake on preventing cancer.
+
+KEYWORDS
+Cancer; dietary
+supplementation; vitamin D;
+ascorbic acid; anti-neoplastic
+
+Introduction
+
+Cancer is currently one of the most important public health
+issues. World Health Organization (WHO) reported that 14%
+of global deaths resulted from malignant neoplasm, and the
+incidence is expected to be 18% in 2030 (Kwan et al, 2015).
+Cancers are not only restricted to human beings; domestic
+animals and pets are also at an equivalent risk. The frequency
+of neoplasia in different species varies tremendously. Dogs are
+by far the most frequently affected domestic species, with a
+prevalence »3 times that in women, followed by cats and other
+pets (Sunil Kumar and Kataria, 2013; Chaudhary et al., 2014).
+It is nearly impossible to prove what caused a cancer in any
+individual, because most cancers have multiple causes. Over
+30% of cancers are potentially avoidable by reducing key risk
+factors, like tobacco use and obesity, which respectively cause
+about 22% and 10% of cancer deaths (Cancer fact sheet, WHO,
+2014). In the developing world, nearly 20% of cancers are due
+to infections such as hepatitis B, hepatitis C, and human
+papillomavirus
+2014).
+Approximately 5–10% of cancers are due to genetic defects
+inherited from a person’s parents (Word cancer report, 2014).
+Apart from genetic causes which were predominant in the
+earlier times, environmental causes and changed lifestyle have
+increased the incidence of cancer these days (Anand et al.,
+2008). Dietary factors are among the most
+important
+environmental factors implicated in most of the cancers. It has
+been estimated that around 10–70% of all cancers are
+attributable to diet and that up to 90% of colorectal cancer may
+be avoidable through alterations in the diet and life style
+(Bishayee et al., 2015). Although treatments like surgery,
+chemotherapy, radiation therapy are available; cancer is rela-
+tively incurable till date and may even relapse after treatment.
+
+sheet, WHO,
+
+(Cancer
+
+fact
+
+Early detection of neoplasmic growths can save lives, but
+cancer is often detected as late end point of carcinogenesis, so,
+its early diagnosis is very poor (Sunil Kumar, et al., 2013a).
+Hence, best defense against cancer is prevention. Certain types
+of cancer, caused by viruses can be prevented by prophylaxis,
+however, the efﬁcacy of anti-tumor vaccines is plausible. The
+evidence linking poor nutrition, overweight/obesity, and
+physical
+inactivity as risk factors for cancer continues to
+develop and a healthy diet is one of the most important lifestyle
+changes that a person can make to reduce his/her risk of cancer
+(Beaglehole et al., 2011; Kushi et al., 2012). WHO has graded
+the strength of the evidence for these lifestyle risk factors, in
+relation to a range of cancers, and estimated that around
+1 million new cases could be prevented in the USA, UK, China,
+and Brazil alone, by merely correcting lifestyle behavior.
+Reducing the risk of certain cancers may be possible through
+the usage of dietary supplements, which could be used alone or
+in combination with conventional chemotherapeutic agents, in
+order to prevent new cases of cancer (Visioli et al., 2005;
+Pelucchi et al., 2009).
+
+Dietary supplements include vitamins, minerals, herbs, or
+products made from plants. They can also be made from
+animal parts, algae, seafood, yeasts, fungus, and many other
+food substances or extracts. They also include powdered amino
+acids, enzymes, energy bars, and liquid food supplements. Used
+properly, certain dietary supplements may help in reducing the
+risk of some diseases and discomfort caused by certain drugs or
+conditions. And most people can use dietary supplements
+safely within certain dosage guidelines.
+
+A number of epidemiologic studies have investigated
+whether people with higher vitamin intakes or higher blood
+levels of certain vitamins have lower risks of speciﬁc cancers.
+
+CONTACT B. V. Sunil Kumar, Assistant Biochemist
+nary and Animal Sciences University, Ludhiana 141004, India.
+Color versions of one or more of the ﬁgures in the article can be found online at www.tandfonline.com/bfsn.
+© 2017 Taylor & Francis Group, LLC
+
+drbvskumar@gmail.com; sunilkumar@gadvasu.in
+
+School of Animal Biotechnology, Guru Angad Dev Veteri-
+
+2624
+
+B. V. SUNIL KUMAR ET AL.
+
+The cancers for which the most human data are available are
+colorectal, breast, prostate, and pancreatic cancer. Numerous
+epidemiologic studies have shown that higher intake or blood
+levels of vitamin D are associated with a reduced risk of colo-
+rectal cancer. Experimental evidence has also suggested a possi-
+ble association between vitamin D and cancer risk. In studies of
+cancer cells and of tumors in mice, vitamin D has been found
+to have several roles that might slow or prevent the develop-
+ment of cancer, including promoting cellular differentiation,
+decreasing cancer cell growth/proliferation, stimulating cell
+death (apoptosis), and reducing tumor blood vessel formation
+(angiogenesis) (Gandini et al., 2011; Ma et al., 2011). Ascorbic
+acid (Vitamin C) exhibits antioxidant actions including the
+neutralization of free radicals (Sunil Kumar et al., 2010) which
+may impact cancer progression. At higher doses it may also act
+as a pro-oxidant as in vitro experiments have demonstrated
+cytotoxicity to cancer cells without similar effects on normal
+cells (Harris et al., 2014).
+
+In this paper, we critically review the effectiveness of dietary
+micronutrients especially vitamin D and ascorbic acid in reduc-
+ing cancer risks. The anticancer mechanisms of these dietary
+vitamins are also discussed.
+
+Vitamin D and its fortiﬁcation in foods
+
+Vitamin D is a group of fat-soluble micronutrients that also act
+as pro-hormone. It helps in deposition of calcium and phos-
+phorus in bones and teeth. Vitamin D is synthesized within the
+body on exposure to sunlight. However, it can also be obtained
+from certain foods (Table 1). Dietary sources include a few
+foods that naturally contain vitamin D, such as fatty ﬁsh, ﬁsh
+liver oil, and eggs. However, most dietary vitamin D comes
+from foods fortiﬁed with vitamin D, such as milk, juices, and
+breakfast cereals. The Food and Nutrition Board (FNB) at the
+Institute of Medicine of The National Academies (formerly
+National Academy of Sciences) has recommended daily intakes
+of vitamin D, assuming minimal Sun exposure (Table 2).
+Vitamin D deﬁciency leads to rickets in children and osteoma-
+lacia in adults which are characterized by weak bones and
+cartilages. Vitamin D exists in two major forms, vitamin D2
+
+(ergocalciferol) and vitamin D3 (cholecalciferol). Vitamin D2 is
+made naturally by plants, and vitamin D3 is synthesized by the
+body when exposed to sunlight. Both forms are converted to
+25-hydroxycholecalciferol in the liver which is further modiﬁed
+to 1,25-dihydroxycholecalciferol (calcitriol), the active form of
+vitamin D in the body (Norman, 1998).
+
+Excessive intake of any nutrient can cause toxic effects and
+vitamin D is no exception. Too much vitamin D can be harmful
+because it increases calcium levels, which can lead to calcinosis
+(the deposit of calcium salts in soft tissues, such as the kidneys,
+heart, or lungs) and hypercalcemia. The safe upper intake level of
+vitamin D for adults and children older than 8 years of age is
+100 mg per day (4000 IU per day). Toxicity from too much
+vitamin D is more likely to occur from high intakes of dietary
+supplements. Excessive Sun exposure does not cause vitamin D
+toxicity. However, the Institute of Medicine (IOM), Food and
+Nutrition Board states that people should not try to increase vita-
+min D production by increasing their exposure to sunlight because
+this will also increase their risk of skin cancer (Otten et al., 2006).
+
+Sun exposure is the major requisite for vitamin D synthesis.
+Despite plentiful sunshine, vitamin D deﬁciency prevails in
+tropical countries like India due to several socioeconomic and
+cultural constraints (Ritu and Gupta, 2014). Fortiﬁcation of
+widely consumed staple foods with vitamin D offers one of the
+simplest and most practical methods to combat its deﬁciencies
+for both poor and wealthy societies. General principles for the
+addition of essential nutrients to foods are given by the Codex
+Alimentarius Commission. The Codex deﬁnition of fortiﬁca-
+tion is “the addition of one or more essential nutrients to a
+food whether or not it is normally contained in the food, for
+the purpose of preventing or correcting a demonstrated
+deﬁciency of one or more nutrients in the population or speciﬁc
+population groups.” The advantages of fortiﬁcation include
+greater speciﬁcity of intervention and better dose adjustment.
+However, there are limitations of this strategy as well such as
+more cost, low compliance, self-prescription and increased risk
+of toxicity. Several foods may be fortiﬁed with vitamin D in
+tropical countries like India, e.g., milk, yogurt, infant formulas,
+ghee, soy milk, sugar, etc. Some of the vitamin D fortiﬁed foods
+are discussed as follows.
+
+Table 1. Selected Food Sources of Vitamin D (U.S. Department of Agriculture, 2011).
+
+S. No.
+
+Food
+
+International Units per serving
+
+
+Percent Daily values
+
+1.
+2.
+3.
+4.
+5.
+
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+
+13.
+
+Cod liver oil, 1 tablespoon
+Swordﬁsh, cooked, 3 ounces
+Salmon (sockeye), cooked, 3 ounces
+Tuna ﬁsh, canned in water, drained, 3 ounces
+Orange juice fortiﬁed with vitamin D, 1 cup (check product labels,
+
+as amount of added vitamin D varies)
+
+Milk, nonfat, reduced fat, and whole, vitamin D-fortiﬁed, 1 cup
+Yogurt, fortiﬁed with 20% of the DV for vitamin D, 6 ounces
+Margarine, fortiﬁed, 1 tablespoon
+Sardines, canned in oil, drained, 2 sardines
+Liver, beef, cooked, 3 ounces
+Egg, 1 large (vitamin D is found in yolk)
+Ready-to-eat cereal, fortiﬁed with 10% of the DV for vitamin D,
+
+0.75-1 cup (more heavily fortiﬁed cereals might provide more
+of the DV)
+
+Cheese, Swiss, 1 ounce
+
+1,360
+566
+447
+154
+137
+
+115-124
+80
+60
+46
+42
+41
+40
+
+6
+
+340
+142
+112
+39
+34
+
+29-31
+20
+15
+12
+11
+10
+10
+
+2
+
+
+
+Notes:
+
+DVs were developed by the U.S. Food and Drug Administration to help consumers compare the nutrient contents among products within the context of a total
+
+daily diet. The DV for vitamin D is currently set at 400 IU for adults and children age 4 and older.
+
+CRITICAL REVIEWS IN FOOD SCIENCE AND NUTRITION
+
+2625
+
+Table 2. Recommended Dietary Allowances (RDAs) for Vitamin D (Institute of
+Medicine, Food and Nutrition Board, 2010).
+
+Age
+
+Male
+
+Female
+
+Pregnancy
+
+Lactation
+
+400 IU (10 mg) 400 IU (10 mg)
+Below 1 year
+1–13 years
+600 IU (15 mg) 600 IU (15 mg)
+14–18 years
+600 IU (15 mg) 600 IU (15 mg) 600 IU (15 mg) 600 IU (15 mg)
+19–50 years
+600 IU (15 mg) 600 IU (15 mg) 600 IU (15 mg) 600 IU (15 mg)
+51–70 years
+600 IU (15 mg) 600 IU (15 mg)
+Above 70 years 800 IU (20 mg) 800 IU (20 mg)
+
+
+
+as well except that, in this case rice-shaped simulated kernels
+are produced by passing the dough through a simple pasta
+C. Coating combines the for-
+press at a temperature below 70
+tiﬁcant mix with ingredients such as waxes and gums. The mix-
+ture is sprayed over the surface of grain kernels in several layers
+to form the rice-premix and then is blended with polished rice.
+Dusting involves sprinkling the polished rice grains with the
+powder form of the micronutrient premix (Alavi et al., 2008).
+
+Notes:
+
+The biological activity of 40 International units (IU) of vitamin D is equal to
+
+
+
+1 mg (microgram).
+
+Vitamin D fortiﬁed milk
+Milk and milk products are preferred vehicles to fortify with
+vitamin D all over the world. Prior to fortiﬁcation of milk with
+this fat-soluble vitamin, homogenization should be done to
+achieve a uniform distribution of added vitamin D throughout.
+India is the largest producer of milk in the world. Fortiﬁcation
+of milk with vitamin D could aid in correcting vitamin D deﬁ-
+ciency in Indian population. However, major hindrances to its
+proper use are milk adulteration and high prevalence of lactose
+intolerance in the tropical population (Ritu and Gupta, 2014).
+
+Vitamin D cereal ﬂour
+Bread made up of ﬂour is one of the staple foods consumed all
+over the world. Various cereals may be used to make ﬂours viz.
+wheat, corn, millet, sorghum/milo, barley etc. Fortiﬁcation of
+ﬂour with vitamin D is a very viable fortiﬁcation vehicle.
+Promising results have been obtained regarding technological
+feasibility and bioavailability of vitamin D in fortiﬁed wheat
+ﬂour (Natri et al., 2006; Mocanu et al., 2009; Madsen et al.,
+2013). Notably, bread fortiﬁed with 5000 IU of vitamin D3 per
+daily serving consumed by sun-deprived nursing home resi-
+dents in Romania demonstrated both the efﬁcacy and safety of
+wheat ﬂour fortiﬁcation. Fortiﬁcation of bread resulted in
+higher serum concentrations of vitamin D (>30 ng/mL) and
+signiﬁcantly increased bone density (Mocanu et al., 2009).
+
+Vitamin D fortiﬁed reﬁned ﬂour
+Reﬁned wheat ﬂour is widely used in bakeries for the
+manufacturing of cakes, pastries, biscuits, etc. Its fortiﬁcation
+may have a signiﬁcant contribution in the improvement of the
+vitamin D status of the general population. However, most of
+the vitamin losses occur during baking at temperatures over
+200
+C. But the temperature inside the product is signiﬁcantly
+lower, so the thermal degradation of vitamin D would be within
+an acceptable range (Ritu and Gupta, 2014).
+
+
+
+Vitamin D fortiﬁed rice
+Rice is the most widely consumed staple food in the tropical
+world. Important fortiﬁcation strategies in rice include hot and
+cold extrusion, coating and dusting (Alavi et al., 2008). In hot
+extrusion technique, dough made of rice ﬂour, a fortiﬁcant
+mix, and water is passed through an extruder where it is cut
+into grain-like structures that resemble rice kernels. This pro-
+
+cess involves relatively high temperatures (70–110
+C). It results
+in fully or partially pre-cooked simulated rice kernels that have
+similar appearance (sheen and transparency) as regular rice
+kernels. Similar steps are followed in cold extrusion technique
+
+Vitamin D fortiﬁed cooking oils and spreads like butter
+and ghee
+Fats, margarine, and cooking oils are attractive fortiﬁcation
+vehicles for vitamin D all over the world owing its fat soluble
+nature (Calvo et al., 2013; Yang et al., 2013). Fortiﬁcation of
+margarine with vitamin D is mandatory in Canada and
+optional in the USA (Calvo et al., 2013). Cooking oils are not
+fortiﬁed in the USA and Canada (Calvo et al., 2004). However,
+frying consumables in vitamin D fortiﬁed fats may result in
+loss of about 50% of vitamin D (Lu et al., 2007) so cooking with
+very little oil
+i.e., baking or broiling (oil-free)
+instead of frying (shallow or deep). However, overconsumption
+of these products may exacerbate other health issues related to
+metabolic syndrome.
+
+is advisable,
+
+Anti-cancer effect of vitamin D
+
+Vitamin D not only regulates calcium and phosphate metabo-
+lism, but its antimitotic and cell differentiation effects have also
+been recently documented. It can inhibit cell-proliferation,
+neo-angiogenesis and metastatic potential in cancerous tissue.
+Vitamin D deﬁciency has also been associated with higher
+aggressiveness of tumor and poor prognosis. Although clinical
+studies showing beneﬁt of vitamin D supplementation on
+cancer outcome are absent, clear
+recommendations are
+currently available for treatment of vitamin D deﬁciency during
+anti-cancer therapy. Owing to the high prevalence of vitamin D
+insufﬁciency in cancer patients and signiﬁcant risks of its
+further decrease after antitumor therapy,
+it should become
+standard of care to examine 25- hydroxyl cholecalciferol serum
+levels and correct vitamin D insufﬁciency in cancer patients
+(Tomiska et al., 2015). Calcitriol, the active form of vitamin D,
+is known to inhibit the proliferation and invasiveness of many
+types of cancer cells,
+including breast, colon, pancreatic,
+prostate, and liver cancer cells. Several vitamin D analogues
+that are less calcemic but exhibit more potent anti-tumor
+activity have also been recommended as good candidates for
+anti-cancer therapy (Matsumoto et al., 2015).
+
+Many studies have revealed a link between vitamin D and
+breast cancer as well. Women with breast cancer tend to have
+low levels of vitamin D in their body. Studies reveal that
+maintaining an optimal 25 hydroxy cholecalciferol status at
+diagnosis and during the one-year
+follow-up period is
+important for improving breast cancer patient survival (Lim
+et al., 2015). Vitamin D receptors in breast tissue, upon binding
+with vitamin D, triggers apoptosis in cancerous cells and
+prevent metastasis (Rose et al., 2013). However, the relationship
+between breast cancer and vitamin D is complex, not fully
+understood, and is still being studied (Wang et al., 2013). Some
+studies found that women with low levels of vitamin D are
+
+2626
+
+B. V. SUNIL KUMAR ET AL.
+
+more likely to develop breast cancer. A recent review of many
+studies found that post-menopausal women with low levels of
+vitamin D had a higher risk of getting breast cancer compared
+to post-menopausal women with high levels of vitamin D
+(Bauer et al., 2013). In a dose–response relationship study, it
+has been found that increased vitamin D levels in the body
+decreases breast cancer risk (Bauer et al., 2013).
+
+However, most prevention studies on vitamin D and cancer
+have been observational. No studies have been undertaken for
+treating cancer patients with vitamin D. Some studies have
+shown that there is a link between vitamin D levels and
+recurrence of breast cancer, tumor size, and death from breast
+cancer. Studies indicate that women with breast cancer who
+had low vitamin D levels had a more than doubled risk of
+cancer relapse and an almost doubled risk of death compared
+to women with high vitamin D levels.
+
+There is a growing amount of observational research that
+shows a protective anti-cancer effect of vitamin D (Goodwin
+et al., 2009; Rose et al., 2013). A study was conducted in USA
+on a large group of women who received calcium (1,000 mg)
+plus vitamin D (400 IU) supplement or a dummy pill for
+7 years. After almost 5 years of supplementation, women who
+were in the calcium plus vitamin D group had an 18% lower
+risk of developing early stage breast cancer (Cauley et al.,
+2013). In a different experiment, a vitamin D (1,000 IU) plus
+calcium (1,400–1,500 mg) supplementation was found to
+reduce the incidence of any kind of cancer after 4 years of
+supplementation (Chlebowski et al., 2008)
+
+Another study found that post-menopausal women with
+higher vitamin D levels had a 12% lower chance of developing
+breast cancer than post-menopausal women with low vitamin
+D levels. However, a threshold effect was observed with no
+additional decrease in breast cancer risk when the women had
+vitamin D levels above 35 ng/mL (Bauer et al., 2013).
+
+Molecular mechanisms underlying anti-cancer effect
+of vitamin D
+
+).
+
+It
+
+Calcitriol has emerged in recent years as a promising agent with
+anti-cancer properties (Feldman et al., 1995; Miller, 1998;
+Konety and Getzenberg, 2002; Krishnan et al., 2005; Moreno
+et al., 2005;
+is an important regulator of calcium
+homeostasis and bone metabolism through its actions in
+intestine, bone, kidney, and the parathyroid glands (Moreno
+et al., 2005). In addition to these classical actions, calcitriol also
+exerts anti-proliferative and pro-differentiating effects in a
+number of tumors and malignant cells raising the possibility of
+its use as an anti-cancer agent. The effects of this fat-soluble
+vitamin are varied, appear to be cell-speciﬁc, and result in
+growth arrest and stimulation of apoptosis (Fig. 1).
+
+Effect of vitamin D on cell proliferation and apoptosis
+Regulation of the cell cycle is mediated by a complex network
+of interlinked regulators that govern cellular proliferation in an
+orchestral
+fashion. These regulators include proteins like
+cyclins and their association with enzymes known as cyclin
+dependent kinases (CDKs) and CDK inhibitors (CKIs). Tumor
+progression occurs when the rate of cell proliferation exceeds
+that of cell death. Cell death can occur either by necrosis (the
+
+Figure 1. Anti-cancer effect of vitamin D.
+
+result of tissue insult or injury), or active cell death (apoptosis),
+an energy-dependent process in which a distinct series of
+biochemical and molecular events lead to the death of cells by
+speciﬁc signals (Wyllie, 1987). The signiﬁcance of apoptosis in
+cancer research is emphasized by the recognition that many
+chemotherapeutic agents induce tumor regression through
+their ability to activate apoptosis.
+
+Cell-cycle perturbation is central to calcitriol-mediated anti-
+proliferative activity in tumour cells. Vitamin D may exert
+growth inhibitory effects through repression of different key
+molecules involved in cell-cycle regulation. Calcitriol treatment
+of human breast cancer cell line MCF-7 was found to repress
+c-Myc, a known proto-oncogene in the cell-cycle regulatory
+machinery (Jensen et al., 2001). Calcitriol can also suppress
+expression of few oncogenes thereby increasing expression of
+their antagonists in the signaling pathway (Washington et al.,
+2011; Meyer et al., 2012; Salehi-Tabar et al., 2012). When
+ovarian cancer cells were treated with calcitriol, cell cycle was
+found to be arrested in G(1) phase through down-regulation of
+cyclin E/cyclin-dependent kinase 2 (Li et al., 2004). Collectively,
+these studies conﬁrm that active form of vitamin D can
+suppress cell proliferation through inhibitory effects on several
+regulators in the network of cell-cycle control machinery.
+
+In addition to the anti-proliferative effects of vitamin D3,
+there is increasing evidence of
+its anti-tumour effects by
+regulating key mediators of apoptosis, such as repressing the
+expression of the anti-apoptotic proteins BCL2 and BCL-XL, or
+inducing the expression of pro-apoptotic proteins (such as
+BAX, BAK and BAD) (Deeb et al., 2007). Vitamin D treatment
+has also been found to induce p53 independent apoptosis in
+vitro, It also increases levels of the pro-apoptotic protein, Bak
+(a member of the BCl-2 gene family), in many cell lines. In rat
+glioma cell lines, vitamin D treatment induced apoptosis via
+DNA fragmentation and upregulation of p53 genes (Baudet
+et al., 1996). In prostate cancer cell lines, vitamin D treatment
+inhibited cyclin-dependent kinase 2 activity and induced G0/
+G1 cell cycle arrest (Bao et al., 2004). Therefore, several lines of
+evidence from in vitro studies support the role of vitamin D in
+promoting cell-cycle arrest and promoting apoptosis
+in
+malignant transformed cells.
+
+Effect of vitamin D on oxidative stress and angiogenesis
+Tumor progression is often accompanied with changes in the
+normal physiology of
+including production of
+
+the cells
+
+free-radicals that may induce oxidative stress in vivo. Oxidative
+stress can induce DNA damage and loss of DNA-repair ability
+(Valko et al., 2007). Vitamin D activates cellular signaling
+cascades that reduce thioredoxin and promote antioxidant
+responses, induce mRNA expression of superoxide dismutase
+and downregulates glutathione levels by increasing glucose-6-
+phosphate dehydrogenase expression (Bao et al., 2008; Fleet
+et al., 2012).
+
+Neo-angiogenesis is a requisite for survival of cells in tumor
+micro-environment, as the growing tumor mass requires more
+oxygen supply. Cancer progression often induces hypoxia
+which in turn promotes hypoxia-inducible factor 1 (HIF-1)-
+dependent angiogenesis essential
+for tumor growth (Losso
+et al., 2005). Vitamin D3 has been found to inhibit cellular neo-
+angiogenesis in several cancer cell
+lines. Upon addition of
+vitamin D3 to the androgen-insensitive prostate cancer cell
+line, their proliferation both in normoxia and in hypoxic
+environments (that resemble those in cancer tissues) was found
+to decrease. Vitamin D3 has also been found to inhibit
+secretion of vascular endothelial growth factor (VEGF) in
+breast cancer cell
+line. Furthermore, vitamin D treatment
+downregulates endothelin 1 (ET-1) and glucose transporter 1
+(Glut-1) that are essential
+for inducing angiogenesis. This
+molecular effect is mediated via signiﬁcant downregulation of
+HIF-1 transcription and translation (Ben-Shoshan et al., 2007).
+
+Vitamin D receptor and cancer
+Besides its other physiological roles, vitamin D acts in an
+intracrine or autocrine manner and stimulates the transcription
+of multiple genes involved in cellular differentiation via binding
+to its receptor VDR, a nuclear transcriptional factor which
+belongs to the super family of steroid/thyroid hormone
+receptors,
+and expressed
+ubiquitously in most body tissues as well as on cancerous cells
+(Townsend et al., 2005; Bertone-Johnson, 2009).
+
+located in the
+
+cell nucleus
+
+It has been hypothesized that a less active VDR could be
+associated with either an increased susceptibility to cancer risk
+or a more aggressive disease. A decrease in VDR protein
+expression, due to a functional impairment, may be inﬂuenced
+by the polymorphism in the VDR gene. Thus, polymorphisms
+in the VDR gene may be involved in the development and or
+progression of certain kinds of tumors (Chan et al., 2000; Xu
+et al., 2003; Iqbal et al., 2015; Pulito et al., 2015). It has been
+previously demonstrated that VDR expression is reduced in
+cancer cells (Lopes et al., 2010), which may be inﬂuenced by
+polymorphisms within the gene and increase breast cancer
+incidence (Tang et al., 2009).
+
+Vitamin D catabolism and cancer
+Calcitriol is synthesized from vitamin D in a highly regulated
+cascade. First, vitamin D3 (cholecalciferol) is formed in the
+skin through the action of ultraviolet irradiation. Vitamin D3
+then gets converted to 25-hydroxycholecalciferol [25(OH)D3]
+by liver mitochondrial and microsomal enzyme (25-hydroxy-
+lases), encoded by the gene CYP27A1. 25(OH)D3 is then
+converted to 1a,25(OH)2D3 (calcitriol) in the kidney by
+mitochondrial
+gene
+CYP27B1). 24-hydroxylation of 25(OH)D3 and calcitriol by
+the cytochrome P450 enzyme 24-hydroxylase, to the metabolites
+
+1a-hydroxylase
+
+(encoded
+
+by
+
+the
+
+CRITICAL REVIEWS IN FOOD SCIENCE AND NUTRITION
+
+2627
+
+24,25(OH)2D3 and 1a,24,25(OH)2D3, respectively, is the rate-
+limiting step for 25(OH)D3 and 1a,25(OH)2D3 catabolism
+(Deeb et al., 2007).
+
+Calcitriol functions in an autocrine and paracrine manner to
+modulate vitamin D function and signaling.
+It represses
+CYP27B1 while induces CYP24A1 to produce the less active
+vitamin D metabolites viz. 1a,24,25(OH)2D3 and 24,25(OH)
+2D3 (Brenza and DeLuca, 2000). 1a-OHase is expressed in
+tissues other than kidneys also such as colon, brain, placenta,
+pancreas,
+lymph nodes, and skin (Zehnder et al., 2001),
+allowing non-renal synthesis of calcitriol. CYP27B1 (encoding
+1a-hydroxylase) is found to be overexpressed in breast and
+prostate cancers (Schwartz et al., 1998; Townsend et al. 2005).
+Increased expression of CYP27B1 in cancer tissues could pro-
+vide local synthesis of calcitriol. However, CYP24A1 (encoding
+24-OHase) is upregulated in tumors, and may counteract calci-
+triol’s anti-proliferative activity, by increasing its catabolism.
+
+Inhibition of CYP24A1 expression and activity is essential
+for cancer prevention. Chemical inhibitors with varying speci-
+ﬁcity for 24-OHase render tumour cells more sensitive to the
+action of calcitriol and its analogues (Peehl et al., 2002; Parise
+et al. 2006). This indicates that calcitriol catabolism could mod-
+ulate tumor growth in some tissues, indicating the potential for
+the development of 24-OHase inhibitors as cancer preventative
+and/or anticancer therapeutic agents (Deeb et al., 2007).
+
+The above-mentioned ﬁndings support that vitamin D can
+effectively be used to prevent cancer. Various epidemiological
+studies indicate that inadequate levels of vitamin D are associ-
+ated with an increased risk and poor prognosis of several types
+of cancer. Meta-analysis and cancer-prevention trials indicate
+that vitamin D supplementation can lower the incidence of
+many cancers including colorectal cancer, breast and prostate
+cancer. However, random studies need to be undertaken to
+optimize effective dose of vitamin D to prevent cancer.
+
+Ascorbic acid (vitamin C)
+
+The consumption of fruit and vegetables exerts a preventive
+effect toward cancer and in recent years natural dietary agents
+have attracted great attention in the scientiﬁc community and
+among the general public. Epidemiological and basic research
+studies have shown that different components present in food
+such as tomatoes, olive oil, broccoli, garlic, onions, berries, soy
+bean, honey,
+tea, aloe vera, grapes, rosemary, basil, chili
+peppers, carrots, pomegranate, and curcuma inhibit pro-prolif-
+erative signals implied in initiation and the progression of
+carcinogenesis, acting on pathways implied in cell proliferation,
+apoptosis and metastasis through their antioxidant, cytotoxic
+and pro-apoptotic properties (Aggarwal and Shishodia, 2006;
+Garavello et al., 2009; Kyle et al., 2010).
+
+Vitamin C (L-ascorbic acid), is a water-soluble vitamin that
+is naturally present
+in some foods, added to others, and
+available as a dietary supplement. Humans, unlike most
+animals, are unable to synthesize vitamin C endogenously, so it
+is an essential dietary component (Li and Schellhorn, 2007).
+Ascorbic acid is required for the biosynthesis of collagen, an
+essential component of connective tissue, which plays a vital
+role in wound healing (Carr and Frei, 1999). Insufﬁcient
+vitamin C intake causes scurvy, which is characterized by
+
+2628
+
+B. V. SUNIL KUMAR ET AL.
+
+widespread connective tissue weakness, poor wound healing,
+hyperkeratosis, bleeding gums, and loosening or loss of teeth
+due to tissue and capillary fragility (Stephen and Utecht 2001;
+Weinstein et al. 2000). Deﬁciency symptoms appear only if
+vitamin C intake falls below approximately 10 mg/day for
+many weeks (Wang and Still 2007). Vitamin C deﬁciency is
+uncommon in developed countries but can still occur in people
+with limited food variety.
+
+Recommended intakes of ascorbic acid
+
+Results from pharmacokinetic studies indicate that oral doses
+of 1.25 g/day ascorbic acid produce mean peak plasma vitamin
+C concentrations of 135 micromol/L, which are about two
+times higher than those produced by consuming 200–300 mg/
+day ascorbic acid from vitamin C-rich foods. Pharmacokinetic
+modeling predicts that even doses as high as 3 g ascorbic acid
+taken every 4 hours would produce peak plasma concentrations
+of only 220 micromol/L (Padayatty et al., 2004).
+
+Intake recommendations for vitamin C is provided in the
+Dietary Reference Intakes (DRIs) developed by the Food and
+Nutrition Board (FNB) at the Institute of Medicine (IOM) of
+the National Academies (Institute of Medicine, Food and
+Nutrition Board, 2000). Table 3 lists the current RDAs for
+vitamin C. For infants from birth to 12 months, the FNB
+established an adequate intake (AI) for vitamin C that is
+equivalent to the mean intake of vitamin C in healthy, breastfed
+infants.
+
+Sources of vitamin C
+
+Food
+Vitamin C is widely available in foods of both plant and animal
+origin, but the best sources are fresh fruits and vegetables.
+Vitamin C is found naturally in broccoli, cabbage, potatoes,
+peas, red peppers, brussel sprouts, kale, cauliﬂower, cantaloupe,
+strawberries, mangoes, tangerines, orange, grapefruit, lemons,
+and limes (Table 4). Although it is not naturally present in
+grains, it is added to some fortiﬁed breakfast cereals. However,
+because vitamin C is unstable when exposed to an alkaline
+environment or to oxygen,
+losses may be
+substantial during storage and cooking (Weinstein et al., 2000).
+Steaming or microwaving may
+losses.
+Fortunately, many of the best food sources of vitamin C, such
+as fruits and vegetables, are usually consumed raw. Consuming
+ﬁve varied servings of fruits and vegetables a day can provide
+more than 200 mg of vitamin C.
+
+lessen cooking
+
+light and heat,
+
+Table 3. Recommended Dietary Allowances (RDAs) for Ascorbic acid (Institute of
+Medicine, Food and Nutrition Board, 2000).
+
+Pregnancy
+
+Lactation
+
+Dietary supplements
+Supplements
+typically contain ascorbic acid, which has
+equivalent bioavailability to that of naturally occurring ascorbic
+acid in foods, such as orange juice and broccoli (Gregory, 1993;
+Bates 1997). Other forms of vitamin C supplements include
+sodium ascorbate, calcium ascorbate, other mineral ascorbates,
+ascorbic acid with bioﬂavonoids and combination products,
+such as Ester-CÒ, which contains
+calcium ascorbate,
+dehydroascorbate, calcium threonate, xylonate and lyxonate
+(Gregory, 1993; Bates 1997).
+
+Ascorbate fortiﬁcation in food
+Some cereals and beverages are fortiﬁed with ascorbic acid an
+odorless, white, crystalline compound which is stable in its dry
+form. Vitamin C is often added as a fortiﬁcant to fruit juices,
+fruit-ﬂavored drinks, juice added soda waters, dry cocktails or
+beverages, cereal-based products, and milk. Some juices like
+apple and grapes that are not normally a source of vitamin C
+have vitamin C added to them. Most ready-to-eat cereals are
+also fortiﬁed with vitamin C. There are technologies available
+for vitamin C fortiﬁcation of fruit juices, fruit juice drinks,
+other related beverages, dairy products, and some breakfast
+cereals. For mixing with dry products, particle size and density
+are of course important considerations. A fat-coated form of
+ascorbic acid is also available for enrichment purposes. High
+moisture content (greater than 7%) in the presence of oxygen is
+known to adversely affect the stability of vitamin C in cereals.
+Due to its high water solubility, losses due to leaching can be a
+problem in some processing procedures. In dehydrated citrus
+juices, the degradation is dependent on both temperature and
+water activity. There is a need to develop more stable vitamin C
+compounds and evaluate their use in the fortiﬁcation of a range
+of vehicles.
+
+Since milk is low in iron and vitamin C content,
+
+it is
+desirable to fortify milk with them. Milk composition has been
+found to be improved with the addition of vitamin C, iron, and
+zinc (L€oker et al., 2003). Sharma (2005) studied the stability of
+milk with microencapsulated vitamin C and found that the
+addition of vitamin C @ 30 mg/100 g was appropriate for
+fortiﬁcation, because the acidity of milk did not
+increase
+noticeably and no negative effect on sensory quality was
+observed. In a study evaluating the stability of several forms of
+vitamin C during production and storage of white pan bread,
+the bread fortiﬁed with large crystals of ascorbic acid exhibited
+a higher retention of ascorbic acid by 20% than the bread
+fortiﬁed with small crystals of ascorbic acid or with uncoated
+ascorbic acid (Park et al., 1994). General loss in vitamin C
+content during production of
+is
+approximately 37% (Steele, 1976). Studies have shown that
+encapsulation is the best way of protecting vitamin C. For the
+application in solid food systems (cereals, bread, and biscuits),
+spray-cooling, spray-chilling, and ﬂuidized bed appear to be
+the best form of encapsulation while in liquid food systems,
+liposomes represent the best way (De Zarn, 1995).
+
+ready-to-eat
+
+cereals
+
+Age
+
+0–6 months
+7–12 months
+1–3 years
+4–8 years
+9–13 years
+14–18 years
+19 years and above
+
+Male
+
+
+40 mg
+
+50 mg
+15 mg
+25 mg
+45 mg
+75 mg
+90 mg
+
+Female
+
+
+
+40 mg
+50 mg
+15 mg
+25 mg
+45 mg
+65 mg
+75 mg
+
+
+
+Notes:
+
+Adequate Intake (AI).
+
+80 mg
+85 mg
+
+115 mg
+120 mg
+
+Role of vitamin C in cancer prevention
+
+Metastatic cells proliferate rapidly; therefore, they constantly
+require more energy to cope up with increased metabolism.
+
+Table 4. Selected Food Sources of vitamin C (U.S. Department of Agricultutre, 2011).
+
+S. No.
+
+Food
+
+Milligrams (mg) per serving
+
+
+Percent Daily values
+
+CRITICAL REVIEWS IN FOOD SCIENCE AND NUTRITION
+
+2629
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+
+2 cup
+
+Red pepper, sweet, raw, 1=
+Orange juice, 3/4 cup
+Orange, 1 medium
+Grapefruit juice, 3/4 cup
+Kiwifruit, 1 medium
+Green pepper, sweet, raw, 1=
+Broccoli, cooked, 1=
+Strawberries, fresh, sliced, 1=
+Brussels sprouts, cooked, 1=
+Grapefruit, 1=
+Tomato juice, 3/4 cup
+Cabbage, cooked, 1=
+2 cup
+Cauliﬂower, raw, 1=
+2 cup
+Potato, baked, 1 medium
+Tomato, raw, 1 medium
+
+2 medium
+
+2 cup
+
+2 cup
+
+2 cup
+2 cup
+
+95
+93
+70
+70
+64
+60
+51
+49
+48
+39
+33
+28
+26
+17
+17
+
+158
+155
+117
+117
+107
+100
+85
+82
+80
+65
+55
+47
+43
+28
+28
+
+Notes:
+
+
+
+DV D Daily Value. DVs were developed by the U.S. Food and Drug Administration (FDA) to help consumers compare the nutrient contents of products within the
+context of a total diet. The DV for vitamin C is 60 mg for adults and children aged 4 and older. The FDA requires all food labels to list the percent DV for vitamin C. Foods
+providing 20% or more of the DV are considered to be high sources of a nutrient.
+
+During this course, reactive oxygen species (ROS) are exces-
+sively generated and lead to lipid peroxidation, DNA damage
+and consequently, apoptosis in cells (Azad et al 2010; Scatena
+2012). Hence, oxidative stress is a major apoptotic stimulus in
+cancer cells. However, by contrast, inhibition of oxidative stress
+also shows anticancer effects. Antioxidants exhibit a wide
+variety of biological functions, including apoptosis induction,
+growth arrest, and inhibition of DNA synthesis (Di Domenico
+2012; Hu 2011). Therefore,
+targeting the oxidative stress
+pathways through induction or inhibition, the generation of
+ROS may enhance the pro-apoptotic machinery of cancer cells
+and offer a novel strategy for treatment (Fig. 2).
+
+Epidemiologic evidence suggests that higher consumption of
+fruits and vegetables is associated with lower risk of most types
+of cancer, perhaps, in part, due to their high vitamin C content
+(Carr and Frei, 1999; Li and Schellhorn, 2007). Vitamin C can
+limit the formation of carcinogens, such as nitrosamines (Hecht
+1997), in vivo; modulate immune response (Carr and Frei,
+1999); and, through its antioxidant function, possibly attenuate
+oxidative damage that can lead to cancer. Most case–control
+studies have found an inverse association between dietary
+vitamin C intake and cancers of the lung, breast, colon or
+rectum, stomach, oral cavity, larynx or pharynx, and esophagus
+(Jacob and Sotoudeh, 2002).
+
+It has been found that high-dose vitamin C has beneﬁcial
+effects on quality of life and survival time in patients with
+terminal cancer (Cameron and Pauling, 1976). Holly et al.
+(2014) suggested that dietary vitamin C intake was also
+statistically signiﬁcantly associated with a reduced risk of total
+mortality and breast cancer speciﬁc mortality. In recent years,
+the use of natural dietary antioxidants to minimize the
+cytotoxicity and the damage induced in normal tissues by
+antitumor agents is gaining consideration. Vitamin C has been
+shown to enhance the MTZ effect allowing the utilization of
+lower chemotherapic concentrations in comparison to the
+single treatments (Guerriero et al., 2014).
+
+that
+
+usually
+
+vitamin C supplementation,
+
+However, evidence from prospective cohort studies is
+inconsistent, possibly due to varying intakes of vitamin C
+among studies. Evidence from some randomized clinical trials
+suggests
+in
+combination with other micronutrients, does not affect cancer
+risk. At this time, the evidence is inconsistent on whether
+dietary vitamin C intake affects cancer risk. A substantial
+limitation in interpreting many of
+these studies is that
+investigators did not measure vitamin C concentrations before
+or after supplementation. At daily intakes of 100 mg or higher,
+cells appear to be saturated and at intakes of at least 200 mg,
+plasma concentrations increase only marginally (Taylor et al.,
+1994). If subjects’ vitamin C levels were already close to satura-
+tion at study entry, supplementation would be expected to have
+made little or no difference on measured outcomes (Padayatty
+and Levine, 2006).
+
+Emerging research suggests that the route of vitamin C
+could explain the
+administration (intravenous vs. oral)
+conﬂicting ﬁndings (Bruno et al., 2006). Oral administration of
+vitamin C, even of very large doses, can raise plasma vitamin C
+concentrations to a maximum of only 220 micromol/L, whereas
+IV administration can produce plasma concentrations as high
+as 26,000 micromol/L (Hoffer et al., 2008). Concentrations of
+this magnitude are selectively cytotoxic to tumor cells in vitro
+(Li and Schellhorn, 2007). Research in mice suggests that
+pharmacologic doses of IV vitamin C might show promise in
+treating otherwise difﬁcult-to-treat tumors and a high concen-
+tration of vitamin C may act as a pro-oxidant and generate
+
+Figure 2. Anti-cancer effect of ascorbic acid.
+
+2630
+
+B. V. SUNIL KUMAR ET AL.
+
+hydrogen peroxide that has selective toxicity toward cancer
+cells (Chen et al., 2008).
+
+Anticancer mechanisms of ascorbic acid
+
+Anti-oxidant activity
+Ascorbate is an important physiological antioxidant, very
+strong radical scavenger and has been shown to regenerate
+other antioxidants within the body, including alphatocopherol
+(vitamin E) (Jacob and Sotoudeh, 2002). Vitamin C reduces
+unstable oxygen, nitrogen, and sulfur radicals. In studies with
+human plasma, vitamin C protected plasma lipids against
+peroxidative damage induced by aqueous peroxyl radicals
+(Vandenberg et al 1990).
+
+activity, might help prevent
+
+Ongoing research is examining whether vitamin C, by
+free radicals through its
+limiting the damaging effects of
+antioxidant
+the
+development of certain cancers and other diseases in which
+oxidative stress plays a crucial role. Vitamin C may act
+synergetically with tocopherol (vitamin E), the principal
+lipid
+soluble antioxidant (Niki, 1991). It reduces nitrates and prevents
+the formation of carcinogenic nitrosamines (Burton et al., 1990).
+
+or delay
+
+Pro-oxidant property
+Vitamin C possesses antioxidant activity, but it has cytotoxic
+(Gonzalez et al., 1998;
+activity at higher concentrations
+Yamamoto et al., 1987). High-dose ascorbate bears cytotoxic
+effects on cancer cells in vitro and in vivo, making ascorbate a
+pro-oxidative
+peroxide
+production in tissues instead of acting as a radical scavenger
+(Chen et al., 2005; Du et al., 2010).
+
+hydrogen
+
+drug
+
+that
+
+catalyzes
+
+Vitamin C can generate hydrogen peroxide upon oxidation
+which is enhanced by divalent cations such as iron and copper
+(Jonas et al., 1989). Hydrogen peroxide and its derivatives can
+compromise cell viability mainly by damaging the cell
+membranes and mitochondria. These oxidative reactions are
+limited in healthy organisms because most metal
+ions are
+bound to proteins in serum, which makes them unavailable to
+enhance the pro-oxidant activity of Vitamin C, while in
+malignancy, these ions are readily available (Gutteridge et al.,
+1980). These reactive species are capable of inducing multiple
+negative cellular effects such as DNA strand breaks, disruption
+of membrane function via lipid peroxidation, and depletion of
+cellular ATP (Gonzalez et al., 1992).
+
+capacity or
+
+Vitamin C mediated hydrogen peroxide generation is
+inhibited by serum due to certain proteins such as albumin and
+glutathione with antioxidant
+catalase, which
+decomposes hydrogen peroxide. Other antioxidant enzymes
+including glutathione peroxidase and superoxide dismutase
+complement the catalase enzymatic function (Sunil Kumar et al.,
+2010). Cellular damage through the accumulation of hydrogen
+peroxide and decreased levels of antioxidant enzymes like cata-
+lase, superoxide dismutase, and glutathione peroxidase have been
+presumed to be responsible for the selective toxicity of vitamin C
+in malignant cells (Powers et al., 1994; Riordan et al., 1995).
+
+Vitamin C oxidation products
+Furthermore, degradation products of ascorbic acid, such as
+dehydroascorbic acid, 2,3- diketogulonic acid, and 5-methyl 1-
+
+3,4-dehydroxytetrone, have demonstrated antitumor activity
+(Tsao et al., 1988; Tsao et al., 1989; Leung et al., 1993, ). These
+vitamin C oxidation products and/or metabolic by-products
+have a function in controlling mitotic activity. Dehydroascorbic
+acid mediates its anti-tumor activity by preventing cell division
+through inhibiting protein synthesis at the ribosomal level and
+its prolonged exposure may cause irreparable damage resulting
+ultimately in complete lysis of the cells (Grad et al., 2001).
+
+for
+
+requirement
+
+Vitamin C and intracellular matrix
+Ascorbic acid levels in cancer patients are signiﬁcantly reduced
+suggesting an increase
+its anti-tumour
+mechanisms. Its deﬁciency causes generalized tissue disintegra-
+tion involving the dissolution of intercellular ground substance
+and disruption of collagen bundles (Kennedy, 1976). The
+stromal resistance may be a physical line of defense against
+cancer by encapsulating neoplastic cells with a dense ﬁbrous
+tissue. This feature can be enhanced by high doses of vitamin
+C. The amount of collagen present determines the strength of
+the tissue and also its resistance to malignant inﬁltration.
+
+Inhibition of matrix metelloproteinases
+Matrix metalloproteinases (MMPs) are a family of zinc-
+dependent endopeptidases, which can degrade the major
+components of Extra Cellular Matrix (ECM). Many reports
+have shown that ECM degrading enzymes, including MMPs,
+play a pivotal role in tumor invasion and metastasis (Sunil
+Kumar et al., 2013b). A recent review suggested that MMP
+inhibitors have strong effects at the tumor promotion stage that
+may be, in part, associated with the inhibition of the expression
+of enzymes related to inﬂammation, such as COX-2 and iNOS,
+as well as angiogenic factors. Vitamin C downregulates MMP-2
+expression/activity in human amnion cultured cells, and the
+regulatory effect is exerted at the transcriptional level (Pfeffer
+et al., 1998).
+
+Apoptosis-inducing activity
+Vitamin C is known for its effective antioxidant potential under
+normal conditions (Padayatty et al., 2003; Sunil Kumar et al.,
+2010). However, it has also been found that at higher doses,
+vitamin C acts as a pro-oxidant, generating H2O2-dependent
+cytotoxicity in a variety of cancer cells in vitro and in vivo
+without adversely affecting normal cells (Chen et al., 2005;
+Chen et al., 2008). Some studies have shown that ascorbic acid
+in combination with other vitamins exert necrosis like cell
+death independent of caspase-3, with a minor percentage of
+cell displaying mitochondrial depolarisation and DNA
+fragmentation (Verrax et al., 2005). However, the necrosis
+inducing action is due to ascorbate alone or the combination
+with other micro nutrients is not fully understood. Yet, the
+mechanism by which vitamin C-induces apoptosis in vitro is
+also not yet fully established. Few studies have reported that
+Vitamin C induces apoptosis in vitro through endoplasmic
+reticulum stress and mitochondrial pathway. In-vitro vitamin
+C treatment is found to increase expression of pro-apoptotic
+protein, Bax and tumor suppressor gene product, p53, which
+usually brings about apoptosis (Kim et al., 2007).
+
+Anti-angiogenic effect
+Angiogenesis involves formation of new blood vessels in both
+normal and cancerous tissues. Pathological angiogenesis is
+characterized by persistent proliferation of endothelial cells and
+blood vessel
+formation. This complex process plays an
+important role in tumor growth, invasion, and metastasis. In
+addition, circulating endothelial progenitor cells are involved in
+the development of vasculature, and many tumors are
+associated with
+cell
+inﬁltration (Conejo-Garcia et al., 2004; Direkze et al., 2004).
+High concentration of ascorbic acid has been found to suppress
+of angiogenesis in cancer models (Peyman et al., 2007). Varied
+effects of ascorbic acid supplementation on angiogenesis have
+been reported (Mikirova et al., 2008). High concentrations of
+ascorbic acid alter
+the metabolic activity of endothelial
+progenitor cells by decreasing the ATP levels. This further
+prevents
+signiﬁcant endothelial cell proliferation thereby
+suppressing angiogenesis (Mikirova et al., 2008).
+
+bone marrow-derived
+
+endothelial
+
+At higher concentrations, vitamin C has been found to limit
+angiogenesis by inhibiting production of nitric oxide (NO), an
+important promoter of tumor angiogenesis. As endothelial NO
+formation depends on the presence of intracellular cofactors
+such as: NADPH, FAD, FMN, and tetrahydrobiopterin (BH4),
+it
+suggested that excessive ascorbate can change the
+oxidation–reduction status inside the cells. This could decrease
+the availability of nitric oxide,
+through the formation of
+peroxynitrite (Mikirova et al., 2008).
+
+is
+
+Other mechanisms
+Vitamin C in high concentrations inhibits prostaglandins of the
+2-series (arachidonic acid derived), which have been correlated
+with inﬂammation and increased cell proliferation (Beetens
+and Hermen, 1983). Inhibition of cell growth is also associated
+with the activation of transcription factor NF-kappa B by
+vitamin C (Mu~noz et al., 1997). Ascorbic acid along with
+vitamin K has been suggested to cause profound perturbations
+of cytoskeleton and membranes that ultimately kill the cells by
+a form of cell death (autoschizis) that is distinct from apoptosis,
+oncosis, or necrosis (Gilloteaux et al., 1998, 2001).
+
+Large amounts of vitamin C intake may deplete the levels of
+certain amino acids in body ﬂuids making these unavailable for
+rapidly growing tumors (Riordan et al., 2000; Casciari et al.,
+2001). Ascorbate is essential for immunoglobulin synthesis,
+active phagocytosis, and also been shown to enhance interferon
+production (Goetzl et al., 1974; Siegel et al., 1975).
+
+Conclusion
+
+The data described above support the exploration of vitamin D
+and ascorbic acid supplementation as approaches for cancer
+prevention and treatment. Various
+epidemiological data
+indicate that deﬁciency of these micronutrients is associated
+with an increased risk and poor prognosis of several types of
+cancer. Both these vitamins have prominent anti-proliferative,
+anti-angiogenic, pro-apoptotic, and pro-differentiative effects
+in a broad range of cancers. Several clinical trials indicate that
+the administration of high-dose ascorbate and vitamin D
+analogs is safe and feasible. However, more extensive random-
+ized controlled trials of these micronutrients’ supplementation,
+
+CRITICAL REVIEWS IN FOOD SCIENCE AND NUTRITION
+
+2631
+
+alone and in combination with cytotoxic and other anticancer
+agents, need to be conducted before making necessary
+recommendations as dietary supplements.
+
+References
+
+Aggarwal, B. B. and Shishodia, S. (2006). Molecular targets of dietary agents
+for prevention and therapy of cancer. Biochemical Pharmacology.
+71:1397–421.
+
+Alavi, S., Bugusu, B., Cramer, G., Dary, O., Lee, T., Martin, L., McEntire, J.
+and Wailes, E. (2008). Rice Fortiﬁcation in Developing Countries: A
+Critical Review of the Technical and Economic Feasibility. Available
+from http://pdf.usaid.gov/pdf_docs/PNACD279.pdf
+
+Anand, P., Kunnumakkara, A. B., Kunnumakara, A. B., Sundaram, C.,
+Harikumar, K. B., Tharakan, S. T., Lai, O. S., Sung, B. and Aggarwal, B.
+B. (2008). Cancer is a preventable disease that requires major lifestyle
+changes. Pharmaceutical Research. 25(9):2097–2116.
+
+Azad, N., Iyer, A, Vallyathan, V., Wang, L., Castranova, V., Stehlik, C. and
+Rojanasakul, Y. (2010). Role of oxidative/nitrosative stressmediated
+Bcl2 regulation in apoptosis and malignant transformation. Annals of
+the New York Academy of Sciences. 1203:1–6.
+
+Bao, B. Y., Hu, Y. C., Ting, H. J. and Lee, Y. F. (2004). Androgen signaling
+is required for the vitamin D-mediated growth inhibition in human
+prostate cancer cells. Oncogene. 23:3350–3360.
+
+Bao, B. Y., Ting, H. J., Hsu, J. W. and Lee, Y. F. (2008). Protective role of 1
+alpha, 25-dihydroxyvitamin D3 against oxidative stress in nonmalig-
+nant human prostate epithelial cells. International Journal of Cancer.
+122:2699–2706.
+
+Bates, C. J. (1997). Bioavailability of vitamin C. European Journal of
+
+Clinical Nutrition. 51(Suppl 1):S28–33.
+
+Baudet, C., Chevalier, G., Chassevent, A., Canova, C., Filmon, R., Larra, F.,
+Brachet, P. and Wion, D. (1996). 1,25-Dihydroxyvitamin D3 induces
+programmed cell death in a rat glioma cell line. Journal of Neuroscience
+Research. 46:540–550.
+
+Bauer, S. R., Hankinson, S. E., Bertone-Johnson, E. R. and Ding, E. L.
+(2013). Plasma vitamin D levels, menopause, and risk of brast cancer:
+Dose–response meta-analysis
+studies. Medicine
+(Baltimore). 92(3):123–131.
+
+of prospective
+
+Beaglehole, R., Bonita, R. and Magnusson, R. (2011). Global cancer
+prevention: An important pathway to global health and development.
+Public Health. 125:821–831.
+
+Beetens, J. R. and Hermen, A. G. (1983). Ascorbic acid and Prostaglandin
+formation. International Journal for Vitamin and Nutrition Research.
+24(Suppl):131s–44s.
+
+Ben-Shoshan, M., Amir, S., Dang, D.T., Dang, L.H., Weisman, Y. and
+Mabjeesh, N.J. (2007). 1alpha,25- Dihydroxyvitamin D3 (calcitriol)
+inhibits hypoxia-inducible factor-1/vascular endothelial growth factor
+pathway in human cancer cells. Molecular Cancer Therapeutics.
+6:1433–1439.
+
+Bertone-Johnson, E. R. (2009). Vitamin D and breast cancer. Annals of
+
+Epidemiology. 19:462–467.
+
+Bishayee, A., Haskell, Y., Do, C., Siveen, K. S., Mohandas, N., Sethi, G. and
+Stoner, G. D. (2015). Potential Beneﬁts of Edible Berries in the Man-
+agement of Aerodigestive and Gastrointestinal Tract Cancers: Preclini-
+cal and Clinical Evidence. Critical Reviews in Food Science and
+Nutrition. DOI: 10.1080/10408398.2014.982243.
+
+Brenza, H. L. and DeLuca, H. F. (2000). Regulation of 25- hydroxyvitamin
+D3 1a-hydroxylase gene expression by parathyroid hormone and 1,
+25-dihydroxyvitamin D3. Archives of Biochemistry and Biophysics.
+381:143–152
+
+Bruno, E. J. Jr, Ziegenfuss, T. N. and Landis, J. (2006). Vitamin C: Research
+
+update. Current Sports Medicine Reports. 5:177–81.
+
+Burton, G. W., Wronska, U. and Stone, L. (1990). Biokinetics of die-
+tary RRR-OC-tocopherol in the male guinea pig at three dietary
+levels of vitamin C does not spare vitamin E in vivo. Lipids.
+25:199–210.
+
+Calvo, M. S. and Whiting, S. J. (2013). Survey of current vitamin D food
+fortiﬁcation practices in the United States and Canada. The Journal of
+Steroid Biochemistry and Molecular Biology. 136:211–213.
+
+2632
+
+B. V. SUNIL KUMAR ET AL.
+
+Calvo, M. S., Whiting, S. J. and Barton, C. N. (2004). Vitamin D fortiﬁca-
+tion in the United States and Canada: Current status and data needs.
+The American Journal of Clinical Nutrition. 80:1710S–1716S.
+
+Cameron, E. and Pauling, L. (1976). Supplemental ascorbate in the
+supportive treatment of cancer: Prolongation of survival times in termi-
+nal human cancer. Proceedings of National Academy of Sciences USA.
+73:3685–3689.
+
+Cameron, E. and Pauling, L. (1973). Ascorbic acid and the glycosaminogly-
+can: An orthomolecular approach to cancer and other diseases.
+Oncology. 27:181–92.
+
+Cancer Fact sheet. World Health Organization (2014). Retrieved 10 June
+
+2014.
+
+Carr, A. C. and Frei, B. (1999). Toward a new recommended dietary
+allowance for vitamin C based on antioxidant and health effects in
+humans. The American Journal of Clinical Nutrition. 69:1086–1107.
+
+Casciari, J. J., Riordan, N. H., Schmidt, T. L., Meng, X. L., Jackson, J. A. and
+Riordan, H. D. (2001). Cytotoxicity of ascorbate, lipoic acid and other
+antioxidants in hollow ﬁber in vitro tumours. British Journal of Cancer.
+84:1544–50.
+
+Cauley, J. A., Chlebowski, R. T., Wactawski-Wende, J., Robbins, J. A.,
+Rodabough, R. J., Chen, Z., Johnson, K. C., O’sullivan, M. J., Jackson,
+R. D. and Manson, J. E. (2013). Calcium plus vitamin D supplementa-
+tion and health outcomes ﬁve years after active intervention ended:
+Journal of Women’s Health. 22
+The Women’s Health Initiative.
+(11):915–929.
+
+Chan, J. M., Pietinen, P., Virtanen, M., Malila, N., Tangrea, J., Albanes, D.
+and Virtamo, J. (2000). Diet and prostate cancer risk in a cohort of
+smokers, with a speciﬁc focus on calcium and phosphorus (Finland).
+Cancer Causes Control. 11:859–867.
+
+Chaudhary, N., Sunil Kumar, B. V., Bhardwaj, R. and Singh, T. (2014).
+Expression of erythroblastic leukemia viral oncogene homolog 2
+(ERBB2) from canine mammary tumor. Proceedings of the National
+Academy of Sciences, India Section B: Biological Sciences. DOI 10.1007/
+s40011-014-0455-z.
+
+Chen, Q., Espey, M. G., Krishna, M. C., Mitchell, J. B., Corpe, C. P.,
+Buettner, G. R., Shacter, E. and Levine, M. (2005). Pharmacologic
+ascorbic acid concentrations selectively kill cancer cells: Action as a
+pro-drug to deliver hydrogen peroxide to tissues. Proceedings of
+National Academy of Sciences USA. 102(38):13604–13609.
+
+Chen, Q., Espey, M. G., Sun, A. Y., Pooput, C., Kirk, K. L. and Krishna, M.
+C. (2008) Pharmacologic doses of ascorbate act as a prooxidant and
+decrease growth of aggressive tumor xenografts in mice. Proceedings of
+National Academy of Sciences USA. 105:11105–11109
+
+Chen, Q., Espey, M. G., Sun, A. Y., Pooput, C., Kirk, K. L., Krishna, M. C.,
+Khosh Jeanne Drisko, D. B. and Levine, M. (2008). Pharmacologic
+doses of ascorbate act as a prooxidant and decrease growth of
+aggressive tumor xenografts in mice. Proceedings of National Academy
+of Sciences USA. 105:11105–11109.
+
+Chen, Q., Espey, M. G., Sun, A. Y., Pooput, C., Kirk, K. L., Krishna, M. C.,
+Khosh, D. B., Drisko, J. and Levine, M. (2008). Pharmacologic doses of
+ascorbate act as a prooxidant and decrease growth of aggressive tumor
+xenografts in mice. Proceedings of National Academy of Sciences USA.
+105(32):11105–11109.
+
+Chlebowski, R. T.,
+
+Johnson, K. C., Kooperberg, C., Pettinger, M.,
+Wactawski-Wende, J., Rohan, T., Rossouw, J., Lane, D., O’sullivan, M.
+J., Yasmeen, S., Hiatt, R. A., Shikany, J. M., Vitolins, M., Khandekar, J.,
+Hubbell, F. A. and Women’s Health Initiative Investigators. (2008).
+Calcium plus vitamin D supplementation and the risk of breast cancer.
+Journal of National Cancer Institute. 100:1581–1591.
+
+Conejo-Garcia, J. R., Benencia, F., Courreges, M. C., Mohamed-Hodley, A.,
+Buckanovich, R. J., Holtz, D. O., Jenkins, A., Zhang, L. N. H., Wagner,
+D. S., Katsaros, D., Caroll, R. and Coukos, G. (2004). Tumor-inﬁltrating
+dendritic cells precursors recruited by a beta-defensin contribute to
+vasculogenesis under the inﬂuence of Vegf-A. Nature Medicine.
+10:950–958.
+
+De Zarn, T. J. (1995). Food ingredient encapsulation. In: Encapsulation
+and controlled release of food ingredients. American Chemical Society
+Symposium Series 590, pp. 113–131. Risch, S. J. and Reineccius, G. A.,
+Ed., American Chemical Society, Washington, DC.
+
+Deeb, K. K., Trump, D. L. and Johnson, C. S. (2007). Vitamin D signalling
+for anticancer therapeutics. Nature
+
+pathways in cancer: Potential
+Reviews Cancer. 7:684–700.
+
+Di Domenico, F., Foppoli, C., Coccia, R. and Perluigi, M. (2012).
+Antioxidants in cervical cancer: Chemopreventive and chemotherapeu-
+tic effects of polyphenols. Biochimica et Biophysica Acta. 1822:737–747.
+Direkze, N. C., Hodivala-Dilke, K., Jeffery, R., Hunt, T., Poulsom, R.,
+Oukrif, D., Alison, M. R. and Wright, N. A. (2004). Bone marrow
+contribution to tumor associated myoﬁbroblasts and ﬁbroblasts. Can-
+cer Research. 64:8492–8495.
+
+Du, J., Martin, S. M., Levine, M., Wagner, B. A., Buettner, G. R. and Wang,
+(2010) Mechanisms of ascorbate induced cytotoxicity In
+
+S. H.
+pancreatic cancer. Clinical Cancer Research. 16:509–20
+
+Feldman, D., Skowronski, R. J. and Peehl, D. M. (1995). Vitamin D and
+in Experimental and Medical Biology.
+
+prostate cancer. Advances
+375:53–63.
+
+Fleet, J.C., DeSmet, M., Johnson, R. and Li, Y. (2012). Vitamin D and
+Journal.
+
+cancer: A review of molecular mechanisms. Biochemical
+441:61–76.
+
+Gandini, S., Boniol, M., Haukka, J., Byrnes, G., Cox, B., Sneyd, M.J., Mullie,
+P. and Autier, P. (2011). Meta-analysis of observational studies of
+serum 25-hydroxyvitamin D levels and colorectal, breast and prostate
+cancer and colorectal adenoma. International Journal of Cancer. 128
+(6):1414–1424.
+
+Garavello, W., Lucenteforte, E., Bosetti, C. and La Vecchia, C. (2009). The
+role of foods and nutrients on oral and pharyngeal cancer risk. Minerva
+Stomatologica. 58:25–34.
+
+Gilloteaux, J., Jamison, J. M., Arnold, D., Ervin, E., Echroat, L., Docherty, J.
+J., Neal, D. and Summers, J. L. (1998). Cancer cell necrosis by
+autoshizis: Synergism of antitumor activity of vitamin C: Vitamin K3
+on human bladder carcinoma T-24 cells. Scanning. 20:564–75.
+
+Gilloteaux, J., Jamison, J. M., Arnold, D., Taper, H. S. and Summers, J. L.
+(2001). Ultrastructural aspects of autoshizis: A new cancer cell death
+induced by the synergistic action of ascorbate/menadione on human
+bladder carcinoma cells. Ultrastructural Pathology. 25:183–92.
+
+Goetzl, E. J., Wasserman, S. I., Gigli, I. and Austen, K. F. (1974).
+Enhancement of random migration and chemotactic response of
+human leukocytes by ascorbic acid. Journal of Clinical Investigation.
+53:813–8.
+
+Gonzalez, M.J. (1992). Lipid peroxidation and tumor growth: An inverse
+
+relationship. Medical Hypotheses. 38:106–10.
+
+Gonzalez, M. J., Mora, E., Riordan, N. H., Riordan, H. D. and Mojica, P.
+(1998). Rethinking vitamin C and cancer: An update on nutritional
+oncology. Cancer Prevention International. 3:215–24.
+
+Goodwin, P. J., Ennis, M., Pritchard, K. I., Koo, J. and Hood, N. (2009).
+Prognostic effects of 25-hydroxyvitamin D levels in early breast cancer.
+Journal of Clinical Oncology. 27:3757–3763.
+
+Grad, J. M., Bahlis, N. J., Reis, I., Oshiro, M. M., Dalton, W. S. and Boise, L.
+H. (2001). Ascorbic acid enhances arsenic trioxide-induced cytotoxicity
+in multiple myeloma cells. Blood. 98:805–13.
+
+Gregory, J. F. 3rd. (1993). Ascorbic acid bioavailability in foods and
+
+supplements. Nutrition Reviews. 51:301–303.
+
+Guerriero, E., Sorice, A., Capone, F., Napolitano, V., Colonna, G., Storti,
+G., Castello, G. and Costantini1, S. (2014). Vitamin C effect on
+mitoxantrone-induced cytotoxicity in human breast cancer cell lines.
+PLOS One. DOI:10.1371/journal.pone.0115287
+
+Gutteridge, J. M. C., Richmond, R. and Halliwell, B. (1980). Oxygen free-
+radicals and lipid peroxidation: Inhibition by the protein caeruloplas-
+min. FEBS Letters. 112:269–72.
+
+Harris, H. R., Orsini, N. and Wolk, A. (2014). Vitamin C and survival
+among women with breast cancer: A meta-analysis. European Journal
+of Cancer. 50:1223–1231.
+
+Hecht, S. S. (1997). Approaches to cancer prevention based on an
+understanding of N-nitrosamine carcinogenesis. Proceedings of the
+Society for Experimental Biology and Medicine. 216:181–191.
+
+Hoffer, L. J., Levine, M., Assouline, S., Melnychuk, D., Padayatty, S. J.,
+Rosadiuk, K., Rousseau, C., Robitaille, L. and Miller, W.H. Jr. (2008).
+Phase I clinical trial of i.v. ascorbic acid in advanced malignancy.
+Annals of Oncology. 19:1969–1974.
+
+Holly, R., Orsini, H. N. and Wolk, A. (2014). Vitamin C and survival
+among women with breast cancer: A Meta-analysis. European Journal
+of Cancer. 50:1223–1231.
+
+Hu, M. L. (2011). Dietary polyphenols as antioxidants and anticancer
+agents: More questions than answers. Chang Gung Medical Journal.
+34:449–460.
+
+Institute of Medicine (US) Committee to Review Dietary Reference Intakes
+for Vitamin D and Calcium; Ross, A. C., Taylor, C. L. and Yaktine, A.
+L. et al., editors. Dietary Reference Intakes for Calcium and Vitamin D.
+Washington (DC): National Academies Press (US); 2011. Available
+from http://www.ncbi.nlm.nih.gov/books/NBK56070/
+
+Institute of Medicine. Food and Nutrition Board. Dietary Reference
+Intakes for Vitamin C, Vitamin E, Selenium, and Carotenoids.
+Washington, DC: National Academy Press, 2000. Nutrition and
+Physical Activity Guidelines Advisory Committee. (2012). American
+Cancer Society Guidelines on nutrition and physical activity for cancer
+prevention: Reducing the risk of cancer with healthy food choices and
+physical activity. CA: A Cancer Journal for Clinicians. 62:30-67.
+
+Iqbal, M. U. N., Khan, T. A. and Maqbool, S. A. (2015). Vitamin D
+Receptor Cdx-2 Polymorphism and Premenopausal Breast Cancer Risk
+in Southern Pakistani Patients. PLoS One. 10(3):e0122657. doi:10.1371/
+journal.pone.0122657.
+
+Jacob, R. A. and Sotoudeh, G. (2002). Vitamin C function and status in
+
+chronic disease. Nutrition in Clinical Care. 5:66–74.
+
+Jensen, S. S., Madsen, M. W., Lukas, J., Binderup, L. and Bartek, J. (2001).
+Inhibitory effects of 1alpha,25-dihydroxyvitamin D(3) on the G(1)-S
+phase-controlling machinery. Molecular Endocrinology. 15:1370–1380.
+Jonas, S. K., Riley, P. A. and Willson, R. L. (1989). Hydrogen peroxide
+
+cytotoxicity. Biochemical Journal. 264:651–655.
+
+Kennedy, J. F. (1976). Chemical and biochemical aspects of the glycosami-
+noglycans and proteoglycans in health and disease. Advances in Clinical
+Chemistry. 18:1–101.
+
+Kim, J. E., Kang, J. S., Jung, D. J., Hahm, E., Lee, S. K., Bae, S. Y., Hwang,
+Y., Shin, D. H. and Lee, W. J. (2007). Vitamin C induces apoptosis in
+human colon cancer cells through endoplasmic reticulum stress and
+mitochondrial pathway. The Journal of Immunology. 178:(1 Supple-
+ment): S87–S88.
+
+Konety, B. R. and Getzenberg, R. H. (2002). Vitamin D and prostate
+
+cancer. Urologic Clinics of North America. 29:95–106.
+
+Krishnan, A. V., Peehl, D. M. and Feldman, D. (2005). In: Vitamin D and
+Prostate Cancer, Vitamin D, pp. 1679–1707. Feldman, D., Pike, J.W.
+and Glorieux, F., Eds., Academic Press, San Diego.
+
+Kushi, L. H., Doyle, C., McCullough, M., Rock, C. L., Demark-Wahnefried,
+W., Bandera, E. V., Gapstur, S., Patel, A. V., Andrews, K., Gansler, T.
+and American Cancer Society (2010). Nutrition and Physical Activity
+Guidelines Advisory Committee. (2012). American Cancer Society
+Guidelines on nutrition and physical activity for cancer prevention:
+Reducing the risk of cancer with healthy food choices and physical
+activity. CA: A Cancer Journal for Clinicians. 62:30–67.
+
+Kwan, H. Y., Chao, X., Su, T., Fu, X., Wing Tse, A. K., Fong, W. F. and Yu,
+Z. L.
+and Anti-obesity Effects of
+Mediterranean Diet. Critical Reviews in Food Science and Nutrition.
+DOI: 10.1080/10408398.2013.852510.
+
+(2015). The Anti-cancer
+
+Kyle, J. A., Sharp, L., Little, J., Duthie, G. G. and McNeill, G. (2010).
+Dietary ﬂavonoid intake and colorectal cancer: A case–control study.
+British Journal of Nutrition. 103:429–436.
+
+Leung, P. Y., Miyashita, K., Young, M. and Tsao, C. S. (1993). Cytotoxic
+effect of ascorbate and its derivative on cultured malignant and
+nonmalignant cell lines. Anticancer Research. 13:47–80.
+
+Li, P., Li, C., Zhao, X., Zhang, X., Nicosia, S. V. and Bai, W. (2004). p27
+(Kip1) stabilization and G(1) arrest by 1,25-dihydroxyvitamin D(3) in
+ovarian cancer cells mediated through down-regulation of cyclin E/
+cyclin-dependent kinase 2 and Skp1-Cullin-F-box protein/Skp2
+ubiquitin ligase. The Journal of Biological Chemistry. 279:25260–25267.
+Li, Y. and Schellhorn, H. E. (2007). New developments and novel
+therapeutic perspectives for vitamin C. Journal of Nutrition. 137:
+2171–2184.
+
+Lim, S. T., Jeon, Y. W. and Suh, Y. J. (2015). Association between altera-
+tions in the serum 25-hydroxyvitamin d status during follow-up and
+
+CRITICAL REVIEWS IN FOOD SCIENCE AND NUTRITION
+
+2633
+
+breast cancer patient prognosis. Asian Paciﬁc Journal of Cancer Preven-
+tion. 16(6):2507–2513.
+
+Loker, G. B., Ugur, M. and Yildiz, M. (2003). A partial supplementation of
+pasteurized milk with vitamin C, iron and zinc. Nahrung. 47(1):17–20.
+Lopes, N., Sousa, B., Martins, D., Gomes, M., Vieira, D., Veronese. L. A.,
+Milanezi, F., Paredes, J., Costa, J. L. and Schmitt, F. (2010). Alterations
+in Vitamin D signalling and metabolic pathways in breast cancer
+progression: A study of VDR, CYP27B1 and CYP24A1 expression in
+benign and malignant breast lesions Vitamin D pathways unbalanced
+in breast lesions. BMC Cancer. 10:483.
+
+Losso, J. N. and Bawadi, H. A. (2005). Hypoxia inducible factor pathways
+foods. Journal of Agricultural and Food
+
+as targets for functional
+Chemistry. 53:3751–3768.
+
+Lu, Z., Chen, T. C., Zhang, A., Persons, K. S., Kohn, N., Berkowitz, R.,
+Martinello, S. and Holick, M. F. (2007). An evaluation of the vitamin
+D3 content in ﬁsh: Is the vitamin D content adequate to satisfy the
+dietary requirement for vitamin D? The Journal of Steroid Biochemistry
+and Molecular Biology. 103:642–644.
+
+Ma, Y., Zhang, P., Wang, F., Yang, J., Liu, Z. and Qin, H. (2011).
+Association between vitamin D and risk of colorectal cancer: A
+systematic review of prospective studies. Journal of Clinical Oncology.
+29(28):3775–3782.
+
+Madsen, K. H., Rasmussen, L. B., Andersen, R., Molgaard, C., Jakobsen, J.,
+Bjerrum, P. J., Andersen, E. W., Mejborn, H. and Tetens, I. (2013).
+Randomized controlled trial of the effects of Vitamin D-fortiﬁed milk
+and bread on serum 25-hydroxy vitamin D concentrations in families
+in Denmark during winter: The vitmad study. The American Journal of
+Clinical Nutrition. 98:374–382.
+
+Matsumoto, Y., Kittaka, A. and Chen, T. C. (2015). 19-Norvitamin D
+analogs for breast cancer therapy. Canadian Journal of Physiology and
+Pharmacology. 6:1–16.
+
+Meyer, M. B., Goetsch, P. D. and Pike, J. W. (2012). VDR/RXR and TCF4/
+b-catenin cistromes in colonic cells of colorectal tumor origin: Impact
+on c-FOS and c-MYC gene expression. Molecular Endocrinology.
+26:37–51.
+
+Mikirova, N. A., Ichim, T. E. and Riordan, N. H. (2008). Anti-angiogenic
+effect of high doses of ascorbic acid. Journal of Translational Medicine.
+6:50–58.
+
+Miller, G. J. (1998). Vitamin D and prostate cancer: Biologic interactions
+
+and clinical potentials, Cancer Metastasis Reviews. 17:353–360.
+
+Mocanu, V., Stitt, P..A., Costan, A..R., Voroniuc, O., Zbranca, E., Luca, V.
+and Vieth, R. (2009). Long-term effects of giving nursing home
+residents bread fortiﬁed with 125 mg (5000 IU) vitamin D3 per daily
+serving. The American Journal of Clinical Nutrition. 89:1132–1137.
+
+Moreno,
+
+J., Krishnan, A. V. and Feldman, D.
+
+(2005). Molecular
+mechanisms mediating the anti-proliferative effects of Vitamin D in
+prostate cancer. Journal of Steroid Biochemistry & Molecular Biology.
+97:31–36.
+
+Munoz, E., Blazquez, M. V., Ortiz, C., Gomez-Diaz, C. and Navas, P.
+(1997). Role of ascorbate in the activation of NF-kB by tumour necrosis
+factor-a in T-cells. Biochemical Journal. 325:23–8.
+
+Natri, A. M., Salo, P., Vikstedt, T., Palssa, A., Huttunen, M., Karkkainen,
+M. U., Salovaara, H., Piironen, V., Jakobsen, J. and Lamberg-Allardt, C.
+J. (2006). Bread fortiﬁed with cholecalciferol
+increases the serum
+25-hydroxyvitamin D concentration in women as effectively as a
+cholecalciferol supplement. Journal of Nutrition. 136:123–127.
+
+Niki, E. (1991). Action of ascorbic acid as a scavenger of active and stable
+oxygen radicals. The American Journal of Clinical Nutrition. 54:
+1119s–24s.
+
+Norman, A. W. (1998) Sunlight, season, skin pigmentation, vitamin D, and
+25-hydroxyvitamin D: Integral components of the vitamin D endocrine
+system. The American Journal of Clinical Nutrition. 67:1108–1110.
+
+Otten, J. J., Hellwig, J. P. and Meyers, L. D. (2006). Vitamin D. In: Dietary
+Reference Intakes: The Essential Guide to Nutrient Requirements.
+National Academies Press, Washington, DC.
+
+Padayatty, S. J., Katz, A., Wang, Y., Eck, P., Kwon, O., Lee, J. H., Chen, S.,
+Corpe, C., Dutta, A., Dutta, S. K. and Levine, M. (2003). Vitamin C as
+an antioxidant: Evaluation of its role in disease prevention. The Journal
+of the American College of Nutrition. 22(1):18–35.
+
+2634
+
+B. V. SUNIL KUMAR ET AL.
+
+Padayatty, S. J. and Levine, M. (2006). Vitamins C and E and the
+prevention of preeclampsia. The New England Journal of Medicine.
+355:1065.
+
+Padayatty, S. J., Sun, H., Wang, Y., Riordan, H. D., Hewitt, S. M., Katz, A.,
+Wesley, R. A. and Levine, M. (2004). Vitamin C pharmacokinetics:
+Implications for oral and intravenous use. Annals of Internal Medicine.
+140:533–537.
+
+Parise, R. A., Egorin, M. J., Kanterewicz, B., Taimi, M., Petkovich, M., Lew,
+A. M., Chuang, S. S., Nichols, M. M., El-Hefnawy, T. and Hershberger,
+P. A. (2006). CYP24, the enzyme that catabolizes the antiproliferative
+agent vitamin D, is increased in lung cancer. International Journal of
+Cancer. 119:1819–1828.
+
+Park, H., Seib, P. A. and Chung, O. K. (1994). Stabilities of several forms of
+vitamin C during making and storing of pup-loaves of white pan bread.
+Cereal Chemistry. 71(5):412–417.
+
+Peehl, D. M., Seto, E., Hsu, J. Y. and Feldman, D. (2002). Preclinical
+activity of ketoconazole in combination with calcitriol or the vitamin D
+analogue EB 1089 in prostate cancer cells.
+Journal of Urology.
+168:1583–1588.
+
+Pelucchi, C., Bosetti, C., Rossi, M., Negri, E., La Vecchia, C. (2009).
+Selected aspects of Mediterranean diet and cancer risk. Nutrition and
+Cancer. 61:756–766.
+
+Peyman, G. A., Kivilcim, M., Dellacroce, J. T. and Munoz Morales, A.
+(2007). Inhibition of Corneal Neovascularization by Ascorbic Acid in
+Rat Model [abstract]. Graefe’s Archive for Clinical and Experimental
+Ophthalmology. 245(10):1461–1467.
+
+Pfeffer, F., Casanueva, E., Kamar, J., Guerra, A., Perichart, O. and
+Vadillo-Ortega, F.
+(1998). Modulation of 72-kilodalton type IV
+collagenase (Matrix metalloproteinase-2) by ascorbic acid in cultured
+human amnion-derived cells. Biology of Reproduction. 52:326.
+
+Powers, H.
+
+J., Gibson, A. T., Bates, C.
+
+J., Primhak, R. A. and
+Beresford, J. (1994). Does vitamin C intake inﬂuence the rate of
+tyrosine catabolism in premature babies? Annals of Nutrition and
+Metabolism. 38:166–173.
+
+Pulito, C., Terrenato, I., Di Benedetto, A., Korita, E., Goeman, F., Sacconi,
+A., Biagioni, F., Blandino, G., Strano, S., Muti, P., Mottolese, M. and
+Falvo, E. (2015). Cdx2 Polymorphism Affects the Activities of Vitamin
+D Receptor in Human Breast Cancer Cell Lines and Human Breast
+Carcinomas. PLoS One. 10(4):e0124894. doi:10.1371/journal.pone.
+0124894.
+
+Riordan, N. H., Riordan, H. D. and Casciari, J. J. (2000). Clinical and
+experimental experiences with intravenous vitamin C. The Journal of
+Orthomolecular Medicine. 15:201–13.
+
+Riordan, N. H., Riordan, H. D., Meng, X. L., Li, Y. and Jackson, J. A.
+(1995). Intravenous ascorbate as a tumor cytotoxic chemotherapeutic
+agent. Medical Hypotheses. 44:207–13.
+
+Ritu, G. and Gupta, A. (2014). Vitamin D deﬁciency in india: Prevalence,
+
+causalities and interventions. Nutrients. 6:729–775.
+
+Rose, A. A. N., Elser, C. and Ennis, M. (2013). Blood levels of vitamin D
+and early stage breast cancer prognosis: a systematic review and meta-
+analysis. Breast Cancer Research and Treatment. 141:331–339.
+
+Salehi-Tabar, R., Nguyen-Yamamoto, L., Tavera-Mendoza, L. E., Quail, T.,
+Dimitrov, V., An, B. S., Glass, L., Goltzman, D. and White, J. H. (2012).
+Vitamin D receptor as a master regulator of the c-MYC/MXD1 net-
+work. Proceedings of National Academy of Sciences USA. 109:
+18827–18832.
+
+Sasco, A. J., Secretan, M. B. and Straif, K. (2004). Tobacco smoking and
+cancer: A brief review of recent epidemiological evidence. Lung cancer.
+45:S3–9.
+
+Scatena, R. (2012). Mitochondria and cancer: A growing role in apoptosis,
+cancer cell metabolism and dedifferentiation. Advances in Experimental
+Medicine and Biology. 942:287–308.
+
+Schwartz, G. G., Whitlatch, L. W., Chen, T. C., Lokeshwar, B. L. and
+Holick, M. F. (1998). Human prostate cells synthesize 1, 25-dihydroxy-
+vitamin D3 from 25- hydroxyvitamin D3. Cancer Epidemiology,
+Biomarkers and Prevention. 7:391–395.
+
+Sharma, R. (2005). Fortiﬁcation of milk with microencapsulated vitamin C
+and its thermal stability. Journal of Food Science and Technology. 42
+(2):191–194.
+
+Siegel, B.V. (1975). Enhancement of interferon production by poly (r1),
+poly (rC) in mouse cell cultures by ascorbic acid. Nature. 254:531–532.
+Steele, C. (1976). Cereal fortiﬁcation: Technological problems. Cereal
+
+Foods World. 21:538–540.
+
+Stephen, R. and Utecht, T. (2001). Scurvy identiﬁed in the emergency
+department: A case report. The Journal of Emergency Medicine.
+21:235–237.
+
+Sunil Kumar, B. V. and Kataria, M. (2013). Identiﬁcation of single
+nucleotide polymorphism in stromelysin-3 catalytic domain in canine
+mammary tumors. Journal of Applied Animal Research. 41(3):366–369.
+Sunil Kumar, B. V., Kumar, K. A., Padmanath, K., Saxena, M., Sharma, B.
+and Kataria, M.
+(2013a). Development of Recombinant Matrix
+Metalloproteinase-11 Based Sandwich ELISA for the Diagnosis of
+Canine Mammary Tumor. Proceedings of the National Academy of
+Sciences, India Section B: Biological Sciences. 83(2):181–185.
+
+Sunil Kumar, B. V., Kumar, K. A., Padmanath, K., Sharma, B. and Kataria,
+M. (2013b). Heterologous Expression and Functional Characterization
+of Matrix Metalloproteinase-11 from Canine Mammary Tumor.
+Animal Biotechnology. 24(1):31–43.
+
+Sunil Kumar, B. V., Singh, G. and Meur, S. K. (2010). Effects of addition of
+electrolyte and ascorbic acid in feed during heat stress in buffaloes.
+Asian Australasian Journal of Animal Sciences. 23(7):880–888.
+
+Tang, C., Chen, N., Wu, M., Yuan, H. and Du, Y. (2009). Fok1
+polymorphism of vitamin D receptor gene contributes to breast cancer
+susceptibility: A meta-analysis. Breast Cancer Research and Treatment.
+117:391–399.
+
+J.
+
+Taylor, P. R., Li, B., Dawsey, S. M., Li, J. Y., Yang, C. S., Guo, W. and Blot,
+W.
+the nutrition
+intervention trials in Linxian, China. Linxian Nutrition Intervention
+Trials Study Group. Cancer Research. 54(7S):2029s-2031s.
+
+(1994). Prevention of
+
+esophageal
+
+cancer:
+
+Tomiska, M., Novotna, S., Klvacova, L., Tumova, J. and Janikova, A.
+(2015). Vitamin D during cancer treatment. Klinicka onkologie. 28
+(2):99–104.
+
+Townsend, K., Banwell, C. M., Guy, M., Colston, K.W., Mansi, J. L.,
+Stewart, P. M., Campbell, M. J. and Hewison, M. (2005). Autocrine
+metabolism of vitamin D in normal and malignant breast tissue.
+Clinical Cancer Research. 11:3579–86.
+
+Tsao, C. S., Dunhan, W. B. and Leung, P. Y. (1988). In vivo antineoplastic
+activity of ascorbic acid for human mammary tumor. In vivo. 2:147–50.
+Tsao, C. S., Dunhan, W. B. and Leung, P. Y. (1989). Effect of ascorbic acid
+and its derivatives on the growth of human mammary tumor
+xenografts in mice. The Cancer Journal. 5:53–9.
+
+U.S. Department of Agriculture, Agricultural Research Service. 2011.
+USDA National Nutrient Database for Standard Reference, Release 24.
+Nutrient Data Laboratory Home Page, http://www.ars.usda.gov/ba/
+bhnrc/ndl.
+
+Valko, M., Leibfritz, D., Moncol, J., Cronin, M. T., Mazur, M. and Telser, J.
+(2007). Free radicals and antioxidants in normal physiological func-
+tions and human disease. The International Journal of Biochemistry &
+Cell Biology. 39:44–84.
+
+Vandenberg, J. J., Kuypers, F. A., Roelofsen, B. and Op den Kamp, J. A.
+(1990). The cooperative action of vitamins E and C in the protection
+against peroxidation of parinanic
+acid in human erythrocyte
+menbranes. Chemistry and Physics of Lipids. 53:309–20.
+
+Verrax, J., Delvaux, M., Beghein, N., Taper, H., Gallez, B. and Buc
+Calderon, P. (2005). Enhancement of quinone redox cycling by
+ascorbate induces a caspase-3 independent cell death in human leukae-
+mia cells. An in vitro comparative study. Free Radical Research. 39
+(6):649–657.
+
+Visioli, F., Bogani, P., Grande, S., and Galli, C. (2005). Mediterranean food
+Journal of Physiology and
+
+and health: Building human evidence.
+Pharmacology. 56(S1):37–49.
+
+Wang, A. H. and Still, C. (2007). Old world meets modern: A case report of
+
+scurvy. Nutrition in Clinical Practice. 22:445–448.
+
+Wang, D., Velez de-la-Paz, O. I., Zhai, J. X. and Liu, D. W. (2013). Serum
+25-hydroxyvitamin D and breast cancer risk: A meta-analysis of
+prospective studies. Tumor Biology. 34(6):3509–3517.
+
+Washington, M. N., Kim, J. S. and Weigel, N. L. (2011). 1a,25-dihydroxy-
+vitamin D3 inhibits C4–2 prostate cancer cell growth via a retinoblas-
+toma protein (Rb)-independent G1 arrest. The Prostate. 71:98–110.
+
+CRITICAL REVIEWS IN FOOD SCIENCE AND NUTRITION
+
+2635
+
+Weinstein, M., Babyn, P. and Zlotkin, S. (2001). An orange a day keeps the
+
+doctor away: Scurvy in the year 2000. Pediatrics. 108(3):E55.
+
+World Cancer Report (2014). World Health Organization. pp. Chapter 1.1.
+
+ISBN 9283204298.
+
+Wyllie, A. H. (1987). Apoptosis: Cell death in tissue regulation. The Journal
+
+of Pathology. 153:313–316.
+
+Xu, Y., Shibata, A., McNeal, J. E., Stamey, T. A., Feldman, D. and Peehl, D.
+M. (2003). Vitamin D receptor start codon polymorphism (FokI) and
+prostate cancer progression. Cancer Epidemiology, Biomarkers and
+Prevention. 12:23–27.
+
+Yamamoto, K., Takahashi, M. and Niki, E. (1987). Role of iron and ascorbic acid
+
+in the oxidation of methyl linoleate micelles. Chemistry Letters. 1:49–52.
+
+Yang, Z., Laillou, A., Smith, G., Schoﬁeld, D. and Moench-Pfanner, R.
+(2013). A review of vitamin D fortiﬁcation: Implications for nutrition
+programming in southeast Asia. Food and Nutrition Bulletin. 34:
+S81–S89.
+
+Zehnder, D., Bland, R., Williams, M. C., McNinch, R. W., Howie, A.
+J., Stewart. P. M. and Hewison, M. (2001). Extrarenal expression of
+25-hydroxyvitamin d(3)1 a-hydroxylase. The Journal of Clinical
+Endocrinology and Metabolism. 86:888–894.
+
+

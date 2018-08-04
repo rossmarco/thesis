@@ -1,0 +1,1758 @@
+Association between fruit and vegetable consumption and oral
+cancer: a meta-analysis of observational studies1,2
+
+Maria Pavia, Claudia Pileggi, Carmelo GA Nobile, and Italo F Angelillo
+
+ABSTRACT
+Background: Oral cancer ranks as the seventh most common form
+of cancer worldwide. Recent reports have examined the effect of
+fruit and vegetable intake on the risk of oral cancer, but results are
+controversial.
+Objective: A meta-analysis was performed to arrive at quantitative
+conclusions about the contribution of fruit and vegetable intakes to
+the occurrence of oral cancer.
+Design: A comprehensive, systematic bibliographic search of med-
+ical literature published up to September 2005 was conducted to
+identify relevant studies. Separate meta-analyses were conducted for
+fruit and vegetable consumption. The effect of portion or daily intake
+of fruit or vegetables on the risk of oral cancer was calculated. A
+multivariate meta-regression analysis was performed to explore het-
+erogeneity. This multivariate meta-regression analysis examined the
+effect of quality score, the type of cancers included, citrus fruit and
+green vegetable consumption, and the time interval for dietary recall
+of the studies on the role of fruit or vegetable consumption in the risk
+of oral cancer. The presence of publication bias was assessed with a
+funnel plot for asymmetry.
+Results: Sixteen studies (15 case-control studies and 1 cohort study)
+met the inclusion criteria and were included in the meta-analysis.
+The combined adjusted odds ratio (OR) estimates showed that each
+portion of fruit consumed per day significantly reduced the risk of
+oral cancer by 49% (OR: 0.51; 95% CI: 0.40, 0.65). For vegetable
+consumption, the meta-analysis showed a significant reduction in
+the overall risk of oral cancer of 50% (OR: 0.50; 95% CI: 0.38, 0.65).
+The multivariate meta-regression showed that the lower risk of oral
+cancer associated with fruit consumption was significantly influ-
+enced by the type of fruit consumed and by the time interval of
+dietary recall.
+Conclusion: The consumption of fruit and vegetables is associated
+with a reduced risk of oral cancer.
+Am J Clin Nutr 2006;83:
+1126 –34.
+
+KEY WORDS
+
+Fruit, meta-analysis, oral cancer, vegetables
+
+INTRODUCTION
+
+In 2002, oral cavity and pharynx cancers combined (hereafter
+referred to as oral cancer) were responsible for 쏜400 000 new
+cases of cancer and 210 000 deaths worldwide. Oral cancer is
+primarily a disease that occurs in men and ranks as the seventh
+most common form of cancer worldwide when both sexes are
+combined (1). The geographic area with the highest incidence
+
+and mortality from oral cancer is Melanesia, followed by south-
+central Asia; other pharyngeal cancers, apart from the high rates
+in south-central Asia, are most common in men in Europe.
+
+In epidemiologic studies, the primary risk factors for oral
+cancer have been well documented and include past and present
+betel-quid chewing, tobacco smoking, and consumption of alco-
+hol in the form of beer, wine, or liquor. Poor dietary practices and
+nutritional deficiencies have been linked to a risk of developing
+oral cancer, but recent reports have examined the effect of fruit
+and vegetable intake, which contain essential vitamins and other
+nutrients, on the incidence of oral cancer. Findings from these
+reports, however, have been mixed; some observational studies
+have shown a protective effect with the consumption of fruit and
+vegetables, whereas others have not shown this benefit. Many
+unanswered questions remain. For example, there is no consen-
+sus on whether the benefit observed with fruit and vegetable
+consumption is observed with all fruit and vegetable products, or
+whether this benefit varies with different types and preparations
+(ie, cooked compared with raw) of fruit and vegetables. A proven
+association between the risk of oral cancer and the consumption
+of fruit and vegetables would have considerable public health and
+nutritional implications. Our study provided a unique opportu-
+nity to answer some of these questions, because we performed a
+meta-analysis that aimed to use all relevant published literature
+from observational studies to arrive at a quantitative conclusion
+about the contribution of fruit and vegetable intakes to the oc-
+currence of oral cancer.
+
+SUBJECTS AND METHODS
+
+Search strategy for identification of studies
+
+We sought to identify all epidemiologic studies that investi-
+gated the association between fruit and vegetable intakes and oral
+cancer. To identify relevant studies, we conducted a comprehen-
+sive systematic bibliographic search through MEDLINE for all
+medical literature published up to September 2005. The search
+
+1 From the Department of Hygiene, Medical School, University of Catan-
+zaro “Magna Græcia”, Catanzaro, Italy (MP, CP, and CGAN) and the De-
+partment of Public, Clinical and Preventive Medicine, Medical School, Sec-
+ond University of Naples, Naples, Italy (IFA).
+
+2 Address reprint requests to IF Angelillo, Department of Public, Clinical
+and Preventive Medicine, Second University of Naples, Via Luciano Ar-
+manni 5, 80138 Naples, Italy. E-mail: italof.angelillo@unina2.it.
+
+Received October 26, 2005.
+Accepted for publication January 23, 2006.
+
+1126
+
+Am J Clin Nutr 2006;83:1126 –34. Printed in USA. © 2006 American Society for Nutrition
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/83/5/1126/4649563
+by Sheridan College user
+on 31 July 2018
+
+FRUIT AND VEGETABLE CONSUMPTION AND ORAL CANCER
+
+1127
+
+was performed by consecutively entering “oral cancer”, “diet”,
+“vegetables”, and “fruit” as both medical subject heading terms
+and text words. Finally, we supplemented this search by review-
+ing the reference lists of all retrieved publications and the most
+recent review articles to identify additional undetected published
+studies.
+
+Inclusion criteria
+
+Two investigators independently reviewed all potentially rel-
+evant articles to determine whether an article met the general
+inclusion criteria, and disagreement was resolved by discussion
+between the investigators. Studies were included in the meta-
+analysis if they met all of the following criteria: 1) had original
+data from case-control or cohort studies; 2) the primary outcome
+was clearly defined as at least some of the cancers of the mouth,
+pharynx, and hypopharynx [as defined by codes 141, 143–146,
+148, and 149 of the ninth revision of the International Classifi-
+cation of Diseases (ICD-9; 2) or other classifications that in-
+cluded these sites]; 3) the exposure of interest was measured as
+servings (per day, per week, or per month) of fruit, vegetables, or
+both (other exposure measurements, such as grams per day, were
+excluded unless data were provided to transform information to
+servings per day); 4) provided relative risk (RR) estimates and
+their 95% CIs or sufficient data to calculate these numbers; 5)
+were English language studies; and 6) were published up to
+September 2005. If a study appeared in more than one article,
+data from the most recent publication were used for the statistical
+analysis. Studies restricted to oral cancer in subjects aged 쏝45 y
+were excluded.
+
+Assessment of study quality
+
+Two investigators independently reviewed the studies in-
+cluded in the meta-analysis to arrive at an assessment of the
+quality of the individual study. Each article was read and scored
+for quality, and investigators, institutions, country, and journal
+were blinded for each article. Because no validated tools exist for
+a quality assessment of outcome studies, we developed a criteria
+list that incorporated elements of previously published criteria
+(3, 4) for the assessment of quality items in epidemiologic stud-
+ies. The investigators discussed their evaluation; discrepancies
+were resolved through discussion and rereading. The list was
+composed of items felt to be important for the quality of each
+observational study, including the study design [selection bias;
+score ranging from 0 (worst) to 6 (best)], the adjustment of
+confounding variables (score ranging from 0 to 16, worst to best),
+the exposure assessment (misclassification bias; score ranging
+from 0 to 5, worst to best), and the data analysis (score ranging
+from 0 to 2.5, worst to best). Each subscore was calculated as the
+percentage of applicable quality criteria that were met in each
+study; therefore, each subscore for a study could range from 0%
+(none of the quality criterion was met) to 100% (all the quality
+criteria were met). The cumulative quality score was a weighted
+average of the 4 percentages. To avoid selection bias, no study
+was rejected because of these quality criteria.
+
+Data extraction
+
+All data from the studies were independently reviewed and
+extracted with a standardized data-collection form by 2 investi-
+gators. Differences between reviewers were resolved by discus-
+sion and, when necessary, through consultation. The following
+
+characteristics were recorded from each study: 1) the first au-
+thor’s name, year of publication, and country of the population;
+2) the study design; 3) the classification used for the disease; 4)
+the number and ages of the subjects; 5) any confounding factors
+for matching or adjustment; 6) the methods used for collection of
+data on exposure; and 7) the odds ratio (OR) of oral cancer
+associated with fruit or vegetable consumption and the corre-
+sponding 95% CI in each subgroup. For a meta-analysis on the
+relation between diet and the risk of oral cancer, we selected all
+observational studies that related either vegetable or fruit intake
+to the incidence, mortality, or prevalence of oral cancer. Further-
+more, a retrospective assessment of the diet was feasible because
+oral cancer is not immediately fatal. The studies included in our
+meta-analysis often differed in the measurement of fruit and
+vegetable consumption, with many different categories used to
+indicate the extent of consumption. All studies were stratified by
+fruit or vegetable intakes to evaluate any dose-response relations,
+and some of the studies performed multivariate analyses to adjust
+for several confounders. For the published results of each of the
+selected studies, data were extracted to permit the calculation of
+both unadjusted and adjusted ORs with 95% CIs to estimate the
+association between fruit and vegetable consumption and the risk
+of oral cancer.
+
+Meta-analyses
+
+Separate meta-analyses were conducted for fruit and vegeta-
+ble consumption. The effect of portions or daily intakes of fruit
+or vegetables consumed on the risk of oral cancer was calculated.
+The analysis was repeated with the results for citrus fruit and
+green vegetable consumption obtained from studies in which
+these results were available. For each study, a weighted log-
+linear regression analysis of the adjusted ORs was performed
+according to the mean, median, or midpoint of fruit or vegetable
+consumption, except in the case of studies with only 2 exposure
+categories in which the value of the logarithm of the OR for one
+portion was used. In open-ended categories, the number of por-
+tions was chosen proportionally to those of the other categories.
+Weights were calculated according to the methods described by
+Greenland (5) and Berlin et al (6). Combined risk estimates were
+calculated by using the risk estimates that reflected the greatest
+degree of control for other environmental and dietary risk factors
+(OR adjusted for confounding factors). Potential sources of het-
+erogeneity between the studies were examined by using the
+method developed by DerSimonian and Laird (7), which calcu-
+lates the between-study variation based on the Q statistic. We
+considered that there was statistically significant heterogeneity
+when the P value between the results of the included studies was
+below 0.1. In cases with heterogeneity, we applied random-
+effects models as opposed to fixed-effect models because the
+former include both within-study sampling error (variance) and
+between-study variation in the assessment of the uncertainty
+(95% CI) of the results of a meta-analysis.
+
+Sensitivity analyses
+
+To explore the reasons for the observed heterogeneity, sensi-
+tivity analyses were performed by grouping studies that showed
+more similar characteristics, such as similar cases according to
+ICD-9 codes, cases restricted to exposure to citrus fruit and green
+vegetables, those that presented disaggregated data by sex, or
+those that were adjusted for a core of variables, such as age, sex,
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/83/5/1126/4649563
+by Sheridan College user
+on 31 July 2018
+
+1128
+
+PAVIA ET AL
+
+cigarette smoking, and alcohol consumption. Finally, we inves-
+tigated the effect of the poor-quality studies on the overall effect
+size by performing a sensitivity analysis on the results by 2
+subgroups, which were based on individual scores above or be-
+low the median.
+
+To additionally explore heterogeneity, a multivariate meta-
+regression analysis was performed. This multivariate meta-
+regression analysis examined the effect of certain variables, such
+as quality score, type of cancers included, citrus fruit and green
+vegetable consumption, population studied (men, women, or
+both) and time interval for dietary recall, on the role of fruit or
+vegetable consumption in the risk of oral cancer. The random-
+effects regression model relates the treatment effect to the co-
+variates, assuming a normal distribution for the residual errors
+with a within-study and an additive between-studies component
+of variance. The between-studies variance was estimated with an
+iterative procedure by using an estimate that is based on a re-
+stricted maximum likelihood method (8).
+
+Finally, the presence of publication bias was assessed with a
+funnel plot for asymmetry, which is a scatter plot of the individ-
+ual studies that relates the magnitude of the treatment effect to a
+measure of its precision (9); for formal statistical testing we used
+an adjusted rank correlation test and a regression asymmetry test
+(10, 11). All analyses were performed with STATA statistical
+software version 8.1 (12).
+
+RESULTS
+
+Study characteristics
+
+We identified a total of 71 potentially relevant studies that
+described the association between the consumption of fruit and
+vegetables and oral cancer, but after obtaining and reading the
+articles, our predetermined inclusion criteria were met by only 16
+studies, which were then included in the meta-analysis (13–28).
+A list of the excluded papers is available from the authors. Ar-
+ticles were excluded from the analyses for any one of the fol-
+lowing reasons: 1) the article was a review paper; 2) the results
+from the same subjects had already been partially or completely
+published in another included article; 3) the article was a survey
+study; 4) the article had insufficient published data for determin-
+ing an estimator of RR, OR, or a variance; 5) the article had
+insufficient published data for determining a quantitative con-
+sumption of fruit or vegetables; 6) the results of the article were
+on micronutrients; 7) the data on oral cancer were mixed with that
+of other cancers; 8) the article had no measurement on fruit and
+vegetable consumption; and 9) the study was restricted to par-
+ticipants aged 쏝45 y.
+
+The summary characteristics of all studies included in the
+meta-analysis are described in Table 1. The sample size of the 16
+included studies (15 case-control studies and 1 cohort study)
+varied between 92 and 1192 for the case subjects and between
+106 and 36 527 for the control subjects. The studies were geo-
+graphically heterogeneous: most of the study populations in-
+volved European samples (n ҃ 7), 5 studies were conducted in
+the Americas, and 4 were conducted in East Asia. The study
+populations in 3 case-control studies consisted solely of men and
+one study consisted solely of women. The age of the participants
+varied from 18 to 91 y. To give an indication of the actual OR
+found in the studies, we also show the ORs for the group with the
+different exposure for each study. All selected studies for both
+
+fruit and vegetable consumption reported either crude or adjusted
+ORs 쏝1.0, which suggested that fruit and vegetable intake had a
+protective effect on oral cancer incidence, although a statistically
+significant positive effect (P 쏝 0.05) compared with the refer-
+ence category was observed in only 17 of the 32 comparisons
+investigating fruit consumption and in 15 of the 28 comparisons
+investigating vegetable consumption. In all except one study,
+dietary habits were collected by an in-person interview, and
+recall of lifelong dietary habits was referred to in 8 studies, recall
+of 2-y dietary habits before interview was referred to in 2 studies,
+and recall of 1-y dietary habit before interview was referred to in
+4 studies.
+
+Data quality
+
+The quality of the epidemiologic studies included in the meta-
+analysis is summarized in Table 2. The overall quality ratings of
+the studies varied from 0.39 to 0.75, with a median of 0.66. In all
+case-control studies, case subjects and control subjects were
+identified without knowledge of exposure status and control sta-
+tus was not associated with fruit or vegetable intakes; moreover,
+in the only cohort study, exposed and nonexposed subjects were
+identified without knowledge of disease status. Validation of
+disease diagnosis by histology or other gold standards was sat-
+isfied in 87.5% studies. With the exception of 2 studies, all used
+standard definitions, such as the ICD (8th or 9th revision), to
+define the cancer outcome. Most studies (75%) presented demo-
+graphic data and 68.8% conducted a statistical analysis on such
+data. The extent of adjustment for potential confounding factors
+in the relation between oral cancer and diet varied considerably
+across the studies. All studies adjusted for age and sex and 93.8%
+adjusted for tobacco smoking, but only 12.5% adjusted for to-
+bacco chewing habits and 75% for alcohol consumption. Only 12
+studies simultaneously presented adjusted ORs for known risk
+factors for oral cancer, including age, sex, cigarette smoking, and
+alcohol consumption. Statistical analyses in these studies in-
+cluded multivariate analyses with adjustment for confounders,
+and 93.8% of the studies listed P values and CIs. No studies
+performed any power calculations.
+
+Meta-analysis
+
+When all the extracted data were pooled, 65 802 and 57 993
+subjects were eligible for analysis of fruit and vegetable con-
+sumption, respectively. The meta-analysis data that explored the
+effect of fruit consumption on the risk of oral cancer is shown in
+Figure 1; citrus fruit consumption was taken into account when
+available. Fruit consumption reduced the occurrence of oral can-
+cer in all 16 studies, because all estimates of the single studies
+derived from the log-linear model were below 1.0, but a statis-
+tically significant protective effect was only found in 13 com-
+parisons. The combined adjusted OR estimates based on 16 stud-
+ies showed that each portion of fruit consumed per day had an
+overall statistically significant effect on reducing the risk of oral
+cancer by 49% (OR: 0.51; 95% CI: 0.40, 0.65). An almost similar
+effect was reported for vegetable consumption: a significant re-
+duction in the risk of oral cancer was found in 10 out of 15 studies,
+whereas the combination of all studies uncovered an overall
+significant reduction in the risk of oral cancer of 50% (OR: 0.50;
+95% CI: 0.38, 0.65), and, in this case, data on green vegetables
+were used when available (Figure 2). However, the Q statistic
+test of homogeneity found a statistically significant heterogene-
+ity across the various studies; the results for fruit consumption
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/83/5/1126/4649563
+by Sheridan College user
+on 31 July 2018
+
+FRUIT AND VEGETABLE CONSUMPTION AND ORAL CANCER
+
+1129
+
+TABLE 1
+Characteristics of observational studies of the relation between fruit and vegetable intakes and oral cancer risk included in the meta-analysis1
+
+Authors
+
+Country
+
+Classification of
+disease (codes)
+
+No. of case
+subjects2
+
+(age in years)
+
+No. of control
+
+subjects2
+
+(age in years)
+
+Variables of adjustment
+
+Fruit
+
+Vegetables
+
+Quality
+score
+
+Servings: OR estimate (95% CI)
+
+Time frame for
+data collection
+
+on dietary
+
+habits
+
+Jafarey et al (13)
+
+Pakistan
+
+Not specified
+
+1192 (not defined)
+
+10 707 (not
+defined)
+
+Age, sex, county of
+
+residence
+
+Winn et al (14)3
+
+USA
+
+Notani and
+
+Jayant (15)4
+
+USA
+
+ICD-8 (141,
+143–146,
+148, 149)
+
+ICD-8 (141–
+145, 146,
+148)
+
+227 (울65)
+
+405 (울65)
+
+Age, sex, race, SES, county
+of residence, tobacco use
+(smoking and chewing
+habits), dental status
+
+278 (from 쏝40 to
+
+욷60)
+
+215 (from 쏝40
+
+to 욷60)
+
+Age, sex, race, SES, tobacco
+
+use (smoking and
+chewing habits)
+
+Franco et al (16) Brazil
+
+ICD-9 (141,
+143–145)
+
+232 (from 쏝40 to
+
+욷70)
+
+464 (matched
+
+for 5-y age-
+group)
+
+Age, sex, alcohol
+
+consumption, tobacco
+use (smoking habits)
+
+쏝1/wk: 1.00
+1/wk: 0.34 (0.29, 0.4)
+2–4/wk: 0.13 (0.11,
+
+0.16)
+
+5–7/wk: 0.09 (0.07,
+
+0.12)
+
+울1/wk: 1.00
+1.1–6.9/wk: 0.7 (0.5,
+
+1.2)
+
+욷7/wk: 0.6 (0.4, 0.8)
+Oral cavity:
+쏝1/wk: 1.00
+욷1/wk: 0.87 (0.6, 1.3)
+Pharynx:
+쏝1/wk: 1.00
+욷1/wk: 0.86 (0.6, 1.3)
+Citrus fruit:
+쏝1/mo: 1.00
+1/mo-3/wk: 0.5 (0.3,
+
+0.8)
+
+욷4/wk: 0.5 (0.3, 0.9)
+
+La Vecchia et al
+
+(17)
+
+De Stefani et al
+
+(18)4,5
+
+Italy
+
+ICD (142–147)
+
+105 (37–74)
+
+1169 (21–74)
+
+Uruguay
+
+Not specified
+
+246 (40–89)
+
+253 (40–89)
+
+Chyou et al
+(19)4,6,7
+
+Japan
+
+ICD-8 (140–
+150, 161)
+
+92 (45–68)
+
+7901 (45–68)
+
+Age, sex, residence, SES,
+tobacco use (smoking
+habits)
+
+Age, sex, residence, SES,
+tobacco use (smoking
+habits), alcohol
+consumption
+
+Age, sex, race, residence,
+tobacco use (smoking
+habits), alcohol
+consumption
+
+쏝7/wk: 1.00
+7–13/wk: 0.6 (0.4, 1.0)
+쏜13/wk: 0.2 (0.1, 0.4)
+Never: 1.00
+울3/wk: 0.7 (0.3, 1.4)
+쏜3/wk: 0.6 (0.3, 1.4)
+울1/wk: 1.00
+2–4/wk: 0.76 (0.4, 1.43)
+욷5/wk: 0.65 (0.39,
+
+1.07)
+
+266 (20–79)
+
+36 527 (20–79) Age, sex, race, tobacco use
+
+(smoking habits), alcohol
+consumption
+
+Takezaki et al
+
+(20)
+
+Japan
+
+Levi et al (21)
+
+Switzerland
+
+Franceschi et al
+
+(22)
+
+Italy
+
+Fernandez
+
+Garrote et al
+(23)
+
+Cuba
+
+Tavani et al (24)
+
+Italy
+
+Petridou et al
+
+(25)
+
+Greece
+
+Lissowska et al
+
+(26)
+
+Poland
+
+ICD-9 (141,
+143–146,
+148)
+
+ICD-9 (141,
+143–146,
+148, 149)
+
+ICD-9 (141,
+143–146,
+148, 149)
+
+ICD-9 (140.3–
+140.5, 141,
+143–146)
+
+ICD-9 (140.3–
+140.5, 141,
+143–146)
+
+ICD-9 (141,
+143–145,
+148, 149)
+
+ICD-9 (141,
+143–146,
+149)
+
+156 (26–72)
+
+284 (23–74)
+
+598 (22–77)
+
+1491 (20–78)
+
+200 (28–91)
+
+200 (25–88)
+
+132 (27–86)
+
+148 (27–86)
+
+106 (쏝50 to 욷80)
+
+106 (쏝40 to
+
+욷70)
+
+122 (23–80)
+
+124 (23–80)
+
+Rajkumar et al
+
+(27)
+
+India
+
+ICD-9 (143–
+
+145)
+
+591 (18–87)
+
+582 (18–80)
+
+Sa´nchez et al
+
+(28)
+
+Spain
+
+ICD-O-2nd
+
+(C01–C10)
+
+375 (20–91)
+
+375 (20–87)
+
+Age, sex, residence, SES,
+tobacco use (smoking
+habits), alcohol
+consumption
+
+Age, sex, residence, SES,
+tobacco use (smoking
+habits), alcohol
+consumption
+
+Age, sex, residence, SES,
+tobacco use (smoking
+habits), alcohol
+consumption
+
+Age, sex, SES, total number
+of portions, tobacco use
+(smoking habits), alcohol
+consumption
+
+Age, sex, residence, SES,
+tobacco use (smoking
+habits), alcohol
+consumption, tea or
+coffee consumption, oral
+hygiene
+
+Age, sex, race, residence,
+tobacco use (smoking
+habits), alcohol
+consumption
+
+Age, sex, race, residence,
+
+SES, tobacco use
+(smoking and chewing
+habits), alcohol
+consumption
+
+Age, sex, race, residence,
+
+SES, tobacco use
+(smoking habits), alcohol
+consumption
+
+0.39
+
+Not specified
+
+0.61
+
+Life long
+
+0.44
+
+Life long
+
+0.66
+
+Life long
+
+0.59
+
+Life long
+
+0.66
+
+1 y
+
+0.53
+
+Life long
+
+0.62
+
+Life long
+
+0.69
+
+2 y
+
+0.69
+
+2 y
+
+0.72
+
+Life long
+
+0.56
+
+1 y
+
+쏝1/wk: 1.00
+1/wk: 0.40 (0.24, 0.69)
+2–4/wk: 0.88 (0.56, 1.39)
+
+5–7/wk: 0.21 (0.13, 0.33)
+
+Green leafy vegetables:
+울2/wk: 1.00
+2.1–6.9/wk: 0.7 (0.5, 1.1)
+
+욷7/wk: 0.7 (0.5, 1.1)
+Oral cavity:
+Never: 1.00
+욷1/die: 0.95 (0.6, 1.4)
+Pharynx:
+Never: 1.00
+욷1/die; 0.97 (0.6, 1.5)
+Green vegetables:
+쏝1/mo: 1.00
+1/mo-3/wk: 0.8 (0.5, 1.4)
+
+욷4/wk: 0.7 (0.4, 1.4)
+Green vegetables:
+쏝7/wk: 1.00
+7/wk: 0.9 (0.6, 1.5)
+쏜7/wk: 0.6 (0.3, 1.2)
+Never; 1.00
+울2/wk: 0.4 (0.2, 0.9)
+쏜2/wk: 0.4 (0.2, 0.9)
+
+Raw vegetables:
+쏝3/wk: 1.00
+욷3/wk: 0.6 (0.4, 0.8)
+쏝3/wk: 1.00
+3–5/wk: 0.38 (0.22, 0.64)
+쏜5/wk: 0.22 (0.11, 0.43)
+
+쏝4/wk: 1.00
+4–6/wk: 0.7 (0.5, 0.9)
+욷7/wk: 0.5 (0.3, 0.8)
+쏝12/wk: 1.00
+12–19/wk: 0.67 (0.36,
+
+1.23)
+
+Green vegetables:
+쏝7/wk: 1.00
+7–13/wk: 0.3 (0.15, 0.6)
+
+쏜13/wk: 0.37 (0.16,
+
+0.88)
+
+쏝3/wk: 1.00
+욷3/wk: 0.8 (0.6, 1.1)
+쏝3/wk: 1.00
+3–4/wk: 0.53 (0.3, 0.95)
+쏜4/wk: 0.25 (0.12,
+
+0.54)
+
+쏝4/wk: 1.00
+4–5/wk: 0.9 (0.7, 1.1)
+욷6/wk: 0.6 (0.4, 0.9)
+쏝7/wk: 1.00
+7–13/wk: 0.71 (0.39,
+
+1.29)
+
+0.89)
+
+1.21)
+
+0.87)
+
+쏝7/wk: 1.00
+7–13/wk: 0.51 (0.22,
+
+쏜13/wk: 0.34 (0.13,
+
+쏜 13/wk: 0.43 (0.21,
+
+쏜 19/wk: 0.78 (0.4, 1.51)
+
+Quintile: 0.99 (0.77,
+
+1.28)
+
+Quintile: 1.11 (0.85,
+
+1.46)
+
+0.69
+
+1 y
+
+쏝3/wk: 1.00
+3–6/wk: 0.99 (0.45,
+
+2.19)
+
+쏝6/wk: 1.00
+6–8/wk: 0.83 (0.39, 1.78)
+
+0.66
+
+Life long
+
+욷7/wk: 0.4 (0.17, 0.95) 욷9/wk: 0.17 (0.07, 0.45)
+울2/wk: 1.00
+쏝4/wk: 0.24 (0.16,
+
+쏝7/wk: 1.00
+7–13/wk: 0.87 (0.61,
+
+욷4/wk: 0.55 (0.38,
+
+욷14/wk: 0.44 (0.28,
+
+1.26)
+
+0.69)
+
+울6/wk: 1.00
+7–10/wk: 0.54 (0.37,
+
+울3/wk: 1.00
+4–7/wk: 0.92 (0.63, 1.32)
+
+욷11/wk: 0.52 (0.34,
+
+욷8/wk: 0.54 (0.34, 0.87)
+
+0.36)
+
+0.81)
+
+0.79)
+
+0.79)
+
+0.75
+
+Not specified
+
+0.69
+
+1 y
+
+1 ICD, International Classification of Disease; SES, socioeconomic status.
+2 Source: review of hospital admissions and discharges.
+3 Women only.
+4 Men only.
+5 Eligible: cancer of the oral cavity and pharynx. Not eligible: cancer of lip, salivary glands, and nasopharynx.
+6 Honolulu Heart Program (selective service registration files).
+7 Cohort study.
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/83/5/1126/4649563
+by Sheridan College user
+on 31 July 2018
+
+1130
+
+PAVIA ET AL
+
+TABLE 2
+Items used in quality scoring for studies of the association between fruit and vegetable intakes and oral cancer
+
+Quality scoring item
+
+Case-control studies
+
+Cases either randomly selected or selected to include all cases in a specific population
+Cases identified without knowledge of exposure status
+Response rate for identified cases 쏜 75%
+Control drawn randomly from the same population of cases
+No known association between control status and exposure
+Response rate for identified controls 쏜75%
+
+Cohort studies
+
+Initial response rate 쏜75%
+Comparison of persons who did and did not participate
+Follow-up rate 쏜75%
+Comparison of who were and were not lost to follow-up
+Exposed or nonexposed subjects identified without knowledge of disease status
+No known association between nonexposed status and disease
+
+All studies
+
+Adjustment or matching for confounders
+
+Age
+Sex
+Race
+County of residence
+Socioeconomic status or education
+Alcohol use
+
+Level of alcohol consumption
+Type of alcohol consumption
+
+Tobacco use
+Smoking
+Frequency of smoking
+Duration of smoking
+Chewing habits
+
+Dental status, oral hygiene
+Occupation
+Infectious disease, sexual practice
+Tea, coffee, mate
+
+Misclassification bias
+
+Exposure assessment made blindly with respect to the case-control status of subjects
+Exposure evaluations made in relation to the time of diagnosis
+Method of determining the exposure
+Specific disease criteria given
+Disease validated by histology or other gold standard
+
+Data analysis
+
+Demographic data listed
+Statistical analysis of demographic data
+Power calculations performed
+Precise P values or CIs given
+Test statistic specified
+
+1 Noncompliance was assumed if compliance was not specifically indicated in the text.
+
+Studies complying1
+
+%
+
+100
+100
+93.8
+100
+100
+93.8
+
+0
+0
+100
+0
+100
+100
+
+100
+100
+56.3
+43.8
+68.8
+75
+75
+31.3
+
+93.8
+75
+75
+12.5
+12.5
+0
+0
+12.5
+
+31.3
+93.8
+100
+93.8
+87.5
+
+75
+68.8
+0
+93.8
+100
+
+(Q: 1754.54; df: 15; P 쏝 0.001) and for vegetable consumption
+(Q: 193.68; df: 14; P 쏝 0.001) were heterogeneous.
+
+To additionally evaluate the effect of fruit and vegetable con-
+sumption on the risk of oral cancer, a pooled analysis was per-
+formed for potential sources of heterogeneity by combining stud-
+ies that showed similar characteristics. The pooled OR estimate
+for all sensitivity analyses performed did not substantially mod-
+ify the conclusions of the overall meta-analysis, although in most
+cases lower significant estimates were found, which suggested
+an even more beneficial effect of fruit and vegetable consump-
+tion. The OR was not substantially changed after limiting the
+
+analysis to high- or low-quality studies, although the OR esti-
+mates were lower in the low quality studies of fruit consumption
+(OR: 0.48; 95% CI: 0.35, 0.67) and in the high quality studies for
+vegetable consumption (OR: 0.47; 95% CI: 0.31, 0.72). Esti-
+mates of studies that were conducted in only men uncovered a
+significant reduced risk associated only with fruit consumption
+(OR: 0.45; 95% CI: 0.26, 0.76); the opposite occurred in studies
+that were conducted in women only, in which a significant risk
+reduction was observed only with vegetable intake (OR: 0.65;
+95% CI: 0.47, 0.9). It should be noted, however, that these meta-
+analyses yielded very wide CIs because they relied on a small
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/83/5/1126/4649563
+by Sheridan College user
+on 31 July 2018
+
+FRUIT AND VEGETABLE CONSUMPTION AND ORAL CANCER
+
+1131
+
+FIGURE 1. Meta-analysis of the effect of each portion of fruit consumed per day on the risk of oral cancer. 1, low-quality score study; 2, both men and women
+included in the study; 3, only women included in the study; 4, only men included in the study; 5, high-quality score study; 6, calculated with the DerSimonian
+and Laird (7) random-effect model.
+
+number of studies. Studies involving both men and women
+showed a similar significant reduction in the risk of oral cancer
+for both fruit (OR: 0.53; 95% CI: 0.41, 0.7) and vegetable (OR:
+0.51; 95% CI: 0.39, 0.67) intakes. Meta-analyses restricted to
+particular kinds of fruit and vegetable intakes showed no sub-
+stantially different effect for green vegetable consumption (OR:
+0.53; 95% CI: 0.4, 0.7) compared with overall vegetable con-
+sumption, whereas a larger protection against oral cancer was
+
+associated with citrus fruit consumption (OR: 0.38; 95% CI:
+0.26, 0.56) than with overall fruit consumption. Moreover, an
+only slightly higher protection was found after pooling the 12
+studies that adjusted at least for sex, age, cigarette smoking, and
+alcohol consumption. Finally, the pooled OR estimate of oral
+cancer risk, which included studies that had more homogeneous
+types of cancers (as defined by ICD codes 141, 143–146, 148,
+149), related to the intake of fruit was 0.53 (95% CI: 0.33, 0.84)
+
+FIGURE 2. Meta-analysis of the effect of each portion of vegetables consumed per day on the risk of oral cancer. 1, low-quality score study; 2, both men
+and women included in the study; 3, only women included in the study; 4, only men included in the study; 5, high-quality score study; 6, calculated with the
+DerSimonian and Laird (7) random-effect model.
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/83/5/1126/4649563
+by Sheridan College user
+on 31 July 2018
+
+1132
+
+PAVIA ET AL
+
+TABLE 3
+Summary of the results on the association between fruit and vegetable intakes and oral cancer risk in the meta-analyses1
+
+Fruit intake
+
+Vegetable intake
+
+No. of
+studies
+
+No. of
+subjects
+
+Overall OR
+(95% CI)2
+
+No. of
+studies
+
+No. of
+subjects
+
+16
+6
+10
+12
+4
+2
+—
+7
+3
+12
+
+65 802
+5064
+60 774
+56 185
+15 427
+6058
+—
+5638
+3161
+51 535
+
+0.51 (0.40, 0.65)
+0.53 (0.37, 0.78)
+0.48 (0.35, 0.67)
+0.53 (0.41, 0.7)
+0.45 (0.26, 0.76)
+0.08 (0.001, 6.17)
+
+—
+
+0.38 (0.26, 0.56)
+0.53 (0.33, 0.84)
+0.49 (0.39, 0.63)
+
+15
+6
+9
+12
+3
+2
+7
+—
+3
+11
+
+57 993
+5064
+52 781
+56 185
+6164
+6067
+5015
+—
+3161
+43 542
+
+Overall OR
+(95% CI)2
+
+0.50 (0.38, 0.65)
+0.47 (0.31, 0.72)
+0.51 (0.36, 0.74)
+0.51 (0.39, 0.67)
+0.25 (0.03, 2.36)
+0.65 (0.47, 0.9)
+0.53 (0.4, 0.7)
+
+—
+
+0.40 (0.19, 0.83)
+0.43 (0.31, 0.59)
+
+All studies
+High-quality studies
+Low-quality studies
+Both men and women
+Only men
+Only women
+Green vegetables
+Citrus fruit
+ICD
+Adjustment for age, sex, cigarette smoking,
+
+and alcohol consumption
+
+1 ICD, International Classification of Disease; OR, odds ratio.
+2 ORs were calculated for each portion of fruit or vegetables consumed per day. ORs and 95% CIs were calculated with the DerSimonian and Laird
+
+random-effect model (7).
+
+and that related to vegetable intake was 0.40 (95% CI: 0.19,
+0.83). This still indicated a protective effect, although in all
+analyses there was evidence of significant heterogeneity in the
+results between the studies (P 쏝 0.001) (Table 3).
+
+A multivariate meta-regression analysis showed that the re-
+duction in the risk of oral cancer related to fruit consumption was
+significantly influenced by the type of fruit consumed and the
+time frame of data collection on dietary habits, whereas all other
+factors investigated did not significantly influence the results.
+Indeed, a stronger protective effect was observed for citrus fruit
+consumption than with all other kinds of fruit consumption and
+
+for the longer time frame of dietary habit recall. By contrast, none
+of the variables tested influenced the effect of vegetable con-
+sumption (Table 4).
+
+Funnel plots displaying ORs of the individual studies versus
+the reciprocal of their standard errors showed no substantial
+asymmetry for studies that explored the role of fruit consumption
+on oral cancer risk (P ҃ 0.12 by the Begg and Mazumdar adjusted
+rank correlation test; P ҃ 0.99 by Egger et al regression asym-
+metry test). In contrast, with the use of the Egger et al test, a
+significant funnel plot asymmetry was observed, which sug-
+gested the presence of a publication bias (P ҃ 0.02) in studies on
+
+TABLE 4
+Results of univariate and multivariate meta-regression analyses relating several variables to effect size estimates of the relation between fruit and vegetable
+intakes and oral cancer risk1
+
+Univariate
+
+Multivariate2
+
+Variables
+
+Fruit
+
+Only citrus fruit (no ҃ 0; yes ҃ 1)
+Recall (life long ҃ 0; 2 y ҃ 1; 1 y ҃ 2)
+ICD (other site ҃ 0; 141, 143–146, 148, 149 ҃ 1)
+Population studied
+
+Men and women ҃ 0
+Only women ҃ 1
+Only men ҃ 2
+
+Quality score (low quality ҃ 0; high quality ҃ 1)
+
+Vegetables
+
+Only green vegetables (no ҃ 0; yes ҃ 1)
+Recall (life long ҃ 0; 2 y ҃ 1; 1 y ҃ 2)
+ICD (other site ҃ 0; 141, 143–146, 148, 149 ҃ 1)
+Population studied
+
+Men and women ҃ 0
+Only women ҃ 1
+Only men ҃ 2
+
+Quality score (low quality ҃ 0; high quality ҃ 1)
+
+Regression
+coefficient
+
+Ҁ0.54
+0.03
+Ҁ0.07
+
+0
+
+Ҁ0.65
+Ҁ0.11
+0.22
+
+0.13
+Ҁ0.35
+Ҁ0.44
+
+0
+0.24
+Ҁ0.71
+Ҁ0.05
+
+SE
+
+0.33
+0.18
+0.41
+
+—
+1.02
+0.68
+0.39
+
+0.46
+0.26
+0.38
+
+—
+0.67
+0.58
+0.47
+
+P
+
+0.1
+0.88
+0.87
+
+—
+0.52
+0.87
+0.58
+
+0.78
+0.17
+0.24
+
+—
+0.72
+0.22
+0.91
+
+Regression
+coefficient
+
+Ҁ1.53
+0.63
+0.84
+
+0
+
+Ҁ1.06
+0.01
+Ҁ0.32
+
+Ҁ0.23
+Ҁ0.03
+Ҁ1.04
+
+0
+1.14
+0.25
+0.23
+
+SE
+
+0.56
+0.3
+0.72
+
+—
+1.07
+0.56
+0.54
+
+0.43
+0.21
+0.45
+
+—
+0.73
+0.64
+0.47
+
+P
+
+0.006
+0.04
+0.24
+
+—
+0.33
+0.99
+0.56
+
+0.59
+0.88
+0.02
+
+—
+0.12
+0.69
+0.63
+
+1 ICD, International Classification of Disease.
+2 The following studies were excluded in the multivariate analysis because of missing information on at least one of the variables tested: Jafarey et al (13),
+
+Notani and Jayant (15), and De Stefani et al (18).
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/83/5/1126/4649563
+by Sheridan College user
+on 31 July 2018
+
+FRUIT AND VEGETABLE CONSUMPTION AND ORAL CANCER
+
+1133
+
+FIGURE 3. Begg’s funnel plots (with pseudo 95% CIs) of the log odds ratios (ORs) versus the SEs of the log ORs in studies that evaluated the effect of
+fruit and vegetable intakes on the risk of oral cancer. The horizontal line shows the pooled ORs calculated with the DerSimonian and Laird (7) random-effect
+model.
+
+vegetable consumption, although this was not confirmed by the
+Begg and Mazumdar test (P ҃ 0.49) (Figure 3).
+
+DISCUSSION
+
+We investigated the association between fruit and vegetable
+intake and the risk of oral cancer through a meta-analysis of
+existing epidemiologic studies. The value of the current meta-
+analysis compensates for the individual lack of precision in most
+of the studies, a problem that was alleviated by pooling the data
+of all the studies. The major finding of the present meta-analysis
+provides support for the observation that dietary intake of both
+fruit and vegetables plays an important role as a protective factor
+against the development of oral cancer. Indeed, we observed an
+overall 49% reduction in oral cancer risk for each portion of fruit
+consumed per day and, similarly, an overall 50% reduction for
+vegetable consumption. Moreover, these protective effects were
+both statistically significant. The findings of this pooled analysis
+are partially consistent with the relatively strong protective as-
+sociation observed between fruit intake and the risk of oral and
+pharyngeal cancer observed in a meta-analysis that combined
+case-control studies that were conducted up to the year 2001 (29).
+The previous meta-analysis did not reach the same conclusion for
+vegetable consumption, because the best available evidence in
+that study suggested that vegetable consumption did not have a
+significant protective effect. Our analysis included more studies
+than did the previous meta-analysis (16 compared with 9 and 15
+compared with 7 for studies examining fruit and vegetable con-
+sumption, respectively) and data from 4896 and 4804 cases of
+oral cancer for fruit and vegetable consumption, respectively,
+although the total sample size in the previous meta-analysis was
+not provided. Moreover, in our meta-analysis, the pooled esti-
+mate of the protective effect of fruit (49%) was more precise
+(95% CI: 35%, 60%) than that of the other study.
+
+The strengths of the present meta-analysis include the accept-
+able methodologic quality of the studies on which the analysis is
+based, as well as the considerable number of studies and subjects
+included. Possible limitations of the study include the heteroge-
+neity between the studies, including studies in which outcomes
+
+were recorded with different intakes of fruit or vegetables mea-
+sured as servings per day, per week, or per month. Defining the
+amount of fruit or vegetable consumption at baseline (cohort
+study) or during the reference period (case-control studies) pos-
+sibly caused the heterogeneity between the included studies,
+because the follow-up period and the reference dates varied be-
+tween the studies. Therefore, the results of the meta-analysis
+must be interpreted with caution. Because of potential additional
+heterogeneity in the populations, designs, and analyses of the
+various studies, we assumed that the true effect being estimated
+would vary between the studies, in addition to the usual sampling
+variation in the estimates (within studies). To account for both
+sources of variation, a random-effects meta-regression analysis
+was used to combine the results of the primary studies. The
+random-effect approach provides some allowance for heteroge-
+neity in studies beyond sampling error. This does not necessarily
+rule out the effect of heterogeneity between the studies, but one
+can expect a very limited influence because of it. It should also be
+noted that the phrase “oral cancer” indicates a heterogeneous
+group of disorders, and that most of the studies use different
+classification systems to define it. If vegetable exposures con-
+tributed to only a specific subset of oral cancers, then failure to
+find causal associations in the various studies may be the result
+of their failure to identify and count the appropriate endpoint
+cancers. That possibility, which would reduce the statistical
+power of individual studies, was partially addressed by pooling
+results of the individual studies in our meta-analysis. We thought
+that the different time of exposure and classifications to define
+the cancers could explain the statistical heterogeneity that was
+found between the study results, but heterogeneity persisted after
+we performed relevant subgroup analyses. Although the studies
+included in our analysis were heterogeneous, the relation is
+largely consistent.
+
+The assessment methods for fruit and vegetable consumption
+may also vary between the studies. The assessment is usually
+based on self-reported habits, and such data are subject to recall
+errors. For example, control subjects may be more likely to un-
+derreport their consumption, whereas case subjects, because of
+symptoms (aches, etc) related to eating, may have posed more
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/83/5/1126/4649563
+by Sheridan College user
+on 31 July 2018
+
+1134
+
+PAVIA ET AL
+
+attention to food and diet recall. However, in the present meta-
+analysis, most of the studies used in-person interviews, whereas
+only one study used a self-administered questionnaire. More-
+over, our meta-analysis was based on observational studies,
+mainly case-control studies, and the possibility of selection bias,
+misclassification bias related to exposure, and failure to consider
+potential confounders cannot be ruled out; these biases can lead
+to very precise, but spurious, results in a meta-analysis. In this
+case, with regard to misclassification of exposure, recalls of diet
+may be influenced by disease status, whereas selection bias may
+be related to higher participation rates of patients with cancer
+than of control subjects; additionally, participating control sub-
+jects are likely to be more health conscious than are nonpartici-
+pating control subjects and thus consume more fruit and vege-
+tables. Therefore, results are to be interpreted with caution,
+because this could have led to a spurious inverse association
+between fruit and vegetable consumption and the risk of oral
+cancer.
+
+It has been argued that because meta-analyses of observational
+studies may produce very precise, but spurious, results, a statis-
+tical combination of these data should not be the prominent
+component. However, the present meta-analysis allowed for a
+careful examination of possible sources of heterogeneity to sys-
+tematically examine the strengths and weaknesses of the accu-
+mulated evidence, to contribute to substantial improvement of
+methodologic quality of research, and to identify potential bi-
+ases, data gaps, and suggestions for future research.
+
+A statistically significant funnel plot asymmetry of the effects
+of vegetables consumption on risk of oral cancer was detected
+with the Egger et al (ie, weighted regression; 11) method, but not
+with the Begg and Mazumdar (ie, rank correlation; 10) method,
+and this is compatible with a greater statistical power of the
+regression test. This asymmetry, which was due to the fact that
+smaller studies showed larger benefits, may be caused either by
+small “positive” studies that are more likely to be published than
+those with “negative” results or by small studies that, having a
+lower quality than the large studies, tend to exaggerate the effects
+of vegetable consumption. However, despite the significant het-
+erogeneity detected, the results of the meta-regression and of the
+stratified analysis clearly indicated that vegetable consumption
+had a protective effect against the risk of oral cancer.
+
+In conclusion, on the basis of epidemiologic evidence, we
+found that the consumption of fruit and vegetables was associ-
+ated with a reduced risk of oral cancer. Prospective studies,
+which are less prone to recall and selection bias, are needed to
+confirm this result. In the case of an established protective effect
+of fruit and vegetable consumption on the risk of oral cancer, the
+provision of an easily understandable measure of the association
+may create the basis for a new dietary pattern characterized by a
+high consumption of fruit and vegetables.
+
+MP, CP, and CGAN participated in the design of the study, collected the
+data, and contributed to the data analysis and interpretation. IFA (the prin-
+cipal investigator) designed the study, was responsible for the data analysis
+and interpretation, and wrote the manuscript. None of the authors had any
+conflicts of interest.
+
+REFERENCES
+1. Parkin DM, Bray F, Ferlay J, Pisani P. Global cancer statistics, 2002. CA
+
+Cancer J Clin 2005;55:74 –108.
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/83/5/1126/4649563
+by Sheridan College user
+on 31 July 2018
+
+2. World Health Organization. International classification of disease, 9th
+
+Revision. Geneva, Switzerland: World Health Organization, 1997.
+
+3. Chalmers TC, Smith H Jr, Blackburn B, et al. A method for assessing the
+quality of a randomized control trial. Control Clin Trials 1981;2:31– 49.
+4. Angelillo IF, Villari P. Residential exposure to electromagnetic fields
+and childhood leukaemia: a meta-analysis. Bull World Health Organ
+1999;77:906 –15.
+
+5. Greenland S. Quantitative methods in the review of epidemiologic lit-
+
+erature. Epidemiol Rev 1987;9:1–30.
+
+6. Berlin JA, Longnecker MP, Greenland S. Meta-analysis of epidemio-
+
+logic dose-response data. Epidemiology 1993;4:218 –28.
+
+7. DerSimonian R, Laird N. Meta-analysis in clinical trials. Control Clin
+
+Trials 1986;7:177– 88.
+
+8. Thompson SG, Sharp SJ. Explaining heterogeneity in meta-analysis. A
+
+comparison of methods. Stat Med 1999;18:2693–708.
+
+9. Sterne JACE, Egger M, Smith JD. Investigating and dealing with pub-
+lication bias and other biases in meta-analysis. BMJ 2001;323:101–5.
+10. Begg CB, Mazumdar M. Operating characteristics of a rank correlation
+
+test for publication bias. Biometrics 1994;50:1088 –99.
+
+11. Egger M, Davey Smith G, Schneider M, Minder C. Bias in meta-analysis
+
+detected by a simple, graphical test. BMJ 1997;315:629 –34.
+
+12. Stata Corporation. Stata Reference Manual Release 8.1. College Station,
+
+TX: Stata Corporation, 2003.
+
+13. Jafarey NA, Mahmood Z, Zaidi SH. Habits and dietary pattern of cases
+of carcinoma of the oral cavity and oropharynx. J Pak Med Assoc 1977;
+27:340 –3.
+
+14. Winn DW, Ziegler RG, Pickle LW, Gridley G, Blot WJ, Hoover RN.
+Diet in etiology of oral and pharyngeal cancer among women from the
+Southern United States. Cancer Res 1984;44:1216 –22.
+
+15. Notani PN, Jayant K. Role of diet in upper aerodigestive tract cancers.
+
+Nutr Cancer 1987;10:103–13.
+
+16. Franco EL, Kowalski LP, Oliveira BV, et al. Risk factors for oral cancer
+
+in Brazil: a case-control study. Int J Cancer 1989;43:992–1000.
+
+17. La Vecchia C, Negri E, D’Avanzo B, Boyle P, Franceschi S. Dietary
+indicators of oral and pharyngeal cancer. Int J Epidemiol 1991;20:39 –
+44.
+
+18. De Stefani E, Oreggia F, Ronco A, Fierro L, Rivero S. Salted meat
+consumption as a risk factor for cancer of the oral cavity and pharynx: a
+case-control study from Uruguay. Cancer Epidemiol Biomarkers Prev
+1994;3:381–5.
+
+19. Chyou PH, Nomura AMY, Stemmermann GN. Diet, alcohol, smoking
+and cancer of the upper aerodigestive tract: a prospective study among
+Hawaii Japanese men. Int J Cancer 1995;60:616 –21.
+
+20. Takezaki T, Kaoru H, Manami I, et al. Tobacco, alcohol and dietary
+factors associated with the risk of oral cancer among Japanese. Jpn J
+Cancer Res 1996;87:555– 62.
+
+21. Levi F, Pasche C, La Vecchia C, Lucchini F, Franceschi S, Monnier P.
+Food groups and risk of oral and pharyngeal cancer. Int J Cancer 1998;
+77:705–9.
+
+22. Franceschi S, Favero A, Conti E. Food groups, oils and butter, and cancer
+
+of the oral cavity and pharynx. Br J Cancer 1999;80:614 –20.
+
+23. Fernandez Garrote L, Herrero R, Ortiz Reyes RM, et al. Risk factors for
+cancer of the oral cavity and oro-pharynx in Cuba. Br J Cancer 2001;
+85:46 –54.
+
+24. Tavani A, Gallus S, La Vecchia C, et al. Diet and risk of oral and
+pharyngeal cancer. An Italian case-control study. Eur J Cancer Prev
+2001;10:191–5.
+
+25. Petridou E, Zavras AI, Lefatzis D, et al. The role of diet and specific
+carcinoma. Cancer
+
+etiology
+
+oral
+
+of
+
+micronutrients
+2002;94:2981– 8.
+
+in
+
+the
+
+26. Lissowska J, Pilarska A, Pilarski P, et al. Smoking, alcohol, diet, denti-
+tion and sexual practices in the epidemiology of oral cancer in Poland.
+Eur J Cancer Prev 2003;12:25–33.
+
+27. Rajkumar T, Sridhar H, Balaram P, et al. Oral cancer in Southern India:
+the influence of body size, diet, infections and sexual practices. Eur J
+Cancer Prev 2003;12:135– 43.
+
+28. Sanchez MJ, Martinez C, Nieto A, et al. Oral and oropharyngeal cancer
+in Spain: influence of dietary patterns. Eur J Cancer Prev 2003;12:49 –
+56.
+
+29. Riboli E, Norat T. Epidemiologic evidence of the protective effect of
+fruit and vegetables on cancer risk. Am J Clin Nutr 2003;78(suppl):
+559S– 69S.
+
+

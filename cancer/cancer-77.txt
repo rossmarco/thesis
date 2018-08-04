@@ -1,0 +1,1286 @@
+(CANCER RESEARCH 50. 6836-6840, November I, I990|
+
+Diet, Tobacco Use, and Fatal Prostate Cancer: Results from the Lutheran
+Brotherhood Cohort Study
+Ann W. Hsing,1 Joseph K. McLaughlin, Leonard M. Schuman, Erik Bjelke, Gloria Gridley, Sholom Wacholder,
+Harvey T. Co Chien, and William J. Blot
+National Cancer Institute, Betttesda, Maryland 20X92 Â¡A.W. H., J. K. M., G. G., S. W., W. J. B.J; Division of Epidemiology, School of Public Health, University of
+Minnesota, Minneapolis, Minnesota [L. M. SJ; Center for Epidemiologie Research, I 'niversity of Herren, Norway //;'. H./; and H estÃ¢t.Inc., Rockville, Maryland 20850
+Â¡H.T. C. C.]
+
+ABSTRACT
+
+follow-up,
+
+risks
+smokers
+
+for prostate
+(relative
+
+A cohort of 17,633 Â»hite males age 35 and older responded to a mailed
+epidemiolÃ³gica! questionnaire
+in 1966 and was followed until 1986 to
+determine the risk of cancer associated with diet, tobacco use, and other
+cancer cases
+factors. During the 20-year
+149 fatal prostate
+cancer were
+identified. Relative
+were
+significantly
+elevated among cigarette
+risk, 1.8; 95% confidence
+tobacco (relative risk, 2.1; 95%
+interval, 1.1 -2.9) and users of smokeless
+confidence interval, 1.1-4.1). No significant associations were found with
+frequency of consumption of meats, dairy products,
+fruits, or vegetables,
+of
+there were no overall
+(retinol) and provitamin A from plant
+vitamin A from animal
+(carotene) and risk, but positive trends were seen for ages under
+sources
+con
+75, while inverse associations were found at older ages. Beverage
+sumption,
+including drinking coffee and alcohol, was unrelated to risk.
+Marital status, education, rural/urban status, and farming residence were
+also unrelated to the risk of fatal prostate
+cancer. The findings add to
+limited evidence
+tobacco may be a risk factor for prostate cancer,
+but fail to provide clues to dietary or other risk factors.
+
+between consumption
+
+significant
+sources
+
+associations
+
+that
+
+INTRODUCTION
+
+cancer
+is a major
+for 20% of cancer
+
+form of cancer
+among men,
+Prostate
+incidence and 11% of cancer
+accounting
+the highest rates of
+deaths in the United States (1). Worldwide,
+cancer occur among United States blacks and the
+prostate
+lowest among Asians (2). Despite its high incidence and mor
+tality, very little is known about
+the etiology of prostate cancer.
+Previous epidemiolÃ³gica! studies have suggested a number of
+risk factors,
+farm
+ing residence, alcoholic beverages, exposure
+to cadmium, ve
+nereal disease, number of sexual partners, and androgen levels
+have linked cigarette smoking (6-
+(3-5). A few investigations
+8) to an increased risk of prostate
+is
+generally not considered to be tobacco related (9, 10).
+
+including socioeconomic
+
+and marital status,
+
+cancer, but
+
+this tumor
+
+The role of diet
+
+in a number of studies with equivocal
+
+in the etiology of prostate cancer has been
+investigated
+results.
+Increased intake of fat and animal products has been associated
+with increased risk (11-14),
+although not always consistently
+(15-17). Some investigators have found increased dietary intake
+of vitamin A to enhance prostate
+risk, particularly at
+older ages (17-20), while others have reported that high serum
+levels of retinol (21) and consumption of /i-carotene-containing
+results
+foods lower the risk (22, 23). In this report, we present
+associations
+from a cohort
+and demographic
+of diet,
+characteristics with the risk of fatal prostate
+cancer. Such a
+study design permits the measurement of diet and other factors
+
+tobacco use, beverage consumption,
+
+study of 17,633 men to determine
+
+cancer
+
+Received 3/12/90; accepted 7/18/90.
+The costs of publication of this article were defrayed in part by the payment
+in
+
+of page charges. This article must
+accordance with 18 II.S.C. Section 1734 solely to indicate this fact.
+
+therefore be hereby marked advertisement
+
+1To whom requests for reprints
+
+Biostatistics Program. Division of Cancer Etiology. National Cancer
+Executive Plaza North. Room 415. Bethesda. MD 20892.
+
+should be addressed, at Epidemiology and
+Institute.
+
+before the diagnosis of cancer,
+potential problem in case-control
+
+thus avoiding recall bias, a
+studies of cancer.
+
+MATERIALS AND METHODS
+
+background,
+
+of respondents
+
+The Lutheran Brotherhood Cohort. In 1966. a cohort (n = 26,030) of
+white male policy holders of the Lutheran Brotherhood
+Insurance
+Society who were at least 35 years of age was selected for a mortality
+follow-up study (median age at entry into the cohort, 51). In September
+1966, a questionnaire was mailed to members of the cohort with
+questions on demographic
+frequency of use of dietary
+items, and tobacco habits. A response rate of 68.5% was achieved after
+three mailings. A comparison
+and nonrespondents,
+using original
+insurance records, found little difference in age, urban/
+rural residence, or policy status (24).
+
+Since the LBS2 cohort was a self-selected group, having purchased
+life insurance, several characteristics of the cohort members were dif
+ferent
+from those of the United States population. The cohort was
+primarily from the upper midwest, particularly Minnesota, and north
+eastern areas of the United States (45 and 39%, respectively), with 30%
+of Norwegian and other Scandinavian heritage.
+In addition, compared
+to United States white males in the mid-1960s,
+the LBS cohort was
+more rural (37 versus 29%). and more were farmers (38 versus 4%) (25).
+Mortality. The LBS cohort was followed for mortality from 1966 to
+1986. for a total of 286,731 person-years. Death certificates, which
+were received semiannually from the Lutheran Brotherhood Insurance
+Society, were coded for underlying cause of death, all other contributory
+causes of death, and all other significant conditions by the nosologist
+of the Minnesota State Department
+of Health. During the 20-year
+follow-up, 4513 deaths,
+including 1033 cancer deaths, were identified.
+The two major causes of death were heart disease and cancer. Among
+the cancer deaths,
+the distribution of anatomic sites was similar to that
+among United States males, with the most common being malignancies
+of the lung (n = 203), prostate (n = 149). and large intestine (n = 120).
+The overall mortality experience of this cohort was similar to that of
+United States white males, although the number of prostate cancer
+deaths was slightly lower than expected (standard mortality ratio. 0.92)
+(26). During the follow-up, 4027 subjects (23%) were lost to follow-up
+due to lapsed policies or discontinuation
+of policies after premium
+maturity. A comparison of cancer mortality at 11.5 years of follow-up
+showed no significant differences between original
+and
+nonrespondents
+
+and those whose policies lapsed (24).
+
+respondents
+
+Tobacco and Alcohol. Information on tobacco use. including the use
+of cigarettes, pipes, cigars, and smokeless
+tobacco (snuff or tobacco
+chewing), was elicited in the 1966 questionnaire. Since no subsequent
+information on tobacco use was obtained,
+smoking exposure in the
+analysis pertained to the smoking experience of cohort members
+in
+1966. Thus, current smokers were defined as those smoking in 1966.
+Information on the use of beer and whiskey was also asked in the 1966
+questionnaire:
+persons who used either beer or liquor (whiskey, gin,
+cognac, etc.) at least 6 times a year were defined as users.
+
+Dietary Data. The respondents were asked about
+
+the frequency of
+their current
+(in 1966) monthly intake of foods. Thirty-five individual
+food items, including vegetables (potatoes, cabbage, rutabagas, carrots.
+
+: The abbreviations used are: LBS, Lutheran Brotherhood Insurance Society;
+
+RR. relative risk; CI. confidence interval.
+
+Downloaded from 
+
+cancerres.aacrjournals.org 
+
+on July 31, 2018. © 1990 American Association for Cancer Research. 
+
+6836
+
+DIET, TOBACCO USE, AND FATAL PROSTATE CANCER
+
+fish, meat, dairy products
+
+cauliflower, corn, green salads,
+tomatoes, peas, and beans), vegetable
+and fruit soups, fruits (oranges, apples, grapes, bananas, canned fruit),
+fruit juices,
+(milk and ice cream), cereals,
+bread, and alcohol were included in the questionnaire. These 35 food
+items were combined into 9 food groups.
+Information on portion size
+(sex specific) and nutrient values was derived from the Second National
+Survey and from data of the
+Health and Nutritional Examination
+United States Department
+respectively (27-28). For
+the carotene value for a specific food item for each subject
+example,
+was derived by multiplying the reported consumption frequency by the
+average portion size and the carotene content of that food item. The
+total carotene index for a specific individual was derived by summing
+the values from all carotene-containing
+
+of Agriculture,
+
+foods.
+
+One hundred eighty-five individuals were excluded because they had
+more than 10 unknown responses
+to the food item questions. The
+excluded individuals were older, more likely to reside in rural areas,
+and less educated as compared to the 17,633 subjects who remained in
+the final analysis. For the included subjects. 71% had no missing data
+on any food items; of the remaining 29% (87% of whom had fewer
+than 5 items missing), we imputed intake for missing food items, using
+the median values of the remaining subjects, stratified by urban/rural,
+education, and age categories. The imputation is unlikely to greatly
+affect the nutrient analysis, since, for example,
+it contributed to only
+about 1% of the vitamin A index. Consumption of food groups and
+nutrients was divided into quartiles based on the intake of all 17.633
+subjects.
+
+is small relative to the size of the cohort,
+
+Statistical Analysis. A Poisson regression program for modeling
+hazard functions with grouped data was used to calculate age-adjusted
+relative risks (29-30). Since the number of prostate cancer deaths in
+this cohort
+the prostate cancer
+deaths occurring during the 20-year
+follow-up may be regarded as
+statistically independent Poisson variables. As with other grouped
+the major assumption for this Poisson regression
+survival analyses,
+method is that
+in each time interval.
+Five-year age intervals (attained age) were used for the grouping of the
+data; RRs for prostate cancer were calculated for each age stratum and
+summarized over all strata for the selected variables. Persons-years for
+study subjects were accumulated up to death,
+loss to follow-up, or the
+end of the follow-up in 1986.
+
+the hazard function is constant
+
+RESULTS
+
+Table 1 shows the risk of fatal prostate
+
+Among the 149 cohort members who died of prostate cancer,
+the median age at death was 73, compared to 70 for all deaths
+in the cohort. There were no significant associations
+for prostate
+cancer risk with marital status, farming residence, or education.
+cancer associated
+with intake of 9 food groups. No significant associations were
+fish, eggs, dairy
+found with consumption
+of meat, poultry,
+products, vegetables, cruciferous vegetables,
+fruits, or breads.
+In addition, no individual
+food item was found to increase or
+decrease risk significantly.
+
+No significant
+
+trends in risk were found in association with
+total vitamin A, retinol, or ÃŸ-caroteneintake. The smoking-
+adjusted RRs for the 4 quartiles were 1.0, 1.2, 0.8, and 1.1 for
+total vitamin A; 1.0, 0.8, 0.9, and 1.2 for retinol; and 1.0, 1.2,
+1.3, and 0.9 for /3-carotene; however, because increased intake
+carotenes has been reported to enhance
+of vitamin A and/or
+the risk among older men (age at diagnosis >70),
+intake of
+total vitamin A, retinol, and /i-carotene was analyzed for the
+two age groups separately (age at death <75 or >75) (Table 2).
+For age <75,
+of total vitamin A en
+hanced the risk of prostate cancer: smoking-adjusted RRs for
+the four quartiles were 1.0, 2.3, 1.7, and 2.8,
+respectively.
+However, for older ages, increased consumption of total vitamin
+A was associated with a decreased risk of prostate cancer; RRs
+
+increased consumption
+
+Table 1 Relative risks of fatal prostate cancer by quartile levels of selected food
+
+groups in the Lutheran Brotherhood cohort, 1966-1986
+
+Food groups
+(times/mo)"'*Meat<1718-2627-39>39Poultrv<0.50.5-1.51.6-4.0>4.0Fish<0.80.8-1.71.8-4.0>4.0Eggs<4.04.0-9.09.1-21.021.1-37.5Dairy<2627-5152-8586-189Vegetables<56.856.9-75.976.0-99.1>99.1Cruciferous
+
+deaths503537271465502031513928414045234647332348304526323442413734403827414932RR'1.00.91.10.81.01.51.10.91.01.10.90.81.00.81.20.91.01.20.81.01.00.81.20.71.0I.I1.21.31.00.91.00.91.01.21.51.095%
+
+CI0.6-1.40.7-1.60.5-1.30.8-2.60.6-1.90.4-1.80.7-1.60.6-1.40.5-1.30.5-1.30.8-1.80.5-1.50.8-1.80.5-1.30.6-1.70.8-1.80.8-1.80.4-1.20.7-1.80.8-2.00.8-2.00.5-1.40.6-1.50.6-1.40.7-1.90.9-2.40.6-1.6
+
+of
+
+vegetables<1.21.2-2.22.3-4.5>4.5Fruits<29.329.3-46.546.6-67.0>67.0Breads<8888-138.8138.9-167.3>167.3No.
+
+Â°Consumption frequency per month.
+* Food items included in each food group are as follows: meat: beef, bacon,
+fresh pork, and smoked ham: poultry: chicken; fish: fresh fish, salted fish, and
+fish balls; dairy group: milk and ice cream: vegetables: potatoes, green salad,
+tomatoes, carrots, peas. corn, beans, vegetable soup, cabbage, cauliflower, pea
+soup, and rutabaga: cruciferous vegetables: cabbage, cauliflower, and rutabaga:
+fruits: fruit juice, canned fruit, apples, bananas, oranges, grapes, and fruit soup;
+bread group: bread, packaged cereal, cooked cereal, pancakes, and flat bread.
+
+c Adjusted for age and tobacco use.
+
+were 1.0, 0.7, 0.5, and 0.4, respectively. There were similar risk
+patterns by age for retinol and /3-carotene. Similar age effects
+were found when 70 (age at death) was used as the cutoff.
+
+tobacco. Risks according
+
+All forms of tobacco use were associated with an increased
+risk of prostate cancer (Table 3). Risks were significantly ele
+vated among persons who ever used any form of tobacco (RR
+= 1.8, 95% CI, 1.1-2.9), both among cigarette smokers and
+users of smokeless
+to number of
+cigarettes smoked and regularity of smokeless tobacco use are
+presented in Table 4. There was no clear dose response
+for
+smoked, and there was little difference
+amount of cigarettes
+after adjustment
+for
+the use of smokeless
+tobacco. Among
+current
+the risk was elevated among those
+who inhaled compared to those who did not (RR = 2.0; 95%
+CI, 0.7-5.8). Among persons who had ever used smokeless
+tobacco,
+the risk was highest among persons who dipped snuff
+or chewed tobacco regularly (RR = 2.4; 95% CI, 1.3-4.9), as
+compared to those who had never used any tobacco.
+
+smokers, however,
+
+A review of contributory
+
+and other causes of death on the
+
+Downloaded from 
+
+cancerres.aacrjournals.org 
+
+on July 31, 2018. © 1990 American Association for Cancer Research. 
+
+6837
+
+Table 2 Relative risks" of fatal prostate cancer, by age and quartile levels of
+
+nutrient
+
+indices in the Lutheran Brotherhood Cohort, 1966-1986
+
+Table 4 Relative risks of fatal prostate cancer associated with level of tobacco use
+
+in the Lutheran Brotherhood Cohort, 1966-1986
+
+DIET, TOBACCO USE, AND FATAL PROSTATE CANCER
+
+vita
+
+Af1.02.3(1.1-4.9)1.7(0.8-3.8)2.8(1.4-5.8)P"
+
+min
+
+useCigarettes'Never
+Tobacco
+
+of
+
+per
+
+deaths"19915212113194213524Cohort
+
+son-years58,888190,64087,21529.40436,58815,73258.88841,71614,1178,66618,934RR"1.01.81.91.61.71.41.02.11.81.42.495%
+
+CI1.1-2.91.1-3.30.8-3.30.8-3.50.4-4.41.1-4.10.8-3.90.5-3.91.3-4.9
+
+Quartiles*Age<75*(n
+
+78)'1
+
+=
+(low/'234Age
+
+71)'1
+3 75 (n =
+(low)234Total
+
+(0.5-2.3)2.0(1.0-3.8)1.7(0.9-3.3)P
+
+(0.6-2.5).6(0.8-3.1).9(1.0-3.7)0
+
+tobaccoEver
+
+used any
+
+used
+
+cigarettes''Occasional
+ex-smoker1-19
+and
+cigarettes/day20-29
+cigarettes/day30
+
+<0.051.00.7(0.4-1.3)0.5(0.3-1.0)0.4
+
+i1.00.6(0.3-1.2)0.4
+
+< 0.05
+
+<0.05.0.1
+
+(0.2-0.9)P
+
+< 0.01Retino!1.01.1
+
+> 0.05
+
+(0.2-0.8)0.9(0.5-1.7)
+(P
+
+(0.6-2.1).1
+(0.6-1.9)).2
+(0.1-0.6)Â°<0.01
+i/3-carotene.0.2
+
+for
+for total
+
+" Adjusted for age and tobacco smoking.
+* Cutoff points for quartile were 95,289, 128,007, and 167,479 IU/month
+
+total vitamin A; 9,585, 13.672, and 19,084 Retinol Equivalent/month
+retinol; and 11,517. 19,100, and 30,165 Â¿ig/monthfor d-carotene.
+
+' Represents vitamin A from both plant and animal sources.
+d Age at death for prostate cancer cases.
+' Number of prostate cancer deaths.
+^Reference category.
+* Number of prostate cancer deaths by quartile, among those age <75 were 10,
+23, 17, and 28 for total vitamin A; 14, 15, 27, and 22 for retinol; and 13, 16, 22,
+and 27 for rf-carotene; among those age ^15 were 29, 18, 13, and 11 for total
+vitamin A; 27, 17, 8, and 19 for retinol; and 20, 22. 25, and 4 for /I-carotene.
+Number of study subjects among those age <75 were 3,252, 3,389, 3,384, and
+3,389 for total vitamin A; 3,240, 3,328. 3,397, and 3,449 for retinol; and 3,424.
+3,381, 3,316, and 3,293 for fi-carotene; among those age >75 were 1,156, 1,019,
+1,025, and 1,019 for total vitamin A; 1.168, 1,081, 1,011, and 959 for retinol;
+and 3,294, 3,369, 3,405, and 3,346 for (l-carotene.
+
+* Linear trend test.
+
+Table 3 Relative risks of fatal prostate cancer associated with tobacco use in the
+
+Lutheran Brotherhood Cohort, 1966-1986
+
+DISCUSSION
+
+of
+
+per
+
+deaths*1911692210358416Cohort
+
+son-years58,888217,30013,67648,8234,02593,5447,6132,72922.896RR'1.01.81.62.04.51.72.91.41.695%
+
+CI1.1-2.90.7-3.51.1-3.72.1-9.71.0-2.91.3-6.50.5-4.10.8-3.1
+
+cigarettes/daySmokeless
+
++
+
+tobacco'Never
+tobaccoEver
+
+used any
+
+tobacco*Ex-usersOccasionalRegularNo.
+
+used smokeless
+
+Â°Missing data not included.
+* Adjusted for age.
+' Thirty-four
+
+subjects who used pipes, cigars, and smokeless tobacco only were
+
+not included.
+
+d Including some cigarette smokers who used other forms of tobacco.
+' Snuff and chewing tobacco. 78 subjects who used only other forms of tobacco
+
+were not included.
+
+^Adjusted for cigarette smoking.
+* Including some smokeless tobacco users who used cigarettes.
+
+current users of beer were 1.7 (95% CI, 1.0-2.9) and 1.2 (95%
+respectively, while the risk for ex- and current
+CI, 0.8-1.7),
+users of liquor were 0.7 (95% CI, 0.3-1.5)
+and 1.0 (95% CI,
+0.7-1.4),
+
+respectively.
+
+In contrast
+
+to some studies that have linked dietary fat and
+animal products with increased prostate cancer risk, we found
+no association with consumption
+of eggs, milk, pork, or beef.
+In addition, we found no positive effect upon prostate cancer
+risk with the intake of green vegetables. There also was no
+overall association with retinol or /3-carotene intake. The ob
+served higher risks among those under 75 years and lower risks
+total
+among those 75 years and older
+for consumption
+vitamin A, retinol, and 0-carotene stand in contrast
+to studies
+that reported increased risk with vitamin A intake in older men
+(17-20). The etiological
+implication of our findings on vitamin
+A or those of previous researchers are not clear at this time.
+
+of
+
+The foods
+
+The lack of an association between dietary factors and the
+cancer may be due partially to the limited
+in the 1966 food-
+
+risk of prostate
+number and nature of the dietary items
+in the self-administered
+frequency questionnaire.
+in this study were adapted from dietary question
+instrument
+studies in Minnesota and Norway,
+naires of earlier case-control
+which were specifically designed to elicit sufficient
+information
+to discriminate between persons with light and heavy consump
+tion of these food items (31). However, because certain food
+items that are major contributors
+of vitamin A (both retinol
+and carotene) or dietary fat in the American diet (such as liver,
+cheese, butter, processed meat, broccoli,
+spinach, and canta
+loupe) were not
+included in the questionnaire, we were unable
+to capture all sources for each nutrient. Hence there may be
+random misclassification of dietary intakes, which may tend to
+dampen the relative risk estimates but should not account
+for
+the opposite
+trends associated with vitamin A in men under
+versus over age 75.
+
+In recent
+
+reviews of tobacco smoking and cancer
+
+(9, 10),
+prostate cancer is considered not to be a tobacco-related cancer.
+Most epidemiological
+studies
+(9) and 7 case-control
+have reported no in
+creased risk of prostate cancer among smokers. The lack of an
+
+including 8 prospective
+(32-38),
+
+studies,
+studies
+
+use"Never
+
+Tobacco
+
+tobaccoUsed
+
+and/or cigars
+
+used any
+any form of
+tobacco''Pipes
+onlyCigarettes
+onlySmokeless
+onlyCigarettes
+tobacco'
+and
+pipesand/or
+cigarsCigarettes
+smokelesstobaccoSmokeless
+and
+
+andpipes
+
+tobacco
+
+and/or
+cigarsCigarettes
+smokelesstobacco
+and
+and pipes
+and/or
+
+cigarsNo.
+
+" All categories refer to ever users.
+'' Missing data not included.
+' Adjusted for age.
+'included
+
+12 subjects who used some form of tobacco, but for whom no
+
+detailed information was available for further classification.
+
+' Snuff and chewing tobacco.
+
+death certificates revealed 58 subjects for whom prostate cancer
+was not the underlying case of death. The 58 cases were much
+older than the 149 fatal cases (median age at death 81 versus
+73). In this group, a positive association with smokeless tobacco
+use was also found. Fourteen of the cases were regular users of
+smokeless
+including 8
+who dipped snuff or chewed tobacco exclusively (RR = 2.5;
+95% CI, 1.0-6.5). The risk associated with cigarette smoking
+in this group, however, was not significantly elevated (RR =
+1.1; 95% CI, 0.5-2.3).
+
+tobacco (RR = 2.3; 95% CI, 1.0-5.2),
+
+Risk of prostate cancer was also assessed for consumption of
+coffee and alcoholic beverages. For persons who drank 3-4 and
+5 or more cups of coffee/day,
+the RRs were 0.8 (95% CI, 0.6-
+respectively, as compared to
+1.2) and 1.0 (95% CI, 0.6-1.6),
+those who drank less than 3 cups of coffee/day.
+Increased
+consumption of beer or hard liquor was weakly associated with
+an increased risk. Smoking-adjusted
+and
+
+for ex-users
+
+risks
+
+Downloaded from 
+
+cancerres.aacrjournals.org 
+
+on July 31, 2018. © 1990 American Association for Cancer Research. 
+
+6838
+
+DIET.TOBACCO USE,AND FATAL PROSTATE CANCER
+
+It
+
+controls.
+
+limitation,
+
+group and a moderate
+
+association with cigarette smoking in these case-control
+studies
+could be due in part to the high prevalence of cigarette smoking
+in control groups because most used hospital patients as the
+comparison
+association with cigarette
+smoking may be masked by the prevalence of smoking in
+that when neighborhood
+hospital
+is noteworthy
+controls were used for comparison,
+a positive association with
+cigarette smoking was observed (7, 8). Cohort studies, however,
+do not have this potential methodological
+and all
+but
+the follow-up study of United States veterans (6) showed
+no excess of prostate cancer mortality among tobacco users. In
+the LBS cohort, risk was increased nearly 80% among smokers.
+The increase may have been more easily detected in this cohort,
+since the prevalence of current cigarette smoking (32%) was
+low compared to that of United States middle-aged white males
+found no evidence of dose-
+in 1965 (44%) (39). We, however,
+response trends, and it is possible that
+the base-line reference
+group of the nonusers of tobacco differed in other ways that
+relate to prostate cancer risk. If real, the association of cigarette
+smoking with prostate
+basis,
+since cigarette
+smoking is associated with an antiestrogenic
+effect (40, 41), and male smokers are reported to have elevated
+(42, 43),
+levels of circulating
+which may increase the risk of prostate cancer. Further
+research
+is needed to clarify whether cigarette smoking is related to the
+risk of prostate cancer.
+
+cancer could have a hormonal
+
+and testosterone
+
+androsterone
+
+are greater
+
+and A'-nitrosobis(2-oxypropyl)amine]
+
+The prevalence of smokeless tobacco use in the LBS cohort
+to the national prevalence (20%)
+was 17%, which is similar
+the use
+reported in the 1960s (44). Although it is known that
+of smokeless tobacco is related to oral cancer,
+its relationship
+with other cancers is less clear (44). Various parts of the body
+may be exposed to components
+of smokeless tobacco, such as
+via the blood stream. The amounts of certain
+nitrosamines,
+in snuff than in ciga
+tobacco-specific nitrosamines
+rettes (45), and some /V-nitroso compounds
+[/V-nitrosobis(2-
+hydroxypropyl)amine
+can
+induce papillomas and squamous cell carcinomas of the prostate
+can be induced in both
+in rats (46, 47), while adenocarcinoma
+is given along with
+intact and castrated rats when testosterone
+Ar-nitrosobis(2-oxopropyl)amine
+that
+the risk of prostate cancer associated with smokeless
+tobacco
+may be greater
+for cigarette smoking. However, we
+were unable to evaluate the intensity and duration of smokeless
+tobacco use because such information was not collected. Fur
+thermore,
+the effect of tobacco chewing could not be separated
+from that of using snuff in this study, since the questionnaire
+their combined use. Consistent with other stud
+inquired about
+ies, the use of smokeless
+is more
+prevalent among farmers and persons who reside in rural areas.
+Although
+of
+farming residence with prostate cancer, we found no increased
+risk among farmers or rural residents.
+
+tobacco in the LBS cohort
+
+(48). Our results suggest
+
+(37, 49) have reported
+
+an association
+
+than that
+
+studies
+
+of exposures
+
+tobacco or dietary habits
+
+Although the study is prospective in design,
+
+information on
+dietary habits and tobacco use was obtained only once, in 1966.
+thus could occur with those
+Misclassification
+subjects who changed their
+in the
+follow-up period. For example, men who smoked in 1966 would
+still be classified as smokers, when as many as 40% of them
+may have quit smoking in the ensuing 20 years as they aged
+(39). Similarly, dietary patterns could have changed with time,
+of dietary exposure is thus likely. How
+and misclassification
+ever, such misclassification
+and
+would lead to an underestimation
+
+is likely to be nondifferential
+
+of the true effect.
+
+6839
+
+Attrition
+
+is a major problem in most prospective
+
+tobacco use, alcohol, and coffee consumption
+
+studies.
+During the 20-year period, 4027 (23%) members of the cohort
+were lost to follow-up, due to lapsed policies or discontinuation
+of policies after premium maturity. We examined dietary in
+take,
+for these
+subjects lost to follow-up at 20 years relative to those remaining
+in the cohort and found no significant differences.
+In addition,
+investigation of cancer
+after 11.5 years of follow-up, a special
+found no
+mortality among lapsed and discontinued
+subjects
+difference from that of the remainder of the cohort
+(24). Thus,
+selection bias introduced by attrition in the study is likely to be
+minimal.
+
+The LBS cohort
+
+is a self-selected group, with more farmers,
+descent
+than
+rural
+residents, and individuals of Scandinavian
+limiting the
+in the United States as a whole (25), perhaps
+In addition, because mortality is
+generalizability of the results.
+it is probable that subjects
+used in the study as the end point,
+who had a diagnosis of advanced prostate cancer are more likely
+to die of prostate cancer and be included in the study; thus the
+results may not generalize to the less invasive and aggressive
+types of prostate cancer.
+
+that
+
+In summary, our findings suggest
+
+the use of cigarettes
+and smokeless
+tobacco is significantly associated with an in
+creased risk of fatal prostate cancer, providing renewed incen
+tive for evaluation of tobacco as a cause of this cancer. No
+significant
+relationships were found for dietary factors evalu
+ated in the study, but
+carotene deserves further attention.
+
+the possible role of vitamin A and ÃŸ-
+
+REFERENCES
+
+smoking and age at
+
+in Cancer Epidemiology,
+1980.
+
+J., Muir, C.. Corron. P., and Dowell, J. Cancer
+
+J., Blackard. C.. Bauer, H., Scarlett,
+J., and
+study of prostate cancer: preliminary report.
+
+Silvcrbcrg, E.. Boring, C. C., and Squires, T. S. Cancer statistics, 1990. CA-
+A Cancer J. Clin., 40: 9-26, 1990.
+Waterhouse.
+Incidence in
+Five Continents. Vol. 3. IARC Scientific Publication No. 15. Lyon. France:
+International Agency for Research on Cancer. 1976.
+Mandel. J. S.. and Schuman. L. M. Epidemiology of cancer of the prostate.
+In: A. M. Lilienfeld (ed.). Reviews
+pp. 1-83.
+Amsterdam: Elsevier/North-Holland.
+Flanders. W. D. Review: prostate cancer epidemiology. Prostate, 5:621-629,
+1984.
+Owen. W. L. Cancer of the prostate: a literature review. J. Chronic Dis.. 29:
+89-114. 1976.
+Rogot. E., and Murray, J. L. Smoking and causes of death among U.S.
+veterans: 16 years of observation. Public Health Rep., 95: 213-222, 1980.
+Honda. G. P., Bernstein, L., Ross, R. K., Greenland. S., Gerlans, V., and
+Henderson, B. E. Vasectomy, cigarette
+first sexual
+intercourse as risk factors for prostate cancer
+in middle-aged men. Br. J.
+Cancer, 57: 326-331. 1988.
+Schuman. L. M.. Mandel,
+McHugh. R. Epidemiologie
+Cancer Treat. Rep.. 61: 181-186. 1977.
+International Agency for Research on Cancer. Tobacco Smoking.
+Monogr. Eval. Carcinogen. Risk Chem. Hum., 38: 199-298, 1986.
+United States Department
+of Health and Human Services. The Health
+Consequences of Smoking. Cancer. A Report of the Surgeon General. United
+States Department of Health and Public Health Services. Office on Smoking
+and Health. Washington. DC: Department of Health and Human Services.
+Publication No. 82-50179. 1982.
+Kolonel, L. N., Yoshizawa, C. N., and Hankin, J. Diet and prostate cancer:
+a case-control study in Hawaii. Am. J. Epidemici., 127: 999-1212. 1988.
+Kaul, L.. Heshmat. M.. Kovi, J.. Jackson, M. A., Jackson, A. G., Jones, G.
+W., Enterline.
+in
+prostate cancer. Nutr. Cancer. 9: 123-128. 1987.
+Ross. R. K.. Shimizu. H.. Paganini-Hill, A.. Honda. G.. and Henderson. B.
+E. Case-control
+studies of prostate cancer in blacks and whiles in southern
+California. J. Nati. Cancer Inst., 78: 869-874, 1987.
+Snowdon, D. A., Phillips, R. L.. and Choi, W. Diet, obesity, and risk of fatal
+prostate cancer. Am. J. Epidemiol.. 120: 244-250. 1984.
+Severson. R. K., Nomura. A. M. Y., Grove, J. S., and Stemmermann, G. N.
+A prospective study of demographics, diet, and prostate cancer among men
+of Japanese ancestry in Hawaii. Cancer Res.. 49: 1857-1860. 1989.
+Phillips. G., and Snowdon, D. Association of meat and coffee use with
+cancers of the large bowel, breast, and prostate among Seventh-Day Adven-
+tists: preliminary results. Cancer Res.. 43: 2403s-2408s,
+
+J. P.. Worrell, R. G., and Perry, S. L. The role of diet
+
+IARC
+
+1983.
+
+Downloaded from 
+
+cancerres.aacrjournals.org 
+
+on July 31, 2018. © 1990 American Association for Cancer Research. 
+
+DIET.TOBACCO USE.AND FATAL PROSTATE CANCER
+
+17. Graham, S.. Haughey, B., Marshall.
+
+J., Priore, R., Byers, T., Rzepka, T..
+Mettlin, C., and Pontes. J. E. Diet in the epidemiology of carcinoma of the
+prostate gland. J. Nati. Cancer Inst.. 70: 687-692. 1983.
+
+18. Kolonel. L. N., Hankin, J. H., and Voshizawa, C. N. Vitamin A and prostate
+of risk. Cancer Res.. 47: 2982-2985,
+
+in elderly men: enhancement
+
+cancer
+1987.
+
+19. Heshmat, M. V., Kaul, L., Kovi, J., Jackson. M. A.. Jackson. A. F.. Jones,
+G. W.. Edson, M., Enterline, J. P.. Worrell, R. G., and Perry, S. L. Nutrition
+and prostate cancer: a case-control study. Prostate, 67: 7-17. 1985.
+
+20. Kolonel, L. N., Nomura, A. M. Y.. Hinds. M. W., Hirohata, T., and Hankin,
+in cancer incidence in Hawaii. Cancer Res. (Suppl.), 43:
+
+J. H. Role of diet
+2397s-2402s,
+
+1983.
+
+21. Hayes, R., Bogdanovicz. J., Schroeder, F.. Bruijn. A.. Raatgever, J. W., Van
+Der Mass, P. J., Oishi, K., and Yoshida. O. Serum retinol and prostate
+cancer. Cancer (Phila.), 62: 2021-2026,
+
+1988.
+
+22. Hirayama. T. Epidemiology of prostate cancer with special reference to the
+
+role of diet. J. Nati. Cancer Inst., 53: 149-155, 1979.
+
+23. Ohno, Y., Yoshida, O.. Oishi, K., Okada. K., Yamabe, H.. and Schroeder. F.
+study in
+
+H. Dietary /i-carotene and cancer of the prostate: a case-control
+Kyoto, Japan. Cancer Res., 48: 1331-1336. 1988.
+
+24. Snowden. D. A. Alcohol use and mortality from cancer and heart disease
+among members of the Lutheran Brotherhood cohort. Ph.D. Dissertation,
+University of Minnesota, 1981.
+
+25. United States Bureau of the Census: Census of the Population: 1970. Vol. 1,
+Characteristics of the Population. Part 1. United States Summary, Section
+2, Table 224. Washington, DC: U.S. Government Printing Office, 1973.
+
+26. Horm. J. W., AsirÃ©,A. J., Young, J. L., Jr., and Pollack. E. S. (eds.). SEER
+Program: Cancer Incidence and Mortality in the United States. 1973-1981.
+N1H Publication No. 85-1837. Bethesda. MD: NIH. 1984.
+
+27. National Center
+
+for Health Statistics. Plan and operation of the second
+National Health and Nutrition Examination Survey, 1976-1980. Vital and
+Health Statistics. Programs and Collection Procedures. Series 1, No. 15.
+Hyattsville, MD: United States Department of Health and Human Services,
+1981.
+
+28. United States Department
+
+of Foods: Raw,
+Processed. Prepared. Agriculture Handbook Nos. 8-1 to 8-10. Washington.
+DC: United States Government Printing Office. 1976-1983.
+
+of Agriculture. Composition
+
+29. Preston, D. L., Kopecky. K. J.. and Kato, H. Analysis of mortality and
+disease incidence among atomic bomb survivors. In: W. J. Blot. Y. Hirayama,
+and D. G. Hoel (eds.). Statistical Methods
+in Cancer Epidemiology. Hiro
+shima. Japan: Radiation Effects Research Foundation.
+
+1985.
+
+30. Breslow, N. E., and Day, N. E. Statistical Methods in Cancer Research. Vol.
+
+2. pp. 120-176. Lyon, France: IARC Scientific Publication No. 82, 1987.
+
+31. Bjelke, E. Epidemiologie studies of cancer of the stomach, colon, and rectum
+with special emphasis on the role of diet. Vols. I-1V. Dissertation. University
+of Minnesota. Ann Arbor, MI: University Microfilms, 1973.
+
+32. Ross. R. K., Paganini-Hill, A., and Henderson. B. E. The etiology of prostate
+
+cancer: what does the epidemiology suggest? Prostate, 4: 333-344. 1983.
+
+33. Mishina. T., Watanabe, H., Araki, H., and Nakao, M. Epidemiologie study
+
+of prostatic cancer by matched-pair analysis. Prostate, 6: 423-436. 1985.
+
+34. Wynder, E. L.. Mabuchi, K.. and Whitmore, W. F. Epidemiology of cancer
+
+of the prostate. Cancer (Phila.). 28: 344-360. 1971.
+
+35. Niijima, T., and Koiso, K. Incidence of prostate cancer in Japan and Asia.
+
+Scand. J. Urol. Nephrol.
+
+(Suppl.). 55: 7-21, 1980.
+
+36. Newell, G. R., Fueger, J. J., Spitz, M. R., and Babaian, R. J. A case-control
+
+study of prostate cancer. Am. J. Epidemiol.. 130: 395-398. 1989.
+
+37. Checkoway, H., Diferdinando, G., Hulka, B. S., and Mickey, D. D. Medical,
+risk factors for prostate cancer. Prostate, 10: 79-
+
+life-style and occupational
+88, 1987.
+
+38. Williams. R. R.. and Horm, J. W. Association of cancer sites with tobacco
+and alcohol consumption
+interview
+study from the Third National Cancer Survey. J. Nati. Cancer Inst.. 58: 525-
+547. 1977.
+
+and socioeconomic
+
+status of patients:
+
+39. United States Department
+
+of Health and Human Services. Reducing the
+Health Consequences of Smoking. 25 Years of progress. A Report of the
+Surgeon General. Washington. DC: Department
+of Health and Human
+Services (Center for Disease Control) 89-8411, 1989.
+
+40. Michnovicz,
+
+J. J.. Hershcopf. R. J.. Naganuma. H.. Bradlow. H. L.. and
+Fishman. J. Increased 2-hydroxylation of estradiol as a possible mechanism
+for the anti-estrogenic
+effect of cigarette smoking. N. Engl. J. Med., 315:
+1305-1309, 1986.
+
+41. MacMahon, B.. Trichopoulos. D.. Cole, P., and Brown, J. Cigarette smoking
+
+and urinary estrogens. N. Engl. J. Med., 307: 1062-1065, 1982.
+
+42. Dai, W. S.. Gutai, J. P., Kuller, L. H., and Cauley, J. A. Cigarette smoking
+
+and serum sex hormones in men. Am. J. Epidemiol., 128: 796-805,
+
+1988.
+43. Shaarawy. M.. and Mahmoud. K. Z. Endocrine profile and semen character
+
+istics in male smokers. FÃ©rtil.Steril., 38: 255-257. 1982.
+
+44. United States Department of Health and Human Services. The health con
+sequences of using smokeless tobacco: a report of the advisory committee to
+the surgeon general. NIH Publication No. 86-3874, 1986.
+International Agency for Research on Cancer. Tobacco habits other
+smoking.
+1985.
+
+than
+IARC Monogr. Eval. Carcinogen. Risk Chem. Hum.. 37: 62-116,
+
+46. Pour. P. A new prostatic cancer mode: systemic induction of prostatic cancer
+
+45.
+
+in rats by a nitrosamine. Cancer Lett., 13: 303-308, 1981.
+
+47. Pour, P. Prostatic cancer induced in MRC rates by /V-nitrosobis (2-oxopro-
+amines. Carcinogenesis
+
+(2-hydroxpropyl)
+
+iV-nitrosobis
+
+pyl)amine
+(Lond.). 4: 49-55. 1983.
+
+and
+
+48. Pour, P.. and Stepan, K. Induction of prostatic carcinoma and lower urinary
+tract neoplasms by combination treatment of intact and castrated rats with
+testosterone propionate and A'-nitrosobis(2-oxypropyl)amine.
+Cancer Res.,
+47:5699-5706.
+
+1987.
+
+49. Blair. A.. Malker, H.. Cantor. K. P., Burmeister, L., and Wiblund. K. Cancer
+//.- 397-407.
+
+among farmers: a review. Scand. J. Work Environ. Health,
+1985.
+
+Downloaded from 
+
+cancerres.aacrjournals.org 
+
+on July 31, 2018. © 1990 American Association for Cancer Research. 
+
+6840
+
+Diet, Tobacco Use, and Fatal Prostate Cancer: Results from the
+Lutheran Brotherhood Cohort Study
+(cid:160) 
+Ann W. Hsing, Joseph K. McLaughlin, Leonard M. Schuman, et al. 
+(cid:160) 
+Cancer Res(cid:160)
+
+1990;50:6836-6840. 
+
+Updated version
+(cid:160) 
+
+Access the most recent version of this article at:
+http://cancerres.aacrjournals.org/content/50/21/6836
+ 
+(cid:160) 
+
+(cid:160) 
+(cid:160) 
+(cid:160) 
+(cid:160) 
+(cid:160) 
+(cid:160) 
+
+E-mail alerts
+(cid:160) 
+Reprints and 
+Subscriptions
+(cid:160) 
+Permissions
+(cid:160) 
+
+Sign up to receive free email-alerts
+
+ related to this article or journal.
+
+pubs@aacr.org
+.
+
+To order reprints of this article or to subscribe to the journal, contact the AACR Publications
+Department at
+(cid:160) 
+To request permission to re-use all or part of this article, use this link
+.
+http://cancerres.aacrjournals.org/content/50/21/6836
+Click on "Request Permissions" which will take you to the Copyright Clearance Center's (CCC)
+Rightslink site. 
+(cid:160) 
+
+Downloaded from 
+
+cancerres.aacrjournals.org 
+
+on July 31, 2018. © 1990 American Association for Cancer Research. 
+
+

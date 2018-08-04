@@ -1,0 +1,1329 @@
+Vol. 10, 439 – 446, May 2001
+
+Cancer Epidemiology, Biomarkers & Prevention
+
+439
+
+Systematic Review of the Prospective Cohort Studies on Meat
+
+Consumption and Colorectal Cancer Risk:
+
+A Meta-Analytical Approach1
+
+Manjinder S. Sandhu,2 Ian R. White, and
+Klim McPherson
+Department of Public Health and Primary Care, Institute of Public Health,
+University of Cambridge, Strangeways Research Laboratory, Cambridge, CB1
+8RN [M. S. S.]; Medical Research Council Biostatistics Unit, Institute of
+Public Health, University of Cambridge, Cambridge, CB2 2SR [I. R. W.]; and
+Cancer and Public Health Unit, London School of Hygiene and Tropical
+Medicine, London, WC1E 7HT [K. M.], United Kingdom
+
+Abstract
+The relation between meat consumption and colorectal
+cancer risk remains controversial. In this report, we
+quantitatively reviewed the prospective observational
+studies that have analyzed the relation between meat
+consumption and colorectal cancer. We conducted
+electronic searches of MEDLINE, EMBASE, and
+CANCERLIT databases through to the end of June 1999
+and manual searches of references from retrieved
+articles. We used both fixed and random-effects meta-
+analytical techniques to estimate the overall association
+and to investigate possible sources of heterogeneity
+among studies. Thirteen studies were eligible for inclusion
+in the meta-analysis. Pooled results indicate that a daily
+increase of 100 g of all meat or red meat is associated
+with a significant 12–17% increased risk of colorectal
+cancer. The marginally significant between-study
+heterogeneity for all meat and red meat was explained by
+a number of study-level covariates. A significant 49%
+increased risk was found for a daily increase of 25 g of
+processed meat. The individual study estimates for
+processed meat showed no detectable heterogeneity. On
+the basis of this quantitative review of prospective
+studies, the overall association between meat consumption
+and risk of colorectal cancer appears to be positive, with
+marginal heterogeneity between studies. The finding for
+processed meat and data from experimental studies
+suggests that it may also be an important predictor of
+colorectal cancer risk. However, because only a few of the
+studies reviewed here attempted to examine the
+independent effect of meat intake on colorectal cancer
+risk, the possibility that the overall association may be
+
+Received 9/1/00; revised 2/7/01; accepted 2/22/01.
+The costs of publication of this article were defrayed in part by the payment of
+page charges. This article must therefore be hereby marked advertisement in
+accordance with 18 U.S.C. Section 1734 solely to indicate this fact.
+1 M. S. S. is supported by the United Kingdom Medical Research Council.
+2 To whom requests for reprints should be addressed, at Department of Public
+Health and Primary Care, Institute of Public Health, University of Cambridge,
+Strangeways Research Laboratory, Wort’s Causeway, Cambridge, CB1 8RN,
+United Kingdom. Phone:
+01223-740177; E-mail:
+manj.sandhu@srl.cam.ac.uk.
+
+01223-740168; Fax:
+
+confounded or modified by other factors cannot be
+excluded.
+
+Introduction
+The relation between meat consumption and colorectal cancer
+risk remains controversial (1–10). Subsequent to the report of
+the National Academy of Sciences, “Diet and Health” (11),
+which implicated red meat as a causative factor in the etiology
+of colorectal cancer, two subsequent reports have reviewed the
+epidemiological evidence on meat and colorectal cancer risk (4,
+7). The report of the WCRF3 concluded: “The evidence shows
+that red meat probably increases risk and processed meat pos-
+sibly increases risk of colorectal cancer” (7). The report from
+COMA judged that “there is moderately consistent evidence
+from cohort studies of a positive association between the con-
+sumption of red or processed meat and risk of colorectal can-
+cer” (4). A WHO consensus statement reached a similar con-
+clusion, stating that “consumption of red meat is probably
+associated with increased colorectal cancer risk,” but also stated
+that epidemiological studies on meat and colorectal cancer risk
+are not consistent (2).
+
+Both the COMA and WCRF reports made dietary recom-
+mendations based on their qualitative assessments of the epi-
+demiological literature. The WCRF report recommended lim-
+iting “intake of red meat to less than 80 g daily.” The COMA
+report, targeted at the population of the United Kingdom, ad-
+vised that consumption of red and processed meat for those
+consuming population average levels (;90 g/day for the United
+Kingdom population) should not rise. It also recommended that
+people who are consuming high levels (.140 g cooked weight/
+day) should consider a reduction.
+
+In contrast, other researchers have noted that “it remains
+uncertain whether meat is a risk factor for cancer” (12) and that
+the current prospective evidence on meat and colorectal cancer
+risk “is now clearly negative for this association” (3). It has also
+been suggested that any association between high meat con-
+sumption and colorectal cancer may be as a result of deficien-
+cies in other protective dietary factors, such as vegetables and
+fruits (1, 13). References to studies in many of these reports,
+reviews, and discussion articles are incomplete and limited;
+therefore, we aimed to review prospective cohort studies that
+have investigated the relation between meat and colorectal
+cancer risk. In addition, given that quantitative recommenda-
+tions— based on qualitative assessments of the literature— have
+been made, we sought to use quantitative review methods to
+
+3 The abbreviations used are: WCRF, World Cancer Research Fund; COMA,
+Chief Medical Officer’s Committee on Medical Aspects of Food; OR, odds ratio;
+HCA, heterocyclic amine.
+
+Downloaded from 
+
+cebp.aacrjournals.org 
+
+on July 31, 2018. © 2001 American Association for Cancer Research. 
+
+440 Meat Consumption and Colorectal Cancer Risk
+
+Table 1 List of studies used in the review and meta-analysis and their selected characteristics
+
+Author, year
+
+published
+
+Country
+
+Age at entry; sex
+
+Years of follow-up; %
+completed follow-up
+
+Start of
+follow-up
+
+No. of cases;
+No. in cohort
+
+Dietary assessment;a
+
+Quantilesb
+
+Adjustments
+
+Bjelke et al., 1980
+
+Norway
+
+45–74; M
+
+5; not stated
+
+(29)
+
+Gaard et al., 1996
+
+Norway
+
+20–54 ; M & F
+
+Mean 11.4; 83
+
+(21)
+
+Giovannucci et al.,
+
+USA
+
+40–75; M
+
+6; 95
+
+1994 (22)
+
+Goldbohm et al.,
+
+Netherlands
+
+55–69 ; M & F
+
+3.3; 95
+
+1994 (23)
+
+Hirayama et al.,
+
+Japan
+
+.40; M & F
+
+17; 80
+
+1990 (28)
+
+Hsing et al., 1998
+
+USA
+
+$35; M
+
+20; 77
+
+1966
+
+145; 13,606
+
+(27)
+
+Kato et al., 1997
+
+USA
+
+34–65; F
+
+(20)
+
+Mean 7.1; (97 in New
+York State recruits)
+
+1985–
+
+1991
+
+1968
+
+1977
+
+1986
+
+1986
+
+1965
+
+41;c 12,166
+
+50-item FFQ; Q3
+
+Age
+
+143;c 55,535
+
+80-item FFQ;d Q4
+
+Age; attained age
+
+205;c 47,949
+
+131-item FFQ;d Q5
+
+Age; energy intake
+
+293;c 3,123
+
+150-item FFQ;d Q4
+
+Age; total calories
+
+725; 265,113
+
+9-item FFQ (7 food
+
+Age
+
+& Q5
+
+groups & 2
+beverages); Q4
+35-item FFQ; Q5
+
+Total calories; age;
+smoking; alcohol
+
+100;c 14,727
+
+70-item FFQ; Q4
+
+Total calories; age; place
+
+of enrollment;
+education
+
+Knekt et al., 1999
+
+Finland
+
+15–99 ; M & F
+
+24; notstated
+
+1967
+
+73;c 9,990
+
+1 year dietary
+
+Age; sex; municipality;
+
+(17)
+
+Phillips et al.,
+
+1985 (26)
+
+USA
+
+.30; M & F
+
+21; notstated
+
+Sellers et al., 1998
+
+USA
+
+55–69; F
+
+9; 76
+
+(18)
+
+Singh et al., 1998
+
+USA
+
+25–104 ; M & F
+
+6; 97
+
+(19)
+
+history interview;
+Q4
+
+172; 25,439
+
+21-item FFQ; Q3
+
+smoking; energy
+intake
+Age; sex
+
+241;c 26,937
+
+127-item FFQ;d Q3
+
+Age; energy intake
+
+179;c 32,051
+
+55-item FFQ;d Q3
+
+Age; body mass index;
+
+1960
+
+1986
+
+1977
+
+sex; smoking;
+physical activity;
+family history;
+alcohol; aspirin use
+
+None
+
+Age; energy intake
+
+42-item FFQ (32
+
+food items & 10
+beverages); Q5
+61-item FFQ;d Q5
+
+Thun et al., 1992
+
+(24)e
+
+USA
+
+30–110 ; M & F
+
+6; 98
+
+1982
+
+1,150; 5,746
+
+Willett et al., 1990
+
+USA
+
+34–59; F
+
+6; 96
+
+1980
+
+150;c 88,751
+
+(25)
+
+a Food Frequency Questionnaire.
+b Quantiles. Q3 5 tertiles; Q4 5 quartiles; Q5 5 quintiles.
+c Incident cases.
+d Undertook validation of dietary assessment.
+e Nested case control.
+
+both confirm the current recommendations and to investigate
+possible sources of heterogeneity among studies.
+
+Materials and Methods
+Inclusion Criteria. We sought to include both published and
+unpublished prospective cohort studies that contained risk es-
+timates of colorectal cancer associated with meat consumption.
+A broad definition of “meat” was used, which was taken to
+include red meat, lamb, beef, pork, and processed meats, such
+as sausages, meat burgers, ham, bacon and other meat products,
+but which, where possible, excluded white meat, such as poul-
+try. Eligible outcomes were colon or colorectal cancer inci-
+dence or mortality.
+Exclusion Criteria. We excluded case-control and ecological
+studies. Case-control studies, where diet is assessed after the
+onset of disease, may be subject to information (recall) and
+selection bias, and inaccurate or biased measurements of die-
+tary exposure attributable to dietary changes as a result of
+disease (14). Ecological studies, which analyze aggregated data
+at the level of the population, may be subject to confounding
+and cannot reliably be extrapolated to the individual level (15).
+Studies that only classified people as to whether they ate meat
+or not were also excluded from the analysis, because the level
+of exposure in the exposed group is not quantified (16).
+Search Strategy. We conducted electronic searches of MED-
+LINE, EMBASE, and CANCERLIT databases through the end
+
+of June 1999. A search strategy that included both truncated
+free-text and exploded MeSH terms was used. MeSH headings
+included “colorectal,” “colon,” “bowel,” “rectum,” “diet,”
+“meat,” “cancer,” “neoplasm,” “prospective,” “follow-up,” or
+“cohort” and their variants. All references that matched the
+inclusion criteria were retrieved and the references of those
+articles were checked for other relevant publications. Refer-
+ences contained in recent reviews of the literature were also
+consulted (4, 7, 8). Finally, principal investigators responsible
+for the collated studies and authors of recent reviews were
+contacted for any unpublished or missed research.
+Data Extraction and Classification. Rate ratios, 95% confi-
+dence intervals, and various study characteristics were ex-
+tracted from the original reports and included in the meta-
+analysis (Table 1). The extracted data for each study were then
+sent to the original investigator for review and to request any
+additional data that were required for the meta-analysis.
+
+For each study, the median level of meat consumption
+(g/day) for each quantile was assigned to each corresponding
+rate ratio. This was either taken from the report or requested
+from the investigators (17–26). If the data were unavailable, the
+median was estimated as the midpoint of each quantile (22, 25,
+27, 29), and the amount consumed in g/day was estimated by
+multiplying the median frequency of consumption by the av-
+erage portion (serving) size for the cohort population (18, 21,
+22, 24 –27, 29). If they were unavailable, portion sizes were
+
+Downloaded from 
+
+cebp.aacrjournals.org 
+
+on July 31, 2018. © 2001 American Association for Cancer Research. 
+
+estimated using data from another cohort from the same country
+(18, 24, 26, 27, 29). For the Hirayama study (28), 100 g was
+used as the average portion size.
+Exposure Definition. Because “meat” has no common defi-
+nition, meat was defined and analyzed in several ways. Risk
+estimates obtained from the publications were collectively cat-
+egorized into “All meat.” This included meat defined in the
+individual publications as “all meat,” “meat,” “other meat,”
+“fatty meat,” “fresh meat,” “red meat,” and “total meat.” In
+addition, meat was also categorized into more specific defini-
+tions, i.e., “Red meat” and “Processed meat,” Risk estimates
+categorized as red meat included meat defined in the individual
+publications as “red meat” or “fatty meat,” and for processed
+meat as “processed meat,” “cured meat,” “nitrate meat,” or
+“sausages.”
+Statistical Methods and Analyses. Standard weighted least-
+squares regression was used to model the log rate ratios for
+colorectal cancer risk as a linear function of meat intake,
+adjusting for covariance (30 –32). This provided an estimate of
+the regression coefficient and its SE for each study. Risk
+estimates for portion sizes were based on approximations for
+comparison purposes only and on amounts that fitted the data
+range: 100 g for all meat and red meat, and 25 g for processed
+meat.
+
+An overall summary estimate of the individual study es-
+timates of bwas calculated using both fixed and random-effects
+meta-analysis (33, 34). Heterogeneity among studies was as-
+sessed using the Q statistic (34) and by comparing both ran-
+dom- and fixed-effects estimates (35). To test the appropriate-
+ness of a linear model, individual study estimates were grouped
+into quartiles of exposure (36 –38). Because there was no de-
+tectable heterogeneity among risk estimates within quartiles
+(P . 0.10), we used standard fixed-effects meta-analysis to
+estimate the overall relative risk for each quartile of exposure
+for all meat, red meat and processed meat separately (36). This
+method gave almost identical results to the full parametric
+method, suggesting that the linear model was appropriate.
+
+Random-effects meta-regression was used to investigate
+sources of heterogeneity and to provide an estimate of unex-
+plained or residual heterogeneity, t2 (39 – 41). Only those a
+priori study-level covariates that denoted significant linear de-
+pendency are reported here. Study-level covariates included
+outcome definition (incidence or mortality), cancer definition
+(colon or colorectal), loss to follow-up, duration of follow-up,
+magnitude of exposure differential between exposed and unex-
+posed, diet validation, adjustment for energy intake, and the
+number of confounders included in the analysis. We made no
+attempt to use a scoring system for study “quality”; instead, the
+components of study quality were used as covariates in the
+investigation of heterogeneity (42). Publication bias was as-
+sessed using the methods outlined by Egger et al. (43).
+
+Results
+A total of 17 publications were identified with data that were
+potentially eligible for inclusion in the review and meta-anal-
+ysis (17–29, 44, 47). Fifteen of the studies were published in
+peer-reviewed journals, one as a book (28), and one as part of
+a congress report (29). Studies were excluded if they classified
+people only as to whether they ate meat or not (44, 45), if they
+were pooled analyses of original studies (44), and if the data in
+the reports were superseded by later publications (46, 47). This
+left 13 publications. Table 1 lists the studies and selected
+characteristics. On request, additional information was supplied
+by authors (17–22, 24 –27, 29).
+
+Cancer Epidemiology, Biomarkers & Prevention
+
+441
+
+Table 2 “All meat” exposure definitions and risk of colorectal cancer
+
+Author, year; exposure
+
+Published estimate
+
+(95% CI)a
+
+Derived estimate
+
+for 100-g
+
+increment in
+“All meat”
+consumptionb
+
+(95% CI)a
+
+Gaard et al., 1996 (21); total meat
+
+Females
+Males
+
+1.87 (0.77–4.86)
+0.80 (0.35–1.86)
+
+1.57 (0.80–3.06)
+0.78 (0.42–1.44)
+
+Giovannucci et al., 1994 (22); red meat
+
+Males
+
+1.71 (1.15–2.55)
+
+1.73 (1.25–2.39)
+
+Goldbohm et al., 1994 (23); fresh meat
+
+Females
+Males
+
+Hirayama et al., 1990 (28); meat
+
+Females
+Males
+
+Hsing et al., 1998 (27); red meat
+
+Males
+
+Kato et al., 1997 (20); red meat
+
+Females
+
+Knekt et al., 1999 (17); other meat
+
+Males and females
+
+Phillips et al., 1985 (26); meat
+
+Females
+Males
+
+Sellers et al., 1998 (18); all meat
+
+Females
+
+Singh et al., 1998 (19); total meat
+
+Males and females
+
+Thun et al., 1992 (24); fatty meat
+
+Females
+Males
+
+Willett et al., 1990 (25); red meat
+
+Females
+
+0.88 (0.45–1.69)
+0.87 (0.43–1.77)
+
+0.96 (0.65–1.41)
+0.87 (0.46–1.64)
+
+1.05 (0.64–1.75)
+0.53 (0.23–1.19)
+
+1.45 (0.70–2.99)
+0.55 (0.20–1.55)
+
+1.80 (0.8–4.4)
+
+1.14 (0.92–1.40)
+
+1.23 (0.68–2.22)
+
+1.56 (0.73–3.34)
+
+1.19 (0.51–2.76)
+
+1.21 (0.76–1.92)
+
+0.7 (0.3–1.4)
+1.5 (0.7–3.3)
+
+0.76 (0.38–1.51)
+1.51 (0.69–3.32)
+
+1.13 (0.77–1.64)
+
+1.06 (0.89–1.25)
+
+1.85 (1.16–2.87)
+
+1.28 (1.05–1.57)
+
+1.05 (0.78–1.41)
+1.21 (0.92–1.59)
+
+1.03 (0.88–1.20)
+1.07 (0.95–1.21)
+
+1.77 (1.09–2.88)
+
+1.50 (1.09–2.07)
+
+a Risk estimate for highest versus lowest intake of meat. CI, confidence interval.
+b Based on data from all quantiles using standard weighted least-squares regres-
+sion with adjustment for covariance.
+
+All Meat. For all meat, 12 of 17 estimated regression coeffi-
+cients were positive (Table 2). For a 100-g portion, the esti-
+mated rate ratios ranged from 0.55 (0.20 –1.55; Ref. 28) to 1.73
+(1.25–2.39; Ref. 22). Fig. 1 shows the estimated rate ratios and
+95% confidence intervals for each study for an increment of one
+portion of all meat using a random-effects model. The com-
+bined OR for all studies was 1.12 (1.05–1.20) for the fixed-
+effects model and 1.14 (1.04 –1.25) for the random-effects
+model. A formal test for heterogeneity among studies was not
+significant [Q 4 statistic (Q) 5 22.48; df, 16; P 5 0.13].
+However, because of the low power of the test, additional
+analysis of heterogeneity was warranted. When we fitted a
+random-effects meta-regression model with no covariates, we
+estimated the between-study variance as t2 5 0.0052. The
+estimate of t2, in comparison to that when the covariate is
+omitted, allows the proportion of the heterogeneity explained
+by the covariate to be calculated. Including whether the study
+outcome was mortality or incidence as a covariate explained all
+of the between-study variance and was nearly statistically sig-
+nificant (P 5 0.06). Therefore, for a comparable level of
+exposure, the summary OR for studies reporting incidence was
+higher than the summary OR for studies reporting mortality
+(Table 3). No other explanations of heterogeneity were found.
+Processed Meat. For processed meat, 9 of 10 estimated re-
+gression coefficients were positive. For a 25-g portion, the
+estimated rate ratios ranged from 0.88 (0.49 –1.57; Ref. 18) to
+
+Downloaded from 
+
+cebp.aacrjournals.org 
+
+on July 31, 2018. © 2001 American Association for Cancer Research. 
+
+442 Meat Consumption and Colorectal Cancer Risk
+
+Fig. 1. Random effects meta-analysis
+of the risk of colorectal cancer for an
+increase of one portion (100 grams/day)
+of all meat. M, males; F, females.
+
+Table 3 Random-effects pooled summaries for all meat and red meat stratified by study-level covariates
+
+Exposure
+
+All meat/100 g/day
+Red meat/100 g/day
+
+Red meat/100 g/day
+
+Red meat/100 g/day
+
+Pooled summary statistic
+
+(Odds ratio and 95% confidence intervals)
+
+Outcome
+
+Incidence
+
+1.21 (1.10 to 1.33)
+1.30 (1.13 to 1.49)
+
+Mortality
+
+1.07 (0.98 to 1.16)
+1.07 (0.98 to 1.16)
+
+Adjusted for total energy intake
+
+Yes
+
+1.27 (1.13 to 1.46)
+
+No
+
+1.07 (0.98 to 1.17)
+
+Validation of dietary assessment
+
+Yes
+
+1.29 (1.12 to 1.49)
+
+No
+
+1.07 (0.98 to 1.17)
+
+Residual heterogeneity
+
+P
+
+0.06
+0.02
+
+0.02
+
+0.03
+
+t2
+
+0
+0
+
+0
+
+0
+
+2.27 (1.06 – 4.86; Ref. 21). Fig. 2 shows the estimated rate ratios
+and 95% confidence intervals for each study for an increment
+of one portion of processed meat using a random-effects model.
+The combined OR for all studies was 1.49 (1.22–1.81) for both
+the random- and fixed-effects models. A formal test for heter-
+ogeneity among studies was not significant (Q 5 5.24; df, 9;
+P 5 0.81), and we estimated no between-study variance, t2 5
+0. As expected, no significant explanations of heterogeneity
+were found.
+Red Meat. For red meat, all eight of the estimated regression
+coefficients were positive. For a 100-g portion, the estimated
+rate ratios ranged from 1.03 (0.88 –1.20; Ref. 24) to 1.73
+(1.25–2.39; Ref. 22). Fig. 3 shows the estimated rate ratios and
+95% confidence intervals for each study for an increment of one
+portion of red meat using a random-effects model. The com-
+bined OR for all studies was 1.13 (1.05–1.21) for the fixed-
+effects model and 1.17 (1.05–1.31) for the random-effects
+model. A formal test for heterogeneity among studies suggested
+near significance (Q 5 12.6; df, 7; P 5 0.08). Using a random-
+effects meta-regression model with no covariates, the between-
+study variance was estimated as t2 5 0.0095. Including
+whether the study outcome was mortality or incidence as a
+covariate explained all of the between-study variance (P 5
+
+0.02). A similar effect was seen when we substituted outcome
+for a covariate indicating whether a dietary validation study had
+been undertaken (P 5 0.03), or whether studies had adjusted for
+energy intake (P 5 0.02). Therefore, for a comparable level of
+exposure, the summary ORs for studies that reported incidence,
+undertook a diet validation study, or adjusted for total energy
+intake were significantly higher than the summary ORs for
+studies that reported mortality or did not undertake a diet
+validation study or adjust for total energy intake, respectively
+(Table 2). No other explanations of heterogeneity were found.
+
+Discussion
+Summary of Main Findings. In this exploratory meta-analy-
+sis, we found a positive association between all meat and red
+meat consumption and risk of colorectal cancer. Pooled results
+indicate that a daily increase of 100 g of all meat or red meat
+is associated with a significant 12–17% increased risk of colo-
+rectal cancer. The marginally significant between-study heter-
+ogeneity for all meat and red meat was explained by a number
+of study-level covariates (Table 3). A significant 49% increased
+risk was found for a daily increase of 25 g of processed meat.
+The individual study estimates for processed meat, based on
+
+Downloaded from 
+
+cebp.aacrjournals.org 
+
+on July 31, 2018. © 2001 American Association for Cancer Research. 
+
+Fig. 2. Random effects meta-analysis of the risk of
+colorectal cancer for an increase of one portion (25
+grams/day) of processed meat. M, males; F, females.
+
+Cancer Epidemiology, Biomarkers & Prevention
+
+443
+
+Fig. 3. Random effects meta-analysis of the risk
+of colorectal cancer for an increase of one portion
+(100 grams/day) of red meat. M, males; F, females.
+
+comparable levels of exposure, showed no detectable hetero-
+geneity.
+Limitations. The pooled estimates reported here are based on
+estimates derived from observational prospective cohort stud-
+ies; therefore, the possibility of residual confounding or bias
+cannot be excluded (48). Because only 13 studies with 17 risk
+estimates were included, the power to discriminate among
+different covariates was limited. Also, as a result of collinearity
+among study-level covariates and similarities among study
+characteristics (Table 1), we were unable to determine whether
+their effects were independent of other study-level covariates.
+Tests for publication bias have generally low power and, be-
+cause of the potential for biases and residual confounding, may
+not be appropriate for observational studies (41). Only studies
+for red meat showed significant publication bias favoring a
+positive association (P 5 0.03). Although we sought to include
+both published and unpublished studies, a potential for selec-
+tion bias exists because we did not include non-English lan-
+guage and abstract-only publications, and we may have missed
+unpublished data.
+
+Interpretation of Heterogeneity. Validity or relative validity
+studies are used to determine the magnitude of error of an
+exposure measure and evaluate its effect on the relation under
+study (49). The effect of random measurement error is to make
+the observed disease/exposure relation weaker than the true
+relation. If we take the viewpoint that studies with validated
+exposure assessments are studies with better measures of ex-
+posure and, therefore, less random error in exposure measure-
+ment, then higher risk estimates would be expected (Table 2).
+This attenuation of the estimated risk has led researchers to
+apply a correction or deattenuation factor based on relative
+validity studies of exposure assessment. However, rarely is the
+measure of association between the test and reference measure
+used in the adjustment of risk estimates (50). Earlier methods to
+correct for measurement error assumed that the reference meas-
+ure contains only random within-person errors uncorrelated
+with errors in the test measure; assumptions which may not be
+true (49). Recent findings have indicated that failure to account
+for person-specific biases in the reference and test measures,
+and correlated errors among measurements, could lead to sig-
+
+Downloaded from 
+
+cebp.aacrjournals.org 
+
+on July 31, 2018. © 2001 American Association for Cancer Research. 
+
+444 Meat Consumption and Colorectal Cancer Risk
+
+nificant distortions in the estimation of the corrected relative
+risk of disease for a dietary exposure (49, 51). Errors in the
+measurement of potential confounders may also be a possible
+source of bias. This bias could result from both the extent of
+measurement error and from correlation among measurement
+errors of the exposure and potential confounders (52). The latter
+could be especially likely in food-frequency questionnaires,
+because individual perceptions could influence responses to a
+number of questions. Furthermore, the possibility of residual
+confounding attributable to unmeasured confounders may also
+exist.
+
+It is unlikely that there is any real difference among
+incidence and mortality studies (Table 2). In this analysis, the
+pooled estimate is lower for mortality studies, implying that
+meat consumption reduces case-fatality. If meat consumption is
+a risk factor for etiology and not survival, then we would expect
+the ratio of disease rates among unexposed and exposed groups
+to be similar for both incidence and mortality studies. To
+complicate any additional interpretation, there is also the addi-
+tional factor of changes in diet as a result of disease. In addition,
+because studies analyzing incidence were also studies that had,
+in general, undertaken diet validation studies, collinearity be-
+tween these two study-level covariates may explain the differ-
+ence between incidence and mortality studies. These method-
+ological covariates may also be indicative of study “quality.”
+An earlier qualitative comparison of low- and high-quality
+studies on meat and cancer found that high-quality studies, as
+defined, found stronger associations than low-quality studies
+(53).
+
+Total energy intake is positively correlated to consumption
+of most foods, including meat, and may also be an independent
+risk factor for colorectal cancer (7). In addition, much of the
+variation in energy intake relates to factors such as body size
+and physical activity, which may also independently influence
+the risk of colorectal cancer (4, 7, 54). This added interindi-
+vidual variation may produce an additional source of error (14).
+Therefore, failure to adjust for total energy intake and its
+correlates may confound the reported associations, and the
+independent effect of meat consumption would be difficult to
+determine. However, the effect of this confounding would be
+dependent upon the relation and strength of association among
+correlates of energy intake within the individual studies.
+Meat and Other Dietary and Associated Factors. The esti-
+mation of disease risk associated with a particular dietary factor
+may be influenced by the presence of other dietary and asso-
+ciated factors. High-meat diets have been negatively associated
+with food groups rich in antioxidants and fiber (55); compo-
+nents which have been associated with a reduced risk of colo-
+rectal cancer (4, 7, 56). Two of the studies included in the
+review (19, 28) suggested interaction with other dietary and
+associated factors. Singh et al. (19) found that individuals with
+a high meat intake, a low legume (pulses), intake and high body
+mass experienced a .3-fold increase in risk relative to other
+patterns based on these variables. The study by Hirayama (28),
+in a separate analysis, found an increased risk of colon cancer
+in men consuming meat daily but rarely eating green-yellow
+vegetables, and a decreased risk in men consuming both red
+meat and green-yellow vegetables daily. However, the current
+prospective epidemiological data show only a weak negative
+association between vegetables and fruits consumption and risk
+of colorectal cancer (4, 7). Four recent studies, two randomized
+trials on adenoma recurrence (57, 58) and two large prospective
+studies on colorectal cancer (59, 60) found no association
+among fiber, vegetables, and fruits consumption and risk of
+
+colorectal cancer. The two prospective studies based on the
+Nurses’ Health Study (59) and a combined analysis of the
+Nurses’ Heath Study and the Health Professionals’ Follow-up
+Study (60) both adjusted for red meat intake when ascertaining
+the effect of fiber and vegetables and fruits consumption on
+colorectal cancer risk, respectively. The multivariate estimates
+did not materially differ from the unadjusted estimates. Both
+studies found no association among vegetables and fruits or
+fiber intake and risk of colorectal cancer. Thus, the effect of
+meat consumption on the risk of colorectal cancer may be
+modified or confounded by other dietary and associated life-
+style factors. However, although they may be correlated, it is
+unlikely that vegetables and fruits consumption may signifi-
+cantly confound this relation.
+Biological Mechanisms. The biochemical mechanisms and
+genetic models by which high consumption of red and pro-
+cessed meat may increase the risk of colorectal cancer have
+been discussed in numerous reports (9, 61– 63). These include
+the formation from meat products of carcinogenic agents such
+as N-nitroso compounds, polycyclic aromatic hydrocarbons,
+and HCAs. The finding for processed meat is consistent with a
+role for N-nitroso compounds (64). N-nitroso compounds,
+which are also produced via endogenous synthesis (64), are
+found almost exclusively in foods containing nitrites or which
+have been exposed to nitrogen oxides, such as processed meats
+(65). HCAs, which have been shown to be strong mutagens, are
+formed on the surface of meat when it is cooked in direct flame
+or at high temperatures (62). HCAs require metabolic activation
+to function as mutagens, and genetic polymorphisms for these
+enzymes have been shown to interact with meat consumption
+and modify the risk of colorectal cancer (66, 67).
+Conclusions. In the context of cancer prevention only, our
+findings are in general agreement with the conclusions outlined
+in the COMA and WCRF reports (4, 7). On the basis of this
+quantitative review of prospective studies, the overall associa-
+tion between meat consumption and risk of colorectal cancer
+appears to be positive, with marginal heterogeneity among
+studies. The finding for processed meat and the data from
+experimental studies suggest that it may also be an important
+predictor of colorectal cancer. However, whether meat con-
+sumption is an independent risk factor for colorectal cancer is
+uncertain. Colorectal carcinogenesis is a multifactorial and
+multistep process that may involve several biological pathways
+and an accumulation of genetic alterations (62, 68), and it is
+unlikely that determinants of colorectal cancer work in isolation
+from each other. Indeed, frequent consumption of meat is
+associated with a number of predictors of colorectal cancer (19,
+55). Moreover, because only a few of the studies attempted to
+examine the independent effect of meat consumption, we can-
+not exclude the possibility that the association may be con-
+founded or modified by genetic or dietary and associated fac-
+tors (4, 7, 62, 66).
+
+Acknowledgments
+We thank Nick Day, University of Cambridge, Cambridge, United Kingdom, for
+commenting on an earlier draft of this article, and the following investigators for
+reviewing data abstracted from published reports and/or for providing additional
+data for the meta-analysis: Erik Bjelke, University of Bergen, Bergen, Norway;
+Gary Fraser, Loma Linda University, Loma Linda, CA; Maria Gaard, Institute of
+Epidemiological Research, Oslo, Norway; Edward Giovannucci and Walter Wil-
+lett, Harvard School of Public Health, Boston, MA; Sandra Goldbohm, Toxicol-
+ogy and Nutrition Institute, Zeist, the Netherlands; Ann Hsing, National Cancer
+Institute, Bethesda, MD; Ikuko Kato, New York University, NY; Tim Key and
+Paul Appleby, ICRF Cancer Epidemiology Unit, Oxford, United Kingdom; Paul
+Knekt, National Public Health Institute, Helsinki, Finland; Thomas Sellers and
+
+Downloaded from 
+
+cebp.aacrjournals.org 
+
+on July 31, 2018. © 2001 American Association for Cancer Research. 
+
+Cancer Epidemiology, Biomarkers & Prevention
+
+445
+
+Janet Olson, Mayo Clinic, Rochester, MN; and Michael Thun and Jane Henley,
+American Cancer Society, Atlanta, GA.
+
+References
+1. Hill, M. J. Meat and cancer. Eur. J. Cancer Prev., 8: 173–174, 1999.
+2. Scheppach, W., Bingham, S., Boutron-Ruault, M. C., Gerhardsson de Verdier,
+M., Moreno, V., Nagengast, F. M., Reifen, R., Riboli, E., Seitz, H. K., and
+Wahrendorf, J. WHO consensus statement on the role of nutrition in colorectal
+cancer. Eur. J. Cancer Prev., 8: 57– 62, 1999.
+3. Truswell, A. S. Report of an expert workshop on meat intake and colorectal
+cancer risk convened in December 1998 in Adelaide, South Australia. Eur. J.
+Cancer Prev., 8: 175–178, 1999.
+4. Chief Medical Officer’s Committee on Medical Aspects of Food. Nutritional
+Aspects of the Development of Cancer. No. 48. London: HMSO, 1998.
+5. Cummings, J. H., and Bingham, S. A. Diet and the prevention of cancer. BMJ,
+317: 1636 –1640, 1998.
+6. Gurr, M. Meat, cancer, expert committees, and individual action. British
+Nutrition Foundation Nutrition Bulletin, Vol. 23, Spring, 1998.
+7. World Cancer Research Fund. Food, nutrition, and the prevention of cancer:
+a global perspective. Washington, DC: WCRF /AICR, 1997.
+8. Potter, J. D. Nutrition and colorectal cancer. Cancer Causes Control, 7:
+127–146, 1996.
+9. Forman, D. Meat and cancer: a relation in search of a mechanism. Lancet, 353:
+686 – 687, 1999.
+10. Armstrong, B., and Doll, R. Environmental factors and cancer incidence and
+mortality in different countries, with special reference to dietary practices. Int. J.
+Cancer, 15: 617– 631, 1975.
+11. National Academy of Sciences. Diet and Health. Washington, DC: National
+Academy Press, 1989.
+12. Truswell, A. S. Whether meat is a risk factor for cancer remains uncertain
+(letter). BMJ, 319: 187, 1999.
+13. Hill, M. J. Meat and colorectal cancer: what does the evidence show? Eur. J.
+Cancer Prev., 6: 415– 417, 1997.
+14. Willett, W. (ed.). Nutritional Epidemiology (Monographs in Epidemiology
+and Biostatistics), Vol. 30. New York: Oxford University Press, 1998.
+15. Greenland, S., and Morgenstern, H. Ecological bias, confounding, and effect
+modification. Int. J. Epidemiol., 18: 269 –274, 1989.
+16. Cummings, J. H., and Bingham, S. A. Re: “Diet and the prevention of cancer”
+(Letter). BMJ, 319: 187–188, 1999.
+17. Knekt, P., Jarvinen, R., Dich, J., and Hakulinen, T. Risk of colorectal and
+other gastrointestinal cancers after exposure to nitrate, nitrite, and N-nitroso
+compounds: a follow-up study. Int. J. Cancer, 80: 852– 856, 1999.
+18. Sellers, T. A., Bazyk, A. E., Bostick, R. M., Kushi, L. H., Olson, J. E.,
+Anderson, K. E., Lazovich, D., and Folsom, A. R. Diet and risk of colon cancer
+in a large prospective study of older women: an analysis stratified on family
+history (Iowa, United States). Cancer Causes Control, 9: 357–367, 1998.
+19. Singh, P. N., and Fraser, G. E. Dietary risk factors for colon cancer in a low
+risk population. Am. J. Epidemiol., 148: 761–774, 1998.
+20. Kato, I., Akhmedkhanov, A., Koenig, K., Toniolo, P. G., Shore, R. E., and
+Riboli, E. Prospective study of diet and female colorectal cancer: the New York
+University Women’s Health Study. Nutr. Cancer, 28: 276 –281, 1997.
+21. Gaard, M., Tretli, S., and Loken, E. B. Dietary factors and risk of colon
+cancer: a prospective study of 50,535 young Norwegian men and women. Eur. J.
+Cancer Prev., 5: 445– 454, 1996.
+22. Giovannucci, E., Rimm, E. B., Stampfer, M. J., Colditz, G. A., Ascherio, A.,
+and Willett, W. C. Intake of fat, meat, and fiber in relation to risk of colon cancer
+in men. Cancer Res., 54: 2930 –2997, 1994.
+23. Goldbohm, R. A., van den Brandt, P. A., van ’t Veer, P., Brants, H. A. M.,
+Dorant, E., Sturmans, F., and Hermus, R. J. J. A prospective cohort study on the
+relation between meat consumption and the risk of colon cancer. Cancer Res., 54:
+718 –723, 1994.
+24. Thun, M. J., Calle, E. E., Namboodiri, M. M., Flanders, W. D., Coates, R. J.,
+Byers, T., Boffetta, P., Garfinkel, L., and Heath, C. W. Risk factors for fatal colon
+cancer in a large prospective study. J. Natl. Cancer Inst., 84: 1491–1500, 1992.
+25. Willett, W. C., Stampfer, M. J., Colditz, G. A., Rosner, B. A., and Speizer,
+F. E. Relation of meat fat and fiber intake to the risk of colon cancer in a
+prospective study among women. N. Engl. J. Med., 323: 1664 –1672, 1990.
+26. Phillips, R. L., and Snowdon, D. A. Dietary relationships with fatal colorectal
+cancer among Seventh-Day Adventists. J. Natl. Cancer Inst., 74: 307–317, 1985.
+27. Hsing, A. W., McLaughlin, J. K., Chow, W. H., Schuman, L. M., CoChien,
+H. T., Gridley, G., Bjelke, E., Wacholder, S., and Blot, W. J. Risk factors for
+colorectal cancer in a prospective study among U. S. white men. Int. J. Cancer,
+77: 549 –553, 1998.
+
+28 Hirayama, T. Life style and Mortality: A Large-scale Census-based Cohort
+Study in Japan. Basel: S. Karger AG, 1990.
+29. Bjelke, E. Epidemiology of colorectal cancer, with emphasis on diet. In:
+Davis, Marrap, and Stathopolous (eds.), Human Cancer: Its Characterisation and
+Treatment. Excerpta Medica Int. Amsterdam, Congress Series, Vol. 484. 1980.
+30. Greenland, S. Quantitative methods in the review of epidemiologic literature.
+Epidemiol. Rev., 9: 1–30, 1987.
+31. Berlin, J. A., Longnecker, M. P., and Greenland, S. Meta-analysis of epide-
+miologic dose-response data. Epidemiology, 4: 218 –228, 1993.
+32. Greenland, S., and Longnecker, M. P. Methods for trend estimation from
+summarized dose-response data, with applications to meta-analysis. Am. J. Epi-
+demiol., 135: 1301–1309, 1992.
+33. Pettiti, D. B. (ed.). Meta-Analysis, Decision Analysis, and Cost-effectiveness
+Analysis. New York: Oxford University Press, 1994.
+34. DerSimonian, R., and Laird, N. Meta-analysis in clinical trials. Control. Clin.
+Trials, 7: 177–188, 1986.
+35. Poole, C., and Greenland, S. Random effects meta-analysis are not always
+conservative. Am. J. Epidemiol., 150: 469 – 475, 1999.
+36. Longnecker, M. P. Alcoholic beverage consumption in relation to risk of
+breast cancer: meta-analysis and review. Cancer Causes Control, 5: 73– 82, 1994.
+37. Morris, R. D., Audet A-M., Angelillo, I. F., Chalmers, T. C., and Mosteller,
+F. Chlorination, chlorination by-products, and cancer: a meta-analysis. Am. J.
+Public Health, 82: 955–963, 1992.
+38. Tweedie, R. L., and Mengersen, K. L. Meta-analytic approaches to dose-
+response relationships, with application in studies of lung cancer and exposure to
+environmental tobacco smoke. Stat. Med., 14: 545–569, 1995.
+39. Greenland, S. Meta-analysis. In: K. Rothman and S. Greenland (eds.), Mod-
+ern Epidemiology, Ed. 2 Philadelphia: J. B. Lippincott Co., 1998.
+40. Sharpe, S., and Sterne, J. Meta-regression for Stata. Stata Technical Bulletin
+No. 43, 1998.
+41. Thompson, S. G., and Sharpe, S. J. Explaining heterogeneity in meta-
+analysis: a comparison of methods. Stat. Med., 18: 2693–2708, 1999.
+42. Greenland, S. Invited commentary: a critical look at some popular meta-
+analytic methods. Am. J. Epidemiol., 140: 290 –296, 1994.
+43. Egger, M., Smith, G. D., Schneider, M., and Minder, C. Bias in meta-analysis
+detected by a simple, graphical test. BMJ, 315: 629 – 634, 1997.
+44. Key, T. J., Fraser, G. E., Thorogood, M., Appleby, P. N., Beral, V., Reeves,
+G., Burr, M. L., Chang-Claude, J., Frentzel-Beyme, R., Kuzma, J. W., Mann, J.,
+and McPherson, K. Mortality in vegetarians and nonvegetarians: detailed findings
+from a collaborative analysis of 5 prospective studies. Am. J. Clin. Nutr., 70
+(Suppl. 3): 516S–524S, 1999.
+45. Kinlen, L. J. Meat and fat consumption and cancer mortality: a study of strict
+religious orders in Britain. Lancet, 1: 946 –949, 1982.
+46. Bostick, R. M., Potter, J. D., Kushi, L. H., Sellers, T. A., Steinmetz, K. A.,
+McKenzie, D. R., Gapstur, S. M., and Folsom, A. R. Sugar, meat, and fat intake
+and non-dietary risk factors for colon cancer incidence in Iowa women (United
+States). Cancer Causes Control, 5: 38 –52, 1994.
+47. Knekt, P., Steineck, G., Jarvinen, R., Hakulinen, T., and Aromaa, A. Intake
+of fried meat and risk of cancer: a follow-up study in Finland. Int. J. Cancer, 59:
+756 –760, 1994.
+48. Egger, M., Schneider, M., and Davey Smith, G. Spurious precision? Meta-
+analysis of observational studies. BMJ, 316: 140 –144, 1998.
+49. Wong, M. Y., Day, N. E., Bashir, S. A., and Duffy, S. W. Measurement error
+in epidemiology: the design of validation studies I: univariate situation. Stat.
+Med., 18: 2815–2829, 1999.
+50. Margetts, B. M., and Pietinen, P. European prospective investigation into
+cancer and nutrition: validity studies on dietary assessment methods. Int. J.
+Epidemiol., 26 (Suppl. 1): S1–S5, 1997.
+51. Kipnis, V., Carroll, R. J., Freedman, L. S., and Li, L. Implications of a new
+dietary measurement error model for estimation of relative risk: application to
+four calibration studies. Am. J. Epidemiol., 150: 642– 651, 1999.
+52. Marshall, J. R., Hastrup, J. L., and Ross, J. S. Mismeasurement and the
+resonance of strong confounders: correlated errors. Am. J. Epidemiol., 150:
+88 –96, 1999.
+53. Margetts, B. M., Thompson, R. L., Key, T., Duffy, S., Nelson, M., Bingham,
+S., and Wiseman, M. Development of a scoring system to judge the scientific
+quality of information from case-control and cohort studies of nutrition and
+disease. Nutr. Cancer, 24: 231–239, 1995.
+54. Slattery, M. L., Potter, J., Caan, B., Edwards, S., Coates, A., Ma, K. N., and
+Berry, T. D. Energy balance and colon cancer— beyond physical activity. Cancer
+Res., 57: 75– 80, 1997.
+55. Elmstahl, S., Holmqvist, O., Gullberg, B., Johansson, U., and Berglund, G.
+Dietary patterns in high and low consumers of meat in a Swedish cohort study.
+Appetite, 32: 191–206, 1999.
+
+Downloaded from 
+
+cebp.aacrjournals.org 
+
+on July 31, 2018. © 2001 American Association for Cancer Research. 
+
+446 Meat Consumption and Colorectal Cancer Risk
+
+56. Steinmetz, K. A., and Potter, J. D. Vegetables, fruit, and cancer. I: Epide-
+miology. Cancer Causes Control, 2: 325–357, 1991.
+57. Alberts, D. S., Martinez, M. E., Roe, D. J., Guillen-Rodriguez, J. M.,
+Marshall, J. R., van Leeuwen, J. B., Reid, M. E., Ritenbaugh, C., Vargas, P. A.,
+Battacharyya, A. B., Earnest, D. L., and Sampliner, R. E. Lack of an effect of a
+high-fiber cereal supplement on the recurrence of colorectal adenomas. N. Engl.
+J. Med., 342: 1156 –1163, 2000.
+58. Schatzkin, A., Lanza, E., Corle, D., Lance, P., Iber, F., Caan, B., Shike, M.,
+Weissfeld, J., Burt, R., Cooper, M. R., Kikendall, J. W., and Cahill, J. Lack of an
+effect of a low-fat high-fiber diet on the recurrence of colorectal adenomas.
+N. Engl. J. Med., 342: 1149 –1155, 2000.
+59. Fuchs, C. S., Giovannucci, E. L., Colditz, G. A., Hunter, D. J., Stampfer,
+M. J., Rosner, B. A., Speizer, F. E., and Willett, W. C. Dietary fiber and the risk
+of colorectal cancer and adenoma in women. N. Engl. J. Med., 340: 169 –170,
+1999.
+60. Michels, K. B., Giovannucci, E. L., Joshipura, K. J., Rosner, B. A., Stampfer,
+M. J., Fuchs, C. S., Colditz, G. A., Speizer, F. E., and Willett, W. C. A prospective
+study of fruit and vegetable consumption and colorectal cancer incidence. J. Natl.
+Cancer Inst., 92: 1740 –1752, 2000.
+61. Bingham, S. A. High-meat diets and cancer risk. Proc. Nutr. Soc., 58:
+243–248, 1999.
+
+62. Potter, J. D. Colorectal cancer: molecules and populations. J. Natl. Cancer
+Inst., 91: 916 –932, 1999.
+
+63. Roberts-Thomson, I. C., Butler, W. J., and Ryan, P. Meat, metabolic geno-
+types, and risk for colorectal cancer. Eur. J. Cancer Prev., 8: 207–211, 1999.
+
+64. Bingham, S. A., Pignatelli, B., Pollack, J. R., Ellul, A., Malaveille, C., Gross,
+G., Runswick, S., Cummings, J. H., and O’Neill, I. K. Does increased endogenous
+formation of N-nitroso compounds in the human colon explain the association
+between red meat and colon cancer? Carcinogenesis (Lond.), 17: 515–523, 1996.
+
+65. Hotchkiss, J. H. Preformed N-nitroso compounds in foods and beverages.
+Cancer Surv., 8: 295–321, 1989.
+
+66. Welfare, M. R., Cooper, J., Bassendine, M. F., and Daly, A. K. Relationship
+between acetylator status, smoking, diet, and colorectal cancer risk in the north-
+east of England. Carcinogenesis (Lond.), 18: 1351–1354, 1997.
+
+67. Chen, J., Stampfer, M. J., Hough, H. L., Garcia-Closas, M., Willett, W. C.,
+Hennekens, C. H., Kelsey, K. T., and Hunter, D. J. A prospective study of
+N-acetyltransferase genotype, red meat intake, and risk of colorectal cancer.
+Cancer Res., 58: 3307–3311, 1998.
+
+68. Fearon, E. R., and Vogelstein, B. A genetic model for colorectal tumorigen-
+esis. Cell, 61: 759 –767, 1990.
+
+Downloaded from 
+
+cebp.aacrjournals.org 
+
+on July 31, 2018. © 2001 American Association for Cancer Research. 
+
+Systematic Review of the Prospective Cohort Studies on Meat
+Consumption and Colorectal Cancer Risk: A Meta-Analytical 
+Approach
+(cid:160) 
+Manjinder S. Sandhu, Ian R. White and Klim McPherson
+(cid:160) 
+Cancer Epidemiol Biomarkers Prev(cid:160)
+
+2001;10:439-446. 
+
+(cid:160) 
+(cid:160) 
+(cid:160) 
+(cid:160) 
+
+(cid:160) 
+(cid:160) 
+
+Updated version
+(cid:160) 
+
+Access the most recent version of this article at:
+http://cebp.aacrjournals.org/content/10/5/439
+ 
+(cid:160) 
+
+Cited articles
+(cid:160) 
+Citing articles
+(cid:160) 
+
+This article cites 56 articles, 7 of which you can access for free at:
+http://cebp.aacrjournals.org/content/10/5/439.full#ref-list-1
+ 
+(cid:160) 
+This article has been cited by 31 HighWire-hosted articles. Access the articles at:
+http://cebp.aacrjournals.org/content/10/5/439.full#related-urls
+ 
+(cid:160) 
+
+E-mail alerts
+(cid:160) 
+Reprints and 
+Subscriptions
+(cid:160) 
+Permissions
+(cid:160) 
+
+Sign up to receive free email-alerts
+
+ related to this article or journal.
+
+pubs@aacr.org
+.
+
+To order reprints of this article or to subscribe to the journal, contact the AACR Publications
+Department at
+(cid:160) 
+To request permission to re-use all or part of this article, use this link
+.
+http://cebp.aacrjournals.org/content/10/5/439
+Click on "Request Permissions" which will take you to the Copyright Clearance Center's (CCC)
+Rightslink site. 
+(cid:160) 
+
+Downloaded from 
+
+cebp.aacrjournals.org 
+
+on July 31, 2018. © 2001 American Association for Cancer Research. 
+
+

@@ -1,0 +1,1474 @@
+The Journal of Nutrition
+Nutritional Epidemiology
+
+Intake of Speciﬁc Nonfermented Soy Foods May
+Be Inversely Associated with Risk of Distal
+Gastric Cancer in a Chinese Population1–3
+
+Sun-Seog Kweon,4,5 Xiao-Ou Shu,4 Yongbing Xiang,6 Hui Cai,4 Gong Yang,4 Bu-Tian Ji,7 Honglan Li,6
+Yu-Tang Gao,6 Wei Zheng,4 and Meira Epplein4*
+
+4Division of Epidemiology, Department of Medicine, Vanderbilt-Ingram Cancer Center, Vanderbilt University School of Medicine,
+Nashville, TN; 5Department of Preventive Medicine, Chonnam National University Medical School, Gwangju, South Korea;
+6Department of Epidemiology, Shanghai Cancer Institute, Renji Hospital, Shanghai Jiaotong University School of Medicine, Shanghai,
+China; and 7Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD
+
+Abstract
+
+Because the association between soy consumption and gastric cancer is inconsistent, we evaluated the putative
+preventive effect of soy food on gastric cancer risk in the Shanghai WomenÕs and MenÕs Health Studies, comprising a total
+of 128,687 participants. Intake of nonfermented soy foods was estimated using 2 validated food-frequency question-
+
+naires. HRs were calculated with 95% CIs for intake amounts of total nonfermented soy food intake, soy protein, and
+
+isoﬂavones as well as individual soy food groups using Cox proportional hazards regression. A total of 493 distal gastric
+
+cancer cases were identiﬁed by 2010. Although all risk estimates for summary measures of soy food intake above the
+
+lowest quartile (quartile 1) were suggestive of a protective effect, no statistically signiﬁcant associations with risk of distal
+
+gastric cancer were found. Among the separate soy food groups, signiﬁcant reductions in risk of distal gastric cancer by
+
+increasing intake of tofu were found in men in quartile 2 (HR: 0.59; 95% CI: 0.40, 0.86), quartile 3 (HR: 0.62; 95% CI: 0.44,
+0.88), and quartile 4 (HR: 0.64; 95% CI: 0.42, 0.99), resulting in a signiﬁcant trend (P-trend = 0.02). Dry bean intake was
+
+also inversely associated with decreased risk of gastric cancer, but in postmenopausal women only [quartile 2 (HR: 0.54;
+
+95% CI: 0.30, 0.96); quartile 3 (HR: 0.90; 95% CI: 0.64, 1.27); and quartile 4 (HR: 0.63; 95% CI: 0.43, 0.91)], resulting in a
+signiﬁcant trend (P-trend = 0.03). Overall, our study found no statistically signiﬁcant association between nonfermented
+
+soy food intake and distal gastric cancer risk, though the data supported the hypothesis that tofu may protect against
+
+distal gastric cancer in men and dry bean consumption may decrease the risk of gastric cancer in postmenopausal
+
+women.
+
+J. Nutr. 143: 1736–1742, 2013.
+
+Introduction
+
+Gastric cancer, the fourth most common cancer globally with
+about 1 million new cases annually (1), is the most frequent
+cancer in Japan and Korea, and the second most common in
+China, in both men and women (2). Furthermore, it has been
+ranked the second cause of cancer-related death in the world;
+;738,000 people died from gastric cancer in 2008 (1). However,
+gastric cancer incidence is relatively low in most Western
+countries, including the United States and the United Kingdom.
+This geographic variation in incidence has generally been
+explained by 3 interpopulation differences, including differences
+
+Institute grants R37 CA70867 and R01
+
+1 Supported by National Cancer
+CA82729.
+2 Author disclosures: S.-S. Kweon, X.-O. Shu, Y. Xiang, H. Cai, G. Yang, B.-T. Ji,
+H. Li, Y.-T. Gao, W. Zheng, and M. Epplein, no conﬂicts of interest.
+3 Supplemental Table 1 is available from the "Online Supporting Material" link in
+the online posting of the article and from the same link in the online table of
+contents at http://jn.nutrition.org.
+* To whom correspondence should be addressed: E-mail: meira.epplein@
+vanderbilt.edu.
+
+in dietary patterns (3,4), subtype prevalence of Helicobactor
+pylori infection (5,6), and genetic susceptibility (7), and by their
+interactions (8,9).
+
+Dietary habits have been considered an important factor in
+carcinogenesis and have been particularly emphasized in the
+development of gastric cancer (10,11). The high incidence of
+gastric cancer in Japan, Korea, and China has often been
+explained by their distinct dietary habits, including eating high-
+salt food and nutritional sources of nitrosamine alongside a high
+prevalence of H. pylori (12,13). In the case of soy foods, Japanese
+and Korean populations are generally known to consume more
+fermented soy foods, such as fermented soy paste and fermented
+soybeans, rather than fresh nonfermented soy foods (14–16).
+Although the cancer-preventive effect of soy intake has been
+widely studied in hormone-sensitive cancers,
+information is
+inconsistent about the role of soy foods for cancer development
+in organs not considered to be hormone related, such as the
+stomach (17,18). It has been suggested that estrogen plays a
+protective role in the development of gastric cancer (19). For
+
+1736
+
+ã 2013 American Society for Nutrition.
+Manuscript received March 22, 2013. Initial review completed May 4, 2013. Revision accepted August 12, 2013.
+First published online August 28, 2013; doi:10.3945/jn.113.177675.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/143/11/1736/4571717
+by University of Ottawa user
+on 24 June 2018
+
+example, exposure to tamoxifen, an antagonist of estrogen re-
+ceptor, after breast cancer or endometrial cancer treatment has
+been suggested as a risk factor of gastric cancer (20,21). Although
+the protective mechanism of soy foods for gastric cancer is more
+frequently explained by anti-inﬂammatory effects or an antiox-
+idative mechanism rather than the hormone-related effects (22),
+the potential protective pathway in gastric tissue remains to be
+clariﬁed (23–25). In addition, the inconsistencies found between
+soy food intake and risk of gastric cancer in previous results may
+also be explained by confounders, or effect modiﬁers, such as
+ethnicity, sex, menopausal status or history of hormone replace-
+ment therapy in women, fermented status of soy foods, and pos-
+sibly H. pylori status or genetic susceptibility (25,26).
+
+The misclassiﬁcation bias caused by the low validity of ex-
+posure measurement for dietary soy intake and the insufﬁcient
+statistical power by small sample size might also bias the study
+results toward the null association. A large-scale prospective
+study in a population with a high incidence of gastric cancer could
+minimize the impact of exposure misclassiﬁcation and provide
+greater statistical power to control for related factors. Therefore,
+we analyzed the data from 2 large-scale, population-based, pro-
+spective studies, the Shanghai WomenÕs Health Study (SWHS)
+and the Shanghai MenÕs Health Study (SMHS), to investigate
+whether nonfermented soy food intake is associated with a re-
+duced risk of gastric cancer in an urban Chinese population.
+
+Participants and Methods
+
+Study design and participants. The baseline survey of the SWHS was
+administered from 1996 to 2000, and the SMHS from 2002 to 2006,
+both in urban Shanghai, China. A total of 74,941 women aged 40–70 y
+were recruited from 80,891 eligible women (participation rate, 92.6%),
+and a total of 61,482 men aged 40–74 y were recruited from 83,125
+eligible men (participation rate, 74.0%) during the baseline examina-
+tion. The SWHS and SMHS used a similar standard protocol, including
+in-person interviews, to obtain information on demographic character-
+istics, dietary habits, and other health-related factors. The details on the
+study design of the SWHS (27) and SMHS (28) have been described
+previously. The studies were approved by the Institutional Review
+Boards of Vanderbilt University, the Shanghai Cancer Institute, and the
+National Cancer Institute, and written informed consent was obtained
+from all participants.
+
+Dietary assessment. The validation of the comprehensive FFQs in both
+cohorts has been described in detail elsewhere (29,30). Brieﬂy, the SMHS
+FFQ (81 items) was modiﬁed from the SWHS FFQ (77 items), with the
+addition of the items of garland chrysanthemum, shepherdÕs purse,
+clover, amaranth, pea shoots, and pigÕs ham hock and the removal of
+sweet potatoes. The SWHS FFQ combined fresh soy beans, fresh peas,
+and fresh broad beans into 1 item, but the SMHS FFQ listed these items
+in separate questions. Nonfresh soy bean curd, including fried tofu,
+vegetarian chicken, and bean curd cake, was combined into 1 item in
+both cohorts, labeled ‘‘other soyfood products.’’ For each food item or
+group of foods, we collected data for the frequency of consumption (i.e.,
+daily, weekly, monthly, annually, and never) and the amount consumed
+in liang (Chinese unit, 1 liang = 50 g) per unit of time. The daily intakes
+of
+total energy, soy protein, and isoﬂavones were calculated by
+multiplying the amount of each food consumed by the nutrient content
+per gram of the food as obtained from the Chinese Food Consumption
+Tables (31). The daily intake of the dried weight of 6 individual items
+[soy milk, fresh soybean, dried soybean, dried or pressed bean curd
+(tofu), bean sprouts, and other soyfood products (i.e., cooked tofu,
+which includes fried tofu, vegetarian chicken, and bean curd cake)]
+were calculated by multiplying the amount of each soy food consumed
+by [1 2 (percentage of water content of the food item/100)] (32) and
+were combined to compute the daily nonfermented soy food intake
+amount (g/d) of each individual. Water content of each soy food was
+
+determined based on the Chinese Food Consumption Tables (soy milk,
+fresh soybean, dried soybean, tofu, bean sprout, and other soyfood
+products were 96.4%, 29.4%, 10.2%, 85.6%, 88.8%, and 60.1%
+water, respectively). For the present analyses, we averaged the amounts
+of these nonfermented food items derived from the baseline FFQ with
+those from the ﬁrst follow-up FFQ, which was conducted 2–3 y after the
+baseline survey (follow-up rate was 91.3% and 81.6% in the SWHS and
+SMHS, respectively).
+
+Cancer ascertainment. We initially identiﬁed newly diagnosed gastric
+cancer cases by data linkage with the Shanghai Cancer Registry, a
+population-based cancer registry established in 1963 and by in-person
+follow-up surveys every 2–3 years. Completeness of case ascertainment by
+the Shanghai Cancer Registry is very high because of a low out-migration
+rate. In the present study, new possible cancer cases extracted by data
+linkage with the registry database were rechecked to eliminate any false-
+positive matches by reviewing medical records from the diagnostic
+hospitals and home visiting. Death cases were ascertained by data linkage
+to death certiﬁcate registries and conﬁrmation through home visits.
+Among the 678 gastric cancer cases (SWHS, n = 354; SMHS, n = 324)
+identiﬁed until the end of 2010, 615 cases (SWHS, n = 326; SMHS, n =
+289) were distal gastric cancer cases, including 87 cases of unknown site,
+deﬁned as noncardia cancer, which was coded as 151.1–151.9, based on
+the WHO International Classiﬁcation of Diseases (9th version).
+
+Statistical analysis. Among the total participants of the SWHS and
+SMHS, we excluded the 1,669 individuals with gastrectomy history
+before the baseline questionnaire (SWHS, n = 346; SMHS, n = 1,323)
+and 1,495 female individuals and 14 male individuals who had reported
+a previous cancer diagnosis in the baseline questionnaire or were
+identiﬁed by cancer registry data. In addition, in the ﬁnal analysis we also
+excluded 227 individuals who had an estimated extreme total energy
+intake of <500 or >4000 kcal/d in baseline FFQ or in follow-up FFQ
+1 (SWHS, n = 75; SMHS, n = 152), 421 individuals with a follow-up
+period of <1 y (SWHS, n = 153; SMHS, n = 268), 3894 individuals who
+had reported a history of peptic ulcer medication in the baseline
+questionnaire (SWHS, n = 2,411; SMHS, n = 1,483), and 17 individuals
+with missing essential information such as status of current smoking or
+menopause (SWHS, n = 15; SMHS, n = 2). After excluding 185 distal
+gastric cancer cases and 7552 noncancer cases for the reasons just stated,
+a total of 128,687 individuals (SWHS, n = 70,446; SMHS, n = 58,241),
+including 493 newly incident distal gastric cancer cases (SWHS, n = 282;
+SMHS, n = 211), were included for the present analyses.
+
+All participantss were divided into 4 quartiles according to their sex
+and median nonfermented soy food intake, including soy milk, tofu,
+other soyfood products, dry bean, fresh bean, and bean sprout (Table 1),
+from the baseline examination and follow-up survey 1. The lowest
+quartile (quartile 1) was used as the reference. To calculate HRs and
+95% CIs for the association between nonfermented soy intake and
+incident distal gastric cancer under control of potential confounders, we
+used Cox proportional hazards regression with age as the time scale,
+with a = 0.05. In the fully adjusted model, we selected the variables that
+were independently associated with distal gastric cancer risk in the age-
+adjusted model and that we a priori believed to be associated with soy
+food intake as confounders. These covariates included smoking status
+[never or ever (smoked at least 1 cigarette/d for >6 mo)]; smoking
+amount (pack-years); drinking status [never or ever (drank at least 3
+times/wk for >6 mo)]; BMI (as a continuous variable); physical activity
+(metabolic equivalent hours per week per year); presence of family
+history of gastric cancer; past history of chronic gastritis; born in
+Shanghai and house income as social indicators; median intakes of total
+energy (kcal/d), sodium, red meat, fruit except watermelon, and all
+vegetables from the 2 FFQs; and menopausal status (in women).
+Continuous variables are presented as means 6 SDs. We also examined
+the association of soy food and gastric cancer risk among women in
+models stratiﬁed by menopausal status. We used the median soy food
+intake value of each quartile to test for a linear trend across the intake
+amount. We have applied the fractional polynomials approach to ﬁnd
+the best ﬁtting model (33). In our data, any polynomial model does not
+provide a better ﬁt compared with a simple linear model at the 5%
+
+Soy food and gastric cancer
+
+1737
+
+Downloaded from https://academic.oup.com/jn/article-abstract/143/11/1736/4571717
+by University of Ottawa user
+on 24 June 2018
+
+TABLE 1 Baseline characteristics comparing distal gastric cancer case individuals and noncase individuals as well as individuals in
+quartiles 1–4 of daily nonfermented soy food intake levels in the SWHS and SMHS1
+
+Noncase
+
+(n = 128,194)
+
+Quartile 1
+(n = 32,188)
+
+Quartile 2
+(n = 32,161)
+
+Quartile 3
+(n = 32,154)
+
+Quartile 4
+(n = 32,184)
+
+Case
+
+(n = 493)
+
+282
+
+57.9 6 9.1
+
+73.8
+
+24.8 6 3.5
+
+2.84
+4.96
+
+11.2 6 9.52
+
+45.7
+
+0.9 6 1.8
+1610 6 355
+312 6 129
+43.3 6 30.4
+115 6 93
+278 6 150
+
+29.4
+8.9
+16.3
+1.8
+52.5
+211
+
+70,164
+
+52.4 6 9.0*
+
+48.3*
+
+24.0 6 3.4*
+
+2.27
+2.68*
+11.7 6 13.7
+
+34.7*
+
+0.7 6 1.6*
+1640 6 350
+347 6 138*
+48.0 6 30.1*
+135 6 96*
+303 6 152*
+
+26.4
+5.7*
+17.4
+2.0
+69.2*
+58,030
+
+63.3 6 9.4
+23.8 6 3.0
+
+37.9
+67.3
+
+55.2 6 9.7*
+23.78 6 3.1
+
+33.7
+69.3
+
+17,622
+11.20
+
+51.5 6 9.1
+
+43.7
+
+23.7 6 3.4
+
+1.87
+3.04
+
+17,605
+19.11
+
+51.7 6 8.9
+
+45.4
+
+23.9 6 3.4
+
+2.28
+2.39
+
+17,600
+27.27
+
+52.5 6 8.9
+
+49.1
+
+24.1 6 3.4
+
+2.24
+2.55
+
+17,619
+42.32
+
+53.9 6 9.1
+
+55.5
+
+24.4 6 3.5
+
+2.69
+2.76
+
+12.0 6 13.3
+
+11.6 6 13.5
+
+11.9 6 15.4
+
+11.0 6 12.6
+
+27.8
+
+0.5 6 1.2
+1490 6 308
+283 6 117
+42.2 6 26.9
+109 6 86
+217 6 107
+
+24.7
+5.6
+17.9
+1.5
+70.8
+14,566
+17.17
+
+55.1 6 10.0
+23.6 6 3.1
+
+29.2
+69.8
+
+32.6
+
+0.6 6 1.4
+1600 6 310
+328 6 119
+47.1 6 28.0
+127 6 88
+269 6 116
+
+26.8
+5.7
+17.4
+1.7
+69.6
+14,556
+28.06
+
+54.8 6 9.5
+23.7 6 3.0
+
+31.8
+69.0
+
+36.7
+
+0.7 6 1.6
+1680 6 320
+363 6 127
+49.8 6 29.6
+140 6 93
+320 6 132
+
+26.9
+5.9
+17.1
+2.0
+69.0
+14,554
+38.08
+
+55.2 6 9.6
+23.8 6 3.0
+
+34.2
+69.8
+
+41.9
+
+0.9 6 1.8
+1800 6 370
+413 6 151
+53.0 6 34.3
+162 6 108
+407 6 176
+
+27.0
+5.8
+17.2
+2.8
+67.0
+14,565
+56.56
+
+55.7 6 9.6
+24.0 6 3.0
+
+39.8
+68.6
+
+Women, n
+
+Median nonfermented soy food intake,2 g/d
+Age at baseline, y
+Menopause, %
+BMI, kg/m
+Ever drinker,3 %
+Ever smoker,4 %
+Smoking, pack-years
+Regular exercise,5 %
+MET, h/wk
+Total energy, kcal/d
+Sodium, mg/d
+Red meat, mg/d
+Fruit (excluding watermelon), mg/d
+Vegetables, mg/d
+Family total cancer history, %
+Family gastric cancer history, %
+Gastritis history, %
+Aspirin or analgesic use,6 %
+Born in urban Shanghai, %
+
+Men, n
+
+Median nonfermented soy food intake,2 g/d
+Age at baseline, y
+BMI, kg/m2
+Ever drinker,3 %
+Ever smoker,4 %
+Smoking, pack-years
+Regular exercise,5 %
+MET, h/wk
+Total energy, kcal/d
+Sodium, mg/d
+Red meat, mg/d
+Fruit (excluding watermelon), mg/d
+Vegetables, mg/d
+Family total cancer history, %
+Family gastric cancer history, %
+Gastritis history, %
+Aspirin or analgesic use,6 %
+Born in urban Shanghai, %
+
+28.1 6 17.4
+
+24.3 6 16.0*
+
+24.8 6 16.7
+
+23.9 6 15.5
+
+23.9 6 15.7
+
+24.5 6 16.2
+
+46.5
+
+1.4 6 2.1
+1870 6 400
+379 6 150
+60.5 6 36.2
+67.0 6 68.5
+339 6 182
+
+28.4
+6.6
+21.3
+10.9
+54.5
+
+35.4*
+
+1.0 6 2.0*
+1910 6 420
+389 6 145
+62.1 6 37.5
+70.5 6 63.7
+361 6 181
+
+28.2
+6.3
+13.9*
+7.1*
+74.5*
+
+31.5
+
+0.8 6 1.8
+1760 6 400
+325 6 130
+54.9 6 35.6
+56.5 6 56.2
+262 6 141
+
+27.7
+6.1
+15.0
+7.4
+74.2
+
+33.9
+
+0.9 6 1.9
+1870 6 380
+368 6 124
+60.2 6 34.0
+64.8 6 56.3
+320 6 134
+
+28.3
+6.3
+14.1
+6.3
+75.2
+
+37.2
+
+1.0 6 2.0
+1950 6 390
+402 6 129
+64.1 6 35.7
+73.4 6 62.6
+377 6 151
+
+28.3
+6.5
+13.0
+7.0
+74.8
+
+39.0
+
+1.2 6 2.3
+2080 6 430
+462 6 159
+69.3 6 42.6
+87.2 6 73.9
+485 6 208
+
+28.7
+6.5
+13.6
+7.6
+73.5
+
+1 Values are means 6 SDs or percentages. *Different from cases, P , 0.05. MET, metabolic equivalent task; SMHS, Shanghai MenÕs Health Study; SWHS, Shanghai WomenÕs
+Health Study.
+2 Dry weights of soy milk, tofu, fresh bean, dry bean, and soy bean sprout.
+3 Drank at least 3 times/wk for .6 mo.
+4 Smoked at least 1 cigarette/d for .6 mo.
+5 Exercised at least 1 time/wk for .3 mo continuously for the past 5 y.
+6 Took analgesics or aspirin-based medicine at least 3 times/wk for .2 mo continuously.
+
+concentration. Other possible risk factors for gastric cancer, such as use
+of aspirin, education level, hormone replacement therapy in women, and
+dietary salt intake amount, did not alter the results after adjustment, thus
+they were excluded from the ﬁnal model. The end of the study period was
+deﬁned as the ﬁrst of the following outcomes: ﬁrst cancer diagnosis, any
+cause of death, or date of last follow-up. All analyses were carried out
+with SAS version 9.3 (SAS Institute).
+
+Results
+
+The following are the general characteristics of distal gastric
+cancer case individuals compared with noncase individuals at
+
+1738 Kweon et al.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/143/11/1736/4571717
+by University of Ottawa user
+on 24 June 2018
+
+risk of gastric cancer: distal gastric cancer case individuals were
+more likely to be older, regular exercisers, and born outside of
+urban Shanghai than noncase individuals among men and
+women (Table 1). However, these differences between case and
+noncase individuals disappeared in both sexes when adjusted
+by age at baseline examination. Compared with individuals in
+the lowest quartile (quartile 1) of daily nonfermented soy food
+intake, individuals in the highest quartile (quartile 4) were
+more likely to be older and postmenopausal, have a higher
+BMI, have higher average levels of physical activity, be regular
+aspirin users, be ever drinkers, be regular exercisers, and be
+more likely to have been born outside of urban Shanghai, after
+
+adjusting for age among both men and women. Daily intake of
+total energy, sodium, red meat, fruit excluding watermelon,
+and all vegetables also increased by increasing quartile of soy
+food intake (Table 1).
+
+Overall, although all risk estimates for each summary
+measure of soy food intake above quartile 1 were suggestive of
+a protective effect, no statistically signiﬁcant associations with
+risk of distal gastric cancer were found. These null associations
+did not differ according to sex. Soy protein and isoﬂavones also
+
+showed similar null associations with distal gastric cancer risk in
+all individuals and both sexes (Supplemental Table 1).
+
+When examined in separate soy food categories, no associ-
+ation between each soy food category and risk of distal gastric
+cancer was found overall (Table 2). When stratiﬁed by sex, men
+(but not women) in quartiles 2, 3, and 4 of tofu intake,
+compared with those in quartile 1 of tofu intake, had decreased
+risks of distal gastric cancer (HR: 0.59; 95% CI: 0.40, 0.86; P =
+0.01; HR: 0.62; 95% CI: 0.44, 0.88; P = 0.01; and HR: 0.64;
+
+TABLE 2 HRs and 95% CIs of distal gastric cancer risk for daily intake of each group of nonfermented
+soy food in quartiles 1–4 in the baseline examination and follow-up survey 1 of SWHS and SMHS1
+
+Quartile 1
+
+Quartile 2
+
+Quartile 3
+
+Quartile 4
+
+P-trend
+
+Soy milk2
+
+Men, g/d
+Women, g/d
+HR (95% CI)3
+
+All
+Men
+Women
+
+Tofu2
+
+Men, g/d
+Women, g/d
+HR (95% CI)3
+
+All
+Men
+Women
+
+Dry bean2
+
+Men, g/d
+Women, g/d
+HR (95% CI)3
+
+All
+Men
+Women
+Fresh bean2
+Men, g/d
+Women, g/d
+HR (95% CI)3
+
+All
+Men
+Women
+Bean sprout2
+Men, g/d
+Women, g/d
+HR (95% CI)3
+
+All
+Men
+Women
+
+Other soyfood products2
+
+Men, g/d
+Women, g/d
+HR (95% CI)3
+
+All
+Men
+Women
+
+0 (0.0)
+0 (0.0)
+
+1.00
+1.00
+1.00
+
+0.30 (0.1–0.9)
+0.59 (0.1–1.3)
+
+1.93 (1.0–3.9)
+2.57 (1.4–4.5)
+
+5.79 (.3.9)
+6.43 (.4.5)
+
+0.84 (0.65, 1.08)
+1.07 (0.73, 1.57)
+0.69 (0.50, 0.97)
+
+0.83 (0.66, 1.06)
+0.94 (0.65, 1.38)
+0.75 (0.55, 1.02)
+
+0.87 (0.69, 1.11)
+1.05 (0.73, 1.50)
+0.75 (0.54, 1.04)
+
+1.93 (,3.1)
+1.53 (,2.5)
+
+4.10 (3.2–5.3)
+3.14 (2.5–4.1)
+
+6.28 (5.4–8.4)
+5.63 (4.2–6.8)
+
+10.46 (.8.4)
+9.42 (.6.8)
+
+1.00
+1.00
+1.00
+
+0 (0.0)
+0 (0.0)
+
+1.00
+1.00
+1.00
+
+0.71 (0.55, 0.91)
+0.59 (0.40, 0.86)
+0.82 (0.58, 1.15)
+
+0.89 (0.70, 1.12)
+0.62 (0.44, 0.88)
+1.18 (0.86, 1.63)
+
+0.72 (0.55, 0.95)
+0.64 (0.42, 0.99)
+0.82 (0.57, 1.17)
+
+0.31 (0.1–0.5)
+0.24 (0.1–0.3)
+
+0.61 (0.6–1.2)
+0.61 (0.4–0.9)
+
+2.15 (.1.2)
+1.72 (.0.9)
+
+0.82 (0.61, 1.11)
+1.13 (0.76, 1.69)
+0.57 (0.36, 0.92)
+
+0.90 (0.72, 1.14)
+0.89 (0.61, 1.29)
+0.91 (0.68, 1.22)
+
+0.82 (0.65, 1.03)
+0.93 (0.65, 1.32)
+0.74 (0.54, 1.01)
+
+4.72 (,7.9)
+1.86 (,3.2)
+
+10.62 (7.9–13.4)
+4.96 (3.3–6.7)
+
+16.71(13.4–21.3)
+8.97 (6.8–11.9)
+
+29.45 (.21.3)
+17.73 (.11.9)
+
+1.00
+1.00
+1.00
+
+0.90 (0.70, 1.15)
+0.70 (0.47, 1.04)
+1.07 (0.78, 1.48)
+
+0.81 (0.62, 1.05)
+0.80 (0.54, 1.18)
+0.83(0.58, 1.18)
+
+1.03 (0.79, 1.34)
+1.04 (0.70, 1.53)
+1.04 (0.73, 1.48)
+
+0 (0.0)
+0 (,0.1)
+
+0.08 (0.1–0.21)
+0.08 (0.1–0.18)
+
+0.38 (0.22–0.58)
+0.30 (0.19–0.55)
+
+1.00 (.0.58)
+1.01 (.0.55)
+
+1.00
+1.00
+1.00
+
+1.00 (0.79, 1.27)
+1.05 (0.72, 1.53)
+0.96 (0.70, 1.31)
+
+0.99 (0.77, 1.26)
+1.10 (0.76, 1.61)
+0.91 (0.65, 1.26)
+
+0.98 (0.76, 1.27)
+1.08 (0.73, 1.60)
+0.91 (0.65, 1.29)
+
+2.85 (.4.8)
+1.64 (.3.0)
+
+6.13 (4.8–8.5)
+4.28 (3.0–5.7)
+
+9.98 (8.6–12.8)
+7.79 (5.7–10.0)
+
+15.90 (.12.8)
+14.26 (.10.0)
+
+1.00
+1.00
+1.00
+
+0.85 (0.67, 1.08)
+0.85 (0.60, 1.21)
+0.85 (0.62, 1.17)
+
+0.68 (0.53, 0.89)
+0.69 (0.46, 1.03)
+0.69 (0.48, 0.97)
+
+0.93 (0.71, 1.21)
+0.77 (0.51, 1.16)
+1.06 (0.75, 1.52)
+
+0.22
+0.95
+0.08
+
+0.08
+0.02
+0.73
+
+0.10
+0.53
+0.10
+
+0.93
+0.79
+0.78
+
+0.87
+0.64
+0.54
+
+0.21
+0.11
+0.77
+
+1 Values are medians (ranges) of intake per quartile in terms of dry weight of the soy product(s). SMHS, Shanghai MenÕs Health Study;
+SWHS, Shanghai WomenÕs Health Study.
+2 Median intake of each quartile used as continuous variables in a Cox proportional hazards model.
+3 Data are adjusted for age, BMI, metabolic equivalents hours per week per year, chronic gastritis history, family gastric cancer history, born
+in urban Shanghai, family income, ever drink, ever smoke, and smoking amounts at baseline examinations as well as for median intakes of
+total calories, red meat, vegetables, sodium, fruit (excluding watermelon), and sex (for the models including both sexes, only). Quartile
+1 value 1.00 is the reference.
+
+Soy food and gastric cancer
+
+1739
+
+Downloaded from https://academic.oup.com/jn/article-abstract/143/11/1736/4571717
+by University of Ottawa user
+on 24 June 2018
+
+95% CI: 0.42, 0.99, P = 0.05 respectively), resulting in a
+signiﬁcant trend (P-trend = 0.02). In menÕs quartile 1, tofu
+intake was <3.1 oz (87.9 g)/d of dry weight of tofu, or ;0.62 oz
+(17.6 g)/d of tofu. No associations between soy milk, dry bean,
+fresh bean, bean sprout, or other soyfood products and risk of
+distal gastric cancer were found among men or women (Table 2).
+When we stratiﬁed by menopausal status of women, there
+was a suggestion of a decreased risk of gastric cancer for
+postmenopausal women only whose dry bean intake was greater
+than that of quartile 1, that is, women in quartiles 2, 3, and 4
+(HR: 0.54; 95% CI: 0.30, 0.96; HR: 0.90; 95% CI: 0.64, 1.27;
+and HR: 0.63; 95% CI: 0.43, 0.91, respectively), resulting in a
+signiﬁcant trend (P-trend = 0.03). Otherwise, no differences
+were found from the models stratiﬁed by menopausal status
+(data not shown).
+
+Discussion
+
+Overall, we found no statistically signiﬁcant association be-
+tween total nonfermented soy food intake and the risk of distal
+cancer in the SWHS and SMHS cohorts. However, among the
+separate soy food groups, 2 statistically signiﬁcant associations
+were found. Increasing tofu intake was associated with decreas-
+ing risk of gastric cancer in men, and increasing dry bean intake
+was associated with decreasing risk of gastric cancer in
+postmenopausal women. Our study ﬁndings were consistent
+with results from the previous epidemiological reports on the
+relation between soy consumption and gastric cancer risk.
+
+Speciﬁcally, 2 recent meta-analyses investigated the preventive
+effects of soy consumption and risk of gastric cancer. In the most
+recent meta-analysis, higher intake of nonfermented soy foods
+was associated with a statistically signiﬁcant decreased risk of
+gastric cancer (OR: 0.64; 95% CI: 0.54, 0.77), whereas higher
+intake of fermented soy foods was associated with a statistically
+signiﬁcant increased risk (OR: 1.22; 95% CI: 1.02, 1.44) (17).
+This meta-analysis included 18 articles, comprising 6 cohort
+studies and 12 case-control studies, but all were from studies of
+Korean or Japanese populations (22). A Chinese meta-analysis,
+including 10 cohort studies, 16 case-control studies, and 2 cross-
+sectional studies, also reported an inverse association between the
+highest consumption of soybean products and risk of gastric
+cancer (OR: 0.58; 95% CI: 0.52, 0.65) (34). However, although
+these meta-analyses and individual case-control studies have
+reported associations between soy intake and gastric cancer, few
+large prospective studies have been restricted to more homoge-
+nous categories for a more precise analysis of these associations,
+as has the present study, through the exclusion of fermented soy
+foods and a focus on distal gastric cancer only.
+
+Recently a Japanese prospective cohort study, which included
+a total of 1249 gastric cancer cases, found no evidence for a
+gastric cancer–preventive effect of isoﬂavones or soy food in
+either sex. This study however did report an increasing trend of
+gastric cancer risk with increasing amounts of isoﬂavones
+among women who had used hormonal therapy (18). This
+ﬁnding was consistent with the results from a previous study that
+the phytoestrogenic effect may be altered by an individualÕs
+estrogen environment (35). In our study, hormonal therapy was
+not a factor because only 2% of the women in our study used
+hormonal therapy. Furthermore, we found no signiﬁcant inter-
+action between menopausal status and total nonfermented soy
+food intake in relation to distal gastric cancer (P-trend = 0.28),
+although there was a suggestion that dry bean intake reduces
+risk for postmenopausal women only.
+
+1740 Kweon et al.
+
+Previous in vivo studies have suggested that isoﬂavones,
+which are abundant in soy food, suppress carcinogenesis in
+gastric cells (23,36), but the potential mechanism remains
+unclear. Isoﬂavones have a similar structure to 17b-estradiol and
+are able to suppress the effects of estrogen by competitively
+binding to the b-estrogen receptor. However, phytoestrogens
+have been found to have both estrogenic and antiestrogenic
+effects, depending on the speciﬁc tissue and the individualÕs
+concentration of circulating estrogens (37). Another biologically
+plausible pathway that is able to explain a potentially protective
+effective of isoﬂavones on gastric cancer risk is through anti-
+inﬂammatory and antioxidative effects. Studies have reported on
+the relation of soybean curd and H. pylori
+infection (38),
+interaction of soy bean intake and interleukin-10 genetic
+variants on gastric cancer risk (24), and genistein inhibition on
+the growth of H. pylori (39), because soy products can enhance
+the immune function of gastric cells (40). Genistein may induce
+apoptosis in cancer cell
+lines, arrest the gastric cancer cell
+proliferation cycle at the G2/M phase (40), and play a role as a
+tyrosine kinase inhibitor that
+inhibits the proliferation or
+angiogenesis of gastric epithelial cells (36).
+
+In our study, tofu and dry bean intakes were inversely
+associated with the risk of distal gastric cancer in men and
+postmenopausal women, respectively. The inverse association
+between tofu intake and gastric cancer was supported by a
+previous review of in vitro and in vivo studies (41) and several
+epidemiological studies (15,42,43). A Korean case-control study,
+including 213 cases and an equal number of controls, also
+reported an inverse association between tofu intake and risk of
+gastric cancer (OR: 0.2; 95% CI: 0.1,0.8) (43); however, in a
+prospective study of 38,576 Japanese atomic-bomb survivors, no
+signiﬁcant inverse association between tofu and gastric cancer
+was found (15). A Japanese cross-sectional study reported an
+inverse association between tofu and H. pylori infection (P-trend
+= 0.01), although no clear explanation was suggested (38). A
+Japanese prognosis study of gastric cancer reported that frequent
+intake of tofu decreases the HR for gastric cancer death (HR:
+0.65; 95% CI: 0.42, 0.99) (42). Soy also contains a variety of
+bioactive components,
+including saponins, trypsin inhibitors,
+phytic acid, protease inhibitors, and isoﬂavones (44). The
+contents of the components in tofu are reduced during the
+processing of soy beans to tofu, though quantiﬁcation studies of
+isoﬂavone isomers have reported that tofu contains similar
+amounts of isoﬂavones as soy milk and miso and represents the
+major source of isoﬂavones among soy foods (45,46).
+
+When we stratiﬁed by menopausal status in women, dry bean
+intake was also inversely associated with the risk of distal gastric
+cancer. Dry beans are a major dietary source of ﬁber and
+ﬂavonols, which may play a protective role against cancers,
+including gastric cancer (47,48). Another possible mechanism is
+that dry bean consumption was associated with dose-response
+reduction in plasma glucose concentration, and the low glycemic
+load may reduce the risk of gastric cancer (47,49,50). Dietary
+dry beans are also rich in other bioactive constituents that may
+have anticarcinogenic properties, including saponins, protease
+inhibitor, inositol hexaphosphate, g-tocoperol, and phytosterols
+(51), and appeared to modify cell proliferation through apopto-
+sis (52).To further explore our study results, we have done
+sensitivity analyses to compare the main results with subanalyses
+excluding individuals diagnosed within 1, 2, and 3 y of the
+baseline survey, and major results were consistent with the
+primary analyses (data not shown).
+
+Several characteristics in study design distinguished this study
+from previous investigations. We chose to exclude the fermented
+
+Downloaded from https://academic.oup.com/jn/article-abstract/143/11/1736/4571717
+by University of Ottawa user
+on 24 June 2018
+
+soy foods elements from our calculation of soy food intake
+because, in general, common fermented soy foods, such as soup
+or stew, contain a large amount of salt and lose their beneﬁcial
+effects during fermentation or storage (17). Preserved or
+fermented soy foods, such as miso soup in Japan and soybean
+paste in Korea, contain high concentrations of N-nitroso
+compounds (25), which are potential carcinogens for many
+primary sites. Moreover, to reduce the misclassiﬁcation of soy
+intake group, we estimated the exposure level using the mean of
+2 FFQs (53). The correlation coefﬁcient between nonfermented
+soy food intakes derived from the 2 FFQs was 0.35, and the
+agreement rate of the quartile group of nonfermented soy intake
+between the 2 FFQs was 38.0%. Because the water content of
+soy foods is relatively high and varies widely (from 96.4% in soy
+milk to 10.2% in dry beans), we also calculated dry weights of
+each soy food to ascertain the speciﬁc effects of each soy
+component. In addition, we restricted ﬁnal outcomes to gastric
+cancer developed in the noncardia region. Distal gastric cancer is
+localized in the noncardia region and differs from cardia gastric
+cancer, which is localized to the gastroesophageal junction, in
+etiology and epidemiological characteristics. Another strength
+of our study was that our study population in is was well suited
+to the study of soy and gastric cancer because of its high
+incidence of gastric cancer (1) and dietary habits with frequent
+consumption of soy foods (54). Study participants were middle-
+aged urban Shanghai residents, who have been shown to have
+high participation rates (92.6% and 74.1% in SWHS and
+SMHS, respectively) and follow-up rates (91.3% and 81.6% in
+SWHS and SMHS, respectively).
+
+This study had some limitations. First, H. pylori status was
+not available for inclusion in this study. H. pylori infection is the
+strongest risk factor for gastric cancer; however, it is unlikely
+that inclusion of H. pylori status of study participants would
+have affected our results critically because H. pylori prevalence
+is very high in this population (92% and 94% in SWHS and
+SMHS participants, respectively) (55,56). Second, our data
+might not have been sufﬁcient to detect associations in some
+subgroups because of the short follow-up period, particularly for
+the men (median 5.5 y), and the relatively low interindividual
+variability of soy consumption among the study populations.
+Third, possible dietary measurement errors may have caused
+modest dietary associations because any dietary changes occur-
+ring before the baseline examination and after the ﬁrst follow-up
+were not accounted for. Fourth, despite adjusting for several
+conventional risk factors and selected dietary factors,
+the
+likelihood of residual confounding by unadjusted dietary factors
+that correlate with soy food consumption could not be
+discounted. We also were unable to report on fermented soy
+food intake, although consumption of
+these foods is less
+common in the Chinese population than in other Asian
+populations. Finally, our results did not suggest that a linear
+association exists between soy food intake and gastric cancer
+risk in this population, as we hypothesized. Instead, our results
+suggested a dichotomous association, whereby individuals in the
+lowest quartile of intake (quartile 1) may be the only ones at
+increased risk in this population of generally high soy food
+intake. Other unmeasured factors associated with being in
+quartile 1 may also have caused this association, resulting in
+residual confounding. Overall, we think these limitations would
+most likely apply generally to both the cases and controls in this
+prospective study, thus attenuating any associations investigated
+toward the null.
+
+In summary, the present study found no association between
+nonfermented soy food intake and risk of distal gastric cancer
+
+overall, though an inverse association was found for tofu in men
+only and dry bean consumption may decrease the risk of gastric
+cancer in postmenopausal women. These ﬁndings did not
+support
+the hypothesis that general consumption of non-
+fermented soy food plays a protective role in gastric cancer
+etiology.
+
+Acknowledgments
+S.-S.K. and M.E. wrote the paper; X.-O.S. and W.Z. designed
+the research; Y.X., G.Y., B.-T.J., H.L., and Y.-T.G., conducted
+the research; H.C. analyzed the data; and M.E. had primary
+responsibility for the ﬁnal content. All authors read and
+approved the ﬁnal manuscript.
+
+Literature Cited
+
+1.
+
+2.
+3.
+
+Ferlay J, Shin HR, Bray F, Forman D, Mathers C, Parkin DM. Estimates
+of worldwide burden of cancer in 2008: GLOBOCAN 2008. Int J
+Cancer. 2010;127:2893–917.
+Parkin DM. International variation. Oncogene. 2004;23:6329–40.
+Joossens JV, Hill MJ, Elliott P, Stamler R, Lesaffre E, Dyer A, Nichols R,
+Kesteloot H. Dietary salt, nitrate and stomach cancer mortality in 24
+countries. European Cancer Prevention (ECP) and the INTERSALT
+Cooperative Research Group. Int J Epidemiol. 1996;25:494–504.
+
+4. Adlercreutz H, Mazur W. Phyto-oestrogens and Western diseases. Ann
+
+Med. 1997;29:95–120.
+
+5. Wong BC, Lam SK, Ching CK, Hu WH, Ong LY, Chen BW, Gao Z,
+Chen JS, Jiang XW, Hou XH, et al. Seroprevalence of cytotoxin-
+associated gene A positive Helicobacter pylori strains in Changle, an
+area with very high prevalence of gastric cancer in south China. Aliment
+Pharmacol Ther. 1999;13:1295–302.
+
+6. Webb PM, Crabtree JE, Forman D. Gastric cancer, cytotoxin-associated
+gene A-positive Helicobacter pylori, and serum pepsinogens: an
+international study. The Eurogst Study Group. Gastroenterology.
+1999;116:269–76.
+
+7. Zeng ZR, Hu PJ, Hu S, Pang RP, Chen MH, Ng M, Sung JJ. Association
+of interleukin 1B gene polymorphism and gastric cancers in high and
+low prevalence regions in China. Gut. 2003;52:1684–9.
+
+8. Toyoda T, Tsukamoto T, Hirano N, Mizoshita T, Kato S, Takasu S, Ban
+H, Tatematsu M. Synergistic upregulation of inducible nitric oxide
+synthase and cyclooxygenase-2 in gastric mucosa of Mongolian gerbils
+by a high-salt diet and Helicobacter pylori infection. Histol Histopathol.
+2008;23:593–9.
+
+9. Epplein M, Nomura AM, Hankin JH, Blaser MJ, Perez-Perez G,
+Stemmermann GN, Wilkens LR, Kolonel LN. Association of Helico-
+bacter pylori infection and diet on the risk of gastric cancer: a case-
+control study in Hawaii. Cancer Causes Control. 2008;19:869–77.
+
+10. Gonzalez CA, Riboli E. Diet and cancer prevention: contributions from
+the European Prospective Investigation into Cancer and Nutrition
+(EPIC) study. Eur J Cancer. 2010;46:2555–62.
+
+11. World Cancer Research Fund and American Institute for Cancer
+Research. Food, nutrition and the prevention of cancer: a global
+perspective. Washington DC: American Institute for Cancer Research;
+1997.
+
+12. Lin Y, Ueda J, Kikuchi S, Totsuka Y, Wei WQ, Qiao YL, Inoue M.
+Comparative epidemiology of gastric cancer between Japan and China.
+World J Gastroenterol. 2011;17:4421–8.
+
+13. Ren JS, Kamangar F, Forman D, Islami F. Pickled food and risk of
+gastric cancer–a systematic review and meta-analysis of English and
+Chinese literature. Cancer Epidemiol Biomarkers Prev. 2012;21(6):905–
+15.
+
+14. Liu K. Oriental soyfoods. Lancaster, PA: Technomic Publishing; 1999.
+15. Sauvaget C, Lagarde F, Nagano J, Soda M, Koyama K, Kodama K.
+Lifestyle factors, radiation and gastric cancer in atomic-bomb survivors
+(Japan). Cancer Causes Control. 2005;16:773–80.
+
+16. Zhang YW, Eom SY, Kim YD, Song YJ, Yun HY, Park JS, Youn SJ, Kim
+BS, Kim H, Hein DW. Effects of dietary factors and the NAT2 acetylator
+status on gastric cancer in Koreans. Int J Cancer. 2009;125:139–45.
+
+17. Kim J, Kang M, Lee JS, Inoue M, Sasazuki S, Tsugane S. Fermented and
+non-fermented soy food consumption and gastric cancer in Japanese
+
+Soy food and gastric cancer
+
+1741
+
+Downloaded from https://academic.oup.com/jn/article-abstract/143/11/1736/4571717
+by University of Ottawa user
+on 24 June 2018
+
+and Korean populations: a meta-analysis of observational studies.
+Cancer Sci. 2011;102:231–44.
+
+18. Hara A, Sasazuki S, Inoue M, Iwasaki M, Shimazu T, Sawada N,
+Yamaji T, Tsugane S., Japan Public Health Center-Based Prospective
+Study Group. Isoﬂavone intake and risk of gastric cancer: a population-
+based prospective cohort study in Japan. Am J Clin Nutr. 2012;95:147–
+54.
+
+19. Chandanos E, Lagergren J. Oestrogen and the enigmatic male predom-
+
+inance of gastric cancer. Eur J Cancer. 2008;44:2397–403.
+
+20. Chandanos E, Lindblad M, Jia C, Rubio CA, Ye W, Lagergren J.
+Tamoxifen exposure and risk of oesophageal and gastric adenocarci-
+noma: a population-based cohort study of breast cancer patients in
+Sweden. Br J Cancer. 2006;95:118–22.
+
+21. Chandanos E, Rubio CA, Lindblad M, Jia C, Tsolakis AV, Warner M,
+Gustafsson JA, Lagergren J. Endogenous estrogen exposure in relation
+to distribution of histological type and estrogen receptors in gastric
+adenocarcinoma. Gastric Cancer. 2008;11:168–74.
+
+22. Ko KP, Park SK, Park B, Yang JJ, Cho LY, Kang C, Kim CS, Gwack J,
+Shin A, Kim Y, et al. Isoﬂavones from phytoestrogens and gastric cancer
+risk: a nested case-control study within the Korean Multicenter Cancer
+Cohort. Cancer Epidemiol Biomarkers Prev. 2010;19:1292–300.
+
+23. Cui HB, Na XL, Song DF, Liu Y. Blocking effects of genistein on cell
+proliferation and possible mechanism in human gastric carcinoma.
+World J Gastroenterol. 2005;11:69–72.
+
+24. Ko KP, Park SK, Cho LY, Gwack J, Yang JJ, Shin A, Kim CS, Kim Y,
+Chang SH, Shin HR, et al. Soybean product intake modiﬁes the
+association between interleukin-10 genetic polymorphisms and gastric
+cancer risk. J Nutr. 2009;139:1008–12.
+
+25. Wu AH, Yang D, Pike MC. A meta-analysis of soyfoods and risk of
+the problem of potential confounders. Cancer
+
+stomach cancer:
+Epidemiol Biomarkers Prev. 2000;9:1051–8.
+
+26. Nan HM, Park JW, Song YJ, Yun HY, Park JS, Hyun T, Youn SJ, Kim
+YD, Kang JW, Kim H. Kimchi and soybean pastes are risk factors of
+gastric cancer. World J Gastroenterol. 2005;11:3175–81.
+
+27. Zheng W, Chow WH, Yang G, Jin F, Rothman N, Blair A, Li HL, Wen
+W, Ji BT, Li Q, et al. The Shanghai Women’s Health Study: rationale,
+study design,
+characteristics. Am J Epidemiol.
+2005;162:1123–31.
+
+and baseline
+
+28. Cai H, Zheng W, Xiang YB, Xu WH, Yang G, Li H, Shu XO. Dietary
+patterns and their correlates among middle-aged and elderly Chinese
+men: a report from the Shanghai Men’s Health Study. Br J Nutr.
+2007;98:1006–13.
+
+29. Villegas R, Yang G, Liu D, Xiang YB, Cai H, Zheng W, Shu XO.
+Validity and reproducibility of the food-frequency questionnaire used in
+the Shanghai men’s health study. Br J Nutr. 2007;97:993–1000.
+
+30. Shu XO, Yang G, Jin F, Liu D, Kushi L, Wen W, Gao YT, Zheng W.
+Validity and reproducibility of the food frequency questionnaire used in
+the Shanghai Women’s Health Study. Eur J Clin Nutr. 2004;58:17–23.
+31. Yang YX, Wang GY, Pan XC. China Food Composition Tables 2002.
+
+Beijing: Beijing University Medical Press; 2002.
+
+32. Yang G, Shu XO, Li H, Chow WH, Cai H, Zhang X, Gao YT, Zheng W.
+Prospective cohort study of soy food intake and colorectal cancer risk in
+women. Am J Clin Nutr. 2009;89:577–83.
+
+36. Zhu HL, Ito Y, Teramoto N. Effects of tyrosine kinase inhibitors on
+voltage-dependent Ba(2+) currents in the guinea-pig gastric antrum. J
+Physiol Pharmacol. 2006;57:415–24.
+
+37. Brzezinski A, Debi A. Phytoestrogens: the "natural" selective estrogen
+receptor modulators? Eur J Obstet Gynecol Reprod Biol. 1999;85:47–
+51.
+
+38. Shinchi K, Ishii H, Imanishi K, Kono S. Relationship of cigarette
+smoking, alcohol use, and dietary habits with Helicobacter pylori
+infection in Japanese men. Scand J Gastroenterol. 1997;32:651–5.
+
+39. Verdrengh M, Collins LV, Bergin P, Tarkowski A. Phytoestrogen
+genistein as an anti-staphylococcal agent. Microbes Infect. 2004;6:86–
+92.
+
+40. Sakai T, Kogiso M. Soy isoﬂavones and immunity. J Med Invest.
+
+2008;55:167–73.
+
+41. Messina MJ, Persky V, Setchell KD, Barnes S. Soy intake and cancer
+the in vitro and in vivo data. Nutr Cancer.
+
+risk: a review of
+1994;21:113–31.
+
+42. Huang XE, Tajima K, Hamajima N, Kodera Y, Yamamura Y, Xiang J,
+Tominaga S, Tokudome S. Effects of dietary, drinking, and smoking
+habits on the prognosis of gastric cancer. Nutr Cancer. 2000;38:30–6.
+43. Lee JK, Park BJ, Yoo KY, Ahn YO. Dietary factors and stomach cancer:
+
+a case-control study in Korea. Int J Epidemiol. 1995;24:33–41.
+
+44. Golbitz P. Traditional soyfoods: processing and products. J Nutr.
+
+1995;125:570S–2S.
+
+45. Murphy PA, Song T, Buseman G, Barua K, Beecher GR, Trainer D,
+Holden J. Isoﬂavones in retail and institutional soy foods. J Agric Food
+Chem. 1999;47:2697–704.
+
+46. Song T, Barua K, Buseman G, Murphy PA. Soy isoﬂavone analysis:
+quality control and a new internal standard. Am J Clin Nutr.
+1998;68:1474S–9S.
+
+47. Thompson MD, Thompson HJ, Brick MA, McGinley JN, Jiang W, Zhu
+Z, Wolfe P. Mechanisms associated with dose-dependent inhibition of
+rat mammary carcinogenesis by dry bean (Phaseolus vulgaris, L.). J
+Nutr. 2008;138:2091–7.
+
+48. Kato I, Tominaga S, Matsuura A, Yoshii Y, Shirai M, Kobayashi S. A
+comparative case-control study of colorectal cancer and adenoma. Jpn J
+Cancer Res. 1990;81:1101–8.
+
+49. Bertuccio P, Praud D, Chatenoud L, Lucenteforte E, Bosetti C, Pelucchi
+C, Rossi M, Negri E, La Vecchia C. Dietary glycemic load and gastric
+cancer risk in Italy. Br J Cancer. 2009;100:558–61.
+
+50. Augustin LS, Gallus S, Negri E, La Vecchia C. Glycemic index, glycemic
+
+load and risk of gastric cancer. Ann Oncol. 2004;15:581–4.
+
+51. Peipins LA, Sandler RS. Epidemiology of colorectal adenomas.
+
+Epidemiol Rev. 1994;16:273–97.
+
+52. Mensack MM, McGinley JN, Thompson HJ. Metabolomic analysis of
+the effects of edible dry beans (Phaseolus vulgaris L.) on tissue lipid
+metabolism and carcinogenesis in rats. Br J Nutr. 2012;108: Suppl 1:
+S155–65.
+
+53. Lee SA, Shu XO, Li H, Yang G, Cai H, Wen W. ji BT, Gao J, Gao YT,
+Zheng W. Adolescent and adult soy food intake and breast cancer risk:
+results from the Shanghai Women’s Health Study. Am J Clin Nutr.
+2009;89:1920–6.
+
+33. Royston P, Sauerbrei W. Building multivariable regression models with
+continuous covariates in clinical epidemiology–with an emphasis on
+fractional polynomials. Methods Inf Med. 2005;44:561–71.
+
+54. Dai Q, Shu XO, Jin F, Potter JD, Kushi LH, Teas J, Gao YT, Zheng W.
+Population-based case-control study of soyfood intake and breast
+cancer risk in Shanghai. Br J Cancer. 2001;85:372–8.
+
+34. Tong X, Li W, Qin LQ. Meta-analysis of the relationship between
+soybean product consumption and gastric cancer . Zhonghua Yu Fang
+Yi Xue Za Zhi. 2010;44:215–20.
+
+55. Wong HL, Rabkin CS, Shu XO, Pfeiffer RM, Cai Q, Ji BT, Yang G, Li
+HL, Rothman N, Gao YT. Systemic cytokine levels and subsequent risk
+of gastric cancer in Chinese Women. Cancer Sci. 2011;102:1911–5.
+
+35. Hwang CS, Kwak HS, Lim HJ, Lee SH, Kang YS, Choe TB, Hur HG,
+Han KO. Isoﬂavone metabolites and their in vitro dual functions: they
+can act as an estrogenic agonist or antagonist depending on the estrogen
+concentration. J Steroid Biochem Mol Biol. 2006;101:246–53.
+
+56. Epplein M, Zheng W, Xiang YB, Peek RM, Jr., Li H, Correa P, Gao J,
+Michel A, Pawlita M, Cai Q, et al. Prospective study of Helicobacter
+pylori biomarkers for gastric cancer risk among Chinese men. Cancer
+Epidemiol Biomarkers Prev. 2012;21:2185–92.
+
+1742 Kweon et al.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/143/11/1736/4571717
+by University of Ottawa user
+on 24 June 2018
+
+

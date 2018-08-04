@@ -1,0 +1,1196 @@
+A Meta-analysis of Alcohol
+Consumption in Relation
+to Risk of Breast Cancer
+
+Matthew P. Longnecker, MD; Jesse A. Berlin, ScD; Michele J. Orza, SM; Thomas C. Chalmers, MD
+
+Epidemiologic findings regarding the relation between alcohol consumption and
+risk of breast cancer have been inconsistent. We performed a meta-analysis (a
+quantitative review) of the available data. To evaluate whether there was a
+dose-response relation between alcohol consumption and risk of breast cancer,
+we fitted mathematical models to the pooled data. There was strong evidence to
+support a dose-response relation in both the case-control and follow-up epide-
+miologic data. Using the dose-response curves that we calculated, the risk of
+breast cancer at an alcohol intake of 24 g (1 oz) of absolute alcohol daily (about
+two drinks daily) relative to nondrinkers was 1.4 (95% confidence interval, 1.0 to
+1.8) in the case-control data and was 1.7 (95% confidence interval, 1.4 to 2.2) in
+the follow-up data. We interpret these findings not as proof of causality, but as
+strongly supportive of an association between alcohol consumption and risk of
+breast cancer.
+
+(JAMA 1988;260:652-656)
+
+ALCOHOL consumption has been in¬
+consistently associated with an in¬
+creased risk of breast cancer.121 To eval¬
+there is evidence to
+uate whether
+support a dose-response relation be¬
+tween alcohol consumption and an in¬
+creased risk of breast cancer, we com¬
+bined the epidemiologic data and
+analyzed it as two data sets—one for
+case-control studies and one for follow-
+up studies.
+METHODS
+
+Original data for inclusion in the
+meta-analysis were identified through a
+MEDLINE search of literature from
+1966 through 1987, supplemented by at¬
+tention to all references in the articles
+recovered through MEDLINE. Addi¬
+tionally, all potentially relevant ab¬
+stracts and manuscripts in press of
+From the Departments of Epidemiology (Dr Long-
+necker), Biostatistics (Dr Berlin), and Technology As-
+sessment Group (Ms Orza and Dr Chalmers), Harvard
+School of Public Health, Boston.
+Reprint requests to the Harvard School of Public
+Health, Technology Assessment Group L-7A, 677 Hun-
+tington Ave, Boston, MA 02115 (Dr Chalmers).
+
+which the authors were aware were in¬
+cluded. Each data item (articles, letters
+to the editor, abstracts, and manu¬
+scripts in press) was modified before
+photocopying so the quality ofthe meth¬
+ods and data analysis could be judged
+without knowledge of study results.
+Specifically, authors' names,
+study
+sites, dates, distributions of alcohol con¬
+sumption among cases and noncases,
+relative risks, and language reflecting
+the study results were removed. The
+criteria for evaluating the quality of the
+methods and data analysis in each study
+are presented in Table 1. Two investiga¬
+tors independently scored the methods
+and data analysis sections and settled
+differences in conference. Specific de¬
+tails ofthe scoring system are presented
+in the first footnote in Table 1. The over¬
+all quality score assigned to each study
+was a weighted average of scores from
+the methods and the data analysis sec¬
+tions (0.8 x percent of total possible
+methods points + 0.2 x percent oftotal
+possible data analysis points). Analyses
+were performed separately for each of
+
+the two types of study design—follow-
+up and case-control—because of our a
+priori belief that follow-up studies are,
+in general, less subject to bias.
+The data in Table 2 were used to de¬
+rive pooled estimates of the effect of
+alcohol consumption on risk of breast
+cancer with a weighted, least-squares
+regression model. In the model, the log
+of the relative risk of breast cancer (as
+adjusted for covariates by the original
+in¬
+authors) was a function of alcohol
+take, controlling for study.
+In other
+words, the slope of the dose-response
+curve (on a log scale) was assumed to be
+the same for each study, but the relative
+risk of breast cancer at a given level of
+alcohol intake was allowed to vary. The
+model is specified in the first footnote of
+Table 3. Findings from larger studies
+were given greater weight in estimat¬
+ing the overall effect of alcohol con¬
+sumption. The weight given to each rel¬
+ative risk in Table 2 was the inverse of
+the variance, calculated from the confi¬
+dence intervals. The dose-response re¬
+lation across studies was examined in
+models with both linear and quadratic
+terms. Fitted models with and without
+quadratic terms were compared using F
+tests. Once the best-fitting model was
+the analysis was repeated
+identified,
+with the weight given to each relative
+risk altered to reflect the quality score
+of the study as well as the inverse vari¬
+ance (weight = quality/variance). Addi¬
+tional models were used to examine the
+relation between quality score and esti¬
+mate of alcohol effect. Finally, to evalu¬
+ate further the relation between study
+results and study quality, the analyses
+of case-control studies were repeated
+excluding those studies with overall
+quality scores in the lowest quartile.
+
+Downloaded From:  by a University of Ottawa User  on 07/31/2018Table 1 .—Criteria for Evaluating the Design and Data Analysis of the Studies Reviewed and Percentage
+Given Favorable Quality Scores*
+_Criteria_% With Favorable Scoref
+Applied to case-control studies with hospital controls (n = 7)
+
+1. Did at least 90% of hospital controls have conditions other than any of the
+following: cancer of the liver, oral cavity, larynx, esophagus, or large
+bowel; myocardlal Infarction; cerebrovascular disease; trauma; fractures;
+peptic ulcer disease; or other conditions that involved upper
+gastrointestinal tract blood loss, cirrhosis, pancreatitis, alcoholism, or
+alcoholic hepatitis?_57_
+Is it likely that the referral pattern for the control diseases was similar to
+the referral pattern for the case diseases?_57_
+3. Was the response rate among controls at least 70%?_60_
+4. Were the controls people who, had they developed the disease under
+study, would have been cases?_100_
+
+Applied only to case-control studies with community controls (n = 5)
+
+2.
+
+Applied to i. I case-control studies (n = 12)
+
+5. Were the data collected In a similar manner for cases and controls?
+6. Were all cases interviewed within six months of diagnosis?_33_
+7. Was the same Interview schedule used for cases and controls?
+8. Was the interviewer blinded with respect to the case-control status of the
+
+9. Was the time period over which cases and controls were Interviewed the
+
+person interviewed?
+same?_67_
+
+75
+
+75
+
+8
+
+10. Were the same exclusion criteria applied to cases and controls?
+11.
+
+If the study was a matched case-control study, did the authors either
+conduct a matched analysis, show that an unmatched analysis was
+equivalent to a matched analysis and present an unmatched analysis, or
+adequately account for the matching factors in an unmatched analysis?
+
+25
+
+56
+
+75
+
+88
+
+Applied to follow-up studies (n = 4)
+
+12. Was loss to follow-up independent of exposure?
+13. Was the intensity of search for disease independent of exposure status?_0_
+14. Was the diagnosis of cancer histologlcally confirmed in at least 90% of
+
+Applied to all studies (n = 16)
+
+50
+
+15.
+
+cases?
+In the analyses, did the authors control for potential confounding by
+classic breast cancer risk factors in addition to age?
+
+"Highest scores ("favorable") were given when original investigators explicitly supplied information Indicating that
+the answer to the criterion question was affirmative. For most criteria, up to 5 points were awarded; for question 6
+the maximum was 3 points When the answer to a question was not clearly yes or no, then an Intermediate score
+was given. For an answer of unclear/probably yes, 2 points were given, and for unclear/probably no,
+1 point was
+given; 0 points were given when the answer was clearly no. The total number of points awarded to a given study
+was a function of which criteria were applicable and how many points were awarded for each of the applicable
+criteria. For example, a case-control study with hospital controls would have a total possible methods score of 48
+points (questions 1, 2, 5, 7 through 10, 14, and 15, 5 points each; and question 6, 3 points) and a total possible
+data analysis score of 5 or 10, depending on whether a matched study design was used (questions 11 and 15,5
+points each). See text for method of calculating overall quality score. Further details of scoring system are available
+from the authors.
+
+fNumbers are based only on studies included in analysis.
+
+RESULTS
+
+The readers evaluated 21 articles, ab¬
+letters, and manuscripts in
+stracts,
+press. Studies included in the meta-
+analysis are summarized in Table 2 and
+are listed in order of decreasing quality
+score within type of study design. Five
+studies were excluded from the analysis
+for the following reasons:
+insufficient
+data to characterize exposure in terms
+of grams of alcohol consumed per
+day,17,19,20 insufficient data on relative
+risk of breast cancer associated with al¬
+cohol consumption,18 and insufficient
+data by which to evaluate study quali¬
+ty.21 The decision to exclude these stud¬
+ies was made without consideration of
+the findings.
+For each criterion in Table 1, the per¬
+centage of studies with the highest pos¬
+sible quality score is presented. For ten
+of the 15 criteria, more than 50% of the
+studies received the highest possible
+quality score.
+In case-control studies,
+
+three potential sources of bias were fre¬
+quently present: a long delay between
+diagnosis and interview,
+interviewers
+who were aware of the case-control sta¬
+tus of the persons interviewed, and the
+readers' uncertainty that the same ex¬
+clusion criteria were applied to cases
+and controls. Regarding follow-up stud¬
+ies, our readers were unable to say that
+the investigator's knowledge of alcohol
+consumption did not affect the intensity
+ofthe search for disease, and frequently
+it was not clear that loss to follow-up
+was unrelated to alcohol consumption at
+baseline.
+In the majority offollow-up studies on
+alcohol consumption in relation to risk of
+breast cancer, a direct relation is evi¬
+dent, as is a dose-response relation. The
+results of the case-control studies were
+less consistent. Estimates of the effect
+of alcohol consumption on risk of breast
+from
+cancer
+the models are presented in Table 3.
+The best-fitting models were a linear
+
+(regression coefficients)
+
+(P = .01). For
+
+improvement
+
+for case-control studies and a
+model
+quadratic model for follow-up studies.
+For case-control studies (linear model),
+the slope and SE of the ß coefficient for
+alcohol effect indicate that the dose-re¬
+sponse relation is statistically signifi¬
+follow-up studies
+cant
+(linear model), the dose-response rela¬
+tion was also statistically significant
+(P<.05). Addition of the quadratic term
+to the follow-up model resulted in a sta¬
+tistically significant
+in
+model fit (P = .03; F = 7.08; and df, 1 and
+10). The negative sign of the quadratic
+coefficient indicates that the dose-re¬
+sponse curve does not continue to in¬
+crease linearly on a log scale at higher
+doses, but plateaus. A multiple F test22
+was used to see if the model with the
+dose-response coefficients for alcohol
+consumption fit the data significantly
+better than the model without these
+terms; the dose-response effect was sig¬
+nificant (P<.01).
+The best-fitting models (as previous¬
+ly mentioned) were used to construct
+average dose-response curves based on
+the data in all studies (Figs 1 and 2). In
+the case-control data there is a weak
+direct association with risk of breast
+cancer at light and moderate alcohol in¬
+takes (6 to 12 g/d [0.25 to 0.5 oz/d]—or
+approximately one half to one drink dai¬
+ly), although the 95% confidence inter¬
+vals include 1. At heavier levels of in¬
+take (s=24g/d |>1 oz/d]—approximately
+two or more drinks daily),
+there is a
+modest association and the confidence
+intervals generally do not include 1. In
+the follow-up data, at light alcohol
+in¬
+take there is again a weak association
+with risk of breast cancer; the increase
+in risk for moderate and heavy alcohol
+intake is greater than that in the case-
+control studies.
+When the weights given to the results
+from each study were changed to reflect
+the quality score of the study as well as
+the inverse variance, the results of the
+linear (case-control) and quadratic (fol¬
+low-up) models in Table 3 were essen¬
+tially unchanged and the models did not
+fit the data more closely.
+The meta-analysis of the case-control
+data was repeated excluding the studies
+in the lowest quartile of quality score.
+The coefficients predicted from this
+model were not materially different
+from those presented in Table 3, and, if
+anything, there was a greater slope to
+the dose-response curve.
+Tb determine whether the slope of
+dose-response curve varied by study
+quality, models similar to those speci¬
+fied in Table 3 were fitted with the addi¬
+tion of dose-quality interaction terms.
+There was essentially no relation be¬
+tween quality score and slope of the
+
+Downloaded From:  by a University of Ottawa User  on 07/31/2018Case-Control Studies
+
+£26 (ssl.1)
+39-65 (1.6-2.7)
+
+<13 (<0.5)
+13-26 (0.5-1.1)
+39-65 (1.6-2.7)
+==78 (23.3)
+<2 (<0.1)
+2-5 (0.1-0.2)
+5-15 (0.2-0.6)
+>15 (>0.6)
+<1 (<.05)
+1-5 (0.1-0.2)
+25 (20.2)
+
+<2 (<0.1)
+2-13 (0.1-0.5)
+13-26 (0.6-1.1)
+226 (21.1)
+<7 (<0.3)
+27 (20.3)
+<7 (<0.3)
+7-21 (0.3-0.9)
+21-28 (0.9-1.1)
+29-36 (1.2-1.4)
+36-43 (1.5-1.7)
+243 (21.8)
+=13 (£0.5)
+£26 (21.1)
+<1 (<.04)
+1-3 (.04-0.1)
+4-11 (0.2-0.5)
+>11 (>0.5)
+<3 (<0.1)
+3-9 (0.1-0.4)
+>9 (>0.4)
+£7 (£0.3)
+>7 (>0.3)
+^2 (20.1)
+<5 (<0.2)
+5-15 (0.2-0.6)
+>15 (>0.6)
+<11 (<0.5)
+11-22 (0.5-0.9)
+23-34 (1.0-1.4)
+>34 (>1.4)
+£39 (£1.6)
+>39 (>1.6)
+2-13 (0.1-0.5)
+>13 (>0.5)
+
+NA (NA)
+£26 (£1.1)
+39-65 (1.6-2.7)
+278 (23.3)
+
+NA (NA)
+>39 (>1.6)
+
+303/5835
+
+590/89 538
+
+121/7188
+
+1524/1896
+
+1152/519$
+
+1226/1279
+
+239/239
+
+1314/770
+
+451/451
+
+368/373
+
+276/1519
+1467/10178
+
+500/945
+
+437/437
+
+572/449
+
+3/243
+NS/8060
+
+1118/2070
+
+120/120
+400/800
+
+Relative
+Risk*
+
+95%
+
+Confidence
+Interval!
+
+Adjusted for
+Classic Risk
+
+Factors!
+
+1.0
+1.4
+1.2
+1.2
+1.5
+1.5
+3.3
+1.0
+0.9
+1.3
+1.6
+1.4
+1.6
+2.0
+
+1.1
+1.0
+1.3
+1.7
+1.5
+2.0
+0.9
+0.9
+1.1
+1.1
+1.0
+1.1
+1.0
+1.0
+1.1
+1.0
+1.1
+1.1
+0.8
+1.2
+1.6
+2.4
+16.7
+1.5
+1.0
+0.9
+0.9
+1.0
+1.4
+1.5
+1.2
+1.3
+2.1
+0.9
+1.4
+
+0.7#
+NA
+NA
+NA
+
+1.3
+1.6
+NA
+1.0
+
+"0.9-1.2"
+"1.0-1.9"
+"0.6-2.3"
+0.9-1.7
+1.0-2.3
+0.8-2.8
+1.2-9.3
+0.8-1.3
+0.7-1.2
+1.0-1.6
+1.3-2.0
+0.8-2.5
+0.9-3.1
+1.1-3.7
+
+0.9-1.3
+0.9-1.3
+1.0-1.7
+1.2-2.4
+"1.1-2.1"
+"1.4-2.9"
+0.7-1.2
+0.7-1.2
+0.7-1.7
+0.7-1.9
+0.5-1.7
+0.6-1.8
+"0.5-1.6"
+"0.6-2.0"
+"0.9-1.4"
+"0.7-1.6"
+"0.8-1.6"
+"0.9-1.3"
+0.5-1.3
+0.7-1.9
+1.0-2.5
+1.6-3.5
+3.1-89.7
+1.0-2.1
+0.8-1.2
+0.7-1.0
+0.8-1.1
+0.7-1.4
+1.0-2.0
+1.0-2.1
+0.7-2.0
+0.9-1.7
+1.1-4.0
+0.8-1.1
+0.9-2.0
+
+NA
+NA
+NA
+NA
+
+NA
+NA
+NA
+
+0.5-1.9
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+Yes
+No
+
+Yes
+
+Yes
+
+No
+
+No
+No
+
+No
+
+NA
+
+Table 2.—Summary of Epidemiologie Studies of Alcohol Consumption in Relation to Risk of Breast Cancer*
+
+Source, y
+
+Type of
+Paper
+
+No. of
+
+Cases/Noncases
+
+Dosage.f
+g/d (oz/d)
+
+Hlatt and Bawol,1 1984
+
+838/88477
+
+PAPERS INCLUDED IN THE META-ANALYSIS
+
+Follow-up Studies
+
+_£78 (a3.3)_
+
+Hiatt et al,2 1988
+
+Willettetal,31987
+
+Schatzkinetal,41987
+
+Harvey et al,5 1987
+
+Rosenberg et al,e 1982
+
+Webster et al,71983
+
+Paganini-HIII and Ross,8 1983
+
+Byersand Funch,91982
+
+Rohan and McMichael,101988
+
+Talaminl et al," 1984
+
+0'Connelletal,121987
+Harris and Wynder,13 1988
+
+Le et al," 1984
+
+La Vecchlaetal,151985
+
+Beggetal,161983
+
+Monson and Lyon,17 1975
+Klatskyetal,181987
+
+Williams and Horm.'s 1977
+
+Katsouyanni et al,20 1982
+Miller et al,21 1987**
+
+PAPERS NOT INCLUDED IN THE META-ANALYSIS
+
+Follow-up Studies
+
+Case-Control Studies
+NA (NA)
+
+*P indicates published paper; M, manuscript; L, letter; A, abstract; and NA, not available.
+tDosage Is in grams (or ounces) of alcohol consumed per day. One beer, one glass of wine, or one drink of spirits was estimated to contain 13 g of alcohol5 and 1 g of alcohol
+was considered equal to 0.04 oz. Midpoints of consumption categories were used for dose-response calculations. For open-ended, high-Intake categories, the midpoint of the
+category was estimated to be 20% greater than the lower boundary specified by the original authors. Boundaries of intake categories overlap due to rounding.
+$For case-control studies, relative risk is an odds ratio. For follow-up studies, relative risk is a rate ratio or a cumulative incidence ratio. The relative risks presented are those
+adjusted for relevant covariates by the original authors.
+§When no confidence Intervals were presented In original data, ones were calculated using marginal distributions in conjunction with an adjusted odds ratio, or by transforming
+P values. Confidence intervals calculated In this manner are presented in quotation marks.
+||Yes Indicates that the authors controlled for potential confounding by at least two classic breast cancer risk factors in addition to age (age at first birth, parity, menopausal
+status, family history benign breast disease, and age at menarche).
+"Rosenberg et al6 employed two hospital control groups. Presented here are the relative risks based on their calculations using controls with ovarian and endometrlal cancer.
+Calculations based on the control group with nonmalignant diseases yielded larger relative risks.
+#Proportionate mortality ratio.
+"Insufficient information to score quality.
+
+Downloaded From:  by a University of Ottawa User  on 07/31/2018Table 3.—Pooled Estimates of the Effect of Con¬
+suming 1 g of Alcohol Daily on the Log of
+the
+Relative Risk of Breast Cancer*
+
+Coefficients
+
+Case-control (N = 12)
+
+Study Group_¡3_SE (ß)
+Linear modelt
+Alcohol, g/d
+Follow-up (N = 4)
+Linear modelt
+Alcohol, g/d
+Quadratic model§
+Alcohol, g/d
+Alcohol, g/d2
+
+.0254
+.0002
+
+.0030
+
+.0068
+.0001
+
+.0032
+
+.0086
+
+.0085
+
+-
+
+»Coefficients (B) and their SEs (SE [ß]) are estimated
+from the alcohol terms In the model: log relative risk of
+breast cancer = Intercept + ß, (study) + ß2 (alcohol
+dose in grams per day) + error. The quadratic model
+includes the additional term ß3 (square of alcohol dose
+in grams per day). Study effect was modeled with
+indicator variables. See text for other details.
+fStatistlcal test for ß = 0, P = .01. H2 for model Is .77.
+Coefficients for quadratic model not reported because
+addition of a quadratic term did not result in a signifi¬
+cantly better fit to data than linear model.
+^Statistical test for ß = 0, P = .02 Ft2 for model is .62.
+The linear model for follow-up studies was also statis¬
+tically significant, but the fit of the model was signifi¬
+cantly improved by addition of the quadratic term. The
+linear model Is presented only to show that slopes for
+linear models are nearly identical for the two kinds of
+studies
+§Multlple F test for statistical significance of dose
+
+terms, P<.01. R2 for model Is .80.
+
+regardless of
+dose-response curve,
+design.
+In six case-control studies,1,2,8,9,12,13 the
+original authors compared the risk of
+breast cancer for those who ever drank
+with that for those who never drank.
+Using a weighted average of the log
+relative risks with inverse variance
+weights, the overall estimate of relative
+risk of breast cancer for ever consuming
+alcohol compared with never was 1.1
+(95% confidence interval, 1.0 to 1.2).
+COMMENT
+
+In this analysis, several points are
+clear. First, at intakes of 24 g/d (1 oz/d)
+or more, the data are strongly support¬
+ive of an association between alcohol
+consumption and increased risk of
+breast cancer. Second, at lower levels of
+intake there appears to be a weak or
+modest association, although the 95%
+confidence intervals generally include
+1. Third, the evidence in favor of a dose-
+response relation between alcohol con¬
+sumption and risk of breast cancer is
+compelling.
+The finding of a pooled relative risk of
+1.1 for ever vs never drinking, based on
+case-control data, does not alter these
+conclusions. Since most women who
+drink are light or moderate drinkers,23
+the estimate of effect for ever drinking
+is close to that expected from the dose-
+response curve (Fig 1).
+From the distribution of alcohol con¬
+sumption among women in the United
+States,23 and the previously mentioned
+relative risks (Figs 1 and 2), it can be
+
+2.5
+
+£2.0
+
+J9
+rr1.5
+
+1.0
+
+O
+
+6
+
+ 
+
+12
+
+24
+
+Alcohol Consumed, g/d
+
+2.5
+
+12.0
+|
+Í1.5
+
+1.0
+
+O
+
+6
+
+36
+
+12
+
+24
+
+Alcohol Consumed, g/d
+
+36
+
+Fig 1.—Risk of breast cancer relative to abstainers
+(and 95% confidence intervals) by amount of alco¬
+hol consumed daily. Values were calculated using
+parameters from model fitted to case-control data
+(model is specified in first footnote of Table 3).
+
+Fig 2.—Risk of breast cancer relative to abstainers
+(and 95% confidence intervals) by amount of alco¬
+hol consumed daily. Values were calculated using
+parameters from quadratic model fitted to follow-up
+data (model is specified in first footnote of Table 3).
+
+be attributable to
+
+calculated24 that 13% of all cases of
+in the United States
+breast cancer
+might
+alcohol
+consumption.
+Even though moderate alcohol con¬
+sumption is associated with a slight in¬
+crease in risk of breast cancer, the over¬
+all effect on health of consumption at
+that level may actually be favorable.
+investigators have reported
+Several
+that moderate alcohol consumption in
+both sexes is associated with a decrease
+in total mortality25"27 and with a reduced
+risk of hospitalization.28,29 The incidence
+of cardiovascular disease is so much
+greater than that of breast cancer30 that
+the beneficial effect of moderate alcohol
+consumption3132 on heart disease domi¬
+nates the overall effect. One's particular
+profile of breast cancer and cardiovas¬
+cular risk factors might influence per¬
+sonal decisions regarding alcohol use.
+Association does not prove cause and
+effect. The presence of a dose-response
+relation supports causality; however,
+causality is difficult to establish when
+the effect is modest.33 There may be
+some factor that results in both a ten¬
+dency to drink alcohol and a tendency to
+develop breast cancer. An experiment
+in humans to address this question is not
+feasible: women cannot be assigned at
+random to alcohol consumption or absti¬
+nence for life. Evidence to support a
+mechanism in humans is, at this point,
+conjectural. Using animal models is one
+way to obtain experimental evidence,
+but in this instance the method has not
+yet been well developed.34 Even if ani¬
+mals were used, the results of experi¬
+ments may not be generalizable to
+humans.
+
+Legitimate questions could be raised
+about the usefulness of the system for
+scoring the quality of methods in follow-
+up studies (questions 12 and 13, Table
+1). To answer questions 12 and 13 accu¬
+rately, more information on the details
+of the conduct of these studies would
+have been required. It is likely that
+these studies were carried out properly.
+The manipulation of the follow-up data
+based on quality scores was of limited
+value. The variation in quality among
+the case-control studies was probably
+reflected reasonably well by the scoring
+system; inclusion of the quality score in
+the weighting system did not affect the
+estimate of alcohol effect. A posteriori
+refinement of our scoring system might
+have resulted in a quality ranking more
+in keeping with expectation, but
+it
+would have been less consistent with
+maintaining objectivity.
+We note that the association between
+alcohol and risk of breast cancer was
+stronger in the follow-up data than in
+the case-control data; we consider the
+former less likely to be biased.
+We are not the first to compose a list
+of criteria by which tojudge the quality
+of nonexperimental epidemiologic stud¬
+ies.36 The criteria selected for our list
+were chosen with two goals in mind: to
+select questions that would reflect the
+most crucial determinants of validity
+and that would discriminate among the
+studies considered. Since the true rela¬
+tion between alcohol consumption and
+risk of breast cancer in the populations
+studied is not known, it is difficult to
+assess with certainty the relative im¬
+the various potential
+portance of
+sources of bias. Consequently, the crite-
+
+Downloaded From:  by a University of Ottawa User  on 07/31/2018ría in Table 1 and the number of points
+awarded (for methods least likely to be
+biased) represent an opinion. All
+re¬
+views are based on opinion. A merit of
+the meta-analytic approach is that it re¬
+quires stating specifically the manner in
+which weight was given (or not given) to
+data that led to a conclusion.
+The results of a meta-analysis may
+not be accurate.36 A major source of
+bias,
+ie, that it is a retrospective re¬
+search process, we believe to have been
+obviated by the methods used in this
+study.37 All potentially relevant papers
+were obtained by a thorough search.
+The decision to include a study and as¬
+sessment ofquality were determined by
+two independent observers unaware of
+study results and unfamiliar with the
+literature on the subject. The quanti¬
+tative scale for classifying alcohol
+ingestion—on which the statistically
+significant dose-response relations de¬
+pended—was laid out without knowl¬
+edge of the relative risk. The results of
+meta-analyses ofexperimental epidemi-
+ologic data have been shown to approxi¬
+mate those of the "gold standard" of
+
+References
+
+J Med1987;316:1174-1180.
+
+1. Hiatt RA, Bawol RD: Alcoholic beverage con-
+sumption and breast cancer incidence. Am JEpide-
+miol 1984;120:676-683.
+2. Hiatt RA, Klatsky AL, Armstrong MA: Alcohol
+consumption and the risk of breast cancer in a pre-
+paid health plan. Cancer Res 1988;48:2284-2287.
+3. Willett WC, Stampfer MJ, Colditz GA, et al:
+Moderate alcohol consumption and the risk of
+breast cancer. N Engl
+4. Schatzkin A, Jones DY, Hoover RN, et al: Alco-
+hol consumption and breast cancer in the epidemio-
+logic follow-up study of the first National Health
+and Nutrition Examination Survey. N Engl J Med
+1987;316:1169-1173.
+5. Harvey EB, Schairer MS, Brinton LA, et al:
+Alcohol consumption and breast cancer. JNCI
+1987;78:657-661.
+6. Rosenberg L, Slone D, Shapiro S, et al: Breast
+cancer and alcoholic-beverage consumption. Lan-
+cet 1982;1:267-270.
+7. Webster LA, Layde PM, Wingo PA, et al: Alco-
+hol consumption and risk of breast cancer. Lancet
+1983;2:724-726.
+8. Paganini-Hill A, Ross RK: Breast cancer and
+alcohol consumption. Lancet 1983;2:626-627.
+9. Byers T, Funch DP: Alcohol and breast cancer.
+Lancet 1982;1:799-800.
+10. Rohan TE, McMichael AJ: Alcohol consump-
+tion and risk of breast cancer.
+Int J Cancer
+1988;41:695-699.
+11. Talamini R, La Vecchia C, Decarli A, et al:
+Social factors, diet and breast cancer in a Northern
+Italian population. Br J Cancer 1984;49:723-729.
+12. O'Connell DL, Hulka BS, Chambless LE, et al:
+Cigarette smoking, alcohol consumption, and
+breast cancer risk. JNCI 1987;78:229-234.
+13. Harris RE, Wynder EL: Breast cancer and
+alcohol consumption: A study in weak associations.
+JAMA 1988;259:2867-2871.
+14. Le MG, Hill C, Kramar A, et al: Alcoholic
+beverage consumption and breast cancer
+in a
+French case-control study. Am J Epidemiol
+1984;120:350-357.
+15. La Vecchia C, Decarli A, Franceschi S, et al:
+Alcohol consumption and the risk of breast cancer
+in women. JNCI 1985;75:61-65.
+
+large, well-conducted studies.38 Meta-
+analytic results are also reasonably re¬
+producible.39 Most of the experience
+with meta-analysis in the biomédical
+field, however, is with randomized con¬
+trol trials; examples in nonexperimental
+epidemiology are rare. The meta-ana-
+lytic approach to nonexperimental data
+should be valid, provided that proper
+precautions are taken to control bias
+and that the statistical methods of anal¬
+ysis are appropriate.
+The results of a meta-analysis may be
+invalid due to publication bias. This oc¬
+curs in the medical literature when pub¬
+lication depends on factors other than
+quality alone, eg, statistical significance
+of results. This is a well-documented
+research.*42
+phenomenon in medical
+Publication bias may influence the as¬
+sessment of an association between al¬
+the largest
+cohol and breast cancer:
+case-control study in this analysis is the
+least supportive of an association.13 This
+is consistent with the observation that
+in the field of cancer chemotherapy
+smaller studies tend to show larger
+treatment effects, thus suggesting pub-
+
+16. Begg CB, Walker AM, Wessen B, et al: Alcohol
+consumption and breast cancer. Lancet 1983;1:293\x=req-\
+294.
+17. Monson RR, Lyon JL: Proportional mortality
+among alcoholics. Cancer 1975;36:1077-1079.
+18. Klatsky AL, Armstrong MA, Friedman GD:
+Alcohol consumption and 17-year cancer mortality.
+Am J Epidemiol 1987;126:770.
+19. Williams RR, Horm JW: Association of cancer
+sites with tobacco and alcohol consumption and so-
+Interview study
+cioeconomic status of patients:
+from the Third National Cancer Survey. JNCI
+1977;58:525-547.
+20. Katsouyanni K, Trichopoulos D, Boyle P, et al:
+Diet and breast cancer: A case-control study in
+Greece. Int J Cancer 1986;38:815-820.
+21. Miller DR, Rosenberg L, Clarke AE, et al:
+Breast cancer risk and alcoholic beverage drinking.
+Am J Epidemiol 1987;126:736.
+22. Draper NR, Smith H: Applied Regression
+Analysis. New York, John Wiley & Sons, 1981, p
+105.
+23. National Health Interview Survey 1983 Alco-
+hol Supplement, data tape. Hyattsville, Md, Na-
+tional Center for Health Statistics, Division of
+Health Interview Statistics, 1985.
+24. Kleinbaum DG, Kupper LL, Morgenstern H:
+Epidemiologic Research: Principles and Quanti-
+tative Methods. Belmont, Calif, Lifetime Learning
+Publications, 1982, p 163.
+25. Klatsky AL, Friedman GD, Siegelaub AB: Al-
+cohol and mortality: A ten-year Kaiser-Perman-
+ente experience. Ann Intern Med 1981;95:139-145.
+26. Friedman LA, Kimball AW: Coronary heart
+disease mortality and alcohol consumption in Fra-
+mingham. Am J Epidemiol 1986;124:481-489.
+27. Cullen K, Stenhouse NS, Wearne KL: Alcohol
+and mortality in the Busselton study. Int J Epide-
+miol 1982;11:67-70.
+28. Longnecker MP, MacMahon B: Associations
+between alcoholic beverage consumption and hos-
+pitalization: 1983 National Health Interview Sur-
+vey. Am J Public Health 1988;78:153-156.
+29. Klatsky AL, Friedman GD, Siegelaub AB: Al-
+cohol use and cardiovascular disease: The Kaiser\x=req-\
+Permanente experience. Circulation 1981;64(pt 2):
+
+lication bias.43 Concern about the possi¬
+bility of publication bias led us to search
+for unpublished studies. We have been
+able to learn of three relevant studies,
+one follow-up and two case-control. We
+repeated our analyses including the
+data from these unpublished studies;
+the conclusions were not altered.
+In summary, the results of this meta-
+analysis are strongly supportive of an
+association between alcohol consump¬
+tion and risk of breast cancer. The in¬
+creased risk that is apparent from these
+data should not, however, be consid¬
+ered separately from the protective ef¬
+fect of alcohol against cardiovascular
+disease that is suggested by other stud¬
+ies. With each new piece of evidence,
+our understanding ofthis subtle—possi¬
+bly causal—association will continue to
+evolve.
+
+This study was supported in part by grants ROÍ
+LM-03116, RO1-HS05523, and R01-CA-35291
+from the Public Health Service.
+
+Dr Longnecker is a Medical Foundation research
+fellow supported by the Medical Foundation, Inc,
+Boston. Ms Orza is supported by a fellowship from
+the Pforzheimer Foundation, Cambridge, Mass.
+
+II-32-III-41.
+30. Silverberg E, Lubera J: Cancer statistics,
+1986. CA 1986;36:9-25.
+WB:Drinking and mortality:
+31. Gordon T, Kannel
+The Framingham study. Am Heart J 1983;105:667\x=req-\
+673.
+32. Colditz GA, Branch LG, Lipnick RJ, et al: Mod-
+erate alcohol and decreased cardiovascular mortal-
+ity in an elderly cohort. Am Heart J 1985;109:886\x=req-\
+889.
+33. Hill AB: The environment and disease: Associ-
+ation or causation? Proc R Soc Med 1965;58:295\x=req-\
+300.
+34. Rogers AE, Longnecker MP: Dietary and nu-
+tritional influences on cancer: A review of epidemi-
+ologic and experimental data. Lab Invest, in press.
+35. Lichtenstein MJ, Mulrow CD, Elwood PC:
+reading case-control studies. J
+Guidelines for
+Chronic Dis 1987;40:893-903.
+36. Goldman L, Feinstein AR: Anticoagulants and
+infarction: The problems of pooling,
+myocardial
+drowning, and floating. Ann Intern Med 1979;
+90:92-94.
+37. Sacks HS, Berrier J, Reitman D, et al: Meta\x=req-\
+analyses of randomized controlled trials. N Engl J
+Med 1987;316:450-455.
+38. Chalmers TC, Levin H, Sacks HS, et al: Meta\x=req-\
+analysis of clinical trials as a scientific discipline: I.
+Control of bias and comparison with large coopera-
+tive trials. Stat Med 1987;6:315-325.
+39. Chalmers TC, Berrier J, Sacks HS, et al: Meta-
+analysis of clinical trials as a scientific discipline: II.
+Replicate variability and comparison of studies that
+agree and disagree. Stat Med 1987;6:733-744.
+40. Chalmers TC, Koff RS, Grady GF: A note
+on fatality in serum hepatitis. Gastroenterology
+1965;49:22-26.
+41. Simes RJ: Publication bias: The case for an
+international registry of clinical trials. J Clin Oncol
+1986;4:1529-1541.
+42. Dickersin K, Chan SS, Chalmers TC, et al:
+Publication bias in randomized control trials. Con-
+trolled Clin Trials 1987;8:343-353.
+43. Begg CB, Berlin JA: Publication bias: A prob-
+lem in the interpretation of medical data. J R Stat
+Soc, in press.
+
+Downloaded From:  by a University of Ottawa User  on 07/31/2018
