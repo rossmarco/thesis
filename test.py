@@ -124,8 +124,8 @@ class TextAnalyzer:
             full_training_trigram_filename = file_name+'.csv'
             file_trigrams = csv.writer(open(full_training_trigram_filename, 'w'))
         else:
-            full_test_trigram_filename = file_name+'.csv'
-            file_trigrams = csv.writer(open(full_test_trigram_filename, 'w'))
+            self.full_test_trigram_filename = file_name+'.csv'
+            file_trigrams = csv.writer(open(self.full_test_trigram_filename, 'w'))
 
         finder = TrigramCollocationFinder.from_words(self.word_set)
         #scored = finder.score_ngrams(bigram_measures.raw_freq) 
@@ -159,7 +159,7 @@ class TextAnalyzer:
 
         return self.full_training_quadgram_filename, self.full_test_quadgram_filename
 
-    def compare_csv(self, training_data, test_data, disease_type, ngram_size):
+    def compare_csv(self, training_data, test_data, disease_type):
 
         num_of_matches = 0
         num_of_nonmatches = 0
@@ -191,15 +191,19 @@ class TextAnalyzer:
                 similarity_metric = ((num_of_matches/total_num_of_compares) * 100)
 
                 if disease_type == 'cancer':
-                    smetric_cancer = similarity_metric
+                    self.smetric_cancer = similarity_metric
                 elif disease_type == 'cvd':
-                    smetric_cvd = similarity_metric
+                    self.smetric_cvd = similarity_metric
                 elif disease_type == 'diabetes':
-                    smetric_diabetes = similarity_metric
+                    self.smetric_diabetes = similarity_metric
                 
                 message2 = 'The similarity metric is {0:.2f}'.format(similarity_metric)
                 writer.writerow([message2])
+        
+        return self.smetric_cancer, self.smetric_cvd, self.smetric_diabetes
 
+    def determine_best_match(self, smetric_cancer, smetric_diabetes, smetric_cvd, ngram_size):
+        
         test_article_file_name = ''
 
         if ngram_size == 1:
@@ -213,17 +217,16 @@ class TextAnalyzer:
         else:
             raise ValueError("Please only choose an n-gram size between 1-4, inclusive")
 
-        match_file_name = 'best_matches' + test_article_file_name + '.csv'
+        match_file_name = 'best_matches' + test_article_file_name #+ '.csv'
         with open (match_file_name, 'wb') as csvfile:
             matches_writer = csv.writer(csvfile)
 
-            if (smetric_cancer > smetric_diabetes) and (smetric_cancer > smetric_cvd):
+            if (self.smetric_cancer > self.smetric_diabetes) and (self.smetric_cancer > self.smetric_cvd):
                 matches_writer.writerow(['The article ' + test_article_file_name + ' is a cancer article with a similary metric of {0:.2f}'.format(smetric_cancer)])
-            elif (smetric_diabetes > smetric_cancer) and (smetric_diabetes > smetric_cvd):
+            elif (self.smetric_diabetes > self.smetric_cancer) and (self.smetric_diabetes > self.smetric_cvd):
                 matches_writer.writerow(['The article ' + test_article_file_name + ' is a diabetes article with a similary metric of {0:.2f}'.format(smetric_diabetes)])
-            elif (smetric_cvd > smetric_cancer) and (smetric_cvd > smetric_diabetes):
+            elif (self.smetric_cvd > self.smetric_cancer) and (self.smetric_cvd > self.smetric_diabetes):
                 matches_writer.writerow(['The article ' + test_article_file_name + ' is a CVD article with a similary metric of {0:.2f}'.format(smetric_cvd)])
-
 
 def run_testing_data():
 
@@ -233,8 +236,17 @@ def run_testing_data():
     # cancer_training.normalize_text('cancer-training.txt')
     # cancer_training.get_trigrams(200)
 
+    # diabetes_training = TextAnalyzer('diabetes')
+    # diabetes_training.normalize_text('diabetes-training.txt')
+    # diabetes_training.get_trigrams(200)
+
+    # cvd_training = TextAnalyzer('cvd')
+    # cvd_training.normalize_text('cvd-training.txt')
+    # cvd_training.get_trigrams(200)
+
     mypath = '/Users/marcoross/Documents/summer2018_thesis/cancer'
     files = [f for f in listdir(mypath) if isfile and (f != '.DS_Store') and ('training' not in f)]
+    #files = [t for t in listdir(mypath) if (t != '.DS_Store') and (".csv" in t) and ("training" not in t)]
 
     for f in files:
        test_article = TextAnalyzer('cancer')
@@ -244,6 +256,9 @@ def run_testing_data():
     test_files = [t for t in listdir(mypath) if (t != '.DS_Store') and (".csv" in t) and ("training" not in t)]
     
     for t in test_files:
-        test_article.compare_csv('cancer-training-trigram-freq-200.csv', str(t), 'cancer', 3) #full_training_trigram_filename
-    
+        test_article.compare_csv('cancer-training-trigram-freq-200.csv', t, 'cancer')
+        test_article.compare_csv('diabetes-training-trigram-freq-200.csv', t, 'diabetes')
+        test_article.compare_csv('cvd-training-trigram-freq-200.csv', t, 'cvd')
+        test_article.determine_best_match(test_article.smetric_cancer, test_article.smetric_diabetes, test_article.smetric_cvd, 3)
+
 run_testing_data()
