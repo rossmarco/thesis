@@ -13,6 +13,8 @@ import subprocess
 import sys
 from os import listdir
 from os.path import isfile, join
+import os.path
+import re
 
 
 # TO DO: document this code
@@ -202,7 +204,12 @@ class TextAnalyzer:
         
         return self.smetric_cancer, self.smetric_cvd, self.smetric_diabetes
 
-    def determine_best_match(self, smetric_cancer, smetric_diabetes, smetric_cvd, ngram_size):
+    def determine_best_match(self, smetric_cancer, smetric_diabetes, smetric_cvd, test_article_name, disease, ngram_size):
+
+        # calculate accuracy
+        correct_matches = 0
+        incorrect_matches = 0
+        accuracy = 0.0
         
         test_article_file_name = ''
 
@@ -217,18 +224,31 @@ class TextAnalyzer:
         else:
             raise ValueError("Please only choose an n-gram size between 1-4, inclusive")
 
-        match_file_name = 'best_matches' + test_article_file_name #+ '.csv'
-        with open (match_file_name, 'wb') as csvfile:
-            matches_writer = csv.writer(csvfile)
+        match_file_name = 'best_matches.csv'
+        # if directory already contains CSV file, append to it rather than create a new one
+        #TODO make this file name modular
+        matches_file = "/Users/marcoross/Documents/summer2018_thesis/best_matches.csv"
+        if os.path.exists(matches_file):
+            f = open (match_file_name, 'w')
+            matches_writer = csv.writer(f)
 
-            if (self.smetric_cancer > self.smetric_diabetes) and (self.smetric_cancer > self.smetric_cvd):
-                matches_writer.writerow(['The article ' + test_article_file_name + ' is a cancer article with a similary metric of {0:.2f}'.format(smetric_cancer)])
-            elif (self.smetric_diabetes > self.smetric_cancer) and (self.smetric_diabetes > self.smetric_cvd):
-                matches_writer.writerow(['The article ' + test_article_file_name + ' is a diabetes article with a similary metric of {0:.2f}'.format(smetric_diabetes)])
-            elif (self.smetric_cvd > self.smetric_cancer) and (self.smetric_cvd > self.smetric_diabetes):
-                matches_writer.writerow(['The article ' + test_article_file_name + ' is a CVD article with a similary metric of {0:.2f}'.format(smetric_cvd)])
+        else:
+            f = open(match_file_name, 'a')
+            matches_writer = csv.writer(f)
 
-def run_testing_data():
+        if (self.smetric_cancer > self.smetric_diabetes) and (self.smetric_cancer > self.smetric_cvd):
+            matches_writer.writerow(['The article ' + test_article_name + ' is a cancer article with a similary metric of {0:.2f}'.format(smetric_cancer)])
+        elif (self.smetric_diabetes > self.smetric_cancer) and (self.smetric_diabetes > self.smetric_cvd):
+            matches_writer.writerow(['The article ' + test_article_name + ' is a diabetes article with a similary metric of {0:.2f}'.format(smetric_diabetes)])
+        elif (self.smetric_cvd > self.smetric_cancer) and (self.smetric_cvd > self.smetric_diabetes):
+            matches_writer.writerow(['The article ' + test_article_name + ' is a CVD article with a similary metric of {0:.2f}'.format(smetric_cvd)])
+
+        f.close()
+        
+        #final_calulation = 
+
+
+def run_testing_data(disease, test_directory):
 
     os.chdir('/Users/marcoross/Documents/summer2018_thesis/cancer')
 
@@ -244,21 +264,20 @@ def run_testing_data():
     # cvd_training.normalize_text('cvd-training.txt')
     # cvd_training.get_trigrams(200)
 
-    mypath = '/Users/marcoross/Documents/summer2018_thesis/cancer'
-    files = [f for f in listdir(mypath) if isfile and (f != '.DS_Store') and ('training' not in f)]
-    #files = [t for t in listdir(mypath) if (t != '.DS_Store') and (".csv" in t) and ("training" not in t)]
+    test_directory = '/Users/marcoross/Documents/summer2018_thesis/cancer'
+    files = [f for f in listdir(test_directory) if isfile and (f != '.DS_Store') and ('training' not in f)]
 
     for f in files:
-       test_article = TextAnalyzer('cancer')
+       test_article = TextAnalyzer(disease)
        test_article.normalize_text(f)
        test_article.get_trigrams(200)
 
-    test_files = [t for t in listdir(mypath) if (t != '.DS_Store') and (".csv" in t) and ("training" not in t)]
+    test_files = [t for t in listdir(test_directory) if (t != '.DS_Store') and (".csv" in t) and ("training" not in t)]
     
     for t in test_files:
         test_article.compare_csv('cancer-training-trigram-freq-200.csv', t, 'cancer')
         test_article.compare_csv('diabetes-training-trigram-freq-200.csv', t, 'diabetes')
         test_article.compare_csv('cvd-training-trigram-freq-200.csv', t, 'cvd')
-        test_article.determine_best_match(test_article.smetric_cancer, test_article.smetric_diabetes, test_article.smetric_cvd, 3)
+        test_article.determine_best_match(test_article.smetric_cancer, test_article.smetric_diabetes, test_article.smetric_cvd, str(t), disease, 3)
 
-run_testing_data()
+run_testing_data('cancer','/Users/marcoross/Documents/summer2018_thesis/cancer')
