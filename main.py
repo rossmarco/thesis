@@ -38,7 +38,6 @@ class TextAnalyzer:
         self.smetric_cancer = 0.0
         self.smetric_cvd = 0.0
 
-
     def normalize_text(self, txt_file):
         # Import the text file we will work with
         with io.open(txt_file, 'r', encoding='utf-8', errors='ignore') as file:
@@ -247,7 +246,7 @@ class TextAnalyzer:
         
         #final_calulation = 
 
-#Non class functions
+#Non-class functions
 
 # Taken from https://www.sanfoundry.com/python-program-count-number-words-characters-file/
 def word_counter(fname):    
@@ -334,6 +333,8 @@ def sort_CSV(filename, path):
           for row in sortedColumns:
               fileWriter.writerow(row)
 
+
+#Make function calls
 
 #run_testing_data('cancer','/Users/marcoross/Documents/summer2018_thesis/cancer')
 sort_CSV('best_matches.csv', 'cancer')
