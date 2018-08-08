@@ -1,30 +1,30 @@
 from __future__ import division
-import nltk
-import os
-import io
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize, sent_tokenize
-from nltk.probability import FreqDist
-from nltk.collocations import BigramAssocMeasures, TrigramAssocMeasures, BigramCollocationFinder, TrigramCollocationFinder, QuadgramCollocationFinder
-from nltk.collocations import ngrams
-from collections import Counter
 import csv
-import subprocess
-import sys
-from os import listdir
-from os.path import isfile, join
+import io
+import fileinput
+import nltk
+import operator
+import os
 import os.path
 import re
+import subprocess
+import sys
+from collections import Counter
+from nltk.collocations import BigramAssocMeasures, TrigramAssocMeasures, BigramCollocationFinder, TrigramCollocationFinder, QuadgramCollocationFinder
+from nltk.collocations import ngrams
+from nltk.corpus import stopwords
+from nltk.probability import FreqDist
+from nltk.tokenize import word_tokenize, sent_tokenize
+from os import listdir
+from os.path import isfile, join
 
 
-# TO DO: document this code
+# TODO: document this code
 class TextAnalyzer:
 
     def __init__(self, disease_type):
         self.word_set = []
-        #not being used for anything at the moment but will in the future
         self.disease_type = disease_type
-        #self.txt_file = txt_file
         self.full_training_word_freq_filename = ''
         self.full_training_bigram_filename = ''
         self.full_training_trigram_filename = ''
@@ -247,6 +247,50 @@ class TextAnalyzer:
         
         #final_calulation = 
 
+#Non class functions
+
+# Taken from https://www.sanfoundry.com/python-program-count-number-words-characters-file/
+def word_counter(fname):    
+    num_words = 0
+    
+    with open(fname, 'r') as f:
+        for line in f:
+            words = line.split()
+            num_words += len(words)
+    print("Number of words:")
+    print(num_words)
+
+def pdf_to_text(disease):
+    reload(sys)
+    sys.setdefaultencoding('utf-8')
+
+    mypath = '/Users/marcoross/Documents/summer2018_thesis/' + disease
+    files = [f for f in listdir(mypath) if isfile(join(mypath, f))]
+
+    os.chdir('/Users/marcoross/Documents/summer2018_thesis/' + disease)
+
+    for f in files:
+        cmd = 'python pdf2txt.py -o %s.txt %s' % (f.split('.')[0], f)
+        run = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        out, err = run.communicate()
+    # display errors if they occur    
+    if err:
+        print err
+
+def combine_text(disease):
+    reload(sys)
+    sys.setdefaultencoding('utf-8')
+
+    os.chdir('/Users/marcoross/Documents/summer2018_thesis/' + disease)
+
+    mypath = '/Users/marcoross/Documents/summer2018_thesis/' + disease
+    filenames = [f for f in listdir(mypath) if isfile(join(mypath, f))]
+
+    with open(disease + '-training.txt', 'w') as fout:
+        fin = fileinput.input(filenames)
+        for line in fin:
+            fout.write(line)
+        fin.close()
 
 def run_testing_data(disease, test_directory):
 
@@ -280,4 +324,16 @@ def run_testing_data(disease, test_directory):
         test_article.compare_csv('cvd-training-trigram-freq-200.csv', t, 'cvd')
         test_article.determine_best_match(test_article.smetric_cancer, test_article.smetric_diabetes, test_article.smetric_cvd, str(t), disease, 3)
 
-run_testing_data('cancer','/Users/marcoross/Documents/summer2018_thesis/cancer')
+def sort_CSV(filename, path):
+    os.chdir('/Users/marcoross/Documents/summer2018_thesis/' + path)
+    data = csv.reader(open(filename),delimiter=',')
+    sortedColumns = sorted(data, key=operator.itemgetter(0))
+    new_sorted_name = filename.replace('.csv', '') + '_sorted.csv'
+    with open(new_sorted_name, "wb") as f:
+          fileWriter = csv.writer(f, delimiter=';')
+          for row in sortedColumns:
+              fileWriter.writerow(row)
+
+
+#run_testing_data('cancer','/Users/marcoross/Documents/summer2018_thesis/cancer')
+sort_CSV('best_matches.csv', 'cancer')
