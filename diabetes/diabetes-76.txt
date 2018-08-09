@@ -1,0 +1,1070 @@
+See corresponding editorial on page 671.
+
+An increase in dietary protein improves the blood glucose response
+in persons with type 2 diabetes1–3
+
+Mary C Gannon, Frank Q Nuttall, Asad Saeed, Kelly Jordan, and Heidi Hoover
+
+ABSTRACT
+Background: In single-meal studies, dietary protein does not
+result in an increase in glucose concentrations in persons with or
+without type 2 diabetes, even though the resulting amino acids can
+be used for gluconeogenesis.
+Objective: The metabolic effects of a high-protein diet were com-
+pared with those of the prototypical healthy (control) diet, which
+is currently recommended by several scientific organizations.
+Design: The metabolic effects of both diets, consumed for 5 wk
+each (separated by a 2–5-wk washout period), were studied in 12
+subjects with untreated type 2 diabetes. The ratio of protein to car-
+bohydrate  to  fat  was  30:40:30  in  the  high-protein  diet  and
+15:55:30 in the control diet. The subjects remained weight-stable
+during the study.
+Results: With the fasting glucose concentration used as a base-
+line from which to determine the area under the curve, the high-
+protein diet resulted in a 40% decrease in the mean 24-h integrated
+glucose area response. Glycated hemoglobin decreased 0.8% and
+0.3% after 5 wk of the high-protein and control diets, respectively;
+the difference was significant (P < 0.05). The rate of change over
+time was also significantly greater after the high-protein diet than
+after the control diet (P < 0.001). Fasting triacylglycerol was
+significantly lower after the high-protein diet than after the con-
+trol diet. Insulin, C-peptide, and free fatty acid concentrations
+were not significantly different after the 2 diets.
+Conclusion: A high-protein diet lowers blood glucose postpran-
+dially in persons with type 2 diabetes and improves overall glu-
+cose control. However, longer-term studies are necessary to deter-
+mine the total magnitude of response, possible adverse effects, and
+the  long-term  acceptability  of  the  diet.
+Am  J  Clin  Nutr
+2003;78:734–41.
+
+KEY WORDS
+insulin,
+glucagon, glycemic index, triacylglycerol, glycated hemoglobin,
+Hb A1c
+
+Dietary protein, diabetes, diet,
+
+INTRODUCTION
+
+When dietary recommendations for the general population or
+for persons with diabetes are considered, the focus has been on
+the relative amounts and types of carbohydrates and fat to include
+in the diet (1–4). Both the type and amount of protein in the diet
+has largely been ignored. Generally, protein has only been con-
+sidered in the context of that necessary for maintenance of lean
+body mass, ie, that needed to maintain nitrogen balance, whether
+people have diabetes or not. A role for dietary protein in the
+
+management of hyperglycemia either has not been considered or
+has been considered only in regard to the amount of glucose that
+theoretically can be derived from the constituent amino acids
+through gluconeogenesis. However, as early as 1913 (5), it was
+reported that the ingestion of egg white protein in a single-meal
+study did not result in an increase in the blood glucose concen-
+tration in healthy persons. Subsequently, data from several labo-
+ratories  (6, 7;  reviewed  in  reference  8)—including  our  own
+(9–13)—indicated that the peripheral glucose concentration does
+not increase after protein ingestion in healthy persons or in per-
+sons with type 2 diabetes. In persons with type 2 diabetes, protein
+ingestion actually results in a small decrease in postprandial glu-
+cose concentrations (8, 14). In a single-day study in which mixed
+meals of various composition were fed to healthy young subjects,
+the protein content of the meals was calculated to also lower the
+blood glucose concentration (15). To our knowledge, the effect on
+glucose metabolism of a high-protein, weight-maintenance diet
+ingested over a longer period of time has not been reported. In the
+present  study  we  tested  the  hypothesis  that  a  5-wk  period  of
+increased dietary protein results in a lower plasma glucose con-
+centration in persons with mild, untreated type 2 diabetes. The
+responses of glucose, glycated hemoglobin, insulin, C-peptide,
+glucagon, triacylglycerol, and nonesterified fatty acids to a high-
+protein diet are included in this report.
+
+SUBJECTS AND METHODS
+
+Twelve subjects (10 men and 2 women) with mild, untreated
+type 2 diabetes were studied in a Special Diagnostic and Treat-
+ment Unit (SDTU), similar to a Clinical Research Center. All sub-
+jects met the National Diabetes Data Group criteria for the diag-
+nosis  of  type 2  diabetes  mellitus  (16).  The  mean  age  of  the
+
+1 From the Metabolic Research Laboratory and the Section of Endocrinol-
+ogy, Metabolism, and Nutrition, Department of Veterans Affairs Medical Cen-
+ter, Minneapolis (MCG, FQN, AS, KJ, and HH), and the Departments of Food
+Science and Nutrition (MCG) and Medicine (MCG, FQN, and AS), University
+of Minnesota, Minneapolis.
+
+2 Supported by grants from the American Diabetes Association, the Min-
+nesota Beef Council, and the Colorado and Nebraska Beef Councils and by
+Merit Review Funds from the Medical Research Service, Department of Vet-
+erans Affairs, Minneapolis.
+
+3 Address reprint requests to MC Gannon, Metabolic Research Laboratory
+(111G) Veterans Affairs Medical Center, Minneapolis, MN 55417. E-mail:
+ganno004@tc.umn.edu.
+
+Received December 7, 2002.
+Accepted for publication August 4, 2003.
+
+734
+
+Am J Clin Nutr 2003;78:734–41. Printed in USA. © 2003 American Society for Clinical Nutrition
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/78/4/734/4690022
+by guest
+on 08 August 2018
+
+HIGH-PROTEIN DIET AND GLUCOSE CONTROL
+
+735
+
+subjects was 61 y (range: 39–79 y), and the mean body mass
+index (in kg/m2) was 31 (range: 22–37). The mean percent total
+glycated  hemoglobin  was  8.0%  (range: 7.0–9.3%).  Written
+informed consent was obtained from all subjects, and the study
+was approved by the Department of Veterans Affairs Medical
+Center and the University of Minnesota Committee on Human
+Subjects. Subjects were screened and found not to have hemato-
+logic abnormalities, liver disease, kidney disease, macroalbu-
+minuria (> 300 mg/24 h), untreated thyroid disease, congestive
+heart failure, angina, life-threatening malignancies, proliferative
+retinopathy, diabetic neuropathy, peripheral vascular disease,
+serious  psychological  disorders, or  a  body  weight  >  136 kg
+(300 lb). All subjects were interviewed before the study began to
+determine their physical activity profile and their food likes and
+dislikes and to emphasize the commitment that they were about
+to undertake. The subjects confirmed that they had been weight-
+stable for ≥ 3 mo and they completed a 3-d food-frequency ques-
+tionnaire covering the prior 2 wk; one of the days was a Satur-
+day or Sunday. None of the subjects was being treated with oral
+hypoglycemic agents or insulin.
+
+The control (15% protein) diet was designed according to the
+recommendations of the American Diabetes Association (2), the
+American Heart Association (1), the US Department of Agri-
+culture (4), and the American Cancer Society (3) at the time
+(1997) that the study was conceived. The control diet consisted
+of 55% carbohydrate (with an emphasis on starch-containing
+foods), 15% protein, and 30% fat (10% monounsaturated, 10%
+polyunsaturated, and 10% saturated fat). A second diet—the
+high-protein diet—was designed to consist of 40% carbohy-
+drate, 30% protein, and 30% fat (10% monounsaturated, 10%
+polyunsaturated, and 10% saturated fat). Thus, the protein con-
+tent of the diet was increased at the expense of carbohydrate.
+The  fat  and  dietary  fiber  contents  of  the  diets  were  similar.
+Examples of each diet are given in Table 1. The compositions
+of the diets are given in Table 2.
+
+Subjects were randomly assigned to begin the study with the
+high-protein or the control diet, as determined by the flip of a coin.
+The subjects were admitted to the SDTU on the evening before
+the study began. On the following day, the subjects were fed stan-
+dardized meals containing 55% carbohydrate, 30% fat, and 15%
+protein. After the subjects had fasted overnight for 12 h, blood was
+drawn for lipid studies.
+
+On the second day in the STDU, standardized meals (55%
+carbohydrate, 30% fat, and 15% protein) were again fed for
+breakfast, lunch, and dinner at 0800, 1200, and 1800, respec-
+tively. Snacks were given at 1400 (snack 1) and 2100 (snack 2).
+Blood was obtained at 0730, 0745 and 0800; one-half hour after
+each meal; and hourly throughout the remainder of the 24-h
+period of the study, for a total of 46 time points. Subjects were
+encouraged to drink water to ensure adequate urine output. After
+this 24-h test period, the subjects were sent home with food for
+the next 2–3 d, as appropriate for the diet to which they were
+randomly assigned. All of the food to be eaten was supplied to
+the subjects.
+
+The subjects returned to the SDTU every 2–3 d to pick up food.
+At that time, they provided a urine specimen (for measurement of
+creatinine and urea to determine dietary compliance), were
+weighed, and had their blood pressure and total percent glycated
+hemoglobin measured. In addition, the subjects were interviewed
+regarding dietary compliance and about any concerns that they had
+about the study.
+
+At the end of the 5-wk period, the subjects again were admit-
+ted to the SDTU, and blood was drawn as described above. At this
+time the control or high-protein diet (breakfast, lunch, dinner, and
+2 snacks) was given, as appropriate. The distribution of calories
+was as follows: 21% for breakfast, 27% for lunch, 13% for snack
+1, 34% for dinner, and 5% for snack 2. The amount of carbohy-
+drate in the meals and snacks for the control diet was ⬇82 g for
+breakfast, 69 g for lunch, 36 g for snack 1, 79 g for dinner, and
+33 g for snack 2; the respective amounts for the high-protein diet
+were ⬇65, 49, 22, 67, and 20 g.
+
+The plasma glucose concentration was determined with the use
+of a glucose oxidase method (Beckman glucose analyzer with an
+oxygen electrode; Beckman Instruments, Fullerton, CA). Total
+glycated hemoglobin was measured by boronate affinity HPLC.
+Serum immunoreactive insulin was measured with the use of a
+standard double-antibody radioimmunoassay method with kits
+produced by Incstar (Stillwater, MN). Glucagon was determined
+with the use of a radioimmunoassay kit purchased from Linco
+Research (St Louis). C-peptide was measured with the use of a
+radioimmunoassay kit manufactured by Diasorin (Stillwater, MN).
+Nonesterified fatty acids (NEFAs) were determined enzymatically
+with the use of a kit manufactured by Wako Chemicals USA, Inc
+(Richmond, VA). Creatinine, urea nitrogen, total cholesterol, HDL
+cholesterol, and triacylglycerol were measured with the use of an
+automated method on an Ortho-Clinical Diagnostics Vitros 950
+analyzer (Raritan, NJ). LDL cholesterol was calculated with the
+Friedewald formula. Microalbumin was determined by using a
+Beckman-Coulter Array 360 analyzer. Weight was determined
+with a digital scale (Scaletronix, White Plains, NY) while the sub-
+jects were wearing street clothes and no shoes. Blood pressure was
+determined  by  using  a  Dinamap  instrument  (Critikon/Mediq,
+Pennsauken, NJ) with a digital readout.
+
+The net 24-h area responses were calculated by using a com-
+puter program based on the trapezoid rule (17). Statistics were
+determined by using Student’s t test for paired variates with the
+STATVIEW 512+ program (Brain Power, Calabasas, CA) for the
+Macintosh computer (Apple Computer, Cupertino, CA). A P value
+< 0.05 was the criterion for significance. Data are presented as
+means ± SEMs.
+
+RESULTS
+
+The average body weight of the subjects was 96 kg (211 lb).
+Body weight remained stable with both diets (Figure 1). The large
+SEM was due to the variation between subjects. None of the sub-
+jects lost or gained > 1 kg (2 lb) with either diet.
+
+The ratios of urine urea to creatinine with the high-protein and
+control diets were ⬇14 ± 1.3 and ⬇7 ± 0.7 at week 1 and remained
+relatively stable throughout the 5-wk intervention period. In other
+words, the ratio with the high-protein diet was double that with
+the control diet, as would be expected with excellent compliance.
+The mean fasting glucose concentration was not signiﬁcantly dif-
+ferent after 5 wk of either diet, 6.3 ± 0.3 mmol/L, or 114 ± 6 mg/dL
+(Figure 2). After ingestion of the control diet, the mean glucose
+concentration increased to a peak of 11.4 ± 0.8 mmol/L (205 ±
+14 mg/dL) after the breakfast meal, 8.4 ± 0.7 mmol/L (151 ±
+13 mg/dL) after the lunch meal, 9.6 ± 0.6 mmol/L (172 ± 11 mg/dL)
+after the dinner meal, and 9.5 ± 0.6 mmol/L (171 ± 11 mg/dL)
+after snack 2. After ingestion of the high-protein diet, the mean
+peak glucose concentration was 10.9 ± 0.7 mmol/L (196 ± 12 mg/dL)
+after the breakfast meal, 7.9 ± 0.6 mmol/L (142 ± 10 mg/dL) after
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/78/4/734/4690022
+by guest
+on 08 August 2018
+
+736
+
+TABLE 1
+Sample menus
+
+Breakfast
+
+Lunch
+
+Snack
+
+Supper
+
+Snack
+
+Control (15% protein) diet
+
+244 g (8 oz) 2%-fat milk
+21 g (1 slice) cracked-wheat toast
+9 g (2 tsp) soft margarine
+14 g (2 tsp) jelly
+28 g (1 oz) Raisin Bran1
+44 g (1) egg
+226 g (8 oz) grapefruit juice
+4 g (1 tsp) sugar
+36 g carrot and 48 g celery sticks
+57 g (2 oz) hamburger on 40-g bun
+28 g (1 oz) potato chips
+138 g apple
+15 g catsup, 5 g mustard, 21 g onion, 7 g lettuce,
+and 7 g (0.5 Tbsp) mayonnaise
+43 g (6) graham crackers
+
+85 g (3 oz) baked chicken
+122 g baked potato
+184 g broccoli
+55 g lettuce salad/16 g diet French dressing
+13 g (1 Tbsp) soft margarine
+42 g (2 slices) cracked-wheat toast
+154 g peaches (3 halves)
+65 g bagel
+28 g (1 oz) cream cheese
+60 g (25) grapes
+
+1 Kellogg Co, Battle Creek, MI.
+2 Kraft Cheese-Lite; Kraft, Glenview, IL.
+3 Bemmer, Inc, Princeton, KY.
+4 Keebler, Elmhurst, IL.
+
+GANNON ET AL
+
+High-protein (30% protein) diet
+
+Breakfast
+
+245 g (8 oz) skim milk
+24 g (1 slice) whole-wheat toast
+5 g (1 tsp) soft margarine
+7 g (1 tsp) jelly
+28 g (1 oz) Raisin Bran
+227 g (8 oz) low-fat yogurt
+
+Lunch
+
+Snack
+
+Supper
+
+36 g carrot and 48 g celery sticks
+113 g (4 oz) beef and 28 g (1 oz) low-fat cheese2 on 40-g bun
+28 g (1 oz) potato chips
+138 g apple
+15 g catsup, 5 g mustard, and 4 g (1 tsp) soft margarine 
+245 g (8 oz) skim milk
+85 g (3 oz) low-fat cottage cheese
+13 g (2) Rye Krisp3
+255 g (9 oz) baked chicken
+61 g baked potato
+138 g broccoli
+55 g lettuce salad/16 g diet French dressing
+13 g (1 Tbsp) soft margarine
+245 g (8 oz) skim milk
+
+Snack
+
+245 g (8 oz) skim milk
+6 g (2) Saltines4
+
+the lunch meal, 9.2 ± 0.8 mmol/L (165 ± 14 mg/dL) after the din-
+ner meal, and 8.6 ± 0.3 mmol/L (154 ± 6 mg/dL) after snack 2.
+Thus, the glucose concentration was consistently lower after the
+high-protein diet, particularly in the evening.
+
+The mean 24-h integrated glucose area responses, with the fast-
+ing glucose concentration as baseline, were 34.1 ± 7.2 mmol · h/L
+(614 ± 130 mg · h/dL) and 21.0 ± 4.2 mmol · h/L (378 ± 75 mg · h/dL)
+
+after the control and high-protein diets, respectively. The differ-
+ence was statistically significant (P < 0.02).
+
+The mean total percent glycated hemoglobin decreased from 8.0 ±
+0.2% to 7.7 ± 0.3% after 5 wk of the control diet (Figure 3). After 5
+wk of the high-protein diet, the total percent glycated hemoglo-
+bin decreased from 8.1 ± 0.3% to 7.3 ± 0.2%. The decrease was
+statistically significant after 4 and 5 wk of the high-protein diet
+
+TABLE 2
+Composition of diets1
+
+Energy (kcal)
+Protein (g)
+Carbohydrate (g)
+
+Monosaccharides (g)
+Disaccharides (g)
+
+Fat (g)
+
+Monounsaturated fat (g)
+Polyunsaturated fat (g)
+Saturated fat (g)
+
+Cholesterol (mg)
+Dietary ﬁber (g)
+
+Control
+
+High-protein 
+
+(15% protein) diet
+
+(30% protein) diet
+
+2266
+84
+302
+47
+44
+86
+32
+15
+28
+298
+26
+
+2235
+166
+223
+33
+42
+75
+41
+16
+33
+337
+29
+
+1 Values  are  averages  of  6-d  menus.  Analysis  performed  by  using
+NUTRITIONIST PRO version 2.0 (FIRSTDATABANK; The Hearst Cor-
+poration, San Bruno, CA).
+
+FIGURE 1. Mean (± SEM) body weight of the subjects during
+the  5-wk  control  (15%  protein)  and  high-protein  (30%  protein)
+diets. n = 12.
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/78/4/734/4690022
+by guest
+on 08 August 2018
+
+HIGH-PROTEIN DIET AND GLUCOSE CONTROL
+
+737
+
+FIGURE 2. Twenty-four–hour plasma glucose response of subjects to
+the control (15% protein) and high-protein (30% protein) diets. Breakfast
+(B) was given at time 0 (0800), lunch (L) at 4 h (1200), dinner (D) at 10 h
+(1800), snack 1 (S1) at 6 h (1400), and snack 2 (S2) at 13 h (2100). n = 12.
+Inset: mean (± SEM) 24-h net glucose area response, with the fasting glu-
+cose concentration as baseline. *Significantly different from the control
+diet, P < 0.05 (Student’s t test for paired variates). n = 12.
+
+FIGURE 4. Twenty-four–hour serum insulin response of subjects to
+the control (15% protein) and high-protein (30% protein) diets. Breakfast
+(B) was given at time 0 (0800), lunch (L) at 4 h (1200), dinner (D) at 10 h
+(1800), snack 1 (S1) at 6 h (1400), and snack 2 (S2) at 13 h (2100). n = 12.
+Inset: mean  (± SEM)  24-h  net  insulin  area  response, with  the  fasting
+insulin concentration as baseline. n = 12.
+
+(P < 0.05) but not after the control diet. The rate of decline also
+was significantly greater after the high-protein diet (P < 0.001),
+which  was  determined  by  using  Student’s  paired t  test  of  the
+decrement in slope over 5 wk.
+
+The mean fasting serum insulin concentrations were 104 ±
+18 pmol/L (17.3 ± 3.0 ␮U/mL) and 110 ± 21 pmol/L (18.4 ±
+3.5 ␮U/mL) after the control and high-protein diets, respec-
+tively (Figure 4). The insulin concentrations increased rap-
+idly after the meals, as expected. The insulin excursion was
+not significantly different with either diet after breakfast and
+lunch but was modestly greater after dinner with the high-
+protein diet.
+
+The mean 24-h integrated insulin area response, with the fast-
+ing  value  as  baseline, was  6720 ± 1710 pmol · h/L  (1120 ±
+285 ␮U · h/mL) after the high-protein diet. After the high-protein
+
+diet, the  insulin  area  response  was  7962 ± 1890 pmol · h/L
+(1327 ± 315 ␮U · h/mL), or 18% greater than that after the con-
+trol diet. This difference in area response was not statistically
+significant (P = 0.25).
+
+The  mean  fasting  C-peptide  concentration  was  0.27 ±
+0.03 nmol/L (0.82 ± 0.08 pg/mL) after both the control and the
+high-protein diets. The C-peptide response was similar to the
+insulin response (Figure 5).
+
+The mean 24-h integrated C-peptide area response was 5.5 ±
+0.8 nmol · h/L (16.4 ± 2.4 pg · h/mL) with the control diet and
+6.9 ± 1.0 nmol · h/L (20.7 ± 3 pg · h/mL) with the high-protein
+diet, ie, 26% greater than that produced by the control diet.
+This difference in area response was not statistically signifi-
+cant (P = 0.07).
+
+The mean fasting glucagon concentrations were not signifi-
+cantly different after the control and high-protein diets: 78 ±
+
+FIGURE 3. Mean (± SEM) total glycated hemoglobin response of sub-
+jects to the control (15% protein) and high-protein (30% protein) diets
+over the 5-wk study period. *Significantly different from the control diet,
+P < 0.05 (Student’s t test for paired variates). The rate of decline was also
+significantly greater after the high-protein diet, P < 0.001 (Student’s paired
+t test of the decrement in slope over 5 wk). n = 12.
+
+FIGURE 5. Twenty-four–hour C-peptide response of subjects to the
+control (15% protein) and high-protein (30% protein) diets. Breakfast (B)
+was given at time 0 (0800), lunch (L) at 4 h (1200), dinner (D) at 10 h
+(1800), snack 1 (S1) at 6 h (1400), and snack 2 (S2) at 13 h (2100). n = 12.
+Inset: mean (± SEM) 24-h net C-peptide area response, with the fasting
+C-peptide concentration used as baseline. n = 12.
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/78/4/734/4690022
+by guest
+on 08 August 2018
+
+738
+
+GANNON ET AL
+
+FIGURE 6. Twenty-four–hour glucagon response of subjects to the con-
+trol (15% protein) and high-protein (30% protein) diets. Breakfast (B) was
+given at time 0 (0800), lunch (L) at 4 h (1200), dinner (D) at 10 h (1800),
+snack 1 (S1) at 6 h (1400), and snack 2 (S2) at 13 h (2100). n = 12. Inset:
+mean (± SEM) 24-h net glucagon area response, with the fasting glucagon
+concentration used as baseline. *Significantly different from the control
+diet, P < 0.01 (Student’s t test for paired variates). n = 12.
+
+FIGURE 8. Twenty-four–hour triacylglycerol response of subjects to
+the control (15% protein) and high-protein (30% protein) diets. Break-
+fast (B) was given at time 0 (0800), lunch (L) at 4 h (1200), dinner (D) at
+10 h (1800), snack 1 (S1) at 6 h (1400), and snack 2 (S2) at 13 h (2100).
+*Significantly different from the fasting control value, P < 0.03 (Student’s
+t test for paired variates). n = 12. Inset: mean (± SEM) 24-h net triacyl-
+glycerol area response, with the fasting triacylglycerol concentration as
+baseline. n = 12.
+
+8.9 and 77 ± 10.5 ng/L (78 ± 8.9 and 77 ± 10.5 pg/mL), respec-
+tively. The glucagon response was not significantly different
+for the first 2 h after breakfast and lunch. However, from 1400
+onward (6 h), the glucagon concentration was higher with the
+high-protein  diet. After  dinner, the  glucagon  concentration
+remained higher at all time points, until 0800 the next morn-
+ing (Figure 6).
+
+The mean 24-h integrated glucagon area response was 127 ±
+63 and 525 ± 136 ng · h/L (127 ± 63 and 525 ± 136 pg · h/mL) as
+a consequence of the control and high-protein diets, respectively,
+which represented a 4-fold difference (P < 0.01).
+
+The mean fasting NEFA concentrations were 623 ± 53 ␮mol/L
+(623 ± 53 ␮Eq/L) and 659 ± 80 ␮mol/L (659 ± 80 ␮Eq/L)
+after 5 wk of the control and high-protein diets, respectively
+
+(Figure 7). After ingestion of the low-protein diet, the NEFA
+concentration changed little for 30 min. The concentration
+then decreased progressively for 3 h after breakfast. It sub-
+sequently increased and reached a peak of 774 ± 132 ␮mol/L
+(774 ± 132 ␮Eq/L) at 45 min after dinner, declined until 3 h
+after dinner, and then increased again. The NEFA concen-
+tration increased 30 min after breakfast with the high-protein
+diet. Thereafter, the NEFA response to the high-protein diet
+was not significantly different from the low-protein diet,
+except that the peak was reached 30 min after breakfast
+(736 ± 59 ␮mol/L, or 736 ± 59 ␮Eq/L), and the concentra-
+tion at dinner was not significantly different from the fast-
+ing concentration.
+
+The mean 24-h integrated NEFA area response was ⫺2027 ±
+1496 ␮mol · h/L (⫺2027 ± 1496 ␮Eq · h/L) after the control diet
+(Figure 7). After the high-protein diet, the NEFA area response
+was ⫺3008 ± 988 ␮mol · h/L (⫺3008 ± 988 ␮Eq · h/L), or a reduc-
+tion of ⬇50% more than that after the control diet. There was con-
+siderable  variability  between  subjects, and  the  differences  in
+response were not statistically significant (P = 0.44).
+
+The mean fasting triacylglycerol concentrations were 2.2 ±
+0.2 mmol/L (199 ± 20 mg/dL) after 5 wk of the control diet and
+1.8 ± 0.26 mmol/L (161 ± 23 mg/dL) after 5 wk of the high-
+protein diet (Figure 8). The difference was statistically significant
+(P < 0.03). After ingestion of either diet, the triacylglycerol con-
+centration increased until ⬇1600, remained stable until ⬇2000,
+and then increased again until 0200. It then decreased toward
+baseline by 0800 the following morning.
+
+FIGURE 7. Twenty-four–hour nonesteriﬁed fatty acid (NEFA) response
+of subjects to the control (15% protein) and high-protein (30% protein) diets.
+Breakfast (B) was given at time 0 (0800), lunch (L) at 4 h (1200), dinner
+(D) at 10 h (1800), snack 1 (S1) at 6 h (1400), and snack 2 (S2) at 13 h
+(2100). n = 12. Inset: mean (± SEM) 24-h net NEFA area response, with the
+fasting NEFA concentration used as baseline. n = 12.
+
+The mean 24-h integrated triacylglycerol area response, above
+the fasting concentration, was 14.3 ± 5.2 mmol · h/L (1278 ±
+462 mg · h/dL) and 16.4 ± 3.9 mmol · h/L (1304 ± 352 mg · h/dL)
+after the control and high-protein diets, respectively. Thus,
+although the fasting triacylglycerol concentration was lower after
+the high-protein diet than after the control diet (P < 0.03), the
+net triacylglycerol area response after meals was not signifi-
+cantly different.
+
+Total  cholesterol  concentrations  were  4.7 ± 0.4  and  4.4 ±
+0.3 mmol/L (181 ± 15 and 171 ± 12 mg/dL) after 5 wk of the
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/78/4/734/4690022
+by guest
+on 08 August 2018
+
+HIGH-PROTEIN DIET AND GLUCOSE CONTROL
+
+739
+
+control and high-protein diets, respectively. HDL-cholesterol con-
+centrations were 1.0 ± 0.08 and 1.0 ± 0.08 mmol/L (38 ± 3 and
+39 ± 3 mg/dL), and LDL-cholesterol concentrations were 2.6 ±
+0.3 and 2.6 ± 0.3 mmol/L (100 ± 12 and 101 ± 12 mg/dL) with the
+control and high-protein diets, respectively. These differences
+were not statistically significant.
+
+The urinary creatinine clearance was 122 ± 11 and 113 ± 27
+mL/min after 5 wk of the control and high-protein diets, respec-
+tively. The urinary microalbumin value was 7.75 ± 1.71 mg after
+5 wk of the control diet and 7.01 ± 0.81 mg after 5 wk of the
+high-protein diet. None of these differences were statistically
+significant.
+
+The average blood pressure was 132 (systolic) and 74 (dias-
+tolic) mm Hg before the 5 wk of the control and high-protein
+diets and remained stable throughout the study (data not shown).
+
+DISCUSSION
+
+Several  years  ago  we  reported  that  protein, on  a  weight
+basis, is  just  as  potent  as  is  glucose  in  stimulating  insulin
+secretion in persons with type 2 diabetes (14). When protein
+was given with glucose, a synergistic effect on insulin was
+observed. As a result, the glucose area response was signifi-
+cantly less after ingestion of protein plus glucose than after
+ingestion of glucose alone. The insulin response was linearly
+related to the amount of protein ingested. These data were
+obtained by using very lean beef protein. Subsequently, we
+reported that 7 different protein sources were effective in stim-
+ulating an increase in circulating insulin concentrations in per-
+sons  with  type 2  diabetes, although  they  varied  in  potency
+(18). These highly significant insulin responses to different
+proteins resulted in either no change or a modest decrease in
+glucose concentration. This suggested that an increase in pro-
+tein  content  in  the  diet—particularly  if  associated  with  a
+decrease in carbohydrate content—would result in a decrease
+in the integrated glucose concentration. Such a diet could be
+useful for controlling blood glucose in persons with type 2
+diabetes, provided it does not result in any adverse effects. The
+present data indicate that an increase in dietary protein can
+improve the 24-h integrated glucose concentration and result
+in a significant decrease in glycated hemoglobin over a 5-wk
+period. This time frame was chosen because it represents the
+time required for glycated hemoglobin to decrease by 50% of
+its  ultimate  value  (t1/2 =  33  d)  (19).  In  addition, with  the
+method used to measure total glycated hemoglobin, each 1%
+represents ⬇18 mg glucose/dL integrated over the life span of
+a red blood cell (20). In the present study the decrease in total
+glycated hemoglobin was 0.8%, or ⬇14.5 mg/dL glucose. Thus,
+the final integrated glucose response would be expected to be
+a decrease of ⬇29 mg/dL.
+
+Doubling the protein content of the diet resulted in a doubling
+of the urea-creatinine ratio by week 1. The ratio remained stable
+over the 5 wk of the study. Thus, compliance was excellent. The
+order in which the diets was given did not significantly affect the
+results. Weight stability also was excellent (Figure 1). We consid-
+ered this a critical aspect of the study design because our primary
+goal was to determine the effect of the diet per se on total glycated
+hemoglobin, without the confounding effect of weight loss (or
+gain) or a reduced (or increased) food-energy intake. Blood
+pressure also remained stable throughout the study. On the basis
+of  weight  stability  and  dietary  compliance,
+the  metabolic
+
+changes that occurred after 5 wk of the high-protein diet were
+considered to be attributed to the increase in protein or decrease
+in carbohydrate content of the diet, or both, rather than other
+confounding factors.
+
+The mean fasting glucose concentration at the time the subjects
+were recruited and enrolled in the study was 148 ± 8 mg/dL (8.2 ±
+1 mmol/L) (total glycated hemoglobin = 8.1%). However, at the
+beginning of the first 5-wk study period, the glucose concentra-
+tion had decreased to 114 mg/dL, which is lower than ideal for a
+study designed to show a decrease in glucose concentration. In
+our experience, even though we asked the volunteers not to change
+their diets or eating patterns before beginning the study, it is not
+uncommon for subjects to report for study with a fasting glucose
+concentration lower than when they were recruited (13, 21). The
+reason  for  the  lower  concentration  is  unknown;  there  was  no
+change in body weight. However, we suspect that subtle, uninten-
+tional changes in diet or activity occur because of the increased
+attention paid to the subject and his or her disease. This effect has
+been referred to as the Hawthorn, or intervention, effect (22).
+These changes indicate the need for all studies in which the sub-
+jects have diabetes to be carefully controlled and not merely to be
+observational in nature. The change in fasting glucose also repre-
+sents a potential limitation in interpretation of the data obtained in
+the present study.
+
+The high-protein diet resulted in a glucose concentration that
+was modestly lower after each of the meals. This was most appar-
+ent  after  the  dinner  meal, at  which  time  both  the  insulin  and
+glucagon concentrations were also greater. The net result was a
+statistically significant decrease in the 24-h integrated glucose
+area response, with the fasting value as baseline (Figure 2).
+
+Glucose  excursion  was  lower  after  the  midday  meal, even
+though the carbohydrate content of the lunch meals was only mod-
+estly decreased (82 compared with 69 g for the control diet and
+65 compared with 49 g for the high-protein diet). This indicates an
+increase in insulin sensitivity with a second meal, which may rep-
+resent the so-called Staub-Traugott phenomenon (23, 24).
+
+The prelunch and predinner glucose concentrations were also
+lower than the overnight fasting value; this finding was reported
+previously in persons with type 2 diabetes (25–27). Lower mid-
+day glucose concentrations also have been observed when per-
+sons were fasting (28), but the decrease in concentration was
+less in the persons without diabetes (29, 30). To our knowledge,
+the reason for this circadian variation in glucose has not been
+determined.
+
+The postmeal insulin area responses were modestly but not sta-
+tistically significantly increased with the high-protein diet. These
+increases were less than we anticipated on the basis of single-meal
+and single-day studies. The reason for this is unclear but it may have
+been due to a corresponding decrease in carbohydrate in the diet.
+
+The glucagon area response to the high-protein diet was robust,
+ie, 4-fold  greater  than  with  the  control  diet, with  most  of  the
+increase occurring later in the day (Figure 6). This finding is sim-
+ilar to data obtained in healthy subjects (31). This highly significant
+increase in glucagon would be expected to result in a stimulation
+of gluconeogenesis and glycogenolysis and a subsequent increase
+in circulating plasma glucose concentrations. However, the glucose
+response was less with the high-protein diet. This raises the issue
+of the role of glucagon in the regulation of hepatic glucose pro-
+duction, both after an overnight fast and after meals, as we pointed
+out previously (13). Tachyphylaxis has been reported to occur dur-
+ing a 45-min infusion of glucagon (32). Tachyphylaxis may explain
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/78/4/734/4690022
+by guest
+on 08 August 2018
+
+740
+
+GANNON ET AL
+
+the lack of increase in glucose; however, it needs to be documented
+by determining the endogenous glucose production rate. Note that
+in a single-meal study, ingestion of 50 g beef protein resulted in
+only a very modest increase in the glucose appearance rate, even
+though the glucagon concentration increased briskly (13).
+
+The 24-h NEFA profile was interesting. The NEFA concentra-
+tion rapidly decreased after the breakfast meal and then gradually
+increased throughout the day, with a sharp peak occurring after the
+dinner meal. These increases occurred even though the insulin con-
+centration was elevated over most of this time period. The reason for
+this also is not clear and would appear to be paradoxical. Insulin is
+known to lower the NEFA concentration in a very sensitive fashion
+(33). The decrease in NEFA concentration could have been due to
+hydrolysis of the ingested triacylglycerols by capillary bed lipopro-
+tein lipase activity in response to the higher insulin concentrations
+(34). If so, this phenomenon exceeded the known effect of insulin
+to suppress triacylglycerol hydrolysis in fat cells and to stimulate
+triacylglycerol synthesis and storage in the same cells (35).
+
+It is also interesting that a transient increase in the NEFA con-
+centration occurred after the high-protein breakfast meal. This
+finding was observed previously in single-meal studies of the
+ingestion of protein or protein plus glucose (10, 11, 13, 18, 36).
+However, it has not been a consistent finding (9, 37), and the
+mechanism is unknown.
+
+Over the duration of the present study, no adverse effects were
+noted. However, longer-term studies will be required to properly
+investigate this issue.
+
+The  creatinine  clearance  was  modestly  and  nonstatistically
+signiﬁcantly decreased when the subjects ingested the high-protein
+diet. An increase in dietary protein has been associated with an
+increase in creatinine clearance in subjects with normal kidney
+function. This has been reported in acute (38–42) as well as in
+longer-term (5 d to 3 wk) studies (43–47); however, this is not a
+consistent finding. In a population-based study (48) and in a 6-mo
+outpatient study (49), an increased dietary protein intake was not
+associated with an increase in creatinine clearance. It may be that
+the kidney eventually adapts to an increase in dietary protein;
+however, this possibility requires confirmation in long-term, con-
+trolled, intervention studies.
+
+Total cholesterol, HDL-cholesterol, and LDL-cholesterol con-
+centrations were essentially unchanged with the high-protein diet.
+However, the fasting triacylglycerol concentration decreased by
+20% after 5 wk of the high-protein diet (Figure 8). This finding is
+similar to the decrease reported in a 1-mo study of hyperlipidemic
+people without diabetes who consumed a 27%-protein diet in
+which 11% of total dietary energy from starch was replaced with
+vegetable protein (50). These decreases in triacylglycerol were
+likely due to decreases in dietary carbohydrate (51). Several stud-
+ies reported an increase in triacylglycerol concentrations when
+dietary fat is replaced with carbohydrate. However, the replace-
+ment of fat with protein has been reported to not affect triacyl-
+glycerol concentrations (see reference 51 for a review).
+
+During the review process, it was requested that we reanalyze
+the data to exclude the independent variables of age, body mass
+index, total glycated hemoglobin, duration of diabetes, weight
+change, and treatment with ␤ blockers or diuretics. None of these
+independent variables had an effect on the total percent glycated
+hemoglobin, glucose area, or fasting triacylglycerol concentration—
+the primary outcome variables.
+
+In summary, an increase in the protein content and a decrease
+in the carbohydrate content of the diet for 5 wk resulted in an
+
+improvement in the 24-h integrated net blood glucose area response
+and a statistically significant decrease in glycated hemoglobin in
+subjects with untreated type 2 diabetes. These improvements in glu-
+cose control occurred without a change in body weight. In addition,
+microalbumin and creatinine clearance, indicators of kidney func-
+tion, were unchanged. Furthermore, the triacylglycerol concentra-
+tion decreased, and the total cholesterol and HDL- and LDL-
+cholesterol fractions were unchanged; however, these data must be
+interpreted with caution because some subjects were taking med-
+ications for lipid control. Overall, the data suggest that a high-pro-
+tein diet may improve blood glucose control in persons with type 2
+diabetes. Nevertheless, longer-term studies are necessary to deter-
+mine potential adverse effects of such a diet, if any. The long-term
+acceptability of such a diet should also be determined. Data for
+plasma urea nitrogen, creatinine, ␣ amino nitrogen, uric acid,
+growth hormone, and insulin-like growth factor I and for urinary
+urea, aldosterone, and cortisol is published separately (52).
+
+We thank the subjects for volunteering for these studies, Brenda Tisdale and
+the staff of the SDTU and the Clinical Chemistry Laboratory for excellent tech-
+nical expertise, and Michael A Kuskowski for advice on the statistical analysis
+and presentation of the data. 
+
+MCG and FQN were responsible for designing the experiment, evaluating the sta-
+tistics, interpreting the data, writing the manuscript, and organizing the ﬁgures and
+tables. AS was responsible for recruiting the patients and providing medical care dur-
+ing the study. KJ was responsible for collecting and managing the data, analyzing the
+laboratory data, and managing the patients and samples during the study. HH was
+responsible for designing the diets, interviewing the patients biweekly, and manag-
+ing the diet during the study. MCG, FQN, and HH are full-time employees of the
+Department of Veterans Affairs, Minneapolis. MCG and FQN are members of the
+American Diabetes Association Professional Society. The authors had no afﬁliation
+with the Boards of Directors of the American Diabetes Association or the Minnesota
+Beef Council, the Colorado Beef Council, or the Nebraska Beef Council.
+
+REFERENCES
+
+1. American Heart Association. Dietary guidelines for healthy Ameri-
+can adults. A statement for physicians and health professionals by the
+Nutrition Committee. Circulation 1986;74:1465A–8A.
+
+2. American Diabetes Association. Nutritional recommendations and
+principles for individuals with diabetes mellitus: 1986. Diabetes Care
+1987;10:126–32.
+
+3. American Institute for Cancer Research. Food, nutrition, and the pre-
+vention of cancer: a global perspective. Washington, DC: American
+Institute for Cancer Research, 1997.
+
+4. US Department of Agriculture. Nutrition and your health: dietary
+guidelines for Americans. Hyattsville, MD: USDA Human Nutrition
+Information Service, 1995.
+
+5. Jacobsen ATB.  Untersuchungen  uber  den  Einfluss  verschiedener
+Nahrungsmittel auf den Blutzucker bei normalen, zuckerkranken und
+graviden Personen. (Investigations of the influence of different foods
+on  the  blood  sugar  in  normal, diabetic  and  pregnant  persons.)
+Biochem Z 1913;56:471–94 (in German).
+
+6. MacLean H. Modern methods in the diagnosis and treatment of gly-
+
+cosuria and diabetes. London: Constable & Co, Ltd, 1924.
+
+7. Conn JW, Newburgh LH. The glycemic response to isoglucogenic
+quantities of protein and carbohydrate. J Clin Invest 1936;15:665–71.
+8. Nuttall FQ, Gannon MC. Plasma glucose and insulin response to
+macronutrients in nondiabetic and NIDDM subjects. Diabetes Care
+1991;14:824–38.
+
+9. Westphal SA, Gannon MC, Nuttall FQ. The metabolic response to
+glucose ingested with various amounts of protein. Am J Clin Nutr
+1990;52:267–72.
+
+10. Gannon  MC, Nuttall  FQ, Lane  JT, Burmeister  LA.  Metabolic
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/78/4/734/4690022
+by guest
+on 08 August 2018
+
+HIGH-PROTEIN DIET AND GLUCOSE CONTROL
+
+741
+
+response to cottage cheese or egg white protein, with or without glu-
+cose in type 2 diabetic subjects. Metabolism 1992;41:1137–45.
+
+and alpha-amino acid nitrogen response to various diets in normal
+humans. Am J Clin Nutr 1980;33:1917–24.
+
+11. Khan MA, Gannon MC, Nuttall FQ. Glucose appearance rate follow-
+ing protein ingestion in normal subjects. J Am Coll Nutr 1992;11:
+701–6.
+
+12. Gannon MC, Nuttall FQ, Grant CT, Ercan-Fang S, Ercan-Fang N.
+Stimulation of insulin secretion by fructose ingested with protein in
+people with untreated NIDDM. Diabetes Care 1998;21:16–22.
+
+13. Gannon MC, Nuttall JA, Damberg G, Gupta V, Nuttall FQ. Effect of
+protein ingestion on the glucose appearance rate in subjects with
+type 2 diabetes. J Clin Endocrinol Metab 2001;86:1040–7.
+
+14. Nuttall FQ, Mooradian AD, Gannon MC, Billington CJ, Krezowski PA.
+Effect of protein ingestion on the glucose and insulin response to a
+standardized oral glucose load. Diabetes Care 1984;7:465–70.
+
+15. Holtschlag  DJ, Gannon  MC, Nuttall  FQ.  State-space  models  of
+insulin and glucose responses to diets of varying nutrient content in
+men and women. J Appl Physiol 1998;85:935–45.
+
+16. National Diabetes Data Group. Classification and diagnosis of dia-
+betes mellitus and other categories of glucose intolerance. Diabetes
+1979;28:1039–57.
+
+17. Fuller G, Parker R. Approximate integration. Analytical geometry and
+calculus. Princeton, NJ: Van Nostrand, 1964:367–8. (Applications
+13–16.)
+
+18. Gannon MC, Nuttall FQ, Neil BJ, Westphal SA. The insulin and glu-
+cose responses to meals of glucose plus various proteins in type II
+diabetic subjects. Metabolism 1988;37:1081–8.
+
+19. Rech ME. Observations on the decay of glycated hemoglobin HbA1c
+in diabetic patients. Exp Clin Endocrinol Diabetes 1996;104:102–5.
+20. Nuttall FQ. A comparison of percent total glycohemoglobin with per-
+cent  HbA1c in  people  with  and  without  diabetes.  Diabetes  Care
+1998;21:1475–80.
+
+21. Saeed  A, Jones  S, Nuttall  FQ, Gannon  MC.  A  fasting-induced
+decrease in plasma glucose concentration does not affect the insulin
+response to ingested protein in people with type 2 diabetes. Metabo-
+lism 2002;51:1027–33.
+
+22. Dawson B, Trapp RG. Basic and clinical biostatistics. New York:
+
+McGraw Hill, 2000:17.
+
+23. Staub H. Unterschungen über den Zuckerstoffwechsel des Menschen:
+I. Mitteilung.  (Investigations  of  human  glucose  metabolism.  I.
+Announcement.) Z Klin Med 1921;91:44–60 (in German).
+
+24. Traugott  K.  Überdas  Verhalten  des  Blutzuckerspiegels  bei
+wiedersholter und verschiedener Art enteralier Zuckerzufuhr und
+dessen Bedeutung fur die Leber function. (About the blood glucose
+level pattern with repeated and different combinations of enteric sugar
+influx and its importance for liver function.) Klin Wochenschr 1922;
+1:892–4 (in German).
+
+25. Turner RC, Mann JL, Simpson RD, Harris M. Fasting hyperglycemia
+and  relatively  unimpaired  meal  responses  in  mild  diabetes.  Clin
+Endocrinol 1977;6:253–64.
+
+26. Holman RR, Turner RC. The basal plasma glucose: a simple relevant
+index of maturity-onset diabetes. Clin Endocrinol 1980;14:279–86.
+27. Gannon MC, Nuttall FQ, Westphal SA, Fang S, Ercan-Fang N. Acute
+metabolic response to high carbohydrate, high starch meals compared
+to moderate carbohydrate, low starch meals in subjects with type 2
+diabetes. Diabetes Care 1998;21:1619–26.
+
+28. Gannon MC, Nuttall FQ, Lane JT, Fang S, Gupta V, Sandhofer C.
+Effect  of  twenty-four  hours  of  starvation  on  plasma  glucose  and
+insulin concentrations in people with untreated non-insulin-depend-
+ent diabetes mellitus. Metabolism 1996;45:492–7.
+
+29. Nuttall FQ, Khan MA, Gannon MC. Peripheral glucose appearance
+rate following fructose ingestion in normal subjects. Metabolism
+2000;49:1565–71.
+
+30. Gannon MC, Khan MA, Nuttall FQ. Glucose appearance rate after
+
+the ingestion of galactose. Metabolism 2001;50:93–8.
+
+31. Ahmed M, Nuttall FQ, Gannon MC, Lamusga RF. Plasma glucagon
+
+32. Felig  P, Wahren  J, Hendler  R.  Influence  of  physiologic  hyper-
+glucagonemia on basal and insulin-inhibited splanchnic glucose out-
+put in normal man. J Clin Invest 1976;58:761–5.
+
+33. Stumvoll M, Jacob S, Wahl HG, et al. Suppression of systemic, intra-
+muscular, and subcutaneous adipose tissue lipolysis by insulin in
+humans. J Clin Endocrinol Metab 2000;85:3740–5.
+
+34. Semenkovich  CF.  Nutrient  and  genetic  regulation  of  lipoprotein
+metabolism. In: Shils ME, Olson JA, Shike M, Ross AC, eds. Mod-
+ern nutrition in health and disease. 9th ed. Philadelphia: Lippincott
+Williams & Wilkins, 1999:1191–7.
+
+35. Stryer L. Integration of metabolism. Biochemistry. 4th ed. New York:
+
+WH Freeman and Company, 1995:763–84.
+
+36. Nuttall FQ, Gannon MC. Metabolic response to egg white and cot-
+tage cheese protein in normal subjects. Metabolism 1990;39:749–55.
+37. Krezowski PA, Nuttall FQ, Gannon MC, Bartosh NH. The effect of
+protein ingestion on the metabolic response to oral glucose in normal
+individuals. Am J Clin Nutr 1986;44:847–56.
+
+38. Kim Y, Linkswiler HM. Effect of level of protein intake on calcium
+metabolism and on parathyroid and renal function in the adult human
+male. J Nutr 1979;109:1399–404.
+
+39. Jones G, Lee KC, Swaminathan R. Glomerular filtration response to
+
+acute protein load. Lancet 1985;12:838.
+
+40. Hostetter TH. Human renal response to a meat meal. Am J Physiol
+
+1986;250:F613–8.
+
+41. Dhaene M, Sabot J-P, Philippart Y, Doutrelepont J-M, Vanherweghem J-L.
+Effects of acute protein loads of different sources on glomerular fil-
+tration rate. Kidney Int 1987;32:S25–8.
+
+42. Nakamura H, Ito S, Ebe N, Shibata A. Renal effects of different types
+of protein in healthy volunteer subjects and diabetic patients. Dia-
+betes Care 1993;16:1071–5.
+
+43. Addis T, Barrett E, Poo LJ, Ureen HJ, Lippman RW. The relation
+between protein consumption and diurnal variations of the endoge-
+nous creatinine clearance in normal individuals. J Clin Invest 1951;
+30:206–9.
+
+44. Pullman TN, Alving AS, Dern RJ, Landowne M. The influence of
+dietary protein intake on specific renal functions in normal man.
+J Lab Clin Med 1954;44:320–32.
+
+45. Bosch JP, Saccaggi A, Lauer A, Ronco C, Belledonne M, Glabman S.
+Renal  functional  reserve  in  humans.  Effect  of  protein  intake  on
+glomerular filtration rate. Am J Med 1983;75:943–50.
+
+46. Kontessis P, Jones S, Dodds R, et al. Renal, metabolic and hormonal
+responses to ingestion of animal and vegetable proteins. Kidney Int
+1990;38:136–44.
+
+47. Pomerleau J, Verdy M, Garrel DR, Nadeau MH. Effect of protein
+intake on glycemic control and renal function in type 2 (non-insulin
+dependent) diabetes mellitus. Diabetologia 1993;36:829–34.
+
+48. Riley MD, Dwyer T. Microalbuminuria is positively associated with
+usual dietary saturated fat intake and negatively associated with usual
+dietary protein intake in people with insulin-dependent diabetes mel-
+litus. Am J Clin Nutr 1998;67:50–7.
+
+49. Westman EC, Yancy WS, Edman JS, Tomlin KF, Perkins CE. Effect
+of 6-month adherence to a very low carbohydrate diet program. Am
+J Med 2002;113:30–6.
+
+50. Jenkins DJA, Kendall CWC, Vidgen E, et al. High-protein diets in
+hyperlipidemia: effect of wheat gluten on serum lipids, uric acid, and
+renal function. Am J Clin Nutr 2001;74:57–63.
+
+51. Parks EJ, Hellerstein MK. Carbohydrate-induced hypertriacylglyc-
+erolemia: historical perspective and review of biological mechanisms.
+Am J Clin Nutr 2000;71:412–33.
+
+52. Nuttall FQ, Gannon MC, Saeed A, Jordan K, Hoover H. The meta-
+bolic response of subjects with type 2 diabetes to a high-protein,
+weight-maintenance diet. J Clin Endocrinol Metab 2003;88:3577–83.
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/78/4/734/4690022
+by guest
+on 08 August 2018
+
+

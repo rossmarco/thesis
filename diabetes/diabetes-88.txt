@@ -1,0 +1,815 @@
+Diabetes  &  Metabolic  Syndrome:  Clinical  Research  &  Reviews  10S  (2016)  S26–S29
+
+Contents  lists  available  at  ScienceDirect
+
+Diabetes  &  Metabolic  Syndrome:  Clinical  Research  &
+
+Reviews
+
+j o  u r  n  a l  h  o  m e p  a g  e :  w w w  . e l s e v i e r  . c  o m  / l o c  a t e / d  s  x
+
+Mediterranean  diet  and  metabolic  syndrome  prevalence
+in  type  2  diabetes  patients  in  Ahvaz,  southwest  of  Iran
+
+Masoud  Veissi a,  Razieh  Anari b,*,  Reza  Amani c,  Hajieh  Shahbazian c,
+Seyed  Mahmoud  Latiﬁ c
+a Health  Research  Institute,  Nutrition  and  Metabolic  Disease  Research  Center,  Ahvaz  Jundishapur  University  of  Medical  Sciences,  Ahvaz,  Iran
+b Arvand  International  Division,  Nutrition  Department,  Ahvaz  Jundishapur  University  of  Medical  Sciences,  Ahvaz,  Iran
+c Health  Research  Institute,  Diabetes  Research  Center,  Ahvaz  Jundishapur  University  of  Medical  Sciences,  Ahvaz,  Iran
+
+A  R  T  I  C  L  E 
+
+I  N  F  O
+
+A  B  S  T  R  A  C  T
+
+Keywords:
+Cardiovascular  disease
+Dietary  patterns
+Mediterranean  diet
+Metabolic  syndrome
+Type  2  diabetes  mellitus
+
+Aims:  Metabolic  syndrome  as  a  cardiovascular  disease  predictor,  is  proposed  to  be  reduced  by  following
+a  Mediterranean  diet.  This  study  was  aimed  to  explore  the  relationships  between  metabolic  syndrome
+and  Mediterranean  diet  in  type  2  diabetes  mellitus  patients.
+Materials:  A  cross-sectional  study  was  performed  on  158  type  2  diabetes  mellitus  patients  28–75  years
+old  (mean  age:  54.3    9.6  yrs).  Fasting  glucose  and  lipid  proﬁle  were  measured.  Blood  pressure  and
+anthropometric  characteristics  of  each  participant  were  recorded.  Food  frequency  questionnaires  were
+evaluated  using  an  11-item  score  to  determine  the  adherence  to  Mediterranean  diet.
+Results:  Totally,  55.4%  of  participants  had  a  good  adherence  to  Mediterranean  diet.  The  risk  of  metabolic
+syndrome  in  women  was  signiﬁcantly  higher  than  in  men  (OR  =  8.65,  CI  95%  =  2.88–25.99;  p  <  0.001).
+Nuts,  legumes  and  seeds  consumption  were  associated  with  a  signiﬁcant  lower  risk  of  metabolic
+syndrome  (OR  =  0.42,  CI  95%  =  0.188–0.917;  p  <  0.05).  No  considerable  association  was  observed
+between  metabolic  syndrome  and  adherence  to  Mediterranean  diet  (p  =  0.167).
+Conclusions:  Results  demonstrated  no  association  between  Mediterranean  diet  adherence  and
+metabolic  syndrome  in  type  2  diabetes  mellitus  patients.  However,  nuts,  legumes  and  seeds  might
+have  greater  beneﬁts  for  diabetics.
+
+ß  2016  Diabetes  India.  Published  by  Elsevier  Ltd.  All  rights  reserved.
+
+1.  Introduction
+
+Type  2  diabetes  mellitus  (T2DM)  is  one  of  the  main  causes  of
+cardiovascular  disease  (CVD)  [1]  and  one  of  the  key  components  of
+metabolic  syndrome  (Met  S),  a  collection  of  cardiovascular  disease
+risk  factors,  including  low  High  density  lipoprotein  cholesterol
+(HDL-C),  elevated  triglycerides,  elevated  blood  pressure,  central
+adiposity,  and  elevated  fasting  blood  glucose  [2].
+
+CVD  is  responsible  for  about  one  third  of  all  deaths  among
+diabetics  [3].  In  2010,  the  prevalence  of  Met  S  amongst  T2DM
+patients  in  Ahvaz  was  estimated  73.1%  and  64.9%  according  to
+National  Cholesterol  Education  Program  Adult  Treatment  Panel  III
+(NCEP  ATP-III)  and  International  Diabetes  Federation  (IDF)  criteria,
+
+* Corresponding  author  at:  Arvand 
+
+Nutrition,  School  of  Paramedicine,  Ahvaz 
+Sciences,  Ahvaz,  Iran.  Tel.:  +98  9381759835.
+
+International  Division,  Department  of
+Jundishapur  University  of  Medical
+
+E-mail  address:  Raziehanari85@yahoo.com  (R.  Anari).
+
+http://dx.doi.org/10.1016/j.dsx.2016.01.015
+1871-4021/ß  2016  Diabetes  India.  Published  by  Elsevier  Ltd.  All  rights  reserved.
+
+respectively  [4].  This  indicates  an  alarming  situation  of  CVD
+outcomes  in  the  near  future  that  requires  immediate  preventive
+strategies.
+
+According  to  a  systematic  review,  the  Mediterranean  diet  (MD)
+was  the  most  likely  dietary  model  protecting  against  coronary
+heart  disease  [5].  An  inverse  association  between  MD  scores  and
+cardiovascular  and  neurodegenerative  diseases  and  some  types  of
+cancer  has  been  suggested  [6,7].  Moreover,  it  seems  that  MD  has  a
+favorable  effect  on  development  of  the  Met  S  [8].
+
+MD  is  originated  from  the  traditional  diet  of  olive  growing
+Mediterranean  region,  where  was  historically  among  the  lowest
+chronic  disease  incidences  and  the  highest  life  expectancies  in  the
+world  [9].  This  diet  consists  of  high  consumption  of  whole  grains,
+legumes,  vegetables,  fruits  and  cereals,  nuts,  seeds  and  olive  oil  as
+the  main  dietary  fat,  moderate  intake  of  ﬁsh  and  poultry,  up  to  four
+eggs  in  a  week,  moderate  to  low  consumption  of  meat  and  dairy
+products,  and  rarely  sweet  or  honey  consumption  [10].
+
+Up  to  now,  few  studies  have  explored  the  beneﬁts  of  following
+a  Mediterranean-type  diet  on  cardiovascular  health  of  T2DM
+
+M.  Veissi  et  al.  /  Diabetes  &  Metabolic  Syndrome:  Clinical  Research  &  Reviews  10S  (2016)  S26–S29 
+
+S27
+
+in 
+
+frequently  evaluated 
+
+patients.  A  recent  clinical  trial 
+Italy  demonstrated  more
+controlled  coronary  risk  factors  in  T2DM  patients  adhered  to
+MD  in  comparison  to  a  low-fat  diet  [11].  MD  association  with  Met  S
+has  been 
+in  Mediterranean  population.
+Although,  only  few  studies  have  assessed  this  relationship  in
+non-Mediterranean  populations  [12–14],  especially  in  diabetics
+[15–17].  This  was  the  ﬁrst  study  examined  the  association
+between  metabolic  syndrome  prevalence  in  relation  to  following
+the  Mediterranean  diet  in  a  group  of  Iranian  T2DM  patients.  It
+would  expand  the  knowledge  on  applicability  of  this  dietary
+pattern  to  control  CVD  risk  factors  in  this  population.
+
+1.1.  Subjects
+
+Participants  were  158  T2DM  outpatients  attending  to  Diabetes
+Clinic  of  Golestan  Hospital,  Ahvaz,  Khuzestan  province,  Iran.  All
+participants  provided  a  written  consent  form  before  participation.
+The  study  was  approved  by  Ahvaz  Jundishapur  University  Research
+Ethics  Committee  (Ethic  code:  IR.ajums.rec.1394.55).
+
+2.  Materials  and  methods
+
+Inclusion  criteria  were  included  previously  diagnosed  diabetes
+by  a  general  practitioner  on  the  basis  of  the  ADA  (American
+Diabetes  Association)  criteria  [18],  age  between  20  and  75  years,
+and  being  treated  with  diet  or  oral  hypoglycemic  agents.  Insulin
+therapy;  dietary  changes  within  the  last  three  months;  cardiovas-
+cular  events  in  the  last  year;  having  cancer  or  any  serious  disease
+were  considered  as  exclusion  criteria.
+
+After  12  h  fasting,  5  mL  venous  blood  samples  were  collected
+from  all  participants.  Samples  were  analyzed  for  fasting  blood
+sugar  (FBS),  total  cholesterol,  HDL-C,  low  density  lipoprotein
+cholesterol  (LDL-C)  and  triglycerides  (TG)  levels  using  standard-
+ized  enzymatic  colorimetric  and  photometric  methods.  All
+biochemical  analyses  were  performed  at  the  Central  Laboratory
+of  Health  Research  Institute,  University  Diabetes  Research  Center.
+Serum  Cholesterol,  TG,  FBS,  and  HDL-C  was  measured  by
+enzymatic  methods  (Pars  Azmun  kits,  Pars  Azmun  Co.,  Karaj,  Iran)
+using  auto-analyzer  (B.T.  3000,  Biotecnica  instruments,  Italy).
+Friedewald  equation  was  used  to  calculate  LDL-C  levels  [19].
+
+Data  on  age,  sex,  smoking  status,  physical  activity,  and
+anthropometric  measures  was  recorded  for  each  participant.
+Physical  activity  was  extracted  using  the  International  Physical
+Activity  Questionnaire  as  MET-min/week  [20].  Anthropometric
+measurements,  including  weight,  height,  body  fat  percentage  and
+waist-circumference  (WC)  were  measured  by  a  trained  dietician.
+Weight  and  body  fat  percentage  were  measured  with  minimal
+cloth  without  shoes,  using  a  digital  scale  and  recorded  to  the
+nearest  100  g  (Omron  212,  Omron  Corp.,  range  0.1–150  kg,
+Germany).  Height  was  measured  using  a  tape  meter  without
+shoes  and  recorded  to  the  nearest  0.1  cm.  Body  mass  index  (BMI)
+was  calculated  as  weight  in  kg  divided  by  squared  height  in  meter
+(kg/m2).  WC  was  measured  at  the  narrow  middle  part  between  the
+lowest  rib  and  the  iliac  crest  over  light  clothing,  using  a  ﬂexible
+tape  measure,  without  any  pressure  to  body  surface  and  was
+recorded  to  the  nearest  0.1  cm.  Waist-height  ratio  (WHtR)  was
+calculated  by  dividing  waist  in  meter  by  height  in  meter.
+
+A  validated  86-item  food  frequency  questionnaire  (FFQ)  was
+used  to  assess  usual  dietary  intake  of  the  participants  over  the  past
+year.  USDA  (US  Department  of  Agriculture)  serving-sizes  or
+household  measures  were  used  to  record  each  food  item.  The
+FFQ  was  ﬁlled  by  a  trained  nutritionist.  Then  the  reported  portion-
+size  was  converted  to  grams,  and  the  nutrients  and  energy  content
+were  then  calculated  by  Nutritionist  IV  (N4)  software  (version  4.0;
+N-squared  Computing,  Salem,  OR,  USA)  modiﬁed  according  to  the
+Iranian  Food  Composition  Table  [21].  FFQs  were  scored  according
+
+Table  1
+Basic  characteristics  of  the  participants.
+
+Variables 
+
+Mediterranean  score 
+Female/male 
+Age  (yrs) 
+Diabetes  duration  (yrs) 
+Age  at  diagnosis  (yrs) 
+BMI  (kg/m2) 
+WC  (cm) 
+WHtR 
+Body  fat% 
+Metabolic  syndrome
+
+(%)a
+
+Laboratory  data
+
+FBS  (mg/dL) 
+Total  chol  (mg/dL) 
+TG  (mg/dL) 
+HDL-C  (mg/dL) 
+LDL-C  (mg/dL) 
+SBP  (mmHg) 
+DBP  (mmHg) 
+PAL(MET-min/week) 
+
+Dietary  intake
+
+Energy 
+CHO  (%) 
+Protein  (%) 
+Fat  (%) 
+SFA  (%) 
+MUFA  (%) 
+PUFA  (%) 
+Fiber  (g) 
+Soluble  ﬁber  (g) 
+Insoluble  ﬁber  (g) 
+MUFA:SFA 
+
+Low  adherence
+to  MD
+(n  =  70)
+
+18.19  (2.56) 
+51/19 
+54.31  (9.96) 
+6.44  (6.40) 
+47.779  (10.78) 
+29.06  (4.64) 
+98.01  (10.03) 
+0.62  (0.07) 
+37.38  (9.47) 
+88.6% 
+
+High  adherence
+to  MD
+(n  =  87)
+
+26.43  (3.14) 
+53/34 
+54.59  (8.97) 
+6.29  (6.68) 
+48.19  (9.58) 
+29.42  (5.36) 
+98.87  (10.38) 
+0.61  (0.08) 
+35.54  (10.73) 
+80.5% 
+
+151.50  (55.91) 
+168.94  (36.25) 
+150.94  (68.66) 
+43.23  (9.42) 
+95.71  (29.91) 
+131.67  (19.75) 
+84.36  (11.27) 
+1249.516  (2021.52) 
+
+162.39  (82.74) 
+175.03  (40.78) 
+160.06  (99.28) 
+44.82  (10.03) 
+99.87  (31.56) 
+129.21  (18.31) 
+82.60  (10.06) 
+1221.87  (2196.22) 
+
+p  value
+
+<0.001**
+
+0.116
+0.858
+0.887
+0.800
+0.656
+0.601
+0.565
+0.258
+0.167
+
+0.348
+0.515
+0.330
+0.313
+0.403
+0.420
+0.304
+0.935
+
+2422.51  (812.0) 
+59.09  (8.23) 
+12.54  (2.00) 
+28.29  (8.50) 
+5.79  (2.13) 
+8.21  (3.79) 
+9.94  (4.82) 
+17.15  (7.32) 
+0.45  (0.38) 
+2.58  (2.02) 
+1.42  (0.44) 
+
+2726.46  (910.58) 
+57.14  (9.34) 
+13.97  (2.16) 
+28.68  (9.25) 
+6.17  (2.29) 
+8.90  (3.81) 
+9.18  (4.64) 
+24.61  (8.72) 
+0.67  (0.48) 
+4.12  (2.65) 
+1.44  (0.45) 
+
+0.031*
+0.173
+
+<0.001**
+
+0.785
+0.280
+0.265
+0.318
+
+<0.001**
+0.002*
+<0.001**
+
+0.869
+
+Values  are  mean  (SD)  unless  speciﬁed.
+BMI,  body  mass  index;  CHO,  carbohydrate;  Chol,  cholesterol;  cm,  centimeter;  DBP,
+diastolic  blood  pressure;  FBS,  fasting  blood  sugar;  g,  gram;  HDL-C,  high  density
+lipoprotein  cholesterol;  LDL-C,  low  density  lipoprotein  cholesterol;  yrs,  years;
+MUFA,  mono  unsaturated  fatty  acid;  PUFA,  poly  unsaturated  fatty  acid;  SBP,  systolic
+blood  pressure;  SFA,  saturated  fatty  acid;  TG,  triglyceride;  WC,  waist  circumfer-
+ence;  WHtR,  waist-height  ratio.
+
+a Diagnosed  based  on  IDF  (2006)2.
+* p  <  0.05.
+** p  <  0.001.
+
+to  an  11-item  validated  Mediterranean  diet  scoring  system
+[22].  Each  item  was  scored  from  0  to  4,  according  to  the  protocol.
+Over-  or  under-reporters  were  determined  as  having  3  standard
+deviation  (SD)  of  the  mean  energy  intake.
+
+Results  of  the  quantitative  variables  were  reported  as  mean    SD,
+and  categorical  variables  were  presented  as  percentage.  Categorical
+
+Table  2
+Difference  in  Mediterranean  diet  components  between  two  adherence  groups.
+
+Mediterranean
+diet  components
+
+High  adherence
+to  MD
+
+Low  adherence
+to  MD
+
+p  value
+
+Whole  grain  (ex/d) 
+Vegetables  (ex/d) 
+Fruits  (ex/d) 
+Nuts,  legumes,  seeds  (ex/d) 
+Olive  (time/d) 
+Dairy(ex/d) 
+Meat  (ex/wk) 
+Poultry  (ex/wk) 
+Egg  (no./  wk) 
+Fish  (ex/wk) 
+Sweets  (Time/wk( 
+
+0.34  (0.64) 
+2.15  (1.50) 
+2.87  (2.21) 
+0.52  (0.44) 
+0.16  (0.30) 
+1.45  (1.14) 
+2.39  (2.48) 
+1.93  (1.63) 
+1.79  (2.05) 
+1.63  (1.78) 
+12.23  (8.27) 
+
+0.96  (2.54) 
+3.82  (1.68) 
+4.01  (2.23) 
+0.95  (0.67) 
+0.68  (0.86) 
+2.22  (1.06) 
+2.27  (2.68) 
+2.79  (2.23) 
+1.65  (1.42) 
+3.09  (2.98) 
+7.61  (9.64) 
+
+0.031*
+0.000**
+0.002*
+0.000**
+0.000**
+0.000**
+0.773
+0.007*
+0.626
+0.000**
+0.002*
+
+Values  are  Mean  (SD)  unless  speciﬁed.  D,  day;  ex,  exchange;  MD,  Mediterranean
+diet;  No.,  number;  Wk,  week.
+
+* P  <  0.05
+** P  <  0.001
+
+S28
+
+M.  Veissi  et  al.  /  Diabetes  &  Metabolic  Syndrome:  Clinical  Research  &  Reviews  10S  (2016)  S26–S29
+
+Table  3
+Consumption  of  MD  components  in  relation  to  metabolic  syndrome.
+
+Food  groups  (ex) 
+
+Frequency 
+
+Groups 
+
+95%  CI 
+
+p  value
+
+Whole  grains 
+Vegetables 
+Fruits 
+Nuts,  seeds,  legumes 
+Olive 
+Dairy 
+Meat 
+Poultry 
+Eggs 
+Fish 
+Sweets 
+Values  are  mean   SD.
+CI,  conﬁdence  interval;  ex,  exchange;  Met  S,  metabolic  syndrome.
+
+Daily 
+Daily 
+Daily 
+Daily 
+Daily 
+Daily 
+Weekly 
+Weekly 
+Weekly 
+Weekly 
+Weekly 
+
+Without  Met  S  (n  =  25) 
+0.73   1.93 
+2.84   1.8 
+3.63   2.8 
+1.04   0.97 
+0.55   0.8 
+1.95   0.9 
+2.53   2.3 
+2.74   1.9 
+1.83   1.9 
+2.21   2.6 
+6.97   7.1 
+
+* Values  less  than  0.05  are  considered  signiﬁcant.
+
+variables  were  compared  using  chi-squared  test  and  t-test  was  utilized
+for  analyzing  quantitative 
+independent  variables.  All  statistical
+analyses  were  performed  using  SPSS  software  (version  21.0;  SPSS
+Inc.,  Chicago,  IL,  USA).  Descriptive  statistics  were  used  for  participant
+characteristics  across  the  scores  of  MD  adherence.  Patients  were
+classiﬁed  into  two  groups  based  on  MD  scores  median:  equal  or  less
+than  21  (as  low  adherent)  and  22  or  over  (as  high  adherent).  In  binary
+logistic  regression,  MD  scores  were  deﬁned  as  the  exposure  and  Met  S
+existence  as  dependent  variable.  Two-tailed  p-values  were  used  and
+ﬁgures  less  than  0.05  were  determined  as  signiﬁcant.
+
+3.  Results
+
+Totally,  158  patients  entered  the  study.  After  energy  adjust-
+ment  (mean    3SD),  one  participant  was  excluded  from  the  analysis,
+then  the  ﬁnal  sample  was  157  T2DM  patients  (53  males  and
+104  females)  aged  29–75  years.  The  prevalence  of  Met  S  in  total  study
+population  was  84.1%  according  to  IDF  predeﬁned  criteria  (93.3%  in
+men  and  66%  in  women).  More  than  half  of  participants  had  a  good
+adherence  to  MD  pattern  (55.4%).
+
+Two  groups  of  adherence  to  MD  (low  and  high)  were
+examined  for  detecting  any  difference  in  Met  S  rate,  physical
+activity,  biochemical  and  anthropometric  measures.  High
+adherents  had  8.1%  lower  prevalence  of  Met  S  (p  =  0.17),  but
+there  was  no  signiﬁcant  difference  between  the  study  groups
+after  adjustment  for  energy,  macronutrient 
+intake,  physical
+activity,  age  and  sex  (88.6%  vs.  80.5%;  OR  =  1.67;  CI  =  0.61–476;
+p  =  0.314)  (Table  1).
+
+Systolic  and  diastolic  blood  pressures  were  not  different  based
+on  MD  adherence  status.  High  adherents  had  more  energy  intake
+than  low  adherents  (p  =  0.03)  (Table  1).
+
+Logistic  regression  illustrated  higher  possibility  of  metabolic
+syndrome  in  females  than  in  males  (OR  =  8.6;  CI  95%  =  2.87–25.99;
+p  <  0.001).
+
+Protein  (r  =  0.35)  and  ﬁber  (r  =  0.46)  intakes  were  signiﬁcantly
+higher  in  high  adherents  (p  <  0.001  for  both)  (Table  1)  and  were
+related  to  Met  S  (p  <  0.001  for  both  groups).
+
+Participants  had  signiﬁcantly  different  consumption  of  MD
+components  (p  <  0.05),  except  for  meat  (p  =  0.77)  and  egg  (p  =  0.63)
+which  showed  a  similar  pattern  in  both  adherence  groups  (Table  2).
+Logistic  regression  demonstrated  that  the  consumption  of  nuts,
+legumes  and  seeds  was  different  in  the  Met  S  group  than  that  of  the
+non-Met  S  group  (OR  =  0.415;  CI:  0.19–0.92;  p  =  0.03),  but  the
+other  components  of  MD  did  not  show  any  signiﬁcant  variation.
+Difference  in  sweets  intake  between  Met  S  and  non-Met  S  groups
+was  near  signiﬁcant  (p  =  0.07)  (Table  3).
+
+With  Met  S  (n  =  131)
+0.67   1.97 
+3.12   1.8 
+3.476   2.2 
+0.70   0.51 
+0.43   0.7 
+1.86   1.2 
+2.28   2.6 
+2.35   2.1 
+1.69   1.7 
+2.48   2.6 
+10.17   9.6 
+
+0.76–1.22 
+0.89–1.57 
+0.82–1.31 
+0.19–0.92 
+0.49–2.54 
+0.62–1.59 
+0.75–1.19 
+0.72–1.14 
+0.74–1.34 
+0.88–1.31 
+0.99–1.13 
+
+0.757
+0.255
+0.773
+0.03*
+0.797
+0.976
+0.633
+0.387
+0.966
+0.483
+0.071
+
+4.  Discussion
+
+Previous  studies  have  found  possible  beneﬁcial  effects  of
+following  MD  on  Met  S  and  CVD  risks  in  general  population.  Few
+studies  have  suggested  the  beneﬁcial  effect  of  MD  on  some  CVD
+risk  factors  in  T2DM  patients  [23–25].  Recently,  a  prospective
+cohort  revealed  the  lower  rates  of  total  and  CVD  mortality  in
+diabetic  subjects  following  the  traditional  MD  [26].
+
+Current  study  demonstrated  no  association  between  MD  and
+metabolic  syndrome  in  a  group  of  type  2  diabetics.  It  was  suggested
+that  women  were  at  higher  risk  for  Met  S,  like  previous  ﬁnding  in
+general  population  [27].  The  results  also  demonstrated  nuts,
+legumes,  or  seeds  consumption  as  protective  items  against  CVD.
+This  was  in  line  with  researches  identiﬁed  nuts  as  healthy  foods
+against  Met  S  [25,28–30].  Having  some  MD  foods  far  from  original
+MD  (e.g.  for  olive  oil,  meat  and  sweets),  consuming  inappropriate
+food  items,  such  as  whole  fat  dairies,  high  glycemic  index  fruits  and
+grain  products  containing  sugars  and  saturated  fats,  and  taking
+excess  energy  may  be  responsible  for  showing  no  association  with
+Met  S  in  the  present  study.  Elevated  energy  consumption  could
+result  in  high  BMI  and  WC,  which  subsequently  could  increase
+insulin  resistance  [31,32],  glucose  and  lipid  abnormalities  [33],  and
+blood  pressure  [34],  all  the  components  of  Met  S.  Therefore,  when
+recommending  MD,  it  is  important  to  make  a  correct  choice  from
+each  food  group  and  to  consider  the  overall  energy  intake.  However,
+MD  has  some  considerable  effects  on  cardiovascular  system,  such  as
+high  antioxidant  capacity  that  lowers  the  inﬂammatory  reactions
+[35],  high  ﬁbre  [36]  and  oleic  acid  content  [37]  which  promote
+cardiovascular  health.  In  a  clinical  trial,  MD  also  declined  oxidative
+damage  to  lipids  and  DNA  in  Met  S  individuals  [38].
+
+Finally,  as 
+
+the  observational  design  of 
+
+Therefore,  nuts,  legumes  and  seeds  consumption  could  be
+advised  by  clinicians  in  this  population.  Also,  diabetic  women
+should  be  especially  targeted  for  metabolic  syndrome  treatment.
+the  study,  more
+investigations  should  be  performed  before  making  decision  about
+MD  inclusion  in  current  dietary  recommendations  for  diabetics  in
+our  population.  Further  well-designed  studies  especially  long  term
+interventions  with  larger  sample  sizes  in  Iran  and  other  non-
+Mediterranean  countries  are  highly  required  for  better  under-
+standing  of  the  potential  health  beneﬁts  for  diabetic  patients  and
+its  underlying  mechanisms.
+
+Funding  source
+
+Funding  support  was  provided  by  the  Vice-Chancellor  for
+Jundishapur  University  of  Medical
+
+Research  affair  of  Ahvaz 
+Sciences  (grant  no.  B-94011).
+
+M.  Veissi  et  al.  /  Diabetes  &  Metabolic  Syndrome:  Clinical  Research  &  Reviews  10S  (2016)  S26–S29 
+
+S29
+
+Acknowledgements
+
+This  work  is  a  part  of  Razieh  Anari’s  MSc  thesis.  The  authors
+acknowledge  the  funding  support  from  the  Vice-Chancellor  for
+Research  affair  of  Ahvaz 
+Jundishapur  University  of  Medical
+Sciences.  The  authors  declare  their  appreciation  to  all  participants
+and  the  personnel  of  Golestan  diabetes  clinic.  Special  thanks  to
+staff  of  Health  Research  Institute,  Diabetes  Research  Center,  Mrs.
+Hardani  and  Mrs.  Moradi  for  their  contribution  in  laboratory
+analyses.
+
+Conﬂict  of  interest:  The  authors  have  none  to  declare.
+
+References
+
+[1]  Greenland  P,  Knoll  MD,  Stamler  J,  Neaton  JD,  Dyer  AR,  Garside  DB,  et  al.  Major
+risk  factors  as  antecedents  of  fatal  and  nonfatal  coronary  heart  disease  events.
+JAMA  2003;290:891–7.
+
+[2]  International  Diabetes  Federation.  The  IDF  consensus  worldwide  deﬁnition  of
+
+the  metabolic  syndrome.  IDF  Commun  2006.
+
+[3]  Fuller  JH,  Stevens  LK,  Wang  SL.  Risk  factors  for  cardiovascular  mortality  and
+morbidity:  the  WHO  Mutinational  Study  of  Vascular  Disease  in  Diabetes.
+Diabetologia  2001;44:S54–64.
+
+[4]  Rashidi  H,  Fardad  F,  Ghaderian  B,  Shahbazian  HB,  Latiﬁ  M,  Karandish  M,  et  al.
+Prevalence  of  metabolic  syndrome  and  its  predicting  factors  in  type  2  diabetic
+patients  in  Ahvaz.  Jundishapur  Sci  Med  J  2012.
+
+[5]  Mente  A,  de  Koning  L,  Shannon  HS,  Anand  SS.  A  systematic  review  of  the
+evidence  supporting  a  causal  link  between  dietary  factors  and  coronary  heart
+disease.  Arch  Intern  Med  2009;169:659–69.
+
+[6]  Soﬁ  F,  Abbate  R,  Gensini  GF,  Casini  A.  Accruing  evidence  on  beneﬁts  of
+adherence  to  the  Mediterranean  diet  on  health:  an  updated  systematic  review
+and  meta-analysis.  Am  J  Clin  Nutr  2010;92:1189–96.
+
+[7]  de  Lorgeril  M,  Salen  P,  Martin  JL,  Monjaud  I,  Delaye  J,  Mamelle  N.  Mediterra-
+nean  diet,  traditional  risk  factors,  and  the  rate  of  cardiovascular  complications
+after  myocardial  infarction:  ﬁnal  report  of  the  Lyon  Diet  Heart  Study.  Circula-
+tion  1999;99:779–85.
+
+[8]  Tortosa  A,  Bes-Rastrollo  M,  Sanchez-Villegas  A,  Basterra-Gortari  FJ,  Nunez-
+Cordoba  JM,  Martinez-Gonzalez  MA.  Mediterranean  diet  inversely  associated
+with  the  incidence  of  metabolic  syndrome:  the  SUN  prospective  cohort.
+Diabetes  Care  2007;30:2957–9.
+
+[9]  Keys  A,  Menotti  A,  Karvonen  MJ,  Aravanis  C,  Blackburn  H,  Buzina  R,  et  al.  The
+diet  and  15-year  death  rate  in  the  seven  countries  study.  Am  J  Epidemiol
+1986;124:903–15.
+
+[10]  Allbaugh  LG,  Soule  G.  Crete:  a  case  study  of  an  underdeveloped  area.  Princeton
+
+University  Press;  1953.
+
+[11]  Esposito  K,  Maiorino  MI,  Ciotola  M,  Di  Palo  C,  Scognamiglio  P,  Gicchino  M,  et  al.
+Effects  of  a  Mediterranean-style  diet  on  the  need  for  antihyperglycemic  drug
+therapy  in  patients  with  newly  diagnosed  type  2  diabetes:  a  randomized  trial.
+Ann  Intern  Med  2009;151:306–14.
+
+[12]  McManus  K,  Antinoro  L,  Sacks  F.  A  randomized  controlled  trial  of  a  moderate-
+fat,  low-energy  diet  compared  with  a  low  fat,  low-energy  diet  for  weight  loss
+in  overweight  adults.  Int  J  Obes  Relat  Metab  Disord  2001;25:1503–11.
+
+[13]  Piers  LS,  Walker  KZ,  Stoney  RM,  Soares  MJ,  O’Dea  K.  Substitution  of  saturated
+with  monounsaturated  fat  in  a  4-week  diet  affects  body  weight  and  composi-
+tion  of  overweight  and  obese  men.  Br  J  Nutr  2003;90:717–27.
+
+[14]  Tuttle  KR,  Shuler  LA,  Packard  DP,  Milton  JE,  Daratha  KB,  Bibus  DM,  et  al.
+Comparison  of  low-fat  versus  Mediterranean-style  dietary  intervention  after
+ﬁrst  myocardial  infarction  (from  The  Heart  Institute  of  Spokane  Diet  Inter-
+vention  and  Evaluation  Trial).  Am  J  Cardiol  2008;101:1523–30.
+
+[15]  Mantzoros  CS,  Williams  CJ,  Manson  JE,  Meigs  JB,  Hu  FB.  Adherence  to  the
+Mediterranean  dietary  pattern  is  positively  associated  with  plasma  adiponec-
+tin  concentrations  in  diabetic  women.  Am  J  Clin  Nutr  2006;84:328–35.
+
+[16]  Toobert  DJ,  Glasgow  RE,  Strycker  LA,  Barrera  MJ,  Radcliffe  JL,  Wander  RC,  et  al.
+Biologic  and  quality-of-life  outcomes  from  the  Mediterranean  Lifestyle  Pro-
+gram:  a  randomized  clinical  trial.  Diabetes  Care  2003;26:2288–93.
+
+[17]  Gerhard  GT,  Ahmann  A,  Meeuws  K,  McMurry  MP,  Duell  PB,  Connor  WE.  Effects
+of  a  low-fat  diet  compared  with  those  of  a  high-monounsaturated  fat  diet  on
+body  weight,  plasma  lipids  and  lipoproteins,  and  glycemic  control  in  type
+2  diabetes.  Am  J  Clin  Nutr  2004;80:668–73.
+
+[18]  American  Diabetes  Association.  Diagnosis  and  classiﬁcation  of  diabetes  mel-
+
+litus.  Diabetes  Care  2013;36:S67–74.
+
+[19]  Friedewald  WT,  Levy  RI,  Fredrickson  DS.  Estimation  of  the  concentration  of
+low-density  lipoprotein  cholesterol  in  plasma,  without  use  of  the  preparative
+ultracentrifuge.  Clin  Chem  1972;18:499–502.
+
+[20]  IPAQ  Research  Committee  Guidelines  for  data  processing  and  analysis  of  the
+international  physical  activity  questionnaire  (IPAQ).  International  Physical
+Activity  Research  Committee;  2005,  Available  from:  http://www.ipaq.ki.se
+[revised  November  2005].
+
+[21]  Azar  M,  Sarkisian  E.  Food  composition  table  of  Iran.  National  Nutrition  and
+
+Food  Science  Research  Institute;  1981.
+
+[22]  Goulet  J,  Lamarche  B,  Nadeau  G,  Lemieux  S.  Effect  of  a  nutritional  intervention
+promoting  the  Mediterranean  food  pattern  on  plasma  lipids,  lipoproteins  and
+body  weight  in  healthy  French-Canadian  women.  Atherosclerosis  2003;170:
+115–24.
+
+[23]  Salas-Salvado  J,  Fernandez-Ballart  J,  Ros  E,  Martinez-Gonzalez  MA,  Fito  M,
+Estruch  R,  et  al.  Effect  of  a  Mediterranean  diet  supplemented  with  nuts  on
+metabolic  syndrome  status:  one-year  results  of  the  PREDIMED  randomized
+trial.  Arch  Intern  Med  2008;168:2449–58.
+
+[24]  Estruch  R,  Martı´nez-Gonza´ lez  MA,  Corella  D,  Salas-Salvado´ J,  Ruiz-Gutie´ rrez  V,
+Covas  MI,  et  al.  Effects  of  a  Mediterranean-style  diet  on  cardiovascular  risk
+factors:  a  randomized  trial.  Ann  Intern  Med  2006;145:1–11.
+
+[25]  Elhayany  A,  Lustman  A,  Abel  R,  Attal-Singer  J,  Vinker  S.  A  low  carbohydrate
+Mediterranean  diet  improves  cardiovascular  risk  factors  and  diabetes  control
+among  overweight  patients  with  type  2  diabetes  mellitus:  a  1-year  prospec-
+tive  randomized  intervention  study.  Diabetes  Obes  Metab  2010;12:204–9.
+
+[26]  Bonaccio  M,  Di  Castelnuovo  A,  Costanzo  S,  Persichillo  M,  De  Curtis  A,  Donati
+MB,  et  al.  Adherence  to  the  traditional  Mediterranean  diet  and  mortality  in
+subjects  with  diabetes.  Prospective  results  from  the  MOLI-SANI  study.  Eur  J
+Prev  Cardiol  2015.  http://dx.doi.org/10.1177/2047487315569409.
+
+[27]  Shahbazian  H,  Latiﬁ  SM,  Jalali  MT,  Shahbazian  H,  Amani  R,  Nikhoo  A,  et  al.
+Metabolic  syndrome  and  its  correlated  factors  in  an  urban  population  in  South
+West  of  Iran.  J  Diabetes  Metab  Disord  2013;12:11.
+
+[28]  Estruch  R,  Ros  E,  Salas-Salvado  J,  Covas  MI,  Corella  D,  Aros  F,  et  al.  Primary
+prevention  of  cardiovascular  disease  with  a  Mediterranean  diet.  N  Engl  J  Med
+2013;368:1279–90.
+
+[29]  Ros  E,  Tapsell  LC,  Sabate  J.  Nuts  and  berries  for  heart  health.  Curr  Atheroscler
+
+Rep  2010;12:397–406.
+
+[30]  Kris-Etherton  PM,  Hu  FB,  Ros  E,  Sabate  J.  The  role  of  tree  nuts  and  peanuts  in
+the  prevention  of  coronary  heart  disease:  multiple  potential  mechanisms.  J
+Nutr  2008;138:1746S–51S.
+
+[31]  Franz  MJ,  Bantle  JP,  Beebe  CA,  Brunzell  JD,  Chiasson  JL,  Garg  A,  et  al.  Evidence-
+based  nutrition  principles  and  recommendations  for  the  treatment  and  pre-
+vention  of  diabetes  and  related  complications.  Diabetes  Care  2002;25:148–98.
+[32]  Eckel  RH,  Kahn  SE,  Ferrannini  E,  Goldﬁne  AB,  Nathan  DM,  Schwartz  MW,  et  al.
+Obesity  and  type  2  diabetes:  what  can  be  uniﬁed  and  what  needs  to  be
+individualized.  Diabetes  Care  2011;34:1424–30.
+
+[33]  Sullivan  P,  Ghushchyan  V,  Ben-Joseph  R.  The  impact  of  obesity  on  diabetes,
+in  the  United  States.  Qual  Life  Res
+
+hyperlipidemia  and  hypertension 
+2008;17:1063–71.
+
+[34]  Kotchen  TA.  Obesity-related  hypertension:  epidemiology,  pathophysiology,
+
+and  clinical  management.  Am  J  Hypertens  2010;23:1170–8.
+
+[35]  Scoditti  E,  Calabriso  N,  Massaro  M,  Pellegrino  M,  Storelli  C,  Martines  G,  et  al.
+Mediterranean  diet  polyphenols  reduce  inﬂammatory  angiogenesis  through
+MMP-9  and  COX-2  inhibition  in  human  vascular  endothelial  cells:  a  poten-
+tially  protective  mechanism  in  atherosclerotic  vascular  disease  and  cancer.
+Arch  Biochem  Biophys  2012;527:81–9.
+
+[36]  Satija  A,  Hu  FB.  Cardiovascular  beneﬁts  of  dietary  ﬁber.  Curr  Atheroscler  Rep
+
+2012;14:505–14.
+
+[37]  Baum  SJ,  Kris-Etherton  PM,  Willett  WC,  Lichtenstein  AH,  Rudel  LL,  Maki  KC,
+et  al.  Fatty  acids  in  cardiovascular  health  and  disease:  a  comprehensive
+update.  J  Clin  Lipidol  2012;6:216–34.
+
+[38]  Mitjavila  MT,  Fandos  M,  Salas-Salvado  J,  Covas  MI,  Borrego  S,  Estruch  R,  et  al.
+The  Mediterranean  diet  improves  the  systemic  lipid  and  DNA  oxidative
+damage  in  metabolic  syndrome  individuals.  A  randomized  controlled  trial.
+Clin  Nutr  2013;32:172–8.
+
+

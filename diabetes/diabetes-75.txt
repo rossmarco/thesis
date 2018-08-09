@@ -1,0 +1,1596 @@
+Dietary omega-3 fatty acids and ﬁsh consumption and risk of
+type 2 diabetes1–4
+
+Luc Djousse´, J Michael Gaziano, Julie E Buring, and I-Min Lee
+
+ABSTRACT
+Background: Although dietary omega-3 (n23) fatty acids may
+confer some cardiovascular beneﬁts, it is unclear whether these
+nutrients may also unfavorably affect risk of type 2 diabetes (T2D).
+Objective: We evaluated whether dietary omega-3 fatty acids and
+ﬁsh consumption were associated with increased risk of T2D.
+Design: This was a prospective study of 36,328 women (mean age:
+54.6 y) who participated in the Women’s Health Study and who
+were followed from 1992 to 2008. Incident T2D was self-reported
+and validated primarily through the collection of supplementary
+information from participants. Information on omega-3 and ﬁsh
+intakes was obtained by using a validated food-frequency question-
+naire. We used Cox proportional hazard models to estimate adjusted
+relative risks.
+Results: During an average follow-up of 12.4 y, 2370 women de-
+veloped T2D. Marine but not plant-based omega-3 fatty acids were
+positively associated with incident T2D. From the lowest to highest
+quintiles of marine omega-3 intake, the multivariable-adjusted haz-
+ard ratios (95% CIs) for T2D were 1.0 (referent), 1.17 (1.03, 1.33),
+1.20 (1.05, 1.38), 1.46 (1.28, 1.66), and 1.44 (1.25, 1.65), respec-
+tively (P for trend , 0.0001). A similar association was observed
+with ﬁsh intake, but additional adjustment for docosahexaenoic acid
+led to the elimination of the association. The relation between ma-
+rine omega-3 fatty acids and T2D was observed in hypertensive and
+nonhypertensive subjects and in women who reported infrequent
+ﬁsh consumption.
+Conclusion: Our data suggest an increased risk of T2D with the in-
+take of long-chain omega-3 fatty acids, especially with higher intakes
+(0.20 g omega-3/d or 2 servings of ﬁsh/d). The Women’s Health
+Am J
+Study was registered at clinicaltrials.gov as NCT00000479.
+Clin Nutr 2011;93:143–50.
+
+INTRODUCTION
+
+Type 2 diabetes (T2D) is associated with costly medical com-
+plications and a higher risk of death. At birth, the lifetime risk of
+T2D ranges from 27% to 53%, depending on one’s ethnicity (1).
+Despite advances in medical management of T2D with modern
+drugs, T2D remains on the rise and parallels the obesity epidemic.
+Therefore, it is critically important to identify relevant risk factors
+and protective measures to design effective preventive strategies.
+To this end, modiﬁable lifestyle factors, including diet, have been
+recognized to play an important role (2–5). Among dietary com-
+ponents, omega-3 (n23) fatty acids have also been shown to
+confer some cardiac beneﬁts (6–11). However, limited and in-
+
+consistent data have been reported on the effects of omega-3 fatty
+acids on glucose metabolism and insulin sensitivity.
+
+Observational studies have reported adverse effects of high
+amounts of ﬁsh oils on glycemic control in subjects with T2D (12,
+13). In a randomized control trial, ﬁsh-oil intervention with
+higher amounts of omega-3 (’6 g omega-3/d) was also asso-
+ciated with increased blood glucose concentrations and de-
+creased insulin sensitivity in T2D patients (14). However,
+Woodman et al (15) reported no effect of 4 g puriﬁed eicosa-
+pentaenoic acid (EPA) and docosahexaenoic acid (DHA)/d on
+insulin sensitivity or fasting insulin concentrations in a 6-wk
+trial of T2D patients. Given the short durations and higher
+amounts of omega-3 used in these trials, it remains unclear
+whether EPA and DHA, especially when consumed in small
+amounts, have long-term effects on glucose metabolism. It is not
+known whether omega-3 fatty acids confer higher risk of T2D in
+the general population. Data from the Atherosclerosis Risk in
+Communities (ARIC) study (16) showed no association between
+marine omega-3 fatty acids and T2D risk, though it is unclear
+whether results were similar in men and women. Likewise, data
+from the Kouopio Ischemic Heart Disease Risk factor study
+reported no association between polyunsaturated fatty acids and
+incident diabetes (17); however, the Koupio study was a small
+study of men only in whom 34 cases of diabetes occurred after
+a short follow-up time (4 y). In contrast, in the Iowa Women’s
+Health Study (18), a modest increased risk of T2D was observed
+
+1 From the Divisions of Aging (LD, JMG, and JEB) and Preventive Med-
+icine (JMG, JEB, and I-ML), Department of Medicine, Brigham and Wom-
+en’s Hospital and Harvard Medical School, Boston, MA; the Massachusetts
+Veterans Epidemiology and Research Information Center and Geriatric Re-
+search, Education, and Clinical Center, Boston Veterans Affairs Healthcare
+System, Boston, MA (LD and JMG); the Department of Ambulatory Care
+and Prevention, Harvard Medical School, Boston, MA (JEB); and the
+Department of Epidemiology, Harvard School of Public Health, Boston,
+MA (I-ML).
+
+2 The sponsors of the study had no role in the design and conduct of the
+study, the collection, management, analysis, and interpretation of data, or the
+preparation, review, or approval of the manuscript.
+
+3 Supported by grant CA-047988 from the National Cancer Institute and
+grants HL-043851 and HL-080467 from the National Heart, Lung, and
+Blood Institute (Bethesda, MD).
+
+4 Address correspondence to L Djousse´, Division of Aging, Brigham and
+Women’s Hospital and Harvard Medical School, 1620 Tremont Street, Third
+Floor, Boston MA 02120. E-mail: ldjousse@rics.bwh.harvard.edu.
+
+Received March 12, 2010. Accepted for publication October 6, 2010.
+First published online October 27, 2010; doi: 10.3945/ajcn.110.005603.
+
+Am J Clin Nutr 2011;93:143–50. Printed in USA. Ó 2011 American Society for Nutrition
+
+143
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/93/1/143/4597612
+by guest
+on 09 August 2018
+
+144
+
+DJOUSSE´ ET AL
+
+only in the ﬁfth quintile of marine omega-3 fatty acids, which
+suggested a threshold effect. Recent data from 3 prospective
+cohorts (the Nurses’ Health Study I and II and the Health Pro-
+fessionals Follow-Up Study) were suggestive of a modest in-
+creased risk of T2D with consumption of higher amounts of
+long-chain omega-3 and ﬁsh in women but not in men (19).
+However, it is unclear whether the ﬁsh-diabetes relation is me-
+diated by long-chain omega-3. It remains important to determine
+whether consumption of small to moderate amounts of total and
+individual omega-3 adversely affects risk of T2D. Thus, we
+sought to prospectively examine the association between dietary
+omega-3 fatty acids [including a-linolenic acid (ALA)] and ﬁsh
+consumption and incident diabetes in the Women’s Health
+Study.
+
+SUBJECTS AND METHODS
+
+Study participants
+
+Subjects were participants in the Women’s Health Study,
+a completed randomized, double-blind, placebo-controlled trial
+designed to study the effects of low-dose aspirin and vitamin E on
+the primary prevention of cardiovascular disease and cancer in
+1992–2004. At the completion of the trial, participants have been
+prospectively followed up. Detailed descriptions of the Women’s
+Health Study have been published (20–22). Of the 39,876 female
+subjects aged 45 y at entry (1992–1995), we excluded women
+with self-reported diabetes at baseline (n = 1148), missing data
+on omega-3 fatty acids (as a consequence of missing items on
+a food-frequency questionnaire to allow nutrient computation)
+or ﬁsh consumption (n = 1339), and missing data on key co-
+variates,
+including exercise, smoking, alcohol consumption,
+hypertension, menopausal status, and body mass index (BMI;
+n = 1061). Thus, a total sample of 36,328 women from the
+parent study was analyzed for the current project. Each woman
+signed an informed consent form, and the Institutional Review
+Board at Brigham and Women’s Hospital approved the study
+protocol.
+
+Ascertainment of T2D
+
+The ascertainment of T2D and other endpoints was achieved
+by asking women to report these items on annual follow-up
+questionnaires. All cases of self-reports of T2D were validated by
+using the American Diabetes Association criteria by primarily
+obtaining additional information with a telephone interview and
+supplemental questionnaire (23, 24). The positive predictive
+value for self-reported T2D in this cohort by using these vali-
+dation procedures was 91% (23).
+
+Exposure assessment
+
+Dietary omega-3 fatty acids were derived from a single,
+baseline 128-food-frequency questionnaire, which was pre-
+viously validated (25, 26). ALA, EPA, and DHA were in-
+dividually adjusted for energy intake by using the residual
+method (27). For total marine omega-3 fatty acids, we used the
+sum of energy-adjusted EPA, DHA, and docosapentaenoic acid.
+For each fatty acid, we created quintiles and 4 indicator variables
+for analyses. Fish consumption was obtained through 4 items on
+the food-frequency questionnaire. Participants were asked to
+
+report their average consumption of canned tuna (3–4 oz), dark-
+meat ﬁsh (3–5 oz), other ﬁsh (3–5 oz), and shrimp, lobster, and
+scallops as a main dish over the past year. Possible responses
+included never or ,1 time/mo, 1–3 times/mo, 1 time/wk, 2–4
+times/wk, 5–6 times/wk, 1 time/d; 2–3 times/d, 4–5 times/d, and
+6 times/d. We converted individual responses into servings per
+day by using the midpoint for each response category. We
+summed the frequency of consumption of canned tuna, dark ﬁsh,
+other ﬁsh, and shrimp, lobster, and scallops as a main dish to
+obtain a ﬁsh variable and created quintiles of ﬁsh consumption.
+
+Ascertainment of other covariates
+
+Demographic data were collected at baseline. Self-reported
+baseline weight and height were used to compute BMI (weight in
+kilograms divided by height in meters squared). Self-reported
+walking, stair climbing, and participation in 8 groups of recre-
+ational activities were obtained to estimate the energy expended
+on physical activity (28, 29). In addition, information on the
+prevalence of hypertension, hypercholesterolemia, parental his-
+tory of diabetes, menopausal status, hormone therapy, smoking,
+and alcohol consumption was obtained at baseline.
+
+Statistical analyses
+
+We calculated person-time of follow-up from baseline until the
+ﬁrst occurrence of 1) T2D, 2) death, or 3) censoring date, which
+was the date of receipt of the last follow-up questionnaire for the
+current study. We used Cox proportional hazard models to
+compute multivariable-adjusted hazard ratios with correspond-
+ing 95% CIs by using subjects in the lowest quintile of omega-3
+fatty acid or ﬁsh consumption as the reference group. A parsi-
+monious model adjusted for age, BMI, parental history of di-
+abetes, smoking (never, former, and current smoker), exercise
+(quintiles of metabolic equivalent task hours per week), alcohol
+intake (4 categories), and menopausal status (pre- or post-
+menopausal or uncertain). A ﬁnal multivariable model also
+controlled for red-meat intake and quintiles of energy intake,
+linoleic acid, ALA, dietary magnesium, trans and saturated fats,
+cereal ﬁber, and glycemic index (quintiles for all of these vari-
+ables). To examine whether the relation between ﬁsh con-
+sumption and diabetes was mediated by EPA or DHA, we
+evaluated the risk of diabetes associated with reported ﬁsh intake
+while adjusting for EPA or DHA in the multivariable model. The
+P value for the linear trend was obtained by ﬁtting a continuous
+variable that assigned the median value for each exposure cat-
+egory in a Cox regression model.
+
+In secondary analyses, we examined possible effect modiﬁ-
+cation by prevalent hypertension (yes or no) and infrequent
+compared with regular ﬁsh consumption. We also conducted
+sensitivity analyses by excluding subjects with ,2 y of follow-up
+or by restricting follow-up to the ﬁrst 5 y. Last, we analyzed
+omega-3 as a continuous variable. All analyses were completed
+with SAS, version 9.1 (SAS Institute, Cary, NC). The signiﬁ-
+cance level was set at 0.05.
+
+RESULTS
+
+The mean age of women at baseline was 54.6 6 7.0 y. The
+median intake (interquartile range) of ALA, EPA, DHA, and
+total marine omega-3 fatty acids in this population was 1.11 g
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/93/1/143/4597612
+by guest
+on 09 August 2018
+
+OMEGA-3 AND TYPE 2 DIABETES
+
+145
+
+ALA/d (0.92–1.34 ALA/d), 0.04 g EPA/d (0.02–0.08 g EPA/d),
+0.12 g DHA/d (0.08–0.19 g DHA/d), and 0.18 g total marine
+omega-3 fatty acids/d (0.11–0.30 g total marine omega-3 fatty
+acids/d). The baseline characteristics of the study participants
+according to dietary omega-3 fatty acids are presented in Tables
+1 and 2. A higher intake of omega-3 was associated with more
+physical activity and a higher intake of cereal ﬁber, fruit and
+vegetables, magnesium, and cholesterol. In contrast, omega-3
+intake was inversely associated with the consumption of red
+meat, nuts, and trans and saturated fats.
+
+Dietary omega-3 and risk of T2D
+
+During a mean follow-up of 12.4 y, 2370 (6.5%) new cases of
+T2D occurred in this population. Dietary intake of ALA was not
+associated with incident diabetes (Table 3). In contrast, a higher
+intake of marine omega-3 fatty acids was associated with in-
+cident T2D. Compared with the lowest quintile of EPA, the risk
+of T2D was 8% (26% to 24%), 25% (11–42%), 30% (13–49%),
+and 38% (21–59%) higher in the second, third, fourth, and ﬁfth
+quintiles of EPA, respectively, in a model that was controlled for
+age, BMI, parental history of diabetes, smoking, exercise, al-
+cohol intake, menopausal status, red-meat intake, and quintiles
+of energy intake, linoleic acid, ALA, dietary magnesium, trans
+fat, saturated fat, cereal ﬁber, and glycemic index (P for linear
+trend , 0.0001; Table 3). Corresponding values for DHA were
+21% (6–38%), 21% (6–39%), 46% (28–68%), and 52% (33–
+75%) higher, respectively (P for linear trend , 0.0001; Table 3).
+For total long-chain omega-3 fatty acids (EPA, docosapentae-
+noic acid, and DHA), corresponding increased risk of T2D was
+
+17% (3–33%), 20% (5–38%), 46% (28–66%), and 44% (25–
+65%) higher, respectively (P for trend , 0.0001; Table 3). These
+ﬁndings persisted after stratiﬁcation by ﬁsh intake. For example,
+in women who reported infrequent ﬁsh consumption (,1/wk),
+multivariable-adjusted hazard ratios (95% CIs) for T2D were
+1.0, 1.21 (1.03, 1.42), 1.27 (1.01, 1.60), 1.11 (0.79, 1.57), and
+1.76 (1.02, 3.04) from the lowest to the highest quintiles of total
+long-chain omega-3 fatty acids, respectively (P for trend =
+0.015). In women who reported ﬁsh consumption of .1/wk,
+corresponding hazard ratios (95% CIs) were 1.0, 0.99 (0.74,
+1.33), 1.03 (0.78, 1.38), 1.31 (0.99, 1.74), and 1.28 (0.96, 1.70),
+respectively (P for trend = 0.0002). Likewise, a similar associ-
+ation was observed when the relation between ﬁsh intake and
+T2D was stratiﬁed by prevalent hypertension at baseline, and no
+signiﬁcant interaction was shown between ﬁsh intake and hy-
+pertension (P = 0.74; Figure 1).
+
+Fish consumption and risk of T2D
+
+A higher consumption of ﬁsh was associated with a higher risk of
+incident T2D, especially in the fourth and ﬁfth quintiles of ﬁsh
+intake (P for trend , 0.0001; Table 4). In the comparison of
+a median ﬁsh intake of 3.93 servings of ﬁsh/wk (highest quintile)
+with the lowest category of ﬁsh consumption (median: 0.47 serv-
+ing of ﬁsh/wk), there was a 49% (30–70%) increased risk of T2D in
+a multivariable-adjusted model (Table 4). This positive association
+between ﬁsh consumption and T2D risk was almost eliminated on
+additional adjustment of DHA (which contributed .50% of total
+marine omega-3 FA in this population) and was minimally inﬂu-
+enced after additional adjustment for EPA (Table 5).
+
+TABLE 1
+Baseline characteristics of 36,328 women according to quintiles (Q) of dietary a-linolenic acid and eicosapentaenoic acid1
+
+a-Linolenic acid (median)
+
+Eicosapentaenoic acid (median)
+
+Characteristic
+
+Q1: 0.79 g/d
+
+Q3: 1.11 g/d
+
+Q5: 1.59 g/d
+
+P
+
+Q1: 0.01 g/d
+
+Q3: 0.03 g/d
+
+Q5: 0.12 g/d
+
+P
+
+n
+Age (y)
+White (%)
+BMI (kg/m2)
+Exercise (MET-h/wk)
+Fruit and vegetables (servings/d)
+Nuts (servings/d)
+Red meat (servings/d)
+Energy intake (kcal/d)
+Dietary magnesium (mg)3
+trans Fatty acids (g/d)3
+Saturated fatty acids (g/d)3
+Dietary cholesterol (mg/d)3
+Cereal ﬁber (g/d)3
+Parental history of diabetes (%)
+Glycated hemoglobin (%)
+Current smoking (%)
+Current drinking (%)
+Postmenopausal (%)
+HT use (%)
+Hypertension (%)
+
+7423
+
+7338
+
+54.1 6 6.92
+
+54.5 6 6.9
+
+93.1
+
+25.6 6 4.9
+14.7 6 19.3
+5.32 6 3.05
+0.26 6 0.46
+0.72 6 0.59
+1701 6 522
+337 6 80
+2.07 6 1.01
+19.4 6 5.5
+222 6 77
+4.36 6 1.44
+
+24.3
+
+95.6
+
+25.9 6 4.9
+14.4 6 17.5
+6.20 6 3.20
+0.27 6 0.39
+0.74 6 0.52
+1756 6 537
+339 6 71
+2.28 6 1.00
+19.7 6 4.7
+228 6 71
+4.54 6 1.24
+
+24.8
+
+7261
+
+96.8
+
+55.3 6 7.3
+
+,0.0001
+,0.0001
+,0.0001
+26.1 6 5.1
+14.2 6 17.4
+0.010
+6.39 6 3.45 ,0.0001
+0.27 6 0.39
+0.67 6 0.51 ,0.0001
+,0.0001
+1701 6 532
+,0.0001
+334 6 75
+2.46 6 1.18 ,0.0001
+,0.0001
+19.9 6 4.5
+,0.0001
+221 6 71
+4.69 6 1.29 ,0.0001
+
+0.11
+
+25.8
+
+7344
+
+9399
+
+54.5 6 7.3
+
+54.3 6 6.8
+
+96.6
+
+25.9 6 5.1
+12.2 6 16.1
+5.41 6 3.11
+0.30 6 0.51
+0.78 6 0.61
+1715 6 508
+323 6 76
+2.51 6 1.17
+20.7 6 5.4
+204 6 76
+4.45 6 1.36
+
+24.7
+
+96.7
+
+26.0 6 4.9
+13.8 6 17.2
+5.73 6 2.97
+0.24 6 0.35
+0.71 6 0.51
+1667 6 525
+335 6 71
+2.33 6 1.03
+19.8 6 4.5
+231 6 65
+4.47 6 1.23
+
+25.0
+
+7055
+
+91.3
+
+55.1 6 7.0
+
+,0.0001
+,0.0001
+,0.0001
+25.6 6 4.7
+17.9 6 20.7 ,0.0001
+6.61 6 3.41 ,0.0001
+0.22 6 0.31 ,0.0001
+0.56 6 0.45 ,0.0001
+,0.0001
+1648 6 504
+,0.0001
+361 6 76
+1.91 6 0.90 ,0.0001
+,0.0001
+18.2 6 4.5
+,0.0001
+242 6 73
+4.73 6 1.37 ,0.0001
+
+24.9
+
+5.03 6 0.37
+
+5.02 6 0.35
+
+5.04 6 0.37
+
+14.9
+55.3
+52.2
+40.6
+23.9
+
+11.7
+57.7
+54.1
+42.8
+23.9
+
+13.4
+53.7
+57.4
+43.8
+25.7
+
+0.19
+0.17
+
+,0.0001
+,0.0001
+,0.0001
+,0.0001
+
+0.05
+
+5.04 6 0.36
+
+5.03 6 0.38
+
+5.02 6 0.38
+
+13.9
+44.9
+53.4
+39.8
+23.2
+
+14.4
+57.8
+53.1
+43.1
+24.3
+
+11.3
+65.0
+56.7
+44.5
+25.8
+
+0.70
+0.06
+
+,0.0001
+,0.0001
+,0.0001
+,0.0001
+0.005
+
+1 MET-h, metabolic equivalent task hours; HT, hormone therapy. P values were derived from ANOVA (continuous variables) or chi-square test
+
+(categorical variables).
+
+2 Mean 6 SD (all such values).
+3 Energy adjusted.
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/93/1/143/4597612
+by guest
+on 09 August 2018
+
+146
+
+DJOUSSE´ ET AL
+
+TABLE 2
+Baseline characteristics of 36,328 women according to quintiles (Q) of dietary docosahexaenoic acid and total omega-3 fatty acids1
+
+Docosahexaenoic acid (median)
+
+Total marine omega-3 (median)2
+
+Characteristic
+
+Q1: 0.04 g/d
+
+Q3: 0.12 g/d
+
+Q5: 0.27 g/d
+
+P
+
+Q1: 0.07 g/d
+
+Q3: 0.18 g/d
+
+Q5: 0.43 g/d
+
+P
+
+6984
+
+6737
+
+7588
+
+54.5 6 7.33
+
+54.4 6 7.0
+
+54.9 6 6.9
+
+7148
+
+6661
+
+7151
+
+54.5 6 7.3
+
+54.4 6 6.9
+
+54.9 6 6.9
+
+96.5
+
+25.8 6 5.0
+12.3 6 16.5
+5.34 6 3.20
+0.30 6 0.52
+0.78 6 0.63
+1712 6 553
+321 6 79
+2.55 6 1.20
+20.8 6 5.5
+190 6 65
+4.43 6 1.36
+
+24.6
+
+96.2
+
+25.9 6 4.9
+14.2 6 17.3
+5.96 6 3.06
+0.26 6 0.37
+0.73 6 0.53
+1745 6 539
+336 6 69
+2.30 6 1.01
+19.7 6 4.5
+229 6 70
+4.49 6 1.24
+
+24.5
+
+,0.0001
+,0.0001
+
+91.9
+
+0.19
+
+25.9 6 4.9
+17.7 6 20.5 ,0.0001
+6.72 6 3.53 ,0.0001
+0.22 6 0.32 ,0.0001
+0.55 6 0.45 ,0.0001
+,0.0001
+1662 6 515
+,0.0001
+365 6 77
+1.89 6 0.89 ,0.0001
+,0.0001
+18.1 6 4.5
+,0.0001
+251 6 74
+4.78 6 1.39 ,0.0001
+
+25.6
+
+96.6
+
+25.8 6 5.0
+12.2 6 16.4
+5.32 6 3.16
+0.30 6 0.52
+0.79 6 0.63
+1705 6 546
+321 6 79
+2.56 6 1.20
+20.9 6 5.5
+192 6 67
+4.43 6 1.37
+
+24.6
+
+96.2
+
+26.0 6 4.9
+14.1 6 17.6
+5.93 6 3.08
+0.26 6 0.38
+0.72 6 0.53
+1727 6 552
+336 6 71
+2.30 6 1.02
+19.6 6 4.5
+231 6 70
+4.48 6 1.23
+
+24.6
+
+,0.0001
+,0.0001
+
+91.5
+
+0.06
+
+25.8 6 4.9
+17.9 6 20.7 ,0.0001
+6.76 6 3.52 ,0.0001
+0.22 6 0.31 ,0.0001
+0.55 6 0.45 ,0.0001
+,0.0001
+1662 6 512
+,0.0001
+365 6 77
+1.87 6 0.88 ,0.0001
+,0.0001
+18.0 6 4.5
+,0.0001
+250 6 74
+4.77 6 1.39 ,0.0001
+
+25.1
+
+n
+Age (y)
+White (%)
+BMI (kg/m2)
+Exercise (MET-h/wk)
+Fruit and vegetables (servings/d)
+Nuts (servings/d)
+Red meat (servings/d)
+Energy intake (kcal/d)
+Dietary magnesium (mg)4
+trans Fatty acids (g/d)4
+Saturated fatty acids (g/d)4
+Dietary cholesterol (mg/d)4
+Cereal ﬁber (g/d)4
+Parental history of diabetes (%)
+Glycated hemoglobin (%)
+Current smoking (%)
+Current drinking (%)
+Postmenopausal (%)
+HT use (%)4
+Hypertension (%)
+
+5.04 6 0.39
+
+5.03 6 0.35
+
+5.03 6 0.37
+
+14.4
+45.8
+53.3
+40.2
+23.1
+
+13.3
+57.5
+54.1
+42.2
+24.3
+
+11.6
+61.9
+56.3
+44.3
+26.2
+
+0.43
+0.63
+
+,0.0001
+,0.0001
+,0.0001
+,0.0001
+0.0002
+
+5.04 6 0.37
+
+5.03 6 0.38
+
+5.02 6 0.38
+
+14.5
+45.6
+53.5
+40.1
+23.0
+
+13.8
+56.7
+53.7
+42.7
+24.8
+
+11.4
+63.1
+56.2
+44.3
+26.3
+
+0.94
+0.32
+
+,0.0001
+,0.0001
+,0.0001
+,0.0001
+0.0001
+
+1 MET-h, metabolic equivalent task hours; HT, hormone therapy. P values were derived from ANOVA (for continuous variables) or chi-square test (for
+
+categorical variables).
+
+2 Includes eicosapentaenoic acid, docosahexaenoic acid, and docosapentaenoic acid.
+3 Mean 6 SD (all such values).
+4 Energy adjusted.
+
+Sensitivity analyses
+
+When we restricted analyses to the ﬁrst 5 y of follow-up, we
+observed similar ﬁndings. For example, from the lowest to the
+highest quintiles of ﬁsh intake, multivariable-adjusted hazard
+ratios (95% CIs) were 1.0, 1.07 (0.84, 1.37), 1.21 (0.94, 1.55),
+1.31 (1.03, 1.68), and 1.42 (1.11, 1.82), respectively (P for trend =
+0.004). Similar results were seen for marine omega-3 (P for trend
+= 0.009). The exclusion of women with ,2 y of follow-up and
+stratiﬁcation by BMI did not alter these results (data not shown).
+When analyzed as continuous variables, the b coefﬁcient (SE) and
+P value from the multivariable models were 0.98121 (0.27659)
+and 0.0004 for EPA, 0.78496 (0.16163) and ,0.0001 for DHA,
+and 0.43879 (0.09749) and ,0.0001 for total marine omega-3
+fatty acids. Restriction to white women (95% of the sample) did
+not alter the ﬁndings.
+
+DISCUSSION
+
+In this prospective study, we showed that dietary marine
+omega-3 fatty acids (EPA and DHA) were individually associated
+with an increased risk of incident diabetes, especially with
+omega-3 intake 0.20 g omega-3/d or 2 servings of ﬁsh/d
+(which suggested a threshold effect). Furthermore, ﬁsh con-
+sumption was positively related to incident diabetes, and this
+association was attenuated after further adjustment for DHA. In
+contrast, the plant-based omega-3 fatty acid (ALA) was not
+associated with incident diabetes in this cohort.
+
+Although omega-3 fatty acids have been shown to lower risk
+of coronary heart disease and cardiac deaths, limited and in-
+
+consistent data are available on the relation between omega-3
+fatty acids and measures of glucose metabolism. In a cross-
+sectional study, a positive relation was observed between dietary
+ALA and fasting insulin but not fasting glucose concentrations
+(4), but Woodman et al (15) reported no effect of high amounts of
+puriﬁed EPA or DHA (4 g EPA or DHA/d) on insulin sensitivity
+or fasting insulin concentrations in a 6-wk trial of T2D patients.
+In a case-cohort study (30), neither phospholipids nor dietary
+omega-3 fatty acids were associated with incident diabetes. These
+results were similar to those from the ARIC study (16) and the
+Kouopio study (17) that also showed no association between
+marine omega-3 fatty acids or polyunsaturated fatty acids and
+T2D risk, respectively. In contrast, higher but not lower amounts
+of long-chain omega-3 fatty acids were associated with a modest
+increase in incident diabetes in participants of the Nurses’ Health
+Study I and II with a signiﬁcant 25% increased risk of diabetes
+when the highest to the lowest quintiles of long-chain omega-3
+fatty acids were compared (19). A suggestive, although not
+signiﬁcant, increased risk of T2D with higher intakes of long-
+chain omega-3 fatty acids was reported in 51,529 participants of
+the Health Professionals Follow-Up Study (19). Our data showed
+increased risk of T2D with higher intakes of long-chain omega-3
+fatty acids and are consistent with a threshold effect as suggested
+by reports from the Nurses’ Health studies (19) and the Iowa
+Women’s Health Study (18). Speciﬁcally, relative risks were
+close to unity except for the ﬁfth quintile (0.39 g omega-3/d),
+which showed increased risk of diabetes in the Iowa Women’s
+Health Study (18) [adjusted hazard ratio (95% CI) of 1.20 (1.03,
+1.39) compared to the lowest quintile of long-chain omega-3 fatty
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/93/1/143/4597612
+by guest
+on 09 August 2018
+
+OMEGA-3 AND TYPE 2 DIABETES
+
+147
+
+TABLE 3
+Type 2 diabetes by omega-3 fatty acids1
+
+Type of omega-3
+
+No. of cases
+
+Crude
+
+Model 1
+
+Model 2
+
+a-Linolenic acid
+Q1 (0.79 g/d)
+Q2 (0.96 g/d)
+Q3 (1.11 g/d)
+Q4 (1.29 g/d)
+Q5 (1.59 g/d)
+P for trend
+
+Eicosapentaenoic acid
+
+Q1 (0.01 g/d)
+Q2 (0.02 g/d)
+Q3 (0.03 g/d)
+Q4 (0.08 g/d)
+Q5 (0.12 g/d)
+P for trend
+
+Docosahexaenoic acid
+
+Q1 (0.04 g/d)
+Q2 (0.09 g/d)
+Q3 (0.12 g/d)
+Q4 (0.17 g/d)
+Q5 (0.17 g/d)
+P for trend
+
+Total marine omega-3
+
+Q1 (0.07 g/d)
+Q2 (0.13 g/d)
+Q3 (0.18 g/d)
+Q4 (0.28 g/d)
+Q5 (0.43 g/d)
+P for trend
+
+468
+424
+470
+505
+503
+—
+
+450
+370
+646
+447
+457
+—
+
+400
+524
+424
+481
+541
+—
+
+419
+521
+428
+514
+488
+—
+
+1.0
+
+0.95 (0.83,1.08)2
+1.00 (0.88,1.14)
+1.09 (0.96,1.24)
+1.09 (0.96,1.23)
+
+0.04
+
+1.0
+
+1.04 (0.90,1.19)
+1.12 (0.99,1.26)
+1.08 (0.95,1.24)
+1.07 (0.94,1.21)
+
+0.57
+
+1.0
+
+1.13 (1.00,1.29)
+1.09 (0.95,1.25)
+1.21 (1.06,1.38)
+1.25 (1.10,1.43)
+
+0.0005
+
+1.0
+
+1.10 (0.97,1.26)
+1.09 (0.95,1.25)
+1.19 (1.05,1.35)
+1.17 (1.03,1.33)
+
+0.015
+
+1.0
+
+0.94 (0.83,1.08)
+0.99 (0.87,1.12)
+1.01 (0.89,1.15)
+0.96 (0.85,1.09)
+
+0.86
+
+1.0
+
+1.07 (0.93,1.22)
+1.20 (1.06,1.35)
+1.26 (1.11,1.44)
+1.26 (1.10,1.44)
+
+0.0005
+
+1.0
+
+1.19 (1.04,1.35)
+1.16 (1.01,1.33)
+1.36 (1.19,1.56)
+1.35 (1.19,1.54)
+
+,0.0001
+
+1.0
+
+1.15 (1.02,1.31)
+1.14 (1.00,1.31)
+1.37 (1.20,1.56)
+1.29 (1.13,1.47)
+
+,0.0001
+
+1.0
+
+0.94 (0.82,1.09)
+0.98 (0.85,1.14)
+1.00 (0.86,1.17)
+1.01 (0.85,1.21)
+
+0.67
+
+1.0
+
+1.08 (0.94,1.24)
+1.25 (1.11,1.42)
+1.30 (1.13,1.49)
+1.38 (1.21,1.59)
+
+,0.0001
+
+1.0
+
+1.21 (1.06,1.38)
+1.21 (1.06,1.39)
+1.46 (1.28,1.68)
+1.52 (1.33,1.75)
+
+,0.0001
+
+1.0
+
+1.17 (1.03,1.33)
+1.20 (1.05,1.38)
+1.46 (1.28,1.66)
+1.44 (1.25,1.65)
+
+,0.0001
+
+1 Q, quintile. Model 1 was adjusted for age, BMI, parental history of diabetes, smoking (never, former, or current),
+exercise (quintiles of metabolic equivalent task hours per week), alcohol intake (4 categories), and menopausal status (not
+sure or pre- or postmenopausal) by using Cox proportional hazard models. Model 2 was adjusted for age, BMI, parental
+history of diabetes, smoking (never, former, or current), exercise (quintiles of metabolic equivalent task hours per week),
+alcohol intake (4 categories), menopausal status (not sure or pre- or postmenopausal), red-meat intake, and quintiles of
+energy intake, linoleic acid, a-linolenic acid, dietary magnesium, trans fat, saturated fat, cereal ﬁber, and glycemic index by
+using Cox proportional hazard models.
+
+2 Hazard ratio; 95% CI in parentheses (all such values).
+
+acids). Comparable thresholds were observed in the Nurses’
+Health Study (19) (0.20–0.25 g omega-3/d) and the current study
+(0.18 g omega-3/d).
+
+Long-chain omega-3 fatty acids are predominantly found in
+fatty ﬁsh. Hence, if the association between EPA and DHA and
+T2D were causal, then one would expect an increased risk of T2D
+
+FIGURE 1. Multivariable-adjusted hazard ratios (95% CIs) for type 2 diabetes according to ﬁsh consumption and prevalent hypertension obtained from
+
+Cox proportional hazard models. P value for interaction between hypertension and ﬁsh intake = 0.74. Q, quintile; serv, servings.
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/93/1/143/4597612
+by guest
+on 09 August 2018
+
+148
+
+DJOUSSE´ ET AL
+
+TABLE 4
+Type 2 diabetes according to median ﬁsh consumption1
+
+Quintiles of ﬁsh consumption
+
+No. of cases
+
+1 (0.47 servings of ﬁsh/wk)
+2 (0.93 servings of ﬁsh/wk)
+3 (1.47 servings of ﬁsh/wk)
+4 (1.93 servings of ﬁsh/wk)
+5 (3.93 servings of ﬁsh/wk)
+P for trend
+
+464
+450
+402
+503
+551
+—
+
+Crude
+
+1.0
+
+1.10 (0.97,1.25)2
+1.06 (0.92,1.21)
+1.12 (0.99,1.27)
+1.38 (1.28,1.56)
+
+,0.0001
+
+Model 1
+
+1.0
+
+1.11 (0.98,1.27)
+1.16 (1.01,1.32)
+1.32 (1.17,1.50)
+1.41 (1.25,1.60)
+
+,0.0001
+
+Model 2
+
+1.0
+
+1.11 (0.98,1.27)
+1.17 (1.02,1.34)
+1.35 (1.19,1.54)
+1.49 (1.30,1.70)
+
+,0.0001
+
+1 Model 1 was adjusted for age, BMI, parental history of diabetes, smoking (never, former, or current), exercise
+(quintiles of metabolic equivalent task hours per week), alcohol intake (4 categories), and menopausal status (not sure or
+pre- or postmenopausal) by using Cox proportional hazard models. Model 2 was adjusted for age, BMI, parental history of
+diabetes, smoking (never, former, or current), exercise (quintiles of metabolic equivalent task hours per week), alcohol
+intake (4 categories), menopausal status (not sure or pre- or postmenopausal), red-meat intake, and quintiles of energy
+intake, linoleic acid, a-linolenic acid, dietary magnesium, trans fat, saturated fat, cereal ﬁber, and glycemic index by using
+Cox proportional hazard models.
+
+2 Hazard ratio; 95% CI in parentheses (all such values).
+
+threshold; eg,
+
+with frequent intakes of ﬁsh. Data from the Nurses’ Health
+studies (19) reported an increased risk of T2D with ﬁsh con-
+sumption of 2 servings of ﬁsh/wk but not a meaningful in-
+crease below that
+the multivariable-adjusted
+hazard ratios (95% CIs) were 1.0, 1.02 (0.87, 1.21), 1.12 (0.97,
+1.29), 1.22 (1.04, 1.43), and 1.29 (1.05, 1.57) for ﬁsh intake of
+,1 time/mo, 1–3 times/mo, 1 time/wk, 2–4 times/wk, and 5
+times/wk, respectively. These results were consistent with our
+ﬁndings of which higher (’2 or more servings of ﬁsh/d) but not
+lower amounts of ﬁsh consumption were associated with an
+increased risk of diabetes. The magnitude of effect was larger in
+our cohort, with a 49% increased risk of T2D in the highest
+quintile of ﬁsh intake (median: 3.93 servings of ﬁsh/wk) than in
+the lowest quintile of ﬁsh intake (median: 0.46 servings of ﬁsh/
+wk). Because other nutrients in ﬁsh (other than EPA and DHA)
+could partially explain the positive association between ﬁsh
+consumption and T2D, we examined the possible mediation by
+EPA and DHA. The ﬁsh-diabetes relation was minimally at-
+tenuated after adjustment for EPA and was eliminated after
+adjustment for DHA. Such attenuation was consistent with
+a potential causal effect of DHA shown in ﬁsh. Furthermore, the
+fact that we observed a similar positive relation between dietary
+long-chain omega-3 and T2D risk in women who reported in-
+frequent ﬁsh consumption further strengthened the hypothesis
+
+that DHA but no other nutrients in ﬁsh or contaminants in ﬁsh
+may be responsible for the observed ﬁndings. In our sample,
+23% of long-chain omega-3 consumed was EPA whereas 77%
+was DHA, on average. This unbalanced distribution of EPA and
+DHA might provide an alternative explanation of why we ob-
+served only a minimal attenuation of the ﬁsh-diabetes associa-
+tion after adjustment for EPA.
+
+We did not observe an association between plant-based ALA
+and incident diabetes. This result was consistent with the ﬁndings
+of the Nurses’ Health Study and Health Professionals Follow-Up
+Study, which also did not show a relation between ALA and
+incident diabetes (19). Likewise, the ARIC study (16) did not ﬁnd
+a difference in plasma ALA concentrations between diabetes
+cases and noncases. It is possible that health beneﬁts of ALA may
+differ from those of long-chain omega-3 fatty acids.
+
+What biological mechanisms, if any, may support a causal
+relation between long-chain omega-3 fatty acids and incident
+diabetes? Compared with olive oil intake in patients with T2D,
+a 6-wk intervention with 4 g EPA or DHA led to a 1.40-mmol/L
+(P = 0.002) and 0.98-mmol/L (P = 0.002) increase in fasting
+glucose concentrations, respectively (15); In contrast, neither
+EPA nor DHA had any effect on fasting insulin concentrations,
+insulin sensitivity, or C-peptide or glycated hemoglobin (Hb
+A1c) concentrations (15). In a meta-analysis of 26 trials, ﬁsh-oil
+
+TABLE 5
+Type 2 diabetes by median ﬁsh intake and potential mediation by eicosapentaenoic acid (EPA) and docosahexaenoic
+acid (DHA)1
+
+Quintiles of ﬁsh consumption
+
+No. of cases
+
+Full model
+
+Full model + DHA
+
+Full model + EPA
+
+1 (0.47 servings of ﬁsh/wk)
+2 (0.93 servings of ﬁsh/wk)
+3 (1.47 servings of ﬁsh/wk)
+4 (1.93 servings of ﬁsh/wk)
+5 (3.93 servings of ﬁsh/wk)
+P for trend
+
+464
+450
+402
+503
+551
+—
+
+1.0
+
+1.11 (0.98,1.27)2
+1.17 (1.02,1.34)
+1.35 (1.19,1.54)
+1.49 (1.30,1.70)
+
+,0.0001
+
+1.0
+
+1.01 (0.86,1.18)
+1.02 (0.85,1.22)
+1.12 (0.92,1.38)
+1.19 (0.94,1.51)
+
+0.10
+
+1.0
+
+1.08 (0.91,1.29)
+1.12 (0.90,1.38)
+1.28 (1.02,1.62)
+1.42 (1.11,1.80)
+
+0.002
+
+1 Full model was adjusted for age, BMI, parental history of diabetes, smoking (never, former, or current), exercise
+(quintiles of metabolic equivalent task hours per week), alcohol intake (4 categories), menopausal status (not sure or pre- or
+postmenopausal), red-meat intake, and quintiles of energy intake, linoleic acid, a-linolenic acid, dietary magnesium, trans
+fat, saturated fat, cereal ﬁber, and glycemic index by using Cox proportional hazard models.
+
+2 Hazard ratio; 95% CI in parentheses (all such values).
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/93/1/143/4597612
+by guest
+on 09 August 2018
+
+OMEGA-3 AND TYPE 2 DIABETES
+
+149
+
+intake, compared with placebo intake, was associated with el-
+evated fasting glucose concentrations; each increase of a gram
+of EPA per day led to a 0.38% (95% CI: 0.00%, 0.76%) increase
+in Hb A1c concentrations and the corresponding increase in Hb
+A1c concentrations with DHA was 0.6% (95% CI: 0.06, 1.15%)
+(31). In particular, every gram of DHA per day was associated
+with an increase in fasting glucose concentrations of 0.74 mmol/L
+(95% CI: 0.16, 1.32 mmol/L) (31). However, another meta-
+analysis of 18 trials did not ﬁnd a signiﬁcant effect of ﬁsh oil on
+fasting glucose or Hb A1c concentrations (32). In a 6-wk in-
+tervention trial in 59 overweight individuals, an intake of 4 g
+EPA/d was associated with a slight increase in fasting glucose
+concentrations (P = 0.062), whereas DHA intake had no effect
+on fasting glucose concentrations; in addition, EPA and DHA
+intakes were associated with an 18% (P = 0.035) and 27% (P =
+0.001) increase in fasting insulin concentrations compared with
+those associated with a placebo intake (33). In another ran-
+domized trial, ﬁsh-oil (containing 1.8 g EDA/d and 3 g DHA/d)
+intervention was associated with increased fasting glucose
+concentrations and decreased insulin sensitivity in T2D subjects
+after 9 wk of intervention (14). In contrast, other randomized
+trials showed no effects of EPA and DHA on insulin sensitivity
+(34, 35). Although inconsistent across studies, there are possible
+biologic mechanisms to support a causal relation between higher
+intakes of long-chain omega-3 fatty acids and incident diabetes.
+Our study has some limitations. First, we had only one dietary
+assessment for our analyses. Thus, we were unable to account for
+possible changes over time in omega-3 fatty acid intake in our
+cohort. However, similar relations were seen when analyses were
+restricted to the ﬁrst 5 y of follow-up (the period within which
+dietary habits were less likely to change much), which suggested
+that our ﬁndings were unlikely to be explained by a possible bias
+introduced by a change in dietary habits over time. Second,
+subjects at risk of cardiovascular disease who may also be at
+increased risk of T2D may have been advised to consume
+more ﬁsh by their primary care physician. Such a scenario would
+have led to a bias of a positive association. The fact that we saw
+similar results in women who reported infrequent ﬁsh con-
+sumption, and individuals with prevalent coronary disease at
+baseline were excluded, minimizes the possibility of confounding
+by indication in our data. Third, we could not exclude exposure
+misclassiﬁcation because of the self-reported nature of diet.
+However, because the collection of dietary information preceded
+the occurrence of diabetes, such misclassiﬁcation was likely to be
+nondifferential and bias the observed results toward the null.
+Fourth, we could not exclude residual or unmeasured con-
+founding because of observational nature of our study. We also
+lacked detailed data on ﬁsh-oil supplements. Fifth, we did not
+have data on fasting insulin and glucose concentrations to explore
+possible biological pathways by which dietary omega-3 may
+inﬂuence risk of diabetes. Given the high correlation between
+EPA and DHA (Pearson’s r = 0.91) in our data, collinearity
+prevented us from completely examining the independent effects
+of EPA or DHA on diabetes (while adjusting for the other type
+of omega-3). Sixth, we did not have data on fasting glucose or
+hemoglobin A1c concentrations on all participants to fully ex-
+amine relations between dietary omega-3 and those biomarkers.
+Lastly, participants were mostly white, female, health care pro-
+fessionals (95%), which thereby limited the generalizability of
+our ﬁndings. Although we showed a positive association between
+
+higher amounts of omega-3 and T2D in white women, we did
+not have adequate sample size to explore such a relation in other
+ethnic groups.
+Nevertheless, the large sample size, the lengthy (10 y)
+follow-up and nearly complete ascertainment of vital status in
+this cohort, the robustness of our results in sensitivity analyses,
+the standardized method of collection of data on various po-
+tential confounders, and the large number of incident-diabetes
+cases were major strengths of this study.
+
+If conﬁrmed in other populations, these ﬁndings can inform
+future recommendations on dietary approaches to prevent T2D.
+In consideration of the potential cardiovascular beneﬁts of omega-
+3, future studies are warranted to determine a threshold below
+which cardiac beneﬁts are preserved and risk of T2D remains
+neutral. Because of the lack of an association with ALA, plant-
+based omega-3 might appear attractive for people at increased risk
+of T2D (including individuals with a positive parental history of
+diabetes or with genetic polymorphism associated with an in-
+creased risk of diabetes).
+
+In conclusion, our data are consistent with a modest and
+threshold relation between EPA and DHA intakes and incident
+T2D, whereas ALA intake does not appear to be associated with
+an increase risk. Because the observed risk of T2D was mostly
+seen with higher intakes of omega-3 or ﬁsh (’2 servings
+omega-3 or ﬁsh/d), our data do not support the prohibition of
+long-chain omega-3 fatty acids when consumed in moderation.
+Additional studies that conﬁrm these ﬁndings and that focus on
+biological mechanisms in nondiabetic individuals and possible
+differential effects of EPA compared with DHA on glucose
+metabolism and insulin sensitivity are warranted.
+
+We thank the 39,876 dedicated and committed participants of the Women’s
+Health Study and the entire Women’s Health Study staff for their expert and
+unfailing assistance.
+
+The authors’ responsibilities were as follows—LD and I-ML: had full ac-
+cess to all study data and were responsible for data integrity and accuracy of
+data analyses; LD: study concept and design, drafting of the manuscript, and
+statistical analyses; JEB: acquisition of data; JEB and I-ML: obtained fund-
+ing; JMG and I-ML: study supervision; and all authors: analysis and interpre-
+tation of data and critical revision of the manuscript for important intellectual
+content. LD is currently the recipient of investigator-initiated grants from
+the National Institutes of Health. LD received investigator-initiated grants
+from the Huntington’s Disease Society of America, the National Institutes
+of Health, and the Biomedical Research Institute, Brigham and Women’s
+Hospital. JMG received investigator-initiated grants from the National Insti-
+tutes of Health, the Veterans Administration, Amgen, and Veroscience and
+Pills and packaging for a research study from BASF, DSM, and Wyeth.
+JMG served as a consultant to Bayer and as a medical expert for Merck.
+JEB received investigator-initiated grants from the National Institutes of
+Health. I-ML received investigator-initiated grants from the National Insti-
+tutes of Health and has served as a consultant to Virgin HealthMiles.
+
+REFERENCES
+1. Narayan KM, Boyle JP, Thompson TJ, Sorensen SW, Williamson DF.
+Lifetime risk for diabetes mellitus in the United States. JAMA 2003;290:
+1884–90.
+
+2. Mozaffarian D, Kamineni A, Carnethon M, Djousse L, Mukamal KJ,
+Siscovick D. Lifestyle risk factors and new-onset diabetes mellitus in
+older adults: the cardiovascular health study. Arch Intern Med 2009;169:
+798–807.
+
+3. Hu FB, Manson JE, Stampfer MJ, et al. Diet, lifestyle, and the risk of
+
+type 2 diabetes mellitus in women. N Engl J Med 2001;345:790–7.
+
+4. Djousse L, Hunt CS, Tang W, Eckfeldt JH, Province MA, Ellison CR.
+Dietary linolenic acid and fasting glucose and insulin: The National
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/93/1/143/4597612
+by guest
+on 09 August 2018
+
+150
+
+DJOUSSE´ ET AL
+
+Heart, Lung, and Blood Institute Family Heart Study. Obesity (Silver
+Spring) 2006;14:295–300.
+
+5. Kochar J, Djousse L, Gaziano JM. Breakfast cereals and risk of type-2
+diabetes in the Physicians’ Health Study I. Obesity (Silver Spring) 2007;
+15:3039–44.
+
+6. Djousse L, Arnett DK, Carr JJ, et al. Dietary linolenic acid is inversely
+associated with calciﬁed atherosclerotic plaque in the coronary arteries:
+the NHLBI Family Heart Study. Circulation 2005;111:2921–6.
+
+7. Marchioli R, Barzi F, Bomba E, et al. Early protection against sudden
+death by n23 polyunsaturated fatty acids after myocardial infarction:
+time-course analysis of the results of the Gruppo Italiano per lo Studio
+della Sopravvivenza nell’Infarto Miocardico (GISSI)-Prevenzione. Cir-
+culation 2002;105:1897–903.
+
+8. de Lorgeril M, Renaud S, Mamelle N, et al. Mediterranean alpha-linolenic
+acid-rich diet in secondary prevention of coronary heart disease. Lancet
+1994;343:1454–9.
+
+9. Albert CM, Campos H, Stampfer MJ, et al. Blood levels of long-chain
+n23 fatty acids and the risk of sudden death. N Engl J Med 2002;346:
+1113–8.
+
+10. Jenkins DJ, Josse AR, Dorian P, et al. Heterogeneity in randomized
+controlled trials of long chain (ﬁsh) omega-3 fatty acids in restenosis,
+secondary prevention and ventricular arrhythmias. J Am Coll Nutr 2008;
+27:367–78.
+
+11. Yokoyama M, Origasa H, Matsuzaki M, et al. Effects of eicosapentae-
+noic acid on major coronary events in hypercholesterolaemic patients
+(JELIS): a randomised open-label, blinded endpoint analysis. Lancet
+2007;369:1090–8.
+
+12. Kasim SE, Stern B, Khilnani S, McLin P, Baciorowski S, Jen KL. Ef-
+fects of omega-3 ﬁsh oils on lipid metabolism, glycemic control, and
+blood pressure in type II diabetic patients. J Clin Endocrinol Metab
+1988;67:1–5.
+
+13. Friday KE, Childs MT, Tsunehara CH, Fujimoto WY, Bierman EL,
+Ensinck JW. Elevated plasma glucose and lowered triglyceride levels
+from omega-3 fatty acid supplementation in type II diabetes. Diabetes
+Care 1989;12:276–81.
+
+14. Mostad IL, Bjerve KS, Bjorgaas MR, Lydersen S, Grill V. Effects of
+n23 fatty acids in subjects with type 2 diabetes: reduction of insulin
+sensitivity and time-dependent alteration from carbohydrate to fat oxi-
+dation. Am J Clin Nutr 2006;84:540–50.
+
+15. Woodman RJ, Mori TA, Burke V, Puddey IB, Watts GF, Beilin LJ.
+Effects of puriﬁed eicosapentaenoic and docosahexaenoic acids on
+glycemic control, blood pressure, and serum lipids in type 2 diabetic
+patients with treated hypertension. Am J Clin Nutr 2002;76:1007–15.
+
+16. Wang L, Folsom AR, Zheng ZJ, Pankow JS, Eckfeldt JH. Plasma fatty
+acid composition and incidence of diabetes in middle-aged adults: the
+Atherosclerosis Risk in Communities (ARIC) Study. Am J Clin Nutr
+2003;78:91–8.
+
+17. Laaksonen DE, Lakka TA, Lakka HM, et al. Serum fatty acid compo-
+sition predicts development of impaired fasting glycaemia and diabetes
+in middle-aged men. Diabet Med 2002;19:456–64.
+
+18. Meyer KA, Kushi LH, Jacobs DR Jr, Folsom AR. Dietary fat and in-
+cidence of type 2 diabetes in older Iowa women. Diabetes Care 2001;24:
+1528–35.
+
+19. Kaushik M, Mozaffarian D, Spiegelman D, Manson JE, Willett WC, Hu
+FB. Long-chain omega-3 fatty acids, ﬁsh intake, and the risk of type 2
+diabetes mellitus. Am J Clin Nutr 2009;90:613–20.
+
+20. Lee IM, Cook NR, Gaziano JM, et al. Vitamin E in the primary pre-
+vention of cardiovascular disease and cancer: the Women’s Health
+Study: a randomized controlled trial. JAMA 2005;294:56–65.
+
+21. Ridker PM, Cook NR, Lee IM, et al. A randomized trial of low-dose
+aspirin in the primary prevention of cardiovascular disease in women. N
+Engl J Med 2005;352:1293–304.
+
+22. Cook NR, Lee IM, Gaziano JM, et al. Low-dose aspirin in the primary
+prevention of cancer: the Women’s Health Study: a randomized con-
+trolled trial. JAMA 2005;294:47–55.
+
+23. Ding EL, Song Y, Manson JE, Pradhan AD, Buring JE, Liu S. Accuracy
+of administrative coding for type 2 diabetes in children, adolescents, and
+young adults. Diabetes Care 2007;30:e98.
+
+24. Liu S, Lee IM, Song Y, et al. Vitamin E and risk of type 2 diabetes in the
+women’s health study randomized controlled trial. Diabetes 2006;55:
+2856–62.
+
+25. Willett WC, Sampson L, Stampfer MJ, et al. Reproducibility and val-
+idity of a semiquantitative food frequency questionnaire. Am J Epi-
+demiol 1985;122:51–65.
+
+26. Rimm EB, Giovannucci EL, Stampfer MJ, Colditz GA, Litin LB, Willett
+WC. Reproducibility and validity of an expanded self-administered
+semiquantitative food frequency questionnaire among male health pro-
+fessionals. Am J Epidemiol 1992;135:1114–26.
+
+27. Willett WC, Howe GR, Kushi LH. Adjustment for total energy intake in
+
+epidemiologic studies. Am J Clin Nutr 1997;65:1220S–8S.
+
+28. Lee I-M, Paffenbarger RS Jr. Design of present-day epidemiologic studies
+of physical activity and health. In: Lee I-M, ed. Epidemiologic methods in
+physical activity studies. New York, NY: Oxford University Press, 2009.
+29. Wolf AM, Hunter DJ, Colditz GA, et al. Reproducibility and validity of
+a self-administered physical activity questionnaire. Int J Epidemiol
+1994;23:991–9.
+
+30. Hodge AM, English DR, O’Dea K, et al. Plasma phospholipid and di-
+etary fatty acids as predictors of type 2 diabetes: interpreting the role of
+linoleic acid. Am J Clin Nutr 2007;86:189–97.
+
+31. Friedberg CE, Janssen MJ, Heine RJ, Grobbee DE. Fish oil and glycemic
+
+control in diabetes. A meta-analysis. Diabetes Care 1998;21:494–500.
+
+32. Montori VM, Farmer A, Wollan PC, Dinneen SF. Fish oil supplemen-
+tation in type 2 diabetes: a quantitative systematic review. Diabetes Care
+2000;23:1407–15.
+
+33. Mori TA, Burke V, Puddey IB, et al. Puriﬁed eicosapentaenoic and
+docosahexaenoic acids have differential effects on serum lipids and
+lipoproteins, LDL particle size, glucose, and insulin in mildly hyper-
+lipidemic men. Am J Clin Nutr 2000;71:1085–94.
+
+34. Kabir M, Skurnik G, Naour N, et al. Treatment for 2 mo with n 3 poly-
+unsaturated fatty acids reduces adiposity and some atherogenic factors but
+does not improve insulin sensitivity in women with type 2 diabetes:
+a randomized controlled study. Am J Clin Nutr 2007;86:1670–9.
+
+35. Grifﬁn MD, Sanders TA, Davies IG, et al. Effects of altering the ratio of
+dietary n26 to n23 fatty acids on insulin sensitivity, lipoprotein size,
+and postprandial lipemia in men and postmenopausal women aged
+45-70 y: the OPTILIP Study. Am J Clin Nutr 2006;84:1290–8.
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/93/1/143/4597612
+by guest
+on 09 August 2018
+
+

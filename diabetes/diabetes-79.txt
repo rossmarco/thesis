@@ -1,0 +1,1443 @@
+Sugar-sweetened and artiﬁcially sweetened beverage consumption
+and risk of type 2 diabetes in men1–3
+
+Lawrence de Koning, Vasanti S Malik, Eric B Rimm, Walter C Willett, and Frank B Hu
+
+ABSTRACT
+Background: Sugar-sweetened beverages are risk factors for type 2
+diabetes; however, the role of artiﬁcially sweetened beverages is
+unclear.
+Objective: The objective was to examine the associations of sugar-
+and artiﬁcially sweetened beverages with incident type 2 diabetes.
+Design: An analysis of healthy men (n = 40,389) from the Health
+Professionals Follow-Up Study, a prospective cohort study, was per-
+formed. Cumulatively averaged intakes of sugar-sweetened (sodas,
+fruit punches, lemonades, fruit drinks) and artiﬁcially sweetened (diet
+sodas, diet drinks) beverages from food-frequency questionnaires
+were tested for associations with type 2 diabetes by using Cox
+regression.
+Results: There were 2680 cases over 20 y of follow-up. After age
+adjustment, the hazard ratio (HR) for the comparison of the top with
+the bottom quartile of sugar-sweetened beverage intake was 1.25
+(95% CI: 1.11, 1.39; P for trend , 0.01). After adjustment for
+confounders, including multivitamins, family history, high triglycer-
+ides at baseline, high blood pressure, diuretics, pre-enrollment
+weight change, dieting, total energy, and body mass index, the
+HR was 1.24 (95% CI: 1.09, 1.40; P for trend , 0.01). Intake of
+artiﬁcially sweetened beverages was signiﬁcantly associated with
+type 2 diabetes in the age-adjusted analysis (HR: 1.91; 95% CI:
+1.72, 2.11; P for trend , 0.01) but not in the multivariate-adjusted
+analysis (HR: 1.09; 95% CI: 0.98, 1.21; P for trend = 0.13). The
+replacement of one serving of sugar-sweetened beverage with 1 cup
+(’237 mL) of coffee was associated with a risk reduction of 17%.
+Conclusion: Sugar-sweetened beverage consumption is associated
+with a signiﬁcantly elevated risk of type 2 diabetes, whereas the
+association between artiﬁcially sweetened beverages and type 2
+diabetes was largely explained by health status, pre-enrollment
+Am J Clin Nutr
+weight change, dieting, and body mass index.
+2011;93:1321–7.
+
+INTRODUCTION
+
+Consumption of
+
+(eg,
+
+sugar-sweetened beverages
+
+sodas,
+sweetened fruit drinks) in the United States rose 135% between
+1977 and 2001, and in 2004 soda represented 7% of per-capita
+energy intake (1, 2). In parallel with these changes, the prevalence
+of obesity and type 2 diabetes in the United States has risen
+dramatically (3). In prospective cohort studies, sugar-sweetened
+beverages are major risk factors for weight gain and type 2 di-
+abetes (4, 5).
+
+Taxing of sugar-sweetened beverages has been proposed to
+encourage the consumption of other potentially healthier bev-
+
+erages, such as water, low-fat milk, 100% fruit juice, coffee, and
+tea (6). It is unclear whether artiﬁcially sweetened beverages
+should be recommended because they have been shown to be
+associated with an increased risk of type 2 diabetes and car-
+diometabolic dysfunction in some studies (7–9).
+
+The purposes of this study were to examine the associations of
+sugar and artiﬁcially sweetened beverages with type 2 diabetes in
+a well-characterized cohort of men and to determine what other
+beverages should be considered as alternatives.
+
+SUBJECTS AND METHODS
+
+Subjects
+
+In 1986, 51,529 men aged 40–75 y were recruited to form the
+Health Professionals Follow-Up Study (HPFS). As part of the
+study, questionnaires were mailed every other year to participants
+to assess health status and lifestyle factors (94% response rate).
+The HPFS was approved by the Harvard Institutional Review
+Board (Dietary Etiologies of Heart Disease and Cancer Protocol
+no. 10446). The procedures followed were in accordance with the
+ethical standards of Harvard University and with the Helsinki
+Declaration of 1975, as revised in 1983.
+
+Assessment of beverage intake
+
+Intake of sugar-sweetened and artiﬁcially sweetened beverages
+was assessed by using a 131-item semiquantitative food-frequency
+questionnaire (FFQ) that was sent to participants every 4 y.
+Participants were asked to report their usual intake (never to
+6 times/d) of a standard portion of foods and beverages (one
+1 From the Departments of Nutrition (LdK, VSM, EBR, WCW, and FBH)
+and Epidemiology (EBR, WCW, and FBH), Harvard School of Public
+Health, Boston, MA; the Division of Preventive Medicine, Department of
+Medicine, Brigham and Women’s Hospital and Harvard Medical School,
+Boston, MA (EBR, WCW, and FBH); and the Channing Laboratory, De-
+partment of Medicine, Brigham and Women’s Hospital and Harvard Medical
+School, Boston, MA (EBR, WCW, and FBH).
+
+2 Supported by postdoctoral fellowships from the Canadian Institutes of
+Health Research and the Canadian Diabetes Association (to LdK). The
+Health Professionals Follow-Up Study is supported by grants CA55075,
+HL35464, and DK58845 from the National Institutes of Health.
+
+3 Address correspondence to FB Hu, Harvard School of Public Health,
+665 Huntington Avenue, Boston, MA, 02115. E-mail: frank.hu@channing.
+harvard.edu.
+
+Received November 8, 2010. Accepted for publication March 4, 2011.
+First published online March 23, 2011; doi: 10.3945/ajcn.110.007922.
+
+Am J Clin Nutr 2011;93:1321–7. Printed in USA. Ó 2011 American Society for Nutrition
+
+1321
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/93/6/1321/4597819
+by guest
+on 08 August 2018
+
+1322
+
+DE KONING ET AL
+
+standard glass, can, or bottle). Nutrient and energy intakes were
+calculated by multiplying intakes by nutrient and energy con-
+tents and summing across all
+items. Total sugar-sweetened
+beverages were deﬁned as caffeinated colas, caffeine-free colas,
+other carbonated sugar-sweetened beverages, and noncarbonated
+sugar-sweetened beverages (fruit punches, lemonades, or other
+fruit drinks). Artiﬁcially sweetened beverages were deﬁned
+as caffeinated, caffeine-free, and noncarbonated low-calorie
+beverages.
+
+The FFQ was validated against two 7-d diet records admin-
+istered 6 mo apart in a validation study (n = 127) (10). Correlations
+between these measures after correction for within-person var-
+iation were 0.84 for colas, 0.74 for low-calorie colas, and 0.55
+for other carbonated sugar-sweetened beverages (10) For non-
+carbonated sugar-sweetened beverages (fruit punches, lemon-
+ades, and fruit drinks), the correlation was 0.40, which was not
+corrected for within-person variation because of the high ratio
+of within- to between-person variance (7.26) (10). Correlations
+were 0.53 for water, 0.88 for low-fat milk, 0.75–0.89 for fruit
+juices, 0.93 for coffee, and 0.77 for tea (10).
+
+Ascertainment of endpoints
+
+To verify self-reported diagnoses of type 2 diabetes, a sup-
+plementary questionnaire was mailed to the participants (11).
+Cases before 1998 were deﬁned by using National Diabetes
+Data Group criteria, and American Diabetes Association criteria
+were used for those after 1998. Participants with type 1 diabetes
+were excluded. In a validation study, 97% of type 2 diabetes
+cases were conﬁrmed by medical record review (11).
+
+Statistical analysis
+
+Participants with type 2 diabetes, cardiovascular disease (heart
+attack, stroke, angina, or coronary artery bypass graft), cancer
+(except nonmelanoma skin cancer) or an implausible energy
+intake (,800 or .4200 kcal/d) at baseline were excluded, which
+left 40,389 participants.
+
+Person-time was calculated from the return of the baseline
+questionnaire until 31 January 2006, death, loss to follow-up,
+development of type 2 diabetes, or whichever occurred ﬁrst.
+Hazard ratios (HRs) for type 2 diabetes were modeled by using
+age-stratiﬁed Cox proportional hazard models with time-varying
+covariates. Beverage intake was grouped into quartiles, and linear
+trends were evaluated by using the Wald test (1 df) on a term
+representing the median intake in each quartile.
+
+Cumulative averages of dietary variables were calculated at
+each time point to account for previous dietary information and to
+reﬂect long-term patterns of intake. To control for recall bias,
+averages were not updated after the diagnosis of cancer or
+cardiovascular disease. Other covariates were updated at each
+time point. Analyses were repeated by using baseline dietary data
+to assess the association between a single measure of beverage
+intake and type 2 diabetes.
+
+We adjusted for smoking (never; past; current, 1–15 cigarettes/d;
+current, .15 cigarettes/d; or missing), physical activity (quin-
+tiles of metabolic equivalents/wk, or missing), and alcohol in-
+take (abstainers, 0–9.9 g/d, 10–20 g/d, .20 g/d, or missing). We
+also adjusted for family history of type 2 diabetes, high trigly-
+cerides in 1986, and high blood pressure to control for known
+
+diabetes and cardiovascular disease risk, which might motivate
+participants to change their beverage consumption. We did not
+adjust for high triglycerides during the follow-up because it
+could be an early marker for type 2 diabetes. Diuretic use was
+adjusted for as a marker of overall health and because diuretics
+affect thirst. Multivitamin intake from 1988 onward was ad-
+justed to control for self-interest in maintaining good health,
+which could be a marker of diabetes risk as well as beverage
+intake. Diet quality was controlled for by using the alterna-
+tive Healthy Eating Index (aHEI; in quintiles) (12). Recalled
+weight change between 1981 and 1986 (weight gain: 0, 0.9–1.8,
+2.3–4.1, 4.5–6.4, 6.8–8.6, 9.1–13.2, or 13.6 kg; weight loss:
+0, 0.9–1.8, 2.3–4.1, 4.5–6.4, or 6.8 kg) and adherence to a low-
+calorie diet in 1994 were adjusted to control for changes in
+overall health and diabetes risk associated with dieting and also
+possible changes in beverage intake. Finally, total energy intake
+(quintiles) and body mass index [BMI (in kg/m2) ,23, 23–23.9,
+24–24.9, 25–26.9, 27–28.9, 29–30.9, 31–32.9, 33–34.9, 35, or
+missing] were adjusted to study potential mediators of the re-
+lation between beverage intake and type 2 diabetes. If BMI,
+smoking, or physical activity was missing during the follow-up,
+the last value was carried forward. Cubic splines with 3, 4, and
+5 knots were used to test for nonlinear associations.
+
+In a sensitivity analysis, cases of type 2 diabetes occurring
+during the ﬁrst 2 y of follow-up were excluded to assess the extent
+that pre-existing insulin resistance may bias associations. Also, to
+explore the role of elapsed time between the assessment of
+beverage intake and a diagnosis of type 2 diabetes, 4- and 8-y
+lagged analyses were performed. For these analyses, beverage
+intake was used to predict disease occurring 4 or 8 y later.
+
+Analyses were repeated after stratiﬁcation by age (. compared
+with ,65 y), alcohol consumption (drinker compared with ab-
+stainer), family history of type 2 diabetes (yes or no), physical
+activity [low (quintile 1 and quintile 2), medium (quintile 3 and
+quintile 4), or high (quintile 5)], and BMI (,25, 25–29.9, or
+30). The Wald test (1 df) was used for interaction testing of
+cross-product terms (eg, median beverage intake · median BMI).
+Risk of type 2 diabetes was also determined according to the
+per-serving (continuous) intake of sugar-sweetened (total, colas,
+carbonated noncolas, fruit punches, and lemonades) and artiﬁcially
+sweetened beverages after adjustment for continuous covariates. A
+similar analysis was performed for water, low-fat milk (skim, 1%
+fat, and 2% fat), fruit juice (orange, apple, grapefruit, and other
+fruit juice), coffee (caffeinated and decaffeinated), and tea (caf-
+feinated) as a comparison. Beverages with signiﬁcant associations
+with type 2 diabetes were included in a mutually adjusted model to
+assess the effect of substituting one beverage for another. Cross-
+product terms were included in the regression models to test for
+synergistic effects. Because the aHEI includes a measure of low-fat
+milk and fruit juice, red and processed meat and cereal ﬁber were
+adjusted for in these analyses. SAS version 9.1 (SAS, Cary, NC)
+was used for all analyses, and a P value 0.05 was considered
+statistically signiﬁcant.
+
+RESULTS
+
+Baseline characteristics
+
+The mean intake of sugar-sweetened beverages was 2.5
+servings/wk or 0.36 servings/d (SD: 0.61/d) and was mostly cola
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/93/6/1321/4597819
+by guest
+on 08 August 2018
+
+BEVERAGE CONSUMPTION AND RISK OF T2D
+
+1323
+
+(mean 6 SD: 0.21 6 0.46/d). The mean consumption of artiﬁ-
+cially sweetened beverages was 3.4 servings/wk (mean 6 SD:
+0.49 6 0.94/d). The intakes of sugar and artiﬁcially sweetened
+beverages were weakly but inversely correlated (Pearson’s R =
+20.10, P , 0.01)
+
+Consumption of sugar-sweetened beverages was signiﬁcantly
+associated with lower overall diet quality as measured by the
+aHEI (Table 1). Sugar-sweetened beverages were also associ-
+ated with higher intakes of red and processed meat, carbohy-
+drate, total fat, glycemic load, and energy, but with lower intakes
+of protein, vegetable fat, cereal ﬁber, and alcohol. Compared
+with nonconsumers, high consumers of sugar-sweetened bev-
+erages either lost less weight or gained more weight between
+1981 and 1986 and were less likely to have followed a low-
+calorie diet in 1994. They were also more likely to be current
+smokers and were less likely to be physically active, to have
+a family history of type 2 diabetes, or take multivitamins.
+
+Consumption of artiﬁcially sweetened beverages was sig-
+niﬁcantly associated with higher overall diet quality. This
+
+corresponded to a lower intake of red and processed meat, car-
+bohydrate, glycemic load, and energy but with a higher intake of
+protein, total fat, animal fat, vegetable fat, and cereal ﬁber.
+Compared with nonconsumers, high consumers either lost more
+weight or gained more weight between 1981 and 1986 and were
+more likely to have followed a low-calorie diet in 1994. They also
+had a higher BMI, were less likely to be current smokers, and
+were more likely to be physically active, to have a family history
+of type 2 diabetes, to take multivitamins, to have high trigly-
+cerides, to have high blood pressure, or to use diuretics.
+
+Regression analysis
+
+There were 2680 incident cases of type 2 diabetes over 20 y of
+follow-up (370,331 observations, 710,537 person-years). After
+adjustment for age, both beverage types were signiﬁcantly as-
+sociated with an increased risk of type 2 diabetes: top compared
+with bottom quartile of sugar-sweetened beverages (HR: 1.25;
+95% CI: 1.11, 1.39; P for trend , 0.01) and top compared with
+
+TABLE 1
+Age-adjusted characteristics of participants at baseline by quartile (Q) of sugar-sweetened and artiﬁcially sweetened beverage consumption1
+
+Sugar-sweetened beverages
+
+Artiﬁcially sweetened beverages
+
+Q1
+
+(never)
+
+Never
+13,675
+
+Q2
+
+(2/mo)
+
+2/mo
+5022
+
+Q3
+
+Q4
+
+Q1
+
+(1–4/wk)
+
+(4.5/wk to 7.5/d)
+
+(never)
+
+2/wk
+11,729
+
+6.5/wk
+9963
+
+Never
+18,442
+
+Q2
+
+(2/mo)
+
+2/mo
+2681
+
+Q3
+
+Q4
+
+(1–4/wk)
+
+(4.5/wk to 18/d)
+
+2/wk
+9448
+
+1.1/d
+9818
+
+46.0 6 11.72 44.7 6 11.1 43.8 6 10.7
+
+42.2 6 10.6
+
+43.4 6 11.4 44.8 6 11.2 45.1 6 10.8
+
+44.7 6 11.0
+
+Median consumption
+n
+Alternative Healthy
+
+Eating Index
+
+Red and processed meat
+
+0.8 6 0.7
+
+0.9 6 0.7
+
+1.0 6 0.7
+
+1.2 6 0.8
+
+1.0 6 0.8
+
+0.9 6 0.7
+
+0.9 6 0.7
+
+1.0 6 0.7
+
+(servings/d)
+
+Carbohydrate (% of energy)
+Protein (% of energy)
+Total fat (% of energy)
+Animal fat (% energy)
+Vegetable fat (% of energy)
+Cereal ﬁber (g/d)
+Glycemic load
+Alcohol (g/d)
+Total energy intake (kcal/d)
+Weight loss between 1981
+
+and 1986 (kg)
+
+45.5 6 9.5
+19.6 6 3.6
+31.7 6 7.0
+18.3 6 6.2
+13.4 6 4.9
+6.5 6 4.7
+106 6 43
+12.5 6 16.2
+1793 6 554
+0.9 6 2.0
+
+46.6 6 7.6
+18.4 6 3.0
+32.7 6 5.8
+18.9 6 5.3
+13.8 6 4.3
+5.7 6 3.5
+124 6 42
+
+45.9 6 8.2
+19.0 6 3.1
+32.4 6 6.2
+18.7 6 5.7
+13.7 6 4.5
+6.2 6 3.8
+113 6 41
+11.6 6 15.1 11.0 6 14.7
+1886 6 567 2019 6 588
+0.6 6 1.6
+
+0.7 6 1.7
+
+49.6 6 7.3
+16.8 6 2.9
+31.9 6 5.5
+18.6 6 5.03
+13.3 6 4.1
+5.0 6 2.8
+154 6 49
+10.1 6 14.6
+2298 6 647
+0.5 6 1.5
+
+47.4 6 8.5
+18.5 6 3.3
+31.7 6 6.1
+18.1 6 5.5
+13.6 6 4.5
+6.2 6 4.9
+123 6 48
+
+47.7 6 8.6
+17.9 6 3.2
+31.9 6 6.3
+18.6 6 5.8
+13.3 6 4.5
+5.7 6 3.7
+130 6 49
+11.5 6 15.8 10.8 6 15.0 11.3 6 14.3
+2049 6 632 1956 6 610 1945 6 602
+0.7 6 1.7
+
+46.8 6 8.1
+18.8 6 3.2
+31.8 6 5.9
+18.3 6 5.3
+13.5 6 4.3
+6.0 6 3.8
+120 6 46
+
+0.5 6 1.5
+
+0.6 6 1.6
+
+45.5 6 8.4
+19.2 6 3.5
+32.7 6 6.3
+18.9 6 5.5
+13.9 6 4.6
+5.9 6 4.1
+118 6 47
+11.5 6 15.43
+1965 6 619
+0.9 6 2.0
+
+Weight gain between 1981
+
+2.0 6 4.0
+
+2.0 6 3.8
+
+2.0 6 3.8
+
+2.2 6 3.8
+
+1.8 6 3.4
+
+1.9 6 3.7
+
+2.0 6 3.6
+
+2.6 6 4.6
+
+and 1986 (kg)
+
+Low-calorie diet in 1994 (%)
+BMI (kg/m2)
+Current smoking (%)
+Physical activity (METs/wk)
+Family history of type
+
+2 diabetes (%)
+
+Multivitamin use in 1988 (%)
+High triglycerides (%)
+High blood pressure (%)
+Diuretic use (%)
+
+26
+
+23
+
+21
+
+17
+
+15
+
+22
+
+24
+
+33
+
+25.5 6 3.3
+
+25.4 6 3.2
+
+25.4 6 3.2
+
+25.5 6 3.33
+
+24.8 6 3.1
+
+25.3 6 3.0
+
+25.6 6 3.1
+
+26.5 6 3.5
+
+8
+
+8
+
+9
+
+12
+
+12
+
+8
+
+8
+
+7
+
+23.9 6 32.3
+
+21.5 6 26.2 20.7 6 29.3
+
+19.6 6 28.0
+
+20.1 6 27.2 20.5 6 28.4 22.2 6 30.4
+
+23.6 6 33.5
+
+13
+
+33
+8
+20
+9
+
+11
+
+33
+9
+18
+9
+
+11
+
+31
+8
+18
+9
+
+11
+
+30
+83
+193
+93
+
+10
+
+31
+7
+16
+7
+
+12
+
+31
+8
+18
+8
+
+12
+
+32
+9
+20
+10
+
+13
+
+32
+11
+23
+11
+
+1 All values were adjusted to a mean age of 51 y. Linear and logistic regression analyses were used to assess linear trends of participant characteristics
+across quartiles and are signiﬁcant (P  0.05) unless noted otherwise. Sugar-sweetened beverages include caffeinated and caffeine-free colas, other carbonated
+sugar-sweetened beverages, fruit punches, lemonades, and other fruit-ﬂavored beverages. Artiﬁcially sweetened beverages include caffeinated and caffeine-
+free low-calorie colas and other low-calorie carbonated beverages. Reported weight loss and weight gain between 1981 and 1986 are mutually exclusive.
+METs, metabolic equivalents.
+
+2 Mean 6 SD (all such values).
+3 NS.
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/93/6/1321/4597819
+by guest
+on 08 August 2018
+
+1324
+
+DE KONING ET AL
+
+bottom quartile of artiﬁcially sweetened beverages (HR: 1.91;
+95% CI: 1.72, 2.11; P for trend , 0.01) (Table 2).
+
+After adjustment for smoking, physical activity, alcohol in-
+take, and multivitamin use, associations were partly attenuated
+for sugar-sweetened beverages but with ,1% for artiﬁcially
+sweetened beverages. Progressive adjustment for family history,
+high triglycerides, high blood pressure, diuretic use, previous
+weight change, and a low-calorie diet strengthened the associ-
+ation for sugar-sweetened beverages but weakened the associa-
+tion for artiﬁcially sweetened beverages. Further adjustment for
+the aHEI and total energy weakened the association for sugar-
+sweetened beverages but strengthened the association for arti-
+ﬁcially sweetened beverages. Adjustment for BMI strengthened
+the association for sugar-sweetened beverages, but attenuated
+the association for artiﬁcially sweetened beverages. In the fully
+adjusted models, intake of sugar-sweetened beverages was sig-
+niﬁcantly associated with the risk of type 2 diabetes (HR: 1.24;
+95% CI: 1.09, 1.40; P for trend , 0.01); however, intake of
+
+artiﬁcially sweetened beverages was not (HR: 1.09; 95% CI:
+0.98, 1.21; P for trend = 0.13). Associations were tested for
+nonlinearity, but no signiﬁcant evidence of nonlinearity was
+found (P for curvature .0.13). Use of baseline beverage intake
+yielded similar results for sugar-sweetened beverages (HR: 1.19;
+95% CI: 1.07, 1.33; P for trend , 0.01) and artiﬁcially sweet-
+ened beverages (HR: 1.08; 95% CI: 0.98, 1.19; P for trend =
+0.12), as did the exclusion of the ﬁrst 2 y of type 2 diabetes cases
+or performing lagged analyses (data not shown). No signiﬁcant
+interactions were observed between beverage intake and age,
+alcohol, physical activity, or family history (data not shown).
+
+The use of continuous variables and covariates did not change
+the results (Table 3). One serving of sugar-sweetened beverages
+per day was signiﬁcantly associated with a 16% increased risk of
+type 2 diabetes (HR: 1.16; 95% CI: 1.08, 1.25; P , 0.01), which
+was primarily due to colas and carbonated noncolas. Fruit
+punches, lemonades, and other fruit drinks were not signiﬁcantly
+associated with type 2 diabetes. However the intake was low, the
+
+TABLE 2
+Risk of type 2 diabetes according to quartile (Q) of cumulatively averaged sugar-sweetened and artiﬁcially sweetened
+beverage consumption1
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+P for trend
+
+,0.01
+,0.01
+,0.01
+,0.01
+
+,0.01
+
+,0.01
+0.04
+,0.01
+
+,0.01
+,0.01
+,0.01
+,0.01
+
+,0.01
+
+,0.01
+,0.01
+0.13
+
+1.00
+1.00
+1.00
+
+1.38 (1.24, 1.53)
+1.40 (1.26, 1.56)
+1.09 (0.98, 1.21)
+
+Sugar-sweetened beverages
+Quartile range (servings)
+Median consumption (servings)
+Person-years
+Type 2 diabetes cases
+Age adjusted2
+Multivariate adjusted2
+
+Family history
+High triglycerides in 1986,
+
+high blood pressure, diuretics
+
+Never
+Never
+167,462
+
+586
+1.00
+1.00
+1.00
+1.00
+
+2/mo
+2/mo
+
+165,515
+
+629
+
+1–4/wk
+2/wk
+189,851
+
+685
+
+4.5/wk to 7.5/d
+
+6.5/wk
+187,709
+
+780
+
+1.00 (0.89, 1.13)
+1.01 (0.90, 1.13)
+1.02 (0.91, 1.14)
+1.04 (0.93, 1.17)
+
+1.03 (0.92, 1.15)
+1.03 (0.92, 1.15)
+1.05 (0.94, 1.17)
+1.05 (0.94, 1.18)
+
+1.25 (1.11, 1.39)
+1.21 (1.08, 1.36)
+1.22 (1.09, 1.36)
+1.20 (1.08, 1.35)
+
+Previous weight change and
+
+1.00
+
+1.07 (0.95, 1.20)
+
+1.07 (0.95, 1.20)
+
+1.25 (1.12, 1.40)
+
+low-calorie diet
+
+aHEI
+Total energy intake
+BMI
+
+Artiﬁcially sweetened beverages
+
+Quartile range (servings)
+Median consumption (servings)
+Person-years
+Type 2 diabetes cases
+Age adjusted2
+Multivariate adjusted2
+
+Family history
+High triglycerides in 1986,
+
+high blood pressure, diuretics
+
+1.00
+1.00
+1.00
+
+1.06 (0.94, 1.19)
+1.04 (0.92, 1.16)
+1.09 (0.97, 1.22)
+
+1.06 (0.94, 1.18)
+1.01 (0.90, 1.13)
+1.07 (0.95, 1.20)
+
+1.22 (1.09, 1.37)
+1.12 (0.99, 1.26)
+1.24 (1.09, 1.40)
+
+Never
+Never
+252,323
+
+723
+1.00
+1.00
+1.00
+1.00
+
+2/mo
+2/mo
+
+101,307
+
+377
+
+1–4/wk
+2/wk
+178,125
+660
+
+4.5/wk to 18/d
+
+1.1/d
+
+178,782
+
+920
+
+1.18 (1.04, 1.33)
+1.21 (1.06, 1.37)
+1.18 (1.04, 1.34)
+1.16 (1.02, 1.32)
+
+1.25 (1.13, 1.40)
+1.29 (1.16, 1.44)
+1.26 (1.13, 1.41)
+1.18 (1.06, 1.31)
+
+1.91 (1.72, 2.11)
+1.94 (1.75, 2.14)
+1.84 (1.66, 2.03)
+1.60 (1.45, 1.78)
+
+Previous weight change and
+
+1.00
+
+1.13 (1.00, 1.29)
+
+1.10 (0.99, 1.23)
+
+1.35 (1.22, 1.50)
+
+low-calorie diet
+
+1.15 (1.01, 1.31)
+1.17 (1.03, 1.33)
+1.09 (0.96, 1.24)
+
+1.11 (1.00, 1.24)
+1.14 (1.02, 1.27)
+0.98 (0.88, 1.09)
+
+aHEI
+Total energy intake
+BMI
+1 Multivariate models were adjusted for age, smoking (never; past; current, 1–15 cigarettes/d; current, .15 cigarettes/
+d; or missing), physical activity (quintiles of metabolic equivalents/wk or missing), alcohol intake (abstainers, 0–9.9 g/d,
+10–20 g/d, .20 g/d, or missing), multivitamin use, family history of type 2 diabetes, high triglycerides (in 1986), high
+blood pressure, and use of diuretics. Previous weight change represents separate variables for weight gain (0, 0.9–1.8, 2.3–
+4.1, 4.5–6.4, 6.8–8.6, 9.1–13.2, or 13.6 kg) and weight loss (0, 0.9–1.8, 2.3–4.1, 4.5–6.4, or 6.8 kg) between 1981 and
+1986. Low-calorie diet refers to adherence to a low-calorie diet in 1994 (yes, no, or missing). The alternative Healthy Eating
+Index (aHEI) and total energy were classiﬁed as quintiles, and BMI was classiﬁed as 9 categories (in kg/m2; , 23, 23–23.9,
+24–24.9, 25–26.9, 27–28.9, 29–30.9, 31–32.9, 33–34.9, 35, or missing). One serving is equivalent to a standard glass, can, or
+bottle.
+
+2 Values are hazard ratios; 95% CIs in parentheses.
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/93/6/1321/4597819
+by guest
+on 08 August 2018
+
+BEVERAGE CONSUMPTION AND RISK OF T2D
+
+1325
+
+TABLE 3
+Risk of type 2 diabetes associated with one serving per day of sugar-sweetened beverages and other beverages1
+
+Beverage
+
+Total sugar-sweetened beverages
+
+Colas
+Carbonated noncolas
+Fruit punches, lemonades,
+
+other noncarbonated fruit drinks
+
+Artiﬁcially sweetened beverages
+Water
+Low-fat milk
+Fruit juice
+Total coffee
+
+Caffeinated coffee
+Decaffeinated coffee
+
+Tea
+
+Mean 6 SD
+servings/d
+
+0.36 6 0.61
+0.21 6 0.46
+0.07 6 0.20
+0.08 6 0.27
+
+0.49 6 0.94
+2.59 6 1.82
+0.73 6 0.97
+0.78 6 0.84
+1.92 6 1.79
+1.33 6 1.59
+0.59 6 1.10
+0.43 6 0.84
+
+Hazard ratio for one
+serving/d (95% CI)
+
+1.16 (1.08, 1.25)
+1.20 (1.09, 1.32)
+1.35 (1.08, 1.69)
+1.05 (0.89, 1.25)
+
+1.03 (0.99, 1.08)
+1.03 (1.01, 1.06)
+0.98 (0.93, 1.03)
+1.02 (0.96, 1.09)
+0.94 (0.91, 0.96)
+0.96 (0.93, 0.99)
+0.94 (0.90, 0.98)
+0.97 (0.92, 1.03)
+
+P value
+
+,0.01
+,0.01
+,0.01
+0.65
+
+0.12
+0.01
+0.50
+0.51
+,0.01
+,0.01
+0.01
+0.35
+
+1 Models were multivariate adjusted as in Table 2 by using continuous covariates (except for smoking and alcohol). In
+this analysis, red and processed meat and cereal ﬁber (both continuous variables) replace the alternative Healthy Eating
+Index. For sugar-sweetened and artiﬁcially sweetened beverages, one serving is equivalent to a standard glass, can, or
+bottle. For other beverages, one serving is equivalent to 1 cup (’237 mL). Low-fat milk includes skim, 1% fat, and 2% fat
+milk. Coffee includes both caffeinated and decaffeinated coffee. Tea includes only caffeinated tea. Fruit juice includes
+apple, orange, grapefruit, and other fruit juices. Because of missing data, there were 368,293 observations and 2670 events
+in this analysis.
+
+CIs included those for colas, and there was a great deal of
+within-person variation in intake.
+
+Low-fat milk, tea, and fruit juice were not signiﬁcantly as-
+sociated with type 2 diabetes, but water was associated with a 3%
+greater risk of type 2 diabetes per serving per day (HR: 1.03; 95%
+CI: 1.01, 1.06; P = 0.01; Table 3). One serving of coffee per day
+was signiﬁcantly associated with a 6% lower risk of type 2 di-
+abetes (HR: 0.94; 95% CI: 0.91, 0.96; P , 0.01). In a mutually
+adjusted model, nearly 3.5 cups (’830 mL) coffee were re-
+quired to negate the risk associated with 1 serving of sugar-
+sweetened beverages, and replacement of one sugar-sweetened
+beverage with 1 cup coffee was associated with a risk reduction
+of 17%. The risk of type 2 diabetes according to the intake of
+coffee and sugar-sweetened beverages is shown in Table 4. No
+signiﬁcant interaction was observed between coffee and sugar-
+sweetened beverages. (P = 0.72).
+
+DISCUSSION
+
+In the current study, we showed that consumption of sugar-
+sweetened beverages was associated with an increased risk of
+type 2 diabetes in a large cohort of men. Artiﬁcially sweetened
+beverages were not associated with type 2 diabetes after mul-
+tivariate adjustment, whereas coffee was inversely associated
+with type 2 diabetes as reported previously (13).
+
+Sugar-sweetened beverages may increase the risk of type 2
+diabetes through several mechanisms. The ﬁrst is adiposity, which
+is the most important risk factor for type 2 diabetes. Sugar-
+sweetened beverages contain ’150 kcal per serving, which if
+consumed in excess of daily energy balance may promote a 6.8-kg
+annual weight gain (14). In small feeding studies, consumption
+of sugar-sweetened beverages before meals leads to greater en-
+ergy consumption than does consumption of water and other
+beverages (15). This is attributed to the lower satiating effect
+of liquids (16) and possibly to the high fructose content of sugar-
+
+sweetened beverages (2). However, the mechanism underlying
+these observations is unknown, and in recent trials sucrose-
+sweetened beverages had the same effect on satiety as did
+fructose-sweetened beverages or milk (17). Second, sugar-
+sweetened beverages provide large quantities of easily absorb-
+able sugars, which increase glycemic load and the insulin
+response and may elevate type 2 diabetes risk above that pre-
+dicted by total energy intake and adiposity alone (18). Third,
+sugar-sweetened beverages contain additives that may in-
+crease diabetes risk. For example, caramel coloring in cola
+contains advanced glycation end products, which induces insulin
+resistance in animal models (19).
+
+In this study, and in a recent meta analysis by members of our
+research group (4), sugar-sweetened beverages were signiﬁcantly
+associated with an increased risk of type 2 diabetes after ad-
+justment for confounders, including markers of diet quality. This
+decreases the chance that sugar-sweetened beverages are markers
+of a poor diet. Adjustment for total energy intake and BMI had
+little effect, which suggests that they are not major mediators.
+
+TABLE 4
+Risk of type 2 diabetes according to intake of sugar-sweetened beverages
+and coffee1
+
+Sugar-sweetened beverages
+
+Coffee
+
+,1/d
+1–3/d
+.3/d
+
+,1/wk
+
+1/wk to 1/d
+
+.1/d
+
+1.32 (1.11, 1.56)
+1.31 (1.11, 1.54)
+1.00 (reference)
+
+1.35 (1.13, 1.60)
+1.30 (1.10, 1.53)
+1.19 (0.98, 1.44)
+
+1.67 (1.31, 2.13)
+1.44 (1.12, 1.85)
+1.36 (0.94, 1.95)
+
+1 The model was multivariate adjusted as in Table 3. Sugar-sweetened
+beverages (total) were positively associated with type 2 diabetes risk (P ,
+0.01), whereas coffee (decaffeinated and caffeinated) was inversely associ-
+ated with type 2 diabetes risk (P , 0.01). There was no signiﬁcant interac-
+tion between coffee and sugar-sweetened beverages (P = 0.72).
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/93/6/1321/4597819
+by guest
+on 08 August 2018
+
+1326
+
+DE KONING ET AL
+
+Artiﬁcially sweetened beverages are marketed as healthier than
+sugar-sweetened beverages because they contain no sugar and
+negligible calories. However in the Multi-Ethnic Study of Ath-
+erosclerosis, Atherosclerosis Risk in Communities, and Fra-
+mingham offspring prospective cohort studies, consumption of
+artiﬁcially sweetened beverages was signiﬁcantly associated with
+an increased risk of type 2 diabetes and the metabolic syndrome
+(7–9). One explanation for these ﬁndings is that artiﬁcially
+sweetened beverages stimulate appetite for sweet foods at sub-
+sequent meals (20). However, reverse causation and confounding
+are more plausible explanations. Individuals consuming artiﬁ-
+cially sweetened beverages may be doing so in an attempt to lose
+weight, or may have switched to artiﬁcially sweetened beverages
+after gaining weight (21). They may also have switched in re-
+sponse to a diagnosis of a chronic condition such as high tri-
+glycerides, impaired fasting glucose, or high blood pressure (21).
+The underlying health of these participants may therefore be
+compromised, and their risk of type 2 diabetes increased.
+
+In our study, participants consuming artiﬁcially sweetened
+beverages were more likely to have reported either weight gain or
+weight loss before the start of the study, to have tried a low-
+calorie diet, and to have an elevated BMI at baseline. They were
+also more likely to have a family history of type 2 diabetes, have
+high triglycerides, have high blood pressure, use diuretics, and
+take multivitamins—each of which was associated with an in-
+creased risk of type 2 diabetes except for multivitamin use, which
+was protective (data not shown). After adjusting for these factors
+as well as for total energy intake and BMI, artiﬁcially sweetened
+beverages were no longer signiﬁcantly associated with type 2
+diabetes. This supports our hypothesis that participants use
+artiﬁcially sweetened beverages as dieting aids or because of poor
+health. A lack of adjustment for these factors may therefore have
+contributed to illusory associations in other studies.
+
+Our
+
+results support
+
+the replacement of sugar-sweetened
+beverages with others such as artiﬁcially sweetened beverages,
+low-fat milk, fruit juice, coffee, and tea. Water had a weak
+association with type 2 diabetes, which could have been due to
+residual confounding by unmeasured health conditions or medi-
+cations related to diabetes risk and water consumption. The small
+effect size of this association also suggests that it could be an
+artifact. Low-fat milk was not associated with type 2 diabetes in
+our study; however, an earlier analysis indicated that total low-fat
+dairy is protective (22). This is consistent with other studies;
+however, the mechanism is unknown (23).
+
+Our results for fruit juice were surprising given that juices made
+a similar contribution to glycemic load as sugar-sweetened bev-
+erages (mean: 7.4% compared with 6.9% in 1986). In the Nurses’
+Health Study I (24), but not in the Nurse Health Study II (25), fruit
+juice intake was positively associated with type 2 diabetes risk.
+Other prospective studies have similarly found both positive (26)
+and null (27) associations. The reason for these discrepancies is
+unknown, but may involve methodologic differences. For example,
+the Nurses’ Health Study I has more assessments of fruit juice
+intake than does the Nurses’ Health Study II (5 compared with 2)
+and more cases of type 2 diabetes (4521 compared with 749) (24,
+25). On the other hand, misclassiﬁcation of fruit juice with fruit-
+ﬂavored sugar-sweetened beverages, which have a higher glycemic
+index, could create a false association. In the Nurses’ Health Study I
+and II, consumption of these beverages was associated with an
+increased risk of type 2 diabetes (24, 25). Evidence also indicates
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/93/6/1321/4597819
+by guest
+on 08 August 2018
+
+that consumption of a moderate amount of fruit juice may provide
+some beneﬁts. For example, sugar-sweetened beverage consump-
+tion is associated with a greater risk of inadequate intake of vitamins
+E, A, and C and magnesium (28), which could be provided in part
+by fruit juice (29). Fruit juice also contains antioxidants, such as
+ﬂavonoids, which may improve long-term insulin sensitivity by
+reducing inﬂammation (30). In a trial by Ghanim et al (31), fresh
+orange juice prevented the rise in several proinﬂammatory cyto-
+kines and reactive oxygen species after a high-carbohydrate, high-
+fat meal. However, antioxidant content and antiinﬂammatory
+properties vary enormously by fruit juice (32) and are likely af-
+fected by freshness and processing (33). As such, further research is
+needed to clarify the role of fruit juice in diabetes risk.
+
+While substituting sugar-sweetened for artiﬁcially sweetened
+beverages was not associated with excess risk, controversy still
+surrounds their use. Aspartame is hypothesized to increase the risk
+of neurologic deﬁcits or cancer because of its conversion to
+methanol and formaldehyde (34). However, no convincing data
+have been published to validate this hypothesis, and, in a recent
+position statement, the American Dietetic Association has sup-
+ported the use of artiﬁcial sweeteners in the US diet (35). In-
+terestingly, in a recent analysis of a large Danish birth cohort study,
+intake of artiﬁcially sweetened beverages was associated with
+preterm birth, which is consistent with the effects of low-dose
+methanol in animal models (36). Further research on the safety of
+artiﬁcially sweetened beverages may therefore be warranted.
+
+We found that substituting coffee for sugar-sweetened bev-
+erages was associated with a substantial beneﬁt because of its
+inverse association with type 2 diabetes risk. This relation is
+consistent across many prospective cohort studies (37) and is
+attributed to magnesium and ﬂavonoids, such as chlorogenic acid
+(37). Two randomized trials over 8 wk (N Wedick, personal
+communication, 2010) and 3 mo (38) suggest that coffee may
+decrease inﬂammatory factors and increase adiponectin. Tea was
+not associated with type 2 diabetes in our study, although its
+intake was low compared with coffee. Others studies suggest that
+tea might be similarly protective through an antioxidant mech-
+anism (39).
+
+Our study had several strengths. The ﬁrst is that beverage
+intake was measured before the development of type 2 diabetes.
+This minimizes reverse causality and recall bias. Second, par-
+ticipants were similar in socioeconomic status, which reduces the
+possibility of residual confounding as in studies of diverse
+populations. Third, beverage intakes were calculated as cumu-
+lative averages, which captures long-term intake and reduces
+measurement error. Fourth, we controlled for several health and
+lifestyle-related confounders throughout the follow-up and ex-
+plored residual confounding by early weight change and dieting.
+Fifth, the large sample size allowed for the detection of small but
+potentially important changes in risk.
+
+Our study had 2 major limitations. The ﬁrst was generaliz-
+ability, because most of the participants were white men.
+However, the consistency of our results in different strata sug-
+gests that they may be reproducible in other studies. The second
+major limitation was unmeasured and residual confounding,
+which is a problem with all observational studies. However, we
+adjusted for a wide range of potential confounders and used
+continuous covariates to control residual confounding. We also
+eliminated early cases of type 2 diabetes and performed lagged
+analyses, which did not change the results.
+
+BEVERAGE CONSUMPTION AND RISK OF T2D
+
+1327
+
+In conclusion, sugar-sweetened beverage consumption was
+associated with a signiﬁcantly elevated risk of type 2 diabetes,
+independent of lifestyle factors, whereas the association between
+artiﬁcially sweetened beverages and diabetes risk was largely
+explained by health status, pre-enrollment weight change, diet-
+ing, and BMI. Substituting sugar-sweetened beverages with
+coffee was associated with the greatest beneﬁt.
+
+The authors’ responsibilities were as follows—LdK: designed and con-
+ducted the analysis, interpreted the data, and wrote the manuscript; VSM:
+assisted in interpreting the data and edited the manuscript; EBR and
+WCW: obtained funding, managed and conducted the Health Professionals
+Follow-Up Study, and edited the manuscript; and FBH: provided conceptual
+support for this analysis, helped interpret the data, and edited the manuscript.
+None of the authors had a conﬂict of interest.
+
+REFERENCES
+
+1. Nielsen SJ, Popkin BM. Changes in beverage intake between 1977 and
+
+2001. Am J Prev Med 2004;27:205–10.
+
+2. Duffey KJ, Popkin BM. High-fructose corn syrup: is this what’s for
+
+dinner? Am J Clin Nutr 2008;88:1722S–32S.
+
+3. Gross LS, Li L, Ford ES, Liu S. Increased consumption of reﬁned
+carbohydrates and the epidemic of type 2 diabetes in the United States:
+an ecologic assessment. Am J Clin Nutr 2004;79:774–9.
+
+4. Malik VS, Popkin BM, Bray GA, Despres JP, Willett WC, Hu FB.
+Sugar sweetened beverages and risk of metabolic syndrome and type 2
+diabetes: a meta-analysis. Diabetes Care 2010;33:2477–83.
+
+5. Malik VS, Schulze MB, Hu FB. Intake of sugar-sweetened beverages
+and weight gain: a systematic review. Am J Clin Nutr 2006;84:274–88.
+6. Kamerow D. The case of the sugar sweetened beverage tax. BMJ 2010;
+
+341:c3719.
+
+7. Nettleton JA, Lutsey PL, Wang Y, Lima JA, Michos ED, Jacobs DR Jr.
+Diet soda intake and risk of incident metabolic syndrome and type 2
+diabetes in the Multi-Ethnic Study of Atherosclerosis (MESA). Di-
+abetes Care 2009;32:688–94.
+
+8. Lutsey PL, Steffen LM, Stevens J. Dietary intake and the development
+of the metabolic syndrome: the Atherosclerosis Risk in Communities
+study. Circulation 2008;117:754–61.
+
+9. Dhingra R, Sullivan L, Jacques PF, et al. Soft drink consumption and risk
+of developing cardiometabolic risk factors and the metabolic syndrome in
+middle-aged adults in the community. Circulation 2007;116:480–8.
+
+10. Feskanich D, Rimm EB, Giovannucci EL, et al. Reproducibility and
+validity of food intake measurements from a semiquantitative food
+frequency questionnaire. J Am Diet Assoc 1993;93:790–6.
+
+11. Hu FB, Leitzmann MF, Stampfer MJ, Colditz GA, Willett WC, Rimm
+EB. Physical activity and television watching in relation to risk for type
+2 diabetes mellitus in men. Arch Intern Med 2001;161:1542–8.
+
+12. McCullough ML, Feskanich D, Stampfer MJ, et al. Diet quality and
+major chronic disease risk in men and women: moving toward im-
+proved dietary guidance. Am J Clin Nutr 2002;76:1261–71.
+
+13. Salazar-Martinez E, Willett WC, Ascherio A, et al. Coffee consumption
+
+and risk for type 2 diabetes mellitus. Ann Intern Med 2004;140:1–8.
+
+14. Apovian CM. Sugar-sweetened soft drinks, obesity, and type 2 di-
+
+abetes. JAMA 2004;292:978–9.
+
+15. Stookey JD, Constant F, Gardner CD, Popkin BM. Replacing sweet-
+ened caloric beverages with drinking water is associated with lower
+energy intake. Obesity (Silver Spring) 2007;15:3013–22.
+
+16. Hu FB, Malik VS. Sugar-sweetened beverages and risk of obesity and
+type 2 diabetes: epidemiologic evidence. Physiol Behav 2010;100:47–54.
+17. Soenen S, Westerterp-Plantenga MS. No differences in satiety or en-
+ergy intake after high-fructose corn syrup, sucrose, or milk preloads.
+Am J Clin Nutr 2007;86:1586–94.
+
+18. Salmeron J, Ascherio A, Rimm EB, et al. Dietary ﬁber, glycemic load,
+
+and risk of NIDDM in men. Diabetes Care 1997;20:545–50.
+
+19. Vlassara H, Cai W, Crandall J, et al. Inﬂammatory mediators are in-
+duced by dietary glycotoxins, a major risk factor for diabetic angiop-
+athy. Proc Natl Acad Sci USA 2002;99:15596–601.
+
+20. Blundell JE, Hill AJ. Paradoxical effects of an intense sweetener (as-
+
+partame) on appetite. Lancet 1986;1:1092–3.
+
+21. Elfhag K, Tynelius P, Rasmussen F. Sugar-sweetened and artiﬁcially
+sweetened soft drinks in association to restrained, external and emo-
+tional eating. Physiol Behav 2007;91:191–5.
+
+22. Choi HK, Willett WC, Stampfer MJ, Rimm E, Hu FB. Dairy con-
+sumption and risk of type 2 diabetes mellitus in men: a prospective
+study. Arch Intern Med 2005;165:997–1003.
+
+23. Elwood PC, Pickering JE, Givens DI, Gallacher JE. The consumption
+of milk and dairy foods and the incidence of vascular disease and di-
+abetes: an overview of the evidence. Lipids 2010;45:925–39.
+
+24. Bazzano LA, Li TY, Joshipura KJ, Hu FB. Intake of fruit, vegetables,
+and fruit juices and risk of diabetes in women. Diabetes Care 2008;31:
+1311–7.
+
+25. Schulze MB, Manson JE, Ludwig DS, et al. Sugar-sweetened bev-
+erages, weight gain, and incidence of type 2 diabetes in young and
+middle-aged women. JAMA 2004;292:927–34.
+
+26. Odegaard AO, Koh WP, Arakawa K, Yu MC, Pereira MA. Soft drink
+and juice consumption and risk of physician-diagnosed incident type 2
+diabetes: the Singapore Chinese Health Study. Am J Epidemiol 2010;
+171:701–8.
+
+27. Paynter NP, Yeh HC, Voutilainen S, et al. Coffee and sweetened bev-
+erage consumption and the risk of type 2 diabetes mellitus: the ath-
+erosclerosis risk in communities study. Am J Epidemiol 2006;164:
+1075–84.
+
+28. Marriott BP, Olsho L, Hadden L, Connor P. Intake of added sugars and
+selected nutrients in the United States, National Health and Nutrition
+Examination Survey (NHANES) 2003-2006. Crit Rev Food Sci Nutr
+2010;50:228–58.
+
+29. O’Neil CE, Nicklas TA, Kleinman R. Relationship between 100% juice
+consumption and nutrient intake and weight of adolescents. Am J
+Health Promot 2010;24:231–7.
+
+30. Cazarolli LH, Zanatta L, Alberton EH, et al. Flavonoids: cellular and
+molecular mechanism of action in glucose homeostasis. Mini Rev Med
+Chem 2008;8:1032–8.
+
+31. Ghanim H, Sia CL, Upadhyay M, et al. Orange juice neutralizes the
+proinﬂammatory effect of a high-fat, high-carbohydrate meal and
+prevents endotoxin increase and Toll-like receptor expression. Am J
+Clin Nutr 2010;91:940–9.
+
+32. Seeram NP, Aviram M, Zhang Y, et al. Comparison of antioxidant
+potency of commonly consumed polyphenol-rich beverages in the
+United States. J Agric Food Chem 2008;56:1415–22.
+
+33. US Department of Agriculture. USDA Database for the ﬂavonoid
+
+content of selected foods. 2.1st ed. Beltsville, MD: USDA, 2007.
+
+34. Humphries P, Pretorius E, Naude H. Direct and indirect cellular effects
+
+of aspartame on the brain. Eur J Clin Nutr 2008;62:451–62.
+
+35. American Dietetic Association. Position of the American Dietetic
+Association: use of nutritive and nonnutritive sweeteners. J Am Diet
+Assoc 2004;104:255–75.
+
+36. Halldorsson TI, Strom M, Petersen SB, Olsen SF. Intake of artiﬁcially
+sweetened soft drinks and risk of preterm delivery: a prospective cohort
+study in 59,334 Danish pregnant women. Am J Clin Nutr 2010;92:626–33.
+37. van Dam RM, Hu FB. Coffee consumption and risk of type 2 diabetes:
+
+a systematic review. JAMA 2005;294:97–104.
+
+38. Kempf K, Herder C, Erlund I, et al. Effects of coffee consumption on
+subclinical inﬂammation and other risk factors for type 2 diabetes:
+a clinical trial. Am J Clin Nutr 2010;91:950–7.
+
+39. Huxley R, Lee CM, Barzi F, et al. Coffee, decaffeinated coffee, and tea
+consumption in relation to incident type 2 diabetes mellitus: a systematic
+review with meta-analysis. Arch Intern Med 2009;169:2053–63.
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/93/6/1321/4597819
+by guest
+on 08 August 2018
+
+

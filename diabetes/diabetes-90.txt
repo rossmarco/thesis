@@ -1,0 +1,1306 @@
+Nutrition, Metabolism & Cardiovascular Diseases (2011) 21, 733e739
+
+a v a i l a b l e a t w w w . s c i e n c e d i r e c t . c o m
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / n m c d
+
+Does a Mediterranean diet reduce the mortality risk
+associated with diabetes: Evidence from the
+Melbourne Collaborative Cohort Study*
+
+A.M. Hodge a,*, D.R. English b,c, C. Itsiopoulos e, K. O’Dea d, G.G. Giles c
+
+a University of Melbourne, Department of Medicine, St Vincent’s Hospital, PO Box 2900, Fitzroy, VIC 3065, Australia
+b Centre for MEGA Epidemiology, School of Population Health, The University of Melbourne, Level 1, 723 Swanston St,
+VIC 3010, Australia
+c The Cancer Council Victoria, Cancer Epidemiology Centre, Cancer Epidemiology Centre, Cancer Council Victoria, 1
+Rathdowne Street, Carlton, VIC 3053, Australia
+d Sansom Institute for Health Research, University of South Australia, GPO Box 2471, Adelaide, SA 5001, Australia
+e Nutrition and Dietetics Discipline, Faculty of Health, University of Canberra, ACT 2061, Australia
+
+Received 20 December 2009; received in revised form 8 October 2010; accepted 21 October 2010
+
+KEYWORDS
+Mediterranean diet
+score;
+Type 2 diabetes
+mellitus;
+Mortality;
+Cardiovascular
+mortality
+
+Background and aims: Diabetes is a risk factor for cardiovascular disease (CVD), yet
+Abstract
+southern European migrants to Australia with high rates of type 2 diabetes have relatively low
+CVD mortality. Our aim was to determine whether a Mediterranean style diet could reduce
+mortality in people with diabetes.
+Methods and results: Participants included 16,610 males and 23,860 females from the Mel-
+bourne Collaborative Cohort Study; 25% were born in Greece or Italy, and 2150 had previously
+been diagnosed with diabetes or had elevated blood glucose at baseline (1990e94). Data on
+demographic, behavioral and physical risk factors were also collected. A personal Mediterra-
+nean Diet Score (MDS) was calculated using data from a validated 121-item food frequency
+questionnaire. Total and CVD mortality data were available up to 2003.
+
+Diabetes (new and known) at baseline, was associated with total mortality (men HR 1.43,
+95%CI 1.26e1.62; women HR 1.86 95%CI 1.58e2.18), and CVD mortality (men HR 1.53, 95%CI
+1.21e1.94; women HR 2.10 95%CI 1.48e2.97) in multivariate models. There was no evidence
+that glucose tolerance modiﬁed the associations between MDS and total or CVD mortality (p
+interaction all > 0.16). The HRs for total mortality per unit of MDS were 0.96 (95% CI
+0.93e0.99) in men and 0.94 (95% CI 0.92e0.97) in women. The HRs for CVD mortality per unit
+of MDS were 0.94 (95% CI 0.89e0.99) in men and 0.94 (95% CI 0.87e1.01) in women.
+
+* Grant Support. This work was funded by VicHealth, The Cancer Council Victoria and the National Health and Medical Research Council
+(Grant Ids 124317, 126402, 126403, 180705, 180706, 194327, 209057, 251533). These funding sources had no input into study design, or
+collection, analysis and interpretation of the data.
+* Corresponding author. Tel.: þ61 3 9288 2676; fax: þ61 3 9288 2581.
+E-mail address: ahodge@medstv.unimelb.edu.au (A.M. Hodge).
+
+0939-4753/$ - see front matter ª 2010 Elsevier B.V. All rights reserved.
+doi:10.1016/j.numecd.2010.10.014
+
+734
+
+A.M. Hodge et al.
+
+Conclusion: Our results add to the evidence supporting the beneﬁt of a Mediterranean style
+diet for people with type 2 diabetes.
+ª 2010 Elsevier B.V. All rights reserved.
+
+Introduction
+
+Coronary heart disease risk is increased in the presence of
+type 2 diabetes [1]. Despite an elevated risk of type 2
+diabetes [2;3], migrants from southern Europe to Australia
+have a lower risk of cardiovascular disease (CVD) than those
+born in Australia [4]. Closer adherence to a Mediterranean
+style diet has been linked with lower total and cardiovas-
+cular mortality [5]. Current American Diabetes Association
+(ADA) recommendations for medical nutrition therapy for
+people with diabetes include many elements characteristic
+of a Mediterranean diet: fruit, vegetables, legumes, whole
+grains, ﬁsh, and low intakes of saturated fat and choles-
+terol [6]. However, we are not aware of any other studies
+looking at the association of a Mediterranean diet with
+mortality in people with diabetes.
+
+The Melbourne Collaborative Cohort Study (MCCS) [7]
+provided an opportunity to examine the association
+between diabetes and CVD mortality in a cohort including
+25% of migrants from Greece and Italy, who have retained
+features of their traditional diets despite over 50 years
+residence in Australia. Speciﬁcally, we aimed to examine
+whether adherence to a Mediterranean style diet can
+reduce diabetes associated mortality risks.
+
+Methods
+
+Subjects
+
+The MCCS is a prospective cohort study comprising 17,045
+men and 24,469 women, aged between 27 and 75 years at
+baseline (99.3% were aged 40e69 years). Study participants
+were recruited from the Melbourne metropolitan area
+between 1990 and 1994 via the Electoral Rolls, advertise-
+ments, and community announcements. Southern European
+migrants were deliberately over-sampled to extend the
+range of lifestyle exposures. The Cancer Council Victoria’s
+Human Research Ethics Committee approved the study
+protocol. Further details of the study have been published
+elsewhere [7]. After participants without a complete data
+set, or with estimated energy intakes in the upper and
+lower 1% of the sex speciﬁc distributions, were excluded
+(included men had energy intakes 3761-25,390 kJ/d and
+women 3149-21,395 kJ/d), 16,610 male and 23,860 female
+participants were available for analysis. All participants
+attended a study centre at baseline, where physical
+measurements, blood sampling and interviewer-adminis-
+tered questionnaires were completed.
+
+Possible confounders
+
+Height, weight, and waist and hip circumferences were
+measured according to standard procedures [8]. Other
+
+possible confounders identiﬁed a priori were: country of
+birth (Australia, United Kingdom, Italy, Greece); physical
+activity (none, low, moderate, high [9]); alcohol intake
+(men: none, 1e39, 40e59, 60 þ g/d; women: none, 1e19,
+20 þ g/d); education (primary school, some high or tech-
+nical school, completed high or technical school, degree/
+diploma); smoking status (never, past, current); living alone
+(yes, no); previous history of illness (angina, heart attack,
+cancer, stroke); family history (father, mother, or sibling)
+of heart attack; plasma cholesterol; and hypertension
+(SBP 140 mmHg or DBP  90 or use of antihypertensive
+medication).
+
+Dietary data
+
+Dietary data were collected with a self-administered 121-
+item food frequency questionnaire speciﬁcally developed
+for the study [10]. Alcohol intake data were collected using
+beverage speciﬁc frequency and quantity questions. A
+Mediterranean Diet Score (MDS) was computed based on
+that described by Trichopoulou et al. [11]. For frequencies
+of intake above the sex speciﬁc medians for vegetables,
+fruit, cereals, legumes, and ﬁsh; and below the medians for
+dairy and red meat (not chicken), participants were allo-
+cated 1 point, or zero for intakes on the other side of the
+median. For alcohol, 1 point was allocated for daily intakes
+between 10 and 50 g/d for men and 5e25 g/d for women,
+lower or higher intakes scored zero [11]. Trichopoulou et al.
+used the ratio of dietary monounsaturated (MUFA):satu-
+rated fats as the ninth component of the score [11] but we
+used the intake of olive oil. In Australia, red meat is an
+important source of MUFA [12]. Thus the score ranged from
+0 for no adherence to a Mediterranean diet, to 9 for
+a strongly Mediterranean style diet.
+
+Mortality
+
+Deaths were identiﬁed through the Victorian Registry of
+Births, Deaths and Marriages, and the National Death
+Index. Deaths records for Victoria were complete to
+December 31, 2003, and to the end of 2002 for deaths in
+other states. Residential addresses were determined by
+record linkage to Electoral Rolls, from electronic phone
+books, and from responses to mailed questionnaires and
+newsletters. By the end of follow-up on December 31,
+2003, 55 (0.2%) of the subjects included in this analysis
+were known to have left Australia and were considered
+lost to follow-up. Participants were deﬁned as having
+died from CVD if the primary cause of death had an
+International Classiﬁcation of Diseases
+(ICD)-9 code
+401.0e444.9 or ICD-10 code I00-I74. Deaths recorded in
+1991 and 1992 were coded by the Victorian Cancer
+Registry, while those post-1992 were coded by the
+Australian Bureau of Statistics.
+
+Mediterranean diet and mortality in diabetes
+
+735
+
+Glucose tolerance status
+
+Plasma glucose at baseline was measured using a Kodak
+Ektachem analyzer (Rochester, NY), and classiﬁed as normal
+glucose tolerance (NGT) if fasting glucose < 6.1 mmol/l
+
+or non-fasting glucose < 7.8 mmol/l and no previous diag-
+nosis; impaired fasting glucose (IFG) if fasting glucose >
+6.1 mmol/l and <7.0 mmol/l; impaired glucose tolerance
+(IGT) if non-fasting glucose  7.8 mmol/l & <11.1 mmol/l
+and no previous diagnosis; new diabetes if fasting glucose 
+
+Table 1
+
+Baseline characteristics and mortality over the following 12.3 years according to baseline glucose tolerance.
+
+Variable
+
+NGT
+
+IFG
+
+1352
+
+IGT
+
+103
+
+NDM
+
+415
+
+KDM
+
+755
+
+58.3 (7.9)
+83.7 (12.4)
+145.1 (21.3)
+5.7 (1.0)
+28.5 (3.5)
+0.94 (0.06)
+16,885
+
+57.4 (8.0)
+81.0 (11.9)
+145.6 (19.4)
+5.5 (1.0)
+28.2 (4.1)
+0.94 (0.07)
+1147
+
+59.4 (7.2)
+84.2 (14.9)
+148.6 (22.1)
+5.8 (1.1)
+29.5 (4.0)
+0.96 (0.06)
+5045
+
+60.5 (6.9)
+80.9 (12.2)
+146.7 (22.1)
+5.4 91.1)
+28.9 (4.0)
+0.96 (0.06)
+8970
+
+15.6
+10.3
+28.9
+35.1
+14.6
+59.6
+14.8
+
+56.9
+4.1
+21.4
+17.6
+67.0
+17.5
+5.1
+1025
+
+20.4
+15.5
+22.3
+30.1
+23.3
+54.4
+21.4
+
+54.4
+17.5
+10.7
+16.5
+56.8
+19.4
+3.9
+74
+
+18.5
+10.1
+30.4
+33.7
+12.3
+59.3
+11.3
+
+59.3
+5.3
+27.0
+20.2
+78.5
+23.6
+6.3
+251
+
+15.4
+11.9
+35.8
+34.7
+14.4
+57.9
+9.1
+
+57.9
+6.1
+25.8
+27.4
+68.6
+30.1
+8.6
+729
+
+59.6 (7.0)
+76.6 (11.5)
+145.8 (21.1)
+6.0 (1.1)
+29.6 (5.0)
+0.82 (0.07)
+13,157
+
+56.7 (7.5)
+72.8 (13.2)
+137.8 (26.7)
+5.6 (1.0)
+28.6 (7.1)
+0.82 (0.07)
+867
+
+59.6 (7.1)
+76.7 (13.1)
+149.9 (23.9)
+5.9 (1.2)
+31.5 (5.7)
+0.85 (0.06)
+3153
+
+58.6 (7.9)
+75.4 (13.1)
+145.5 (23.4)
+5.7 (1.1)
+30.2 (5.6)
+0.85 (0.07)
+8930
+
+7.2
+15.5
+23.5
+40.0
+12.4
+36.9
+7.5
+
+60.8
+3.0
+20.9
+15.3
+65.3
+12.4
+2.7
+
+12.2
+23.0
+23.0
+44.6
+23.0
+43.2
+28.4
+
+73.0
+6.8
+12.2
+8.1
+59.2
+10.8
+1.3
+
+10.0
+15.5
+30.3
+40.2
+6.0
+33.9
+5.6
+
+57.8
+3.2
+21.9
+17.1
+76.6
+18.7
+4.4
+
+8.9
+16.3
+24.0
+41.8
+12.1
+26.9
+7.3
+
+44.3
+6.0
+29.4
+20.3
+69.1
+20.4
+4.5
+
+p
+
+<0.001
+<0.001
+<0.001
+<0.001
+<0.001
+<0.001
+
+<0.001
+0.348
+<0.001
+0.855
+<0.001
+<0.001
+<0.001
+
+<0.001
+
+<0.001
+<0.001
+<0.001
+
+<0.001
+<0.001
+<0.001
+<0.001
+<0.001
+<0.001
+
+<0.001
+0.514
+<0.001
+0.822
+<0.001
+<0.001
+<0.001
+<0.001
+
+<0.001
+<0.001
+<0.001
+
+13,985
+
+55.2 (8.9)
+80.6 (11.40
+138.3 (19.0)
+5.4 (1.0)
+26.9 (3.5)
+0.92 (0.06)
+168,841
+
+14.0
+11.5
+23.6
+34.9
+26.8
+66.8
+27.9
+
+68.5
+8.8
+12.3
+10.3
+39.6
+12.5
+3.0
+21,781
+
+Men n
+Mean (SD)
+Age (yrs)
+DBP (mmHg)
+SBP (mmHg)
+Cholesterol (mmol/L)
+BMI (kg/m2)
+WHR
+Person-years
+Percentages
+Current smoker (%)
+Live alone (%)
+Previous Hx CVD or cancer
+FHx heart attack (%)
+Physically active (%)a
+Alcohol 1-39 g/d (%)
+High school/uni (%)
+Country of birth
+Australia (%)
+UK (%)
+Italy (%)
+Greece (%)
+Hypertension (%)
+Total mortality (%)
+CVD mortality (%)
+Women n
+Mean (SD)
+Age (yrs)
+DBP (mmHg)
+SBP (mmHg)
+Cholesterol (mmol/L)
+BMI (kg/m2)
+WHR
+Person-years
+Percentages
+Current smoker (%)
+Live alone (%)
+Previous Hx CVD or cancer
+FHx heart attack (%)
+Physically active (%)a
+Alcohol 1-19 g/d (%)
+High school/uni (%)
+Country of birth
+Australia (%)
+UK (%)
+Italy (%)
+Greece (%)
+Hypertension (%)
+Total mortality (%)
+CVD mortality (%)
+a The most active of 4 level s of activity.
+
+9.0
+16.6
+17.5
+40.1
+21.2
+48.1
+20.5
+
+73.0
+6.9
+10.9
+9.1
+48.4
+6.5
+1.0
+
+54.6 (8.6)
+72.4 (11.4)
+133.6 (20.0)
+5.5 (1.1)
+26.4 (4.7)
+0.78 (0.07)
+270,723
+
+736
+
+A.M. Hodge et al.
+
+Table 2
+
+Hazards ratio for all cause and CVD mortality according to glucose tolerance at baseline.
+
+NGT
+
+IFG
+
+IGT
+
+NDM
+
+KDM
+
+p trend
+
+13,985
+
+1352
+
+103
+
+415
+
+755
+
+1.00
+1.00
+21,781
+
+1.30 (1.06e1.60)
+1.25 (1.02e1.54)
+
+1.56 (1.36e1.80)
+1.52 (1.32e1.75)
+
+1.01 (0.89e1.16)
+0.98 (0.86e1.13)
+
+1.58 (1.01e2.46
+1.52 (0.98e2.38)
+
+1.25 (0.97e1.61)
+1.13 (0.87e1.47)
+1025
+
+Men n
+All cause mortality
+Model 1a
+1.00
+Model 2b
+1.00
+CVD mortality
+Model 1c
+Model 2d
+Women n
+All cause mortality
+Model 1e
+1.00
+Model 2f
+1.00
+CVD mortality
+Model 1g
+Model 2h
+a Stratiﬁed for past history of illness, smoking status and education, no adjustment.
+b Stratiﬁed for past history of illness, smoking status and education, adjusted for country of birth, alcohol intake, living alone, physical
+activity, hypertension (y/n), cholesterol, family history of heart attack, WHR, and BMI.
+
+1.94 (1.49e2.52)
+1.70 (1.29e2.22)
+729
+
+1.44 (0.97e2.14)
+1.24 (0.83e1.85)
+251
+
+1.18 (0.44e3.15)
+1.04 (0.39e2.80)
+74
+
+<0.001
+<0.001
+
+<0.001
+<0.001
+
+1.15 (0.96e1.38)
+1.14 (0.94e1.37)
+
+1.47 (0.73e2.95)
+1.39 (0.69e2.79)
+
+1.67 (1.12e2.47)
+1.33 (0.89e2.00)
+
+1.32 (0.18e9.42)
+1.13 (0.16e8.11)
+
+1.63 (1.22e2.19)
+1.48 (1.10e2.00)
+
+2.16 (1.81e2.57)
+2.02 (1.69e2.42)
+
+2.77 (1.51e5.08)
+1.83 (0.99e3.40)
+
+3.20 (2.22e4.63)
+2.21 (1.50e3.27)
+
+<0.001
+<0.001
+
+<0.001
+<0.001
+
+1.00
+1.00
+
+c Stratiﬁed for family history of heart attack, smoking, no adjustment.
+d Stratiﬁed for family history of heart attack, smoking, adjusted for country of birth, education, alcohol intake, living alone, physical
+activity, hypertension (y/n), cholesterol, past history of illness, WHR, and BMI.
+e Stratiﬁed for past history of illness, living alone and education, no adjustment.
+f Stratiﬁed for past history of illness, living alone and education, adjusted for country of birth, alcohol intake, smoking, physical
+
+activity, hypertension (y/n), cholesterol, family history of heart attack, WHR, and BMI.
+
+g Stratiﬁed for family history of heart attack, living alone, no adjustment.
+h Stratiﬁed for family history of heart attack, living alone, adjusted for country of birth, education, alcohol intake, smoking, physical
+activity, hypertension (y/n), cholesterol, past history of illness, WHR, and BMI.
+
+7.0 mmol/l or non-fasting glucose  11.1 mmol/l [13], and
+no previous diagnosis; and known diabetes if a previous
+diagnosis of diabetes was reported. We did not differentiate
+between type 1 and type 2 diabetes.
+
+Statistical analysis
+
+All analyses were performed separately for men and
+women. Interactions between gender and glucose toler-
+ance status were tested for each outcome. Models were run
+with and without the interaction terms, and compared
+using the likelihood ratio test. Cox proportional hazards
+regression models, with age as the time axis, were used to
+estimate the hazard ratios for mortality associated with
+glucose tolerance status. The models with total mortality as
+the outcome were stratiﬁed for previous history of illness
+(angina, heart attack,
+smoking and
+education level at baseline for men, with smoking replaced
+by living alone for women; because for these variables, the
+hazards were found not to be proportional. Models for CVD
+mortality were stratiﬁed by family history of heart attack
+and smoking for men; family history of heart attack and
+living alone for women. Two models were used, model 1
+with no confounders included, and model 2 with the
+confounders listed above.
+
+stroke, cancer),
+
+We then tested the hypothesis that closer adherence to
+a Mediterranean diet would attenuate mortality in people
+with diabetes. In sex speciﬁc multivariate models including
+energy intake and the covariates
+listed previously;
+excluding participants with previously diagnosed diabetes
+
+to avoid the possible confounding effect of dietary changes
+in response to the diagnosis, the HR per unit increment in
+MDS was calculated for total and CVD mortality. Interac-
+tions between the MDS as a continuous variable, and
+glucose tolerance status as 4 categories, with total and
+CVD mortality as the outcomes were tested, as described
+above. These analyses were also repeated including the
+people with previously reported diabetes at baseline. Rates
+of CVD mortality were also plotted across glucose tolerance
+status for MDS above and below the median.
+
+Results
+
+There were 4082 deaths, including 874 CVD deaths, over
+an average follow-up of 12.3 years. Table 1 shows the
+characteristics of men and women across glucose tolerance
+classes. People with diabetes were older than those with
+normal glucose tolerance, had higher blood pressure and
+more hypertension, were less physically active, more likely
+to have a history of CVD and had higher BMI and WHR.
+People with diabetes were also less educated, largely due
+to the higher prevalence of southern European migrants.
+Mortality rates increased with worsening glucose tolerance.
+Hazard ratios for total and CVD mortality for diabetes
+compared with normal glucose tolerance were elevated for
+men and women (Table 2). These associations were atten-
+uated after multivariate adjustment. In the unadjusted
+model, known diabetes was associated with around
+a twofold increase in CVD mortality for men and a threefold
+increase for women. The mortality risk associated with new
+
+Mediterranean diet and mortality in diabetes
+
+737
+
+Table 3
+diabetes at baseline.
+
+Hazards ratios per unit of Mediterranean Diet Score, including and excluding people with previously diagnosed
+
+Exclude known
+DM at baseline
+
+p interaction
+glucose tol*MDS
+
+Include known
+DM at baseline
+
+p interaction
+glucose tol*MDS
+
+Total mortality
+Men
+Women
+Cardiovascular mortality
+Men
+Women
+
+0.96 (0.93e0.99)
+0.94 (0.91e0.97)
+
+0.95 (0.89e1.00)
+0.94 (0.86e1.01)
+
+0.58
+0.53
+
+0.84
+0.16
+
+0.96 (0.93e0.99)
+0.94 (0.92e0.97)
+
+0.94 (0.89e0.99)
+0.94 (0.87e1.01)
+
+0.75
+0.66
+
+0.78
+0.28
+
+diabetes was less than for previously diagnosed diabetes.
+Because of the smaller number of CVD deaths, the HRs for
+CVD mortality associated with new diabetes were not
+statistically signiﬁcant after multivariate adjustment,
+although the HRs were not smaller than those for total
+mortality. The increase in risk of total and CVD mortality
+across glucose tolerance categories was steeper for women
+than for men (p interaction in model 1 Z 0.02 for total and
+0.06 for CVD mortality).
+
+a
+
+)
+
+%
+
+(
+ 
+
+y
+t
+i
+l
+
+a
+t
+r
+o
+M
+
+b
+
+)
+
+%
+
+(
+ 
+
+y
+t
+i
+l
+
+a
+t
+r
+o
+M
+
+16
+
+14
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+-2
+
+-4
+
+14
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+-2
+
+-4
+
+NGT
+
+IFG
+
+IGT
+
+NDM
+
+KDM
+
+Glucose tolerance
+
+NGT
+
+IFG
+
+IGT
+
+NDM
+
+KDM
+
+Table 3 shows the HRs for unit increments in MDS for
+total and CVD mortality in men and women. There was very
+little difference in the HRs whether people with known
+diabetes at baseline were excluded or not, and no evidence
+that the association between MDS and either outcome
+was modiﬁed by glucose tolerance status. In each instance
+there was a small reduction in mortality risk associated
+with increasing adherence to a Mediterranean diet.
+
+Across all glucose tolerance groups except IGT in men,
+and across all groups in women, an MDS above the median
+of 5, was associated with slightly lower total mortality
+(data not shown). A trend for lower CVD mortality in those
+adhering more closely to the Mediterranean diet was
+consistently seen across all glucose tolerance categories
+except IGT in men but only in the women with normal
+glucose tolerance or newly identiﬁed diabetes (Fig. 1).
+However, 95% conﬁdence intervals associated with these
+mortality rates were wide and overlapping.
+
+MDS classiﬁed as: 0-2, 3-5, and 6-9, was positively asso-
+ciated with absolute intakes of energy and fat, although the
+percentage of energy from total fat and all fat sub-groups
+fell with increasing MDS due to the greater proportional
+increase in energy than fat. The reduced contribution of fat
+to energy was balanced by an increase in the contribution
+from carbohydrate. Glycemic load and ﬁbre intake increased
+across MDS categories, although glycemic index decreased
+slightly. The absolute intakes of n-6 and n-3 fats (including
+long-chain) increased, but the n-6/n-3 ratio fell with
+increasing MDS. Cholesterol intake increased slightly across
+Mediterranean diet categories (Supplementary Table a).
+All these associations were highly signiﬁcant (p < 0.001, by
+oneway ANOVA).
+
+for
+
+all
+
+associations
+
+There were signiﬁcant
+
+the
+variables included in the full model, except blood pressure,
+family history of CVD and glucose tolerance, with MDS
+(Supplementary Table b), although the actual differences
+in risk levels across categories were generally small. The
+proportion of smokers decreased from 19.2% for a score
+of 0e2, to 8.1% for a score of 6e9, the proportion of
+women from 64.5% to 55.5%, and the proportion of southern
+European migrants increased from 12.9% to 36.9%.
+
+Glucose tolerance
+
+Discussion
+
+(a). Cardiovascular disease mortality by glucose
+Figure 1
+tolerance in men with low or high Mediterranean Diet Score
+(MDS). MDS<5 5 (b). Cardiovascular disease mortality by
+glucose tolerance in women with low or high Mediterranean
+Diet Score (MDS). MDS<5 MDS5
+
+Our hypothesis that the elevated mortality associated with
+diabetes could be reduced by a more Mediterranean style-
+diet was supported to some extent by our data. Overall,
+a higher MDS was associated with reduced total and CVD
+
+738
+
+A.M. Hodge et al.
+
+mortality, but this beneﬁt was not speciﬁc to people with
+diabetes. However, if southern European migrants consumed
+a more Mediterranean diet than Australian born, as we have
+reported, this could contribute to their relatively lower risk
+of total and CVD mortality.
+
+A limitation of our study is the absence of data on some
+potentially important CVD risk factors, most notably HDL-
+cholesterol and triglycerides. Additional adjustment for
+these factors may have explained more of the increased
+mortality observed in people with diabetes. Risk factors
+were only measured at baseline and people identiﬁed with
+diabetes at baseline were advised to follow-up with their
+doctors; as a result they may have changed their diet since
+the baseline measurement. We did not ask people who
+reported having diabetes at baseline to specify whether it
+was type 1 or type 2, but we assume that it was predomi-
+nantly type 2. In the 2004-05 National Health Survey, 83%
+of people with self-reported diabetes said they had type 2
+[14], and we would expect at least this proportion. Baseline
+glucose tolerance for people without a previous diagnosis
+of diabetes was based on a single glucose measurement,
+66% of which were reportedly in the fasting state, but
+misclassiﬁcation of glucose tolerance would be unlikely to
+explain our observations.
+
+The method of calculating the MDS, whereby points are
+attributed for eating above the median for 6 out of 9 food
+groups used to compute the score, tends to result in the score
+being correlated with total intake (kJ), as we observed.
+However, we also found differences in dietary composition
+with increasing MDS. Using population speciﬁc medians to
+deﬁne the MDS means high scoring individuals in non-Medi-
+terranean populations may not be closely following the
+traditional Cretan, Mediterranean diet on which the score
+was based. However, our cohort included 25% of people of
+Mediterranean origin, the frequencies for intakes of vege-
+tables, fruit, ﬁsh and legumes in the top MDS group were high
+and the proportion of southern European migrants roughly
+doubled from the low MDS group to the high MDS group.
+
+It should also be noted that while the total mortality
+data are likely to be reliable, with only 0.2% loss to follow-
+up; CVD mortality based on death certiﬁcates maybe under-
+estimated relative to adjudicated causes of death; in the
+MCCS the sensitivity of death register versus adjudication
+was 85.9% (Harriss pers comm.). It is possible that the
+degree of misclassiﬁcation varies depending on the pres-
+ence or absence of diabetes, but we do not have any data
+with which to assess this.
+
+A strength of our study is that we were able to differ-
+entiate between people with newly identiﬁed diabetes and
+those with previously known diabetes. Participants with
+previously identiﬁed diabetes could have changed their diet
+(or their reported diet) as a result of their diagnosis,
+complicating the analysis if they were included. As it turned
+out we did not ﬁnd any evidence that including people with
+known diabetes altered our results. Most studies looking at
+Mediterranean diets have not differentiated between dia-
+betes and non-diabetes [5].
+
+A 2006 meta-analysis including 37 prospective cohort
+studies reported a relative risk for fatal coronary heart
+disease (CHD) for women with diabetes of 3.12 (95%CI
+2.34e4.17) and for men 1.99 (1.69e2.35), with signiﬁcant
+heterogeneity between sexes [15]. This is similar to our
+
+results for the known diabetes sub-group, suggesting the
+associations between diabetes and CVD in our cohort are
+consistent with other studies.
+
+The MDS was inversely associated with both total and CVD
+mortality over all glucose tolerance categories. Previous
+studies of people with type 2 diabetes have shown beneﬁts
+of replacing saturated fat with MUFA; a 1998 meta-analysis
+of 10 randomized cross-over trials showed that a MUFA rich
+diet improved lipid proﬁles, glycaemic control, when
+compared with a high carbohydrate diet, when energy intake
+was controlled [16]. A 2003 review of out-patient studies
+with food based diets found that a high MUFA diet was at
+least as good as a high carbohydrate diet for diabetes, and
+possibly more palatable [17]. Recent studies have conﬁrmed
+metabolic beneﬁts of MUFA instead of high carbohydrate
+for insulin resistance [18e20].
+
+A Mediterranean diet is however, more than just MUFA.
+Our current data show that people with a higher MDS
+consumed more ﬁbre and had higher proportional intake
+of n-3 fatty acids, both total and long chain, and lower
+proportional n-6 intake, as well as consuming more fruit
+and vegetables and less saturated fat.
+
+A Mediterranean diet intervention in people with the
+Metabolic Syndrome improved inﬂammatory markers and
+endothelial function over 2 years [21,22]. In a 4 month study,
+an increase in MDS from 3.2 to 5.4 was associated with
+reductions in estimated CVD risk of around 30%, and indi-
+vidually with improvements in lipids, blood pressure, CRP,
+ﬁbrinogen and PAI-1 activity [23]. In the PREDIMED study,
+both Mediterranean diet groups showed improvements in
+dyslipidaemia compared with the low fat group [22] but we
+could not assess this in the MCCS. In the Mediterranean
+diet intervention of Esposito et al. [21] the n-6:n-3 ratio
+was reduced from 11:1 to 7:1. Our MDS was associated
+with slightly higher intakes of long chain n-3 PUFA and
+a lower n-6:n-3 ratio. There are many possible mechanisms
+by which n-3 fats can reduce CVD risk: increased heart rate
+variability [24]; modiﬁed lipid and lipoprotein metabolism,
+platelet function, arterial cholesterol delivery via modiﬁ-
+cation of lipoprotein lipase expression, vascular function
+and inﬂammatory responses [25]. A recent study found that
+a Mediterranean diet in newly diagnosed type 2 diabetes,
+was associated with a delayed need for anti-hyperglycemic
+drugs [26], and we have reported that in people with type 2
+diabetes, a Mediterranean diet consumed ad-libitum, with
+most food supplied, reduced HbA1c from 7.1% to 6.8% [27].
+A series of reports from the Nurse’s Health Study has
+shown that in women with type 2 diabetes, moderate
+alcohol intake, consumption of ﬁsh and omega-3 fats, as
+well as bran were associated with reduced coronary heart
+disease mortality [28e30]. These items may be associated
+with a Mediterranean diet; hence the ﬁndings support
+a beneﬁt of a Mediterranean dietary pattern in diabetes.
+
+We have shown that the increase in mortality, especially
+from CVD, associated with worsening glucose tolerance is
+not explained by conventional risk factors, and that a more
+Mediterranean style diet may be beneﬁcial. The Mediter-
+ranean diet includes foods that are recommended sepa-
+rately for medical nutrition therapy for diabetes, and is
+associated with reduced total and CVD mortality. There is
+a good case for recommending a Mediterranean style diet
+for all, including people with type 2 diabetes.
+
+Mediterranean diet and mortality in diabetes
+
+739
+
+Acknowledgements
+
+This study was made possible by the contribution of many
+people, including the original investigators and the diligent
+team who recruited the participants and completed follow-
+up. We would like to express our gratitude to the many
+thousands of Melbourne residents who continue to partici-
+pate in the study.
+
+Appendix
+Supplementary material
+
+The supplementary data associated with this article can be
+found in the on-line version at doi:10.1016/j.numecd.2010.
+10.014
+
+References
+
+[1] Juutilainen A, Lehto S, Ronnemaa T, Pyorala K, Laakso M. Type
+2 diabetes as a "coronary heart disease equivalent": an 18-year
+prospective population-based study in Finnish subjects. Dia-
+betes Care 2005;28:2901e7.
+
+[2] Hodge AM, English DR, O’Dea K, Giles GG. Increased diabetes
+incidence in Greek and Italian migrants to Australia: how
+much can be explained by known risk factors? Diabetes Care
+2004;27:2330e4.
+
+[3] Welborn TA, Knuiman MW, Bartholomew HC, Whittall DE.
+1989-90 National Health Survey: prevalence of self-reported
+diabetes in Australia. Med J Aust 1995;163:129e32.
+
+[4] Davis WA, Knuiman MW, Davis TME. An Australian cardiovas-
+cular risk equation for type 2 diabetes: the Fremantle
+Diabetes Study. Intern Med J 2010;40.
+
+[5] Soﬁ F, Abbate R, Gensini GF, Casini A. Accruing evidence about
+beneﬁts of adherence to the Mediterranean diet on health:
+an updated systematic review and meta-analysis. Am J Clin
+Nutr; 2010. ajcn.2010.29673 [pii] 10.3945/ajcn.2010.29673.
+
+[6] Bantle JP, Wylie-Rosett J, Albright AL, Apovian CM, Clark NG,
+Franz MJ, et al. Nutrition recommendations and interventions
+for diabetes: a position statement of the American Diabetes
+Association. Diabetes Care 2008;1(31 Suppl):S61e78.
+
+[7] Giles GG, English DR. The Melbourne Collaborative cohort
+study. Nutrition and lifestyle. Opportunities for Cancer Prev;
+2002:69e70.
+
+[8] Lohman TG, Roche AF, Martorell R. Anthropometric stan-
+
+dardization reference manual. Illinois: Kinetic Books; 1988.
+
+[9] MacInnis RJ, English DR, Hopper JL, Haydon AM, Gertig DM,
+Giles GG. Body size and composition and colon cancer risk in
+men. Cancer Epidemiol Biomarkers Prev 2004;13:553e9.
+
+[10] Ireland P, Jolley D, Giles G, O’Dea K, Powles J, Rutishauser I,
+et al. Development of the Melbourne FFQ: a food frequency
+questionnaire for use in an Australian prospective study involving
+an ethnically diverse cohort. Asia Pac J Clin Nutr 1994;3:19e31.
+[11] Trichopoulou A, Costacou T, Bamia C, Trichopoulos D. Adher-
+ence to a Mediterranean diet and survival in a Greek pop-
+ulation. N Engl J Med 2003;348:2599e608.
+
+[12] Baghurst KI, Record SJ, Leppard P. Red meat consumption in
+Australia: intakes, nutrient contribution and changes over
+time. Aust J Nutr Diet 2000;57:S1e36.
+
+[13] World Health Organization. Deﬁnition, diagnosis and Classiﬁ-
+cation of diabetes mellitus and It’s Complications. Part 1:
+Diagnosis and Classiﬁcation of diabetes mellitus. Geneva:
+World Health Organization, Department of Noncommunicable
+Disease Surveillance; 1999.
+
+[14] Australian Bureau of Statistics. 2008 Year Book Australia.
+
+Canberra: Australian Bureau of Statistics; 2008.
+
+[15] Huxley R, Barzi F, Woodward M. Excess risk of fatal coronary heart
+disease associated with diabetes in men and women: meta-anal-
+ysis of 37 prospective cohort studies. Bmj 2006;332:73e8.
+
+[16] Garg A. High-monounsaturated-fat diets for patients with
+diabetes mellitus: a meta-analysis. Am J Clin Nutr 1998;67:
+577Se82S.
+
+[17] Ros E. Dietary cis-monounsaturated fatty acids and metabolic
+control in type 2 diabetes. Am J Clin Nutr 2003;78:617Se25S.
+[18] Berglund L, Lefevre M, Ginsberg HN, Kris-Etherton PM, Elmer PJ,
+Stewart PW, et al. Comparison of monounsaturated fat with
+carbohydrates as a replacement for saturated fat in subjects
+with a high metabolic risk proﬁle: studies in the fasting and
+postprandial states. Am J Clin Nutr 2007;86:1611e20.
+
+[19] Paniagua JA, de la Sacristana AG, Sanchez E, Romero I, Vidal-
+Puig A, Berral FJ, et al. A MUFA-rich diet improves posprandial
+glucose,
+in insulin-resistant
+subjects. J Am Coll Nutr 2007;26:434e44.
+
+lipid and GLP-1 responses
+
+[20] Paniagua JA, Gallego de la Sacristana A, Romero I, Vidal-
+Puig A, Latre JM, Sanchez E, et al. Monounsaturated fat-rich
+diet prevents central body fat distribution and decreases
+postprandial adiponectin expression induced by a carbohy-
+drate-rich diet in insulin-resistant subjects. Diabetes Care
+2007;30:1717e23.
+
+[21] Esposito K, Marfella R, Ciotola M, Di Palo C, Giugliano F,
+Giugliano G, et al. Effect of a mediterranean-style diet on endo-
+thelial dysfunction and markers of vascular inﬂammation in the
+metabolic syndrome: a randomized trial. Jama 2004;292:1440e6.
+[22] Estruch R, Martinez-Gonzalez MA, Corella D, Salas-Salvado J,
+Ruiz-Gutierrez V, Covas MI, et al. Effects of a Mediterranean-
+style diet on cardiovascular risk factors: a randomized trial.
+Ann Intern Med 2006;145:1e11.
+
+[23] Athyros VG, Kakaﬁka AI, Papageorgiou AA, Tziomalos K,
+Peletidou A, Vosikis C, et al. Effect of a plant stanol ester-
+containing spread, placebo spread, or Mediterranean diet on
+estimated cardiovascular risk and lipid, inﬂammatory and
+haemostatic factors. Nutr Metab Cardiovasc Dis; 2009:
+S0939e4753 (09)00215-4 [pii] 10.1016/j.numecd.2009.08.014.
+[24] Christensen JH, Schmidt EB. Autonomic nervous system,
+heart rate variability and n-3 fatty acids. J Cardiovasc Med
+(Hagerstown) 2007;1(8 Suppl):S19e22.
+
+[25] Jung UJ, Torrejon C, Tighe AP, Deckelbaum RJ. n-3 Fatty acids
+and cardiovascular disease: mechanisms underlying beneﬁcial
+effects. Am J Clin Nutr 2008;87:2003Se9S.
+
+[26] Esposito K, Maiorino MI, Ciotola M, Di Palo C, Scognamiglio P,
+Gicchino M, et al. Effects of a Mediterranean-style diet on
+the need for antihyperglycemic drug therapy in patients with
+newly diagnosed type 2 diabetes: a randomized trial. Ann
+Intern Med 2009;151:306e14. 151/5/306 [pii].
+
+[27] Itsiopoulos C, Brazionis L, Kaimakamis M, Cameron M, Best JD,
+O’Dea K, et al. Can the Mediterranean diet lower HbA1c in
+type 2 diabetes? Results from a randomized cross-over study.
+Nutr Metab Cardiovasc Dis; 2010:S0939e4753 (10)00080-3 [pii]
+10.1016/j.numecd.2010.03.005.
+
+[28] He M, van Dam RM, Rimm E, Hu FB, Qi L. Whole-grain, cereal
+ﬁber, bran, and germ intake and the risks of all-cause and
+cardiovascular disease-speciﬁc mortality among women with
+type 2 diabetes mellitus. Circulation 2010;121:2162e8. CIR-
+CULATIONAHA.109.907360 [pii] 10.1161/CIRCULATIONAHA.
+109.907360.
+
+[29] Hu FB, Cho E, Rexrode KM, Albert CM, Manson JE. Fish
+and long-chain omega-3 fatty acid intake and risk of
+coronary heart disease and total mortality in diabetic women.
+Circulation 2003;107:1852e7. 10.1161/01.CIR.0000062644.
+42133.5F 01.CIR.0000062644.42133.5F [pii].
+
+[30] Solomon CG, Hu FB, Stampfer MJ, Colditz GA, Speizer FE,
+Rimm EB, et al. Moderate alcohol consumption and risk of
+coronary heart disease among women with type 2 diabetes
+mellitus. Circulation 2000;102:494e9.
+
+

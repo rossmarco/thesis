@@ -1,0 +1,2519 @@
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+From the University of Pennsylvania School
+of Medicine, Philadelphia (G.D.F., B.G.M.,
+P.O.S.,  D.J.R.);  University  of  Colorado
+Health  Sciences  Center,  Denver  (H.R.W.,
+J.O.H., C.B.); Washington University School
+of Medicine, St. Louis (B.S.M., S.K.); and
+Thomas Jefferson University, Philadelphia
+(J.S.E.).  Address  reprint  requests  to  Dr.
+Foster  at  the  University  of  Pennsylvania,
+3535 Market St., Suite 3027, Philadelphia,
+PA 19104-3309, or at fosterg@mail.med.
+upenn.edu.
+
+N Engl J Med 2003;348:2082-90.
+Copyright © 2003 Massachusetts Medical Society.
+
+ new england journal 
+
+The
+
+ medicine
+of
+
+original article
+
+A Randomized Trial
+
+of a Low-Carbohydrate Diet for Obesity
+
+Gary D. Foster, Ph.D., Holly R. Wyatt, M.D., James O. Hill, Ph.D., 
+
+Brian G. McGuckin, Ed.M., Carrie Brill, B.S., B. Selma Mohammed, M.D., Ph.D., 
+
+Philippe O. Szapary, M.D., Daniel J. Rader, M.D., Joel S. Edman, D.Sc., 
+
+and Samuel Klein, M.D.
+
+abstract
+
+background
+Despite the popularity of the low-carbohydrate, high-protein, high-fat (Atkins) diet, no
+randomized, controlled trials have evaluated its efficacy.
+
+methods
+We conducted a one-year, multicenter, controlled trial involving 63 obese men and wom-
+en who were randomly assigned to either a low-carbohydrate, high-protein, high-fat diet
+or a low-calorie, high-carbohydrate, low-fat (conventional) diet. Professional contact
+was minimal to replicate the approach used by most dieters.
+
+results
+Subjects on the low-carbohydrate diet had lost more weight than subjects on the con-
+±
+±
+±
+5.0 vs. ¡2.7
+SD], ¡6.8
+3.7 percent of body weight;
+ventional diet at 3 months (mean [
+±
+±
+P=0.001) and 6 months (¡7.0
+5.6 percent of body weight, P=0.02), but
+6.5 vs. ¡3.2
+±
+±
+the difference at 12 months was not significant (¡4.4
+6.7 vs. ¡2.5
+6.3 percent of body
+weight, P=0.26). After three months, no significant differences were found between
+the groups in total or low-density lipoprotein cholesterol concentrations. The increase
+in high-density lipoprotein cholesterol concentrations and the decrease in triglyceride
+concentrations were greater among subjects on the low-carbohydrate diet than among
+those on the conventional diet throughout most of the study. Both diets significantly
+decreased diastolic blood pressure and the insulin response to an oral glucose load.
+
+conclusions
+The low-carbohydrate diet produced a greater weight loss (absolute difference, approxi-
+mately 4 percent) than did the conventional diet for the first six months, but the differenc-
+es were not significant at one year. The low-carbohydrate diet was associated with a great-
+er improvement in some risk factors for coronary heart disease. Adherence was poor
+and attrition was high in both groups. Longer and larger studies are required to deter-
+mine the long-term safety and efficacy of low-carbohydrate, high-protein, high-fat diets.
+
+2082
+
+n engl j med 
+
+348;21
+
+www.nejm.org may 
+
+22, 2003
+
+The New England Journal of Medicine Downloaded from nejm.org on August 8, 2018. For personal use only. No other uses without permission.  Copyright © 2003 Massachusetts Medical Society. All rights reserved.  
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a
+
+a randomized trial of a low-carbohydrate diet for obesity
+
+4-7
+
+t  any  given  time,  approximately
+45 percent of women and 30 percent of
+men in the United States are trying to lose
+1
+ Despite these efforts, the prevalence of
+weight.
+2
+obesity has doubled in the past 20 years
+ and has
+3
+become a major public health problem.
+ The con-
+ventional dietary approach to weight management,
+recommended by the leading research and medical
+societies,
+ is a high-carbohydrate, low-fat, energy-
+deficit diet. Low-carbohydrate, high-protein, high-
+fat  diets  have  become  increasingly  popular,  and
+many best-selling diet books have promoted this
+ The Atkins diet, originally published
+approach.
+in 1973 and again in 1992 and 2002, may be the
+most popular of these diets. More than 10 million
+copies of Atkins’s diet book have been sold,
+ and
+four times as many dieters have read one of the At-
+kins books as have read any other diet book.
+
+8,9
+
+10
+
+11
+
+Despite its longevity and popularity, no random-
+ized trials evaluating the efficacy of the Atkins diet
+have been published.
+ Data from short-term, un-
+controlled studies indicate that the Atkins diet in-
+14
+duces weight losses of 8.3 percent after 8 weeks
+and 10.3 percent after 24 weeks.
+
+12,13
+
+15
+
+We conducted a one-year, multicenter, random-
+ized, controlled trial to evaluate the effect of the low-
+carbohydrate, high-protein, high-fat Atkins diet on
+weight loss and risk factors for coronary heart dis-
+ease in obese persons. The subjects were randomly
+assigned to follow either a low-carbohydrate, high-
+protein, high-fat Atkins diet or a high-carbohydrate,
+low-fat,  energy-deficit  conventional  diet.  Profes-
+sional contact was minimal, so as to approximate
+the approach used by most dieters.
+
+methods
+
+subjects
+A total of 63 persons (43 women and 20 men) par-
+ticipated in the study (Table 1). All subjects complet-
+ed a comprehensive medical examination and rou-
+tine blood tests. Potential subjects were excluded if
+they had clinically significant illnesses, including
+type 2 diabetes; were taking lipid-lowering medica-
+tions; were pregnant or lactating; or were taking
+medications  that  affect  body  weight.  All  subjects
+provided written informed consent, and the proto-
+col was approved by the institutional review boards
+of the participating institutions.
+
+study design
+The subjects were randomly assigned at each site,
+with use of a random-number generator, to follow
+
+either the low-carbohydrate diet or the convention-
+al diet. Subjects in both groups were instructed to
+take a daily multivitamin supplement and met with
+a registered dietitian for 15 to 30 minutes at 3, 6,
+and 12 months to review dietary issues.
+
+Low-Carbohydrate Diet
+The 33 subjects who were assigned to the low-car-
+bohydrate, high-protein, high-fat diet met individ-
+ually with a registered dietitian before beginning the
+program to review the central features of the diet
+(available as Supplementary Appendix 1 with the
+full  text  of  this  article  at  http://www.nejm.org),
+which involves limiting carbohydrate intake with-
+out restricting consumption of fat and protein. For
+the first two weeks, carbohydrate intake is limited
+
+Table 1. Base-Line Characteristics of the Subjects.*
+
+Characteristic
+
+Sex (no. of subjects)
+
+Male
+Female
+
+Race or ethnic group (no. of subjects)†
+
+White
+Black
+Hispanic
+
+Age (yr)
+
+Body-mass index‡
+
+Weight (kg)
+
+Low-Carbohydrate
+
+Diet 
+(N=33)
+
+Conventional
+
+Diet 
+(N=30)
+
+12
+21
+
+26
+4
+3
+
+8
+22
+
+22
+8
+0
+
+44.0±9.4
+
+33.9±3.8
+
+44.2±7.0
+
+34.4±3.1
+
+98.7±19.5
+
+98.3±16.4
+
+Systolic blood pressure (mm Hg)
+
+120.5±11.0
+
+123.3±14.1
+
+Diastolic blood pressure (mm Hg)
+
+74.6±8.5
+
+77.6±10.8
+
+Triglycerides (mg/dl)
+
+131.1±113.8
+
+122.6±82.6
+
+Cholesterol (mg/dl)
+
+Total
+Low-density lipoprotein
+High-density lipoprotein
+
+Area under the curve
+
+Glucose (mg/dl/2 hr)
+Insulin (µU/ml/2 hr)
+
+Insulin sensitivity§
+
+200.5±33.5
+129.5±30.0
+46.8±11.2
+
+193.7±32.1
+119.8±30.0
+49.4±12.5
+
+15,649.7±2956.3
+8776.7±5072.5
+
+15,540.2±2623.8
+10,025.7±5845.5
+
+0.35±0.05
+
+0.34±0.04
+
+* Plus–minus values are means ±SD. There were no significant differences be-
+tween the two groups. To convert values for triglycerides to millimoles per li-
+ter, multiply by 0.01129. To convert values for cholesterol to millimoles per li-
+ter, multiply by 0.02586.
+
+† The race or ethnic group was assigned by the subjects themselves.
+‡ The body-mass index is the weight in kilograms divided by the square of the 
+
+§ Insulin sensitivity was calculated according to the quantitative insulin-sensi-
+
+height in meters.
+
+tivity check index.
+
+16
+
+n engl j med 
+
+348;21
+
+www.nejm.org may 
+
+22, 2003
+
+2083
+
+The New England Journal of Medicine Downloaded from nejm.org on August 8, 2018. For personal use only. No other uses without permission.  Copyright © 2003 Massachusetts Medical Society. All rights reserved.  
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ new england journal 
+
+The
+
+ medicine
+of
+
+Table 2. Percent Changes in Weight, Blood Pressure, Serum Lipoprotein 
+Concentrations, and Oral Glucose Tolerance in an Analysis in Which 
+Base-Line Values Were Carried Forward in the Case of Missing Data.*
+
+Variable
+
+Weight
+
+Mo 3
+Mo 6
+Mo 12
+
+Systolic blood pressure
+
+Mo 3
+Mo 6
+Mo 12
+
+Diastolic blood pressure
+
+Mo 3
+Mo 6
+Mo 12
+
+Triglycerides
+
+Mo 3
+Mo 6
+Mo 12
+
+Total cholesterol
+
+Mo 3
+Mo 6
+Mo 12
+
+Low-density lipoprotein cholesterol
+
+Mo 3
+Mo 6
+Mo 12
+
+High-density lipoprotein cholesterol
+
+Mo 3
+Mo 6
+Mo 12
+
+Area under the glucose curve
+
+Mo 3
+Mo 6
+Mo 12
+
+Area under the insulin curve
+
+Mo 3
+Mo 6
+Mo 12
+
+Insulin sensitivity§
+
+Mo 3
+Mo 6
+Mo 12
+
+Carbohydrate
+
+Conventional
+
+Low-
+
+Diet
+
+(N=33)
+
+Diet
+
+(N=30)
+
+P Value†
+
+percent change
+
+¡6.8±5.0‡
+¡7.0±6.5‡
+¡4.4±6.7‡
+
+¡2.7±3.7‡
+¡3.2±5.6‡
+¡2.5±6.3‡
+
+0.001
+0.02
+0.26
+
+¡2.6±11.2
+¡2.3±11.7
+¡1.0±9.4
+
+¡0.6±11.9
+1.0±12.2
+1.7±11.8
+
+¡3.0±13.4
+¡4.0±12.7‡
+¡3.7±12.4‡
+
+¡3.5±10.3‡
+¡2.9±14.2
+¡3.8±13.2
+
+¡18.7±25.7‡
+15.0±29.4‡
+¡17.0±23.0‡
+
+1.1±34.6
+¡7.6±19.3‡
+0.7±37.7
+
+1.7±15.0
+2.4±9.3
+0.1±9.8
+
+¡5.4±10.1‡
+¡2.4±9.5
+¡2.9±8.0
+
+5.4±19.2
+2.7±12.8
+0.31±16.6
+
+¡7.4±16.6‡
+¡1.5±15.8
+¡3.1±12.0
+
+9.6±19.1‡
+14.7±20.5‡
+11.0±19.4‡
+
+1.4±16.1
+2.5±12.0
+1.6±11.1
+
+6.7±20.7
+1.0±15.9
+3.2±16.2
+
+1.6±16.6
+¡0.8±12.2
+1.2±10.1
+
+¡14.1±27.6‡
+¡14.7±25.7‡
+¡11.2±24.7‡
+
+¡11.2±40.5‡
+¡5.1±35.8
+¡8.2±28.4‡
+
+6.7±11.6‡
+5.8±12.0‡
+2.9±9.5
+
+4.1±10.7
+5.2±10.3‡
+2.9±9.5
+
+0.59
+0.28
+0.43
+
+0.84
+0.84
+0.84
+
+0.01
+0.13
+0.04
+
+0.03
+0.06
+0.27
+
+0.007
+0.34
+0.52
+
+0.04
+0.007
+0.04
+
+0.27
+0.80
+0.80
+
+0.48
+0.19
+0.60
+
+0.37
+0.79
+0.92
+
+* Plus–minus values are means ±SD.
+† P values are for the differences between the two groups.
+‡ P<0.05 for the difference from base line within the group.
+§ Insulin sensitivity was calculated according to the quantitative insulin-sensi-
+
+tivity check index.
+
+16
+
+to 20 g per day and is then gradually increased until
+a stable and desired weight is achieved. Each sub-
+Dr. Atkins’ New Diet Revolu-
+ject was given a copy of 
+tion,
+ which details the Atkins diet program. Sub-
+jects were instructed to read the book and follow
+the diet as described.
+
+10
+
+Conventional Diet
+The 30 subjects who were assigned to the conven-
+tional diet also met with a registered dietitian before
+beginning the program to review the components of
+a high-carbohydrate, low-fat, low-calorie diet (1200
+to 1500 kcal per day for women and 1500 to 1800
+kcal per day for men, with approximately 60 percent
+of calories from carbohydrate, 25 percent from fat,
+and 15 percent from protein) and to receive instruc-
+tions about calorie counting. Subjects were given a
+17
+copy of 
+which provides 16 lessons covering various aspects
+of weight control. The nutritional information in
+the manual was consistent with the dietary recom-
+mendations provided by the study dietitian and with
+the Department of Agriculture Food Guide Pyra-
+mid.
+ Subjects were instructed to read the manual
+and follow the program as described.
+
+The LEARN Program for Weight Management,
+
+18
+
+outcomes
+Body weight was measured with the use of calibrat-
+ed scales (Detecto 6800, Cardinal) while the subjects
+were wearing light clothing and no shoes at base
+line and at weeks 2, 4, 8, 12, 16, 20, 26, 34, 42, and
+52. Blood pressure and urinary ketones were also
+assessed at base line and at weeks 2, 4, 8, 12, 16, 20,
+26, 34, 42, and 52. Blood samples were obtained af-
+ter subjects fasted overnight at base line and at 3, 6,
+and 12 months to determine serum lipoprotein con-
+centrations. An oral glucose-tolerance test was per-
+formed at base line and at 3, 6, and 12 months. After
+subjects fasted overnight, blood samples were ob-
+tained for the measurement of plasma glucose and
+insulin concentrations before and 30, 60, 90, and
+120 minutes after the oral administration of a 75-g
+glucose load. In addition, insulin sensitivity, based
+on fasting plasma glucose and insulin concentra-
+tions, was assessed with the use of quantitative in-
+: 1÷[(log fasting se-
+sulin-sensitivity check index
+rum insulin level, in microunits per milliliter)+(log
+fasting glucose level, in milligrams per deciliter)].
+
+16
+
+analyses of samples
+Serum  total  cholesterol,  high-density  lipoprotein
+(HDL) cholesterol, and triglyceride concentrations
+
+2084
+
+n engl j med 
+
+348;21
+
+www.nejm.org may 
+
+, 
+
+22
+
+2003
+
+The New England Journal of Medicine Downloaded from nejm.org on August 8, 2018. For personal use only. No other uses without permission.  Copyright © 2003 Massachusetts Medical Society. All rights reserved.  
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+a randomized trial of a low-carbohydrate diet for obesity
+
+20
+
+were assayed according to procedures recommend-
+ed by the Centers for Disease Control and Prevention
+19
+and the National Heart, Lung, and Blood Institute.
+The low-density lipoprotein (LDL) cholesterol con-
+centration was calculated according to the Friede-
+wald formula
+ in all but one subject, who had a tri-
+glyceride concentration greater than 400 mg per
+deciliter (4.52 mmol per liter). Plasma insulin was
+measured by radioimmunoassay, and plasma glu-
+cose  by  a  glucose  oxidase  autoanalyzer  (Yellow
+Springs  Instruments).  The  area  under  the  curve
+(AUC) for the plasma glucose concentration and for
+ Urinary
+the insulin concentration was calculated.
+ketone  concentrations  were  measured  with  dip-
+sticks (Ketostix 2880, Bayer) and characterized di-
+chotomously as negative (0 mg per deciliter) or pos-
+itive (5 to 100 mg per deciliter).
+
+21
+
+statistical analysis
+Analysis of variance revealed no effects of the re-
+search site on weight loss or attrition at 3, 6, or 12
+months, so the data on all the subjects were ana-
+lyzed together. A t-test for independent samples was
+used to assess differences in base-line variables be-
+tween the groups. Two sets of analyses were con-
+ducted. The primary analysis was a repeated-meas-
+ures analysis of variance in which the base-line value
+was carried forward in the case of missing data. In a
+secondary analysis, an analysis of covariance (in
+which initial weights were covariates) was used to
+examine changes in weight from base line to the end
+of the study, for those who completed the study, or
+at the time of the last follow-up visit, for those who
+did not complete the study. A chi-square analysis
+was performed to determine differences between
+groups in categorical variables, and correlations
+with categorical variables were assessed with Spear-
+man’s rho coefficient. Triglyceride values were not
+normally distributed, so the log-transformed val-
+ues  were  analyzed.  Results  are  presented  as  per-
+cent changes to facilitate clinical interpretation, al-
+though  all  analyses  involved  absolute  values  and
+were conducted with the use of SPSS software (ver-
+sion 11.0).
+
+22
+
+results
+
+weight
+In the analysis in which base-line values were car-
+ried forward in the case of missing values, the group
+on the low-carbohydrate diet had lost significantly
+more weight than the group on the conventional
+
+diet at 3 months (P=0.001) and 6 months (P=0.02),
+but the difference in weight loss was not statistical-
+ly significant at 12 months (P=0.26) (Table 2 and
+Fig. 1A).
+
+attrition
+A total of 49 subjects completed 3 months of the
+study (28 on the low-carbohydrate diet and 21 on the
+conventional diet), 42 subjects completed 6 months
+(24  on  the  low-carbohydrate  diet  and  18  on  the
+conventional diet), and 37 subjects completed 12
+months (20 on the low-carbohydrate diet and 17
+on the conventional diet). The percentage of sub-
+jects who had dropped out of the study at 3, 6, and
+12 months was higher in the group following the
+conventional diet (30, 40, and 43 percent, respec-
+tively) than in the group following the low-carbo-
+hydrate diet (15, 27, and 39 percent, respectively),
+but these differences were not statistically signifi-
+cant. Overall, 59 percent of subjects completed the
+study, and 88 percent of those who completed the
+
+A
+
+Base-Line Values Carried Forward
+
+)
+
+%
+
+(
+ 
+t
+h
+g
+i
+e
+W
+n
+
+ 
+
+i
+ 
+e
+g
+n
+a
+h
+C
+
+0
+¡2
+¡4
+¡6
+¡8
+¡10
+¡12
+
+0
+
+*
+
+3
+
+B
+%
+
+)
+
+(
+ 
+t
+h
+g
+i
+e
+W
+n
+
+ 
+
+i
+ 
+e
+g
+n
+a
+h
+C
+
+Complete Data or Data from Last Visit
+
+0
+¡2
+¡4
+¡6
+¡8
+¡10
+¡12
+
+0
+
+*
+
+3
+
+Conventional diet
+
+Low-carbohydrate diet
+
+9
+
+12
+
+Conventional diet
+
+Low-carbohydrate diet
+
+9
+
+12
+
+*
+
+6
+
+Month
+
+*
+
+6
+
+Month
+
+Figure 1. Mean (±SE) Percent Change in Weight among Subjects on the Low-
+Carbohydrate Diet and Those on the Conventional (Low-Calorie, High-Carbo-
+hydrate) Diet, According to an Analysis in Which Base-Line Values Were Carried 
+Forward in the Case of Missing Values (Panel A) or an Analysis That Included 
+Data on Subjects Who Completed the Study and Data Obtained at the Time of 
+the Last Follow-up Visit for Those Who Did Not Complete the Study (Panel B).
+In Panel B, the low-carbohydrate group had 28 subjects at 3 months, 24 sub-
+jects at 6 months, and 20 subjects at 12 months and the conventional-diet 
+group had 21 subjects at 3 months, 18 subjects at 6 months, and 17 subjects 
+at 12 months. Asterisks indicate a significant difference (P<0.05) between the 
+groups.
+
+n engl j med 
+
+348;21
+
+www.nejm.org may 
+
+22, 2003
+
+2085
+
+The New England Journal of Medicine Downloaded from nejm.org on August 8, 2018. For personal use only. No other uses without permission.  Copyright © 2003 Massachusetts Medical Society. All rights reserved.  
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ new england journal 
+
+The
+
+ medicine
+of
+
+Table 3. Percent Changes in Weight, Blood Pressure, Serum Lipoproteins, 
+and Oral Glucose Tolerance in an Analysis That Included Data on Subjects 
+Who Completed the Study and Data Obtained at the Time of the Last 
+Follow-up Visit for Those Who Did Not Complete the Study.*
+
+Variable
+
+Weight
+
+Mo 3
+Mo 6
+Mo 12
+
+Systolic blood pressure
+
+Mo 3
+Mo 6
+Mo 12
+
+Diastolic blood pressure
+
+Mo 3
+Mo 6
+Mo 12
+
+Triglycerides
+
+Mo 3
+Mo 6
+Mo 12
+
+Total cholesterol
+
+Mo 3
+Mo 6
+Mo 12
+
+Carbohydrate
+
+Low-
+
+Diet
+
+Conventional
+
+Diet
+
+P Value†
+
+percent change
+
+–8.1±4.4‡
+–9.7±5.7‡
+–7.3±7.3‡
+
+–3.8±3.9‡
+–5.3±6.4‡
+–4.5±7.9‡
+
+0.002
+0.03
+0.27
+
+–3.1±12.1
+–3.2±12.7
+–1.6±12.2
+
+–0.8±14.3
+1.6±15.9
+2.9±15.8
+
+–3.5±14.5
+–5.5±14.7‡
+–6.1±15.6‡
+
+–5.1±12.1‡
+–4.9±18.3
+–6.7±17.2
+
+–22.0±26.6‡
+–20.6±32.8‡
+–28.1±23.6‡
+
+1.7±42.8
+
+–13.3±24.3‡
+
+1.4±52.5
+
+2.0±16.3
+3.3±10.9
+0.2±12.7
+
+–8.2±11.5‡
+–4.2±12.5
+–5.5±10.4
+
+0.69
+0.36
+0.44
+
+0.65
+0.95
+0.76
+
+0.03
+0.27
+0.04
+
+0.02
+0.06
+0.23
+
+Low-density lipoprotein cholesterol
+
+Mo 3
+Mo 6
+Mo 12
+
+6.2±20.4
+3.6±14.8
+0.5±21.2
+
+–11.1±19.4‡
+–2.7±21.1
+–5.8±16.1
+
+0.005
+0.35
+0.47
+
+High-density lipoprotein cholesterol
+
+Mo 3
+Mo 6
+Mo 12
+
+Area under the glucose curve
+
+Mo 3
+Mo 6
+Mo 12
+
+Area under the insulin curve
+
+Mo 3
+Mo 6
+Mo 12
+
+Insulin sensitivity§
+
+Mo 3
+Mo 6
+Mo 12
+
+11.4±20.3‡
+20.2±21.7‡
+18.2±22.4‡
+
+2.1±19.8
+4.4±15.8
+3.1±15.2
+
+7.9±22.3
+1.4±18.7
+5.3±20.8
+
+2.3±19.9
+–1.4±16.5
+2.4±14.4
+
+–16.7±29.3‡
+–20.2±28.4‡
+–18.4±29.8‡
+
+–16.0±48.0‡
+–9.0±47.8
+–16.5±39.1‡
+
+7.9±12.3‡
+8.0±13.4‡
+4.8±12.0
+
+5.9±12.4
+8.7±12.1‡
+5.4±12.7
+
+0.07
+0.02
+0.04
+
+0.33
+0.76
+0.87
+
+0.23
+0.37
+0.34
+
+0.56
+0.94
+0.98
+
+* Plus–minus values are means ±SD. The low-carbohydrate group had 28 sub-
+jects at 3 months, 24 subjects at 6 months, and 20 subjects at 12 months. The 
+conventional-diet group had 21 subjects at 3 months, 18 subjects at 6 months, 
+and 17 subjects at 12 months.
+
+† P values are for the differences between the two groups.
+‡ P<0.05 for the difference from base line within the group.
+§ Insulin sensitivity was calculated according to the quantitative insulin-sensi-
+
+tivity check index.
+
+16
+
+six-month  assessment  completed  the  full  study.
+When the analysis included data on subjects who
+completed the study and data obtained at the time
+of the last follow-up visit for those who did not com-
+plete the study, the pattern of weight loss was similar
+to that obtained when the base-line values were car-
+ried forward in the case of missing data. Subjects
+on the low-carbohydrate diet lost significantly more
+weight than the subjects on the conventional diet
+at 3 months (P=0.002) and 6 months (P=0.03), but
+the difference in weight loss was not statistically sig-
+nificant at 12 months (P=0.27) (Table 3 and Fig. 1B).
+
+urinary ketones
+During the first three months, the percentage of pa-
+tients who tested positive for urinary ketones was
+significantly greater in the group on the low-carbo-
+hydrate diet than in the group on the conventional
+diet (Fig. 2), but there were no significant differenc-
+es between the groups after three months. There was
+no significant relation between weight loss and ke-
+tosis at any time during the study.
+
+blood pressure
+Systolic  blood  pressure  did  not  change  signifi-
+cantly in either group during the study (Tables 2
+and 3). Diastolic pressure decreased in both groups,
+but there were no significant differences between
+groups.
+
+oral glucose-tolerance test
+The area under the glucose curve did not change
+significantly in either group throughout the study.
+The area under the insulin curve decreased in both
+groups, but there were no significant differences
+between groups (Tables 2 and 3). There were no sig-
+nificant differences between groups in insulin sen-
+sitivity (assessed by the quantitative insulin-sensi-
+) throughout the study period.
+tivity check index
+Both  groups  had  significant  increases  in  insulin
+sensitivity at six months, but the values were not sig-
+nificantly different from base line at one year (Ta-
+bles 2 and 3).
+
+16
+
+serum lipoproteins
+The effects of the diets on serum lipoproteins are
+shown in Tables 2 and 3 and Figure 3. There were
+no  significant  differences  between  groups  in  the
+total  or  LDL  cholesterol  concentration,  except  at
+month 3, when values were significantly lower in
+the group on the conventional diet than in the group
+on the low-carbohydrate diet. In contrast, the rela-
+
+2086
+
+n engl j med 
+
+348;21
+
+www.nejm.org may 
+
+, 
+
+22
+
+2003
+
+The New England Journal of Medicine Downloaded from nejm.org on August 8, 2018. For personal use only. No other uses without permission.  Copyright © 2003 Massachusetts Medical Society. All rights reserved.  
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+a randomized trial of a low-carbohydrate diet for obesity
+
+tive increase in HDL cholesterol concentrations and
+the relative decrease in triglyceride concentrations
+were greater in the group on the low-carbohydrate
+diet  than  in  the  group  on  the  conventional  diet
+throughout  most  of  the  study.  The  results  of  the
+analyses that included data on subjects who com-
+pleted the study and data obtained at the time of the
+last follow-up visit for those who did not complete
+the study (Table 3) were nearly identical to the analy-
+ses in which base-line values were carried forward
+in the case of missing data (Table 2) with respect to
+blood pressure, insulin sensitivity, and serum lipo-
+proteins.
+
+discussion
+
+The results of this multicenter, randomized, con-
+trolled trial demonstrate that the low-carbohydrate,
+high-protein, high-fat Atkins diet produces greater
+weight loss (an absolute difference of approximate-
+ly 4 percent) than a conventional high-carbohydrate,
+low-fat diet for up to six months, but that the dif-
+ferences do not persist at one year. The magnitude
+of weight loss at six months in the low-carbohydrate
+group approximates that achieved by standard be-
+ treatments. These
+havioral
+weight losses are particularly noteworthy because
+the diet was implemented in a self-help format and
+subjects had little contact with health profession-
+als. The lack of a statistically significant difference
+between the groups at one year is most likely due to
+greater weight regain in the low-carbohydrate group
+and the small sample size. These data suggest that
+long-term adherence to the low-carbohydrate Atkins
+diet may be difficult.
+
+ and pharmacologic
+
+23
+
+24
+
+25-28
+
+The difference in weight loss between the two
+groups in the first six months demonstrates an over-
+all greater energy deficit in the low-carbohydrate
+group, despite unrestricted protein and fat intake in
+this group and instructions to restrict energy intake
+in the conventional-diet group. When the energy
+content of an energy-deficit diet is stable, macro-
+nutrient  composition  does  not  influence  weight
+loss.
+ The mechanism responsible for the de-
+creased energy intake induced by a low-carbohy-
+drate diet with unrestricted protein and fat intake
+is not known but may be related to the monotony or
+simplicity of the diet, alterations in plasma or cen-
+tral satiety factors, or other factors that affect appe-
+tite and dietary adherence. Our data suggest that
+ketosis was unlikely to be responsible for the in-
+creased weight loss with the low-carbohydrate diet,
+
+y
+r
+a
+n
+i
+r
+
+U
+ 
+e
+v
+i
+t
+i
+s
+o
+P
+h
+t
+i
+
+ 
+
+w
+ 
+s
+t
+c
+e
+j
+b
+u
+S
+
+)
+
+%
+
+(
+ 
+n
+o
+i
+t
+a
+r
+t
+n
+e
+c
+n
+o
+C
+ 
+e
+n
+o
+t
+e
+K
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+Low-carbohydrate diet
+Conventional diet
+
+*
+
+*
+
+*
+
+*
+
+0
+
+2
+
+4
+
+8
+
+12
+
+16
+
+20
+
+26
+
+34
+
+42
+
+52
+
+Week
+
+Figure 2. Percentage of Subjects with a Positive Urinary Ketone Concentra-
+tion, According to Whether They Were on the Low-Carbohydrate Diet or the 
+Conventional (Low-Calorie, High-Carbohydrate) Diet.
+A positive urinary ketone concentration was defined as 5 to 100 mg per decili-
+ter. Asterisks indicate a significant difference (P<0.003) between the groups.
+
+since we did not find any relation between the pres-
+ence of urinary ketones and weight loss. Further-
+more, urinary ketones were not present in most sub-
+jects on either diet after the first six months.
+
+Although subjects with diabetes were excluded
+from our study, many — if not most — of our sub-
+jects, because of their obesity, were probably insu-
+29
+lin-resistant with respect to glucose metabolism.
+Treatment with either diet was associated with an
+improvement in insulin sensitivity as determined by
+an oral glucose-tolerance test; progressively less in-
+sulin was secreted to maintain the same blood glu-
+cose concentrations. These data do not demonstrate
+an effect of macronutrient composition, independ-
+ent of weight loss, on insulin sensitivity in obese
+subjects without diabetes. However, the results of
+these metabolic studies should be interpreted with
+caution, given the study’s relatively small sample
+size and the one-year duration. Additional studies in
+which more precise measures of insulin sensitivi-
+ty are used are needed to evaluate this issue more
+carefully.
+
+An important health concern of consuming un-
+restricted amounts of saturated fat is the potential to
+increase the LDL cholesterol concentration, which
+is an established risk factor for coronary heart dis-
+ease. In fact, at three months, the LDL cholesterol
+concentration tended to increase in the subjects on
+the low-carbohydrate diet but decreased in the sub-
+jects on the conventional diet, so the difference be-
+
+n engl j med 
+
+348;21
+
+www.nejm.org may 
+
+22, 2003
+
+2087
+
+The New England Journal of Medicine Downloaded from nejm.org on August 8, 2018. For personal use only. No other uses without permission.  Copyright © 2003 Massachusetts Medical Society. All rights reserved.  
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ new england journal 
+
+The
+
+ medicine
+of
+
+A
+
+C
+
+)
+
+%
+
+(
+ 
+s
+e
+d
+i
+r
+e
+c
+y
+l
+g
+i
+r
+T
+n
+
+ 
+
+i
+ 
+e
+g
+n
+a
+h
+C
+
+)
+
+%
+
+(
+ 
+l
+
+o
+r
+e
+t
+s
+e
+l
+o
+h
+C
+ 
+L
+D
+L
+ 
+n
+
+i
+ 
+e
+g
+n
+a
+h
+C
+
+0
+
+15
+
+10
+
+5
+
+0
+
+¡5
+
+¡10
+
+¡15
+
+¡20
+
+¡25
+
+¡30
+
+¡35
+
+10
+
+5
+
+0
+
+¡5
+
+¡10
+
+¡15
+
+¡20
+
+0
+
+Conventional diet
+
+*
+
+Low-carbohydrate diet
+
+6
+
+Month
+
+9
+
+12
+
+Low-carbohydrate diet
+
+Conventional diet
+
+6
+
+Month
+
+9
+
+12
+
+*
+
+3
+
+*
+
+3
+
+B
+
+)
+
+%
+
+(
+ 
+l
+
+o
+r
+e
+t
+s
+e
+l
+o
+h
+C
+
+ 
+l
+a
+t
+o
+T
+n
+
+ 
+
+i
+ 
+e
+g
+n
+a
+h
+C
+
+D
+
+)
+
+%
+
+(
+ 
+l
+
+o
+r
+e
+t
+s
+e
+l
+o
+h
+C
+ 
+L
+D
+H
+n
+
+ 
+
+i
+ 
+e
+g
+n
+a
+h
+C
+
+6
+
+4
+
+2
+
+0
+
+¡2
+
+¡4
+
+¡6
+
+¡8
+
+¡10
+
+¡12
+
+0
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+¡5
+
+0
+
+*
+
+3
+
+Low-carbohydrate diet
+
+Conventional diet
+
+6
+
+Month
+
+9
+
+12
+
+Low-carbohydrate diet
+
+*
+
+*
+
+Conventional diet
+
+3
+
+6
+
+Month
+
+9
+
+12
+
+Figure 3. Mean (±SE) Percent Change in Serum Concentrations of Triglycerides (Panel A), Total Cholesterol (Panel B), 
+Low-Density Lipoprotein (LDL) Cholesterol (Panel C), and High-Density Lipoprotein (HDL) Cholesterol (Panel D) 
+among Subjects on the Low-Carbohydrate Diet and Those on the Conventional (Low-Calorie, High-Carbohydrate) Diet.
+Data were obtained at the end of the study for subjects who completed the study and at the time of the last follow-up visit 
+for those who did not complete the study. The low-carbohydrate group had 28 subjects at 3 months, 24 subjects at 6 months, 
+and 20 subjects at 12 months. The conventional-diet group had 21 subjects at 3 months, 18 subjects at 6 months, and 
+17 subjects at 12 months. Asterisks indicate a significant difference (P<0.05) between the groups.
+
+tween groups was significant. Over the long term,
+however, the LDL cholesterol concentration among
+subjects on the low-carbohydrate diet was similar to
+base-line values, and the changes in LDL cholesterol
+concentrations did not differ significantly between
+the groups. These data suggest that the increased
+weight loss associated with the low-carbohydrate
+diet may offset the adverse effect of saturated fat
+intake on serum LDL cholesterol concentrations.
+Nonetheless, weight loss with the low-carbohydrate
+diet was not associated with the decreases in LDL
+cholesterol usually observed with moderate weight
+loss.
+
+4,30
+
+31-33
+
+In contrast, the low-carbohydrate diet was as-
+sociated with greater decreases in serum triglycer-
+ides and greater increases in HDL cholesterol than
+was the conventional diet, and the levels of both
+are also important risk factors for coronary heart
+disease.
+ The magnitude of these changes ap-
+proximates that obtained with pharmacologic treat-
+31
+ments, such as derivatives of fibric acid and niacin.
+Although  part  of  this  benefit  may  be  due  to  the
+greater weight loss with the low-carbohydrate diet,
+the changes are greater than those expected from a
+ Therefore, it is likely
+moderate weight loss alone.
+that  the  macronutrient  composition  of  the  diet
+
+30
+
+2088
+
+n engl j med 
+
+348;21
+
+www.nejm.org may 
+
+, 
+
+22
+
+2003
+
+The New England Journal of Medicine Downloaded from nejm.org on August 8, 2018. For personal use only. No other uses without permission.  Copyright © 2003 Massachusetts Medical Society. All rights reserved. a randomized trial of a low-carbohydrate diet for obesity
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+contributed to the improvement in the HDL cho-
+lesterol–triglyceride axis. High-carbohydrate, low-
+fat diets decrease HDL cholesterol concentrations
+34-37
+and increase serum triglyceride concentrations,
+whereas low-carbohydrate, high-fat diets decrease
+triglyceride concentrations
+ and increase HDL
+cholesterol concentrations.
+ Moreover, replacing
+dietary  polyunsaturated  or  monounsaturated  fat
+with carbohydrate is associated with an increased
+risk of coronary heart disease, as predicted by chang-
+es in triglyceride and HDL cholesterol concentra-
+tions.
+
+16,27,37
+
+15
+
+38
+
+The overall effect of the low-carbohydrate diet
+in comparison with a conventional diet on the risk
+of coronary heart disease in our subjects is uncer-
+tain. As compared with the conventional diet, the
+low-carbohydrate diet was associated with a greater
+improvement in some risk factors for coronary heart
+disease (serum triglycerides and serum HDL choles-
+terol), but not others (blood pressure, insulin sen-
+sitivity, and serum LDL cholesterol). Moreover, the
+clinical significance of the favorable changes in the
+HDL cholesterol–triglyceride axis in the setting of
+a high fat intake is not clear. Additional, long-term
+studies are needed to determine whether increased
+serum  HDL  cholesterol  concentrations  and  de-
+creased serum triglyceride concentrations have the
+same effect on cardiovascular outcomes when one
+is consuming a diet high in saturated fat. It is also
+possible that the large amount of saturated fats and
+small amounts of fruits, vegetables, and fiber con-
+sumed during the low-carbohydrate diet can inde-
+pendently increase the risk of coronary heart dis-
+ease.
+  Therefore,  at  the  present  time,  there  is
+not enough information to determine whether the
+beneficial effects of the Atkins diet outweigh its po-
+tential adverse effects on the risk of coronary heart
+disease in obese persons.
+
+39,40
+
+Our study has several limitations. The self-help
+nature of treatment, which is consistent with the
+way in which the low-carbohydrate diet is typically
+used, probably contributed to the attrition rate of
+41 percent. This high rate of attrition underscores
+the difficulty of long-term compliance with either
+diet, when diet therapy is given with minimal super-
+vision. More comprehensive behavioral treatment
+(e.g., weekly group meetings or self-monitoring)
+would probably have decreased attrition, increased
+adherence, and made possible a comparison with
+ Our study was
+clinic-based treatments for obesity.
+focused on weight and specific risk factors for cor-
+onary heart disease. We did not evaluate the effect
+of  the  low-carbohydrate  diet  on  other  important
+clinical  end  points,  such  as  renal  function,  bone
+health, cardiovascular function, and exercise toler-
+ance. Finally, our findings should not be general-
+ized to overweight subjects or to obese subjects with
+serious obesity-related diseases, such as diabetes
+and hypercholesterolemia. Additional studies are
+needed in these populations to evaluate the safety
+and  efficacy  of  low-carbohydrate,  high-protein,
+high-fat diets.
+
+23
+
+Supported  by  grants  from  the  National  Institutes  of  Health
+(RR00036,  RR00040,  RR00051,  AT1103,  DK  37948,  DK  56341,
+DK48520, DK42549, DK02703, and AT00058).
+
+Dr. Foster reports having received consulting fees from Abbott
+Laboratories and HealtheTech and lecture fees from Abbott Labora-
+tories  and  Roche  Laboratories.  Dr.  Wyatt  reports  having  received
+consulting fees from Ortho-McNeil, USANA, and GlaxoSmithKline
+and  lecture  fees  from  Roche  Laboratories,  Abbott  Laboratories,
+Slim-Fast, and Ortho-McNeil. Dr. Hill reports having received con-
+sulting fees from HealtheTech, Johnson & Johnson, Procter & Gam-
+ble, Coca-Cola, and the International Life Sciences Institute; lecture
+fees  from  Abbott  Laboratories,  Roche  Laboratories,  and  Kraft
+Foods; and grant support from M&M Mars, Procter & Gamble, and
+Abbott  Laboratories.  Dr.  Szapary  reports  having  received  lecture
+fees from AstraZeneca and Kos Pharmaceuticals and grant support
+from AstraZeneca. Dr. Klein reports having received consulting fees
+from Roche Laboratories and HealtheTech, lecture fees from Ortho-
+McNeil, and grants from GlaxoSmithKline and Regeneron.
+
+references
+
+Serdula  MK,  Mokdad  AH,  Williamson
+1.
+DF, Galuska DA, Mendlein JM, Heath GW.
+Prevalence  of  attempting  weight  loss  and
+strategies for controlling weight. JAMA 1999;
+282:1353-8.
+Flegal  KM,  Carroll  MD,  Ogden  CL,
+2.
+Johnson CL. Prevalence and trends in obesity
+among  US  adults,  1999-2000.  JAMA  2002;
+288:1723-7.
+Department of Health and Human Serv-
+3.
+ices. The Surgeon General’s call to action to
+prevent and decrease overweight and obesi-
+ty. Washington, D.C.: Government Printing
+Office, 2001.
+4.
+
+Clinical guidelines on the identification,
+
+evaluation, and treatment of overweight and
+obesity  in  adults  —  the  Evidence  Report.
+Obes Res 1998;6:Suppl 2:51S-209S. [Erra-
+tum, Obes Res 1998;6:464.]
+Thomas PR, ed. Weighing the options:
+5.
+criteria  for  evaluating  weight-management
+programs. Washington, D.C.: National Acad-
+emy Press, 1995.
+Position of the American Dietetic Asso-
+6.
+ciation: weight management. J Am Diet As-
+soc 1997;97:71-4.
+Krauss RM, Deckelbaum RJ, Ernst N, et
+7.
+al. Dietary guidelines for healthy American
+adults: a statement for health professionals
+from  the  National  Committee,  American
+
+Eades  MR,  Eades  MD.  Protein  power.
+
+Heart  Association.  Circulation  1996;94:
+1795-800.
+Steward  HL,  Bethea  MC,  Andrews  SS,
+8.
+Balart LA. Sugar busters! New York: Ballan-
+tine Publishing, 1995.
+9.
+New York: Bantam Books, 1999.
+Atkins RC. Dr. Atkins’ new diet revolu-
+10.
+tion. Rev. ed. New York: Avon Books, 1998.
+The truth about dieting. Consumer Re-
+11.
+ports. June 2002:26-32.
+Freedman MR, King J, Kennedy E. Pop-
+12.
+ular  diets:  a  scientific  review.  Obes  Res
+2001;9:Suppl 1:1S-40S.
+13.
+
+Blackburn GL, Phillips JCC, Morreale S.
+
+n engl j med 
+
+348;21
+
+www.nejm.org may 
+
+22, 2003
+
+2089
+
+The New England Journal of Medicine Downloaded from nejm.org on August 8, 2018. For personal use only. No other uses without permission.  Copyright © 2003 Massachusetts Medical Society. All rights reserved. a randomized trial of a low-carbohydrate diet for obesity
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Physician’s  guide  to  popular  low-carbohy-
+drate  weight-loss  diets.  Cleve  Clin  J  Med
+2001;68:761, 765-6, 768-9, 773-4.
+Larosa JC, Fry AG, Muesing R, Rosing
+14.
+DR. Effects of high-protein, low-carbohydrate
+dieting  on  plasma  lipoproteins  and  body
+weight. J Am Diet Assoc 1980;77:264-70.
+Westman EC, Yancy WS, Edman JS, Tom-
+15.
+lin KF, Perkins CE. Effect of 6-month adher-
+ence to a very low carbohydrate diet program.
+Am J Med 2002;113:30-6.
+Katz  A,  Nambi  SS,  Mather  K,  et  al.
+16.
+Quantitative insulin sensitivity check index:
+a simple, accurate method for assessing in-
+sulin sensitivity in humans. J Clin Endocrinol
+Metab 2000;85:2402-10.
+Brownell KD. The LEARN program for
+17.
+weight  management  2000.  Dallas:  Ameri-
+can Health Publishing, 2000.
+Food guide pyramid. Home and garden
+18.
+bulletin report 252. Washington, D.C.: De-
+partment of Agriculture, 1992.
+Allain CC, Poon LS, Chan CS, Richmond
+19.
+W, Fu PC. Enzymatic determination of total
+serum cholesterol. Clin Chem 1974;20:470-
+5.
+Friedewald  WT,  Levy  RI,  Fredrickson
+20.
+DS. Estimation of the concentration of low-
+density  lipoprotein  in  plasma,  without  the
+use of preparative ultracentrifuge. Clin Chem
+1972;18:499-502.
+Potteiger JA, Jacobsen DJ, Donnelly JE.
+21.
+A comparison of methods for analyzing glu-
+cose and insulin areas under the curve fol-
+lowing nine months of exercise in overweight
+adults. Int J Obes Relat Metab Disord 2002;
+26:87-9.
+22.
+2000.
+23.
+
+SPSS 11.0 for Windows. Chicago: SPSS,
+
+Wadden TA, Foster GD. Behavioral treat-
+
+Yanovski  SZ,  Yanovski  JA.  Obesity.
+
+ment of obesity. Med Clin North Am 2000;
+84:441-61.
+24.
+N Engl J Med 2002;346:591-602.
+Yang M-U, Van Itallie TB. Composition
+25.
+of weight lost during short-term weight re-
+duction: metabolic responses of obese sub-
+jects to starvation and low-calorie ketogenic
+and nonketogenic diets. J Clin Invest 1976;
+58:722-30.
+Rabast U, Kasper H, Schonborn J. Com-
+26.
+parative studies in obese subjects fed carbo-
+hydrate-restricted  and  high  carbohydrate
+1,000-calorie  formula  diets.  Nutr  Metab
+1978;22:269-77.
+Golay A, Allaz AF, Morel Y, de Tonnac N,
+27.
+Tankova S, Reaven GM. Similar weight loss
+with low- or high-carbohydrate diets. Am J
+Clin Nutr 1996;63:174-8.
+Golay A, Eigenheer C, Morel Y, Kujaw-
+28.
+ski P, Lehmann T, de Tonnac N. Weight-loss
+with  low  or  high  carbohydrate  diet?  Int  J
+Obes Relat Metab Disord 1996;20:1067-72.
+Ferrannini  E,  Natali  A,  Bell  P,  Cavallo-
+29.
+Perin P, Lalic N, Mingrone G. Insulin resist-
+ance and hypersecretion in obesity. J Clin In-
+vest 1997;100:1166-73.
+Dattilo  AM,  Kris-Etherton  PM.  Effects
+30.
+of  weight  reduction  on  blood  lipids  and
+lipoprotein: a meta-analysis. Am J Clin Nutr
+1992;56:320-8.
+Szapary PO, Rader DJ. Pharmacological
+31.
+management of high triglycerides and low
+high-density lipoprotein cholesterol. Curr
+Opin Pharmacol 2001;1:113-20.
+Forrester JS. Triglycerides: risk factor or
+32.
+fellow traveler? Curr Opin Cardiol 2001;16:
+261-4.
+33. Boden  WE.  High-density  lipoprotein
+cholesterol as an independent risk factor in
+
+cardiovascular  disease:  assessing  the  data
+from  Framingham  to  the  Veterans  Affairs
+High-Density Lipoprotein Intervention Trial.
+Am J Cardiol 2000;86:19L-22L.
+34. Mensink RP, Katan MB. Effect of dietary
+fatty acids on serum lipids and lipoproteins:
+a  meta-analysis  of  27  trials.  Arterioscler
+Thromb Vasc Biol 1992;12:911-9.
+35. Garg A, Grundy SM, Unger RH. Com-
+parison of effects of high and low carbohy-
+drate diets on plasma lipoproteins and insu-
+lin sensitivity in patients with mild NIDDM.
+Diabetes 1992;41:1278-85.
+36. Ornish D, Scherwitz LW, Billings JH, et
+al. Intensive lifestyle changes for reversal of
+coronary  heart  disease.  JAMA  1998;280:
+2001-7. [Erratum, JAMA 1999;281:1380.]
+37. Lewis SB, Wallin JD, Kane JP, Gerich JE.
+Effect of diet composition on metabolic ad-
+aptations to hypocaloric nutrition: compari-
+son of high carbohydrate and high fat isoca-
+loric diets. Am J Clin Nutr 1977;30:160-70.
+38. Hu FB, Stampfer MJ, Manson JE, et al.
+Dietary  fat  intake  and  the  risk  of  coronary
+heart disease in women. N Engl J Med 1997;
+337:1491-9.
+39. Expert  Panel  on  Detection,  Evaluation,
+and Treatment of High Blood Cholesterol in
+Adults. Executive summary of the Third Re-
+port of the National Cholesterol Education
+Program (NCEP) Expert Panel on Detection,
+Evaluation,  and  Treatment  of  High  Blood
+Cholesterol in Adults (Adult Treatment Pan-
+el III). JAMA 2001;285:2486-97.
+40. Schaefer EJ. Lipoproteins, nutrition, and
+heart disease. Am J Clin Nutr 2002;75:191-
+212.
+Copyright © 2003 Massachusetts Medical Society.
+
+clinical problem-solving series
+
+The  Journal welcomes submissions of manuscripts for the Clinical Problem-Solving 
+series. This regular feature considers the step-by-step process of clinical decision 
+making. For more information, please see http://www.nejm.org/hfa/articles.asp.
+
+2090
+
+n engl j med 
+
+348;21
+
+www.nejm.org may 
+
+, 
+
+22
+
+2003
+
+The New England Journal of Medicine Downloaded from nejm.org on August 8, 2018. For personal use only. No other uses without permission.  Copyright © 2003 Massachusetts Medical Society. All rights reserved. 

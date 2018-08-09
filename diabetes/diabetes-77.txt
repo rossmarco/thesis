@@ -1,0 +1,1635 @@
+Diabetes Care Publish Ahead of Print, published online November 18, 2008
+ 
+
+Egg intake and type 2 diabetes 
+
+Egg Consumption and Risk of Type 2 Diabetes in Men and Women 
+
+Running title: Egg intake and type 2 diabetes 
+
+Luc Djoussé, MD, DSc1,3; J. Michael Gaziano, MD1-4; Julie E. Buring, ScD1-3, 5,6; and I-Min Lee, 
+
+MBBS, ScD2,3,6 
+
+From the Divisions of Aging1 and Preventive Medicine2, Department of Medicine, Brigham and 
+
+Women’s Hospital and Harvard Medical School3, Boston, MA; 4Massachusetts Veterans 
+Epidemiology and Research Information Center (MAVERIC), Boston Veterans Affairs 
+Healthcare System, Jamaica Plain, MA.,5Department of Ambulatory Care and Prevention, 
+
+Harvard Medical School, Boston, MA; 6Department of Epidemiology, Harvard School of Public 
+
+Health, Boston, MA 
+
+Correspondence: 
+
+Luc Djoussé, MD, MPH, DSc, FAHA 
+E-mail. ldjousse@rics.bwh.harvard.edu 
+
+Submitted 9 July 2008 and accepted 8 November 2008. 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+Additional information for this article can be found in an online appendix at 
+
+http://care.diabetesjournals.org. 
+
+ 
+ 
+This  is  an  uncopyedited  electronic  version  of  an  article  accepted  for  publication  in Diabetes Care.  The 
+American Diabetes Association, publisher of Diabetes Care, is not responsible for any errors or omissions 
+in this version of the manuscript or any version derived from it by third parties. The definitive publisher-
+authenticated  version  will  be  available  in  a  future  issue  of  Diabetes Care  in  print  and  online  at 
+http://care.diabetesjournals.org.   
+ 
+ 
+ 
+ 
+ 
+
+Copyright American Diabetes Association, Inc., 2008
+ 
+
+Egg intake and type 2 diabetes 
+
+Objective: While limited and inconsistent findings have been reported on the relation between 
+dietary cholesterol or egg consumption and fasting glucose, no previous study has examined the 
+association between egg consumption and type 2 diabetes. This project sought to examine the 
+relation between egg intake and the risk of type 2 diabetes in two large prospective cohorts.  
+ 
+Research Design and Methods: Prospective design using data from two completed randomized 
+trials: 20,703 men from the Physicians’ Health Study I (1982-2007) and 36,295 women from the 
+Women’s Health Study (1992-2007). Egg consumption was ascertained using questionnaires and 
+we used Cox proportional hazard model to estimate relative risks of type 2 diabetes.  
+ 
+Results: During mean follow up of 20.0 years in men and 11.7 years in women, 1,921 men and 
+2,112  women  developed  type  2  diabetes.  Compared  with  no  egg  consumption,  multivariable 
+adjusted hazard ratios (95% CI) for type 2 diabetes were 1.09 (0.87-1.37), 1.09 (0.88-1.34), 1.18 
+(0.95-1.45), 1.46 (1.14-1.86), and 1.58 (1.25-2.01) for consumption of <1, 1, 2-4, 5-6, and 7+ 
+eggs/week, respectively, in men (p for trend <0.0001). Corresponding multivariable hazard ratios 
+(95% CI) for women were 1.06 (0.92-1.22), 0.97 (0.83-1.12), 1.19 (1.03-1.38), 1.18 (0.88-1.58), 
+and 1.77 (1.28-2.43), respectively (p for trend <0.0001).  
+ 
+Conclusions: These data suggest that high levels of egg consumption (daily) are associated with 
+an increased risk of type 2 diabetes in men and women. Confirmation of these findings in other 
+populations is warranted. 
+ 
+ 
+ 
+ 
+
+ 
+
+2
+
+diabetes 
+
+(i.e. 
+
+fat 
+
+such 
+
+risk  of 
+
+saturated 
+
+(~1.9  g/egg) 
+
+  T 
+
+type  2  diabetes 
+
+ype  2  diabetes 
+is  highly 
+prevalent and is associated with 
+high  health  care  costs  and 
+societal burden1. Therefore, it is important to 
+identify modifiable risk factors that may help 
+reduce  the  risk  of  type  2  diabetes.  Eggs  are 
+not only major sources of dietary cholesterol 
+(~200  mg/egg)  but  also  contains  other 
+important  nutrients 
+as  minerals, 
+vitamins, proteins, carotenoids, and saturated 
+(~1.5  g/egg),  polyunsaturated  (~0.7  g/egg), 
+and  monounsaturated 
+fatty 
+acids2,3. While several of these nutrients have 
+been associated with an increased risk of type 
+2 
+and 
+cholesterol4,5),  other  nutrients  may  confer  a 
+lower 
+(i.e. 
+polyunsaturated fat4).  
+ 
+While  egg  consumption  was  not 
+associated with coronary heart disease (CHD) 
+or stroke overall, Hu et al.6 reported a 2-fold 
+increased risk of CHD for egg consumption of 
+>1/week among men with type 2 diabetes in 
+the  Health  Professionals’  Follow-up  Study 
+and  a  49%  increased  risk  of  CHD  among 
+the  Nurses’  Health  Study, 
+women 
+intake  of  <  1/week. 
+compared  with 
+Furthermore,  we  have 
+similar 
+findings  in  US  male  physicians  with  type  2 
+diabetes  but  not  in  those  without  type  2 
+diabetes7, 
+frequent  egg 
+consumption may have negative health effects 
+among  individuals  with  type  2  diabetes. 
+However,  it  is  not  known  whether  egg 
+consumption  increases  the  risk  of  type  2 
+diabetes  itself.  In  animal  experiments,  a  diet 
+induce 
+rich 
+hyperglycemia  and  hyperinsulinemia8. 
+In 
+addition,  a  diet  enriched  with  egg  yolk  was 
+associated  with  elevated  plasma  glucose 
+compared  with  a  control  diet  in  rats9.  Data 
+from  the  Zutphen  Study10  have  indicated  a 
+positive association between egg consumption 
+or  dietary  cholesterol  and  fasting  glucose. 
+However, 
+trial  of  28 
+
+in  fat  has  been  shown 
+
+in  a  randomized 
+
+suggesting 
+
+reported 
+
+that 
+
+in 
+
+to 
+
+ 
+
+3
+
+Egg intake and type 2 diabetes 
+
+it 
+
+is 
+
+to 
+
+response 
+
+the  US, 
+
+important 
+
+overweight/obese  patients  on  a  carbohydrate 
+restricted  diet,  consumption  of  3  eggs/d  had 
+no  effects  on  fasting  glucose  compared  to 
+abstention  from  eggs11.  Current  data  on  the 
+effects  of  dietary  cholesterol  on  serum 
+cholesterol  have  been  inconsistent,  ranging 
+from positive associations  2,12 to no effects12-
+14 and may be partly due to a large variability 
+in 
+individual 
+dietary 
+cholesterol14,15.  
+ 
+To our knowledge, no previous study 
+has  examined  the  association  between  egg 
+consumption  and  the  incidence  of  type  2 
+diabetes in a large prospective cohort of men 
+and women. Because eggs can serve as a good 
+source  for  vitamins,  proteins,  and  other 
+in 
+nutrients 
+to 
+determine 
+the  net  benefit/harm  of  egg 
+consumption  on  the  risk  of  type  2  diabetes. 
+The  current  study  examines  the  association 
+between egg consumption and incident type 2 
+diabetes  among  men  and  women  who 
+participated 
+completed 
+two 
+randomized control trials. 
+ 
+RESEARCH DESIGN AND METHODS: 
+ 
+Study population: We used data from 
+the Physicians’ Health Study (PHS) I and the 
+Women’s  Health  Study 
+two 
+completed 
+double-blind, 
+randomized, 
+placebo-controlled trials designed to study the 
+effects of aspirin and beta carotene (PHS) or 
+low-dose aspirin and vitamin E (WHS) in the 
+prevention  of  cardiovascular  disease  and 
+cancer. Detailed description of the PHS I and 
+WHS  has  been  published  previously16-18. 
+Briefly, a total of 22,071 US male physicians 
+aged 40 years and older at entry (1982) were 
+randomized  using  a  2x2  factorial  design  to 
+aspirin  (325  mg  every  other  day),  beta-
+carotene  (50  mg  every  other  day),  or  their 
+corresponding  placebos.  Similarly,  39,876 
+female health professionals aged 45 years and 
+older  at  entry  (1992-1995)  were  randomized 
+to  low-dose  aspirin  (100  mg  on  alternate 
+
+(WHS)  – 
+
+large 
+
+in 
+
+Egg intake and type 2 diabetes 
+
+in 
+
+the 
+
+using 
+
+female 
+
+telephone 
+
+questionnaires 
+
+frequency 
+similar 
+populations has been published elsewhere19,20. 
+The correlation between egg consumption and 
+dietary  cholesterol  was  0.61  (p<0.0001),  and 
+0.26  (p<0.0001)  for  saturated  fat  among 
+women. 
+ 
+Ascertainment  of  incident  type  2 
+diabetes: Type 2 diabetes was ascertained by 
+self-report on annual follow-up questionnaires 
+in  both  men  and  women.  Follow-up  and 
+ascertainment  of  type  2  diabetes  cases  was 
+completed  in  March  2007.  Because  all  men 
+were  physicians,  self-report  was  deemed 
+sufficient.  Among 
+health 
+professionals,  self-reports  of  type  2  diabetes 
+were  validated  using  American  Diabetes 
+Association  criteria,  by  obtaining  additional 
+information 
+interview, 
+supplemental  questionnaire,  or  review  of 
+medical records from treating physicians21,22. 
+Overall, the positive predictive value for type 
+2 diabetes validation was 91%21. 
+ 
+Other  variables:  Demographic  data 
+were  collected  at  baseline.  In  addition, 
+information  on  prevalence  of  hypertension, 
+hypercholesterolemia, 
+family  history  of 
+diabetes (WHS only), smoking, exercise, and 
+alcohol 
+at 
+baseline.  While  limited  data  on  foods  were 
+available in men, detailed dietary information 
+was  collected 
+the  WHS,  allowing 
+estimation of energy intake and nutrients. 
+ 
+Statistical  analyses:  We  classified 
+each subject into one the following categories 
+of  egg  consumption:  0,  <  1  per  week,  1  per 
+week,  2-4  per  week,  5-6  per  week,  and  7+ 
+eggs per week. We computed person-time of 
+follow  up  from  baseline  until 
+the  first 
+occurrence of a) type 2 diabetes, b) death, or 
+c)  censoring  date,  the  date  of  receipt  of  the 
+last  follow-up  questionnaire  (March  2007). 
+Within  each  egg  consumption  group,  we 
+calculated 
+type  2 
+diabetes  by  dividing  the  number  of  cases  by 
+the corresponding person-time. We used Cox 
+proportional  hazard  models 
+to  compute 
+
+consumption  was  obtained 
+
+incidence  rate  of 
+
+the 
+
+in 
+
+alcohol 
+
+consumption, 
+
+days),  vitamin  E  (600  IU  on  alternate  days), 
+or 
+their  corresponding  placebos.  Each 
+participant gave written informed consent and 
+the  Institutional  Review  Board  at  Brigham 
+and  Women’s  Hospital  approved  both  study 
+protocols.  For 
+the  present  analyses,  we 
+excluded 1,368 men because of prevalent type 
+2  diabetes  (n=641);  missing  data  on  egg 
+consumption 
+(n=365)  or  on  potential 
+confounders:  smoking,  alcohol  intake,  body 
+mass index, exercise, hypertension, and fruits 
+and  vegetables  (n=362).  Among  women,  we 
+excluded  3,581  because  of  prevalent  type  2 
+diabetes  (n=1,171);  missing  data  on  egg 
+(n=852) 
+consumption 
+potential 
+or 
+confounders:  body  mass 
+index,  exercise, 
+smoking, energy intake, fruits and vegetables, 
+nutrients, 
+and 
+hypertension (n=1,558). Thus, a final sample 
+of  20,703  men  and  36,295  women  was  used 
+in current analyses.  
+ 
+Egg  consumption:  Among  men, 
+information  on  egg  consumption  was  self-
+reported 
+simple 
+abbreviated  semi-quantitative  food  frequency 
+questionnaire.  Participants  were  asked 
+to 
+report how often, on average, they had eaten 
+one  egg  during 
+the  past  year.  Possible 
+response  categories  included  “rarely/never”, 
+“1-3/month”,  “1/week”,  “2-4/week”,  “5-
+6/week”, 
+“2+/day”.  This 
+information was obtained at baseline, 24, 48, 
+72,  96,  and  120  months  after  randomization. 
+Among  women, 
+egg 
+consumption  was  self-reported  using  a  131-
+item validated food frequency questionnaire19 
+at baseline. Women were asked to report their 
+average consumption of one egg over the past 
+response  categories  were 
+year.  Possible 
+“Never  or  <1/month”, 
+“1-3/month”, 
+“1/week”,  “2-4/week”,  “5-6/week”,  “1/day”, 
+“2-3/day”, “4-5/day”, and “6+/day”. Because 
+very  few  subjects  consumed  1+  eggs/day 
+(7.8%  for  men  and  1.0%  for  women),  we 
+combined categories of 1 per day and beyond 
+for  stable  estimates.  The  validity  of  food 
+
+at  baseline  using 
+
+information 
+
+“daily”, 
+
+and 
+
+on 
+
+a 
+
+ 
+
+ 
+
+4
+
+Egg intake and type 2 diabetes 
+
+in 
+
+sensitivity  analyses  by  excluding  subjects 
+with  less  than  2  years  of  follow  up.  We 
+repeated the main analysis using updated egg 
+consumption  at  24,  48,  72,  96,  and  120 
+months  in  a  time-dependent  Cox  model  in 
+men  only,  where  repeated  measures  on  egg 
+consumption were available. Lastly, we used 
+generalized  linear  model  and  polytomous 
+logistic  regression  to  impute  missing  values 
+for  continuous  and  categorical  variables, 
+respectively.  All  analyses  were  completed 
+using  SAS,  version  9.1  (SAS  Institute,  NC). 
+Significance level was set at 0.05.  
+Results 
+The  mean  age  at  randomization  was 
+ 
+53.5±9.4  years  (range  39.7  to  85.9  years)  in 
+the PHS I and 54.5±7.0 years (range 38.7 to 
+89.9  years) 
+the  WHS.  Among  egg 
+consumers, the median egg consumption was 
+about 1 per week in men and women. Table 1 
+presents  baseline  characteristics  of  the  study 
+participants.  Frequent  consumption  of  eggs 
+was associated with higher body mass index, 
+higher proportion of current smoking, higher 
+lower 
+prevalence  of  hypertension,  and 
+prevalence 
+In 
+addition,  frequent  consumption  of  eggs  was 
+associated  with  older  age  and  more  alcohol 
+consumption in men and higher energy intake, 
+as well as intakes of saturated and trans fatty 
+acids, and dietary cholesterol in women. 
+ 
+A  total  of  1,921  new  cases  of  type  2 
+diabetes  were  documented  in  men  during  a 
+mean  follow  up  of  20.0  years.  Among 
+women,  2,112  new  cases  of  type  2  diabetes 
+occurred  during  a  mean  follow  up  of  11.7 
+years. From the lowest to the highest category 
+of egg consumption, crude incidence rates of 
+diabetes were 35.8, 41.3, 42.7, 46.8, 62.4, and 
+67.0 cases/10,000 person-years in the PHS I. 
+Similar increased rate of type 2 diabetes with 
+egg  consumption  was  observed  in  women 
+with  corresponding  crude  incidence  rates  of 
+39.6,  45.8,  43.3,  64.8,  76.8,  and  112.7 
+cases/10,000 
+respectively. 
+While egg consumption of up to 1 per week 
+
+hypercholesterolemia. 
+
+person-years, 
+
+of 
+
+in 
+
+the 
+
+activity 
+
+Because 
+
+hypertension. 
+
+multivariable  adjusted  hazard  ratios  with 
+corresponding 95% confidence intervals using 
+subjects 
+lowest  category  of  egg 
+consumption  as  the  reference  group.  The 
+initial  model  adjusted  for  age  whereas  the 
+multivariable  model  controlled 
+for  age 
+(continuous),  body  mass  index  (<25,  25-29, 
+30+  kg/m2),  smoking  (never,  former,  and 
+current smokers), alcohol consumption (none, 
+1-3  drinks/month,  1-6  drinks/week,  1+ 
+drinks/day),  physical 
+(vigorous 
+exercise 0, <1, 1-3, 4+ times per week in men 
+and  quintiles  of  kilocalories  per  week 
+expended  in  leisure-time  physical  activity  in 
+women), and history of hypercholesterolemia 
+and 
+detailed 
+information  on  diet  and  family  history  was 
+available  in  women,  the  multivariable  model 
+in women also adjusted for family history of 
+diabetes,  energy  intake  (quintiles),  intake  of 
+fruits  and  vegetables  (quintiles),  red  meat 
+consumption 
+(<0.5,  0.5-0.9,  and  ≥  1 
+serving/d), and intake of polyunsaturated fats 
+(quintiles), saturated fats (quintiles), and trans 
+fats  (quintiles).  To  examine  whether  the 
+relation  between  egg  and  diabetes  was 
+mediated by dietary cholesterol, we evaluated 
+the  risk  of  diabetes  associated  with  dietary 
+cholesterol 
+included  dietary 
+cholesterol  in  the  multivariable  model  in 
+women.  A  similar  approach  was  used  for 
+saturated  fat.  P  value  for  linear  trend  was 
+obtained by fitting a continuous variable that 
+assigned the median egg consumption in each 
+egg category in a Cox regression model. 
+
+In  secondary  analyses,  we  examined 
+possible  effect  modification  by  prevalent 
+hypercholesterolemia  (yes/no)  and  low  vs. 
+high energy from carbohydrate using median 
+energy  from  carbohydrate  as  cut  point  in 
+women  only,  where  data  were  available.  We 
+tested  for  statistical  interaction  by  including 
+main  effects  and  product  terms  between  egg 
+consumption  and  hypercholesterolemia  in  a 
+hierarchical  Cox  regression  model  (Proc 
+TPHREG 
+in  SAS).  We  also  conducted 
+
+and 
+
+also 
+
+ 
+
+5
+
+Egg intake and type 2 diabetes 
+
+energy-adjusted  saturated 
+fat.  Additional 
+control  for  saturated  fat  did  not  alter  the 
+results  (e.g.,  HR  of  1.78  (1.30-2.45)  without 
+and  1.77  (1.28-2.43)  with  additional  control 
+for saturated fat, comparing the highest to the 
+lowest egg consumption categories). Imputing 
+missing data did not change the findings (see 
+online  appendix    Table  A1,  available  at 
+http://care.diabetesjournals.org).  
+
+In  a  secondary  analysis  stratified  by 
+prevalent  hypercholesterolemia  at  baseline 
+(Table  3),  similar  patterns  were  observed  in 
+either  gender  in  subjects  with  and  without 
+hypercholesterolemia  (p  for  interaction  0.37 
+for men and 0.13 in women). Similar relations 
+were observed between egg consumption and 
+type 2 diabetes when stratified by low energy 
+from  carbohydrate  (p  for  linear  trend  0.0004 
+for  low  energy  from  carbohydrate  and  0.12 
+for high energy from carbohydrate) in women 
+only  (data  were  not  available  to  estimate 
+carbohydrate 
+these 
+findings  were  not  altered  when  restricted  to 
+overweight/obese 
+online 
+appendix Table A2). 
+
+in  men)  and 
+
+subjects 
+
+intake 
+
+(see 
+
+between 
+
+modified 
+
+association 
+
+least  one  egg 
+
+In  this  large  prospective  study,  we 
+have demonstrated that daily consumption of 
+at 
+is  associated  with  an 
+increased risk of type 2 diabetes in both men 
+and  women,  independent  of  traditional  risk 
+factors  for  type  2  diabetes.  Furthermore,  the 
+observed 
+egg 
+consumption and incident type 2 diabetes was 
+not 
+prevalent 
+hypercholesterolemia in either gender. 
+ 
+To  the  best  of  our  knowledge,  this  is 
+the  first  study  to  examine  prospectively  the 
+association  between  egg  consumption  and 
+incident type 2 diabetes in a large population 
+of men and women. Prior to the current study, 
+limited  and  inconsistent  data  (mainly  from 
+animal  models)  have  been  reported  in  the 
+literature  on  the  effects  of  eggs  or  dietary 
+cholesterol  on  glucose  metabolism.  In  an 
+
+by 
+
+ 
+
+CONCLUSIONS 
+
+after 
+
+adjustment 
+
+(Table  2).  Updating 
+
+was  generally  not  associated  with  an 
+increased  risk  of  type  2  diabetes  in  both 
+genders 
+in  multivariate  analyses,  more 
+frequent consumption of eggs was associated 
+with  an  increased  risk  of  type  2  diabetes 
+(Table  2).  Compared  with  subjects  who  did 
+not  report  egg  consumption,  intake  of  7  or 
+more  eggs  per  week  was  associated  with  a 
+58% increased risk of type 2 diabetes in men 
+and a 77% increased risk of type 2 diabetes in 
+for  potential 
+women 
+confounders 
+egg 
+consumption  using 
+time-dependent  Cox 
+regression (PHS I) yielded a stronger relation 
+between egg consumption and incident type 2 
+diabetes in men with hazard ratios (95% CI) 
+of:  1.0  (reference),  1.10  (0.99-1.23),  1.31 
+(1.16-1.47),  1.40  (1.10-1.77),  1.77  (1.39-
+2.26), and 1.99 (1.23-3.23) from the lowest to 
+the  highest  category  of  egg  consumption 
+using  a  multivariable  model  as  above  (this 
+was  not  done  for  women  due  to  lack  of  
+updated  information  on  egg  consumption). 
+Lastly,  exclusion  of  subjects  with  follow  up 
+time  below  2  years  in  both  cohorts  did  not 
+alter  the  results  (p  for  trend  <0.0001  in  men 
+and 0.0001 for women).  
+
+the 
+
+Dietary  cholesterol  was  positively 
+associated  with 
+risk  of  diabetes 
+(multivariable  adjusted  hazard  ratios  of  1.00 
+(reference),  0.94  (0.80-1.11),  1.03  (0.88-
+1.21),  1.07  (0.91-1.25),  and  1.28  (1.10-1.50) 
+from  the  lowest  to  the  highest  quintile  of 
+dietary  cholesterol,  respectively,  p  for  trend 
+<0.0001).  Additional  adjustment  for  dietary 
+cholesterol  in  women  attenuated  the  point 
+estimates  in  the  multivariable  model  with 
+corresponding 
+1.00 
+(reference),  1.05  (0.91-1.21),  0.94  (0.80-
+1.10), 1.07 (0.90-1.27), 1.00 (0.73-1.37), and 
+1.49  (1.06-2.09),  respectively,  p  for  trend 
+0.10.  However, 
+fat  was  not 
+associated with type 2 diabetes (multivariable 
+adjusted  HR  of  1.0,  1.03  (0.87-1.21),  1.00 
+(0.84-1.19), 1.00 (0.84-1.20), and 1.10 (0.92-
+1.33)  from  the  lowest  to  highest  quintile  of 
+
+saturated 
+
+hazard 
+
+ratios 
+
+of 
+
+ 
+
+6
+
+Egg intake and type 2 diabetes 
+
+in 
+
+trial11  may 
+
+randomized 
+
+human 
+imply 
+differential physiologic effects of eggs in lean 
+vs.  overweight/obese  subjects.  However,  the 
+lack  of  repeated  data  on  fasting  glucose  in 
+men  and  women 
+the  present  study 
+prevented  us  to  further  explore  the  relation 
+between  adiposity,  egg  consumption,  and 
+fasting glucose.  
+ 
+Overall, the observed increased risk of 
+type  2  diabetes  with  daily  consumption  of 
+eggs in the current study raises the possibility 
+of  undesirable  health  effects  with 
+large 
+quantity  of  egg  consumption  and  may  help 
+explain  previously  reported  increased  risk  of 
+CHD  that  was  restricted  to  individuals  with 
+type  2  diabetes  in  the  Health  Professional 
+Follow-up Study6, the Nurses’ Health Study6, 
+and in our earlier publication from the PHS I 
+showing  an  increased  risk  of  mortality  (and 
+suggestive increased risk of CHD and stroke) 
+with 
+frequent  egg  consumption  among 
+subjects with prevalent type 2 diabetes 7. It is 
+possible  that  frequent  egg  consumption  may 
+potentiate  the  risk  of  cardiovascular  disease 
+by inducing impaired glucose metabolism and 
+insulin  resistance.  Future  investigations  to 
+explore  underlying  physiologic  mechanisms 
+are warranted. 
+ 
+Besides  dietary  cholesterol,  eggs 
+contain  other  important  nutrients  that  have 
+been shown to increase (i.e. saturated fat and 
+cholesterol4,5,25) 
+(i.e. 
+polyunsaturated  fat4)  the  risk  of  type  2 
+diabetes.  It  is  possible  that  the  individual 
+contribution  from  each  of  these  components 
+derived not just from eggs but also from other 
+foods may play a role in determining the net 
+effect  of  egg  consumption.  Unfortunately,  as 
+noted above, we did not have repeated data on 
+fasting  glucose,  fasting  insulin,  and  other 
+biomarkers  of  glucose  metabolism  in  either 
+cohort  to  comprehensively  examine  possible 
+physiologic  mechanisms  by  which  egg 
+consumption might influence the risk of type 
+2 diabetes in our cohort. However, in women 
+where  we  had  data  on  dietary  cholesterol, 
+
+decrease 
+
+or 
+
+to 
+
+induce 
+
+in 
+
+in  a 
+
+randomized 
+
+is  possible 
+
+hyperglycemia 
+
+that 
+frequent 
+
+it 
+effect  of 
+
+animal  experiment,  a  diet  rich  in  fat  was 
+shown 
+and 
+hyperinsulinemia8. 
+Furthermore, 
+Adamopoulos  and  colleagues  demonstrated 
+that a diet enriched with egg yolk resulted in 
+elevated  plasma  glucose  compared  with  a 
+control diet in male Wistar albino rats9. Data 
+from  the  Zutphen  Study10  showed  a  positive 
+association  between  egg  consumption  or 
+dietary cholesterol and fasting glucose. These 
+animal  studies  and  data  from  the  Zutphen 
+Study10  are  consistent  with  our  findings.  In 
+contrast, 
+trial  of  28 
+overweight/obese  subjects  on  a  carbohydrate 
+restricted  diet,  consumption  of  3  eggs/d  has 
+no effects on fasting glucose compared to no 
+egg  consumption11.  Since 
+the  positive 
+associations  described  above  were  observed 
+in  studies  without  restricted  consumption  of 
+the 
+carbohydrates, 
+hyperglycemic 
+egg 
+consumption might only occur with a diet rich 
+in  carbohydrates.  However,  our  secondary 
+data  analysis  provided  no  evidence  for  such 
+that  we  observed  similar 
+hypothesis 
+increased  risk  of 
+type  2  diabetes  with 
+consumption of one or more eggs per day in 
+women with low or high energy intake from 
+carbohydrate.  Further  restriction  to  women 
+with body mass index of at least 25 kg/m2 to 
+mimic the above trial of 28 overweight/obese 
+subjects  on  restricted  carbohydrate  diet11  did 
+not  alter  these  findings.  Under  the  premise 
+that  our  observed  findings  are  driven  by 
+dietary  cholesterol  contained  in  eggs,  one 
+possible  explanation  for  the  inconsistency  in 
+reported data on the association between egg 
+consumption  and  glucose  metabolism  could 
+be the large variability of individual response 
+to  dietary  cholesterol14,15,23.  While  dietary 
+cholesterol  has  been  shown 
+increase 
+plasma  cholesterol  in  hyperresponders2,12,24, 
+no 
+among  
+hyporesponders12-14.  Second,  the  lack  of  an 
+effect of egg consumption on fasting glucose 
+among obese/overweight subjects in the only 
+
+effect  was 
+
+documented 
+
+to 
+
+ 
+
+7
+
+Egg intake and type 2 diabetes 
+
+using 
+
+American 
+
+in a validation study of  self-reported type 2 
+diabetes 
+Diabetes 
+Association  criteria,  by  telephone  interview, 
+supplemental  questionnaire,  or  review  of 
+medical  records  from  treating  physicians21. 
+Moreover,  egg  consumption  was  collected 
+prior  to  the  diagnosis  of  diabetes;  thus,  it  is 
+likely  that  any  misclassification  of  diabetes 
+would be non-differential and bias the results 
+towards  the  null.  Nevertheless,  the  large 
+sample size, the long duration of follow ups, 
+the  repeated  and  standardized  methods  for 
+data collection in both cohorts, the robustness 
+of  the  findings  in  sensitivity  analyses  are 
+major strengths of this paper.  
+ 
+In  conclusion,  our  data  are  consistent 
+with  possible  detrimental  effects  of  daily 
+consumption  of  eggs  on  the  risk  of  type  2 
+diabetes  in  both  men  and  women.  Since  the 
+median  egg  consumption  in  this  population 
+(1/week  for  men  and  women)  falls  within  a 
+range not associated with an increased risk of 
+type 2 diabetes, a dietary advice to reduce egg 
+consumption  may 
+individuals  who 
+consume  one  or  more  eggs  per  day  if  these 
+findings are confirmed in other studies. Given 
+type  2  diabetes, 
+the  societal  burden  of 
+confirmation  of 
+in  other 
+populations  and  exploration  of  possible 
+underlying 
+are 
+warranted.  
+ 
+ACKNOWLEDGEMENTS:  
+ 
+ This study is supported by grants CA-
+34944,  CA-40360,  CA-047988,  and  CA-
+097193  from  the  National  Cancer  Institute 
+and  grants  HL-26490,  HL-43851,  HL-
+080467,  and  HL-34595  from  the  National 
+Heart,  Lung,  and  Blood  Institute,  Bethesda, 
+MD.  
+ 
+ 
+ 
+
+  Conflict of interest: None 
+
+biological  mechanisms 
+
+these  findings 
+
+target 
+
+to 
+
+to 
+
+collect 
+
+type  2  diabetes 
+
+there was attenuation of the association upon 
+additional  adjustment  for  dietary  cholesterol. 
+This  suggests 
+that  the  observed  relation 
+between  egg  intake  and  diabetes  may  be 
+partially explained by the cholesterol content 
+of  eggs.  In  contrast,  saturated  fat  was  not 
+associated  with 
+and 
+adjustment  for  this  did  not  attenuate  the 
+results. 
+ 
+Additional  limitations  of  the  present 
+study  include  the  observational  nature  of  the 
+study design in which residual confounding or 
+unmeasured  confounding  could  partly  or 
+completely  explain  our  results.  In  addition, 
+since egg consumption was self-reported, we 
+cannot  exclude  reporting  bias  in  the  present 
+study.  However,  because  information  on  egg 
+consumption  was  collected  prior 
+the 
+occurrence of type 2 diabetes, such reporting 
+bias is more likely to be non-differential and 
+thus bias the results towards the null. We did 
+not 
+on  whether 
+participants  consumed  egg  yolk  (rich  in 
+cholesterol) 
+the 
+contribution  of  dietary  cholesterol  from  eggs 
+on  type  2  diabetes  risk  in  this  study.  In 
+addition,  we  had  limited  dietary  data  in  men 
+to  further  assess  the  interplay  between  eggs 
+and other foods, energy, and nutrients on the 
+risk of type 2 diabetes. The generalizablity of 
+our finding is limited as both PHS I and WHS 
+consist  of  homogeneous  groups 
+(male 
+physicians  and  female  health  professionals, 
+respectively)  with  the  possibility  that  their 
+behaviors  may  differ  from  those  of  the 
+general population. Furthermore, over 90% of 
+the study participants were Caucasians. Given 
+the  self-report  nature  of  type  2  diabetes,  we 
+can  not  exclude  misclassification  of 
+the 
+outcome in these data, especially in the WHS 
+where not all participants were physicians as 
+was  the  case  in  the  PHS.  However,  in  the 
+WHS, we had a 91% positive predictive value 
+ 
+
+information 
+
+examine 
+
+further 
+
+ 
+
+8
+
+Egg intake and type 2 diabetes 
+
+REFERENCES 
+  1.    Economic costs of diabetes in the U.S. In 2007. Diabetes Care 2008;31:596-615. 
+  2.   Herron KL, McGrane MM, Waters D, Lofgren IE, Clark RM, Ordovas JM, Fernandez ML. 
+The ABCG5 polymorphism contributes to individual responses to dietary cholesterol and 
+carotenoids in eggs. J Nutr 2006;136:1161-1165. 
+
+  3.   Song WO, Kerver JM. Nutritional contribution of eggs to American diets. J Am Coll Nutr 
+
+2000;19:556S-562S. 
+
+  4.   Salmeron J, Hu FB, Manson JE, Stampfer MJ, Colditz GA, Rimm EB, Willett WC. Dietary 
+
+fat intake and risk of type 2 diabetes in women. Am J Clin Nutr 2001;73:1019-1026. 
+
+  5.   Song Y, Manson JE, Buring JE, Liu S. A prospective study of red meat consumption and 
+type  2  diabetes  in  middle-aged  and  elderly  women:  the  women's  health  study.  Diabetes 
+Care 2004;27:2108-2115. 
+
+  6.   Hu  FB,  Stampfer  MJ,  Rimm  EB,  Manson  JE,  Ascherio  A,  Colditz  GA,  Rosner  BA, 
+Spiegelman D, Speizer FE, Sacks FM, Hennekens CH, Willett WC. A prospective study of 
+egg  consumption  and  risk  of  cardiovascular  disease  in  men  and  women.  JAMA 
+1999;281:1387-1394. 
+
+  7.   Djousse  L,  Gaziano  JM.  Egg  consumption  in  relation  to  cardiovascular  disease  and 
+
+mortality: The Physicians' Health Study. Am J Clin Nutr 2008;87:964-969.  
+
+  8.   Wu  L,  Vikramadithyan  R,  Yu  S,  Pau  C,  Hu  Y,  Goldberg  IJ,  Dansky  HM.  Addition  of 
+dietary  fat  to  cholesterol  in  the  diets  of  LDL  receptor  knockout  mice:  effects  on  plasma 
+insulin, lipoproteins, and atherosclerosis. J Lipid Res 2006;47:2215-2222. 
+
+  9.   Adamopoulos  PN,  Papamichael  CM,  Zampelas  A,  Moulopoulos  SD.  Cholesterol  and 
+unsaturated  fat  diets  influence  lipid  and  glucose  concentrations  in  rats.  Comp  Biochem 
+Physiol B Biochem Mol Biol 1996;113:659-663. 
+
+ 10.   Feskens  EJ,  Kromhout  D.  Habitual  dietary  intake  and  glucose  tolerance  in  euglycaemic 
+
+men: the Zutphen Study. Int J Epidemiol 1990;19:953-959. 
+
+ 11.   Mutungi  G,  Ratliff  J,  Puglisi  M,  Torres-Gonzalez  M,  Vaishnav  U,  Leite  JO,  Quann  E, 
+Volek JS, Fernandez ML. Dietary cholesterol from eggs increases plasma HDL cholesterol 
+in overweight men consuming a carbohydrate-restricted diet. J Nutr 2008;138:272-276. 
+
+ 12.   Chakrabarty G, Manjunatha S, Bijlani RL, Ray RB, Mahapatra SC, Mehta N, Lakshmy R, 
+Vashisht S, Manchanda SC. The effect of ingestion of egg on the serum lipid profile of 
+healthy young Indians. Indian J Physiol Pharmacol 2004;48:286-292. 
+
+ 13.   Fernandez  ML.  Dietary  cholesterol  provided  by  eggs  and  plasma  lipoproteins  in  healthy 
+
+populations. Curr Opin Clin Nutr Metab Care 2006;9:8-12. 
+
+ 14.   Chakrabarty G, Bijlani RL, Mahapatra SC, Mehta N, Lakshmy R, Vashisht S, Manchanda 
+SC.  The  effect  of  ingestion  of  egg  on  serum  lipid  profile  in  healthy  young  free-living 
+subjects. Indian J Physiol Pharmacol 2002;46:492-498. 
+
+ 15.   Ballesteros MN, Cabrera RM, Saucedo MS, Fernandez ML. Dietary cholesterol does not 
+increase  biomarkers  for  chronic  disease  in  a  pediatric  population  from  northern  Mexico. 
+Am J Clin Nutr 2004;80:855-861. 
+
+ 16.    Final report on the aspirin component of the ongoing Physicians' Health Study. Steering 
+Committee of the Physicians' Health Study Research Group. N Engl J Med 1989;321:129-
+135. 
+
+ 17.   Lee  IM,  Cook  NR,  Gaziano  JM,  Gordon  D,  Ridker  PM,  Manson  JE,  Hennekens  CH, 
+Buring JE. Vitamin E in the primary prevention of cardiovascular disease and cancer: the 
+Women's Health Study: a randomized controlled trial. JAMA 2005;294:56-65. 
+
+ 
+
+9
+
+Egg intake and type 2 diabetes 
+
+ 18.   Ridker  PM,  Cook  NR,  Lee  IM,  Gordon  D,  Gaziano  JM,  Manson  JE,  Hennekens  CH, 
+Buring  JE.  A  randomized  trial  of  low-dose  aspirin  in  the  primary  prevention  of 
+cardiovascular disease in women. N Engl J Med 2005;352:1293-1304. 
+
+ 19.   Willett W. Nutritional epidemiology. New York: Oxford University Press; 1998. 
+ 20.   Salvini S, Hunter DJ, Sampson L, Stampfer MJ, Colditz GA, Rosner B, Willett WC. Food-
+based validation of a dietary questionnaire: the effects of week-to-week variation in food 
+consumption. Int J Epidemiol 1989;18:858-867. 
+
+ 21.   Ding EL, Song Y, Manson JE, Pradhan AD, Buring JE, Liu S. Accuracy of administrative 
+coding  for  type  2  diabetes  in  children,  adolescents,  and  young  adults.  Diabetes  Care 
+2007;30:e98. 
+
+ 22.   Liu S, Lee IM, Song Y, Van Denburgh M, Cook NR, Manson JE, Buring JE. Vitamin E 
+and  risk  of  type  2  diabetes  in  the  women's  health  study  randomized  controlled  trial. 
+Diabetes 2006;55:2856-2862. 
+
+ 23.   Pyorala K. Dietary cholesterol in relation to plasma cholesterol and coronary heart disease. 
+
+Am J Clin Nutr 1987;45:1176-1184. 
+
+ 24.   Sacks FM, Salazar J, Miller L, Foster JM, Sutherland M, Samonds KW, Albers JJ, Kass 
+EH. Ingestion of egg raises plasma low density lipoproteins in free-living subjects. Lancet 
+1984;1:647-649. 
+
+ 25.   Meyer  KA,  Kushi  LH,  Jacobs  DR,  Jr.,  Folsom  AR.  Dietary  fat  and  incidence  of  type  2 
+
+diabetes in older Iowa women. Diabetes Care 2001;24:1528-1535. 
+
+ 
+ 
+
+ 
+
+10
+
+0 egg/week 
+
+<1 egg/week 
+
+1 egg/week 
+
+2-4 eggs/week 
+
+5-6  eggs/week 
+
+≥ 7  eggs/week 
+
+Egg intake and type 2 diabetes 
+
+ 
+
+ 
+
+ 
+
+ 
+
+N=1378 
+53.8±9.3 
+25.1±2.9 
+15.8±7.4 
+
+N=6466 
+53.2±9.3 
+24.7±2.7 
+14.8±7.1 
+
+N=3025 
+52.8±9.3 
+24.6±2.6 
+14.1±7.4 
+
+N=1430 
+53.1±9.2 
+24.1±2.7 
+15.2±8.4 
+
+31.1 
+61.9 
+77.9 
+62.1 
+8.8 
+51.0 
+86.2 
+23.3 
+
+50.9 
+61.4 
+82.7 
+74.2 
+14.6 
+46.9 
+87.4 
+26.4 
+
+16.7 
+60.8 
+72.2 
+60.7 
+6.4 
+56.9 
+84.4 
+21.5 
+
+42.8 
+65.9 
+81.8 
+77.7 
+12.0 
+48.6 
+87.6 
+25.8 
+
+37.1 
+67.7 
+80.4 
+74.2 
+9.8 
+51.1 
+87.4 
+23.9 
+
+Men 
+
+N=6792 
+53.4±9.4 
+24.9±2.7 
+15.3±6.9 
+
+Table 1. Baseline characteristics of 20,703 men and 36,295 women according to egg consumption. 
+ 
+Characteristics 
+ 
+ 
+Age (y) 
+Body mass index (kg/m2) 
+Vegetable and fruits (/week) 
+Whole milk (%) 
+Skim milk (%) 
+Nut intake (%)* 
+Breakfast cereal (%) 
+Smoking (%) 
+Never smokers (%) 
+Exercise (%) 
+Current drinking 
+of 1+/d (%) 
+Hypertension (%) 
+High cholesterol (%) 
+ 
+ 
+Age (y) 
+Body mass index (kg/m2) 
+Fruit and vegetable (/week) 
+Red meat (servings/d) 
+Energy intake (kcal/d) 
+Exercise (kcal/week) 
+Dietary  cholesterol (g/d) † 
+Trans fat (g/d)† 
+Polyunsaturated fat (g/d)† 
+Saturated fat (g/d)† 
+Smoking (%) 
+Current drinkers of 1+/d (%) 
+Hypertension (%) 
+High cholesterol (%) 
+Family history of diabetes 
+(%) 
+* Nut consumption assessed 1 year after randomization 
+ †Energy-adjusted. Data are presented as means± standard deviation or percentages 
+
+N=6381 
+55.2±7.2 
+25.1±4.6 
+6.2±3.6 
+0.45±0.45 
+1547±506 
+1078±1282 
+0.17±0.06 
+1.95±1.11 
+10.6±3.2 
+17.3±5.2 
+
+Women 
+N=8921 
+54.5±7.0 
+26.6±5.2 
+6.3±3.1 
+0.93±0.59 
+1925±530 
+882±1104 
+0.28±0.05 
+2.40±1.00 
+11.4±2.7 
+20.9±4.4 
+
+N=10758 
+54.3±7.0 
+25.7±4.8 
+5.7±3.2 
+0.62±0.46 
+1614±498 
+931±1172 
+0.20±0.05 
+2.28±1.08 
+11.0±2.9 
+19.4±4.7 
+
+N=9222 
+54.4±6.9 
+25.8±4.8 
+6.0±3.1 
+0.75±0.49 
+1758±503 
+911±1145 
+0.22±0.05 
+2.35±1.01 
+11.2±2.7 
+20.0±4.40 
+
+N=647 
+54.6±7.0 
+27.4±6.0 
+6.4±3.5 
+1.15±0.76 
+2043±585 
+833±1073 
+0.35±0.07 
+2.55±1.11 
+11.8±2.8 
+22.4±4.8 
+
+19.8 
+10.5 
+29.5 
+26.1 
+27.5 
+
+15.3 
+11.5 
+26.6 
+25.3 
+25.9 
+
+11.8 
+10.8 
+23.4 
+26.4 
+24.1 
+
+10.8 
+10.2 
+24.7 
+38.0 
+24.6 
+
+ 
+
+ 
+
+ 
+
+12.1 
+9.8 
+23.6 
+28.9 
+24.2 
+
+ 
+
+ 
+
+ 
+
+24.7 
+10.4 
+
+ 
+
+22.8 
+14.6 
+
+ 
+
+20.3 
+12.9 
+
+ 
+
+22.8 
+12.0 
+
+ 
+
+22.9 
+11.1 
+
+ 
+
+11
+
+ 
+
+N=1612 
+56.4±10.0 
+24.9±3.1 
+17.0±8.5 
+
+54.2 
+53.5 
+77.8 
+58.9 
+16.8 
+41.6 
+84.9 
+30.7 
+
+ 
+
+26.2 
+10.4 
+
+N=366 
+55.1±7.2 
+26.9±6.0 
+6.4±3.8 
+1.26±0.83 
+2072±605 
+800±1040 
+0.44±0.15 
+2.41±0.98 
+11.9±3.1 
+23.1±5.5 
+
+23.5 
+10.4 
+27.1 
+19.1 
+23.5 
+
+Egg intake and type 2 diabetes 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Women 
+
+ 
+
+1.0 
+
+Age-adjusted 
+
+Model 1* 
+
+1.0 
+
+Men 
+
+ 
+
+1.0 
+
+Age-adjusted 
+
+Cases 
+104 
+254 
+560 
+637 
+169 
+197 
+
+Cases 
+295 
+576 
+470 
+669 
+56 
+46 
+ 
+
+1.16 (0.92-1.45) 
+1.19 (0.96-1.46) 
+1.30 (1.06-1.61) 
+1.73 (1.36-2.21) 
+1.82 (1.44-2.31) 
+
+1.09 (0.87-1.37) 
+1.09 (0.88-1.34) 
+1.18 (0.95-1.45) 
+1.46 (1.14-1.86) 
+1.58 (1.25-2.01) 
+
+Table 2. Hazard ratios (95% CI) of type 2 diabetes according to egg consumption in men and 
+women. 
+ 
+ 
+Egg intake (per week) 
+ 
+0 
+<1 
+1 
+2-4 
+5-6 
+≥ 7 
+P for trend 
+*Adjusted for age (continuous), body mass index (<25, 25-29.9, 30+ kg/m2), smoking (never, former, and current 
+smokers), alcohol consumption (none, 1-3 drinks/month, 1-6 drinks/week, 1+ drinks/day), vigorous exercise (0, <1, 
+1-3, 4+ times per week), and history of hypercholesterolemia and hypertension. 
+†Adjusted for age (continuous), body mass index (<25, 25-29.9, 30+ kg/m2), smoking (never, former, and current 
+smokers), alcohol consumption (none, 1-3 drinks/month, 1-6 drinks/week, 1+ drinks/day), exercise (quintiles of 
+kilocalories per week), red meat intake (<0.5, 0.5-0.9, and 1+ servings/d), quintiles of energy intake, fruits and 
+vegetables, saturated, trans, and polyunsaturated fatty acids, family history of diabetes, and history of 
+hypercholesterolemia and hypertension. 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 3. Hazard ratios (95% CI) of diabetes according to prevalent hypercholesterolemia and 
+egg consumption  
+
+1.16 (1.01-1.34) 
+1.10 (0.95-1.27) 
+1.65 (1.44-1.89) 
+1.97 (1.48-2.63) 
+2.88 (2.11-3.94) 
+
+<0.0001 
+
+<0.0001 
+
+<0.0001 
+
+Model 1† 
+
+1.0 
+
+1.06 (0.92-1.22) 
+0.97 (0.83-1.12) 
+1.19 (1.03-1.38) 
+1.18 (0.88-1.58) 
+1.77 (1.28-2.43) 
+
+<0.0001 
+
+*Adjusted for age (continuous), body mass index (<25, 25-29.9, 30+ kg/m2), smoking (never, former, and current 
+smokers), alcohol consumption (none, 1-3 drinks/month, 1-6 drinks/week, 1+ drinks/day), vigorous exercise (0, <1, 
+1-3, 4+ times per week), and history of hypertension. 
+†Adjusted for age (continuous), body mass index (<25, 25-29.9, 30+ kg/m2), smoking (never, former, and current 
+smokers), alcohol consumption (none, 1-3 drinks/month, 1-6 drinks/week, 1+ drinks/day), exercise (quintiles of 
+kilocalories per week), red meat intake (<0.5, 0.5-0.9, and 1+ servings/d), quintiles of energy intake, fruits and 
+vegetables, saturated, trans, and polyunsaturated fatty acids, family history of diabetes, and history of hypertension. 
+
+ 
+
+ 
+
+Egg consumption  Men with normal 
+
+Hazard ratios (95% CI) 
+Men with high/treated 
+
+0 per week 
+<1  per week 
+1  per week 
+2-4  per week 
+5-6  per week 
+7+  per week 
+P for trend 
+
+cholesterol* 
+
+1.0 
+
+1.09 (0.84-1.42) 
+1.03 (0.80-1.31) 
+1.16 (0.92-1.48) 
+1.34 (1.01-1.79) 
+1.47 (1.11-1.94) 
+
+<0.0001 
+
+cholesterol* 
+
+1.0 
+
+1.11 (0.70-1.74) 
+1.28 (0.84-1.94) 
+1.19 (0.79-1.81) 
+1.78 (1.11-2.87) 
+1.96 (1.23-3.12) 
+
+0.0001 
+
+ 
+
+1.0 
+
+ 
+
+1.0 
+
+Women with normal 
+
+cholesterol†  
+
+Women with high/ 
+treated cholesterol† 
+
+1.11 (0.91-1.37) 
+1.00 (0.80-1.24) 
+1.26 (1.02-1.55) 
+0.88 (0.57-1.36) 
+1.84 (1.24-2.75) 
+
+0.0045 
+
+1.02 (0.83-1.25) 
+0.98 (0.79-1.22) 
+1.14 (0.92-1.42) 
+1.68 (1.13-2.51) 
+1.72 (0.98-3.02) 
+
+0.0028 
+
+ 
+
+12
+
+

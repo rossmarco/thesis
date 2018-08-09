@@ -1,7 +1,7 @@
 from __future__ import division
 import csv
-import io
 import fileinput
+import io
 import nltk
 import operator
 import os
@@ -230,21 +230,37 @@ class TextAnalyzer:
         if os.path.exists(matches_file):
             f = open (match_file_name, 'w')
             matches_writer = csv.writer(f)
-
         else:
             f = open(match_file_name, 'a')
             matches_writer = csv.writer(f)
 
+
         if (self.smetric_cancer > self.smetric_diabetes) and (self.smetric_cancer > self.smetric_cvd):
             matches_writer.writerow(['The article ' + test_article_name + ' is a cancer article with a similary metric of {0:.2f}'.format(smetric_cancer)])
+            if (disease == 'cancer'):
+                correct_matches += 1
+            else:
+                incorrect_matches += 1
         elif (self.smetric_diabetes > self.smetric_cancer) and (self.smetric_diabetes > self.smetric_cvd):
             matches_writer.writerow(['The article ' + test_article_name + ' is a diabetes article with a similary metric of {0:.2f}'.format(smetric_diabetes)])
+            if (disease == 'diabetes'):
+                correct_matches += 1
+            else:
+                    incorrect_matches += 1
         elif (self.smetric_cvd > self.smetric_cancer) and (self.smetric_cvd > self.smetric_diabetes):
             matches_writer.writerow(['The article ' + test_article_name + ' is a CVD article with a similary metric of {0:.2f}'.format(smetric_cvd)])
+            if (disease == 'cvd'):
+                correct_matches += 1
+            else:
+                incorrect_matches += 1
+        elif (self.smetric_diabetes == self.smetric_cvd):
+            matches_writer.writerow([test_article_name + ' unable to determine article type because CVD and Diabetes are equal'])
+        else:
+            matches_writer.writerow([test_article_name + ' unable to determine article type because similarity metric'])
 
+        #accuracy = (correct_matches / (correct_matches + incorrect_matches)) * 100
+        #matches_writer.writerow('The overall accuracy of the test articles was ' + str(accuracy) + ' %')
         f.close()
-        
-        #final_calulation = 
 
 #Non-class functions
 
@@ -264,7 +280,7 @@ def pdf_to_text(disease):
     sys.setdefaultencoding('utf-8')
 
     mypath = '/Users/marcoross/Documents/summer2018_thesis/' + disease
-    files = [f for f in listdir(mypath) if isfile(join(mypath, f))]
+    files = [f for f in listdir(mypath) if ".py" not in f and "training" not in f and isfile(join(mypath, f))]
 
     os.chdir('/Users/marcoross/Documents/summer2018_thesis/' + disease)
 
@@ -283,7 +299,7 @@ def combine_text(disease):
     os.chdir('/Users/marcoross/Documents/summer2018_thesis/' + disease)
 
     mypath = '/Users/marcoross/Documents/summer2018_thesis/' + disease
-    filenames = [f for f in listdir(mypath) if isfile(join(mypath, f))]
+    filenames = [f for f in listdir(mypath) if ".py" not in f and "training" not in f and ".pdf" not in f and isfile(join(mypath, f))]
 
     with open(disease + '-training.txt', 'w') as fout:
         fin = fileinput.input(filenames)
@@ -291,37 +307,48 @@ def combine_text(disease):
             fout.write(line)
         fin.close()
 
-def run_testing_data(disease, test_directory):
+def run_testing_data(disease, test_directory, ngramsize, num_of_ngrams):
 
-    os.chdir('/Users/marcoross/Documents/summer2018_thesis/cancer')
+    os.chdir('/Users/marcoross/Documents/summer2018_thesis/' + disease)
 
-    # cancer_training = TextAnalyzer('cancer')
-    # cancer_training.normalize_text('cancer-training.txt')
-    # cancer_training.get_trigrams(200)
+    suffix = ''
+    if ngramsize == 1:
+        suffix = '-word-freq-'
+    elif ngramsize == 2:
+        suffix = '-bigram-freq-'
+    elif ngramsize == 3:
+        suffix = '-trigram-freq-'
+    elif ngramsize == 4:
+        suffix = '-quadgram-freq'
 
-    # diabetes_training = TextAnalyzer('diabetes')
-    # diabetes_training.normalize_text('diabetes-training.txt')
-    # diabetes_training.get_trigrams(200)
+    cancer_training = TextAnalyzer('cancer')
+    cancer_training.normalize_text('cancer-training.txt')
+    cancer_training.get_trigrams(num_of_ngrams)
 
-    # cvd_training = TextAnalyzer('cvd')
-    # cvd_training.normalize_text('cvd-training.txt')
-    # cvd_training.get_trigrams(200)
+    diabetes_training = TextAnalyzer('diabetes')
+    diabetes_training.normalize_text('diabetes-training.txt')
+    diabetes_training.get_trigrams(num_of_ngrams)
 
-    test_directory = '/Users/marcoross/Documents/summer2018_thesis/cancer'
-    files = [f for f in listdir(test_directory) if isfile and (f != '.DS_Store') and ('training' not in f)]
+    cvd_training = TextAnalyzer('cvd')
+    cvd_training.normalize_text('cvd-training.txt')
+    cvd_training.get_trigrams(num_of_ngrams)
+
+    test_directory = '/Users/marcoross/Documents/summer2018_thesis/' + disease
+    files = [f for f in listdir(test_directory) if isfile and (f != '.DS_Store') and ('training' not in f) and ('.py' not in f) and (f != '.txt')]
 
     for f in files:
        test_article = TextAnalyzer(disease)
        test_article.normalize_text(f)
-       test_article.get_trigrams(200)
+       #MAKE MODULAR
+       test_article.get_trigrams(num_of_ngrams)
 
-    test_files = [t for t in listdir(test_directory) if (t != '.DS_Store') and (".csv" in t) and ("training" not in t)]
+    test_files = [t for t in listdir(test_directory) if (t != '.DS_Store') and (".csv" in t) and ("training" not in t) and ('.py' not in f) and (f != '.txt')]
     
     for t in test_files:
-        test_article.compare_csv('cancer-training-trigram-freq-200.csv', t, 'cancer')
-        test_article.compare_csv('diabetes-training-trigram-freq-200.csv', t, 'diabetes')
-        test_article.compare_csv('cvd-training-trigram-freq-200.csv', t, 'cvd')
-        test_article.determine_best_match(test_article.smetric_cancer, test_article.smetric_diabetes, test_article.smetric_cvd, str(t), disease, 3)
+        test_article.compare_csv('cancer-training' + suffix + str(num_of_ngrams) + '.csv', t, 'cancer')
+        test_article.compare_csv('diabetes-training' + suffix + str(num_of_ngrams) + '.csv', t, 'diabetes')
+        test_article.compare_csv('cvd-training' + suffix + str(num_of_ngrams) + '.csv', t, 'cvd')
+        test_article.determine_best_match(test_article.smetric_cancer, test_article.smetric_diabetes, test_article.smetric_cvd, str(t), disease, ngramsize)
 
 def sort_CSV(filename, path):
     os.chdir('/Users/marcoross/Documents/summer2018_thesis/' + path)
@@ -336,5 +363,7 @@ def sort_CSV(filename, path):
 
 #Make function calls
 
-#run_testing_data('cancer','/Users/marcoross/Documents/summer2018_thesis/cancer')
-sort_CSV('best_matches.csv', 'cancer')
+#run_testing_data('diabetes','/Users/marcoross/Documents/summer2018_thesis/diabetes', 3, 200)
+#sort_CSV('best_matches.csv', 'diabetes')
+
+#pdf_to_text('diabetes')

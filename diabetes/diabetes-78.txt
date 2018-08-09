@@ -1,0 +1,2226 @@
+Diabetologia (2001) 44: 805±817
+
+Ó Springer-Verlag 2001
+
+Diet and risk of Type II diabetes: the role of types of fat
+and carbohydrate
+
+F. B. Hu1, R. M. van Dam2, S. Liu3
+
+1 Department of Nutrition, Harvard School of Public Health, Boston, Massachussetts, USA
+2 Department of Chronic Diseases Epidemiology, National Institute of Public Health and Environment, Bilthoven,
+the Netherlands
+3 Division of Preventive Medicine, Brigham and Women's Hospital, Boston, Massachussetts, USA
+
+Abstract
+
+Although diet and nutrition are widely believed to
+play an important part in the development of Type
+II (non-insulin-dependent) diabetes mellitus, specific
+dietary factors have not been clearly defined. Much
+controversy exists about the relations between the
+amount and types of dietary fat and carbohydrate
+and the risk of diabetes. In this article, we review in
+detail the current evidence regarding the associations
+between different types of fats and carbohydrates and
+insulin resistance and Type II diabetes. Our findings
+indicate that a higher intake of polyunsaturated fat
+and possibly long-chain n-3 fatty acids could be bene-
+ficial, whereas a higher intake of saturated fat and
+trans-fat could adversely affect glucose metabolism
+and insulin resistance. In dietary practice, exchanging
+
+nonhydrogenated polyunsaturated fat for saturated
+and trans-fatty acids could appreciably reduce risk of
+Type II diabetes. In addition, a low-glycaemic index
+diet with a higher amount of fiber and minimally pro-
+cessed whole grain products reduces glycaemic and
+insulinaemic responses and lowers the risk of Type II
+diabetes. Dietary recommendations to prevent Type
+II diabetes should focus more on the quality of fat
+and carbohydrate in the diet than quantity alone, in
+addition to balancing total energy intake with expen-
+diture to avoid overweight and obesity. [Diabetologia
+(2001) 44: 805±817]
+
+Keywords Type II diabetes, diet, nutrition, dietary
+fatty acids, carbohydrates, glycemic index, insulin re-
+sistance, obesity
+
+The prevalence of Type II (non-insulin-dependent)
+diabetes mellitus is increasing rapidly in the United
+States [1] and worldwide [2]. Prevalence of diabetes
+in adults in the world is estimated to reach 5.4 % and
+the number of adults with diabetes to reach 300 mil-
+lion worldwide in the year 2025 [2]. The toll of diabe-
+tes on health and the economy is enormous and will
+continue to rise. Because there is no currently avail-
+able cure for diabetes, primary prevention through
+diet and lifestyle modification is of paramount impor-
+tance.
+
+Although diet and nutrition are widely believed to
+play an important part in the development of Type II
+diabetes, specific dietary factors have not been clear-
+ly defined. Much controversy exists about the rela-
+tion between the amount and types of dietary fat
+and carbohydrate and the risk of diabetes. Prevailing
+dietary recommendations promote low-fat, high-car-
+
+bohydrate diets for the prevention of diabetes, heart
+disease, and other chronic diseases [3, 4]. However,
+neither dietary fats nor carbohydrates are homoge-
+neous molecules and it is now increasingly appreciat-
+ed that different types of fat and carbohydrate have
+different effects on glucose homeostasis and insulin
+sensitivity. We review in detail the current evidence
+regarding the association between types of fat and
+carbohydrates and insulin resistance and Type II dia-
+betes. We specifically discuss the roles of major types
+of fat, trans-fatty acids and n-3 fatty acids, as well as
+different types of carbohydrate and fiber, in the de-
+velopment of insulin resistance and Type II diabetes.
+We searched the Medline database for epidemio-
+logic investigations of the associations between di-
+etary fat and carbohydrate and the risk of developing
+hyperglycaemia and Type II diabetes. We also care-
+fully examined the cited references in the articles
+
+806
+
+B. Hu et al.: Diet and Type II diabetes
+
+identified through a computer search to locate addi-
+tional relevant metabolic and animal studies.
+
+Major types of fat in relation to insulin resistance
+and Type II diabetes
+
+Obesity predisposes to insulin resistance and is the
+most important determinant of Type II diabetes [5,
+6]. Dietary fatty acids could affect insulin resistance
+independent of obesity, but the mechanism is not well
+understood. It is believed that the effects of dietary
+fatty acids are mediated through the fatty acid compo-
+sition of cell membranes [7, 8]. It has been shown that
+the fatty acid composition of the phospholipids in the
+skeletal muscle cell membranes is directly related to
+insulin sensitivity in humans [9]. A specific fatty acid
+profile in cell membranes could influence insulin ac-
+tion through several potential mechanisms, including
+altering insulin receptor binding or affinity and influ-
+encing ion permeability and cell signalling [8]. Be-
+cause the change of fatty acid profile in cell mem-
+branes requires at least several months [9], it is impor-
+tant to consider the duration of the studies when inter-
+preting the results from feeding studies on dietary fat-
+ty acids and insulin resistance.
+
+Dietary intervention studies. In animal studies, both
+the type and the amount of dietary fat have been
+shown to affect insulin sensitivity [10]. Several animal
+studies have suggested beneficial effects of monosat-
+urated or polyunsaturated fats on insulin action [11,
+12]. On the other hand, diets with a very high fat con-
+tent decreased insulin sensitivity in rats. It was shown
+that animals fed a high-fat diet (59 % of energy sup-
+plied by fat) had decreased insulin sensitivity com-
+pared with animals fed a low-fat diet (12 % of energy
+intake) [10].
+
+In contrast to the findings in rats, dietary interven-
+tions in humans showed no consistent deleterious ef-
+fects of high-fat diets on insulin sensitivity. Some
+studies, especially the earlier studies (all less than
+one month), showed a decrease in insulin sensitivity
+in patients receiving a high-fat diet [13]. These re-
+sults, however, are difficult to interpret because the
+order of diets was not randomized, the methods used
+to measure insulin sensitivity had considerable weak-
+nesses, or there were large differences in the diets in
+addition to differences in fat content [13, 14]. Ran-
+domized studies using the glucose clamp or the fre-
+quently sampled intravenous glucose tolerance test
+(FSIGT) to measure insulin sensitivity generally did
+not observe an effect of high-fat diets on insulin sensi-
+tivity, despite a large range in their fat content
+[15±17]. Only one of these studies reported a de-
+crease in insulin sensitivity in patients who received
+a high-fat diet (50 % energy) as compared with those
+who received a low-fat diet (20 % energy), possibly
+
+because of the large difference in the amount of satu-
+rated fat between the diets [18].
+
+Several short-term intervention studies compared
+diets high in saturated fat with those higher in unsat-
+urated fats and found no differences in measures of
+glucose homeostasis between the randomized groups
+[19±21]. These intervention studies were small and
+only 4 weeks or less in duration. A recently complet-
+ed multicenter study involving 3-month intervention
+among 162 healthy men and women [22] showed
+that a diet high in saturated fat (18 % of energy) de-
+creased insulin sensitivity compared with a diet high
+in monounsaturated fat (21 % of energy) with the
+same total fat content. No effects on insulin secretion
+or glucose metabolism were observed.
+
+Epidemiologic studies with biomarkers of specific fat-
+ty acids. Few epidemiologic studies have examined
+biomarkers of fatty acids as predictors of Type II dia-
+betes. In a 10-year follow-up study [23], men who de-
+veloped Type II diabetes had a higher proportion of
+saturated fatty acids and a lower proportion of linole-
+ic acid in their serum cholesterol esters than did men
+who did not develop diabetes at baseline. Similar as-
+sociations were reported for cross-sectional studies
+of insulin sensitivity [24, 25] and glucose intolerance
+[26]. The fatty acid composition of serum cholesterol
+esters reflects the average dietary fat intake in the
+preceding weeks [23]. Therefore, the reported associ-
+ations are consistent with a detrimental effect of diets
+containing a high proportion of saturated fat and a
+low proportion of linoleic acid on the development
+of Type II diabetes. The findings could, however,
+also reflect genetic differences in enzymatic activity
+that can affect both insulin sensitivity and fatty acid
+composition [23]. Moreover, deterioration in glucose
+metabolism could cause changes in fatty acid compo-
+sition, as insulin is known to affect the activity of de-
+saturase enzymes [23].
+
+Epidemiologic studies of dietary fats and insulin resis-
+tance. Several cross-sectional studies examined di-
+etary fat in relation to fasting and post-load plasma
+insulin concentrations [27±33]. In general, these stud-
+ies observed a positive association between saturated
+fat intake and hyperinsulinaemia independent of
+measures of body fat [28±32]. The Insulin Resistance
+and Atherosclerosis study included the assessment
+of insulin sensitivity by minimal model analysis of an
+intravenous-glucose tolerance test in 1173 men and
+women [34]. After multivariate adjustment for other
+determinants of insulin resistance including BMI, di-
+etary fats (total, saturated, monounsaturated, or
+polyunsaturated fat) were not associated with insulin
+sensitivity despite the large power of the study. The
+only significant finding was an inverse association be-
+tween polyunsaturated fat and insulin sensitivity
+among obese participants (p = 0.04).
+
+B. Hu et al.: Diet and Type II diabetes
+
+807
+
+fat was associated with lower fasting plasma concen-
+trations of glucose in an Italian study [41]. In contrast,
+one study reported a positive association between
+polyunsaturated fat intake and hyperglycaemia in
+men, although no association was observed in women
+[42]. In other studies, polyunsaturated fat was not as-
+sociated with hyperglycaemia [43, 44] or with inci-
+dence of Type II diabetes in men [45].
+
+Intake of polyunsaturated fat was inversely associ-
+ated with the area under the insulin curve in a study
+of 389 men [31], whereas intake of linoleic acid was
+positively associated with fasting insulin concentra-
+tion in a study of 544 women twins [30]. A possible
+explanation for the inconsistent findings for polyun-
+saturated fat could be the lack of correction for corre-
+lated intake of other types of fat. Two studies have
+found a positive association between monounsaturat-
+ed fat and insulin concentrations [28, 30], a finding
+that could be due to confounding by saturated fat be-
+cause monounsaturated fat is highly correlated with
+saturated fat intake in a typical Western diet because
+of shared food sources (e. g., beef and dairy prod-
+ucts). In one study, adjustment for saturated fat in-
+take substantially attenuated the positive association
+between oleic acid (the primary mononunsaturated
+fat in the diet) and hyperinsulinaemia [32].
+
+Types of dietary fat and risk of hyperglycaemia and
+Type II diabetes. Table 1 summarizes epidemiologic
+studies that examined dietary fat in relation to hyper-
+glycaemia or risk of clinical Type II diabetes. Because
+patients who know their disease status might change
+their diet, we did not include case-control studies or
+cross-sectional studies that
+included participants
+with known diabetes or impaired glucose tolerance.
+Most of the earlier cohort studies did not observe im-
+portant associations between diet and incidence of
+Type II diabetes [35±38]. This is not surprising given
+the small number of cases [35±37] or limited assess-
+ment of diet [38] in these studies. Also, the role of im-
+portant risk factors for Type II diabetes such as body
+fat and physical activity was not taken into account
+in most of the analyses.
+
+More recent prospective and cross-sectional stud-
+ies were better designed and generally suggestive of
+a role of specific types of fat rather than of total fat
+in the development of Type II diabetes. A high intake
+of vegetable fat was inversely associated with risk of
+diagnosed Type II diabetes during 6 years of follow-
+up among participants of the Nurses' Health Study
+who were not obese [39]. Findings from this study af-
+ter 14 years of follow-up with more than 2500 inci-
+dent cases of diabetes confirmed this finding; high in-
+takes of vegetable fat and polyunsaturated fat were
+associated with a decreased risk of Type II diabetes
+[40]. This association could not be explained by
+BMI, physical activity, alcohol
+intake, cigarette
+smoking, family history of diabetes, total energy in-
+take, or intake of other fats. The relative risk (RR)
+of Type II diabetes after adjustment for these vari-
+ables and other dietary fats was 0.75 (95 % CI,
+0.65±0.88) for the highest quintile of polyunsaturated
+fat intake versus the lowest quintile. The RR compar-
+ing extreme quintiles of vegetable fat intake was 0.60
+(95 % CI, 0.51±0.71; p < 0.0001). A higher consump-
+tion of oils consisting primarily of polyunsaturated
+
+Two cross-sectional studies [43, 46] and one small
+prospective study [44] suggest a positive association
+between saturated fat and hyperglycaemia or glucose
+intolerance. Several large cohort studies that used di-
+agnosed Type II diabetes as an endpoint, however,
+did not observe an appreciable association with satu-
+rated fat intake [39, 40, 45]. The metabolic effects of
+substituting saturated fat for carbohydrate are com-
+plex. Although this kind of substitution clearly in-
+creases low-density lipoprotein LDL cholesterol [47]
+and could adversely affect insulin resistance as dis-
+cussed above, it also increases HDL and decreases
+triglycerides [47], especially if high glycaemic index
+carbohydrate foods are replaced by saturated fat.
+
+Except for one small study on patients with im-
+paired glucose tolerance [48], epidemiologic studies
+generally did not find an association between intake
+of monounsaturated fat and risk of Type II diabetes
+[39, 44, 45]. Confounding by saturated fat could have
+hindered the analysis for monounsaturated fat be-
+cause they are highly correlated in a typical Western
+diet. An interesting aspect of an Italian study was
+the opportunity of examining intake of monounsatu-
+rated fat with minimal confounding by intake of satu-
+rated fat because of the high consumption of olive oil
+[41]. Although total intake of monounsaturated fat
+was not estimated in the study, high consumption of
+olive oil was associated with lower fasting plasma glu-
+cose concentrations.
+
+Although there is little evidence to suggest that di-
+etary cholesterol adversely influences glucose metab-
+olism, a positive association of cholesterol intake with
+hyperglycaemia [43] and diabetes risk (independent
+of other fats) has been reported [40]. As cholesterol
+is present only in animal products, these associations
+could represent an adverse effect of a food pattern
+characterized by high consumption of meat and eggs
+or an unidentified component of animal products. In
+this regard, the association between meat intake and
+diabetes mortality (as mentioned on death certifi-
+cates) observed in the Seven Day Adventist study is
+of interest [49].
+
+Available data suggest a potential beneficial effect
+of polyunsaturated fat and a potential adverse effect
+of saturated fat, although total fat does not appear to
+predict risk of Type II diabetes. However, the findings
+on types of dietary fat are not consistent. Some of the
+inconsistencies could be due to different study popu-
+lation characteristics such as age, sex, and underlying
+insulin resistance resulting from obesity and inactivi-
+
+808
+
+B. Hu et al.: Diet and Type II diabetes
+
+Table 1. Epidemiologic studies of dietary fat and carbohydrate in relation to hyperglycaemia and Type II diabetes (FFQ, food fre-
+quency questionnaire; DM, diabetes mellitus; IGT, impaired glucose tolerance; OGTT, oral glucose tolerance test; NA, not available)
+Year (refer-
+ence No.)
+
+Study size
+(No. cases)
+
+Diet
+assessment
+
+Age, years
+(baseline)
+
+Follow-up
+(years)
+
+Outcome
+
+Adjustment
+
+Study
+
+Sex
+
+Reported associations
+with dietary fats and
+carbohydrate
+
+M
+
+F
+
+40 +
+
+5
+
+25±44
+
+NA
+
+Clinical DM
+
+`Short dietary
+questionnaire'
+Dietary history Clinical DM
+
+No adjustments
+
+Not mentioned
+
+No associations
+
+Prospective studies
+1974 [38]
+
+1984 [35]
+
+1985 [49]
+
+1989 [37]
+
+1994 [48]
+
+1989 [36]
+
+1992 [39]
+
+Israeli heart
+Disease study
+Pima Indians,
+USA
+
+Adventists'
+Health study,
+USA
+
+Gothenburg,
+Sweden
+San Luis Valley
+Diabetes study,
+USA
+Zutphen study,
+Netherlands
+Nurses' Health
+study, USA
+
+373
+
+87
+
+278
+
+43
+
+20
+
+58
+
+702
+
+915
+
+No associations with fat.
+Positive association
+with carbohydrate.
+Positive association
+with meat intake in
+men, but not in women.
+
+No associations
+
+Positive association
+with fat intake
+
+No associations
+
+Inverse association for
+vegetable fat among
+non-obese
+Inverse associations
+with cereal fiber; posi-
+tive association with
+glycaemic load; no asso-
+ciations with either total
+fat or total carbohy-
+drate
+Inverse associations
+with cereal fiber; posi-
+tive association with
+glycaemic load; no asso-
+ciations with either total
+fat or total carbohy-
+drate
+Positive association
+with saturated and total
+fat; no association with
+total, simple, or com-
+plex carbohydrates; in-
+verse association with
+fish intake
+Positive association
+with total carbohydrate;
+no association with sim-
+ple or complex carbo-
+hydrates; inverse associ-
+ation with fish intake
+Inverse association with
+vegetable fat and poly-
+unsaturated fat; positive
+association with trans
+fat; no association with
+total fat
+Inverse associations
+with whole grain, total
+and cereal fiber; no as-
+sociation with glycae-
+mic index or glycaemic
+load
+Inverse association with
+whole grain consump-
+tion
+
+Saturated fat and di-
+etary cholesterol associ-
+ated with higher plasma
+glucose
+
+M/F
+
+30±89
+
+21
+
+FFQ (total meat
+consumption)
+
+F
+
+38±60
+
+M/F
+
+30±74
+
+12
+
+1±3
+
+24-hr recall,
+diet records
+24-hr recall
+
+Clinical DM
+(on death cer-
+tificate)
+
+Clinical DM
+
+Age, body weight,
+physical activity
+(men only), other
+foods
+No adjustments
+
+DM II (OGTT) Age, sex, ethnicity,
+
+Cross-check
+dietary history
+FFQ
+
+Clinical DM
+(confirmed)
+Clinical DM II
+(confirmed)
+
+obesity, blood
+glucose/insulin
+No adjustments
+
+Other risk factors
+and total energy
+
+M
+
+40±59
+
+25
+
+F
+
+F
+
+34±59 yr.
+
+40±65
+
+6
+
+6
+
+1997 [82]
+
+Nurses' Health
+study, USA
+
+FFQ
+
+Clinical DM II
+(confirmed)
+
+Other risk factors
+and total energy
+
+1997 [45]
+
+Health Profes-
+sionals Follow-up
+Study, USA
+
+523
+
+M
+
+40±75
+
+6
+
+FFQ
+
+Clinical DM II
+(confirmed)
+
+Other risk factors
+and total energy
+intake
+
+1995 [44]
+
+Seven-Countries
+Study, Nether-
+lands/ Finland
+
+338
+
+M
+
+50±70
+
+20
+
+Cross-check
+dietary history
+
+2 h glucose
+
+Age, BMI, total
+energy intake
+
+1991 [51, 86] Netherlands
+
+59
+
+M/F
+
+64±87
+
+4
+
+Cross-check
+dietary history
+
+IGT/DM
+
+Other risk factors
+and total energy
+but not physical
+activity
+
+2001 [40]
+
+Nurses' Health
+Study, USA
+
+2507
+
+F
+
+34±59
+
+14
+
+FFQ
+
+Clinical DM II
+(confirmed)
+
+Other risk factors,
+total energy intake
+and other fats
+
+2000 [87]
+
+Iowa Women's
+Health Study,
+USA
+
+2000 [93]
+
+Nurses' Health
+Study, USA
+
+Cross-sectional studies
+1990 [43]
+
+Zutphen Study ,
+Netherlands
+
+1141
+
+F
+
+55±69
+
+6
+
+FFQ
+
+Self-reported
+DM II
+
+Other risk factors
+and total energy
+
+1879
+
+F
+
+38±63
+
+10
+
+FFQ
+
+Clinical DM II
+(confirmed)
+
+Other risk factors
+and total energy
+
+394
+
+M
+
+50±70
+
+±
+
+Cross-check
+dietary history
+
+Fasting glucose Age, subscapular
+skinfold thickness,
+total energy intake
+
+B. Hu et al.: Diet and Type II diabetes
+
+Table 1. Continued
+Year (refer-
+ence No.)
+
+Study
+
+Study size
+(No. cases)
+
+Sex
+
+Age, years
+(baseline)
+
+Follow-up
+(years)
+
+Diet
+assessment
+
+Outcome
+
+Adjustment
+
+1995 [42]
+
+Hoorn Study,
+Netherlands
+
+2484
+
+M/F
+
+50±74
+
+1991 [46]
+
+1990 [41]
+
+San Luis Valley
+Diabe tes Study,
+USA
+
+70 DM,
+171 IGT
+
+M/F
+
+30±74
+
+Italian Nine
+Communities
+Study
+
+4903
+
+M/F
+
+20±59
+
+2000 [81]
+
+Zutphen
+Elderly Study
+
+394
+
+M
+
+69±89
+
+±
+
+±
+
+±
+
+±
+
+FFQ
+
+2 h glucose
+
+Other risk factors,
+total energy intake
+
+24-hr recall
+
+DM/IGT
+(OGTT)
+
+Age, sex, ethnicity,
+BMI, total energy
+intake
+
+Short FFQ
+
+Fasting glucose Age, BMI, alcohol
+
+intake, other fats
+
+Cross-check
+dietary history
+
+Fasting and
+2 h glucose
+
+Other risk factors,
+total energy intake
+
+809
+
+Reported associations
+with dietary fats and
+carbohydrate
+
+Polyunsaturated fat
+associated with higher
+plasma glucose in men
+only
+Positive association
+with total fat; inverse
+association with carbo-
+hydrate intake
+Positive associations
+with butter/ margarine;
+inverse associations
+with olive oil and poly-
+unsaturated oils
+No association with the
+dietary glycaemic index
+
+ty. In addition, some studies evaluated insulin resis-
+tance rather than diabetes risk, which can also be in-
+fluenced by chronic insulin demand. The inconsisten-
+cies could also be due to methodological limitations
+in many studies, such as absence of control for other
+types of fat. Confounding by other aspects of diet
+such as fiber is likely because diets high in saturated
+fat is usually accompanied by lower fiber intake.
+
+Differences in the dietary assessment methods
+could have also contributed to discrepant findings.
+Earlier studies tended to use crude dietary assess-
+ment methods with no documented validity. In the Is-
+raeli Heart study, a validation substudy suggested
+that the short dietary questionnaire used in the study
+performed poorly as compared with a long Burke
+questionnaire, which could explain the lack of associ-
+ations [38]. The San Luis Valley Diabetes study [48]
+used 24-hour diet recalls, which can represent a per-
+son's usual diet poorly [50]. Other studies used short
+dietary questionnaires with no reported information
+on validity [41, 49]. Only a few studies have tested
+the validity of their dietary assessment methods [42,
+44, 51]. More recent studies [40, 45], using validated
+FFQs and repeated measures and with large sample
+size, are more powerful to examine the association
+between diet and Type II diabetes.
+
+Long-chain n-3 fatty acids/fish consumption
+and Type II diabetes
+
+Long chain n-3 fatty acids such as eicosapentaenoic
+acid (EPA) and docosahexaenoic acid (DHA) are
+found in high concentrations in fish oil. Fish oil has
+been shown to have a beneficial effect on insulin sen-
+sitivity in rats [10]. In humans, studies have shown an
+association between the proportion of long-chain n-3
+fatty acids in skeletal muscle membrane phospholip-
+ids and increased insulin sensitivity [7, 9]. Because in-
+take of fish oil directly influences the fatty acid com-
+
+position of membrane phospholipids [10], these ob-
+servations suggest that a higher intake of long chain
+n-3 fatty acids could be beneficial for insulin sensitiv-
+ity.
+
+Fewer studies have examined the effects of fish oil
+on glucose homeostasis and insulin resistance among
+subjects without clinical diabetes and the available
+data are not conclusive on the effects of fish oil on in-
+sulin resistance [52, 53]. A recent 3-month study
+found that addition of n-3 fatty acids to the diet had
+no influence on insulin sensitivity or insulin secretion
+[22]. But further long-term data are clearly needed.
+In contrast, other beneficial effects of long chain n-3
+fatty acids are better established, including improve-
+ment of endothelial function, reductions in platelet
+aggregation and serum triglyceride concentrations
+and anti-arrhythmic effects [54]. Some of these ef-
+fects are directly or indirectly related to insulin resis-
+tance or the metabolic syndrome.
+
+In observational studies, it is more feasible to ex-
+amine the association between long-term intake of
+fish oils and glucose intolerance and Type II diabetes.
+Unfortunately, epidemiologic data on intake of fish
+and n-3 fatty acids in relation to risk of diabetes are
+sparse. In a study of 175 elderly men and women (59
+cases), an inverse association was observed between
+consumption of small amounts of fish and incidence
+of glucose intolerance (impaired glucose tolerance
+and diabetes combined) [51]. After adjustment for
+age and other risk factors (but not physical activity),
+the odds ratio for glucose intolerance was 0.47 (95 %
+CI, 0.23±0.93) for participants consuming any fish
+(mean daily intake 24.2 g). Consistent with this find-
+ing, an inverse association between an increase in
+fish consumption during 20 years and 2-h postload
+glucose concentrations was seen among 338 partici-
+pants of the Dutch and Swedish cohorts of the Seven
+countries study [44]. Recently, the Nurses' Health
+study reported a modest inverse association between
+fish consumption and the incidence of Type II diabe-
+
+810
+
+B. Hu et al.: Diet and Type II diabetes
+
+tes with 14 years of follow-up, but no clear trend over
+the categories of intake was observed [40]. In a 10-
+year follow-up study, the proportion of n-3 fatty acids
+in serum cholesterol esters was not associated with
+risk of diabetes [23]. In the San Luis Valley Diabetes
+study, intake of long-chain n-3 fatty acids was not as-
+sociated with fasting plasma insulin concentrations
+[32]. Taken together, available evidence suggests a
+possible benefit of long-chain n-3 fatty acids for
+Type II diabetes, but the data are limited and incon-
+sistent.
+
+Trans-fatty acids in relation to insulin sensitivity
+and Type II diabetes
+
+Trans-fatty acids are formed when vegetable or fish
+oils are hardened by partial hydrogenation. Metabol-
+ic studies have shown that trans-fatty acids as com-
+pared with cis unsaturated fatty acids, increase con-
+centrations of LDL cholesterol and decrease concen-
+trations of HDL cholesterol [55, 56]. The observation
+that trans-fat inhibits the activity of desaturase en-
+zymes has raised the hypothesis that trans-fat could
+also affect insulin sensitivity, as indices of delta-5 de-
+saturase activity were associated with higher insulin
+sensitivity [7]. However, few studies have examined
+the effects of trans-fat on glucose metabolism.
+
+In a 6-week intervention study, a diet high in trans-
+monounsaturated fat (20 % of energy) was associated
+with a higher postprandial insulin response than a cis-
+monounsaturated fat diet in 16 obese patients with
+Type II diabetes [57]. In a study of 14 healthy women,
+a 4-week diet with a lower trans-fat content (5.1 % of
+energy) did not result in differences in glucose or in-
+sulin response as compared with the diet with cis-
+monounsaturated fat [58]. In the Nurses' Health
+study, a high intake of trans-fatty acids was associated
+with a higher risk of Type II diabetes during 14 years
+of follow-up [40]. After adjustment for BMI and oth-
+er types of fat, the relative risk of diabetes was 1.31
+(95 % CI, 1.10±1.56) comparing the highest quintile
+of intake (median 2.9 % energy) with the lowest quin-
+tile (median 1.3 % energy). In continuous analysis,
+each increase of 2 % of energy from trans-fatty acids
+was associated with a 39 % (95 % CI, 15 %±67%) in-
+crease in diabetes risk. This association could repre-
+sent yet another adverse health effect of trans-fat.
+
+Dietary carbohydrate and Type II diabetes
+
+Classifications of carbohydrates. As with dietary fat,
+dietary carbohydrates are not homogeneous with re-
+gard to chemical structure and biologic functions.
+Traditionally, carbohydrates are classified into simple
+or complex carbohydrates on the basis of chemical
+structures. Most dietary recommendations have em-
+
+phasized the use of complex carbohydrates or starch-
+es and the avoidance of simple carbohydrates or sug-
+ars based on the belief that simple sugars would be di-
+gested and absorbed more quickly and thus would in-
+duce a more rapid postprandial glucose response. Nu-
+merous metabolic studies have challenged this view
+and it is now recognized that many starchy foods
+such as baked potatoes and white bread produce
+even higher glycaemic responses than do simple sug-
+ars [59]. To quantify different glycaemic responses in-
+duced by different carbohydrate foods, the concept of
+glycaemic index (GI) was developed [60±62]. The in-
+dex is based on the increase in blood glucose concen-
+trations (the area under the curve for blood glucose
+concentrations) after the ingestion of 50 g of carbohy-
+drate from a test food as compared with a standard
+amount (50 g) of reference carbohydrate (glucose or
+white bread). The GI depends largely on the rate of
+digestion and rapidity of absorption of carbohydrate
+[63±65].
+
+Despite the conceptual appeal of GI, the clinical
+utility of GI, especially as it pertains to mixed meals,
+remains controversial. Several earlier studies found
+no differences in glycaemic responses to mixed meals
+with different GIs among patients with Type II diabe-
+tes or healthy subjects [66±68]. These studies, howev-
+er, have been criticized for not following standard
+methodology in calculating the glycaemic response
+to a meal [69]. Studies using standardized methodolo-
+gy have found an excellent correlation between the
+observed GI values of mixed meals and the calculated
+values based on individual component foods [70, 71].
+Also, in controlled clinical studies [69], feeding low
+GI meals to patients with Type II diabetes or dislipi-
+demia has improved glycaemic control and the lipid
+profile (especially reduction in triglyceride concen-
+trations).
+
+The GI concept and insulin resistance in feeding stud-
+ies. Several animal studies have tested the effects of
+different types of starch in the development of insulin
+resistance and found that rats fed an amylopectin diet
+became more insulin resistant than did littermates
+that were fed an isocaloric diet with amylose [72]. The
+mechanism underlying these observations is not fully
+understood but could be directly related to persistent
+postprandial hyperinsulinaemia and hyperglycaemia
+resulting from a high GI diet. It is also possible that a
+high GI diet chronically increases insulin demand and
+in the long run, leads to pancreatic exhaustion.
+
+The acute effects of low-GI diets as compared with
+high-GI diets on plasma insulin concentrations and
+C-peptide concentrations have been studied exten-
+sively in humans. Most of the studies showed a lower
+insulin response with a low GI meal. In a study of
+eight healthy subjects [70], there were substantial dif-
+ferences in insulin responses to six mixed meals with
+various GI values, and insulin response correlated
+
+B. Hu et al.: Diet and Type II diabetes
+
+811
+
+well with the glycaemic response (r = 0.83). Similarly,
+it was found that GI values were useful in discrimi-
+nating glycaemic and insulinaemic responses of
+mixed meals among diabetic patients [73]. A recent
+crossover study of 12 obese teenage boys found that
+a low GI meal led to lower plasma glucose and insulin
+response [74].
+
+Several metabolic studies have evaluated the rela-
+tively long-term effects of low-GI diets. In a cross-
+over study of six healthy adults over 4 weeks [75], a
+low-GI diet reduced 24-h urinary C-peptide concen-
+trations by 32 % as compared with a high-GI diet,
+whereas
+serum fructosamine concentrations de-
+creased by 7 %. In a 4-week study of 30 patients with
+CHD [76], a low-GI diet improved glucose tolerance
+and insulin sensitivity. Insulin-stimulated glucose up-
+take in isolated fat cells was greater following the
+low-GI diet. The same group subsequently reported
+an improvement in insulin sensitivity, as determined
+by the short insulin tolerance test, with a low-GI diet
+among 28 premenopausal women in a 3-week ran-
+domized study [77]. Studies conducted among diabet-
+ic patients have also found improved glycaemic con-
+trol with a low-GI diet [61, 78].
+
+Epidemiologic studies of the GI concept and metabol-
+ic markers and Type II diabetes. In epidemiologic
+studies, a dietary GI is typically calculated by multi-
+plying the percentage of total carbohydrate intake
+contributed by each individual carbohydrate-contain-
+ing food by its GI and summing these values. Two
+large national surveys, one conducted in the United
+Kingdom [79] and the other in the United States
+[80], found a statistically significant inverse associa-
+tion between calculated overall dietary GI values
+and plasma HDL concentrations in free-living adults.
+However, in a study of 394 Dutch men aged 64 to
+84 years [81], no association was observed between
+dietary GI and HDL, hyperglycaemia or hyperinsu-
+linaemia.
+
+The overall blood glucose response is determined
+not only by GI value of a food, but also by the amount
+of carbohydrate in the food. Thus, the concept of gly-
+caemic load (GL) (the product of the GI value of a
+food and its carbohydrate content) has been devel-
+oped to represent both the quality and quantity of
+the carbohydrates consumed [45, 82]. Each unit of di-
+etary GL represents the equivalent glycaemic effect
+of 1 g of carbohydrate from white bread, which is
+used as the reference food. Table 2 shows GI and
+GL values for selected common foods [83] (The serv-
+ing sizes and carbohydrate contents are from the U S
+Department of Agriculture [84]). Foods with high
+GI values as well as a high carbohydrate content,
+such as low-amylose white rice and baked potatoes,
+have the highest GL values. The GL concept could
+be more biologically relevant than the individual GI
+values because, by taking into account both quality
+
+Table 2. Glycemic index (GI) and glycemic load (GL) of se-
+lected common foods
+Food item
+
+GL/
+servingc
+
+Grams of
+carbohy-
+drates per
+serving
+
+Serving
+sizeb
+
+GIa
+(white
+bread =
+100)
+
+125
+121
+
+1 cup
+1
+
+53
+51
+
+119
+114
+108
+108
+107
+105
+104
+102
+102
+101
+101
+98
+92
+91
+87
+
+24
+26
+23
+31
+35
+11
+17
+38
+17
+8
+12
+12
+4
+22
+16
+
+45
+20
+36
+45
+6
+16
+25
+27
+27
+43
+14
+16
+
+1 cup
+1 oz
+1
+2
+4 oz
+2
+1tbsp
+1
+1 slice
+1/2 cup
+1 slice
+1 slice
+1tsp
+1 oz
+1/2 cup
+
+White rice,
+low-amylose
+Baked potato
+Corn flakes
+breakfast cereal
+Jelly beans
+Doughnut
+Waffle
+French fries
+Graham cookies
+Honey
+Bagel
+Watermelon
+Carrots
+White bread
+Wheat bread
+Sucrose
+Raisins
+Ice cream
+White rice,
+high-amylose
+Orange juice
+Cake
+Brown rice
+Popcorn
+Sweet corn
+Sweet potato
+Banana
+Baked beans
+Parboiled rice
+Grapes
+Orange
+All-Bran breakfast
+cereal
+Apple juice
+Spaghetti
+Apple
+Chickpeas
+Lentils
+Whole milk
+Kidney beans
+Grapefruit
+Fructose
+Cherries
+Peanuts
+a The means of GI values were taken from Foster-Powell and
+Miller [83].
+b The serving sizes and grams of carbohydrate/serving are from
+USDA [84].
+c GL is the product of the GI value of a food and its carbohydra-
+te content/serving. Each unit of dietary GL represents the equi-
+valent glycemic effect of 1 g of carbohydrate from white bread.
+
+1/2 cup
+6 oz
+1 cup
+1
+1 cup
+1 cup
+1 cup
+1 cup
+0.5
+2 tbsp
+1 cup
+1 oz
+
+1 cup
+6 oz
+1 piece
+1 cup
+1 cup
+1/2 cup
+1
+1
+1/2 cup
+1 cup
+1/2 cup
+1
+
+84
+81
+80
+78
+78
+78
+77
+75
+68
+67
+61
+61
+
+60
+58
+58
+51
+47
+40
+38
+38
+36
+33
+31
+20
+
+67
+61
+
+29
+30
+25
+66
+37
+23
+18
+39
+17
+8
+12
+12
+4
+20
+14
+
+37
+16
+29
+35
+5
+12
+19
+20
+18
+29
+9
+10
+
+14
+13
+23
+11
+21
+16
+5
+15
+2
+10
+7
+1
+
+23
+22
+40
+21
+45
+40
+12
+39
+10
+31
+24
+5
+
+812
+
+B. Hu et al.: Diet and Type II diabetes
+
+and quantity of carbohydrates, the GL represents the
+overall ability of a food or diet to raise the blood glu-
+cose concentration. In a subsample of the Nurses'
+Health study [85], the positive association with fast-
+ing triglycerides and the inverse association with plas-
+ma concentration of HDL appeared to be stronger
+for dietary GL than for overall GI. Furthermore, the
+effects of GL were more pronounced among over-
+weight and obese women than among lean women.
+
+An important test of the clinical usefulness of the
+GI concept depends on whether it predicts long-
+term disease risk, especially the incidence of Type II
+diabetes. The influence of type and quality of Type
+II diabetes on risk of Type II diabetes received little
+attention in epidemiologic studies until recently. Sev-
+eral epidemiologic studies examined total amount of
+carbohydrate and traditional classifications of carbo-
+hydrates in relation to hyperglycaemia or risk of dia-
+betes (Table 1) [36, 39, 45, 86, 87]. In general, neither
+total carbohydrate nor intake of simple sugars such
+as sucrose intake predicted risk of diabetes. Recently,
+three large cohort studies examined the association
+between dietary GL and incidence of Type II diabe-
+tes. In the Health Professionals' Follow-up Study
+[45] and Nurses' Health Study [82], the incidence of
+diabetes increased with higher GL especially in com-
+bination with low intake of cereal fiber. In the Nurses'
+Health study [82], the RR of Type II diabetes was
+2.50 (95 % CI, 1.14±5.51) for women with the combi-
+nation with a high GL and a low cereal fiber intake
+compared with the opposite extreme. Similar results
+were obtained from the Health Professionals' fol-
+low-up study [45]. In a recent analysis of the Iowa
+Women's Health study [87], however, no overall asso-
+ciation was observed for either dietary GI or GL. But
+in this cohort, diet was assessed at only one point in
+time and the diagnosis of diabetes was based entirely
+on self-reports on the questionnaire without further
+confirmation.
+
+In a recent analysis, a strong positive association
+between GL and risk of CHD was observed in the
+Nurses' Health study [88]. The RR (highest quintile
+vs.
+lowest quintile of GL) was 1.98 (95 % CI,
+1.41±2.77). The increased risk was more pronounced
+among overweight and obese women, suggesting
+that the adverse effects of a high GL diet are proba-
+bly aggravated by underlying insulin resistance.
+
+Glycaemic index and obesity. Obesity (particularly
+abdominal adiposity) is a major cause of Type II dia-
+betes. A purported benefit of a low-fat diet is weight
+loss. But the association between dietary fat and obe-
+sity is not clear [89] and long-term clinical trials have
+not provided convincing evidence that reducing di-
+etary fat can lead to substantial weight loss [90]. On
+the other hand, cumulative evidence from experi-
+mental studies suggests a potential role of a high-GI
+diet on the development of obesity [91, 92]. In animal
+
+studies, high-GI diets as compared with isocaloric
+low-GI diets induce an increase in fat synthesis even
+when the total body weight remains constant [72]. A
+recent review showed that consumption of low-GI
+foods or liquids was directly associated with reduc-
+tion in subsequent hunger and/or increased satiety in
+most of the short-term feeding studies in humans
+[92]. In addition, voluntary energy intake increased
+after consumption of high-GI meals as compared
+with consumption of low-GI meals [92]. These obser-
+vations suggest that long-term consumption of high-
+GI diets could promote excess energy consumption
+and thus contribute to weight gain or to the mainte-
+nance of excess body weight, especially among sus-
+ceptible subjects (e. g., sedentary or overweight sub-
+jects) [91]. To date, no long-term studies have tested
+the effects of GI on weight control.
+
+Whole grain consumption and risk of Type II diabetes
+
+Whole grain products such as whole wheat breads,
+brown rice, oats, and barley tend to produce slower
+glycaemic and insulinaemic responses than do highly
+processed refined grains. Whole grains are also rich
+in fiber, antioxidant vitamins, magnesium, and phyto-
+chemicals. Two large prospective cohort studies of
+women have found an inverse association between
+whole grain consumption and risk of diabetes and
+CHD. In the Iowa Women's Health study [87], the
+RR of self-reported diabetes comparing women in
+the highest (median, 20.5 servings/week) versus low-
+est quintiles (median, 1 serving/week) of whole grain
+intake was 0.79 (95 % CI, 0.65±0.96; p for
+trend = 0.009). The lower risk with higher intake of
+whole grains was independent of fiber or several oth-
+er constituents of whole grains. This inverse associa-
+tion was confirmed in the Nurses' Health study [93];
+after adjustment for age, BMI, physical activity, and
+other covariates, the RR of diabetes comparing ex-
+treme quintiles of whole grain consumption (medi-
+ans, 2.7 servings/day in the fifth quintile vs 0.13 serv-
+ing/day in lowest quintile) was 0.73 (95 % CI,
+0.63±0.85; p for trend < 0.0001). In contrast, a higher
+consumption of refined grains (including sweet rolls,
+cakes, desserts, white bread, muffins, white rice, piz-
+za, pancakes or waffles, refined-grain breakfast cere-
+als) was associated with an increased risk of diabetes
+in the analysis adjusted for age and total energy in-
+take, although the RR was attenuated after further
+adjustment for BMI. The ratio of whole grain to re-
+fined grain was related to a lower risk of diabetes,
+suggesting a potential benefit of replacing refined
+grains with whole grains. Whole grain consumption
+has also been inversely associated with risk of CHD
+[94, 95] and ischemic stroke [96].
+
+B. Hu et al.: Diet and Type II diabetes
+
+813
+
+Fiber consumption and risk of Type II diabetes
+
+Summary and Conclusions
+
+Dietary fiber includes the cell walls of plants and oth-
+er indigestable components of plants. Soluble fibers
+(pectins, gums, mucilages, and psyllium) lower total
+and LDL cholesterol through increased bile acid ex-
+cretion and decreased hepatic synthesis of cholesterol
+and fatty acids [97, 98], although the cholesterol-low-
+ering effects are modest [99]. In addition, a high-fiber
+diet has been shown to improve glycaemic control
+and insulin response [98, 100]. In the Coronary Ar-
+tery Risk Development in Young Adults (CARDIA)
+study [101], a lower fiber consumption predicted
+higher fasting insulin concentrations and greater
+weight gain independent of dietary intake of total
+and saturated fats. Foods with intact grain cereals or
+a high content of viscous fiber tend to have low GI
+values. The correlation between dietary fiber and GI
+is modest (r = 0.46) and only 21 % of GI variability
+in 25 tested foods could be explained by the dietary
+fiber content [102]. This suggests the relative inde-
+pendence of the GI concept and dietary fiber.
+
+So far, three prospective cohort studies have ob-
+served an inverse association between dietary fiber
+consumption and risk of Type II diabetes [45, 82, 87].
+In all of these studies, cereal fiber appeared to contrib-
+ute most to the protective effect. For example, in the
+Nurses' Health study [82], the RR of diabetes compar-
+ing extreme quintiles of cereal fiber intake was 0.72
+(95 % CI, 0.58±0.90; p for trend = 0.001). The corre-
+sponding RRs were 0.87 (95 % CI, 0.70±1.08) for fruit
+fiber and 1.17 (95 % CI, 0.93±1.46) for vegetable fiber.
+Similar results were obtained from the Health Profes-
+sionals' follow-up study [45]. These results are consis-
+tent with the studies that showed a stronger inverse as-
+sociation between cereal fiber and CHD than for fruit
+or vegetable fiber [103±106].
+
+It is not clear why cereal fiber could exert more ben-
+eficial effects than other sources of fiber. A study hy-
+pothesized that the protective effect of cereal fiber
+could be mediated by increased concentration of mag-
+nesium and antioxidant vitamins in fiber-rich cereal
+products [107]. However, fruits and vegetables also
+contain a myriad of potentially cardioprotective com-
+pounds. Nevertheless, confounding by other nutrients
+such as magnesium and antioxidant vitamins that are
+concentrated in minimally-processed grain products
+cannot be ruled out. Recently, it was found [108] that
+fiber from whole grain, but not refined grain, was in-
+versely associated with all-cause mortality in the
+Iowa Women's Health study and the study attributed
+the association to the presence of ªnutrient-richº fiber
+in whole grains. While research efforts should contin-
+ue to investigate the biologic effects of different types
+and sources of fiber, from the point of view of the pub-
+lic health, an increase in total dietary fiber from differ-
+ent food sources (especially whole grains, fruits, vege-
+tables, legumes, and nuts) should be encouraged.
+
+Although it is generally agreed that dietary modifica-
+tion is an important means of preventing Type II dia-
+betes, there exists no general consensus about the
+roles of dietary fat and carbohydrates. The findings
+of this review indicate that neither total fat nor total
+carbohydrate as proportions of total energy play a
+major part in the development of Type II diabetes in
+humans but that different types of fat and carbohy-
+drates appear to be more important. In particular, a
+higher intake of polyunsaturated fat and possibly
+long-chain n-3 fatty acids could be beneficial, where-
+as a higher intake of saturated fat and trans-fat could
+adversely affect glucose metabolism. In dietary prac-
+tice, exchanging nonhydrogenated polyunsaturated
+fat for saturated and trans-fatty acids could apprecia-
+bly reduce risk of Type II diabetes. In addition, a low-
+GI diet with a greater amount of fiber and minimally
+processed whole grain products seems to improve
+glycaemic and insulinaemic responses and lower the
+risk of Type II diabetes. Evidence indicates that the
+traditional concept of ªsimpleº versus ªcomplexº car-
+bohydrates is not useful in predicting the risk of Type
+II diabetes.
+
+The clinical utility of the GI remains controversial.
+It is either dismissed as irrelevant indicators [109] or
+embraced as a sole yardstick to classify ªgoodº or
+ªbadº foods, especially in popular diets. Current evi-
+dence indicates that the GI is a useful concept, al-
+though the GI database needs to be further devel-
+oped and refined, particularly in different popula-
+tions and in the context of mixed meals. Long-term
+studies on the GI concept and weight control are ur-
+gently needed. Future epidemiologic studies on the
+association between dietary GL and the risk of Type
+II diabetes should include major factors that are like-
+ly to influence the GI value of a food, such as the ratio
+of amylose to amylopectin and cooking methods
+(e. g., baked vs. boiled potatoes) in the dietary assess-
+ment. Repeated measures of diet are necessary in or-
+der to assess long-term dietary patterns and reduce
+measurement errors because of within-person varia-
+tions. Large sample sizes and long-term follow-up
+are needed to obtain more robust results. In dietary
+practice, GI values are probably most useful for se-
+lecting foods that contain a high amount of carbohy-
+drate, especially starchy foods, but they have limited
+use for ranking fruits and vegetables and other foods
+containing small amounts of carbohydrate. In evalu-
+ating health effects of individual foods, GI values
+should never be used in isolation; nutrient composi-
+tion of the foods and overall dietary patterns are
+clearly important.
+
+The most important way to lower the risk of Type
+II diabetes is to avoid overweight and obesity by en-
+gaging in regular physical activity and balancing total
+energy intake with energy expenditure. In addition,
+
+814
+
+B. Hu et al.: Diet and Type II diabetes
+
+available evidence suggest that modifying types of fat
+and carbohydrates in the diet is likely to improve in-
+sulin response and lower risk of Type II diabetes, al-
+though other dietary components such as magnesium
+could also play a role [87]. In particular, substituting
+unhydrogenated unsaturated fats (such as those in
+natural vegetable oils, nuts, and seeds) for saturated
+fat (such as those in animal products) and trans-fat
+(such as those in vegetable shortening and hard mar-
+garine) could substantially lower risk of Type II dia-
+betes as well as other chronic diseases. Substituting
+minimally processed whole grain products for refined
+grains would also have substantial benefits on these
+diseases. Instead of simply recommending a low-fat
+high-carbohydrate diet, current dietary recommenda-
+tions for patients with diabetes have emphasized the
+importance of individualizing the percent of calories
+from fat and carbohydrate based on clinical goals
+[110, 111]. Clearly, dietary recommendations to pre-
+vent and manage Type II diabetes should focus more
+on the quality of fat and carbohydrate in the diet
+than quantity alone, in addition to total energy bal-
+ance.
+
+Acknowledgements. Dr. Hu's work is supported by an Ameri-
+can Diabetes Association Research Award. We appreciate
+helpful comments by Dr. Jo Ann Manson and Walter Willett.
+
+References
+
+1. Mokdad AH, Ford ES, Bowman BA et al. (2000) Diabe-
+tes trends in the U. S.: 1990±1998. Diabetes Care 23:
+1278±1283
+
+2. King H, Aubert RE, Herman WH (1998) Global burden
+of diabetes, 1995±2025: prevalence, numerical estimates,
+and projections. Diabetes Care 21: 1414±1431
+
+3. National Research Council ± Committee on Diet and
+Health (1989) Diet and Health: Implications for Reducing
+Chronic Disease Risk, National Academy Press, Washing-
+ton
+
+4. U. S. Department of Agriculture ± U. S. Department of
+Health and Human Services (2000) Nutrition and your
+health: Dietary guidelines for Americans. Homes and Gar-
+den Bulletin No. 232, U. S. Printing Office, Washington
+
+5. Pi-Sunyer FX (1993) Medical hazards of obesity. Ann In-
+
+tern Med 119: 655±660
+
+6. Reaven GM (1988) Role of insulin resistance in human
+
+disease. Diabetes 37: 1595±1607
+
+7. Pan DA, Lillioja S, Milner MR et al. (1995) Skeletal mus-
+cle membrane lipid composition is related to adiposity
+and insulin action. J Clin Invest 96: 2802±2808
+
+8. Vessby B (2000) Dietary fat and insulin action in humans.
+
+Br J Nutr [83 Suppl 1]:S91±596
+
+9. Borkman M, Storlien LH, Pan DA, Jenkins AB, Chis-
+holm DJ, Campbell LV (1993) The relation between insu-
+lin sensitivity and the fatty-acid composition of skeletal-
+muscle phospholipids. N Engl J Med 328: 238±244
+
+10. Storlien LH, Jenkins AB, Chisholm DJ, Pascoe WS, Kho-
+uri S, Kraegen EW (1991) Influence of dietary fat compo-
+sition on development of insulin resistance in rats. Rela-
+tionship to muscle triglyceride and omega-3 fatty acids in
+muscle phospholipid. Diabetes 40: 280±289
+
+11. Fickova M, Hubert P, Klimes I et al. (1994) Dietary fish oil
+and olive oil improve the liver insulin receptor tyrosine ki-
+nase activity in high sucrose fed rats. Endocr Regul 28:
+187±197
+
+12. Lardinois CK, Starich GH (1991) Polyunsaturated fats en-
+hance peripheral glucose utilization in rats. J Am Coll
+Nutr 10: 340±345
+
+13. Swinburn BA (1993) Effect of dietary lipid on insulin ac-
+
+tion. Clinical studies. Ann NY Acad Sci 683: 102±109
+
+14. Fukagawa NK, Anderson JW, Hageman G, Young VR,
+Minaker KL (1990) High-carbohydrate, high-fiber diets
+increase peripheral insulin sensitivity in healthy young
+and old adults. Am J Clin Nutr 52: 524±528
+
+15. Howard BV, Abbott WG, Swinburn BA (1991) Evalua-
+tion of metabolic effects of substitution of complex carbo-
+hydrates for saturated fat in individuals with obesity and
+NIDDM. Diabetes Care 14: 786±795
+
+16. Borkman M, Campbell LV, Chisholm DJ, Storlien LH
+(1991) Comparison of the effects on insulin sensitivity of
+high carbohydrate and high fat diets in normal subjects.
+J Clin Endocrinol Metab 72: 432±437
+
+17. Swinburn BA, Boyce VL, Bergman RN, Howard BV, Bo-
+gardus C (1991) Deterioration in carbohydrate metabo-
+lism and lipoprotein changes induced by modern, high fat
+diet in Pima Indians and Caucasians. J Clin Endocrinol
+Metab 73: 156±165
+
+18. Lovejoy JC, Windhauser MM, Rood JC, de la Bretonne
+JA (1998) Effect of a controlled high-fat versus low-fat
+diet on insulin sensitivity and leptin levels in African-
+American and Caucasian women. Metabolism 47:
+1520±1524
+
+19. Uusitupa M, Schwab U, Makimattila S et al. (1994) Ef-
+fects of two high-fat diets with different fatty acid compo-
+sitions on glucose and lipid metabolism in healthy young
+women. Am J Clin Nutr 59: 1310±1316
+
+20. Schwab US, Niskanen LK, Maliranta HM, Savolainen
+MJ, Kesaniemi YA, Uusitupa MI (1995) Lauric and palm-
+itic acid-enriched diets have minimal impact on serum lip-
+id and lipoprotein concentrations and glucose metabolism
+in healthy young women. J Nutr 125: 466±473
+
+21. Louheranta AM, Turpeinen AK, Schwab US, Vidgren
+HM, Parviainen MT, Uusitupa MI (1998) A high-stearic
+acid diet does not impair glucose tolerance and insulin
+sensitivity in healthy women. Metabolism 47: 529±534
+
+22. Vessby B, Uusitupa M, Hermansen K et al. (2001) Substi-
+tuting dietary saturated for monounsaturated fat impairs
+insulin sensitivity in healthy men and women: The KAN-
+WU study. Diabetologia 44: 312±319
+
+23. Vessby B, Aro A, Skarfors E, Berglund L, Salminen I, Lit-
+hell H. (1994). The risk to develop NIDDM is related to
+the fatty acid composition of the serum cholesterol esters.
+Diabetes 43: 1353±1357
+
+24. Vessby B, Tengblad S, Lithell H (1994) Insulin sensitivity
+is related to the fatty acid composition of serum lipids
+and skeletal muscle phospholipids in 70-year-old men.
+Diabetologia 37: 1044±1050
+
+25. Folsom AR, Ma J, McGovern PG, Eckfeldt H (1996) Re-
+lation between plasma phospholipid saturated fatty acids
+and hyperinsulinemia. Metabolism 45: 223±228
+
+26. Salomaa V, Ahola I, Tuomilehto J et al. (1990) Fatty acid
+composition of serum cholesterol esters in different de-
+grees of glucose intolerance: a population-based study.
+Metabolism 39: 1285±1291
+
+27. Thomas BJ, Jarrett RJ, Keen H, Ruskin HJ (1982) Rela-
+tion of habitual diet to fasting plasma insulin concentra-
+tion and the insulin response to oral glucose. Hum Nutr
+Clin Nutr 1: 49±56
+
+B. Hu et al.: Diet and Type II diabetes
+
+815
+
+28. Maron DJ, Fair JM, Haskell WL (1991) Saturated fat in-
+take and insulin resistance in men with coronary artery
+disease. The Stanford Coronary Risk Intervention Project
+Investigators and Staff. Circulation 84: 2020±2027
+
+29. Parker DR, Weiss ST, Troisi R, Cassano PA, Vokonas PS,
+Landsberg L (1993) Relationship of dietary saturated fat-
+ty acids and body habitus to serum insulin concentrations:
+the Normative Aging Study. Am J Clin Nutr 58: 129±136
+30. Mayer EJ, Newman B, Quesenberry CP Jr, Selby JV
+(1993) Usual dietary fat intake and insulin concentrations
+in healthy women twins. Diabetes Care 16: 1459±1469
+
+31. Feskens EJ, Loeber JG, Kromhout D (1994) Diet and
+physical activity as determinants of hyperinsulinemia: the
+Zutphen Elderly Study. Am J Epidemiol 140: 350±360
+
+32. Marshall JA, Bessesen DH, Hamman RF (1997) High sat-
+urated fat and low starch and fibre are associated with hy-
+perinsulinaemia in a non-diabetic population: the San
+Luis Valley Diabetes Study. Diabetologia 40: 430±438
+
+33. Mooy JM, Grootenhuis PA, de Vries H, Bouter LM, Kos-
+tense PJ, Heine RJ (1998) Determinants of specific serum
+insulin concentrations in a general Caucasian population
+aged 50 to 74 years (the Hoorn Study). Diabet Med 15:
+45±52
+
+34. Mayer-Davis EJ, Monaco JH, Hoen HM et al. (1997) Di-
+etary fat and insulin sensitivity in a triethnic population:
+the role of obesity. The Insulin Resistance Atherosclerosis
+Study (IRAS) Am J Clin Nutr 65: 79±87
+
+35. Bennett P, Knowler W, Baird H, Butler W, Pettitt D, Reid
+J (1984) Diet and the development of non-insulin-depen-
+dent diabetes mellitus: an epidemiological perspective.
+In: Pozza B (ed) Diet, diabetes, and atherosclerosis. Ra-
+ven Press, New York, pp109±119
+
+36. Feskens EJ, Kromhout D (1989) Cardiovascular risk fac-
+tors and the 25-year incidence of diabetes mellitus in mid-
+dle-aged men. The Zutphen Study. Am J Epidemiol 130:
+1101±1108
+
+37. Lundgren H, Bengtsson C, Blohme G et al. (1989) Di-
+etary habits and incidence of noninsulin-dependent diabe-
+tes mellitus in a population study of women in Gothen-
+burg, Sweden. Am J Clin Nutr 49: 708±712
+
+38. Medalie JH, Papier C, Herman JB et al. (1974) Diabetes
+mellitus among 10,000 adult men. I. Five-year incidence
+and associated variables. Isr J Med Sci 10: 681±197
+
+39. Colditz GA, Manson JE, Stampfer MJ, Rosner B, Willett
+WC, Speizer FE (1992) Diet and risk of clinical diabetes
+in women. Am J Clin Nutr 55: 1018±1023
+
+40. Salmeron J, Hu FB, Manson JE et al. (2001) Dietary fat
+intake and risk of Type II diabetes in women. Am J Clin
+Nutr 13: 1019±1027
+
+41. Trevisan M, Krogh V, Freudenheim J et al. (1990) Con-
+sumption of olive oil, butter, and vegetable oils and coro-
+nary heart disease risk factors. The Research Group
+ATS-RF2 of the Italian National Research Council [pub-
+lished erratum appears in JAMA 1990 Apr;263: 1768]
+JAMA 263: 688±692
+
+42. Mooy JM, Grootenhuis PA, de Vries H et al. (1995) Prev-
+alence and determinants of glucose intolerance in a Dutch
+caucasian population. The Hoorn Study. Diabetes Care
+18: 1270±1273
+
+43. Feskens EJ, Kromhout D (1990) Habitual dietary intake
+and glucose tolerance in euglycaemic men: the Zutphen
+Study. Int J Epidemiol. 19: 953±959
+
+44. Feskens EJ, Virtanen SM, Rasanen L et al. (1995) Dietary
+factors determining diabetes and impaired glucose toler-
+ance. A 20-year follow-up of the Finnish and Dutch co-
+horts of the Seven Countries Study. Diabetes Care 18:
+1104±1112
+
+45. Salmeron J, Ascherio A, Rimm EB et al. (1997) Dietary
+fiber, glycemic load, and risk of NIDDM in men. Diabetes
+Care 20: 545±550
+
+46. Marshall JA, Hamman RF, Baxter J (1991) High-fat, low-
+carbohydrate diet and the etiology of non-insulin- depen-
+dent diabetes mellitus: the San Luis Valley Diabetes
+Study. Am J Epidemiol 134: 590±603
+
+47. Mensink RP, Katan MB (1992) Effect of dietary fatty ac-
+ids on serum lipids and lipoproteins: a meta-analysis of
+27 trials. Arterioscler Thromb 12: 911±919
+
+48. Marshall JA, Hoag S, Shetterly S, Hamman RF (1994) Di-
+etary fat predicts conversion from impaired glucose toler-
+ance to NIDDM. The San Luis Valley Diabetes Study. Di-
+abetes Care 17: 50±56
+
+49. Snowdon DA, Phillips RL (1985) Does a vegetarian diet
+reduce the occurrence of diabetes? Am J Public Health
+75: 507±512
+
+50. Willett WC (1998) Nutritional Epidemiology, 2nd edn
+
+University Press, New York
+
+51. Feskens EJ, Bowles CH, Kromhout D (1991) Inverse as-
+sociation between fish intake and risk of glucose intoler-
+ance in normoglycemic elderly men and women. Diabetes
+Care 14: 935±941
+
+52. Fasching P, Ratheiser K, Waldhausl W et al. (1991)
+Metabolic effects of
+fish-oil supplementation in pa-
+tients with impaired glucose tolerance. Diabetes 40:
+583±589
+
+53. Toft I, Bonaa KH, Ingebretsen OC, Nordoy A, Jenssen T
+(1995) Effects of n-3 polyunsaturated fatty acids on glu-
+cose homeostasis and blood pressure in essential hyper-
+tension. A randomized, controlled trial. Ann Intern Med
+123: 911±918
+
+54. Connor SL, Connor WE (1997) Are fish oils beneficial in
+the prevention and treatment of coronary artery disease?
+Am J Clin Nutr 66: 1020S-1031S
+
+55. Ascherio A, Katan MB, Zock PL, Stampfer MJ, Willett
+WC (1999) Trans fatty acids and coronary heart disease.
+N Engl J Med 340: 1994±1998
+
+56. Muller H, Jordal O, Seljeflot I et al. (1998) Effect on plas-
+ma lipids and lipoproteins of replacing partially hydroge-
+nated fish oil with vegetable fat in margarine. Br J Nutr
+80: 243±251
+
+57. Christiansen E, Schnider S, Palmvig B, Tauber-Lassen E,
+Pedersen O (1997) Intake of a diet high in trans monoun-
+saturated fatty acids or saturated fatty acids. Effects on
+postprandial insulinemia and glycemia in obese patients
+with NIDDM. Diabetes Care 20: 881±887
+
+58. Louheranta AM, Turpeinen AK, Vidgren HM, Schwab
+US, Uusitupa MI (1999) A high-trans fatty acid diet and
+insulin sensitivity in young healthy women. Metabolism
+48: 870±875
+
+59. Kalergis M, Pacaud D, Yale J-F (1998) Attempts to con-
+trol the glycemic response to carbohydrate in diabetes
+mellitus: Overview and practical implications. Canadian
+Journal of Diabetes Care 22: 20±29
+
+60. Jenkins DJ, Wolever TM, Taylor RH et al. (1981) Glyce-
+mic index of foods: a physiological basis for carbohydrate
+exchange. Am J Clin Nutr 34: 362±366
+
+61. Jenkins DJ, Wolever TM, Buckley G et al. (1988) Low-
+glycemic-index starchy foods in the diabetic diet. Am J
+Clin Nutr 48: 248±254
+
+62. Jenkins DJA, Jenkins AL, Wolever TMS (1994) Low gly-
+cemic index: lente carbohydrates and physiological effects
+of altered food frequency. Am J Clin Nutr 59: 706S-709S
+63. Wolever TMS, Jenkins DJ, Jenkins AL, Josse RG (1991)
+The glycemic index: methodology and clinical implica-
+tions. Am J Clin Nutr 54: 846±854
+
+816
+
+B. Hu et al.: Diet and Type II diabetes
+
+64. Brand-Miller J, Wolever TMS, Colagirui S, Foster-Powell
+K (1999) The glucose revolution: The authoritative guide
+to the glycemic index. Marlowe & Company New York
+
+65. Hallfrisch J, Behall KM (2000) Mechanisms of the effects
+of grains on insulin and glucose responses J Am Coll
+Nutr 19: 320S±325S
+
+66. Coulston AM, Hollenbeck CB, Liu GC et al. (1984) Ef-
+fect of source of dietary carbohydrate on plasma glucose,
+insulin, and gastric inhibitory polypeptide responses to
+test meals in subjects with noninsulin-dependent diabetes
+mellitus. Am J Clin Nutr 40: 965±970
+
+67. Coulston AM, Hollenbeck CB, Swislocki AL, Reaven
+GM (1987) Effect of source of dietary carbohydrate on
+plasma glucose and insulin responses to mixed meals in
+subjects with NIDDM. Diabetes Care 10: 395±400
+
+68. Hollenbeck CB, Coulston AM, Reaven GM (1988) Com-
+parison of plasma glucose and insulin responses to mixed
+meals of high-, intermediate-, and low-glycemic potential.
+Diabetes Care 11: 323±329
+
+69. Wolever TM (1997) The glycemic index: flogging a dead
+
+horse? Diabetes Care 20: 452±456
+
+70. Chew I, Brand JC, Thorburn AW, Truswell AS (1988) Ap-
+plication of glycemic index to mixed meals. Am J Clin
+Nutr 47: 53±56
+
+71. Wolever TM, Jenkins DJ, Vuksan V, Josse RG, Wong GS,
+Jenkins AL (1990) Glycemic index of foods in individual
+subjects. Diabetes Care 13: 126±132
+
+72. Denyer GS, Pawlak D, Higgins J et al. (1998) Dietary car-
+bohydrate and insulin resistance: Lessons from human
+and animals. Proceedings of the Nutrition Society of Aus-
+tralia pp158±167
+
+73. Bornet FR, Costagliola D, Rizkalla SW et al. (1987) Insu-
+linemic and glycemic indexes of six starch-rich foods tak-
+en alone and in a mixed meal by Type II diabetics. Am J
+Clin Nutr 45: 588±595
+
+74. Ludwig DS, Majzoub JA, Al-Zahrani A et al. (1999) High
+glycemic index foods, overeating, and obesity. Pediatrics
+103: e261-e266
+
+75. Jenkins DJ, Wolever TM, Collier GR et al. (1987) Meta-
+bolic effects of a low-glycemic-index diet. Am J Clin
+Nutr 46: 968±975
+
+76. Frost G, Keogh B, Smith D, Akinsanya K, Leeds A (1996)
+The effect of low-glycemic carbohydrate on insulin and
+glucose response in vivo and in vitro in patients with coro-
+nary heart disease. Metabolism 45: 669±672
+
+77. Frost G, Leeds A, Trew G, Margara R, Dornhorst A
+(1998) Insulin sensitivity in women at risk of coronary
+heart disease and the effect of a low glycemic diet. Metab-
+olism 47: 1245±1251
+
+78. Wolever TM, Jenkins DJ, Vuksan V et al. (1992) Benefi-
+cial effect of a low glycaemic index diet in Type II diabe-
+tes. Diabet Med 9: 451±458
+
+79. Frost G, Leeds AA, Dore CJ, Madeiros S, Brading S,
+Dornhorst A (1999) Glycaemic index as a determinant of
+serum HDL-cholesterol
+353:
+1045±1048
+
+concentration Lancet
+
+80. Ford E, Liu S (2001) Glycemic index, glycemic load, and
+serum high-density lipoprotein (HDL) cholesterol con-
+centration among United States adults. Arch Intern Med
+161: 572±576
+
+81. van Dam RM, Visscher AW, Feskens EJ, Verhoef P,
+Kromhout D (2000) Dietary glycemic index in relation to
+metabolic risk factors and incidence of coronary heart dis-
+ease: the zutphen elderly study Eur J Clin Nutr 54:
+726±731
+
+82. Salmeron J, Manson JE, Stampfer MJ, Colditz GA, Wing
+AL, Willett WC (1997) Dietary fiber, glycemic load, and
+
+risk of non-insulin-dependent diabetes mellitus in women.
+JAMA 277: 472±477
+
+83. Foster-Powell K, Miller JB (1995) International tables of
+
+glycemic index. Am J Clin Nutr 62: 871S-890S
+
+84. United States Department of Agriculture (1999) USDA
+Nutrient Database for Standard Release, SR13, Release
+13
+
+85. Liu S, Manson JE, Stampfer MJ et al. (2001) Dietary gly-
+cemic load assessed by food frequency questionnaire in
+relation to plasma high-density lipoprotein cholesterol
+and fasting triglycerides in postmenopausal women. Am
+J Clin Nutr 73: 560±566
+
+86. Feskens EJ, Bowles CH, Kromhout D (1991) Carbohy-
+drate intake and body mass index in relation to the risk
+of glucose intolerance in an elderly population. Am J
+Clin Nutr 54: 136±140
+
+87. Meyer KA, Kushi LH, Jacobs DR Jr, Slavin J, Sellers TA,
+Folsom AR (2000) Carbohydrates, dietary fiber, and inci-
+dent Type II diabetes in older women. Am J Clin Nutr
+71: 921±930
+
+88. Liu S, Willett WC, Stampfer MJ et al. (2000) A prospec-
+tive study of dietary glycemic load and risk of myocardial
+infarction in women. Am J Clin Nutr 71: 1455±1461
+
+89. Astrup A, Ryan L, Grunwald GK et al. (2000) The role of
+dietary fat in body fatness: evidence from a preliminary
+meta-analysis of ad libitum low-fat dietary intervention
+studies. Br J Nutr. [83 Suppl 1]:S25±s32
+
+90. Willett WC (1998) Is dietary fat a major determinant of
+body fat? [published erratum appears in Am J Clin Nutr
+1999 Aug;70: 304]. Am J Clin Nutr 67: 556S-562S
+
+91. Ludwig DS (2000) Dietary glycemic index and obesity.
+
+J Nutr 130: 280S-283S
+
+92. Roberts SB (2000) High-glycemic index foods, hunger,
+and obesity: is there a connection? Nutr Rev 58: 163±169
+93. Liu S, Manson JE, Stampfer MJ et al. (2000) A prospec-
+tive study of whole-grain intake and risk of Type II diabe-
+tes mellitus in US women. Am J Public Health 90:
+1409±1415
+
+94. Jacobs DR, Meyer KA, Kushi LH, Folsom AR (1998)
+Whole-grain intake may reduce the risk of ischemic heart
+disease death in postmenopausal women: the Iowa Wom-
+en's Health Study. Am J Clin Nutr 68: 248±257
+
+95. Liu S, Stampfer MJ, Hu FB et al. (1999) Whole-grain
+consumption and risk of coronary heart disease: results
+from the Nurses' Health Study. Am J Clin Nutr 70:
+412±419
+
+96. Liu S, Manson JE, Stampfer MJ et al. (2000) Whole grain
+consumption and risk of ischemic stroke in women: A pro-
+spective study. JAMA 284: 1534±1540
+
+97. Anderson JW, Allgood LD, Lawrence A et al. (2000)
+Cholesterol-lowering effects of psyllium intake adjunctive
+to diet therapy in men and women with hypercholester-
+olemia: meta-analysis of 8 controlled trials. Am J Clin
+Nutr 71: 472±479
+
+98. Anderson JW, Smith BM, Gustafson NJ (1994) Health
+benefits and practical aspects of high-fiber diets. Am J
+Clin Nutr 59: 1242S-1247S
+
+99. Brown L, Rosner B, Willett WW, Sacks FM (1999) Cho-
+lesterol-lowering effects of dietary fiber: a meta-analysis
+Am J Clin Nutr 69: 30±42
+
+100. Van Horn L (1997) Fiber, lipids, and coronary heart dis-
+ease. A statement for healthcare professionals from the
+Nutrition Committee, American Heart Association. Cir-
+culation 95: 2701±2704
+
+101. Ludwig DS, Pereira MA, Kroenke CH et al. (1999) Di-
+etary fiber, weight gain, and cardiovascular disease risk
+factors in young adults. JAMA 282: 1539±1546
+
+B. Hu et al.: Diet and Type II diabetes
+
+817
+
+102. Wolever TM (1990) Relationship between dietary fiber
+content and composition in foods and the glycemic index.
+Am J Clin Nutr 51: 72±75
+
+103. Morris JN, Marr JW, Clayton DG (1977) Diet and Heart:
+
+a postscript. BMJ 2: 1307±1314
+
+104. Rimm EB, Ascherio A, Giovannucci E, Spiegelman D,
+Stampfer MJ, Willett WC (1996) Vegetable, fruit, and ce-
+real fiber intake and risk of coronary heart disease among
+men. JAMA 275: 447±451
+
+105. Pietinen P, Rimm EB, Korhonen P et al. (1996) Intake of
+dietary fiber and risk of coronary heart disease in a cohort
+of Finnish men. The Alpha-Tocopherol, Beta-Carotene
+Cancer Prevention Study Circulation 94: 2720±2727
+
+106. Wolk AM, Manson JE, Stampfer MJ et al. (1999) Long-
+term intake of dietary fiber and decreased risk of coronary
+heart disease among women. JAMA 281: 1998±2004
+
+107. McCarty MF (2000) Toward practical prevention of Type
+
+II diabetes. Med Hypotheses 54: 786±793
+
+108. Jacobs DR, Pereira MA, Meyer KA, Kushi LH (2000) Fi-
+ber from whole grains, but not refined grains, is inversely
+associated with all-cause mortality in older women: the
+Iowa women's health study. J Am Coll Nutr 19: 326S-330S
+109. Coulston AM, Reaven GM (1997) Much ado about (al-
+most) nothing [editorial; comment] Diabetes Care 20:
+241±243
+
+110. American Diabetes Association (2001) Nutrition Recom-
+mendations and Principles for People With Diabetes Mel-
+litus. Diabetes Care 24 [suppl 1]:S44-S47
+
+111. The Diabetes and Nutrition Study Group (DNSG) of the
+European Association for the Study of Diabetes (EASD)
+(2000) Recommendations for the nutritional management
+of patients with diabetes mellitus. Eur J Clin Nutr 54:
+353±355
+
+

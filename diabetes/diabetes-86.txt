@@ -1,0 +1,1410 @@
+Preventive Medicine Reports 2 (2015) 223–228
+
+Contents lists available at ScienceDirect
+
+Preventive Medicine Reports
+
+j o u r na l ho m e p a g e : h t t p : / / e e s . e l s e v i e r . c o m / p m e d r
+
+Adherence to the Mediterranean diet among employees in South West England:
+Formative research to inform a web-based, work-place nutrition intervention
+Angeliki Papadaki ⁎, Lesley Wood, Simon J. Sebire, Russell Jago
+
+Centre for Exercise, Nutrition and Health Sciences, School for Policy Studies, University of Bristol, Bristol, UK
+
+a r t i c l e
+
+i n f o
+
+a b s t r a c t
+
+Available online 29 March 2015
+
+Objective. The aim of this study is to assess internet usage patterns and adherence to the Mediterranean diet
+
+Keywords:
+Mediterranean diet
+Mediterranean diet score
+Work-place setting
+Dietary behavior
+Dietary adherence
+Internet
+Nutrition intervention
+
+among employees in South West England, UK and their differences by personal characteristics.
+
+Method. A cross-sectional survey was conducted in 2014 among 590 adults (428 women, 162 men, mean age
+43.8 years), employees of four work-place settings. Mediterranean diet adherence was assessed using a validated
+food frequency questionnaire. Adherence differences were assessed by gender, marital status, education, number
+of children and food shopping and preparation responsibility.
+
+Results. On average, participants reported moderate adherence to the Mediterranean diet. Higher adherence
+was reported for alcohol, vegetables, cereals and fruit. Few participants achieved high adherence to the
+Mediterranean diet recommendations for legumes (5.3%), ﬁsh (3.2%), dairy products (4.8%), red meat (11.9%),
+poultry (11.1%) and olive oil (18.2%). A higher Mediterranean diet score was reported among participants who
+were married/cohabiting, those with higher education attainment and shared responsibility for food preparation.
+Conclusion. Improvement in the consumption of several Mediterranean diet components is needed to in-
+crease adherence in this sample of adults. The ﬁndings have the potential to inform the development of a
+web-based intervention that will focus on these foods to promote the Mediterranean diet in work-place settings
+in South West England.
+
+© 2015 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Introduction
+
+The importance of studying and promoting dietary patterns, instead
+of isolated foods or nutrients, in order to increase the likelihood of ac-
+ceptability and compliance with nutrition interventions, has been
+established (Hu, 2002). The Mediterranean diet, rich in olive oil, fruits
+and vegetables, including whole grains, legumes and nuts, low-fat
+dairy, ﬁsh, moderate alcohol consumption and low quantities of red
+meat, has been associated with a reduced risk of chronic disease inci-
+dence and mortality in the general population (Soﬁ et al., 2014). This di-
+etary pattern has been recognised as a model for healthy eating and the
+need to promote it to non-Mediterranean populations has recently been
+recognised (Council of the European Union, 2014; National Institute for
+Health and Care Excellence, 2014). It has been suggested that its
+high palatability makes the Mediterranean diet an attractive diet
+to promote to Western populations (McManus et al., 2001; Willett,
+
+⁎ Corresponding author at: Centre for Exercise, Nutrition and Health Sciences, School for
+Policy Studies, University of Bristol, 8 Priory Road, Bristol BS8 1TZ, UK. Fax: +44 117
+3311148.
+
+E-mail addresses: angeliki.papadaki@bristol.ac.uk (A. Papadaki),
+
+lesley.wood@bristol.ac.uk (L. Wood), simon.sebire@bristol.ac.uk (S.J. Sebire),
+russ.jago@bristol.ac.uk (R. Jago).
+
+2006). Components of this diet could be easily transferable to non-
+Mediterranean populations (Renaud et al., 1995; McManus et al.,
+2001) and therefore represent an opportunity to change dietary
+behaviours.
+
+The need to design nutrition behaviour change interventions based
+on formative research has been emphasised (Kok et al., 2004; National
+Institute for Health and Clinical Excellence, 2007; Craig et al., 2008;
+World Health Organisation, 2009). The conceptualisation and develop-
+ment of such interventions should include the identiﬁcation of the evi-
+dence and theory base, supplemented by a needs assessment phase,
+where health problems in the target population are identiﬁed and be-
+havioural risk factors for these problems are assessed (Kok et al.,
+2004; Craig et al., 2008). Identifying the evidence, as well as the speciﬁc
+needs of the target population is suggested to aid the development and
+delivery of feasible and effective approaches to promote dietary behav-
+iour change (National Institute for Health and Clinical Excellence, 2007;
+Craig et al., 2008).
+
+The internet is widely accessible to the general public and is one of
+the most preferred sources of nutrition information (Horgan and
+Sweeney, 2012). In the ﬁrst quarter of 2014, 87% of adults in the UK
+had used the internet, supporting its potential as a cost-effective inter-
+vention tool with large reach (Ofﬁce for National Statistics, 2014a).
+Work-place settings provide mechanisms to promote dietary behaviour
+
+http://dx.doi.org/10.1016/j.pmedr.2015.03.009
+2211-3355/© 2015 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+224
+
+A. Papadaki et al. / Preventive Medicine Reports 2 (2015) 223–228
+
+change since they offer accessibility to large populations of adults who
+can be surveyed repeatedly (Maes et al., 2011). Several web-based nu-
+trition intervention studies have been conducted in work-place settings
+(Block et al., 2004; Irvine et al., 2004; Oenema et al., 2005; Mills et al.,
+2007; Robroek et al., 2007). The majority of work-place nutrition inter-
+ventions have focussed on promoting changes in a limited number of
+outcomes such as fruit, vegetable and fat consumption (Steyn et al.,
+2009; Mhurchu et al., 2010). To our knowledge, only one small-scale,
+web-based intervention has promoted the Mediterranean diet and
+demonstrated favourable changes in several components of this dietary
+pattern among healthy employees in Scotland (Papadaki and Scott,
+2005a, 2005b, 2008). However, this study was conducted only among
+female employees, thus not allowing the generalizability of the ﬁndings
+to male participants or the exploration of potential gender differences in
+Mediterranean diet adherence. In addition, this earlier work did not
+conduct formative research prior to intervention development, which
+is an essential step for the development of feasible behaviour change in-
+terventions (Kok et al., 2004; Craig et al., 2008).
+
+Although several primary nutrition interventions have attempted to
+promote the Mediterranean diet in Western populations (Goulet et al.,
+2003; Papadaki and Scott, 2005a; Djuric et al., 2009; Leighton et al.,
+2009), no such study has been conducted in England. Thus, to build a
+formative research base, according to current frameworks (Kok et al.,
+2004; Craig et al., 2008), on which to develop a future web-based,
+work-place intervention, this study aimed to assess demographic char-
+acteristics, internet usage patterns and adherence to the Mediterranean
+diet among healthy male and female adult employees in South West
+England. Secondary objectives were to assess potential differences in
+these characteristics between genders, as well as differences in adher-
+ence to the Mediterranean diet according to demographic characteristics.
+
+Methods
+
+Participants
+
+During autumn 2013, 44 large-scale work-place settings (N200 em-
+ployees) in South West England (Bristol, South Gloucestershire and
+Wiltshire areas) were identiﬁed and invited by e-mail to participate in
+the study. Four work-places (one company engaged in business and
+professional services and three local government branches) agreed to
+participate. Data were collected via an online questionnaire. A gatekeep-
+er at each work-place circulated a web link to the online questionnaire
+to their employees via their intranet and/or electronic newsletters. Eli-
+gibility criteria were: (a) being currently employed at the work-place,
+(b) aged 18–65 years, (c) not suffering from a diet-related disease,
+(d) having internet access at work and/or at home and (e) using the in-
+ternet at least 2–3 times/month. Participants were entered into a prize
+draw to receive one of four £20 gift vouchers per work-place. To provide
+recompense for disruption from data collection, each worksite received
+a £50 gift voucher. The study was approved by the School for Policy
+Studies Research Ethics Committee at the University of Bristol. Partici-
+pants provided informed consent after reading participant information
+and before completing the survey.
+
+Online survey
+
+An online survey was used to obtain data about demographic and
+personal characteristics, internet usage patterns and adherence to the
+Mediterranean diet. Participants were asked to report their gender, age,
+marital status (‘single’/‘married’/‘cohabiting’/‘separated’/‘divorced’/
+‘widowed’) (Grundy and Jamieson, 2002), ethnicity (‘Caucasian’/‘Asian
+or Asian British’/‘Chinese’/‘Other Asian background’/‘Black or Black
+British’/‘Other Black background’/‘Mixed-White and Black Caribbean’/
+‘Mixed-White and Black African’/‘Mixed-White and Asian’/‘Other
+mixed background’/‘Other ethnic background’/‘Disclosure of ethnic ori-
+gin declined’) (Ofﬁce for National Statistics, 2012), level of education
+
+(‘postgraduate degree’/‘degree or equivalent’/‘higher education below
+degree level’/‘A levels’/‘high school’/‘no qualiﬁcations’) (Schneider,
+2011), occupation (‘Managerial’/‘Professional’/‘Associate professional/
+technical’/‘Administrative/secretarial’/‘Skilled trades’/‘Personal services’/
+‘Sales/customer services’/‘Process’/‘Elementary’) (Ofﬁce for National
+Statistics, 2014b) and number of children (b18 y) living in their house-
+hold (open response). This part also included questions on participants'
+working pattern (‘full-/part-time status’), food shopping and food prep-
+aration responsibility in their household (‘I am’/‘Family members’/
+‘Shared responsibility’/‘Others’) (Papadaki and Scott, 2005a). Partici-
+pants were also asked to report the frequency with which they access
+the internet at work and at home (‘Several times per day’/‘Once per
+day’/‘Several times per week’/‘Once per week’/‘Once per month or less’/
+‘No internet access’), the reasons for accessing the internet (choose all
+that apply from ‘Sending or receiving email’/‘Work-business-stud-
+ies’/‘Chatting-social media’/‘Online shopping’/‘Online gaming’/‘Online
+banking’/‘Online education-newspapers’/‘Health-related information’/
+‘Entertainment-leisure’/‘Other’) (Ofcom, 2012) and the level of conﬁ-
+dence in their ability to use the internet (‘Extremely conﬁdent’/‘Quite
+conﬁdent’/‘Neutral’/‘Not very conﬁdent’/‘Not at all conﬁdent’).
+
+For ease of interpretation and analysis, categorical variables were
+‘Marital status’ was collapsed into
+collapsed where appropriate.
+‘Married/cohabiting’, ‘Single’ and ‘Separated/divorced/widowed’. ‘Eth-
+nicity’ and ‘Number of children living in household’ were dichotomised
+into ‘Caucasian’ and ‘Other ethnicity’ and ‘None’ and ‘≥1’, respectively.
+
+Adherence to the Mediterranean diet
+
+Adherence to the Mediterranean diet was assessed via an 11-item
+food frequency questionnaire that requested participants to report the
+frequency of consumption of 11 main components of the Mediterranean
+diet (Panagiotakos et al., 2006a). A composite Mediterranean diet score
+was calculated as follows: for the consumption of components com-
+monly consumed in the Mediterranean diet (non-reﬁned cereals, pota-
+toes, fruits and fruit juice, vegetables and salad, legumes and ﬁsh), a
+score of 0 (lowest adherence) to 5 (highest adherence) was assigned
+when a participant reported consumption of 0, 1–4, 5–8, 9–12, 13–18
+and N18 servings/month, respectively. For the consumption of compo-
+nents which are consumed less frequently in the Mediterranean diet
+(red meat and meat products, poultry and whole-fat dairy products), a
+score of 0 to 5 was assigned for reported consumption of the above op-
+tions, using a reverse scale. A score of 0 to 5 was assigned for using olive
+oil (in cooking and meal preparation) ‘never’, ‘rarely’, ‘b1 time/week’,
+‘1–3 times/week’, ‘3–5 times/week’ and ‘daily’, respectively. For alcohol
+(all alcoholic beverages), a score of 5 was assigned for consumption of
+‘b300 ml/day’, a score of 0 for ‘no consumption or consumption of
+N700 ml/day’, and scores of 4 to 1 for consumption of ‘300–400 ml’,
+‘400–500 ml’,
+‘500–600 ml’ and ‘600–700 ml/day’, respectively
+(Panagiotakos et al., 2006a). The resulting total score ranged from
+0 to 55, with calculated tertiles indicating low (score = 0–20), mod-
+erate (score = 21–35) and high (score = 36–55) adherence to the
+Mediterranean diet (Panagiotakos et al., 2004, 2006b). The question-
+naire has been validated based on the relationship between the cal-
+culated total score and individual food component scores and has
+been suggested to offer a valid method for assessing Mediterranean
+diet adherence and providing dietary modiﬁcation advice for primary
+prevention purposes (Panagiotakos et al., 2006a, 2006c), in addition to
+having previously been utilised in Mediterranean diet promotion inter-
+ventions in non-Mediterranean populations (Sexton et al., 2013).
+
+Statistical analyses
+
+Descriptive statistics (M, SD, N and %) were used to explore demo-
+graphic and personal characteristics, internet usage patterns and eating
+habits of participants. Independent samples t-tests and Chi-square tests
+were used (with a P-value adjusted, as necessary, for multiple-paired
+
+A. Papadaki et al. / Preventive Medicine Reports 2 (2015) 223–228
+
+225
+
+A higher percentage of men accessed the internet from work ‘several
+times per day’, compared to women (88.4 vs. 74.1%), and a higher per-
+centage of women reported accessing the internet from work ‘once a
+day’ (12.8 vs. 4.9%), compared to men (P = 0.004). A higher proportion
+of men reported using the internet for general education (68.5 vs.
+48.6%) and entertainment (74.1 vs. 58.2%) purposes (P b 0.0001) and
+a higher proportion of women reported searching for health-related in-
+formation online (49.8 vs. 33.9%, P = 0.001). The vast majority of partic-
+ipants (98.8%) reported feeling extremely or quite conﬁdent in using
+the internet (Table 2).
+
+The mean Mediterranean diet score for the total study sample was
+33.8 (SD 5.4), indicating moderate adherence to the Mediterranean
+diet (Table 3). Higher mean scores (indicating closer adherence to the
+Mediterranean diet) were reported for alcohol, vegetables, cereals and
+fruit, whereas lower mean scores (indicating lower adherence to the
+Mediterranean diet) were achieved for dairy products, ﬁsh, legumes,
+red meat and poultry. Overall, few participants achieved a high adher-
+ence to the Mediterranean diet recommendations for legumes (5.3%),
+ﬁsh (3.2%), dairy products (4.8%), red meat (11.9%), poultry (11.1%)
+and olive oil (18.2%) (Table 4).
+
+The mean Mediterranean diet score differed according to marital
+status. Participants who were married/cohabiting had a slightly higher
+score, compared to those who were single (34.2 vs. 32.2, P = 0.003).
+Participants with level of education at degree level or higher had a
+higher score (34.7 vs. 32.6, P b 0.001) and a higher proportion of them
+had high adherence to the Mediterranean diet (44.6 vs. 30.7%, P =
+0.001), compared to those with lower educational attainment. There
+were no differences in mean Mediterranean diet score or percentage
+of participants adhering to the Mediterranean diet according to number
+of children living in the household or food shopping responsibility, but
+
+tests), as appropriate, to investigate any differences between males and
+females, and to examine Mediterranean diet scores and adherence ac-
+cording to marital status, level of education, number of children and
+household food shopping and preparation responsibility. All analyses
+were performed using Stata version 13 (StataCorp, version 13. College
+Station, TX: StataCorp LP, 2013).
+
+Results
+
+The total number of employees across the four participating work-
+place settings was 16,214. Five hundred and ninety participants com-
+pleted the survey between January and March 2014. The mean age of
+participants was 43.8 years (SD 11.1). The majority of participants
+were married/cohabiting (75.6%), Caucasian (94.2%) and were educated
+to degree level or higher (58.5%). Men were more likely to have higher
+educational levels (68.6 vs. 54.7%, P = 0.032), work more hours per
+week (37.7 vs. 33.6, P b 0.001) and work on a full-time basis (93.2 vs.
+70.0%, P b 0.001), compared to women. Men were also more likely to
+work in managerial positions (25.3 vs. 14.7%), whereas a higher propor-
+tion of women worked in administrative roles (33.6 vs. 16.0%)
+(P b 0.001). A higher percentage of women reported that they were re-
+sponsible for food shopping (60.4 vs. 19.2%) and preparation (52.2 vs.
+19.8%) in their household (P b 0.001) (Table 1).
+
+Table 1
+Demographic and personal characteristics of participants (n and %), South West England,
+UK (2014).
+
+Marital status
+Married/cohabiting
+
+Single
+Separated/divorced/widowed
+
+Ethnic origin
+Caucasian
+Other
+
+Level of education
+
+Postgraduate degree
+Degree or equivalent
+Higher education below degree
+level
+A levels or equivalent
+High school
+No qualiﬁcations
+
+Occupation
+
+Total
+(n = 590)
+
+Females
+(n = 428)
+
+Males
+(n = 162)
+
+P
+
+446 (75.6) 311 (72.7) 135 (83.3)
+20 (12.4)
+94 (15.9)
+50 (8.5)
+7 (4.3)
+
+74 (17.3)
+43 (10.0)
+
+556 (94.2) 404 (94.4) 152 (93.8)
+34 (5.8)
+10 (6.2)
+
+28 (5.6%)
+
+121 (20.5)
+83 (19.4)
+224 (38.0) 151 (35.3)
+139 (23.6) 105 (24.5)
+
+38 (23.5)
+73 (45.1)
+34 (20.9)
+
+62 (10.5)
+41 (6.9)
+3 (0.5)
+
+53 (12.4)
+33 (7.7)
+3 (0.7)
+
+9 (5.6)
+8 (4.9)
+0 (0.0)
+
+Managerial
+Professional occupation
+Associate professional/technical
+Administrative/secretarial
+Skilled trades
+Personal services
+Sales/customer services
+Process occupation
+Elementary occupation
+
+104 (17.6)
+63 (14.7)
+173 (29.3) 126 (29.4)
+103 (17.5)
+64 (15.0)
+170 (28.9) 144 (33.6)
+3 (0.7)
+12 (2.8)
+16 (3.7)
+0 (0.0)
+0 (0.0)
+
+6 (1.0)
+15 (2.5)
+17 (2.9)
+0 (0.0)
+2 (0.3)
+
+41 (25.3)
+47 (29.0)
+39 (24.1)
+26 (16.0)
+3 (1.9)
+3 (1.9)
+1 (0.6)
+0 (0.0)
+2 (1.2)
+
+Work status
+Full-time
+Part-time
+
+Number of children living in
+
+household
+None
+≥1
+
+Food shopping responsibility
+
+I am
+Family members
+Shared
+Others
+
+Food preparation responsibility
+
+I am
+Family members
+Shared
+Others
+
+b0.001
+
+0.11
+
+b0.001
+
+b0.001
+
+448 (76.0) 300 (70.0) 151 (93.2)
+139 (23.6) 128 (30.0)
+11 (6.8)
+
+356 (60.3) 267 (62.4)
+234 (39.7) 161 (37.6)
+
+89 (54.9)
+73 (45.1)
+
+31 (19.2)
+289 (49.1) 258 (60.4)
+49 (8.3)
+25 (15.4)
+24 (5.6)
+251 (42.6) 145 (34.0) 106 (65.4)
+0 (0.0)
+
+0 (0.0)
+
+0 (0.0)
+
+255 (43.3) 223 (52.2)
+60 (10.2)
+29 (6.8)
+274 (46.5) 175 (41.0)
+0 (0.0)
+
+0 (0.0)
+
+32 (19.8)
+31 (19.1)
+99 (61.1)
+0 (0.0)
+
+Differences between genders were examined using the Chi-square test.
+
+0.10
+
+0.94
+
+Table 2
+Internet usage patterns of participants (n and %), South West England, UK (2014).
+
+Total
+(n = 590)
+
+Females
+(n = 428)
+
+Males
+(n = 162)
+
+P
+
+0.032
+
+Frequency of internet access at
+
+work
+
+Several times per day
+
+Once per day
+Several times per week
+Once per week
+Once per month or less
+No internet access at work
+
+b0.001
+
+Frequency of internet access at
+
+home
+Several times per day
+Once per day
+Several times per week
+Once per week
+Once per month or less
+No internet access at home
+
+Reasons for using the interneta
+
+Electronic mail
+Work/business/studies
+Social media
+Online shopping
+Online gaming
+Online banking
+Online education/news
+Search for health-related
+information
+Entertainment/leisure
+
+Extremely conﬁdent
+Quite conﬁdent
+Neutral
+Not very conﬁdent
+Not at all conﬁdent
+
+Conﬁdence in using the internet
+
+0.004
+
+0.19
+
+460 (78.0) 317 (74.1) 143 (88.4)
+8 (4.9)
+63 (10.7)
+8 (4.9)
+37 (6.3)
+1 (0.6)
+15 (2.5)
+9 (1.5)
+0 (0.0)
+2 (1.2)
+6 (1.0)
+
+55 (12.8)
+29 (6.8)
+14 (3.3)
+9 (2.1)
+4 (0.9)
+
+345 (58.5) 245 (57.2) 100 (61.7)
+36 (22.2)
+125 (21.2)
+102 (17.3)
+23 (14.2)
+1 (0.6)
+13 (2.2)
+0 (0.0)
+2 (0.3)
+3 (0.5)
+2 (1.3)
+
+89 (20.8)
+79 (18.5)
+12 (2.8)
+2 (0.5)
+1 (0.2)
+
+573 (97.1) 415 (96.9) 158 (97.5)
+469 (79.5) 332 (77.6) 137 (84.6)
+381 (64.6) 286 (66.8)
+95 (58.6)
+489 (82.9) 358 (83.6) 131 (80.9)
+0 (0.0)
+0 (0.0)
+
+0.71
+0.06
+0.06
+0.42
+1.000
+1.000
+319 (54.1) 208 (48.6) 111 (68.5) b0.0001
+0.001
+268 (45.4) 213 (49.8)
+
+0 (0.0)
+0 (0.0)
+
+0 (0.0)
+0 (0.0)
+
+55 (33.9)
+
+369 (62.5) 249 (58.2) 120 (74.1) b0.0001
+
+0.31
+
+396 (67.1) 280 (65.4) 116 (71.6)
+187 (31.7) 142 (33.2)
+45 (27.8)
+0 (0.0)
+0 (0.0)
+1 (0.6)
+6 (1.4)
+0 (0.0)
+0 (0.0)
+
+0 (0.0)
+7 (1.2)
+0 (0.0)
+
+Differences between genders were examined using the Chi-square test.
+
+a This was corrected for potential non-independence using Bonferroni adjustment
+
+(resulting P b 0.00238).
+
+226
+
+A. Papadaki et al. / Preventive Medicine Reports 2 (2015) 223–228
+
+Table 3
+Mean total Mediterranean diet score and mean scores of the eleven components of the
+Mediterranean diet (mean values and standard deviations), South West England, UK
+(2014).
+
+mean total score was higher among participants who reported shared
+responsibility of food preparation, compared to those who reported
+sole responsibility (34.5 vs. 33.1, P = 0.010) (Table 5).
+
+Total
+(n = 587)
+Mean (SD)
+
+Females
+(n = 426)
+Mean (SD)
+
+Males
+(n = 161)
+Mean (SD)
+
+Pb
+
+Total Mediterranean diet
+
+33.81 (5.42) 33.95 (5.45) 33.45 (5.33)
+
+0.32
+
+scorea
+
+Non-reﬁned cereals score
+Potatoes score
+Fruits score
+Vegetables score
+Legumes score
+Fish score
+Red meat score
+Poultry score
+Whole-fat dairy score
+Olive oil score
+Alcohol score
+
+4.28 (1.22)
+3.28 (1.29)
+4.08 (1.41)
+4.47 (0.93)
+2.02 (1.34)
+1.81 (1.19)
+2.42 (1.47)
+2.21 (1.48)
+1.46 (1.54)
+3.23 (1.38)
+4.56 (1.09)
+
+4.23 (1.27)
+3.27 (1.33)
+4.10 (1.41)
+4.53 (0.89)
+1.94 (1.33)
+1.83 (1.22)
+2.5 (1.51)
+2.23 (1.54)
+1.47 (1.58)
+3.16 (1.40)
+4.67 (0.91)
+
+4.42 (1.06)
+3.30 (1.19)
+4.01 (1.39)
+4.31 (1.01)
+2.22 (1.34)
+1.77 (1.10)
+2.19 (1.33)
+2.17 (1.30)
+1.41 (1.44)
+3.41 (1.32)
+4.22 (1.43) b0.00001
+
+0.09
+0.74
+0.49
+0.014
+0.027
+0.59
+0.026
+0.64
+0.65
+0.050
+
+Differences between genders were examined using the independent samples t-test.
+
+a Range of total Mediterranean diet score = 0–55; range of score for individual compo-
+nents = 0–5 (with a score of 0 indicating lowest adherence and a score of 5 indicating
+highest adherence).
+
+b This was corrected for potential non-independence using Bonferroni adjustment
+
+(resulting P b 0.000758).
+
+Table 4
+Percentage of participants achieving a Mediterranean diet score of 0a and 5b for each com-
+ponent of the Mediterranean diet (n and %), South West England, UK (2014).
+
+Mediterranean diet adherence
+
+Low (score = 0–20)
+Moderate (score = 21–35)
+High (score = 36–55)
+
+Non-reﬁned cereals adherence
+
+Lowest (score = 0)
+Highest (score = 5)
+
+Potatoes adherence
+
+Lowest (score = 0)
+Highest (score = 5)
+
+Fruits adherence
+
+Lowest (score = 0)
+Highest (score = 5)
+Vegetables adherence
+Lowest (score = 0)
+Highest (score = 5)
+
+Legumes adherence
+
+Lowest (score = 0)
+Highest (score = 5)
+
+Fish adherence
+
+Lowest (score = 0)
+Highest (score = 5)
+
+Red meat adherence
+Lowest (score = 0)
+Highest (score = 5)
+
+Poultry adherence
+
+Lowest (score = 0)
+Highest (score = 5)
+
+Whole-fat dairy adherence
+
+Lowest (score = 0)
+Highest (score = 5)
+
+Olive oil adherence
+
+Lowest (score = 0)
+Highest (score = 5)
+
+Alcohol adherence
+
+Lowest (score = 0)
+Highest (score = 5)
+
+Total
+(n = 587)
+
+Females
+(n = 426)
+
+Males
+(n = 161)
+
+3 (0.5)
+356 (60.6)
+228 (38.8)
+
+2 (0.5)
+253 (59.4)
+171 (40.1)
+
+1 (0.6)
+103 (64.0)
+57 (35.4)
+
+5 (0.9)
+399 (68.0)
+
+4 (0.9)
+285 (66.9)
+
+1 (0.6)
+114 (70.8)
+
+6 (1.0)
+131 (22.3)
+
+5 (1.2)
+99 (23.2)
+
+1 (0.6)
+32 (19.9)
+
+7 (1.2)
+372 (63.4)
+
+7 (1.6)
+277 (65.0)
+
+0 (0.0)
+95 (59.0)
+
+1 (0.2)
+405 (69.0)
+
+1 (0.2)
+308 (72.3)
+
+0 (0.0)
+97 (60.2)
+
+68 (11.6)
+31 (5.3)
+
+52 (12.2)
+21 (4.9)
+
+16 (9.9)
+10 (6.2)
+
+63 (10.7)
+19 (3.2)
+
+49 (11.5)
+17 (4.0)
+
+14 (8.7)
+2 (1.2)
+
+55 (9.4)
+70 (11.9)
+
+41 (9.6)
+61 (14.3)
+
+14 (8.7)
+9 (5.6)
+
+69 (11.8)
+65 (11.1)
+
+55 (12.9)
+56 (13.1)
+
+14 (8.7)
+9 (5.6)
+
+235 (40.0)
+28 (4.8)
+
+176 (41.3)
+22 (5.2)
+
+59 (36.6)
+6 (3.7)
+
+28 (4.8)
+107 (18.2)
+
+23 (5.4)
+72 (16.9)
+
+5 (3.1)
+35 (21.7)
+
+19 (3.2)
+469 (79.9)
+
+10 (2.3)
+357 (83.8)
+
+9 (5.6)
+112 (69.6)
+
+Pc
+
+0.57
+
+0.17
+
+0.020
+
+0.34
+
+0.09
+
+0.14
+
+0.22
+
+0.050
+
+0.06
+
+0.41
+
+0.54
+
+b0.001
+
+Differences between genders were examined using the Chi-square test.
+
+a Mediterranean diet score of 0 indicates lowest adherence to the Mediterranean diet.
+b Mediterranean diet score of 5 indicates highest adherence to the Mediterranean diet.
+c This was corrected for potential non-independence using Bonferroni adjustment
+
+(resulting P b 0.000758).
+
+Discussion
+
+This study showed that the majority of participating working adults
+had moderate adherence to the Mediterranean diet and 39% of partici-
+pants had high adherence to the diet. These ﬁndings agree with a previ-
+ous Scottish study, where 36% of participants had a high Mediterranean
+diet score at baseline (Papadaki and Scott, 2005a). The examination of
+individual food components revealed that higher mean scores were
+achieved for vegetables, fruit and non-reﬁned cereals. In addition, the
+majority of participants achieved high adherence scores for these com-
+ponents, which might reﬂect the exposure of UK consumers to national
+campaigns and promotion initiatives for higher consumption of these
+foods in recent years (Levy, 2013).
+
+Although the results suggest overall moderate compliance with the
+Mediterranean diet by the sample population, there were a number of
+elements of the diet that had poor compliance. A very low proportion
+of participants achieved high adherence scores for legumes, ﬁsh and
+dairy products, as well as red meat, poultry and olive oil. There is a
+lack of intervention studies promoting the recommended consumption
+of these foods in free-living individuals in the UK. Legumes, for example,
+are included in the ‘non-dairy sources of protein’ category of the current
+UK dietary guidelines, along with meat, ﬁsh and eggs (Harland et al.,
+2012). The recommendation to eat some foods from this group on a
+daily basis, with no mentioning of the speciﬁc amount of legumes to
+be consumed (Public Health England, 2013), might result in increased
+intake of meat, as suggested by the current ﬁndings. The reported low
+intake of ﬁsh corresponds to the average UK intake (Bates et al.,
+2012), whereas the low adherence to the olive oil recommendation
+might stem from the limited reference to olive oil consumption in the
+UK guidelines (Public Health England, 2013), which is in contrast to
+the Mediterranean diet recommendations (Willett, 2006).
+
+Higher adherence to the Mediterranean diet was observed among
+higher educated participants, compared to those with lower levels of
+education. This is in agreement with earlier literature which has linked
+higher levels of education to healthier diets and adherence to dietary
+recommendations (Darmon and Drewnowski, 2008). It is noteworthy
+that married participants and those who shared food preparation with
+family members had higher Mediterranean diet scores, compared to
+those who were single or had sole responsibility for food preparation,
+respectively, indicating potential family inﬂuences on dietary behav-
+iours. Involving the family has been established as a component of effec-
+tive work-place interventions (World Health Organisation, 2009), since
+potential food-related family interactions could provide support for par-
+ticipants while beneﬁting other family members as well (Ebbeling et al.,
+2002). This suggests that future work-place interventions should en-
+gage participants' families. This could be achieved by developing and
+distributing newsletters and involving family members in study-
+related work-place events (e.g. cooking demonstrations) (World
+Health Organisation, 2009). Such interventions should also explore
+and tackle potential barriers faced by single participants or those with
+sole responsibility for food preparation, in order to improve their adher-
+ence to the Mediterranean diet.
+
+A major strength of this study is that it complies with current frame-
+works of behaviour change intervention development by assessing the
+evidence base and needs of the target population prior to intervention
+design (Kok et al., 2004; National Institute for Health and Clinical
+Excellence, 2007; Craig et al., 2008; World Health Organisation, 2009).
+A limitation is its cross-sectional design and that the use of a self-
+reported food frequency questionnaire to calculate the Mediterranean
+diet score might be subject to recall bias. In addition, our sample
+consisted of a self-selected group of healthy employees with internet
+access. Although this inclusion criterion might exclude employees
+
+A. Papadaki et al. / Preventive Medicine Reports 2 (2015) 223–228
+
+227
+
+Table 5
+Differences in total Mediterranean scorea and percentage of participants achieving a high adherence to the Mediterraneanb diet according to demographic characteristics, South West
+England, UK (2014).
+
+Marital status
+Married/cohabiting
+
+Single
+Separated/divorced/widowed
+
+Level of education
+Degree or higher
+Lower than degree
+
+Number of children living in household
+
+None
+≥1
+
+Food shopping responsibility
+
+I am
+Family members
+Shared
+
+Food preparation responsibility
+
+I am
+Family members
+Shared
+
+Total Mediterranean
+diet score
+Mean (SD)
+
+34.22 (5.34)
+32.18 (5.66)
+33.18 (5.00)
+
+34.70 (0.27)
+32.57 (0.37)
+
+33.70 (5.30)
+33.90 (5.50)
+
+33.50 (5.50)
+33.80 (5.40)
+34.20 (5.30)
+
+33.10 (5.70)
+33.90 (5.30)
+34.50 (5.10)
+
+P
+
+0.003
+
+b0.001
+
+0.782
+
+0.415
+
+0.011
+
+Differences were examined using the Chi-square test.
+a Range of total Mediterranean diet score = 0–55.
+b High adherence to the Mediterranean diet was deﬁned as having a total Mediterranean diet score of 36–55.
+
+Participants achieving high adherence
+to the Mediterranean diet
+n and %
+
+183 (41.1)
+27 (29.4)
+18 (36.0)
+
+153 (44.6)
+75 (30.7)
+
+155 (40.4)
+73 (35.9)
+
+107 (37.3)
+19 (38.8)
+102 (40.8)
+
+89 (34.9)
+19 (32.2)
+120 (44.1)
+
+P
+
+0.211
+
+0.001
+
+0.578
+
+0.812
+
+0.155
+
+with no internet access from participating, we believe that this would
+not limit the inclusivity of our study, since all of the participating
+work-places used electronic newsletters for information delivery to
+their employees, thus indicating wide internet access among all em-
+ployees. Although the majority (58%) of participants were highly
+educated, our sample covered a relatively wide range of educational
+levels and occupations, therefore indicating the range of employees
+who might be willing to participate in work-place health promotion
+programmes. It was beyond the scope of the current study to assess
+physical activity. However, objective measures of physical activity
+should be collected in a future work-place nutrition intervention, as
+this variable might potentially confound the impact of the intervention.
+Although the response rate to the online survey was low (3.6%), we can-
+not ensure that all employees in each work-place accessed or read the
+study recruitment advertisements, which might have increased partici-
+pation rates. Nevertheless, this hinders the ability to generalize our ﬁnd-
+ings to the whole target population of adult employees in South West
+England.
+
+Results suggest that future interventions promoting the Mediterranean
+diet in the UK might be best focussed on the promotion of legumes,
+ﬁsh and olive oil, replacing whole-fat dairy products with lower-fat
+versions and decreasing intake of red meat and poultry. This may
+be best targeted in a step-wise approach to change these compo-
+nents, in order to encourage gradual dietary behaviour changes,
+which are more likely to lead to long-term maintenance (Fletcher
+and Rogers, 1985). In addition, it has been suggested that there is
+often a considerable gap between awareness of dietary recommen-
+dations and actual behaviour when it comes to meeting these
+(Spronk et al., 2014). As this might result from people not being
+aware of their unhealthy dietary behaviours (Oenema et al., 2001),
+future web-based interventions should provide comprehensive in-
+formation on the recommended intakes of the Mediterranean diet
+components, as well as the beneﬁts of adhering to those, and incor-
+porate dietary assessment tools to monitor achievement of goals to-
+wards increasing individual component adherence and adherence to
+the Mediterranean diet as a whole. Provision of tailored feedback
+following dietary assessment, including a comparison of personal
+dietary intake with targets, has been shown to improve awareness
+of personal dietary intake, thus facilitating behaviour change
+(Oenema et al., 2005). Future web-based interventions should also
+supplement tailored feedback with theory-based advice to account
+
+for psychosocial and environmental determinants of dietary behav-
+iour, such as addressing barriers and improving self-efﬁcacy to in-
+crease Mediterranean diet adherence, which has been suggested to
+motivate people to change their eating behaviour (Brug, 1999).
+
+Conclusion
+
+Improvement in the consumption of several components of the
+Mediterranean diet is needed to increase adherence to this dietary pat-
+tern in this sample of adult employees. Findings from the current forma-
+tive research can be used to inform the development of web-based
+interventions to promote the Mediterranean diet in work-place settings
+in South West England.
+
+Conﬂict of interest statement
+
+The authors declare that there are no conﬂicts of interest.
+
+Acknowledgments
+
+The study was supported by the 13/14 Strategic Research Initiatives
+
+Scheme, Faculty of Social Sciences and Law, University of Bristol.
+
+A.P. designed and conducted the study; L.W. performed the statisti-
+cal analyses; A.P., S.S. and R.J. wrote the paper. A.P. had primary respon-
+sibility for ﬁnal content. All authors read and approved the ﬁnal
+manuscript.
+
+References
+
+Bates, B., Lennox, A., Prentice, A., Bates, C., Swan, G., 2012. National Diet and Nutrition
+Survey: Headline Results from Years 1, 2 and 3 (combined) of the Rolling Programme
+2008/09 – 2010/11. Available: https://www.gov.uk/government/uploads/system/
+uploads/attachment_data/ﬁle/207708/NDNS-Y3-report_All-TEXT-docs-combined.
+pdf (Accessed: 6th July 2014).
+
+Block, G., Block, T., Wakimoto, P., Block, C., 2004. Demonstration of an e-mailed worksite
+
+nutrition intervention program. Prev. Chronic Dis. 1, A06.
+
+Brug, J., 1999. Dutch research into the development and impact of computer tailored nu-
+
+trition education. Eur. J. Clin. Nutr. 53, 78–82.
+
+Council of the European Union, 2014. Council conclusions on nutrition and physical activ-
+ity. Available:, http://www.consilium.europa.eu/uedocs/cms_data/docs/pressdata/
+en/lsa/143285.pdf (Accessed: 22nd November 2014).
+
+Craig, P., Dieppe, P., Macintyre, S., Michie, S., Nazareth, I., Petticrew, M., 2008. Developing
+and evaluating complex interventions: the new Medical Research Council guidance.
+BMJ 337, a1655.
+
+228
+
+A. Papadaki et al. / Preventive Medicine Reports 2 (2015) 223–228
+
+Darmon, N., Drewnowski, A., 2008. Does social class predict diet quality? Am. J. Clin. Nutr.
+
+87, 1107–1117.
+
+Djuric, Z., Ren, J., Blythe, J., van Loon, G., Sen, A., 2009. A Mediterranean dietary interven-
+tion in healthy American women changes plasma carotenoids and fatty acids in dis-
+tinct clusters. Nutr. Res. 29, 156–163.
+
+Ebbeling, C., Pawlak, D., Ludwig, D., 2002. Childhood obesity: public-health crisis, com-
+
+mon sense cure. Lancet 360, 473–482.
+
+Fletcher, D.J., Rogers, D.A., 1985. Diet and coronary heart disease: helping patients reduce
+
+serum cholesterol level. Postgrad. Med. 77, 319–328.
+
+Goulet, J., Lamarche, B., Nadeau, G., Lemieux, S., 2003. Effect of a nutritional intervention
+promoting the Mediterranean food pattern on plasma lipids, lipoproteins and body
+weight in healthy French–Canadian women. Atherosclerosis 170, 115–124.
+
+Grundy, S., Jamieson, L., 2002. UK sociodemographic proﬁle of 18–24 year olds.
+
+Workpackage No 4, Socio Demographic Proﬁle Scotland and England, UK.
+
+Harland, J., Buttriss, J., Gibson, S., 2012. Achieving eatwell plate recommendations: is this a
+route to improving both sustainability and healthy eating? Nutr. Bull. 37, 324–343.
+Health England, Public, 2013. Your guide to the eatwell plate: helping you eat a
+healthy diet. Available: https://www.gov.uk/government/uploads/system/uploads/
+attachment_data/ﬁle/237282/Eatwell_plate_booklet.pdf (Accessed: 22nd November
+2014).
+
+Horgan, A., Sweeney, J., 2012. University students' online habits and their use of the Inter-
+
+net for health information. Comput. Inform. Nurs. 30, 402–408.
+
+Hu, F., 2002. Dietary pattern analysis: a new direction in nutritional epidemiology. Curr.
+
+Ofcom, 2012. Adults media use and attitudes report. Available at http://stakeholders.
+ofcom.org.uk/binaries/research/media-literacy/media-use-attitudes/adults-media-
+use-2012.pdf (Accessed: 16th June 2014).
+
+Ofﬁce for National Statistics, 2012. Ethnicity and national identity in England and Wales
+2011. Available: http://www.ons.gov.uk/ons/dcp171776_290558.pdf (Accessed:
+16th June 2014).
+
+Ofﬁce for National Statistics, 2014a. Internet Access Quarterly Update. Available: http://
+www.ons.gov.uk/ons/rel/rdit2/internet-access-quarterly-update/q1-2014/index.
+html (Accessed: 16th June 2014).
+
+Ofﬁce for National Statistics, 2014b. ONS Standard Occupational Classiﬁcation (SOC) hier-
+archy. Available: http://www.neighbourhood.statistics.gov.uk/HTMLDocs/dev3/ONS_
+SOC_hierarchy_view.html (Accessed: 16th June 2014).
+
+Panagiotakos, D., Pitsavos, C., Polychronopoulos, E., Chrysohoou, C., Zampelas, A.,
+Trichopoulou, A., 2004. Can a Mediterranean diet moderate the development and
+clinical progression of coronary heart disease? A systematic review. Med. Sci.
+Monit. 10, 193–198.
+
+Panagiotakos, D., Miliasa, G., Pitsavos, C., Stefanadis, C., 2006a. MedDietScore: a computer
+program that evaluates the adherence to the Mediterranean dietary pattern and its
+relation to cardiovascular disease risk. Comput. Methods Prog. Biomed. 83, 73–77.
+
+Panagiotakos, D.B., Chrysohoou, C., Pitsavos, C., Stefanadis, C., 2006b. Association between
+the prevalence of obesity and adherence to the Mediterranean diet: the ATTICA
+study. Nutrition 22, 449–456.
+
+Panagiotakos, D.B., Pitsavos, C., Stefanadis, C., 2006c. Dietary patterns: a Mediterranean
+diet score and its relation to clinical and biological markers of cardiovascular disease
+risk. Nutr. Metab. Cardiovasc. Dis. 16, 559–568.
+
+Papadaki, A., Scott, J., 2005a. The Mediterranean Eating in Scotland Experience (MESE)
+project: evaluation of an Internet-based intervention promoting the Mediterranean
+diet. Br. J. Nutr. 94, 290–298.
+
+Papadaki, A., Scott, J.A., 2005b. Process evaluation of an innovative healthy eating website
+
+promoting the Mediterranean diet. Health Educ. Res. 21, 206–218.
+
+Papadaki, A., Scott, J., 2008. Follow-up of a web-based tailored intervention promoting the
+
+Mediterranean diet in Scotland. Patient Educ. Couns. 73, 256–263.
+
+Renaud, S., de Lorgeril, M., Delaye, J., Guidollet, J., Jacquard, F., Mamelle, N., Martin, J.L.,
+Monjaud, I., Salen, P., Toubol, P., 1995. Cretan Mediterranean diet for prevention of
+coronary heart disease. Am. J. Clin. Nutr. 61, 1360S–1367S.
+
+Robroek, S., Bredt, F., Burdorf, A., 2007. The (cost-)effectiveness of an individually tailored
+long-term worksite health promotion programme on physical activity and nutrition:
+design of a pragmatic cluster randomised controlled trial. BMC Public Health 7, 259.
+Schneider, S., 2011. Measuring educational attainment. Survey Question Bank: Topic
+
+Overview 6.
+
+Sexton, P., Black, P., Metcalf, P., Wall, C.R., Ley, S., Wu, L., Sommerville, F., Brodie, S., Kolbe,
+J., 2013. Inﬂuence of Mediterranean diet on asthma symptoms, lung function, and
+systemic inﬂammation: a randomized controlled trial. J. Asthma 50, 75–81.
+
+Soﬁ, F., Macchi, C., Abbate, R., Gensini, G., Casini, A., 2014. Mediterranean diet and health
+status: an updated meta-analysis and a proposal for a literature-based adherence
+score. Public Health Nutr. 17, 2769–2782.
+
+Spronk, I., Kullen, C., Burdon, C., O'Connor, H., 2014. Relationship between nutrition
+
+knowledge and dietary intake. Br. J. Nutr. 111, 1713–1726.
+
+Steyn, N., Parker, W., Lambert, E., Mchiza, Z., 2009. Nutrition interventions in the work-
+
+place: evidence of best practice. S. Afr. J. Clin. Nutr. 22, 111–117.
+
+Willett, W., 2006. The Mediterranean diet: science and practice. Public Health Nutr. 9,
+
+105–110.
+
+World Health Organisation, 2009. Interventions on diet and physical activity: what
+
+works: summary report. WHO, Geneva.
+
+Opin. Lipidol. 13, 3–9.
+
+Irvine, A., Ary, D., Grove, D., Gilﬁllan-Morton, L., 2004. The effectiveness of an interactive
+
+multimedia program to inﬂuence eating habits. Health Educ. Res. 19, 290–305.
+
+Kok, G., Schaalma, H., Ruiter, R., van Empelen, P., Brug, J., 2004. Intervention mapping: a
+protocol for applying health psychology theory to prevention programmes.
+J. Health Psychol. 9.
+
+Leighton, F., Polic, G., Strobel, P., Pérez, D., Martínez, C., Vásquez, L., Castillo, O., Villarroel,
+L., Echeverría, G., Urquiaga, I., Mezzano, D., Rozowski, J., 2009. Health impact of
+Mediterranean diets in food at work. Public Health Nutr. 12, 1635–1643.
+
+Levy, L., 2013. Dietary strategies, policy and cardiovascular disease risk reduction in
+
+England. Proc. Nutr. Soc. 72, 386–389.
+
+Maes, L., Van Cauwenberghe, E., Van Lippevelde, W., Spittaels, H., De Pauw, E., Oppert, J.,
+Van Lenthe, F., Brug, J., De Bourdeaudhuij, I., 2011. Effectiveness of workplace inter-
+ventions in Europe promoting healthy eating: a systematic review. Eur. J. Pub. Health
+22, 677–682.
+
+McManus, K., Antinoro, L., Sacks, F., 2001. A randomized controlled trial of a moderate-fat,
+low-energy diet compared with a low fat, low-energy diet for weight loss in over-
+weight adults. Int. J. Obes. 25, 1503–1511.
+
+Mhurchu, C., Aston, L., Jebb, S., 2010. Effects of worksite health promotion interventions
+
+on employee diets: a systematic review. BMC Public Health 10, 62.
+
+Mills, P., Kessler, R., Cooper, J., Sullivan, S., 2007. Impact of a health promotion program on
+
+employee health risks and work productivity. Am. J. Health Promot. 22, 45–53.
+
+National Institute for Health and Care Excellence, 2014. Maintaining a healthy weight and
+preventing excess weight gain among children and adults: draft guideline. Available
+at: http://www.nice.org.uk/guidance/gid-phg78/resources/maintaining-a-healthy-
+weight-and-preventing-excess-weight-gain-among-children-and-adults-draft-
+guideline2 (Accessed: 24th October 2014).
+
+National Institute for Health Clinical Excellence, 2007. Behaviour change at population,
+
+community and individual levels. NICE Public Health Guidance. NICE, London.
+
+Oenema, A., Brug, J., Lechner, L., 2001. Web-based tailored nutrition education: results of a
+
+randomized trial. Health Educ. Res. 16, 647–660.
+
+Oenema, A., Tan, F., Brug, J., 2005. Short-term efﬁcacy of a web-based computer-tailored
+
+nutrition intervention: main effects and mediators. Ann. Behav. Med. 29, 54–63.
+
+

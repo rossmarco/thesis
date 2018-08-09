@@ -1,0 +1,763 @@
+d i a b e t e s r e s e a r c h a n d c l i n i c a l p r a c t i c e 8 9 ( 2 0 1 0 ) 9 7 – 1 0 2
+
+C o n t e n t s l i s t s a v a i l a b l e a t S c i e n c e D i r e c t
+
+Diabetes Research
+and Clinical Practice
+
+journ al h omepage: www .elsevier.co m/lo cate/diabres
+
+Review
+
+Prevention and control of type 2 diabetes by Mediterranean
+diet: A systematic review
+
+Katherine Esposito a, Maria Ida Maiorino a, Antonio Ceriello b, Dario Giugliano a,*
+a Department of Geriatrics and Metabolic Diseases, Second University of Naples, Naples, Italy
+b IDIBAPS, Barcelona (A.C.), Spain
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 15 February 2010
+Received in revised form
+21 April 2010
+Accepted 26 April 2010
+Published on line 23 May 2010
+
+Keywords:
+Mediterranean diet
+Type 2 diabetes
+Prevention
+Glycaemic control
+Cardiovascular risk
+
+Contents
+
+We conducted a systematic review of the available studies that assessed the effect of a
+Mediterranean diet in type 2 diabetes. We searched publications up to 30 November 2009.
+Seventeen studies were included. Two large prospective studies report a substantially lower
+risk (83% and 35%, respectively) of type 2 diabetes in healthy people or in post-infarct
+patients with the highest adherence to a Mediterranean diet. Five randomized controlled
+trials have evaluated the effects of a Mediterranean diet, as compared with other commonly
+used diets, on indices of glycaemic control in subjects with type 2 diabetes. Improvement of
+fasting glucose and HbA1c levels was greater with a Mediterranean diet and ranged from 7 to
+40 mg/dl for fasting glucose, and from 0.1 to 0.6% for HbA1c. No trial reported worsening of
+glycaemic control with a Mediterranean diet. Two controlled trials in a secondary preven-
+tion setting demonstrated that post-infarct patients, including diabetic patients, had car-
+diovascular beneﬁts from a Mediterranean diet. The evidence so far accumulated suggests
+that adopting a Mediterranean diet may help prevent type 2 diabetes, and also improve
+glycaemic control and cardiovascular risk in persons with established diabetes.
+
+# 2010 Elsevier Ireland Ltd. All rights reserved.
+
+3.
+
+1.
+Introduction. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2. Methods . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Evidence acquisition . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.1.
+Study selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.2.
+Results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.1. Diabetes prevention. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.2. Glycaemic control of diabetes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Glucose and HbA1c levels (Fig. 1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.2.1.
+3.2.2.
+Insulin sensitivity (Fig. 1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Cardiovascular risk . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4. Conclusions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+3.3.
+
+98
+98
+98
+98
+98
+98
+99
+99
+100
+100
+100
+101
+
+* Corresponding author at: Second University of Naples, 80138 Naples, Italy. Tel.: +39 081 5665054; fax: +39 081 5665054.
+
+E-mail address: dario.giugliano@unina2.it (D. Giugliano).
+
+0168-8227/$ – see front matter # 2010 Elsevier Ireland Ltd. All rights reserved.
+doi:10.1016/j.diabres.2010.04.019
+
+98
+
+d i a b e t e s r e s e a r c h a n d c l i n i c a l p r a c t i c e 8 9 ( 2 0 1 0 ) 9 7 – 1 0 2
+
+1.
+
+Introduction
+
+The term ‘Mediterranean diet’ essentially refers to a primarily
+plant-based diet whose greater consumption has been
+associated with higher survival for lower all cause mortality
+[1,2]. The Mediterranean diet was ﬁrst described in the 1960s
+by Ancel Keys, based on his observation of food habits of some
+populations in the Mediterranean region [3]: the traditional
+dietary patterns typical of Crete, much of the rest of Greece,
+and southern Italy in the early 1960s were considered to be
+largely responsible for the good health observed in these
+regions. There is no single Mediterranean diet, as 20 countries
+have a coastline in the Mediterranean basin; moreover, social,
+political, religious, and economic differences introduce varia-
+tions to the Mediterranean diet both between and within these
+countries. Despite this, a high consumption of foods of
+vegetable origin, such as fruits, vegetables, legumes, nuts,
+cereals and whole-grains; olive oil as the principal source of
+fat; ﬁsh and poultry consumed in low-to-moderate amounts;
+relatively low consumption of red meat; and moderate
+consumption of wine, normally with meals, could be consid-
+ered important characteristics of this dietary pattern [4].
+
+Adherence to the Mediterranean diet is normally assessed
+with a score, such as that created by Trichopoulou et al. [1] which
+is extensively used because it is simple and has variants created
+to evaluate multiple diet-health relations. For those compo-
+nents supposed to be protective, such ratio of monounsaturated
+to saturated fat fatty acid,
+legumes, whole grains, fruits,
+vegetables, or ﬁsh, participants receive one point if their intake
+is over the sample median; moreover, participants receive one
+point if the intake of components supposed to be detrimental
+(dairy products or meat) is below the median. For alcohol one
+point is scored if consumption is 10–50 g/day for men or 5–25 g/
+day for women. If participants meet all the characteristics of the
+Mediterranean diet, their score is the highest (9 points),
+reﬂecting maximum adherence. If they meet none of the
+characteristics the score is minimum, reﬂecting no adherence at
+all. The score developed by Panagiotakos et al. [5] is based on
+daily consumption of non-reﬁned cereals and products (whole
+grain bread, pasta, brown rice, etc.), fruits (4–6 servings/day),
+vegetables (2–3 servings/day), olive oil (as the main added lipid)
+and non-fat or low-fat dairy products (1–2 servings /day); weekly
+consumption: of ﬁsh, poultry, potatoes, olives, pulses, and nuts
+(4–6 servings/week), and eggs and sweets (1–3 servings/week);
+and monthly consumption: of red meat and meat products (4–5
+servings/month). Thus, the reported monthly frequency con-
+sumption of these food groups allowed to calculate a diet score
+that assessed adherence to the Mediterranean diet (range 0–55).
+The aim of this study was to do a systematic review of all
+the available studies that have assessed the effect of a
+Mediterranean diet in human diabetes, including diabetes
+prevention, and metabolic and cardiovascular outcomes.
+
+2.
+
+Methods
+
+2.1.
+
+Evidence acquisition
+
+We searched PubMed, Embase, and the Cochrane Central
+Register of Controlled Trials databases up to 30 November
+
+‘‘prevention’’,
+
+‘‘dietary pattern’’,
+
+2009, using a search strategy that included both truncated free
+text and exploded MeSH terms. MeSH headings included
+‘‘Mediterranean’’, ‘‘diet’’, ‘‘diabetes’’, ‘‘type 2 diabetes’’, ‘‘type
+1 diabetes’’,
+‘‘glycemic
+control’’, ‘‘HbA1c’’, ‘‘insulin resistance’’, ‘‘insulin sensitivity’’,
+‘‘HOMA’’, ‘‘cardiovascular disease’’, ‘‘coronary heart disease’’,
+‘‘prospective’’, ‘‘follow-up’’, or ‘‘cohort’’, and their variants.
+The search strategy had no language restrictions. We also
+consulted references from the extracted articles and reviews
+to complete the data bank. We assessed the relevance of
+studies by using a hierarchical approach based on title,
+abstract, and the full manuscript.
+
+2.2.
+
+Study selection
+
+We identiﬁed studies that evaluated the association of an a
+priori score used for assessing adherence to a Mediterranean
+diet and incidence of diabetes. We excluded the studies if they
+had a case–control design, if they analyzed adherence to a
+non-speciﬁc dietary pattern or to a recommended dietary
+guideline and not to a Mediterranean diet. We also identiﬁed
+cross-sectional or prospective studies, and controlled clinical
+trials that evaluated the effects of a Mediterranean diet on
+indices of glycaemic control, including HbA1c, and insulin
+sensitivity (HOMA), as well as cardiovascular outcomes in
+diabetic patients. We excluded studies with less than 15
+patients or with a follow-up less than 3 months.
+
+Two investigators (DG, KE) collected the data, and
+disagreements were solved by consensus and by the opinion
+of a third author (AC), if necessary. We assessed the quality of
+the studies according to the number of participants, the
+duration of follow-up, and adjustment for potential confoun-
+ders. We considered studies with a high number of partici-
+pants,
+for
+confounders including demographic, anthropometric, and
+traditional risk factors to be of high quality.
+
+follow-up, and adjustment
+
+long duration of
+
+3.
+
+Results
+
+Our initial search yielded 62 reports, of which we excluded 24
+on the basis of the title or abstract. Of the remaining 38
+articles, we excluded 21 for the following reasons: a non-
+speciﬁc dietary pattern, instead of a Mediterranean diet, was
+evaluated (n = 7); a case control design was used (n = 1); the
+study population was not diabetic (n = 5); the study population
+consisted of less than 15 subjects (n = 4), including the only
+study we found in type 1 diabetic subjects; the follow-up was
+less than 3 months (n = 1); duplicate publications (n = 3).
+Seventeen studies [6–22] were included.
+
+3.1.
+
+Diabetes prevention
+
+The link between Mediterranean diet and the risk of develop-
+ing type 2 diabetes has been explored in one cross-sectional [6]
+study and two prospective studies [7,8]. A cross-sectional
+study of 1514 men and 1528 women from Greece found a 21%
+lower odds of diabetes for a 10-unit
+increase in the
+Mediterranean diet score [6]. In 13,380 Spanish university
+graduates without diabetes at baseline followed up for a
+
+d i a b e t e s r e s e a r c h a n d c l i n i c a l p r a c t i c e 8 9 ( 2 0 1 0 ) 9 7 – 1 0 2
+
+99
+
+median of 4.4 years, participants who adhered closely to a
+Mediterranean diet had a 83% lower risk of diabetes (OR: 0.17,
+95% CI 0.04–0.72) compared with those with the lowest
+adherence score [7]. The Mediterranean score included
+legumes, grains, fruits and nuts, vegetables, ﬁsh, meat and
+meat products, alcohol, milk and dairy products, ratio of
+monounsaturated to saturated fat. In the large postinfart GISSI
+PREVENZIONE trial including 8291 Italian patients with a
+recent myocardial infarction followed up for 3.5 years [8], a
+Mediterranean diet protected against new diabetes (OR: 0.65,
+95% CI 0.49–0.85, highest quintile vs lowest quintile of
+adherence). The Mediterranean score was based on consump-
+tion of cooked and raw vegetables, fruit, ﬁsh, and olive oil.
+
+3.2.
+
+Glycaemic control of diabetes
+
+3.2.1. Glucose and HbA1c levels (Fig. 1)
+In the cross-sectional analysis of a population of 901 out-
+patients with type 2 diabetic patients attending diabetes
+clinics located in South Italy [9], adherence to a Mediterra-
+nean-type diet was inversely associated with post-prandial
+glucose levels measured at home in a free living condition,
+independent of variations in age, adiposity, energy intake,
+physical activity, and other potential confounders: 2-h post-
+meal glucose levels were signiﬁcantly lower in diabetic
+patients with high adherence to a Mediterranean-type diet
+than those with low adherence (difference: 2-h glucose,
+2.2 mmol/L, 95% CI 0.8–2.9 mmol/L, P < 0.001). Moreover, mean
+HbA1c concentration was signiﬁcantly lower in diabetic
+patients with high adherence to a Mediterranean-type diet
+than those with low adherence (difference: HbA1c, 0.9%, 95%
+CI 0.5–1.2%, P < 0.001).
+
+Five randomized controlled trials [10–14] have evaluated
+the effects of Mediterranean diet, as compared with other
+commonly used diets, on indices of glycaemic control in
+subjects with type 2 diabetes. Toobert et al. [10] randomized
+postmenopausal women with type 2 diabetes (n = 279) to
+either usual care (control) or comprehensive lifestyle self-
+management program (MLP) that also included a Mediterra-
+nean low-saturated fat diet. For the MLP women, HbA1c
+decreased from a baseline level of 7.43–7.07% (P = 0.001) at 6
+months, whereas that of the control subjects remained at 7.4%
+during the same period. However, the relative role of the
+Mediterranean diet in the context of the program that also
+included stress management training, exercise, group sup-
+port, and smoking cessation, is unclear. Estruch et al. [11]
+evaluated the short term effects of two Mediterranean diets
+(supplemented with either 1 l/week of virgin olive oil or 30 g/
+day of tree nuts), and a low-fat diet in 772 high risk persons,
+including 421 (54.5%) diabetic patients: after 3 months, the
+Mediterranean diet groups had lower fasting glucose ( 7 mg/
+dl, 95% CI  13 to  1.3 mg/dl) than the low-fat diet group. There
+was no separate analysis for the diabetic patients; however, no
+difference in outcome for subgroups analysis was found. In a
+2-year trial, Shai et al. [12] compared 3 weight-loss diets in 322
+moderately obese subjects, including 46 diabetic patients:
+among the participants with diabetes, there was a signiﬁcant
+decrease in fasting glucose concentration ( 32.8 mg/dl) in the
+Mediterranean diet group and an increase (12.1 mg/dl) in the
+low-fat diet group. There was no change in fasting glucose
+
+Fig. 1 – Controlled clinical trials assessing the effect of
+Mediterranean diet on indices of glycaemic control and
+insulin sensitivity in type 2 diabetic patients. The circles
+represent the net effect of the dietary interventions
+(Mediterranean diet minus comparative diet). Where not
+indicated, 95% CI were not provided: in this case, a value of
+significance is given. The HOMA index was: insulin (U/
+ml) T fasting glucose (mmol/liter)/22.5.
+
+levels in the non-diabetic participants in any of the three diet
+groups. Moreover, there was no difference in HbA1c decrease
+between the groups assigned to the Mediterranean diet as
+compared with the low-fat diet ( 0.5  1.1 vs  0.4  1.3%,
+P = 0.45). Esposito et al. [13] evaluated the metabolic effects of a
+Mediterranean diet and a low fat diet in 215 patients with
+newly diagnosed type 2 diabetes: at year 1, fasting glucose
+decreased more in the Mediterranean diet group than in low-
+fat diet group (difference:  21 mg/dl, 95% CI:  30 to  13 mg/dl,
+P = 0.01); moreover, HbA1c levels were lower in the Mediterra-
+nean diet group than the low fat diet group (difference:  0.6%,
+95% CI  0.9 to  0.3%).
+In a comparative study of low-
+carbohydrate Mediterranean diet vs the American Diabetes
+Association diet in 116 type 2 diabetic patients on stable
+antihyperglycaemic drug therapy, Elhayany et al. [14] found a
+non-signiﬁcant decrease in fasting glucose ( 20 mg/dL,
+P = 0.08), and a signiﬁcantly greater reduction in HbA1c level
+
+100
+
+d i a b e t e s r e s e a r c h a n d c l i n i c a l p r a c t i c e 8 9 ( 2 0 1 0 ) 9 7 – 1 0 2
+
+( 2% vs  1.6%, respectively, P = 0.02) in those allocated to the
+Mediterranean diet.
+
+Insulin sensitivity (Fig. 1)
+
+3.2.2.
+One cross-sectional study evaluated the association between
+insulin sensitivity and a Mediterranean diet [15]. In a Greek
+adult population, an inverse association has been found
+between adherence to a Mediterranean diet and indices of
+glucose homeostasis, the higher the adhesion, the lower the
+insulin resistance, as assessed by HOMA (homeostasis model
+assessment). This association, however, was only evident in
+non-diabetic people.
+
+Three clinical controlled trials [12–14], carried out in people
+with type 2 diabetes, with follow-up ranging from 3 months to
+2 years, have evaluated insulin sensitivity (HOMA index) with
+a Mediterranean diet, as compared with control diets, for the
+most low-fat diets. In the study of Shai et al. [12], among the
+participants with diabetes, the decrease in HOMA-IR at 24
+months was signiﬁcantly greater in those assigned to the
+Mediterranean diet than in those assigned to the low-fat diet.
+In the 215 patients with newly diagnosed type 2 diabetes
+studied by Esposito et al. [13], the HOMA index was lower in the
+Mediterranean diet group at year 1 than the low fat diet group
+(difference between diets:  1.0, 95% CI  1.6 to  0.5). By
+contrast, Elhayany et al. [14] found no difference in HOMA
+index at 12 months by comparing a low-carbohydrate
+Mediterranean diet vs the ADA diet in 116 type 2 diabetic
+patients on stable antihyperglycaemic drug therapy.
+
+3.3.
+
+Cardiovascular risk
+
+There are 2 controlled trials [13,14] that speciﬁcally evaluated
+the effects of Mediterranean diet on cardiovascular risk factors
+in type 2 diabetic patients. These trials reported that diabetic
+people allocated to a Mediterranean diet presented, as
+compared with diabetic subjects receiving a control diet,
+more marked improvement of traditional cardiovascular risk
+factors, including systolic blood pressure, triglycerides, ratio of
+total to HDL-cholesterol, and HDL-cholesterol. A post hoc
+analysis [16] of a quasi-randomised (allocation by alternation),
+controlled trial, in type 2 diabetic patients (n = 259) allocated to
+an ADA diet, a low glycemic index diet, or a modiﬁed
+Mediterranean diet found that at 12 months mean alanine
+aminotransferase levels were lowest in the Mediterranean
+arm, leading the authors to suggest that a Mediterranean diet
+may have a beneﬁcial effect on liver steatosis in type 2
+diabetes.
+
+A short-term interventional trial [17] compared the effects
+of two different Mediterranean diets on immune cell activa-
+tion and soluble inﬂammatory markers in 112 older subjects
+with type 2 diabetes (60%) or with 3 or more cardiovascular risk
+factors. After 3 months, monocyte expression of adhesion
+molecules, and circulating concentrations of interleukin-6 and
+soluble intercellular adhesion molecule-1 decreased after both
+Mediterranean diets, but not after the low fat diet. By contrast,
+a 1-year randomized trial in 101 patients with coronary heart
+disease, including a small percentage (6–9%) of type 2 diabetic
+patients, was unable to ﬁnd any effect of Mediterranean diet,
+as compared with control diet, on markers of inﬂammation,
+including C-reactive protein and ﬁbrinogen [18].
+
+One cross-sectional study [19] evaluated the association
+between adherence to Mediterranean diet and the risk of
+peripheral artery disease (PAD) in 944 Italian patients with
+type 2 diabetes. In multivariate analysis, a higher Mediterra-
+nean diet score was independently associated with a signiﬁ-
+cant reduction in PAD risk (odds ratio = 0.44; 95% CI 0.24–0.83).
+We found no prospective or controlled clinical trials that
+speciﬁcally assessed the role of a Mediterranean diet in
+reducing cardiovascular events and mortality in diabetes.
+There are, however, three randomized trials [20–22] that
+included diabetic patients. Singh et al. [20] tested an ‘‘Indo-
+Mediterranean diet’’ in 1000 patients in India with existing
+coronary disease or at high risk for coronary disease, including
+190 people with diabetes in the intervention arm. As compared
+with the control diet, the intervention diet – characterized by
+increased intake of mustard or soybean oil, nuts, vegetables,
+fruits, and whole grains – reduced the rate of fatal myocardial
+infarction by one third and the rate of sudden death from
+cardiac causes by two thirds. A total of 11,323 men and
+women, including 1700 diabetic subjects, with myocardial
+infarction from 172 centers in Italy were included in the GISSI-
+Prevenzione clinical trial [21]. All patients received advice to
+increase their consumption of Mediterranean foods, including
+ﬁsh, fruit, raw and cooked vegetables and olive oil. Compared
+with people in the worst dietary score quarter, the odds ratio of
+mortality for those in the best score quarter was 0.51 (95% CI
+0.44–0.59). In a small controlled trial [22] of 2-y follow-up in
+survivors of a ﬁrst myocardial infarction (20% had diabetes),
+both a Mediterranean (n = 51) and low-fat (n = 50) diet were
+equally better than a control diet in reducing (78% reduction)
+the composite primary end-point. However, the Mediterra-
+nean-style diet was only distinguished by greater omega-3 fat
+intake.
+
+Because an ‘‘expression of concern’’ [23] has been issued
+about the study of Singh et al. [20], this paper is usually not
+considered in support
+to the Mediterranean diet-heart
+hypothesis.
+
+4.
+
+Conclusions
+
+This review shows that greater adherence to a Mediterranean
+diet is signiﬁcantly associated with a reduced risk of type 2
+diabetes in the general population and in patients with pre-
+existing myocardial infarction. Randomized controlled trials
+demonstrate that type 2 diabetic patients allocated to a
+Mediterranean diet have, as compared with diabetic patients
+following a control diet, better glycaemic control (lower fasting
+glucose and HbA1c levels), associated with reduced insulin
+resistance (lower HOMA). In secondary prevention of cardio-
+vascular disease, there is evidence that Mediterranean diet
+may increase survival also in diabetic patients.
+
+A particular feature of the Mediterranean diet is the
+abundant use of virgin olive oil for cooking, frying, spreading
+on bread, or dressing salads. This leads to a high ratio of
+monounsaturated fatty acids (MUFA) to saturated fatty acids.
+A recent review [24] of published studies on dietary fat and
+diabetes suggests that replacing saturated fats and trans fatty
+acids with unsaturated (polyunsaturated and/or monounsat-
+urated) fats has beneﬁcial effects on insulin sensitivity and is
+
+d i a b e t e s r e s e a r c h a n d c l i n i c a l p r a c t i c e 8 9 ( 2 0 1 0 ) 9 7 – 1 0 2
+
+101
+
+likely to reduce risk of type 2 diabetes. One recent long-term
+clinical study [25] in overweight type 2 diabetic patients,
+however, was unable to ﬁnd difference on glycaemic control
+(fasting glucose, HbA1c and HOMA index) between a high
+MUFA diet (46% of total energy as carbohydrate and 38% as fat)
+as compared with a high-carbohydrate diet (54% of total
+energy as carbohydrate and 28% as fat).
+
+Adiponectin is an adipose tissue-secreted, metabolically
+active cytokine that is inversely associated with obesity and
+central adiposity and that has been shown to improve insulin
+sensitivity and to have anti-inﬂammatory properties. In the
+Nurses’ Health Study median plasma adiponectin concentra-
+tions were 23% higher in diabetic women who most closely
+followed a Mediterranean-type diet than in low adherers after
+adjustment for age and energy intake [26]. Higher adiponectin
+levels are consistently associated with a lower risk of type 2
+diabetes in 13 prospective studies of diverse populations, with
+a relative risk of 0.72 (95% CI 0.67–0.78) per 1   log mg/mL
+increment in adiponectin levels [27]. This may be in line with
+the available literature showing that a combination of dietary
+factors, such as,
+in the Mediterranean diet, may retard
+inﬂammation, possibly by nutrient-nutrient synergy [28–30].
+A recent meta-analysis [31] comprising more than 1.5
+million healthy subjects followed for a time ranging from 3 to
+18 years and 40,000 fatal and non-fatal events, shows that
+greater adherence to Mediterranean diet is signiﬁcantly
+associated with a reduced risk of both overall and cardiovas-
+cular mortality. We were unable to ﬁnd such prospective
+studies in type 2 diabetic patients; however, the results of 2
+interventional studies comprising a signiﬁcant proportion of
+type 2 diabetic patients demonstrated that people allocated to
+a Mediterranean diet after a recent myocardial infarction may
+have a better survival and reduced cardiovascular events.
+
+Certain limitations of our review warrant consideration.
+The few controlled trials speciﬁcally designed to evaluate the
+metabolic and cardiovascular outcomes of Mediterranean diet
+in type 2 diabetes remain a major limitation. Adherence to a
+Mediterranean diet is usually based on a score which always
+involves some level of arbitrary decision in the type and
+number of foods to be included and assignment of points to
+different levels of intake. Moreover, an analysis of this type
+cannot provide universally applicable results, because diet
+varies across populations and also between sections of the
+same population. In general, dietary pattern scores, such as
+the Mediterranean diet score, tend to generate fairly consis-
+tent results with respect to health beneﬁts, whereas studies
+focusing on the component foods or food groups are often
+contradictory [32]. Most clinical studies of Mediterranean diet
+focused on surrogate markers for early risk assessment which
+may be misleading. On the other hand, there are at least 2
+outcome-based trials that demonstrated beneﬁts in terms of
+reduction of cardiovascular and total mortality in patients
+with recent myocardial infarction, including more than 1700
+patients with type 2 diabetes, assigned to a Mediterranean-
+style diet [21,22]. A recent systematic search of MEDLINE for
+prospective cohort studies or randomized trials investigating
+dietary exposures in relation to coronary heart disease
+concludes that among the dietary exposures with strong
+evidence of causation, only a Mediterranean dietary pattern is
+related to coronary heart disease in randomized trials [33].
+
+In conclusion, current evidence is insufﬁcient to assess in
+full the healthy beneﬁts of Mediterranean diet in subjects with
+type 2 diabetes. However, the evidence so far accumulated
+suggests that adopting a Mediterranean diet may help prevent
+type 2 diabetes in the population and also improve glycaemic
+control and cardiovascular risk in persons with established
+diabetes.
+
+Conﬂict of interest
+
+There are no conﬂicts of interest.
+
+r e f e r e n c e s
+
+[1] A. Trichopoulou, T. Costacou, C. Bamia, D. Trichopoulos,
+
+Adherence to a Mediterranean diet and survival in a Greek
+population, N. Engl. J. Med. 348 (2003) 2599–2608.
+
+[2] K.T. Knoops, L.C. de Groot, D. Kromhout, A.E. Perrin, O.
+Moreiras-Varela, A. Menotti, et al., Mediterranean diet,
+lifestyle factors, and 10-year mortality in elderly European
+men and women: the HALE project, JAMA 292 (2004) 1433–
+1439.
+
+[3] A. Keys, Mediterranean diet and public health: personal
+reﬂections, Am. J. Clin. Nutr. 61 (6 Suppl.) (1995) 1321S–
+1323S.
+
+[4] W.C. Willett, F. Sacks, A. Trichopoulou, G. Drescher, A.
+
+Ferro-Luzzi, E. Helsing, et al., Mediterranean diet pyramid: a
+cultural model for healthy eating, Am. J. Clin. Nutr. 61 (6
+Suppl) (1995) 1402S–1406S.
+
+[5] D.B. Panagiotakos, C. Pitsavos, C. Chrysohoou, C.
+
+Stefanadis, The epidemiology of Type 2 diabetes mellitus in
+Greek adults: the ATTICA study, Diabetic Med. 22 (2005)
+1581–1588.
+
+[6] C. Pitsavos, D.B. Panagiotakos, C. Chrysohoou, C.
+
+Stefanadis, Epidemiology of cardiovascular risk factors in
+Greece: aims, design and baseline characteristics of the
+ATTICA study, BMC Public Health 3 (2003) 32.
+
+[7] M.A. Martinez-Gonzalez, C. de la Fuente-Arrillaga, J.M.
+
+Nunez-Cordoba, F.J. Basterra-Gortari, J.J. Beunza, Z.
+Vazquez, et al., Adherence to Mediterranean diet and risk
+of developing diabetes: a prospective cohort study, BMJ 336
+(2008) 1348–1351.
+
+[8] D. Mozaffarian, R.M. Marﬁsi, G. Levantesi, M.G. Silletta, L.
+
+Tavazzi, G. Tognoni, et al., Incidence of new-onset diabetes
+and impaired fasting glucose in patients with recent
+myocardial infarction and the effect of clinical and lifestyle
+risk factors, Lancet 370 (2007) 667–675.
+
+[9] K. Esposito, M.I. Maiorino, C. Di Palo, D. Giugliano, for the
+
+Campanian Post-Prandial Hyperglycemia Study Group,
+Adherence to a Mediterranean diet and glycaemic control
+in type 2 diabetes mellitus, Diabetic Med. 26 (2009) 900–907.
+[10] D.J. Toobert, R.E. Glasgow, L.A. Strycker, M. Barrera Jr., J.L.
+
+Radcliffe, R.C. Wander, et al., Biologic and quality-of-life
+outcomes from the Mediterranean Lifestyle Program: a
+randomized clinical trial, Diabetes Care 26 (2003) 2288–
+2293.
+
+[11] R. Estruch, M.A. Martinez-Gonzales, D. Corella, J. Salas-
+Salvado´ , V. Ruiz-Gutie´ rrez, M.I. Covas, et al., Effects of a
+Mediterranean style diet on cardiovascular risk factors: a
+randomized trial, Ann. Intern. Med. 145 (2006) 1–11.
+[12] I. Shai, D. Schwarzfuchs, Y. Henkin, D.R. Shahar, S.
+Witkow, I. Greenberg, et al., Weight-loss with a low-
+carbohydrate. Mediterranean, or low-fat diet, N. Engl. J.
+Med. 359 (2008) 229–241.
+
+102
+
+d i a b e t e s r e s e a r c h a n d c l i n i c a l p r a c t i c e 8 9 ( 2 0 1 0 ) 9 7 – 1 0 2
+
+[13] K. Esposito, M.I. Maiorino, M. Ciotola, C. Di Palo, P.
+
+Scognamiglio, M. Gicchino, et al., Effects of a
+Mediterranean-style diet on the need for
+antihyperglycemic drug therapy in patients with newly
+diagnosed type 2 diabetes. A randomized trial, Ann. Intern.
+Med. 151 (2009) 306–314.
+
+[14] A. Elhayany, A. Lustman, R. Abel, J. Attal-Singer, S. Vinker,
+
+A low carbohydrate Mediterranean diet improves
+cardiovascular risk factors and diabetes control among
+overweight patients with type 2 diabetes mellitus. A one-
+year prospective randomized intervention study. Diabetes
+Obes. Metab., doi: 10.1111/j.1463-1326.2009.01151.x.
+
+GISSI Prevenzione trial, Eur. J. Clin. Nutr. 57 (2003)
+604–611.
+
+[22] K.R. Tuttle, L.A. Shuler, D.P. Packard, J.E. Milton, K.B.
+
+Daratha, D.M. Bibus, et al., Comparison of low-fat versus
+Mediterranean-style dietary intervention after ﬁrst
+myocardial infarction (from the Heart Institute on Spokane
+Diet Intervention and Evaluation Trail), Am. J. Cardiol. 101
+(2008) 1523–1530.
+
+[23] R. Horton, Expression of concern: Indo-Mediterranean Diet
+
+Heart Study, Lancet 366 (2005) 354–356.
+
+[24] U. Rise´rus, W.C. Willett, F.B. Hu, Dietary fats and prevention
+
+of type 2 diabetes, Prog. Lipid Res. 48 (2009) 44–51.
+
+[15] D.B. Panagiotakos, N. Tzima, C. Pitsavos, C. Chrysohoou, A.
+
+[25] B.J. Brehm, B.L. Lattin, S.S. Summer, J.A. Boback, G.M.
+
+Zampelas, D. Toussoulis, et al., The association between
+adherence to the Mediterranean diet and fasting indices of
+glucose homeostasis: the ATTICA Study, J. Am. Coll. Nutr.
+26 (2007) 32–38.
+
+Gilchrist, R.J. Jandacek, et al., One-year comparison of a
+high-monounsaturated fat diet with a high-carbohydrate
+diet in type 2 diabetes, Diabetes Care 32 (2009) 215–220.
+
+[26] C.S. Mantzoros, C.J. Williams, J.E. Manson, J.B. Meigs, F.B.
+
+[16] A. Fraser, R. Abel, D.A. Lawlor, D. Fraser, A. Elhayany, A
+
+modiﬁed Mediterranean diet is associated with the greatest
+reduction in alanine aminotransferase levels in obese type
+2 diabetes patients: results of a quasi-randomised
+controlled trial, Diabetologia 51 (2008) 1616–1622.
+
+[17] M.P. Mena, E. Sacanella, M. Vazquez-Agell, M. Morales, M.
+Fito´ , R. Escoda, et al., Inhibition of circulating immune cell
+activation: a molecular antiinﬂammatory effect of the
+Mediterranean diet, Am. J. Clin. Nutr. 89 (2009) 248–256.
+
+[18] A. Michalsen, N. Lehamann, C. Pithan, N.T. Knoblauch, S.
+Moebus, F. Kannenberg, et al., Mediterranean diet has no
+effect on markers of inﬂammation and metabolic risk
+factors in patients with coronary artery disease, Eur. J. Clin.
+Nutr. 60 (2007) 478–485.
+
+[19] E. Ciccarone, A. Di Castelnuovo, M. Salcuni, A. Siani, A.
+Giacco, M.B. Donati, et al., A high-score Mediterranean
+dietary pattern is associated with a reduced risk of
+peripheral arterial disease in Italian patients with Type 2
+diabetes, J. Thromb. Haemost. 1 (2003) 1744–1752.
+
+Hu, Adherence to the Mediterranean dietary pattern is
+positively associated with plasma adiponectin
+concentrations in diabetic women, Am. J. Clin. Nutr. 84
+(2006) 328–335.
+
+[27] S. Li, J.J. Shin, E.L. Ding, R.M. van Dam, Adiponectin levels
+and risk of type 2 diabetes. A systematic review and meta-
+analysis, JAMA 302 (2009) 179–188.
+
+[28] J. Dai, A.H. Miller, J.D. Bremner, J. Goldberg, L. Jones, L.
+
+Shallenberger, et al., Adherence to the Mediterranean diet
+is inversely associated with circulating interleukin-6
+among middle-aged men: a twin study, Circulation 117
+(2008) 169–175.
+
+[29] K. Esposito, D. Giugliano, Diet and inﬂammation: a link to
+
+metabolic and cardiovascular diseases, Eur. Heart J. 27
+(2006) 15–20.
+
+[30] C. Herder, M. Peltonen, W. Koenig, K. Su¨ tfels, J. Lindstro¨ m,
+
+S. Martin, et al., Anti-inﬂammatory effect of lifestyle
+changes in the Finnish Diabetes Prevention Study,
+Diabetologia 52 (2009) 433–442.
+
+[20] R.B. Singh, G. Dubnov, M.A. Niaz, S. Ghosh, R. Singh, S.S.
+
+[31] F. Soﬁ, F. Cesari, R. Abbate, G.F. Gensini, A. Casini,
+
+Rastogi, et al., Effect of an Indo-Mediterranean diet on
+progression of coronary artery disease in high risk patients
+(Indo-Mediterranean Diet Heart Study): a randomised
+single-blind trial, Lancet 360 (2002) 1455–1461.
+
+Adherence to Mediterranean diet and health status: meta-
+analysis, BMJ 337 (2008) a1344.
+
+[32] F.B. Hu, Dietary pattern analysis: a new direction in
+
+nutritional epidemiology, Curr. Opin. Lipidol. 13 (2002) 3–9.
+
+[21] F. Barzi, M. Woodward, R.M. Marﬁsi, L. Tavazzi, F.
+
+[33] A. Mente, L. de Koning, H.S. Shannon, S.S. Anand, A
+
+Valagussa, R. Marchioli, on behalf of GISSI-Prevenzione
+Investigators, Mediterranean diet and all-causes mortality
+after myocardial infarction: results from the
+
+systematic review of the evidence supporting a causal link
+between dietary factors and coronary heart disease, Arch.
+Intern. Med. 169 (2009) 659–669.
+
+

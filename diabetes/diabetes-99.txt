@@ -1,0 +1,365 @@
+L A N D M A R K   S T U D I E S
+
+The Effect of Fruit and Vegetable Intake on  
+
+the Incidence of Diabetes 
+
+Reviewed by Crystal Wiley Cene, MD, MPH, and Michael Pignone, MD, MPH
+
+STUDY
+Carter P, Gray LJ, Troughton J, 
+Khunti K, Davies MJ: Fruit and 
+vegetable intake and incidence of  
+type 2 diabetes mellitus: systematic 
+review and meta-analysis. BMJ 
+341:c422, 2010
+
+SUMMARY
+Design. Systematic review and 
+meta-analysis.
+
+Subjects. Six prospective cohort 
+
+studies with 223,412 total par-
+ticipants were performed; only two 
+studies included men. The mean age 
+of participants ranged from 30 to 
+74 years. Study length ranged from 
+4.6 to 23 years (median length was 
+13.4 years). All studies included an 
+individual measure of fruits, vegeta-
+bles, or combined fruit and vegetable 
+intake. Three provided information 
+on fruit and vegetable intake sepa-
+rately and combined; two provided 
+information on fruit and vegetable 
+intake separately only; and one study 
+provided only combined data. Four 
+studies also included separate data on 
+the intake of green leafy vegetables. 
+Methods. Investigators calculated 
+summary hazard ratios (HRs) and 
+95% confidence intervals (CIs) for 
+incidence of type 2 diabetes for 
+the highest versus lowest quintiles 
+of intake of fruit and/or vegetable 
+consumption. HRs or relative risks 
+from each study were pooled to give 
+a summary estimate of risk using a 
+random effects model. Investigators 
+assessed for heterogeneity among 
+studies’ estimated effects using the 
+
+I2 statistic. Two reviewers indepen-
+dently assessed all potentially relevant 
+studies for inclusion and assessed 
+the methodological quality of each 
+included study. 
+
+Results. The number of incident 
+type 2 diabetes cases ranged from 
+383 to 4,529 across the six studies. 
+The meta-analysis of highest versus 
+lowest quintiles of intake of fruit and 
+vegetables did not identify statisti-
+cally significant reductions in risk of 
+type 2 diabetes incidence for con-
+sumption of fruit, vegetables, or fruit 
+and vegetables combined. The pooled 
+HRs were 0.93 (95% CI 0.83–1.01) 
+for fruit only, 0.91 (0.76–1.09) for 
+vegetables only, and 1.00 (0.92–1.09) 
+for fruit and vegetables combined. 
+However, summary estimates showed 
+that consuming 1.35 servings a day of 
+green leafy vegetables (highest intake) 
+compared with 0.2 servings (lowest 
+intake) resulted in a 14% reduction in 
+risk (P = 0.01) of type 2 diabetes 
+(HR 0.86 [95% CI 0.77–0.96]).
+
+Because of significant hetero-
+
+geneity observed between studies, 
+investigators did several sensitivity 
+analyses to try to explain whether 
+methodological differences between 
+the studies (i.e., study location, 
+participant sex, classification of food 
+groups, method of dietary assess-
+ment, and categorization of dietary 
+intake) might account for the results. 
+However, none of the factors exam-
+ined accounted for the observed 
+differences in study findings.
+
+Conclusion. Overall, fruit and/or 
+vegetable intake was not associated 
+
+with a clearly reduced risk of incident 
+type 2 diabetes. However, increasing 
+consumption of green leafy vegeta-
+bles of about one serving per day was 
+associated with a statistically signifi-
+cant 14% reduction in the risk of type 
+2 diabetes. 
+
+COMMENTARY
+This systematic review and meta-
+analysis of prospective cohort studies 
+examined whether intake of fruits and 
+vegetables reduced the risk of type 2 
+diabetes. Although the meta-analysis 
+did not show clear reductions in the 
+risk of incident type 2 diabetes for 
+consumption of fruits, vegetables, or 
+fruits and vegetables combined, there 
+was a statistically significant risk 
+reduction for consumption of green 
+leafy vegetables.
+
+In interpreting these results, it 
+is important to note certain cave-
+ats. First, only six studies met the 
+inclusion criteria for this systematic 
+review and only two of the stud-
+ies included men in their samples. 
+It is particularly noteworthy that 
+none of the three studies that found 
+a statistically significant inverse 
+association between green leafy veg-
+etables and incident type 2 diabetes 
+included men. Second, there was 
+inconsistency in which vegetables 
+were considered to be green leafy 
+vegetables, ranging from spinach 
+and lettuce to Chinese greens. Third, 
+given that the included studies used 
+nonrandomized designs, it is possi-
+ble that unmeasured or inadequately 
+measured variables that are associ-
+
+CLINICAL DIABETES • Volume 29, Number 3, 2011 
+
+113
+
+L A N D M A R K   S T U D I E S
+
+ated with both the amount of fruit 
+and/or vegetable intake and incident 
+type 2 diabetes (e.g., race/ethnicity, 
+socioeconomic status, educational 
+level, and physical activity level) 
+might have influenced the results. 
+Fourth, only three of the six studies 
+adjusted for age, BMI, and fam-
+ily history of type 2 diabetes—all 
+known risk factors for incident type 
+2 diabetes . Finally, only two of the 
+six studies used appropriate inclu-
+sion and exclusion criteria, and two 
+studies did not use a validated tool 
+to assess fruit and vegetable intake. 
+
+Beginning in 1985, the U.S. 
+
+Department of Agriculture (USDA) 
+Dietary Guidelines for Healthy 
+Americans recommended consum-
+ing at least two servings of fruit and 
+three servings of vegetables daily.1 
+Despite these recommendations, 
+national initiatives, and increased 
+media attention to the importance 
+of consuming a healthy diet con-
+sisting of a variety of fruits and 
+vegetables, the overwhelming major-
+ity of Americans fail to meet USDA 
+dietary guidelines for fruit and 
+vegetable consumption,2 and there 
+was no change between the periods 
+1988–1994 and 1999–2002.2
+
+The 2005 dietary guidelines for 
+Americans recommended consum-
+ing 2 cups of fruit and 2.5 cups of 
+vegetables per day for a reference 
+2,000-calorie intake, with higher 
+or lower amounts depending on the 
+calorie level.3 Furthermore, they 
+suggested selecting from all five 
+vegetable subgroups (dark green, 
+orange, legumes, starchy vegetables, 
+and other vegetables) several times a 
+week.
+
+Unlike the 2005 dietary guide-
+lines, the 2010 guidelines did not 
+recommend precise quantities of 
+fruits and vegetables that should be 
+consumed; instead, they state that 
+Americans should “increase intake 
+of fruit and vegetables,” specifi-
+cally by allowing half of one’s plate 
+
+to consist of fruits and vegetables. 
+Evidence from the systematic review 
+that informed the 2010 guidelines3 is 
+limited and inconsistent but sug-
+gests an inverse relationship between 
+total fruit and vegetable intake and 
+the development of type 2 diabetes. 
+Three of the five articles included 
+in that systematic review were the 
+same as those included in the cur-
+rent systematic review. Therefore, it 
+appears that, although the findings 
+are essentially the same, the stated 
+conclusions are slightly different and 
+nuanced. 
+
+Findings from the current sys-
+tematic review and meta-analysis 
+do not support a strong association 
+between intake of fruit, vegetables, 
+or combined fruit and vegetables 
+and reduced type 2 diabetes risk. 
+This finding is consistent with that of 
+a previous systematic review on the 
+topic4 as well as the evidence from 
+systematic reviews conducted by the 
+USDA and the U.S. Department 
+of Health and Human Services.3 
+However, the current systematic 
+review suggests that increased intake 
+of green leafy vegetables may lower 
+type 2 diabetes risk.
+
+This finding needs to be con-
+
+firmed and further explicated (e.g., 
+which specific vegetables constitute 
+green leafy vegetables) in future 
+research studies so that this infor-
+mation can be incorporated into 
+national recommendations, if appro-
+priate. If it is confirmed, additional 
+work will be required to implement 
+the more specific recommendation 
+to increase green, leafy vegetables. 
+The current, less specific recom-
+mendations may be more effective in 
+increasing fruit consumption, which 
+may not be as beneficial in terms of 
+reduction in the risk of diabetes and 
+other adverse health outcomes. 
+
+The lack of strong evidence that 
+increased fruit and vegetable intake 
+reduces the risk of type 2 diabetes 
+highlights the need to encourage a 
+
+multi-modal approach for diabetes 
+prevention, such as that used in the 
+Diabetes Prevention Program (DPP). 
+The DPP was a multicenter, random-
+ized clinical trial that compared 
+intensive lifestyle modification, 
+standard care plus metformin, 
+and standard care plus placebo to 
+prevent or delay the development of 
+type 2 diabetes in high-risk individu-
+als.5 The lifestyle intervention, which 
+was delivered in 16 individual ses-
+sions during 24 weeks by a trained 
+lifestyle coach, focused on improving 
+diet, increasing physical activity, and 
+overcoming barriers. Fifty percent of 
+participants met the 7% weight loss 
+goal, and 74% met the 150-minute-
+per-week physical activity goal at the 
+end of the 24-week core curriculum.6
+The DPP decreased the incidence 
+
+of diabetes by 58% in the intensive 
+lifestyle intervention arm, compared 
+to a 31% reduction in the metformin 
+arm after a mean 2.8 years of follow-
+up.6 This study highlighted the 
+superiority of lifestyle modification 
+for reducing diabetes risk. Although 
+the public health community should 
+continue to encourage greater fruit 
+and vegetable (particularly green, 
+leafy vegetable) consumption as a 
+component of a healthy diet, more 
+research is needed to definitively 
+articulate its potential benefit on 
+diabetes prevention. 
+
+REFERENCES
+
+1Center for Nutrition Policy and 
+
+Promotion: Dietary guidelines for Americans 
+[article online]. Available from http://www.
+cnpp.usda.gov/DietaryGuidelines.htm. 
+Accessed 15 April 2011
+
+2Casagrande SS, Wang Y, Anderson 
+C, Gary TL: Have Americans increased 
+their fruit and vegetable intake? The trends 
+between 1988 and 2002. Am J Prev Med 
+32:257–263, 2007
+
+3USDA Evidence Analysis Library: In 
+
+adults, what is the relationship between 
+the intake of vegetables and fruits, not 
+including juice and type 2 diabetes? 
+[article online] Available from http://www.
+nutritionevidencelibrary.com/evidence.
+
+114
+
+Volume 29, Number 3, 2011 • CLINICAL DIABETES
+
+L A N D M A R K   S T U D I E S
+
+cfm?evidence_summary_id=250368. 
+Accessed 15 April 2011
+
+4Hamer M, Chida Y: Intake of fruit, 
+
+vegetables, and antioxidants and risk of type 
+2 diabetes: systematic review and meta-analy-
+sis. J Hypertens 25:2361–2369, 2007
+
+5DPP Research Group: Design and 
+
+methods for a clinical trial in the prevention 
+of type 2 diabetes. Diabetes Care 22:623–634, 
+1999
+
+6Knowler WC, Barrett-Connor E, Fowler 
+
+SE, Hamman RF, Lachin JM, Walker EA, 
+Nathan DM: Reduction in the incidence of 
+type 2 diabetes with lifestyle intervention or 
+metformin. N Engl J Med 346:393–403, 2002
+
+Crystal Wiley Cene, MD, MPH, is an 
+assistant professor of medicine, and 
+
+Michael Pignone, MD, MPH, is a pro-
+fessor of medicine in the Department 
+of Medicine at the University of North 
+Carolina School of Medicine in Chapel 
+Hill. Dr. Pignone is also an associate 
+editor of Clinical Diabetes. 
+
+CLINICAL DIABETES • Volume 29, Number 3, 2011 
+
+115
+
+

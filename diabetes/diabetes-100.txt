@@ -1,0 +1,1355 @@
+Potato and french fry consumption and risk of type 2 diabetes in
+women1–3
+
+Thomas L Halton, Walter C Willett, Simin Liu, JoAnn E Manson, Meir J Stampfer, and Frank B Hu
+
+ABSTRACT
+Background: Potatoes, a high glycemic form of carbohydrate, are
+hypothesized to increase insulin resistance and risk of type 2 diabe-
+tes.
+Objective: The objective was to examine prospectively the relation
+between potato consumption and the risk of type 2 diabetes.
+Design: We conducted a prospective study of 84 555 women in the
+Nurses’ Health Study. At baseline, the women were aged 34 –59 y,
+had no history of chronic disease, and completed a validated food-
+frequency questionnaire. The participants were followed for 20 y
+with repeated assessment of diet.
+Results: We documented 4496 new cases of type 2 diabetes. Potato
+and french fry consumption were both positively associated with risk
+of type 2 diabetes after adjustment for age and dietary and nondietary
+factors. The multivariate relative risk (RR) in a comparison between
+the highest and the lowest quintile of potato intake was 1.14 (95% CI:
+1.02, 1.26; P for trend ҃ 0.009). The multivariate RR in a compar-
+ison between the highest and the lowest quintile of french fry intake
+was 1.21 (95% CI: 1.09, 1.33; P for trend 쏝 0.0001). The RR of type
+2 diabetes was 1.18 (95% CI: 1.03, 1.35) for 1 daily serving of
+potatoes and 1.16 (95% CI: 1.05, 1.29) for 2 weekly servings of
+french fries. The RR of type 2 diabetes for substituting 1 serving
+potatoes/d for 1 serving whole grains/d was 1.30 (95% CI: 1.08,
+1.57). The association between potato consumption and risk of type
+2 diabetes was more pronounced in obese women.
+Conclusions: Our findings suggest a modest positive association
+between the consumption of potatoes and the risk of type 2 diabetes
+in women. This association was more pronounced when potatoes
+were substituted for whole grains.
+Am J Clin Nutr 2006;83:
+284 –90.
+
+KEY WORDS
+load, glycemic index, Nurses’ Health Study, women
+
+Potato, french fry, type 2 diabetes, glycemic
+
+INTRODUCTION
+
+The role of potatoes in a diet aimed at reducing the burden of
+chronic disease has been controversial. In both the 1992 US
+Department of Agriculture (USDA) Food Guide Pyramid (1) and
+the 2005 revision (2), potatoes were included in the vegetable
+category as a food to be encouraged. Potatoes were also empha-
+sized as a healthful food by a variety of professional and medical
+organizations, including the American Dietetic Association and
+the American Heart Association (3, 4). However, in a review by
+the World Cancer Research Fund (5), potatoes did not share the
+beneficial relation with cancer incidence seen with other vege-
+tables. Concerns were also raised about possible adverse effects
+
+of high potato consumption on the risk of type 2 diabetes because
+they contain large amounts of rapidly absorbed starch and thus
+are important contributors to dietary glycemic index (GI) and
+load.
+
+The GI of a carbohydrate is a measure of how much that food
+raises blood glucose compared with a standard carbohydrate,
+usually glucose or white bread (6). Potatoes and potato products
+are widely consumed in the United States, with a per capita
+consumption of 61.2 kg (135 pounds) in 2002 (7). White potatoes
+have both a high GI and a high glycemic load, which takes into
+account the amount of carbohydrate in addition to its GI (8).
+Several studies have shown a positive association between a high
+glycemic diet and the risk of type 2 diabetes (9 –11), whereas
+others with less comprehensive dietary data have not observed
+this association (12, 13). In the present study, we examined
+prospectively the association between the consumption of potato
+products and the incidence of type 2 diabetes in women from the
+Nurses’ Health Study. Because a person’s response to a given
+carbohydrate load may be influenced by underlying insulin re-
+sistance, which is common in those with higher body mass in-
+dexes (BMIs; in kg/m2) and lower levels of physical activity (14,
+15), we examined the association between potato products and
+the risk of type 2 diabetes by stratifying on these factors. We also
+compared consumption of potatoes with whole grains, which are
+related to a lower risk of type 2 diabetes and are encouraged by
+the 2005 Dietary Guidelines, and to refined starches, which are
+limited by the new guidelines.
+
+SUBJECTS AND METHODS
+
+Study population
+
+The Nurses’ Health Study was initiated in 1976 when 121 700
+female registered nurses aged 30 –55 y completed a mailed ques-
+tionnaire. Ninety-eight percent of these women were white,
+
+1 From the Departments of Nutrition (TLH, MJS, WCW, and FBH) and
+Epidemiology (JEM, MJS, SL, WCW, and FBH), Harvard School of Public
+Health; the Channing Laboratory (JEM, MJS, WCW, and FBH); and the
+Division of Preventive Medicine (JEM and SL), Department of Medicine,
+Harvard Medical School and Brigham and Women’s Hospital, Boston, MA.
+2 Supported by grants from the National Institutes of Health (CA87969 and
+
+DK58845).
+
+3 Address reprint requests to TL Halton, Department of Nutrition, Harvard
+School of Public Health, 665 Huntington Avenue, Boston, MA 02215. E-
+mail: thalton@hsph.harvard.edu.
+
+Received July 13, 2005.
+Accepted for publication October 28, 2005.
+
+284
+
+Am J Clin Nutr 2006;83:284 –90. Printed in USA. © 2006 American Society for Nutrition
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/83/2/284/4649933
+by Sheridan College user
+on 08 August 2018
+
+POTATO INTAKE AND DIABETES RISK
+
+285
+
+which reflected the ethnic composition of US registered nurses at
+the time. Since 1976, information on disease status as well as
+lifestyle factors has been collected every 2 y. Diet was assessed
+by means of a semiquantitative food-frequency questionnaire
+(FFQ) in 1980, 1984, 1986, 1990, 1994, and 1998.
+
+For this investigation, we excluded all women at baseline who
+left 욷10 food items blank or had implausibly high (쏜3500 kcal)
+or low (쏝500 kcal) energy intakes on the semiquantitative FFQ.
+We also excluded women with a history of diabetes, cancer (not
+including nonmelanoma skin cancer), or cardiovascular disease
+at baseline because these diseases can cause alterations in diets.
+After these exclusions, 84 555 women remained in this investi-
+gation. The participants were followed for 20 y (1980 –2000).
+The study was conducted according to the ethical guidelines of
+Brigham and Women’s Hospital, Boston, MA.
+
+Dietary assessment
+
+At baseline, the semiquantitative FFQ contained 61 food items
+and was revised in subsequent cycles to include about twice that
+number (16, 17). The study participants reported the average
+frequency of consumption of foods with a commonly used por-
+tion size throughout the previous year. The validity and repro-
+ducibility of the questionnaire are documented elsewhere (17).
+We asked each participant how often, on average, they had
+consumed potatoes [serving size: 1 baked or 237 mL (1 cup)
+mashed potato] in the previous year. We also asked how often
+each participant had consumed french fried potatoes during the
+previous year [serving size: 113 g (4 ounces)]. The possible
+responses ranged from never or 쏝1/mo to 욷6 times/d. When
+corrected for week-to-week variations in diet records that were
+used to assess validity, the correlation between the 1980 FFQ and
+the diet records was 0.66 for potatoes and 0.60 for french fries
+(18).
+
+Other nutrient values such as trans fat, saturated fat, polyun-
+saturated fat, and cereal fiber were computed by multiplying the
+frequency of consumption of each food by the nutrient content of
+the portion and then adding these products across each food item.
+All food composition values were obtained from the Harvard
+University Food Composition Database, which was derived from
+USDA sources (19). This database was further supplemented
+with the manufacturer’s information.
+
+Measurement of nondietary factors
+
+In 1982 and 1988, the women provided information about
+family history of diabetes in first-degree relatives. The partici-
+pants also provided information on the use of postmenopausal
+hormones, smoking status, and body weight every 2 y throughout
+the follow-up. The correlation coefficient between self-reported
+body weight and measured weight was 0.96 (20).
+
+The participants reported specific physical activities in hours
+per week in 1980, 1982, 1986, 1988, 1992, 1996, and 1998. From
+each questionnaire we calculated the average number of hours
+per week spent in moderate or vigorous activity, including brisk
+walking, vigorous sports, jogging, cycling, heavy gardening, and
+housework.
+
+Outcome ascertainment
+
+The outcome of the present study was incident type 2 diabetes
+mellitus. If a participant reported a diagnosis of diabetes on any
+
+of the 2-y follow-up questionnaires, a supplementary question-
+naire about symptoms, diagnostic testing, and treatment was
+mailed. A diagnosis of type 2 diabetes was defined by at least one
+of the following criteria reported on the supplemental question-
+naire: 1) 욷1 classic symptoms (excessive thirst, polyuria, hun-
+ger, or weight loss) plus a fasting plasma glucose concentration
+of 욷140 mg/dL (7.8 mmol/L) or a random plasma glucose con-
+centration of 욷200 mg/dL (11.1 mmol/L); 2) 욷2 elevated
+plasma glucose concentrations on different occasions [fasting:
+욷140 mg/dL (7.8 mmol/L), random 욷200 mg/dL (11.1 mmol/
+L)] or random 욷200 mg/dL (11.1 mmol/L) after 욷2 h oral-
+glucose-tolerance testing, in the absence of symptoms; or 3)
+treatment with hypoglycemic medications (insulin or oral hypo-
+glycemic agents). These criteria correspond to those of the Na-
+tional Diabetes Data Group (21) because most cases were diag-
+nosed before 1997. We excluded women classified as having
+only gestational diabetes as well as those with type 1 diabetes. In
+the Nurses’ Health Study, the supplemental questionnaire was
+highly reliable in obtaining confirmation of a diabetes diagnosis.
+In a random sample of 84 women classified as having type 2
+diabetes according to the supplemental questionnaire, medical
+records were available for 62 of them. An endocrinologist who
+was blinded to the supplemental questionnaire data reviewed the
+records and confirmed the diagnosis of type 2 diabetes in 61 of
+the 62 (98%) women (22).
+
+Statistical analysis
+
+Each participant contributed follow-up time from the date of
+returning the 1980 baseline questionnaire to the date of diagnosis
+of type 2 diabetes, 1 June 2000, or death. Women were excluded
+from additional follow-up once they were diagnosed with dia-
+betes. We divided the participants into 5 categories (quintiles)
+according to the frequency of potato consumption. To represent
+long-term intake and to reduce measurement error, the cumula-
+tive frequency of consumption was calculated (23). For example,
+potato intake from the 1980 questionnaire was related to diabetes
+incidence between 1980 and 1984, and potato intake from the
+average of the 1980 and 1984 questionnaires was related to di-
+abetes incidence between 1984 and 1986. We also created quin-
+tiles of cumulative french fry consumption. Incidence rates for
+type 2 diabetes were calculated by dividing cases by the person-
+years of follow-up for each quintile of potato intake. Relative
+risks (RRs) of type 2 diabetes were calculated by dividing the rate
+of occurrence of diabetes in each quintile by the rate in the first
+(lowest) quintile. We used Cox proportional hazards models (24)
+to adjust for potentially confounding variables, which included
+BMI, family history of diabetes, smoking, postmenopausal hor-
+mone use, and physical activity. We additionally adjusted for
+dietary variables, including trans fat, the ratio of polyunsaturated
+fat to saturated fat, cereal fiber, and total calories. We also con-
+sidered potatoes and whole grains as continuous variables in the
+same model. The difference in the coefficients from this multi-
+variate model was used to estimate the RR and 95% CI for
+substituting 1 serving potatoes/d for 1 serving whole grains and
+refined grains/d.
+
+All P values were two-sided. Tests for trend were examined by
+using the median value for each category of potato consumption,
+which was analyzed as a continuous variable in the regression
+models. All statistical analyses were performed with SAS ver-
+sion 8.2 software (SAS Institute, Cary, NC).
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/83/2/284/4649933
+by Sheridan College user
+on 08 August 2018
+
+286
+
+HALTON ET AL
+
+TABLE 1
+Age-standardized year 1990 characteristics according to french fry and potato consumption in 84 555 participants in the Nurses’ Health Study1
+
+Potato consumption
+
+French fry consumption
+
+Variable
+
+Quintile 1
+
+Quintile 3
+
+Quintile 5
+
+Quintile 1
+
+Quintile 3
+
+Quintile 5
+
+Median intake (servings/d)
+Age (y)
+BMI (kg/m2)
+Family history of diabetes (%)
+Postmenopausal hormone use (%)
+Physical activity (h/wk)
+Current smokers (%)
+Alcohol consumption (g/d)
+Calories (kcal)
+Polyunsaturated fat (% of energy)
+trans Fat (% of energy)
+Saturated fat (% of energy)
+Glycemic load3
+Glycemic index3
+Cereal fiber (g/d)
+Fruit and vegetables (servings/d)
+Coffee (cups/d)
+Magnesium intake (mg/d)
+Multivitamin use (%)
+Red meat (servings/d)4
+Whole grains (servings/d)
+Refined grains (servings/d)
+Nuts (servings/d)
+
+0.07
+
+56.0 앐 7.02
+25.5 앐 4.7
+
+23
+27
+
+3.4 앐 2.2
+
+0.29
+
+56.0 앐 7.9
+25.7 앐 4.7
+
+26
+28
+
+3.2 앐 1.5
+
+0.63
+
+56.1 앐 7.5
+25.4 앐 5.0
+
+24
+24
+
+3.0 앐 2.3
+
+0
+
+56.2 앐 6.8
+25.0 앐 4.1
+
+22
+28
+
+3.6 앐 2.5
+
+0.05
+
+56.1 앐 6.8
+25.5 앐 4.1
+
+26
+28
+
+3.2 앐 2.5
+
+0.14
+
+55.9 앐 7.7
+26.0 앐 5.1
+
+24
+24
+
+2.9 앐 2.4
+
+18
+
+5.2 앐 8.9
+
+1463 앐 474.9
+
+5.9 앐 2.0
+1.4 앐 1.0
+10.4 앐 3.0
+95 앐 38.7
+51.3 앐 4.0
+4.9 앐 4.0
+4.8 앐 2.3
+1.9 앐 1.2
+313 앐 86.6
+
+17
+
+5.30 앐 10.3
+1767 앐 486.3
+
+5.9 앐 1.5
+1.5 앐 0.6
+10.7 앐 2.9
+117 앐 39.8
+52.9 앐 2.9
+5.6 앐 2.9
+5.1 앐 1.6
+1.9 앐 1.6
+301 앐 74.5
+
+19
+
+5.0 앐 9.1
+
+1981 앐 530.0
+
+5.9 앐 1.1
+1.6 앐 1.1
+10.8 앐 2.3
+135 앐 43.0
+54.1 앐 3.4
+6.0 앐 3.4
+5.4 앐 2.5
+1.9 앐 1.2
+288 앐 68.8
+
+15
+
+5.2 앐 9.4
+
+1612 앐 490.3
+
+5.8 앐 1.2
+1.2 앐 0.5
+9.8 앐 2.3
+111 앐 41.1
+51.8 앐 3.5
+6.0 앐 4.7
+5.6 앐 2.7
+1.8 앐 1.4
+326 앐 80.4
+
+17
+
+5.4 앐 10.2
+1724 앐 501.8
+
+5.9 앐 1.3
+1.5 앐 0.5
+10.6 앐 2.6
+114 앐 40.8
+52.7 앐 3.8
+5.5 앐 3.8
+5.1 앐 1.4
+1.8 앐 1.4
+303 앐 75.9
+
+23
+
+5.0 앐 9.9
+
+1908 앐 548.8
+
+6.0 앐 1.1
+1.8 앐 1.1
+11.5 앐 2.2
+126 앐 44.0
+53.8 앐 3.3
+5.3 앐 3.3
+4.8 앐 2.6
+2.0 앐 1.3
+276 앐 66.8
+
+29
+
+1.1 앐 1.2
+1.3 앐 1.0
+1.6 앐 1.0
+0.1 앐 0.2
+
+33
+
+1.2 앐 0.6
+1.5 앐 1.5
+2.1 앐 1.5
+0.1 앐 0.2
+
+29
+
+1.5 앐 1.2
+1.6 앐 1.1
+2.5 앐 1.1
+0.2 앐 0.2
+
+31
+
+1.1 앐 1.4
+1.7 앐 1.2
+1.7 앐 1.2
+0.2 앐 0.3
+
+34
+
+1.2 앐 0.6
+1.5 앐 1.3
+2.0 앐 1.3
+0.1 앐 0.2
+
+25
+
+1.6 앐 1.3
+1.3 앐 1.1
+2.5 앐 2.2
+0.2 앐 0.2
+
+1 Tests for trend (based on ordinal variables containing median values for each quintile) were all significant (P 쏝 0.05), except for age, alcohol consumption,
+
+coffee consumption, and family history of type 2 diabetes for potatoes.
+
+2 x៮ 앐 SD (all such values).
+3 Glucose used as reference for calculations of glycemic index and glycemic load.
+4 Composite score of beef, pork, and lamb as a main dish or mixed dish, and hamburgers, hot dogs, bacon, and processed meats.
+
+RESULTS
+
+At baseline in 1980, potato consumption ranged from a median
+of 0.07 serving/d in the first quintile to 0.79 serving/d in the highest
+quintile. French fry intake was considerably less; the median for the
+lowest quintile was zero servings, whereas the median in the highest
+quintile was just 0.14 serving/d. Potato and french fry consumption
+was largely consistent over time (overall x៮앐 SD: 0.32 앐 0.23 serv-
+ings potatoes/d for potato and 0.07 앐 0.08 servings french fries/d).
+This amount of consumption is similar to that of the general US
+population during the years 1980–2000 (25). The women who con-
+sumed more potatoes tended to have a higher dietary glycemic load
+and higher intakes of red meat, refined grain, and total calories.
+They were also less likely to take postmenopausal hormone ther-
+apy. Family history of diabetes, trans fat intake, BMI, and physical
+activity were not significantly different across quintiles (Table 1).
+The women who consumed more french fries tended to have a
+higher dietary glycemic load and higher intakes of red meat, refined
+grain, and total calories. They were more likely to smoke but were
+less likely to take multivitamins and postmenopausal hormone ther-
+apy. Family history of diabetes, trans fat intake, BMI, and physical
+activity were not significantly different across quintiles (Table 1).
+Because of the length of follow-up (20 y), the characteristics in
+Table 1 are presented as the midpoint of follow-up (1990) rather
+than baseline (1980).
+
+During the 20 y of follow-up (1 597 429 person-years), we
+documented 4496 cases of type 2 diabetes. For potatoes, the
+age-adjusted RR of type 2 diabetes was 1.13 (95% CI: 1.03, 1.25)
+
+in a comparison between the women in the fifth quintile and those
+in the first quintile (P for trend ҃ 0.02) (Table 2). In multivariate
+models, the addition of BMI as a categorical variable (10 cate-
+gories) slightly increased the RR to 1.18 (95% CI: 1.07, 1.30;
+P for trend ҃ 0.0003). The RR did not change appreciably after
+additional control for smoking, family history of diabetes, phys-
+ical activity, and postmenopausal hormone use (1.17; 95% CI:
+1.06, 1.29; P for trend ҃ 0.0004). After additional control for
+other dietary variables (trans fat intake, polyunsaturated fat-to-
+saturated fat ratio, total calories, and cereal fiber), the RR was
+slightly attenuated to 1.14 (95% CI: 1.02, 1.26; P for trend ҃
+0.009). Additional adjustment for consumption of nuts, coffee,
+alcohol, fruit, vegetables, whole grains, and soft drinks did not
+appreciably change the results.
+
+The age-adjusted RR that compared the highest quintile of
+french fry intake (0.14 servings/d) with the lowest quintile (0
+servings/d) was 1.65 (95% CI: 1.50, 1.80; P for trend 쏝 0.0001)
+(Table 2). The addition of BMI to the model attenuated the RR to
+1.29 (95% CI: 1.17, 1.41; P for trend 쏝 0.0001). The RR was
+further attenuated to 1.25 (95% CI: 1.14, 1.37, P for trend 쏝
+0.0001) after additional adjustment for smoking, family history,
+physical activity, and postmenopausal hormone use. After addi-
+tional control for dietary variables such as trans fat intake, the
+polyunsaturated fat-to-saturated fat ratio, total calories, and ce-
+real fiber, the RR was 1.21 (95% CI: 1.09, 1.33; P for trend 쏝
+0.0001). Additional adjustment for consumption of nuts, coffee,
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/83/2/284/4649933
+by Sheridan College user
+on 08 August 2018
+
+TABLE 2
+Relative risk of type 2 diabetes in 84 555 women according to frequency of potato and french fry consumption
+
+POTATO INTAKE AND DIABETES RISK
+
+287
+
+Quintile 1
+
+Quintile 2
+
+Quintile 3
+
+Quintile 4
+
+Quintile 5
+
+761
+
+309 204
+
+0.07
+0–0.11
+
+830
+
+314 139
+
+0.14
+
+0.12–0.2
+
+1125
+
+347 647
+
+0.29
+
+0.21–0.36
+
+904
+
+348 350
+
+0.43
+
+0.37–0.43
+
+876
+
+278 090
+
+0.63
+
+0.44–2.50
+
+1.07 (0.97, 1.18)
+
+1.13 (1.03, 1.24)
+
+1.11 (1.01, 1.23)
+
+1.13 (1.03, 1.25)
+
+P for
+trend1
+
+Servings (potato: 1/d;
+
+french fry: 2/wk)
+
+—
+—
+—
+—
+0.02
+
+—
+—
+—
+—
+
+1.16 (1.02, 1.32)
+
+Potato
+
+Cases (n)
+Person-years
+Median servings/d
+Range
+Age-adjusted RR
+
+(95% CI)
+
+Age and BMI (95%
+
+CI)
+
+Age and nondietary
+factors (95% CI)2
+
+Age, nondietary
+
+factors, and dietary
+factors (95% CI)3
+
+French fries
+Cases (n)4
+Person-years
+Median servings/d
+Range
+Age-adjusted RR
+
+(95% CI)
+
+Age and BMI (95%
+
+CI)
+
+Age and nondietary
+factors (95% CI)2
+
+Age, nondietary
+
+factors, and dietary
+factors (95% CI)3
+
+1.0
+
+1.0
+
+1.0
+
+1.0
+
+986
+
+433 141
+
+0
+0
+1.0
+
+1.0
+
+1.0
+
+1.0
+
+1.05 (0.95, 1.16)
+
+1.09 (0.99, 1.20)
+
+1.14 (1.04, 1.26)
+
+1.18 (1.07, 1.30)
+
+0.0003
+
+1.25 (1.10, 1.42)
+
+1.05 (0.95, 1.16)
+
+1.06 (0.97, 1.17)
+
+1.15 (1.04, 1.26)
+
+1.17 (1.06, 1.29)
+
+0.0004
+
+1.25 (1.10, 1.42)
+
+1.05 (0.95, 1.16)
+
+1.07 (0.97, 1.18)
+
+1.13 (1.02, 1.25)
+
+1.14 (1.02, 1.26)
+
+0.009
+
+1.18 (1.03, 1.35)
+
+538
+
+170 621
+
+0.02
+
+0.01–0.03
+
+808
+
+243 386
+
+0.05
+
+0.04–0.06
+
+1168
+
+428 747
+
+0.07
+
+0.07–0.10
+
+1.13 (1.01, 1.26)
+
+1.32 (1.20, 1.45)
+
+1.37 (1.26, 1.50)
+
+988
+
+320 843
+
+0.14
+
+0.11–1.0
+
+1.65 (1.50, 1.80) 쏝0.0001
+
+—
+—
+—
+—
+
+—
+—
+—
+—
+
+1.59 (1.46, 1.74)
+
+1.03 (0.92, 1.15)
+
+1.17 (1.06, 1.28)
+
+1.17 (1.07, 1.27)
+
+1.29 (1.17, 1.41) 쏝0.0001
+
+1.25 (1.14, 1.38)
+
+1.0 (0.90, 1.11)
+
+1.14 (1.03, 1.25)
+
+1.14 (1.04, 1.24)
+
+1.25 (1.14, 1.37) 쏝0.0001
+
+1.24 (1.12, 1.36)
+
+1.01 (0.90, 1.12)
+
+1.14 (1.03, 1.25)
+
+1.12 (1.02, 1.22)
+
+1.21 (1.09, 1.33) 쏝0.0001
+
+1.16 (1.05, 1.29)
+
+1 Based on ordinal variable containing median value for each quintile.
+2 Cox proportional hazard model adjusted for age in 5-y categories, BMI (쏝22, 22–22.9, 23–23.9, 24 –24.9, 25–27.9, 28 –29.9, 30 –31.9,32–33.9, 34 –39.9,
+or 쏜40 kg/m2), family history of diabetes in a first-degree relative (yes or no), smoking (never, past, or current smoking 1–14, 15–25, 쏜25 cigarettes/d),
+postmenopausal hormone use (never, current use, or past use), and moderate to vigorous physical activity (쏝1, 1–2, 2– 4, 4 –7, 쏜7 h/wk).
+3 Adjusted for the above variables and total calories, cereal fiber (g/d), trans fat (% of energy), and polyunsaturated fat:saturated fat.
+4 Because participants with missing baseline potato and french fry data were excluded from the analyses, the number of cases and person-years slightly
+
+vary between the 2 analyses.
+
+alcohol, fruit, vegetables, whole grains, and soft drinks did not
+appreciably change the results.
+
+In additional analyses that used potato consumption as a con-
+tinuous variable, the multivariate RR of type 2 diabetes for con-
+suming 1 serving potatoes/d [237 mL (1 cup) mashed or 1 baked]
+was 1.18 (95% CI: 1.03, 1.35) (Table 2). The multivariate RR for
+2 [113 g (4 oz)] servings french fries/wk was 1.16 (95% CI: 1.05,
+1.29) (Table 2). Furthermore, the RR of substituting 1 serving
+potatoes/d for 1 serving whole grains/d was 1.30 (95% CI: 1.08,
+1.57). The RR of substituting 1 serving potatoes/d for 1 serving
+refined grains/d was 1.22 (95% CI: 1.01, 1.47).
+
+In stratified analyses, the association between potato con-
+sumption and diabetes was statistically significant in obese
+women but not in nonobese women (P for interaction ҃ 0.01)
+(Table 3). This was not observed for french fry consumption. No
+significant interaction was observed between the consumption of
+potatoes or french fries and physical activity or family history of
+type 2 diabetes.
+
+In our cohort, red meat was significantly correlated with con-
+sumption of potatoes (r ҃ 0.24, P 쏝 0.0001) and french fries
+(r ҃ 0.29, P 쏝 0.0001). When red meat consumption was added
+
+to the multivariate models,
+the association was slightly
+attenuated. For potato intake, the RR of type 2 diabetes in a
+comparison of the fifth quintile with the first quintile was 1.12
+(95% CI: 1.01, 1.25; P for trend ҃ 0.02). A similar attenuation in
+RR was seen for french fries (1.19; 95% CI: 1.07, 1.31; P for
+trend ҃ 0.0004).
+
+To examine whether the associations between potatoes and
+french fry intake were mediated through a higher glycemic load,
+we added glycemic load to the multivariate models. After ad-
+justment for glycemic load, the RRs in a comparison of extreme
+quintiles were 1.06 (95% CI: 0.95, 1.18; P for trend ҃ 0.24) for
+potatoes and 1.15 (95% CI: 1.04, 1.27; P for trend ҃ 0.005) for
+french fries.
+
+DISCUSSION
+
+We found that the intakes of potatoes and french fries were
+positively associated with the incidence of type 2 diabetes in this
+large prospective cohort of women. The increased risk was more
+pronounced when potatoes replaced whole-grain products in the
+diet. This association was independent of known risk factors for
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/83/2/284/4649933
+by Sheridan College user
+on 08 August 2018
+
+288
+
+HALTON ET AL
+
+TABLE 3
+Multivariate relative risks of type 2 diabetes in 84 555 women according to frequency of potato and french fry consumption, stratified by BMI1
+
+Quintile 1
+
+Quintile 2
+
+Quintile 3
+
+Quintile 4
+
+Quintile 5
+
+P for trend2
+
+Potato
+
+BMI 쏝30 (n ҃ 1958 cases)3
+BMI 욷30 (n ҃ 2538 cases)
+
+French fries4
+
+BMI 쏝30 (3) (n ҃ 1950 cases)
+BMI 욷 30 (n ҃ 2540 cases)
+
+1.0
+1.0
+
+1.0
+1.0
+
+0.97 (0.84, 1.13)
+1.12 (0.98, 1.28)
+
+1.01 (0.88, 1.17)
+1.12 (0.98, 1.27)
+
+0.98 (0.85, 1.14)
+1.20 (1.05, 1.38)
+
+0.95 (0.82, 1.11)
+1.22 (1.06, 1.41)
+
+1.14 (0.97, 1.33)
+0.94 (0.80, 1.09)
+
+1.17 (1.01, 1.35)
+1.16 (1.02, 1.33)
+
+1.14 (1.0, 1.30)
+1.15 (1.01, 1.29)
+
+1.34 (1.15, 1.55)
+1.19 (1.04, 1.36)
+
+0.58
+0.007
+
+0.0003
+0.003
+
+1 Cox proportional hazards model adjusted for age in 5-y categories, family history of diabetes in a first-degree relative (yes or no), smoking (never, past,
+or current smoking 1–14, 15–25, 쏜25 cigarettes/d), postmenopausal hormone use (never, current use, or past use), physical activity (쏝1, 1–2, 2– 4, 4 –7, 쏜7
+h/wk), total calories, cereal fiber (g/d), trans fat (% of energy), and polyunsaturated fat: saturated fat.
+
+2 Based on ordinal variable containing median value for each quintile.
+3 P for interaction 쏝 0.05
+4 Because participants with missing baseline potato and french fry data were excluded from the analyses, the number of cases and person-years slightly
+
+vary between the 2 analyses.
+
+type 2 diabetes, including family history, age, BMI, physical
+activity, smoking status, postmenopausal hormone use, and di-
+etary factors. As expected, the positive association between po-
+tato consumption and the risk of type 2 diabetes was seen pri-
+marily in obese and sedentary women. These participants are
+more likely to have underlying insulin resistance, which may
+exacerbate the adverse metabolic effects of higher glycemic car-
+bohydrates (14, 15).
+
+French fries are usually composed of white potatoes and par-
+tially hydrogenated oils containing trans fat. In our cohort, trans
+fat was positively associated with an increased risk of type 2
+diabetes (26). This may partially explain why french fries had a
+stronger association with type 2 diabetes than did potatoes. How-
+ever, adjustment for trans fat did not eliminate the association
+with french fries.
+
+The 20-y follow-up with updated dietary data and large sample
+size provided adequate power for the present study. Bias was
+minimized by the prospective design and the high follow-up rate.
+Some misclassification of intakes of potatoes and french fries
+existed because diet was assessed by self-report. However, this
+misclassification would tend to bias the results toward the null
+and therefore would not likely account for these results. Mea-
+surement error in assessing long-term diet was reduced in the
+present analyses by using the average of all available measure-
+ments of diet up to the start of each 2-y follow-up interval (27,
+28).
+
+Although we assessed and adjusted for a variety of potential
+confounding variables, we cannot rule out the possibility of re-
+sidual confounding, especially because the observed association
+between potatoes and the risk of type 2 diabetes was modest in the
+present study. This population consisted of mostly white women
+with some college education. Although this homogeneity in-
+creases the internal validity of the study by reducing confounding
+by factors that are difficult to measure, the association between
+potatoes and the risk of type 2 diabetes in women of other racial
+and educational backgrounds should also be evaluated. Precook-
+ing potatoes and eating them cold days later may significantly
+reduce the GI (29). Although we did not assess cooking methods
+in the FFQ, we believe most of the potatoes consumed in our
+cohort were eaten hot shortly after preparation.
+
+The high glycemic load of potato products is a likely mecha-
+nism by which they may increase the risk of type 2 diabetes. In
+
+our analyses, adjustment for glycemic load attenuated the asso-
+ciations between potatoes and diabetes risk, which suggests that
+most or all of the association was mediated through the high
+glycemic load. However, a significant association persisted for
+french fries after adjustment for glycemic load, which probably
+suggests that other components, including trans fat, also contrib-
+ute to the adverse effects of french fries. Several prospective
+studies have supported a positive association between a high GI
+or glycemic load diet and the risk of type 2 diabetes. Salmeron et
+al (9, 10) conducted 2 prospective cohort investigations about GI
+and type 2 diabetes. In the Nurses’ Health Study, the women in
+the highest quintile of GI had a RR of type 2 diabetes of 1.37 (95%
+CI: 1.09, 1.71) compared with those in the lowest quintile. The
+glycemic load was also positively associated with risk (1.47;
+95% CI: 1.16, 1.86) (9), which was confirmed in an extended
+follow-up of this population (30). In the all-male Health Profes-
+sionals Follow-up cohort, the GI was positively associated with
+the risk of type 2 diabetes. Men in the highest quintile had a RR
+of 1.37 (95% CI: 1.02, 1.83) compared with men in the lowest
+quintile (10). Furthermore, in the younger Nurses’ Health II
+cohort, GI was significantly associated with an increased risk of
+type 2 diabetes, with an RR of 1.59 (95% CI: 1.21, 2.10) in a
+comparison of the fifth quintile with the first quintile (11).
+
+In contrast, Meyer et al (13) reported no association between
+GI and the risk of type 2 diabetes in the Iowa Women’s Health
+Study. However, only baseline nutritional data were available for
+the 6-y follow-up, and the validity of self-reported diabetes was
+only moderate (64%). These factors may have lead to an under-
+estimation of the association. Stevens et al (12) observed no
+association between GI or glycemic load and the incidence of
+type 2 diabetes in a 9-y cohort study of 12 251 adults. However,
+after adjustment for cereal fiber, the association between glyce-
+mic load and type 2 diabetes became borderline significant in
+whites (P ҃ 0.07). The use of a single baseline 66-item FFQ may
+have attenuated the results. When we used only baseline data in
+our cohort, the RR for potatoes was attenuated to 1.10 (95% CI:
+0.99, 1.22; P for trend ҃ 0.23).
+
+Few studies have examined the relation between the consump-
+tion of potatoes or french fries and the risk of type 2 diabetes. In
+a recent 8.8-y prospective investigation in the Women’s Health
+Study, Liu et al (31) found a small and nonsignificant positive
+association between potato intake and the risk of type 2 diabetes
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/83/2/284/4649933
+by Sheridan College user
+on 08 August 2018
+
+POTATO INTAKE AND DIABETES RISK
+
+289
+
+(n ҃ 1353 cases) in overweight women (RR in a comparison of
+the highest with the lowest quintiles ҃ 1.14; 95% CI: 0 0.95,
+1.36: P for trend ҃ 0.12).
+
+Several mechanisms have been proposed to explain how high
+glycemic carbohydrates may increase the risk of type 2 diabetes.
+Most stem from the greater increase in blood glucose and insulin
+concentrations with high glycemic carbohydrates in comparison
+to lower glycemic carbohydrates. High glucose concentrations
+may cause oxidative stress to pancreatic ␤cells or glycosylation
+of proteins and key enzymes responsible for metabolic processes
+(32). This may lead to ␤-cell dysfunction and ultimately to type
+2 diabetes. This would be manifested as ␤-cell exhaustion (14,
+15, 33), when production of insulin can no longer meet the de-
+mand. A recent investigation in rats showed a severely disorga-
+nized architecture and extensive fibrosis of pancreatic islets after
+18 wk on a high glycemic diet (34).
+
+Another potential mechanism is that of lipotoxicity (32, 35–
+39). Four to 6 h after consumption of a high glycemic carbohy-
+drate, low concentrations of metabolic fuels trigger a counter-
+regulatory hormone response that attempts to restore euglycemia
+by stimulating glycogenolytic and gluconeogenic pathways and
+elevating free fatty acid concentrations (35). This elevation in
+free fatty acids may increase insulin resistance by decreasing
+insulin-stimulated glucose uptake (36, 37).
+
+The importance of the GI when carbohydrates are consumed as
+part of a mixed meal has been controversial. One investigation
+reported that when carbohydrates were consumed with fat and
+protein, the GI was no longer a significant predictor of blood
+glucose concentrations (40). However, a larger number of pub-
+lished reports have shown that the GI remains discriminating
+even in mixed meals (41– 48). Therefore, the weight of evidence
+suggests that even when incorporated into a mixed meal, the GI
+of carbohydrate remains a significant predictor of blood glucose,
+although this effect may be somewhat attenuated. Even though
+the GI of the potatoes in a mixed meal is reduced, this would not
+affect the relative ranking of GIs between different persons. Also,
+control for dietary fat and protein did not substantially change our
+results.
+
+White potatoes and french fries are large components of a
+“Western pattern” diet. This dietary pattern is characterized by a
+high consumption of red meat, refined grains, processed meat,
+high-fat dairy products, desserts, high-sugar drinks, and eggs, as
+well as french fries and potatoes. A Western pattern diet previ-
+ously predicted a risk of type 2 diabetes (49). Thus, we cannot
+completely separate the effects of potatoes and french fries from
+the effects of the overall Western dietary pattern.
+
+In conclusion, a higher consumption of potatoes and french
+fries was associated with a modestly increased risk of type 2
+diabetes in this large cohort of women. These data support a
+potential benefit from limiting the consumption of these foods in
+reducing the risk of type 2 diabetes. Substitution of these sources
+of carbohydrate with lower glycemic, high-fiber forms of carbo-
+hydrates such as whole grains should be encouraged.
+
+We thank the participants of the Nurses’ Health Study for their participa-
+
+tion and cooperation.
+
+TLH designed the study, analyzed the data, and wrote the manuscript.
+WCW, SL, JEM, and MJS designed the study and performed a critical review
+of the manuscript. FBH secured funding, designed the study, analyzed the
+data, and wrote the manuscript. None of authors had a financial or personal
+interest in any organizations sponsoring the research reported in this article.
+
+REFERENCES
+1. USDA Food and Nutrition Information Center. USDA’s Food Guide
+Pyramid booklet, 1992 (updated 1996). Internet: http://www.nal.usda.
+gov/fnic/Fpyr/pyramid.html#q2 (accessed 17 February 2005).
+
+2. USDA Center for Policy and Promotion. Proposed revisions for the Food
+Guide Pyramid. Internet: http://www.cnpp.usda.gov/pyramid.html (ac-
+cessed 17 February 2005).
+
+3. American Dietetic Association. The power of potatoes: positively nu-
+tritious! Internet: http://www.eatright.org/Public/NutritionInformation/
+92_nfs0902c.cfm (accessed 17 February 2005).
+
+4. American Heart Association. AHA scientific position: carbohydrates
+and sugars. Internet: http://www.americanheart.org/presenter.jhtml?
+identifier҃4471 (accessed 17 February 2005).
+
+5. World Cancer Research Fund, American Institute for Cancer Research.
+Food, nutrition and the prevention of cancer: a global perspective. Wash-
+ington, DC: American Institute For Cancer Research, 1997.
+
+6. Jenkins DJA, Wolever TMS, Taylor RH, Barker H, Fielden H, Baldwin
+JM. Glycemic index of foods; a physiological basis for carbohydrate
+exchange. Am J Clin Nutr 1981;34:362– 6.
+
+7. Economic Research Service, USDA. Vegetable and specialties situation
+and outlook yearbook. Washington, DC: US Department of Agriculture,
+July 2003.
+
+8. Wolever TMS, Katzman-Relle L, Jenkins AL, Vuksan V, Josse RG,
+Jenkins DJA. Glycaemic index of 102 complex carbohydrate foods in
+patients with diabetes. Nutr Res 1994;14:651–9.
+
+9. Salmeron J, Manson JE, Stampfer MJ, Colditz GA, Wing AL, Willett
+WC. Dietary fiber, glycemic load, and risk of non-insulin-dependent
+diabetes mellitus in women. JAMA 1997;277:472–7.
+
+10. Salmeron J, Ascherio A, Rimm EB, Colditz GA, Spiegelman D Jenkins
+DJ. Dietary fiber, glycemic load, and risk of NIDDM in men. Diabetes
+Care 1997;20:545–50.
+
+11. Schulze MB, Liu S, Rimm EB, Manson JE, Willett WC, Hu FB. Gly-
+cemic index, glycemic load, and dietary fiber intake and incidence of
+type 2 diabetes in younger and middle-aged women. Am J Clin Nutr
+2004;80:348 –56.
+
+12. Stevens J, Ahn K, Juhaeri, Houston D, Steffan L, Couper D. Dietary fiber
+intake and glycemic index and incidence of diabetes in African-
+American and white adults. Diabetes Care 2002;25:1715–21.
+
+13. Meyer KA, Kushi LH, Jacobs DR, Slavin J, Sellers TA, Folsom AR.
+Carbohydrates, dietary fiber, and incident type 2 diabetes in older
+women. Am J Clin Nutr 2000;71:921–30.
+
+14. Willett WC, Manson JE, Liu S. Glycemic index, glycemic load, and risk
+
+of type 2 diabetes. Am J Clin Nutr 2002;76(suppl):274S– 80S.
+
+15. Brand-Miller JC. Glycemic load and chronic disease. Nutr Rev 2003;
+
+61:S49 –55.
+
+16. Willett WC, Sampson L, Stampfer MJ, Rosner B, Bain C, Witschi J.
+Reproducibility and validity of a semiquantitative food frequency ques-
+tionnaire. Am J Epidemiol 1985;122:51– 65.
+
+17. Willett WC. Nutritional epidemiology. In: Rothman KJ, Greenland S
+eds. Modern epidemiology. 2nd ed. Philadelphia, PA: Lippincott-Raven
+Publishers, 1998;623– 42.
+
+18. Salvini S, Hunter DJ, Sampson L, Stampfer MJ, Colditz GA, Rosner B.
+Food based validation of a dietary questionnaire: the effects of week to
+week variation in food consumption. Int J Epidemiol 1989;18:858 – 67.
+19. US Department of Agriculture. Composition of foods: raw, processed
+and prepared 1963–1992. Washington, DC: US Department of Agricul-
+ture, 1993.
+
+20. Rimm EB, Stampfer MJ, Colditz GA, Chute CG, Litin LB, Willett WC.
+Validity of self reported waist and hip circumferences in men and
+women. Epidemiology 1990;1:466 –73.
+
+21. National Diabetes Data Group. Classification and diagnosis of diabetes
+mellitus and other categories of glucose intolerance. Diabetes 1979;28:
+1039 –57.
+
+22. Manson JE, Rimm EB, Stampfer MJ, Colditz GA, Willett WC,
+Krolewski AS. Physical activity and incidence of non-insulin-dependent
+diabetes mellitus in women. Lancet 1991;338:774 – 8.
+
+23. Hu FB, Stampfer MJ, Manson JA, et al. Dietary fat intake and the risk of
+
+coronary heart disease in women. N Engl J Med 1997;337:1491–9.
+
+24. Cox DR, Oakes D. Analysis of survival data. London, England: Chap-
+
+man and Hall, 1984.
+
+25. USDA Economic Research Service. Food Guide Pyramid servings. Inter-
+net: http://www.ers.usda.gov/data/foodconsumption/FoodGuideIndex.
+htm#veg (accessed 10 October 2005).
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/83/2/284/4649933
+by Sheridan College user
+on 08 August 2018
+
+290
+
+HALTON ET AL
+
+26. Salmeron J, Hu FB, Manson JE, et al. Dietary fat intake and risk of type
+
+2 diabetes in women. Am J Clin Nutr 2001;73:1019 –26.
+
+27. Hu FB, Stampfer MJ, Rimm E, Ascherio A, Rosner BA, Speigelman D.
+Dietary fat and coronary heart disease: a comparison of approaches for
+adjusting for total energy intake and modeling repeated dietary mea-
+surements. Am J Epidemiol 1999;149:531– 40.
+
+28. Willett WC. Nutritional epidemiology. 2nd ed. New York, NY: Oxford
+
+University Press, 1998.
+
+29. Fernandes G, Velangi A, Wolever MS. Glycemic index of potatoes
+commonly consumed in North America. J Am Diet Assoc 2005;105:
+557– 62.
+
+30. Hu FB, Manson JE, Stampfer MJ, et al. Diet, lifestyle and the risk of type
+
+2 diabetes mellitus in women. N Engl J Med 2001;345:790 –7.
+
+31. Liu S, Serdula M, Janket SJ, Cook NR, Sesso HD, Willett WC. A
+prospective study of fruit and vegetable intake and the risk of type 2
+diabetes in women. Diabetes Care 2004;27:2993– 6.
+
+32. Augustin LS, Franceschi S, Jenkins DJ, Kendall CW, La Vecchia C.
+Glycemic index in chronic disease: a review. Eur J Clin Nutr 2002;56:
+1049 –71.
+
+33. Rossetti L, Giaccari A, DeFronzo RA. Glucose toxicity. Diabetes Care
+
+1990;13:610 –30.
+
+34. Pawlak DB, Kushner JA, Ludwig DS. Effects of dietary glycaemic index
+on adiposity, glucose homoeostasis, and plasma lipids in animals. Lancet
+2004;364:778 – 85.
+
+35. Ludwig DS. The glycemic index: physiological mechanisms relating to
+
+obesity, diabetes and cardiovascular disease. JAMA 2002;287:2414–23.
+
+36. Wolever TMS. Dietary carbohydrates and insulin action in humans. Br J
+
+Nutr 2000;83(suppl):S97–102.
+
+37. Boden G, Chen X, Ruiz J, White JV, Rossetti L. Mechanisms of fatty
+acid-induced inhibition of glucose uptake. J Clin Invest 1994;93:2438–46.
+38. Zhou YP, Grill VE. Long-term exposure of rat pancreatic islets to fatty
+acids inhibits glucose-induced insulin secretion and biosynthesis
+through a glucose fatty acid cycle. J Clin Invest 1994;93:870 – 6.
+
+39. Frost G, Keogh B, Smith D, Akinsanya K, Leeds A. The effect of
+
+low-glycemic carbohydrate on insulin and glucose response in vivo and
+in vitro in patients with coronary heart disease. Metabolism 1996;45:
+669 –72.
+
+40. Coulston AM, Hollenbeck CB, Swislocki AL, Reaven GM. Effect of
+source of dietary carbohydrate on plasma glucose and insulin responses
+to mixed meals in subjects with NIDDM. Diabetes Care 1987;10:395–
+400.
+
+41. Collier GR, Wolever TMS, Wong GS, Josse RG. Prediction of glycemic
+response to mixed meals in noninsulin-dependent diabetic subjects.
+Am J Clin Nutr 1986;44:349 –52.
+
+42. Bornet FRJ, Costagliola D, Rizkalla SW, Blayo A, Fontvieille AM,
+Haardt MJ. Insulinemic and glycemic indexes of six starch rich foods
+taken alone and in a mixed meal by type 2 diabetics. Am J Clin Nutr
+1987;45:588 –95.
+
+43. Wolever TMS, Jenkins DJA, Ocana AM, Rao VA, Collier GR. Second-
+meal effect: low glycemic index foods eaten at dinner improve subse-
+quent breakfast glycemic response. Am J Clin Nutr 1988;48:1041–7.
+
+44. Chew I, Brand JC, Thorburn AW, Truswell AS. Application of glycemic
+
+index to mixed meals. Am J Clin Nutr 1988;47:53– 6.
+
+45. Laine DC, Thomas W, Levitt MD, Bantle JP. Comparison of predictive
+capabilities of diabetic exchange lists and glycemic index of foods.
+Diabetes Care 1987;10:387–94.
+
+46. Behme MT, Dupre J. All bran vs corn flakes: plasma glucose and insulin
+
+responses in young females. Am J Clin Nutr 1989;50:1240 –3.
+
+47. Hermansen K, Rasmussen O, Arnfred J, Winther E, Schmitz O. Glyce-
+mic effects of spaghetti and potato consumed as part of mixed meal on
+IDDM patients. Diabetes Care 1987;10:401– 6.
+
+48. Indar-Brown K, Norenberg C, Madar Z. Glycemic and insulinemic re-
+sponses after ingestion of ethnic foods by NIDDM and healthy subjects.
+Am J Clin Nutr 1992;55:89 –95.
+
+49. Van Dam RM, Rimm EB, Willett WC, Stampfer MJ, Hu FB. Dietary
+patterns and risk for type 2 diabetes mellitus in US men. Ann Intern Med
+2002;136:201–9.
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/83/2/284/4649933
+by Sheridan College user
+on 08 August 2018
+
+

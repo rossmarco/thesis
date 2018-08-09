@@ -1,0 +1,1100 @@
+O R I G I N A L
+
+A R T I C L E
+
+Fish-seafood consumption, obesity,
+and risk of type 2 diabetes:
+an ecological study
+
+A Nkondjock1, 2, O Receveur3
+
+S U M M A R Y
+Objectives: There is substantial evidence that type 2 diabetes in-
+creases with the degree and duration of obesity. This study was con-
+ducted to examine the association, at the international level, between
+fish and seafood consumption and the prevalence of type 2 diabetes,
+taking into account the prevalence of obesity.
+Methods: An ecological study of 41 countries in five continents with
+different socio-demographic characteristics and sanitary conditions
+was carried out. Data on the prevalence of diabetes and obesity as well
+as food balance sheets were collected from websites. Correlations
+between the variables studied were followed by an exploration of their
+interaction.
+Results: After adjustment for total energy intake, there was a signifi-
+cant correlation (ρ = 0.81, P < 0.0001) between the prevalence of type
+2 diabetes in the 20- to 44- and 45- to 64-year age groups. Type 2
+diabetes in the 45- to 64-year age group was about 5 times higher than
+in the 20- to 44-year age group. Obesity was positively associated with
+type 2 diabetes in both age groups (ρ = 0.39; P = 0.012 and ρ = 0.48; P
+= 0.002 in the 20- to 44- and 45- to 64-year age groups, respectively).
+An interaction effect was found between diabetes, obesity and total
+fish and seafood consumption. In countries with low fish and seafood
+consumption, the prevalence of type 2 diabetes increased significantly
+with obesity (0.8 ± 0.3% vs. 2.5 ± 1.8%; P = 0.002 and 3.3 ± 2.6% vs.
+11.0 ± 3.9%; P < 0.0001 for the 20- to 44- and 45- to 64-year age
+groups, respectively). In countries with a greater prevalence of obe-
+sity, there was evidence of significantly reduced type 2 diabetes with
+high fish and seafood consumption (2.5 ± 1.8% vs. 0.9 ± 0.7%; P =
+0.007 and 11.0 ± 3.9% vs. 6.2 ± 4.1%; P = 0.041 for the 20- to 44-
+and 45- to 64-year age groups, respectively).
+Conclusion: The results of this study suggest that high fish and sea-
+food intake may reduce the risk of type 2 diabetes in populations with a
+high prevalence of obesity.
+
+Key-words: Type 2 diabetes z Obesity z Fish z ω-3 fatty acids z
+Ecological study.
+
+Nkondjock A, Receveur O. Fish-seafood consumption, obesity, and
+risk of type 2 diabetes: an ecological study
+Diabetes Metab 2003,29,635-42
+
+R Eu S U M Eu
+Consommation de poisson et fruits de mer,
+obésité, et risque de diabète de type 2 :
+une étude écologique
+Objectif : Plusieurs études épidémiologiques montrent que le risque
+de diabète de type 2 augmente avec le niveau d’obésité et la durée de
+cette maladie. L’objectif de cette étude vise à examiner l’association
+entre la quantité de poisson et fruits de mer disponible pour la
+consommation et la prévalence du diabète de type 2.
+Méthodes : Suivant un devis d’étude écologique, les données de pré-
+valence du diabète, de l’obésité et des bilans alimentaires ont été
+examinées. Ces données proviennent de différents sites Internet sur
+41 pays ayant des conditions socio-démographiques et sanitaires dif-
+férentes. Les corrélations entre les différentes variables ont été calcu-
+lées.
+Résultats : Les résultats indiquent une forte corrélation significative
+(ρ = 0,81; P < 0,0001) entre la prévalence de diabète de type 2 chez les
+20-44 ans et celle des 45-64 ans. La prévalence de la maladie chez les
+45-64 ans est d’environ cinq fois plus élevée que celle observée chez
+les 20-44 ans. L’obésité est corrélée positivement au diabète de type 2
+(0,39; P = 0,012) chez les 20-44, et (0,48; P = 0,002) chez les 45-64
+ans. Un effet d’interaction a été mis en évidence entre la quantité
+disponible de poisson et fruits de mer, le diabète de type 2, et l’obésité.
+Dans les pays à faible consommation de poisson et fruits de mer, la
+prévalence du diabète de type 2 augmente significativement avec
+l’obésité chez de 20-44 ans (0,8 ± 0,3 % contre 2,5 ± 1,8 %; P =
+0,002) et chez les 45-64 ans (3,3 ± 2,6 % contre 11,0 ± 3,9 %,
+P < 0,0001). Dans les pays à forte prévalence d’obésité, une réduction
+significative de la prévalence du diabète de type 2 est observée en
+présence d’une forte consommation de poisson et fruits de mer chez
+les 20-44 ans (2,5 ± 1,8 % contre 0,9 ± 0,7 %; P = 0,007) et chez les
+45-64 ans (et 11,0 ± 3,9 % contre 6,2 ± 4,1 %; P = 0,041).
+Conclusion : Les résultats de cette étude suggèrent qu’une consom-
+mation élevée de poisson et fruits de mer réduise l’occurrence du
+diabète de type 2 dans la population à forte prévalence d’obésité.
+
+Mots-clés : Diabète de type 2 z Obésité z Poisson z Acides gras ω-3 z
+Étude écologique.
+
+1 Epidemiology Research Unit, Research Centre, CHUM-Hôtel-Dieu, Montreal,
+
+Quebec, Canada
+
+2 McLaughlin Centre for Population Health Risk Assessment, Institute of Popula-
+
+tion Health, University of Ottawa, Ottawa, Ontario, Canada
+
+3 Department of nutrition, Faculty of Medicine, University of Montreal, Montreal,
+
+Quebec, Canada.
+
+Address correspondence and reprint requests to:
+A Nkondjock. Epidemiology Research Unit, Research Centre, CHUM,
+Hôtel-Dieu, Pavillon Masson, 3850 St. Urbain St., Montreal, Quebec,
+Canada H2W 1T7.
+andre.nkondjock@netzero.net
+
+Received: May 5th, 2003; revised: September 3rd, 2003
+
+Diabetes Metab 2003,29,635-42 • © 2003 Masson, all rights reserved 635
+
+A Nkondjock, O Receveur
+
+A high increase of diabetes occurrence in several
+
+countries is making the disease one of the most
+important in this millennium. It is currently esti-
+mated that 120 to 140 million people suffer from diabetes
+throughout the world, and this number will double by the
+year 2025 [1].
+
+Obesity is a major established risk factor of type 2 diabe-
+tes [2]. A number of epidemiological studies [3, 4] have
+shown that type 2 diabetes risk increases exponentially with
+the degree and duration of obesity. Taking into account the
+importance of this epidemic and the significant incidence of
+obesity, several strategies have been developed to reverse this
+trend. Reducing the overall intake of fat and saturated fat
+while increasing whole-grain and cereal fiber intake, and
+physical activity can lower the incidence of type 2 diabetes [5,
+6]. Beneficial effects of diets high in monounsaturated [7, 8]
+and polyunsaturated [9] fatty acids relative to low-fat, high-
+carbohydrate diets on glucose control and insulin sensitivity
+have also been reported. A high intake of ω-3 fatty acids,
+mainly found in fish and seafood, may also constitute an
+avenue of interest. It has been shown in both animals and
+humans that a diet rich in ω-3 fatty acid induces not only
+insulin release by (cid:3) cells, but also optimizes insulin action at
+the peripheral level [10-15]. However, the effect of these
+fatty acids depends on the diabetic or normoglycemic state
+[16-18]. In diabetic subjects, ω-3 fatty acids do not signifi-
+cantly alter glycemic control although they lower triglycer-
+ides and raise LDL cholesterol [19]. A protective influence of
+ω-3 fatty acids has been documented in Alaskan Natives
+[20], a population with a rising prevalence of glucose intoler-
+ance [21], and in the elderly [22, 23], an age-group with
+greater incidence of type 2 diabetes.
+
+Using online databases, this study was undertaken to ex-
+amine whether there was evidence of a relationship between
+fish-seafood consumption, a proxy for ω-3 fatty acids intake,
+and the prevalence of type 2 diabetes, considering the exist-
+ing relationship between obesity and type 2 diabetes.
+
+Data and methods
+
+Online diabetes, obesity and dietary data were available
+
+for 41 countries.
+
+Type 2 diabetes
+
+The official website (http:
+
+//www.who.int/ncd/dia/
+databas.htm) of the World Health Organization (WHO) es-
+timates the number of diabetics worldwide from 1995 to
+2025. Data for both the 20- to 44- and 45- to 64-year age
+groups were retained in this study. From the demographic
+yearbook of the United Nations [24], which provides esti-
+mates of the world population from 1950 to 2025, the preva-
+lence of diabetes was computed for these two age groups,
+using the population distribution in each country for the
+year 2000. As type 2 diabetes represents 85-95% of the overall
+
+636
+
+Diabetes Metab 2003,29,635-42 • www.e2med.com/dm
+
+diabetic population [1], 90% of the total number of diabetic
+subjects in 2000 were considered in this computation.
+
+Prevalence of obesity
+
+Data were obtained from the results of either national
+investigations published on the Internet [25-29] or interna-
+tional projects deploying similar protocols. “Demographic
+and Health Surveys”, an international research consultancy,
+has released on its website data on the prevalence of under-
+weight and overweight women 20-49 years old in 16 Afri-
+can, 3 Asian and 10 Latin American countries [30]. EU-
+RALIM (EURope ALIMentation), a collaborative project
+comprising seven local high quality studies, compared the
+population data from these studies using an harmonization
+approach [31]. We were able to obtain information on 41
+countries. The WHO international classification of obesity
+was considered (body mass index, BMI ≥ 30). Because a
+large number of studies have focused on females, the preva-
+lence of obesity among adult women was considered an indi-
+cator of obesity in the population. Only investigations using
+the BMI and for which weight and height were measured by
+healthcare personnel were taken into account.
+
+Fish and seafood consumption
+
+The online database of the Food and Agriculture Or-
+ganisation of the United Nations (FAOSTAT) provides
+food balance sheets for all countries. Food balance sheets
+estimate the quantities of fish-seafood available for human
+consumption. For each of the 41 countries studied, per capita
+data on fish-seafood consumption were obtained by compu-
+tation of the annual average of these products for 12 consecu-
+tive years, from 1989 to 2000.
+
+Analytical method
+
+The data were analyzed with SPSS for WINDOWS
+(version 10.01, SPSS, Inc., 1989-1999). Partial correlations
+between total fish-seafood consumption, prevalence of type
+2 diabetes and obesity are presented, while controlling for
+dietary energy supply. Since an interaction effect was ob-
+served between obesity, fish-seafood consumption and type
+2 diabetes, the 41 countries were classified according to the
+prevalence of type 2 diabetes by their levels of fish-seafood
+consumed (< or ≥ 11kg/capita/year) and the prevalence of
+obesity (< or ≥ 7.5%). The cut-off points were chosen to
+maximize cell sizes. This gave a total of four groups of coun-
+tries, and in each group, the prevalence of type 2 diabetes was
+computed for each age bracket (20 to 44 and 45 to 64 years).
+Groups of countries were then compared by the One-Way
+ANOVA procedure to test the hypothesis that the means
+across the formed cells are equal (Scheffé’s multiple com-
+parisons).
+
+Results
+
+The list and characteristics of the various countries are
+presented in Table I. The prevalence of type 2 diabetes in the
+20- to 44-year age group ranged for 0.2% in France and
+Switzerland to 5.6% in Egypt, while rates in the 45- to 64-
+year age group ranged from 1.2% in Uganda to 17.8% in
+Egypt. The prevalence of type 2 diabetes in the latter age
+group was approximately 5-fold higher than in the 20- to
+44-year age group. Higher rates of type 2 diabetes were
+found in some Middle East and Maghreb countries. The
+prevalence in Saudi Arabia ranged from 4.5% to 15.5% for
+the 20- to 44- and 45- to 64-year age groups, respectively. In
+Egypt, the rates were 5.6% for the 20- to 44-year age group
+and 17.8% for the 45- to 64-year age group.
+
+Nepal exhibited the lowest prevalence of obesity (0.1%),
+while the highest was found in the USA (22.5%). In general,
+sub-Saharan countries presented the lowest prevalence of
+type 2 diabetes and obesity, as well as the lowest dietary
+energy supply.
+
+There was a wide variation in total fish-seafood con-
+sumption, with a yearly average per capita of 12.2 kg. Spain
+and Finland were the biggest consumers with 38.5 kg and
+34.8 kg per capita, respectively.
+
+The partial correlation coefficients between the study
+variables are shown in Table II. As expected, the prevalence
+of type 2 diabetes in the 20- to 44-year age group was strongly
+and positively correlated with that in the 45-to 64-year age
+group (ρ = 0.81; P < 0.0001), as well as with obesity and this
+association grew stronger with age (ρ = 0.48; P = 0.002 in the
+45- to 64-year age group), after adjustment for dietary en-
+ergy supply. Total fish-seafood consumption per capita was
+inversely correlated with type 2 diabetes (ρ = – 0.33; P =
+0.039 and ρ = – 0.34; P = 0.032 in the 20- to 44- and 45- to
+64-year age groups, respectively).
+
+An important interaction was detected and presented in
+Table III. Countries with low fish-seafood consumption
+showed type 2 diabetes prevalence increasing significantly
+with obesity (0.8 ± 0.3% vs. 2.5 ± 1.8%; P = 0.002 and
+3.3 ± 2.6% vs. 11.0 ± 3.9%, P < 0.0001 for the 20- to 44- and
+45- to 64-year age groups, respectively). In the presence of
+high fish-seafood consumption, however, there was no sig-
+nificant difference in the prevalence of type 2 diabetes be-
+tween groups of countries with low or high prevalence of
+obesity.
+
+No significant difference was noted in the prevalence of
+type 2 diabetes between the study countries with low preva-
+lence of obesity, regardless of their total fish-seafood con-
+sumption. Interestingly, in the presence of a greater preva-
+lence of obesity, there was evidence of significantly reduced
+type 2 diabetes with high fish-seafood consumption
+(2.5 ± 1.8% vs. 0.9 ± 0.7%, P = 0.007 and 11.0 ± 3.9% vs.
+6.2 ± 4.1%, P = 0.041 for the 20- to 44- and 45- to 64-year age
+groups, respectively). In addition, comparisons of the coun-
+tries energy supply showed that the group with high obesity,
+
+Fish-seafood consumption, obesity, and risk of type 2 diabetes: an ecological study
+
+high type 2 diabetes rates, and low fish-seafood consumption
+did not differ from the other 3 groups (data not shown).
+
+Discussion
+
+The prevalence of type 2 diabetes in the 45- to 64-year age
+group was approximately 5-fold higher than in the 20- to
+44-year age group, a finding consistent with others showing
+age as an important risk factor for type 2 diabetes [32, 33].
+The results of this study indicate also a strong, positive rela-
+tionship between obesity and type 2 diabetes, a relationship
+that grew stronger with age, which is in agreement with
+findings documented at the individual level [2, 32]. These
+observations tend to land support to the reliability of the
+datasets. Greater rates of type 2 diabetes and obesity have
+been found in developed countries. Urbanization/
+industrialization may play a major role in the incidence of
+these chronic diseases.
+
+The geographic proximity of the sea as well as the ecol-
+ogy of these countries did not seem to dictate the overall
+consumption of fish and seafood. The annual average per
+capita intake of fish and seafood of the countries studied was
+12.2 kg, approximately 235 g per week. Although there were
+variations in fish and seafood consumption, this quantity is
+in agreement with dietary recommendations, namely 230 g
+or 8 oz of fish representing one fish dish per week [34], the
+same quantity found to be beneficial for cardiovascular
+health [35].
+
+We noted that total fish and seafood consumption modi-
+fies the relationship between type 2 diabetes and obesity. In
+countries with low quantities of fish and seafood available
+for human consumption, the prevalence of type 2 diabetes is
+positively and significantly associated with obesity, while
+there is no evidence of an association in countries with high
+fish-seafood consumption. Moreover, in the presence of a
+low rate of obesity, we observed no significant difference in
+the prevalence of type 2 diabetes between groups of countries
+with low and high levels of fish-seafood consumption. How-
+ever, among both age groups, there was evidence of a signifi-
+cant reduction in the prevalence of type 2 diabetes with high
+fish-seafood consumption. This finding suggests that high
+fish and seafood intake modifies the detrimental effect of
+obesity on type 2 diabetes. Our results seem consistent with
+those obtained at the individual level by the teams of Feskens
+[22, 23], Ekblond [36] and Adler [20]. Feskens et al. [22, 23]
+reported a protective effect of fish intake against the devel-
+opment of glucose intolerance and type 2 diabetes in indi-
+viduals aged 64 years and over consuming 170g of fish per
+week. Ekblond et al. [36] observed a significant reduction of
+urinary glucose excretion, a predictor of type 2 diabetes,
+among women aged 50 to 64 years old who tended to con-
+sume more fish. Adler et al. [20] found that daily salmon
+consumption was associated with a 50% lower risk of glu-
+cose intolerance, a condition now categorized as a stage in
+the natural history of disordered carbohydrate metabolism
+
+Diabetes Metab 2003,29,635-42 • © 2003 Masson, all rights reserved 637
+
+A Nkondjock, O Receveur
+
+Table I
+List and characteristics of 41 countries.
+
+Countries
+
+Australia
+Bangladesh
+Benin
+Bolivia
+Brazil
+Burkina Faso
+Canada
+Central Afr. Rep.
+Chad
+Colombia
+Comoros
+Dominican
+Republic
+Egypt
+Finland
+France
+Ghana
+Guatemala
+Haiti
+Honduras
+Italy
+Ivory Coast
+Kenya
+Madagascar
+Malawi
+Mexico
+Namibia
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Peru
+Saudi Arabia
+Spain
+Switzerland
+Tanzania
+Uganda
+United Kingdom
+USA
+Uzbekistan
+Zambia
+Mean ± SD
+
+Prevalence of type 2
+diabetes in 20- to
+
+Prevalence of type 2
+diabetes in 45- to
+
+44-year age group (%)
+
+64-year age group (%)
+
+Prevalence of
+obesity* (%)
+
+Fish and seafood
+consumption**
+(kg/capita/year)
+
+Dietary energy
+Supply** (Kcal)
+
+0.6
+1.2
+0.7
+1.4
+2.1
+0.6
+2.1
+0.7
+0.7
+1.8
+0.6
+0.9
+
+5.6
+0.5
+0.2
+0.7
+1.3
+0.7
+0.7
+1.7
+0.6
+0.6
+0.7
+0.6
+1.5
+0.5
+1.2
+0.2
+0.6
+1.4
+0.6
+1.7
+4.5
+1.6
+0.2
+0.6
+0.6
+0.2
+1.9
+1.0
+0.6
+
+1.15 ± 1.05
+
+3.0
+4.0
+1.8
+8.1
+9.3
+1.5
+9.8
+1.9
+1.9
+9.5
+1.7
+9.5
+
+19.0
+2.0
+3.2
+11.6
+9.9
+1.5
+12.0
+2.1
+2.7
+9.6
+5.0
+10.5
+
+19.9
+9.0
+9.7
+1.4
+6.4
+1.6
+23.5
+4.5
+6.0
+3.7
+22.8
+11.3
+
+3126
+2069
+2404
+2168
+2893
+2393
+3087
+1894
+1907
+2509
+1837
+2291
+
+17.8
+5.8
+2.4
+1.8
+8.1
+7.3
+7.9
+8.3
+1.7
+1.6
+1.7
+1.5
+14.2
+1.4
+3.7
+2.4
+2.9
+8.9
+1.5
+9.5
+15.5
+8.2
+2.5
+1.5
+1.2
+2.5
+9.5
+8.5
+1.5
+
+5.45 ± 4.37
+
+19.4
+19.0
+7.0
+3.4
+7.4
+2.7
+8.3
+6.3
+3.8
+4.0
+0.6
+1.0
+12.9
+7.7
+0.1
+14.0
+19.0
+11.6
+1.8
+9.2
+20.3
+22.0
+9.0
+3.5
+2.4
+16.0
+22.5
+3.7
+2.7
+
+8.55 ± 6.68
+
+8.7
+34.8
+30.2
+22.9
+1.1
+3.7
+2.4
+23.3
+14.1
+5.7
+7.2
+6.6
+11.1
+11.4
+0.9
+14.0
+21.4
+1.3
+0.6
+23.3
+6.4
+38.5
+17.0
+11.7
+11.3
+20.7
+21.6
+0.7
+8.9
+
+12.23 ± 9.84
+
+3259
+3109
+3551
+2372
+2260
+1861
+2357
+3562
+2506
+1979
+2049
+2008
+3123
+2455
+2371
+3267
+3187
+2209
+2018
+2300
+2775
+3307
+3308
+1977
+2293
+3240
+3614
+2522
+1938
+
+2569.63 ± 553.06
+
+* Among females aged 20-49 years; ** Annual average from 1989 to 2000 reported by the Food and Agriculture Organization.
+
+638
+
+Diabetes Metab 2003,29,635-42 • www.e2med.com/dm
+
+Table II
+Partial correlations between the studied variables (adjusted for dietary energy supply).
+
+Fish-seafood consumption, obesity, and risk of type 2 diabetes: an ecological study
+
+Obesity
+
+1.00
+
+0.09
+
+P = 0.54
+
+0.39
+
+P = 0.012
+(n = 41)
+
+0.48
+
+P = 0.002
+(n = 41)
+
+Obesity
+
+Fish and seafood
+consumption per capita
+
+Prevalence of type 2
+diabetes in 20-
+to-44-year age group
+
+Prevalence of type 2
+diabetes in 45- to
+64-year age group
+
+Fish and seafood
+consumption per
+
+capita
+
+Prevalence of type
+2 diabetes in 20- to
+44-year age group
+
+Prevalence of type
+2 diabetes in 45- to
+64-year age group
+
+1.00
+
+– 0.33
+
+P = 0.032
+(n = 41)
+
+– 0.34
+
+P = 0.039
+(n = 41)
+
+1.00
+
+0.81
+
+P < 0.0001
+(n = 41)
+
+1.00
+
+which refers to an intermediate between normal glucose ho-
+meostasis and diabetes [37]. It is possible that the protective
+effect of fish and seafood revealed in our study may have
+been due to ω-3 fatty acids, since these products are their
+main sources. A beneficial effect of ω-3 fatty acids on type 2
+diabetes was noted in animal experiments and epidemiologi-
+cal studies [38]. Conversely, this effect was not apparent with
+the Iowa Women’s Study cohort [39] or in the KANWU
+study [40].
+
+Our protocol was designed to use databases obtained
+from websites. The data on diabetes were homogeneous be-
+cause the diagnostic criteria and diabetes classification were
+the same for all countries, and the age groups were identical.
+Moreover, these data derive from the same dataset of the
+WHO. However, the rates reported may be underestimated,
+since undiagnosed diabetes was not necessarily counted; re-
+cent estimates indicate that about 50% of all persons with
+diabetes have not been diagnosed [41].
+
+Food balance sheets also came from an online database,
+FAOSTAT. These food balance sheets present a compre-
+hensive picture of the pattern of a country’s food supply
+during a specified reference period. They estimate the quan-
+tities of food available for human consumption that reach
+the consumer, and waste during distribution and processing
+is taken into consideration. As fish and seafood are expen-
+sive, it is logical to consider that when they are purchased,
+they are really consumed. Thus, it seems relevant to use food
+balance sheets for the measurement of not only apparent fish
+and seafood intake, but also of ω-3 fatty acid exposure since
+fish and seafood are their principal sources.
+
+However, this study has some limitations. Data on fish
+and seafood were no doubt substantially underestimated.
+Food balance sheets do not necessarily take into account fish-
+ery products of subsistence, practiced in most countries near
+territorial and maritime waters, particularly in developing
+
+countries. It is possible that this biased our results in such a
+way that the poorest countries are undoubtedly those where
+information is questionable, and an important part of local
+fish and seafood is consumed but not necessarily recorded.
+Thus, there may be a tendency to underestimate the quantity
+of fish and seafood consumed in developing countries. How-
+ever, such a bias may be conservative and may not have af-
+fected the direction of the associations we observed.
+
+The prevalence of obesity in the various countries was
+difficult to estimate. The online database on obesity and
+BMI is announced on the official website of the WHO, but is
+not yet accessible. To make the various countries compa-
+rable, we used WHO criteria (BMI ≥ 30 kg/m2) and selected
+only females since the majority of
+investigators have
+sampled women. Sometimes, the age groups targeted for the
+determination of obesity prevalence were not identical in all
+the countries studied. In such cases, the prevalence of obesity
+in the overall population was considered. This limitation,
+related to harmonization of the prevalence of obesity in dif-
+ferent countries, is also likely to have affected our results.
+However, if the prevalence of obesity in the general popula-
+tion is valid, then we can assume that the prevalence in the
+two age groups would also be valid. Moreover, some data
+were obtained in 1995, and the reported rate of obesity may
+now be underestimated. Indeed, obesity remains a major
+public health problem in virtually all countries. Obesity rises
+sharply and affects all age groups. In the USA, it was re-
+ported that in only one year, from 1998 to 1999, a 6% increase
+was recorded in the prevalence of obesity. This increase was
+found in males and females of all age groups in all areas and
+at all socio-economic and educational levels [42]. It is, there-
+fore, logical to consider that an elevated prevalence of obesity
+would be anticipated in several countries from our database,
+and thus the direction of the reported association may not
+have changed. Furthermore, dietary energy supply may not
+
+Diabetes Metab 2003,29,635-42 • © 2003 Masson, all rights reserved 639
+
+A Nkondjock, O Receveur
+
+Table III
+Prevalence of type 2 diabetes [P(diabetes)]* according to the level of obesity and fish and seafood
+consumed.
+
+Fish and seafood consumption
+
+Obesity
+
+LOW
+(< 11 kg/capita/yr)
+
+HIGH
+(≥ 11kg/capita/yr)
+
+Low (< 7.4%)
+Bangladesh
+Benin
+Burkina Faso
+Guatemala
+Haiti
+Kenya
+Madagascar
+Malawi
+Nepal
+Niger
+Central African Republic
+Chad
+Uzbekistan
+Zambia
+
+P (diabetes)
+20-44 years: 0.8 ± 0.3%a**
+45-64 years: 3.3 ± 2.6%a
+Comoros
+Ivory Coast
+France
+Ghana
+Italy
+Tanzania
+Uganda
+
+High (≥ 7.4%)
+Saudi Arabia
+Egypt
+Nicaragua
+Bolivia
+Brazil
+Colombia
+Honduras
+
+2.5 ± 1.8%b
+11.0 ± 3.9%b
+Australia
+Canada
+Spain
+Finland
+Mexico
+Namibia
+New Zealand
+Netherlands
+Peru
+Dominican Republic
+United Kingdom
+Switzerland
+USA
+
+P(diabetes)
+20-44 years: 0.7 ± 0.5%a
+45-64 years: 2.7 ± 2.5%a
+
+0.9 ± 0.7%b
+6.2 ± 4.1%b
+
+* Mean ± SD; ** The parameters sharing the same superscripts (P > 0.05) are not statistically different (Scheffé’s
+multiple comparisons between the 4 groups).
+
+have been responsible for the observed association since the
+group of countries we identified with high obesity, low fish-
+seafood consumption, and high type 2 diabetes did not sig-
+nificantly differ from the others in dietary energy supply.
+This particular group seems to be a group of countries in fast
+transition.
+
+This study may also be subject to biases inherent in these
+exploratory methods, the “ecological fallacy” being a fore-
+
+warning whereby the associations we reported might reflect
+other unmeasured variables linked to quantities of fish and
+seafood available for human consumption. In that event, the
+associations observed at the national level may not necessar-
+ily reflect the individual level. Nevertheless, given the exist-
+ing information obtained from animal as well as human
+studies [21-23, 36, 43], the present ecological investigation
+supports the hypothesis that high fish and seafood intake
+
+640
+
+Diabetes Metab 2003,29,635-42 • www.e2med.com/dm
+
+may reduce the risk of type 2 diabetes in populations with a
+high prevalence of obesity. Further work at the individual
+level is needed to evaluate whether higher fish and seafood
+intake could be encouraged, particularly among overweight
+or obese individuals, given their high risk of developing type
+2 diabetes.
+
+Aknowledgements − The authors thank Mr. Ovid Da Silva,
+Rédacteur of the Research Support Office, CHUM Research
+Centre, for his editorial work.
+
+References
+
+1. WHO/OMS Expert Committee. The Global Epidemic, 1999.
+2. Mokdad AH, Ford ES, Bowman BA, et al. Prevalence of obesity, dia-
+betes, and obesity-related health risk factors, 2001. JAMA, 2003, 289,
+76-9.
+Scheen AJ. From obesity to diabetes: why, when and who? Acta Clin
+Belg, 2000, 55, 9-15.
+
+3.
+
+4. Tuomilehto J, Lindström J, Eriksson J, et al. Prevention of type 2
+diabetes mellitus by changes in lifestyle among subjects with impaired
+glucose tolerance. N Engl J Med, 2001, 344, 1343-50.
+
+5. Montonen J, Knekt P, Järvinen R, et al. Whole-grain and fiber intake
+
+and the incidence of type 2 diabetes. Am J Clin Nutr, 2003, 77, 622-9.
+Jung RT. Obesity as a disease. Br Med Bull, 1997, 53, 307-21.
+
+6.
+7. Parillo M, Rivellese AA, Ciardullo AV,
+
+al. A high-
+monounsaturated-fat/low-carbohydrate diet improves peripheral in-
+sulin sensitivity in non-insulin-dependant diabetic patients. Metabo-
+lism, 1992, 41, 1373-8.
+
+et
+
+8. Garg A, Grundy SM, Unger RH. Comparison of effects of high and
+low carbohydrate diets on plasma lipoproteins and insulin sensitivity in
+patients with mild NIDDM. Diabetes, 1992, 41, 1278-85.
+
+9. Houstmuller AJ, van Hal-Ferwerda J, Zahn KJ, Henkes HE. Favour-
+able influences of linoleic acid on the progression of diabetic micro- and
+macroangiopathy. Nutr Metab 1980, 24, 105-18.
+
+10. Lardinois CK. The role of omega 3 fatty acids on insulin secretion and
+
+insulin sensitivity. Med Hypotheses, 1987, 24, 243-8.
+
+11. Wesley AJ. Immunonutrition: the role of ω-3 fatty acids. Nutrition,
+
+1998, 14, 627-33.
+
+12. Gletsu NA, Clandinin MT. Impact of dietary fatty acid composition on
+
+insulin action at the nucleus. Ann N Y Acad Sci, 1997, 827, 188-99.
+
+13. Konard RJ, Stoller JZ, Gao ZY, Worf BA. Eicosapentaenoic acid (C20:
+5) augments glucose-induced insulin secretion from beta-TC3 insuli-
+noma cells. Pancreas, 1996, 13, 253-8.
+
+14. Telvis RS, Rasi V, Viinikka L, Ylikorbala O, Miettinen TA. Effects of
+purified fish oil on platelet lipids and function in diabetic women. Clin
+Chim Acta, 1987, 164, 315-22.
+
+15. Field CJ, Goruk SD, Wierzbicki AA, Clandinin MT. The effect of
+dietary fat content and composition on adipocyte lipids in normal and
+diabetic states. Int J Obes, 1989, 13, 747-56.
+
+16. Axelrod L. Omega-3 fatty acids in diabetes mellitus: gift from the sea?
+
+Diabetes, 1989, 38, 539-43.
+
+17. Montori VM, Farmer A, Wollan PC, Dinneen SE. Fish oil supplemen-
+tation in type 2 diabetes. A quantitative systematic review. Diabetes
+Care, 2000, 23, 1407-15.
+
+18. Waldhäusl W, Ratheiser K, Komjati M, Nowotny P, Pirich K, Vier-
+happer H. Increase of insulin sensitivity and improvement of intrave-
+
+Fish-seafood consumption, obesity, and risk of type 2 diabetes: an ecological study
+
+nous glucose tolerance by fish oil in healthy man. In: Chandra RK,
+Health Effects of Fish and Fish Oils, eds. “St. John’s”. Newfoundland:
+ARST Biomedical, 1989, 171-87.
+
+19. Friedberg CE, Janssen MJ, Heine RJ, Grobbee DE. Fish oil and glyce-
+mic control in diabetes: a meta-analysis. Diabetes Care, 1998, 21, 494-
+500.
+
+20. Adler AI, Boyko EJ, Schraer CD, Murphy NJ. Lower prevalence of
+impaired glucose tolerance and diabetes associated with daily seal oil or
+salmon consumption among Alaska Natives. Diabetes Care, 1994, 17,
+1498-501.
+
+21. Murphy NJ, Schraer CD, Bulkow LR, et al. Diabetes mellitus in Alas-
+kan Yup’ik Eskimos and Athabscan Indians after 25 years. Diabetes
+Care, 1992, 15, 1390-2.
+
+22. Feskens EJ, Bowles CH, Kromhout D. Inverse association between
+fish intake and risk of glucose intolerance in normoglycemic elderly
+men and women. Diabetes Care, 1991, 14, 935-41.
+
+23. Feskens EJ, Virtanen SM, Rasanen L, et al. Dietary factors determin-
+ing diabetes and impaired glucose tolerance. Diabetes Care, 1995, 18,
+1104-12.
+
+24. Annuaire démographique. 49e édition. Nations Unies, New York,
+
+1991.
+
+25. http: //www.abs.gov.au assessed on January 2003.
+26. http: //www.moh.govt.nz assessed on January 2003.
+27. http: //www.iotf.org/oonet/itali.htm assessed on May 2002.
+28. http: //www.kfshrc.edu.sa/annals/173/96-177.html assessed on January
+
+2003.
+
+29. http: //www.apimall.com assessed on January 2003.
+30. http: //www.macroint.com assessed on January 2003.
+31. Beer-Borst S, Morabia A, Hercberg S, et al. Europe: the EURALIM
+
+project. J Epidemiol Comm Health, 2000, 54, 424-30.
+
+32. The DECODE Study Group. The European Diabetes Epidemiology
+Group. Age, body mass index and glucose tolerance in 11 European
+population-based surveys. Diabetic Med, 2002, 19, 558-565. The DE-
+CODE Study Group. The European Diabetes Epidemiology Group.
+Age, body mass index and glucose tolerance in 11 European
+population-based surveys. Diabetic Med, 2002, 19, 558-65.
+
+33. Simopoulos AP, Leaf A, Salem N. Workshop on the essentiality of and
+recommended dietary intakes for omega-6 and omega-3 fatty acids. J
+Am Coll Nutr, 1999, 18, 487-9.
+
+34. Resnick HE, Valsania P, Halter JB, Lin X. Relation of weight gain and
+weight loss on subsequent diabetes risk in overweight adults. J Epide-
+miol Comm Health, 2000, 54, 596-602.
+
+35. Satman I, Yilmaz T, Sengul A, et al. Population-based study of diabe-
+tes and risk characteristics in Turkey: results of the Turkish diabetes
+epidemiology study (TURDEP). Diabetes Care, 2002, 25, 1551-6.
+
+36. Ekblond A, Mellemkjaer L, Tjonneland A, et al. A cross-sectional
+study of dietary habits and urinary glucose excretion: a predictor of
+non-insulino-dependent diabetes mellitus. Eur J Clin Nutr, 2000, 54,
+343-9.
+
+37. Ekoé JM, Zimmet P. Diabetes Mellitus: diagnosis and classification. In:
+EkoÉ JM, Zimmet P, Williams R, eds. “The Epidemiology of Diabetes
+Mellitus. An International Perspective”. John Wiley & Sons Ltd, 2001,
+11-29.
+
+38. Feskens EJ, van Dam RM. Dietary fat and the etiology of type 2 diabe-
+tes: an epidemiological perspective. Nutr Metab Cardiovasc Dis, 1999,
+9, 87-95.
+
+39. Meyer KA, Kushi LH, Jacobs DR, Folsom AR. Dietary fat and inci-
+dence of type 2 diabetes in older Iowa women. Diabetes Care, 2001, 24,
+1528-35.
+
+Diabetes Metab 2003,29,635-42 • © 2003 Masson, all rights reserved 641
+
+A Nkondjock, O Receveur
+
+40. Vessby B, Uusitupa M, Hermansen K, et al. Substituting dietary satu-
+rated for monounsaturated fat impairs insulin sensitivity in healthy
+men and women: the KANWU study. Diabetologia, 2001, 44, 312-9.
+
+41. Zimmet P, Cowie C, Ekoé JM, Shaw J. Classification of diabetes melli-
+tus and other categories of glucose intolerance. In: Alberti KG, De-
+fronzo R, Zimmet P, eds. “International textbook of Diabetes Melli-
+tus”. 3rd edition (in press).
+
+42. Mokdad AH, Serdula MK, Dietz WH, Bowman BA, Marks JS, Ko-
+plan JP. The continuing epidemic of obesity in the United States.
+JAMA, 2000, 284, 1650.
+
+43. Suresh Y, Das UN. Long-chain polyunsaturated fatty acids and chemi-
+cally induced diabetes mellitus: effect of ω-3 fatty acids. Nutrition,
+2003, 19, 213-28.
+
+642
+
+Diabetes Metab 2003,29,635-42 • www.e2med.com/dm
+
+

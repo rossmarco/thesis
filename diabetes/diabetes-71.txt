@@ -1,0 +1,1614 @@
+Nutrition, Metabolism & Cardiovascular Diseases (2015) 25, 140e147
+
+Available online at www.sciencedirect.com
+
+Nutrition, Metabolism & Cardiovascular Diseases
+
+journal homepage: www.elsevier.com/locate/nmcd
+
+META-ANALYSIS
+
+Fruit and vegetable consumption and risk of type 2 diabetes
+mellitus: A dose-response meta-analysis of prospective cohort
+studies
+
+Y. Wu, D. Zhang*, X. Jiang, W. Jiang
+Department of Epidemiology and Health Statistics, Qingdao University Medical College, Qingdao, PR China
+
+Received 3 August 2014; received in revised form 19 September 2014; accepted 6 October 2014
+Available online 15 October 2014
+
+KEYWORDS
+Fruit;
+Vegetable;
+Type 2 diabetes
+mellitus;
+Prospective cohort
+studies;
+Dose-response meta-
+analysis
+
+Abstract Background and aims: We conducted a dose-response meta-analysis to summarize the
+evidence from prospective cohort studies regarding the association of fruit and vegetable con-
+sumption with risk of type 2 diabetes mellitus (T2DM).
+Methods and results: Pertinent studies were identiﬁed by searching Embase and PubMed through
+June 2014. Study-speciﬁc results were pooled using a random-effect model. The dose-response
+relationship was assessed by the restricted cubic spline model and the multivariate random-
+effect meta-regression. We standardized all data using a standard portion size of 106 g. The Rela-
+tive Risk (95% conﬁdence interval) [RR (95% CI)] of T2DM was 0.99 (0.98e1.00) for every 1
+serving/day increment in fruit and vegetable (FV) (P Z 0.18), 0.98 (0.95e1.01) for vegetable
+(P Z 0.12), and 0.99 (0.97e1.00) for fruit (P Z 0.05). The RR (95%CI) of T2DM was 0.99 (0.97
+e1.01), 0.98 (0.96e1.01), 0.97 (0.93e1.01), 0.96 (0.92e1.01), 0.96 (0.91e1.01) and 0.96 (0.91
+e1.01) for 1, 2, 3, 4, 5 and 6 servings/day of FV (Pfor non-linearity Z 0.44). The T2DM risk was
+0.96 (0.95e0.99), 0.94 (0.90e0.98), 0.94 (0.89e0.98), 0.96 (0.91e1.01), 0.98 (0.92e1.05) and
+1.00 (0.93e1.08) for 1, 2, 3, 4, 5 and 6 servings/day of vegetable (Pfor non-linearity < 0.01). The
+T2DM risk was 0.95 (0.93e0.97), 0.91 (0.89e0.94), 0.88 (0.85e0.92), 0.92 (0.88e0.96) and 0.96
+(0.92e1.01) for 0.5, 1, 2, 3 and 4 servings/day of fruit (Pfor non-linearity < 0.01).
+Conclusions: Two-three servings/day of vegetable and 2 servings/day of fruit conferred a lower
+risk of T2DM than other levels of vegetable and fruit consumption, respectively.
+ª 2014 Elsevier B.V. All rights reserved.
+
+Introduction
+
+Worldwide, the cases of diabetes have increased from
+nearly 150 million in 1980 to almost 350 million in 2008
+[1] and to 382 million in 2013 [2], and this number is
+expected to rise to 592 million by 2035 [2]. In China, it is
+
+* Corresponding author. Department of Epidemiology and Health
+Statistics, Qingdao University, Dongzhou Road, No.38, Shandong,
+Qingdao 266021, PR China. Tel.: þ86 532 82991712; fax: þ86 532
+83801449.
+
+E-mail addresses: zhangdf1962@aliyun.com, zhangdf1961@126.com
+
+(D. Zhang).
+
+http://dx.doi.org/10.1016/j.numecd.2014.10.004
+0939-4753/ª 2014 Elsevier B.V. All rights reserved.
+
+estimated that 92.4 million adults are afﬂicted with dia-
+betes and 148.2 million adults with prediabetes, and a
+large and highly variable proportion of cases are undiag-
+nosed [3]. According to the reports of World Health Or-
+ganization, 3.4 million people died from consequences of
+high fasting blood glucose in 2004, and diabetes will be
+the 7th leading cause of death in 2030, and type 2 diabetes
+mellitus (T2DM) comprises 90% of people with diabetes
+around the world (http://www.who.int/mediacentre/
+factsheets/fs312/en/, accessed June 22, 2014). Increasing
+fruit and vegetable (FV) consumption could improve the
+overall diet proﬁle by increasing intakes of the micro-
+nutrients, polyphenols and ﬁber, and FV also has a high
+
+Fruit and vegetable consumption and risk of type 2 diabetes mellitus
+
+141
+
+water content and a low energy content [4]. In addition, FV
+consumption confers beneﬁcial effects on markers of
+inﬂammation and oxidative stress [5]. Although a previous
+meta-analysis [6] found no signiﬁcant beneﬁt of FV con-
+sumption on T2DM risk, results from subsequent pro-
+spective cohort studies [7e13] are inconsistent, and the
+potential threshold effect of FV consumption on T2DM risk
+is also unknown. Considering the popularity of FV con-
+sumption as well as increasing prevalence and burden of
+T2DM [14e17], even small health effect of FV consumption
+on T2DM risk could have considerable public health con-
+sequences, thus we conducted a dose-response meta-
+analysis to quantitatively assess the effect of FV con-
+sumption on T2DM risk.
+
+Methods
+
+Literature search and selection
+
+We performed a literature search with PubMed (1950-
+June, 2014) and Embase (1974-June, 2014) databases, using
+the search term (((fruit*) OR vegetable*)) AND ((diabetes)
+OR type 2 diabetes) without limitations. The reference lists
+of retrieved articles were also scrutinized. For inclusion,
+studies had to fulﬁll the following criteria: a prospective
+cohort design; the exposure of
+interest was FV; the
+outcome of interest was T2DM; the number of cases and
+participants or person-years and a risk estimate [eg, haz-
+ard ratio, relative risk (RR) or odds ratio) with its 95%
+conﬁdence interval (95% CI) for 3 or more quantitative
+categories of FV consumption were provided. We reported
+all results with RR, and hazard ratio and odds ratio [11]
+were assumed to be equivalent or accurate estimates of
+RR as did in previous meta-analysis [18,19]. With regards
+to multiple publications and for the purpose of this dose-
+response meta-analysis, the one providing the above-
+mentioned data for dose-response analysis was included.
+For multiple publications that both provided the data for
+dose-response analysis, the one with FV, fruit and vege-
+table (instead of speciﬁc types) as the exposure of interest
+and the most number of participants was included.
+
+Data extraction
+
+The following data were extracted from each study: ﬁrst
+author’s name, publication year, study location, follow-up
+duration, sex, age, sample size, number of cases, methods
+for measurement of FV consumption, number of cases and
+participants (person-years) and RR (95% CI) for each level
+of FV consumption, adjusted covariates. We extracted the
+RR that reﬂected the greatest degree of adjustment for
+confounding variables. For each study, the median level of
+FV consumption for each category was assigned to each
+corresponding RR estimate.
+If upper boundary of the
+highest category was not provided, we assumed that the
+boundary had the same amplitude as the adjacent cate-
+gory. We standardized all data into servings per day, using
+a standard portion size of 106 g [6].
+
+Statistical analysis
+
+The study-speciﬁc RR (95% CI) for every 1 serving/day of
+fruit and vegetable was ﬁrst estimated using the general-
+ized least squares trend estimation [20], and then the in-
+verse variance weighted mean of the logarithm of the
+above-mentioned RR with 95% CI was calculated.
+
+Heterogeneity was assessed with I2, and I2 values of 25,
+50 and 75% represent low, moderate and high heteroge-
+neity [21], respectively. Lower values of I2 mean the study-
+speciﬁc trends of T2DM risk are more similar among the
+included studies. Meta-regression and subgroup analysis
+were conducted to explore potential sources of heteroge-
+neity and perform comparisons between groups, and P
+values from meta-regression were calculated with a per-
+mutation test of 1000 to control the spurious ﬁndings [22].
+Sensitivity analysis was performed with one study
+removed at a time to evaluate the inﬂuence of individual
+studies on the overall risk estimate. Publication bias was
+evaluated using Egger test [23] and Begg test [24] at the
+P < 0.10 level of signiﬁcance, and the trim and ﬁll method
+[25] was used to incorporate the theoretical missing
+studies when publication bias was indicated. Study quality
+was assessed using the 9-star NewcastleeOttawa Scale
+(http://www.ohri.ca/programs/clinical_epidemiology/
+oxford.asp, accessed 3/12/2014).
+
+For assessing a potential non-linear relationship, a 2-
+stage random-effects dose-response meta-analysis [26]
+was performed taking into account the between-study
+heterogeneity. First, a restricted cubic spline model, with
+3 knots at the 25th, 50th, and 75th percentiles of FV
+consumption, was estimated taking into account the cor-
+relation within each set of published RRs [20]. Then, we
+combined the 2 regression coefﬁcients (3 knots minus 1)
+within each study by the restricted maximum likelihood
+method in a multivariate random-effects meta-analysis
+[27]. A P value for non-linearity was calculated by testing
+the null hypothesis that the coefﬁcient of the second spline
+is equal to 0, and a non-linear relationship is indicated
+when P value for non-linearity (Pfor non-linearity) 0.05. The
+lowest value (the reference group) was set to 0 in all
+analysis. The pooled risk of T2DM for each serving/day of
+fruit and vegetable was derived using a procedure to
+tabulate and plot results [28]. One study [11] reported the
+association by sex, thus we combined these 2 estimates
+with a ﬁxed-effect in the main analyses and combined
+each estimate with other respective estimates in sex-
+speciﬁc random-effects analyses. Stata 12.0 was used and
+P  0.05 was considered statistically signiﬁcant (except for
+the publication bias test). This meta-analysis was con-
+ducted following the MOOSE criteria [29].
+
+Results
+
+Literature search and study characteristics
+
+The ﬂow chart is shown in Supplementary Fig. 1. 2 pro-
+spective studies were excluded because of missing data for
+a dose-response analysis [10,30]. 7 articles [8,11,13,31e34]
+
+Table 1 Pooled measure on fruit and vegetable consumption and risk of type 2 diabetes mellitus.
+
+Fruit and vegetable
+Overall
+Subgroup analysis
+Sex
+
+Women
+Men
+Both sexes
+
+Na
+
+7
+
+4
+2
+2
+
+Study location
+
+4
+2
+1
+Duration of follow-up
+4
+3
+
+USA
+Europe
+Asia
+10 years
+<10 years
+Quality score
+
+RR (95% CI) by levels of fruit and vegetable consumption (servings/day)
+1
+0.99 (0.97e1.01)
+
+3
+0.97 (0.93e1.01)
+
+2
+0.98 (0.96e1.01)
+
+4
+0.96 (0.92e1.01)
+
+5
+0.96 (0.91e1.01)
+
+6
+0.96 (0.91e1.01)
+
+1.00 (0.99e1.01)
+0.93 (0.85e1.03)
+0.99 (0.95e1.02)
+
+1.00 (0.98e1.01)
+0.96 (0.94e1.00)
+0.99 (0.96e1.03)
+
+1.00 (0.97e1.03)
+0.90 (0.79e1.03)
+0.98 (0.92e1.03)
+
+1.00 (0.97e1.03)
+0.94 (0.87e1.01)
+0.95 (0.86e1.05)
+
+1.00 (0.95e1.04)
+0.88 (0.75e1.04)
+0.96 (0.88e1.04)
+
+1.00 (0.95e1.05)
+0.91 (0.83e1.00)
+0.93 (0.79e1.09)
+
+1.00 (0.94e1.06)
+0.89 (0.75e1.06)
+0.93 (0.85e1.01)
+
+1.00 (0.94e1.06)
+0.90 (0.83e0.98)
+0.93 (0.78e1.10)
+
+1.00 (0.93e1.07)
+0.90 (0.72e1.12)
+0.91 (0.83e0.99)
+
+1.00 (0.93e1.06)
+0.90 (0.82e0.99)
+0.95 (0.77e1.10)
+
+1.00 (0.94e1.07)
+0.92 (0.72e1.22)
+0.88 (0.80e0.96)
+
+0.99 (0.93e1.06)
+0.90 (0.81e1.00)
+0.97 (0.77e1.25)
+
+0.99 (0.95e1.01)
+1.00 (0.98e1.03)
+
+0.98 (0.94e1.02)
+1.00 (0.96e1.05)
+
+0.97 (0.91e1.02)
+1.00 (0.94e1.07)
+
+0.95 (0.90e1.01)
+1.00 (0.92e1.09)
+
+0.94 (0.89e1.00)
+1.01 (0.91e1.11)
+
+0.94 (0.88e1.00)
+1.01 (0.92e1.12)
+
+7e8 stars
+6 stars
+
+4
+3
+
+0.99 (0.95e1.01)
+1.00 (0.98e1.03)
+
+0.98 (0.94e1.02)
+1.00 (0.96e1.05)
+
+0.97 (0.91e1.02)
+1.00 (0.94e1.07)
+
+0.95 (0.90e1.01)
+1.00 (0.92e1.09)
+
+0.94 (0.89e1.00)
+1.01 (0.91e1.11)
+
+0.94 (0.88e1.00)
+1.01 (0.92e1.12)
+
+Dietary assessment method
+
+FFQ
+Others
+Mean age
+55
+<55
+
+4
+3
+
+2
+5
+
+0.97 (0.94e1.00)
+1.00 (0.97e1.02)
+
+0.93 (0.88e0.99)
+1.01 (0.96e1.04)
+
+0.91 (0.85e0.98)
+1.02(0.93e1.05)
+
+0.89 (0.83e0.96)
+1.01 (0.93e1.07)
+
+0.87 (0.80e0.93)
+1.01 (0.92e1.08)
+
+0.84 (0.77e0.92)
+1.01 (0.91e1.10)
+
+0.99 (0.96e1.01)
+0.99 (0.97e1.01)
+
+0.98 (0.94e1.02)
+0.98 (0.95e1.02)
+
+0.97 (0.91e1.03)
+0.97 (0.92e1.03)
+
+0.96 (0.88e1.04)
+0.97 (0.91e1.03)
+
+0.96 (0.88e1.05)
+0.96 (0.91e1.03)
+
+0.96 (0.88e1.05)
+0.96 (0.90e1.03)
+
+Adjustment of the 8 covariates (smoking, alcohol, total energy intake, BMI, physical activity, FHDM, education and other dietary factors)
+
+7e8
+5e6
+
+Vegetable
+Overall
+Subgroup analysis
+Sex
+
+Women
+Men
+Both sexes
+
+3
+4
+
+7
+
+5
+2
+1
+
+Study location
+
+3
+2
+2
+Duration of follow-up
+3
+4
+
+USA
+Europe
+Asia
+10 years
+<10 years
+Quality score
+
+0.99 (0.96e1.01)
+0.99 (0.97e1.01)
+
+1
+0.96 (0.95e0.99)
+
+0.97 (0.95e1.00)
+0.94 (0.82e1.08)
+0.94 (0.86e1.00)
+
+1.01 (0.99e1.03)
+0.93 (0.86e1.00)
+0.86 (0.82e0.92)
+
+0.98 (0.94e1.02)
+0.98 (0.94e1.02)
+
+2
+0.94 (0.90e0.98)
+
+0.95 (0.91e1.00)
+0.88 (0.75e1.04)
+0.93 (0.84e1.02)
+
+1.02 (0.97e1.06)
+0.91 (0.84e1.00)
+0.76 (0.68e0.85)
+
+0.97 (0.90e1.04)
+0.97 (0.92e1.02)
+
+3
+0.94 (0.89e0.98)
+
+0.95 (0.89e1.00)
+0.80 (0.62e1.03)
+e
+
+1.03 (0.96e1.09)
+e
+0.75 (0.68e0.83)
+
+0.97 (0.90e1.04)
+0.96 (0.90e1.03)
+
+4
+0.96 (0.91e1.01)
+
+0.96 (0.91e1.02)
+e
+e
+
+1.04 (0.97e1.11)
+e
+0.76 (0.66e0.87)
+
+0.98 (0.91e1.05
+0.95 (0.89e1.02)
+
+5
+0.98 (0.92e1.05)
+
+0.99 (0.93e1.06)
+e
+e
+
+1.05 (0.98e1.13)
+e
+e
+
+0.98 (0.90e1.07)
+0.95 (0.89e1.02)
+
+6
+1.00 (0.93e1.08)
+
+1.01 (0.93e1.09)
+e
+e
+
+1.06 (0.98e1.16)
+e
+e
+
+0.97 (0.93e1.01)
+0.93 (0.90e0.97)
+
+0.96 (0.90e1.02)
+0.89 (0.84e0.94)
+
+0.98 (0.93e1.04)
+0.87 (0.80e0.94)
+
+1.01 (0.94e1.08)
+0.88 (0.82e0.96)
+
+e
+0.91 (0.83e0.99)
+
+e
+0.93 (0.84e1.03)
+
+7e8 stars
+6 stars
+
+4
+3
+
+0.94 (0.91e0.97)
+0.99 (0.95e1.03)
+
+0.91 (0.86e0.96)
+0.98 (0.92e1.05)
+
+0.92 (0.88e0.98)
+0.98 (0.88e1.08)
+
+0.95 (0.90e1.02)
+0.99 (0.90e1.09)
+
+0.99 (0.91e1.08)
+1.00 (0.90e1.12)
+
+e
+1.01 (0.90e1.14)
+
+Dietary assessment method
+
+FFQ
+Others
+
+5
+2
+
+0.97 (0.95e1.00)
+0.93 (0.86e1.00)
+
+0.96 (0.91e0.99)
+0.91 (0.83e1.00)
+
+0.94 (0.89e1.00)
+e
+
+0.96 (0.91e1.02)
+e
+
+0.99 (0.92e1.06)
+e
+
+1.00 (0.93e1.09)
+e
+
+1
+4
+2
+
+Pb
+
+0.44
+
+0.61
+0.30
+0.49
+
+0.91
+0.37
+0.37
+
+0.90
+0.80
+
+0.90
+0.80
+
+0.66
+0.83
+
+0.56
+0.64
+
+0.38
+0.67
+
+<0.01
+
+0.02
+0.80
+0.20
+
+0.88
+0.20
+0.01
+
+0.05
+<0.01
+
+<0.01
+0.41
+
+0.02
+0.20
+
+.
+
+Y
+W
+u
+
+e
+t
+
+a
+l
+.
+
+Mean age
+
+55
+<55
+
+2
+5
+
+0.98 (0.93e1.02)
+0.96 (0.93e0.99)
+
+0.95 (0.88e1.03)
+0.93 (0.89e0.98)
+
+0.97 (0.88e1.06)
+0.92 (0.87e0.98)
+
+0.99 (0.89e1.11)
+0.95 (0.89e1.00)
+
+1.02 (0.88e1.18)
+0.97 (0.91e1.04)
+
+1.05 (0.87e1.26)
+0.99 (0.91e1.08)
+
+Adjustment of the 8 covariates (smoking, alcohol, total energy intake, BMI, physical activity, FHDM, education and other dietary factors)
+
+7
+5e6
+
+Fruit
+Overall
+Subgroup analysis
+Sex
+
+Women
+Men
+Both sexes
+
+4
+3
+
+9
+
+6
+3
+1
+
+Study location
+
+5
+2
+2
+Duration of follow-up
+5
+4
+
+USA
+Europe
+Asia
+10 years
+<10 years
+Quality score
+
+0.94 (0.91e0.98)
+0.98 (0.95e1.02)
+
+0.5
+0.95 (0.93e0.97)
+
+0.94 (0.92e0.96)
+0.96 (0.92e1.00)
+0.97 (0.92e1.01)
+
+0.95 (0.93e0.96)
+0.97 (0.92e1.04)
+0.96 (0.93e0.99)
+
+0.90 (0.85e0.96)
+0.97 (0.92e1.03)
+
+1
+0.91 (0.89e0.94)
+
+0.90 (0.87e0.93)
+0.93 (0.86e1.01)
+0.95 (0.88e1.02)
+
+0.91 (0.87e0.94)
+0.94 (0.86e1.03)
+0.92 (0.89e0.97)
+
+0.91 (0.85e0.97)
+0.97 (0.90e1.05)
+
+2
+0.88 (0.85e0.92)
+
+0.86 (0.81e0.90)
+0.91 (0.83e0.99)
+0.93 (0.84e1.03)
+
+0.88 (0.84e0.92)
+0.92 (0.84e1.02)
+0.88 (0.81e0.94)
+
+0.94 (0.88e1.01)
+0.98 (0.91e1.06)
+
+3
+0.92 (0.89e0.96)
+
+0.91 (0.87e0.96)
+0.90 (0.81e1.00)
+0.91 (0.80e1.05)
+
+0.91 (0.86e0.96)
+0.91 (0.80e1.04)
+0.92 (0.85e0.99)
+
+0.98 (0.89e1.07)
+0.99 (0.91e1.10)
+
+4
+0.96 (0.92e1.01)
+
+0.98 (0.92e1.04)
+0.89 (0.79e1.01)
+e
+
+0.94 (0.88e0.99)
+e
+1.02 (0.94e1.11)
+
+0.94 (0.92e0.97)
+0.96 (0.94e0.98)
+
+0.90 (0.86e0.93)
+0.94 (0.90e0.97)
+
+0.88 (0.84e0.92)
+0.89 (0.84e0.95)
+
+0.90 (0.85e0.95)
+0.95 (0.89e1.00)
+
+0.91 (0.85e0.97)
+1.03 (0.96e1.11)
+
+7e8 stars
+6 stars
+
+6
+3
+
+0.94 (0.92e0.96)
+0.98 (0.95e1.00)
+
+0.89 (0.86e0.92)
+0.96 (0.92e1.00)
+
+0.86 (0.83e0.90)
+0.94 (0.87e1.01)
+
+0.90 (0.86e0.94)
+0.98 (0.91e1.04)
+
+0.94 (0.88e0.99)
+1.02 (0.94e1.11)
+
+Dietary assessment method
+
+FFQ
+Others
+Mean age
+52
+<52
+
+7
+2
+
+5
+4
+
+0.95 (0.94e0.97)
+0.97 (0.92e1.04)
+
+0.91 (0.88e0.94)
+0.94 (0.86e1.03)
+
+0.87 (0.84e0.91)
+0.92 (0.84e1.02)
+
+0.91 (0.88e0.95)
+0.91 (0.80e1.03)
+
+0.97 (0.92e1.02)
+e
+
+0.97 (0.94e0.99)
+0.95 (0.93e0.96)
+
+0.95 (0.91e0.99)
+0.90 (0.87e0.93)
+
+0.93 (0.87e0.99)
+0.85 (0.81e0.90)
+
+0.94 (0.88e1.00)
+0.90 (0.86e0.94)
+
+0.95 (0.88e1.03)
+0.97 (0.92e1.03)
+
+Adjustment of the 8 covariates (smoking, alcohol, total energy intake, BMI, physical activity, FHDM, education and other dietary factors)
+
+7
+5e6
+
+3
+6
+
+0.93 (0.89e0.97)
+0.96 (0.94e0.97)
+
+0.87 (0.82e0.93)
+0.92 (0.89e0.95)
+
+0.87 (0.81e0.94)
+0.89 (0.85e0.93)
+
+0.93 (0.87e1.00)
+0.91 (0.87e0.96)
+
+1.01 (0.93e1.10)
+0.94 (0.88e0.99)
+
+e: missing values were generated when the population in a subgroup did not consume the corresponding levels of fruit and/or vegetable.
+BMI: body mass index, FFQ: food-frequency questionnaire, FHDM: family history of diabetes mellitus.
+a Number of studies.
+b P values for non-linearity test, and P  0.05 indicates a non-linear relationship.
+
+e
+1.01 (0.91e1.13)
+
+e
+e
+
+e
+e
+e
+
+e
+e
+e
+
+e
+
+e
+
+e
+e
+
+e
+
+e
+
+0.16
+<0.01
+
+<0.01
+0.25
+
+<0.01
+
+<0.01
+0.24
+0.64
+
+<0.01
+0.46
+<0.01
+
+<0.01
+<0.01
+
+<0.01
+0.04
+
+<0.01
+0.46
+
+0.06
+<0.01
+
+<0.01
+<0.01
+
+F
+r
+u
+i
+t
+
+a
+n
+d
+
+v
+e
+g
+e
+t
+a
+b
+l
+e
+
+c
+o
+n
+s
+u
+m
+p
+t
+i
+o
+n
+
+a
+n
+d
+
+r
+i
+s
+k
+
+o
+f
+
+t
+y
+p
+e
+
+2
+
+d
+i
+a
+b
+e
+t
+e
+s
+
+m
+e
+l
+l
+i
+t
+u
+s
+
+1
+4
+3
+
+144
+
+Y. Wu et al.
+
+and
+
+7
+
+9
+
+studies
+
+for
+
+FV
+
+from 7
+
+consumption,
+
+consumption,
+
+(20,451 T2DM cases among 220,586 subjects) were
+included
+articles
+[8,11,13,31,33e35] (20,329 T2DM cases among 275,112
+subjects) were included for vegetable consumption. For
+fruit
+articles
+[8,9,11,13,31,33,35] (27,998 T2DM cases among 391,148
+subjects) were included, because 3 studies [Nurses’ Health
+Study (NHS), Nurses’ Health Study II (NHS II), and Health
+Professionals Follow-up Study (HPFS)] were included in 1
+article [9]. All included studies met the quality score of
+6e8 stars (Supplementary Table 1), and the main quality
+issues involved self-report of FV consumption, self-report
+of T2DM without conﬁrmation,
+follow-up duration of
+less than 10 years and failure to report the rate of loss to
+follow-up or the effect of loss to follow-up to the result. All
+included studies adjusted for body mass index (BMI).
+Detailed information of the included studies is shown in
+Supplementary Table 2.
+
+Quantitative synthesis
+
+The main results are summarized in Table 1. Intakes at the
+25th, 50th and 75th percentiles were 1.80, 4.00 and 5.97
+servings/day for FV, 1.14, 2.27 and 3.50 servings/day for
+vegetable, and 0.80, 1.45 and 2.40 servings/day for fruit,
+respectively.
+
+FV consumption and T2DM risk
+
+The RR (95% CI) of T2DM was 0.99 (0.98e1.00, P Z 0.18,
+Supplementary Fig. 2) for an increment of one serving/day
+in FV (I2 Z 56.2%). No publication bias was detected in
+both Egger (P Z 0.33) and Begg (P Z 0.37)
+test
+(Supplementary Fig. 3).
+
+Compared with people who had no daily consumption
+of FV, the RR (95% CI) of T2DM was 0.99 (0.97e1.01), 0.98
+(0.96e1.01), 0.97 (0.93e1.01), 0.96 (0.92e1.01), 0.96
+(0.91e1.01) and 0.96 (0.91e1.01) for 1, 2, 3, 4, 5 and 6
+servings/day of FV consumption (Pfor non-linearity Z 0.44,
+Fig. 1). 100% orange juice and 100% apple juice
+were included as fruit consumption in 1 study [11], and
+the results were similar after excluding this single study
+[11].
+
+Vegetable consumption and T2DM risk
+
+The RR (95% CI) of T2DM was 0.98 (0.95e1.01, P Z 0.12,
+Supplementary Fig. 2) for an increment of one serving/day
+in vegetable (I2 Z 78.3%). No publication bias was detec-
+ted in both Egger (P Z 0.15) and Begg (P Z 0.13) test
+(Supplementary Fig. 3).
+
+Compared with people who had no daily consumption
+the RR (95% CI) of T2DM was 0.96
+of vegetable,
+(0.95e0.99), 0.94 (0.90e0.98), 0.94 (0.89e0.98), 0.96
+(0.91e1.01), 0.98 (0.92e1.05) and 1.00 (0.93e1.08) for 1, 2,
+3, 4, 5 and 6 servings/day of vegetable consumption (Pfor
+non-linearity < 0.01, Fig. 2).
+
+Figure 1 The dose-response analysis between total fruit and vegetable
+consumption and risk of type 2 diabetes mellitus. The solid line and the
+long dash line represent the estimated relative risk and its 95% conﬁ-
+dence interval.
+
+Fruit consumption and T2DM risk
+
+The RR (95% CI) of T2DM was 0.99 (0.97e1.00, P Z 0.05,
+Supplementary Fig. 2) for an increment of one serving/day
+of FV (I2 Z 18.6%). No publication bias was detected in
+both Egger (P Z 0.68) and Begg (P Z 0.47)
+test
+(Supplementary Fig. 3).
+
+Compared with people who had no daily consumption
+of fruit, the RR (95% CI) of T2DM was 0.95 (0.93e0.97), 0.91
+(0.88e0.94), 0.88 (0.85e0.92), 0.92 (0.89e0.96), 0.96
+(0.92e1.01) and 0.97 (0.92e1.03) for 0.5, 1, 2, 3, 4 and 4.2
+(the highest level) servings/day of
+fruit consumption,
+respectively (Pfor non-linearity < 0.01, Fig. 3). 100% orange
+juice and 100% apple juice were included as fruit con-
+sumption in 1 study [11], and the results were similar after
+excluding this single study [11].
+
+Subgroup, meta-regression and sensitivity analyses
+
+As shown in Supplementary Table 3, moderate to high
+heterogeneity was found in the analysis for FV and
+
+Figure 2 The dose-response analysis between vegetable consumption
+and risk of type 2 diabetes mellitus. The solid line and the long dash
+line represent the estimated relative risk and its 95% conﬁdence
+interval.
+
+Fruit and vegetable consumption and risk of type 2 diabetes mellitus
+
+145
+
+A previous meta-analysis [6] found that highest vs.
+lowest category conferred an HR (95% CI) of 0.91
+(0.76e1.09) for vegetable (5 studies), 0.93 (0.83e1.01) for
+fruit (5 studies), 1.00 (0.92e1.09) for total FV (4 studies),
+and 0.86 (0.77e0.97) for green leafy vegetable (4 studies).
+A marginal association was found between T2DM risk and
+highest [0.93 (0.87e1.00)] category of FV (5 studies), and a
+signiﬁcant association was found for green leafy vegetable,
+while no association was found for fruit (6 studies) and for
+vegetable (6 studies) [13]. Categories of FV consumption
+differed between studies, which could complicate the
+interpretation of pooled results across study populations
+with different categories. In this respect, a dose-response
+meta-analysis with restricted cubic spline functions pro-
+vides a solution to the problem from which a summary
+risk estimate can be derived for speciﬁc exposure values
+[36]. Therefore, we conducted a dose-response meta-
+analysis to assess the association of T2DM risk with
+vegetable (7 studies), fruit (9 studies) and FV (7 studies).
+The different number of subjects included and different
+statistical method should explain the different ﬁndings
+with previous meta-analysis.
+
+Obesity is one of the most established risk factors for
+T2DM development [37], and FV consumption is inversely
+associated with weight development [38,39]. FV has a high
+ﬁber content that is inversely associated with T2DM risk
+[40]. FV is the important source of dietary potassium, and
+low dietary potassium increased T2DM risk [41].
+Increasing FV consumption increases intakes of micro-
+nutrient and ﬁber, whereas decreases fat intake [4,42].
+Therefore, health beneﬁts of FV consumption are likely to
+act through an improvement in the overall diet proﬁle [4].
+The risk of T2DM did not decrease further after 2e3
+servings/day of vegetable and 2 servings/day of
+fruit.
+Possible mechanisms might involve the availability of
+nutrients and the digestibility of fruit and vegetable [43].
+In addition, fructose could decrease insulin sensitivity and
+increase risk factors of metabolic syndrome, which results
+from de novo lipogenesis and increased uric acid levels
+during the metabolism of fructose [44e46]. For vegetable
+and fruit, the dose-response relationship suggested a
+continued increase in RR beyond 3 servings/day, which
+might also be partially attributed to the accompanying
+higher consumption of fruit juice [34], because sugar-
+sweetened fruit juice is positively associated with T2DM
+risk [47].
+
+Moderate to high heterogeneity was found for FV and
+vegetable analysis. However, results from meta-regression
+in exploring the potential sources of heterogeneity were
+not consistent. Dietary intake was assessed at baseline,
+and subjects might change their dietary habits during
+follow-up. Although there is modest to good validity for
+the FFQ used in the included studies [48,49], FFQ tends to
+overestimate the intake level of FV than 24-h dietary re-
+calls [48] and 7-day diet diary [50], and validity of FFQ
+varies among countries [49]. Standardization of nutritional
+epidemiology and use of biological markers are needed.
+We used the Newcastle-Ottawa Scale that has been
+adopted in systematic reviews of nonrandomized studies
+
+Figure 3 The dose-response analysis between fruit consumption and
+risk of type 2 diabetes mellitus. The solid line and the long dash line
+represent the estimated relative risk and its 95% conﬁdence interval.
+
+vegetable, and low heterogeneity was found for fruit
+analysis. Therefore, subgroup analysis and meta-regression
+were conducted to explore potential sources of heteroge-
+neity. For FV, dietary assessment method contributed
+signiﬁcantly (P Z 0.03) to heterogeneity, and the associ-
+ation was 0.97 (0.95e0.99, I2 Z 17.1%) for FV assessed by
+food-frequency questionnaire (FFQ), and 1.02 (0.97e1.04,
+I2 Z 0.00%) by other methods. For vegetable, study loca-
+tion contributed signiﬁcantly (P < 0.01) to heterogeneity,
+and the association was 1.01 (0.99e1.02, I2 Z 0.00%) for
+studies conducted in USA, 0.96 (0.93e1.00, I2 Z 0.00%) in
+Europe and 0.93 (0.88e0.98, I2 Z 44.4%) in Asia. For fruit,
+follow-up duration contributed signiﬁcantly (P < 0.01) to
+heterogeneity, and the association was 0.97 (0.96e0.99)
+and 1.00 (0.99e1.02) for studies with a follow-up duration
+of 10 and <10 years, respectively. No signiﬁcant ﬁndings
+were found in other subgroup analysis. The inconsistent
+ﬁndings for sources of heterogeneity across FV, vegetable
+and fruit might be susceptible to the relatively small
+number of studies. In addition, in the included studies,
+Europeans [13] and Asians [11,35] did not consume more
+FV than Americans [9,31,33]. Sensitivity analysis showed
+that no individual study had an excessive inﬂuence on the
+above-mentioned pooled effect (Supplementary Fig. 4).
+Consuming about 2e3 servings/day of vegetable conferred
+a lower T2DM risk than other levels was also observed in
+some subgroup analysis. Consuming 2 servings/day of fruit
+conferred a lower T2DM risk than other levels were also
+observed in most subgroup analysis.
+
+Discussion
+
+This meta-analysis showed that although total FV con-
+sumption was not signiﬁcantly associated with T2DM risk,
+there was a threshold around 2-3 servings/day of vege-
+table and 2 servings/day of fruit, after which the T2DM risk
+did not reduce further. The ﬁndings are consistent with the
+general recommendation to consume ﬁve servings of fruit
+and vegetable a day (3 servings/day of vegetable and 2
+servings/day of fruit).
+
+146
+
+Y. Wu et al.
+
+[51] to assess the study quality score, and signiﬁcant (or
+marginally) association was found among studies with
+higher quality scores. Although the validity and reliability
+of this scale still need to be improved [52], studies with
+higher quality scores were generally characterized with
+larger number of subjects, more accurate assessment of
+exposure and outcome, longer follow-up duration, and a
+higher follow-up rate.
+
+Other limitations are as follows: First, although dietary
+under-reporting and selective recall (of healthier foods)
+can be a problem with dietary assessment in prospective
+cohort studies, these studies are the best evidence avail-
+able because there are very few reliable biomarkers of diet
+as yet and long-term randomized trials are difﬁcult to
+implement. In addition, FFQ is a reasonable tool to assess
+FV intakes in validation studies [53,54]. Second, dietary
+constituents are not consumed in isolation. Although we
+extracted RRs that were adjusted for the most con-
+founders, the extent to which they were adjusted and re-
+sidual confounding should also be considered, like dairy
+foods [55], coffee and tea consumption [56,57], etc. High-
+est adherence to healthy dietary patterns confers a relative
+risk of 0.80 (0.74e0.86) [58], and all of the deﬁned healthy
+dietary patterns include FV, and some also consider whole
+grains, ﬁsh, poultry and meat/red meat [58]. Third, the
+dose-response analysis for speciﬁc types of
+fruit and
+vegetable were not conducted because of limited data.
+Highest vs. lowest intake of green leafy vegetable was
+found inversely associated with T2DM risk [0.86
+(0.77e0.97)] in a previous meta-analysis [6]. A previous
+study [9] including populations from 3 cohorts (NHS, NHS
+II, and HPFS) found that grapes and raisins, bananas, ap-
+ples and pears, grapefruit and blueberries were inversely
+associated with T2DM risk, while cantaloupe was posi-
+tively associated with T2DM risk. Fourth, prospective
+cohort studies rely on nutritional assessment methods
+with validity and reliability being lower compared to the
+randomized controlled trial, which is the ultimate criteria
+for causation [59]-that random allocation to FV realizes a
+reduction in T2DM incidence compared with random
+allocation to placebo. Randomized controlled trials would
+also have minimized the residual confounding; however,
+these long-term randomized trials are difﬁcult to imple-
+ment on a practical basis. Last, there are some discrep-
+ancies regarding the standard portion size of fruit and
+vegetable. For example, the current UK recommendation
+to consume ﬁve servings of fruit and vegetables a day is
+based on 80 g as a serving size [6]. In this meta-analysis,
+we used 106 g as serving size, which is consistent previ-
+ous meta-analysis [6,60].
+
+In conclusion, 2e3 servings/day of vegetable and 2
+servings/day of fruit should be recommended for T2DM
+prevention. Further studies are needed to assess the effect
+of speciﬁc types of fruit and vegetable on T2DM risk.
+
+Conﬂict of interest
+
+None.
+
+Acknowledgments
+
+The authors receive grants from National Natural Science
+Foundation of China (818302485).
+
+Appendix A. Supplementary data
+
+Supplementary data related to this article can be found at
+http://dx.doi.org/10.1016/j.numecd.2014.10.004.
+
+References
+
+[1] Danaei G, Finucane MM, Lu Y, Singh GM, Cowan MJ, Paciorek CJ,
+et al. National, regional, and global trends in fasting plasma
+glucose and diabetes prevalence since 1980: systematic analysis
+of health examination surveys and epidemiological studies with
+370 country-years and 2.7 million participants. Lancet 2011;378:
+31e40.
+
+[2] Guariguata L, Whiting DR, Hambleton I, Beagley J, Linnenkamp U,
+Shaw JE. Global estimates of diabetes prevalence for 2013
+and projections for 2035 for the IDF diabetes atlas. Diabetes
+Res Clin Pract 2014;103(2):137e49. http://dx.doi.org/10.1016/j.
+diabres.2013.11.002.
+
+[3] Yang W, Lu J, Weng J, Jia W, Ji L, Xiao J, et al. Prevalence of dia-
+betes among men and women in China. N Engl J Med 2010;362:
+1090e101.
+
+[4] Woodside JV, Young IS, McKinley MC. Fruits and vegetables:
+measuring intake and encouraging increased consumption. Proc
+Nutr Soc 2013;72:236e45.
+
+[5] Holt EM, Steffen LM, Moran A, Basu S, Steinberger J, Ross JA, et al.
+Fruit and vegetable consumption and its relation to markers of
+inﬂammation and oxidative stress in adolescents. J Am Diet Assoc
+2009;109:414e21.
+
+[6] Carter P, Gray LJ, Troughton J, Khunti K, Davies MJ. Fruit and
+vegetable intake and incidence of type 2 diabetes mellitus: sys-
+tematic review and meta-analysis. BMJ 2010;341. c4229.
+
+[7] von Ruesten A, Feller S, Bergmann MM, Boeing H. Diet and risk of
+chronic diseases: results from the ﬁrst 8 years of follow-up in the
+EPIC-Potsdam study. Eur J Clin Nutr 2013;67:412e9.
+
+[8] Mursu J, Virtanen JK, Tuomainen TP, Nurmi T, Voutilainen S.
+Intake of fruit, berries, and vegetables and risk of type 2 diabetes
+in Finnish men: the Kuopio Ischaemic Heart Disease Risk Factor
+Study. Am J Clin Nutr 2014;99:328e33.
+
+[9] Muraki I, Imamura F, Manson JE, Hu FB, Willett WC, van Dam RM,
+et al. Fruit consumption and risk of type 2 diabetes: results from
+three prospective longitudinal cohort studies. BMJ 2013;347.
+f5001.
+
+[10] Elwood P, Galante J, Pickering J, Palmer S, Bayer A, Ben-Shlomo Y,
+et al. Healthy lifestyles reduce the incidence of chronic diseases
+and dementia: evidence from the caerphilly cohort study. PLoS
+One 2013;8. e81877.
+
+[11] Kurotani K, Nanri A, Goto A, Mizoue T, Noda M, Kato M, et al.
+Vegetable and fruit intake and risk of type 2 diabetes: Japan
+Public Health Center-based Prospective Study. Br J Nutr 2012:
+1e9.
+
+[12] Cooper AJ, Sharp SJ, Lentjes MA, Luben RN, Khaw KT,
+Wareham NJ, et al. A prospective study of the association be-
+tween quantity and variety of fruit and vegetable intake and
+incident type 2 diabetes. Diabetes Care 2012;35:1293e300.
+
+[13] Cooper AJ, Forouhi NG, Ye Z, Buijsse B, Arriola L, Balkau B, et al.
+Fruit and vegetable intake and type 2 diabetes: EPIC-InterAct
+prospective study and meta-analysis. Eur J Clin Nutr 2012;66:
+1082e92.
+
+[14] Capewell S, Buchan I. Why have sustained increases in obesity
+and type 2 diabetes not offset declines in cardiovascular mor-
+tality over recent decades in Western countries? Nutr Metab
+Cardiovasc Dis 2012;22:307e11.
+
+[15] De Berardis G, D’Ettorre A, Graziano G, Lucisano G, Pellegrini F,
+Cammarota S, et al. The burden of hospitalization related to
+diabetes mellitus: a population-based study. Nutr Metab Car-
+diovasc Dis 2012;22:605e12.
+
+Fruit and vegetable consumption and risk of type 2 diabetes mellitus
+
+147
+
+[16] Bruno G, Picariello R, Petrelli A, Panero F, Costa G, Cavallo-Perin P,
+et al. Direct costs in diabetic and non diabetic people: the
+population-based Turin study, Italy. Nutr Metab Cardiovasc Dis
+2012;22:684e90.
+
+[17] Uusitupa M, Tuomilehto J, Puska P. Are we really active in the
+prevention of obesity and type 2 diabetes at the community
+level? Nutr Metab Cardiovasc Dis 2011;21:380e9.
+
+[18] Li S, Shin HJ, Ding EL, van Dam RM. Adiponectin levels and risk of
+type 2 diabetes: a systematic review and meta-analysis. JAMA
+2009;302:179e88.
+
+[19] Aune D, Norat T, Romundstad P, Vatten LJ. Breastfeeding and the
+maternal risk of type 2 diabetes: a systematic review and dose-
+response meta-analysis of cohort studies. Nutr Metab Car-
+diovasc Dis 2014;24:107e15.
+
+[20] Orsini N, Bellocco R, Greenland S. Generalized least squares for
+trend estimation of summarized dose-response data. Stata J
+2006;6:40e57.
+
+[21] Higgins JP, Thompson SG, Deeks JJ, Altman DG. Measuring
+
+inconsistency in meta-analyses. BMJ 2003;327:557e60.
+
+[22] Higgins JP, Thompson SG. Controlling the risk of spurious ﬁnd-
+
+ings from meta-regression. Stat Med 2004;23:1663e82.
+
+[23] Egger M, Davey Smith G, Schneider M, Minder C. Bias in meta-
+analysis detected by a simple, graphical test. BMJ 1997;315:
+629e34.
+
+[24] Begg CB, Mazumdar M. Operating characteristics of a rank cor-
+relation test for publication bias. Biometrics 1994;50:1088e101.
+[25] Duval S, Tweedie R. Trim and ﬁll: a simple funnel-plot-based
+method of testing and adjusting for publication bias in meta-
+analysis. Biometrics 2000;56:455e63.
+
+[26] Orsini N, Li R, Wolk A, Khudyakov P, Spiegelman D. Meta-analysis
+for linear and nonlinear dose-response relations: examples, an
+evaluation of approximations, and software. Am J Epidemiol
+2012;175:66e73.
+
+[27] Jackson D, White IR, Thompson SG. Extending DerSimonian and
+Laird’s methodology to perform multivariate random effects
+meta-analyses. Stat Med 2010;29:1282e97.
+
+[28] Orsini N, Greenland S. A procedure to tabulate and plot results
+after ﬂexible modeling of a quantitative covariate. Stata J 2011;
+11:1e29.
+
+[29] Stroup DF, Berlin JA, Morton SC, Olkin I, Williamson GD,
+Rennie D, et al. Meta-analysis of observational studies in epide-
+miology: a proposal for reporting. Meta-analysis of Observational
+Studies in Epidemiology (MOOSE) group.
+JAMA 2000;283:
+2008e12.
+
+[30] Montonen J, Jarvinen R, Heliovaara M, Reunanen A, Aromaa A,
+Knekt P. Food consumption and the incidence of type II diabetes
+mellitus. Eur J Clin Nutr 2005;59:441e8.
+
+[31] Liu S, Serdula M, Janket SJ, Cook NR, Sesso HD, Willett WC, et al. A
+prospective study of fruit and vegetable intake and the risk of
+type 2 diabetes in women. Diabetes Care 2004;27:2993e6.
+
+[32] Ford ES, Mokdad AH. Fruit and vegetable consumption and dia-
+betes mellitus incidence among U.S. adults. Prev Med 2001;32:
+33e9.
+
+[33] Meyer KA, Kushi LH, Jacobs Jr DR, Slavin J, Sellers TA, Folsom AR.
+Carbohydrates, dietary ﬁber, and incident type 2 diabetes in
+older women. Am J Clin Nutr 2000;71:921e30.
+
+[34] Bazzano LA, Li TY, Joshipura KJ, Hu FB. Intake of fruit, vegetables,
+and fruit juices and risk of diabetes in women. Diabetes Care
+2008;31:1311e7.
+
+[35] Villegas R, Shu XO, Gao YT, Yang G, Elasy T, Li H, et al. Vegetable
+but not fruit consumption reduces the risk of type 2 diabetes in
+Chinese women. J Nutr 2008;138:574e80.
+
+[36] Desquilbet L, Mariotti F. Dose-response analyses using restricted
+cubic spline functions in public health research. Stat Med 2010;
+29:1037e57.
+
+[37] Kodama S, Horikawa C, Fujihara K, Heianza Y, Hirasawa R, Yachi Y,
+et al. Comparisons of the strength of associations with future
+type 2 diabetes risk among anthropometric obesity indicators,
+including waist-to-height ratio: a meta-analysis. Am J Epidemiol
+2012;176:959e69.
+
+[38] Boeing H, Bechthold A, Bub A, Ellinger S, Haller D, Kroke A, et al.
+Critical review: vegetables and fruit in the prevention of chronic
+diseases. Eur J Nutr 2012;51:637e63.
+
+[39] Alinia S, Hels O, Tetens I. The potential association between fruit
+
+intake and body weightea review. Obes Rev 2009;10:639e47.
+
+[40] Yao B, Fang H, Xu W, Yan Y, Xu H, Liu Y, et al. Dietary ﬁber intake
+and risk of type 2 diabetes: a dose-response analysis of pro-
+spective studies. Eur J Epidemiol 2014;29(2):79e88.
+
+[41] Chatterjee R, Colangelo LA, Yeh HC, Anderson CA, Daviglus ML,
+Liu K, et al. Potassium intake and risk of incident type 2 diabetes
+mellitus: the Coronary Artery Risk Development in Young Adults
+(CARDIA) Study. Diabetologia 2012;55:1295e303.
+
+[42] Fulton SL, Cardwell CR, McKinley MC, Woodside JV. The effect of
+increasing fruit and vegetable consumption on overall diet a
+systematic review and meta-analysis. Proc Nutr Soc 2011;70. E66.
+[43] Wang X, Ouyang Y, Liu J, Zhu M, Zhao G, Bao W, et al. Fruit and
+vegetable consumption and mortality from all causes, cardio-
+vascular disease, and cancer: systematic review and dose-
+response meta-analysis of prospective cohort studies. BMJ
+2014;349. g4490.
+
+[44] Stanhope KL, Schwarz JM, Havel PJ. Adverse metabolic effects of
+dietary fructose: results from the recent epidemiological, clinical,
+and mechanistic studies. Curr Opin Lipidol 2013;24:198e206.
+
+[45] Stanhope KL. Role of fructose-containing sugars in the epidemics
+of obesity and metabolic syndrome. Annu Rev Med 2012;63:
+329e43.
+
+[46] Moreno JA, Hong E. A single oral dose of fructose induces some
+features of metabolic syndrome in rats: role of oxidative stress.
+Nutr Metab Cardiovasc Dis 2013;23:536e42.
+
+[47] Xi B, Li S, Liu Z, Tian H, Yin X, Huai P, et al. Intake of fruit juice and
+incidence of type 2 diabetes: a systematic review and meta-
+analysis. PLoS One 2014;9. e93471.
+
+[48] Shu XO, Yang G, Jin F, Liu D, Kushi L, Wen W, et al. Validity and
+reproducibility of the food frequency questionnaire used in the
+Shanghai Women’s Health Study. Eur J Clin Nutr 2004;58:17e23.
+[49] Margetts BM, Pietinen P. European prospective investigation into
+cancer and nutrition: validity studies on dietary assessment
+methods. Int J Epidemiol 1997;26(Suppl. 1):S1e5.
+
+[50] Michels KB, Welch AA, Luben R, Bingham SA, Day NE. Measure-
+ment of fruit and vegetable consumption with diet question-
+naires and implications for analyses and interpretation. Am J
+Epidemiol 2005;161:987e94.
+
+[51] Higgins JP, Green S. Cochrane handbook for systematic reviews of
+
+Interventions Version 5.0.2 [updated September 2009]. 2009.
+
+[52] Hartling L, Hamm M, Milne A, Vandermeer B, Santaguida PL,
+Ansari M, et al. Validity and inter-rater reliability testing of
+quality assessment instruments. rockville (MD): agency for
+healthcare research and quality (US). 2012; March. p. 1e15.
+
+[53] Sauvageot N, Alkerwi A, Albert A, Guillaume M. Use of food
+frequency questionnaire to assess relationships between dietary
+habits and cardiovascular risk factors in NESCAV study: valida-
+tion with biomarkers. Nutr J 2013;12:143.
+
+[54] Bountziouka V, Bathrellou E, Giotopoulou A, Katsagoni C,
+Bonou M, Vallianou N, et al. Development, repeatability and
+validity regarding energy and macronutrient intake of a semi-
+quantitative food frequency questionnaire: methodological con-
+siderations. Nutr Metab Cardiovasc Dis 2012;22:659e67.
+
+[55] Aune D, Norat T, Romundstad P, Vatten LJ. Dairy products and the
+risk of type 2 diabetes: a systematic review and dose-response
+meta-analysis of cohort studies. Am J Clin Nutr 2013;98:
+1066e83.
+
+[56] Jiang X, Zhang D, Jiang W. Coffee and caffeine intake and inci-
+dence of type 2 diabetes mellitus: a meta-analysis of prospective
+studies. Eur J Nutr 2014;53:25e38.
+
+[57] Huxley R, Lee CM, Barzi F, Timmermeister L, Czernichow S,
+Perkovic V, et al. Coffee, decaffeinated coffee, and tea consump-
+tion in relation to incident type 2 diabetes mellitus: a systematic
+review with meta-analysis. Arch Intern Med 2009;169:2053e63.
+[58] Esposito K, Chiodini P, Maiorino MI, Bellastella G, Panagiotakos D,
+Giugliano D. Which diet for prevention of type 2 diabetes? A meta-
+analysis of prospective studies. Endocrine 2014;47(1):107e16.
+
+[59] Hill AB. The environment and disease: association or causation?
+
+Proc R Soc Med 1965;58:295e300.
+
+[60] Dauchet L, Amouyel P, Hercberg S, Dallongeville J. Fruit and
+vegetable consumption and risk of coronary heart disease: a
+meta-analysis of cohort studies. J Nutr 2006;136:2588e93.
+
+

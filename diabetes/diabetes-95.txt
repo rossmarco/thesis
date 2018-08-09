@@ -1,0 +1,1756 @@
+The Journal of Nutrition
+Nutritional Epidemiology
+
+Vegetable but Not Fruit Consumption Reduces
+the Risk of Type 2 Diabetes in Chinese Women1,2
+
+Raquel Villegas,3 Xiao Ou Shu,3* Yu-Tang Gao,4 Gong Yang,3 Tom Elasy,5 Honglan Li,4 and Wei Zheng3
+
+3Department of Medicine, Vanderbilt Epidemiology Center, Institute for Medicine and Public Health, Nashville, TN 37203-1738;
+4Shanghai Cancer Institute, Shanghai, 200032, China; and 5Department of Medicine, Diabetes Research and Training Center,
+Nashville, TN 37232
+
+Abstract
+
+We examined associations between fruit and vegetable intake and the incidence of type 2 diabetes (T2D) in a population-
+
+based prospective study of 64,191 women with no history of T2D or other chronic diseases at study recruitment and with
+
+valid dietary information. Dietary intake was assessed by in-person interviews using a validated FFQ. During 297,755
+
+person-years of follow-up, 1608 new cases of T2D were documented. We used a Cox regression model to evaluate the
+
+association of fruit and vegetable intake (g/d) with the risk of T2D. Quintiles of vegetable intake and T2D were inversely
+
+associated. The relative risk for T2D for the upper quintile relative to the lower quintile of vegetable intake was 0.72
+
+(95%CI: 0.61–0.85; P , 0.01) in multivariate analysis. Individual vegetable groups were all inversely and signiﬁcantly
+
+associated with the risk of T2D. Fruit intake was not associated with the incidence of diabetes in this population. Our data
+
+suggest that vegetable consumption may protect against the development of T2D. J. Nutr. 138: 574–580, 2008.
+
+Introduction
+
+Fruits and vegetables may play a protective role in the develop-
+ment of type 2 diabetes (T2D),6 as they are rich in nutrients and
+other components that are believed to be protective against dia-
+betes, such as antioxidants (1) and ﬁber (2). Fruits and vegetables
+also contain numerous other beneﬁcial phytochemicals, many of
+which are not documented in nutrient databases.
+
+Data regarding the associations between fruit and vegetable
+intake and the risk of T2D are limited and inconsistent (3) and
+some studies were not properly adjusted for potential con-
+founders (4–6). This is a problem because fruit and vegetable
+consumption may act as a marker for a healthy lifestyle. To our
+knowledge, only 3 studies have evaluated associations between
+speciﬁc subgroups of vegetables and hemoglobin A1c (HbA1c)
+and T2D incidence (3,7,8).
+
+Asian populations traditionally have a lower risk of T2D and
+obesity than Western populations. However, that appears to be
+changing. The prevalence of both obesity and T2D have been
+increasing in Asian populations in recent years (9). In the base-
+line survey of the Shanghai Women’s Health Study (SWHS) (10)
+conducted between 1997 and 2000, we found that the prevalence
+of T2D was 5.7%, the prevalence of BMI $ 23 kg/m2 was
+59.1%, and that of BMI $ 25kg/m2 was 35.2% (our un-
+published data). Change in dietary patterns is also taking place
+
+1 Supported by US Public Health Service grant number R01 CA070867.
+2 Author disclosures: R. Villegas, X. O. Shu, Y.-T. Gao, G. Yang, T. Elasy, H. Li,
+and W. Zheng, no conﬂicts of interest.
+6 Abbreviations used: HbA1c, hemoglobin A1c; MET, metabolic equivalent; RR,
+risk ratio; SWHS, Shanghai Women’s Health Study; T2D, type 2 diabetes; WHR,
+waist-to-hip ratio.
+* To whom correspondence should be addressed. E-mail: xiao-ou.shu@vanderbilt.
+edu.
+
+including increased meat
+
+in China,
+intake and decreased
+vegetable intake (11). Higher vegetable intake has been associ-
+ated with less weight gain (12,13), a strong predictor for T2D, in
+Western populations. However, the association of vegetable
+intake with T2D risk in Chinese populations has not been well
+studied (14).
+
+We evaluated the association of fruit and vegetable intake lev-
+els with the incidence of T2D in a large, population-based pro-
+spective study of middle-aged women conducted in Shanghai,
+China, where consumption of vegetables, especially leafy green
+vegetables, is high. We explored whether speciﬁc subgroups of
+vegetables differentially affect T2D risk and we evaluated the
+potential interactions of fruit and vegetable intake with obesity
+and physical activity categories.
+
+Methods
+
+Study population. The SWHS is a population-based prospective cohort
+study of middle-aged women (40–70 y old) conducted in 7 urban com-
+munities in Shanghai, China. Details of the SWHS survey have been
+reported elsewhere (10). From a total of 81,170 women who were invited
+to participate, 75,221 were recruited (92.7% participation rate). Reasons
+for nonparticipation were refusal (3.0%), absence during the enrollment
+period (2.6%), and other reasons such as health, hearing, and speaking
+problems (1.6%). After excluding women ,40 y or .70 y at the time of
+interview (n ¼ 278), 74,942 women remained for the study. Participants
+completed a detailed survey, including a personal interview for assessment
+of dietary intake, physical activity, and measurement of anthropometrics
+and other lifestyle factors. Protocols for the SWHS were approved by the
+Institutional Review Boards of all institutes involved in the study and all
+participants provided written, informed consent. A biannual, personal
+follow-up for all living cohort members was conducted via in-home visits
+from 2000 to 2002 and from 2002 to 2004, with a response rate of 99.8
+
+574
+
+0022-3166/08 $8.00 ª 2008 American Society for Nutrition.
+Manuscript received 27 July 2007. Initial review completed 22 September 2007. Revision accepted 20 December 2007.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/138/3/574/4670257
+by guest
+on 09 August 2018
+
+and 98.7%, respectively; only 934 participants were lost to follow-up. A
+total of 64,227 participants were free of T2D and other chronic diseases
+(cancer and cardiovascular disease) at baseline and they form the basis of
+this report.
+
+Fruit and vegetable intake. Usual dietary intake was assessed through a
+personal interview using a validated FFQ at the baseline recruitment
+survey and again at the ﬁrst follow-up survey (15). If women had a history
+of T2D, cancer, or cardiovascular disease reported between the baseline
+and follow-up surveys, we used dietary data from the baseline FFQ in the
+analysis. For other participants, we used the mean of the baseline and
+follow-up FFQ data. The means of the daily intake of individual food
+items (g/d) were summed to compute total fruit and vegetable intake. Soy
+beans, dried beans, and other legumes were not included as vegetables
+and were evaluated in a separate report. We created speciﬁc vegetable
+groups, including cruciferous vegetables, green leafy vegetables, yellow
+vegetables, tomatoes, allium vegetables, and other vegetables and fruit
+groups, including citrus, watermelon, and other fruits. (see Appendix).
+We used the Chinese Food Composition Tables (16) to estimate energy
+intake (kJ/d) and nutrient intakes. Of 64,227 participants who were free
+of T2D and other chronic diseases at baseline, we excluded participants
+who had extreme values for total energy intake (,2090 or .14,630 kJ/d;
+n ¼ 36) (17), which left 64,191 participants for the ﬁnal analysis.
+
+Other factors as potential confounders. All anthropometric mea-
+surements, including weight, height, and circumferences of waist and
+hips, were taken at baseline recruitment according to a standard protocol
+by trained interviewers who were retired medical professionals (18).
+From these measurements, the following variables were created: BMI,
+weight in kilograms divided by the square of height in meters and waist-
+to-hip ratio (WHR), waist circumference divided by hip circumference.
+A detailed assessment of physical activity was conducted using a
+validated questionnaire (19). The questionnaire evaluated regular exer-
+cise and sports participation during the last 5 y, daily activity, and the daily
+round-trip commute to work. We calculated the metabolic equivalents
+(MET) for each activity using a compendium of physical activity values
+(20). One MET (h/d) is roughly equivalent to 4.18 kJkg21d21 or ;15
+min of moderate intensity (4 MET) activity for an average adult (20). We
+combined each of the exercise and lifestyle activity indices to derive a
+quantitative estimate of overall nonoccupational activity (MET-h/d).
+Occupation-related physical activity was not related to T2D in this pop-
+ulation and thus was not included in the current analysis.
+
+Information on sociodemographic factors such as age, level of edu-
+cation (none, elementary school, middle/high school, college), family
+income in yuan/y (,10,000, 10,000–19,999, 20,000–29,999, $30,000),
+occupation (professional, clerical, manual worker/other, housewife/retired),
+smoking (smoked at least 1 cigarette per day for .6 mo continuously),
+and alcohol consumption (ever drank beer, wine, or spirits at least 3 times
+per week), and presence of hypertension at baseline was collected by using
+a structured questionnaire.
+
+Outcome ascertainment. Incident T2D was identiﬁed through the
+follow-up surveys by asking study participants whether they had been
+diagnosed by a physician as having diabetes since the baseline recruit-
+ment and asking about their glucose test history and/or use of hypo-
+glycemic medication. A total of 1608 study participants reported having
+a T2D diagnosis since the baseline survey. We considered a case of T2D
+as conﬁrmed if a participant reported having been diagnosed with T2D
+and met at least 1 of the following criteria as recommended by the
+American Diabetes Association (21): fasting glucose level $7 mmol/L on
+at least 2 separate occasions; an oral glucose tolerance test with a value
+$11.1 mmol/L; and/or use of hypoglycemic medication (i.e. insulin or
+oral hypoglycemic drugs). Of the 1608 self-reported cases, a total of 896
+participants met the study outcome criteria and are referred to herein as
+conﬁrmed cases of T2D. We performed analyses with both conﬁrmed
+and probable T2D cases and found similar results.
+
+Statistical analysis. Person-years of follow-up for each participant were
+calculated as the interval between the baseline recruitment to the diag-
+nosis of T2D censored at death or completion of the second follow-up
+
+survey. The Cox proportional hazards model was used to assess the asso-
+ciation of fruit and vegetable intake with the incidence of T2D. Food groups
+(g/d) were categorized by quintile distribution, with the lowest quintile
+serving as the reference. Tests for trend were performed by entering the
+categorical variables as continuous parameters in the models. Sociodemo-
+graphic factors and T2D risk factors were adjusted for in the analyses as
+potential confounders. In all models, we adjusted for the following poten-
+tial confounding variables: age, BMI, WHR, total energy, meat intake (all
+entered as continuous variables), as well as income level, education level,
+occupation, physical activity, smoking status, alcohol consumption status,
+and presence of hypertension at baseline (as categorical variables).
+
+We conducted analyses stratiﬁed by BMI, WHR, and physical ac-
+tivity categories. The log-likelihood ratio test was used to evaluate mul-
+tiplicative interactions between fruit and vegetable intake and categories
+of BMI, WHR, and physical activity.
+
+We also conducted analyses adjusting for antioxidants (vitamin C,
+carotene, and vitamin E) and ﬁber. To reduce measurement error and to
+adjust for extraneous variation due to total energy intake, we adjusted
+these nutrients by total energy intake using the residual method de-
+scribed by Willett and Stampfer (22).
+
+All analyses were performed using SAS (version 9.1) and all tests of
+
+statistical signiﬁcance were based on 2-sided probability.
+
+Results
+
+The median intake of fruits was 239.4 g/d and 236.0 g/d for
+vegetables. Age-standardized characteristics of the study popu-
+lation by fruit and vegetable intake are shown in Table 1. A
+higher intake of fruit was associated with younger age, higher
+physical activity, higher educational achievement, being em-
+ployed, and higher household income. Participants with a higher
+fruit intake were more likely to have high BMI and less likely to
+be smokers. A higher vegetable intake was associated with
+younger age, higher physical activity, higher BMI, higher WHR,
+presence of hypertension, and nonsmoking status. Of the par-
+ticipants in the highest quintile of vegetable intake who were free
+of chronic disease at baseline, the percentage with a BMI $
+23 kg/m2 was 56.7%, a BMI $ 25 kg/m2 was 32.64%, and BMI $
+27.5 kg/m2 was 13.10%.
+
+During 4.6 y of follow-up (297,755 person-years total), 1608
+incident cases of T2D were documented. Vegetable intake was
+associated with a decreased risk of T2D. Compared with the
+lowest quintile of intake, the multivariate adjusted relative risks
+(RR) of T2D across quintiles of vegetable intake were 1.00,
+0.74, 0.68, 0.72, and 0.72 (P-trend , 0.001) (Table 2). Because
+participants with hypertension might have increased their fruit
+and vegetable intake following their diagnoses, we conducted
+analyses stratiﬁed by hypertension status (yes/no) and found
+similar results. The RR for quintiles of total vegetable intake for
+hypertensive participants were 1.00, 0.81, 0.65, 0.72, and 0.75
+(P , 0.001) and 1.00, 0.70, 0.71, 0.72, and 0.70 (P , 0.001) for
+nonhypertensive participants. We also examined the association
+between deciles of vegetable intake and the incidence of T2D.
+The RR for deciles of vegetable intake were 1.00, 0.87, 0.68,
+0.72, 0.61, 0.66, 0.67, 0.68, 0.64, and 0.71 (P , 0.001).
+
+There were inverse associations across quintiles of intake of
+cruciferous vegetables, green leafy vegetables, yellow vegetables,
+allium vegetables, tomatoes, and other vegetables. Although trend
+tests were signiﬁcant, some of these inverse associations did not
+follow a linear dose-response relationship. We did not ﬁnd an
+association between fruit intake and the risk of T2D in this pop-
+ulation. Compared with the lowest quintile of intake, the multi-
+variate adjusted RR of T2D across quintiles of fruit were 1.00,
+0.76, 0.79, 0.87, and 1.05 (P-trend 0.30). Similarly, we did not
+ﬁnd a signiﬁcant association between individual fruit groups and
+the risk of T2D. The RR associated with quintiles of consumption
+
+Fruit and vegetable intake and diabetes
+
+575
+
+Downloaded from https://academic.oup.com/jn/article-abstract/138/3/574/4670257
+by guest
+on 09 August 2018
+
+TABLE 1 Age standardized characteristics of participants of the SWHS stratiﬁed by fruit and vegetable intake1
+
+Fruit quintiles
+
+Vegetable quintiles
+
+n
+Age, y
+Dietary factors
+Energy, kJ/d
+Vitamin C, mg/d
+Vitamin E, mg/d
+Carotene, mg/d
+Fiber, g/d
+Meat intake,2 g/d
+WHR $ 0.85, %
+
+BMI, %
+$23
+$25
+$27.5
+
+Smoking, %
+Alcohol, %
+Exercise, %
+High PA,3 %
+Education, %
+
+None
+Elementary
+Up to high school
+College
+
+Income level, %
+
+,10,000 yuan/y
+10,000–19,999 yuan/y
+20,000–29,999 yuan/y
+$30,000 yuan/y
+
+Occupation, %
+Professional
+Clerical
+Manual worker/other
+Housewife/retired
+
+Hypertension, %
+
+Q1
+
+12,840
+53.9
+
+6301.8
+56.7
+10.4
+1921.4
+7.8
+55.5
+20.3
+23.4
+54.6
+32.0
+13.7
+3.9
+2.7
+25.3
+23.9
+
+21.7
+40.1
+26.3
+11.9
+
+21.6
+41.8
+24.3
+12.3
+
+14.9
+13.4
+22.9
+48.1
+18.5
+
+Q2
+
+12,842
+51.7
+
+6650.8
+72.5
+12.2
+2406.2
+9.4
+62.1
+19.4
+23.6
+54.7
+30.4
+12.5
+2.0
+2.2
+31.0
+23.5
+
+19.1
+39.2
+18.1
+13.6
+
+15.4
+40.0
+28.4
+16.2
+
+19.4
+13.4
+23.2
+43.9
+18.2
+
+Q3
+
+12,820
+50.6
+
+6886.1
+85.6
+13.4
+2812.4
+10.6
+65.4
+18.7
+23.8
+56.5
+32.1
+12.6
+1.6
+2.0
+34.5
+24.1
+
+17.8
+38.9
+29.6
+13.8
+
+13.7
+37.8
+30.3
+18.2
+
+21.4
+12.9
+23.0
+42.6
+19.4
+
+Q4
+
+12,853
+49.9
+
+7100.6
+100.5
+14.6
+3255.7
+11.9
+67.8
+18.6
+23.9
+57.5
+32.1
+12.6
+1.2
+1.9
+36.5
+25.0
+
+16.5
+38.1
+30.7
+14.7
+
+13.1
+36.7
+30.0
+20.2
+
+22.0
+12.8
+22.7
+42.5
+18.7
+
+Q5
+
+12,836
+48.8
+
+7605.9
+133.9
+17.1
+4166.7
+14.5
+73.0
+20.2
+24.2
+61.4
+36.5
+14.8
+1.7
+2.5
+38.0
+29.1
+
+15.6
+38.4
+30.6
+15.3
+
+13.3
+34.8
+29.6
+22.3
+
+21.0
+12.6
+12.7
+43.8
+19.4
+
+Q1
+
+12,838
+53.0
+
+6069.8
+47.3
+9.5
+1568.8
+7.5
+52.5
+19.7
+23.6
+52.2
+29.9
+11.7
+2.9
+2.3
+26.4
+21.8
+
+24.6
+42.5
+23.6
+9.3
+
+15.7
+37.8
+29.4
+17.1
+
+19.1
+12.6
+23.1
+45.2
+16.8
+
+Q2
+
+12,839
+51.1
+
+6556.3
+67.5
+11.7
+2232.5
+9.2
+60.4
+19.3
+23.6
+54.7
+30.7
+12.1
+2.3
+2.1
+30.1
+22.8
+
+18.5
+40.1
+27.4
+13.9
+
+15.1
+38.1
+28.9
+17.9
+
+20.4
+13.1
+22.9
+43.6
+18.5
+
+Q3
+
+12,833
+50.5
+
+6891.6
+83.6
+13.2
+2736.3
+10.5
+64.8
+18.6
+23.8
+56.3
+32.5
+13.0
+1.8
+2.1
+32.9
+24.6
+
+15.9
+39.0
+29.6
+25.4
+
+14.9
+37.9
+28.9
+18.3
+
+20.1
+12.9
+23.9
+43.1
+19.1
+
+Q4
+
+12,843
+50.3
+
+7220.1
+103.2
+15.0
+3340.5
+11.9
+69.9
+19.4
+23.8
+58.1
+33.2
+13.3
+1.8
+2.3
+36.2
+26.4
+
+15.0
+37.1
+31.9
+16.0
+
+14.8
+38.7
+28.5
+18.0
+
+20.6
+12.8
+23.1
+43.5
+19.6
+
+Q5
+
+12,838
+50.0
+
+7832.5
+147.7
+18.3
+4684.1
+15.1
+76.2
+19.7
+24.1
+62.3
+36.8
+15.5
+2.0
+2.5
+39.5
+29.4
+
+14.9
+37.6
+32.6
+14.9
+
+16.6
+37.7
+27.3
+18.4
+
+19.3
+13.5
+21.8
+45.4
+20.2
+
+1 Values are means or percentages.
+2 Meat intake is a composite variable that includes beef, poultry, pork, and organ meat.
+3 High PA: Upper quartile of the MET distribution of total nonoccupational physical activity.
+
+of citrus fruits were 1.00, 0.84, 0.84, 0.81, and 1.11 (P ¼ 0.36),
+1.00, 0.84, 0.83, 0.90, and 1.04 (P ¼ 0.47) for watermelon, and
+1.00, 0.77, 0.68, 0.85, and 0.90 (P ¼ 0.28) for other fruits.
+
+In analyses restricted to conﬁrmed diabetes cases, we found
+similar results (Table 3). We excluded participants who had been
+diagnosed with T2D during the ﬁrst year of follow-up. The
+adjusted RR for T2D across quintiles relative to the lowest
+quintile were 1.00, 0.76, 0.68, 0.69, and 0.68 (P , 0.001) for
+vegetables and 1.00, 0.81, 0.83, 0.88, and 1.08 (P ¼ 0.31) for
+fruit.
+
+We assessed potential effect modiﬁcation by BMI (,25 or
+$25) and WHR (,0.85 and .0.85) and physical activity levels
+(using the lower 25% quartile as the cut-off point of the MET
+distribution) with fruit and vegetable intake (Table 4). BMI,
+WHR, or physical activity did not modify the association be-
+tween fruit and vegetable intake and T2D.
+
+We further explored whether the effect of fruit and vegetables in
+the development of T2D could be explained by antioxidants, ﬁber,
+and magnesium. We added each nutrient in the model one at a time
+and in combination to examine whether the primary association
+with fruit or vegetable intake could be explained by nutrient
+
+576 Villegas et al.
+
+intake. The inverse association between vegetable intake and T2D
+became slightly accentuated when the model included vitamin C,
+carotene, and ﬁber, or all antioxidants, magnesium, and ﬁber
+together. The RR of T2D across quintiles of vegetable intake were
+1.00, 0.71, 0.63, 0.63, and 0.56 (P-trend ,0.001) in the analysis
+adjusted for ﬁber, magnesium, and all antioxidants. We observed a
+modest increase in risk of T2D in participants in the highest
+quintile of fruit intake after adjustment for vitamin C, carotene,
+ﬁber, and magnesium, and all antioxidants, magnesium, and ﬁber
+together. The RR for the highest quintile compared with the lowest
+quintile for T2D in fully adjusted analysis was 1.21 (95%CI: 0.99–
+1.49). It is noteworthy that some of the nutrients were highly
+correlated with vegetable and fruit intake. Colinearity may have
+limited our ability to sort out the factors responsible for the vege-
+table and diabetes association.
+
+Discussion
+
+In this large, prospective, population-based study of middle-
+aged Chinese women, higher intake of vegetables was associated
+
+Downloaded from https://academic.oup.com/jn/article-abstract/138/3/574/4670257
+by guest
+on 09 August 2018
+
+TABLE 2 Hazard ratio (HR) of T2D by quintiles of food groups in the SWHS1
+
+All vegetables, g/d
+
+Cases, n
+Person-years
+HR (95%CI)
+
+Cruciferous vegetables, g/d
+
+Cases, n
+Person-years
+HR (95%CI)
+
+Green/leafy vegetables, g/d
+
+Cases, n
+Person-years
+HR (95%CI)
+
+Yellow vegetables, g/d
+
+Cases, n
+Person-years
+HR (95%CI)
+
+Allium vegetables, g/d
+
+Cases, n
+Person-years
+HR (95%CI)
+Tomatoes, g/d
+
+Cases, n
+Person-years
+HR (95%CI)
+
+Other vegetables, g/d
+
+Cases, n
+Person-years
+HR (95%CI)
+All fruits, g/d
+
+Cases, n
+Person-years
+HR (95%CI)
+Citrus fruit, g/d
+
+Cases, n
+Person-years
+HR (95%CI)
+
+Watermelon, g/d
+
+Cases, n
+Person-years
+HR (95%CI)
+Other fruit, g/d
+
+Cases, n
+Person-years
+HR (95%CI)
+
+Q1
+
+121.5
+415
+59,311
+1.00
+5.0
+421
+59,258
+1.00
+28.0
+408
+59,409
+1.00
+0.04
+443
+58,898
+1.00
+2.2
+393
+59,540
+1.00
+6.8
+469
+59,080
+1.00
+40.7
+398
+59,106
+1.00
+87.0
+421
+58,846
+1.00
+2.5
+402
+58,437
+1.00
+29.6
+390
+58,907
+1.00
+27.6
+444
+58,796
+1.00
+
+Q2
+
+181.6
+296
+59,858
+
+Q3
+
+236.0
+270
+59,904
+
+Q4
+
+302.6
+299
+59,524
+
+Q5
+
+428.0
+325
+9146
+
+P-trend2
+
+0.74 0.64–0.87
+
+0.68 0.58–0.80
+
+0.72 0.61–0.84
+
+0.72 0.61–0.85
+
+,0.001
+
+10.9
+318
+59,744
+
+17.0
+282
+59,573
+
+25.8
+250
+59,738
+
+45.2
+334
+59,431
+
+0.79 0.68–0.91
+
+0.69 0.60–0.81
+
+0.60 0.51–0.71
+
+0.72 0.61–0.83
+
+,0.001
+
+51.3
+320
+59,820
+
+70.7
+252
+59,784
+
+94.1
+247
+59,867
+
+136.1
+378
+58,864
+
+0.78 0.68–0.91
+
+0.61 0.52–0.71
+
+0.58 0.49–0.68
+
+0.82 0.71–0.95
+
+,0.001
+
+0.62
+327
+59,419
+
+2.00
+290
+59,835
+
+5.6
+248
+59,552
+
+17.3
+297
+59,174
+
+0.69 0.60–0.80
+
+0.63 0.54–0.73
+
+0.51 0.43–0.60
+
+0.55 0.47–0.64
+
+,0.001
+
+4.2
+309
+59,644
+
+6.5
+286
+59,835
+
+9.8
+293
+59,552
+
+17.9
+324
+59,174
+
+0.79 0.68–0.92
+
+0.70 0.60–0.81
+
+0.70 0.60–0.82
+
+0.69 0.59–0.81
+
+,0.001
+
+17.0
+285
+59,663
+
+30.3
+298
+59,648
+
+49.2
+244
+59,702
+
+88.5
+309
+59,651
+
+0.68 0.59–0.79
+
+0.73 0.63–0.85
+
+0.61 0.52–0.71
+
+0.78 0.67–0.91
+
+,0.001
+
+66.8
+285
+60,016
+
+90.9
+317
+59,656
+
+121.4
+286
+59,849
+
+181.0
+319
+59,117
+
+0.76 0.65–0.88
+
+0.84 0.72–0.98
+
+0.76 0.64–0.89
+
+0.76 0.64–0.89
+
+,0.01
+
+170.4
+271
+59,708
+
+239.4
+270
+59,733
+
+315.0
+288
+59,905
+
+4
+355
+59,555
+
+0.76 0.65–0.88
+
+0.79 0.67–0.92
+
+0.87 0.74–1.02
+
+1.05 0.90–1.23
+
+0.30
+
+10.0
+292
+59,594
+
+16.7
+278
+60,438
+
+25.2
+262
+59,389
+
+44.4
+371
+59,886
+
+0.84 0.72–0.98
+
+0.84 0.72–0.98
+
+0.81 0.69–0.95
+
+1.11 0.95–1.29
+
+0.36
+
+71.3
+295
+59,953
+
+109.7
+280
+59,815
+
+149.1
+294
+59,646
+
+221.0
+346
+59,424
+
+0.84 0.72–0.98
+
+0.83 0.71–0.97
+
+0.90 0.77–1.05
+
+1.04 0.89–1.21
+
+0.47
+
+67.2
+288
+59,636
+
+102.2
+254
+59,743
+
+142.7
+298
+59,721
+
+217.6
+346
+59,846
+
+0.77 0.66–0.90
+
+0.68 0.58–0.80
+
+0.85 0.73–0.99
+
+0.90 0.77–1.05
+
+0.28
+
+1 Intakes are medians.
+2 The Cox proportional hazards model was used to assess the effect of food group or soy protein consumption on the incidence of type 2
+DM. RR: Adjusted for age, daily energy intake, meat intake, BMI, WHR, smoking, alcohol consumption, physical activity, income level,
+education level, occupational status, and hypertension. Tests for trend were performed by entering the categorical variables as continuous
+variables in the models.
+
+with a reduced risk of T2D. Fruit intake and T2D risk were not
+associated.
+
+Our study adds to the limited and conﬂicting data available on
+fruit and vegetable intake and the risk of T2D. An inverse
+association between vegetable, but not fruit, intake and glucose
+intolerance has been found in cross-sectional (6) and prospective
+studies (3,4,23) similar to our study. Inverse associations between
+both fruit and vegetable intake and the risk of glucose intolerance
+(5,8,24) and HbA1c (7) have been also been reported. However,
+other studies have found no association between fruit and/or
+
+vegetable intake and T2D risk (5,14,25–27) or levels of HBA1c
+(28). In a randomized control trial among 577 participants with
+impaired glucose tolerance conducted in China, a diet high in
+fruits and vegetables appeared to reduce the incidence of T2D by
+24% (29). A diet high in fruit and vegetables was also associated
+with a higher insulin sensitivity in the Dietary Approaches to Stop
+Hypertension intervention trial (30).
+
+Few studies have looked at individual vegetable groups and
+the risk of T2D. Yellow and dark-green vegetable intake has
+been associated with lower HbA1c levels and T2D incidence
+
+Fruit and vegetable intake and diabetes
+
+577
+
+Downloaded from https://academic.oup.com/jn/article-abstract/138/3/574/4670257
+by guest
+on 09 August 2018
+
+TABLE 3 HR of T2D by quintiles of food groups in analyses restricted to conﬁrmed cases
+
+of diabetes in the SWHS1,2
+
+All vegetables, g/d
+Cruciferous vegetables, g/d
+Green leafy vegetables, g/d
+Yellow vegetables, g/d
+Allium vegetables, g/d
+Tomatoes, g/d
+Other vegetables, g/d
+All fruits, g/d
+
+Q1
+
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+
+Q2
+
+Q3
+
+Q4
+
+Q5
+
+P-trend3
+
+0.71 0.58–0.87
+0.83 0.68–1.01
+0.86 0.70–1.04
+0.71 0.59–0.88
+0.89 0.73–1.09
+0.76 0.62–0.93
+0.74 0.60–0.90
+0.71 0.58–0.88
+
+0.66 0.54–0.81
+0.75 0.61–0.92
+0.69 0.56–0.85
+0.63 0.51–0.77
+0.65 0.52–0.81
+0.82 0.67–1.00
+0.75 0.61–0.93
+0.73 0.59–0.90
+
+0.69 0.56–0.85
+0.69 0.56–0.85
+0.67 0.54–0.82
+0.49 0.39–0.61
+0.85 0.69–1.04
+0.68 0.55–0.84
+0.75 0.60–0.85
+0.86 0.70–1.05
+
+0.65 0.52–0.81
+0.70 0.56–0.86
+0.78 0.64–0.96
+0.58 0.47–0.71
+0.84 0.68–1.03
+0.82 0.66–1.01
+0.68 0.54–0.85
+0.94 0.76–1.16
+
+,0.001
+,0.01
+,0.01
+,0.001
+0.09
+0.02
+,0.01
+0.94
+
+1 The Cox proportional hazards model was used to assess the effect of food group or soy protein consumption on the incidence of type 2
+DM. RR: Adjusted for age, daily energy intake, meat intake, BMI, WHR, smoking, alcohol consumption, physical activity, income level,
+education level, occupational status, and hypertension.
+2 Values are HR (95%CI).
+3 Tests for trend were performed by entering the categorical variables as continuous variables in the models.
+
+(3,7). In a middle-aged Finnish population, green vegetables but
+not yellow/red vegetables were associated with a lower incidence
+of T2D (8). In the Women’s Health Study, BMI appeared to be an
+effect modiﬁer on the association between green or dark-yellow
+vegetable intake and T2D (3). In our study, both green and
+yellow vegetable intakes were inversely associated with T2D.
+We found that neither BMI nor WHR modiﬁed the effect of
+vegetable intake on risk of T2D.
+
+Several studies investigating the association between fruit and
+vegetable intake were based on cross-sectional surveys and ad-
+justed for a limited number of confounders. For example, in the
+Seven Countries study, an inverse relationship between vegetable
+
+intake and 2-h glucose concentration in an oral glucose tolerance
+test was found, but the analyses were adjusted for only cohort,
+age, BMI, and energy intake (4). In a cross-sectional study of a
+Canadian native population, a protective effect of vegetables on
+impaired glucose tolerance or T2D was reported (OR ¼ 0.41;
+95%CI: 0.18–0.91) (5). This analysis, however, was adjusted for
+only age and sex. Another cross-sectional study in the UK found a
+decreased risk of T2D associated with salad and raw vegetable
+consumption (OR ¼ 0.16; 95%CI: 0.04–0.81) with adjustment
+for age, sex, and family history of T2D (6). When BMI was ad-
+justed for, the association was attenuated. None of these studies
+adjusted for smoking habits, physical activity, or meat intake.
+
+TABLE 4 HR of T2D by fruit and vegetable intake stratiﬁed by BMI, WHR, and physical activity in
+
+the SWHS1
+
+Q1
+
+1.00
+1.00
+
+1.00
+1.00
+
+1.00
+1.00
+
+1.00
+1.00
+
+1.00
+1.00
+
+1.00
+1.00
+
+Q2
+
+Q3
+
+Q4
+
+Q5
+
+P–trend2
+
+0.59 0.45–0.76
+0.85 0.71–1.02
+
+0.64 0.49–0.83
+0.71 0.59–0.87
+
+0.69 0.53–0.90
+0.77 0.63–0.94
+
+0.68 0.51–0.90
+0.79 0.64–0.96
+
+0.77 0.62–0.94
+0.70 0.56–0.88
+
+0.62 0.50–0.77
+0.74 0.58–0.93
+
+0.69 0.56–0.85
+0.74 0.58–0.93
+
+0.69 0.56–0.87
+0.72 0.57–0.92
+
+0.74 0.56–0.99
+0.75 0.62–0.89
+
+0.56 0.40–0.76
+0.72 0.60–0.86
+
+0.75 0.56–1.00
+0.70 0.58–0.84
+
+0.60 0.43–0.84
+0.75 0.62–0.91
+
+0.76 0.58–0.99
+0.72 0.60–0.87
+
+0.89 0.68–1.17
+0.72 0.59–0.87
+
+0.99 0.76–1.30
+0.79 0.65–0.96
+
+1.18 0.90–1.55
+0.98 0.81–1.18
+
+0.65 0.53–0.81
+0.85 0.67–1.06
+
+0.69 0.55–0.85
+0.89 0.70–1.12
+
+0.71 0.58–0.89
+1.06 0.84–1.33
+
+0.94 0.77–1.16
+1.12 0.89–1.42
+
+0.63 0.47–0.86
+0.80 0.67–0.96
+
+0.81 0.60–1.09
+0.77 0.64–0.93
+
+0.84 0.62–1.13
+0.87 0.73–1.05
+
+0.79 0.57–1.08
+1.14 0.95–1.36
+
+,0.001
+0.01
+
+,0.001
+,0.01
+
+,0.01
+,0.01
+
+0.08
+0.97
+
+0.80
+0.15
+
+0.42
+0.14
+
+All vegetables
+BMI ,253
+BMI $25
+P interaction ¼ 0.20
+WHR ,0.854
+WHR $0.85
+P interaction ¼ 0.10
+Low PA5
+Medium/high PA
+P interaction ¼ 0.34
+Fruits
+BMI ,253
+BMI $25
+P interaction ¼ 0.7
+WHR ,0.854
+WHR $0.85
+P interaction ¼ 0.05
+Low PA5
+Medium/high PA
+P interaction ¼ 0.26
+
+1 The Cox proportional hazards model was used to assess the effect of food group or soy protein consumption on the incidence of T2D.
+2 Tests for trend were performed by entering the categorical variables as continuous parameters in the models.
+3 Adjusted for age, daily energy intake, meat intake, WHR, smoking, alcohol consumption, physical activity, income level, education level,
+occupational status, and hypertension.
+4 Adjusted for age, daily energy intake, meat intake, BMI, smoking, alcohol consumption, physical activity, income level, education level,
+occupational status, and hypertension.
+5 Adjusted for age, daily energy intake, meat intake, BMI, WHR, smoking, alcohol consumption, income level, education level, occupational
+status, and hypertension.
+
+578 Villegas et al.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/138/3/574/4670257
+by guest
+on 09 August 2018
+
+The mechanism by which vegetables affect glucose tolerance
+has not been clearly deﬁned but may be associated with the high
+content of antioxidants, (1) ﬁber (2), and magnesium (31) or the
+low glycemic index in vegetables (32). Chronic administration of
+vitamin E has been reported to improve insulin sensitivity (33)
+and vitamin C was associated with higher insulin action in both
+healthy and diabetic people (34). However, in the Health Profes-
+sionals Follow-Up Study, there was no association with the inci-
+dence of T2D after 12 y of supplementation with b-carotene (35).
+In our study, the inverse association between vegetable intake and
+T2D persisted after adjustment for vitamin C, vitamin E, carotene,
+and ﬁber intake. Further adjustment for magnesium intake did
+not alter the association. Taking this evidence into consideration,
+it appears that the beneﬁcial effects of vegetable consumption on
+the risk of T2D cannot be entirely explained by antioxidant vi-
+tamins, magnesium, or ﬁber intake. Vegetables also contain other
+compounds such as phytates, lignans, and isoﬂavones that might
+have an additive or synergistic effect on lowering the risk of T2D.
+Our data suggest that fruit consumption is not associated with
+a lower risk of T2D in this population. Other studies have found
+similar results (3,6,23,27). We do not have a ready explanation as
+to why fruit was not associated with a lower risk of T2D in our
+study population. We speculate that the high fructose content of
+fruit may counteract the protective effect of antioxidants, ﬁber,
+and other antidiabetic compounds of fruit. It has been suggested
+that sugars containing fructose may play a major role in the
+development of hypertension, obesity, diabetes, the metabolic
+syndrome, and in the subsequent development of kidney disease
+(36). However, high serum uric acid concentrations, which have
+been associated with the metabolic syndrome (37), were not
+found to be related to fruit juice intake in a recent study using
+NHANES data (38). More research is needed to investigate the
+association between fructose in fruit and health outcomes.
+
+Several alternative explanations should be considered when
+interpreting our ﬁndings. First, the exact beneﬁt of fruit and
+vegetable intake is very difﬁcult to assess when multiple factors
+such as exercise, not smoking, and maintaining a healthy weight
+may also be contributing a beneﬁcial effect (the healthy lifestyle
+bias) and protecting participants from developing T2D. Fruit and
+vegetable consumption may act as a marker for a healthy lifestyle
+and healthy dietary pattern in general (6,39). This is a potential
+problem in many observational studies of diet and disease and it is
+difﬁcult to exclude. However, in China, dietary patterns are quite
+different from Western societies. Vegetables are widely consumed
+in Shanghai and less correlated with socio-economic status. Fruit
+intake, on the other hand, is associated with higher socioeco-
+nomic factors in this population. Although we adjusted for
+education and income in the analysis, residual confounding
+remains a possible concern for our results, together with potential
+unmeasured confounders.
+
+Participants in the SWHS are a representative sample of the
+Chinese, middle-aged female population in Shanghai. The pro-
+spective design, high participation rate, and high follow-up rates
+minimized the possibility of selection or recall bias. The repeated
+dietary measurements improved the quality of the dietary infor-
+mation and the extensive information available allowed us to
+adjust for a wide range of potentially confounding variables. An
+important limitation of our study is reliance on self-reports of
+T2D. Analyses restricted to participants whose diagnosis of T2D
+was conﬁrmed according to our study criteria showed inverse
+associations between vegetable intake and the incidence of T2D.
+Recall of dietary intake is subject to misclassiﬁcation. This kind of
+nondifferential misclassiﬁcation would tend to weaken associa-
+tions between fruit and vegetable intake and T2D. The pre-
+
+diagnostic or preclinical manifestations of T2D might have lead
+to changes in diet. After we excluded probable cases of T2D and
+participants diagnosed within the ﬁrst year of follow-up, our
+analyses showed a clearer linear association of vegetable intake
+with T2D than analyses that included the total population.
+Further follow-up of the cohort would provide a more deﬁnite
+assessment of the vegetable and T2D association.
+
+Our study adds to the limited and conﬂicting data of the
+associations between fruit and vegetable intake and the risk of
+T2D. A higher intake of vegetables, rich in ﬁber, antioxidants, and
+magnesium and with a low glycemic index, was associated with a
+decreased risk of T2D.
+
+Literature Cited
+
+1. Walker KZ, O’Dea K, Nicholson GC, Muir JG. Dietary composition,
+body weight, and NIDDM. Comparison of high-ﬁber, high-carbohydrate,
+and modiﬁed-fat diets. Diabetes Care. 1995;18:401–3.
+
+2. Hu FB, van Dam RM, Liu S. Diet and risk of Type II diabetes: the role of
+
+types of fat and carbohydrate. Diabetologia. 2001;44:805–17.
+
+3. Liu S, Serdula M, Janket SJ, Cook NR, Sesso HD, Willett WC, Manson
+JE, Buring JE. A prospective study of fruit and vegetable intake and the
+risk of type 2 diabetes in women. Diabetes Care. 2004;27:2993–6.
+
+4. Feskens EJ, Virtanen SM, Rasanen L, Tuomilehto J, Stengard J, Pekkanen
+J, Nissinen A, Kromhout D. Dietary factors determining diabetes and
+impaired glucose tolerance. A 20-year follow-up of the Finnish and Dutch
+cohorts of the Seven Countries Study. Diabetes Care. 1995;18:1104–12.
+5. Gittelsohn J, Wolever TM, Harris SB, Harris-Giraldo R, Hanley AJ,
+Zinman B. Speciﬁc patterns of food consumption and preparation are
+associated with diabetes and obesity in a Native Canadian community.
+J Nutr. 1998;128:541–7.
+
+6. Williams DE, Wareham NJ, Cox BD, Byrne CD, Hales CN, Day NE.
+Frequent salad vegetable consumption is associated with a reduction in
+the risk of diabetes mellitus. J Clin Epidemiol. 1999;52:329–35.
+Sargeant LA, Khaw KT, Bingham S, Day NE, Luben RN, Oakes S,
+Welch A, Wareham NJ. Fruit and vegetable intake and population
+glycosylated haemoglobin levels: the EPIC-Norfolk Study. Eur J Clin
+Nutr. 2001;55:342–8.
+
+7.
+
+8. Montonen J, Jarvinen R, Heliovaara M, Reunanen A, Aromaa A, Knekt
+P. Food consumption and the incidence of type II diabetes mellitus. Eur J
+Clin Nutr. 2005;59:441–8.
+
+9. Yoon KH, Lee JH, Kim JW, Cho JH, Choi YH, Ko SH, Zimmet P, Son
+HY. Epidemic obesity and type 2 diabetes in Asia. Lancet. 2006;368:
+1681–8.
+
+10. Zheng W, Chow WH, Yang G, Jin F, Rothman N, Blair A, Li HL, Wen
+W, Ji BT, Li Q, Shu XO, Gao YT. The Shanghai Women’s Health Study:
+rationale, study design, and baseline characteristics. Am J Epidemiol.
+2005;162:1123–31.
+
+11. Popkin BM, Du S. Dynamics of the nutrition transition toward the
+animal foods sector in China and its implications: a worried perspective.
+J Nutr. 2003; 133(11 Suppl 2)3898–906.
+
+12. He K, Hu FB, Colditz GA, Manson JE, Willett WC, Liu S. Changes in
+intake of fruits and vegetables in relation to risk of obesity and weight
+gain among middle-aged women. Int J Obes Relat Metab Disord.
+2004;28:1569–74.
+
+13. Bes-Rastrollo M, Martinez-Gonzalez MA, Sanchez-Villegas A, de la
+Fuente AC, Martinez JA. Association of ﬁber intake and fruit/vegetable
+consumption with weight gain in a Mediterranean population. Nutri-
+tion. 2006;22:504–11.
+
+14. Woo J, Ho SC, Sham A, Sea MM, Lam KS, Lam TH, Janus ED. Diet
+and glucose tolerance in a Chinese population. Eur J Clin Nutr. 2003;
+57:523–30.
+
+15. Shu XO, Yang G, Jin F, Liu D, Kushi L, Wen W, Gao YT, Zheng W.
+Validity and reproducibility of the food frequency questionnaire used in
+the Shanghai Women’s Health Study. Eur J Clin Nutr. 2004;58:17–23.
+16. Yang G, Wang G, Pan X. China food composition. Beijing: Peking
+
+University Medical Press; 2002.
+
+17. Joshipura KJ, Hu FB, Manson JE, Stampfer MJ, Rimm EB, Speizer FE,
+Colditz G, Ascherio A, Rosner B, Spiegelman D, Willett WC. The effect
+of fruit and vegetable intake on risk for coronary heart disease. Ann
+Intern Med. 2001;134:1106–14.
+
+Fruit and vegetable intake and diabetes
+
+579
+
+Downloaded from https://academic.oup.com/jn/article-abstract/138/3/574/4670257
+by guest
+on 09 August 2018
+
+18. Zhang X, Shu XO, Gao YT, Yang G, Matthews CE, Li Q, Li H, Jin F,
+Zheng W. Anthropometric predictors of coronary heart disease in
+Chinese women. Int J Obes Relat Metab Disord. 2004;28:734–40.
+
+19. Matthews CE, Shu XO, Yang G, Jin F, Ainsworth BE, Liu D, Gao YT,
+Zheng W. Reproducibility and validity of the Shanghai Women’s Health
+Study physical activity questionnaire. Am J Epidemiol. 2003;158:1114–22.
+20. Ainsworth BE, Haskell WL, Whitt MC, Irwin ML, Swartz AM, Strath
+SJ, O’Brien WL, Bassett Jr DR, Schmitz KH, Emplaincourt PO, Jacobs
+Jr DR, Leon AS. Compendium of physical activities: an update of activity
+codes and MET intensities. Med Sci Sports Exerc. 2000; 32 Suppl 9:S498–
+504.
+
+21. ADA. Report of the Expert Committee on the Diagnosis and Classi-
+
+ﬁcation of Diabetes Mellitus. Diabetes Care. 1997;20:1183–97.
+
+22. Willet W, Stampfer M.
+
+total energy intake for
+epidemiological analysis. In: Willet W, editor. Nutritional epidemiology.
+New York: Oxford University Press. 1998.
+
+Implications of
+
+23. Colditz GA, Manson JE, Stampfer MJ, Rosner B, Willett WC, Speizer FE.
+Diet and risk of clinical diabetes in women. Am J Clin Nutr. 1992;55:
+1018–23.
+
+24. Ford ES, Mokdad AH. Fruit and vegetable consumption and diabetes
+
+mellitus incidence among U.S. adults. Prev Med. 2001;32:33–9.
+
+25. Hodge AM, English DR, O’Dea K, Giles GG. Glycemic index and
+dietary ﬁber and the risk of type 2 diabetes. Diabetes Care. 2004;27:
+2701–6.
+
+26. Lundgren H, Bengtsson C, Blohme G, Isaksson B, Lapidus L, Lenner
+RA, Saaek A, Winther E. Dietary habits and incidence of noninsulin-
+dependent diabetes mellitus in a population study of women in
+Gothenburg, Sweden. Am J Clin Nutr. 1989;49:708–12.
+
+27. Meyer KA, Kushi LH, Jacobs DR Jr, Slavin J, Sellers TA, Folsom AR.
+Carbohydrates, dietary ﬁber, and incident type 2 diabetes in older
+women. Am J Clin Nutr. 2000;71:921–30.
+
+28. Gulliford MC, Ukoumunne OC. Determinants of glycated haemoglobin
+in the general population: associations with diet, alcohol and cigarette
+smoking. Eur J Clin Nutr. 2001;55:615–23.
+
+29. Pan XR, Li GW, Hu YH, Wang JX, Yang WY, An ZX, Hu ZX, Lin J,
+Xiao JZ, et al. Effects of diet and exercise in preventing NIDDM in
+
+people with impaired glucose tolerance. The Da Qing IGT and Diabetes
+Study. Diabetes Care. 1997;20:537–44.
+
+30. Ard JD, Grambow SC, Liu D, Slentz CA, Kraus WE, Svetkey LP. The
+effect of the PREMIER interventions on insulin sensitivity. Diabetes
+Care. 2004;27:340–7.
+
+31. Lopez-Ridaura R, Willett WC, Rimm EB, Liu S, Stampfer MJ, Manson
+JE, Hu FB. Magnesium intake and risk of type 2 diabetes in men and
+women. Diabetes Care. 2004;27:134–40.
+
+32. Jenkins DJ, Wolever TM, Buckley G, Lam KY, Giudici S, Kalmusky J,
+Jenkins AL, Patten RL, Bird J, et al. Low-glycemic-index starchy foods
+in the diabetic diet. Am J Clin Nutr. 1988;48:248–54.
+
+33. Paolisso G, D’Amore A, Giugliano D, Ceriello A, Varricchio M,
+D’Onofrio F. Pharmacologic doses of vitamin E improve insulin action
+in healthy subjects and non-insulin-dependent diabetic patients. Am J
+Clin Nutr. 1993;57:650–6.
+
+34. Paolisso G, D’Amore A, Balbi V, Volpe C, Galzerano D, Giugliano D,
+Sgambato S, Varricchio M, D’Onofrio F. Plasma vitamin C affects
+glucose homeostasis in healthy subjects and in non-insulin-dependent
+diabetics. Am J Physiol. 1994;266:261–8.
+
+35. Liu S, Ajani U, Chae C, Hennekens C, Buring JE, Manson JE. Long-
+term beta-carotene supplementation and risk of type 2 diabetes mellitus:
+a randomized controlled trial. JAMA. 1999;282:1073–5.
+
+36. Johnson RJ, Segal MS, Sautin Y, Nakagawa T, Feig DI, Kang DH, Gersch
+MS, Benner S, Sanchez-Lozada LG. Potential role of sugar (fructose) in the
+epidemic of hypertension, obesity and the metabolic syndrome, diabetes,
+kidney disease, and cardiovascular disease. Am J Clin Nutr. 2007;86:899–906.
+37. Hayden MR, Tyagi SC. Uric acid: a new look at an old risk marker for
+cardiovascular disease, metabolic syndrome, and type 2 diabetes
+mellitus: the urate redox shuttle. Nutr Metab (Lond). 2004;1:10.
+
+38. Gao X, Qi L, Qiao N, Choi HK, Curhan G, Tucker KL, Ascherio A.
+Intake of added sugar and sugar-sweetened drink and serum uric acid
+concentration in US men and women. Hypertension. 2007;50:306–12.
+39. Williams DE, Prevost AT, Whichelow MJ, Cox BD, Day NE, Wareham
+NJ. A cross-sectional study of dietary patterns with glucose intoler-
+ance and other features of the metabolic syndrome. Br J Nutr. 2000;
+83:257–66.
+
+Appendix: Composition of food groups shown in Table 2
+
+Food groups
+
+Cruciferous vegetables
+Green leafy vegetables
+Yellow vegetables
+Allium vegetables
+Tomatoes
+Other vegetables
+
+Food items
+
+Green cabbage, Chinese cabbage, cauliflower, white turnip
+Greens, Chinese greens, spinach
+Sweet potatoes, carrots
+Garlic, garlic shoots, heads of garlic, onions, green onions, Chinese chives
+Tomatoes
+Soy bean sprouts, mug bean sprouts, black and white tree fungi, dried xiangu mushrooms, celery, eggplant, wild rice stems, asparagus lettuce, wax
+
+gourd, cucumbers, lufa, fresh mushrooms, peppers, bamboo shoots, lotus root
+
+Fruits
+
+Apples, pears, citrus (tangerines, oranges, grapefruit), banana, grapes, watermelon, peaches, other (strawberries, cantaloupe)
+
+580 Villegas et al.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/138/3/574/4670257
+by guest
+on 09 August 2018
+
+

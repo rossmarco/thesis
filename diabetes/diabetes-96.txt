@@ -1,0 +1,2184 @@
+British Journal of Nutrition (2004), 92, 7–19
+q ILSI 2004
+
+DOI: 10.1079/BJN20041117
+
+Review article
+
+Diet composition and the risk of type 2 diabetes: epidemiological and
+clinical evidence
+
+M. Parillo1 and G. Riccardi2*
+1Azienda Ospedaliera S. Sebastiano di Caserta, Via tescioni 1, 81100, Caserta, Italy
+2Department of Clinical and Experimental Medicine, Federico II University Medical School, Naples, Italy
+
+(Received 24 March 2003 – Revised 22 December 2003 – Accepted 4 February 2004)
+
+In the last 10 years nutritional research on diabetes has improved dramatically in terms of both number of studies produced and quality of
+methodologies employed. Therefore, it is now possible to attempt to provide the evidence on which nutritional recommendations for the
+prevention of type 2 diabetes could be based. We therefore performed a literature search and, among the papers published in indexed jour-
+nals, we selected relevant epidemiological (mostly prospective) and controlled intervention studies. Lifestyle factors that have, so far, been
+consistently associated with increased risk of type 2 diabetes are overweight and physical inactivity. However, recent evidence from epi-
+demiological studies has shown that the risk of type 2 diabetes is also associated with diet composition, particularly with: (1) low ﬁbre
+intake; (2) a high trans fatty acid intake and a low unsaturated:saturated fat intake ratio; (3) absence of or excess alcohol consumption. All
+these factors are extremely common in Western populations and therefore the potential impact of any intervention on them is large: indeed,
+. 90 % of the general population has one or more of these risk factors. The ability to correct these behaviours in the population is esti-
+mated to reduce the incidence of diabetes by as much as 87 %. Recent intervention studies have shown that type 2 diabetes can be pre-
+vented by lifestyle changes aimed at body-weight reduction, increased physical activity and multiple changes in the composition of the
+diet. Within this context, the average amount of weight loss needed is not large, about 5 % initial weight, which is much less than the
+weight loss traditionally considered to be clinically signiﬁcant for prevention of type 2 diabetes. In conclusion, new emphasis on preven-
+tion by multiple lifestyle modiﬁcations, including moderate changes in the composition of the habitual diet, might limit the dramatic
+increase in incidence of type 2 diabetes envisaged worldwide.
+
+Type 2 diabetes: Prevention: Lifestyle: Carbohydrate: Fat: Fibre
+
+impaired
+
+carbohydrate,
+
+Diabetes mellitus is a metabolic disorder of multiple aetiol-
+ogy characterised by chronic hyperglycaemia and associ-
+ated with
+protein
+metabolism. These abnormalities are the consequences of
+either inadequate insulin secretion or impaired insulin
+action, or both. Diabetes has been recently reclassiﬁed
+into four distinct types: type 1; type 2; gestational diabetes
+mellitus; other speciﬁc types (American Diabetes Associ-
+ation, 1997; World Health Organization, 1999).
+
+fat
+
+and
+
+Type 2 diabetes mellitus, until recently referred to as non-
+insulin-dependent diabetes, accounts for about 85 – 95 % of
+all disease cases. In Western countries the estimated preva-
+lence in the population is 4 – 6 %: half of these cases are
+diagnosed, while a similar number remains unrecognised.
+The disease is observed much more frequently in older
+people and in some ethnic communities (up to 40 % of
+Pima Indians). WHO has predicted that the global preva-
+lence of type 2 diabetes will more than double from 1995
+
+to 2025, from 135 million to 300 million (King et al.
+1998; Choi & Shi, 2001).
+
+Long-term complications of type 2 diabetes include reti-
+nopathy (with potential loss of vision) nephropathy (leading
+to renal failure), peripheral neuropathy (with risk of foot
+ulcers and gangrene), and autonomic neuropathy (which
+contributes to erectile dysfunction and cardiac arrhythmia).
+However, most of the morbidity and mortality associated
+with diabetes is attributable to macrovascular compli-
+cations, such as myocardial infarction and acute stroke.
+Diabetes is associated with an age-adjusted cardiovascular
+mortality between 2- and 4-times that of the non-diabetic
+population, while life expectancy is reduced by 5 – 10
+years in middle-aged patients with type 2 diabetes (Stamler
+et al. 1993; Uusitupa et al. 1993; United Kingdom Prospec-
+tive Diabetes Study, 1998; Roselli della Rovere et al. 2003).
+Patients with type 2 diabetes are treated with diet, oral
+agents or insulin in order to keep their blood glucose
+
+Abbreviations: GI, glycaemic index; GL, glycaemic load.
+* Corresponding author: Professor Gabriele Riccardi, fax þ 39 81 5466152, email gabriele.riccardi@unina.it
+
+Downloaded from https://www.cambridge.org/core. Sheridan College, on 08 Aug 2018 at 21:09:41, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms.
+https://doi.org/10.1079/BJN20041117
+
+8
+
+M. Parillo and G. Riccardi
+
+levels as close as possible to normal; treatment is aimed at
+relieving symptoms and at reducing the risk of long-term
+complications, which increase linearly with the degree of
+derangement of the metabolic control. However, although
+the treatment of diabetes has become highly sophisticated,
+optimal blood glucose control is not reached in most cases;
+moreover, microvascular and macrovascular diseases are
+already present in many individuals with undiagnosed or
+newly diagnosed type 2 diabetes. Therefore, prevention
+of diabetes has been authoritatively proposed as a promis-
+ing approach to drastically reduce the huge burden result-
+ing from the
+(American
+Diabetes Association and National Institute of Diabetes,
+Digestive and Kidney Diseases, 2002).
+
+complications of diabetes
+
+The importance of lifestyle modiﬁcations for the preven-
+tion of type 2 diabetes has long been recognised. Several
+observational studies suggest that diabetes is primarily a
+lifestyle disorder; the highest prevalence rates occur in
+developing countries and in populations undergoing ‘wes-
+ternisation’ or modernisation. Under such circumstances,
+genetic susceptibility seems to interact with environmental
+changes, such as sedentary life and overnutrition, leading
+to type 2 diabetes. Populations such as Nauru or Pima
+Indians, who have the highest reported prevalence of dia-
+betes, share the common experience of environmental
+changes since they abandoned their traditional hunter –
+gatherer or agricultural-based lifestyle for
+sedentary
+living and a diet of energy-dense processed foods (West,
+1978; O’Dea, 1992).
+
+However, until very recently, the evidence available to
+support lifestyle modiﬁcations to prevent type 2 diabetes
+has been weak and often inconsistent, and therefore any
+advice to high-risk individuals or to the general population
+has so far been largely based on personal views or, at the
+very best, on a consensus of experts. In the last 10 years
+nutritional research on diabetes has improved dramatically
+in terms of both number of studies produced and quality
+of methodologies employed. Therefore, it is now possible
+to attempt to provide the evidence on which nutritional
+recommendations for the prevention of type 2 diabetes
+could be based.
+
+Weight and low physical-activity levels represent the
+most important risk factors for type 2 diabetes; therefore,
+any strategy for diabetes prevention should consider lifestyle
+modiﬁcation aimed at weight reduction and regular physical
+exercise (American Diabetes Association and National Insti-
+tute of Diabetes, Digestive and Kidney Diseases, 2002).
+However, in this regard, sustained behavioural changes are
+hard to achieve; in addition, the general trend in the last
+few years has been towards an increased prevalence of over-
+weight and a progressive decline in physical activity levels,
+especially among children and adolescents (Deckelbaum &
+Williams, 2001). Conversely, evidence is accumulating that
+diet composition, besides energy intake, also inﬂuences the
+risk of type 2 diabetes; therefore, it may be wise to attempt a
+multifactorial approach to diabetes prevention by introdu-
+cing multiple small changes to adjust unhealthy lifestyles.
+This approach might facilitate compliance and maximise
+the metabolic effects.
+
+Against this background, we reviewed the literature on
+diet and type 2 diabetes risk to take advantage of all the
+
+relevant information available, trying not only to collect
+data, but also, whenever possible,
+to compare studies
+based on different methodologies and thus provide the
+reader with all the information necessary to evaluate the
+consistency and strength of the associations between each
+speciﬁc dietary factor and the prevention of type 2 diabetes.
+Moreover, whenever possible, we have also tried to gather
+information on the possible effects of diet on the pathophy-
+siological mechanisms of type 2 diabetes, as this would
+facilitate the evaluation of a cause – effect relationship
+between a speciﬁc diet component and type 2 diabetes.
+
+Methods
+
+We performed a literature search (MEDLINE) in Septem-
+ber 2003 on dietary factors (fat, protein, carbohydrate, gly-
+caemic index (GI) and glycaemic load (GL), sugars, ﬁbre,
+alcohol, dietary patterns) and type 2 diabetes risk. The
+search produced 310 original papers,
+from which we
+selected all the epidemiological (mostly prospective) and
+controlled intervention studies relevant
+to the topic of
+this review (n 63).
+
+Relationship between diet, insulin sensitivity and the
+development of type 2 diabetes
+
+Energy
+
+Overweight is by far the most important risk factor for type
+2 diabetes. Almost 70 – 80 % of type 2 diabetic patients are
+either overweight or obese; moreover, several long-term
+prospective studies have shown a higher risk of diabetes
+with increasing body weight (Bennet et al. 1971; Knowler
+et al. 1981; Larsson et al. 1981; Van Itallie, 1985; Ohlson
+et al. 1988; Lundegren et al. 1989; Curb & Marcus, 1991;
+Perry et al. 1995; Maggio & Xavier, 1997).
+
+In most studies the relationship between body weight
+and the risk of diabetes is continuous and graded (Colditz
+et al. 1990). The degree of overweight and the distribution
+of fat are important in the development of diabetes. An
+upper body or central distribution of body fat, indepen-
+dently of the absolute level of obesity, increases the risk
+of diabetes (Lapidus et al. 1984; Ohlson et al. 1985; Bjo`rn-
+torp, 1992; Chan et al. 1994; Boyko et al. 2000; Samaras &
+Campbell, 2000). Abdominal fat can be evaluated by
+anthropometric measurements, such as waist circumfer-
+ence, waist:hip cirumference ratio, sagittal abdominal
+diameter or by instrumental techniques such as compu-
+terised tomography or nuclear magnetic resonance imaging
+(speciﬁcally to measure visceral fat). Patients with central
+adiposity (waist circumference . 1·02 m in male and
+. 0·88 m in female patients) have higher insulin levels
+and are more insulin resistant than subjects with a similar
+weight but a peripheral-type of obesity (Abate et al.
+1997; Samaras & Campbell, 2000; Laaksonen et al.
+2003). Abdominal adipose tissue not only has a greater
+metabolic activity but also is anatomically positioned
+closer to the liver,
+implying a greater ﬂux of NEFA
+going to the liver. This, in turn, can interfere with glucose
+oxidation and hepatic extraction of
+insulin. There is
+evidence indicating that elevated plasma NEFA levels
+
+Downloaded from https://www.cambridge.org/core. Sheridan College, on 08 Aug 2018 at 21:09:41, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms.
+https://doi.org/10.1079/BJN20041117
+
+Diet and risk of type 2 diabetes
+
+9
+
+could also impair insulin secretion at the level of the pan-
+creatic b-cells (Boden, 1996; Wiesenthal et al. 1999;
+Frayn, 2000).
+
+Observational data from the Framingham Study on 618
+overweight subjects showed the effects of weight loss on
+risk of diabetes. Sustained weight
+loss led to a 37 %
+lower risk of diabetes (relative risk 0·63 (95 % CI 0·34,
+1·20)) and this effect was stronger for more obese people
+(BMI . 29; relative risk 0·38 (95 % CI, 0·18, 0·81)). In
+particular, those who lost 3·7 – 4·5 kg had a 33 % reduction
+in diabetes risk, whereas those losing more weight had a
+51 % reduction in risk (Moore et al. 2000).
+
+The importance of overweight in relation to the risk of
+type 2 diabetes has been conﬁrmed by intervention studies
+showing that a reduction of body weight decreases the inci-
+dence of diabetes (Toumı`lehto et al. 2001; Diabetes Pre-
+vention Program Research Group, 2002). In addition, in
+those already affected by the disease, weight loss reduces
+fasting hyperglycaemia as a consequence of the reduced
+postabsorptive rates of hepatic glucose production. Further-
+more, weight loss improves insulin sensitivity in peripheral
+tissues and, in particular, increases the capacity of non-oxi-
+dative glucose metabolism (Henry et al. 1986a,b; Albu
+et al. 1997).
+
+Diet composition can inﬂuence the development of type
+2 diabetes by affecting body weight. However, the evidence
+available in the literature is incomplete and in particular
+lacks information from properly designed randomised
+intervention trials. Laboratory experiments in animals and
+clinical studies in human subjects have repeatedly shown
+that dietary factors, particularly fat and energy intakes,
+are strongly and positively associated with excess body
+weight. By contrast, the population-based studies on diet
+and obesity have yielded inconsistent results due to a
+number of factors, including weakness in the study design
+and systematic measurement errors
+in dietary data
+(Riccardi et al. 2004).
+
+Excessive body-fat deposition is a consequence of an
+imbalance between energy intake and energy expenditure;
+therefore, since the majority of the population have sedentary
+lifestyles, it is energy intake that really matters in relation to
+the development of overweight, and energy intake is often
+high when fat-rich foods are consumed in large amounts
+(Astrup, 2001); nevertheless, in some cases, particularly
+in children and adolescents, excessive consumption of
+carbohydrate-rich foods (soft drinks) may be predictive of
+overweight (Ludwig et al. 2001). There is also evidence
+that consumption of a low-energy (high ﬁbre) diet reduces
+energy intake, thus facilitating weight reduction (Yao &
+Roberts, 2001). However, there are no long-term clinical
+trials examining the effects of diet composition on
+body-weight regulation.
+
+Carbohydrates and ﬁbre
+
+Carbohydrate is traditionally classiﬁed as sugars, oligosac-
+charides and polysaccharides on the basis of its chemical
+structure (Bantle, 1989; Asp, 1994; Food and Agriculture
+Organization/World Health Organization, 1998). However,
+a classiﬁcation based purely on their chemistry does not
+provide a ready guide to their importance for health.
+
+the most
+
+More important is classiﬁcation based on their ability to
+be digested and absorbed in the human small intestine,
+thus contributing directly or indirectly to the body’s carbo-
+hydrate pool (glycaemic carbohydrates); in this classiﬁ-
+cation carbohydrates that are not digested and absorbed
+in the human small intestine are kept separate from glycae-
+mic carbohydrates, and among them dietary ﬁbre rep-
+resents
+important group (Trowell, 1976;
+Cummings & Englyst, 1987, 1991; Parillo & Riccardi,
+1995; Vinik & Jenkins, 1998). Carbohydrate-rich foods
+can also be classiﬁed on the basis of their effects on post-
+prandial glycaemia, which can be expressed as GI. This
+index is based on the increase in blood glucose concen-
+tration (the incremental area under the curve of blood glu-
+cose concentration) after the ingestion of a portion of a test
+food containing 50 g carbohydrate, divided by the incre-
+mental blood glucose area achieved with the same
+amount (50 g) of carbohydrate present in an equivalent por-
+tion of reference food (glucose or white bread). Fibre-rich
+foods often have a low GI, although some foods with a
+low-ﬁbre content may also have a low GI (Jenkins et al.
+1982, 1984; Parillo et al. 1985; Hollenbeck et al. 1986;
+Riccardi & Rivellese, 1987; Bjorck et al. 2000).
+
+Several beneﬁcial effects of high-ﬁbre low-GI diets have
+been shown,
+including lower postprandial glucose and
+insulin responses, improved lipid control and, possibly,
+improved insulin sensitivity (Parillo et al. 1988; Fugawa
+et al. 1990; Riccardi & Rivellese, 1991; Frost et al.
+1998; Wolk et al. 1999; Chandalia et al. 2000; Wolever,
+2000; Ford & Liu, 2001). There is no exact value of a
+high- or low-GI diet. However, it seems clear that: (1)
+the lower the GI the better the metabolic effects; (2) the
+differences between a low- (, 70) and a high- (. 80) GI
+diet should be at least 10 % in order to achieve measurable
+metabolic effects (Willett et al. 2002).
+
+In epidemiological studies the intake of either total
+carbohydrate or sugars (sucrose) does not predict the risk
+of diabetes (Yang et al. 2003). In particular, in most studies
+in which the relationship between intake of reﬁned sugars
+and incidence of type 2 diabetes has been examined, the
+results show no positive association between sucrose con-
+sumption and risk of diabetes (Howard & Wylie-Rosett,
+2002; Willett et al. 2002; Janket et al. 2003). Conversely,
+there is strong evidence that a diet rich in carbohydrate and
+ﬁbre and with low GI may contribute to the prevention of
+diabetes prevention (Table 1). Some prospective studies
+have shown an inverse relationship between the consump-
+tion of ﬁbre-rich foods and the risk of type 2 diabetes. In
+two of them a slight decrease in diabetes risk was also
+found with a low-GI diet compared with a high-GI diet
+(Salmero`n, 1997a,b). These results, however, have not
+been conﬁrmed in all studies (Feskens & Kromhout,
+1989; Lundgren et al. 1989; Feskens et al. 1995; Williams
+et al. 1999; van Dam et al. 2000; Hu & van Dam, 2001;
+Meyer et al. 2001; Stevens et al. 2002; Willett et al.
+2002; Mantonen et al. 2003).
+
+Since postprandial blood glucose response is inﬂuenced
+not only by the GI value of the food, but also by the
+amount of ingested carbohydrate, the concept of GL (the
+GI of a speciﬁc food multiplied by the amount of carbo-
+hydrate contained in an average portion of
+the food
+
+Downloaded from https://www.cambridge.org/core. Sheridan College, on 08 Aug 2018 at 21:09:41, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms.
+https://doi.org/10.1079/BJN20041117
+
+10
+
+M. Parillo and G. Riccardi
+
+Table 1. Major prospective studies on dietary carbohydrate, ﬁbre and risk of type 2 diabetes
+
+Study
+
+Gothenburg (Lundgreen et al. 1989)
+Zutphen Study (Feskens &
+
+Kromhout, 1989)
+
+Seven Countries Study
+(Feskens et al. 1995)
+
+Nurses’ Health Study (140)
+
+(Salmero` n et al. 1997b)
+
+Health Professionals’ Study
+
+(Salmero` n et al. 1997a)
+
+Iowa Women’s Health Study
+
+(Meyer et al. 2001)
+
+US adults (Ford & Mokdad, 2001)
+ARIC Study (Stevens et al. 2002)
+Finnish Mobile Clinic
+
+(Montonen et al. 2003)
+
+Subjects (n)
+
+Follow-up
+
+(years)
+
+Diet assessment
+
+Associations
+
+1462
+841
+
+338
+
+65 173
+
+42 759
+
+35 988
+
+9665
+12 251
+4316
+
+12
+25
+
+20
+
+6
+
+6
+
+6
+
+18
+9
+10
+
+24 h recall
+Dietary history
+
+Dietary history
+
+FFQ
+
+FFQ
+
+FFQ
+
+No associations
+No associations
+
+Inverse association with
+
+vegetables and legumes
+
+Inverse association with ﬁbre; positive
+
+association with glycaemic load
+
+Inverse association with ﬁbre;
+
+positive association with glycaemic load
+
+Inverse association with ﬁbre;
+
+no association with glycaemic
+index or glycaemic load
+
+24 h recall
+FFQ
+Dietary history
+
+Inverse association with vegetable intake
+Inverse association with cereal ﬁbre
+Inverse association with cereal ﬁbre
+
+ARIC, Atherosclerosis Risk in Communities; NHEFS, ; FFQ, food-frequency questionnaire.
+
+consumed) has been developed in epidemiological studies
+to represent better the quantity and quality of carbo-
+hydrates consumed. Each unit of dietary GL represents
+the equivalent glycaemic effect of 1 g carbohydrate from
+white bread, which is used as the reference food (Willett
+et al. 2002). The Nurses’ Health Study on 65 173 female
+subjects followed for 6 years, in which 915 new cases of
+diabetes developed, reports an increase in the incidence
+of diabetes in those consuming a diet with a higher GL,
+especially if in combination with a low intake of cereal
+ﬁbre. In this study the relative risk of type 2 diabetes
+was 2·50 (95 % CI 1·14, 5·51) for women with the combi-
+nation of high GL and low-ﬁbre intake (GL. 165 and
+cereal ﬁbre , 2·5 g/d v. GL, 143 and cereal ﬁbre
+. 5·8 g/d) (Salmero`n et al. 1997; Liu et al. 2000). In
+addition, the GI of the diet was also positively associated
+with the risk of diabetes, with a continuous relationship
+from a low (, 70) to medium (70 – 80) to high (. 80)
+-GI diet (P, 0·04). These results have been conﬁrmed in
+men in the Health Professionals’ follow-up study (Sal-
+mero`n et al. 1997; Fung et al. 2002), but not in a recent
+analysis of the Iowa Women’s Health Study, where a
+cohort of 35 988 older women from Iowa (USA) were fol-
+lowed for 6 years (1141 incident cases of diabetes were
+reported; Meyer et al. 2000). Despite the lack of associ-
+ation between GL and risk of diabetes, dietary ﬁbre
+intake was also associated with a lower risk of diabetes.
+Indeed, the relative risk of diabetes in women in the high-
+est quintile of consumption of wholegrain products
+(median value 20·5 servings per week) v. the lowest quin-
+tile (median value 1·0 serving per week) was 0·79 (95 % CI
+0·65, 0·96; P for trend¼ 0·009). Noteworthy is that in most
+prospective studies cereal ﬁbre intake,
+is
+inversely associated with diabetes incidence (McKeown
+et al. 2002; Stevens et al. 2002; Montonen et al. 2003);
+however, fruit and vegetable consumption is also associ-
+ated with a reduced risk of type 2 diabetes (Williams
+et al. 1999; Ford & Mokdad, 2001; Sargeant et al. 2001).
+Most of the epidemiological studies prospectively evaluat-
+ing the relationship between dietary ﬁbre intake and risk of
+
+in particular,
+
+type 2 diabetes are consistent in showing a protective effect
+of ﬁbre consumption towards the development of diabetes.
+There have not been any intervention studies evaluating
+the effect of ﬁbre and/or GI on prevention of diabetes,
+although the most important intervention studies aiming
+at lifestyle modiﬁcation also included an increase in ﬁbre
+consumption in the intervention group (Tuomı`lehto et al.
+2001; Diabetes Prevention Program Research Group,
+2002). In support of the role of ﬁbre in the prevention of
+type 2 diabetes is evidence that reduced postprandial
+blood glucose levels contribute to reducing the risk of
+diabetes. Indeed all pharmacological and non-pharmaco-
+logical interventions able to reduce postprandial glycae-
+mia, with whatever mechanism, tested so far in people
+with pre-diabetes, have proven effective in the prevention
+of type 2 diabetes (Tuomı`lehto et al. 2001; Chiasson
+et al. 2002; Diabetes Prevention Program Research
+Group, 2002; Hanefeld, 2002; Hanefeld & Temelkova-
+Kurkschiev, 2002).
+
+Amount and type of dietary fat
+
+Dietary fatty acids are classiﬁed as saturated, monounsatu-
+rated and polyunsaturated (n-6 and n-3 fatty acids) on the
+basis of their chemical structure (Feskens & van Dam,
+1999; Marshall & Bessensen, 2002).
+
+Early epidemiological studies reported that
+
+total fat
+intake was positively associated with the risk of diabetes
+(West & Kalbﬂeish, 1971). This effect was partly mediated
+by the inﬂuence of fat intake on weight gain, since fat-rich
+foods are generally energy-dense (irrespective of the type
+of fat). The type of fat predominantly used in these studies
+was also associated with the risk of diabetes (greater with
+animal fat than with vegetable fat). This has been sub-
+sequently conﬁrmed by Kawate et al. (1979), who com-
+pared Japanese people living in Hawaii with those living
+in Japan and found that the former consumed twice as
+much animal fat and had a signiﬁcantly higher prevalence
+of diabetes than the latter. Other studies, however, did not
+observe important associations between total fat intake and
+
+Downloaded from https://www.cambridge.org/core. Sheridan College, on 08 Aug 2018 at 21:09:41, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms.
+https://doi.org/10.1079/BJN20041117
+
+Diet and risk of type 2 diabetes
+
+11
+
+incidence of type 2 diabetes, particularly when the inﬂu-
+ence of body weight was accounted for by appropriate stat-
+istical methodologies (Lundgren et al. 1989; Feskens et al.
+1995). Table 2 shows the results of more recent prospective
+studies taking into account the total fat intake and the type
+of fat consumed. In the San Luis Valley Diabetes Study,
+134 subjects with impaired glucose tolerance were fol-
+lowed for 3 years: fat consumption in those who developed
+diabetes was 43·4 % total energy intake compared with
+40·6 % in those who still had impaired glucose tolerance
+(n 43) and 38·9 % in those who reverted to normal glucose
+tolerance (n 60). An increase in fat intake (40 g/d) was
+associated with a 6 % greater risk of developing diabetes
+(95 % CI 1·2, 29·8) (Marshall et al. 1991, 1994, 1997);
+saturated fat was also marginally associated with an
+increased risk of diabetes (P¼ 0·06). In the Finnish and
+the Dutch cohorts of the Seven Countries Study total fat
+consumption and saturated fat intake contributed to the
+risk of type 2 diabetes (Feskens et al. 1995). In the
+Nurses’ Health Study 84 204 women were followed pro-
+spectively for 14 years (Salmero`n et al. 2001). The main
+ﬁndings of this study, in which there were 2507 incident
+cases of type 2 diabetes, were: (1) no association between
+total fat, monounsaturated fat or saturated fat intake and
+incidence of diabetes; (2) a positive association between
+a higher trans fatty acid intake and risk of diabetes; (3) a
+negative association between a 5 % higher energy intake
+from polyunsaturated fat and incidence of diabetes
+(2 35 %); (4) a positive association between intake of
+animal fat and incidence of diabetes (this relationship
+was no longer statistically signiﬁcant after correcting for
+vegetable fat consumption). These data were subsequently
+conﬁrmed by Meyer’s study on 35 988 elderly women in
+Iowa (USA; Meyer et al. 2001). After an 11-year follow-
+up the authors reported 1890 incident cases of diabetes
+and found that vegetable fat intake was inversely related
+with incidence of diabetes; when comparing the highest
+category of vegetable fat intake with the lowest, the rela-
+tive risk was 0·78 (95 % CI 0·67, 0·91). This result is
+
+mirrored by the ﬁnding of a positive association between
+animal fat consumption and diabetes incidence.
+
+In the Health Professionals’ Study, which included
+42 504 male subjects followed for 12 years, total and satu-
+rated fat intakes were associated with a higher risk of type
+2 diabetes (relative risk 1·27 and 1·34 respectively), but
+these associations disappeared after adjustments for BMI.
+However, there was an increased risk for diabetes in men
+who consumed processed meat at
+least ﬁve times per
+week compared with those who consumed processed
+meats less than once per month (relative risk 1·46; 95 %
+CI 1·14, 1·86) (van Dam et al. 2002b). The role of
+animal (saturated) fat as a risk factor for type 2 diabetes,
+as opposed to the protective role played by vegetable
+(unsaturated) fat, has been recently conﬁrmed in a cross-
+sectional study on a European population (Thanopoulou
+et al. 2003) and is further supported by evidence from
+studies where dietary fat composition was assessed by
+objective markers of fat intake (Vessby et al. 1994; Laak-
+sonen, 2002; Wang et al. 2003).
+
+Few epidemiological studies have evaluated the effects
+of long-chain n-3 fatty acids on the risk of diabetes
+(Table 3). High concentrations of
+these fatty acids,
+mainly EPA and docosahexaenoic acid, are found in ﬁsh
+oil (Feskens & van Dam, 1999). In a study of 175 elderly
+subjects an inverse association was observed between ﬁsh
+intake and incidence of impaired glucose tolerance or dia-
+betes, with an odds ratio 0·47 (95 % CI 0·23, 0·93) for par-
+ticipants consuming any type of ﬁsh (mean daily intake
+24·2 g; Feskens et al. 1991). Consistent with this ﬁnding
+is the inverse association between increased ﬁsh consump-
+tion and incidence of type 2 diabetes observed in the
+Nurses’ Health Study (Salmero`n et al. 2001), while in
+the Iowa Women’s Study a higher n-3 intake was even
+associated with an increased risk of
+type 2 diabetes
+(Meyer et al. 2001).
+
+In short, available epidemiological data suggest a poten-
+tially beneﬁcial effect of vegetable (unsaturated) fat and a
+potentially adverse effect of animal (saturated) fat and
+
+Table 2. Major prospective studies on dietary fat and risk of type 2 diabetes
+
+Study
+
+Subjects (n)
+
+Diet assessment
+
+Gothenburg (Lundgreen et al. 1989)
+St Luis Valley (Marshall et al. 1994)
+Zutphen Study (Feskens et al. 1995)
+Uppsala (Vessby et al. 1994)
+Nurses’ Health Study
+
+1462
+134
+338
+1828
+84 204
+
+24 h recall
+24 h recall
+Diet history
+Cholesteryl ester fatty acids
+Food frequency
+
+(Salmero` n et al. 2001)
+
+Iowa Women’s Health Study
+
+(Meyer et al. 2001)
+
+Health Professionals’ Study
+
+(Van Dam et al. 2002)
+
+Eastern Finland (Laasksonen
+
+et al. 2002)
+
+ARIC Study (Wang et al. 2003)
+
+2909
+
+n.a., not ascertained; ARIC, Atherosclerosis Risk in Communities.
+* Independent of body-weight changes.
+
+35 988
+
+Food frequency
+
+42 504
+
+Food frequency
+
+895
+
+Food record and
+
+serum fatty acids
+
+Cholesteryl ester and
+
+phospholipid fatty acids
+
+Relationship with dietary fat*
+
+Follow-up
+
+(years)
+
+Total
+
+Saturated
+(animal)
+
+Unsaturated
+(vegetable)
+
+12
+1 –3
+30
+10
+14
+
+11
+
+12
+
+4
+
+9
+
+No
+"
+"
+n.a.
+No
+
+No
+"
+
+No
+
+n.a.
+
+n.a.
+"
+"
+"
+" (?)
+" (?)
+"
+
+No
+"
+
+n.a.
+"
+No
+#
+#
+#
+
+No
+#
+#
+
+Downloaded from https://www.cambridge.org/core. Sheridan College, on 08 Aug 2018 at 21:09:41, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms.
+https://doi.org/10.1079/BJN20041117
+
+12
+
+M. Parillo and G. Riccardi
+
+Table 3. Major prospective studies on long-chain n-3 fatty acids or ﬁsh intake and risk of type 2 diabetes
+
+Study
+
+Subjects (n)
+
+Follow-up (years)
+
+Category
+
+Relative risk*
+
+95 % CI
+
+Zutphen Study
+
+(Feskens et al. 1991)
+Seven Countries Study
+(Feskens et al. 1995)
+
+Iowa women (Meyer et al. 2001)
+Nurses’ Health Study
+
+(Salmero` n et al. 2001)
+
+175
+
+338
+
+35 988
+84 204
+
+* Multivariate model including amount and type of fat.
+
+4
+
+20
+
+11
+14
+
+Fish-eaters
+
+Increase in ﬁsh consumption
+
+0·23, 0·93
+
+0·47
+# 2 h blood glucose
+
+5th quintile v. 1st quintile n-3 intake
+5th quintile v. 1st quintile n-3 intake
+
+1·15
+0·80
+
+1·00, 1·33
+0·67, 0·95
+
+trans fatty acids on the risk of type 2 diabetes (Hu & van
+Dam, 2001). Total fat intake does not seem to predict per
+se the development of type 2 diabetes, although when con-
+sumed in large amounts it may indirectly inﬂuence the
+development of this condition by facilitating the occur-
+rence of overweight (Mayer-Davis et al. 1997; Marshall
+& Bessensen, 2002). There are, however, no controlled
+intervention trials evaluating the effects of different types
+of fat on the incidence of diabetes. One study evaluated
+the effects of a reduced-fat diet for 5 years in 176 individ-
+uals with impaired glucose tolerance. Glucose tolerance
+improved in patients on the reduced-fat diet, with a
+lower proportion of subjects developing type 2 diabetes
+at 1 year (47 v. 67 %, P, 0·05), although the differences
+between groups waned with time. However, since in the
+intervention group there was also a signiﬁcant reduction
+of body weight (almost 3 kg) in the ﬁrst 3 years, it is difﬁ-
+cult to differentiate between the effect of fat intake per se
+and that mediated by weight loss on the risk of developing
+diabetes (Swinburn et al. 2001).
+
+In summary,
+
+the available evidence (derived almost
+exclusively from observational studies) indicates that shift-
+ing from a diet predominantly based on fat from animal
+sources to a diet in which vegetable fat is more often
+employed might be beneﬁcial in relation to the prevention
+of type 2 diabetes. An exception to this paradigm may be
+represented by ﬁsh consumption, since in some studies it
+is associated with a lower risk of diabetes. Whether the
+protective effect of ﬁsh is due to its n-3 fatty acid content
+(Adler et al. 1994) or to other components, such as protein,
+is matter of debate (Lavigne et al. 2001). In this respect, it
+is worth mentioning that the intake of foods rich in n-3
+fatty acids other than ﬁsh is associated with a lower risk
+of type 2 diabetes (Jiang et al. 2002).
+
+The mechanism by which dietary fat consumption could
+inﬂuence the development of diabetes is strictly linked
+with insulin sensitivity: dietary fat can inﬂuence insulin
+sensitivity independently of any change in body weight.
+Animal studies have clearly shown that a high-fat diet, par-
+ticularly a diet high in saturated fat, decreases insulin sen-
+sitivity (Storlien et al. 1991). Several cross-sectional
+studies have examined dietary fat in relation to fasting
+and post-load plasma insulin concentrations, which are
+both markers of insulin resistance. The consistent ﬁnding
+is a positive association between saturated fat intake and
+hyperinsulinaemia, independently of body fat. These data
+have been partially conﬁrmed in human studies using
+more accurate techniques to evaluate insulin resistance
+(Vessby, 2000). An association between dietary fat quality
+
+and insulin sensitivity is also supported by the signiﬁcant
+relationship between insulin sensitivity and the fatty acid
+composition of body tissues, which is dependent on the
+fatty acid composition of the diet (Vessby et al. 1994). A
+problem with these studies, however, is that most fatty
+acids are closely interrelated and, therefore, insulin resist-
+ance or an increased risk of type 2 diabetes are character-
+ised by a fatty acid ‘pattern’, rather than by the proportion
+of one or a few fatty acids.
+
+triacylglycerol
+
+least partially,
+
+to be mediated, at
+
+The mechanisms linking dietary fat quality to insulin
+sensitivity are not completely understood; however, the
+effects of dietary fatty acids on insulin sensitivity are
+thought
+through the
+fatty acid composition of cell membranes (Vessby et al.
+1994; Storlien et al. 1996; Vessby, 2000). A speciﬁc
+fatty acid proﬁle in cell membranes could inﬂuence insulin
+action through several potential mechanisms,
+including
+altered insulin receptor binding or afﬁnity, and by inﬂuen-
+cing ion permeability and cell signalling. The results of
+human studies consistently show that the fatty acid compo-
+sition of body tissues (serum lipids, phospholipid in eryth-
+rocyte membranes,
+in adipose tissue,
+phospholipid in skeletal muscle membranes) reﬂects, at
+least in part, the fat composition of the habitual diet (Ric-
+cardi et al. 2004). The fatty acid pattern mirrors the aver-
+age composition of the diet during the preceding weeks
+(serum lipids, erythrocytes), months (possibly skeletal
+muscle) and even years (adipose tissue). The strength of
+the relationships between the proportion of a speciﬁc
+fatty acid in the diet and in body tissues varies greatly
+between different fatty acids and for different
+tissues
+(Aro, 2003). Insulin resistance and insulin resistant states
+are associated with a plasma fatty acid pattern character-
+ised by an increased proportion of palmitic acid and a
+low proportion of linoleic acid, with a distribution of
+other fatty acids that indicates an increased activity of
+D9- and D6-desaturase. These changes are probably related,
+to a large extent, to the type of fat in the diet and are con-
+sistent with a diet where animal (saturated) fat consump-
+tion
+fat
+consumption reduced (Vessby et al. 2000)
+
+and
+
+vegetable
+
+(unsaturated)
+
+is
+
+increased
+
+More information on the issue of dietary fat quality and
+insulin sensitivity has emerged from the KANWU Study,
+which is the ﬁrst intervention study on this topic, per-
+formed using adequate methodologies and a sufﬁciently
+large sample size (Vessby et al. 2001). This study involved
+162 healthy individuals from ﬁve different countries,
+randomly assigned to consume diets high in saturated fat
+or monounsaturated fat without any change in other dietary
+
+Downloaded from https://www.cambridge.org/core. Sheridan College, on 08 Aug 2018 at 21:09:41, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms.
+https://doi.org/10.1079/BJN20041117
+
+Diet and risk of type 2 diabetes
+
+13
+
+constituents; a randomly selected subsample within each
+group was also given ﬁsh-oil supplement or placebo. Insu-
+lin sensitivity (assessed by the frequent sampling intrave-
+nous tolerance test (minimal model)) was signiﬁcantly
+(2 10 %,
+impaired on the diet high in saturated fat
+P¼ 0·05) but remained unchanged on the diet high in
+monounsaturated fat. The n-3 fatty acid supplement did
+not inﬂuence insulin sensitivity in the whole study group,
+nor in those assigned to the diets high in saturated or
+monounsaturated fat.
+
+The deteriorating effect of saturated fat on insulin sensi-
+tivity was supported by a subsequent controlled interven-
+tion study in which the comparison was performed
+between saturated fat and polyunsaturated fat (Summers
+et al. 2002); however, it was not conﬁrmed in another
+study in which both the sample size and the study duration
+were inadequate (Lovejoy et al. 2002).
+
+The KANWU Study (Vessby et al. 2001) did not attempt
+to modify total fat intake; however, if participants were stra-
+tiﬁed according to their habitual intake of total fat (above
+and below median value), the effect of fat quality on insulin
+sensitivity was clearly different between high- and low-fat
+groups. In the group consuming . 37 % energy as total fat
+(median value of the study population),
+the difference
+between the effect of the high-saturated-fat and the high-
+monounsaturated-fat diet on insulin sensitivity almost com-
+pletely disappeared; conversely, in those consuming , 37 %
+energy as total fat, the difference between the two diets was
+even more striking (20·3 %, P, 0·03) (Fig. 1). This suggests
+that the total amount of fat can inﬂuence insulin sensitivity,
+and possibly the risk of type 2 diabetes, only when it
+exceeds a threshold level of 35 – 40 % total energy intake.
+This is in accordance with clinical studies showing that a
+moderate increase in total fat intake within current limits
+is unlikely to have a negative impact on insulin sensitivity
+(Parillo et al. 1992). In this regard, n-3 fatty acid sup-
+plementation does not seem to play a major role; this
+suggests that the relationship between ﬁsh consumption
+and risk of diabetes is complex, and that further studies
+are needed to clarify the possible underlying mechanisms
+and the existence of a dose – response relationship as well
+as gene – nutrients interactions.
+
+Alcohol
+
+Several studies have evaluated the relationship between
+alcohol intake and diabetes; they are consistent in showing
+that moderate alcohol consumption (one to two drinks per
+
+Fig. 1. Effect of a change of dietary fat quality on insulin sensitivity
+(Si) when related to total dietary fat intake. Healthy subjects (n
+162) were randomly assigned to consume either a high-saturated-
+fat or a high-monounsaturated-fat diet for 3 months. B, High-satu-
+rated-fat diet; B, high-monunsaturated-fat diet. Si sensitivity was
+assessed by frequent sampling intravenous glucose tolerance test
+(minimal model); participants were stratiﬁed on their habitual intake
+of total fat (above and below the median). Mean value was signiﬁ-
+cantly different from that of the high-saturated-fat group: *P,0·03.
+Reprinted with permission from the publishers of Vessby et al.
+(2001).
+
+d) is associated with a 30 – 40 % lower risk of type 2 dia-
+betes compared with abstainers (Table 4) (Stampfer et al.
+1988; Perry et al. 1995; Ajani et al. 2000; Conigrave
+et al. 2001; Carlsson et al. 2003; Nakanishi et al. 2003).
+In addition, various epidemiological studies have suggested
+that light to moderate alcohol consumption has beneﬁcial
+effects on total mortality and morbidity (Stampfer et al.
+1988; Keil et al. 1997; Muuntwyler et al. 1998; Conigrave
+et al. 2001).
+
+Some studies, while conﬁrming the beneﬁcial effects of
+moderate alcohol consumption, highlight the possible dan-
+gers of high alcohol intake also in relation to diabetes pre-
+vention (Kao et al. 2001). In particular, they suggest a U-
+shaped relationship between alcohol intake and incidence
+of diabetes, with the risk being the lowest in light and mod-
+erate drinkers and the highest in heavy drinkers (Wei et al.
+2000; Harding et al. 2002; Wannamethee et al. 2002, 2003;
+Nakanishi et al. 2003). Overall, these studies show that a
+moderate alcohol intake may have a protective effect on
+the risk of diabetes independently of the type of beverage.
+The beneﬁcial effects of moderate intake of alcohol on dia-
+betes incidence could be explained by the enhanced insulin
+sensitivity found in moderate alcohol drinkers (Facchini
+et al. 1994). However, beneﬁts from moderate alcohol con-
+sumption on diabetes incidence could also be mediated by
+dietary exposures and other aspects of lifestyle associated
+
+Table 4. Major prospective studies on moderate alcohol consumption and risk of type 2 diabetes
+
+Study
+
+Subjects (n)
+
+Follow-up (years)
+
+Relative risk
+
+95 % CI
+
+Nurses’ Health Study (Stampfer et al. 1988)
+British men (Perry et al. 1995)
+Texas men (Wei et al. 2000)
+US male physicians (Ajani et al. 2000)
+US Health Professionals’ Study (Conigrave et al. 2001)
+Japanese men (Nakanisi et al. 2003)
+Finnish Twin Cohort Study (Carlsson et al. 2003)
+
+85 051
+7735
+8663
+20 951
+46 892
+2953
+22 778
+
+4
+
+12·8
+
+6
+12
+12
+7
+15
+
+0·60
+0·60
+0·55
+0·57
+0·64
+0·64
+0·50
+
+0·30, 0·90
+0·40, 1·00
+0·33, 1·00
+0·43, 0·73
+0·53, 0·77
+0·47, 0·93
+0·20, 1·50
+
+Moderate consumption v. none
+
+Downloaded from https://www.cambridge.org/core. Sheridan College, on 08 Aug 2018 at 21:09:41, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms.
+https://doi.org/10.1079/BJN20041117
+
+14
+
+M. Parillo and G. Riccardi
+
+with moderate drinking. The detrimental consequences of
+alcoholism on health and the dangers of combining alcohol
+and driving should be strongly emphasised when giving
+information on the possible beneﬁcial effects of alcohol
+consumption on the risk of type 2 diabetes.
+
+Intervention studies based on a multifactorial design
+
+There are very few controlled intervention studies on life-
+style modiﬁcations and prevention of type 2 diabetes in the
+literature. In the Da Qing study (Pan et al. 1997) 577
+patients with impaired glucose tolerance were randomly
+assigned to four groups (control, diet only, exercise only
+or diet plus exercise) and followed for 6 years. The inci-
+dence of diabetes decreased by 31 % in the diet group,
+by 46 % in the exercise group and by 42 % in diet plus
+exercise group, with no signiﬁcant differences between
+the three. This beneﬁcial effect was obtained with a mini-
+mal weight loss (about 0·5 kg) and increase in physical
+activity. This study is the ﬁrst randomised controlled clini-
+cal trial showing that it is possible to reduce the risk of type
+2 diabetes in individuals with impaired glucose tolerance
+by a lifestyle intervention; however, due to some methodo-
+logical ﬂaws, it was not received by the scientiﬁc commu-
+nity as conclusive evidence.
+
+More recently, two studies have conﬁrmed the import-
+ance of lifestyle modiﬁcations induced by a multifactorial
+intervention in the prevention of
+type 2 diabetes
+(Table 5): the Finnish Diabetes Prevention study and the
+Diabetes Prevention Program. These two studies had an
+appropriate study design and an up-to-date methodological
+approach, and their results therefore provide evidence that
+lifestyle modiﬁcation represents a very effective and
+powerful way to decrease or delay the development of
+type 2 diabetes in overweight individuals at high risk.
+
+In the Finnish study of Tuomı`lehto et al. (2001), 522
+overweight subjects with impaired glucose tolerance were
+randomly assigned to an active intervention group or a
+standard treatment group (general advice on diet and physi-
+cal activity) and were followed for an average of 2 – 3
+years. In the intervention group each subject received indi-
+vidual counselling aimed at achieving at least 5 % weight
+reduction, decreasing total and saturated fat intake, increas-
+ing ﬁbre intake to at least 3·6 g/MJ and increasing physical
+activity to at least 30 min/d. After 2 years, the intervention
+group achieved a 3·5 kg weight loss and the control group
+
+0·8 kg; the incidence of diabetes after 4 years was 11 (95 %
+CI 6, 15) % in the intervention group and 23 (95 % CI 17,
+29) % in the control group, with a 58 % reduction in risk
+for diabetes in the intervention group. Given the multifac-
+torial nature of the intervention, the study showed that dia-
+betes prevention increased in parallel with the number of
+successful
+achieved (body weight
+reduction , 5 %, saturated fat , 10 %, total fat , 30 %,
+dietary ﬁbre . 3·6 g/MJ, physical exercise of any type
+. 4 h per week).
+
+lifestyle
+
+changes
+
+In the Diabetes Prevention Program Study (Diabetes
+Prevention Program Research Group, 2002) 3234 subjects
+with both impaired glucose tolerance and impaired fasting
+glucose were randomly assigned to three groups: control
+group; metformin group; lifestyle intervention group. In
+this last group the main aims were to reduce weight by
+7 % and increase exercise to at least 150 min per week;
+diet composition was changed in the lifestyle intervention
+group, aiming at a reduced intake of fat, particularly satu-
+rated fat. In subjects assigned to the intensive lifestyle
+intervention, the incidence of type 2 diabetes was reduced
+by 58 % compared with the control group. Remarkably,
+this study shows that lifestyle intervention is signiﬁcantly
+more effective than metformin, an antidiabetic drug, in dia-
+betes prevention. In particular, this difference between life-
+style intervention and metformin was more pronounced in
+individuals aged . 60 years and with a BMI , 35 kg/m2,
+who represent
+the large majority of the population at
+risk. The results of this study are in agreement with
+those of the Finnish study (Tuomı`lehto et al. 2001), as
+both indicate that to prevent one case of diabetes, seven
+subjects with impaired glucose tolerance must be treated
+for 3 years.
+
+These studies demonstrate that type 2 diabetes can be
+prevented by lifestyle changes. The interventions always
+included body-weight reduction, but involved multifactor-
+ial approaches that also considered changes in diet compo-
+sition. The average amount of weight loss achieved in the
+lifestyle intervention groups was not
+large (about 5 %
+initial weight) and in any case was much less than the
+weight loss traditionally considered as clinically signiﬁ-
+cant. Despite the common scepticism towards the capacity
+to induce lifestyle changes in overweight sedentary people,
+the two studies report a drop-out rate of only 9 % in the
+intervention group (not much greater than the 7 % observed
+in the control group); moreover, a large proportion of them
+
+Table 5. Major controlled intervention studies on prevention of type 2 diabetes by lifestyle modiﬁcations
+
+Study
+
+Subjects (n)
+
+Follow-up (years)
+
+Intervention goals
+
+Risk reduction (%)
+
+Diabetes Prevention Study (Finland)
+
+(Tuomı`lehto et al. 2001)
+
+523
+
+3·2
+
+Weight reduction .5 %
+
+58
+
+Diabetes Prevention Program (USA)
+
+3234
+
+2.8
+
+(Diabetes Prevention Program Research
+Group, 2002)
+
+Total fat ,30 %
+Saturated ,10 %
+Fibre 3·6 g/MJ
+Exercise 30 min/d
+Weight reduction .7 %
+
+Low-fat diet
+Exercise 150 min/week
+
+58
+
+Downloaded from https://www.cambridge.org/core. Sheridan College, on 08 Aug 2018 at 21:09:41, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms.
+https://doi.org/10.1079/BJN20041117
+
+Diet and risk of type 2 diabetes
+
+15
+
+were able to modify their lifestyles. However, we do not
+know whether the intervention programme was successful
+in inﬂuencing diet and physical activity in a sustained
+way. This is not a trivial problem since 3 or 4 years are
+only a small portion of an individual’s life.
+
+Noteworthy within this context is the importance of exer-
+cise in the prevention of diabetes, as demonstrated by these
+intervention studies: in the Da Qing Study the exercise
+group reported a 46 % decrease in incidence of type 2 dia-
+betes (Pan et al. 1997); in the Finnish Diabetes Prevention
+Study, the intervention group who achieved the exercise
+goal (moderate exercise for at least 30 min/d) had an odds
+ratio 0·3 for diabetes compared with the control group
+(95 % CI 0·1, 0·7) (Tuomı`lehto et al. 2001). Similar results
+were obtained in the Diabetes Prevention Program Study
+(Diabetes Prevention Program Research Group, 2002).
+
+The beneﬁcial effect of exercise on the risk of diabetes
+may act through a direct effect on insulin sensitivity or a
+decrease in body weight. There is considerable evidence
+that physical activity per se improves insulin resistance
+in normal subjects and diabetic patients (Ebeling et al.
+1993; Dela et al. 1994; Mayer-Davis et al. 1998). In
+addition, in some cases it may also help to lose and main-
+tain weight (if energy intake is kept under control).
+
+Proposals for an integrated approach to reducing the
+risk of type 2 diabetes at the population level
+
+therefore, any attempt
+
+For many years, those who are overweight and have seden-
+tary lifestyles have been considered at risk for type 2 dia-
+betes. However, until very recently no properly controlled
+studies were available to show that lifestyle changes can
+delay the onset of diabetes;
+to
+devote time and resources to set up a programme of pri-
+mary prevention for type 2 diabetes was deemed inap-
+propriate, not only at the political level, but also by the
+healthcare providers who deal with the devastating effects
+of this disease every day. In view of all the new evidence
+accumulated in the last 5 – 10 years, most of which has
+been reviewed in the present paper, the time has come to
+set up such a programme. However, whether primary pre-
+vention of type 2 diabetes is feasible and effective at the
+population levels still remains to be evaluated.
+
+In many ways, this condition provides an ideal target for
+prevention, since it meets all the requirements that a pri-
+mary prevention programme should have to be of real
+value: (1) high prevalence; (2) a serious condition with
+potentially disabling complications; (3) risk factors associ-
+ated with lifestyle and that can be modiﬁed; (4) the possi-
+bility of identiﬁcation of individuals at risk by screening
+(American Diabetes Association & National Institute of
+Diabetes, Digestive & Kidney Diseases, 2002).
+
+Moreover, current evidence shows that lifestyle changes,
+to be effective, should not be ‘heroic’ so as to be sustainable
+for years (i.e. weight reduction of 4 kg or approximately 5 %
+initial weight) (Tuomı`lehto et al. 2001; Diabetes Prevention
+Program Research Group, 2002). Some recent intervention
+studies clearly show that people from different countries,
+with different ethnic and socio-economic backgrounds,
+can modify their long-term dietary habits and level of
+physical activity if adequately motivated and supported.
+
+However, since the participants in these studies were at
+high risk for diabetes, the intervention employed was very
+intensive and consequently very demanding in terms of
+both economic resources and operators’ time. It remains
+to be elucidated whether a less intensive intervention
+might be effective in modifying lifestyle and beneﬁcially
+inﬂuencing diabetes prevention in the general population.
+The best approach would probably be a combination of
+a population strategy associated with a more intensive
+intervention targeted at high-risk individuals (American
+Diabetes Association and National Institute of Diabetes,
+Digestive and Kidney Diseases, 2002).
+
+On the basis of the available evidence, it seems reason-
+able to attempt a multifactorial rather than a monofactorial
+intervention, because it allows more ﬂexibility and thus
+accounts for
+the individual’s capacity to act on and
+modify one or more lifestyle behaviours at risk (Hu et al.
+2001; Perry, 2002; van Dam et al. 2002b). Moreover,
+since lifestyle modiﬁcations have an additive effect on dia-
+betes prevention, a multifactorial approach might also
+amplify the efﬁcacy of
+the intervention. Additional
+research is needed to identify the most cost-effective strat-
+egies for a sustained achievement. For the time being, how-
+ever, patients with abnormalities of blood glucose
+regulation considered as being in a pre-diabetic state
+(impaired glucose tolerance or impaired fasting glucose)
+should undergo routine follow-up and be constantly
+advised to lose weight and increase their levels of physical
+activity to reduce the risk of type 2 diabetes. The lifestyle
+factors
+that have been consistently associated with
+increased risk of type 2 diabetes are overweight and physi-
+cal inactivity. However, recent evidence from epidemiolo-
+gical studies reviewed in the present paper has shown that
+the risk of type 2 diabetes is also associated with: (1) a low
+ﬁbre intake; (2) a high trans fatty acid intake and a low
+unsaturated fat:saturated fat intake ratio; (3) absence of
+or excess alcohol consumption. All these factors are extre-
+mely common in Western populations and therefore the
+potential
+impact of any intervention on them is large.
+Indeed, taking into account these risk factors for type 2 dia-
+betes, only 9·5 % of women recruited in an observational
+study in the USA were in the low-risk category. The ability
+to correct these behaviours in the rest of the population was
+estimated to reduce the incidence of diabetes by as much as
+87 % (Hu et al. 2001). However, incontrovertible evidence
+that each of these lifestyle modiﬁcations can reduce the
+risk of diabetes is not available, since controlled interven-
+tion studies with a monofactorial design have not been pro-
+duced for these measures.
+
+In conclusion, it is possible to achieve primary preven-
+tion of type 2 diabetes by means of intensive interventions
+in high-risk individuals, in whom they have proven to be
+effective. Appropriate strategies to identify high-risk indi-
+viduals in a simple and inexpensive way are urgently war-
+ranted. Although the beneﬁts of
+intensive
+intervention at the level of the general population cannot
+be presently quantiﬁed,
+it seems reasonable to convey
+appropriate messages to the public in order to modify the
+extremely common habits associated with an increased
+risk of type 2 diabetes. This is especially desirable since
+they are also linked with an high risk for CVD. New
+
+less
+
+a
+
+Downloaded from https://www.cambridge.org/core. Sheridan College, on 08 Aug 2018 at 21:09:41, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms.
+https://doi.org/10.1079/BJN20041117
+
+16
+
+M. Parillo and G. Riccardi
+
+emphasis on prevention might limit the dramatic world-
+wide increase in the incidence of type 2 diabetes expected
+in next few years.
+
+Acknowledgements
+
+This review was coordinated and supported by an uncondi-
+tional grant from the Type 2 Diabetes Task Force of the
+European Branch of the International Life Sciences Insti-
+tute (ILSI Europe). Industry members of this task force
+are Ajinomote, Cerestar, Coca Cola, DSM Nutritional
+Products, Kellogg, Masterfoods, Numico and Su¨dzucker.
+For more information, please
+info@
+ilsieurope.be or
+tel: +32/2.771.00.14. The opinions
+expressed herein are those of the authors and do not
+necessarily represent the views of ILSI and ILSI Europe.
+The authors thank Professor B. Vessby and Dr E. Feskens
+for their useful comments and R. Scala for her help in edit-
+ing the manuscript.
+
+contact
+
+email
+
+References
+
+Abate N, Garg A, Peshock RM, Stray Gundersen L & Grundy
+SMV (1997) Relationships of generalized and regional adi-
+posity to insulin sensitivity in men. J Clin Invest 96, 88 – 98.
+
+Adler AI, Boyko EJ, Schrarer CD & Murphy NJ (1994) Lower
+prevalence of impaired glucose tolerance and diabetes associ-
+ated with daily seal oil or salmon consumption among Alaska
+Natives. Diabetes Care 17, 1498 – 1501.
+
+Ajani UA, Hennekens CH, Spelsberg A & Manson JE (2000)
+Alcohol consumption and risk of type 2 diabetes mellitus
+160,
+among US male
+1025 – 1030.
+
+physicians. Arch
+
+Intern Med
+
+Albu J, Allison D, Boozer CN, et al. (1997) Obesity solutions:
+
+report of a meeting. Nutr Rev 55, 150 – 156.
+
+American Diabetes Association (1997) Report of the Expert Com-
+mittee on the diagnosis and classiﬁcation of diabetes mellitus.
+Diabetes Care 20, 1183 – 1197.
+
+American Diabetes Association and National Institute of Dia-
+betes, Digestive and Kidney Diseases (2002) Position state-
+ment: the prevention or delay of type 2 diabetes. Diabetes
+Care 25, 742 – 749.
+
+Aro A (2003) Fatty acid composition of serum lipids: is this
+marker of fat intake still relevant for identifying metabolic
+and cardiovascular disorders? Nutr Metab Cardiovasc Dis 13,
+253 – 255.
+
+Asp N (1994) Nutritional classiﬁcation and analysis of food
+
+carbohydrates. Am J Clin Nutr 59, Suppl., 679 – 681.
+
+Astrup A (2001) Healthy lifestyles in Europe: prevention of obes-
+ity and type II diabetes by diet and physical activity. Public
+Health Nutr 4, 499 – 515.
+
+Bantle JP (1989) Clinical aspects of sucrose and fructose metab-
+
+olism. Diabetes Care 12, 56 – 61.
+
+Bennet PH, Miller M, Burch TA & Miller M (1971) Diabetes
+
+mellitus in American (Pima) Indians. Lancet 2, 125 – 128.
+
+Bjorck I, Liljeberg H & Ostman E (2000) Low glycaemic index
+
+foods. Br J Nutr 83, Suppl. 1, S149 – S155.
+
+Bjo`rntorp P (1992) Abdominal fat distribution and disease: an
+
+overview of epidemiological data. Ann Med 24, 15 – 18.
+
+Boden G (1996) Fatty acids and insulin resistance. Diabetes Care
+
+19, 394 – 395.
+
+Visceral adiposity and risk of type 2 diabetes: a prospective
+study among Japanese Americans. Diabetes Care 23, 465 – 471.
+Carlsson S, Hammar N, Grill V & Kaprio J (2003) Alcohol con-
+sumption and the incidence of type 2 diabetes: a 20-year follow
+up of the Finnish Twin Cohort Study. Diabetes Care 26,
+2785 – 2790.
+
+Chan JM, Rimm EB, Colditz GA, Stampfer MJ & Willett WC
+(1994) Obesity, fat distribution, and weight gain as risk factors
+for clinical diabetes in men. Diabetes Care 17, 961 – 969.
+
+Chandalia M, Garg A, Utjoahann D, von Bergmann K, Grundy S
+& Brinkley LJ (2000) Beneﬁcial effects of high dietary ﬁber
+intake in patients with type 2 diabetes mellitus. N Engl J
+Med 342, 1392 – 1398.
+
+Chiasson JL, Josse RG, Gonis R, Hanefeld M, Karasik A &
+Laakso M (2002) Acarbose for prevention of type 2 diabetes
+the STOP-NIDDM randomized trial. Lancet 359,
+mellitus:
+2072 – 2077.
+
+Choi BCK & Shi F (2001) Risk factors for diabetes mellitus by
+the National Population Health
+
+age and sex:
+Survey. Diabetologia 44, 1221 – 1231.
+
+results of
+
+Colditz GA, Willett WC, Stampfer MJ, Manson JE, Hennekens
+CH, Arky RA & Speizer FE (1990) Weight as a risk factor
+in women. Am J Epidemiol 132,
+for clinical diabetes
+501 – 513.
+
+Conigrave KM, Hu BF, Camargo CA, Stampfer MJ, Willett WC
+& Rimm EB (2001) A prospective study of drinking patterns in
+relation to risk of type 2 diabetes among men. Diabetes 50,
+2390 – 2395.
+
+Cummings JH & Englyst HN (1987) Fermentation in the human
+large intestine and the available substrates. Am J Clin Nutr 45,
+1243 – 1255.
+
+Cummings JH & Englyst HN (1991) What is dietary ﬁber? Trends
+
+Foods Sci Technol 2, 99 – 103.
+
+Curb JD & Marcus EB (1991) Body fat and obesity in Japanese
+
+Americans. Am J Clin Nutr 53, Suppl. 6, 1552S – 1555S.
+
+Deckelbaum RJ & Williams CL (2001) Childhood obesity: the
+
+health issue. Obes Res 9, 239s – 243s.
+
+Dela F, Ploug T, Handberg A, Petersen LN, Larsen JJ, Mikines
+KJ & Galbo H (1994) Physical
+training increases muscle
+GLUT4 protein and mRNA in patients with NIDDM. Diabetes
+43, 862 – 865.
+
+Diabetes Prevention Program Research Group (2002) Reduction
+in the incidence of type 2 diabetes with lifestyle intervention
+or metformin. N Engl J Med 346, 393 – 403.
+
+Ebeling P, Bourey R, Koranyi L, Tuominen JA, Groop LC,
+Henriksson J, Mueckler M, Sovijarvi A & Koivisto VA
+(1993) Mechanism of enhanced insulin sensitivity in athletes:
+increased blood ﬂow, muscle glucose transport protein
+(GLUT-4) concentration, and glycogen synthase activity.
+J Clin Invest 92, 1623 – 1631.
+
+Facchini F, Chen Y-Di & Reaven GM (1994) Light to moderate
+alcohol intake is associated with enhanced insulin sensitivity.
+Diabetes Care 17, 115 – 119.
+
+Feskens EJ, Bowles CH & Kromhout D (1991) Inverse associ-
+ation between ﬁsh intake and risk of glucose intolerance in nor-
+moglycemic elderly men and women. Diabetes Care 14,
+935 – 941.
+
+Feskens EJ, Virtanen SM, Rasanen L, Tuomı`lehto J, Stengard J,
+Pekkanen J, Nissinen A & Kromhout D (1995) Dietary
+factors determining diabetes and impaired glucose tolerance.
+A 20-year follow-up of the Finnish and Dutch cohorts of the
+Seven Countries Study. Diabetes Care 18, 1104 – 1112.
+
+Feskens EJM & Kromhout D (1989) Cardiovascular
+
+risk
+factors and the 25 year incidence of diabetes mellitus in
+middle-aged men. The Zutphen study. Am J Epidemiol 130,
+1101 – 1108.
+
+Boyko EJ, Fujimoto WY, Leonetti DL & Newell-Morris L (2000)
+
+Feskens EJM & van Dam RM (1999) Dietary fat and the etiology
+
+Downloaded from https://www.cambridge.org/core. Sheridan College, on 08 Aug 2018 at 21:09:41, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms.
+https://doi.org/10.1079/BJN20041117
+
+Diet and risk of type 2 diabetes
+
+17
+
+of type 2 diabetes: an epidemiological perspective. Nutr Metab
+Cardiovasc Dis 9, 87 – 95.
+
+Food and Agriculture Organization/World Health Organization
+(1998) Report of a Joint Expert Consultation: Carbohydrates
+in Human Nutrition. Rome: FAO.
+
+Ford E & Liu S (2001) Glycemic index, glycemic load, and
+serum high-density lipoprotein (HDL) cholesterol concen-
+trations among United States adults. Arch Intern Med 161,
+572 – 576.
+
+Ford ES & Mokdad AH (2001) Fruit and vegetable consumption
+and diabetes mellitus incidence among U.S. adults. Prev Med
+32, 33 – 39.
+
+Frayn KN (2000) Visceral fat and insulin resistance – causative
+
+or correlative? Br J Nutr 83, Suppl. 1, S71 – S77.
+
+Frost G, Leeds A, Trew G, Margara R & Dornhorst A (1998)
+Insulin sensitivity in women al risk of coronary heart disease
+and the effect of a low glycemic index diet. Metabolism 47,
+1245 – 1251.
+
+Fugawa NK, Anderson JW, Hageman G, Young VR & Minaker
+KL (1990) High carbohydrate, high ﬁbre diets increase periph-
+eral insulin sensitivity in healthy young and old adults. Am J
+Clin Nutr 52, 524 – 528.
+
+Fung TT, Hu FB, Pereira MA, Liu S, Stampfer MJ, Colditz GA &
+Willett WC (2002) Whole-grain intake and the risk of type 2
+diabetes: a prospective study in men. Am J Clin Nutr 76,
+535 – 540.
+
+Hanefeld M (2002) Stop-NIDDM: a new paradigm for diabetes
+
+prevention? Nutr Metab Cardiovasc Dis 12, 253 – 258.
+
+Hanefeld M & Temelkova-Kurkschiev T (2002) Control of post-
+prandial hyperglycemia – an essential part of good diabetes
+treatment and prevention of cardiovascular complications.
+Nutr Metab Cardiovasc Dis 12, 98 – 107.
+
+Harding AH, Sargeant LA, Khaw T, Welch A, Oakes S, Luben
+RN, Bingham S, Day NE & Wareham NJ (2002) Cross-sec-
+tional association between total level and type of alcohol con-
+sumption and glycosylated haemoglobin level:
+the EPIC-
+Norfolk Study. Eur J Clin Nutr 56, 882 – 890.
+
+Henry RR, Wallace P & Olefsky JM (1986a) Effects of weight
+loss on mechanism of hyperglycaemia in obese non insulin
+dependent diabetes mellitus. Diabetes 35, 990 – 998.
+
+Henry RR, Weist-Kent TA, Scheafer L, Kolterman OG & Olefsky
+JM (1986b) Metabolic consequences of very low calorie diet
+therapy in obese non insulin dependent diabetic and non dia-
+betic subjects. Diabetes 35, 155 – 161.
+
+Hollenbeck CB, Coulston AM & Reaven GM (1986) Glycemic
+effects of carbohydrates: a different perspective. Diabetes
+Care 9, 641 – 647.
+
+Howard BV & Wylie-Rosett J (2002) Sugar and cardiovascular
+
+disease. Circulation 106, 523 – 527.
+
+Hu FB, Manson JE, Stampfer MJ, Colditz G, Liu S, Solomon CG
+& Willett WC (2001) Diet, lifestyle, and the risk of type 2 dia-
+betes mellitus in women. New Engl J Med 345, 790 – 797.
+
+Hu FB & van Dam SL (2001) Diet and risk of type 2 diabetes: the
+fat and carbohydrate. Diabetologia 44,
+
+type of
+
+roles of
+805 – 817.
+
+Janket S-J, Manson EJ, Sesso H, Buring JE & Liu S (2003) A pro-
+spective study of sugar intake and risk of type 2 diabetes in
+women. Diabetes Care 26, 1008 – 1015.
+
+Jenkins DJA, Ghafari H, Wolever TMS, Taylor RH, Jenkins AL,
+Barker HM, Fielden H & Bowling AC (1982) Relationship
+between the rate of digestion of foods and post-prandial glycae-
+mia. Diabetologia 22, 450 – 455.
+
+Jenkins DJA, Wolever TMS, Jenkins AL, Josse RG & Wong GS
+(1984) The glycaemic response to carbohydrate foods. Lancet
+2, 388 – 391.
+
+(2002) Nut and peanut butter consumption and risk of type 2
+diabetes in women. J Am Med Assoc 288, 2554 – 2560.
+
+Kao WHL, Puddey IB, Boland LL, Watson RL & Brancati FL
+(2001) Alcohol consumption and the risk of type 2 diabetes
+mellitus: atherosclerosis risk in communities study. Am J Epi-
+demiol 154, 748 – 757.
+
+Kawate R, Yamakido M, Nishimoto Y, Bennett PH, Hamman RF
+& Knowler WC (1979) Diabetes mellitus and its vascular
+complications in Japanese migrants on the island of Hawaii.
+Diabetes Care 2, 161 – 170.
+
+Keil U, Chambless LE, Doring A, Filipiak B & Stieber J (1997)
+The relation of alcohol intake to coronary heart disease and all-
+cause mortality in a beer-drinking population. Epidemiology 2,
+150 – 156.
+
+King H, Aubert RE & Herman WH (1998) Global burden of
+diabetes 1995 – 2025: prevalence, numerical estimates, and
+projections. Diabetes Care 21, 1414 – 1431.
+
+Knowler WC, Pettitt DJ, Savage PJ & Bennett PH (1981)
+Diabetes incidence in Pima Indians: contributions of obesity
+and parental diabetes. Am J Epidemiol 113, 144.
+
+Koivisto et al. 1988.
+Laaksonen DE, Lakka TA, Myyssonen K, Rissanen T, Niskanen
+LK & Salonen JT (2002) Serum fatty acid composition predicts
+development of impaired fasting glycaemia and diabetes in
+middle-aged men. Diabetes Med 19, 456 – 464.
+
+Laaksonen DE, Kainulainen S, Rissanen A & Niskanen L (2003)
+Relationship between changes in abdominal fat distribution and
+insulin sensitivity during a very low calorie diet in abdominally
+obese men and women. Nutr Metab Cardiovasc Dis 13,
+349 – 356.
+
+Lapidus L, Bengtsson C, Larsson B, Pennert K, Rybo E &
+Sjostrom L (1984) Distribution of adipose tissue and risk of
+cardiovascular disease and death: a 12 year follow up of par-
+ticipants in the population study of women in Gothenburg;
+Sweden. Br Med J 289, 1257 – 1261.
+
+Larsson B, Bjorntorp P & Tibblin G (1981) The health conse-
+
+quences of moderate obesity. Int J Obes 5, 97 – 116.
+
+Lavigne C, Tremblay F, Asselin G, Jacques H & Marette A
+(2001) Prevention of skeletal muscle insulin resistance by diet-
+ary cod protein in high fat-fed rats. Am J Physiol Endocrinol
+Metab 281, E62 – E71.
+
+Liu S, Manson JE, Stampfer MJ, Hu FB, Giovannucci E, Colditz
+GA, Hennekens CH & Willett WC (2000) A prospective study
+of whole-grain consumption and risk of type 2 diabetes mellitus
+in US women. Am J Public Health 90, 1409 – 1415.
+
+Lovejoy JC, Smith SR, Champagne CM, Most MM, Lefevre M,
+DeLany JP, Denkinds YM, Rood JC, Veldhuis J & Bray GA
+(2002) Effects of diets enriched in saturated (palmitic), mono-
+unsaturated (oleic) or trans (elaidic) fatty acids on insulin sen-
+sitivity and substrate oxidation in healthy adults. Diabetes Care
+25, 1283 – 1288.
+
+Lundgren H, Bengtsson C, Blohme O, Isaksson B, Lapidus L,
+Lenner RA, Saaek A & Winther E (1989) Dietary habits and
+incidence of non insulin-dependent diabetes diabetes mellitus
+in a population study of women in Gothenburg, Sweden. Am
+J Clin Nutr 49, 708 – 712.
+
+Ludwig DS, Peterson KE & Gortmaker SL (2001) Relation
+between consumption of sugar-sweetened drinks and childhood
+obesity: a prospective & observational analysis. Lancet 357,
+505 – 508.
+
+McKeown NM, Meigs JB, Liu S, Wilson PW & Jacques PF
+(2002) Whole-grain intake is favorably associated with meta-
+bolic risk factors for type 2 diabetes and cardiovascular dis-
+eases in the Framingham Offspring Study. Am J Clin Nutr
+76, 390 – 398.
+
+Maggio CA & Xavier Pi-Sunyer (1997) The prevention and
+
+Jiang R, Manson JE, Stampfer MJ, Liu S, Willett WC & Hu FB
+
+treatment of obesity. Diabetes Care 20, 1744 – 1766.
+
+Downloaded from https://www.cambridge.org/core. Sheridan College, on 08 Aug 2018 at 21:09:41, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms.
+https://doi.org/10.1079/BJN20041117
+
+18
+
+M. Parillo and G. Riccardi
+
+Marshall JA, Bessesen DH & Hamman RF (1997) High saturated
+fat and low starch and ﬁbre are associated with hyperinsulinae-
+mia in a non-diabetic population: the San Luis Diabetes Study.
+Diabetologia 40, 430 – 438.
+
+Marshall JA & Bessensen DH (2002) Dietary fat and the develop-
+
+ment of type 2 diabetes. Diabetes Care 25, 620 – 622.
+
+Marshall JA, Hamman RF & Baxter J (1991) High fat low carbo-
+hydrate diet and the etiology of non insulin dependent diabetes
+mellitus: the San Luis Valley Diabetes Study. Am J Epidemiol
+134, 590 – 603.
+
+Marshall JA, Shetterly S, Hoag S & Hamman RF (1994) Dietary
+fat predicts conversion from impaired glucose tolerance to
+the San Louis Valley Diabetes Study. Diabetes
+NIDDM:
+Care 17, 50 – 56.
+
+Mayer-Davis E, D’Agostino R Jr, Karter A, Haffner SM, Rewers
+MJ, Saad M & Bergman RN (1998) Intensity and amount of
+physical activity in relation to insulin sensitivity: the Insulin
+Resistance Atherosclerosis Study. J Am Med Assoc 279,
+669 – 674.
+
+Mayer-Davis EJ, Monaco JH, Hoen HM, Carmichael S, Vitolins
+MZ, Rewers MJ, Haffner SM, Ayad MF, Bergman RN &
+Karter AJ (1997) Dietary fat and insulin sensitivity in a trieth-
+nic population:
+the role of obesity. The Insulin Resistance
+Atherosclerosis Study (IRAS). Am J Clin Nutr 65, 79 – 87.
+
+Meyer KA, Kushi LH, Jacobs DR Jr & Folsom AR (2001) Dietary
+fat and incidence of type 2 diabetes mellitus in older Iowa
+women. Diabetes Care 24, 1528 – 1535.
+
+Meyer KA, Kushi LH, Jacobs DR, Slavin J, Sellers TA & Folsom
+AR (2000) Carbohydrate, dietary ﬁber and the incident type 2
+diabetes in older women. Am J Clin Nutr 71, 921 – 930.
+
+Montonen J, Knekt P, Jarvinen R, Aromaa A & Reunanen A
+(2003) Whole-grain and ﬁber incidence of type 2 diabetes.
+Am J Clin Nutr 77, 622 – 629.
+
+Moore LL Visioni AJ, Wilson PW, D’Agostino RB, Finkle WD &
+Ellison RC (2000) Can sustained weight loss in overweight
+individuals reduce the risk of diabetes mellitus? Epidemiology
+11, 269 – 273.
+
+Muuntwyler J, Hennekens CH, Buring JE & Graziano JM (1998)
+to moderate alcohol consumption after
+
+Mortality and light
+myocardial infarction. Lancet 352, 1882 – 1885.
+
+Nakanishi N, Suzuki K & Tatara K (2003) Alcohol consumption
+and risk for development of impaired fasting glucose or type 2
+diabetes in middle-aged Japanese men. Diabetes Care 26,
+48 – 54.
+
+O’Dea K (1992) Diabetes in Australian aborigines: impact of the
+
+western diet and life style. J Intern Med 232, 103 – 117.
+
+Ohlson LO, Larsson B, Bjorntorp P, Eriksson H, Svardsudd K,
+Welin L, Tibblin G & Wilhelmssen L (1988) Risk factors for
+type 2 (non insulin dependent) diabetes mellitus. Thirteen
+and one half years of follow up of the participants in a study
+of Swedish men born in 1913. Diabetologia 31, 798 – 805.
+
+Ohlson LO, Larsson B, Svardsudd K, Welin L, Eriksson H,
+Wilhelmsson L, Bjorntorp P & Tibblin G (1985) The inﬂuence
+of body fat distribution on the incidence of diabetes mellitus.
+Diabetes 34, 1055.
+
+Pan X-P, Li G-W, Hu Y-H, et al. (1997) Effects of diet and exer-
+cise in preventing NIDDM in people with impaired glucose tol-
+erance. The Da Qing IGT and Diabetes Study. Diabetes Care
+20, 537 – 544.
+
+Parillo M, Giacco R, Riccardi G, Pacioni C & Rivellese A (1985)
+Different glycaemic responses to pasta, bread, and potatoes in
+diabetic patients. Diabetes Med 2, 374 – 377.
+
+Parillo M, Riccardi G, Pacioni D, Iovine C, Contaldo F, Isernia C,
+De Marco F, Perrotti N & Rivellese A (1988) Metabolic
+effects of a high CHO-high ﬁbre diet for the treatment of
+diabetic patients with chronic kidney failure. Am J Clin Nutr
+48, 255 – 259.
+
+Parillo M & Riccardi G (1995) Dietary carbohydrates and glucose
+metabolism in diabetic patients. Diabetes Metab 21, 391 – 401.
+Parillo M, Rivellese AA, Ciardullo AV, Capaldo AV, Giacco A,
+Genovese S & Riccardi G (1992) A high-monounsaturated-fat/
+low-carbohydrate diet improves peripheral insulin sensitivity in
+patients. Metabolism 41,
+non-insulin-dependent
+1373 – 1378.
+
+diabetic
+
+Perry IJ (2002) Healthy diet and lifestyle clustering and glucose
+
+intolerance. Proc Nutr Soc 61, 543 – 551.
+
+Perry IJ, Wannamethee SG, Walker MK, Thomson AG, Whincup
+PH & Shaper AG (1995) Prospective study of risk factors for
+development of non insulin dependent diabetes in middle
+aged British men. Br Med J 4, 560 – 564.
+
+Riccardi G, Aggett P, Brighenti F, Delzenne N, Frayn N,
+Nieuwenhuizen A, Theis S & Vessby B (2004) Body weight
+regulation, insulin sensitivity and diabetes risk. Eur J Nutr
+(In the Press).
+
+Riccardi G & Rivellese A (1991) Effects of dietary ﬁber and
+carbohydrate on glucose and lipoprotein metabolism in diabetic
+patients. Diabetes Care 14, 1115 – 1125.
+
+Riccardi G & Rivellese AA (1987) New indices for selection of
+carbohydrates foods in the diabetic diet: hopes and limitations.
+Diabetes Med 4, 140 – 143.
+
+Riccardi et al. 2003.
+Roselli della Rovere G, Lapolla A, Sartore G, Rossetti C, Zambon
+S, Minicuci N, Crepaldi G, Fedele D & Manzato E (2003)
+Plasma lipoproteins, apoproteins and cardiovascular disease
+in type 2 diabetic patients. A nine-year follow-up study. Nutr
+Metab Cardiovasc Dis 13 46 – 51.
+
+Salmero`n J, Ascherio A, Rimim EB, Colditz GA, Spiegelman D,
+Jenkins DJ, Stampfer MJ, Wing AL & Willett WC (1997a)
+Dietary ﬁber glycemic load and risk of NIDDM in men. Dia-
+betes Care 20 545 – 550.
+
+Salmero`n J, Hu FB, Manson JE, Stampfer MJ, Colditz GA, Rimm
+EB & Willett WC (2001) Dietary fat intake and risk of type 2
+diabetes in women. Am J Clin Nutr 73 1019 – 1026.
+
+Salmero`n J, Manson JE, Stampfer MJ, Colditz CA, Wing AL &
+Willett WC (1997b) Dietary ﬁbre, glycemic load and risk of
+non insulin dependent diabetes mellitus in women. J Am Med
+Assoc 277 472 – 477.
+
+Samaras K & Campbell LV (2000) Increasing incidence of type 2
+diabetes in the third millennium: is abdominal fat the central
+issue? Diabetes Care 23, 441 – 442.
+
+Sargeant LA, Khaw KT, Bingham S, Day NE, Luben RN, Okaes
+S, Welch A & Wareham NJ (2001) Fruit and vegetable intake
+and population glycosylated haemoglobin levels: the EPIC-
+Norfolk Study. Eur J Clin Nutr 55 342 – 348.
+
+Stamler J, Vaccaro O, Neaton JD & Wentworth D for the MRFIT
+(1993) Diabetes, other risk factors and 12 yr cardiovascular
+mortality for men screened in the MRFIT. Diabetes Care 16,
+434 – 444.
+
+Stampfer MJ, Colditz GA, Willett WC, Manson JE, Arky RA,
+Hennekens CH & Speizer FE (1988) A prospective study of
+moderate alcohol drinking and the risk of diabetes in women.
+Am J Epidemiol 128 549 – 558.
+
+Stevens J, Ahn K, Juhaeri, Houston D, Steffan L & Couper D
+(2002) Dietary ﬁber intake and glycemic index and incidence
+of diabetes in African-American and white adults. The ARIC
+Study. Diabetes Care 10, 1715 – 1721.
+
+Storlien LH, Baur LA, Kriketors AD, Pan DA, Cooney GJ,
+Jenkins AB, Calvert GD & Campbell LV (1996) Dietary fats
+and insulin action. Diabetologia 39 621 – 631.
+
+Storlien LH, Borkman M, Jenkins AB & Campbell LV (1991)
+Diet and in vivo insulin action of rats and man. Diabetes
+Nutr Metab 4, 227 – 240.
+
+Summers LKM, Fielding BA, Bradshow HA, Ilic V, Beysen C,
+Clark ML, Moore NR & Frayn KN (2002) Substituting dietary
+
+Downloaded from https://www.cambridge.org/core. Sheridan College, on 08 Aug 2018 at 21:09:41, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms.
+https://doi.org/10.1079/BJN20041117
+
+Diet and risk of type 2 diabetes
+
+19
+
+saturated fat with polyunsaturated fat changes abdominal fat
+distribution and improves insulin sensitivity. Diabetologia 45
+369 – 377.
+
+Swinburn B, Metcalf PA & Ley SJ (2001) Long-term (5-year)
+effects of a reduced-fat diet intervention in individuals with
+glucose intolerance. Diabetes Care 24, 619 – 624.
+
+Thanopoulou AC, Karamanos BG & Angelico FV (2003) Dietary
+fat intake as a risk factor for the development of diabetes.
+Diabetes Care 26, 302 – 307.
+
+Trowell HC (1976) Deﬁnition of dietary-ﬁber and hypothesis that
+it is a protective factor in certain disease. Am J Clin Nutr 29,
+417 – 427.
+
+Tuomı`lehto J, Undstro`m J, Eriksson JG, et al. for the Finnish
+Diabetes Prevention Study Group (2001) Prevention of type 2
+diabetes mellitus by changes in lifestyle among subjects with
+impaired glucose tolerance. N Engl J Med 344, 1343 – 1350.
+
+UK PDS (1998) Risk factors for coronary artery disease in non
+
+insulin dependent diabetes. Br Med J 16, 823 – 828.
+
+Uusitupa MI, Niskanen LK, Siitonen O, Voutilainen E & Pyorala
+K (1993) Ten-year cardiovascular mortality in relation to risk
+factors and abnormalities in lipoprotein composition in type 2
+36,
+diabetic
+1175 – 1184.
+
+subjects. Diabetologia
+
+and
+
+non
+
+diabetic
+
+Van Dam RM, Rimm EB, Willett WC, Stampfer MJ & Hu FB
+(2002) Dietary patterns and risk for type 2 diabetes mellitus
+in US men. Ann Intern Med 136, 201 – 209.
+
+Van Dam RM, Visscher AW, Feskens EJ, Verhoef P & Kromhout
+D (2000) Dietary glycemic index in relation to metabolic risk
+factors and incidence of coronary heart disease: the Zutphen
+elderly Study. Eur J Clin Nutr 254, 726 – 731.
+
+Van Dam RM, Willett WC, Rimm EB, Stampfer MJ & Hu FB
+(2002b) Dietary fat and meat intake in relation to risk of type
+2 diabetes in man. Diabetes Care 25, 417 – 424.
+
+Van Itallie TB (1985) Health implications of overweight and
+
+obesity in the United States. Ann Intern Med 103, 983 – 988.
+
+Vessby B (2000) Dietary fat and insulin action in humans. Br J
+
+Nutr 83, Suppl. 1, S91 – S96.
+
+Vessby B, Aro A, Skarfors E, Berglund L, Saltinen I & Lithell H
+(1994) The risk to develop NIDDM is related to the fatty acid
+composition of the serum cholesterol esters. Diabetes 43,
+1353 – 1357.
+
+Vessby B, Uusitupa M, Hermansen K, et al. (2001) Substituting
+dietary saturated for monounsaturated fat impairs insulin sensi-
+tivity in healthy men and women: the KANWU study. Diabe-
+tologia 44, 312 – 319.
+
+Vinik AI & Jenkins DJA (1998) Dietary ﬁber in management of
+
+diabetes. Diabetes Care 11, 160 – 173.
+
+Wang L, Folsom AR, Zheng Z-J, Pankow JS & Eckfeldt JH for
+the ARIC Study Investigators (2003) Plasma fatty acid compo-
+sition and incidence of diabetes in middle-aged adults: the
+Atherosclerosis Risk in Communities (ARIC) Study. Am J
+Clin Nutr 78, 91 – 98.
+
+Wannamethee SG, Camargo CA Jr, Manson JE, Willett WC &
+Rimm EB (2003) Alcohol drinking patterns and risk of type
+2 diabetes mellitus among younger women. Arch Intern Med
+163, 1329 – 1336.
+
+Wannamethee SG, Shaper AG, Perry IJ & Alberti KG (2002)
+Alcohol consumption and the incidence of type II diabetes. J
+Epidemiol Community Health 56, 542 – 548.
+
+West KM (1978) Epidemiology of Diabetes and its Vascular
+
+Lessons. New York: Elsevier.
+
+West KM & Kalbﬂeish JM (1971) Inﬂuence of nutritional factors
+
+on prevalence of diabetes. Diabetes 20, 99 – 108.
+
+Wei M, Gibbons LW, Mitchell TL, Kampert JB & Blair SN
+(2000) Alcohol intake and incidence of type 2 diabetes in
+men. Diabetes Care 23, 18 – 22.
+
+World Health Organization (1999) Deﬁnition, Diagnosis and
+Classiﬁcation of Diabetes Mellitus and its Complications:
+Report of WHO Consultation. Geneva: WHO.
+
+Wiesenthal SR, Sandhu H, McCalI RH, Tchipashvili V, Polonsky
+K, Shi ZQ, Lewis GF, Mari A & Giacca A (1999) Free fatty
+acids impair hepatic insulin extraction in vivo. Diabetes 48
+766 – 774.
+
+Willett W, Manson J & Liu S (2002) Glycemic index, glycemic
+load, and the risk of type 2 diabetes. Am J Clin Nutr 7,
+Suppl., 274s – 280s.
+
+Williams DE, Wareham NJ, Cox BD, Byrne CD, Hales CN &
+Day NE (1999) Frequent salad vegetable consumption is
+associated with a reduction in the risk of diabetes mellitus. J
+Clin Epidemiol 52, 329 – 335.
+
+Wolever TMS (2000) Dietary carbohydrates and insulin action in
+
+humans. Br J Nutr 83, Suppl. 1, S97 – S102.
+
+Wolk AM, Manson JE, Stampfer MI, Colditz GA, Hu FB,
+Speizer FE, Hennekens CH & Willett WC (1999) Long-term
+intake or dietary ﬁber and decreased risk or coronary heart
+disease among women. J Am Med Assoc 281 1996 – 2004.
+
+Yang EJ, Kerver JM, Park UK, Kayitsinga J, Allison DB &
+Song WO (2003) Carbohydrate intake and biomarkers of glyce-
+mic control among US adults: the third National Health and
+Nutrition Examination Survey (NHANES III). Am J Clin
+Nutr 77, 1426 – 1433.
+
+Yao M & Roberts SB (2001) Dietary energy density and weight
+
+regulation. Nutr Rev 59, 247 – 258.
+
+Downloaded from https://www.cambridge.org/core. Sheridan College, on 08 Aug 2018 at 21:09:41, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms.
+https://doi.org/10.1079/BJN20041117
+
+

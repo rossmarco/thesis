@@ -1,0 +1,1045 @@
+ORIGINAL INVESTIGATION
+
+Coffee Consumption and Risk
+of Type 2 Diabetes Mellitus
+
+An 11-Year Prospective Study of 28 812 Postmenopausal Women
+
+Mark A. Pereira, PhD; Emily D. Parker, MPH; Aaron R. Folsom, MD
+
+Background: Coffee intake may be associated with re-
+duced risk of type 2 diabetes mellitus because of minerals,
+phytochemicals, and antioxidants in coffee, but the role of
+caffeine is unclear. Our objective was to examine the as-
+sociation between total, caffeinated, and decaffeinated cof-
+fee intake, as assessed by food frequency questionnaire at
+baseline, and risk of incident type 2 diabetes mellitus.
+
+Methods: This prospective analysis of the Iowa Wom-
+en’s Health Study (1986-1997) included 28 812 post-
+menopausal women free of diabetes and cardiovascular
+disease in the general community. The main outcome
+measure was incident type 2 diabetes mellitus as deter-
+mined by mailed questionnaire.
+
+Results: Coffee intake was categorized as 0 , less than 1,
+1 to 3, 4 to 5, and 6 or more cups per day. During 11 years
+of follow-up, there were 1418 incident cases of diabetes.
+
+Relative risks (RRs) were adjusted for a variety of demo-
+graphic, adiposity, and lifestyle measures. Compared with
+women who reported 0 cups of coffee per day, women who
+consumed 6 or more cups per day had a 22% lower risk
+(RR=0.78; 95% confidence interval [CI], 0.61-1.01) of dia-
+betes (P for linear trend across categories, .06). This as-
+sociation appeared to be largely explained by decaffein-
+ated coffee (RR=0.67; 95% CI, 0.42-1.08; P for trend, .006)
+rather than regular coffee (RR=0.79; 95% CI, 0.59-1.05;
+P for trend, .90). Intake of magnesium and phytate did not
+explain these associations. Intakes of caffeine from all
+sources was not associated with risk of diabetes.
+
+Conclusion: Coffee intake, especially decaffeinated, was
+inversely associated with risk of type 2 diabetes mellitus
+in this cohort of postmenopausal women.
+
+Arch Intern Med. 2006;166:1311-1316
+
+S EVERAL LARGE PROSPECTIVE
+
+studies have reported an in-
+verse association between cof-
+fee consumption and risk of
+type 2 diabetes mellitus.1-5 A
+recent systematic review on this topic con-
+cluded that this association between cof-
+fee intake and risk of type 2 diabetes melli-
+tus is consistent across age, obesity, and
+study location (United States and Eu-
+rope).6 The associations were relatively
+strong, followed a dose-response relation
+(higher coffee intake, lower diabetes inci-
+dence), and appeared to be independent of
+potentially confounding dietary and life-
+style factors. Purported mechanisms that
+may explain this association, if causal, in-
+clude effects on insulin sensitivity and/or
+insulin secretion from a variety of miner-
+als, antioxidants, and phytochemical com-
+pounds found in coffee.7,8 However, it re-
+mains unclear whether the caffeine itself
+may increase or decrease the risk of type 2
+diabetes mellitus and therefore whether ef-
+fects may differ between regular and de-
+caffeinated coffee.3,9-12
+
+The purpose of the present study was
+to examine the association between cof-
+fee drinking habits and risk of type 2 dia-
+betes mellitus in a large prospective study
+of postmenopausal women from the state
+of Iowa. Our study afforded the opportu-
+nity to determine if the findings from the
+previous studies would also be found in a
+relatively homogeneous cohort of older
+women with relatively high intakes of both
+regular coffee and decaffeinated coffee.
+
+METHODS
+
+RESEARCH DESIGN
+
+The Iowa Women’s Health Study is a prospec-
+tive cohort study of postmenopausal women
+residing in the state of Iowa. In January 1986,
+a random sample of 99 826 women aged 55 to
+69 years with a valid Iowa driver’s license were
+mailed a 16-page questionnaire and invited to
+participate in the study. The original study
+sample consisted of 41 836 women who re-
+turned the baseline questionnaire. Compared
+with nonrespondents, respondents had a lower
+
+Author Affiliations: Division of
+Epidemiology & Community
+Health, School of Public Health,
+University of Minnesota,
+Minneapolis.
+
+(REPRINTED) ARCH INTERN MED/ VOL 166, JUNE 26, 2006
+
+WWW.ARCHINTERNMED.COM
+
+1311
+
+©2006 American Medical Association. All rights reserved.
+
+Downloaded From:  by a Sheridan College User  on 08/08/2018mean body mass index (BMI) (calculated as weight in kilo-
+grams divided by the square of height in meters) (0.4 lower),
+were 3 months older, and were more likely to live in rural and
+less affluent counties compared with nonrespondents.13
+
+Women were excluded from our analysis if they reported im-
+plausibly high (⬎5000 kcal) or low (⬍600 kcal) energy in-
+takes, left 30 or more items blank on the food frequency ques-
+tionnaire, or had diabetes, cardiovascular disease, or cancer (other
+than nonmelanoma skin cancer) at baseline, or were unsure
+whether they had diabetes. Women were considered to have dia-
+betes at baseline if they responded yes to 1 of the following ques-
+tions: (1) have you ever been told by a doctor that you have sugar
+diabetes? and (2) have you ever taken insulin or pills for sugar
+diabetes (or to lower blood glucose)? After these exclusions,
+28 812 women were included in the present analyses.
+
+Diabetes incidence was determined by self-report using the
+following question asked on 4 follow-up mailed surveys in 1987,
+1989, 1992, and 1997: “Since baseline (or most recent follow-
+up), were you diagnosed for the first time by a doctor as hav-
+ing sugar diabetes?” Response rates for the 4 follow-up sur-
+veys were 91%, 89%, 86%, and 79%, respectively. A validation
+study of self-reported diabetes was conducted on 85 cohort par-
+ticipants in 1988 after the first follow-up survey. Subjects tended
+to overreport having diabetes; of 44 women who reported hav-
+ing diabetes at baseline, 28 (64%) were confirmed as having
+diabetes by their physician. All 41 women who reported not
+having diabetes at baseline were confirmed noncases.14
+
+The baseline questionnaire included questions on known
+or suspected risk factors for diabetes, such as age, BMI, waist-
+hip ratio (WHR), physical activity, alcohol consumption, and
+smoking history. Weight and height were self-reported, and
+WHR was calculated as the mean of 2 measurements taken by
+the participant’s spouse or friend using a paper tape measure
+that was included with the questionnaire.15 The women re-
+ported their frequency of moderate (eg, golf and long walks)
+and vigorous (eg, swimming and aerobics) physical activity, and
+these were combined into a simple 3-level index of total physi-
+cal activity (low, moderate, and high).16 Pack-years of smok-
+ing was calculated from the intensity and duration of cigarette
+smoking. Alcohol consumption was assessed by the food fre-
+quency questionnaire, which queried the participants’ typical
+intakes of wine, beer, and spirits. The women also provided in-
+formation on their marital status, educational attainment, resi-
+dence, and use of hormone therapy.
+
+A 127-item food frequency questionnaire was used to as-
+sess past-year typical food intake.17 Women were asked “Please
+fill in your average use during the past year, of each specified
+food.” For “decaffeinated coffee” and “coffee,” the standard serv-
+ing size was assigned on the questionnaire as “1 cup,” and the
+intake frequency options ranged from “never or less than once
+per month” up to “6 or more cups per day.” The validity of the
+food frequency questionnaire was evaluated by comparing nu-
+trient values with those from the average of five 24-hour di-
+etary recall surveys in 44 study participants.18 Reliability was
+evaluated by readministering the questionnaire 3 to 6 months
+later. The validity correlations for caffeine were r=0.95 (only
+alcohol was higher) and r=0.82 (only riboflavin was higher),
+respectively.
+
+STATISTICAL ANALYSIS
+
+The SAS version 9.1 package was used for all statistical analy-
+ses (SAS Institute Inc, Cary, NC). Person-time-at-risk was cal-
+culated from baseline to the date of the last completed fol-
+low-up survey for women who did not report a diagnosis of
+diabetes. For women who reported a diabetes diagnosis, person-
+time was calculated as the sum of the known disease-free pe-
+
+riod and half of the period during which the diagnosis was made.
+Relative risks (RRs) per category of coffee intake were esti-
+mated by Cox proportional hazards regression models (PROC
+PHREG; SAS Institute Inc) with simultaneous adjustment for
+many demographic, lifestyle, and dietary variables. Coffee cat-
+egories were based on round and logical daily intake cut points
+that would also provide an ample number of participants and
+cases per category. Linear trend tests for the RRs across in-
+crease coffee intake categories were computed by reparameter-
+ization of the categorical coffee variables as if they were con-
+tinuous. Three models were constructed, with only the final
+model including some components of coffee that may be on
+the causal pathway between coffee intake and risk of type 2 dia-
+betes mellitus. Model 1 included baseline age (continuous), edu-
+cation (high school graduate vs not), and baseline hyperten-
+sion (yes vs no). Model 2 included those variables in model 1,
+plus alcohol (0, ⬍4g/d, and ⱖ4 g/d), smoking status (smoker
+vs not), cigarette pack-years (quartiles), BMI (continuous), WHR
+(continuous), physical activity (high, moderate, and low), en-
+ergy intake (kilocalories per day, continuous), and intake of
+total fat (grams per day, continuous), fatty acids and choles-
+terol level (Keys score, continuous), cereal fiber (grams per day,
+quintiles), tea (servings per day, quartiles), and sugar-
+sweetened beverages (servings per day, quintiles). Finally, model
+3 included those variables in model 2, plus dietary intake of
+magnesium (milligrams per day, quintiles) and phytate (mil-
+ligrams per day, quintiles).
+
+RESULTS
+
+Table 1 includes the levels of coffee intake in this co-
+hort, as well as intakes of other beverages and of caf-
+feine. Nearly half the cohort (n=14 224; mean intake, 2.3
+cups per day) reported consuming 1 to 3 cups of coffee
+per day, with fewer reporting no coffee consumption
+(n=2928) and 2875 reporting 6 or more cups per day
+(mean=6.5 cups per day). Regular coffee was more com-
+mon than decaffeinated coffee, especially at high levels
+of coffee intake. Coffee and tea were found to be in-
+versely correlated, whereas there appeared to be only a
+weak inverse association between soda (primarily sugar-
+sweetened carbonated beverages) intake and coffee in-
+take. As expected, we observed a strong direct associa-
+tion between coffee intake and caffeine intake. Regular
+coffee drinkers tended to report less skim milk in their
+diets compared with coffee abstainers. Median intakes
+of whole milk and cream were 0 within each coffee cat-
+egory. Linear regression revealed statistically signifi-
+cant (P⬍.05) associations between coffee intake and all
+variables except soda and whole milk.
+
+The baseline characteristics of the cohort by level of cof-
+fee consumption are given in Table 2. Generally, higher
+coffee intake was associated with lower BMI and WHRs,
+with higher consumption of alcohol and cigarettes, and
+with lower prevalence of vigorous activity and hyperten-
+sion. Coffee intake was positively correlated with energy
+intake and all types of fat and inversely correlated with di-
+etary fiber intake. Coffee intake was inversely associated
+with intake of fruit and low-fat dairy and positively asso-
+ciated with high-fat dairy. Finally, coffee intake was posi-
+tively associated with intakes of magnesium and phytate.
+These associations were not materially different, without
+exception, when analyzed separately for caffeinated cof-
+fee and for decaffeinated coffee.
+
+(REPRINTED) ARCH INTERN MED/ VOL 166, JUNE 26, 2006
+
+WWW.ARCHINTERNMED.COM
+
+1312
+
+©2006 American Medical Association. All rights reserved.
+
+Downloaded From:  by a Sheridan College User  on 08/08/2018Table 1. Baseline Mean Daily Servings of Coffee and Other Beverages and of Caffeine in 28 812 Women
+in the Iowa Women’s Health Study, 1986*
+
+Variable
+Total coffee
+Regular coffee
+Decaffeinated coffee
+Tea
+Soda
+Caffeine, mg/d
+Skim milk
+Whole milk
+Cream
+
+0
+
+(n = 2928)
+
+0
+0
+0
+
+0.7 (1.3)
+0.5 (0.81)
+46 (68.9)
+1.1 (1.22)
+0.2 (0.59)
+0.1 (0.33)
+
+Coffee Consumption, Cups per Day
+
+⬍1
+
+(n = 3231)
+0.5 (0.30)
+0.2 (0.28)
+0.2 (0.27)
+0.5 (1.01)
+0.3 (0.57)
+63 (63.6)
+1.1 (1.12)
+0.1 (0.50)
+0.1 (0.40)
+
+1-3
+
+(n = 14 224)
+2.3 (0.74)
+1.3 (1.09)
+0.9 (1.04)
+0.4 (0.76)
+0.4 (0.54)
+209 (153.1)
+1.0 (1.03)
+0.1 (0.45)
+0.2 (0.54)
+
+4-5
+
+(n = 5554)
+4.7 (0.28)
+3.1 (1.90)
+1.6 (1.95)
+0.3 (0.74)
+0.4 (0.61)
+448 (259.9)
+0.9 (0.99)
+0.1 (0.46)
+0.2 (0.74)
+
+ⱖ6
+
+(n = 2875)
+6.5 (1.04)
+4.6 (2.25)
+1.9 (2.52)
+0.3 (0.82)
+0.3 (0.67)
+656 (306.8)
+0.8 (1.06)
+0.2 (0.53)
+0.2 (1.00)
+
+*Data are given as mean (SD). Statistically significant trends (P⬍.05) were observed across categories for all variables except soda and whole milk.
+
+Table 2. Baseline Characteristics According to Coffee Consumption Levels in 28 812 Women
+in the Iowa Women’s Health Study, 1986*
+
+Coffee Consumption, Cups per Day
+
+Characteristic
+Age, y
+BMI
+WHR
+Alcohol, g/d
+Education, ⬎high school
+Current smoker, %
+Physical activity, % high
+Hypertension, %
+Energy intake, kcal/d
+Total fat, % kcal
+Saturated fat, % kcal
+Polyunsaturated fat, % kcal
+Monounsaturated fat, % kcal
+Fiber, g/1000 kcal
+Fruit, srv/d
+Vegetables, srv/d
+Total dairy, srv/d
+Low-fat dairy, srv/d
+High-fat dairy, srv/d
+Magnesium, mg/d
+Phytate, mg/d
+
+0
+
+(n = 2928)
+61.3 (4.2)
+27.3 (5.4)
+0.84 (0.09)
+1.6 (5.8)
+85.4
+6.9
+26.7
+34.0
+1780 (605)
+33.4 (6.1)
+11.8 (2.7)
+5.8 (1.7)
+12.7 (2.7)
+11.4 (3.5)
+2.7 (1.4)
+3.7 (2.2)
+2.6 (1.7)
+1.3 (1.3)
+1.4 (1.3)
+281 (112)
+786 (384)
+
+⬍1
+
+(n = 3231)
+61.8 (4.2)
+27.0 (5.2)
+0.84 (0.08)
+2.3 (6.9)
+82.9
+8.1
+26.6
+36.1
+1706 (591)
+33.1 (5.8)
+11.7 (2.6)
+5.9 (1.5)
+12.5 (2.5)
+11.7 (3.4)
+2.7 (1.7)
+3.6 (2.2)
+2.4 (1.6)
+1.2 (1.2)
+1.3 (1.3)
+281 (114)
+760 (356)
+
+1-3
+
+(n = 14 224)
+61.6 (4.2)
+26.7 (4.7)
+0.83 (0.08)
+4.0 (8.8)
+83.9
+11.2
+25.9
+34.5
+1792 (580)
+33.7 (5.5)
+11.8 (2.4)
+6.0 (1.5)
+12.8 (2.4)
+11.2 (3.1)
+2.7 (1.6)
+3.6 (2.0)
+2.5 (1.6)
+1.1 (1.1)
+1.4 (1.36)
+298 (104)
+814 (346)
+
+4-5
+
+(n = 5554)
+60.8 (4.1)
+26.4 (4.8)
+0.83 (0.8)
+5.3 (10.5)
+82.3
+21.8
+24.4
+29.1
+1847 (614)
+34.7 (5.6)
+12.1 (2.5)
+6.2 (1.6)
+13.2 (2.4)
+10.8 (3.1)
+2.5 (1.5)
+3.7 (2.1)
+2.5 (1.8)
+1.0 (1.0)
+1.5 (1.6)
+317 (104)
+847 (354)
+
+ⱖ6
+
+(n = 2875)
+60.3 (4.0)
+26.3 (4.8)
+0.82 (0.08)
+5.3 (11.0)
+79.6
+37.2
+21.4
+25.5
+1894 (688)
+35.8 (5.97)
+12.5 (2.8)
+6.4 (1.8)
+13.7 (2.6)
+10.2 (3.0)
+2.3 (1.6)
+3.6 (2.2)
+2.5 (2.0)
+0.9 (1.1)
+1.8 (0.3)
+334 (116)
+865 (420)
+
+Abbreviations: BMI, body mass index (calculated as weight in kilograms divided by the square of height in meters); srv, servings; WHR, waist-hip ratio.
+*Data are given as mean (SD) or percentage of participants. Statistically significant trends (P⬍.05) were observed across categories for all variables except
+
+vegetables and total dairy.
+
+Relative risks for incident type 2 diabetes mellitus by
+category of coffee consumption are given in Table 3 for
+3 different regression models. In model 1, adjusted for
+age, education, and baseline hypertension status, we ob-
+served a linear dose-response inverse association be-
+tween coffee intake and diabetes risk (P⬍.001). Women
+who reported drinking 6 or more cups per day had a 34%
+reduction in risk of diabetes (RR=0.66; 95% confidence
+interval [CI], 0.52-0.84) compared with those report-
+ing no coffee intake. This association was attenuated by
+further adjustment in model 2 for a variety of other an-
+thropometric, lifestyle, and dietary factors (RR=0.78; 95%
+
+CI, 0.61-1.01; P for linear trend, .06). The inverse asso-
+ciations between coffee intake and diabetes risk were
+stronger for decaffeinated coffee than for regular (caf-
+feinated) coffee. Indeed, in model 2 there no longer ap-
+peared to be an association between caffeinated coffee and
+diabetes risk, whereas the association between decaffein-
+ated coffee and diabetes risk was only marginally attenu-
+ated by anthropometric and lifestyle factors. In addi-
+tion, the association between total coffee intake and
+diabetes risk was completely explained by adjustment for
+intake of decaffeinated coffee (data not shown). Further
+adjustment for intake of magnesium and phytate in model
+
+(REPRINTED) ARCH INTERN MED/ VOL 166, JUNE 26, 2006
+
+WWW.ARCHINTERNMED.COM
+
+1313
+
+©2006 American Medical Association. All rights reserved.
+
+Downloaded From:  by a Sheridan College User  on 08/08/2018Table 3. Relative Risks of Incident Type 2 Diabetes Mellitus According to Total Coffee, Regular Coffee,
+and Decaffeinated Coffee Consumption in 28 812 Women in the Iowa Women’s Health Study, 1986-1997*
+
+Variable
+Total coffee, cups per day
+
+0
+⬍1
+1-3
+4-5
+ⱖ6
+
+Regular coffee, cups per day
+
+0
+⬍1
+1-3
+4-5
+ⱖ6
+
+Decaffeinated coffee, cups per day
+
+0
+⬍1
+1-3
+4-5
+ⱖ6
+
+No. of
+Cases
+
+177
+166
+732
+239
+104
+
+177
+524
+488
+161
+68
+
+177
+765
+389
+67
+20
+
+Model 1†
+
+Model 2‡
+
+Model 3§
+
+RR (95% CI)
+
+P Value
+
+RR (95% CI)
+
+P Value
+
+RR (95% CI)
+
+P Value
+
+1.00
+0.84 (0.68-1.04)
+0.84 (0.71-0.99)
+0.74 (0.61-0.90)
+0.66 (0.52-0.84)
+
+1.00
+0.79 (0.67-0.94)
+0.83 (0.70-0.99)
+0.80 (0.64-0.99)
+0.67 (0.50-0.88)
+
+1.00
+0.82 (0.69-0.96)
+0.82 (0.69-0.99)
+0.61 (0.46-0.81)
+0.58 (0.36-0.92)
+
+⬍.001
+
+.03
+
+.001
+
+1.00
+0.96 (0.77-1.19)
+1.01 (0.85-1.19)
+0.84 (0.69-1.03)
+0.78 (0.61-1.01)
+
+1.00
+0.90 (0.76-1.17)
+1.02 (0.85-1.22)
+1.00 (0.80-1.25)
+0.79 (0.59-1.05)
+
+1.00
+0.98 (0.82-1.16)
+1.00 (0.83-1.20)
+0.59 (0.44-0.80)
+0.67 (0.42-1.08)
+
+.06
+
+.90
+
+.006
+
+1.00
+0.95 (0.77-1.18)
+1.01 (0.85-1.19)
+0.85 (0.69-1.04)
+0.79 (0.61-1.02)
+
+1.00
+0.92 (0.76-1.11)
+0.88 (0.70-1.12)
+0.89 (0.64-1.23)
+1.00 (0.84-1.19)
+
+1.00
+0.98 (0.83-1.16)
+1.01 (0.84-1.21)
+0.59 (0.44-0.80)
+0.68 (0.43-1.09)
+
+.07
+
+.53
+
+.002
+
+Abbreviations: CI, confidence interval; RR, relative risk.
+*P values are for linear trend in RRs across categories.
+†Model 1 adjusted for age (continuous), education (high school graduate vs not), and baseline hypertension (yes vs no).
+‡Model 2 adjusted for model 1 variables, plus alcohol (0, ⬍4 g/d, and ⱖ4 g/d), smoking status (smoker vs not), cigarette pack-years (quartiles), body mass
+
+index (continuous), waist-hip ratio (continuous), physical activity (high, moderate, and low), energy intake (kilocalories per day, continuous), total fat (grams per
+day, continuous), Keys score (continuous), cereal fiber (grams per day, quintiles), tea consumption (servings per day, quartiles), and soda consumption (servings
+per day, quintiles).
+
+§Model 3 adjusted for model 2 variables, plus magnesium (milligrams per day, quintiles) and phytate (milligrams per day, quintiles).
+
+3 did not materially alter the relative risks. Caffeine in-
+take, highly correlated with regular caffeinated coffee in-
+take (r=0.94), was not associated with diabetes risk in
+this study (RR for quintile 5 vs quintile 1, 1.03; 95% CI,
+0.86-1.04; P for linear trend, .66).
+
+When we excluded women who reported diabetes in
+the first 2 years of follow-up, the results were not mate-
+rially altered. Including regular coffee and decaffeinated
+coffee in the same model also did not materially change
+the RR estimates, nor did adjustment for intake of milk
+and cream. In the full model 3, we observed a possible
+reduction in risk for women in the highest category of
+tea intake (ⱖ4 servings per day: RR = 0.64; 95% CI, 0.40-
+1.03) relative to the lowest (0 servings per day), whereas
+intermediate levels of tea intake appeared to confer no
+protection (quartile 2 [⬎1 serving per day], RR = 1.01
+[95% CI, 0.86-1.19]; quartile 3 [1-3 servings per day],
+RR = 1.02 [95% CI, 0.91-1.15]).
+
+COMMENT
+
+Among postmenopausal women living in the state of Iowa
+and followed over 11 years from 1986 to 1997, we ob-
+served a dose-response inverse association between in-
+take of coffee, particularly decaffeinated coffee, and the
+risk of type 2 diabetes mellitus. When we computed sepa-
+rate models for regular coffee and for decaffeinated cof-
+fee, the inverse associations were considerably stronger
+for decaffeinated coffee than for regular (caffeinated) cof-
+fee. Indeed, in contrast to the findings of other observa-
+
+tional studies,3 caffeine intake did not appear to be as-
+sociated with diabetes risk in our study. While the
+association between caffeinated coffee and diabetes risk
+was confounded by adiposity and lifestyle factors, the as-
+sociation between decaffeinated coffee and diabetes risk
+was only moderately attenuated after these adjust-
+ments. That is, the association between decaffeinated cof-
+fee and diabetes appeared to be independent of many other
+potentially confounding anthropometric, lifestyle, and di-
+etary factors, such as physical activity, BMI, and cereal
+fiber. This association did not appear to be explained by
+adjustment for 2 coffee components, magnesium and
+phytate, that were in our database.
+
+At least 10 prior prospective cohort studies from the
+Netherlands,2,19 Finland,1,20,21 Sweden,4 and the United
+States3,5,22 have examined the association between cof-
+fee consumption habits and risk of type 2 diabetes melli-
+tus. Seven of these studies reported inverse associations
+between coffee intake and risk of type 2 diabetes melli-
+tus,1-5,19,21 although 2 of these were small underpowered
+studies.4,19 Tuomilehto and colleagues1 examined this
+question in a cohort study from Finland, a population
+with the highest coffee consumption in the world. More
+than 14 629 men and women were studied for an aver-
+age follow-up period of 12 years, beginning in 1982. A
+strong inverse association between coffee intake and risk
+of type 2 diabetes mellitus was observed, independent
+of many other lifestyle and dietary factors, and with no
+apparent threshold for the risk reduction with very high
+intakes. That is, men and women who reported coffee
+
+(REPRINTED) ARCH INTERN MED/ VOL 166, JUNE 26, 2006
+
+WWW.ARCHINTERNMED.COM
+
+1314
+
+©2006 American Medical Association. All rights reserved.
+
+Downloaded From:  by a Sheridan College User  on 08/08/2018consumption as high as more than 10 cups per day had
+the lowest RRs for type 2 diabetes mellitus (0.45 [95%
+CI, 0.25-0.81] for men and 0.21 [95% CI, 0.06-0.69] for
+women). The study did not, however, examine intake of
+decaffeinated coffee, presumably because the consump-
+tion of decaffeinated coffee was very low in the Finnish
+population. The results of the Finnish Twin Cohort Study
+also observed an inverse, albeit weaker, association be-
+tween coffee intake and diabetes incidence,21 while one
+older Finnish study on this topic reported no associa-
+tion between coffee intake and diabetes risk.20
+
+Magnesium, for which coffee is a good source, could
+explain some of the inverse association between coffee
+intake and risk of type 2 diabetes mellitus through known
+beneficial effects on carbohydrate metabolism.23-26 How-
+ever, when we entered magnesium into the final model,
+there was no attenuation of the RRs as one would have
+expected through causal mediation. Caffeine could not
+explain our findings because the association was essen-
+tially limited to decaffeinated coffee, and caffeine intake
+was not associated with diabetes risk. Our findings of a
+weak association between caffeinated coffee and diabe-
+tes and no association between caffeine intake and dia-
+betes risk is at odds with the inverse associations re-
+ported by the US Nurses Health Study and Health
+Professionals Follow-up study.3 Perhaps high caffeine in-
+take carries more detrimental effects in older adults than
+in middle aged adults, or perhaps the association be-
+tween caffeine and diabetes in the present study was con-
+founded by some unmeasured or poorly measured fac-
+tor. Indeed, the literature is mixed on whether caffeine
+may increase or decrease risk for type 2 diabetes melli-
+tus, with both scenarios being plausible.3,9-12 Thus, we are
+left with the question of how coffee consumption, par-
+ticularly decaffeinated coffee, could reduce the risk of dia-
+betes. Certainly, the coffee bean is known to be a rich
+source of many minerals and phytochemicals, includ-
+ing polyphenols such as chlorogenic acid and phytic acid
+that may improve postprandial carbohydrate metabo-
+lism through a variety of possible mechanisms.8 For ex-
+ample, chlorogenic acid may reduce intestinal absorp-
+tion of glucose27 and inhibit gut incretin hormones,28,29
+while in the liver chlorogenic acid may inhibit glucose-
+6-phosphatase activity.30,31 These mechanisms would be
+expected to attenuate blood glucose concentrations and
+possibly reduce the risk or delay the onset of type 2 dia-
+betes mellitus. Furthermore, coffee may have powerful
+antioxidant properties7 that could potentially protect the
+pancreatic beta cell from oxidative stress or promote in-
+sulin sensitivity in the peripheral tissues, thereby delay-
+ing or preventing the onset of type 2 diabetes mellitus.
+Based on data available on the antioxidant content of foods
+(as assessed by the ferric-reducing ability of plasma as-
+say) and on food consumption data, a study of the Nor-
+wegian diet found coffee to contribute more antioxi-
+dants compared with any other dietary component.32
+Unfortunately, typical nutritional data sources such as
+ours do not include the vast, although poorly under-
+stood, phytochemicals and other components of plant-
+based foods and beverages. Therefore, with the excep-
+tion of phytate, which was not associated with diabetes
+risk in our study, we were unable to assess the possibil-
+
+ity that these naturally occurring chemicals might ex-
+plain the link between coffee intake and diabetes risk.
+Our study has several limitations. Most notably, our
+findings are based on observational self-reported data.
+Both the exposure (diet) and the outcome were based on
+self-report, leaving possibilities for biases relative to stud-
+ies with objective measures and studies using experi-
+mental designs. We cannot rule out residual confound-
+ing as an explanation for our findings. However, it should
+be noted that measurement error resulting in nondiffer-
+ential misclassification would tend to bias results to-
+ward the null hypothesis. As such, it is possible that our
+findings underestimate the true strength of association.
+For these reasons, we cannot rule out that a true inverse
+association between caffeinated coffee and diabetes risk
+may exist in this population.
+
+In summary, we observed an inverse association be-
+tween coffee consumption, especially decaffeinated cof-
+fee consumption, and the risk of type 2 diabetes melli-
+tus over an 11-year period in postmenopausal women
+residing in the state of Iowa. Although this study sug-
+gests that the causal mechanism for this association may
+not be caffeine, magnesium, or phytate, this study was
+not equipped to thoroughly explore possible causal
+mechanisms for this association. Although the first line
+of prevention for diabetes is exercise and diet, in light of
+the popularity of coffee consumption and high rates of
+type 2 diabetes mellitus in older adults, these findings
+may carry high public health significance.
+
+Accepted for Publication: April 7, 2006.
+Correspondence: Mark A. Pereira, PhD, Division of Epi-
+demiology & Community Health, 1300 S Second St, Suite
+300, Minneapolis, MN 55454 (pereira@epi.umn.edu).
+Author Contributions: Dr Pereira had full access to all
+the data in the study and takes responsibility for the in-
+tegrity of the data and the accuracy of the data analysis.
+Financial Disclosure: None.
+Funding/Support: This work was supported by grant
+CA3974 from the National Cancer Institute.
+Role of the Sponsor: The funding source had no role in
+the design or conduct of the study, nor in the collection,
+management, analysis, or interpretation of the data, nor in
+the preparation, review, or approval of the manuscript.
+
+REFERENCES
+
+1. Tuomilehto J, Hu G, Bidel S, Lindstrom J, Jousilahti P. Coffee consumption and
+risk of type 2 diabetes mellitus among middle-aged Finnish men and women.
+JAMA. 2004;291:1213-1219.
+
+2. van Dam RM, Feskens EJ. Coffee consumption and risk of type 2 diabetes mellitus.
+
+Lancet. 2002;360:1477-1478.
+
+3. Salazar-Martinez E, Willett WC, Ascherio A, et al. Coffee consumption and risk
+
+for type 2 diabetes mellitus. Ann Intern Med. 2004;140:1-8.
+
+4. Rosengren A, Dotevall A, Wilhelmsen L, Thelle D, Johansson S. Coffee and in-
+cidence of diabetes in Swedish women: a prospective 18-year follow-up study.
+J Intern Med. 2004;255:89-95.
+
+5. Greenberg JA, Axen KV, Schnoll R, Boozer CN. Coffee, tea and diabetes: the role
+
+of weight loss and caffeine. Int J Obes (Lond). 2005;29:1121-1129.
+
+6. van Dam RM, Hu FB. Coffee consumption and risk of type 2 diabetes: a system-
+
+atic review. JAMA. 2005;294:97-104.
+
+7. Natella F, Nardini M, Giannetti I, Dattilo C, Scaccini C. Coffee drinking influences
+plasma antioxidant capacity in humans. J Agric Food Chem. 2002;50:6211-6216.
+8. Manach C, Scalbert A, Morand C, Remesy C, Jimenez L. Polyphenols: food sources
+
+and bioavailability. Am J Clin Nutr. 2004;79:727-747.
+
+(REPRINTED) ARCH INTERN MED/ VOL 166, JUNE 26, 2006
+
+WWW.ARCHINTERNMED.COM
+
+1315
+
+©2006 American Medical Association. All rights reserved.
+
+Downloaded From:  by a Sheridan College User  on 08/08/20189. Isogawa A, Noda M, Takahashi Y, Kadowaki T, Tsugane S. Coffee consumption
+
+21. Carlsson S, Hammar N, Grill V, Kaprio J. Coffee consumption and risk of type 2
+
+and risk of type 2 diabetes mellitus. Lancet. 2003;361:703-704.
+
+diabetes in Finnish twins. Int J Epidemiol. 2004;33:616-617.
+
+10. Lane JD, Barkauskas CE, Surwit RS, Feinglos MN. Caffeine impairs glucose me-
+
+22. Saremi A, Tulloch-Reid M, Knowler WC. Coffee consumption and the incidence
+
+tabolism in type 2 diabetes. Diabetes Care. 2004;27:2047-2048.
+
+11. Graham TE, Sathasivam P, Rowland M, Marko N, Greer F, Battram D. Caffeine
+ingestion elevates plasma insulin response in humans during an oral glucose
+tolerance test. Can J Physiol Pharmacol. 2001;79:559-565.
+
+12. Greer F, Hudson R, Ross R, Graham T. Caffeine ingestion decreases glucose dis-
+posal during a hyperinsulinemic-euglycemic clamp in sedentary humans. Diabetes.
+2001;50:2349-2354.
+
+13. Folsom AR, Prineas RJ, Kaye SA, Soler JT. Body fat distribution and self-
+reported prevalence of hypertension, heart attack, and other heart disease in older
+women. Int J Epidemiol. 1989;18:361-367.
+
+14. Kaye SA, Folsom AR, Sprafka JM, Prineas RJ, Wallace RB. Increased incidence
+of diabetes mellitus in relation to abdominal adiposity in older women. J Clin
+Epidemiol. 1991;44:329-334.
+
+15. Kushi LH, Kaye SA, Folsom AR, Soler JT, Prineas RJ. Accuracy and reliability of
+
+self-measurement of body girths. Am J Epidemiol. 1988;128:740-748.
+
+16. Folsom AR, Kushi LH, Hong CP. Physical activity and incident diabetes mellitus
+
+in postmenopausal women. Am J Public Health. 2000;90:134-138.
+
+17. Willett WC, Sampson L, Stampfer MJ, et al. Reproducibility and validity of a semi-
+
+quantitative food frequency questionnaire. Am J Epidemiol. 1985;122:51-65.
+
+18. Munger RG, Folsom AR, Kushi LH, Kaye SA, Sellers TA. Dietary assessment of
+older Iowa women with a food frequency questionnaire: nutrient intake, repro-
+ducibility, and comparison with 24-hour dietary recall interviews. Am J Epidemiol.
+1992;136:192-200.
+
+19. van Dam RM, Dekker JM, Nijpels G, Stehouwer CD, Bouter LM, Heine RJ. Coffee
+consumption and incidence of impaired fasting glucose, impaired glucose tol-
+erance, and type 2 diabetes: the Hoorn Study. Diabetologia. 2004;47:2152-
+2159.
+
+20. Reunanen A, Heliovaara M, Aho K. Coffee consumption and risk of type 2 dia-
+
+betes mellitus. Lancet. 2003;361:702-703.
+
+of type 2 diabetes. Diabetes Care. 2003;26:2211-2212.
+
+23. Song Y, Manson JE, Buring JE, Liu S. Dietary magnesium intake in relation to
+plasma insulin levels and risk of type 2 diabetes in women. Diabetes Care. 2004;
+27:59-65.
+
+24. Lopez-Ridaura R, Willett WC, Rimm EB, et al. Magnesium intake and risk of type
+
+2 diabetes in men and women. Diabetes Care. 2004;27:134-140.
+
+25. Yokota K, Kato M, Lister F, et al. Clinical efficacy of magnesium supplementa-
+
+tion in patients with type 2 diabetes. J Am Coll Nutr. 2004;23:506S-509S.
+
+26. Barbagallo M, Dominguez LJ, Galioto A, et al. Role of magnesium in insulin ac-
+tion, diabetes and cardio-metabolic syndrome X. Mol Aspects Med. 2003;24:
+39-52.
+
+27. Kobayashi Y, Suzuki M, Satsu H, et al. Green tea polyphenols inhibit the sodium-
+dependent glucose transporter of intestinal epithelial cells by a competitive
+mechanism. J Agric Food Chem. 2000;48:5618-5623.
+
+28. Nauck MA, Heimesaat MM, Orskov C, Holst JJ, Ebert R, Creutzfeldt W. Pre-
+served incretin activity of glucagon-like peptide 1 [7-36 amide] but not of syn-
+thetic human gastric inhibitory polypeptide in patients with type-2 diabetes mellitus.
+J Clin Invest. 1993;91:301-307.
+
+29. Meier JJ, Hucking K, Holst JJ, Deacon CF, Schmiegel WH, Nauck MA. Reduced
+insulinotropic effect of gastric inhibitory polypeptide in first-degree relatives of
+patients with type 2 diabetes. Diabetes. 2001;50:2497-2504.
+
+30. Arion WJ, Canfield WK, Ramos FC, et al. Chlorogenic acid and hydroxynitroben-
+zaldehyde: new inhibitors of hepatic glucose 6-phosphatase. Arch Biochem Biophys.
+1997;339:315-322.
+
+31. Andrade-Cetto A, Wiedenfeld H. Hypoglycemic effect of Cecropia obtusifolia on
+
+streptozotocin diabetic rats. J Ethnopharmacol. 2001;78:145-149.
+
+32. Svilaas A, Sakhi AK, Andersen LF, et al. Intakes of antioxidants in coffee, wine,
+and vegetables are correlated with plasma carotenoids in humans. J Nutr. 2004;
+134:562-567.
+
+Call for Papers
+
+Preventive Intervention Theme Issue
+
+In an effort to encourage research on the topic, a special
+issue of the ARCHIVES will be devoted to papers on the
+topic of preventive interventions. Specifically, we are
+interested in receiving papers focused on the efficacy or
+effectiveness of interventions. While we will primarily
+concentrate on randomized controlled trials that assess
+efficacy, we will also consider papers that employ obser-
+vational methods of investigation or economic analyses
+that reasonably estimate theoretical cost-effectiveness of
+interventions. All kinds of preventive interventions are
+welcomed—those in the community, in medical offices,
+in clinics, and in hospitals or other advanced-care set-
+tings. However, priority for this theme issue will be
+given to those papers that are applicable to the practic-
+ing internist.
+
+Papers for the preventive intervention theme issue
+should be submitted no later than October 1, 2006. Pend-
+ing completion of our peer review process, papers that
+are accepted for publication will appear in an issue of
+the Archives of Internal Medicine in the first half of 2007.
+
+(REPRINTED) ARCH INTERN MED/ VOL 166, JUNE 26, 2006
+
+WWW.ARCHINTERNMED.COM
+
+1316
+
+©2006 American Medical Association. All rights reserved.
+
+Downloaded From:  by a Sheridan College User  on 08/08/2018

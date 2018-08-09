@@ -1,0 +1,2039 @@
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+From the Philadelphia Veterans Affairs Med-
+ical Center (F.F.S., N.I., K.L.C., D.A.D., J.M.,
+T.W., M.W., L.S.); the Department of Med-
+icine, Division of Cardiology (F.F.S.), and
+the Department of Medicine, Division of
+Endocrinology  (N.I.,  P.S.),  University  of
+Pennsylvania Medical Center; and the De-
+partment of Family, Community, and Pre-
+ventive Medicine, Drexel University College
+of Medicine (E.J.G.) — all in Philadelphia.
+Address reprint requests to Dr. Samaha at
+Cardiology 8th Fl., MC 111C, University and
+Woodland Ave., Philadelphia, PA 19104, or
+at rick.samaha@med.va.gov.
+
+N Engl J Med 2003;348:2074-81.
+Copyright © 2003 Massachusetts Medical Society.
+
+ new england journal 
+
+The
+
+ medicine
+of
+
+original article
+
+A Low-Carbohydrate as Compared
+with a Low-Fat Diet in Severe Obesity
+
+Frederick F. Samaha, M.D., Nayyar Iqbal, M.D., Prakash Seshadri, M.D., 
+
+Kathryn L. Chicano, C.R.N.P., Denise A. Daily, R.D., Joyce McGrory, C.R.N.P., 
+
+Terrence Williams, B.S., Monica Williams, B.S., Edward J. Gracely, Ph.D., 
+
+and Linda Stern, M.D.
+
+abstract
+
+background
+The effects of a carbohydrate-restricted diet on weight loss and risk factors for athero-
+sclerosis have been incompletely assessed.
+
+methods
+We randomly assigned 132 severely obese subjects (including 77 blacks and 23 wom-
+en) with a mean body-mass index of 43 and a high prevalence of diabetes (39 percent)
+or the metabolic syndrome (43 percent) to a carbohydrate-restricted (low-carbohydrate)
+diet or a calorie- and fat-restricted (low-fat) diet.
+
+results
+Seventy-nine subjects completed the six-month study. An analysis including all sub-
+jects, with the last observation carried forward for those who dropped out, showed that
+subjects on the low-carbohydrate diet lost more weight than those on the low-fat diet
+±
+±
+±
+4.2 kg; P=0.002) and had greater decreases in tri-
+(mean [
+8.6 kg vs. –1.9
+SD], –5.8
+±
+±
+glyceride levels (mean, –20
+43 percent vs. –4
+31 percent; P=0.001), irrespective of
+the use or nonuse of hypoglycemic or lipid-lowering medications. Insulin sensitivity,
+measured only in subjects without diabetes, also improved more among subjects on the
+±
+±
+9 percent vs. –3
+8 percent, P=0.01). The amount of weight
+low-carbohydrate diet (6
+lost (P<0.001) and assignment to the low-carbohydrate diet (P=0.01) were independ-
+ent predictors of improvement in triglyceride levels and insulin sensitivity.
+
+conclusions
+Severely obese subjects with a high prevalence of diabetes or the metabolic syndrome
+lost more weight during six months on a carbohydrate-restricted diet than on a calorie-
+and fat-restricted diet, with a relative improvement in insulin sensitivity and triglyceride
+levels, even after adjustment for the amount of weight lost. This finding should be in-
+terpreted with caution, given the small magnitude of overall and between-group differ-
+ences in weight loss in these markedly obese subjects and the short duration of the
+study. Future studies evaluating long-term cardiovascular outcomes are needed before
+a carbohydrate-restricted diet can be endorsed.
+
+2074
+
+n engl j med 
+
+348;21
+
+www.nejm.org may 
+
+22, 2003
+
+The New England Journal of Medicine Downloaded from nejm.org on August 8, 2018. For personal use only. No other uses without permission.  Copyright © 2003 Massachusetts Medical Society. All rights reserved.  
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+t
+
+a low-carbohydrate as compared with a low-fat diet in severe obesity
+
+he  differences  in  health  bene-
+fits between a carbohydrate-restricted diet
+and a calorie- and fat-restricted diet are
+of considerable public interest. However, there is
+concern that a carbohydrate-restricted diet will ad-
+1
+versely affect serum lipid concentrations.
+ Previ-
+ous studies demonstrating that healthy volunteers
+following a low-carbohydrate diet can lose weight
+have involved few subjects, and few used a compar-
+ison group that followed consensus guidelines for
+weight loss.
+ The reported effects of a carbohy-
+drate-restricted diet on risk factors for atheroscle-
+We performed a study designed
+rosis have varied.
+to test the hypothesis that severely obese subjects
+with a high prevalence of diabetes or the metabolic
+syndrome would have a greater weight loss, without
+detrimental effects on risk factors for atherosclero-
+sis, while on a carbohydrate-restricted (low-carbo-
+hydrate) diet than on a calorie- and fat-restricted
+(low-fat) diet.
+
+2-4 
+
+2,3
+
+methods
+
+subjects
+The study was approved by the institutional review
+board at the Philadelphia Veterans Affairs Medical
+Center, and an approved consent form was signed
+by each subject. Inclusion criteria were an age of at
+least 18 years and a body-mass index (the weight in
+kilograms  divided  by  the  square  of  the  height  in
+meters) of at least 35. Exclusion criteria were a se-
+rum creatinine level of more than 1.5 mg per decili-
+ter (132.6 µmol per liter); hepatic disease; severe,
+life-limiting medical illness; inability of diabetic
+subjects to monitor their own glucose levels; active
+participation in a dietary program; or use of weight-
+loss medications. During an enrollment period that
+lasted from May to November 2001, 132 subjects
+from the Philadelphia Veterans Affairs Medical Cen-
+ter were randomly assigned to either the low-car-
+bohydrate diet or the low-fat diet, with use of a pre-
+established algorithm generated from a random set
+of numbers. We used stratified randomization, with
+blocking  within  strata,  to  ensure  that  each  group
+would contain approximately equal numbers of
+women, subjects with diabetes, and severely obese
+subjects (body-mass index, 40 or higher). The study
+was not blinded.
+
+study design
+The two diet groups attended separate two-hour
+group-teaching sessions each week for four weeks,
+
+followed  by  monthly  one-hour  sessions  for  five
+additional months; all sessions were led by experts
+in nutritional counseling. Subjects received a diet-
+overview  handout,  instructional  nutrition  labels,
+sample menus and recipes, and a book on counting
+5
+calories  and  carbohydrates.
+  No  specific  exercise
+program was recommended. The subjects assigned
+to the low-carbohydrate diet were instructed to re-
+6
+strict carbohydrate intake to 30 g per day or less.
+No instruction on restricting total fat intake was
+provided. Vegetables and fruits with high ratios of
+6
+  The
+fiber  to  carbohydrate  were  recommended.
+subjects assigned to the low-fat diet received in-
+struction in accordance with the obesity-manage-
+ment guidelines of the National Heart, Lung, and
+7
+Blood Institute,
+ including caloric restriction suf-
+ficient to create a deficit of 500 calories per day,
+with  30  percent  or  less  of  total  calories  derived
+from fat.
+
+data collection
+The subjects’ weights were measured monthly on a
+single calibrated scale (SRScales, SR Instruments).
+Other data collected at enrollment and at six months
+included waist size, self-reported medical history,
+blood pressure, and glucose and serum lipid levels,
+measured  in  blood  specimens  obtained  after  an
+overnight fast (Synchron LX20 Clinical Chemistry
+System, Beckman Coulter). Low-density lipopro-
+tein cholesterol levels were calculated according
+8
+ Serum insulin levels
+to the Friedewald formula.
+were measured by radioimmunoassay (Laboratory
+Corporation of America). Insulin sensitivity was es-
+timated with use of the quantitative insulin-sensitiv-
+ity check index as follows: 1÷[(log fasting insulin
+level, in microunits per milliliter)+(log fasting glu-
+cose level, in milligrams per deciliter)]; this index
+has a good correlation with the results of glucose-
+clamp studies in obese subjects and subjects with
+9
+diabetes.
+  Dietary  compliance  was  estimated  by
+  instrument  in
+means  of  a  previously  validated
+which  subjects  are  interviewed  to  obtain  data  on
+24-hour recall of dietary consumption. Data were
+analyzed with Nutribase Management software (Cy-
+berSoft).
+
+10
+
+statistical analysis
+The  primary  end  point  was  weight  loss  at  six
+months.  Assuming  a  two-sided  type  I  error  of
+5 percent, we estimated that we would need 100
+subjects (50 per group) for the study to have 80 per-
+±
+SD) weight
+cent power to demonstrate a mean (
+
+n engl j med 
+
+348;21
+
+www.nejm.org may 
+
+22, 2003
+
+2075
+
+The New England Journal of Medicine Downloaded from nejm.org on August 8, 2018. For personal use only. No other uses without permission.  Copyright © 2003 Massachusetts Medical Society. All rights reserved.  
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ new england journal 
+
+The
+
+ medicine
+of
+
+11
+
+±
+loss that was 5
+12 kg greater in the low-carbohy-
+drate group than in the low-fat group.
+ Given an
+anticipated dropout rate of 25 percent, we set the
+enrollment target at 135 subjects. By six months,
+79 subjects remained in the study (36 in the low-fat
+group and 43 in the low-carbohydrate group). The
+primary analysis included all 132 subjects: the 79
+subjects who completed the study, the 29 subjects
+who dropped out but had six-month data available
+from records of routine office visits, and the 24 sub-
+jects for whom the weight recorded at the last fol-
+low-up visit was carried forward. Since the 29 sub-
+jects whose final weight was obtained from office
+records were weighed on a different scale from that
+used in the study, we performed a second analysis
+that  included  all  subjects,  with  base-line  weights
+carried forward for all 53 subjects who dropped out.
+For analyses of changes in dietary intake, serum
+lipid levels, glycemic control, and insulin sensitivi-
+ty, we included all subjects, with base-line values
+carried forward for subjects who dropped out of
+the study. No interim analyses were performed.
+
+12
+
+For comparison of continuous variables between
+the two groups, we calculated the change from base
+line to six months in each subject and compared
+the mean changes in the two diet groups using an
+unpaired  t-test.
+  We  assessed  the  normality  of
+the distribution of all variables before using the
+t-test. Triglyceride, insulin, and glucose levels were
+skewed  and  were  therefore  log-transformed  for
+analysis. Dichotomous variables were compared by
+chi-square analysis.
+ Linear regression and two-
+way analysis of covariance models were used to cor-
+rect  for  potentially  confounding  variables  and  to
+identify interactions between variables and diet-
+ Missing waist sizes were im-
+group assignment.
+puted by linear extrapolation on the basis of height
+and weight. All P values were two-sided, and a P val-
+ue of 0.05 or less was considered to indicate statis-
+tical significance. Analyses were performed with
+use of SPSS software (version 10.0).
+
+12
+
+12
+
+results
+
+base-line characteristics
+Sixty-eight  subjects  were  randomly  assigned  to
+the low-fat diet and 64 to the low-carbohydrate
+diet  (Fig.  1).  Subjects  in  the  two  groups  were
+well matched with regard to base-line characteris-
+tics (Table 1). The subjects were severely obese at
+base line (Table 1), with a high prevalence of dia-
+betes (39 percent) or the metabolic syndrome with-
+13
+out diabetes (43 percent), as previously defined.
+
+attrition
+The cumulative percentage of subjects who dropped
+out of the study by months 1, 3, and 6 were 38, 44,
+and 47 percent, respectively, in the low-fat group
+and 25, 27, and 33 percent, respectively, in the low-
+carbohydrate group. Differences in attrition be-
+tween groups were statistically significant by the
+third month (P=0.03) but were not significant at
+six months (P=0.10). There were no significant dif-
+ferences between the groups in the characteristics
+of the subjects who dropped out of the study (Table
+2). Subjects on the low-carbohydrate diet attended
+more dietary counseling sessions than did the sub-
+±
+±
+2.7 vs. 4.3 
+2.7;
+jects on the low-fat diet (mean, 5.7
+P=0.006).
+
+assessment of dietary intake
+After six months of dietary counseling, subjects on
+the low-fat diet reported a decrease in caloric con-
+sumption while their macronutrient composition
+was close to the guidelines of the National Heart,
+7
+Lung, and Blood Institute (Table 3).
+ As compared
+with the subjects on the low-fat diet, subjects on
+the low-carbohydrate diet reported a nonsignifi-
+cantly greater reduction in caloric intake (P=0.33),
+a significantly greater decrease in the percentage of
+calories from carbohydrates (P<0.001), and a sig-
+nificantly greater increase in the percentage of cal-
+ories from protein (P<0.001) and fat (P=0.004).
+
+weight loss
+Subjects  on  the  low-carbohydrate  diet  lost  more
+weight during the six-month study than did those
+±
+±
+on the low-fat diet (mean, –5.8
+8.6 kg vs. –1.9
+4.2 kg; 95 percent confidence interval for the dif-
+ference in weight loss between groups, –1.6 to –6.3;
+P=0.002) (Fig. 1). The difference in weight loss
+between the groups remained significant after ad-
+justment for base-line variables alone (age, race or
+ethnic group, sex, base-line body-mass index, base-
+line caloric intake, and the presence or absence of
+hypertension, diabetes, active smoking, and sleep
+apnea) (P=0.002) and for base-line variables plus
+the number of dietary counseling sessions attend-
+ed (P=0.01).
+
+A second analysis in which we carried forward
+the base-line weights of subjects who dropped out
+of the study (i.e., assumed no weight loss in these
+subjects) still demonstrated greater weight loss in
+the  low-carbohydrate  group  than  in  the  low-fat
+±
+±
+8.6 kg vs. –1.8
+3.9 kg; 95 per-
+group (mean, –5.7
+cent confidence interval for the difference in weight
+loss between groups, –1.6 to –6.2; P=0.002).
+
+2076
+
+n engl j med 
+
+348;21
+
+www.nejm.org may 
+
+, 
+
+22
+
+2003
+
+The New England Journal of Medicine Downloaded from nejm.org on August 8, 2018. For personal use only. No other uses without permission.  Copyright © 2003 Massachusetts Medical Society. All rights reserved.  
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+a low-carbohydrate as compared with a low-fat diet in severe obesity
+
+As  a  measure  of  substantial  weight  loss,  we
+found that a weight loss of at least 10 percent of the
+base-line weight occurred in 9 of 64 subjects on the
+low-carbohydrate  diet  (14  percent),  as  compared
+with 2 of 68 subjects on the low-fat diet (3 percent)
+(P=0.02).  White  subjects  lost  more  weight  than
+±
+±
+black subjects (mean, –13
+19 kg vs. –5
+12 kg; P=
+0.009), regardless of the diet-group assignment.
+There  were  no  other  significant  differences  in
+weight loss between the groups.
+
+serum lipids
+During the six-month study, there was a greater de-
+crease in the mean triglyceride level in the low-car-
+±
+bohydrate group than in the low-fat group (–20
+43
+±
+percent vs. –4
+31 percent, P=0.001) (Table 4). This
+difference  remained  significant  after  adjustment
+for base-line variables (P<0.001). Subjects on the
+low-carbohydrate diet also had a greater mean de-
+crease  in  triglyceride  levels  whether  or  not  they
+±
+were taking lipid-lowering drugs (–25
+38 percent
+±
+vs.  –8
+35  percent  with  lipid-lowering  drugs,
+±
+±
+P=0.01;  and  –16
+46  percent  vs.  –1
+25  percent
+without lipid-lowering drugs; P=0.04). Triglycer-
+ide levels may also be affected by medications tak-
+en for diabetes. However, in a separate analysis of
+subjects who were not taking either diabetes medi-
+cations or lipid-lowering medications (28 on the
+low-fat diet and 24 on the low-carbohydrate diet),
+we still observed a greater reduction in the mean
+triglyceride level among subjects on the low-carbo-
+±
+±
+42  percent  vs.  2
+28  percent,
+hydrate  diet  (–20
+P=0.001). In a model adjusted for the amount of
+weight lost and the base-line variables, assignment
+to  the  low-carbohydrate  diet  (P=0.01)  and  the
+amount of weight lost (P<0.001) were each inde-
+pendent predictors of a decrease in the triglyceride
+level.  However,  comparison  of  subjects  within
+weight-loss strata demonstrated that this finding
+was limited to subjects who lost more than 5 per-
+cent of their base-line weight.
+
+Black subjects had a smaller decrease in triglyc-
+±
+eride levels than did white subjects (mean, –1
+30
+±
+percent vs. –21
+36 percent), independent of the
+diet-group assignment (P=0.002), but not after ad-
+justment for base-line variables and the amount of
+weight lost (P=0.09).
+
+Total cholesterol, high-density lipoprotein cho-
+lesterol,  and  low-density  lipoprotein  cholesterol
+levels did not change significantly during the six-
+month study within or between groups (Table 4).
+During the study, there were no changes in lipid-
+
+)
+g
+k
+(
+ 
+s
+s
+o
+L
+ 
+t
+h
+g
+i
+e
+W
+
+0
+
+¡2
+
+¡4
+
+¡6
+
+¡8
+
+¡10
+
+¡12
+
+¡14
+
+¡16
+
+No. Analyzed
+Low-fat diet
+Low-carbohydrate diet
+
+P=0.002
+
+Low-fat diet
+
+P=0.001
+
+P=0.002
+
+Low-carbohydrate diet
+
+Base
+Line
+
+68 
+64
+
+2
+
+68 (38) 
+64 (26)
+
+4
+
+Months
+
+68 (47)
+64 (36)
+
+6
+
+68 (32)
+64 (21)
+
+Figure 1. Mean (±SE) Decrease in Weight between Subjects on the Low-Carbo-
+hydrate Diet and Those on the Low-Fat Diet.
+Weights for each time point include all 132 subjects. The number of subjects 
+at each point for whom weights were either extracted from records or carried 
+forward from a previous visit are given in parentheses. The standard errors 
+have not been adjusted for these imputed values.
+
+lowering therapy in the low-fat group, whereas two
+subjects on the low-carbohydrate diet started tak-
+ing a statin and one stopped taking a statin.
+
+glycemic control and insulin sensitivity
+The mean fasting glucose level decreased more in
+the low-carbohydrate group than in the low-fat
+±
+±
+group at six months (–9
+19 percent vs. –2
+17 per-
+cent, P=0.02) (Table 4). This difference remained
+significant after adjustment for base-line variables
+(P=0.004). However, the greater reduction in se-
+rum glucose levels in the low-carbohydrate group
+was limited to diabetic subjects, with no significant
+change in the levels in nondiabetic subjects on ei-
+ther diet (Table 4). Assignment to the low-carbo-
+hydrate diet was no longer a significant predictor
+of a decrease in glucose levels after adjustment for
+the amount of weight lost (P=0.12). There was a
+trend toward a greater decrease in mean glycosylat-
+ed hemoglobin values in diabetic subjects on the
+low-carbohydrate diet, as compared with those on
+the low-fat diet (P=0.06) (Table 4). By six months,
+seven subjects in the low-carbohydrate group had
+had dose reductions in oral hypoglycemic agents
+or insulin. In comparison, one subject in the low-fat
+group had a dose reduction in insulin and one sub-
+ject began oral therapy.
+
+Insulin sensitivity was measured only in subjects
+
+n engl j med 
+
+348;21
+
+www.nejm.org may 
+
+22, 2003
+
+2077
+
+The New England Journal of Medicine Downloaded from nejm.org on August 8, 2018. For personal use only. No other uses without permission.  Copyright © 2003 Massachusetts Medical Society. All rights reserved.  
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ new england journal 
+
+The
+
+ medicine
+of
+
+Table 1. Base-Line Characteristics of the Subjects.*
+
+Characteristic
+
+Age (yr)
+
+Body-mass index
+
+Weight (kg)
+
+Systolic blood pressure (mm Hg)
+
+Diastolic blood pressure (mm Hg)
+
+Race or ethnic group (%)
+
+White
+Black
+Hispanic
+
+Sex (%)
+
+Female
+Male
+
+Diabetes mellitus (%)
+
+Treatment for diabetes
+
+Sulfonylurea
+Metformin
+Peroxisome proliferator–activated 
+
+receptor 
+g
+
+ agonist
+
+Insulin
+
+Metabolic syndrome without diabetes (%)
+
+Hypertension (%)
+
+Antihypertensive therapy (%)
+
+Hyperlipidemia (%)
+
+Lipid-lowering therapy
+
+Statin
+Gemfibrozil
+Niacin
+
+Coronary artery disease (%)
+
+Depression (%)
+
+Current cigarette smoking (%)
+
+Sleep apnea (%)
+
+Low-Carbohydrate
+
+Diet
+
+(N=64)
+
+Low-Fat
+
+Diet
+
+(N=68)
+
+53±9
+
+42.9±6.6
+
+54±9
+
+42.9±7.7
+
+130.0±22.7
+
+131.8±27.3
+
+133±15
+
+78±11
+
+135±16
+
+80±9
+
+42
+55
+3
+
+20
+80
+
+41
+
+11
+17
+2
+
+9
+
+45
+
+72
+64
+
+51
+
+42
+3
+0
+
+16
+
+33
+
+20
+
+27
+
+34
+62
+3
+
+15
+85
+
+38
+
+16
+13
+2
+
+4
+
+41
+
+57
+57
+
+50
+
+37
+0
+2
+
+16
+
+34
+
+22
+
+21
+
+* Plus–minus values are means ±SD. Because of rounding, percentages may not 
+total 100. Race and the presence of diabetes, hypertension, coronary artery dis-
+ease, depression, current smoking, and sleep apnea were all self-reported. Sub-
+jects were considered to have hyperlipidemia if they reported a total cholesterol 
+level of more than 200 mg per deciliter (5.2 mmol per liter) or were receiving lip-
+id-lowering therapy. There were no significant differences between groups.
+
+without diabetes. Among these subjects, those on
+the low-carbohydrate diet had a greater increase
+in insulin sensitivity than those on the low-fat diet
+±
+±
+(6
+9 percent vs. –3
+8 percent, P=0.01). This dif-
+ference  remained  significant  after  adjustment  for
+base-line variables (P=0.001). In a model adjusted
+for the amount of weight lost and base-line varia-
+bles, assignment to the low-carbohydrate diet (P=
+0.01) and the amount of weight lost (P<0.001) were
+each independent predictors of an improvement in
+insulin sensitivity. Comparison of subjects within
+
+weight-loss strata demonstrated a uniformly, but
+nonsignificantly, greater improvement in insulin
+sensitivity among those on the low-carbohydrate
+diet within each stratum.
+
+blood pressure
+We did not observe significant overall or between-
+group changes in blood pressure. Systolic and dia-
+stolic blood pressure decreased by 2 mm Hg and
+1 mm Hg, respectively, in the low-carbohydrate
+group. In the low-fat group, both systolic and dia-
+stolic blood pressure decreased by 2 mm Hg (P=
+0.85 for between-group differences in the change
+in systolic blood pressure and P=0.70 for between-
+group differences in the change in diastolic blood
+pressure). Although many subjects were receiving
+antihypertensive therapy at base line (Table 1), none
+had a change in this therapy during the study.
+
+adverse reactions
+One subject on the low-carbohydrate diet was hos-
+pitalized with chest pain, which was ultimately de-
+termined to be unrelated to myocardial ischemia.
+One  subject  on  the  low-carbohydrate  diet  died
+from complications of hyperosmolar coma, which
+was  thought  to  be  due  to  poor  compliance  with
+drug therapy for diabetes. There was no clinically
+significant  change  in  the  uric  acid  level  in  either
+group (Table 4).
+
+discussion
+
+We found that severely obese subjects with a high
+prevalence of diabetes and the metabolic syndrome
+lost more weight in a six-month period on a car-
+bohydrate-restricted diet than on a fat- and calorie-
+restricted diet. The greater weight loss in the low-
+carbohydrate group suggests a greater reduction in
+overall caloric intake, rather than a direct effect of
+macronutrient composition. However, the explana-
+tion for this difference is not clear. Subjects in this
+group may have experienced greater satiety on a diet
+with liberal proportions of protein and fat. How-
+ever, other potential explanations include the sim-
+plicity of the diet and improved compliance related
+to the novelty of the diet.
+
+Subjects  in  the  low-carbohydrate  group  had
+greater decreases in triglyceride levels than did sub-
+jects in the low-fat group; nondiabetic subjects on
+the low-carbohydrate diet had greater increases in
+insulin sensitivity, and subjects with diabetes on
+this diet had a greater improvement in glycemic
+
+2078
+
+n engl j med 
+
+348;21
+
+www.nejm.org may 
+
+, 
+
+22
+
+2003
+
+The New England Journal of Medicine Downloaded from nejm.org on August 8, 2018. For personal use only. No other uses without permission.  Copyright © 2003 Massachusetts Medical Society. All rights reserved. a low-carbohydrate as compared with a low-fat diet in severe obesity
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+20
+
+19
+
+17
+
+14-16
+
+control. No adverse effects on other serum lipid lev-
+els were observed. Most studies suggest that low-
+ering triglyceride levels has an overall cardiovas-
+ Insulin resistance promotes such
+cular benefit.
+ de-
+atherosclerotic processes as inflammation,
+18
+creased size of low-density lipoprotein particles,
+and endothelial dysfunction.
+ Impaired glycemic
+control in subjects with other features of the meta-
+bolic syndrome markedly increases the risk of cor-
+onary artery disease.
+ As expected, we found that
+the amount of weight lost had a significant effect
+on the degree of improvement in these metabolic
+factors. However, even after adjustment for the dif-
+ferences in weight loss between the groups, assign-
+ment to the low-carbohydrate diet predicted great-
+er improvements in triglyceride levels and insulin
+sensitivity. Subjects who lost more than 5 percent of
+their base-line weight on a carbohydrate-restrict-
+ed diet had greater decreases in triglyceride levels
+than those who lost a similar amount of weight
+while following a calorie- and fat-restricted diet.
+
+There was a consistent trend across weight-loss
+strata toward a greater increase in insulin sensitivi-
+ty in the low-carbohydrate group, although these
+changes were small and were not significant with-
+in each stratum. Although greater weight loss could
+not entirely account for the greater decrease in tri-
+glyceride levels and increase in insulin sensitivity in
+the low-carbohydrate group, we cannot definitively
+conclude  that  carbohydrate  restriction  alone  ac-
+counted for this independent effect. Other uncon-
+trolled variables, such as the types of carbohydrates
+
+Table 2. Comparison of Base-Line Characteristics between Subjects 
+Who Completed the Study and Those Who Dropped Out of the Study.*
+
+Characteristic
+
+Completed Study
+
+Dropped Out of 
+
+Study
+
+Low-Carbo-
+
+hydrate
+
+Diet
+
+(N=43)
+
+Low-Fat
+
+Diet
+
+(N=36)
+
+Low-Carbo-
+
+hydrate
+
+Diet
+
+(N=21)
+
+Low-Fat
+
+Diet
+
+(N=32)
+
+Body-mass index
+
+Age (yr)
+
+Female sex (%)
+
+Black race (%)
+
+Diabetes (%)
+
+Metabolic syndrome (%)
+
+Antihypertensive therapy (%)
+
+Lipid-lowering therapy (%)
+
+Sleep apnea (%)
+
+Current cigarette smoking (%)
+
+44±7
+
+54±9
+
+43±7
+
+54±10
+
+40±5
+
+49±9
+
+43±9
+
+53±9
+
+19
+
+54
+
+40
+
+72
+
+67
+
+44
+
+30
+
+16
+
+19
+
+62
+
+33
+
+81
+
+56
+
+47
+
+28
+
+19
+
+24
+
+70
+
+43
+
+81
+
+57
+
+38
+
+19
+
+29
+
+9
+
+65
+
+44
+
+66
+
+63
+
+25
+
+13
+
+25
+
+* Plus–minus values are means ±SD. There were no significant differences be-
+
+tween groups.
+
+selected (e.g., the proportion of complex carbohy-
+drates or the ratio of carbohydrate to fiber), or other
+unknown variables may have contributed to this ef-
+fect. In addition, more precise measurements of in-
+sulin sensitivity than we used would be needed to
+confirm this effect of a carbohydrate-restricted diet.
+
+Table 3. Change from Base Line in the Composition of the Two Diets at Six Months.*
+
+Variable
+
+Base Line
+
+P Value†
+
+6 Months
+
+Absolute Change
+
+P Value†
+
+Total calories per day
+
+Low-fat diet
+Low-carbohydrate diet
+
+Protein (% of total calories)
+
+Low-fat diet
+Low-carbohydrate diet
+
+Carbohydrate (% of total calories)
+
+Low-fat diet
+Low-carbohydrate diet
+
+Fat (% of total calories)
+
+Low-fat diet
+Low-carbohydrate diet
+
+1848±1338
+2090±1055
+
+16±6
+17±7
+
+51±14
+49±17
+
+33±12
+33±14
+
+0.25
+
+0.46
+
+0.41
+
+0.66
+
+1576±760
+1630±894
+
+–271±1260
+–460±902
+
+16±6
+22±9
+
+51±15
+37±18
+
+33±14
+41±16
+
+1±5
+6±10
+
+–1±15
+–13±21
+
+0±14
+8±18
+
+0.33
+
+<0.001
+
+<0.001
+
+0.004
+
+* Dietary macronutrient data are given as the mean (±SD) percentage of total calories on the basis of dietary recall by all 
+132 subjects, with base-line values carried forward for subjects who had dropped out of the study by six months. Because 
+of rounding, percentages may not total 100.
+
+† P values are for between-group comparisons and were calculated with use of the unpaired t-test.
+
+n engl j med 
+
+348;21
+
+www.nejm.org may 
+
+22, 2003
+
+2079
+
+The New England Journal of Medicine Downloaded from nejm.org on August 8, 2018. For personal use only. No other uses without permission.  Copyright © 2003 Massachusetts Medical Society. All rights reserved.  
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ new england journal 
+
+The
+
+ medicine
+of
+
+Table 4. Changes from Base Line in Serum Lipid, Glucose, Glycosylated Hemoglobin, and Uric Acid Levels 
+at Six Months.*
+
+Variable
+
+Triglycerides (mg/dl)
+
+Low-fat diet
+Low-carbohydrate diet
+
+Total cholesterol (mg/dl)
+
+Low-fat diet
+Low-carbohydrate diet
+
+High-density lipoprotein cholesterol (mg/dl)
+
+Low-fat diet
+Low-carbohydrate diet
+
+Low-density lipoprotein cholesterol (mg/dl)‡
+
+Low-fat diet
+Low-carbohydrate diet
+
+Insulin sensitivity§
+
+Low-fat diet
+Low-carbohydrate diet
+
+Glucose level in all subjects (mg/dl)
+
+Low-fat diet
+Low-carbohydrate diet
+
+Glucose level in nondiabetic subjects (mg/dl)
+
+Low-fat diet
+Low-carbohydrate diet
+
+Glucose level in diabetic subjects (mg/dl)
+
+Low-fat diet
+Low-carbohydrate diet
+
+Insulin level without diabetes medication (µU/ml)
+
+Low-fat diet
+Low-carbohydrate diet
+
+Insulin level with diabetes medication (µU/ml)
+
+Low-fat diet
+Low-carbohydrate diet
+
+Glycosylated hemoglobin value in diabetic subjects (%)
+
+Low-fat diet
+Low-carbohydrate diet
+
+Uric acid (mg/dl)
+
+Low-fat diet
+Low-carbohydrate diet
+
+Base Line
+
+P Value†
+
+6 Months
+
+Absolute
+Change
+
+0.65
+
+0.14
+
+0.73
+
+0.52
+
+0.86
+
+0.61
+
+0.65
+
+0.57
+
+0.28
+
+0.66
+
+0.42
+
+0.5
+
+176±120
+188±176
+
+192±30
+181±52
+
+41±10
+41±11
+
+118±29
+114±36
+
+0.32±0.03
+0.31±0.03
+
+124±47
+128±53
+
+103±14
+102±14
+
+158±61
+168±63
+
+18±10
+22±20
+
+36±26
+40±42
+
+7.4±1.5
+7.8±1.2
+
+6.6±1.4
+6.3±1.4
+
+169±110
+150±171
+
+–7±54
+–38±80
+
+192±40
+184±48
+
+40±11
+41±10
+
+121±27
+118±40
+
+–1±29
+2±34
+
+–1±7
+0±5
+
+3±18
+5±23
+
+0.31±0.03
+0.33±0.03
+
+–0.01±0.03
+0.02±0.03
+
+122±46
+117±48
+
+104±15
+100±11
+
+153±62
+142±68
+
+19±11
+16±14
+
+36±25
+32±27
+
+¡2±21
+¡11±24
+
+1±10
+–2±11
+
+–5±31
+–26±31
+
+1±10
+–6±16
+
+0±20
+–8±30
+
+7.4±1.8
+7.2±1.7
+
+0.0±1.0
+–0.6±1.2
+
+6.5±1.2
+6.4±1.4
+
+–0.2
+0.1
+
+P Value†
+
+0.001
+
+0.53
+
+0.55
+
+0.77
+
+0.01
+
+0.017
+
+0.60
+
+0.01
+
+0.008
+
+0.25
+
+0.06
+
+0.10
+
+* Plus–minus values are means ±SD. The analysis includes all 132 subjects, with base-line values carried forward for sub-
+jects who had dropped out of the study by six months. To convert values for cholesterol to millimoles per liter, multiply 
+by 0.02586. To convert values for triglycerides to millimoles per liter, multiply by 0.01129. To convert values for glucose 
+to millimoles per liter, multiply by 0.05551.
+
+† P values are for between-group comparisons and were calculated with use of the unpaired t-test.
+‡ The low-density lipoprotein cholesterol level was not calculated in one subject on the low-carbohydrate diet who had a tri-
+
+glyceride level of more than 400 mg per deciliter (4.5 mmol per liter).
+
+§ Insulin sensitivity was calculated only in subjects without diabetes with use of the quantitative insulin-sensitivity check 
+
+index as follows: 1÷[(log fasting insulin level)+(log fasting glucose level)].
+
+2080
+
+n engl j med 
+
+348;21
+
+www.nejm.org may 
+
+, 
+
+22
+
+2003
+
+The New England Journal of Medicine Downloaded from nejm.org on August 8, 2018. For personal use only. No other uses without permission.  Copyright © 2003 Massachusetts Medical Society. All rights reserved.  
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+a low-carbohydrate as compared with a low-fat diet in severe obesity
+
+Many of our subjects were taking lipid-lowering
+medications  and  hypoglycemic  agents.  Although
+enrolling  these  subjects  introduced  confounding
+variables, it allowed the inclusion of subjects with
+the obesity-related medical disorders typically en-
+countered in clinical practice. Analyses from which
+these subjects were excluded still revealed greater
+improvements in insulin sensitivity and triglycer-
+ide levels on a carbohydrate-restricted diet than on
+a fat- and calorie-restricted diet.
+
+Our study included a high proportion of black
+subjects, a group previously underrepresented in
+lifestyle-modification studies. As compared with
+the white subjects, the black subjects had a smaller
+overall weight loss. Future studies should explore
+whether greater weight loss in this population can
+be achieved by more effective incorporation of cul-
+turally sensitive dietary counseling.
+
+The high dropout rate in our study occurred very
+early and affected our findings. The very early drop-
+out of these subjects may indicate that attrition most
+closely reflected base-line motivation to lose weight,
+rather than a response to the dietary intervention
+itself.
+
+Taken together, our findings demonstrate that
+severely obese subjects with a high prevalence of
+
+diabetes and the metabolic syndrome lost more
+weight  during  six  months  on  a  carbohydrate-
+restricted diet than on a calorie- and fat-restricted
+diet. The carbohydrate-restricted diet led to greater
+improvements in insulin sensitivity that were in-
+dependent of weight loss and a greater reduction
+in  triglyceride  levels  in  subjects  who  lost  more
+than  5  percent  of  their  base-line  weight.  These
+findings must be interpreted with caution, howev-
+er, since the magnitude of the overall weight loss
+relative to our subjects’ severe obesity was small,
+and it is unclear whether these benefits of a car-
+bohydrate-restricted  diet  extend  beyond  six
+months. Furthermore, the high dropout rate and
+the small overall weight loss demonstrate that die-
+tary  adherence  was  relatively  low  in  both  diet
+groups. This study proves a principle and does not
+provide clinical guidance; given the known bene-
+fits  of  fat  restriction,  future  studies  evaluating
+long-term  cardiovascular  outcomes  are  needed
+before  a  carbohydrate-restricted  diet  can  be  en-
+dorsed.
+
+Supported by funding from the Veterans Affairs Healthcare Net-
+
+work Competitive Pilot Project Grant.
+
+We are indebted to Drs. Michael Grippi and Stephen E. Kimmel
+
+for their detailed review of and comments on the manuscript.
+
+references
+
+St Jeor ST, Howard BV, Prewitt TE, Bovee
+1.
+V, Bazzarre T, Eckel RH. Dietary protein and
+weight reduction: a statement for healthcare
+professionals  from  the  Nutrition  Commit-
+tee  of  the  Council  on  Nutrition,  Physical
+Activity,  and  Metabolism  of  the  American
+Heart  Association.  Circulation  2001;104:
+1869-74.
+Kennedy  ET,  Bowman  SA,  Spence  JT,
+2.
+Freedman M, King J. Popular diets: correla-
+tion to health, nutrition, and obesity. J Am
+Diet Assoc 2001;101:411-20.
+Westman EC. A review of very low car-
+3.
+bohydrate diets for weight loss. J Clin Out-
+comes Manage 1999;6(7):36-40.
+Westman  EC,  Yancy  WS,  Edman  JS,
+4.
+Tomlin  KF, Perkins  CE.  Effect  of  6-month
+adherence to a very low carbohydrate diet
+program. Am J Med 2002;113:30-6.
+Natow AB, Heslin J-A. The diabetes car-
+5.
+bohydrate  &  calorie  counter.  New  York:
+Simon & Schuster, 1991.
+Eades  MR,  Eades  MD.  Protein  power
+6.
+lifeplan. New York: Warner Books, 2000:434.
+Clinical guidelines on the identification,
+7.
+evaluation, and treatment of overweight and
+obesity  in  adults  —  the  evidence  report:
+executive summary. Obes Res 1998;6:Suppl
+2:51S-63S. [Erratum, Obes Res 1998;6:464.]
+Friedewald  WT,  Levy  RI,  Fredrickson
+8.
+DS. Estimation of the concentration of low-
+density  lipoprotein  cholesterol  in  plasma,
+
+without  use  of  the  preparative  ultracentri-
+fuge. Clin Chem 1972;18:499-502.
+Katz A, Nambi SS, Mather K, et al. Quan-
+9.
+titative insulin sensitivity check index: a sim-
+ple accurate method for assessing insulin
+sensitivity  in  humans.  J  Clin  Endocrinol
+Metab 2000;85:2402-10.
+Karvetti RL, Knuts LR. Validity of the 24-
+10.
+hour  dietary  recall.  J  Am  Diet  Assoc  1985;
+85:1437-42.
+Cohen J. Statistical power analysis for
+11.
+the behavioral sciences. New York: Academic
+Press, 1977.
+Dawson-Saunders  B,  Trapp  RG.  Basic
+12.
+and  clinical  biostatistics.  Norwalk,  Conn.:
+Appleton & Lange, 1990.
+Expert Panel on Detection, Evaluation,
+13.
+and Treatment of High Blood Cholesterol
+in Adults. Executive summary of the Third
+Report of the National Cholesterol Educa-
+tion Program (NCEP) Expert Panel on Detec-
+tion,  Evaluation,  and  Treatment  of  High
+Blood  Cholesterol  in  Adults  (Adult  Treat-
+ment Panel III). JAMA 2001;285:2486-97.
+Sacks FM, Tonkin AM, Craven T, et al.
+14.
+Coronary heart disease in patients with low
+LDL-cholesterol:  benefit  of  pravastatin  in
+diabetics and enhanced role for HDL-choles-
+terol and triglycerides as risk factors. Circu-
+lation 2002;105:1424-8.
+Rubin  HB,  Robins  SJ,  Collins  D,  et  al.
+15.
+Gemfibrozil  for  the  secondary  prevention
+
+of  coronary  heart disease in men with low
+levels of high-density lipoprotein choles-
+terol. N Engl J Med 1999;341:410-8.
+Ginsberg HN. Is hypertriglyceridemia
+16.
+a  risk  factor  for atherosclerotic cardiovas-
+cular disease? A simple question with a com-
+plicated answer. Ann Intern Med 1997;126:
+912-4.
+Festa  A,  D’Agostino  R  Jr,  Howard  G,
+17.
+Mykkanen L, Tracy RP, Haffner SM. Chronic
+subclinical inflammation as part of the insu-
+lin resistance syndrome: the Insulin Resist-
+ance Atherosclerosis Study (IRAS). Circula-
+tion 2000;102:42-7.
+Howard  BV,  Mayer-Davis  EJ,  Goff  D,
+18.
+et al. Relationships between insulin resist-
+ance and lipoproteins in nondiabetic Afri-
+can Americans, Hispanics, and non-Hispanic
+whites: the Insulin Resistance Atheroscle-
+rosis Study. Metabolism 1998;47:1174-9.
+Stuhlinger MC, Abbasi F, Chu JW, et al.
+19.
+Relationship between insulin resistance and
+an endogenous nitric oxide synthase inhibi-
+tor. JAMA 2002;287:1420-6.
+St-Pierre J, Lemieux I, Vohl MC, et al.
+20.
+Contribution  of  abdominal  obesity  and
+hypertriglyceridemia  to  impaired  fasting
+glucose and coronary artery disease. Am J
+Cardiol 2002;90:15-8.
+Copyright © 2003 Massachusetts Medical Society.
+
+n engl j med 
+
+348;21
+
+www.nejm.org may 
+
+22, 2003
+
+2081
+
+The New England Journal of Medicine Downloaded from nejm.org on August 8, 2018. For personal use only. No other uses without permission.  Copyright © 2003 Massachusetts Medical Society. All rights reserved. 

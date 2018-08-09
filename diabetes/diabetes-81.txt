@@ -1,0 +1,1612 @@
+ORIGINAL CONTRIBUTION
+
+Coffee Consumption and Risk of Type 2
+Diabetes Mellitus Among Middle-aged
+Finnish Men and Women
+
+Jaakko Tuomilehto, MD, PhD
+Gang Hu, MD, PhD
+Siamak Bidel, MD
+Jaana Lindstro¨m, MSc
+
+Pekka Jousilahti, MD, PhDCENTURIES OF COFFEE DRINK-
+
+ing has made it the most con-
+sumed beverage in the world.
+During the last decade, re-
+search has attempted to make clear
+health benefits or detriments received
+from coffee drinking. Effects of coffee
+and caffeine on cardiovascular dis-
+ease,1 hypertension,2 neurological dis-
+eases,3 different types of cancer,4 hor-
+monal changes,5-7 gallstones,8 renal
+stones,9 as well as diabetes mellitus
+(DM)10-12 have been studied through
+epidemiological, clinical, or experimen-
+tal research. Type 2 DM is one of the
+diseases that is largely determined by
+lifestyle factors.13,14
+
+The role of coffee in relation to DM
+has not been investigated thoroughly. A
+large Dutch cohort study12 recently
+showed an inverse association between
+coffee consumption and the risk of DM.
+It is well known that caffeine stimu-
+lates insulin secretion of the pancreatic
+beta cells in vivo. However, coffee with
+its complex compounds may influence
+many other processes that may take part
+in the development of DM.
+
+According to international statis-
+tics, the Finnish population has the
+
+See also p 1199.
+
+Context Only a few studies of coffee consumption and diabetes mellitus (DM) have
+been reported, even though coffee is the most consumed beverage in the world.
+Objective To determine the relationship between coffee consumption and the in-
+cidence of type 2 DM among Finnish individuals, who have the highest coffee con-
+sumption in the world.
+Design, Setting, and Participants A prospective study from combined surveys
+conducted in 1982, 1987, and 1992 of 6974 Finnish men and 7655 women aged 35
+to 64 years without history of stroke, coronary heart disease, or DM at baseline, with
+175682 person-years of follow-up. Coffee consumption and other study parameters
+were determined at baseline using standardized measurements.
+Main Outcome Measures Hazard ratios (HRs) for the incidence of type 2 DM were
+estimated for different levels of daily coffee consumption.
+Results During a mean follow-up of 12 years, there were 381 incident cases of type
+2 DM. After adjustment for confounding factors (age, study year, body mass index,
+systolic blood pressure, education, occupational, commuting and leisure-time physi-
+cal activity, alcohol and tea consumption, and smoking), the HRs of DM associated
+with the amount of coffee consumed daily (0-2, 3-4, 5-6, 7-9, ⱖ10 cups) were 1.00,
+0.71 (95% confidence interval [CI], 0.48-1.05), 0.39 (95% CI, 0.25-0.60), 0.39 (95%
+CI, 0.20-0.74), and 0.21 (95% CI, 0.06-0.69) (P for trend⬍.001) in women, and 1.00,
+0.73 (95% CI, 0.47-1.13), 0.70 (95% CI, 0.45-1.05), 0.67 (95% CI, 0.40-1.12), and
+0.45 (95% CI, 0.25-0.81) (P for trend=.12) in men, respectively. In both sexes com-
+bined, the multivariate-adjusted inverse association was significant (P for trend ⬍.001)
+and persisted when stratified by younger and older than 50 years; smokers and never
+smokers; healthy weight, overweight, and obese participants; alcohol drinker and non-
+drinker; and participants drinking filtered and nonfiltered coffee.
+Conclusion Coffee drinking has a graded inverse association with the risk of type 2
+DM; however, the reasons for this risk reduction associated with coffee remain
+unclear.
+JAMA. 2004;291:1213-1219
+
+www.jama.com
+
+highest per capita coffee consumption
+in the world with 11.3 kg in 2000.15
+Therefore, research into potential health
+effects of coffee in this population is of
+particular interest. Our large prospec-
+tive study aimed at determining
+whether the suggested inverse relation-
+ship between coffee and type 2 DM ex-
+ists among the Finnish population. In
+
+Author Affiliations: Department of Epidemiology and
+Health Promotion, National Public Health Institute (Drs
+Tuomilehto, Hu, and Bidel, and Ms Lindstro¨ m), De-
+partment of Public Health, University of Helsinki (Drs
+Tuomilehto, Hu, and Jousilahti), and Institute of Bio-
+medicine (Dr Bidel), Helsinki, Finland.
+Corresponding Author: Jaakko Tuomilehto, MD,
+P h D , D i a b e t e s a n d G e n e t i c E p i d e m i o l o g y
+Unit, Department of Epidemiology and Health Pro-
+motion, National Public Health Institute, Mannerhei-
+mintie 166, Helsinki, Finland FIN-00300 (jaakko
+.tuomilehto@ktl.fi).
+
+©2004 American Medical Association. All rights reserved.
+
+(Reprinted) JAMA, March 10, 2004—Vol 291, No. 10 1213
+
+Downloaded From:  on 08/08/2018COFFEE CONSUMPTION AND TYPE 2 DIABETES MELLITUS
+
+addition, we evaluated a possible effect
+modification of the major determi-
+nants of type 2 DM and assessed the ef-
+fects of different types of prepared cof-
+fee on the risk of DM.
+
+METHODS
+Participants
+We performed baseline surveys in 2 east-
+ern Finnish provinces, North Karelia and
+Kuopio, and in the Turku-Loimaa re-
+gion in southwestern Finland in 1982,
+1987, and 1992. The survey was ex-
+panded to the Helsinki capital area in
+1992. In the 3 surveys, the sample in-
+cluded participants aged 25 to 64 years.
+The 1982, 1987, and 1992 cohorts were
+combined in this analysis. The original
+random sample was stratified by sex and
+4 equally large 10-year age groups ac-
+cording to the World Health Organiza-
+tion MONItoring trends and determi-
+nants of CArdiovascular disease
+(MONICA) protocol16,17 and consisted of
+21630 participants. The participation
+rate varied by year from 74% to 88%.18
+Our analysis included 16670 partici-
+pants aged 35 to 64 years due to the few
+cases of type 2 DM in participants aged
+25 to 34 years during the follow-up. The
+final sample comprised 6974 men and
+7655 women after excluding partici-
+pants diagnosed with coronary heart dis-
+ease or stroke (n=590), participants with
+known DM at baseline (n=435), and par-
+ticipants with incomplete data on any
+variables required for this analysis
+(n=1016). We excluded participants
+with coronary heart disease and stroke
+because there may be bias regarding their
+exposure (coffee drinking due to their
+disease) or confounding factors (diet and
+physical activity, their survival probabil-
+ity is lower, and they may be using drugs
+that trigger DM). These surveys were
+conducted according to the ethical rules
+of the National Public Health Institute
+and the investigations were performed
+in accordance with the Declaration of
+Helsinki. At the time the baseline sur-
+veys were performed, oral informed con-
+sent was obtained from the participants
+and if not received, the survey data were
+not collected from these participants
+(they were considered nonresponders).
+
+Measurements
+A self-administered questionnaire was
+sent to the participants to be com-
+pleted at home. The questionnaire in-
+cluded questions on medical history, so-
+cioeconomic factors, physical activity,
+smoking habits, and alcohol, coffee, and
+tea consumption. Education level, mea-
+sured as the total number of school
+years, was divided into birth cohort spe-
+cific tertiles. Physical activity in-
+cluded occupational, commuting, and
+leisure-time physical activity. A de-
+tailed description of the questions is
+presented elsewhere,19 and these ques-
+tions were the same as those used in the
+studies in the Nordic countries19,20 and
+similar to those used and validated in
+the Seven Countries study.21
+
+The participants reported their occu-
+pational physical activity as light, mod-
+erate, or active. The daily commuting
+journey to or from work was grouped
+into 3 categories: using motorized trans-
+portation or not working outside the
+home (0 minutes of walking or cy-
+cling); walking or bicycling 1 to 29 min-
+utes; and walking or bicycling 30 or more
+minutes. Self-reported leisure-time physi-
+cal activity was classified as low, mod-
+erate, or high. Based on the responses,
+the participants were classified as never,
+ex-smokers, or current smokers. Cur-
+rent smokers were categorized into those
+participants who smoked less than 20 or
+20 or more cigarettes per day.
+
+The participants were asked, “How
+many cups of coffee or tea do you drink
+per day?” Coffee consumption was cat-
+egorized into 5 categories: 0 to 2 cups,
+3 to 4 cups, 5 to 6 cups, 7 to 9 cups,
+and 10 or more cups. Tea consump-
+tion was categorized as none, 1 to 2
+cups, and 3 or more cups because only
+a few people drank tea. Alcohol con-
+sumption was categorized as none, 1 to
+100, 101 to 300, or more than 300 g of
+alcohol per week. Because only a few
+women drank more than 300 g of al-
+cohol per week, we combined the 2
+higher categories in women.
+
+At the study site, specially trained
+nurses measured height, weight, and
+blood pressure using the standardized
+protocol according to the World Health
+
+Organization MONICA project.17 Blood
+pressure was measured from the right
+arm of the participant who was seated
+for 5 minutes before the measurement
+was taken using a standard sphygmo-
+manometer. Body mass index (BMI)
+was calculated as weight in kilograms
+divided by the square of height in me-
+ters. In stratified analyses, the partici-
+pants were classified in 3 categories:
+normal weight (BMI ⬍25.0), over-
+weight (25 to ⬍30), and obese (ⱖ30).
+
+Diagnosis of DM
+We ascertained incident cases of DM
+from the National Hospital Discharge
+Register and the Drug Register of the Na-
+tional Social Insurance Institution. These
+register data were linked to the risk fac-
+tor survey data with the unique per-
+sonal identification numbers assigned to
+every resident of Finland. Antidiabetic
+drugs prescribed by a physician are free
+of charge in Finland subject to ap-
+proval of the application to the Na-
+tional Social Insurance Institution with
+a case history prepared by the treating
+physician attached. The physician con-
+firms the diagnosis of DM on the basis
+of the World Health Organization crite-
+ria after 198022; before 1980, Finnish na-
+tional guidelines were applied. All pa-
+tients receiving free-of-charge medication
+(either oral antidiabetic agents or insu-
+lin) are entered into a register main-
+tained by the National Social Insurance
+Institution. The National Hospital Dis-
+charge Register includes hospitaliza-
+tions for patients admitted to hospitals
+with a primary or secondary diagnosis
+of DM in Finland nationwide. Fol-
+low-up of each participant in our pre-
+sent analysis continued until December
+31, 1998, or until death.
+
+Statistical Analyses
+Sex-specific differences in risk factors
+based on different levels of coffee con-
+sumption were tested using univariate
+analysis of variance or logistic regres-
+sion after adjustment for age and study
+year. The association between coffee
+consumption at baseline and the risk
+of type 2 DM was analyzed by using
+Cox proportional hazards regression
+
+1214 JAMA, March 10, 2004—Vol 291, No. 10 (Reprinted)
+
+©2004 American Medical Association. All rights reserved.
+
+Downloaded From:  on 08/08/2018COFFEE CONSUMPTION AND TYPE 2 DIABETES MELLITUS
+
+models. Different levels of coffee con-
+sumption were included in the mod-
+els as dummy variables. All analyses
+were adjusted for age, study year, BMI,
+systolic blood pressure, education, oc-
+cupational, commuting, and leisure-
+time physical activity, alcohol and tea
+drinking, and smoking. The signifi-
+cance of the trend over different cat-
+egories of coffee consumption was
+tested in the same models by giving an
+ordinal numeric value for each dummy
+variable. To assess whether the effect
+differed between the sexes, first-level in-
+
+teractions between coffee consump-
+tion and sex were analyzed. Because no
+statistically significant interactions were
+found, men and women were com-
+bined in subgroup analyses adjusted for
+sex. Statistical significance was consid-
+ered to be P⬍.05. All statistical analy-
+ses were performed with SPSS version
+11.0 (SPSS Inc, Chicago, Ill).
+
+RESULTS
+A total of 381 cases of type 2 DM were
+identified during a mean follow-up of 12
+years. In general, older persons were less
+
+likely to drink coffee (TABLE 1). After ad-
+justment for age and study year, higher
+coffee consumption was associated with
+higher BMI and cigarette smoking, and
+lower blood pressure, education level,
+light occupational physical activity, lei-
+sure-time physical activity, tea consump-
+tion, and alcohol use.
+
+Coffee Consumption
+and Risk of Type 2 DM
+Age-adjusted and study year–adjusted
+hazard ratios (HRs) of DM in partici-
+pants who drank 0 to 2, 3 to 4, 5 to 6, 7
+
+Table 1. Baseline Characteristics Among Men and Women by Volume of Coffee Consumption*
+
+Daily Coffee Consumption, Cups
+
+5-6
+
+2185
+
+48.8 (8.4)
+27.1 (3.7)
+
+144 (19)
+88 (11)
+8.9 (3.6)
+
+852 (39)
+627 (29)
+1901 (87)
+
+539 (25)
+1283 (59)
+655 (30)
+431 (20)
+
+2527
+
+49.0 (8.4)
+26.9 (4.8)
+
+141 (21)
+84 (11)
+9.1 (3.4)
+
+1036 (41)
+912 (36)
+1923 (76)
+
+645 (26)
+905 (36)
+346 (14)
+577 (23)
+
+7-9
+
+943
+
+47.7 (8.1)
+27.0 (3.7)
+
+144 (18)
+87 (12)
+8.5 (3.2)
+
+307 (33)
+313 (33)
+804 (85)
+
+124 (13)
+533 (57)
+370 (39)
+171 (18)
+
+819
+
+47.1 (8.0)
+27.3 (4.9)
+
+139 (20)
+82 (11)
+8.8 (3.2)
+
+300 (37)
+333 (41)
+618 (76)
+
+122 (15)
+302 (37)
+148 (18)
+192 (23)
+
+ⱖ10
+
+863
+
+46.3 (7.9)
+27.3 (4.1)
+
+143 (23)
+86 (12)
+8.4 (3.3)
+
+279 (32)
+311 (36)
+735 (85)
+
+91 (11)
+482 (56)
+481 (56)
+189 (22)
+
+379
+
+45.6 (7.6)
+27.5 (5.0)
+
+138 (20)
+82 (11)
+8.6 (3.5)
+
+128 (34)
+164 (43)
+292 (77)
+
+48 (13)
+145 (38)
+147 (39)
+82 (22)
+
+P
+
+Value
+
+⬍.001
+⬍.001
+
+.10
+⬍.001
+⬍.001
+
+⬍.001
+⬍.001
+.21
+
+⬍.001
+.004
+⬍.001
+.008
+
+⬍.001
+⬍.001
+
+.02
+⬍.001
+⬍.001
+
+⬍.001
+⬍.001
+.04
+
+⬍.001
+.003
+⬍.001
+⬍.001
+
+Characteristics
+
+No. of participants
+Age, mean (SD), y
+Body mass index, mean (SD)†
+Blood pressure, mean (SD), mm Hg
+
+Systolic
+Diastolic
+
+Education, mean (SD), y‡
+Physical activity, No. (%)
+
+Light occupational
+Low leisure time
+Walking or cycling to or from work ⬍30 min
+
+Drinker, No. (%)§
+
+Tea
+Alcohol
+
+Current smoker, No. (%)㛳
+Obesity, No. (%)¶
+
+No. of participants
+Age, mean (SD), y
+Body mass index, mean (SD)†
+Blood pressure, mean (SD), mm Hg
+
+Systolic
+Diastolic
+
+Education, mean (SD), y‡
+Physical activity, No. (%)
+
+Light occupational
+Low leisure time
+Walking or cycling to or from work ⬍30 min
+
+Drinker, No. (%)§
+
+Tea
+Alcohol
+
+ⱕ2
+
+1251
+
+49.1 (8.4)
+26.6 (3.7)
+
+143 (19)
+89 (12)
+9.9 (4.2)
+
+573 (46)
+342 (27)
+1056 (84)
+
+847 (68)
+757 (61)
+211 (17)
+214 (17)
+
+1386
+
+49.3 (8.8)
+26.4 (4.9)
+
+141 (22)
+84 (11)
+10.0 (4.0)
+
+726 (52)
+466 (34)
+1085 (78)
+
+3-4
+
+Men
+
+1732
+
+49.0 (8.5)
+27.0 (3.6)
+
+143 (19)
+88 (11)
+9.5 (3.8)
+
+737 (43)
+455 (26)
+1472 (85)
+
+766 (44)
+1065 (61)
+379 (22)
+324 (19)
+
+Women
+2544
+
+49.7 (8.5)
+26.4 (4.7)
+
+141 (22)
+84 (11)
+9.6 (3.7)
+
+1178 (46)
+763 (30)
+1890 (74)
+
+920 (66)
+572 (41)
+93 (7)
+278 (20)
+
+1113 (44)
+1051 (41)
+229 (9)
+512 (20)
+
+Current smoker, No. (%)㛳
+Obesity, No. (%)¶
+*Adjusted for age and study year.
+†Calculated as weight in kilograms divided by the square of height in meters.
+‡Defined as the total number of school years.
+§Defined as drinking 1 or more cups per day of tea or 1 or more grams per week of alcohol.
+㛳Defined as smoking 1 or more cigarettes per day.
+¶Defined as body mass index of 30 or higher.
+
+©2004 American Medical Association. All rights reserved.
+
+(Reprinted) JAMA, March 10, 2004—Vol 291, No. 10 1215
+
+Downloaded From:  on 08/08/2018COFFEE CONSUMPTION AND TYPE 2 DIABETES MELLITUS
+
+to 9, and 10 or more cups of coffee were
+1.00, 0.72 (95% confidence interval [CI],
+0.49-1.04), 0.49 (95% CI, 0.32-0.73),
+0.47 (95% CI, 0.25-0.87), and 0.26 (95%
+CI, 0.08-0.85; P for trend = .002) in
+women, and 1.00, 0.83 (95% CI,
+0.54-1.25), 0.88 (95% CI, 0.60-1.30),
+0.86 (95% CI, 0.53-1.39), and 0.69 (95%
+CI, 0.40-1.19; P for trend=.74) in men,
+respectively (TABLE 2). After further ad-
+justment for BMI, systolic blood pres-
+sure, education, occupational, commut-
+ing, and leisure-time physical activity,
+alcohol and tea consumption, and smok-
+ing, this inverse association remained
+highly significant among women (P for
+trend⬍.001). In men, a similar trend was
+observed and the risk of DM was signifi-
+cantly reduced in those participants who
+drank at least 10 cups of coffee (HR, 0.45;
+95% CI, 0.25-0.81). When data for men
+and women were combined, sex-
+adjusted and multivariate-adjusted HRs
+were 1.00, 0.76 (95% CI, 0.57-1.01), 0.54
+(95% CI, 0.40-0.73), 0.55 (95% CI,
+0.37-0.81), and 0.39 (95% CI, 0.24-
+0.64; P for trend⬍.001), respectively.
+
+The risk of DM did not differ be-
+tween total coffee abstainers and light
+coffee drinkers (HR, 1.20; 95% CI,
+0.74-1.97). Sex-adjusted and multivar-
+iate-adjusted (including coffee consump-
+tion) HRs of DM by tea consumption of
+0, 1 to 2, 3 or more cups were 1.00, 0.81
+(95% CI, 0.63-1.05), and 0.98 (95% CI,
+0.67-1.42; P for trend = .27), respec-
+tively. To avoid the potential bias from
+subclinical disease, additional analyses
+were also performed excluding cases of
+type 2 DM, which occurred during the
+first 4 years of follow-up (n=27). The
+sex-adjusted and multivariate-
+adjusted HRs by coffee consumption of
+0 to 2, 3 to 4, 5 to 6, 7 to 9, and 10 or
+more cups did not vary and were 1.00,
+0.74 (95% CI, 0.55-1.00), 0.54 (95% CI,
+0.39-0.74), 0.54 (95% CI, 0.36-0.81),
+and 0.41 (95% CI, 0.25-0.68; P for
+trend⬍.001).
+
+Coffee Consumption and Risk of
+Type 2 DM in Subgroup Analyses
+Multivariate-adjusted inverse associa-
+tion between coffee consumption and
+
+DM risk was present in participants aged
+35 to 49 years (P for trend=.23) and 50
+to 64 years (P for trend=.001; TABLE 3).
+Similarly, the inverse association was ob-
+served in nonsmokers (P for
+trend = .001), in overweight partici-
+pants (P for trend=.01), and in non-
+drinkers (P for trend ⬍.001). A nonsig-
+nificant association was observed in
+smokers (P for trend=.07), in healthy
+weight participants (P for trend=.35),
+in participants who were obese (P for
+trend=.05), in alcohol drinkers (P for
+trend=.25), in filtered coffee drinkers (P
+for trend=.07), and in pot-boiled cof-
+fee drinkers (P for trend=.06). There
+were 22 incident cases of DM among
+participants aged 25 to 34 years at base-
+line who were not included in the analy-
+ses. An additional analysis including the
+youngest age group also did not change
+the results.
+
+The type of coffee consumption was
+assessed in the surveys from 1987 and
+1992. More than 80% of Finnish cof-
+fee consumers used filtered coffee at
+baseline. There was no interaction be-
+
+Table 2. Development of Type 2 Diabetes by Volume of Coffee Consumption
+
+Daily Coffee Consumption, Cups
+
+ⱕ2
+
+41
+14 191
+1.00
+
+3-4
+
+48
+20 054
+
+5-6
+
+Men
+
+67
+25 704
+
+7-9
+
+28
+11 480
+
+ⱖ10
+
+19
+10 426
+
+0.83 (0.54-1.25)
+
+0.88 (0.60-1.30)
+
+0.86 (0.53-1.39)
+
+0.69 (0.40-1.19)
+
+1.00
+
+0.73 (0.47-1.13)
+
+0.70 (0.45-1.05)
+
+0.67 (0.40-1.12)
+
+0.45 (0.25-0.81)
+
+P Value
+for Trend
+
+.74
+
+.12
+
+46
+15 821
+1.00
+
+68
+30 367
+
+Women
+
+48
+32 036
+
+13
+10 523
+
+3
+4980
+
+0.72 (0.49-1.04)
+
+0.49 (0.32-0.73)
+
+0.47 (0.25-0.87)
+
+0.26 (0.08-0.85)
+
+.002
+
+1.00
+
+0.71 (0.48-1.05)
+
+0.39 (0.25-0.60)
+
+0.39 (0.20-0.74)
+
+0.21 (0.06-0.69)
+
+⬍.001
+
+87
+30 112
+1.00
+
+Men and Women Combined†
+
+116
+50 421
+
+115
+57 740
+
+41
+22 003
+
+22
+15 406
+
+0.79 (0.59-1.04)
+
+0.67 (0.50-0.88)
+
+0.66 (0.46-0.96)
+
+0.53 (0.33-0.85)
+
+.02
+
+1.00
+
+0.76 (0.57-1.01)
+
+0.54 (0.40-0.73)
+
+0.55 (0.37-0.81)
+
+0.39 (0.24-0.64)
+
+⬍.001
+
+No. of new cases
+Person-years
+Adjustment for age and study
+
+year, HR (95% CI)
+
+Multivariate adjustment,
+
+HR (95% CI)*
+
+No. of new cases
+Person-years
+Adjustment for age and study
+
+year, HR (95% CI)
+
+Multivariate adjustment,
+
+HR (95% CI)*
+
+No. of new cases
+Person-years
+Adjustment for age and study
+
+year, HR (95% CI)
+
+Multivariate adjustment,
+
+HR (95% CI)*
+
+Abbreviations: CI, confidence interval; HR, hazard ratio.
+*Adjusted for age, study year, body mass index, systolic blood pressure, education, occupational physical activity (light, moderate, and active), walking or cycling to or from work
+(0, 1-29, and ⱖ30 min/d), leisure time physical activity (low, moderate, and high), cigarette smoking (never, past, and current smoking of 1-19 or ⱖ20 cigarettes/d), alcohol
+consumption (0, 1-100, 101-300, and ⬎300 g/wk), and tea consumption (none, 1-2, and ⱖ3 cups/d).
+
+†Also adjusted for sex.
+
+1216 JAMA, March 10, 2004—Vol 291, No. 10 (Reprinted)
+
+©2004 American Medical Association. All rights reserved.
+
+Downloaded From:  on 08/08/2018COFFEE CONSUMPTION AND TYPE 2 DIABETES MELLITUS
+
+tween the type of coffee and the amount
+of coffee for the risk of type 2 DM
+(␹2
+1= 2.63, 0.85, and 2.13 for men,
+women, and for men and women com-
+bined, respectively; all P⬎.10). Men and
+women who drank pot-boiled coffee
+without filtering showed a similar in-
+verse trend in risk of type 2 DM vs par-
+ticipants who drank filtered coffee
+(Table 3). However, men who drank
+pot-boiled coffee showed a 2.9 times
+higher risk for development of DM (HR,
+
+2.86; 95% CI, 1.76-4.63) compared with
+men who drank filtered coffee after
+multivariate adjustment for risk fac-
+tors of DM, including the amount of
+coffee consumed (TABLE 4). This as-
+sociation was also observed among men
+and women combined.
+
+COMMENT
+This study revealed unequivocal evi-
+dence for an inverse and graded asso-
+ciation between coffee consumption
+
+and type 2 DM independent of other
+risk factors for type 2 DM. Because the
+Finnish population drinks more cof-
+fee than other populations,15 we had
+power to determine the risk of DM at
+high levels of coffee consumption. The
+significant inverse association be-
+tween coffee consumption and the risk
+of type 2 DM was found in both sexes.
+In a previous study among the Finn-
+ish population,23 no association be-
+tween the coffee consumption and in-
+
+Table 3. Development of Type 2 Diabetes by Volume of Coffee Consumption Among Various Subpopulations*
+
+Hazard Ratio (95%
+Confidence Interval)
+
+Age, y
+
+35-49
+50-64
+Smoking
+Never
+Ever or current
+Body mass index†
+
+⬍25
+25-29.9
+ⱖ30
+Alcohol
+
+None
+Drinker
+
+Type of coffee‡
+
+Filtered
+Pot-boiled without filter
+
+Daily Coffee Consumption, Cups
+
+3-4
+
+5-6
+
+7-9
+
+ⱖ10
+
+0.65 (0.37-1.13)
+0.82 (0.59-1.16)
+
+0.63 (0.37-1.11)
+0.53 (0.37-0.76)
+
+0.57 (0.29-1.15)
+0.57 (0.35-0.92)
+
+0.42 (0.20-0.91)
+0.38 (0.20-0.74)
+
+0.77 (0.53-1.12)
+0.71 (0.45-1.13)
+
+0.44 (0.29-0.66)
+0.69 (0.44-1.09)
+
+0.41 (0.22-0.76)
+0.71 (0.41-1.22)
+
+0.42 (0.18-1.00)
+0.39 (0.21-0.73)
+
+0.53 (0.19-1.45)
+0.74 (0.46-1.18)
+0.86 (0.58-1.28)
+
+0.65 (0.25-1.66)
+0.48 (0.29-0.80)
+0.59 (0.39-0.88)
+
+0.36 (0.09-1.48)
+0.53 (0.28-1.01)
+0.59 (0.35-1.01)
+
+0.15 (0.02-1.29)
+0.26 (0.10-0.68)
+0.56 (0.31-1.02)
+
+0.79 (0.55-1.13)
+0.79 (0.47-1.32)
+
+0.46 (0.32-0.68)
+0.78 (0.47-1.32)
+
+0.40 (0.23-0.70)
+0.97 (0.53-1.78)
+
+0.45 (0.25-0.83)
+0.38 (0.16-0.93)
+
+0.63 (0.34-1.16)
+0.90 (0.40-2.01)
+
+0.51 (0.27-0.96)
+0.39 (0.17-0.90)
+
+0.47 (0.19-1.17)
+0.48 (0.18-1.28)
+
+0.15 (0.03-0.66)
+0.33 (0.09-1.18)
+
+ⱕ2
+
+1.00
+1.00
+
+1.00
+1.00
+
+1.00
+1.00
+1.00
+
+1.00
+1.00
+
+1.00
+1.00
+
+P Value
+for Trend
+
+.23
+.001
+
+.001
+.07
+
+.35
+.01
+.05
+
+⬍.001
+.25
+
+.07
+.06
+
+*Adjusted for age, study year, body mass index, systolic blood pressure, education, occupational physical activity (light, moderate, and active), walking or cycling to or from work
+(0, 1-29, and ⱖ30 min/d), leisure time physical activity (low, moderate, and high), cigarette smoking (never, past, and current smoking of 1-19 or ⱖ20 cigarettes/d), alcohol
+consumption (0, 1-100, 101-300, and ⬎300 g/wk), tea consumption (none, 1-2, and ⱖ3 cups/d), and sex.
+
+†Calculated as weight in kilograms divided by the square of height in meters.
+‡This analysis only includes surveys conducted from 1987 and 1992.
+
+Table 4. Development of Type 2 Diabetes by Different Type of Coffee Consumption According to Sex and Age*
+
+No. of New Diabetes Cases
+
+Person-Years
+
+Filtered
+Coffee
+
+Pot-Boiled Coffee
+
+Without Filter
+
+Men
+
+Age, y
+
+35-49
+50-64
+
+Women
+
+Age, y
+
+35-49
+50-64
+
+Men and women combined†
+
+Age, y
+
+35-49
+50-64
+
+40
+
+17
+23
+38
+
+6
+32
+78
+
+23
+55
+
+36
+
+11
+25
+26
+
+4
+22
+62
+
+15
+47
+
+Filtered
+Coffee
+25 410
+
+16 001
+9409
+29 462
+
+18 032
+11 430
+54 871
+
+34 034
+20 837
+
+Pot-Boiled Coffee
+
+Without Filter
+
+6915
+
+2923
+3992
+7943
+
+3067
+4876
+14 858
+
+5990
+8868
+
+Hazard Ratio
+
+(95% Confidence Interval)
+
+Filtered
+Coffee
+1.00
+
+Pot-Boiled Coffee
+
+Without Filter
+2.86 (1.76-4.63)
+
+1.00
+1.00
+1.00
+
+1.00
+1.00
+1.00
+
+1.00
+1.00
+
+3.89 (1.65-9.21)
+2.72 (1.49-4.96)
+1.30 (0.76-2.24)
+
+2.11 (0.45-9.99)
+1.29 (0.72-2.33)
+2.04 (1.43-2.92)
+
+2.71 (1.33-5.53)
+1.87 (1.24-2.82)
+
+*Adjusted for age, study year, body mass index, systolic blood pressure, education, occupational physical activity (light, moderate, and active), walking or cycling to or from work
+(0, 1-29, and ⱖ30 min/d), leisure time physical activity (low, moderate, and high), cigarette smoking (never, past, and current smoking of 1-19 or ⱖ20 cigarettes/d), alcohol
+consumption (0, 1-100, 101-300, and ⬎300 g/wk), tea consumption (none, 1-2, and ⱖ3 cups/d), and coffee consumption (0-2, 3-4, 5-6, 7-9, ⱖ10 cups/d). This analysis only
+includes surveys conducted from 1987 and 1992.
+
+†Also adjusted for sex.
+
+©2004 American Medical Association. All rights reserved.
+
+(Reprinted) JAMA, March 10, 2004—Vol 291, No. 10 1217
+
+Downloaded From:  on 08/08/2018COFFEE CONSUMPTION AND TYPE 2 DIABETES MELLITUS
+
+cidence of type 2 DM was observed.
+One possible explanation for the dif-
+ferent results is that at the time of their
+baseline survey, in 1973 and 1977, most
+Finnish individuals drank pot-boiled
+coffee. At the end of the 1960s, 75% of
+the Finnish population drank boiled
+coffee24 but by 1987 this proportion had
+decreased to 24%, although 69% drank
+filtered coffee.25 However, although we
+were able to determine the type of the
+coffee consumed in our surveys in 1987
+and 1992, there was no interaction
+effect between type of coffee and
+amount of coffee on the risk of type 2
+DM in either men or women. Never-
+theless, there was a significant, almost
+3-fold, increase in the risk of diabetes
+among men who drank pot-boiled cof-
+fee compared with men who drank fil-
+tered coffee.
+
+Van Dam and Feskens12 investi-
+gated the association between coffee
+consumption and risk of type 2 DM in
+a prospective study. They also ob-
+tained similar inverse associations be-
+tween coffee consumption and the risk
+of type 2 DM, similar to our results. Re-
+cently, data from large US cohorts of
+men and women also showed that long-
+term coffee consumption and total caf-
+feine intake were significantly associ-
+ated with a reduced risk of type 2 DM.26
+A Japanese cross-sectional study com-
+prising 1916 men and 2704 women
+aged 40 to 50 years found that coffee
+intake or caffeine intake from coffee was
+inversely associated with the preva-
+lence of fasting hyperglycemia (fast-
+ing plasma glucose, ⱖ110 mg/dL [ⱖ6.1
+mmol/L]).27
+
+Although the biological mechanism
+behind the inverse association be-
+tween coffee consumption and the risk
+of DM is unknown, several putative
+mechanisms can be proposed. The pro-
+tective effect of coffee may be due to the
+inhibition of glucose-6-phosphatase ac-
+tivity by chlorogenic acid.28 Hepatic glu-
+cose-6-phosphatase may be a key con-
+trol site in the homeostatic regulation
+of blood glucose concentration,29,30 and
+glucose-6-phosphatase is widely held
+to be a significant factor in the abnor-
+mally high rates of hepatic glucose pro-
+
+duction observed in the diabetic state.
+Reduced glucose-6-phosphatase hy-
+drolysis or its inhibition may reduce
+plasma glucose output leading to re-
+duced plasma glucose concentra-
+tion.28 Hypoglycemic effect of chloro-
+genic acid has been presented in
+streptozotocin-induced diabetic rats as
+well.31 Johnston et al32 also suggest that
+chlorogenic acid might have an antago-
+nistic effect on glucose transport. It is
+possible that habitual differences be-
+tween the coffee consumers and differ-
+ent manufacturing process of coffee
+from green seeds may also result in dif-
+ferent effects. For instance, roasting and
+some other manipulation of process-
+ing coffee will partly destroy chloro-
+genic acid and may oxidize some other
+compounds to form new compounds,33
+leading subsequently to differential
+metabolic effects.
+
+In addition to the inhibitory effects
+of chlorogenic acid on glucose-6-
+phosphatase affecting glucose regula-
+tion at hepatic stage, it has also been
+reported to inhibit glucose transport-
+ers (sodium-dependent glucose trans-
+porter) at the intestinal stage.34 Coffee
+may also influence the secretion of gas-
+trointestinal peptides such as glucagon-
+like peptide 1 and gastric inhibitory
+polypeptide, both of which are known
+for their glucose lowering effects.35,36
+Coffee also contains magnesium, ap-
+proximately 11 mg per 100 g of dry cof-
+fee. This component is another pos-
+sible factor, which may result in positive
+effects on glucose tolerance and pre-
+vention of type 2 DM. There is a sig-
+nificant inverse correlation between se-
+rum magnesium and the incidence of
+type 2 DM; both serum and ionized
+magnesium were consistently found to
+be decreased in patients with DM.37-40
+It is well known that caffeine and the-
+ophylline are strong stimulants of pan-
+creatic beta cells.41 Stimulation of insu-
+lin secretion may be beneficial in people
+at risk of type 2 DM who usually have
+impaired insulin secretion.11 In addi-
+tion, caffeine may increase insulin sen-
+sitivity.42 It has also been suggested that
+the thermogenic effect of caffeine may
+overcome the energy imbalance accom-
+
+panied by unfavorable lifestyle and im-
+prove glucose homoeostasis.
+
+The inverse association between cof-
+fee consumption and the risk of DM
+tended to be stronger in women than
+in men, although the sex-interaction
+was not statistically significant. Previ-
+ous studies have revealed that caffeine
+may be positively associated with
+plasma estrogen, plasma estradiol, and
+sex hormone-binding globulin levels
+and inversely related with testoster-
+one among postmenopausal wom-
+en.5,6 In addition phytoestrogens may
+have beneficial effects in patients with
+DM. Phytoestrogens content of coffee
+and effects of caffeine on hormonal level
+may explain the effects of coffee on the
+risk of diabetes in women. Neverthe-
+less, in most populations, the preva-
+lence of type 2 DM is lower in women
+than in men at premenopausal age.43,44
+A limitation of our study was that a
+glucose tolerance test was not per-
+formed in the baseline and follow-up
+surveys. Therefore, we could have
+missed some cases of asymptomatic and
+diet-treated diabetes, although the clini-
+cal diagnosis of diabetes from the hos-
+pital discharge register may have in part
+avoided this potential underdiagno-
+sis. Another source of misclassifica-
+tion may be that we used self-report for
+data on coffee intake. However, the mis-
+classification of exposure is most prob-
+ably not systematically related to the
+outcome and vice versa. Therefore, it
+should not cause biased results but may
+only weaken the observed associa-
+tion. Finally, we cannot completely ex-
+clude the effects of residual confound-
+ing due to measurement error in the
+assessment of confounding factors and
+unmeasured factors such as diet (whole
+grain consumption, intake of fiber, satu-
+rated and polyunsaturated fat, glyce-
+mic load of the diet, and total energy
+intake). The Finnish population typi-
+cally drink their coffee without milk or
+only add a very small volume of milk.
+In conclusion, we found a strong and
+graded inverse relationship between
+coffee consumption and the risk of type
+2 DM among Finnish men and women,
+a population with the highest coffee
+
+1218 JAMA, March 10, 2004—Vol 291, No. 10 (Reprinted)
+
+©2004 American Medical Association. All rights reserved.
+
+Downloaded From:  on 08/08/2018consumption in the world. The mecha-
+nisms or process by which coffee con-
+tents may exert their beneficial effects
+on DM are nevertheless unclear. Sev-
+eral components of coffee may affect
+glucose regulation, such as chloro-
+genic acid on glucose-6-phosphatase,
+antioxidant activity of polyphenols on
+␣-glucosidase, caffeine on insulin se-
+cretion on pancreatic beta cells, cumu-
+lative effects of phytoestrogens, and
+magnesium, which are suggested as the
+
+REFERENCES
+1. Kleemola P, Jousilahti P, Pietinen P, Vartiainen E,
+Tuomilehto J. Coffee consumption and the risk of coro-
+nary heart disease and death. Arch Intern Med. 2000;
+160:3393-3400.
+2. Robertson D, Hollister AS, Kincaid D, et al. Caf-
+feine and hypertension. Am J Med. 1984;77:54-60.
+3. Ross GW, Abbott RD, Petrovitch H, et al. Associa-
+tion of coffee and caffeine intake with the risk of Par-
+kinson disease. JAMA. 2000;283:2674-2679.
+4. Zeegers MP, Tan FE, Goldbohm RA, van den Brandt
+PA. Are coffee and tea consumption associated with
+urinary tract cancer risk? a systematic review and meta-
+analysis. Int J Epidemiol. 2001;30:353-362.
+5. Ferrini RL, Barrett-Connor E. Caffeine intake and
+endogenous sex steroid levels in postmenopausal wom-
+en: the Rancho Bernardo Study. Am J Epidemiol. 1996;
+144:642-644.
+6. Nagata C, Kabuto M, Shimizu H. Association of cof-
+fee, green tea, and caffeine intakes with serum con-
+centrations of estradiol and sex hormone-binding
+globulin in premenopausal Japanese women. Nutr Can-
+cer. 1998;30:21-24.
+7. Goodman-Gruen D, Kritz-Silverstein D. Usual di-
+etary isoflavone intake is associated with cardiovas-
+cular disease risk factors in postmenopausal women.
+J Nutr. 2001;131:1202-1206.
+8. Leitzmann MF, Willett WC, Rimm EB, et al. A pro-
+spective study of coffee consumption and the risk of
+symptomatic gallstone disease in men. JAMA. 1999;
+281:2106-2112.
+9. Curhan GC, Willett WC, Speizer FE, Stampfer MJ.
+Beverage use and risk for kidney stones in women. Ann
+Intern Med. 1998;128:534-540.
+10. Pizziol A, Tikhonoff V, Paleari CD, et al. Effects
+of caffeine on glucose tolerance: a placebo-
+controlled study. Eur J Clin Nutr. 1998;52:846-849.
+11. Keijzers GB, De Galan BE, Tack CJ, Smits P. Caf-
+feine can decrease insulin sensitivity in humans. Dia-
+betes Care. 2002;25:364-369.
+12. van Dam RM, Feskens EJ. Coffee consumption
+and risk of type 2 diabetes mellitus. Lancet. 2002;
+360:1477-1478.
+13. Tuomilehto J, Lindstrom J, Eriksson JG, et al. Pre-
+vention of type 2 diabetes mellitus by changes in life-
+style among subjects with impaired glucose toler-
+ance. N Engl J Med. 2001;344:1343-1350.
+14. Knowler WC, Barrett-Connor E, Fowler SE, et al.
+Reduction in the incidence of type 2 diabetes with life-
+style intervention or metformin. N Engl J Med. 2002;
+346:393-403.
+15. World Resources Institute. Earth trends data tables:
+energy and resources. Available at: http://earthtrends
+.wri.org/text/pdfs/data_tables/ene4_2003.pdf. Ac-
+cessibility verified February 2, 2004.
+16. WHO MONICA Project Principal Investigators. The
+
+COFFEE CONSUMPTION AND TYPE 2 DIABETES MELLITUS
+
+biological basis of our findings. Ex-
+panded investigation is required to ex-
+plore these mechanisms, including ran-
+domized controlled trials.
+
+Author Contributions: Dr Tuomilehto had full ac-
+cess to all the data in the study and takes responsi-
+bility for the integrity of the data and the accuracy of
+the data analysis.
+Study concept and design: Tuomilehto, Hu, Jousilahti.
+Acquisition of data: Tuomilehto, Hu.
+Analysis and interpretation of data: Tuomilehto, Hu,
+Bidel, Lindstrom.
+Drafting of the manuscript: Tuomilehto, Hu, Bidel,
+Lindstrom, Jousilahti.
+
+Critical revision of the manuscript for important in-
+tellectual content: Hu, Bidel, Jousilahti.
+Statistical expertise: Tuomilehto, Hu, Lindstrom.
+Obtained funding: Tuomilehto, Hu, Jousilahti.
+Administrative, technical, or material support:
+Tuomilehto.
+Study supervision: Jousilahti.
+Funding/Support: This study was supported by grants
+46885, 53585, 204274, and 205657 from the Acad-
+emy of Finland and the National Public Health Insti-
+tute, Helsinki, Finland.
+Role of the Sponsors: The Academy of Finland and
+the National Public Health Institute did not partici-
+pate in the design and conduct of the study, in the
+collection, analysis, and interpretation of the data, or
+in the preparation, review, or approval of the manu-
+script.
+
+World Health Organization MONICA Project (moni-
+toring trends and determinants in cardiovascular dis-
+ease): a major international collaboration. J Clin Epi-
+demiol. 1988;41:105-114.
+17. Pajak A, Kuulasmaa K, Tuomilehto J, Ruoko-
+koski E. Geographical variation in the major risk fac-
+tors of coronary heart disease in men and women aged
+35-64 years: the WHO MONICA Project. World
+Health Stat Q. 1988;41:115-140.
+18. Vartiainen E, Jousilahti P, Alfthan G, et al. Car-
+diovascular risk factor changes in Finland, 1972-
+1997. Int J Epidemiol. 2000;29:49-56.
+19. Hu G, Qiao Q, Silventoinen K, et al. Occupational,
+commuting, and leisure-time physical activity in rela-
+tion to risk for type 2 diabetes in middle-aged Finnish
+men and women. Diabetologia. 2003;46:322-329.
+20. Andersen LB, Schnohr P, Schroll M, Hein HO. All-
+cause mortality associated with physical activity dur-
+ing leisure time, work, sports, and cycling to work. Arch
+Intern Med. 2000;160:1621-1628.
+21. Keys A. Seven Countries: A Multivariate Analy-
+sis of Death and Coronary Heart Disease. Cam-
+bridge, Mass: Harvard University Press; 1980.
+22. WHO Study Group on Diabetes Mellitus. Diabe-
+tes Mellitus: Report of a WHO Study Group. Geneva,
+Switzerland: World Health Organization; 1985. WHO
+Technical Report Series, No. 727.
+23. Reunanen A, Heliovaara M, Aho K. Coffee con-
+sumption and risk of type 2 diabetes mellitus. Lancet.
+2003;361:702-703.
+24. Aro A. Serum cholesterol levels in Finland and their
+relationship to changes in coffee brewing methods.
+In: Thelle DS, van der Stegen G, eds. Coffee and Coro-
+nary Heart Disease: Special Emphasis on the Coffee-
+Blood Lipids Relationship. Go¨ teborg, Sweden: Nor-
+diska a¨ lsova˚ rsho¨ gskolan; 1990:71-75.
+25. Pietinen P, Aro A, Tuomilehto J, Uusitalo U, Kor-
+honen H. Consumption of boiled coffee is correlated
+with serum cholesterol in Finland. Int J Epidemiol. 1990;
+19:586-590.
+26. Salazar-Martinez E, Willett WC, Ascherio A, et al.
+Coffee consumption and risk for type 2 diabetes melli-
+tus. Ann Intern Med. 2004;140:1-8.
+27. Isogawa A, Noda M, Takahashi Y, Kadowaki T,
+Tsugane S. Coffee consumption and risk of type 2 dia-
+betes mellitus. Lancet. 2003;361:703-704.
+28. Arion WJ, Canfield WK, Ramos FC, et al. Chlo-
+rogenic acid and hydroxynitrobenzaldehyde: new in-
+hibitors of hepatic glucose 6-phosphatase. Arch Bio-
+chem Biophys. 1997;339:315-322.
+29. Newgard CB, Foster DW, McGarry JD. Evidence
+for suppression of hepatic glucose-6-phosphatase with
+carbohydrate feeding. Diabetes. 1984;33:192-195.
+30. Youn JH, Youn MS, Bergman RN. Synergism of
+glucose and fructose in net glycogen synthesis in per-
+
+fused rat livers. J Biol Chem. 1986;261:15960-
+15969.
+31. Andrade-Cetto A, Wiedenfeld H. Hypoglycemic
+effect of Cecropia obtusifolia on streptozotocin dia-
+betic rats. J Ethnopharmacol. 2001;78:145-149.
+32. Johnston KL, Clifford MN, Morgan LM. Coffee
+acutely modifies gastrointestinal hormone secretion and
+glucose tolerance in humans: glycemic effects of chlo-
+rogenic acid and caffeine. Am J Clin Nutr. 2003;78:
+728-733.
+33. del Castillo MD, Ames JM, Gordon MH. Effect of
+roasting on the antioxidant activity of coffee brews.
+J Agric Food Chem. 2002;50:3698-3703.
+34. Kobayashi Y, Suzuki M, Satsu H, et al. Green tea
+polyphenols inhibit the sodium-dependent glucose trans-
+porter of intestinal epithelial cells by a competitive mecha-
+nism. J Agric Food Chem. 2000;48:5618-5623.
+35. Nauck MA, Heimesaat MM, Orskov C, et al. Pre-
+served incretin activity of glucagon-like peptide 1 [7-36
+amide] but not of synthetic human gastric inhibitory
+polypeptide in patients with type-2 diabetes melli-
+tus. J Clin Invest. 1993;91:301-307.
+36. Meier JJ, Hucking K, Holst JJ, et al. Reduced in-
+sulinotropic effect of gastric inhibitory polypeptide in
+first-degree relatives of patients with type 2 diabe-
+tes. Diabetes. 2001;50:2497-2504.
+37. Barbagallo M, Dominguez LJ, Galioto A, et al. Role
+of magnesium in insulin action, diabetes and cardio-
+metabolic syndrome X. Mol Aspects Med. 2003;24:
+39-52.
+38. Paolisso G, Scheen A, D’Onofrio F, Lefebvre P.
+Magnesium and glucose homeostasis. Diabetologia.
+1990;33:511-514.
+39. Paolisso G, Ravussin E. Intracellular magnesium
+and insulin resistance: results in Pima Indians and Cau-
+casians. J Clin Endocrinol Metab. 1995;80:1382-
+1385.
+40. Paolisso G, Barbagallo M. Hypertension, diabetes
+mellitus, and insulin resistance: the role of intracellular
+magnesium. Am J Hypertens. 1997;10:346-355.
+41. Tuomilehto J, Tuomilehto-Wolf E, Virtala E, LaPorte
+R. Coffee consumption as trigger for insulin depen-
+dent diabetes mellitus in childhood. BMJ. 1990;300:
+642-643.
+42. Yoshioka K, Kogure A, Yoshida T, Yoshikawa T.
+Coffee consumption and risk of type 2 diabetes melli-
+tus. Lancet. 2003;361:703.
+43. DECODE Study Group. Age- and sex-specific
+prevalences of diabetes and impaired glucose regu-
+lation in 13 European cohorts. Diabetes Care. 2003;
+26:61-69.
+44. Qiao Q, Hu G, Tuomilehto J, et al. Age- and sex-
+specific prevalence of diabetes and impaired glucose
+regulation in 11 Asian cohorts. Diabetes Care. 2003;
+26:1770-1780.
+
+©2004 American Medical Association. All rights reserved.
+
+(Reprinted) JAMA, March 10, 2004—Vol 291, No. 10 1219
+
+Downloaded From:  on 08/08/2018

@@ -1,0 +1,3848 @@
+C l i n i c a l C a r e / E d u c a t i o n / N u t r i t i o n
+O R I G I N A L
+
+A R T I C L E
+
+Dietary Fat and Incidence of Type 2
+Diabetes in Older Iowa Women
+
+1
+KATIE A. MEYER, MPH
+LAWRENCE H. KUSHI, SCD
+
+2
+
+DAVID R. JACOBS, JR., PHD
+AARON R. FOLSOM, MD
+
+3
+
+3
+
+OBJECTIVE — To examine the associations between reported intakes of dietary fat and
+incident type 2 diabetes.
+
+RESEARCH DESIGN AND METHODS — We studied the relation between dietary
+fatty acids and diabetes in a prospective cohort study of 35,988 older women who initially did
+not have diabetes. Diet was assessed with a food frequency questionnaire at baseline, and 1,890
+incident cases of diabetes occurred during 11 years of follow-up.
+
+RESULTS — After adjusting for age, smoking, alcohol consumption, BMI, waist-to-hip ratio,
+physical activity, demographic factors, and dietary magnesium and cereal ﬁber, diabetes inci-
+dence was negatively associated with dietary polyunsaturated fatty acids, vegetable fat, and trans
+fatty acids and positively associated with v-3 fatty acids, cholesterol, and the Keys score. After
+simultaneous adjustment for other dietary fat, only vegetable fat remained clearly related to
+diabetes risk. Relative risks across quintiles of vegetable fat intake were 1.00, 0.90, 0.87, 0.84,
+and 0.82 (P 5 0.02). Diabetes risk was also inversely related to substituting polyunsaturated fatty
+acids for saturated fatty acids and positively correlated to the Keys dietary score.
+
+CONCLUSIONS — These data support an inverse relation between incident type 2 diabetes
+and vegetable fat and substituting polyunsaturated fatty acids for saturated fatty acids and
+cholesterol.
+
+Diabetes Care 24:1528 –1535, 2001
+
+A lthough a low-fat diet is recom-
+
+mended for diabetic and nondia-
+betic patients (1), ﬁndings from
+epidemiological studies on the associa-
+tion of total dietary fat with type 2 diabe-
+tes or insulin sensitivity have been
+inconsistent (2– 8). Metabolic and epide-
+miological studies suggest that dietary fat
+subtypes may be relevant to diabetes
+pathophysiology. Speciﬁc dietary fatty ac-
+ids may inﬂuence the development of di-
+abetes by modifying the phospholipid
+composition of cell membranes, which in
+turn may alter the function of the insulin
+receptor (9,10).
+
+While controlling for dietary and
+
+nondietary factors, we examined the rela-
+tion between baseline intake of total di-
+etary fat and dietary fat subtypes and the
+development of type 2 diabetes over 11
+years of follow-up in the Iowa Women’s
+Health Study.
+
+RESEARCH DESIGN AND
+METHODS — The Iowa Women’s
+Health Study is a prospective cohort
+study of older Iowa women. In January
+1986, a random sample of 99,826 women
+aged 55– 69 years who had a valid Iowa
+driver’s license were mailed a 16-page
+questionnaire and asked to participate.
+The study sample consisted of the 41,836
+
+c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c
+
+From the 1Department of Epidemiology, Harvard School of Public Health, Boston, Massachusetts; the
+2Teachers’ College, Columbia University, New York, New York; and the 3Division of Epidemiology, Uni-
+versity of Minnesota School of Public Health, Minneapolis, Minnesota.
+
+Address correspondence and reprint requests to Dr. Aaron R. Folsom, Division of Epidemiology, School
+of Public Health, University of Minnesota, Suite 300, 1300 South 2nd St., Minneapolis, MN 55454-1015.
+E-mail: folsom@epi.umn.edu.
+
+Received for publication 28 June 2000 and accepted in revised form 9 April 2001.
+Abbreviations: IGT, impaired glucose tolerance; RR, rate ratio; WHR, waist-to-hip ratio.
+A table elsewhere in this issue shows conventional and Syste`me International (SI) units and conversion
+
+factors for many substances.
+
+women who returned the baseline ques-
+tionnaire. Respondents had a lower mean
+BMI (0.4 kg/m2 less), were 3 months
+older, and were more likely to live in
+counties that were rural and less afﬂuent
+than nonrespondents (11).
+
+Women were excluded from analysis
+if they reported implausibly high
+(.5,000 kcal) or low (,600 kcal) energy
+intakes, left $30 items blank on the food-
+frequency questionnaire, or had diabetes
+at baseline. Women were considered to
+have diabetes at baseline if they respond-
+ed “yes” or “don’t know” to one of the
+following questions: 1) have you ever
+been told by a doctor that you have sugar
+diabetes? and 2) have you ever taken in-
+sulin or pills for sugar diabetes (or to
+lower blood glucose)? After exclusions,
+35,988 women remained eligible for the
+study.
+
+Data collection
+The baseline questionnaire included
+questions on known or suspected risk fac-
+tors for diabetes, such as age, BMI, waist-
+to-hip ratio (WHR), physical activity,
+alcohol consumption, and smoking his-
+tory. BMI was calculated from weight and
+height measurements provided by the
+participants. WHR was calculated as the
+average of two measurements taken by
+the participant’s spouse or friend using a
+paper tape measure that was included
+with the questionnaire (12). The women
+reported their frequency of moderate
+(e.g., golf and long walks) and vigorous
+(e.g., swimming and aerobics) physical
+activity. Pack-years of smoking were cal-
+culated from information on the intensity
+and duration of cigarette smoking. Alco-
+hol consumption was assessed with a food
+frequency questionnaire that queried the
+participants’ typical intakes of wine, beer,
+and spirits. In addition, the participants
+provided information on their marital sta-
+tus, educational attainment, residence,
+and use of hormone replacement therapy.
+The principal dietary exposure of in-
+terest was intake of fat, including choles-
+terol and the Keys score. In addition to
+total dietary fat, we analyzed saturated,
+polyunsaturated, monounsaturated, trans
+fatty acids, long-chain v-3 fatty acids, and
+
+1528
+
+DIABETES CARE, VOLUME 24, NUMBER 8, AUGUST 2001
+
+t
+a
+f
+
+e
+l
+b
+a
+t
+e
+g
+e
+V
+
+t
+a
+f
+
+l
+a
+m
+n
+A
+
+i
+
+l
+o
+r
+e
+t
+s
+e
+l
+o
+h
+C
+
+5
+
+1
+
+5
+
+1
+
+5
+
+1
+
+y
+t
+t
+a
+f
+
+s
+n
+a
+r
+T
+
+s
+d
+i
+c
+a
+
+5
+
+1
+
+s
+d
+i
+c
+a
+
+5
+
+n
+i
+a
+h
+c
+-
+g
+n
+o
+L
+
+y
+t
+t
+a
+f
+3
+-
+v
+
+1
+
+5
+
+1
+
+5
+
+1
+
+-
+o
+n
+o
+M
+
+d
+e
+t
+a
+r
+u
+t
+a
+s
+n
+u
+
+s
+d
+i
+c
+a
+
+y
+t
+t
+a
+f
+
+-
+y
+l
+o
+P
+
+d
+e
+t
+a
+r
+u
+t
+a
+s
+n
+u
+
+s
+d
+i
+c
+a
+
+y
+t
+t
+a
+f
+
+d
+e
+t
+a
+r
+u
+t
+a
+S
+
+s
+d
+i
+c
+a
+
+y
+t
+t
+a
+f
+
+5
+
+1
+
+t
+a
+f
+
+l
+a
+t
+o
+T
+
+5
+
+1
+
+4
+3
+8
+0
+
+.
+
+7
+3
+8
+0
+
+.
+
+0
+4
+8
+0
+
+.
+
+9
+2
+8
+0
+
+.
+
+1
+4
+8
+0
+
+.
+
+1
+3
+8
+0
+
+.
+
+8
+3
+8
+0
+
+.
+
+0
+3
+8
+0
+
+.
+
+3
+3
+8
+0
+
+.
+
+7
+3
+8
+0
+
+.
+
+0
+4
+8
+0
+
+.
+
+0
+3
+8
+0
+
+.
+
+4
+3
+8
+0
+
+.
+
+6
+3
+8
+0
+
+.
+
+9
+3
+8
+0
+
+.
+
+9
+2
+8
+0
+
+.
+
+0
+4
+8
+0
+
+.
+
+0
+3
+8
+0
+
+.
+
+.
+
+5
+1
+6
+
+.
+
+6
+6
+2
+
+.
+
+5
+1
+6
+
+.
+
+9
+6
+2
+
+.
+
+0
+1
+6
+
+.
+
+3
+7
+2
+
+.
+
+9
+1
+6
+
+.
+
+0
+6
+2
+
+.
+
+1
+1
+6
+
+.
+
+7
+7
+2
+
+.
+
+0
+2
+6
+
+.
+
+9
+5
+2
+
+.
+
+6
+1
+6
+
+.
+
+8
+6
+2
+
+.
+
+6
+1
+6
+
+.
+
+4
+6
+2
+
+.
+
+4
+1
+6
+
+.
+
+4
+7
+2
+
+.
+
+6
+1
+6
+
+.
+
+4
+6
+2
+
+.
+
+1
+1
+6
+
+.
+
+2
+7
+2
+
+.
+
+8
+1
+6
+
+.
+
+2
+6
+2
+
+.
+
+5
+1
+6
+
+.
+
+9
+6
+2
+
+.
+
+6
+1
+6
+
+.
+
+6
+6
+2
+
+.
+
+1
+1
+6
+
+.
+
+0
+7
+2
+
+.
+
+9
+1
+6
+
+.
+
+1
+6
+2
+
+.
+
+1
+1
+6
+
+.
+
+2
+7
+2
+
+.
+
+9
+1
+6
+
+.
+
+2
+6
+2
+
+.
+
+6
+4
+5
+
+.
+
+3
+3
+8
+
+.
+
+1
+1
+2
+
+.
+
+8
+6
+1
+
+.
+
+2
+9
+5
+
+.
+
+4
+5
+7
+
+.
+
+6
+7
+3
+
+.
+
+9
+1
+5
+
+.
+
+7
+0
+8
+
+.
+
+8
+8
+2
+
+.
+
+2
+5
+1
+
+.
+
+5
+3
+6
+
+.
+
+2
+9
+7
+
+.
+
+9
+9
+2
+
+.
+
+9
+6
+5
+
+.
+
+9
+8
+7
+
+.
+
+0
+0
+2
+
+.
+
+0
+9
+1
+
+.
+
+6
+4
+6
+
+.
+
+6
+2
+8
+
+.
+
+1
+6
+2
+
+.
+
+2
+0
+5
+
+.
+
+5
+3
+8
+
+.
+
+6
+0
+3
+
+.
+
+8
+3
+1
+
+.
+
+2
+8
+5
+
+.
+
+7
+3
+7
+
+.
+
+5
+0
+4
+
+.
+
+2
+5
+5
+
+.
+
+9
+9
+7
+
+.
+
+0
+4
+2
+
+.
+
+3
+7
+1
+
+.
+
+8
+3
+6
+
+.
+
+5
+9
+7
+
+.
+
+0
+9
+2
+
+.
+
+7
+2
+5
+
+.
+
+6
+2
+8
+
+.
+
+2
+7
+2
+
+.
+
+5
+4
+1
+
+.
+
+8
+8
+5
+
+.
+
+9
+4
+7
+
+.
+
+4
+8
+3
+
+.
+
+6
+9
+5
+
+.
+
+3
+0
+8
+
+.
+
+3
+7
+1
+
+.
+
+1
+6
+1
+
+.
+
+4
+3
+6
+
+.
+
+2
+7
+7
+
+.
+
+3
+1
+3
+
+.
+
+3
+7
+4
+
+.
+
+4
+4
+8
+
+.
+
+4
+6
+3
+
+.
+
+5
+4
+1
+
+.
+
+2
+8
+5
+
+.
+
+6
+6
+7
+
+.
+
+1
+9
+3
+
+.
+
+6
+9
+4
+
+.
+
+0
+4
+8
+
+.
+
+8
+1
+3
+
+.
+
+2
+4
+1
+
+.
+
+7
+9
+5
+
+.
+
+8
+5
+7
+
+.
+
+6
+7
+3
+
+.
+
+2
+9
+5
+
+.
+
+2
+9
+7
+
+.
+
+5
+1
+2
+
+.
+
+6
+5
+1
+
+.
+
+2
+2
+6
+
+.
+
+5
+8
+7
+
+.
+
+2
+0
+3
+
+.
+
+7
+8
+5
+
+.
+
+0
+0
+8
+
+.
+
+3
+7
+1
+
+.
+
+7
+9
+1
+
+.
+
+8
+3
+6
+
+.
+
+7
+1
+8
+
+.
+
+7
+8
+2
+
+.
+
+9
+8
+4
+
+.
+
+0
+4
+8
+
+.
+
+8
+5
+3
+
+.
+
+6
+2
+1
+
+.
+
+5
+9
+5
+
+.
+
+5
+4
+7
+
+.
+
+3
+9
+3
+
+.
+
+6
+1
+5
+
+.
+
+3
+3
+8
+
+.
+
+3
+4
+2
+
+.
+
+2
+6
+1
+
+.
+
+1
+9
+5
+
+.
+
+4
+7
+7
+
+.
+
+9
+6
+3
+
+.
+
+4
+3
+5
+
+.
+
+5
+0
+8
+
+.
+
+0
+7
+2
+
+.
+
+3
+5
+1
+
+.
+
+6
+3
+6
+
+.
+
+5
+7
+7
+
+.
+
+4
+1
+3
+
+.
+
+3
+7
+5
+
+.
+
+6
+8
+7
+
+.
+
+0
+9
+1
+
+.
+
+1
+1
+2
+
+.
+
+3
+4
+6
+
+.
+
+2
+0
+8
+
+.
+
+9
+8
+2
+
+.
+
+2
+8
+4
+
+.
+
+5
+3
+8
+
+.
+
+0
+3
+3
+
+.
+
+0
+3
+1
+
+.
+
+6
+8
+5
+
+.
+
+2
+5
+7
+
+.
+
+1
+9
+3
+
+.
+
+8
+7
+5
+
+.
+
+9
+9
+7
+
+.
+
+6
+8
+1
+
+.
+
+4
+0
+2
+
+.
+
+1
+3
+6
+
+.
+
+0
+1
+8
+
+.
+
+9
+8
+2
+
+.
+
+2
+9
+4
+
+.
+
+3
+3
+8
+
+.
+
+8
+3
+3
+
+.
+
+9
+2
+1
+
+.
+
+2
+0
+6
+
+.
+
+4
+4
+7
+
+.
+
+9
+8
+3
+
+:
+e
+k
+a
+t
+n
+
+i
+
+f
+o
+
+s
+e
+l
+i
+t
+n
+u
+Q
+
+i
+
+e
+t
+a
+u
+d
+a
+r
+g
+
+l
+o
+o
+h
+c
+s
+-
+h
+g
+i
+H
+
+y
+t
+i
+v
+i
+t
+c
+a
+
+l
+a
+c
+i
+s
+y
+h
+p
+h
+g
+i
+H
+
+r
+e
+k
+o
+m
+
+s
+
+t
+n
+e
+r
+r
+u
+C
+
+y
+p
+a
+r
+e
+h
+t
+
+t
+n
+e
+m
+e
+c
+a
+l
+p
+e
+r
+
+e
+n
+o
+m
+r
+o
+h
+d
+e
+s
+u
+r
+e
+v
+e
+N
+
+d
+e
+i
+r
+r
+a
+m
+y
+l
+t
+n
+e
+r
+r
+u
+C
+
+r
+e
+k
+n
+i
+r
+d
+r
+e
+v
+e
+N
+
+)
+2
+
+m
+/
+g
+k
+(
+
+I
+
+M
+B
+
+)
+s
+r
+a
+e
+y
+(
+
+e
+g
+A
+
+n
+a
+e
+M
+
+R
+H
+W
+
+t
+n
+e
+c
+r
+e
+P
+
+)
+n
+o
+i
+t
+a
+l
+u
+p
+o
+p
+0
+0
+0
+0
+1
+.
+
+,
+
+(
+
+e
+c
+n
+e
+d
+i
+s
+e
+r
+n
+a
+b
+r
+U
+
+7
+9
+9
+1
+–
+6
+8
+9
+1
+
+,
+
+n
+e
+m
+o
+w
+a
+w
+o
+I
+8
+8
+9
+5
+3
+g
+n
+o
+m
+a
+
+,
+
+e
+k
+a
+t
+n
+i
+
+t
+a
+f
+
+y
+r
+a
+t
+e
+i
+d
+
+*
+d
+e
+t
+s
+u
+j
+d
+a
+-
+y
+g
+r
+e
+n
+e
+
+o
+t
+
+g
+n
+i
+d
+r
+o
+c
+c
+a
+
+s
+e
+t
+e
+b
+a
+i
+d
+
+r
+o
+f
+
+s
+r
+o
+t
+c
+a
+f
+
+k
+s
+i
+r
+
+e
+n
+i
+l
+e
+s
+a
+b
+
+f
+o
+n
+o
+i
+t
+u
+b
+i
+r
+t
+s
+i
+D
+—
+1
+
+e
+l
+b
+a
+T
+
+6
+8
+0
+
+.
+
+0
+4
+0
+
+.
+
+.
+
+6
+0
+0
+2
+
+3
+4
+0
+
+.
+
+.
+
+1
+1
+0
+2
+
+2
+5
+0
+
+.
+
+.
+
+0
+3
+0
+2
+
+.
+
+2
+4
+0
+2
+
+0
+1
+
+.
+
+7
+6
+0
+
+.
+
+5
+3
+0
+
+.
+
+6
+8
+0
+
+.
+
+.
+
+3
+2
+0
+2
+
+0
+6
+0
+
+.
+
+.
+
+7
+0
+0
+2
+
+8
+0
+0
+
+.
+
+8
+5
+0
+
+.
+
+0
+1
+
+.
+
+9
+2
+0
+
+.
+
+0
+4
+0
+
+.
+
+.
+
+7
+0
+0
+2
+
+0
+2
+0
+
+.
+
+.
+
+5
+0
+0
+2
+
+0
+1
+
+.
+
+0
+5
+0
+
+.
+
+5
+2
+0
+
+.
+
+3
+3
+0
+
+.
+
+2
+6
+0
+
+.
+
+.
+
+3
+2
+0
+2
+
+.
+
+6
+1
+0
+2
+
+.
+
+0
+2
+0
+2
+
+6
+0
+0
+
+.
+
+.
+
+9
+1
+0
+2
+
+6
+9
+0
+
+.
+
+0
+7
+0
+
+.
+
+3
+4
+0
+
+.
+
+0
+1
+
+.
+
+7
+4
+0
+
+.
+
+.
+
+3
+0
+0
+2
+
+0
+1
+
+.
+
+2
+8
+0
+
+.
+
+0
+1
+
+.
+
+0
+1
+
+.
+
+s
+d
+i
+c
+a
+
+y
+t
+t
+a
+f
+d
+e
+t
+a
+r
+u
+t
+a
+s
+n
+u
+y
+l
+o
+P
+
+s
+d
+i
+c
+a
+
+y
+t
+t
+a
+f
+d
+e
+t
+a
+r
+u
+t
+a
+S
+
+t
+n
+e
+i
+c
+ﬁ
+f
+e
+o
+c
+n
+o
+i
+t
+a
+l
+e
+r
+r
+o
+C
+
+t
+a
+f
+
+l
+a
+t
+o
+T
+
+0
+1
+
+.
+
+s
+d
+i
+c
+a
+
+0
+1
+
+.
+
+.
+)
+9
+1
+(
+
+r
+e
+f
+p
+m
+a
+t
+S
+d
+n
+a
+
+t
+t
+e
+l
+l
+i
+
+W
+
+f
+o
+
+s
+d
+o
+h
+t
+e
+m
+e
+h
+t
+
+o
+t
+
+i
+
+g
+n
+d
+r
+o
+c
+c
+a
+
+e
+k
+a
+t
+n
+
+i
+
+y
+g
+r
+e
+n
+e
+
+l
+a
+t
+o
+t
+
+r
+o
+f
+d
+e
+t
+s
+u
+d
+A
+*
+
+j
+
+s
+d
+i
+c
+a
+
+y
+t
+t
+a
+f
+
+s
+n
+a
+r
+T
+
+l
+o
+r
+e
+t
+s
+e
+l
+o
+h
+C
+
+t
+a
+f
+
+l
+a
+m
+n
+A
+
+i
+
+t
+a
+f
+
+e
+l
+b
+a
+t
+e
+g
+e
+V
+
+s
+d
+i
+c
+a
+
+y
+t
+t
+a
+f
+d
+e
+t
+a
+r
+u
+t
+a
+s
+n
+u
+o
+n
+o
+M
+
+y
+t
+t
+a
+f
+3
+-
+v
+n
+i
+a
+h
+c
+-
+g
+n
+o
+L
+
+Meyer and Associates
+
+animal and vegetable fat. The Keys score,
+which correlates changes in fatty acid in-
+take with changes in serum cholesterol,
+was calculated as 1.26 (2S 2 P) 1 (Z)1/2,
+where S 5 percent of energy from satu-
+rated fat, P 5 percent of energy from
+polyunsaturated fat, and Z 5 dietary cho-
+lesterol in mg/1,000 kcal (13). A higher
+Keys score corresponds to higher relative
+intake of saturated fat and cholesterol and
+a lower relative intake of polyunsaturated
+fat. We also examined several foods and
+food groups high in dietary fats, including
+total meat, red meat, eggs, nuts, and olive
+oil salad dressing.
+
+A 127-item food-frequency question-
+naire similar to that used in the 1984
+Nurses’ Health Study was used to assess
+typical food intake over the previous year
+(14). The validity of the food-frequency
+questionnaire was evaluated by compar-
+ing nutrient values determined from the
+questionnaire with values estimated from
+the average of ﬁve 24-h dietary recall sur-
+veys in 44 study participants (15). Ener-
+gy-adjusted Pearson’s correlation
+coefﬁcients were 0.62, 0.59, 0.62, 0.43,
+and 0.21 for total fat, saturated fat, mono-
+unsaturated fat, polyunsaturated fat, and
+cholesterol, respectively. Correlation co-
+efﬁcients were not calculated for other fat
+variables.
+
+Diabetes incidence was determined
+by an afﬁrmative response to the follow-
+ing question, which was on all of the fol-
+low-up mailed surveys: “Since baseline or
+respective follow-up, were you diagnosed
+for the ﬁrst time by a doctor as having
+sugar diabetes?” During 11 years of fol-
+low-up, 1,890 women reported incident
+diabetes in the four follow-up surveys ad-
+ministered in 1987 (n 5 344), 1989 (n 5
+331), 1992 (n 5 466), and 1997 (n 5
+749). Response rates for the four fol-
+low-up surveys were 91, 89, 86, and 79%,
+respectively.
+
+A validation study of self-reported di-
+abetes was conducted on 85 cohort par-
+ticipants in 1988 after the ﬁrst follow-up
+survey. Subjects tended to over-report
+having diabetes; of 44 women who re-
+ported having diabetes at baseline, 28
+(64%) were conﬁrmed as having diabetes
+by their physician. All 41 women who re-
+ported not having diabetes at baseline were
+conﬁrmed as not having diabetes (16).
+
+Statistical analysis
+For women who did not report a diagno-
+sis of diabetes, person-time-at-risk was
+
+DIABETES CARE, VOLUME 24, NUMBER 8, AUGUST 2001
+
+1529
+
+Dietary fat and diabetes
+
+calculated from baseline to the date of the
+last completed follow-up survey. For
+women who reported a diagnosis of dia-
+betes, person-time was calculated as the
+sum of the known disease-free period and
+half of the period during which the diag-
+nosis was made. Mortality status was de-
+termined annually through linkage with
+the State Health Registry of Iowa or, in the
+case of nonrespondents and emigrants
+from Iowa, via the National Death Index.
+Nutrient intakes were adjusted for to-
+tal energy through the residual method (17)
+and divided into quintiles. Trend analyses
+weighted each category of dietary intake
+by the median intake for that category. Cox
+proportional hazards regression models
+provided estimates of rate ratios (RRs).
+The SAS package was used (18); all P val-
+ues were two-sided.
+
+To examine the independent effects
+of speciﬁc fat subtypes, we simultaneous-
+ly adjusted for all fat subtypes. Because we
+adjusted for dietary protein, the regres-
+sion coefﬁcients are an estimate of the ef-
+fect of substituting a speciﬁc fat subtype
+for carbohydrates in the diet. We further
+examined substituting one fat subtype for
+another by including total fat and all fat
+subtypes except the subtype for which we
+substituted (19).
+
+RESULTS — The distributions of sev-
+eral known risk factors for diabetes and
+correlation coefﬁcients among dietary fat
+variables are presented in Table 1.
+Women in the highest category of satu-
+rated, monounsaturated, trans fatty acids,
+and animal fat had a higher BMI and
+WHR, but they consumed less alcohol
+and engaged in less physical activity. For
+cholesterol, these relations were similar
+but not as pronounced. The risk-factor
+differences among categories of polyun-
+saturated and v-3 fatty acids and vegeta-
+ble fat were not extreme. Overall, 99% of
+the population was non-Hispanic white
+and 95% were of Protestant or Catholic
+religious faith; these distributions did not
+vary according to fat intake. Positive cor-
+relations were evident between total and
+saturated fat, total and monounsaturated
+fat, animal and saturated fat, and vegeta-
+ble and polyunsaturated fat.
+
+After adjusting for nondietary factors
+in a multivariate regression analysis, total
+dietary fat, saturated fatty acids, and
+monounsaturated fatty acids were not re-
+lated to incident diabetes (Table 2). Ani-
+mal fat, cholesterol, the Keys score, and
+
+v-3 fatty acids were positively correlated
+to diabetes. Comparing the highest with
+the lowest levels of intake, animal fat was
+associated with a 20% increase in incident
+diabetes (RR 1.19 and 95% CI 1.02–
+1.39). Comparing the highest with the
+lowest quintiles of intake, diabetes inci-
+dence increased with dietary cholesterol
+intake and the Keys score (1.24, 1.07–
+1.43) and (1.27, 1.08 –1.49), respective-
+ly. There were inverse relations with poly-
+unsaturated fatty acids and trans fatty
+acids and vegetable fat. Relative risks
+among quintiles of intake were 1.0, 0.93,
+0.90, 0.84, and 0.87 (P 5 0.03) and 1.0,
+0.88, 0.84, 0.81, and 0.78 (P 5 0.0007)
+for polyunsaturated fatty acids and vege-
+table fat, respectively.
+
+We further adjusted for dietary mag-
+nesium and cereal ﬁber (Table 2), both of
+which were inversely related to diabetes
+incidence in this population (20). After
+this adjustment, animal fat was no longer
+related to diabetes risk (P 5 0.24). Also
+attenuated were relations with dietary
+cholesterol and the Keys score. Compar-
+ing the highest to the lowest category of
+intake, the RRs for cholesterol and the
+Keys score were 1.17 (95% CI 1.01–1.37)
+and 1.17 (0.99 –1.38), respectively.
+
+After simultaneous adjustment for
+other dietary fat subtypes, vegetable fat
+remained clearly associated with type 2
+diabetes (Table 3). Relative risks across
+quintiles of vegetable fat intake were 1.00,
+0.90, 0.87, 0.84, and 0.82 (P 5 0.02),
+and they did not change appreciably after
+further adjustment for vitamin E. When
+we substituted polyunsaturated fatty ac-
+ids for saturated fatty acids and vegetable
+fat for animal fat, we found that they were
+inversely related to diabetes risk. RRs
+across polyunsaturated fat intake were
+1.0, 0.92, 0.89, 0.83, and 0.84 (P 5
+0.02). Comparing the highest to the low-
+est category of vegetable intake, the RR
+was 0.78 (95% CI 0.67– 0.91).
+
+We analyzed foods and food groups
+that contribute to fat intake. Total meat
+intake was positively correlated to diabe-
+tes risk. Relative risks across categories of
+intake were 1.0, 1.04, 1.07, 1.15, and
+1.35 (P 5 0.0004). After adjustment for
+vegetable fat and dietary cholesterol, mag-
+nesium, and cereal ﬁber, the relative risks
+across categories of intake were 1.0, 1.01,
+1.02, 1.06, and 1.19 (P 5 0.07). Eggs
+were also positively correlated to diabetes
+risk, with RRs across categories of intake
+of 1.0, 1.01, 1.11, and 1.21 (P 5 0.02).
+
+This relation was eliminated after the ad-
+justment for dietary cholesterol (P 5
+0.99). Foods high in vegetable fat, such as
+nuts, olive oil dressing, and margarine
+were not clearly related to diabetes risk.
+There was no evidence in these data
+for modiﬁcation of the relation between
+vegetable fat and diabetes by BMI. The
+relative risks for increasing vegetable fat
+intake roughly indicated a 20% reduction
+in diabetes when comparing the highest
+and lowest tertiles of vegetable fat in both
+the lowest and highest BMI tertiles. Simi-
+larly, we did not ﬁnd support for effect
+modiﬁcation by physical activity, alcohol
+consumption, or vitamin E intake.
+
+CONCLUSIONS — Data from this
+prospective study of older women indi-
+cate that the composition of dietary fat
+may play a role in the development of type
+2 diabetes. After adjusting for potential
+confounding variables and animal fat, we
+found an inverse relation between vegeta-
+ble fat and incident type 2 diabetes. Poly-
+unsaturated fatty acid was inversely
+related to diabetes risk when substituted
+for saturated fatty acid, and the Keys di-
+etary score was positively correlated to
+diabetes.
+
+There was no relation between di-
+etary fat and diabetes in several prospec-
+tive studies, which was consistent with
+our ﬁndings (5– 8). Among 1,462 Swed-
+ish women, the mean intake of total di-
+etary fat (based on a diet history) did not
+differ for women who did and did not go
+on to develop diabetes (7). The percent of
+energy derived from fat did not differ
+among Pima Indian women who devel-
+oped diabetes compared with those who
+remained disease free (6).
+
+However, other prospective studies
+have shown a positive correlation be-
+tween diabetes and total dietary fat.
+Among subjects with impaired glucose
+tolerance (IGT), total dietary fat (assessed
+by 24-h recall) predicted conversion to
+diabetes within 1–3 years (21). In two co-
+horts of the Seven Countries Study, the
+percent of energy from fat predicted dia-
+betes and was positively correlated to
+postload glucose levels after 20 years of
+follow-up (22).
+
+Results from cross-sectional studies
+have been similarly mixed. A positive cor-
+relation between insulin sensitivity, de-
+rived from postload insulin and glucose
+measurements, and total dietary fat,
+which was reported by Lovejoy and DiGi-
+
+1530
+
+DIABETES CARE, VOLUME 24, NUMBER 8, AUGUST 2001
+
+Table 2—Multivariate-adjusted relative risks of incident diabetes across quintiles of dietary fat variables among 35,988 Iowa women,
+1986 –1992
+
+Meyer and Associates
+
+Variable
+
+Total dietary fat
+
+Median intake (g/day)
+Cases
+Relative risk* (95% CI)
+Relative risk† (95% CI)
+
+Saturated fatty acids
+
+Median intake (g/day)
+Cases
+Relative risk* (95% CI)
+Relative risk† (95% CI)
+Polyunsaturated fatty acids
+
+Median intake (g/day)
+Cases
+Relative risk* (95% CI)
+Relative risk† (95% CI)
+
+Monounsaturated fatty acids
+
+Median intake (g/day)
+Cases
+Relative risk* (95% CI)
+Relative risk† (95% CI)
+Long-chain v-3 fatty acids
+
+Median intake (g/day)
+Cases
+Relative risk* (95% CI)
+Relative risk† (95% CI)
+
+Trans fatty acids
+Median intake
+Cases
+Relative risk* (95% CI)
+Relative risk† (95% CI)
+
+Cholesterol
+
+Median intake (mg/day)
+Cases
+Relative risk* (95% CI)
+Relative risk† (95% CI)
+
+Keys score
+Median
+Cases
+Relative risk* (95% CI)
+Relative risk† (95% CI)
+
+Animal fat
+
+Median intake (g/day)
+Cases
+Relative risk* (95% CI)
+Relative risk† (95% CI)
+
+Vegetable fat
+
+Median intake (g/day)
+Cases
+Relative risk* (95% CI)
+Relative risk† (95% CI)
+
+2
+
+56.1
+351
+
+Quintile of Intake
+
+3
+
+60.1
+380
+
+4
+
+66.8
+387
+
+P for
+trend
+
+5
+
+86.6
+440
+
+1.04 (0.88–1.21)
+1.00 (0.85–1.17)
+
+1.01 (0.86–1.18)
+0.95 (0.81–1.11)
+
+1.02 (0.87–1.19)
+0.93 (0.79–1.10)
+
+1.04 (0.89–1.21)
+0.89 (0.75–1.05)
+
+0.69
+0.11
+
+19.2
+342
+
+20.4
+386
+
+23.2
+432
+
+31.8
+417
+
+1.07 (0.91–1.26)
+1.05 (0.89–1.24)
+
+1.10 (0.94–1.30)
+1.06 (0.90–1.25)
+
+1.16 (1.00–1.36)
+1.10 (0.94–1.29)
+
+1.11 (0.95–1.29)
+1.00 (0.85–1.18)
+
+0.14
+0.91
+
+9.2
+
+372
+
+10.4
+369
+
+12.2
+351
+
+16.6
+386
+
+0.93 (0.80–1.08)
+0.94 (0.81–1.08)
+
+0.90 (0.78–1.05)
+0.91 (0.78–1.06)
+
+0.84 (0.73–0.98)
+0.85 (0.73–0.99)
+
+0.87 (0.75–1.00)
+0.88 (0.76–1.02)
+
+0.03
+0.05
+
+20.9
+354
+
+22.7
+378
+
+25.7
+368
+
+33.8
+454
+
+1.01 (0.86–1.18)
+0.99 (0.84–1.16)
+
+1.05 (0.90–1.23)
+1.01 (0.86–1.19)
+
+0.95 (0.81–1.11)
+0.90 (0.76–1.06)
+
+1.06 (0.91–1.23)
+0.96 (0.82–1.13)
+
+0.58
+0.48
+
+0.09
+
+360
+
+0.13
+
+358
+
+0.20
+
+345
+
+0.39
+
+440
+
+0.97 (0.83–1.12)
+0.98 (0.84–1.14)
+
+0.99 (0.85–1.16)
+1.01 (0.87–1.18)
+
+0.97 (0.83–1.13)
+0.99 (0.85–1.15)
+
+1.15 (1.00–1.33)
+1.20 (1.03–1.39)
+
+0.02
+0.006
+
+2.4
+
+388
+
+2.8
+
+379
+
+3.5
+
+360
+
+5.2
+
+400
+
+1.01 (0.87–1.18)
+0.99 (0.85–1.15)
+
+0.93 (0.80–1.09)
+0.90 (0.77–1.05)
+
+0.86 (0.74–1.01)
+0.82 (0.70–0.97)
+
+0.88 (0.76–1.03)
+0.83 (0.70–0.97)
+
+0.03
+0.004
+
+201
+301
+
+237
+368
+
+281
+402
+
+382
+494
+
+1
+
+55.7
+332
+
+1.00
+1.00
+
+19.3
+313
+
+1.00
+1.00
+
+8.9
+
+412
+
+1.00
+1.00
+
+20.4
+336
+
+1.00
+1.00
+
+0.03
+
+387
+
+1.00
+1.00
+
+2.2
+
+363
+
+1.00
+1.00
+
+185
+325
+
+1.00
+1.00
+
+0.87 (0.74–1.03)
+0.86 (0.73–1.01)
+
+1.07 (0.91–1.25)
+1.04 (0.89–1.22)
+
+1.10 (0.94–1.28)
+1.06 (0.91–1.24)
+
+1.24 (1.07–1.43)
+1.17 (1.01–1.37)
+
+0.0001
+0.002
+
+31.4
+283
+
+1.00
+1.00
+
+29.1
+317
+
+1.00
+1.00
+
+18.6
+434
+
+37.4
+346
+
+41.6
+400
+
+46.0
+422
+
+53.2
+439
+
+1.14 (0.97–1.34)
+1.12 (0.95–1.32)
+
+1.21 (1.03–1.42)
+1.17 (1.00–1.37)
+
+1.25 (1.07–1.46)
+1.19 (1.01–1.39)
+
+1.27 (1.08–1.49)
+1.17 (0.99–1.38)
+
+0.002
+0.06
+
+29.8
+344
+
+33.7
+364
+
+40.4
+416
+
+56.8
+449
+
+1.08 (0.92–1.27)
+1.06 (0.90–1.25)
+
+1.08 (0.92–1.27)
+1.04 (0.89–1.23)
+
+1.17 (1.01–1.37)
+1.12 (0.95–1.31)
+
+1.19 (1.02–1.39)
+1.09 (0.93–1.28)
+
+0.01
+0.24
+
+20.2
+377
+
+23.7
+358
+
+29.2
+349
+
+41.7
+372
+
+1.00
+1.00
+
+0.88 (0.76–1.02)
+0.86 (0.76–1.03)
+
+0.0007
+0.001
+*Proportional hazards regression models were adjusted for age, total energy, WHR (quintiles: ,0.762, 0.763– 0.805, 0.806 – 0.848, 0.849 – 0.901, .0.901), BMI
+(quintiles: ,22.7, 22.7–24.8, 24.9 –27.0, 27.1–30.2, .30.2), physical activity (four levels each for frequency of vigorous and moderate activity: never or rarely, a
+few times a year, from a few times a month to about once a week, or 2 times a week or more), cigarette smoking (none, 1–19 pack-years, 20 –39 pack-years or $40
+pack-years), alcohol consumption (none, ,4 g per day, from 4 –10 g per day, or $10 g per day), education (no high school diploma, high school diploma, college
+or vocational school but no degree, or college degree), marital status (currently married, never married, separated or divorced, or widowed), residential area (farm,
+rural or small town with population up to 2,499, town of population from 2,500 –10,000 or city or town with population .10,000), and hormone replacement
+therapy (current, former, or never). †Additionally adjusted for energy-adjusted dietary magnesium (quintiles) and cereal ﬁber (quintiles).
+
+0.84 (0.73–0.98)
+0.85 (0.73–0.99)
+
+0.81 (0.69–0.94)
+0.81 (0.70–0.95)
+
+0.78 (0.68–0.91)
+0.79 (0.68–0.92)
+
+DIABETES CARE, VOLUME 24, NUMBER 8, AUGUST 2001
+
+1531
+
+Dietary fat and diabetes
+
+Table 3—Multivariate-adjusted* relative risks of incident diabetes across quintiles of dietary fat variables among 35,988 Iowa women,
+1986 –1992
+
+Variable
+
+1
+
+2
+
+3
+
+4
+
+5
+
+P for trend
+
+Quintile of Intake
+
+Saturated fatty acids
+
+Relative risk† (95% CI)
+Polyunsaturated fatty acids
+Relative risk† (95% CI)
+Relative risk‡ (95% CI)
+
+Monounsaturated fatty acids
+
+Relative risk† (95% CI)
+Long-chain v-3 fatty acids
+Relative risk† (95% CI)
+
+Trans fatty acids
+
+1.00
+
+1.06 (0.89–1.27)
+
+1.07 (0.89–1.29)
+
+1.11 (0.91–1.36)
+
+0.95 (0.76–1.19)
+
+1.00
+1.00
+
+0.94 (0.81–1.09)
+0.92 (0.79–1.07)
+
+0.93 (0.79–1.08)
+0.89 (0.76–1.04)
+
+0.88 (0.74–1.03)
+0.83 (0.71–0.98)
+
+0.90 (0.75–1.07)
+0.84 (0.71–0.98)
+
+1.00
+
+0.99 (0.83–1.19)
+
+1.03 (0.84–1.27)
+
+0.93 (0.74–1.18)
+
+1.02 (0.78–1.34)
+
+1.00
+
+0.97 (0.83–1.12)
+
+0.99 (0.84–1.15)
+
+0.94 (0.80–1.10)
+
+1.11 (0.94–1.30)
+
+Relative risk† (95% CI)
+
+1.00
+
+1.01 (0.86–1.19)
+
+0.94 (0.79–1.12)
+
+0.88 (0.73–1.06)
+
+0.92 (0.75–1.11)
+
+Cholesterol
+
+Relative risk† (95% CI)
+
+1.00
+
+0.84 (0.71–1.00)
+
+1.02 (0.86–1.22)
+
+1.03 (0.87–1.23)
+
+1.11 (0.92–1.33)
+
+Animal fat
+
+Relative risk§ (95% CI)
+
+1.00
+
+1.04 (0.88–1.22)
+
+0.97 (0.82–1.15)
+
+0.99 (0.83–1.18)
+
+0.89 (0.73–1.07)
+
+Vegetable fat
+
+0.71
+
+0.19
+0.02
+
+0.93
+
+0.14
+
+0.20
+
+0.07
+
+0.18
+
+Relative risk§ (95% CI)
+Relative risk\ (95% CI)
+
+1.00
+1.00
+
+0.90 (0.78–1.04)
+0.88 (0.76–1.02)
+
+0.87 (0.75–1.01)
+0.84 (0.72–0.97)
+
+0.84 (0.72–0.98)
+0.81 (0.6–0.94)
+
+0.82 (0.70–0.97)
+0.78 (0.67–0.91)
+
+0.02
+0.001
+
+*All models included variables listed in Table 2, reference 2 and dietary protein (quintiles); †model included saturated fatty acids, polyunsaturated fatty acids,
+monounsaturated fatty acids, trans fatty acids, v-3 fatty acids, and cholesterol (quintiles); ‡model included total fat, monounsaturated fatty acids, trans fatty acids,
+and v-3 fatty acids quintiles; §model included vegetable fat and animal fat (quintiles); \model included total fat (quintiles).
+
+rolamo (23), was apparent only before ad-
+justing for BMI. Two other studies also
+found no association with fasting insulin
+after accounting for BMI (24,25), whereas
+another study (26) found that total fat was
+unrelated to fasting insulin in univariate
+and multivariate analyses. In contrast,
+several studies (27–30) found a positive
+correlation between total dietary fat and
+fasting or postprandial insulin (indepen-
+dent of BMI) or a negative correlation
+with insulin sensitivity (34).
+
+Our ﬁndings are consistent with
+some, but not all, prospective epidemio-
+logical studies that have examined sub-
+types of dietary fatty acids. In one study,
+vegetable fat and polyunsaturated fatty
+acids were inversely related to incident
+type 2 diabetes among lean women but
+not among obese women (31); saturated
+fatty acids, monounsaturated fatty acids,
+and animal fats were not related to diabe-
+tes. Although statistically nonsigniﬁcant,
+the RRs (0.85 among women and 0.83
+among men comparing the highest with
+the lowest quintile of vegetable fat con-
+sumption) for incident diabetes reported
+in two studies by Salmeron and col-
+leagues (32,33) were strikingly similar to
+ours for vegetable fat. Incident diabetes
+and conversion to diabetes were posi-
+
+tively correlated to saturated fat and un-
+related to polyunsaturated fat in two other
+follow-up studies (21,22). These ﬁndings
+are more in line with those from most
+cross-sectional studies, in which satu-
+rated fat was positively correlated to fast-
+ing insulin (24,26 –29) or area under the
+insulin curve (34) and inversely related to
+insulin sensitivity (34). The ﬁndings for
+polyunsaturated fatty acids from these
+studies were more varied, showing inverse
+(34), positive (27), and no correlation
+(25,28,29,34) with insulin concentra-
+tions or sensitivity.
+
+The inverse relationship between di-
+abetes and vegetable fat remained after
+adjustment for other dietary fat, but that
+for polyunsaturated fatty acids did not.
+Likewise, Salmeron and colleagues
+(32,33) reported no association between
+polyunsaturated fatty acids and diabetes.
+When the highest to the lowest quintiles
+of polyunsaturated fatty acid intake were
+compared, the adjusted relative risks for
+diabetes were 0.97 in women and 1.01 in
+men. Vegetable fat includes fats found in
+nonanimal sources, including fruits and
+vegetables, grains, nuts, and oils. It is pos-
+sible that vegetable fat represents the
+combination of several potentially health-
+ful fat subtypes, including polyunsatu-
+
+rated fatty acids and monounsaturated
+fatty acids, from vegetable sources. Fur-
+thermore, although we considered several
+dietary factors that have been hypothe-
+sized to relate to diabetes risk, such as
+vitamin E, cereal ﬁber, and magnesium,
+vegetable fat will be highly correlated
+with any number of additional nutrients
+that we did not include, which may inﬂu-
+ence diabetes risk.
+
+Although polyunsaturated fatty acids
+were not related to diabetes after adjust-
+ing for all other fatty acids, a true inverse
+relation is possible. It may be argued that
+dietary factors are so highly correlated
+that a high degree of attenuation is inevi-
+table with simultaneous adjustment for
+dietary factors. When substituted for sat-
+urated fatty acids in the diet, polyunsatu-
+rated fatty acids were inversely related to
+diabetes, whereas the Keys score was pos-
+itively correlated to diabetes. These ﬁnd-
+ings are consistent with data from a 10-
+year follow-up study of middle-aged men
+who did and did not develop type 2 dia-
+betes (35). Men who did develop type 2
+diabetes had a higher proportion of satu-
+rated fatty acids and a lower proportion of
+linoleic acid in serum cholesterol esters,
+which in part reﬂects dietary fatty acid
+composition, than men who did not de-
+
+1532
+
+DIABETES CARE, VOLUME 24, NUMBER 8, AUGUST 2001
+
+velop type 2 diabetes (35). A cross-
+sectional study of 45 subjects found no
+relationship between insulin sensitivity
+and the ratio of dietary polyunsaturated
+fatty acids to saturated fatty acids (23).
+
+Feeding studies support a positive
+correlation between monounsaturated
+fatty acid intake and insulin sensitivity
+(36 –39). In our study population, mono-
+unsaturated fatty acid consumption was
+more highly correlated with saturated and
+animal fat consumption (correlation coef-
+ﬁcients 0.70 and 0.62, respectively) than
+with polyunsaturated and vegetable fat
+consumption (correlation coefﬁcients
+0.43 and 0.29, respectively). This may
+limit our ability to isolate the effects of
+individual fats; it underscores the impor-
+tance of the speciﬁc dietary characteristics
+of studied populations. Such correlations
+will be somewhat population-speciﬁc;
+they may have contributed to the positive
+associations between monounsaturated
+fat and incident diabetes (22), to the pro-
+gression to diabetes from IGT (21), and to
+fasting insulin (27,28) in some studies,
+but the inverse relation with insulin sen-
+sitivity (34) appears in other studies.
+
+In our study, diabetes was positively
+correlated to dietary cholesterol and the
+Keys score. Similarly, Feskens et al. (22)
+found a positive correlation between di-
+etary cholesterol and 20-year diabetes in-
+cidence in two Seven Countries Study
+cohorts. Conversely, two cross-sectional
+studies found no association between di-
+etary cholesterol and fasting or postpran-
+dial insulin (26,34). It is unclear how
+dietary cholesterol may affect diabetes in-
+cidence, and our ﬁndings should be inter-
+preted with caution, particularly because
+the association was attenuated after ad-
+justment for other dietary fat variables.
+
+Dietary cholesterol is related to serum
+cholesterol levels to some extent (40), and
+it is possible that changes in serum cho-
+lesterol explain the association between
+dietary cholesterol and diabetes risk (40).
+Our ﬁndings for the Keys score are con-
+sistent with the ﬁnding that the Keys di-
+etary score indicates positive changes in
+serum cholesterol predicted by positive
+changes in dietary cholesterol and satu-
+rated fatty acids and negative changes in
+polyunsaturated fatty acids (13). In two
+other studies, the univariate or age-
+adjusted rate of incident diabetes was
+50% greater in the highest than in the
+lowest category of serum cholesterol, al-
+though the estimate from only one study
+
+was statistically signiﬁcant (5,8). How-
+ever, it is difﬁcult to distinguish the rela-
+tions between the Keys score and serum
+cholesterol from the relation between the
+Keys score and saturated and polyunsat-
+urated fatty acid intake, for which the ev-
+idence of an association with diabetes is
+far more compelling.
+
+Differential intakes of dietary fat sub-
+types may affect diabetes risk by modify-
+ing the fatty acid composition of the
+phospholipid membrane, which may play
+a role in blood glucose regulation through
+effects on insulin secretion, insulin recep-
+tor properties, and glucose transport.
+Borkman et al. (41) reported signiﬁcant
+inverse relations between fasting serum
+insulin and the content of v-3 and v-6
+fatty acids within skeletal-muscle phos-
+pholipids. Compared with saturated fatty
+acids, polyunsaturated fatty acids appear
+to enhance insulin secretion (42), and sat-
+urated fatty acids have been shown to de-
+crease insulin binding to receptors and to
+impair glucose transport (9).
+
+Error in the measurement of diet, di-
+abetes, and covariates in this study may
+have limited our ability to obtain accurate
+relative-risk estimates. Random measure-
+ment error in dietary exposures most fre-
+quently attenuates risk estimates (43). Of
+particular interest is the potential for mis-
+classiﬁcation of trans fatty acid intake that
+resulted from temporal changes in the
+consumption and manufacturing patterns
+of trans fatty acids in the U.S. during the
+1980s, when many consumers switched
+to soft, reduced trans fat margarine and
+industry ceased the partial hydrogenation
+of household salad and cooking oils (44).
+These changes could have resulted in a
+large misclassiﬁcation of trans fatty acid
+intake in our population.
+
+The validation study correlation coef-
+ﬁcient for cholesterol was quite low
+(0.21). This did not prevent us from de-
+tecting an association between cholesterol
+and diabetes, but it may reﬂect a degree of
+random error in this variable that pre-
+vented us from detecting a truly larger
+magnitude of association. Our validation
+sample was quite small (n 5 44), and it is
+possible that our sample was aberrant;
+correlations for other fat variables were
+similar to those obtained in another large
+study of women, in which the correlation
+coefﬁcient for cholesterol was 0.61 (14).
+Incident cases of diabetes were ascer-
+tained by self-report. Our validation
+study (see above) suggested that partici-
+
+Meyer and Associates
+
+pants over-reported diabetes compared
+with physician diagnoses (16). This is
+consistent with ﬁndings from one study
+(45) in which 29 of 44 (66%) positive
+reports of diabetes were validated with
+medical records. Nonvalidated positive
+reports may nonetheless reﬂect some level
+of diabetes. One study found that several
+persons with nonvalidated positive re-
+ports of diabetes had some history of
+glycosuria (46). Thus, nondiabetic con-
+centrations of blood glucose may not be
+entirely benign, and women who falsely
+reported a diagnosis of diabetes may still
+have some level of underlying disease,
+such as IGT. This possibility is supported
+by the change in the diagnostic criteria for
+diabetes to lower levels of fasting glucose
+(47). The ascertainment of diabetes in the
+present study was sensitive enough to
+conﬁrm associations with other risk fac-
+tors for diabetes (i.e., weight [16], physi-
+cal activity [48], and dietary ﬁber [20])
+obtained from studies with validated dia-
+betes. Assuming that the error in diabetes
+ascertainment was independent and non-
+differential, present ﬁndings would only
+be strengthened by more accurate ascer-
+tainment of disease.
+
+Dietary fat may contribute to the eti-
+ology of type 2 diabetes. After adjusting
+for nondietary and dietary covariates, we
+found that vegetable fat was inversely re-
+lated to incident diabetes in this popula-
+tion of older Iowa women. In addition,
+substituting polyunsaturated fatty acids
+for saturated fatty acids appeared to re-
+duce the rate of diabetes.
+
+Acknowledgments— The Iowa Women’s
+Health Study was funded by a grant (RO1
+CA39742) from the National Cancer Institute.
+
+References
+1. The American Diabetes Association: Nu-
+trition recommendations and principles
+for people with diabetes mellitus (Posi-
+tion Statement). Diabetes Care 17:519 –
+522, 1994
+
+2. Kawate R, Yamakido M, Nishimoto Y,
+Bennett PH, Hamman RF, Knowler WC:
+Diabetes mellitus and its vascular compli-
+cations in Japanese migrants on the island
+of Hawaii. Diabetes Care 2:161–170, 1979
+3. Tsunehara CH, Leonetti DL, Fujimoto
+WY: Diet of second-generation Japanese-
+American men with and without non-in-
+sulin-dependent diabetes. Am J Clin Nutr
+52:731–738, 1990
+
+4. Marshall JA, Hamman RF, Baxter J: High-
+
+DIABETES CARE, VOLUME 24, NUMBER 8, AUGUST 2001
+
+1533
+
+Dietary fat and diabetes
+
+fat, low-carbohydrate diet and the etiology
+of non-insulin-dependent diabetes melli-
+tus: the San Luis Valley Diabetes Study.
+Am J Epidemiol 134:590 – 603, 1991
+
+5. Medalie JH, Papier C, Herman JB, Gold-
+bourt U, Tamir S, Neufeld HN, Riss E:
+Diabetes mellitus among 10,000 adult
+men. I. Five-year incidence and associated
+variables. Isr J Med Sci 10:681–697, 1974
+
+6. Bennett PH, Knowler WC, Baird HR,
+Butler WJ, Pettitt DJ, Reid JM: Diet and
+development of noninsulin-dependent
+diabetes mellitus: an epidemiological per-
+spective. In Diet, Diabetes, and Atheroscle-
+rosis. Pozza G, Micossi P, Catapano AL,
+Paoletti R, Eds. New York, Raven Press
+1984, p. 109 –119
+
+7. Lundgren H, Bengtsson C, Blohme G,
+Isaksson B, Lapidus L, Lenner RA, Saaek
+A, Winther E: Dietary habits and inci-
+dence of noninsulin-dependent diabetes
+mellitus in a population study of women
+in Gothenburg Sweden. Am J Clin Nutr
+49:708 –712, 1989
+
+8. Feskens EJ, Kromhout D: Cardiovascular
+risk factors and the 25-year incidence
+of diabetes mellitus in middle-aged men:
+the Zutphen Study. Am J Epidemiol 130:
+1101–1108, 1989
+
+9. Pelikanova T, Kohout M, Valek J, Base J,
+Kazdova L: Insulin secretion and insulin
+action related to the serum phospholipid
+fatty acid pattern in healthy men. Metab-
+olism 38:188 –192, 1989
+
+10. Boden G: Fatty acids and insulin resis-
+
+tance. Diabetes Care 19:394 –395, 1996
+
+11. Folsom AR, Prineas RJ, Kaye SA, Soler JT:
+Body fat distribution and self-reported
+prevalence of hypertension, heart attack,
+and other heart disease in older women.
+Int J Epidemiol 18:361–367, 1989
+
+12. Kushi LH, Kaye SA, Folsom AR, Soler JT,
+Prineas RJ: Accuracy and reliability of self-
+measurement of body girths. Am J Epide-
+miol 128:740 –748, 1988
+
+13. Keys A, Anderson JT, Grande F: Serum
+cholesterol response to changes in the
+diet. IV. Particular saturated fatty acids in
+the diet. Metabolism 14:776 –786, 1965
+
+14. Willett WC, Sampson L, Stampfer MJ,
+Rosner B, Bain C, Witschi J, Hennekens
+CH, Speizer FE: Reproducibility and
+validity of a semiquantitative food fre-
+quency questionnaire. Am J Epidemiol 122:
+51– 65, 1985
+
+15. Munger RG, Folsom AR, Kushi LH, Kaye
+SA, Sellers TA: Dietary assessment of
+older Iowa women with a food frequency
+questionnaire: nutrient intake, reproduc-
+ibility, and comparison with 24-hour di-
+etary recall
+interviews. Am J Epidemiol
+136:192–200, 1992
+
+16. Kaye SA, Folsom AR, Sprafka JM, Prineas
+RJ, Wallace RB: Increased incidence of di-
+abetes mellitus in relation to abdominal
+adiposity in older women. J Clin Epidemiol
+
+44:329 –334, 1991
+
+17. Willett WC, Stampfer MJ: Total energy
+intake:
+implications for epidemiologic
+analysis. Am J Epidemiol 124:17–27, 1986
+18. SAS Institute: SAS Release 6.9. Cary, NC,
+
+SAS Inst., 1997
+
+19. Willett WC. Nutritional Epidemiology. 2nd
+ed. New York, Oxford University Press,
+1998
+
+20. Meyer K, Kushi L, Jacobs D, Slavin J, Sell-
+ers T, Folsom A: Carbohydrates, dietary
+ﬁber, and incident type 2 diabetes in older
+women. Am J Clin Nutr 71:921–930, 2000
+21. Marshall JA, Hoag S, Shetterly S, Ham-
+man RF: Dietary fat predicts conver-
+sion from impaired glucose tolerance to
+NIDDM: the San Luis Valley Diabetes
+Study. Diabetes Care 17:50 –56, 1994
+
+22. Feskens EJ, Virtanen SM, Rasanen L,
+Tuomilehto J, Stengard J, Pekkanen J,
+Nissinen A, Kromhout D: Dietary factors
+determining diabetes and impaired glu-
+cose tolerance: a 20-year follow-up of the
+Finnish and Dutch cohorts of the Seven
+Countries Study. Diabetes Care 18:1104 –
+1112, 1995
+
+23. Lovejoy J, DiGirolamo M: Habitual die-
+tary intake and insulin sensitivity in lean
+and obese adults. Am J Clin Nutr 55:
+1174 –1179, 1992
+
+24. Parker DR, Weiss ST, Troisi R, Cassano
+PA, Vokonas PS, Landsberg L: Relation-
+ship of dietary saturated fatty acids and
+body habitus to serum insulin concentra-
+tions: the Normative Aging Study. Am J
+Clin Nutr 58:129 –136, 1993
+
+25. Mayer-Davis EJ, Monaco JH, Hoen HM,
+Carmichael S, Vitolins MZ, Rewers MJ,
+Haffner SM, Ayad MF, Bergman RN,
+Karter AJ: Dietary fat and insulin sensitiv-
+ity in a triethnic population: the role of
+obesity: the Insulin Resistance Athero-
+sclerosis Study (IRAS). Am J Clin Nutr 65:
+79 – 87, 1997
+
+26. Manolio TA, Savage PJ, Burke GL, Hilner
+JE, Liu K, Orchard TJ, Sidney S, Oberman
+A: Correlates of fasting insulin levels in
+young adults: the CARDIA study. J Clin
+Epidemiol 44:571–578, 1991
+
+27. Mayer EJ, Newman B, Quesenberry CP
+Jr., Selby JV: Usual dietary fat intake and
+insulin concentrations in healthy women
+twins. Diabetes Care 16:1459–1469, 1993
+28. Vitelli LL, Folsom AR, Shahar E: Associa-
+tion of dietary composition with fasting
+serum insulin level: the ARIC Study. Nutr
+Metab Cardiovasc Dis 6:194 –202, 1996
+
+29. Marshall JA, Bessesen DH, Hamman RF:
+High saturated fat and low starch and ﬁ-
+bre are associated with hyperinsulinaemia
+in a non-diabetic population: the San Luis
+Valley Diabetes Study. Diabetologia 40:
+430 – 438, 1997
+
+30. Mooy JM, Grootenhuis PA, de Vries H,
+Bouter LM, Kostense PJ, Heine RJ: Deter-
+minants of speciﬁc serum insulin concen-
+
+trations in a general Caucasian population
+aged 50 to 74 years (the Hoorn Study).
+Diabet Med 15:45–52, 1998
+
+31. Colditz GA, Manson JE, Stampfer MJ,
+Rosner B, Willett WC, Speizer FE: Diet
+and risk of clinical diabetes in women.
+Am J Clin Nutr 55:1018 –1023, 1992
+
+32. Salmeron J, Ascherio A, Rimm EB, Colditz
+GA, Spiegelman D, Jenkins DJ, Stampfer
+MJ, Wing AL, Willett WC: Dietary ﬁber,
+glycemic load, and risk of NIDDM in
+men. Diabetes Care 20:545–550, 1997
+
+33. Salmeron J, Manson JE, Stampfer MJ,
+Colditz GA, Wing AL, Willett WC: Di-
+etary ﬁber, glycemic load, and risk of non-
+insulin-dependent diabetes mellitus in
+women. JAMA 277:472– 477, 1997
+
+34. Feskens EJ, Loeber JG, Kromhout D: Diet
+and physical activity as determinants of
+hyperinsulinemia: the Zutphen Elderly
+Study. Am J Epidemiol 140:350–360, 1994
+35. Vessby B, Aro A, Skarfors E, Berglund L,
+Salminen I, Lithell H: The risk to develop
+NIDDM is related to the fatty acid compo-
+sition of the serum cholesterol esters. Di-
+abetes 43:1353–1357, 1994
+
+36. Uusitupa M, Schwab U, Makimattila S,
+Karhapaa P, Sarkkinen E, Maliranta H,
+Agren J, Penttila I: Effects of two high-fat
+diets with different fatty acid composi-
+tions on glucose and lipid metabolism in
+healthy young women. Am J Clin Nutr 59:
+1310 –1316, 1994
+
+37. Garg A, Bantle JP, Henry RR, Coulston
+AM, Griver KA, Raatz SK, Brinkley L,
+Chen YD, Grundy SM, Huet BA: Effects of
+varying carbohydrate content of diet in
+patients with non-insulin-dependent di-
+abetes mellitus. JAMA 271:1421–1428,
+1994
+
+38. Parillo M, Rivellese AA, Ciardullo AV, Ca-
+paldo B, Giacco A, Genovese S, Riccardi
+G: A high-monounsaturated-fat/low-car-
+bohydrate diet improves peripheral insu-
+lin sensitivity in non-insulin-dependent
+diabetic patients. Metabolism 41:1373–
+1378, 1992
+
+39. Christiansen E, Schnider S, Palmvig B,
+Tauber-Lassen E, Pedersen O: Intake of a
+diet high in trans monounsaturated fatty
+acids or saturated fatty acids: effects on
+postprandial insulinemia and glycemia in
+obese patients with NIDDM. Diabetes
+Care 20:881– 887, 1997
+
+40. Clarke R, Frost C, Collins R, Appleby P,
+Peto R: Dietary lipids and blood choles-
+terol: quantitative meta-analysis of meta-
+bolic ward studies. BMJ 314:112–117,
+1997
+
+41. Borkman M, Storlien LH, Pan DA, Jenkins
+AB, Chisholm DJ, Campbell LV: The rela-
+tion between insulin sensitivity and the
+fatty-acid composition of skeletal-muscle
+phospholipids. N Engl J Med 328:238 –
+244, 1993
+
+1534
+
+DIABETES CARE, VOLUME 24, NUMBER 8, AUGUST 2001
+
+Meyer and Associates
+
+42. Lardinois C, Starich G, Mazzaferri E,
+DeLett A: Polyunsaturated fatty acids aug-
+ment insulin secretion. J Am Coll Nutr
+6:507–515, 1987
+
+43. Beaton GH: Approaches to analysis of di-
+etary data: relationship between planned
+analyses and choice of methodology. Am J
+Clin Nutr 59 (Suppl. 1):253S–261S, 1994
+44. Hunter JE, Applewhite TH: Reassessment
+of trans fatty acid availability in the US diet.
+Am J Clin Nutr 54:363–369, 1991
+
+45. Tretli S, Lund-Larsen P, Foss O: Reliabil-
+ity of questionnaire information on car-
+diovascular disease and diabetes: cardio-
+vascular disease study in Finnmark county.
+J Epidemiol Community Health 36:269 –
+273, 1982
+
+46. Midthjell K, Holmen J, Bjorndal A, Lund-
+Larsen G: Is questionnaire information
+valid in the study of a chronic disease such
+as diabetes?: The Nord-Trondelag Diabe-
+tes Study. J Epidemiol Community Health
+
+46:537–542, 1992
+
+47. The Expert Committee on the Diagnosis
+and Classiﬁcation of Diabetes Mellitus:
+Report of the Expert Committee on the
+Diagnosis and Classiﬁcation of Diabetes
+Mellitus. Diabetes Care 20:1183–1197,
+1997
+
+48. Folsom A, Kushi L, Hong C: Physical
+activity and incident diabetes mellitus
+in postmenopausal women. Am J Public
+Health 90:134 –138, 2000
+
+DIABETES CARE, VOLUME 24, NUMBER 8, AUGUST 2001
+
+1535
+
+

@@ -1,0 +1,1920 @@
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+The  New  England  Journal  of  Medicine
+
+BENEFICIAL EFFECTS OF HIGH DIETARY FIBER INTAKE IN PATIENTS 
+
+WITH TYPE 2 DIABETES MELLITUS
+
+M
+
+ANISHA
+
+ C
+
+HANDALIA
+
+, M.D., A
+COTT
+
+S
+
+BHIMANYU
+ M. G
+
+ G
+RUNDY
+
+, M.D., D
+
+ARG
+, M.D., P
+H
+
+.D., 
+
+IETER
+
+ L
+UTJOHANN
+ L
+ J. B
+AND
+
+INDA
+
+.D., K
+
+, P
+H
+RINKLEY
+
+LAUS
+, R.D.
+
+ 
+
+VON
+
+ B
+
+ERGMANN
+
+, M.D., 
+
+A
+BSTRACT
+Background
+The effect of increasing the intake of
+dietary fiber on glycemic control in patients with type
+2 diabetes mellitus is controversial.
+Methods
+In a randomized, crossover study, we as-
+signed 13  patients  with  type  2  diabetes  mellitus  to
+follow two diets, each for six weeks: a diet containing
+moderate amounts of fiber (total, 24 g; 8 g of soluble
+fiber and 16 g of insoluble fiber), as recommended by
+the American Diabetes Association (ADA), and a high-
+fiber diet (total, 50 g; 25 g of soluble fiber and 25 g
+of insoluble fiber) containing foods not fortified with
+fiber (unfortified foods). Both diets, prepared in a re-
+search kitchen, had the same macronutrient and en-
+ergy content. We compared the effects of the two diets
+on glycemic control and plasma lipid concentrations.
+Results
+Compliance with the diets was excellent.
+During the sixth week of the high-fiber diet, as com-
+pared with the sixth week of the ADA diet, mean dai-
+ly preprandial plasma glucose concentrations were 13
+mg  per  deciliter  (0.7  mmol  per  liter)  lower  (95  per-
+cent confidence interval, 1 to 24 mg per deciliter [0.1
+to 1.3  mmol  per  liter];  P=0.04)  and  mean  daily  uri-
+nary glucose excretion was 1.3 g lower (median dif-
+ference, 0.23 g; 95 percent confidence interval, 0.03
+to 1.83; P=0.008). The high-fiber diet also lowered the
+area under the curve for 24-hour plasma glucose and
+insulin  concentrations,  which  were  measured  every
+two  hours,  by  10  percent  (P=0.02)  and  12  percent
+(P=0.05),  respectively.  The  high-fiber  diet  reduced
+plasma  total  cholesterol  concentrations  by  6.7  per-
+cent  (P=0.02),  triglyceride  concentrations  by  10.2
+percent  (P=0.02),  and  very-low-density  lipoprotein
+cholesterol concentrations by 12.5 percent (P=0.01).
+Conclusions
+A high intake of dietary fiber, partic-
+ularly of the soluble type, above the level recommend-
+ed by the ADA, improves glycemic control, decreases
+hyperinsulinemia,  and  lowers  plasma  lipid  concen-
+trations  in  patients  with  type  2  diabetes.  (N  Engl  J
+Med 2000;342:1392-8.)
+©2000, Massachusetts Medical Society.
+
+D
+
+IETARY guidelines for patients with dia-
+betes mellitus were revised by the Amer-
+ican  Diabetes  Association  (ADA)  earlier
+this year.
+ The ADA recommends that the
+1
+composition of the diet be individualized on the basis
+of a nutritional assessment and the outcomes desired.
+Consistent  with  the  previous  recommendations  of
+ the new guidelines advise replacing satu-
+the ADA,
+
+2
+
+1392
+
+·
+
+May 11, 2000
+
+3-10
+
+rated fat with carbohydrates. However, on the basis of
+previous studies,
+ an alternative approach of replac-
+ing  saturated  fat  with  cis  monounsaturated  fat  was
+also included in the recommendations.
+ This new ap-
+1
+proach is further supported by epidemiologic studies
+that have shown the healthful effects of diets rich in cis
+monounsaturated fat in Mediterranean countries.
+11,12
+Another, less strongly emphasized aspect of Med-
+iterranean diets is the high intake of fruits, vegetables,
+and grains that are rich sources of dietary fiber.
+13,14
+The ADA recommended a moderate increase in the
+intake of dietary fiber to 20 to 35 g per day because
+of  the  cholesterol-lowering  effects  of  soluble  fiber.
+However, the effects of dietary fiber on glycemic con-
+trol were considered inconsequential.
+ Furthermore,
+1
+the expert panel of the ADA considered it difficult
+to achieve a high dietary intake of soluble fiber with-
+out consuming foods or supplements fortified with
+ We therefore designed the present study to de-
+fiber.
+1
+termine the effects on glycemic control and plasma
+lipid concentrations of increasing the intake of die-
+tary fiber in patients with type 2 diabetes exclusively
+through the consumption of foods not fortified with
+fiber (unfortified foods) to a level beyond that rec-
+ommended by the ADA. In addition, we studied the
+effects of such an intervention on the intestinal ab-
+sorption of cholesterol and the fecal excretion of ster-
+ols in an attempt to uncover the mechanisms by which
+a high-fiber diet lowers plasma cholesterol.
+
+METHODS
+
+Patients
+
+We studied 12 men and 1 woman (9 non-Hispanic whites and
+4 blacks) with type 2 diabetes at the general clinical research center
+of the University of Texas Southwestern Medical Center at Dallas.
+The protocol for the study was approved by the institutional re-
+view board of the medical center, and each patient gave written
+informed consent. In all patients the onset of diabetes was insid-
+ious; the disease developed in most of the patients after 40 years
+of age. Their mean (±SD) age was 61±9 years (range, 45 to 70).
+Their mean body weight was 93.5±12.7 kg, and the mean body-
+mass index (the weight in kilograms divided by the square of the
+height in meters) was 32.3±3.9. Three patients were treated with
+diet alone, and the other 10 patients were treated with 2.5 to 20
+
+From the Department of Internal Medicine (M.C., A.G., S.M.G., L.J.B.)
+and the Center for Human Nutrition (A.G., S.M.G.), University of Texas
+Southwestern Medical Center, Dallas; the Department of Veterans Affairs
+Medical Center, Dallas (M.C., A.G., S.M.G.); and the Department of Clin-
+ical Pharmacology, Rheinische Friedrich-Wilhelms-Universität, Bonn, Ger-
+many (D.L., K.B.). Address reprint requests to Dr. Garg at the Center for
+Human Nutrition, University of Texas Southwestern Medical Center, 5323
+Harry Hines Blvd., Dallas, TX 75390.
+
+The New England Journal of Medicine Downloaded from nejm.org on August 8, 2018. For personal use only. No other uses without permission.  Copyright © 2000 Massachusetts Medical Society. All rights reserved.  
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+BENEFICIAL  EFFECTS  OF  HIGH  DIETARY  FIBER  INTAKE  IN  PATIENTS  WITH  TYPE  2  DIABETES  MELLITUS
+
+mg of glyburide daily in addition to diet. The dose of glyburide
+was not changed during the study.
+
+On entry into the study, the patients’ plasma cholesterol and tri-
+glyceride concentrations after an overnight fast ranged from 151
+to 324 mg per deciliter (3.90 to 8.38 mmol per liter) and 67 to
+390 mg per deciliter (0.76 to 4.40 mmol per liter), respectively,
+and  their  fasting  plasma  glucose  concentrations  were  less  than
+200 mg per deciliter (11.1 mmol per liter). Their glycosylated he-
+moglobin  values  ranged  from  6.0  to  9.8  percent.  Two  patients
+had a history of coronary heart disease, but none had recently had
+a  myocardial  infarction,  unstable  angina  pectoris,  or  congestive
+heart failure. Also, none had thyroid, renal, or hepatic disease. None
+of the patients were receiving lipid-lowering therapy.
+
+Design of the Study
+
+All  the  patients  were  first  admitted  to  the  general  clinical  re-
+search center for five days (the base-line period), during which a
+detailed history was taken, a physical examination was performed,
+and laboratory tests were performed. After the base-line period, all
+the patients received both the ADA diet and the high-fiber diet,
+each diet for a period of six weeks. Six patients received the high-
+fiber diet first, and the other seven received the ADA diet first.
+There was a median interval of seven days between the two study
+periods, during which the patients were instructed to consume an
+isocaloric diet. During the last week of each dietary period (days
+36 to 42), the patients were hospitalized for evaluation.
+
+On weekdays, all the patients ate at least one meal (breakfast,
+lunch, or dinner) at the general clinical research center. Other meals
+were supplied in packages so that they could be consumed at home.
+The dietitian monitored compliance by interviewing the patients.
+The patients were instructed to bring back any unconsumed food
+and to maintain a constant level of physical activity throughout the
+study.
+
+Blood for lipid analyses was drawn, after an overnight fast, daily
+for two days before the institution of the study diet and daily on
+days 38 through 42 during both dietary periods. Plasma glucose
+was measured at 7 and 11 a.m. and at 4 and 8 p.m. each day dur-
+ing the base-line period and on days 38 through 42 of both die-
+tary periods. Glycosylated hemoglobin was measured during the
+base-line  period  and  at  the  end  of  each  dietary  period.  On  the
+last day of each dietary period, blood samples were obtained ev-
+ery two hours for measurements of plasma glucose and insulin.
+On days 38 through 42, patients collected 24-hour urine speci-
+mens for quantitative determination of glucose.
+
+To permit us to determine fecal sterol balance and the percentage
+of cholesterol absorption, each patient took a capsule containing
+30 mg of sitostanol, 3 mg of [26,26,26,27,27,27-
+]-cholesterol,
+H
+2
+6
+and 3 mg of [5,6,22,23-
+]-sitostanol (Medical Isotopes, Pelham,
+H
+2
+4
+N.H.)  three  times  a  day  on  days  36  through  42.  Fecal  samples
+were collected on day 35 or 36 and on the last three days of each
+dietary period. Fecal samples were frozen within 12 hours after
+collection and were pooled for analysis of small aliquots.
+
+Diets
+
+15
+
+The composition of the study diets is shown in Table 1. The
+composition of the diets was calculated by means of a software
+program based on the Department of Agriculture Handbook Se-
+ries 8 (Nutriplanner, Practocare, San Diego, Calif.).
+ The content
+of total as well as soluble and insoluble dietary fiber was estimated
+according to the data provided in the 
+CRC Handbook of Dietary
+ Both diets consisted of unfortified
+Fiber in Human Nutrition.
+foods.  The  patients  were  allowed  some  choices  of  food  items.
+Both diets provided 15 percent of the total energy as protein, 55
+percent as carbohydrate, and 30 percent as fat; saturated, cis mono-
+unsaturated, and polyunsaturated fats accounted for 7 percent, 17
+percent, and 6 percent of the total energy, respectively.
+
+The high-fiber diet provided 50 g of total fiber per day; soluble
+and  insoluble  fiber  content  provided  25  g  each.  The  ADA  diet
+contained 24 g of total fiber per day, with 8 g as soluble fiber and
+16 g as insoluble fiber. Unfortified foods, particularly those rich
+
+16
+
+T
+
+ABLE
+
+ 1. 
+
+C
+
+OMPOSITION
+
+ 
+
+OF
+
+ 
+
+THE
+
+ S
+
+TUDY
+
+ D
+
+IETS
+
+.
+
+C
+
+ONSTITUENT
+
+Carbohydrate (% of total energy)
+Protein (% of total energy)
+Fat (% of total energy)
+
+Saturated
+Cis monounsaturated
+Polyunsaturated
+
+Cholesterol (mg/day)
+Fiber (g/day)
+
+Total
+Soluble
+Insoluble
+
+ADA 
+D
+*
+IET
+
+55
+15
+30
+7
+17
+6
+300
+
+24
+8
+16
+
+*ADA denotes American Diabetes Association.
+
+H
+
+IBER
+
+IGH
+D
+
+-F
+IET
+
+55
+15
+30
+7
+17
+6
+297
+
+50
+25
+25
+
+T
+
+ABLE
+
+ 2.
+
+ S
+
+AMPLE
+
+ M
+
+ENUS
+
+ 
+
+OF
+
+ 
+
+THE
+
+ S
+
+TUDY
+
+ D
+
+IETS
+
+.*
+
+ADA D
+
+IET
+
+H
+
+IGH
+
+-F
+
+IBER
+
+ D
+
+IET
+
+FOOD
+
+WEIGHT
+
+FOOD
+
+Breakfast
+Orange juice
+White grits
+Egg substitute
+Olive oil
+Decaffeinated coffee
+Lunch
+Ham (5% fat)
+Mayonnaise
+Iceberg lettuce
+Fresh tomato
+Low-sodium bread
+Corn (canned)
+Cider vinegar
+Dehydrated onion
+Olive oil
+Fresh green pepper
+Fresh celery
+Fruit cocktail (canned)
+Instant tea
+Oatmeal raisin cookie
+Dinner
+Chicken breast (skinned)
+Bran flakes
+Low-sodium bread
+Parmesan cheese
+Whole egg
+Tomato (canned)
+Low-fat cheese
+Spaghetti
+Green beans
+Olive oil
+Whole-wheat bread
+Graham crackers
+Instant tea
+Bedtime snack
+Mozzarella cheese
+Low-sodium bread
+Pineapple juice
+
+grams
+
+220
+50
+40
+10
+2
+
+50
+6
+15
+30
+60
+140
+5
+2
+10
+10
+15
+105
+2
+20
+
+90
+10
+20
+1
+1
+120
+11
+45
+75
+17
+21
+21
+2
+
+30
+30
+190
+
+Orange sections
+Oatmeal
+Scrambled egg
+Olive oil
+Decaffeinated coffee
+
+Ham (5% fat)
+Mayonnaise
+Iceberg lettuce
+Fresh tomato
+Whole-wheat bread
+Corn (canned)
+Green peas (canned)
+Dehydrated onion
+Olive oil
+Fresh green pepper
+Fresh celery
+Fresh papaya
+Instant tea
+
+Chicken breast (skinned)
+Bran flakes
+Oat bran
+Parmesan cheese
+Egg substitute
+Tomato (canned)
+Low-fat cheese
+Spaghetti
+Zucchini
+Olive oil
+Whole-wheat bread
+Fresh peaches
+Instant tea
+
+Fruit cocktail (canned)
+Cherries (canned)
+Granola
+
+WEIGHT
+
+grams
+
+300
+50
+37
+10
+2
+
+52
+12
+10
+15
+60
+40
+110
+2
+10
+10
+15
+250
+2
+
+90
+10
+5
+1
+10
+105
+19
+19
+195
+19
+30
+300
+2
+
+200
+100
+15
+
+*Each menu provided 2308 kcal per day. ADA denotes American Dia-
+
+betes Association.
+
+Volume 342 Number 19
+
+·
+
+1393
+
+The New England Journal of Medicine Downloaded from nejm.org on August 8, 2018. For personal use only. No other uses without permission.  Copyright © 2000 Massachusetts Medical Society. All rights reserved.  
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+The  New  England  Journal  of  Medicine
+
+in soluble fiber, such as cantaloupe, grapefruit, orange, papaya, rai-
+sins, lima beans, okra, sweet potato, winter squash, zucchini, gra-
+nola, oat bran, and oatmeal, were used to achieve high-fiber intake.
+No fiber supplements were used. Sample menus of both the study
+diets  are  shown  in  Table  2.  The  individual  foods  were  weighed
+daily during meal preparation in the research kitchen of the gen-
+eral clinical research center.
+
+Biochemical Analyses
+
+17
+
+Fasting plasma total cholesterol, lipoprotein cholesterol, and tri-
+glycerides were measured according to the procedures of the Lip-
+id Research Clinics.
+ Cholesterol and triglycerides were measured
+enzymatically with the use of kits (Boehringer Mannheim, Indi-
+anapolis).  Very-low-density  lipoproteins  (VLDLs)  (density,  less
+than 1.006 g per milliliter) were removed by ultracentrifugation,
+and cholesterol was measured in the VLDL fraction and the in-
+franatant. High-density-lipoprotein (HDL) cholesterol was meas-
+ured enzymatically after lipoproteins containing apolipoprotein B
+had  been  precipitated  with  heparin–manganese.  Cholesterol  in
+the low-density lipoprotein (LDL) fraction was estimated to be
+the difference between the cholesterol content of the infranatant
+and that of the HDL fraction.
+
+Plasma and urinary glucose were measured by the glucose ox-
+idase method (Beckman Glucose Analyzer, Beckman Instruments,
+Fullerton,  Calif.).  Glycosylated  hemoglobin  was  measured  with
+ion-exchange high-performance liquid chromatography (Bio-Rad
+Laboratories,  Hercules,  Calif.).  Plasma  insulin  was  measured  by
+radioimmunoassay.
+
+Pooled fecal samples collected within the last week of each die-
+tary period were prepared for analysis of neutral and acidic fecal
+sterols  as  described  previously.
+  Gas–liquid  chromatography  of
+neutral and acidic fecal sterols was performed on a gas chromato-
+graph  (model  HP5890,  Hewlett–Packard,  Palo  Alto,  Calif.)
+equipped with an automatic sample injector. Cholesterol absorp-
+tion was measured during the same period from fecal samples by
+gas–liquid chromatography and mass spectrometry.
+
+18,19
+
+20
+
+21
+
+Statistical Analysis
+
+To compare the two study periods and to assess the effect of
+the  sequence  in  which  the  patients  received  the  high-fiber  and
+
+ADA diets, we used repeated-measures analysis of variance.
+ For
+skewed data, we used the Wilcoxon signed-rank test to compare
+the two dietary periods.
+
+22
+
+23
+
+RESULTS
+
+The compliance with both the study diets was ex-
+cellent, according to interviews with the patients and
+estimates of the energy content of any leftover foods.
+Three  patients  reported  consuming  extra  food  on
+one day during the study, two while eating the high-
+fiber diet and one the ADA diet. The patients com-
+mented  about  the  larger  quantities  of  food  in  the
+high-fiber diet, but they consumed all the food giv-
+en to them. The results are presented irrespective of
+the order of the diets, because the sequence of the
+diets had no effect on the results.
+
+During the last week of each study period, the pa-
+tients in both groups had similar daily energy intakes
+and body weights and received a similar dose of gly-
+buride (Table 3). The mean plasma glucose concen-
+tration was lower (by 13 mg per deciliter [0.7 mmol
+per liter], or 8.9 percent) when patients completed
+the  high-fiber  diet  than  when  they  completed  the
+ADA diet (P=0.04), and mean daily urinary glucose
+excretion was 1.3 g lower (P=0.008). Daily plasma
+glucose concentrations were 10 percent lower with
+the high-fiber diet than with the ADA diet (values
+for the area under the curve, 3743±944 vs. 3365±
+1003 mg·hour per deciliter [207.8±52.4 vs. 186.8±
+55.7 mmol·hour per liter]; P=0.02), and plasma in-
+sulin  concentrations  were 12  percent  lower  (values
+for  the  area  under  the  curve, 1107±650  vs.  971±
+491 µU·hour per milliliter [6642±3900 vs. 5826±
+2946 pmol·hour per liter]; P=0.05) (Fig. 1). Gly-
+
+T
+
+ABLE
+
+ 3.
+
+ M
+
+ETABOLIC
+
+ V
+
+ARIABLES
+
+EEK
+
+ 
+
+OF
+
+ 
+
+THE
+
+ S
+
+TUDY
+
+ P
+
+ERIODS
+
+ 
+
+ 
+AYS
+
+DURING
+ 38 
+
+ L
+THROUGH
+
+THE
+
+ 
+
+ W
+AST
+ 42).*
+
+(D
+
+V
+
+ARIABLE
+
+Energy intake (kcal/day)
+Weight (kg)
+Dose of glyburide (mg/day)
+Plasma glucose (mg/deciliter)‡
+Urinary glucose (g/day)
+
+Mean
+Median§
+
+Glycosylated hemoglobin (%)
+
+IBER
+
+ 
+
+H
+
+IGH
+D
+
+-F
+IET
+
+D
+
+ 
+
+BETWEEN
+
+IFFERENCE
+D
+
+IETS
+
+ (95% CI)
+
+ 
+
+P V
+
+ALUE
+
+†
+
+ADA D
+
+IET
+
+2308±236
+90.7±13.3
+10.0±8.7
+142±36
+
+—
+
+2308±236
+90.5±12.7 ¡0.2 (¡1.1 to 0.6)
+10.0±8.7
+130±38
+
+¡13 (¡24 to ¡1)
+
+—
+
+2.3±4.3
+0.76
+7.2±1.3
+
+1.0±1.9
+
+0.0
+
+6.9±1.2
+
+—
+
+¡0.23 (¡1.83 to ¡0.03)
+¡0.3 (¡0.6 to 0.1)
+
+1.00
+0.60
+1.00
+0.04
+
+—
+0.008
+0.09
+
+*Plus–minus values are means ±SD. ADA denotes American Diabetes Association, and CI confi-
+
+dence interval.
+
+†An analysis of variance was used to compare the two diets, except for urinary glucose, for which
+
+the Wilcoxon signed-rank test was used.
+
+‡The values are averages of plasma glucose concentrations measured at 7 and 11 a.m. and at 4 and
+8 p.m. each day for five days during hospitalization. To convert values for plasma glucose to milli-
+moles per liter, multiply by 0.056.
+
+§The values are averages of five daily urine collections during hospitalization.
+
+1394
+
+·
+
+May 11, 2000
+
+The New England Journal of Medicine Downloaded from nejm.org on August 8, 2018. For personal use only. No other uses without permission.  Copyright © 2000 Massachusetts Medical Society. All rights reserved. BENEFICIAL  EFFECTS  OF  HIGH  DIETARY  FIBER  INTAKE  IN  PATIENTS  WITH  TYPE  2  DIABETES  MELLITUS
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+/
+
+)
+l
+d
+g
+m
+
+l
+
+ 
+
+(
+ 
+e
+s
+o
+c
+u
+G
+a
+m
+s
+a
+P
+
+l
+
+A
+
+)
+l
+
+/
+
+m
+U
+m
+
+(
+ 
+n
+
+i
+l
+
+u
+s
+n
+
+I
+ 
+
+a
+m
+s
+a
+P
+
+l
+
+B
+
+240
+
+220
+
+200
+
+180
+
+160
+
+140
+
+120
+
+100
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+P<0.05
+
+P<0.05
+
+P<0.05
+
+High-fiber diet
+
+ADA diet
+
+7 a.m.
+
+9 a.m.
+
+11 a.m.
+
+1 p.m.
+
+3 p.m.
+
+5 p.m.
+
+7 p.m.
+
+9 p.m.
+
+11 p.m.
+
+1 a.m.
+
+3 a.m.
+
+5 a.m.
+
+7 a.m.
+
+ADA diet
+
+High-fiber diet
+
+7 a.m.
+
+9 a.m.
+
+11 a.m.
+
+1 p.m.
+
+3 p.m.
+
+5 p.m.
+
+7 p.m.
+
+9 p.m.
+
+11 p.m.
+
+1 a.m.
+
+3 a.m.
+
+5 a.m.
+
+7 a.m.
+
+Time
+
+Figure 1.
+ Mean (±SE) 24-Hour Profile of Plasma Glucose Concentrations (Panel A) and Insulin Concen-
+trations (Panel B) during the Last Day of the American Diabetes Association (ADA) Diet and the Last
+Day of the High-Fiber Diet in 13 Patients with Type 2 Diabetes Mellitus.
+The arrows indicate the times at which the main meals and a snack were consumed during the day.
+To convert values for glucose to millimoles per liter, multiply by 0.056. To convert values for insulin to
+picomoles per liter, multiply by 6.
+
+cosylated hemoglobin values were slightly lower af-
+ter the high-fiber diet (P=0.09).
+
+As  compared  with  the  ADA  diet,  the  high-fiber
+diet resulted in a lower fasting plasma total cholester-
+ol concentration (by 6.7 percent, P=0.02), a lower
+plasma triglyceride concentration (by 10.2 percent,
+P=0.02), and a lower plasma VLDL cholesterol con-
+centration (by 12.5 percent, P=0.01) (Table 4). The
+fasting  plasma  LDL  cholesterol  concentration  was
+6.3 percent lower with the high-fiber diet (P=0.11).
+There  were  no  significant  differences  between  the
+
+two diets in terms of the fasting plasma HDL cho-
+lesterol concentration.
+
+As  compared  with  the  ADA  diet,  the  high-fiber
+diet decreased gastrointestinal absorption of choles-
+terol by 10 percent (48.5±9.6 vs. 43.7±7.4 percent;
+95 percent confidence interval for the decrease, 0.6
+to  9.0  percent;  P=0.03)  and  increased  fecal  acidic
+sterol excretion by 41 percent (895±301 vs. 1258±
+458 mg per day; 95 percent confidence interval for
+the increase, 137 to 589 mg per day; P=0.005), but
+did  not  significantly  affect  the  excretion  of  neutral
+
+Volume 342 Number 19
+
+·
+
+1395
+
+The New England Journal of Medicine Downloaded from nejm.org on August 8, 2018. For personal use only. No other uses without permission.  Copyright © 2000 Massachusetts Medical Society. All rights reserved. The  New  England  Journal  of  Medicine
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+T
+
+ABLE
+
+ 4.
+
+ F
+
+ASTING
+
+ P
+
+LASMA
+
+ L
+
+IPID AND LIPOPROTEIN 
+
+CONCENTRATIONS DURING THE LAST WEEK 
+
+OF THE STUDY PERIODS (DAYS 38 THROUGH 42).*
+
+VARIABLE
+
+ADA
+DIET
+
+HIGH-
+
+FIBER DIET
+
+DIFFERENCE BETWEEN
+
+DIETS (95% CI)
+
+P
+
+VALUE†
+
+mg/dl
+
+Plasma total cholesterol
+Plasma triglycerides
+Plasma VLDL cholesterol 40±19
+35±16 ¡5 (¡9 to ¡1)
+Plasma LDL cholesterol 142±29 133±29 ¡9 (¡22 to 3)
+Plasma HDL cholesterol
+¡1 (¡4 to 3)
+
+210±33 196±31 ¡14 (¡27 to ¡2) 0.02
+205±95 184±76 ¡21 (¡37 to ¡4) 0.02
+0.01
+0.11
+0.80
+
+29±7
+
+28±4
+
+*Plus–minus  values  are  means  ±SD.  To  convert  values  for  cholesterol
+and triglycerides to millimoles per liter, multiply by 0.026 and 0.011, re-
+spectively. ADA denotes American Diabetes Association, CI confidence in-
+terval, VLDL very-low-density lipoprotein, LDL low-density lipoprotein,
+and HDL high-density lipoprotein.
+
+†An analysis of variance was used to compare the two diets.
+
+sterols  (1052±375  vs. 1122±565  mg  per  day;  95
+percent confidence interval for the difference, ¡194
+to 334 mg per day; P=0.60).
+
+DISCUSSION
+
+24
+
+24
+
+The intake of dietary fiber among people living in
+Western countries remains low, and according to the
+Third  National  Health  and  Nutrition  Examination
+Survey (NHANES), it averages 17 g per day in the
+United States.
+ Although patients with diabetes are
+advised  to  increase  their  intake  of  dietary  fiber,  in
+the  NHANES  study,  their  average  daily  intake  was
+found to be only 16 g.
+ Why the intake of dietary
+fiber in patients with diabetes remains low — despite
+its well-documented effect of lowering plasma cho-
+lesterol concentrations — remains unexplained. It is
+possible  that  the  controversy  about  whether  there
+are beneficial effects of dietary fiber on glycemic con-
+trol reduces the enthusiasm of physicians and dieti-
+tians for recommending high-fiber diets. The main
+purpose  of  our  study  was  to  investigate  the  effects
+on glycemic control of increasing the intake of die-
+tary fiber. To avoid the confounding effects of con-
+comitant changes in energy and macronutrients, the
+two study diets were isocaloric and the macronutri-
+ent composition of the diets was identical. Further-
+more, unfortified foods were used as the source of
+dietary fiber.
+
+Most important, we found that the high-fiber diet
+improved glycemic control, as evidenced by decreases
+in  the  mean  daily  preprandial  and  24-hour  plasma
+glucose  concentrations.  Urinary  glucose  excretion
+was  also  lowered  by  the  high-fiber  diet.  The  high-
+fiber  diet  lowered  glycosylated  hemoglobin  values
+slightly but not significantly. The high-fiber diet also
+lowered 24-hour plasma insulin concentrations.
+
+1396
+
+·
+
+May 11, 2000
+
+26
+
+25
+
+29
+
+1,30
+
+27,29
+
+31,32
+
+27-29
+
+ and in that by Simpson et al.,
+
+The results of previous studies that evaluated the
+role of dietary fiber on glycemic control in patients
+with type 2 diabetes were inconsistent. In some of the
+studies, the lack of control for concomitant changes
+in the intake of macronutrients makes the data diffi-
+cult to interpret. For example, in the study by Kiehm
+et al.
+ the high-fiber
+diet had a lower fat and higher carbohydrate content
+than the low-fiber diet. In other studies, the inter-
+pretation of the results was confounded by the short
+duration of the dietary intervention,
+ the lack of
+random assignment of the sequence of the high-fiber
+and low-fiber diets,
+ and unexplained weight loss
+during the high-fiber diet.
+
+ or resulted in only a slight improvement.
+
+Only a few well-controlled studies have evaluated
+the glycemic effects of increasing the intake of die-
+tary fiber with the use of either preparations of re-
+fined concentrated fiber or unfortified food, and the
+results have been inconsistent.
+ For example, diets
+that included 15 to 21 g of guar-gum fiber or oat-bran
+concentrate per day had no effect on glycemic con-
+trol
+33,34
+In randomized, crossover trials of six weeks’ duration
+in which the intake of dietary fiber was increased by
+16  g  per  1000  kcal  through  the  consumption  of
+foods prepared in a research kitchen or by 14 g per
+day  through  dietary  instruction,  there  was  no  im-
+provement  in  glycemic  control.
+  In  contrast,  in-
+creasing dietary fiber by 23 g for three weeks and by
+30 g for six weeks resulted in decreased fasting and
+postprandial  plasma  glucose  concentrations.
+  We
+found that an increase in the intake of total dietary
+fiber,  which  consisted  predominantly  of  soluble  fi-
+ber, significantly improved glycemic control and de-
+creased  the  degree  of  hyperinsulinemia  in  patients
+with type 2 diabetes.
+
+Our  study  also  demonstrates  the  feasibility  of
+achieving a high intake of dietary soluble fiber by con-
+suming unfortified foods. Our patients accepted the
+high-fiber diet well and had few side effects; there-
+fore, we recommend that patients with diabetes be
+encouraged to  use unfortified foods instead  of  less
+palatable purified-fiber preparations and supplements
+to increase their intake of dietary fiber.
+
+The  mechanisms  of  the  improved  glycemic  con-
+trol associated with high fiber intake remain unde-
+fined.  Whether  this  effect  is  due  to  an  increase  in
+soluble fiber, insoluble fiber, or both is unclear. Be-
+sides causing increased fecal excretion of bile acids,
+ How-
+dietary fiber may cause malabsorption of fat.
+ever, in our study, the patients’ weight did not change
+with the high-fiber diet, which suggests that the de-
+gree of reduction in the absorption of fat was insig-
+nificant. Another possibility is that dietary fiber im-
+proves glycemic control by reducing or delaying the
+absorption of carbohydrates.
+
+As  expected,  the  high-fiber  diet  reduced  plasma
+total  cholesterol  concentrations  by  6.7  percent,  a
+
+35,36
+
+37,38
+
+39
+
+The New England Journal of Medicine Downloaded from nejm.org on August 8, 2018. For personal use only. No other uses without permission.  Copyright © 2000 Massachusetts Medical Society. All rights reserved. BENEFICIAL  EFFECTS  OF  HIGH  DIETARY  FIBER  INTAKE  IN  PATIENTS  WITH  TYPE  2  DIABETES  MELLITUS
+
+finding consistent with the results of previous reports
+of the cholesterol-reducing effects of soluble but not
+insoluble  fiber.40,41  Therefore,  the  lowering  of  cho-
+lesterol can be attributed primarily to an average in-
+crease of 17 g in the intake of soluble fiber. Previous
+studies in normal subjects have reported no effects
+of the amount of dietary fiber on plasma triglyceride
+concentrations.42 In our study, the decrease in plas-
+ma triglyceride and VLDL cholesterol concentrations
+during  the  high-fiber  diet  could  have  been  due  to
+the improvement in glycemic control.
+
+The mechanisms of the reduction in plasma cho-
+lesterol concentrations induced by the increased di-
+etary fiber intake are controversial, however. The in-
+crease in bile-acid excretion probably explains most of
+the reduction, and the reduction in cholesterol ab-
+sorption may also have contributed to this finding.
+Previous studies have also reported a variable increase
+in  bile-acid  excretion  resulting  from  the  consump-
+tion of pectin,39,43 oat bran,44,45 bagasse,46 and diets
+with a mixture of soluble fiber and insoluble fiber,47
+but not psyllium.48 In contrast, Kesaniemi et al.47 re-
+ported that a high-fiber diet did not change choles-
+terol  absorption  in  normal  subjects.  However,  the
+high-fiber diet they used included 26 g of fiber, and
+it did not lower plasma cholesterol concentrations.47 
+In conclusion, an increase in the intake of dietary
+fiber, predominantly of the soluble type, by patients
+with type 2 diabetes mellitus improved glycemic con-
+trol  and  decreased  hyperinsulinemia  in  addition  to
+the expected lowering of plasma lipid concentrations.
+Therefore, dietary guidelines for patients with diabe-
+tes should emphasize an overall increase in dietary fi-
+ber through the consumption of unfortified foods,
+rather than the use of fiber supplements.
+
+Supported in part by grants (M01-RR00633 and HL-29252) from the
+National Institutes of Health and by research grants from the Bundesmin-
+isterium für Bildung, Forschung, Wissenschaft und Technologie (01EC9402)
+and the Deutsche Forschungsgemeinschaft (BE 1673/1-1).
+
+We are indebted to Angela Osborn, Travis Petricek, and the nurs-
+ing and dietetic service of the General Clinical Research Center of
+the  University  of  Texas  Southwestern  Medical  Center,  Dallas,  for
+their excellent technical support and to Beverley Adams-Huet, M.S.,
+for statistical analysis.
+
+REFERENCES
+
+1. Nutrition recommendations and principles for people with diabetes 
+mellitus. Diabetes Care 2000;23:S43-S46.
+2. American Diabetes Association. Nutritional recommendations and prin-
+ciples for individuals with diabetes mellitus: 1986. Diabetes Care 1987;10:
+126-32.
+3. Garg A, Bonanome A, Grundy SM, Zhang Z-J, Unger RH. Compari-
+son of a high-carbohydrate diet with high-monounsaturated-fat diet in pa-
+tients with non-insulin-dependent diabetes mellitus. N Engl J Med 1988;
+319:829-34.
+4. Rivellese AA, Giacco R, Genovese S, et al. Effects of changing amount 
+of carbohydrate in diet on plasma lipoproteins and apolipoproteins in type 
+II diabetic patients. Diabetes Care 1990;13:446-8.
+5. Parillo M, Rivellese AA, Ciardullo AV, et al. A high-monounsaturated-
+fat/low-carbohydrate diet improves peripheral insulin sensitivity in non-
+insulin-dependent diabetic patients. Metabolism 1992;41:1373-8.
+6. Rasmussen OW, Thomsen C, Hansen KW, Vesterlund M, Winther E, 
+
+Hermansen K. Effects on blood pressure, glucose, and lipid levels of a 
+high-monounsaturated fat diet compared with a high-carbohydrate diet in 
+NIDDM subjects. Diabetes Care 1993;16:1565-71.
+7. Campbell LV, Marmot PE, Dyer JA, Borkman M, Storlien LH. The 
+high-monounsaturated fat diet as a practical alternative for NIDDM. Dia-
+betes Care 1994;17:177-82.
+8. Lerman-Garber I, Ichazo-Cerro S, Zamora-Gonzalez J, Cardoso-
+Saldana G, Posadas-Romero C. Effect of a high-monounsaturated fat diet 
+enriched with avocado in NIDDM patients. Diabetes Care 1994;17:311-
+5.
+9. Garg A, Grundy SM, Unger RH. Comparison of effects of high and 
+low carbohydrate diets on plasma lipoproteins and insulin sensitivity in pa-
+tients with mild NIDDM. Diabetes 1992;41:1278-85.
+10. Garg A, Bantle JP, Henry RR, et al. Effects of varying carbohydrate 
+content of diet in patients with non-insulin-dependent diabetes mellitus. 
+JAMA 1994;271:1421-8.
+11. Keys A, Menotti A, Karvonen MJ, et al. The diet and 15-year death 
+rate in the Seven Countries Study. Am J Epidemiol 1986;124:903-15.
+12. Menotti A, Keys A, Aravanis C, et al. Seven Countries Study: first 20-
+year mortality data in 12 cohorts of six countries. Ann Med 1989;21:175-
+9.
+13. Nestle M. Mediterranean diets: historical and research overview. Am J 
+Clin Nutr 1995;61:Suppl:1313S-1320S.
+14. Kromhout D, Keys A, Aravanis C, et al. Food consumption patterns 
+in the 1960s in seven countries. Am J Clin Nutr 1989;49:889-94.
+15. Department of Agriculture, Agricultural Research Service. Composi-
+tion of foods. Agriculture handbook No. 8. Series 8-1 to 8-16. Washing-
+ton, D.C.: Government Printing Office, 1976-1987.
+16. Schakel S, Sievert YA, Buzzard IM. Dietary fiber values for common 
+foods. In: Spiller GA, ed. CRC handbook of dietary fiber in human nutri-
+tion. 2nd ed. Boca Raton, Fla.: CRC Press, 1993:567-93.
+17. Public Health Service. Manual of laboratory operations: lipid research 
+clinics program: lipid and lipoprotein analysis. 2nd ed. Washington, D.C.: 
+Government Printing Office, 1982.
+18. Herbert V, Lau KS, Gottlieb CW, Bleicher SJ. Coated charcoal immu-
+noassay of insulin. J Clin Endocrinol Metab 1965;25:1375-84.
+19. Yalow RS, Berson SA. Immunoassay of endogenous plasma insulin in 
+man. J Clin Invest 1960;39:1157-75.
+20. Czubayko F, Beumers B, Lammsfuss S, Lutjohann D, von Bergmann 
+K. A simplified micro-method for quantification of fecal excretion of neu-
+tral and acidic sterols for outpatient studies in humans. J Lipid Res 1991;
+32:1861-7.
+21. Lutjohann D, Meese CO, Crouse JR III, von Bergmann K. Evaluation 
+of deuterated cholesterol and deuterated sitostanol for measurement of 
+cholesterol absorption in humans. J Lipid Res 1993;34:1039-46.
+22. Jones B, Kenward MG. Design and analysis of crossover trials. Lon-
+don: Chapman & Hall, 1989.
+23. Conover WJ. Practical nonparametric statistics. 2nd ed. New York: 
+John Wiley, 1980:288-92.
+24. National Health and Nutrition Examination Survey III, 1988-94. 
+NCHS CD-ROM series 11. No. 2A. ASCII version. Hyattsville, Md.: Na-
+tional Center for Health Statistics, April 1998.
+25. Kiehm TG, Anderson JW, Ward K. Beneficial effects of a high carbo-
+hydrate, high fiber diet on hyperglycemic diabetic men. Am J Clin Nutr 
+1976;29:895-9.
+26. Simpson HCR, Simpson RW, Lousley S, et al. A high carbohydrate 
+leguminous fibre diet improves all aspects of diabetic control. Lancet 1981;
+1:1-5.
+27. Rivellese A, Riccardi G, Giacco A, et al. Effect of dietary fibre on glu-
+cose control and serum lipoproteins in diabetic patients. Lancet 1980;2:
+447-50.
+28. Riccardi G, Rivellese A, Pacioni D, Genovese S, Mastranzo P, Mancini 
+M. Separate influence of dietary carbohydrate and fibre on the metabolic 
+control in diabetes. Diabetologia 1984;26:116-21.
+29. O’Dea K, Traianedes K, Ireland P, et al. The effects of diet differing 
+in fat, carbohydrate, and fiber on carbohydrate and lipid metabolism in 
+type II diabetes. J Am Diet Assoc 1989;89:1076-86.
+30. Nuttall FQ. Dietary fiber in the management of diabetes. Diabetes 
+1993;42:503-8.
+31. Holman RR, Steemson J, Darling P, Turner RC. No glycemic benefit 
+from guar administration in NIDDM. Diabetes Care 1987;10:68-71.
+32. Uusitupa M, Siitonen O, Savolainen K, Silvasti M, Penttila I, Parvi-
+ainen M. Metabolic and nutritional effects of long-term use of guar gum 
+in the treatment of noninsulin-dependent diabetes of poor metabolic con-
+trol. Am J Clin Nutr 1989;49:345-51.
+33. Aro A, Uusitupa M, Voutilainen E, Hersio K, Korhonen T, Siitonen 
+O. Improved diabetic control and hypocholesterolaemic effect induced by 
+long-term dietary supplementation with guar gum in type 2 (insulin-inde-
+pendent) diabetes. Diabetologia 1981;21:29-33.
+34. Pick ME, Hawrysh ZJ, Gee MI, Toth E, Garg ML, Hardin RT. Oat 
+
+Volume 342 Number 19
+
+· 1397
+
+The New England Journal of Medicine Downloaded from nejm.org on August 8, 2018. For personal use only. No other uses without permission.  Copyright © 2000 Massachusetts Medical Society. All rights reserved. The  New  England  Journal  of  Medicine
+
+bran concentrate bread products improve long-term control of diabetes: a 
+pilot study. J Am Diet Assoc 1996;96:1254-61.
+35. Hollenbeck CB, Coulston AM, Reaven GM. To what extent does in-
+creased dietary fiber improve glucose and lipid metabolism in patients with 
+noninsulin-dependent diabetes mellitus (NIDDM)? Am J Clin Nutr 1986;
+43:16-24.
+36. Manhire A, Henry CL, Hartog M, Heaton KW. Unrefined carbohy-
+drate and dietary fibre in treatment of diabetes mellitus. J Hum Nutr 1981;
+35:99-101.
+37. Karlstrom B, Vessby B, Asp NG, et al. Effects of an increased content 
+of cereal fibre in the diet of type 2 (non-insulin-dependent) diabetic pa-
+tients. Diabetologia 1984;26:272-7.
+38. Hagander B, Asp NG, Efendic S, Nilsson-Ehle P, Schersten B. Dietary 
+fiber decreases fasting blood glucose levels and plasma LDL concentration 
+in noninsulin-dependent diabetes mellitus patients. Am J Clin Nutr 1988;
+47:852-8.
+39. Kay RM, Truswell AS. Effect of citrus pectin on blood lipids and fecal 
+steroid excretion in man. Am J Clin Nutr 1977;30:171-5.
+40. Jenkins DJ, Newton C, Leeds AR, Cummings JH. Effect of pectin, 
+guar gum, and wheat fibre on serum-cholesterol. Lancet 1975;1:1116-7.
+41. Hillman LC, Peters SG, Fisher CA, Pomare EW. The effects of the fi-
+
+ber components pectin, cellulose and lignin on serum cholesterol levels. 
+Am J Clin Nutr 1985;42:207-13.
+42. Brown L, Rosner B, Willett WW, Sacks FM. Cholesterol-lowering ef-
+fects of dietary fiber: a meta-analysis. Am J Clin Nutr 1999;69:30-42.
+43. Cummings JH, Southgate DAT, Branch WJ, et al. The digestion of 
+pectin in the human gut and its effect on calcium absorption and large 
+bowel function. Br J Nutr 1979;41:477-85.
+44. Kirby RW, Anderson JW, Sieling B, et al. Oat-bran intake selectively 
+lowers serum low-density lipoprotein cholesterol concentrations of hyper-
+cholesterolemic men. Am J Clin Nutr 1981;34:824-9.
+45. Zhang JX, Hallmans G, Andersson H, et al. Effect of oat bran on plas-
+ma cholesterol and bile acid excretion in nine subjects with ileostomies. Am 
+J Clin Nutr 1992;56:99-105.
+46. Walters RL, Baird IM, Davies PS, et al. Effects of two types of dietary 
+fibre on faecal steroid and lipid excretion. BMJ 1975;2:536-8.
+47. Kesaniemi YA, Tarpila S, Miettinen TA. Low vs high dietary fiber and 
+serum, biliary, and fecal lipids in middle-aged men. Am J Clin Nutr 1990;
+51:1007-12.
+48. Abraham ZD, Mehta T. Three-week psyllium-husk supplementation: 
+effect on plasma cholesterol concentrations, fecal steroid excretion, and 
+carbohydrate absorption in men. Am J Clin Nutr 1988;47:67-74.
+
+POSTING PRESENTATIONS AT MEDICAL MEETINGS ON THE INTERNET
+
+Posting  an  audio  recording  of  an  oral  presentation  at  a  medical  meeting  on  the
+Internet,  with  selected  slides  from  the  presentation,  will  not  be  considered  prior
+publication. This will allow students and physicians who are unable to attend the
+meeting  to  hear  the  presentation  and  view  the  slides.  If  there  are  any  questions
+about this policy, authors should feel free to call the Journal’s Editorial Offices.
+
+1398 · May 11, 2000
+
+The New England Journal of Medicine Downloaded from nejm.org on August 8, 2018. For personal use only. No other uses without permission.  Copyright © 2000 Massachusetts Medical Society. All rights reserved. 

@@ -1,0 +1,2063 @@
+Public Health Nutrition: 4(2B), 499–515
+
+DOI: 10.1079/PHN2001136
+
+Healthy lifestyles in Europe: prevention of obesity and type II
+diabetes by diet and physical activity
+
+Arne Astrup*
+Research Department of Human Nutrition, The Royal Veterinary and Agricultural University, Denmark.
+
+Abstract
+The prevalence of obesity is increasing rapidly in all age groups in most EU-countries
+and is one of the fastest growing epidemics, now affecting 10–40% of the adult
+population. Obesity increases the risk of serious co-morbidities such as type 2
+diabetes, cardiovascular disease, certain cancers and reduced life expectancy, and
+these complications may account for 5–10% of all health costs in EU countries. The
+risk of diabetes is particularly increased by obesity, and 80–95% of the increase in
+diabetes can be attributed to obesity and overweight with abdominal fat distribution.
+There is robust evidence from cross-sectional and longitudinal studies to support that
+an energy-dense, high fat diet and physical inactivity are independent risk factors for
+weight gain and obesity. Furthermore, interaction between dietary fat and physical
+fitness determine fat balance, so that the obesity promoting effect of a high fat diet is
+enhanced in susceptible subjects, particularly in sedentary individuals with a genetic
+predisposition to obesity.
+Ad libitum consumption of diets low in fat and high in protein and complex
+carbohydrates, with a low glycaemic index, contributes to the prevention of weight
+gain in normal weight subjects. It also causes a spontaneous weight loss of 3–4 kg in
+overweight subjects, and has beneficial effects on risk factors for diabetes and CVD.
+To prevent obesity and diabetes there are grounds for
+recommending the
+combination of increasing daily physical activity level to a PAL-value of at least 1.8
+and reducing dietary fat content to 20–25 energy-% in sedentary subjects, and to 25–
+35% in more physically active individuals.
+
+Keywords
+Obesity
+Type II diabetes
+Diet
+Physical activity
+Genetics
+Prevention
+
+The burden of obesity and diabetes
+
+The rapid increase in the global prevalence of obesity has
+been characterised as an epidemic by the WHO1. In most
+affluent populations the prevalence of obesity (cid:133)BMI .
+30 kg=m2(cid:134) among adults is 10–40%. Overweight (cid:133)25 ,
+BMI , 30 kg=m2(cid:134) affects an even larger proportion of the
+population than obesity. Overweight carries in itself an
+increased risk of the same complications as obesity and
+the risk is particularly high with abdominal obesity. The
+major complications are non-insulin-dependent diabetes
+(NIDDM or type 2 diabetes),
+ischaemic heart disease,
+hypertension, stroke, certain cancers and physical dis-
+ability, which together may account for 5–10% of all
+health costs (Table 1).
+
+Diabetes is the most important medical consequence of
+obesity because it is common, has serious complications,
+is difficult to treat, reduces life expectancy by 8–10 years
+and is expensive to manage. Type 2 diabetes is rapidly
+becoming one of the major non-communicable diseases
+in the EU. It accounts for 80–90% of the existing 110
+million diabetics worldwide, a number which is expected
+
+fat distribution and obesity account
+
+to reach 180 million by the year 20102. Overweight with
+abdominal
+for
+perhaps 80–95% of cases of type 2 diabetes and remain
+a major obstacle to the successful long-term management
+of the disease3. Women with a BMI of 23–24 are at 4-fold
+higher risk of type 2 diabetes than women with BMI , 22:
+Women with a BMI of 24–25 have a 5-fold increased risk,
+and those with BMI . 35 have a 93-fold increased risk, of
+type 2 diabetes4 (Fig. 1). Recent weight gain adds further
+to the risk of developing diabetes4. If body fat and fat
+distribution are taken into account an even larger
+proportion of diabetes cases can be explained by excess
+fat deposition.
+
+Although diabetes is not directly the cause of most of
+the excess mortality among obese subjects, the metabolic
+abnormalities underlying type 2 diabetes are clearly the
+result of obesity (Fig. 2), which in itself predisposes to
+hypertension and cardiovascular disease. Individuals with
+type 2 diabetes are at a high risk of developing a range of
+debilitating complications that can lead to disability and
+premature death. Cardiovascular disease is a particular
+problem for type 2 diabetics and 75% of deaths among
+
+*Corresponding author: Email ast@kvl.dk
+
+q The Author 2001
+
+500
+
+A Astrup
+
+Table 1 Relative risk of health conditions caused by obesity1
+
+Greatly increased
+(relative risk @3)
+
+Diabetes
+Gall bladder disease
+Hypertension
+Dyslipidaemia
+Insulin resistance
+Breathlessness
+Sleep apnoea
+
+Moderately increased
+(relative risk ca. 2–3)
+
+Slightly increased
+(relative risk ca 1–2)
+
+Coronary heart disease
+Osteoarthritis (knees)
+Hyperuricaemia and gout
+Asthma
+
+Cancer (breast cancer in postmenopausal women,
+endometial cancer, colon cancer)
+Reproductive hormone abnormalities
+Polycystic ovary syndrome
+Impaired fertility
+Low back pain
+Increased anaesthetic risk
+Foetal defects arising from maternal obesity
+
+individuals with type 2 diabetes are due to coronary heart
+disease. Such individuals experience a more than doubled
+risk of heart attack or stroke. Individuals with diabetes are
+at 17 times greater risk of peripheral vascular disease
+leading to amputation than non-diabetics2. Nephropathy
+can be seen in 8% of patients at the time of diagnosis and
+occurs in 40% of individuals who have had diabetes for 20
+years. At diagnosis 25% of individuals with type 2 diabetes
+have already undergone changes to the retina, and about
+2% of the diabetic population is blind.
+
+Some of these defects are reversible with weight loss,
+with a corresponding improvement
+in mortality. In a
+Swedish weight loss intervention study on obesity the 2-
+year incidence of diabetes was 6.3% in the control group
+and only 0.2% in the weight loss group5. This intervention
+study shows that .95% of new cases of type 2 diabetes
+among obese individuals can be prevented by a sustained
+weight loss5. Most of the benefit was maintained at 10
+years when the incidence of diabetes was still 5-fold
+lower than in controls, which corresponds to an 80%
+protection against developing diabetes6. In overweight
+diabetics the excess mortality is reversed by a 15–20%
+weight loss in the first year after diagnosis7. A deliberate
+
+weight loss of 0.5–9.0 kg is associated with a 30–40%
+reduction in diabetes related mortality8 (Fig. 3).
+
+Secular trends in obesity and diabetes in EU
+
+The prevalence of diabetes and the number of people
+affected by the disease in the EU is increasing rapidly.
+Causes are changes in ethnicity, the size of the popula-
+tion, sex distribution, age structure, degree of urbanisa-
+tion, and the increasing prevalence of overweight and
+obesity. Even without taking the expected impact of the
+obesity epidemic into consideration the increase in the
+prevalence of diabetes and the number of individuals
+affected in the first quarter of the 21st century is predicted
+to increase epidemically9. In the developed countries
+there will be a 27% increase in the prevalence of adult
+diabetes, and a 42% increase in the number of people
+from 1995 to 20259. For the EU the
+with diabetes,
+expected increases in the prevalence of diabetes and
+the number of affected individuals are shown in Table 2.
+These data are from 1995 and newer surveys suggest that
+the prevalence of diabetes already exceeds the prediction
+in certain countries. For example, in the U.K. a survey
+
+Fig. 1 Relative risk of type 2 diabetes increases with greater body mass index (BMI) in women. A BMI . 35 kg=m2 increases the risk of
+diabetes by 93-fold. The relation clearly demonstrates that
+type 2 diabetes essentially does not occur in lean women with a
+BMI , 22 kg=m24
+
+Prevention of obesity and type II diabetes
+
+501
+
+Fig. 2 A model to explain the contribution of different environmental factors to the development of type 2 diabetes. Most factors seem to
+exert their effect though an adverse effect of the enlarged body fat stores and of intraabdominal fat depositions in individuals with
+susceptibility genes, which together with physical inactivity is markedly responsible for the increased predisposition to diabetes (Modified
+from Astrup & Finer3)
+
+from Manchester indicates that 10% of the adult population
+is undergoing treatment for diabetes and that an even larger
+proportion of the population would be classified as having
+type 2 diabetes if the newly revised WHO criteria are
+applied (Kennedy Cruickshank, personal communication).
+
+factors, e.g. fetal programming. Weight gain and obesity
+develops
+in susceptible individuals when they are
+exposed to a lifestyle characterised by physical inactivity
+and an abundant availability of energy dense, high fat,
+palatable foods. The importance of these factors will be
+reviewed.
+
+Pathogenic mechanisms
+
+It
+is generally accepted that obesity develops on the
+background of a genetic predisposition and increased
+susceptibility may be developed by interaction with other
+
+The role of diet composition and energy density
+The abundant food energy supply in the majority of
+populations has removed limited energy availability as a
+restricting factor for the development of obesity. The
+
+Fig. 3 Intentional weight loss results in significantly reduced mortality rates for women with obesity related health problems. Mortality in
+obese type 2 diabetics was reduced by 44% with an intentional weight loss of 1–19 lb (0.5–9 kg) (Modified from Williamson et al.8)
+
+502
+
+A Astrup
+
+Table 2 Estimated prevalence of population type 2 diabetes,
+numerical estimates, and projections in countries in the European
+Union from 1995 to 20259
+
+Country and year
+
+Prevalence (%)
+
+(000)
+
+Number of people
+
+proliferation of cheap, highly palatable, high fat, instant,
+fast and pre-packaged foods is assumed to contribute to
+overconsumption and to divest consumers of control over
+the preparation of their own foods.
+
+Austria
+1995
+2000
+2025
+Belgium
+1995
+2000
+2025
+
+Denmark
+
+1995
+2000
+2025
+France
+1995
+2000
+2025
+
+Germany
+
+1995
+2000
+2025
+Greece
+1995
+2000
+2025
+Iceland
+1995
+2000
+2025
+Ireland
+1995
+2000
+2025
+
+Italy
+
+1995
+2000
+2025
+
+Luxembourg
+
+1995
+2000
+2025
+
+Netherlands
+
+1995
+2000
+2025
+Norway
+1995
+2000
+2025
+
+Portugal
+
+1995
+2000
+2025
+
+Spain
+
+1995
+2000
+2025
+Sweden
+1995
+2000
+2025
+
+UK
+
+1995
+2000
+2025
+
+2.0
+2.1
+2.7
+
+2.1
+2.2
+2.7
+
+8.3
+8.4
+10.8
+
+2.1
+2.1
+2.6
+
+2.1
+2.2
+2.8
+
+7.6
+7.8
+9.6
+
+7.0
+7.8
+9.3
+
+1.8
+1.8
+2.3
+
+7.5
+7.8
+10.0
+
+2.0
+2.1
+2.7
+
+1.9
+2.0
+2.7
+
+8.6
+8.6
+10.2
+
+7.1
+7.3
+8.8
+
+7.2
+7.3
+9.5
+
+9.3
+9.4
+11.2
+
+2.1
+2.1
+2.5
+
+123
+130
+178
+
+164
+171
+221
+
+329
+335
+428
+
+881
+935
+1,234
+
+1,359
+1,434
+1,770
+
+607
+650
+772
+
+13
+14
+23
+
+43
+46
+66
+
+3,369
+3,592
+4,365
+
+6.2
+6.8
+9.3
+
+222
+242
+354
+
+276
+280
+363
+
+513
+538
+674
+
+2,156
+2,303
+2,952
+
+614
+631
+827
+
+912
+934
+1,186
+
+that
+
+in their metabolic effects,
+
+Regulation of the macronutrient balances
+The traditional concept of the energy balance equation,
+which describes weight gain as an excessive positive
+energy imbalance, can usefully be replaced by a series of
+macronutrient balance equations in which gains in body
+fat stores are viewed specifically as an imbalance of fat.
+The background for this replacement is that Joules are not
+equal
+interconversion
+between the 4 macronutrients is negligible, and that an
+oxidative hierarchy operates in inverse proportion to the
+size of available stores for each macronutrient. However,
+an excessive carbohydrate ingestion can lead to increased
+fat deposition by suppressing lipolysis and fat oxidation.
+Amino acid, glucose and alcohol oxidations adjust readily
+to protein, carbohydrate, and alcohol intakes. Seen over a
+period of a few days, regulation appears to be geared
+primarily to the suppression of hunger through gastro-
+to the maintenance of appropriate
+intestinal signals,
+glycogen reserves and,
+to the
+maintenance of body fat stores.
+
+to a lesser extent,
+
+Alcohol is most readily oxidised because it cannot be
+stored. Oxidation of carbohydrate and protein are also
+under tight auto-regulatory feedback control: oxidation
+increases in direct response to intake. In contrast, there is
+virtually no acute feedback between fat intake and fat
+oxidation. Fat oxidation is primarily a function of the gap
+between total energy expenditure and the amount of
+alcohol, protein and carbohydrate energy consumed,
+resulting in a much less accurately maintained fat balance.
+Though regulatory responses serving to achieve fat
+balance exist, their effectiveness in inhibiting the expan-
+sion of
+the fat mass seems to be limited. Leptin, a
+hormone secreted from adipose tissue at an increased rate
+when the fat mass is expanded, inhibits food intake and
+increases sympathetic nervous system activity through a
+central action. However, the 10-fold higher circulating
+leptin concentrations in obese than in lean subjects
+suggest
+to
+restrict energy intake in obese individuals. Long-term fat
+and energy balances tend to remain close to zero over
+prolonged periods once a weight maintenance plateau
+has been reached (i.e. less than 2–3% error relative to
+energy turnover considered over one year).
+
+lipostatic mechanisms are insufficient
+
+that
+
+In conclusion, protein, carbohydrate and ethanol
+oxidation rates relate well to the respective intake of
+these nutrients. Dietary fat oxidation, however, relates
+poorly to daily variations in fat consumption. This is a
+probable explanation as
+to why obesity develops
+particularly among individuals with a genetically deter-
+mined low fat oxidation capacity when the diet is high in
+fat and when physical activity is limited.
+
+Prevention of obesity and type II diabetes
+
+503
+
+Role of diet composition in obesity and risk factors
+The establishment of a causal link between exposure to a
+diet component and weight gain and obesity should be
+based on all the available lines of evidence, i.e. feeding
+studies in experimental animals, observational cross-
+sectional and longitudinal human studies, short-term
+experimental and mechanistic studies and intervention
+studies10. These lines of evidence will be reviewed briefly.
+
+X Experimental studies on diet composition and
+energy intake. Considering the problem of weight gain
+and obesity, the issue is to determine the nature of the
+dietary components which facilitate consumption and
+lead to a positive energy balance. Dietary components
+can influence energy intake by acting during consump-
+tion and in the period following eating (post-ingestive
+period). Dietary protein exerts a potent effect on satiety
+and provides the strongest inhibition of energy intake.
+Delivered in iso-energetic amounts, high protein meals
+generate stronger satiety than high carbohydrate meals.
+An active area of interest involves comparisons of fat and
+carbohydrate. Subjects exposed to high fat foods for a
+period of weeks tend to overconsume energy. This effect
+depends largely on the high energy density of the high fat
+foods. The overeating effect has been referred to as
+passive overconsumption11,12. It should be noted that the
+stimulatory effect of fatty foods on energy intake is not
+only due to their high energy density but also to the
+probable facilitatory action of fat in the mouth. It has been
+known for many years that offering subjects high fat or
+high carbohydrate foods which have been manipulated to
+be equally energy dense eliminates the high fat overeating
+phenomenon in normal, non-genetically predisposed
+individuals.
+
+The passive overconsumption effect of fat on energy
+intake is due to an action during consumption (it is an
+intra-meal effect). The large amounts of
+fat energy
+consumed do not appear to generate equivalent effects
+on post-ingestive satiety12. Therefore fat has a propor-
+tionally weaker effect on satiety relative to the amount of
+energy consumed. In studies where energetically equiva-
+lent preloads of fat and carbohydrate have been delivered
+it appears that fat does exert a weaker satiating effect (on
+a Joule for Joule basis) than the other macronutrients.
+
+A large body of short-term studies on appetite and
+energy intake unequivocally show that fat is less satiating
+than carbohydrate and protein when compared Joule for
+Joule, and that high fat foods are more likely to induce
+passive overconsumption and weight gain than low fat
+foods13,14.
+
+X Observational studies linking diet composition
+with obesity. Numerous cross-sectional studies have
+clearly demonstrated positive associations between the
+proportion of total energy intake covered by fat and body
+fatness, and inverse associations between carbohydrate
+
+intake is difficult
+
+and body fatness13,14. In contrast, a number of long-
+itudinal studies have been unable to establish any
+association between self-reported dietary fat and carbo-
+hydrate intakes and subsequent weight change. However,
+evidence based on observational studies looking for
+associations between habitual dietary macronutrient
+intakes and body fatness have a number of limitations
+due to their reliance on information about dietary intake
+given by the subjects under examination. Valid informa-
+tion on dietary fat
+to achieve in
+populations that are recommended to reduce fat intake,
+because they may either eat a more healthy diet during
+the dietary survey or they may under-report fat intake.
+Furthermore, because fat oxidation is not increased in
+response to acute increases in fat
+intake day-to-day
+fluctuations in dietary fat intake, which are not captured
+by reporting average fat intake, could lead to episodic
+bouts of fat storage. It is well established that overweight
+and obese subjects under-report their energy intake by
+30–40% (Fig. 4), and fat may be over-represented in this
+under-reporting15. Studies in health conscious popula-
+tions show that high fat foods are under-reported whereas
+low fat foods are over-reported. It seems to be easier to
+demonstrate associations between dietary fat intake and
+subsequent weight changes in less health conscious
+populations such as in China, than in it is in the EU and
+the United States.
+
+One may therefore question the validity of the dietary
+surveys reporting a decrease in fat consumption in the
+population. The surveys’ estimates of dietary fat energy-%
+in U.S.A. show a decrease from 42% in 1965 to 37% in 1987,
+whereas per capita values of fat intake and dietary fat
+energy-% based on food availability increased from 42 to 43
+energy-% in the same period. Although the food disap-
+pearance data does not include some types of food losses
+and waste (e.g., trimming fat from meats), and commodities
+used in pet foods are not subtracted from the total amounts
+available in the food supply,
+the increasing lack of
+agreement is strongly suggestive of a substantial under-
+reporting of dietary fat in the surveys. This is not surprising
+as one would expect subjects to report more healthy eating
+habits when asked to give information to nutrition experts.
+Moreover, the well described under-reporting of energy
+and fat consumption among obese subjects may have extra
+significance in surveys conducted in a population where
+the majority are either overweight or obese. Recent
+statistics actually demonstrate that fat consumption in the
+USA has not declined16.
+
+In conclusion, cross-sectional studies quite consistently
+support that a high fat, low carbohydrate diet contributes
+to the maintenance of the obese condition. However the
+consistent outcome should not be given major weight in
+the assessment of the dietary fat and body fat relationship
+because of the methodological limitations in obtaining
+valid information about dietary macronutrient intakes in
+diet conscious and overweight populations.
+
+504
+
+A Astrup
+
+Fig. 4 Energy expenditure (energy requirements) of normal weight, and obese subjects. Relationships between body weight and energy
+requirements assessed by measurement of energy expenditure or by apparent energy intake during weight stability. The growing under-
+reporting with increasing body fatness makes the self-reported energy intake invalid for estimation of energy requirements in obese
+individuals50
+
+low fat, high carbohydrate diet
+
+X Intervention studies. Randomised, controlled, ad
+libitum,
+intervention
+studies, with control groups maintaining their usual diet
+or consuming a medium to high fat diet, show mean
+weight losses in the intervention groups over a period of
+3–6 months ranging between 0 and 10 kg. This large
+variability and inconsistent outcome has created doubt
+about the effectiveness of a low fat diet in the prevention
+and treatment of overweight and obesity, and questioned
+the role of dietary fat in body fatness. Willett et al. have
+stated that ‘Diets high in fat do not appear to be the
+primary cause of the prevalence of excess body fat in our
+society, and reductions in [dietary] fat will not be the
+solution’ and ‘in the longer term, fat consumption within
+the range of 18–40% appears to have little if any effect on
+body fatness’17. One must admit
+loss
+achieved by a low-fat diet in some of the randomised
+clinical trials is so modest that it is difficult to imagine how
+a severely obese subject can benefit from a reduction in
+dietary fat. However, the suggestion that saturated fat
+should be replaced by monounsaturated fat rather than by
+carbohydrate may pose the risk that
+fat
+consumption, which already exceeds the recommended
+level, may be further increased.
+
+the current
+
+that
+
+the weight
+
+Trials assessing the effect of ad libitum low fat diets on
+body weight may suffer from uncertainties about adher-
+ence to the diet composition, but
+the data may be
+improved by taking factors such as pre-treatment body
+weight, reduction in dietary fat and compliance into
+consideration. A recent systematic review concluded that
+dietary fat does play an important role in human obesity.
+Based on 28 intervention trials Bray and Popkin found
+that a reduction of 10% in the proportion of energy from
+fat was associated with a reduction in weight of 16 g/d,
+which corresponds to a weight loss of 2.9 kg over 6
+months13. Our recently conducted meta-analysis includ-
+ing data from 18 controlled, ad libitum, low fat, 2–12
+months trials on weight change involved 1728 normal and
+
+loss
+
+overweight individuals of both gender14. The analysis
+showed that a reduction in dietary energy from fat over
+2–12 months is associated with a spontaneous weight loss
+of 2.5 kg (95-% CI, 1.5–3.5; P , 0:0001(cid:134) more in the
+intervention than in the control group (Fig. 5). The
+analysis indicated that only minor weight loss occurred in
+groups with body weights in the normal range (60–
+72 kg), but
+this group did not experience the slight
+weight gain seen in the control groups consuming normal
+fat diets. Weight
+increased progressively with
+increasing initial body weight. If extrapolated to a body
+weight of 88 kg (corresponding to a BMI ,30 kg/m2),
+and assuming a 10%-point fat reduction from a typical
+habitual reported dietary intake of 38% energy from fat,
+the predicted weight loss would be 4.4 kg (95-% CI, 2.0 to
+6.8 kg). Another meta-analysis used more liberal inclu-
+sion criteria and was based on 37 dietary intervention
+studies published from 1981 to 199718. The weight loss in
+the intervention groups was 2.79 kg larger than in the
+control groups, and there was a highly significant
+relationship between reduction in dietary fat and weight
+loss, so that for every 1% decrease in energy from fat there
+was a 0.28 kg decrease in body weight over a couple of
+months.
+
+These analyses show that a reduction in dietary fat
+without restriction of total energy intake causes weight
+loss in a dose-dependent
+fashion and may produce
+weight stability in normal weight subjects, and a modest
+but clinically relevant weight loss in overweight subjects.
+The dose-dependent relationship between the reduction
+in fat energy-% and weight change found in these meta-
+analyses is important because it shows that there is a
+progressive effect on body weight when dietary fat
+content is reduced down to 15–20% fat energy (Fig. 6).
+This is also reflected in the FAO recommendations19:
+‘Depending on their activity level and dietary pattern
+adults should receive between 15% and 35% of their
+Joules from fat’. Although it may not be realistic to reduce
+
+Prevention of obesity and type II diabetes
+
+505
+
+Fig. 5 Meta-analysis of weight loss produced by ad libitum low fat, complex carbohydrate rich diets from 16 studies lasting more than 2
+months in normal weight and overweight subjects. Estimated differences in weight change (intervention minus control) (kg) with 95%
+confidence intervals. The estimates and 95% confidence intervals from the fixed effects and random effects meta-analysis are also shown14
+
+dietary fat to less than 20% in EU populations, the 20%
+may be a requisite to prevent weight gain in sedentary
+individuals.
+
+X Importance of carbohydrate source and glycae-
+mic index for obesity and risk factors. Carbohydrates
+contribute markedly to the satiating efficiency of foods
+and exert clear effects on satiety. This forms part of the
+‘glucostatic’ mechanism of appetite control. A variety of
+carbohydrates, including glucose, fructose, sucrose and
+maltodextrins, exert fairly similar effects on satiety - when
+given in a pre-load they suppress later intake by an
+amount roughly equivalent to their energetic value. The
+time course of the suppressive action may vary according
+to the rate at which the high carbohydrate loads are
+metabolised, as demonstrated by the amylose content of
+starch. There is also some evidence that the degree of
+satiety is related to the glycaemic index of the carbohy-
+drate in the food20. Resistant starch (dietary fibre) may
+prolong satiety by modulating the time course of the pre-
+and post-absorptive satiety signals. Fibre can also limit
+intake by lowering the energy density of the food, thus
+allowing time for satiation (and early satiety signals) to
+occur before large amounts of energy have been
+consumed.
+
+The relative contributions of the carbohydrate sources
+in the diet have therefore potential implications for body
+weight regulation and obesity. The intake of alcohol and
+
+protein has remained relatively constant
+in most EU
+countries over the last 50 years and together these
+nutrients represent
+less than 20% of the total energy
+intake. The main dietary change has been the increase in
+fat intake at the expense of carbohydrates. The inverse
+relationship between dietary fat and carbohydrate has
+been demonstrated in numerous cross-sectional studies in
+countries with very different socio-economic status. It is
+particularly the simple sugars, rather than the complex
+carbohydrates, which tend to counterbalance the fat
+energy of the diet. This phenomenon has been dubbed
+‘fat-sugar see-saw’. Cross-sectional observational studies
+have quite consistently shown a negative association
+between body weight and the proportion of dietary
+carbohydrate,
+in particular simple sugars. One of the
+largest data sets is derived from the Scottish part of the
+Monica Survey and clearly shows an inverse relationship
+between sugar intake and obesity21. When divided into
+quintiles according to the fat:sugar ratio, there was a 2–3
+fold higher prevalence of obesity in the highest versus the
+lowest quintile. One of
+the shortcomings of cross-
+sectional surveys is the possibility that the dietary pattern
+may represent a post-hoc event, i.e. that obese individuals
+have adopted a particular diet composition consequent to
+their obesity. For example, if obese subjects in an effort to
+reduce their energy intake have replaced sugars with
+artificial sweeteners their sugar
+intake will be low.
+Experimental studies and short-term intervention studies
+
+506
+
+A Astrup
+
+Fig. 6 Meta-analyses of relationship between reduction in dietary fat content and spontaneous reduction in body weight. Each dot
+represents a study. Upper panel14. Lower panel18
+
+do not provide a firm conclusion as some studies suggest
+that low fat, high sugar diets may increase energy intake
+above that of a similar low fat diet with a high complex
+carbohydrate content22. The only available long-term
+study is the European multicenter trial CARMEN23. In that
+study 398 overweight and obese adults with a BMI
+between 26 and 35 were randomised to a dietary
+intervention of either a low fat, high simple carbohydrate
+diet, a low fat, high complex carbohydrate diet, or to
+continuation of the control diet. The diets were supplied
+by a validated laboratory shop system. A diet low in fat
+and with an increased level of complex carbohydrates
+lowered body fat mass by 2.4 kg more than the control
+diet. To a lesser extent it also reduced fat mass compared
+
+to the control diet (1.9 kg). Though the difference in
+weight loss between complex and simple carbohydrate
+groups was not statistically significant, it is possible that
+the low fat, simple carbohydrate diet
+is slightly less
+effective in inducing weight loss. It should be noted that
+there was no difference in energy density between the
+two low fat diets in the CARMEN study. Given the
+important role of energy density in passive overconsump-
+tion the introduction of low fat, low moisture content
+foods, such as cakes and biscuits in which fat
+is
+substituted by simple sugars but energy density is
+unchanged, may impair the expected decrease in energy
+intake and hence play a role in maintaining excess body
+weight in some subjects.
+
+Prevention of obesity and type II diabetes
+
+507
+
+fat
+
+is an independent
+
+X Diet composition and prevention of diabetes.
+Prevention of weight gain and obesity are key features in
+the prevention of diabetes. However, apart from an effect
+on body weight, diet composition also has effects on risk
+factors associated with diabetes and its major complica-
+tions. There is even some epidemiological evidence to
+support that the consumption of high-glycaemic index
+diets
+risk factor of developing
+diabetes24,25. Some evidence is available for a differential
+effect of carbohydrate sources on insulin resistance, on
+blood lipids and on other cardiovascular risk factors. It is
+often argued that a reduction in total
+intake,
+accompanied by a rise in carbohydrate intake, leads to a
+rise in plasma triglycerides and a fall in plasma HDL-
+cholesterol, which would be expected to increase the risk
+of CHD. Furthermore it has been suggested that mono-
+unsaturated fat (MUFA) has a more beneficial effect on
+risk factors of CHD than carbohydrate. This is true in
+studies where carbohydrate has been compared with
+MUFA under strictly isoenergetic conditions and no
+weight loss was allowed to occur on the low fat, complex
+carbohydrate diet. But
+in studies allowing ad libitum
+intake the changes in blood lipids are dominated by the
+slight weight loss induced by the low fat diet. This was
+illustrated by Schaefer et al. in a study on hyperlipidemic
+individuals where the dietary fat content was first
+changed from 35 to 15 energy-% under isoenergetic
+conditions so that body weight was kept constant26. After
+6 weeks total cholesterol was reduced by 13% and LDL-
+cholesterol by 17%, but HDL-cholesterol decreased by
+23% and plasma triglycerides increased by 47%26. Subse-
+quently the individuals continued for a further 10–12
+weeks on an ad libitum diet of the same composition.
+Now the diet caused a mean weight loss of 3.6 kg, a
+further reduction in LDL-cholesterol, and the normal-
+isation of plasma triglycerides and the ratio of HDL-
+cholesterol/total-cholesterol. This has been confirmed in
+a systematic review and meta-analysis evaluating the
+effects of the American National Cholesterol Education
+Program’s dietary interventions on major CVD risk
+factors18 (evidence category A, see Table 327).
+
+However, the carbohydrate source and the glycaemic
+index may have importance for the effect on risk factors.
+Both observational and intervention studies show that a
+low glycaemic index diet exerts more beneficial effects
+than a high glycaemic index diet on LDL- and HDL-
+cholesterol, insulin resistance, and plasminogen activator
+inhibitor-1 activity. The glycaemic index may have
+particular importance for determining HDL-cholesterol28.
+Consequently, the high carbohydrate content of low fat
+diets should stem mainly from the complex carbohydrates
+of different vegetables, fruits and whole grains, which are
+more satiating for fewer Joules than fatty foods, and are a
+good source of vitamins, minerals, trace elements and
+fibre. A high fibre content may further improve the
+satiating effect of the diet and a diet rich in soluble fibre,
+
+including oat bran, legumes, barley and most fruits and
+vegetables, has the most beneficial effect on blood lipids
+and blood pressure levels. The Nordic Dietary Recom-
+mendations recommend a fibre intake of 25 to 30 grams
+daily29, and 18 g/d (individual range 12–24 g/d) of non-
+starch polysaccharides were proposed by the British
+Panel on Dietary Reference Values30.
+
+that
+
+suggest
+
+In conclusion, there is little evidence to support that
+differences in carbohydrate source may be important for
+body weight regulation and propensity to obesity. While
+short-term studies
+foods with a low
+glycaemic index exert a stronger effect on satiety than
+those with a high index, long-term studies are lacking and
+the importance for body fatness is unknown. Changing
+from a high fat, low carbohydrate diet to a low fat, high
+carbohydrate diet with a low glycaemic index exerts
+beneficial effects on risk factors of cardiovascular disease
+and diabetes, while HDL-cholesterol may be lowered by
+high glycaemic index diets (evidence category B).
+
+X Dietary recommendations for individuals with
+diabetes. According to the European Association for the
+Study of Diabetes (EASD) the dietary guidelines for the
+treatment of diabetes are very similar to recommendations
+for obese subjects and for the prevention of diabetes,
+except for a more liberal attitude to a higher total fat
+content providing 10–18 of total energy-% derived from
+cis-monounsaturated fatty acids (MUFA)31. However, they
+admit that whether increased MUFA fat intake in diabetics
+inevitably leads to weight gain needs to be studied.
+Carbohydrate containing foods, which are rich in soluble
+fibre or have a low glycaemic index are especially
+recommended31. Increased physical activity, even without
+a weight loss, contributes to the prevention of type 2
+diabetes, and given the effects on body fat and other
+benefits more physical activity is an important part of the
+recommendations.
+
+X The role of protein for obesity and risk factors.
+There is some concern that a high protein intake in infant
+formulas and during growth may increase the suscept-
+ibility to weight gain and obesity32. However, there is a
+large body of experimental data to suggest that protein
+possesses a higher satiating power per Joule in adults than
+carbohydrate and fat. The impact on obesity and risk
+factors of replacing carbohydrate with protein in ad
+libitum low fat diets has been addressed in only one
+randomised controlled trial. Two fat reduced diets (30% of
+total energy), a high carbohydrate diet (protein 12% of
+total energy) and a high-protein diet (protein 25% of total
+energy) were compared in 65 obese individuals33. Weight
+loss after 6 months was 5.1 kg in the high carbohydrate
+and 8.9 kg in the high protein groups (cid:133)P , 0:01(cid:134); and
+more subjects lost .10 kg in the high protein group
+(35%) than in the high carbohydrate group (9%). The
+protein rich diet had no adverse effect on blood lipids,
+
+508
+
+Table 3 Evidence categories27
+
+A Astrup
+
+Evidence Category
+
+Sources of Evidence
+
+Definition
+
+A
+
+B
+
+C
+
+D
+
+Randomized controlled trials
+(rich body of data)
+
+Randomized controlled trials
+(limited body of data)
+
+Evidence is from endpoints of well-designed RCTs
+(or trials that depart only minimally from randomization)
+that provide a consistent pattern of findings in the population
+for which the recommendation is made. Category
+A therefore requires substantial numbers of studies involving
+substantial numbers of participants.
+
+Evidence is from endpoints of intervention studies that include
+only a limited number of RCTs, post hoc or subgroup analysis
+of RCTs, or meta-analysis of RCTs. In general, Category B
+pertains when few randomized trials exist, they are small in size,
+and the trial results are somewhat inconsistent, or the trials
+were undertaken in a population that differs from the target
+population of the recommendation.
+
+Nonrandomized trials Observational trials
+
+Evidence is from outcomes of uncontrolled or nonrandomized
+trials or from observational studies.
+
+Panel consensus judgment
+
+Expert judgment is based on the panel’s synthesis of evidence
+from experimental research described in the literature and/or
+derived from the consensus of panel members based on
+clinical experience or knowledge that does not meet the above-listed
+criteria. This category is used only in cases where the provision of
+some guidance was deemed valuable but an adequately compelling
+clinical literature addressing the subject of the recommendation was
+deemed insufficient to justify placement in one of the other categories
+(A through C)
+
+renal function or bone mineral density. Replacement of
+some dietary carbohydrate by protein in ad libitum, low
+fat diets may improve weight
+loss. More freedom to
+choose between protein rich and complex carbohydrate
+rich foods may encourage obese subjects to choose more
+lean meat and dairy products and hence improve
+adherence to low fat diets in weight reduction pro-
+grammes.
+
+The consumption of meat and meat products has been
+linked epidemiologically to cancers at different sites.
+Ecological studies of diet and cancer have tended to show
+a correlation between meat intake, particularly red meat,
+and the risk of colo-rectal cancer, but more recent
+European case referent studies have failed to show any
+relationship34. The available evidence points to the intake
+of protective factors such as vegetables and whole-grain
+cereals being the main determinants of colo-rectal cancer
+risk, with meat intake being only coincidentally related34.
+The type, amount, processing, cooking and dose
+responses of meat or protein responsible for the increased
+risk of other cancers are uncertain, and the current
+recommendation of a 140 g limit is a pragmatic value,
+based on the distribution of meat
+intake in the UK
+population35.
+
+for weight
+
+In conclusion, the available evidence suggests that a
+diet with a protein content up to 25 energy-% may be
+beneficial
+regulation in adults (evidence
+category B). Protein allowances in diets for weight
+reduction and for diabetics of up to 25 energy-% should
+await confirmation of
+the positive results by more
+randomized trials.
+
+X Fat quality. Although similar amounts of different fats
+contain nearly the same amount of energy, differences
+may exist in their satiating effects, which may influence
+the total energy intake of ad libitum, low fat diets and
+weight maintenance diets. From a biochemical and
+physiological point of view fatty acids behave very
+differently, and monounsaturated fats (MUFA) seem to
+be more neutral than other fats in relation to insulin
+resistance, type 2 diabetes, CHD and cancer. However,
+animal studies suggest that MUFA increase body weight
+more than polyunsaturated fatty acids (PUFA)36. In a
+cross-sectional, observational study the highest positive
+correlation was found between the intake of MUFA and
+body fat mass, whereas no significant association was
+found between PUFA and body fat, and only a weak
+association to saturated fat was seen37. Two experimental
+appetite studies have concordantly shown that meals/
+infusions with MUFA produce lower satiety and suppress
+energy intake for the remainder of the day less than
+PUFA38. These preliminary reports suggest that a high
+MUFA content
+in the diet may promote passive over
+consumption and obesity. Until randomised clinical trials
+have been conducted some caution should be exercised
+in recommending replacement of PUFA with MUFA in
+diets for
+individuals susceptible to weight gain and
+obesity.
+
+X Alcohol. The impact of alcohol
+intake on weight
+regulation is not well understood39. Observational epide-
+miological studies addressing the relationship between
+alcohol intake and obesity are probably more tenuous
+
+Prevention of obesity and type II diabetes
+
+509
+
+than those addressing relationships with other dietary
+factors, because the problems of under-reporting are
+more severe. Surveys conducted in several different EU-
+countries quite consistently show that non-drinkers are
+more likely to be overweight and obese than individuals
+that drink alcohol. However, there is an important gender
+there is a slight positive
+difference. Among males
+association between alcohol
+intake and body fatness,
+while in females a strong inverse relationship is
+suggested,
+i.e. that the prevalence of obesity in non-
+drinkers is 2 times higher than in those with the highest
+alcohol intake. Neither suppressed intake of other foods,
+higher levels of physical activity or enhanced thermo-
+genic effect of alcohol seem to explain the apparent
+reduced body weight of high alcohol consumers. The
+discrepancy between the law of thermodynamics and the
+epidemiological findings remains to be reconciled.
+
+In the meantime a conservative view on alcohol should
+be held: alcohol provides energy which is likely either to
+displace, or to be additive to, more nutritious foods.
+Alcohol suppresses fat oxidation, thereby allowing more
+dietary fat to be stored. The satiating effect of alcohol
+energy may be low and alcohol consumption has been
+shown to promote passive over consumption of fat. High
+alcohol consumption also increases the risk of losing
+control over otherwise restrained behaviour. Conse-
+quently, energy from alcohol should be limited.
+
+Physical activity
+
+Observational studies on physical activity and body fat
+gain
+Physical activity is a term used to describe all movement
+produced by skeletal muscles which increases energy
+expenditure, whether exercise or sport. At present daily
+participation in moderate and vigorous physical activities
+is low, and activity decreases with increasing age. There
+has been a critical reduction in incidental lifestyle related
+activity, resulting in reduced energy expenditure and
+fitness in most populations in the last 30 years. There are
+now fewer active jobs, greater reliance on motorised
+transport, sedentary home entertainment, and labour-
+saving devices at home, at work and in the shopping
+environment. The small increases in moderate to vigorous
+leisure time and sports activities are not sufficient
+to
+counterbalance this decrease. The development in young
+people is of particular concern. Numerous cross-sectional
+and longitudinal
+studies have shown associations
+between physical inactivity and obesity40. Prentice and
+Jebb41 have shown that two indicators of inactivity (hours
+per week of television viewing and number of cars per
+household) are closely related to the current British
+secular trend in obesity (Fig. 6). Furthermore, older
+subjects tend to be more inactive than their younger
+counterparts and this difference has been suggested to
+contribute to obesity. It is supported by 10-year follow-up
+
+data on females with a mean age of 46 from the NHANES-
+I study where, at baseline and at follow-up, physical
+activity was inversely related to body weight. Subjects
+with a low physical activity level at follow-up were 3.8
+times more likely to have gained .13 kg during the
+preceding 10 years. Other prospective studies have found
+that low levels of physical activity are associated with
+weight gain and larger increases in waist circumference.
+Cross-sectional studies have demonstrated that subjects
+who regularly perform endurance exercise have less body
+fat and trunk fat
+than sedentary controls. Both the
+exercise volume and fitness were inversely related to
+total fat mass. Some studies have failed to confirm this
+finding, but in larger cross-sectional studies, with controls
+for more confounders, intra-abdominal fat measured with
+computed tomography was inversely related to physical
+activity. When the quantification of physical activity is
+improved by measurement of total free living energy
+expenditure by doubly labeled water technique, reduced
+physical activity levels are seen to be associated with
+increased body fat.
+
+In a recent systematic review and meta-analysis of
+controlled intervention studies, Fogelholm and Kukko-
+nen-Harjula
+concluded that exercise training only
+reduced weight gain from 0.33 to 0.28 kg/month in
+comparison with a sedentary control group. However, in
+most of the studies the increase in energy expenditure
+in physical activity (EEPA) was modest and the compli-
+ance uncertain40. They concluded that an increase in
+energy expenditure in sedentary individuals of approxi-
+mately 6.3–8.4 MJ/week was associated with improved
+weight maintenance. However, the amount of physical
+activity necessary to prevent weight gain was not
+identified. Schoeller et al. measured EEPA by doubly
+labeled water in previously obese women and found that
+a PAL (Total EE: RMR) of 1.9–2.1 was the threshold
+required to exceed for weight maintenance42. This
+corresponds to EEPA of 47 kJ/kg · d (Fig. 7), or 80 min/
+d of moderate physical activity, or 35 min/d of vigorous
+activity added to a sedentary lifestyle42. The threshold is
+probably higher
+in previously obese subject and in
+individuals with increased susceptibility to weight gain
+than in subjects without
+this predisposition. There is
+epidemiological evidence to suggest
+the risk of
+obesity increases sharply at a PAL of less than 1.80, which
+should be taken into consideration when recommending
+increased physical activity43. However, one should be
+aware of the evidence for an interaction between dietary
+fat content and physical activity, which suggests that less
+physical activity is needed for those consuming a low-fat,
+high-carbohydrate diet (see below).
+
+that
+
+Intervention studies on obesity and fat distribution
+Uncontrolled studies suggest
+that endurance training
+reduces both body fat and abdominal fat, and that strength
+training may cause a 10% reduction in intra-abdominal
+
+510
+
+A Astrup
+
+factors. However, such estimates are potentially mislead-
+ing because they may give the impression that most obese
+have been genetically predetermined to their obesity, and
+that changes in lifestyle factors may have little impact in
+changing the increase in body weight11. However, these
+estimates are highly dependent on the variation in
+environmental obesity promoting factors. For instance,
+in a highly sedentary study population, where almost all
+subjects are uniformly sedentary, most variance between
+the subjects in body fatness might be attributed to genetic
+factors. How does this fit with the observed epidemic of
+obesity, as it may be assumed that the gene pool has not
+changed in this period of time? The obesity genes are
+regarded as susceptibility genes, which are expressed and
+become functional only when the individual is exposed to
+a certain set of environmental factors, such as an energy
+dense diet and a sedentary lifestyle. Currently, mono-
+genetic obesity is extremely rare and the genetic influence
+on obesity should be regarded rather as a predisposition
+to body weight gain and obesity due to the presence of
+alleles on several
+the increased
+susceptibility.
+
+loci bringing about
+
+Obesity is a classic example of a non-communicable
+disease of complex multifactorial origin. One character-
+istic is that it is caused not only by lifestyle and other
+environmental factors, but also by genetic determinants.
+There are important individual differences in responses to
+various
+lifestyle and environmental exposures, and
+genetic factors play an important role in modulating this
+responsiveness. Such genetically mediated sensitivity to
+environmental exposure is referred to as gene-environ-
+ment interaction. Food intake and physical activity are
+examples of environmental factors that influence the risk
+of obesity and diabetes. A lifestyle characterized by daily
+physical activity and by the recommended diet is known
+to reduce the risk of obesity and diabetes. These
+population based recommendations do not
+take into
+account the large individual differences observed in the
+response to changes in diet and physical activity and
+assume that everybody responds in a similar manner.
+However, several studies have shown that
+there is a
+considerable heterogeneity in the response in plasma
+lipids to changes in dietary fat and in the response of the
+indicators of cardiorespiratory endurance to regular
+exercise. What
+is generally considered an obesity
+promoting and atherogenic diet may in reality pose little
+risk for some segments of the population. In contrast,
+what is considered a prudent diet for the majority of the
+population may have little beneficial effect on a particular
+segment of that population. The background for this
+heterogeneity is currently only partly understood but
+there is considerable evidence, both from studies of twins
+and from molecular studies, to support that genes play a
+role in this phenomenon. Genetic variations in several
+candidate genes have been investigated for their potential
+role in determining the response to diet change and
+
+Fig. 7 Relationship between the free living energy expenditure
+produced by habitual physical activity and subsequent gain of body
+fat among a group of
+females with increased susceptibility to
+weight gain. The intercept with weight gain (cid:136) 0 indicates that
+weight stability requires a daily energy expenditure of at least
+47 kJ/kg body weight, which corresponds to an average of 80 min/
+d of moderate activity or 35 min/d of vigorous activity added to a
+sedentary lifestyle. (Modified from Schoeller et al.42)
+
+adipose tissue without any notable decrease in body
+weight or body fat. Studies combining diet and exercise
+do not allow a separation of the effects of diet and
+exercise. In a recent report on the treatment of over-
+weight and obesity27 the following conclusions were
+reached: (1) Physical activity contributes to weight loss,
+both alone and in combination with dietary therapy
+(evidence category A). (2) Physical activity contributes to
+a decrease in body fat,
+including a modest effect on
+abdominal fat (evidence category B). (3) Physical activity
+in overweight and obese adults increases cardiovascular
+fitness independent of weight loss (evidence category A)
+and (4) Physical activity reduces cardiovascular disease
+risk factors and reduces the risk of cardiovascular disease
+(evidence category C).
+
+Conclusions
+Observational cross-sectional and longitudinal studies
+show that subjects with high levels of physical activity
+have lower body fat and abdominal fat and are less likely
+to gain total and abdominal fat than those with low levels
+of physical activity (evidence category C). Randomised
+controlled trials comparing exercise with no intervention,
+and diet with diet plus exercise, are few, but the results
+available show that increased physical activity prevents or
+limits the gain of total fat and abdominal fat.
+
+Genetics of obesity
+
+Genetic susceptibility to obesity
+It is well known that obesity tends to run in families.
+Current family, twin and adoption studies have provided
+strong evidence of a genetic influence on body weight
+and obesity. Estimates have suggested that up to 80% of
+the variance in body fatness may be attributed to genetic
+
+Prevention of obesity and type II diabetes
+
+511
+
+regular physical activity. The majority of these studies
+have been conducted with dietary fat as exposure factor,
+and with blood lipids and lipoproteins as risk factor
+variables, and they have shown that genetic variation in
+several genes related to lipid metabolism (apolipoprotein-
+apo A-1, apoA-IV, apo CIII etc.) is involved in modulating
+the response to dietary fat. Appetite, energy intake and
+energy balance as risk factor variables have not been
+studied to the same extent, but a large number of
+candidate genes for obesity and diabetes are currently
+under investigation44.
+
+The research on the obesity genes has brought an
+increased physiological understanding of the regulation
+of energy balance and body fat stores, and may be an
+important tool for more specific and tailor made screen-
+ing programmes, and for more specific preventive and
+treatment options in the future.
+
+The leptin system and candidate genes of obesity
+Great progress has been made in the last 10 years in
+identifying the genes that underlie most rodent models of
+obesity and in understanding the role that these genes
+play in the regulation of energy balance45. The discovery
+of the lipostatic hormone leptin and its receptors brought
+new hope for the imminent discovery of the causes of
+human obesity. Although impressive progress has been
+made in understanding the physiology of
+the leptin
+system, hopes that variations in this system might explain
+an important part of the genetics of human obesity have
+not been fulfilled. Mutations in both the leptin gene and
+in its central receptor have been shown to cause severe
+obesity in humans, but these cases are extremely rare.
+However, treatment with exogenous leptin in a child with
+congenital leptin deficiency has proven successful46. For
+the most part obese humans appear to have normal leptin
+and leptin receptor genes. Moreover, plasma leptin
+concentrations in obese subjects are higher
+than in
+normal weight subjects, demonstrating the expected
+increase in response to an increased fat cell mass. It is
+likely that the prime role for leptin is the maintenance of a
+sufficient size of
+the fat stores for normal growth,
+development and reproduction, rather than to protect
+against an excessive enlargement of
+fat stores. The
+importance of other candidate genes is discussed later.
+
+Breast-feeding
+There is evidence to support that children who have not
+received appropriate breast-feeding are at a higher risk of
+weight gain and of childhood overweight and obesity.
+The evidence category is only C, because the impact of
+breast-feeding on the risk of childhood and adult over-
+weight and obesity has been assessed in only a limited
+number of studies. Three small studies with limited
+statistical power failed to detect any association, while
+two larger studies have found indications of a protective
+
+effect of breast-feeding. These two studies found the
+prevalence of obesity substantially lower in breast-fed
+children than in children who had never been breast-fed.
+In the largest study, involving 13345 German children, a
+clear dose-response effect was found for the duration of
+breast-feeding and prevalence of obesity47. The preva-
+lence of obesity was 4.5% in children who had never been
+breast-fed, 3.8% for 2 months of exclusive breast-feeding,
+2.3% for 3–5 months, 1.7% for 6–12 months and 0.8% for
+those who were breast-fed for more than 12 months. The
+apparent protective effect of breast-feeding could not be
+explained by differences in social class, education,
+smoking or other lifestyle factors. Overall, these studies
+suggest that the risk of obesity in children at the time of
+school entry can be reduced by 30–40% if they are breast-
+fed for 3–6 months as compared to no breast-feeding.
+However,
+these studies are of a purely observational
+nature and do not allow any conclusion about causality.
+Breast-feeding is closely related to education,
+income,
+social class and other lifestyle factors, which could also
+have an important influence on childhood obesity, and
+the causation therefore remains to be substantiated. A
+number of hypothesis exist
+to suggest mechanisms
+linking breast-feeding to weight gain and obesity, but
+this research is at an early stage. Breast milk contains
+several bioactive factors not present
+in formula milk,
+which could contribute to metabolic programming.
+Similarly,
+from breast milk in
+macro- and micronutrients composition. For instance,
+infant formulas have a high protein content, which has
+been suggested to promote an adipogenic development
+in children at an early age.
+
+formulas differ
+
+infant
+
+Despite some weaknesses in the evidence linking
+breast-feeding to obesity (evidence category C), there
+are several other health benefits of breast-feeding and a
+possible protective effect against overweight and obesity
+should be added to the list. Preventing obesity and its
+complications may turn out to be an important argument
+in the drive to encourage breast-feeding in European
+countries.
+
+Interaction between genes, dietary fat and physical
+activity
+
+Interactions between genes and fatty acids
+There are many other possibilities in the pathways that
+regulate food and energy intake, energy expenditure and
+fat storage. Recent research has, among several genes,
+focused on the peroxisome proliferator-activated receptor
+gamma (PPAR-g) gene. This gene produces two proteins,
+one of which, PPAR-g is found in adipose tissue, where it
+plays a key role in the regulation of adipocyte differentia-
+tion. Activation of these receptors causes recruitment of
+preadipocyte fibroblasts to form mature cells, which then
+accumulate triglycerides. Polymorphisms and mutations
+in the PPAR-g gene or the encoding region of the gene
+
+512
+
+A Astrup
+
+have been associated with obesity and diabetes. The
+endogenous PPAR-g ligands are fatty acids, eicosanoids
+and prostglandins, which suggests the possibility that
+hyperplasia might be induced by factors other than the
+state of fullness of the existing adipocytes. These might
+include certain dietary components such as specific fatty
+acids, for example trans-fatty acids, which have been
+linked to weight gain in prospective studies. A marked
+increase has been observed in the ratio of n-6 to n-3 fatty
+acids in the diets of most EU countries concomitant with
+the rapid rise in the prevalence of obesity. It is possible
+that such, so far unrecognized, dietary factors may prove
+to be significant in the etiology of obesity.
+
+Interaction between genes and dietary fat
+The susceptibility to gain weight on high fat diets is highly
+genetically determined in rodents. Recently, it has been
+shown that the Mahogany gene seems to determine the
+susceptibility of mice to become obese on a high fat
+diet44. It is likely that the same phenomenon exists in
+humans, but the role of the Mahogany gene remains to be
+elucidated. Longitudinal studies have suggested that the
+development of obesity is promoted by a high fat diet,
+particularly in subjects with a familial predisposition to
+obesity, which is probably genetically determined48. A
+low ability to oxidise fat has been proposed as a
+genetically determined trait which may be expressed
+phenotypically as a positive fat balance when consuming
+a high fat diet, which in turn may cause weight gain and
+obesity14. Why does dietary fat only promote passive
+overconsumption and weight gain in certain susceptible
+individuals? This question remains to be answered, but
+ongoing research finds it difficult to dissociate fat’s high
+energy density from biochemical properties related to its
+metabolism. Altered mechanisms involved in the parti-
+tioning and oxidation of
+fat may be important. Fat
+oxidation rate is determined by the individual’s energy
+requirement, energy balance, dietary fat content, physical
+fitness, plasma insulin, estrogen levels and sensitivity,
+circulating lipid substrates, skeletal muscle uptake, and
+activity of oxidative enzymes49. After controlling for
+dietary fat intake, energy balance and aerobic capacity,
+fat oxidation rate has been shown to be a family trait with
+a heritability of 30%. A low fat oxidation for a given
+dietary fat content is a risk factor for subsequent weight
+gain, and is prevalent among formerly obese subjects with
+a family history of obesity. Strictly controlled metabolic
+studies have demonstrated that the impaired oxidative
+capacity of obese and post-obese subjects limits fat
+oxidation, particularly post-prandially and during exer-
+cise. Fat mobilisation through lipolysis is intact but
+skeletal muscle uptake and oxidation is
+restricted.
+Possible responsible mechanisms are: altered responsive-
+ness of
+thyroid hormones and sympathetic nervous
+system activity to a high fat diet, high insulin sensitivity,
+low LPL-activity, and b-hydroxy-acyl-CoA-dehydrogenase
+
+in the muscle fibres. The mechanisms linking low fat
+oxidation and positive fat balance to the stimulation of
+appetite and energy intake are poorly understood.
+
+Interactions between genes and physical activity
+Only few important genes have been discovered but a
+number of likely susceptibility genes have been reported,
+and they seem to predispose to obesity if a subject
+possesses both alleles of a mutation or a polymorphism
+from a couple of different genes of importance for body
+weight regulation. The interaction with environmental
+factors may be crucial for their expression. An example is
+a polymorphism of the beta-2-adrenoceptor gene which,
+in a Swedish study, was associated with obesity, whereas
+a Danish study failed to find any association with body
+weight and weight gain. A recent French study elegantly
+demonstrated that the presence of the polymorphism did
+not lead to obesity in physically active subjects, but in
+those without regular physical activity the genotype was
+associated with 7 kg higher body weight (2 BMI units)
+and a larger waist circumference50. This is a nice example
+of how a physiological system which, in the present case,
+controls lipolysis (i.e. fat mobilization from the fat stores)
+may be unaffected be a functional defect in a receptor if
+compensatory mechanisms are in operation. In this case
+exercise may have counteracted the defect by increased
+activation of sympathoadrenal activity and post-receptor
+sensitization to catecholamines.
+
+Interactions between dietary fat and physical activity
+The prevalence of obesity has, in a number of countries,
+continued to rise despite a reduction in the proportion of
+Joules from fat
+in the national diets. Having been
+observed in the U.S.A.
+the phenomenon has been
+named ‘The American Paradox’. Among the explanations
+suggested for the apparent contradiction have been a
+concomitant over-riding effect of decreasing physical
+activity, overconsumption of highly palatable energy
+dense, carbohydrate rich, low fat products, under-report-
+ing of fat consumed in dietary surveys, and obesity being
+an infectious disease caused by an adenovirus51. It should
+be stressed, however, that a high dietary fat content is
+unlikely to be the only environmental factor responsible
+for obesity. A sedentary lifestyle with a low level of
+energy expended on physical activities
+is another
+causative factor, which interacts with dietary fat content41.
+This is emphasised in the studies by Stubbs et al. where
+they demonstrated that even in non-obese individuals,
+dietary fat tolerance is greatly lowered by a sedentary
+lifestyle52,53. The result of this short-term study has been
+extended by a meta-analysis of intervention studies on the
+effect on weight
+low fat diets alone and in
+combination with exercise18. Weight loss achieved by low
+fat diet alone was 2.8 kg, with diet and exercise combined
+it was 5.7 kg. It should be noted that these studies were in
+
+loss of
+
+Prevention of obesity and type II diabetes
+
+513
+
+non-obese individuals. On a population basis the change
+of a mean body weight of 5 kg may produce quite a
+dramatic change in the prevalence of obesity11.
+
+The decrease in physical activity observed in popula-
+the
+tion studies may,
+continuing increase in the prevalence of obesity and the
+very modest, if any, decrease in dietary fat intake is not
+sufficient to retard this development.
+
+therefore, be responsible for
+
+The energy density of foods has been shown to play a
+major role in the regulation of the spontaneous energy
+intake, but macronutrient specific properties may also be
+important in the propensity to major weight gain and
+obesity. The propensity to gain weight on an energy
+dense, high fat diet may be enhanced in sedentary
+individuals54. In conclusion, the susceptibility to weight
+gain is highly dependent on the daily level and pattern of
+physical activity, and on the presence of obesity suscept-
+ibility genes (evidence category B).
+
+Can obesity be prevented?
+
+implies that,
+
+Individual differences in the responsiveness to chronic
+alterations in energy balance induced by an obesity
+promoting lifestyle appear to be ubiquitous. Variation in
+many different genes contributes in important ways to the
+response heterogeneity. The existence of these gene-
+nutrient and gene-physical activity interaction effects with
+a role in obesity and diabetes has considerable public
+health implications. It
+the
+potential level of risk of obesity and its comorbidities can
+be defined for the individual at the molecular level, and
+that appropriate dietary factors and activity patterns may
+be designed for the individual. Preventive medicine and
+public health strategies could be developed for popula-
+tion subgroups with an emphasis on high risk individuals.
+One can anticipate that major advances will occur in the
+next decade with identification of more of the genetic and
+molecular causes of individual susceptibility to obesity
+and diabetes.
+
+in the future,
+
+the effect of
+
+There is evidence to support
+
+the
+recommendations of health and nutrition education
+programmes (evidence category B). For example, a
+school based intervention programme involving 4,171
+pupils in the first grade in 2 counties of Crete managed to
+produce a lower increase in BMI and beneficial changes
+in blood lipids than in a control group over a 3 year
+period55.
+
+Preventive efforts should take into consideration that
+the prevention of obesity is complex, involving physio-
+logical, economic and social factors, and may interfere
+with competing interests. A working group under The
+International Obesity Task Force has developed an
+integrated framework to illustrate the societal influences
+on obesity prevalence (Fig. 8)56.
+
+The diagram shows the factors that operate at similar
+social structural levels labeled across the top. The most
+
+common target for interventions to reduce obesity levels
+is individual behaviour (shown to the right). The large
+number of arrows
+indicate the factors bearing on
+individual behaviour, which challenges the notion of
+individual ‘free will’ regarding food choice and energy
+expenditure.
+
+The School/Work/Home column represents the next
+most common focus for intervention. Each of these sites is
+influenced by factors further upstream. For example,
+although schools can be a target for changing the food
+supply or physical activity patterns of youth, they rarely
+operate independently of external bodies:
+funding
+sources, accrediting bodies, and elected school boards
+all have different agendas for school
+function and
+budgeting. The bottom line for schools is academic
+performance, and health issues are generally secondary.
+National policies providing adequate incentives or
+financial support may be necessary to bring about
+widespread change in schools - no matter how good a
+particular educational programme may be. Even the
+provision of food within the schools encounters linkages
+with government
+supporting school
+lunches, availability of fresh foods, and economic issues
+linked to the common situation that revenues from food
+sales and fundraising parents are the only discretionary
+funds available to schools.
+
+food policies
+
+Another example is found in urban planning. The use
+of stairs instead of elevators is often recommended for
+people who want to increase physical activity. To support
+this approach, efforts have been made to work with
+building designers to make stairs more attractive and
+convenient, and elevators less so. These efforts have run
+into myriad problems,
+fire
+safety standards, design expectations, and architectural
+prerogative. Even simple solutions become complex.
+
+including building codes,
+
+State and national level policies are linked to interna-
+tional markets and the level of economic development of
+countries. International monetary agencies and banks
+may encourage/require debtor countries to use more of
+their agricultural capacity for export rather than local food
+supplies, shifting food availability and cost. The activities
+of
+international corporations greatly influence food
+availability and demand through advertising and other
+marketing;
+the foods most widely and intensively
+marketed are likely to have a long shelf life, a very high
+profit margin, and be easily transported around the globe.
+International corporations similarly influence purchasing
+capacity through salaries, and energy expenditure
+through the level of labour required to earn income.
+
+In this web there is no single organisational
+
+locus
+where motivation to change behaviour can result in a
+decline in obesity without interference from competing
+interests. Coalitions with commitment to change must be
+formed across all levels, founded on mutual interest. This
+is the classic situation that requires a broad-based public
+health perspective56.
+
+514
+
+A Astrup
+
+Fig. 8 The ‘Causal Web of societal influences on obesity prevalence’. The rectangle after the first column signifies the ‘cultural filter’
+representing influences varying from traditional customs and practices to media and advertising56
+
+References
+
+1 Obesity: preventing and managing the global epidemic.
+Report of a WHO Consultation on Obesity, Geneva 3–5 June
+1997. Geneva: WHO Publications, 1997.
+
+2 Prevention of diabetes mellitus. Report of a WHO study
+
+group. WHO Technical Report Series, No. 844, 1994.
+
+3 Astrup A, Finer N. Redefining type 2 diabetes: ‘Diabesity’ or
+‘Obesity Dependent Diabetes Mellitus’? Obes. Rev. 2000; in
+press.
+
+4 Colditz GA, Willett WC, Rotnitzky A, Manson JAE. Weight
+gain as a risk factor for clinical diabetes mellitus in women.
+Ann. Intern. Med. 1995; 122: 481–6.
+
+5 Sjo¨stro¨m CD, Lissner L, Wedel H, Sjo¨stro¨m L. Reduction of
+incidence in diabetes, herpertension and lipid disturbances
+after intentional weight loss induced by bariatric surgery: the
+SOS intervention study. Obes. Res. 1999; 7: 477–84.
+
+6 Sjo¨stro¨m L. Obesity, diabetes and other cardiovascular risk
+factors. Lessons from SOS. Int. J. Obes. 2000; 24(Suppl. 1): S7
+(Abs 14).
+
+7 Heymsfield SB, Segal KR, Hauptman J, Lucas CP, Boldrin MN,
+Rissanen A, Wilding JPH, Sjo¨stro¨m L. Effect of weight loss
+with Orlistat on glucose tolerance and progression to type 2
+diabetes in obese adults. Arch. Intern. Med. 2000; 160:
+1321–6.
+
+8 Williamson DF, Pamuk E, Thun M, Flanders D, Byers T,
+Health C. Prospective study of intentional weight loss and
+mortality in never-smoking overweight US white women
+aged 40–64. Am. J. Epidemiol. 1995; 141: 1128–41.
+
+9 King H, Aubert RE, Herman WH. Global burden of diabetes
+
+1995–2025. Diabetes Care 1998; 21: 1414–1431.
+
+10 Astrup A. Macronutrient balances and obesity: the role of diet
+
+and physical activity. Pub. Health Nutr. 1999; 2: 341–7.
+
+11 James WPT, Ralph A. Implementing dietary change: theory
+and practice. Obesity. New understanding in obesity
+research. Proc. Nutr. Soc. 1999; 58: 385–93.
+
+12 Blundell JE, Cooling J. Routes to obesity: phenotypes, food
+
+choices and activity. Br. J. Nutr. 2000; 83: S33–8.
+
+13 Bray GA, Popkin BM. Dietary fat intake does affect obesity.
+
+Am. J. Clin. Nutr. 1998; 68: 1157–73.
+
+14 Astrup A, Ryan L, Grunwald G, Storgaard M, Saris W, Hill JO.
+Ad libitum low-fat diets and body fatness: A meta-analysis of
+intervention studies. Br. J. Nutr. 2000; 83(suppl 1): S25–32.
+15 Goris AHC, Westerterp-Plantenga MS, Westerterp KR. Under-
+eating and underrecording of habitual food intake in obese
+men: selective underreporting of fat intake. Am. J. Clin. Nutr.
+2000; 71: 130–4.
+
+16 Harnack LJ, Jeffrey RW, Boutelle KN. Temporal trends in
+energy intake in the United States: an ecological perspective.
+Am. J. Clin. Nutri. 2000; 71: 1478–84.
+
+17 Willet WC. Is dietary fat a major determinant of body fat? Am.
+
+J. Clin. Nutr. 1998; 67: 556S–62S.
+
+18 Yu-Poth S, Zhao G, Etherton T, Naglak M, Jonnalagadda S,
+Kris-Etherton PM. Effects of the national cholesterol educa-
+tion program’s step I and step II dietary intervention
+programs on cardiovascular disease risk factors: a meta-
+analysis. Am. J. Clin. Nutr. 1999; 69: 632–46.
+
+19 Food and Agricultural Organization of the United Nations.
+
+Get the best from your food. 1992.
+
+Prevention of obesity and type II diabetes
+
+515
+
+20 Ludwig DS, Majzoub JA, Al-Zahrani A, Dallal GE, Blanco I,
+Roberts SB. High glycemic index foods, overeating, and
+obesity. Pediatrics 1999; 103: 26.
+
+21 Bolton-Smith C, Woodward M. Dietary composition and fat
+to sugar ratios in relation to obesity. Int. J. Obes. 1994; 18:
+820–8.
+
+22 Raben A, Macdonald I, Astrup A. Replacement of dietary fat by
+sucrose or starch: Effects on 14 days’ ad libitum energy intake,
+energy expenditure and body weight in formerly obese and
+neverobese subjects. Int. J. Obes. 1997; 21: 846–59.
+
+23 Saris WHM, Astrup A, Prentice AM, Zunft FHJ, Formiguera X,
+Verboeket-van de Venne WPHG, Raben A, Poppitt SD,
+Seppelt B, Johnston S, Vasilaras TH, Keogh G. Randomised
+controlled trial on changes in dietary carbohydrate/fat ratio
+and simple vs. complex carbohydrates on body weight and
+blood lipids: the CARMEN study. Int. J. Obes. 2000; in press.
+24 Salmeron J, Manson JE, Stampfer MJ, Colditz GA, Wing AL,
+Willett WC. Dietary fiber, glycemic load, and risk of non-
+insulin –dependent diabetes mellitus in women. JAMA 1997;
+277: 472–7.
+
+25 Salmeron J, Ascherio A, Rimm EB, et al. Dietary fiber,
+glycemic load, and risk of NIDDM in men. Diabetes Care
+1997; 20: 545–50.
+
+26 Schaefer EJ, Lichtenstein AH, Lamon-Fava S, McNamara JR,
+Schaefer MM, Rasmussen H, et al. Body weight and low-
+density lipoprotein cholesterol changes after consumption of
+a low-fat ad libitum diet. JAMA 1995; 274: 1450–5.
+
+27 Clinical Guidelines on the identification, evaluation, and
+treatment of overweight and obesity in adults – The
+Evidence Report. Obes. Res. 1998; 6(suppl.2): 51S–210S.
+
+28 Frost G, Leeds AA, Dore´ CJ, Madeiros S, Brading S, Dornhorst
+A. Glycaemic index as a determinant of serum HDL-
+cholesterol concentration. Lancet 1999; 353: 1045–8.
+
+29 Nordiska Ministerra˚d. Nordiska na¨ringsrekommendationer
+
+1996. Copenhagen, 1996.
+
+30 Panel on Dietary Reference Values of the Committee on
+Medical Aspects of Food Policy, The Department of Health.
+Dietary reference values for food energy and nutrients for the
+United Kingdom. HMSO, London, 1991.
+
+31 Ha TKK, Lean MEJ. Recommendations for the nutritional
+management of patients with diabetes mellitus. Eur. J. Clin.
+Nutr. 1998; 52: 467–81.
+
+32 Roland-Cachera MF, Deheeger M. Nutrient balance and
+android body fat distribution: why not a role for protein?
+Am. J. Clin. Nutr. 1996; 61: S960–7.
+
+33 Skov AR, Toubro S, Rønn B, Holm L, Astrup A. Randomized
+trial on protein versus carbohydrate in ad libitum fat reduced
+diet for the treatment of obesity. Int. J. Obes. 1999; 23: 528–
+36.
+
+34 Hill MJ. Meat and colo-rectal cancer. Proc. Nutr. Soc. 1999;
+
+58: 261–4.
+
+35 Bingham SA. High-meat diets and cancer risk. Proc. Nutr.
+
+Soc. 1999; 58: 243–8.
+
+36 Dulloo AG, Mensi N, Seydoux J, Girardier L. Differential
+effects of high-fat diets varying in fatty acid composition on
+the efficiency of lean and fat tissue deposition during weight
+recovery after low food intake. Metabolism 1995; 44: 273–9.
+37 Doucet E, Amere´ras N, White MD, Despre´s J-P, Bouchard C,
+Tremblay A. Dietary fat composition and human adiposity.
+Eur. J. Clin. Nutr. 1998; 52: 2–6.
+
+38 Lawton CL, Delary HJ, Brockman J, Smith FC, Blundell JE.
+
+The degree of saturation of
+ingestive satiety. Br. J. Nutr. 2000; 83: 473–82.
+
+fatty acids influences post-
+
+39 Prentice AM. Alcohol and obesity.
+
+Int.
+
+J. Obes. 1995;
+
+19(suppl. 5): S44–50.
+
+40 Fogelholm M, Kukkonen-Harjula K. Does physical activity
+prevent weight gain – a systematic review. Obes. Rev. 2000;
+in press.
+
+41 Prentice AM, Jebb SA. Obesity in Britain: Gluttony or sloth?
+
+Br. Med. J. 1995; 311: 437–9.
+
+42 Schoeller DA, Shay K, Kushner RF. How much physical
+activity is needed to minimize weight gain in previously
+obese women? Am. J. Clin. Nutr. 1997; 66: 551–6.
+
+43 Ferro-Luzzi A, Martino L. Obesity and physical activity. The
+origins and consequences of obesity, CIBA Foundation
+Symposium 201. Chichester: John Wiley & Sons, 1996.
+
+44 Nagle DL, McGrail SH, Vitale J, Woolf EA, Dussault BJ,
+DiRocco L, et al. The mahogany protein is a receptor
+involved in suppression of obesity. Nature 1999; 398: 148–52.
+45 Zhang Y, Proenca R, Maffei M, Barone M, Leopold L,
+Friedman JM. Positional cloning of the obese mouse gene
+and its human homologue. Nature 1994; 372: 425–32.
+
+46 Farooqi IS, Jebb SA, Langmark G, Lawrence E, Cheetham CH,
+Prentice AM, Hughes IA, McCamish MA, O’Rahilly S. Effects
+of reombinant leptin therapy in a child with congenital leptin
+deficiency. N. Engl. J. Med. 1999; 341(12): 879–84.
+
+47 Von Kries R, Koletzko B, Sauerwald T, von Mutius E, Barnert
+D, Grunert V, von Voss H. Breast feeding and obesity: cross
+sectional study. Brit. Med. J. 1999; 319: 147–50.
+
+48 Meirhaeghe A, Helbecque N, Cottel D, Amouyel P. b2-
+adrenoceptor gene polymorphism, body weight and physical
+activity. Lancet 1999; 353: 896.
+
+49 Astrup A, Flatt JP. Metabolic determinants of body weight
+regulation. In: Bouchard C, Bray GA, eds. Regulation of Body
+Weight, Biological and Behavioral Mechanisms – Dahlem
+Workshop. Report LS 57. Chichester: John Wiley & Sons, pp.
+193–210, 1996.
+
+50 Astrup A, Raben A, Buemann B, Toubro S. Fat metabolism in
+the predisposition to obesity. Ann. NY. Acad. Sci. 1997; 827:
+427–33.
+
+51 Astrup A, Lundsgaard C, Stock MJ. Is obesity contagious? Int.
+
+J. Obes. 1998; 22: 375–6.
+
+52 Stubbs RJ, Harbron CG, Murgatroyd PR, Prentice AM. Covert
+manipulation of dietary fat and energy density: effect on
+substrate flux and food intake in men eating ad libitum. Am.
+J. Clin. Nutr. 1995; 62: 316–29.
+
+53 Stubbs RJ, Ritz P, Coward WA, Prentice AM. Covert
+manipulation of the dietary fat to carbohydrate ratio and
+energy density: effect on food intake and energy balance in
+free-living men, feeding ad libitum. Am. J. Clin. Nutr. 1995;
+62: 330–7.
+
+54 Lissner L, Heitmann BL, Bengtsson C. Low-fat diets may
+prevent weight gain in sedentary women: Prospective
+observations from the population study of women in
+Gothenburg, Sweden. Obes. Res. 1997; 5(1): 43–8.
+
+55 Manios Y, Moschandreas J, Hatzis C, Kafatos A. Evaluation of
+a health and nutrition education program in primary school
+children of Crete over a three-year period. Prev. Med. 1999;
+28: 149–59.
+
+56 Kumanyika S, Jeffery R, Ritenbaugh C, Morabia A, Antipatis
+V. Causal Web of Societal influences on obesity prevalence.
+www.iotf.org/groups/phapo (1999).
+
+

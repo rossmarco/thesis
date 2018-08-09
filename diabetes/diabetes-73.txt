@@ -1,0 +1,541 @@
+The Journal of Nutrition
+Recent Advances in Nutritional Sciences
+
+Metabolic Effects of Dietary Fiber Consumption
+and Prevention of Diabetes1
+
+Martin O. Weickert* and Andreas F. H. Pfeiffer
+
+Department of Clinical Nutrition, German Institute of Human Nutrition, Potsdam-Rehbruecke, Germany and Department of
+Endocrinology, Diabetes, and Nutrition, Charite´-University-Medicine-Berlin, Campus Benjamin Franklin, Berlin, Germany
+
+Abstract
+
+A high dietary ﬁber (DF) intake is emphasized in the recommendations
+
+of most diabetes and nutritional associations. It is accepted that vis-
+
+cous and gel-forming properties of soluble DF inhibit macronutrient
+
+absorption, reduce postprandial glucose response, and beneﬁcially in-
+
+ﬂuence certain blood lipids. Colonic fermentation of naturally available
+
+high ﬁber foods can also be mainly attributed to soluble DF, whereas no
+
+difference between soluble and insoluble DF consumption on the
+
+regulation of body weight has been observed. However, in prospective
+
+cohort studies, it is primarily insoluble cereal DF and whole grains, and
+
+not soluble DF, that is consistently associated with reduced diabetes
+
+risk, suggesting that further, unknown mechanisms are likely to be
+
+involved. Recent research indicates that DF consumption contributes
+
+to a number of unexpected metabolic effects independent from
+
+changes in body weight, which include improvement of insulin sensi-
+
+tivity, modulation of the secretion of certain gut hormones, and effects
+
+on various metabolic and inﬂammatory markers that are associated
+
+with the metabolic syndrome. In this review, we brieﬂy summarize
+
+novel ﬁndings from recent
+
+interventions and prospective cohort
+
+studies. We discuss concepts and potential mechanisms that might
+
+contribute to the further understanding of the involved processes.
+
+Background
+Consumption of soluble dietary ﬁber (DF)2 reduces postprandial
+glucose responses after carbohydrate-rich meals, as well as
+lowering total and LDL cholesterol levels (1). These effects are
+likely explained the viscous and/or gel-forming properties of
+soluble DF, which thereby slow gastric emptying and macronu-
+trient absorption from the gut. However, it is not soluble DF, but
+mainly the consumption of insoluble cereal DF and whole
+grains, that is consistently associated with reduced risk of type 2
+diabetes in large prospective cohort studies (2,3). A number of
+recent studies give novel insights that might help establish a
+metabolic link between insoluble DF consumption and reduced
+diabetes risk. Potential candidates are improved insulin sensi-
+tivity and the modulation of inﬂammatory markers, as well as
+direct and indirect inﬂuences on the gut microbiota (Fig. 1).
+
+1 Author disclosures: M. O. Weickert and A. F. H. Pfeiffer, no conﬂicts of interest.
+2 Abbreviations used: DF, dietary ﬁber; GIP, glucose dependent insulinotropic
+polypeptide; GPR, G protein-coupled receptors; LPS, lipopolysaccharide; RR,
+relative risk for extreme quintiles; SCFA, short-chain fatty acids.
+Manuscript received 15 October 2007.
+* To whom correspondence should be addressed. E-mail: m.weickert@dife.de.
+
+Deﬁnition and types of DF
+DF are highly complex substances that can be described as any
+nondigestible carbohydrates and lignins not degraded in the
+upper gut (4). Commonly, DF are classiﬁed according to their
+solubility in water, even though grading according to viscosity,
+gel-forming capabilities, or fermentation rate by the gut micro-
+biota might be physiologically more relevant. Most DF is fer-
+mented to some degree. However, fermentation rates of DF
+widely vary, with soluble DF (i.e., pectin, inulin, and b-glucans)
+and insoluble resistant starch and oligosaccharides tending to be
+more readily fermented than cereal DF (i.e., cellulose and
+hemicelluloses) (5). Foods are assumed to be whole grains if all
+components of the kernel (i.e., bran, germ, and endosperm) are
+present in their natural proportions. Whole grain food products
+generally contain some 12% of total (mainly insoluble cereal)
+DF, and there is a strong correlation between whole grain and
+cereal DF intake (2). Some bran derived food products contain
+up to 25% of DF. Importantly, deﬁnition of whole grain both in
+cohort studies and on labels of commercially available cereal
+products typically does not require an intact kernel (3). In U.S.
+cohorts, whole grain and bran products from corn and wheat are
+the main sources of cereal DF. Main sources of soluble DF are
+fruits and vegetables (6) and, to a smaller extent, products from
+oat and barley that are rich in both insoluble DF and soluble
+b-glucans. It is, however, important to state that most naturally
+available high-ﬁber foods contain both soluble and insoluble
+ﬁber in varying amounts (6).
+
+DF and risk of diabetes in prospective cohort studies
+It is commonly assumed that beneﬁcial effects of high ﬁber diets
+[ﬁber intake .25 g/d in women and .38 g/d in men (7)] can
+mainly be attributed to viscous and/or gel-forming properties of
+soluble DF (1). Therefore, analyzing results from prospective
+cohort studies separately for foods high in ‘‘active’’ soluble DF
+and ‘‘inactive’’ insoluble DF should be expected to show stronger
+protective associations for soluble DF. However, this hypothesis
+is not supported by the available data. A recent meta-analysis
+that included 328,212 subjects showed no association with
+reduced diabetes risk both for fruit [relative risk for extreme
+quintiles (RR) 0.96; 95% CI 0.88–1.04] and vegetable (RR 1.04;
+95% CI 0.94–1.15) DF intake (2). In contrast, a high intake of
+cereal DF was signiﬁcantly associated with markedly reduced
+diabetes risk in most studies (RR 0.67; 95% CI 0.62–0.72) (2).
+Pooled data for 6 prospective cohort studies including 286,125
+subjects indicate that a 2-serving-per-day increment in whole
+grain consumption might remarkably reduce diabetes risk by
+21% (3). Interestingly, associations for consumption of the outer
+bran portion of the kernel, but not germ intake, were compa-
+rable to those of whole grain intake (3).
+
+0022-3166/08 $8.00 ª 2008 American Society for Nutrition. J. Nutr. 138: 439–442, 2008.
+
+439
+
+Downloaded from https://academic.oup.com/jn/article-abstract/138/3/439/4670214
+by guest
+on 08 August 2018
+
+urally high in DF and ﬁber supplements (7). Therefore, reduced
+body weight in subjects consuming high DF diets is likely to
+contribute to reduced diabetes risk, but it cannot explain the
+observed stronger associations for insoluble DF.
+
+DF and hormonal responses. DF consumption affects the
+secretion of various gut hormones that may act as satiety factors
+(8,16–19). However, in many of the experiments in humans, hor-
+monal changes were not linked to acute feelings of satiety. A guar
+gum DF supplement produced a heightened postprandial chole-
+cystokinin response, but did not alter satiety ratings (16). Insoluble
+wheat DF-induced changes of orexigenic ghrelin and anorexigenic
+peptide YY (PYY) were not associated with acute changes in
+hunger and satiety (8) but may have affected satiety upon the
+consumption of a subsequent meal (8,20). Highly fermentable DF
+increase glucagon-like peptide 1 levels and may play a role in
+the regulation of postprandial satiety in diverse animal species.
+However, in humans, no ﬁber-induced changes of circulating
+glucagon-like peptide 1 levels have been observed (17,18,21), and
+ingestion of a fermentable (pectin, b-glucan) vs. a nonfermentable
+(methylcellulose) DF supplement was found to be less, rather than
+more, satiating (9). Glucose dependent insulinotropic polypeptide
+(GIP) is another incretin hormone that appears to be involved in
+the regulation of fat metabolism. Effects of DF consumption on
+circulating GIP yielded mixed results. Soluble DF reduced circu-
+lating GIP in diabetic humans (19), probably because of reduced
+carbohydrate absorption, whereas insoluble cereal DF consump-
+tion yielded accelerated responses of both biologically active GIP
+(17) and insulin (17,22) in healthy subjects. In a cross-sectional
+analysis, high intakes of cereal DF were positively associated with
+plasma adiponectin after adjusting for lifestyle factors and dietary
+glycemic load (23). Adiponectin may act as a peripheral starva-
+tion signal promoting the storage of triglycerides preferentially in
+adipose tissue (24). As a consequence, reduced triglyceride accu-
+mulation in the liver and in the skeletal muscle might convey
+improved systemic insulin sensitivity (25). In summary, various
+changes in circulating concentrations of gut and adipocyte
+derived hormones can be observed in humans that ingest a high
+DF diet. However, no obvious mechanism can be derived ex-
+plaining stronger associations for insoluble DF with diabetes risk.
+
+DF and insulin sensitivity. An increased intake of total DF was
+inversely associated with markers of insulin resistance in several
+studies (26). Investigating different sorts of soluble and insoluble
+DF in randomized controlled intervention studies yielded mixed
+results. Consumption of wheat bran for 3 mo did not change
+fasting glucose and glycated hemoglobin (HbA1c) levels in
+diabetic subjects (27). High DF rye bread enhanced insulin secre-
+tion but did not appear to improve insulin sensitivity in post-
+menopausal women, as estimated with the frequently sampled
+intravenous-glucose-tolerance test (28). However, using a sec-
+ond meal test design, improved markers of insulin resistance
+have been reported after consumption of various other sorts of
+insoluble DF (17,18,20,29). When measuring insulin sensitivity
+using euglycemic-hyperinsulinemic clamps, consumption of in-
+soluble DF increased whole body glucose disposal independent
+of changes in body weight in both short-term and more pro-
+longed studies (21,30,31). Insulin resistant subjects are more
+likely to eventually develop diabetes. Therefore, improved insu-
+lin sensitivity could be a relevant factor contributing to reduced
+diabetes risk in subjects consuming diets high in insoluble DF.
+
+DF and inﬂammation. Recent studies show reductions of inﬂam-
+matory markers in subjects consuming high DF diets (32). Inter-
+
+FIGURE 1 Potential effects of DF consumption. Colonic fermenta-
+tion with the production of SCFA can be observed with most types of
+DF to some extent, but it tends to be more pronounced with soluble
+DF in naturally available foods.
+
+A causal relationship can not be stated, and estimation of
+food intake on the basis of semiquantitative FFQ is a known
+limitation (2). Moreover, even after statistical adjustment for
+potentially confounding factors, residual confounding by addi-
+tional unmeasured or inaccurately measured factors can not be
+excluded. However, the consistency of the results clearly indi-
+cates that the consumption of insoluble cereal DF could play an
+important role in the prevention of diabetes.
+
+Potential mechanisms
+DF, satiety, and body weight. Potential mechanisms that
+indicate DF consumption might alter diabetes risk include effects
+on satiety and body weight. A number of studies showed in-
+creased postmeal satiety or decreased subsequent hunger when
+subjects consumed high DF diets, both under conditions of ﬁxed
+energy intake and when energy intake was consumed ad libitum
+(7). However, other studies reported no signiﬁcant effects (7–
+10). Not all studies (11) showed an inverse association between
+postprandial glucose and insulin responses and satiety, and no
+clear conclusion can be drawn that low vs. high glycemic index
+meals are a key factor promoting satiety (12).
+
+Most (7), but not all (13), observational studies showed an
+inverse, sometimes dose-dependent (14) relationship between
+DF consumption and body weight. Effects were moderate, with
+individuals in the highest quintile vs. lowest quintile of DF
+consumption gaining 3.6 kg less over a 10-y period (14). Several
+(7), but not all (9,15), relatively short-term interventions further
+indicate that moderate reductions of body weight can be
+achieved with high DF diets.
+
+Generally, in human studies, no clear difference regarding
+weight gain has been shown between soluble and insoluble DF
+and fermentable and nonfermentable DF, or between foods nat-
+
+440 Weickert and Pfeiffer
+
+Downloaded from https://academic.oup.com/jn/article-abstract/138/3/439/4670214
+by guest
+on 08 August 2018
+
+estingly, some sorts of DF have been reported to bind to speciﬁc
+receptors on immune cells, suggesting a direct immune–modulatory
+effect (5). Other potentially involved mechanisms might include
+weight loss when consuming high DF diets, as well as antihyper-
+glycemic effects and effects on lipid oxidation (32). Both a diet high
+in total DF and consumption of a soluble DF supplement signif-
+icantly decreased levels of the inﬂammatory marker C-reactive pro-
+tein (33). Fermentation of soluble DF may also play a role due to
+potential antiinﬂammatory properties of butyrate (32). However,
+reductions in inﬂammatory markers have been reported to be
+comparable with both insoluble DF and more readily fermentable
+soluble DF (34).
+
+Colonic fermentation and gut bacteria. Short-chain fatty
+acids (SCFA) such as acetate, propionate, and butyrate are
+produced by bacterial fermentation of indigestible DF polysac-
+charides in the colon (1), with the proportion of different SCFA
+not being ﬁxed, depending on the substrate and eventually on
+the gut microﬂora. Commonly, increased production of SCFA is
+assumed to be beneﬁcial by reducing hepatic glucose output and
+improving lipid homeostasis (32). Further, G protein-coupled
+receptors (GPR)-41 and GPR43 function as direct targets of
+SCFA. An interesting ﬁnding was that oral administration of the
+GPR41 ligand propionate almost doubled plasma concentra-
+tions of anorexigenic leptin in mice, even though no effect on
+food intake was detected (35).
+
+However, data not unequivocally indicate that fermentability of
+DF per se is a key factor contributing to reduced diabetes risk.
+Consumption of low fermentable cereal DF (corn and wheat) show
+stronger associations with reduced diabetes risk than more readily
+fermentable soluble DF from fruit and vegetables (2,3). When
+investigating effects of weakly fermentable insoluble cereal DF
+and highly fermentable resistant starch in a randomized controlled
+
+cross-over study in healthy women (17), markers of insulin
+sensitivity in a second meal test were improved to a similar extent
+with all DF, independent of the rate of colonic fermentation (Fig. 2).
+These experiments indicate that a dose-dependent relation between
+fermentability of DF and improved markers of insulin sensitivity
+was unlikely, even though the limited accuracy of the available
+methods to estimate colonic fermentation rates in humans must
+be considered (4). Further, SCFA might stimulate adipogenesis
+through GPR43 (35), and colonization of germ-free (gnotobiotic)
+mice with a prominent saccharolytic member of the normal human
+gut microbiota, together with the dominant human methane
+producing germ, resulted in markedly improved efﬁcacy of colonic
+fermentation, associated with increased de novo lipogenesis and
+obesity in the host (36). However, it needs to be emphasized that
+nutritional habits and physiological effects of DF intake in rodents
+and humans largely differ, with rodents recovering energy from
+coprophagia (4). In humans, SCFA account for ,10% of daily
+energy intake (37).
+
+DF consumption might affect further factors linking the gut
+microbiota with obesity and insulin resistance. Obese subjects
+have a different composition of the gut microbiota than lean
+subjects, and changes toward the ‘‘lean microbiota’’ can be
+observed in obese subjects that lose weight [referenced in (36)].
+When transplanting the gut microbiota from obese mice or from
+lean mice to germ-free mice, the recipients of the ‘‘obese microbes’’
+showed an increased gain of fat mass, even though energy intake
+was comparable (36). Interestingly, a high DF diet (oligofructose)
+reduced gram-negative bacterial content and body weight, whereas
+a high fat diet increased the proportion of a gram-negative
+bacterial
+lipopolysaccharides (LPS) containing microbiota in
+humans [referenced in (38)]. Continuous subcutaneous infusion
+of LPS for 4 wk increased weight gain, liver fat, inﬂammatory
+markers, and markers of insulin resistance to a similar extent than
+
+FIGURE 2 Effects of insoluble fiber on
+postprandial glucose handling in a second
+meal test. Postprandial serum insulin and
+plasma glucose responses upon the inges-
+tion of control white bread in a second meal
+test, following the ingestion of 3 portions of
+control white bread the previous day, or
+white bread enriched with 31.5 g of the
+insoluble fraction of nonfermentable wheat
+DF, or white bread enriched with 31.8 g of
+the insoluble fraction of moderately ferment-
+able oat DF (n ¼ 14/group), or white bread
+enriched with 31.2 g of highly fermentable
+resistant starch (RS) (substudy, n ¼ 9/group).
+Test breads were isoenergetic and macronu-
+trient matched. Adapted from reference (17),
+with permission.
+
+Downloaded from https://academic.oup.com/jn/article-abstract/138/3/439/4670214
+by guest
+on 08 August 2018
+
+Dietary ﬁber and risk of diabetes
+
+441
+
+a high-fat diet (38). These studies indicate that DF consumption
+could have the potential to inﬂuence the proportions of certain
+members of the gut ﬂora, thus linking the concepts of bacterial
+colonization, inﬂammation, and insulin resistance.
+
+Prospective cohort studies indicate that diets high in insoluble
+cereal DF and whole grains might reduce diabetes risk. In contrast,
+there is no strong support that soluble DF from fruits and vegetables
+play a key role in this context. Many of the proposed protective
+mechanisms of DF consumption are either shared by soluble and
+insoluble DF (moderate weight loss, low energy density, increased
+satiety, effects on inﬂammatory markers and gut hormones), or they
+are more likely to be relevant with soluble viscous DF consumption
+(hindering of macronutrient absorption, slowing of gastric empty-
+ing, reduced postprandial glucose responses, reduced total and LDL
+cholesterol, and colonic fermentation). Therefore, other unknown
+mechanisms appear to be involved in conveying reduced diabetes
+risk in subjects consuming diets high in insoluble cereal DF. A
+promising factor contributing to beneﬁcial effects of insoluble DF
+consumption could be increased insulin sensitivity, even though
+mechanisms leading to this phenomenon need to be deﬁned. Hypo-
+thetical mechanisms include a shift in the relation of gut microbiotic
+communities, as well as direct and indirect inﬂuences on yet
+unknown hormonal and molecular factors in the host that may be
+altered in subjects consuming high DF diets.
+
+Literature Cited
+
+1.
+
+2.
+
+3.
+
+Jenkins DJ, Kendall CW, Axelsen M, Augustin LS, Vuksan V. Viscous
+and nonviscous ﬁbres, nonabsorbable and low glycaemic index carbo-
+hydrates, blood lipids and coronary heart disease. Curr Opin Lipidol.
+2000;11:49–56.
+Schulze MB, Schulz M, Heidemann C, Schienkiewitz A, Hoffmann K,
+Boeing H. Fiber and Magnesium Intake and Incidence of Type 2 Diabetes: A
+Prospective Study and Meta-analysis. Arch Intern Med. 2007;167:956–65.
+de Munter JS, Hu FB, Spiegelman D, Franz M, van Dam RM. Whole
+grain, bran, and germ intake and risk of type 2 diabetes: a prospective
+cohort study and systematic review. PLoS Med. 2007;4:e261.
+
+15. Pittler MH, Ernst E. Guar gum for body weight reduction: meta-
+
+analysis of randomized trials. Am J Med. 2001;110:724–30.
+
+16. Heini AF, Lara-Castro C, Schneider H, Kirk KA, Considine RV, Weinsier
+RL. Effect of hydrolyzed guar ﬁber on fasting and postprandial satiety and
+satiety hormones: a double-blind, placebo-controlled trial during controlled
+weight loss. Int J Obes Relat Metab Disord. 1998;22:906–9.
+
+17. Weickert MO, Mohlig M, Koebnick C, Holst JJ, Namsolleck P, Ristow
+M, Osterhoff M, Rochlitz H, Rudovich N, et al. Impact of cereal ﬁbre
+on glucose-regulating factors. Diabetologia. 2005;48:2343–53.
+
+18. Robertson MD, Currie JM, Morgan LM, Jewell DP, Frayn KN. Prior
+short-term consumption of resistant starch enhances postprandial
+insulin sensitivity in healthy subjects. Diabetologia. 2003;46:659–65.
+
+19. Gatenby SJ, Ellis PR, Morgan LM, Judd PA. Effect of partially depo-
+lymerized guar gum on acute metabolic variables in patients with non-
+insulin-dependent diabetes. Diabet Med. 1996;13:358–64.
+
+20. Samra RA, Anderson GH. Insoluble cereal ﬁber reduces appetite and
+short-term food intake and glycemic responses to food consumed 75
+min later by healthy men. Am J Clin Nutr. 2007;86:972–9.
+
+21. Robertson MD, Bickerton AS, Dennis AL, Vidal H, Frayn KN. Insulin-
+sensitizing effects of dietary resistant starch and effects on skeletal muscle
+and adipose tissue metabolism. Am J Clin Nutr. 2005;82:559–67.
+
+22. Schenk S, Davidson CJ, Zderic TW, Byerley LO, Coyle EF. Different
+glycemic indexes of breakfast cereals are not due to glucose entry
+into blood but to glucose removal by tissue. Am J Clin Nutr. 2003;78:
+742–8.
+
+23. Qi L, Rimm E, Liu S, Rifai N, Hu FB. Dietary glycemic index, glycemic
+load, cereal ﬁber, and plasma adiponectin concentration in diabetic
+men. Diabetes Care. 2005;28:1022–8.
+
+24. Kim JY, van de Wall E, Laplante M, Azzara A, Trujillo ME, Hofmann
+SM, Schraw T, Durand JL, Li H, et al. Obesity-associated improvements
+in metabolic proﬁle through expansion of adipose tissue. J Clin Invest.
+2007;117:2621–37.
+
+25. Weickert MO, Pfeiffer AF. Signalling mechanisms linking hepatic
+
+glucose and lipid metabolism. Diabetologia. 2006;49:1732–41.
+
+26. Pi-Sunyer X. Do glycemic index, glycemic load, and ﬁber play a role in
+insulin sensitivity, disposition index, and type 2 diabetes? Diabetes
+Care. 2005;28:2978–9.
+
+27. Jenkins DJ, Kendall CW, Augustin LS, Martini MC, Axelsen M,
+Faulkner D, Vidgen E, Parker T, Lau H, et al. Effect of wheat bran on
+glycemic control and risk factors for cardiovascular disease in type 2
+diabetes. Diabetes Care. 2002;25:1522–8.
+
+4. Topping DL, Clifton PM. Short-chain fatty acids and human colonic
+function: roles of resistant starch and nonstarch polysaccharides.
+Physiol Rev. 2001;81:1031–64.
+
+28. Juntunen KS, Laaksonen DE, Poutanen KS, Niskanen LK, Mykkanen
+HM. High-ﬁber rye bread and insulin secretion and sensitivity in
+healthy postmenopausal women. Am J Clin Nutr. 2003;77:385–91.
+
+5. Vos A, M’Rabet L, Stahl B, Boehm G, Garssen J. Immune-modulatory
+effects and potential working mechanisms of orally applied non-
+digestible carbohydrates. Crit Rev Immunol. 2007;27:97–140.
+
+29. Granfeldt Y, Wu X, Bjorck I. Determination of glycaemic index; some meth-
+odological aspects related to the analysis of carbohydrate load and char-
+acteristics of the previous evening meal. Eur J Clin Nutr. 2006;60:104–12.
+
+6. McKee LH, Latner TA. Underutilized sources of dietary ﬁber: a review.
+
+Plant Foods Hum Nutr. 2000;55:285–304.
+
+7. Howarth NC, Saltzman E, Roberts SB. Dietary ﬁber and weight regu-
+
+lation. Nutr Rev. 2001;59:129–39.
+
+8. Weickert MO, Spranger J, Holst JJ, Otto B, Koebnick C, Mohlig M,
+Pfeiffer AF. Wheat-ﬁbre-induced changes of postprandial peptide YY
+and ghrelin responses are not associated with acute alterations of
+satiety. Br J Nutr. 2006;96:795–8.
+
+9. Howarth NC, Saltzman E, McCrory MA, Greenberg AS, Dwyer J, Ausman
+L, Kramer DG, Roberts SB. Fermentable and nonfermentable ﬁber sup-
+plements did not alter hunger, satiety or body weight in a pilot study of
+men and women consuming self-selected diets. J Nutr. 2003;133:3141–4.
+10. Pereira MA, Ludwig DS. Dietary ﬁber and body-weight regulation.
+Observations and mechanisms. Pediatr Clin North Am. 2001;48:969–80.
+11. Keogh JB, Lau CW, Noakes M, Bowen J, Clifton PM. Effects of meals
+with high soluble ﬁbre, high amylose barley variant on glucose, insulin,
+satiety and thermic effect of food in healthy lean women. Eur J Clin
+Nutr. 2007;61:597–604.
+
+12. Raben A. Should obese patients be counselled to follow a low-glycaemic
+
+index diet? No. Obes Rev. 2002;3:245–56.
+
+13. Iqbal SI, Helge JW, Heitmann BL. Do energy density and dietary ﬁber
+inﬂuence subsequent 5-year weight changes in adult men and women?
+Obesity (Silver Spring). 2006;14:106–14.
+
+30. Pereira MA, Jacobs DR, Jr., Pins JJ, Raatz SK, Gross MD, Slavin JL,
+Seaquist ER. Effect of whole grains on insulin sensitivity in overweight
+hyperinsulinemic adults. Am J Clin Nutr. 2002;75:848–55.
+
+31. Weickert MO, Mohlig M, Schoﬂ C, Arafat AM, Otto B, Viehoff H,
+Koebnick C, Kohl A, Spranger J, Pfeiffer AF. Cereal ﬁber improves
+whole-body insulin sensitivity in overweight and obese women. Diabe-
+tes Care. 2006;29:775–80.
+
+32. Galisteo M, Duarte J, Zarzuelo A. Effects of dietary ﬁbers on
+
+disturbances clustered in the metabolic syndrome. J Nutr Biochem.
+
+33. King DE, Egan BM, Woolson RF, Mainous, 3rd AG, Al-Solaiman Y,
+Jesri A. Effect of a high-ﬁber diet vs a ﬁber-supplemented diet on
+C-reactive protein level. Arch Intern Med. 2007;167:502–6.
+
+34. Ma Y, Grifﬁth JA, Chasan-Taber L, Olendzki BC, Jackson E, Stanek, 3rd
+EJ, Li W, Pagoto SL, Hafner AR, Ockene IS. Association between dietary
+ﬁber and serum C-reactive protein. Am J Clin Nutr. 2006;83:760–6.
+
+35. Covington DK, Briscoe CA, Brown AJ, Jayawickreme CK. The
+G-protein-coupled receptor 40 family (GPR40–GPR43) and its role in
+nutrient sensing. Biochem Soc Trans. 2006;34:770–3.
+
+36. Backhed F, Manchester JK, Semenkovich CF, Gordon JI. Mechanisms
+underlying the resistance to diet-induced obesity in germ-free mice. Proc
+Natl Acad Sci USA. 2007;104:979–84.
+
+37. McNeil NI. The contribution of the large intestine to energy supplies in
+
+man. Am J Clin Nutr. 1984;39:338–42.
+
+14. Ludwig DS, Pereira MA, Kroenke CH, Hilner JE, Van Horn L, Slattery
+ML, Jacobs DR, Jr. Dietary ﬁber, weight gain, and cardiovascular
+disease risk factors in young adults. JAMA. 1999;282:1539–46.
+
+38. Cani PD, Amar J, Iglesias MA, Poggi M, Knauf C, Bastelica D,
+Neyrinck AM, Fava F, Tuohy KM, et al. Metabolic endotoxemia ini-
+tiates obesity and insulin resistance. Diabetes. 2007;56:1761–72.
+
+442 Weickert and Pfeiffer
+
+Downloaded from https://academic.oup.com/jn/article-abstract/138/3/439/4670214
+by guest
+on 08 August 2018
+
+

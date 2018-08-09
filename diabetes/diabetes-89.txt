@@ -1,0 +1,1169 @@
+M E T A B O L I S M C L I N I C A L A N D E X P E R I M E N T A L 6 3 ( 2 0 1 4 ) 9 0 3 – 9 1 1
+
+A v a i l a b l e o n l i n e a t w w w . s c i e n c e d i r e c t . c o m
+
+Metabolism
+
+w w w . m e t a b o l i s m j o u r n a l . c o m
+
+The effect of Mediterranean diet on the development
+of type 2 diabetes mellitus: A meta-analysis of 10
+prospective studies and 136,846 participants
+
+Efi Koloverou a, Katherine Esposito b, Dario Giugliano b, Demosthenes Panagiotakos a,⁎
+a School of Health Science and Education, Department of Nutrition and Dietetics, Harokopio University, Athens, Greece
+b Department of Geriatrics and Metabolic Diseases, Second University of Naples, Naples, Italy
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Article history:
+Received 16 February 2014
+Accepted 16 April 2014
+
+Keywords:
+Chronic disease
+Diabetes
+Incidence
+Dietary pattern
+Mediterranean
+Review
+Meta-analysis
+
+Objective. The purpose of this work was to meta-analyze prospective studies that have
+
+evaluated the effect of a Mediterranean diet on the development of type 2 diabetes.
+
+Materials/Methods. PubMed, Embase and the Cochrane Central Register of Controlled Trials
+databases were searched up to 20 November 2013. English language publications were allocated;
+17 original research studies (1 clinical trial, 9 prospective and 7 cross-sectional) were identified.
+Primary analyses were limited to prospective studies and clinical trials, yielding to a sample of
+136,846 participants. A systematic review and a random effects meta-analysis were conducted.
+Results. Higher adherence to the Mediterranean diet was associated with 23% reduced
+risk of developing type 2 diabetes (combined relative risk for upper versus lowest available
+centile: 0.77; 95% CI: 0.66, 0.89). Subgroup analyses based on region, health status of
+participants and number of confounders controlling for, showed similar results. Limitations
+include variations in Mediterranean diet adherence assessment tools, confounders’
+adjustment, duration of follow up and number of events with diabetes.
+
+Conclusions. The presented results are of major public health importance, since no
+consensus exists concerning the best anti-diabetic diet. Mediterranean diet could,
+if
+appropriately adjusted to reflect local food availability and individual’s needs, constitute a
+beneficial nutritional choice for the primary prevention of diabetes.
+
+© 2014 Elsevier Inc. All rights reserved.
+
+1.
+
+Introduction
+
+The prevalence of diabetes mellitus has reached an epidemic
+level of 340 million people worldwide [1], with type 2 diabetes
+dominating and growing incessantly in parallel with obesity [2].
+Not without reason, “diabesity” has become a major health
+concern, with serious quality of life and economic impact,
+
+stressing the need for immediate actions with effective inter-
+ventions. Medical nutrition therapy, physical activity and
+education have an important contribution to the general
+management of a patient with diabetes [3]. Weight loss is part
+of the initial treatment as most patients are overweight [4]. In
+addition, specific foods and nutrients have been identified to
+exert a protective [5] or aggravating [6] effect on type 2 diabetes
+
+Abbreviations: DM, Diabetes mellitus; BMI, Body Mass Index; WC, Waist Circumference; WHR, Waist to Hip Ratio; MetS, Metabolic
+syndrome; CVD, Cardiovascular disease; MI, Myocardial infarction; TC, Total cholesterol; CHD, Coronary heart disease; SBP, Systolic blood
+pressure; DBP, Diastolic blood pressure; MET, Maximum exercise tolerance; FSG, Fasting serum glucose; MDS, Mediterranean diet score;
+MD, Mediterranean Diet; PA, Physical activity; TEI, Total energy intake.
+⁎ Corresponding author at: 46 Paleon Polemiston St., Glyfada, Attica, 166 74, Greece. Tel.: +30 210 9603116; fax: +30 210 9600719.
+
+E-mail address: d.b.panagiotakos@usa.net (D. Panagiotakos).
+
+http://dx.doi.org/10.1016/j.metabol.2014.04.010
+0026-0495/© 2014 Elsevier Inc. All rights reserved.
+
+904
+
+M E T A B O L I S M C L I N I C A L A N D E X P E R I M E N T A L 6 3 ( 2 0 1 4 ) 9 0 3 – 9 1 1
+
+mellitus. The past years, scientific research in nutrition and
+health has focused on the holistic dietary patterns approach,
+instead of the evaluation of single foods or nutrients. This was,
+mainly, because it was understood that foods might have
+synergistic or antagonistic (competing) properties that may
+alter the true food–health relationship. Moreover, in the real
+world individuals consume a variety of foods, in different
+combinations, and therefore the approach of single food or
+nutrient does not reflect the reality [7]. Based on this holistic
+approach, many dietary patterns have been suggested and some
+of them seem to play a role in the prevention and/or
+management of various chronic diseases [8,9]. One of the most
+studied patterns is the Mediterranean diet, initially introduced
+by Ancel Keys of the Seven Countries Study, in the late 1970’s
+[10]. However, defining and measuring the Mediterranean diet
+can be challenging, since various Mediterranean-style tools
+have been proposed, which revolve similar dietary components
+[11]. Overall, Mediterranean-type diets share some common
+characteristics, i.e., basically, high consumption of olive oil,
+legumes, whole grain cereals, fruits and vegetables and
+moderate wine drinking, and, secondarily, moderate consump-
+tion of fish, dairy products and low consumption of poultry,
+meat and its products, highly processed foods, refined grains
+and sugars [12]. Recently, in 2010, Mediterranean diet was
+recognized by UNESCO as a cultural heritage of Humanity,
+incorporating other aspects, such as conviviality, socialization,
+biodiversity and seasonability, in its definition [13]. Therefore,
+beyond food per se, other components of the dietary pattern
+
+may be important. Mediterranean diet has been related to
+various health outcomes, for example coronary heart disease
+[14], hypertension, dyslipidemia, obesity [15], cognitive impaire-
+ment [16],metabolic syndrome and its components [17,18],
+i.e., waist circumference >102 cm for men or >88 cm for
+women; triglyceride level > 150 mg/dL; HDL cholesterol
+level <40 mg/dL for men or <50 mg/dL for women; blood
+pressure >130/85 mm Hg; or fasting plasma glucose >110 mg/dL
+[19]). It has also been suggested to have a beneficial effect in the
+primary prevention of diabetes [20–22], but results have not been
+consistent [23,24]. To the best of our knowledge no previous
+systematic work exists regarding the relationship of the Mediter-
+ranean dietary pattern to the onset of type 2 diabetes.
+
+Thus, the aim of this work was to perform a systematic
+review and a meta-analysis of the findings of published
+original research studies that have evaluated the effect of a
+Mediterranean type diet on the development of type 2
+diabetes among healthy adults and identify potential inter-
+actions, depending on studies’ methodological differences.
+
+2.
+
+Methods
+
+2.1.
+
+Data sources and searches
+
+Internet searches in PubMed, Embase and the Cochrane Central
+Register of Controlled Trials databases up to 20 November 2013,
+using a search strategy that included the following keywords:
+
+Articles identified through 
+literature research, n=410
+
+Articles retrieved for 
+
+more detailed 
+evaluation, n=28
+
+Articles excluded (n=382)
+Title/abstract (n=296)
+Reviews and metanalyses (n=73) 
+In language other than English (n=13)
+
+Articles excluded (n=11)
+Reasons for exclusion
+Other outcome (n=4)
+Mixed outcome (n=1)
+Single food or nutrient (n=4)
+Not obtainable data (n=1)
+Commentaries (n=1)
+
+Articles eligible for inclusion in the metanalysis, n=17
+Articles included in the analysis, n=16 (10 prospective studies 
+extracted)
+Articles that did not provide the data in the form required for the 
+analysis, n=1
+
+Fig. 1 – Process of studies’ selection for the meta-analysis.
+
+M E T A B O L I S M C L I N I C A L A N D E X P E R I M E N T A L 6 3 ( 2 0 1 4 ) 9 0 3 – 9 1 1
+
+905
+
+Author
+
+RR
+
+(95% CI)
+
+Martinez – Gonzalez et al. [21]
+
+Salas- Salvado et al. [20]
+
+Mozaffarian et al. [22]
+
+de Koning et al. [30]
+
+Tobias et al. [29]
+
+Rossi et al. [28]
+
+Romaguera et al. [31]
+
+Brunner et al. [25]
+
+Abiemo et al. [23]
+
+Cabrera de Leon et al. [24]
+
+Combined
+
+0.17
+
+0.48
+
+0.65
+
+0.75
+
+0.76
+
+0.88
+
+0.88
+
+1.04
+
+1.09
+
+1.10
+
+0.77
+
+(0.66, 0.89)
+
+100.00
+
+Weight
+
+(%)
+
+0.31
+
+8.02
+
+12.11
+
+15.30
+
+9.46
+
+15.12
+
+15.65
+
+6.82
+
+6.70
+
+4.00
+
+Events
+
+Country 
+
+of origin
+
+33
+
+54
+
+998
+
+2795
+
+491
+
+2330
+
+11994
+
+410
+
+412
+
+146
+
+Spain
+
+Spain
+
+Italy
+
+USA
+
+USA
+
+Greece
+
+Europe
+
+UK
+
+USA
+
+Spain
+
+(0.04, 0.72)
+
+(0.27, 0.86)
+
+(0.49, 0.85)
+
+(0.66, 0.86)
+
+(0.55, 1.05)
+
+(0.78, 0.99)
+
+(0.79, 0.97)
+
+(0.75, 1.43)
+
+(0.80, 1.49)
+
+(0.70, 1.70)
+
+Relative Risk
+
+1
+
+Fig. 2 – Forest plot of prospective studies that evaluated the effect of Mediterranean diet on the development of type 2 diabetes
+mellitus [squares represent individual study’s effect size, i.e., RR and diamond represent the combined effect size; extended
+lines show 95% confidence intervals (CI) of RR].
+
+“diabetes”, “Mediterranean diet”, “incidence”, “development”
+and other relevant keywords to identify original research
+studies related to the aim of the paper, were performed.
+References from the extracted articles and reviews were also
+used, to complete the data bank. The relevance of studies was
+performed using a hierarchical approach based on title,
+abstract, and the full manuscript. In case the full article was
+not accessible, it was requested from the corresponding author.
+
+2.2.
+
+Study selection
+
+Studies that evaluated the association of adhering to a Mediter-
+ranean type of diet [12] and development of type 2 diabetes were
+selected. Exclusion criteria included absence of control group
+and lack of randomization for the clinical trials, single food or
+nutrients’ effect assessment, results not obtainable from the
+authors that were necessary for the meta-analysis, studies that
+identified a-posteriori dietary patterns and claimed to be similar
+to the Mediterranean diet, but with no inclusion of the
+components of the traditional diet, and especially olive oil
+(only the study by Brunner et al., [25] which a-posteriori
+identified a pattern which was very similar to the traditional
+Mediterranean diet, was included in the meta-analysis), and
+finally papers not published in English language. Two indepen-
+dent authors (EK, DP) collected the relevant papers, whereas two
+other authors independently reviewed the literature (DG, KE);
+disagreements were solved by consensus and by the opinion of a
+fifth evaluator (CK), when necessary.
+
+2.3.
+
+Data extraction and quality assessment
+
+The outcome of interest was the development of type 2 diabetes
+[26]. The following characteristics were extracted from the
+original papers,
+in duplicate, using a standardized data
+extraction form: design of the study (clinical-trial, cross-
+sectional, case-control or prospective cohort), lead author
+(for citation purposes), year of publication, country of origin,
+sample size, data to estimate uncertainty (i.e., number of events
+with diabetes), follow-up duration, effect size measurements
+(i.e., relative risks, odds ratios, b-coefficients and their
+
+corresponding 95% confidence intervals) and variables that
+entered into the model as potential confounding factors. The
+quality of the studies was evaluated according to the
+adjustment for potential mediators (e.g., demographic,
+anthropometric and traditional risk factors).
+
+2.4.
+
+Data synthesis and analysis
+
+Taking into consideration that cross-sectional studies are
+mainly for hypothesis generation, but have little validity for
+making causal inference, particularly for a risk factor as
+changeable as diet and a disease as behaviour-altering as
+diabetes, studies were handled separately based on their design.
+Therefore, the primary analysis included only prospective
+studies and clinical trials, whereas, secondary analysis, based
+on the results of cross-sectional studies was also performed.
+The statistical measure of interest for the prospective studies
+was the hazard ratio (HR) or relative risk (RR) (according to what
+each study has estimated) of development of type 2 diabetes
+mellitus with their corresponding 95% CI. Estimates of the
+aforementioned effect size measures of each study were
+weighted by the inverse of their variances to obtain the
+combined (pooled) estimate (Fig. 1). Uncertainty was accounted
+for, through the number of diabetes events. In order to detect
+possible heterogeneity in results across studies, Cochran’s Q test
+and the inconsistency index I2 were calculated [27]. Since
+heterogeneity existed among prospective studies (Cochran’s
+Q = 21.53, df = 10, pQ = 0.01 and I2 = 58%), the random-effects
+model was used to construct the combined confidence interval,
+which considers both within and between studies variations. In
+order to explore the source of heterogeneity across study's
+characteristics, subgroup analyses were performed based on:
+region of origin of the study’s reference population (i.e., European
+or not), health status of the participants (at high CVD/diabetes
+risk or not) and level of adjustment made. Specifically, based on
+the number and importance of covariates, minimally adjusted
+models were subjectively considered those accounted only for
+age and sex [24], more adjusted models those additionally
+accounted for energy or body mass index (BMI), physical activity
+and family history of diabetes [20,22,28–30], whereas fully-
+
+906
+
+M E T A B O L I S M C L I N I C A L A N D E X P E R I M E N T A L 6 3 ( 2 0 1 4 ) 9 0 3 – 9 1 1
+
+adjusted models were those which included also smoking and
+socioeconomic status (education or income) [21,23,25,31]. To
+further explore the heterogeneity according to the aforemen-
+tioned subgroups (i.e., region of origin, health status of the
+participants and level of adjustment made) random-effects
+meta-regression was applied including also as covariate the
+sample size of each study. The validity of the random-effects
+model was tested by sensitivity analysis, using the influence of
+each study on the estimated regression coefficients, by
+removing one study at a time as well as the calculation of
+Cook’s distance to detect possible outliers (Cook’s d > 0.22 was
+used to identify studies responsible for non normality of the
+residuals). Publication bias was evaluated by plotting a funnel
+plot of the effect size on the horizontal axis and standard error
+
+on the vertical axis (Fig. 4). The present meta-analysis was
+performed according to the most current standards of quality
+for meta-analysis using the MOOSE guidelines, while for the one
+clinical trial included the PRISMA guidelines were also taken
+into consideration [32,33]. For the meta-analysis of cross-
+sectional studies the combined effect was pooled using the
+reported Odds Ratios (OR) and their corresponding 95% CI, using
+fixed-effects model, since no heterogeneity was evident
+(i.e., pQ = 0.27 and I2 = 22%) (see Appendix).
+
+2.5.
+
+Statistical software
+
+All statistical calculations were performed using a trial version
+of STATA software version 12.0 (College Station, TX, USA);
+
+Fig. 3 – Forest plots of studies that evaluated the effect of Mediterranean diet on the development of type 2 diabetes mellitus, by
+participant’s health profile, level of adjustment for confounders and region of origin [squares represent individual study’s effect
+size, i.e., Relative Risk and diamond represent the combined effect size; extended lines show 95% confidence intervals (CI) of RR].
+
+M E T A B O L I S M C L I N I C A L A N D E X P E R I M E N T A L 6 3 ( 2 0 1 4 ) 9 0 3 – 9 1 1
+
+907
+
+meta-analysis was performed using the metan command, meta-
+regression using the metareg command with the eform option
+and the funnel plot was derived using the funnel command.
+
+3.
+
+Results
+
+3.1.
+
+Studies' characteristics
+
+The primary internet search resulted in 410 papers that were
+scanned to ensure they were consistent to the search criteria.
+Of them, 296 were excluded on the basis of the title or abstract
+(i.e., irrelevant research hypothesis studied), 73 were reviews
+or meta-analyses of other studies and 13 were in language
+other than English. Of the remaining 28 articles, four were
+excluded because their outcome was not the development of
+type 2 diabetes (e.g., development of impaired fasting glucose,
+mortality and improvement in metabolic syndrome compo-
+nents), one because it had mixed outcome (e.g., diabetes with
+cardiovascular events and death and no specific data on
+diabetes were available), four focused on single food or
+nutrients, one was not accessible and one was a commentary
+on another paper. Thus, and after excluding one additional
+paper that did not provide data, 16 papers (with 17 studies) were
+extracted. From those studies, one was clinical trial [20] and 16
+were observational (9 were prospective [21–25,28–31] and 7 were
+cross sectional [15,34–38]). In brief, of the 17 studies, 3 were
+carried out in the United States, 8 in Spain, 2 in Greece, 1 in Italy,
+1 in UK, 1 in Cyprus and 1 was a pan-European project that
+included 8 countries as part of the EPIC study. Sample sizes
+varied between n = 120 and n = 27,792 participants yielding a
+total sample of n = 136,846 individuals for the prospective
+studies and the one clinical trial and n = 22,341 for the cross-
+sectional studies. Mediterranean diet was evaluated differently
+across studies. A diet index driven method was used in most
+
+cases, except for the study of Brunner et al. [25], where a-
+posteriori analysis was conducted and the trial of Salas Salvado
+et al. [20], where a 14-item MedDiet score was used only for
+baseline assessment of the adherence to a Mediterranean diet
+and the primary results (used in this meta-analysis) were
+based on the comparison among the three groups. The rest of
+the studies used 5 different diet scores, i.e., MDS [21,24,28],
+rMED [31], aMED [29,30], MeDiet [23] and a 15-item question-
+naire [22]. Fruits, vegetables, olive oil and fish intake, were
+components in all scores. Grains, nuts and legumes were
+included in almost all scores, by the exception of one study
+[22]. Fat quality was differently evaluated: through meat,
+dairy products and olive oil
+intake, or counted in the
+monounsaturated/saturated fat ratio. Frequency (servings/
+day or week) or quantity (g) was used to quantify consump-
+tion. The characteristics of all studies are shown in Supple-
+mentary Table 1, available in an online appendix.
+
+For prospective studies the length of the follow up ranged
+from 3.5 to 14 years. Adjustments differed across studies, but in
+most of them all known potential confounders, such as age, sex,
+BMI, physical activity, smoking, socioeconomic status, were
+taken into consideration in multi-adjusted models. Individual
+effect estimates for the highest versus the lowest centile of the
+diet score used (i.e., reflecting better versus worst compliance
+with Mediterranean diet) (Supplementary Table 1).
+
+3.2.
+
+Mediterranean diet and type 2 diabetes mellitus
+
+In the present meta-analysis 10 entries representing the 10
+prospective studies (9 prospective and 1 clinical trial), were
+considered for the primary analysis. The combined effect
+suggests a significant 23% reduction in the risk of developing
+type 2 diabetes mellitus for the highest versus the lowest centile
+of the score used to evaluate adherence to the Mediterranean
+diet (combined effect, RR = 0.77; 95% CI: 0.66, 0.89) (Fig. 2).
+
+Fig. 3 (continued).
+
+908
+
+M E T A B O L I S M C L I N I C A L A N D E X P E R I M E N T A L 6 3 ( 2 0 1 4 ) 9 0 3 – 9 1 1
+
+3.3.
+
+Subgroup analyses
+
+However, as reported, heterogeneity was observed when ana-
+lyzing the data. Thus, subgroup analyses were performed to
+explore the source of heterogeneity across: (a) region of origin of
+the studied sample, (b) participants’ health profile and (c) number
+of confounders included in the analysis. After stratification by
+region of origin, the effect of Mediterranean diet was similar for
+the studies that included only European populations (RR = 0.74;
+95% CI: 0.58, 0.91; pQ < 0.001, I2 =78.8%), as well as for studies that
+included non-European populations (RR = 0.81; 95% CI: 0.65, 0.97,
+pQ = 0.178 and I2 = 42.1%). Further analysis was performed
+according to participants' health status. Studies that en-
+rolled participants with prior gestational diabetes, or partic-
+ipants at high risk for cardiovascular disease and/or
+diabetes, reported that adherence to a Mediterranean
+diet was inversely associated with diabetes development
+(RR = 0.65; 95% CI: 0.51, 0.78; pQ = 0.365 and I2 = 0.80%);
+similarly, studies that included apparently healthy partici-
+pants confirmed this inverse association (RR = 0.83; 95% CI:
+0.70, 0.96; pQ = 0.001 and I2 = 74.7%). Finally, the analysis was
+stratified by studies’ level of adjustment for potential con-
+founders. Only one study was considered “minimally adjust-
+ed” [20], which reported a positive association between
+Mediterranean diet and diabetes (RR = 1.10, 95% CI 0.70, 1.70).
+However, both “more-adjusted” [24,25,28–30] and “fully-adjusted”
+studies [20,21,23,31] reported a protective effect (RR = 0.79; 95% CI:
+0.69, 0.90; pQ = 0.10 and I2 = 49%, and RR = 0.73; 95% CI: 0.43, 1.04;
+pQ = 0.01 and I2 = 74%, respectively) (Fig. 3).
+
+3.4.
+
+Meta-regression
+
+There were no significant differences in the subgroup analyses
+according to the region of origin (p = 0.88) and the level of
+adjustment made (p = 0.71), although there was evidence for a
+difference between the effect size measure derived from cohorts
+that included individuals at-high-risk and apparently healthy
+participants (p = 0.014), a fact that supports the finding from the
+sub-group analysis. The sample size of the included cohorts did
+not significantly affect the regression estimates (p > 0.90).
+
+3.5.
+
+Sensitivity analysis
+
+The results of the sensitivity analysis confirmed the stability
+of the previous findings. In particular, the combined effect
+ranged from RR = 0.77; 95% CI 0.59, 0.96 (after excluding the
+study by Mozaffarian et al. [22]) to RR = 0.76; 95% CI 0.57, 0.96
+(after excluding the study by de Koning et al. [30] or the study
+by Brunner et al [25]). Moreover, none of the above sensitivity
+analyses shifted the meta-analysis towards homogeneity
+(p for heterogeneity was still <0.05 in all models). Finally, the
+funnel plot was substantially asymmetric and therefore,
+publication bias may exist (Fig. 4).
+
+As far as the cross-sectional studies are concerned, the 6
+entries representing the 7 cross-sectional studies (the two
+studies of Ortega et al., were firstly pooled together, then the
+single estimate was re-introduced in the program and meta-
+analyzed with the rest 5 studies) which examined the
+association between Mediterranean dietary pattern and
+history of type 2 diabetes, were analyzed. The combined
+
+effect indicates a significant 8% reduction in the likelihood of
+having diabetes mellitus for the highest versus the lowest
+centile of the score (combined effect, OR = 0.91; 95% CI: 0.88,
+0.95) (see Appendix). As mentioned above, no heterogeneity
+was observed among cross-sectional studies.
+
+4.
+
+Discussion
+
+In the present meta-analysis a total sample of 136,846
+individuals, from various regions of the world, which partici-
+pated in 9 prospective studies and 1 randomized clinical trial,
+was studied. A beneficial effect of greater adherence to the
+Mediterranean diet on the development of type 2 diabetes was
+evident,
+irrespective of region of origin and the level of
+adjustment; but seemed to be more prominent among partic-
+ipants with prior gestational diabetes, or participants at high
+risk for cardiovascular disease and/or diabetes, according to the
+following meta-regression analysis followed on. This work adds
+to the current scientific knowledge a new direction towards
+diabetes prevention even though evidence exists on assess-
+ment of a variety of dietary patterns on the incidence of type 2
+diabetes [9]. With regards to Mediterranean diet per se, it has
+been well-studied for other chronic diseases, like CVD, the
+metabolic syndrome [18], cognitive impairment [16], but results
+regarding its effect against diabetes have not been consistently
+supportive [20,23,25,29]. The aforementioned findings, and
+under the power of a meta-analysis, could reinforce current
+scientific knowledge and supplement existing guidelines for the
+prevention of diabetes at the population level, if taken into
+account by public health authorities.
+
+The finding that Mediterranean diet was beneficial against
+the development of diabetes may have a biological explana-
+tion. At first, the antioxidant profile of the diet may suspend
+oxidative stress accumulation, which has been reported to
+mediate the development of insulin resistance and b-cell
+dysfunction [39]. In addition, magnesium-rich foods, such as
+vegetables, nuts and legumes can prevent a magnesium
+deficiency. It was found that decreased intracellular enzy-
+matic activity, attributed to magnesium deficiency, might
+favor insulin resistance [40], while extracellular magnesium is
+also needed to prevent a rise in intracellular calcium
+concentration, which impairs insulin signaling as well [41].
+Another mechanism implicates dietary fiber, particularly those
+found in cereal [42,43]. Their beneficial properties could derive
+from high magnesium concentrations (bran) or delayed gastric
+emptying rate, which slows down digestion and glucose
+absorption and reduces plasma insulin levels [44]. Moreover,
+moderate alcohol consumption has been associated with
+enhanced insulin sensitivity, possibly through adiponectin or
+HDL cholesterol
+[45], whereas resveratrol, a phytophenol
+primarily found in wine, has also been implicated in insulin
+signaling amelioration [46]. Last but not least, it has been
+suggested that Mediterranean diet may protect, contributing to
+weight control [47], which is crucial since abdominal fat is a
+significant risk factor for type 2 diabetes [48]. Being obese leads
+to increased release of non-esterified fatty acids from visceral
+fat,
+inhibiting insulin-stimulated glucose metabolism in
+skeletal muscle and stimulating gluconeogenesis in the liver,
+which may aggravate hepatic metabolism. Furthermore, weight
+
+M E T A B O L I S M C L I N I C A L A N D E X P E R I M E N T A L 6 3 ( 2 0 1 4 ) 9 0 3 – 9 1 1
+
+909
+
+)
+
+R
+R
+
+(
+ 
+
+E
+S
+1
+
+/
+
+0.00
+
+0.05
+
+0.10
+
+0.15
+
+0.20
+
+0.20
+
+0.40
+
+0.60
+
+0.80
+
+1.00
+
+1.20
+
+Effect Size
+
+Fig. 4 – Funnel plot for the evaluation of publication bias
+among prospective studies (the effect measure is on the
+horizontal axis and the precision (i.e., 1/standard error (SE) is
+on the vertical axis).
+
+loss is associated with a decrease in adipokine level [49], which
+adversely affects the insulin-signaling pathway [47]. When
+complying to Mediterranean diet, weight control is also to some
+extent achieved through food intake regulation, resulting from
+higher satiety and satiation, due to dietary fiber [50] and better
+fat oxidation due to the high unsaturated/saturated ratio
+(i.e., fish, olive oil vs. meat, dairy) [51]. Apart from the last
+mechanism, i.e., weight control, which can be achieved by
+various dietary patterns, the rest of the mechanisms, which
+implicate the antioxidant profile, e.g., fiber, resveratrol, high
+unsaturated/saturated fat ratio, can be hardly found, particu-
+larly in combination, in other dietary patterns. For example, a
+low-fat diet could be very low in fish, nuts and olive oil, whereas
+a low-carb diet could be low in fruits, dairy and legumes.
+
+Despite the strengths of the present meta-analysis, het-
+erogeneity was not negligible and could be attributed to
+various sources, like differences in methodology, duration of
+studies or clinical characteristics of patients. Another poten-
+tial source of heterogeneity is the variation in assessment of
+the Mediterranean diet across studies.
+
+Subgroup analysis revealed that the beneficial effect of
+Mediterranean diet was irrelevant of the region of origin of the
+study, the number of confounders adjusted for, and was evident
+both among healthy and at high cardiovascular or diabetes risk
+individuals. With regards to adherence, Mediterranean diet
+represents an eating pattern, easy to adopt, tasteful and with
+various health benefits, but also with variations across coun-
+tries around the Mediterranean basin. Taking into consideration
+the aforementioned health benefits, it could be suggested that
+health related organizations and institutions may inform
+people regarding this pattern and provide choices of available
+local foods and products that are close to the Mediterranean
+pattern. Replacement of olive oil with another “healthy”
+vegetable oil and consumption of available salads and fruits
+over red meat and meat products are examples of easy
+adjustments, which increase unsaturated/saturated fat ratio,
+fiber and antioxidants intake. Chile and Canada have already
+
+embraced easy to adopt modifications, which prove that
+Mediterranean diet can be a dietary model, adopted from
+non-European populations as well [52,53]. Still, it should be
+noted that this is a simplified recommendation, since health
+benefits may be ascribed to micronutrients, and differences
+may exist even within the food per se; for example PREMIDED
+trial used and studied extra virgin olive oil against type 2
+diabetes [20], but it warrants consideration whether this
+finding can be extended to regular olive oil as well.
+
+4.1.
+
+Limitations and strengths
+
+A limitation of the present meta-analysis is that adherence to
+the Mediterranean diet was not assessed with a systematic
+way across studies, i.e., the same diet index. As mentioned
+above, although most of them incorporated all core food
+groups of the model, in one study [22] consumption of nuts,
+legumes and grains was not accounted for. Furthermore, in
+prospective studies follow up varied from 3.5 years to
+14 years. Since categories of diet scores varied dramatically
+between studies, further standardization was very difficult to
+interpret; thus, it was preferred to combine the extreme
+categories based on the rational best-to-worst adherence to
+the Mediterranean diet. Another issue in these studies is that
+adherence to Mediterranean diet may have changed during the
+long period of follow up without timely information updates.
+Moreover, even if most studies were adjusted for major
+confounders (e.g., age, BMI, physical activity, family history of
+diabetes), another possible risk factor for type 2 diabetes,
+smoking, [54] was not present in all models. Furthermore,
+statistical heterogeneity was substantial and generalization
+of our results warrants consideration. To the best of our
+knowledge so far only one randomized clinical trial has assessed
+the role of Mediterranean diet in the development of type 2
+diabetes. Since this type of studies is the most robust from a
+methodological point of view, it could be suggested that further
+research shifted towards this direction should be made in order
+to better understand efficacy of Mediterranean diet in detaining
+type 2 diabetes onset, as well as evaluate the feasibility and
+sustainability of adopting this pattern from other countries.
+Finally, publication bias seemed to be evident and therefore the
+results of this meta-analysis should be interpreted with some
+conscious. However, the present meta-analysis has several
+strengths. It was based on a systematic review in the acquisition
+of studies, following international standards (i.e., the MOOSE
+protocol for observational studies and PRISMA protocol for the
+clinical trial) and the data analysis was performed using all up to
+date statistical methods. Regarding the observed heterogeneity,
+subgroup analyses were performed to further investigate the
+source of variation across studies. A sensitivity analysis was also
+conducted to eliminate the possibility that one single study was
+responsible for results found.
+
+5.
+
+Conclusion
+
+Mediterranean dietary pattern seems to have additional benefits
+on health, including type 2 diabetes mellitus development. This
+result is of considerable public health importance, because this
+pattern may be adopted, if appropriately adjusted to reflect local
+
+910
+
+M E T A B O L I S M C L I N I C A L A N D E X P E R I M E N T A L 6 3 ( 2 0 1 4 ) 9 0 3 – 9 1 1
+
+food availability as well as individual’s preferences, by not only
+Mediterranean populations [55]. It is not suggested that
+Mediterranean diet is a panacea, but since no consensus exists
+on which is the best anti-diabetic diet, Mediterranean dietary
+pattern could constitute a beneficial nutritional choice for the
+primary prevention of type 2 diabetes.
+
+Authors Contribution
+
+EK: performed literature search, the meta-analysis and wrote
+the paper; KE, DG, CK (Dr Christina-Maria Kastorini): critically
+reviewed the paper, DBP: guarantor of the work, designed the
+meta-analysis, supervised the data-analysis and critically
+reviewed the paper.
+
+Funding
+
+No funding was provided.
+
+Conflict of Interest
+
+The authors have no relevant conflict of interest to disclose.
+
+Appendix A. Supplementary data
+
+Supplementary data to this article can be found online at
+http://dx.doi.org/10.1016/j.metabol.2014.04.010.
+
+R E F E R E N C E S
+
+[1] Danaei G, Finucane MM, Lu Y, Singh GM, Cowan MJ, Paciorek CJ,
+
+et al. National, regional, and global trends in fasting plasma
+glucose and diabetes prevalence since 1980: systematic
+analysis of health examination surveys and epidemiological
+studies with 370 country-years and 2.7 million participants.
+Lancet 2011;378(9785):31–40.
+
+[2] WHO. Obesity and overweight. Fact sheet no. 311. [cited; Available
+
+from] http://www.who.int/mediacentre/factsheets/fs311/en/
+index.html; 2013.
+
+[3] Nyenwe EA, Jerkins TW, Umpierrez GE, Kitabchi AE.
+
+Management of type 2 diabetes: evolving strategies for the
+treatment of patients with type 2 diabetes. Metabolism
+2011;60(1):1–23.
+
+[4] Yoon U, Kwok LL, Magkidis A. Efficacy of lifestyle interventions
+in reducing diabetes incidence in patients with impaired glucose
+tolerance: a systematic review of randomized controlled trials.
+Metabolism 2013;62(2):303–14.
+
+[5] Mursu J, Virtanen JK, Toumainen TP, Nurmi T, Voutilainen
+S. Intake of fruit, berries, and vegetables and risk of type 2
+diabetes in Finnish men: the Kuopio Ischaemic Heart
+Disease Risk Factor Study. Am J Clin Nutr 2014;99(2):328–33.
+
+[6] Feskens EJ, Sluik D, van Woudenbergh GJ. Meat consumption,
+
+diabetes, and its complications. Curr Diab Rep 2013;13(2):298–306.
+[7] Trichopoulos D, Lagiou P. Dietary patterns and mortality. Br J
+
+Nutr 2001;85(2):133–4.
+
+[8] Giugliano D, Esposito K. Mediterranean diet and metabolic
+
+diseases. Curr Opin Lipidol 2008;19(1):63–8.
+
+[9] Esposito K, Kastorini CM, Panagiotakos DB, Giugliano D.
+
+Prevention of type 2 diabetes by dietary patterns: a systematic
+review of prospective studies and meta-analysis. Metab Syndr
+Relat Disord 2010;8(6):471–6.
+
+[10] Keys A, Menotti A, Karvonen MJ, Aravanis C, Blackburn H,
+
+Buzina R, et al. The diet and 15-year death rate in the seven
+countries study. Am J Epidemiol 1986;124(6):903–15.
+
+[11] Noah A, Truswell AS. There are many Mediterranean diets.
+
+Asia Pac J Clin Nutr 2001;10(1):2–9.
+
+[12] Willett WC, Sacks F, Trichopoulo A, Drescher G, Ferro-Luzzi A,
+
+Helsing E, et al. Mediterranean diet pyramid: a cultural
+model for healthy eating. Am J Clin Nutr 1995;61
+(6 Suppl):1402S–6S.
+
+[13] UNESCO. Representative list of the intangible cultural heritage
+
+of humanity. http://www.unesco.org/culture/ich/index.php?
+lg=en&pg=00011&RL=00394#identification; 2010. [cited].
+
+[14] Panagiotakos DB, Pitsavos C, Polychronopoulos E, Chrysohoou C,
+Zampelas A, Trichopoulou A. Can a Mediterranean diet moderate
+the development and clinical progression of coronary heart
+disease? A systematic review. Med Sci Monit 2004;10(8):RA193–8.
+[15] Sanchez-Tainta A, Estruch R, Bullo M, Corella D, Gomez-Gracia E,
+
+Fiol M, et al. Adherence to a Mediterranean-type diet and
+reduced prevalence of clustered cardiovascular risk factors in a
+cohort of 3,204 high-risk patients. Eur J Cardiovasc Prev Rehabil
+2008;15(5):589–93.
+
+[16] Psaltopoulou T, Sergentanis TN, Panagiotakos DB, Sergentanis
+IN, Kosti R, Scarmeas N. Mediterranean diet, stroke, cognitive
+impairment, and depression: a meta-analysis. Ann Neurol
+2013;74(4):580–91.
+
+[17] Kesse-Guyot E, Ahluwalia N, Lassale C, Hercberg S, Fezeu L,
+Lairon D. Adherence to Mediterranean diet reduces the risk of
+metabolic syndrome: a 6-year prospective study. Nutr Metab
+Cardiovasc Dis 2013;23(7):677–83.
+
+[18] Kastorini CM, Milionis HJ, Esposito K, Giugliano D, Goudevenos
+
+JA, Panagiotakos DB. The effect of Mediterranean diet on
+metabolic syndrome and its components: a meta-analysis of 50
+studies and 534,906 individuals. J Am Coll Cardiol 2011;57(11):
+1299–313.
+
+[19] Grundy SM, Cleeman JI, Daniels SR, Donato KA, Eckel RH,
+
+Franklin BA, et al. Diagnosis and management of the metabolic
+syndrome: an American Heart Association/National Heart,
+Lung, and Blood Institute Scientific Statement. Circulation
+2005;112(17):2735–52.
+
+[20] Salas-Salvado J, Bullo M, Babio N, Martinez-Gonzalez MA,
+
+Ibarrola-Jurado N, Basora J, et al. Reduction in the incidence of
+type 2 diabetes with the Mediterranean diet: results of the
+PREDIMED-Reus nutrition intervention randomized trial.
+Diabetes Care 2011;34(1):14–9.
+
+[21] Martinez-Gonzalez MA, de la Fuente-Arrillaga C, Nunez-Cordoba
+JM, Basterra-Gortari FJ, Beunza JJ, Vazquez Z, et al. Adherence to
+Mediterranean diet and risk of developing diabetes: prospective
+cohort study. BMJ 2008;336(7657):1348–51.
+
+[22] Mozaffarian D, Marfisi R, Levantesi G, Silletta MG, Tavazzi L,
+
+Tognoni G, et al. Incidence of new-onset diabetes and
+impaired fasting glucose in patients with recent myocardial
+infarction and the effect of clinical and lifestyle risk factors.
+Lancet 2007;370(9588):667–75.
+
+[23] Abiemo EE, Alonso A, Nettleton JA, Steffen LM, Bertoni AG,
+
+Jain A, et al. Relationships of the Mediterranean dietary
+pattern with insulin resistance and diabetes incidence in the
+Multi-Ethnic Study of Atherosclerosis (MESA). Br J Nutr
+2013;109(8):1490–7.
+
+[24] de Leon AC, Coello SD, Gonzalez DA, Diaz BB, Rodriguez JC,
+Hernandez AG, et al. Impaired fasting glucose, ancestry and
+waist-to-height ratio: main predictors of incident diagnosed
+diabetes in the Canary Islands. Diabet Med 2011;29(3):
+399–403.
+
+M E T A B O L I S M C L I N I C A L A N D E X P E R I M E N T A L 6 3 ( 2 0 1 4 ) 9 0 3 – 9 1 1
+
+911
+
+[25] Brunner EJ, Mosdol A, Witte DR, Martikainen P, Stafford M,
+
+Shipley MJ, et al. Dietary patterns and 15-y risks of major
+coronary events, diabetes, and mortality. Am J Clin Nutr
+2008;87(5):1414–21.
+
+[26] American Diabetes Association. Standards of medical care in
+
+diabetes—2014. Diabetes Care 2014;37(Suppl 1):S14–80.
+
+[27] Higgins JP, Thompson SG. Quantifying heterogeneity in a
+
+meta-analysis. Stat Med 2002;21(11):1539–58.
+
+[28] Rossi M, Turati F, Lagiou P, Trichopoulos D, Augustin LS,
+
+La Vecchia C, et al. Mediterranean diet and glycaemic load
+in relation to incidence of type 2 diabetes: results from the
+Greek cohort of the population-based European Prospective
+Investigation into Cancer and Nutrition (EPIC). Diabetologia
+2013;56(11):2405–13.
+
+[29] Tobias DK, Hu FB, Chavarro J, Rosner B, Mozaffarian D, Zhang C.
+
+Healthful dietary patterns and type 2 diabetes mellitus risk
+among women with a history of gestational diabetes mellitus.
+Arch Intern Med 2012;172(20):1566–72.
+
+[30] de Koning L, Chiuve SE, Fung TT, Willett WC, Rimm EB, Hu FB.
+
+Diet-quality scores and the risk of type 2 diabetes in men.
+Diabetes Care 2011;34(5):1150–6.
+
+[31] Romaguera D, Guevara M, Norat T, Langenberg C, Forouhi NG,
+Sharp S, et al. Mediterranean diet and type 2 diabetes risk in
+the European Prospective Investigation into Cancer and
+Nutrition (EPIC) study: the InterAct project. Diabetes Care
+2011;34(9):1913–8.
+
+[32] Stroup DF, Berlin JA, Morton SC, Olkin I, Williamson GD,
+Rennie D, et al. Meta-analysis of observational studies in
+epidemiology: a proposal for reporting. Meta-analysis Of
+Observational Studies in Epidemiology (MOOSE) group. JAMA
+2000;283(15):2008–12.
+
+[33] Moher D, Liberati A, Tetzlaff J, Altman DG. Preferred reporting
+items for systematic reviews and meta-analyses: the PRISMA
+statement. BMJ 2009;339:b2535.
+
+[34] Ortega E, Franch J, Castell C, Goday A, Ribas-Barba L, Soriguer F,
+
+et al. Mediterranean diet adherence in individuals with
+prediabetes and unknown diabetes: the Di@bet.es Study. Ann
+Nutr Metab 2013;62(4):339–46.
+
+[35] Panagiotakos DB, Pitsavos C, Chrysohoou C, Stefanadis C. The
+epidemiology of type 2 diabetes mellitus in Greek adults: the
+ATTICA study. Diabet Med 2005;22(11):1581–8.
+
+[36] Panagiotakos DB, Polystipioti A, Papairakleous N,
+
+Polychronopoulos E. Long-term adoption of a Mediterranean
+diet is associated with a better health status in elderly
+people; a cross-sectional survey in Cyprus. Asia Pac J Clin
+Nutr 2007;16(2):331–7.
+
+[37] Hu EA, Toledo E, Diez-Espino J, Estruch R, Corella D,
+
+Salas-Salvado J, et al. Lifestyles and risk factors
+associated with adherence to the Mediterranean diet: a
+baseline assessment of the PREDIMED trial. PLoS One
+2013;8(4):e60166.
+
+[38] Garcia-Arenzana N, Navarrete-Munoz EM, Peris M, Salas D,
+Ascunce N, Gonzalez I, et al. Diet quality and related factors
+among Spanish female participants in breast cancer screening
+programs. Menopause 2012;19(10):1121–9.
+
+[39] Evans JL, Goldfine ID, Maddux BA, Grodsky GM. Are oxidative
+
+stress-activated signaling pathways mediators of insulin
+resistance and beta-cell dysfunction? Diabetes 2003;52(1):1–8.
+[40] Barbagallo M, Dominguez LJ, Galioto A, Ferlisi A, Cani C, Malfa L,
+et al. Role of magnesium in insulin action, diabetes and cardio-
+metabolic syndrome X. Mol Aspects Med 2003;24(1–3):39–52.
+[41] McCarty MF. PKC-mediated modulation of L-type calcium
+channels may contribute to fat-induced insulin resistance.
+Med Hypotheses 2006;66(4):824–31.
+
+[42] Liese AD, Schulz M, Fang F, Wolever TM, D'Agostino RB, Jr,
+Sparks KC, et al. Dietary glycemic index and glycemic load,
+carbohydrate and fiber intake, and measures of insulin
+sensitivity, secretion, and adiposity in the Insulin Resistance
+Atherosclerosis Study. Diabetes Care 2005;28(12):2832–8.
+
+[43] Lau C, Faerch K, Glumer C, Tetens I, Pedersen O, Carstensen B,
+
+et al. Dietary glycemic index, glycemic load, fiber, simple
+sugars, and insulin resistance: the Inter99 study. Diabetes
+Care 2005;28(6):1397–403.
+
+[44] Chandalia M, Garg A, Lutjohann D, von Bergmann K, Grundy
+SM, Brinkley LJ. Beneficial effects of high dietary fiber intake
+in patients with type 2 diabetes mellitus. N Engl J Med 2000;
+342(19):1392–8.
+
+[45] Bonnet F, Disse E, Laville M, Mari A, Hojlund K, Anderwald CH,
+
+et al. Moderate alcohol consumption is associated with
+improved insulin sensitivity, reduced basal insulin secretion
+rate and lower fasting glucagon concentration in healthy
+women. Diabetologia 2012;55(12):3228–37.
+
+[46] Tsoukas MA, Farr OM, Mantzoros CS. Advances in metabolism.
+
+Metabolism 2013;62(12):1700–13.
+
+[47] Schroder H. Protective mechanisms of the Mediterranean diet
+in obesity and type 2 diabetes. J Nutr Biochem 2007;18(3):149–60.
+[48] Hu FB, Manson JE, Stampfer MJ, Colditz G, Liu S, Solomon CG,
+et al. Diet, lifestyle, and the risk of type 2 diabetes mellitus in
+women. N Engl J Med 2001;345(11):790–7.
+
+[49] Ko BJ, Park KH, Mantzoros CS. Diet patterns, adipokines, and
+
+metabolism: where are we and what is next? Metabolism
+2014;63(2):168–77.
+
+[50] Howarth NC, Saltzman E, Roberts SB. Dietary fiber and weight
+
+regulation. Nutr Rev 2001;59(5):129–39.
+
+[51] DeLany P, Windhauser MM, Champagne CM, Bray GA.
+
+Differential oxidation of individual dietary fatty acids in
+humans. Am J Clin Nutr 2000;72(4):905–11.
+
+[52] Downs SM, Willows ND. Should Canadians eat according to
+the traditional Mediterranean diet pyramid or Canada's food
+guide? Appl Physiol Nutr Metab 2008;33(3):527–35.
+
+[53] Rozowski J, Castillo O. Is the Chilean diet a Mediterranean-type
+
+diet? Biol Res 2004;37(2):313–9.
+
+[54] Shi L, Shu XO, Li H, Cai H, Liu Q, Zheng W, et al. Physical
+
+activity, smoking, and alcohol consumption in association
+with incidence of type 2 diabetes among middle-aged and
+elderly Chinese men. PLoS One 2013;8(11):e77919.
+
+[55] Trichopoulou A, Bamia C, Norat T, Overvad K, Schmidt EB,
+
+Tjonneland A, et al. Modified Mediterranean diet and survival
+after myocardial infarction: the EPIC-Elderly study. Eur J
+Epidemiol 2007;22(12):871–81.
+
+
