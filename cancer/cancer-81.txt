@@ -1,0 +1,1503 @@
+Consumption of Olive Oil and  Specific
+Food Groups in Relation to Breast Cancer
+Risk in Greece
+
+Antonia  Trichopoulou, Klea Katsouyanni, Sherri Stuver, Lia  Tzala,
+Charalambos  Gnardellis, Eric Rimm, Dimitrios Trichopoulos*
+
+fruit  consumption  were 
+
+in  quintiles.  Adjustment 
+factors,  energy 
+
+Background:  Experimental  animal  studies suggest  that  olive
+oil  consumption,  as  contrasted  to  consumption  of  other  fat
+types,  does  not  enhance  the  occurrence  of  chemically  in-
+duced  mammary  tumors,  but  human  data  are  sparse.  Fur-
+thermore,  evidence  is  inconclusive  concerning  the  role  of
+food  groups, as distinct  from  that of major  nutrients, in the
+etiology  of  breast  cancer  in  women. Purpose:  This  analysis
+was  conducted  to  evaluate  and  quantify  the  effect  of  con-
+sumption of olive oil, margarine, and a range of food  groups
+on  the  risk  of  breast  cancer.  Methods:  Data  from  a  com-
+prehensive,  semiquantitative  food-frequency  questionnaire
+administered  to  820  women  with  breast  cancer  and  1548
+control  women  from  the  study  base  were  used  to  calculate
+odds ratios (ORs) and A' statistics of linear trend for the con-
+sumption  of olive oil, margarine, and a series of food  groups
+classified 
+the  effects  of
+for 
+reproductive  risk 
+intake,  and  mutual
+confounding  influences  was  implemented  through  uncondi-
+tional  logistic  regression  modeling.  Results:  Vegetable  con-
+sumption  and 
+independently
+associated  with  statistically  significant  reductions  of  breast
+cancer  risk  by  12%  and  8%,  respectively,  per  quintile  in-
+crease; no significant  associations were evident for the other
+food  groups examined.  Increased  olive oil  consumption  was
+associated  with significantly  reduced  breast cancer  risk  (OR
+=  0.75  [95%  confidence  interval  = 0.57-0.98]  for  more  than
+once a day versus once a day), whereas increased  margarine
+consumption  was associated  with significantly  increased  risk
+(OR  =  1.05  [95%  confidence  interval  =  1.00-1.10]  for  an
+increment  of  four  times  a  month). The  olive  oil  association
+was  apparently 
+concentrated  among  postmenopausal
+women, but the relevant interaction  term was not statistical-
+ly  significant;  there  was  no  suggestion  of  interaction  with
+menopausal  status  for  consumption  of  either  vegetables,
+fruits,  or  margarine.  Conclusions:  Although  major  categor-
+ies  of  macronutrients  do  not  show  significant  associations
+with breast cancer risk in most studies, including the present
+one,  vegetables  and  fruits  are  inversely,  significantly,  and
+strongly associated with this risk. There also is evidence that
+olive  oil  consumption  may  reduce  the  risk  of  breast  cancer,
+whereas  margarine  intake  appears  to  be associated  with  an
+elevated  risk for the disease. [J Natl Cancer Inst 87:110-116,
+1995]
+
+The evidence concerning  an inverse association  between con-
+sumption  of  vegetables  and  fruits  on  the  one  hand  and  breast
+cancer risk on the other is generally  considered  inconclusive (1-
+3),  although a meta-analysis  (4) has reported  a protective  effect.
+There  are  several  reasons  for  the  widespread  hesitation  to  at-
+tribute  a  major  protective  role  to  fruits  and  vegetables  in  the
+context  of breast cancer.  Early  case-control  studies  on diet  and
+breast cancer  [reviewed  by Steinmetz and Potter (3)] did not ac-
+count  for  energy  intake  in  the  analysis;  adjustment  for  energy
+intake (5,6) controls for the consequences of general overreport-
+ing or underreporting by case patients of their food  consumption
+in case-control  investigations (7). Furthermore, since the impor-
+tance of energy  intake as a critical  factor  in epidemiologic  anal-
+yses  was  recognized  and  procedures  to  account  for  it  were
+formulated  (5,6,8),  the  emphasis  has  moved  away  from  food
+items  and  food  groups  to  macronutrients  and  micronutrients
+believed  to represent  the  biologically  active  ingredients  (9-11).
+This  approach  is justifiable  in  certain  geographic  and  cultural
+settings  where  dietary  supplements  are  extensively  used  (12).
+However,  this  approach  may  not  be  appropriate  in  other  situa-
+tions, since the protective effect,  if any, of vegetables and  fruits
+could  be  mediated  by  factors  biologically  independent  of  their
+content in fiber  or antioxidant vitamins (13). Another reason  for
+the diminished  interest in vegetables and fruits  as potentially im-
+portant  factors  in  cancer  etiology  and  prevention  is  that  the
+scientific  and  public  debate  on  the  nutritional  etiology  of  this
+disease  has focused  on  the  possible  role  of  fat  and  on  the  most
+
+*Affiliations  of  authors:  A.  Trichopoulou,  Department  of  Nutrition  and
+Biochemistry,  Athens  School  of  Public  Health,  Greece;  and  Department  of
+Nutrition, Harvard School of Public Health. Boston, Mass.
+
+K.  Katsouyanni.  Department  of  Hygiene  and  Epidemiology,  University  of
+Athens  Medical  School, Goudi, Greece;  and  Department  of  Epidemiology  and
+Center for Cancer Prevention, Harvard School of Public Health.
+
+S. Stuver, D. Trichopoulos,  Department  of Epidemiology  and Center for Can-
+
+cer Prevention, Harvard School of Public Health.
+
+L.  Tzala,  Department  of  Hygiene  and  Epidemiology,  University  of  Athens
+
+Medical School.
+
+C.  Gnardellis,  Department  of  Nutrition  and  Biochemistry,  Athens  School  of
+
+Public Health.
+
+E. Rimm. Department  of  Nutrition, Department  of  Epidemiology,  and  Center
+
+for Cancer Prevention, Harvard School of Public Health.
+
+Correspondence to: Dimitrios Trichopoulos, M.D., Department of  Epidemiol-
+ogy,  Harvard  School  of  Public  Health.  677  Huntington  Ave.,  Boston,  MA
+02115.
+
+See "Notes" section following  "References."
+
+110  ARTICLES
+
+Journal of the National Cancer Institute, Vol. 87, No. 2, January  18, 1995
+
+appropriate research strategies for the demonstration  of this pos-
+tulated role (10,14,15).
+
+A  similar  issue  may  have  hindered  the  evaluation  of  poten-
+tially  different  effects  of  various  types  of  fat  on  breast  cancer
+risk.  Most  major  studies  and  meta-analyses  have  concentrated
+on  total  fat  as  well  as  on  saturated,  monounsaturated,  and
+polyunsaturated  fat  and have found  only  minor quantitative  dif-
+ferences  among  the  fat  type-specific  measures  of  association
+with breast cancer  risk  (10,16,17). However, evidence  from  ex-
+perimental  studies in animals (18-21) suggests that consumption
+of  olive  oil  per  se, as contrasted  to that  of  other  fat  types, may
+not  enhance  the  yield  of  various  types  of  tumors,  including
+breast  cancer.  Moreover,  in  Mediterranean  countries  monoun-
+saturated fats  reflect  mostly olive oil, whereas in North  America
+they are derived mostly from other foods, in particular meat.
+
+In  this  article,  we have  analyzed  the  data  from  a  large  case-
+control  study  undertaken  in Greece,  in order  to assess the inde-
+pendent  associations  with  breast  cancer  risk  of  consumption  of
+vegetables, fruits,  other food  groups, and types of  fat  according
+to their origin (i.e., olive oil, butter, seed oils, and margarine). In
+previously  published  papers based  on  these data,  there  were  no
+statistically  significant,  consistent, or substantial  associations of
+breast  cancer  risk  with  any  of  the  macronutrients  (saturated,
+monounsaturated,  or  polyunsaturated  fat,  carbohydrates,  or
+protein)  (22), although  ethanol  intake  of  more  than  30 g/d  was
+associated  with  a  small  but  statistically  significant  elevation  in
+risk (25).
+
+Subjects and Methods
+
+During a 3-year  period  (1989-1991), all women  with newly diagnosed  breast
+cancer,  admitted  in  four  major  hospitals  in  the  greater  Athens  area,  were  iden-
+tified.  Of  the  873 histologically  confirmed  cases,  820 were eventually  included
+in the  study  (94% participation  rate). Each  case  patient  was  interviewed  in  the
+hospital  before  her  first  discharge.  For  each  case  patient,  two  control  subjects
+were identified:  One was from  among hospital  visitors in the same hospital  (not
+
+including first-degree relatives or women  who ever had breast cancer); the other
+was from  among orthopedic  patients  from  the major accident  hospital of  Athens
+or Piraeus (depending on the residence of the case patient). Each control  subject
+had to be within ±5 years of the age of the index case patient and  from  the same
+area  of  residence.  Eight  hundred  thirty  eligible  hospital  control  subjects  were
+identified,  of  whom  795 (96%) were  interviewed;  similarly, 808 eligible  visitor
+controls were  identified,  of  whom  753 (93%) were  interviewed. Thus, a total of
+1548 control  subjects  from  both series were eventually  included  in the study. All
+control  subjects  were  interviewed  in  the  hospital  by  use  of  the  same  question-
+naire as used for the case patients; every case-control  triplet was interviewed by
+the same specially trained interviewer. Earlier reports (2223)  have presented ad-
+ditional  details  concerning  study  design,  data  collection,  comparability  of  the
+control series, and analysis with respect to macronutrients and alcohol intake.
+
+The  interview  covered  demographic  and  reproductive  information  and  also
+included a validated, semiquantitative  food-frequency  questionnaire  (24). Based
+on  an  analysis  using  a series of  twelve  24-hour  diet  recalls  as the  standard,  the
+correlation  coefficients  for  data  derived  from  the  food-frequency  questionnaire
+were  around  .40  for  most  macronutrients  and  food  groups,  including  monoun-
+saturated fat and total fruits  and vegetables (24). All subjects in the present study
+were asked to indicate the average frequency  of consumption, during a period of
+1 year before  onset of the present disease or before  the interview  for visitor con-
+trol  subjects, of  115 food  items  or  beverage categories  per month,  per  week, or
+per day. For analysis, the frequency  of consumption  of different  food  items was
+quantified  approximately  in  terms  of  the  number  of  times  per  month  the  food
+was consumed  (25). Thus, daily  consumption  was multiplied  by  30 and  weekly
+consumption  by 4, while a value of 0 was assigned  to food  items rarely or never
+consumed.
+
+Food  items  were  considered  in  groups  as  recommended  by  Davidson  and
+Passmore  (26)  and  used  by  Manousos  et  al.  (27)  and  Trichopoulos  et  al.  (28).
+The  individual  values for  monthly  consumption  were added, and the sums were
+approximately  distributed  into  quintiles  based  on  the  distribution  of  the  entire
+study population.  (For starchy  roots, i.e., potatoes, the distribution  was extreme-
+ly skewed, making quintile distribution  impractical and even quartile distribution
+suboptimal.)  Hsieh et al. (29) have shown that  there  is virtually  no difference  in
+statistical  efficiency  if quantiles  are  based  on case  patients, control  subjects,  or
+both groups combined; however, calculation of quantiles using the entire popula-
+tion  (case  patients  and  control  subjects)  respects  the  usual  tenet  of  statistical
+analysis that  the null  hypothesis  is presumed  true until  there  is evidence  against
+it.  The  food  groups  formed  were  as  follows:  cereals;  starchy  roots  (i.e.,
+potatoes);  sugars  and  syrups;  pulses, nuts, and  seeds; vegetables;  fruits;  meats,
+fish, and eggs; milk and milk products; oils and fats; and nonalcoholic  beverages
+(Table  1). Some  cooked  meals  were  allocated  to  two  food  groups  (one  half  in
+
+Food group
+
+Cereals
+
+Starchy roots
+Sugars and syrups
+
+Pulses, nuts, and seeds
+Vegetables
+
+Fruits
+
+Table 1.  Classification  into food  groups of food  items considered  in the food-frequency  questionnaire
+
+Food item*
+
+White bread, brown bread, traditional bread, rice, pasta, various breakfast  cereals, trahana, cheese pie (1/2), meat pie (1/2),
+
+vegetable pie (1/2), pizza (1/2), pastitsio (1/2)
+
+Potatoes
+Sugar, cookies, chocolate bars, wafers, baklava. kataifi  and other Greek sweets with syrup, spoonful  sweets (Greek delicacies),
+
+jellies, glace fruits, cream pastries, pancakes with syrup, bonbons, honey, compote (1/2)
+
+Dry beans, chick peas, lentils, fava beans, dry broad beans, nuts
+Raw tomatoes, cooked tomatoes, cucumbers, peppers, raw cabbage, cooked cabbage, lettuce, raw carrots, cooked carrots,
+
+zucchini, onions, green  beans, eggplants, spinach, leeks, okra, dandelions, artichokes, fresh  broad beans, peas,  cauliflower,
+broccoli, beets, mushrooms, vegetable pie (1/2), moussaka (1/2)
+
+Watermelon, melon, mandarins, oranges, apples, peaches, pears, grapes, apricots, cherries, strawberries, bananas, figs, pineapple,
+
+grapefruit,  fresh  fruit juice, dried fruits, compote (1/2)
+
+Meats, fish, and eggs
+
+Pork, veal, beef, lamb, goat, chicken, turkey, fish, shellfish, ham, salami and sausages, liver and other entrails, eggs, meat pie
+
+(1/2), moussaka (1/2), pastitsio (1/2)
+
+Milk and milk products
+
+Feta cheese, kaseri cheese, other cheese, whole milk, skimmed milk, full  fat yogurt, reduced fat yogurt, milk pudding, rice milk
+
+pudding, ice cream, cheese pie (1/2), pizza (1/2)
+
+Oils and  fats
+Nonalcoholic beverages
+
+Butter on bread, butter for cooking, margarine on bread, margarine for cooking, seed oils, olive oil, olives
+Bottled fruit juice, various sodas, various colas, other carbonated  beverages
+
+*" 1/2" indicates the cooked meals that were allocated to two food groups (one half in each).
+
+Journal of the National Cancer Institute, Vol. 87, No. 2, January  18, 1995
+
+ARTICLES 
+
+111
+
+each);  e.g.,  moussaka  was apportioned  into both  vegetables  and  the group  con-
+taining  meats,  fish,  and  eggs,  and  cheese  pie  was  apportioned  into  cereals  and
+milk  products  (Table  1). A number of  important  items, notably olive oil, butter,
+margarine, and seed oils, were also considered  individually.
+
+The  data  were  modeled  through  unconditional  logistic regression  (30) using
+the  SPSS  statistical  package  (Statistical  Package  for  Social  Sciences, Chicago,
+111.). The  effects  of  several  established  demographic  and  reproductive  risk  fac-
+tors for  breast cancer were evident  in the present  study  (22). Thus, a core model
+was used that included age (years), place of birth (urban or rural), Quetelet  index
+(kg/m2),  parity  (parous  or  nulliparous),  age  at  first  pregnancy  (years,  among
+parous  women),  age  at  menarche  (years),  and  menopausal  status  (postmeno-
+pausal  or  premenopausal).  Exogenous  estrogens  are  used  very  infrequently  in
+Greece;  thus, exposure  to oral  contraceptives  and/or  menopausal  estrogens  was
+not  included  in the core model. Since intake of most food  items and food  groups
+is positively correlated  with total energy  intake, caloric adjustment  also was util-
+ized  (5,6,822).  The  statistical  significance  of  the  linear  trend  in  quantiles  of
+consumption  of a food group was tested by dividing the regression coefficient  by
+
+its standard  error to generate  an X  statistic (50). In addition,  the likelihood  ratio
+test, which is the difference  of the maximized  log-likelihood  statistics, was used
+to assess the  statistical  significance  of  additional  covariates  in a model  (28 JO).
+Because odds ratios (ORs) for  reproductive  variables, macronutrients, and etha-
+nol  intake were very  similar  when  cases  were compared  with either of the con-
+trol  series  (2223),  all  results  presented  in  this  article  were  derived  from
+comparisons  between  the  cases  and  the  combined  control  series.  All  P  values
+reported in this article are two-tailed.
+
+Results
+
+Table  2  shows  the  distribution  of  case  patients  and  control
+subjects by frequency  of consumption of each major food group.
+The  X  values  for  log-linear  trend,  after  adjustment  for  age, are
+also  given. These  data  are  not  directly  interpretable  because  of
+confounding  by  demographic  and  reproductive  breast  cancer
+
+Table 2.  Distribution  of 820 case patients and  1548 control subjects  by frequency  of consumption  of various food groups*
+
+Food group
+
+Cereals
+Cases
+Controls
+Quintile median:):
+
+Starchy  roots
+
+Cases
+Controls
+Quartile  median}
+
+Sugars and syrups
+
+Cases
+Controls
+Quintile  mediant
+
+Pulses, nuts, and seeds
+
+Cases
+Controls
+Quintile  mediant
+
+Vegetables
+
+Cases
+Controls
+Quintile  mediant
+
+Fruits
+
+Cases
+Controls
+Quintile  mediant
+
+Meats, fish, and eggs
+
+Cases
+Controls
+Quintile  mediant
+
+Milk and milk  products
+
+Cases
+Controls
+Quintile  mediant
+
+Oils and  fats§
+
+Cases
+Controls
+
+Nonalcoholic beverages
+
+Cases
+Controls
+Quintile  mediant
+
+1
+
+(lowest)
+
+164
+369
+33
+
+244
+448
+4
+
+156
+317
+10
+
+184
+391
+2
+
+190
+293
+47
+
+168
+308
+42.5
+
+154
+330
+20
+
+152
+326
+24.5
+
+178
+356
+
+245
+428
+0
+
+2
+
+146
+270
+38.5
+
+263
+545
+8
+
+159
+325
+35
+
+180
+336
+
+3.5
+
+174
+301
+74
+
+180
+295
+78
+
+150
+317
+26.5
+
+161
+303
+46.5
+
+140
+327
+
+129
+263
+2
+
+Quintile
+
+3
+
+164
+309
+66
+
+188
+348
+8
+
+176
+299
+53.5
+
+136
+290
+5
+
+153
+309
+89.5
+
+171
+302
+108.5
+
+169
+311
+32
+
+163
+314
+64
+
+178
+270
+
+133
+284
+3
+
+4
+
+176
+297
+96.5
+
+124
+207
+16
+
+164
+304
+78.5
+
+134
+244
+7
+
+162
+315
+108
+
+155
+318
+137
+
+174
+295
+39
+
+176
+304
+79.5
+
+168
+284
+
+144
+294
+7
+
+5
+
+(highest)
+
+169
+303
+137.5
+
+164
+302
+134
+
+185
+287
+
+12.5
+
+140
+330
+142
+
+145
+324
+183
+
+172
+295
+52.5
+
+167
+301
+114.5
+
+155
+311
+
+168
+279
+19
+
+linear trend
+
++ 1.78
+
++ 1.42
+
++ 1.30
+
++2.55
+
+-2.58
+
+-1.63
+
++3.01
+
++ 1.38
+
++ 1.43
+
++0.56
+
+•There are a few missing values.
+fX  values are age adjusted  and are interpretable as standard normal deviates.
+tTimes per month.
+§For distribution of specific  oils and fats, see Table 5.
+
+112  ARTICLES
+
+Journal of the National Cancer Institute, Vol. 87, No. 2, January  18, 1995
+
+risk  factors  as  well  as  by  the  food  groups  themselves.  Table  3
+provides the logistic regression-derived  coefficients  for the food
+groups, controlling for the core model variables and total energy
+intake but  not  for  confounding  among  food  groups.  Regression
+coefficients  and  ORs are expressed  by quintile  increase of  con-
+sumption  (quartile for  potatoes). Only  with respect to consump-
+tion  of  fruits  and  vegetables  were  there  statistically  significant
+associations,  both  being  inversely  related  to  breast  cancer  risk
+(Table  3). Table  4  explores  whether  there  was  deviation  from
+the log-linearity  assumed  in Table  3 for  these  two food  groups,
+by examining them as quintile categories. The ORs declined in a
+clearly monotonic  way for consumption  of both fruits  and vege-
+tables.
+
+for  energy 
+
+intake  and 
+
+Maintaining  control 
+
+the  core
+demographic and reproductive variables, we further  investigated
+whether there was mutual confounding  between consumption of
+fruits  and vegetables. The regression  coefficient  per quintile  in-
+crease changed  from  -.11  (OR  = 0.89; P = .004) to -.08  (OR =
+0.92; P = .03) for fruits  and from  -.14  (OR = 0.87; P = .0001) to
+-.12  (OR  =  0.89;  P  =  .0007)  for  vegetables.  It  appeared  that
+confounding  between  these  two  food  groups  was  limited  and
+
+Table 3.  Logistic regression-derived coefficients  for the food groups,
+
+controlling for core model variables and total energy intake*
+
+Food group
+
+bt
+
+SE(b)t
+
+P
+
+OR (95% CI)§
+
+Cereals
+Starchy roots
+Sugars and syrups
+Pulses, nuts, and seeds
+Vegetables
+Fruits
+Meats, fish, and eggs
+Milk and milk products
+Oils and fats
+Nonalcoholic beverages
+
+.0615
+.0583
+.0456
+.0568
+-.1374
+-.1112
+.0665
+.0003
+.0104
+.0090
+
+.0347
+.0477
+.0339
+.0324
+.0356
+.0381
+.0379
+.0375
+.0343
+.0313
+
+.08
+.22
+.18
+.08
+.0001
+.004
+.08
+.99
+.76
+.77
+
+1.06(0.99-1.14)
+1.06(0.97-1.16)
+1.05(0.98-1.12)
+1.06(0.99-1.13)
+0.87(0.81-0.93)
+0.89 (0.83-0.96)
+1.07(0.99-1.15)
+1.00(0.93-1.08)
+1.01  (0.94-1.08)
+1.01  (0.95-1.07)
+
+"Coefficients  in this table are not mutually  adjusted,  but they are adjusted  for
+age, place of  birth, parity, age  at  first  pregnancy, age at menarche,  menopausal
+status, Quetelet index, and total energy intake.
+
+•("Coefficient  (.b)  from  logistic  regression  model,  per quintile  (per quartile  for
+
+starchy roots).
+
+^Standard error of the  coefficient.
+§Odds ratio estimate (95% confidence  interval).
+
+Table 4.  Logistic regression-derived ORs,* comparing levels of consumption
+
+of fruits  and vegetables
+
+Quintile
+
+1
+
+(lowest)
+
+1.0 
+— 
+
+1.0 
+— 
+
+Fruits
+OR
+95% CI
+Vegetables
+
+OR
+95% CI
+
+5
+
+(highest)
+
+1.01 
+
+0.93 
+
+0.78 
+
+0.65
+
+0.76-1.34 
+
+0.70-1.24 
+
+0.58-1.06 
+
+0.47-0.90
+
+0.85 
+
+0.70 
+
+0.70 
+
+0.54
+
+0.65-1.12 
+
+0.53-0.93 
+
+0.53-0.94 
+
+0.40-0.74
+
+*ORs  in  this  table  are  not  mutually  adjusted,  but  they  are  adjusted  for  age,
+place of birth, parity, age at first pregnancy, age at menarche, menopausal status,
+Quetelet index, and total energy intake.
+
+that fruits  and vegetables were both inversely  and  independently
+associated with breast cancer risk.
+
+in 
+
+We then  added  to the model that  included  the core  variables,
+energy  intake, fruits, and vegetables  the other eight food  groups
+that,  individually  taken,  were  not  significantly  associated  with
+breast  cancer  risk  (Table  3).  This  procedure  allowed  us  to
+evaluate  whether these eight  food  groups collectively  were con-
+founding  the previously demonstrated  associations for consump-
+tion  of  fruits  and  of  vegetables.  The  difference 
+the
+log-likelihood  was  13.9, which, with 8 degrees of freedom,  does
+not represent  a statistically  significant  reduction. The  regression
+coefficients  for  either  fruits  (b = —.08, corresponding  to an  8%
+risk reduction per quintile increase) or vegetables (Jb -  -.13, cor-
+responding  to  a  12%  risk  reduction  per  quintile  increase)
+remained  virtually  unchanged. Furthermore, the addition  of any
+one  of  the  eight  food  groups  did  not  lead  to  a  statistically  sig-
+nificant  reduction  in deviance. Introduction  of total ethanol con-
+sumption  in  the  model  also  had  no discernible  effect  (data  not
+shown);  although  most  women  in  the  study  occasionally  con-
+sumed alcoholic beverages, only  12% drank more than one glass
+of  alcohol  per day (25). Moreover, alternative and  simultaneous
+inclusion  of  olive  oil,  butter,  margarine,  and  seed  oils  did  not
+appreciably  alter  the  regression  coefficients  for  either  fruits  or
+vegetables.  We  conclude  that  the  inverse  associations  for  con-
+sumption  of  fruits  and  vegetables  are  neither  mutually  con-
+founded  nor confounded  by the collective  influence  of the other
+eight food groups or by intake of various types of  fat.
+
+Table  5  presents  the  frequency  distribution  of  case  patients
+and  control  subjects  by  reported  consumption  of  the  main
+specific  types  of  oils  and  fats  represented  in  the  Greek  diet.
+Since  olive  oil  is  abundantly  consumed  in  Greece,  only  three
+categories could be constructed: less than once per day, once per
+day,  and  more  than  once  per  day.  In contrast,  for  consumption
+of  butter,  margarine, and  seed  oils,  uniform  categorization  was
+used.
+
+Table 6 shows  logistic  regression-derived  coefficients  for  the
+specific  oil or fat, controlling  for the core model  variables, total
+energy intake, and consumption of fruits  and vegetables (but not
+for  confounding  among  the  specific  oils  and  fats  themselves).
+The  regression  coefficients  and ORs  are expressed  per  increase
+of  one consumption  level  (increment  of  four  times  per  month),
+except  for  olive  oil  where  two  indicator  variables  were  con-
+structed. There was evidence that frequent  consumption  of olive
+oil was associated  with reduced risk of breast cancer (OR = 0.75
+[95%  confidence  interval  =  0.57-0.98]  for  more  than  once  per
+day  versus  once  per  day),  whereas 
+increasing  margarine
+consumption  was  associated  with  increasing  risk  (OR  =  1.05
+[95% confidence  interval  =  1.00-1.10] for  an  increment  of  four
+times  per  month)  (Table  6).  Simultaneous  inclusion  of  all  four
+specific  types  of  fat  into  the  model  did  not  reveal  appreciable
+confounding  in  the  estimates  for  these  oils  and  fats.  Thus,  the
+regression  coefficient  for  consumption  of  olive  oil  more  fre-
+quently  than  once  per  day  changed  from  -.286  {P = .04)  to
+-.274  (P  =  .05)  and  for  margarine  consumption  from  .046  to
+.047  (P  = .05  in  both  instances).  Residual  confounding  of  the
+apparent  effects  of  olive  oil  and  margarine  by  vegetables  or
+fruits  is unlikely, since the nonparametric  correlation  coefficient
+
+Journal of the National Cancer Institute, Vol. 87, No. 2, January 18, 1995
+
+ARTICLES  113
+
+Table 5.  Distribution of 820 case patients and  1548 control subjects  by frequency  of consumption  of specific oils and fats*
+
+Frequency of consumption
+
+Less than once per day
+
+Once per day
+
+More than once per day
+
+Xf  linear trend
+
+101
+206
+
+619
+1115
+
+99
+227
+
+-0.49
+
+Never
+
+571
+1076
+
+259
+505
+
+263
+510
+
+1-4
+
+149
+308
+
+221
+475
+
+237
+493
+
+Frequency of consumption, per month
+
+5-8
+
+24
+64
+
+104
+221
+
+135
+235
+
+9-12
+
+13-16
+
+17-20
+
+19
+28
+
+64
+99
+
+68
+74
+
+13
+18
+
+37
+51
+
+16
+23
+
+10
+2
+
+20
+14
+
+5
+8
+
+>21
+
+33
+52
+
+114
+183
+
+95
+205
+
+Xt  linear trend
+
++ 1.66
+
++2.76
+
++0.49
+
+Oil or fat
+
+Olive oil
+Cases
+Controls
+
+Oil or fat
+
+Butter
+
+Cases
+Controls
+
+Margarine
+
+Cases
+Controls
+
+Seed oils
+Cases
+Controls
+
+*There are a few missing values.
+tX values are adjusted  and are interpretable as standard normal deviates.
+
+Table 6.  Logistic  regression-derived  coefficients*  for specific oils and fats,
+controlling for core model variables, total energy intake, and consumption
+
+of fruits  and vegetables
+
+Oil or fat
+
+Unit or category
+
+b\
+
+S E (W
+
+P
+
+OR (95% CI)
+
+Olive oil
+
+Butter
+Margarine
+Seed oils
+
+Less than once per day
+Once per day
+More than once per day
+Four times per month
+Four times per month
+Four times per month
+
+-.035
+
+.139
+
+.80
+
+0.97(0.74-1.27)
+
+Reference category
+
+-.286
+.012
+.046
+-.002
+
+.138
+.034
+.024
+.024
+
+.04
+.72
+.05
+.94
+
+0.75 (0.57-0.98)
+1.01  (0.95-1.08)
+1.05(1.00-1.10)
+1.00(0.95-1.05)
+
+Coefficients  in this table are not  mutually  adjusted,  but they  are adjusted  for
+age,  place of  birth, parity,  age at first pregnancy, age at menarche,  menopausal
+status,  Quetelet  index,  total  energy  intake,  and  consumption  of  fruits  and
+vegetables.
+
+tCoefficient  (b) from  logistic regression model.
+^Standard error of the  coefficient.
+
+between  vegetables  or fruits  on  the one  hand  and any  of  the  fat
+types on the other was no higher than +. 12.
+
+We  also  tried  to  assess  whether  any  of  the  associations
+reported  above  were more  striking  in  premenopausai  women  or
+in postmenopausal  women.  Among the study  subjects,  270 case
+patients  and  505 control  subjects  were premenopausal,  whereas
+550  case  patients  and  1041  control  subjects  were  postmeno-
+pausal. No statistically  significant  effect  modification  of the risk
+of breast cancer by menopausal  status was noted  with respect to
+fruits,  vegetables, or types  of  fat:  P values  for  interaction  in all
+instances  were  >.10,  although  the  protective  effect  of  olive  oil
+consumption  was  apparently  concentrated  among  postmeno-
+pausal women (P = .10).
+
+Discussion
+
+This  analysis  is  based  on  data  from  one  of  the  largest  case-
+control  studies  that  have  examined  the  role  of diet  in  the  etiol-
+ogy  of  breast  cancer.  The  high  rates  of  response  among  case
+
+patients  and  control  subjects  alike  indicate  that  overt  selection
+bias has not occurred. Moreover, the OR estimates for the estab-
+lished  breast  cancer  risk  factors  as  well  as  for  macronutrients
+(22) and  ethanol  intake  (23)  were  similar  with  the  use of  either
+control  series.  The  interviewers  were  unblinded  as  to  the
+subject's  case  or  control  status,  but  the  dietary  questionnaire
+responses  were precoded,  requiring  little, if any, probing  by the
+interviewer.  Moreover, an hypothesis  linking types of fat,  rather
+than  total  fat,  to breast  cancer  has  not  been  widely  entertained.
+There  was  no evidence  in  terms  of  weight  loss  or  otherwise  to
+suggest  that  women  in the study  groups changed  their diet sub-
+sequent  to  their  diseases. The  results  were  essentially  identical
+when  women  with  fractures  [43% of  the hospital  controls (22)]
+were excluded  to control  for  a possible  association  between os-
+teoporosis and diet among the orthopedic patients.
+
+Adjustment  for  energy  intake  controls  for  systematic  over-
+reporting  of  cases  (7), unless  there  is selective  systematic  over-
+reporting  or  underreporting  with  respect  to  particular  foods  or
+food  groups;  however,  the  latter situation  seems  unlikely,  since
+olive  oil, margarine, fruits,  or  vegetables  are  not  generally  per-
+ceived by the public as having a role in breast cancer. Fruits and
+vegetables  have  low  nutrient  densities,  and  control  for  energy
+intake  may  be  less  efficient  for  these  groups  than  for  energy-
+dense food  groups (31). However, there was no evidence of un-
+derreporting  by case patients  in this study, and overreporting by
+women  with  breast  cancer  could  have  only  attenuated  a
+genuinely  stronger, inverse association  between consumption of
+vegetables  and  fruits  and  the  disease.  Recommendations  to
+reduce total fat  intake in order to reduce  the incidence of breast
+cancer have been made in Greece, but they have not emphasized
+different  types  of  fat,  making  it  unlikely  that  there  would  be a
+fat  type-specific  differential  recollection  by  case  patients  and
+control  subjects.  Lastly,  adjustment  for  socioeconomic  and  re-
+productive  risk  factors  as  well  as  for  intercorrelations  among
+food  groups  controls  for  the  mutual  confounding  effects  of  the
+study  variables,  although  in  any  case-control  study,  concerns
+
+114  ARTICLES
+
+Journal of the National Cancer Institute, Vol. 87, No. 2, January  18,  1995
+
+about  residual  confounding  and  unidentifiable  selection  bias
+cannot be eliminated.
+
+The  biologic  plausibility  of  a protective  effect  of  vegetables
+and  fruits  against  breast  cancer  is  strong;  Steinmetz  and  Potter
+(13)  examined  more  than  a  dozen  categories  of  substances  in
+vegetables  and  fruits  that  may  inhibit  the  process  of  carcino-
+genesis  at  various  stages. The  epidemiologic  evidence  also ap-
+pears supportive (3,4 J2),  although earlier  studies (33-35) either
+were  small  or  did  not  use  a  dietary  questionnaire  sufficiently
+comprehensive  to  allow  control  for  energy  intake  and  mutual
+dietary  confounding.  Other  studies  (9,11,3640) 
+that  have  ad-
+justed  for  energy  intake  have  reported  inverse  associations  be-
+tween  consumption  of  vegetables  and  fruits  and  breast  cancer
+risk, although the authors of these studies have invoked  different
+physiologic  processes  and  effector  compounds  to  explain  the
+empirical associations.
+
+The different  effects  of fat  types on the promotion  of chemi-
+cally  induced  mammary cancer have been  studied  mostly  in ex-
+perimental  animals, particularly  in female  Sprague-Dawley  rats
+(2,20,21).  The  experimental  evidence  appears  to  suggest  that a
+minimum  of essential  fatty  acids  (about 4% of energy  intake as
+linoleic  acid)  is required  before  saturated  fat  can display  its  full
+promoting  potential  at 20% of  total energy  intake. It  is interest-
+ing  that,  in  these  studies  (2,18,20,21,41),  olive  oil  either  was a
+poor promoter or had a protective  effect.
+
+The epidemiologic  data with respect to olive oil  consumption
+and  breast  cancer  appear  compatible  with  the  animal  evidence.
+Ecologic  analyses  do  not  suggest  a  positive  correlation  with
+breast  cancer  incidence  or  mortality  for  olive  oil  consumption
+(42),  as  they  seem  to  do for  consumption  of  saturated  fat  (14).
+Indeed,  Greek  women  with  42%  of  energy  intake  from  fat,
+mostly from  olive oil (43,44), have substantially  lower mortality
+from  breast cancer  than  U.S. women  whose energy  intake  from
+fat 
+is  at  present  around  35%  (45).  Results  of  analytic
+epidemiologic  studies  are  relevant,  in  this  context,  only  if  they
+refer  to olive oil per se or to monounsaturated  fat  in populations
+who consume  large amounts of olive oil. Studies examining  the
+association  of  monounsaturated  fat  consumption  with  breast
+cancer  in  the  United  States  (10),  Finland  (46),  and  China  (47)
+may  be  perfectly  valid,  but  they  do  not  address  the  olive  oil
+issue. (In the United States, most monounsaturated  fat  is derived
+from  meat.)  Studies  in Italy, Spain, and Greece are better suited
+to  examine  the  role  of  olive  oil,  since  it  is  in  these  countries,
+together  with  Libya,  that  olive  oil  is  consumed  in  substantial
+quantities, particularly  among  the less Westernized  segments of
+the population (21,43).
+
+To  our  knowledge,  two  case-control  studies,  one  in  Spain
+(48)  and  the  other  in  Italy  (49),  as  well  as  the  present  Greek
+study  are  the  only  ones  that  meet  the  criteria  of  examining  the
+role of olive oil per se in olive oil-consuming countries, of being
+reasonably  large, and of being  analyzed  with  procedures  allow-
+ing  control  for  energy  intake  and  mutual  confounding  among
+food  groups. The Spanish  study  (48) and  the  Greek  study  have
+generated  very  similar  results, suggesting  a protective  effect  of
+olive  oil; the  Italian  study  (49)  found  a strong  positive  associa-
+tion  between  saturated  fat  intake  and  breast  cancer  risk, but  no
+association  with  respect to monounsaturated  fat  intake. The im-
+portance  of  adjustment  for  energy  intake cannot  be  overempha-
+
+sized.  In a study  in  France  (50), a positive,  but  not  statistically
+significant,  association  was  found  between  breast  cancer  and
+consumption of olive oil. However, in that study, total food  con-
+sumption  was  positively,  significantly,  and  strongly  related  to
+breast  cancer  risk,  indicating  that general  overreporting  by  case
+patients was a distinct possibility.
+
+Previous studies have not systematically examined  the role of
+margarine  consumption  in  the  etiology  of  breast  cancer.  How-
+ever, five case-control  studies  (51-55) that  were  identified  in a
+literature  search  as  having  considered  margarine  consumption
+all  reported  positive  associations,  although  these  associations
+were  not  always  statistically  significant  and  were  not  always
+substantiated  by  optimal  procedures.  It  would  be  premature  to
+speculate  in  biologic  terms  what  role  margarine  consumption
+could play  in the etiology of breast cancer. It is possible that the
+positive  association  observed  in this  study  is  due  to  chance  or
+mirrors  the  inverse association  noted  for  olive  oil  intake.  Alter-
+natively,  margarine  may  have  distinct  biologic  properties  that
+have not been  fully  characterized  in experimental  research. The
+priority  at  this  stage  is  to  attempt  to  replicate  this  finding  in a
+different  population.
+
+There  is  some  evidence  that  premenopausal  and  postmeno-
+pausal  women  may  have  breast  cancers  of  different  etiojogic
+components  (56),  and  indeed  the  international  variation  in  the
+incidence of this disease  is larger among  postmenopausal  wom-
+en  (57). Several  studies (58-60) have focused  on the role of diet
+in  the  occurrence  of  breast  cancer  among  postmenopausal
+women,  although  the  data  remain  inconclusive.  In  the  present
+study, there  was no suggestion  of an  interaction  between  meno-
+pausal  status  and  consumption  of  vegetables,  fruits,  or  mar-
+garine  in  relation  to  breast  cancer  risk.  However,  the  apparent
+protective  effect  of  olive  oil  consumption  was  concentrated
+among  postmenopausal  women,  although  the  interaction  term
+was not statistically  significant  (P = .10). In the absence  of an a
+priori  hypothesis  focusing  on  postmenopausal  women,  it  would
+not  be  prudent  at  this  time  to  interpret  this  apparent  effect
+modification  in biologic terms.
+
+We conclude  that consumption  of  vegetables  and  fruits  is in-
+versely, significantly,  and strongly associated  with breast cancer
+risk  and  that  olive  oil  consumption  may  also  reduce  this  risk,
+whereas  margarine  intake  appears  to  be  associated  with  an
+elevated risk for the disease.
+
+References
+
+(/)  Committee on Diet, Nutrition, and Cancer, National  Academy of Sciences:
+Diet,  Nutrition,  and  Cancer.  Washington,  DC:  National  Academy  Press,
+1982
+
+(2)  Committee on  Diet and  Health: National  Research  Council  (US): Diet and
+Health. Implications for  Reducing Chronic Disease Risk. Washington, DC:
+National Academy Press, 1989
+
+(i)  Steinmetz  KA,  Potter  JD:  Vegetables,  fruit,  and  cancer.  I.  Epidemiology.
+
+Cancer Causes Control  2:325-357,1991
+
+(4)  Block G, Patterson  B, Subar A: Fruit, vegetables, and cancer prevention: a
+
+review of the epidemiological evidence. Nutr Cancer  18:1-29, 1992
+
+(5)  Willett  W, Stampfer  MJ: Total  energy  intake: implications  for  epidemiol-
+ogic analyses [see comment citations in Medline]. Am J Epidemiol  124:17-
+27,  1986
+
+(6)  Willett  W: Nutritional  epidemiology. In Monographs in Epidemiology and
+
+Biostatistics, vol  15. New York: Oxford  Univ Press, 1990
+
+(7)  Trichopoulos  D, Tzonou A, Katsouyanni  K, et al: Diet and cancer: the role
+
+of case-control  studies. Ann NutrMetab 35 suppl  1:89-92, 1991
+
+Journal of the National Cancer Institute, Vol. 87, No. 2, January  18, 1995
+
+ARTICLES 
+
+115
+
+(8)  Palmgren  J,  Kushi  LH: Re: Total energy  intake:  implications  for  epidemi-
+
+ologic analyses  [letters: comment]. Am J Epidemiol  133:1291-1293, 1991
+
+(9)  Graham  S,  Hellmann  R,  Marshall  J,  et  al:  Nutritional  epidemiology  of
+postmenopausal  breast cancer  in western  New  York  [see comment  citation
+in Medline]. Am J Epidemiol  134:552-566, 1991
+
+(38)  Zaridze  D, Lifanova  Y, Maximovitch  D, et al:  Diet, alcohol  consumption
+and reproductive  factors  in  a case-control  study  of  breast  cancer  in  Mos-
+cow. Int J Cancer 48:493-501,  1991
+
+(39)  Levi F, La Vecchia C, Gulie C, et al: Dietary factors  and breast cancer risk
+
+in Vaud, Switzerland. Nutr Cancer  19:327-335, 1993
+
+(10)  Willett WC, Hunter DJ, Stampfer  MJ, et al: Dietary fat and fiber in relation
+to  risk  of  breast  cancer.  An  8-year  follow-up  [see comment  citations  in
+Medline]. JAMA 268:2037-2044, 1992
+
+(//)  Rohan TE, Howe GR, Friedenreich CM, et al: Dietary fiber, vitamins A, C,
+and  E,  and  risk  of  breast  cancer:  a  cohort  study.  Cancer  Causes  Control
+4:29-37,1993
+
+(12)  Hunter  DJ, Manson  JE, Colditz  GA, et  al:  A  prospective  study  of  the  in-
+take  of  vitamins  C,  E,  and  A  and  the  risk  of  breast  cancer  [see comment
+citation  in Medline]. N Engl J Med 329:234-240,  1993
+
+(13)  Steinmetz  KA,  Potter  JD:  Vegetables,  fruit,  and  cancer.  II.  Mechanisms.
+
+Cancer Causes Control 2:427-442,  1991
+
+(14)  Prentice  RL, Sheppard  L: Dietary fat  and cancer: consistency  of the epide-
+miologic  data, and disease  prevention  that may follow  from  a practical re-
+duction  in  fat  consumption  [published  erratum  appears  in  Cancer  Causes
+Control  1:253,  1990]. Cancer Causes Control  1:81-97, 1990
+
+(15)  Michels  KB,  Willett  WC:  The  women's  health  initiative:  daughter  of
+politics  or  science?  In  Cancer  Prevention  (DeVita  VT  Jr,  Hellman  S,
+Rosenberg SA, eds). Philadelphia: Lippincott,  1991, pp  1-11
+
+(16)  Howe GR,  Hirohata T, Hislop TG, et al: Dietary  factors  and  risk of breast
+cancer: combined analysis of  12 case-control studies [see comment citation
+in Medline]. J Natl Cancer Inst 82:561-569,  1990
+
+(17)  Boyd NF, Martin LJ, Noffel  M, et al: A meta-analysis of studies of dietary
+
+fat and breast cancer risk. Br J Cancer 68:627-636,  1993
+
+(18)  Cohen  LA, Thompson  DO, Choi  K, et  al: Dietary  fat  and  mammary  can-
+cer. II. Modulation  of serum  and tumor  lipid composition  and  tumor pros-
+taglandins  by  different  dietary  fats:  association  with  tumor  incidence
+patterns. J Natl Cancer Inst 77:43-51,  1986
+
+(19)  Cohen  LA:  Fat  and  endocrine-responsive  cancer  in  animals.  Prev  Med
+
+16:468-474, 1987
+
+(20)  Weisburger JH, Wynder EL: Dietary fat  intake and cancer.  Hematol  Oncol
+
+Clin North Am 5:7-23, 1991
+
+(21)  Weisburger  JH:  Mechanisms  of  macronutnent  carcinogenesis.  In  Macro-
+nutrients.  Investigating  Their  Role  in  Cancer  (Micozzi  MS,  Moon  TE,
+eds). New York: Marcel Dekker,  1992, pp 3-31
+
+(22)  Katsouyanni  K, Trichopoulou  A, Stuver S, et al: The association of fat and
+other macronutrients  with breast cancer: a case-control  study  from  Greece.
+Br J Cancer 70:537-541, 1994
+
+(23)  Katsouyanni  K, Trichopoulou  A, Stuver S, et al: Ethanol and breast cancer:
+an  association  that  may  be  both  confounded  and  causal.  Int  J  Cancer
+58:356-361,1994
+
+(24)  Gnardellis  C,  Trichopoulou  A,  Katsouyanni  K, et  al:  Reproducibility  and
+validity  of  an  extensive  semi-quantitative  food  frequency  questionnaire
+among Greek school teachers. Epidemiology. In press
+
+(25)  Katsouyanni  K, Skalkidis  Y, Petridou  E, et al: Diet and  peripheral  arterial
+occlusive disease: the role of poly-, mono-, and saturated  fatty  acids. Am J
+Epidemiol  133:24-31,1991
+
+(26)  Davidson  SS,  Passmore  R:  Human  Nutrition  and  Dietetics.  Edinburgh:
+
+Churchill Livingstone,  1979
+
+(27)  Manousos O, Day NE, Trichopoulos  D, et al: Diet and colorectal cancer: a
+
+case-control study in Greece. Int J Cancer 32:1 -5,  1983
+
+(28)  Trichopoulos  D,  Ouranos  G,  Day  NE,  et  al:  Diet  and  cancer  of  the
+
+stomach: a case-control study in Greece. Int J Cancer 36:291 -297,  1985
+
+(29)  Hsieh  CC, Maisonneuve  P, Boyle P, et al: Analysis of quantitative data by
+quantiles  in epidemiologic  studies: classification  according  to cases, non-
+cases, or all subjects? Epidemiology 2:137-140,  1991
+
+(30)  Breslow  NE, Day NE: Statistical  methods  in cancer research. Volume  1—
+
+The analysis of case-control studies. IARC Sci Publ 32:5-338, 1980
+
+(31)  Serdula  M,  Byers  T,  Coates  R,  et  al:  Assessing  consumption  of  high-fat
+foods:  the  effect  of  grouping  foods  into  single  questions.  Epidemiology
+3:503-508,1992
+
+(52)  Lanza  E, Shankar S, Trock  B: Dietary fiber. In Macronutrients.  Investigat-
+ing Their Role in Cancer (Micozzi MS, Moon TE, eds). New York: Marcel
+Dekker,  1992, pp 293-319
+
+(33)  Katsouyanni  K, Trichopoulos  D, Boyle  P, et  al: Diet  and  breast  cancer: a
+
+case-control study in Greece. Int J Cancer 38:815-820,  1986
+
+(34)  La  Vecchia  C,  Decarli  A,  Franceschi  S, et  al:  Dietary  factors  and  the  risk
+
+of breast cancer. Nutr Cancer  10:205-214, 1987
+
+(35)  Hislop TG, Kan L, Coldman AJ, et al: Influence of estrogen receptor status on
+
+dietary risk factors for breast cancer. Can Med Assoc J  138:424^130, 1988
+
+(36)  Iscovich JM, Iscovich RB, Howe G, et al: A case-control  study of diet and
+
+breast cancer in Argentina. Int J Cancer 44:770-776,  1989
+
+(37)  Van 't Veer P, Kolb CM, Verhoef P, et al: Dietary fiber, beta-carotene and breast
+
+cancer results from a case-control study. Int J Cancer 45:825-828. 1990
+
+(40)  Baghurst  PA, Rohan  TE:  High-fiber  diets  and  reduced  risk  of  breast  can-
+
+cer. Int J Cancer 56:173-176,  1994
+
+(41)  Cohen LA, Choi  K, Weisburger JH, et al: Effect  of varying  proportions of
+dietary  fat  on  the  development  of  N-nitrosomethylurea-induced  rat  mam-
+mary tumors. AnticancerRes6:215-218,  1986
+
+(42)  Rose  DP, Boyar  AP, Wynder  EL:  International  comparisons  of  mortality
+rates  for  cancer  of  the  breast,  ovary,  prostate,  and  colon,  and  per  capita
+food consumption. Cancer 58:2363-2371,  1986
+
+(43)  Gerber  M:  Olive  oil  and  cancer.  In  The  Mediterranean  Diet  and  Cancer
+Prevention  (Giacosa  A,  Hill  MJ,  eds).  Proceedings  of  a  workshop  or-
+ganized  by the  European  Cancer  Prevention  Organization  (ECP) and the
+Italian  League  Against  Cancer,  Cosenza,  Italy,  June  28-30,  1991.  An-
+dover,  England:  European  Cancer  Prevention  Organization,  1991,  pp
+127-139
+
+(44)  Trichopoulou  A, Toupadaki  N, Tzonou  A, et  al: The  macronutrient  com-
+position  of the Greek diet: estimates derived  from  six case-control  studies.
+EurJ Clin Nutr 47:549-558,  1993
+
+(45)  Lenfant  C, Ernst N: Daily dietary  fat and total  food-energy  intakes—Third
+National  Health  and  Nutrition  Examination  Survey,  Phase  I,  1988-91.
+MMWR 43:116-117,  123-125, 1994
+
+(46)  Knekt  P, Albanes  D, Seppanen  R, et al: Dietary  fat  and risk  of breast can-
+
+cer. Am J Clin Nutr 52:903-908, 1990
+
+(47)  Yu  SZ,  Lu  RF,  Xu  DD,  et  al:  A  case-control  study  of  dietary  and  non-
+dietary  risk  factors  for  breast  cancer  in  Shanghai.  Cancer  Res  50:5017-
+5021,  1990
+
+(48)  Martin-Moreno JM, Willett  WC, Gorgojo  L, et al: Dietary fat, olive oil in-
+
+take and breast cancer risk. Int J Cancer 58:774-780, 1994
+
+(49)  Toniolo P, Riboli  E, Protta F, et al: Calorie-providing  nutrients and risk of
+breast  cancer  [see  comment  citation  in  Medline].  J  Natl  Cancer  Inst
+81:278-286,1989
+
+(50)  Richardson  S,  Gerber  M,  Cenee  S:  The  role  of  fat,  animal  protein  and
+some  vitamin  consumption  in  breast  cancer:  a  case-control  study  in
+southern France. Int J Cancer 48:1-9. 1991
+
+(5/)  Nomura  A,  Henderson  BE,  Lee  J:  Breast  cancer  and  diet  among  the
+
+Japanese in Hawaii. Am J Clin Nutr 31:2020-2025, 1978
+
+(52)  Lubin JH, Burns PE, Blot WJ, et al: Dietary  factors  and breast cancer risk.
+
+Int J Cancer 28:685-689, 1981
+
+(53)  Simard  A.  Vobecky  J,  Vobecky  JS:  Nutrition  and  lifestyle  factors  in
+fibrocystic disease  and  cancer  of  the  breast.  Cancer  Detect  Prev  14:567-
+572,1990
+
+(54)  Kikuchi S, Okamoto N, Suzuki T, et al: A case-control study of breast can-
+cer,  mammary  cyst  and  dietary,  drinking  or  smoking  habit  in  Japan
+(Japanese). Gan No Rinsho Spec No.:365-369. 1990
+
+(55)  D'Avanzo B, Negri  E, Gramenzi A, et al: Fats in seasoning and breast can-
+
+cer risk: an Italian case-control study. EurJ  Cancer 27:420-423, 1991
+
+(56)  Newcomb PA, Storer  BE, Longnecker  MP, et al: Lactation  and  a reduced
+risk of premenopausal  breast cancer  [see comment citations in Medline]. N
+Engl J Med 330:81-87,  1994
+
+(57)  Kelsey  JL,  Horn-Ross  PL:  Breast  cancer:  magnitude  of  the  problem  and
+
+descriptive epidemiology. Epidemiol Rev  15:7-16, 1993
+
+(58)  Boyar AP. Rose  DP, Loughridge JR, et al: Response to a diet  low  in total
+fat in women  with  postmenopausal  breast cancer: a pilot  study. Nutr Can-
+cer 11:93-99, 1988
+
+(59)  Prentice R, Thompson  D, Clifford  C, et al: Dietary  fat  reduction  and plas-
+in  healthy  postmenopausal  women.  The
+
+ma  estradiol  concentration 
+Women's  Health Trial Study Group. J Natl Cancer Inst 82:129-134,  1990
+
+(60)  Kushi  LH,  Sellers  TA,  Potter  JD,  et  al:  Dietary  fat  and  postmenopausal
+breast  cancer  [see  comment  citation  in  Medline].  J  Natl  Cancer  Inst
+84:1092-1099, 1992
+
+Notes
+
+Supported  by  grants  from  the  Europe  Against  Cancer  Program  of  the
+European  Community  and  from  the  Central  Scientific  Health  Council  of  the
+Greek  Ministry  of  Health  (KEIY).  S.  Stuver  was  supported  by  Public  Health
+Service  National  Research  Service  Award 
+in  Cancer  Epidemiology
+5T32CA09001  from  the National Cancer  Institute, National  Institutes of Health,
+Department of Health and Human Services.
+
+The collaboration of many cancer surgeons and physicians in patient accrual is
+
+gratefully  acknowledged.
+
+Manuscript  received April  1.  1994; revised October  12,  1994; accepted  Octo-
+
+ber 24, 1994.
+
+116  ARTICLES
+
+Journal of the National Cancer Institute, Vol. 87, No. 2, January  18, 1995
+
+

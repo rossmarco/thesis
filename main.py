@@ -253,10 +253,10 @@ class TextAnalyzer:
                 correct_matches += 1
             else:
                 incorrect_matches += 1
-        elif (self.smetric_diabetes == self.smetric_cvd):
-            matches_writer.writerow([test_article_name + ' unable to determine article type because CVD and Diabetes are equal'])
+        elif (self.smetric_diabetes == self.smetric_cvd) or (self.smetric_diabetes == self.smetric_cancer) or (self.smetric_cancer == self.smetric_cvd):
+            matches_writer.writerow([test_article_name + ' unable to determine article type because two or more similarity metrics are equal'])
         else:
-            matches_writer.writerow([test_article_name + ' unable to determine article type because similarity metric'])
+            matches_writer.writerow([test_article_name + ' unable to determine article type because ?????????'])
 
         #accuracy = (correct_matches / (correct_matches + incorrect_matches)) * 100
         #matches_writer.writerow('The overall accuracy of the test articles was ' + str(accuracy) + ' %')
@@ -280,7 +280,7 @@ def pdf_to_text(disease):
     sys.setdefaultencoding('utf-8')
 
     mypath = '/Users/marcoross/Documents/summer2018_thesis/' + disease
-    files = [f for f in listdir(mypath) if ".py" not in f and "training" not in f and isfile(join(mypath, f))]
+    files = [f for f in listdir(mypath) if ".py" not in f and "training" not in f and ".pdf" in f and isfile(join(mypath, f))]
 
     os.chdir('/Users/marcoross/Documents/summer2018_thesis/' + disease)
 
@@ -307,7 +307,8 @@ def combine_text(disease):
             fout.write(line)
         fin.close()
 
-def run_testing_data(disease, test_directory, ngramsize, num_of_ngrams):
+#used to have "test directory parameter"
+def run_testing_data(disease, ngramsize, num_of_ngrams):
 
     os.chdir('/Users/marcoross/Documents/summer2018_thesis/' + disease)
 
@@ -319,19 +320,19 @@ def run_testing_data(disease, test_directory, ngramsize, num_of_ngrams):
     elif ngramsize == 3:
         suffix = '-trigram-freq-'
     elif ngramsize == 4:
-        suffix = '-quadgram-freq'
+        suffix = '-quadgram-freq-'
 
     cancer_training = TextAnalyzer('cancer')
     cancer_training.normalize_text('cancer-training.txt')
-    cancer_training.get_trigrams(num_of_ngrams)
+    cancer_training.get_bigrams(num_of_ngrams)
 
     diabetes_training = TextAnalyzer('diabetes')
     diabetes_training.normalize_text('diabetes-training.txt')
-    diabetes_training.get_trigrams(num_of_ngrams)
+    diabetes_training.get_bigrams(num_of_ngrams)
 
     cvd_training = TextAnalyzer('cvd')
     cvd_training.normalize_text('cvd-training.txt')
-    cvd_training.get_trigrams(num_of_ngrams)
+    cvd_training.get_bigrams(num_of_ngrams)
 
     test_directory = '/Users/marcoross/Documents/summer2018_thesis/' + disease
     files = [f for f in listdir(test_directory) if isfile and (f != '.DS_Store') and ('training' not in f) and ('.py' not in f) and (f != '.txt')]
@@ -340,7 +341,7 @@ def run_testing_data(disease, test_directory, ngramsize, num_of_ngrams):
        test_article = TextAnalyzer(disease)
        test_article.normalize_text(f)
        #MAKE MODULAR
-       test_article.get_trigrams(num_of_ngrams)
+       test_article.get_bigrams(num_of_ngrams)
 
     test_files = [t for t in listdir(test_directory) if (t != '.DS_Store') and (".csv" in t) and ("training" not in t) and ('.py' not in f) and (f != '.txt')]
     
@@ -363,7 +364,7 @@ def sort_CSV(filename, path):
 
 #Make function calls
 
-#run_testing_data('diabetes','/Users/marcoross/Documents/summer2018_thesis/diabetes', 3, 200)
-#sort_CSV('best_matches.csv', 'diabetes')
+run_testing_data('cancer', 2, 25)
+sort_CSV('best_matches.csv', 'cancer')
 
-#pdf_to_text('diabetes')
+#pdf_to_text('cancer')
