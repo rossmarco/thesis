@@ -1,0 +1,1367 @@
+No Evidence of Increased Risk of Stroke with Consumption of
+Reﬁned Grains: A Meta-analysis of Prospective Cohort Studies
+
+Demo Wu, MD, Yixiang Guan, MD, Shujun Lv, MD, Haibo Wang, MD, and
+
+Jun Li, MD
+
+Objectives: Results of the relationships between dietary consumption of reﬁned grains
+and the risk of stroke are mixed. This study was based on a meta-analysis of
+prospective cohort studies. Methods: We systematically searched the MEDLINE (from
+January 1, 1966) and EMBASE (from January 1, 1974) databases up to November
+30, 2014. Random-effects models were used to calculate summary relative risks
+(SRRs) and 95% conﬁdence intervals (CIs). Between-study heterogeneity was as-
+sessed using Cochran’s Q and I2 statistics. Results: Eight prospective studies (7
+publications) with a total of 410,821 subjects and 8284 stroke events were in-
+cluded in the meta-analysis. Overall, a diet containing greater amounts of reﬁned
+grains was not associated with risk of stroke, with no evidence of heterogeneity
+among studies (SRR = 1.02; 95% CI, .93-1.10; Pheterogeneity = .970; I2 = 0). In addition,
+no signiﬁcant associations between consumption of reﬁned grains and risk of stroke
+were found for both women and men, for both hemorrhagic and ischemic strokes,
+and for both incident and fatal strokes. These null results are consistent with those
+of linear dose–response meta-analyses (SRR = .98; 95% CI, .73-1.03 for per 3 servings/
+day). Consumption of white rice was not associated with risk of stroke (SRR = 1.01;
+95% CI, .93-1.11; Pheterogeneity = .966; I2 = 0). Conclusions: The current meta-analysis
+provides some evidence for the hypothesis that consumption of reﬁned grains
+was not associated with risk of stroke and its subtypes. Key Words: Reﬁned
+grains—hemorrhagic stroke—ischemic stroke—meta-analysis.
+© 2015 National Stroke Association. Published by Elsevier Inc. All rights reserved.
+
+Introduction
+
+Stroke remains an important cause of mortality and the
+most common cause of disability in both developed and
+developing countries.1 In addition, stroke is becoming a
+
+From the Department of Neurosurgery, Hai’an People’s Hospital
+Affiliated of Nantong University, Hai’an County, Jiangsu Province,
+China.
+
+Received July 2, 2015; revision received July 27, 2015; accepted
+
+August 1, 2015.
+
+Grant support: No funding was received for the study.
+The authors declare that they have no conﬂict of interest.
+Address correspondence to Demo Wu, Department of Neurosurgery,
+Hai’an People’s Hospital Affiliated to Nantong University, 17 Zhongba
+Zhong Road, Hai’an County, Jiangsu Province 226600, China. E-mail:
+wed0011@126.com.
+
+1052-3057/$ - see front matter
+© 2015 National Stroke Association. Published by Elsevier Inc. All
+
+rights reserved.
+
+http://dx.doi.org/10.1016/j.jstrokecerebrovasdis.2015.08.004
+
+great health burden in future decades, consuming large
+amounts of health resources and leading to signiﬁcant
+economic burden.2 For instance, in the United States, it
+is the fourth leading cause of mortality, with 795,000 es-
+timated cases of incident stroke annually.3 It is, therefore,
+imperative to identify and implement healthcare poli-
+cies that can reduce the risk of stroke.4
+
+A substantial body of evidence has shown that diet is
+related to risk of stroke.4 Whole grain consists of 3 botani-
+cally deﬁned parts: the bran, the germ, and the endosperm;
+the former two parts (bran and germ) are sources of dietary
+ﬁber and various micronutrients, minerals, and
+phytochemicals. Reﬁned grains, which primarily consist of
+starch, are produced when removing the outer bran and
+germ portions of whole grains. It is reported that high intake
+of reﬁned carbohydrates may be the reason why Asian popu-
+lations tend to develop diabetes at a younger age and a
+lower body mass index (BMI) than white populations.5 High
+intake of energy-dense foods, such as reﬁned grains, has
+
+2738
+
+Journal of Stroke and Cerebrovascular Diseases, Vol. 24, No. 12 (December), 2015: pp 2738–2746
+
+REFINED GRAINS AND STROKE
+
+adverse effects on lipid and glucose metabolism, thereby
+creating potential worries with regard to increased risk of
+weight gain/obesity, dyslipidemia, and hypertension,6,7 all
+of which are major intermediate end points for stroke.
+
+Several epidemiological studies have directly exam-
+ined the relationship between consumption of reﬁned grains
+and risk of stroke and its subtypes with inconsistent
+results.8-14 Up to now, no systematic reviews and meta-
+analyses have looked into the effects of consumption of
+reﬁned grains on the risk of stroke. We therefore under-
+took a meta-analysis of prospective cohort studies to
+quantitatively assess such an association following the
+Meta-analysis of Observational Studies in Epidemiol-
+ogy guidelines.15
+
+Methods
+Literature Search
+
+Two investigators (W.D.M. and G.Y.X.) made a sys-
+temic search of MEDLINE (from January 1, 1966) and
+EMBASE (from January 1, 1974) up to November 30, 2014
+to identify all published articles using the following medical
+subject headings or key words: (1) cereals OR grains OR
+rice OR sweets OR desserts OR white bread OR pasta
+OR muffins OR biscuits OR pancakes OR waffles OR pizza;
+(2) cerebrovascular accident OR brain ischemia OR in-
+tracranial hemorrhages OR cerebral hemorrhage OR
+subarachnoid hemorrhage OR stroke. The search was
+limited to studies in English. Furthermore, the reference
+lists of retrieved articles were scrutinized to identify ad-
+ditional relevant studies.
+
+Study Selection
+
+The studies had to meet the following criteria to be
+included in the meta-analysis: (1) the prospective cohort
+studies were published as original articles; (2) the expo-
+sure of interest was reﬁned grains or speciﬁc subtypes;
+the outcome was nonfatal or fatal stroke and its sub-
+types; and (3) the studies reported relative risks (RRs)
+and corresponding 95% conﬁdence intervals (CIs) for at
+least 3 quantitative categories of intake of reﬁned grains.
+Case–control studies, animal studies, in vitro researches,
+case reports, ecological studies, and reviews were not con-
+sidered eligible. If multiple papers reported results from
+the same cohort, we included the one with the largest
+number of cases. Studies on foods that were based on
+components of individual grains, such as bran or germ,
+were excluded. W.D.M. and G.Y.X. independently re-
+viewed all potentially relevant articles to determine whether
+an article met the general inclusion criteria, and dis-
+agreement was resolved by discussion.
+
+Data Extraction
+
+From each study, W.D.M. and G.Y.X. extracted the fol-
+lowing characteristics: ﬁrst author’s surname, publication
+
+2739
+
+year, study location, duration of follow-up, number of
+participants, participants’ age and sex, methods used for
+collection of data on exposure, number of events, outcome
+assessment, confounding factors, and RR estimates with
+the corresponding 95% CI for the highest versus the lowest
+category of intake of reﬁned grains. If separate risk es-
+timates for men and women and for subtypes of stroke
+were available in one study, we treated it as separate
+studies.12,13 From each study, we extracted the risk esti-
+mates with the greatest number of adjustments.
+
+Assessment of Study Quality
+
+W.D.M. and G.Y.X. assessed the quality of each se-
+lected study using the Newcastle–Ottawa Scale (NOS).16
+For cohort studies, the NOS consist of 3 parameters of
+quality: selection (4 points), comparability (2 points), and
+outcome (3 points); a maximum of 9 points reﬂect the
+highest quality. A total score of 7 or greater indicated high-
+quality studies and a total score of 6 or smaller indicated
+low-quality studies.
+
+Statistical Methods
+
+We used the statistical program STATA, version 11.0
+(STATA, College Station, TX) for the analysis. A two-
+tailed P value of less than 0.05 was considered statistically
+signiﬁcant. We used the method of a random-effects model,
+which accounts for heterogeneity among studies,17 to cal-
+culate summary relative risks (SRRs) and 95% CIs for the
+high versus low and dose–response analysis. We con-
+verted the RRs in each study by using their natural
+logarithms, and the standard errors were calculated from
+their corresponding 95% CIs. Publication bias was as-
+sessed by using funnel plots and Begg’s adjusted rank
+correlation and Egger’s regression asymmetry tests; results
+were considered to indicate potential publication bias if
+the P value is less than .10.18,19
+
+Statistical heterogeneity among studies was assessed
+using both the Q statistic and the I2. Results were con-
+sidered signiﬁcantly heterogeneous if the P values are less
+than .10. I2 is the amount of total variation that is ex-
+plained by between-study variation, with values of
+approximately 25%, 50%, and 75% considered to indi-
+cate low, moderate, and high heterogeneity, respectively.20
+To explore the sources of heterogeneity, subgroup and
+metaregression analyses were performed according to sex;
+geographic locations; duration of follow-up; number of
+cases; stroke outcome; and adjustments for confound-
+ing factors, including a history of type 2 diabetes,
+dyslipidemia, and total energy intake. Sensitivity anal-
+yses were performed by excluding one study from the
+meta-analysis and calculating a pooled estimate for the
+remainder of the studies to evaluate whether the results
+were signiﬁcantly affected by a single study.
+
+The dose–response results in the forest plots are pre-
+sented for a 3-servings-per-day increment. We used the
+
+2740
+
+D. WU ET AL.
+
+Figure 1. Flow diagram of systematic litera-
+ture search on intake of reﬁned grains and risk
+of stroke.
+
+generalized least-squares trend estimation method de-
+veloped by Greenland and Longnecker21 and Orsini et al.,22
+which requires that the distribution of cases and noncases
+and the RRs with the variance estimates for at least three
+quantitative exposure categories are known. When this
+information was not available, we estimated dose–
+response slopes using variance-weighted least squares
+regression.21,22 The median or mean level of intake of reﬁned
+grains in each category of intake was assigned to the cor-
+responding RR for each study. If such values were not
+reported, we took the estimated midpoint between the
+upper and lower boundaries in each category as the average
+intake level. If the highest or lowest category was open-
+ended, we assumed the size of the open-ended interval
+to be the same as that of the adjacent interval. In studies
+that reported the intakes in gram per day, we used 30 g
+as a serving size for recalculation of the intakes to a common
+scale (servings per day).23 We used 158 g as a serving size
+for intake of white rice consistent with a recent study.24
+
+Results
+Search Results and Study Characteristics
+
+The search strategy resulted in 703 citations, 33 of which
+had potential value and were available as full-text ar-
+ticles (Fig 1). No additional articles were included from
+the reference reviews. In the review of these 33 articles,
+26 were subsequently excluded from the meta-analysis
+for various reasons. Therefore, a total of 7 articles with
+8 prospective cohort studies (1 article14 contained 2 large
+independent cohort studies: Japan Public Health Center-
+based Study I and Japan Public Health Center-based Study
+II) were included in the meta-analysis (Table 1).
+
+The 8 studies (7 publications) were published between
+1999 and 2014, and contained a total of 410,821 subjects
+
+(ranged from 11,940 to 215,000) and 8284 stroke cases
+(ranged from 146 to 3281). Of the 8 studies, four were
+conducted in the United States8-11 and four in Japan.12-14
+The studies from the United States reported for total reﬁned
+grains and Japanese studies reported for consumption of
+white rice. The duration of follow-up ranged from 5.5
+to 15.2 years, with a median of 11 years. All studies used
+the validated semiquantitative Food Frequency Ques-
+tionnaire (FFQ) as a tool to collect dietary information.
+All studies provided RR estimations adjusted by age, sex,
+smoking, alcohol use, BMI, physical activity, and history
+of hypertension or measured blood pressure. Most studies
+provided RR estimations adjusted by a history of dia-
+betes (6 studies) and total energy intake (6 studies), but
+only 2 studies9,10 provided RR estimations adjusted by a
+history of dyslipidemia (Table 1). According to NOS, all
+studies were of high quality (NOS > 6).
+
+Main Analyses
+
+High versus Low Analysis
+
+The summary RR was 1.02 (95% CI, .93-1.10) for sub-
+jects in the highest category of consumption of reﬁned
+grains compared with those in the lowest category, with
+no evidence of heterogeneity among studies
+(Pheterogeneity = .970, I2 = 0; Fig 2, A). Furthermore, meta-
+analysis of the four studies (3 publications)12-14 found a
+null association between consumption of white rice and
+risk of stroke (SRR = 1.01; 95% CI, .93-1.11; Pheterogeneity = .966;
+I2 = 0).
+
+Sex
+
+Two studies provided results speciﬁc for both men and
+women,12,13 and 2 studies consisted entirely of women8,9
+
+Table 1. Characteristics of the studies of the association between consumption of reﬁned grains and stroke
+
+Author/yr/country
+
+Study characteristics
+
+Cases, n
+
+Jacobs et al./1999/
+
+United States8
+
+Iowa Women’s
+Health Study:
+N = 34,333, F,
+aged 55-69 yrs
+
+165 fatal strokes
+
+Follow-up,
+
+yrs
+
+9.7
+
+Dietary
+
+assessment
+
+Outcome
+
+ascertainment
+
+Exposure details
+Highest versus
+
+lowest
+
+Risk estimation
+
+(95% CI)
+
+Highest versus
+
+lowest
+
+Adjustments
+
+Disease registry
+
+Reﬁned grains: 30.0
+
+1.33 (.73-2.44)
+
+Age, total energy intake, education, marital status,
+
+versus 3.5
+servings/d
+
+Medical records
+
+Reﬁned grains: 2.7
+
+.97 (.67-1.42)
+
+Nurses’ Health
+
+352 IS
+
+11.4
+
+Study:
+N = 75,521, F,
+aged 38-63 yrs
+
+Physicians’ Health
+
+146 fatal strokes
+
+5.5
+
+Study:
+N = 86,190, M
+
+Validated
+
+FFQ-126
+
+Death registry
+
+versus 0.13
+serving/d
+
+Reﬁned grains: ≥1
+serving/d versus
+rarely
+
+1.22 (.71-2.11)
+
+Age; smoking; alcohol intake; physical activity;
+
+BMI; history of type 2 diabetes, high
+cholesterol, and hypertension; use of
+multivitamins
+
+Medical records
+
+Reﬁned grains: 3.0
+
+.82 (.48-1.40)
+
+Age, race, sex, energy intake education, smoking
+
+Validated
+
+FFQ-127
+
+Validated
+
+FFQ-126
+
+Validated
+FFQ-61
+
+Validated
+
+FFQ-169
+
+Validated
+FFQ-40
+
+Liu et al./2000/
+United States9
+
+Liu et al./2003/
+
+United States10
+
+Steffen et al./2003/
+
+United States11
+
+Oba et al./2010/
+
+Japan12
+
+Atherosclerosis Risk
+
+214 incident IS
+
+11
+
+in Communities
+Study:
+N = 11,940, aged
+45-64 yrs
+
+Takayama study:
+N = 12,561, M,
+and 15 301, F
+
+247 fatal strokes
+
+7
+
+Eshak et al./2011/
+
+Japan Collaborative
+
+1640 strokes
+
+14.1
+
+Japan13
+
+Cohort,:
+N = 83,752,
+M + F
+aged 40-79 y
+
+Eshak et al./2014/
+
+Japan Public Health
+
+Japanese14
+
+Center-based
+Study I:
+N = 41,501,
+M + F, aged 40-69
+yrs
+
+blood pressure, diabetes, heart disease, BMI,
+waist-to-hip ratio, physical activity, smoking,
+alcohol intake, use of vitamin, estrogen
+replacement therapy, total fat, saturated fat,
+intake of fruits and vegetables, intake of red
+meat, ﬁsh and seafood
+
+Age; cigarette smoking; alcohol intake; physical
+activity; BMI; history of type 2 diabetes, high
+cholesterol, and hypertension; use of
+multivitamins
+
+status, physical activity, alcohol intake, hormone
+replacement, BMI, waist-to-hip ratio, systolic
+blood pressure, and use of antihypertensive
+medications
+
+Age; BMI, smoking status; physical activity;
+
+hypertension; education; intake of total energy,
+alcohol, dietary ﬁber, salt, total fat
+
+Age, hypertension, diabetes, BMI, alcohol
+consumption, smoking status, exercise,
+education level, perceived mental stress, sleep
+duration, selected food intakes, total energy
+intake, sodium intake and Keys dietary score
+Age; sex; history of hypertension; DM; use of
+
+lipid-lowering drugs; BMI; smoking; ethanol
+intake; sports activity; occupation; intakes of
+seafood, meat, fruit, vegetables, soy, SFAs, and
+sodium; total energy intake; menopausal status
+and hormone use
+
+R
+E
+F
+I
+N
+E
+D
+
+G
+R
+A
+N
+S
+
+I
+
+A
+N
+D
+
+S
+T
+R
+O
+K
+E
+
+2
+7
+4
+1
+
+versus 0.1
+serving/d
+
+Death registry
+
+White rice: 4.0
+
+versus 2.3
+servings/d
+
+White rice: 3.2
+
+versus 1.9
+servings/d
+
+.84 (.43-1.62), M
+1.37 (.64-2.94), F
+
+Death certiﬁcates
+
+White rice, 711
+
+versus 280 g/d
+
+White rice, 453
+
+versus 279 g/d
+
+1.02 (.82-1.31), M
+.99 (.75-1.31), F
+
+1777 HS and
+2590 IS
+
+15.2
+
+Validated
+FFQ-44
+
+Disease registry
+
+White rice: 542
+
+1.01 (.90-1.14), total
+
+versus 251 g/day
+
+stroke
+
+.96 (.79-1.15) HS
+1.05 (.90-1.22) IS
+
+Eshak et al./2014/
+
+Japan Public Health
+
+1153 fatal stroke
+
+15.2
+
+Japanese14
+
+Center-based
+Study II:
+N = 49722, M + F,
+aged 40-69 yrs
+
+Validated
+FFQ-52
+
+Death certiﬁcates
+
+White rice: 542
+
+1.03 (.82-1.30)
+
+Age; sex; history of hypertension; DM; use of
+
+versus 251 g/day
+
+lipid-lowering drugs; BMI; smoking; ethanol
+intake; sports activity; occupation; intakes of
+seafood, meat, fruit, vegetables, soy, SFAs, and
+sodium; total energy intake; menopausal status
+and hormone use
+
+Abbreviations: BMI, body mass index; CI, conﬁdence interval; DM, diabetes mellitus; M, male; F, female; FFQ, Food Frequency Questionnaire; HS, hemorrhagic stroke; IS, ischemic stroke; SFA, saturated fatty acid.
+
+2742
+
+A
+
+D. WU ET AL.
+
+Study
+
+ID
+
+Jacobs (1999)
+
+Liu (2000)
+
+Steffen (2003)
+
+Liu (2003)
+
+Oba,M (2010)
+
+Oba,F (2010)
+
+Eshak,F (2011)
+
+Eshak,M (2011)
+
+Eshak,JPHC I (2014)
+
+Eshak,JPHC II (2014)
+
+Relative
+
+%
+
+Risk (95% CI)
+
+Weight
+
+1.33 (0.73, 2.44)
+
+0.97 (0.67, 1.42)
+
+0.82 (0.48, 1.40)
+
+1.22 (0.71, 2.11)
+
+0.84 (0.43, 1.62)
+
+1.37 (0.64, 2.94)
+
+0.99 (0.75, 1.31)
+
+1.02 (0.82, 1.31)
+
+1.01 (0.90, 1.14)
+
+1.03 (0.82, 1.30)
+
+1.93
+
+4.99
+
+2.45
+
+2.37
+
+1.60
+
+1.21
+
+9.04
+
+12.82
+
+50.34
+
+13.25
+
+Overall  (I-squared = 0.0%, p = 0.970)
+
+1.02 (0.93, 1.10)
+
+100.00
+
+NOTE: Weights are from random effects analysis
+
+.2
+
+.5
+
+1
+
+2
+
+5
+
+B
+
+Study
+
+ID
+
+Jacobs (1999)
+
+Liu (2000)
+
+Liu (2003)
+
+Steffen (2003)
+
+Oba,M (2010)
+
+Oba,F (2010)
+
+Eshak,M (2011)
+
+Eshak,F (2011)
+
+Eshak, JPHC I (2014)
+
+Eshak, JPHC II (2014)
+
+Overall  (I-squared = 10.2%, p = 0.349)
+
+NOTE: Weights are from random effects analysis
+
+Relative
+
+%
+
+Risk (95% CI)
+
+Weight
+
+1.24 (0.89, 1.72)
+
+1.02 (0.72, 1.45)
+
+1.23 (0.47, 3.24)
+
+0.88 (0.70, 1.10)
+
+0.82 (0.62, 1.09)
+
+1.39 (0.89, 2.15)
+
+2.53
+
+2.25
+
+0.30
+
+5.23
+
+3.42
+
+1.43
+
+0.94 (0.85, 1.04)
+
+21.54
+
+0.91 (0.78, 1.05)
+
+11.28
+
+0.99 (0.92, 1.06)
+
+35.51
+
+1.05 (0.93, 1.18)
+
+16.51
+
+0.98 (0.93, 1.03)
+
+100.00
+
+.2
+
+.5
+
+1
+
+2
+
+5
+
+Figure 2. Forest plots of the summary risk of stroke with intake of reﬁned grains. (A) High versus low intake. (B) Linear dose–response analysis per
+3-servings/day increase in intake of reﬁned grains.
+
+REFINED GRAINS AND STROKE
+
+2743
+
+Table 2. Subgroup analyses for the association between consumption of reﬁned grains and risk of stroke
+
+Subgroup
+
+No.
+
+SRR (95% CI)
+
+Pheterogeneity
+
+I2 (%)
+
+Pdifference
+
+All
+Location
+Japan
+United States
+Outcome
+Incidental
+Fatal
+Duration of follow-up, yrs
+≤11
+>11
+No. of cases
+>250
+≤250
+Adjustments
+Type 2 diabetes
+Yes
+No
+Dyslipidemia
+Yes
+No
+Total energy intake
+Yes
+No
+
+8
+
+4
+4
+
+3
+5
+
+4
+4
+
+4
+4
+
+6
+2
+
+2
+6
+
+6
+2
+
+1.02 (.93-1.10)
+
+1.01 (.93-1.11)
+1.03 (.81-1.32)
+
+1.00 (.89-1.11)
+1.04 (.92-1.18)
+
+1.07 (.82-1.40)
+1.01 (.93-1.10)
+
+1.01 (.93-1.10)
+1.07 (.82-1.40)
+
+1.02 (.94-1.11)
+.93 (.65-1.34)
+
+1.01 (.93-1.11)
+1.04 (.77-1.42)
+
+1.04 (.77-1.42)
+1.01 (.93-1.11)
+
+CI, conﬁdence interval; SRR, summary relative risk.
+
+and 1 study of men.10 In the stratiﬁed analysis by sex,
+no associations were found between consumption of reﬁned
+grains and risk of stroke for both men and women (men:
+SRR = 1.03, 95% CI .84-1.26, Pheterogeneity = .690, I2 = 0; women:
+SRR = 1.04, 95% CI .85-1.27, Pheterogeneity = .707, I2 = 0).
+
+Stroke Type
+
+One study provided results speciﬁcally for ischemic
+stroke and hemorrhagic stroke.13 Two studies reported
+results only for ischemic stroke.9,11 The SRR was 1.04 (95%
+CI, .91-1.19) for risk of ischemic stroke and 1.05 (95% CI,
+.65-1.71) for hemorrhagic stroke. There was evidence of
+signiﬁcant heterogeneity among the studies for hemor-
+rhagic stroke (Pheterogeneity = .127, I2 = 51.6), but not for ischemic
+stroke (Pheterogeneity = 0.701, I2 = 0).
+
+Subgroup, Metaregression, and Sensitivity Analyses
+
+Subgroup and metaregression analyses are shown in
+Table 2. Nonsigniﬁcant associations were observed for
+studies from the United States (SRR = 1.03; 95% CI, .81-
+1.32; Pheterogeneity = .603; I2 = 0) and from Japan (SRR = 1.01;
+95% CI, .93-1.11; Pheterogeneity = .966; I2 = 0). When we strati-
+ﬁed analyses by stroke outcome, the SRR was 1.00 (95%
+CI, .89-1.11) for incident stroke, and 1.04 (95% CI, .92-
+1.18) for fetal stroke. In the stratiﬁed analyses by number
+of cases or duration of follow-up, a null association was
+found. In addition, whether or not adjusting for a history
+
+.970
+
+.966
+.603
+
+.749
+.918
+
+.629
+.999
+
+.999
+.629
+
+.971
+.523
+
+.497
+.939
+
+.939
+.497
+
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+.887
+
+.673
+
+.858
+
+.858
+
+.639
+
+.727
+
+.727
+
+of DM (Pdifference = 0.639), total energy intake (Pdifference = 0.639),
+history of dyslipidemia (Pdifference = 0.727) did not signiﬁ-
+cantly alter the null association between consumption of
+reﬁned grains and risk of stroke.
+
+To test the robustness of our results, we conducted
+sensitivity analyses. Further exclusion of any single
+study did not materially change the overall combined
+RR, with a range from 1.01 (95% CI,
+.92-1.10) to 1.03
+(95% CI, .91-1.15). We then conducted a metaregression
+analysis to investigate the impact of the above study
+characteristics on the RRs and found that none of the
+study characteristics signiﬁcantly altered the summary
+risk association between consumption of reﬁned grains
+and risk of stroke.
+
+Dose–Response Analysis
+
+Eight studies (7 publications) were included in the dose–
+response analysis of consumption of reﬁned grains and
+risk of stroke (Fig 2, B). The SRR per 3 servings/day was
+(SRR = .98; 95% CI, .93-1.03), with no evidence of heter-
+ogeneity (I2 = 10.2, Pheterogeneity = .349).
+
+Publication Bias
+
+For high versus low analysis of intake of reﬁned grains,
+the P values were 0.874 for Egger’s test and 0.858 for Begg’s
+test (Fig 3). This assessment, however, was based on 8
+studies for intake of reﬁned grains.
+
+2744
+
+Figure 3. Begg’s funnel plots of the log RRs versus the SEs of the log
+RRs in studies that evaluated the effect of consumption of reﬁned grains
+on the risk of stroke. Abbreviations: RR, relative risk; SE, standard error.
+
+Discussion
+
+In the current meta-analysis, we found that increased
+consumption of reﬁned grains is not associated with risk
+of total stroke and its subtype, independent of a variety
+of cardiovascular disease risk factors. In addition, no sig-
+niﬁcant associations were found for both women and men,
+and for both incident and fatal strokes. There was no ev-
+idence of signiﬁcant heterogeneity among these studies.
+These null results are consistent with those from linear
+dose–response meta-analyses.
+
+Because of the differences in etiologic mechanisms
+between hemorrhagic and ischemic strokes,25 the associ-
+ation between consumption of reﬁned grains and risk of
+stroke may be somewhat masked by combining isch-
+emic and hemorrhagic strokes in the analysis. However,
+when we carried out analyses for hemorrhagic and isch-
+emic strokes, respectively, a null association for both stroke
+subtypes was observed, which indirectly strengthens the
+observed null relation between reﬁned grains and total
+risk of stroke.
+
+It is biologically plausible that higher consumption of
+reﬁned grains, which is typically energy-rich and nutrient-
+poor, is associated with increased risk of stroke. Intake
+of reﬁned grains can result in glycemia-induced oxida-
+tive stress, inﬂammation, endothelial impairment, and vessel
+dysfunction mediated by the formation of advanced
+glycation end products,26,27 all of which may contribute
+to higher risk of stroke.28,29 Epidemiological studies have
+found that intake of reﬁned grains and high–energy-
+dense foods was associated with an increased risk of
+diabetes,7,24,30 hypertension,31 and dyslipidemia.31 However,
+the majority of prospective studies have found no sig-
+niﬁcant association between consumption of reﬁned grains
+and risk of stroke.8 We considered several potential reasons
+for the lack of an overall association between consump-
+tion of reﬁned grains and risk of stroke. A meta-
+analysis of 6 prospective cohort studies indicated that total
+
+D. WU ET AL.
+
+consumption of reﬁned grains did not lead to an in-
+crease in type 2 diabetes, one of the most important
+intermediate end points.23 Another possibility is that un-
+healthy lifestyle factors associated with consumption of
+reﬁned grains, such as smoking and physical inactivity
+might have obscured a positive association between con-
+sumption of reﬁned grains and risk of stroke.
+
+Our meta-analysis has strengths as follows: (1) To the
+best of our knowledge, this is the ﬁrst meta-analysis of
+consumption of reﬁned grains and risk of stroke and its
+subtypes, involving high versus low and linear dose–
+response analysis. (2) This meta-analysis included only
+prospective cohort studies with more than 4.1 million sub-
+jects and 8000 cases of stroke and a long duration of follow-
+up (median, 11 years). We therefore had adequate statistical
+power to detect moderate associations. (3) All the studies
+included in the meta-analysis evaluated multiple risk factors
+for stroke including smoking, alcohol use, physical ac-
+tivity, BMI, and its intermediate biomarkers (a history of
+type 2 diabetes, hypertension, and dyslipidemia).
+
+The present meta-analysis has several limitations. First,
+measurement errors are a problem in the assessment of
+dietary intake and chronic disease risk.32,33 All the in-
+cluded studies assessed consumption of reﬁned grains
+according to the FFQ, which reﬂected the relatively low
+correlations in validated studies (Spearman’s correla-
+tion coefficient of 0.63 for white rice intake compared with
+a four 3-day weighed dietary records34). Among the in-
+cluded studies, only the Nurses’ Health Study9 had
+repeated dietary assessment (every 4 years) during the
+follow-up period, while in the other studies, the dietary
+assessment was only made at baseline. All the included
+studies were not uniform in the way they quantify and
+classify dietary consumption: Four of 8 included studies
+used all reﬁned grains as a category,8-11 and the other 4
+studies (3 publications) reported risk estimations for white
+rice.12-14 Such misclassiﬁcation may bias the results toward
+the null and may partially explain the lack of an asso-
+ciation between consumption of reﬁned grains and risk
+of stroke in this study.
+
+Second, residual confounding cannot be completely ruled
+out due to the observational nature. Consumers of reﬁned
+grains generally reported unhealthy lifestyle habits, in-
+cluding less physical activity, smoking, higher intake of
+red meat, and less intake of fruits and vegetables. These
+results were consistent with some prospective studies,8,11,35
+but not with the Iowa Women’s Health Study,35 which
+reported an inverse association between intake of reﬁned
+grains and consumption of red meat. Such unhealthy diets
+and lifestyles have been shown to increase the risk of
+stroke.36,37 Furthermore, intermediate end points (such as
+diabetes mellitus, hypercholesterolemia, and hyperten-
+sion) that occurred during the follow-up could have led
+the participants to change their diet after being diag-
+nosed with these conditions and, thus, may have
+confounded the risk associations. However, most of the
+
+REFINED GRAINS AND STROKE
+
+known confounding factors were considered in the in-
+cluded studies.
+
+Third, while the number of stroke events is large, the
+number of stroke subtypes is relatively small. Further-
+more, our analysis is limited to data from only 2 countries,
+United States and Japan. Thus, additional research on stroke
+subtypes and in other populations is warranted to gen-
+eralize our ﬁndings.
+
+Finally, despite the extensive search made using the
+MEDLINE and EMBASE databases and the observation
+that there was no suggestion of bias using Begg’s and
+the Egger’s tests, this meta-analysis is not immune to pub-
+lication bias.
+
+In conclusion, our meta-analysis of prospective cohort
+studies suggests that higher intake of reﬁned grains is
+not associated with the risk of stroke in both men and
+women. However, the association needs further well-
+designed investigations, especially some clinical trials, to
+examine the effect of consumption of reﬁned grains on
+the risk of stroke.
+
+Ethical Approval
+
+Ethical approval was not required for this study since
+
+it was a meta-analysis of published articles.
+
+References
+
+1. WHO (World Health Organization), 2011. Ten leading
+causes of deaths in 2008. Available at http://
+gamapserver.who.int/gho/interactive_charts/mbd/
+cod_2008/graph.html. Accessed April 8, 2012.
+
+2. Goldstein LB, Bushnell CD, Adams RJ, et al. Guidelines
+for the primary prevention of stroke: a guideline for
+healthcare professionals from the American Heart
+Association/American Stroke Association. Stroke
+2011;42:517-584.
+
+3. Lloyd-Jones D, Adams R, Carnethon M, et al. Heart
+disease and stroke statistics—2009 update: a report from
+the American Heart Association Statistics Committee and
+Stroke Statistics Subcommittee. Circulation 2009;119:e21-
+e181.
+
+4. Sherzai A, Heim LT, Boothby C, et al. Stroke, food groups,
+and dietary patterns: a systematic review. Nutr Rev
+2012;70:423-435.
+
+5. Hu FB. Globalization of diabetes: the role of diet, lifestyle,
+
+and genes. Diabetes Care 2011;34:1249-1257.
+
+6. Song S, Lee JE, Song WO, et al. Carbohydrate intake and
+reﬁned-grains consumption are associated with metabolic
+syndrome in the Korean adult population. J Acad Nutr
+Diet 2014;114:54-62.
+
+7. Maki KC, Phillips AK. Dietary substitutions for reﬁned
+carbohydrate that show promise for reducing risk of type
+2 diabetes in men and women. J Nutr 2015;145:159S-163S.
+8. Jacobs DR Jr, Meyer KA, Kushi LH, et al. Is whole grains
+intake associated with reduced total and cause-speciﬁc
+death rates in older women? The Iowa Women’s Health
+Study. Am J Public Health 1999;89:322-329.
+
+9. Liu S, Manson JE, Stampfer MJ, et al. Whole grains
+consumption and risk of ischemic stroke in women: a
+prospective study. JAMA 2000;284:1534-1540.
+
+2745
+
+10. Liu S, Sesso HD, Manson JE, et al. Is intake of breakfast
+cereals related to total and cause-speciﬁc mortality in men?
+Am J Clin Nutr 2003;77:594-599.
+
+11. Steffen LM, Jacobs DR Jr, Stevens J, et al. Associations
+of whole-grains, reﬁned-grains, and fruit and vegetable
+consumption with risks of all-cause mortality and incident
+coronary artery disease and ischemic stroke: the
+Atherosclerosis Risk in Communities (ARIC) Study. Am
+J Clin Nutr 2003;78:383-390.
+
+12. Oba S, Nagata C, Nakamura K, et al. Dietary glycemic
+index, glycemic load, and intake of carbohydrate and rice
+in relation to risk of mortality from stroke and its subtypes
+in Japanese men and women. Metabolism 2010;59:1574-
+1582.
+
+13. Eshak ES, Iso H, Date C, et al. Rice intake is associated
+with reduced risk of mortality from cardiovascular disease
+in Japanese men but not women. J Nutr 2011;141:595-602.
+14. Eshak ES, Iso H, Yamagishi K, et al. Rice consumption
+is not associated with risk of cardiovascular disease
+morbidity or mortality in Japanese men and women: a
+large population-based, prospective cohort study. Am J
+Clin Nutr 2014;100:199-207.
+
+15. Stroup DF, Berlin JA, Morton SC, et al. Meta-analysis
+of Observational Studies in Epidemiology: a proposal for
+reporting. Meta-analysis of Observational Studies in
+Epidemiology (MOOSE) group. JAMA 2000;283:2008-
+2012.
+
+16. Wells GA, Shea B, O’Connell D, et al., 2012. The
+Newcastle-Ottawa Scale (NOS) for assessing the quality
+of nonrandomised studies in meta-analyses. Available at:
+http://www.ohri.ca/programs/clinical_epidemiology/
+oxford.asp. Accessed June 15, 2012.
+
+17. DerSimonian R, Laird N. Meta-analysis in clinical trials.
+
+Control Clin Trials 1986;7:177-188.
+
+18. Begg CB, Mazumdar M. Operating characteristics of a
+rank correlation test for publication bias. Biometrics
+1994;50:1088-1101.
+
+19. Egger M, Davey Smith G, Schneider M, et al. Bias in
+meta-analysis detected by a simple, graphical test. BMJ
+1997;315:629-634.
+
+20. Higgins JP, Thompson SG, Deeks JJ, et al. Measuring
+
+inconsistency in meta-analyses. BMJ 2003;327:557-560.
+
+21. Greenland S, Longnecker MP. Methods for trend
+estimation from summarized dose-response data, with
+applications
+to meta-analysis. Am J Epidemiol
+1992;135:1301-1309.
+
+22. Orsini N, Bellocco R, Greenland S. Generalized least
+squares for trend estimation of summarized dose-response
+data. Stata J 2006;6:40-57.
+
+23. Aune D, Norat T, Romundstad P, et al. Whole grains
+and reﬁned grains consumption and the risk of type 2
+diabetes: a systematic review and dose-response meta-
+analysis of cohort studies. Eur J Epidemiol 2013;28:845-
+858.
+
+24. Hu EA, Pan A, Malik V, et al. White rice consumption
+and risk of type 2 diabetes: meta-analysis and systematic
+review. BMJ 2012;344:e1454.
+
+25. Suzuki Y, Nagai N, Umemura K. Novel situations of
+endothelial injury in stroke—mechanisms of stroke and
+strategy of drug development: intracranial bleeding
+associated with the treatment of ischemic stroke:
+thrombolytic treatment of ischemia-affected endothelial
+cells with tissue-type plasminogen activator. J Pharmacol
+Sci 2011;116:25-29.
+
+26. Goldin A, Beckman JA, Schmidt AM, et al. Advanced
+glycation end products: sparking the development of
+diabetic vascular injury. Circulation 2006;114:597-605.
+
+2746
+
+D. WU ET AL.
+
+32. Keogh RH, White IR, Rodwell SA. Using surrogate
+biomarkers to improve measurement error models in
+nutritional epidemiology. Stat Med 2013;32:3838-3861.
+
+27. Dickinson S, Brand-Miller J. Glycemic index, postprandial
+glycemia and cardiovascular disease. Curr Opin Lipidol
+2005;16:69-75.
+
+28. Park HY, Yun KH, Park DS. Levels of soluble receptor
+for advanced glycation end products in acute ischemic
+stroke without a source of cardioembolism. J Clin Neurol
+2009;5:126-132.
+
+29. Olsson S, Jood K. Genetic variation in the receptor
+for advanced glycation end-products (RAGE) gene
+and ischaemic stroke. Eur J Neurol 2013;20:991-
+993.
+
+30. Villegas R, Liu S, Gao YT, et al. Prospective study of
+dietary carbohydrates, glycemic index, glycemic load,
+and incidence of type 2 diabetes mellitus in middle-
+aged Chinese women. Arch Intern Med 2007;167:2310-
+2316.
+
+31. Heidemann C, Scheidt-Nave C, Richter A, et al. Dietary
+patterns are associated with cardiometabolic risk factors
+in a representative study population of German adults.
+Br J Nutr 2011;106:1253-1262.
+
+33. Boeing H. Nutritional epidemiology: new perspectives
+for understanding the diet-disease relationship? Eur J Clin
+Nutr 2013;67:424-429.
+
+34. Date C, Fukui M, Yamamoto A, et al. Reproducibility
+and validity of a self-administered Food Frequency
+Questionnaire used in the JACC study. J Epidemiol
+2005;15(Suppl 1):S9-S23.
+
+35. Jacobs DR Jr, Meyer KA, Kushi LH, et al. Whole-grains
+intake may reduce the risk of ischemic heart disease death
+in postmenopausal women: the Iowa Women’s Health
+Study. Am J Clin Nutr 1998;68:248-257.
+
+36. Peng M, Wu S, Jiang X, et al. Long-term alcohol
+consumption is an independent risk factor of hypertension
+development in northern China: evidence from Kailuan
+study. J Hypertens 2013;31:2342-2347.
+
+37. Goldstein LB. Physical activity and the risk of stroke.
+
+Expert Rev Neurother 2010;10:1263-1265.
+
+

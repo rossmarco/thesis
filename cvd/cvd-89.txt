@@ -1,0 +1,2512 @@
+Article
+Annals of Internal Medicine
+Effects of a Mediterranean-Style Diet on Cardiovascular Risk Factors
+A Randomized Trial
+Ramon Estruch, MD, PhD; Miguel A´ ngel Marti´nez-Gonza´lez, MD, PhD; Dolores Corella, PhD; Jordi Salas-Salvado´ , MD, PhD;
+Valentina Ruiz-Gutie´rrez, PhD; Mari´a Isabel Covas, PhD; Miguel Fiol, MD, PhD; Enrique Go´ mez-Gracia, MD, PhD;
+Mari Carmen Lo´ pez-Sabater, PhD; Ernest Vinyoles, MD, PhD; Fernando Aro´ s, MD, PhD; Manuel Conde, MD, PhD; Carlos Lahoz, MD, PhD;
+Jose´ Lapetra, MD, PhD; Guillermo Sa´ez, MD, PhD; and Emilio Ros, MD, PhD, for the PREDIMED Study Investigators*
+
+Background: The Mediterranean diet has been shown to have
+beneficial effects on cardiovascular risk factors.
+
+Objective: To compare the short-term effects of 2 Mediterranean
+diets versus those of a low-fat diet on intermediate markers of
+cardiovascular risk.
+
+Design: Substudy of a multicenter, randomized, primary prevention
+trial of cardiovascular disease (Prevencio´ n con Dieta Mediterra´ nea
+[PREDIMED] Study).
+
+Setting: Primary care centers affiliated with 10 teaching hospitals.
+
+Participants: 772 asymptomatic persons 55 to 80 years of age at
+high cardiovascular risk who were recruited from October 2003 to
+March 2004.
+
+Interventions: Participants were assigned to a low-fat diet (n ⫽
+257) or to 1 of 2 Mediterranean diets. Those allocated to Medi-
+terranean diets received nutritional education and either free virgin
+olive oil, 1 liter per week (n ⫽ 257), or free nuts, 30 g/d (n ⫽ 258).
+The authors evaluated outcome changes at 3 months.
+
+Measurements: Body weight, blood pressure, lipid profile, glucose
+levels, and inflammatory molecules.
+
+Results: The completion rate was 99.6%. Compared with the
+low-fat diet, the 2 Mediterranean diets produced beneficial changes
+
+in most outcomes. Compared with the low-fat diet, the mean
+changes in the Mediterranean diet with olive oil group and the
+Mediterranean diet with nuts group were ⫺0.39 mmol/L (95% CI,
+⫺0.70 to ⫺ 0.07 mmol/L) and ⫺ 0.30 mmol/L (CI, ⫺0.58
+to ⫺ 0.01 mmol/L), respectively, for plasma glucose levels; ⫺5.9
+mm Hg (CI, ⫺8.7 to ⫺3.1 mm Hg) and ⫺ 7.1 mm Hg (CI, ⫺10.0
+to ⫺4.1 mm Hg),
+systolic blood pressure;
+for
+and ⫺0.38 (CI, ⫺0.55 to ⫺ 0.22)
+and ⫺ 0.26 (CI, ⫺0.42
+to ⫺0.10), respectively, for the cholesterol–high-density lipoprotein
+cholesterol ratio. The Mediterranean diet with olive oil reduced
+C-reactive protein levels by 0.54 mg/L (CI, 1.04 to 0.03 mg/L)
+compared with the low-fat diet.
+
+respectively,
+
+Limitations: This short-term study did not focus on clinical out-
+comes. Nutritional education about low-fat diet was less intense
+than education about Mediterranean diets.
+
+Conclusion: Compared with a low-fat diet, Mediterranean diets
+supplemented with olive oil or nuts have beneficial effects on
+cardiovascular risk factors.
+
+Ann Intern Med. 2006;145:1-11.
+For author affiliations, see end of text.
+International Standard Randomized Controlled Trial Number (ISRCTN):
+35739639.
+*For a list of additional PREDIMED Study Investigators, see the Appendix,
+available at www.annals.org.
+
+www.annals.org
+
+industrialized countries, but
+
+Cardiovascular disease is the main cause of death in
+
+incidence rates have
+marked geographic differences. The low incidence of cor-
+onary heart disease (CHD) in Mediterranean countries has
+been partly ascribed to dietary habits (1–3). Recent ﬁnd-
+ings from large European cohort studies (4 – 6) suggest that
+a high degree of adherence to the Mediterranean diet is
+associated with a reduction in mortality. In small clinical
+studies, the Mediterranean diet or some of its components
+have reduced blood pressure (7) and have improved lipid
+proﬁles (8, 9) and endothelial function (10). Moreover, a
+recent cross-sectional study (11) and a 2-year feeding trial
+(12) have shown that adherence to the Mediterranean diet
+is associated with reduced markers of vascular inﬂamma-
+tion. These beneﬁcial effects on surrogate markers of car-
+diovascular risk add biological plausibility to the epidemi-
+ologic evidence that supports a protective effect of the
+Mediterranean diet.
+
+Olive oil, a rich source of monounsaturated fatty acids,
+is a main component of the Mediterranean diet. Virgin
+olive oil retains all the lipophilic components of the fruit,
+␣-tocopherol, and phenolic compounds with strong anti-
+oxidant and anti-inﬂammatory properties (13, 14). Tree
+
+nuts, which are also typical in the Mediterranean diet, have
+a favorable fatty acid proﬁle and are a rich source of nutri-
+ents and other bioactive compounds that may beneﬁcially
+inﬂuence the risk for CHD, such as ﬁber, phytosterols,
+folic acid, and antioxidants (15). Frequent nut intake has
+been associated with decreased CHD rates in prospective
+studies (15). Walnuts differ from all other nuts through
+their high content of polyunsaturated fatty acids, particu-
+larly ␣-linolenic acid, a plant n-3 fatty acid (16), which
+may confer additional antiatherogenic properties (17).
+Therefore, we designed a large-scale feeding trial in high-
+
+See also:
+
+Print
+Editors’ Notes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Summary for Patients. . . . . . . . . . . . . . . . . . . . . . . I-11
+
+Web-Only
+Appendix
+Appendix Tables
+Conversion of figures and tables into slides
+
+© 2006 American College of Physicians 1
+
+Article Mediterranean Diet and Cardiovascular Risk Factors
+
+Context
+Some experts attribute a low incidence of heart disease in
+Mediterranean countries to dietary habits.
+
+Contribution
+In this multicenter, 3-group trial, investigators randomly
+assigned 772 adults at high risk for cardiovascular disease
+to a low-fat diet or to a Mediterranean diet supplemented
+with either virgin olive oil (1 L per week) or nuts (30 g per
+day). After 3 months, the Mediterranean diet groups had
+lower mean plasma glucose level, systolic blood pressure,
+and total cholesterol– high-density lipoprotein cholesterol
+ratio than the low-fat diet group.
+
+Cautions
+The Mediterranean diet groups received more nutritional
+education than the low-fat diet group.
+
+Implications
+Mediterranean diets supplemented with olive oil or nuts
+may improve cardiovascular risk factors.
+
+—The Editors
+
+risk participants to assess the effects of 2 Mediterranean
+diets, one supplemented with virgin olive oil and the other
+supplemented with mixed nuts, compared with a low-fat
+diet on cardiovascular outcomes. We report the results of a
+3-month intervention on intermediate markers of cardio-
+vascular risk in the ﬁrst 772 participants who were re-
+cruited into the trial.
+
+METHODS
+Study Design
+
+The Prevencio´n con Dieta Mediterra´nea (PREDIMED)
+Study is a large, parallel-group, multicenter, randomized,
+controlled, 4-year clinical trial that aims to assess the effects
+of the Mediterranean diet on the primary prevention of
+cardiovascular disease (www.predimed.org). An estimated
+9000 high-risk participants (⬎5000 participants are al-
+ready recruited) will be assigned to 3 interventions: Medi-
+terranean diet with virgin olive oil, Mediterranean diet
+with mixed nuts, or low-fat diet. The main outcome is an
+aggregate of cardiovascular events (cardiovascular death,
+nonfatal myocardial infarction, or nonfatal stroke). The
+anticipated completion date of the trial is December 2010.
+We designed our present study to assess the 3-month
+effects of the dietary interventions on surrogate markers of
+cardiovascular risk in participants entering the study dur-
+ing the ﬁrst 6 months of recruitment. The institutional
+review boards of the 10 participating centers approved the
+study protocol.
+Participants and Recruitment
+
+From October 2003 to March 2004, we selected 930
+potential participants in primary care centers afﬁliated with
+
+2 4 July 2006 Annals of Internal Medicine Volume 145 (cid:127) Number 1
+
+10 teaching hospitals across Spain. Eligible participants
+were community-dwelling men, 55 to 80 years of age, and
+women, 60 to 80 years of age, who fulﬁlled at least 1 of 2
+criteria: type 2 diabetes or 3 or more CHD risk factors
+(current smoking, hypertension [blood pressure ⬎140/90
+mm Hg or treatment with antihypertensive drugs], low-
+density lipoprotein [LDL] cholesterol level ⱖ4.14 mmol/L
+[ⱖ160 mg/dL] [or treatment with hypolipidemic drugs],
+level ⱕ1.04
+high-density lipoprotein [HDL] cholesterol
+mmol/L [ⱕ40 mg/dL], body mass index [BMI] ⱖ25 kg/
+m2, or a family history of premature CHD). Exclusion
+criteria were history of cardiovascular disease, any severe
+chronic illness, drug or alcohol addiction, history of allergy
+or intolerance to olive oil or nuts, or low predicted likeli-
+hood of changing dietary habits according to the stages-of-
+change model (18).
+
+The primary care physicians based participants’ eligi-
+bility on review of clinical records and a screening visit.
+They obtained a list of candidates from computer-based
+records of patients who attended each participating center
+and reviewed their clinical records to exclude those who
+did not meet eligibility criteria. They then invited suitable
+candidates by telephone to attend a screening visit. The
+visit included an interview with administration of a 26-
+item questionnaire to inquire about medical conditions
+and risk factors related to eligibility. Of the eligible candi-
+dates who met entry requirements, 95% agreed to partici-
+pate and provided informed consent.
+
+Randomization and Intervention
+
+After the screening visit, each center randomly as-
+signed eligible participants to 1 of 3 diet groups by using a
+computer-generated random-number sequence. The coor-
+dinating center constructed the randomization table, and
+participants were randomly assigned into blocks of 50 par-
+ticipants balanced by center, sex, and age group (⬍70 years
+and ⱖ70 years). We concealed allocation into the interven-
+tion groups by using closed envelopes with correlative
+numbers by prespeciﬁed subgroups of sex and age.
+
+The baseline examination included the administration
+of a 14-item questionnaire, an extension of a previously
+validated questionnaire (19), that assessed the degree of
+adherence to the traditional Mediterranean diet. We as-
+signed values of 0 or 1 to each item (Appendix Table 1,
+available at www.annals.org). We also administered a 137-
+item validated food frequency questionnaire (20); the val-
+idated Spanish version (21) of the Minnesota Leisure Time
+Physical Activity Questionnaire; and a 47-item question-
+naire about education, lifestyle, history of illnesses, and
+medication use. We performed anthropometric and blood
+pressure measurements and obtained samples of fasting
+blood and spot urine. We repeated all examinations at 3
+months.
+
+The same dietitian delivered the interventions to the 3
+randomized groups in each center. On the basis of the
+assessment of individual Mediterranean diet scores, the di-
+
+www.annals.org
+
+etitian gave personalized dietary advice during a 30-minute
+session to each participant, with recommendations on the
+desired frequency of intake of speciﬁc foods. We advised
+participants who were allocated to the low-fat diet to re-
+duce intake of all types of fat, and we gave them a leaﬂet
+with written recommendations according to the American
+Heart Association guidelines (22). For total fat intake,
+these recommendations were opposite to those given to
+participants in the 2 Mediterranean diet groups, who re-
+ceived instructions intended to increase the 14-item Med-
+iterranean diet score, including increased consumption of
+vegetable fats and oils. We did not suggest any energy
+restriction.
+
+While the participants who were allocated to the low-
+fat diet did not receive further intervention, those assigned
+the 2 Mediterranean diet groups had access to more intense
+intervention in 2 ways. First, they were given a free provi-
+sion of typical Mediterranean fatty foods (olive oil or nuts).
+Depending on group assignment, participants were given
+either free virgin olive oil (15 L [1 L/wk] for 3 months) or
+free sachets of walnuts, hazelnuts, and almonds (1350 g of
+walnuts [15 g/d], 675 g of hazelnuts [7.5 g/d], and 675 g
+of almonds [7.5 g/d] for 3 months). To improve adherence
+and account for family needs, participants in the corre-
+sponding Mediterranean diet groups were given excess ol-
+ive oil or additional 1000-g packets of nuts. We analyzed
+the nutrient composition of the olive oil and nuts used in
+
+Figure 1. Study flow diagram.
+
+Mediterranean Diet and Cardiovascular Risk Factors
+
+Article
+
+the study by standard methods in a reference laboratory
+(Appendix Table 2, available at www.annals.org). Second,
+1 week after inclusion, the dietitian delivered a 1-hour
+group session with up to 20 participants, with separate
+sessions for each Mediterranean diet group. Each group
+session consisted of informative talks and provision of writ-
+ten materials with elaborate descriptions of typical Medi-
+terranean foods and seasonal shopping lists, meal plans,
+and cooking recipes. Throughout the study, all participants
+had free and continuous access to their center dietitian for
+advice and consultation.
+
+Measurements
+
+(Omron HEM-705CP, Hoofddorp,
+
+Trained personnel measured weight and height by us-
+ing calibrated scales and a wall-mounted stadiometer, re-
+spectively; waist circumference midway between the lowest
+rib and the iliac crest by using an anthropometric tape; and
+blood pressure in triplicate with a validated semiautomatic
+oscillometer
+the
+Netherlands). We calculated energy and nutrient intake
+from Spanish food composition tables
+the
+3-month visit and when consulted by participants, dieti-
+tians assessed any adverse effects from the interventions by
+administering a checklist of symptoms and gave advice on
+how to remedy them. The checklist included mouth symp-
+toms; bloating, fullness, or indigestion; altered bowel habit;
+and any other diet-related symptom.
+
+(23). At
+
+AHA ⫽ American Heart Association.
+
+www.annals.org
+
+4 July 2006 Annals of Internal Medicine Volume 145 (cid:127) Number 1 3
+
+Article Mediterranean Diet and Cardiovascular Risk Factors
+
+Table 1. Baseline Characteristics*
+
+Characteristic
+
+Mean (SD) age, y
+Men, n (%)
+Family history of CHD, n (%)
+Current smokers, n (%)
+Mean (SD) BMI, kg/m2†
+Overweight or obese (BMI ⱖ25 kg/m2), n (%)
+Type 2 diabetes mellitus, n (%)
+Hypertension, n (%)
+Dyslipidemia, n (%)
+Medications, n (%)
+
+ACE inhibitors
+Diuretics
+Other antihypertensive agents
+Statins
+Other lipid-lowering agents
+Insulin
+Oral hypoglycemic drugs
+Aspirin or other antiplatelet drugs
+
+Occupation, n (%)
+
+Unskilled
+Skilled, manual
+Skilled, nonmanual
+Directive and professional
+
+Education level, n (%)
+
+Primary school
+First-degree high school
+High school or university
+
+Mediterranean Diet
+with Virgin Olive Oil
+(n ⴝ 257)
+
+Mediterranean Diet
+with Mixed Nuts
+(n ⴝ 258)
+
+Recommended
+Low-Fat Diet
+(n ⴝ 257)
+
+68.6 (6.9)
+102 (40)
+63 (24)
+37 (14)
+29.7 (4.1)
+232 (90)
+143 (56)
+199 (77)
+165 (64)
+
+108 (42)
+93 (36)
+60 (23)
+104 (41)
+18 (7)
+16 (6)
+89 (35)
+44 (17)
+
+59 (23)
+99 (39)
+59 (23)
+40 (15)
+
+189 (74)
+39 (15)
+28 (11)
+
+68.5 (6.2)
+128 (50)
+55 (21)
+50 (19)
+29.4 (4.1)
+233 (90)
+129 (50)
+193 (75)
+171 (66)
+
+118 (46)
+85 (33)
+43 (16)
+115 (45)
+19 (7)
+24 (9)
+93 (36)
+49 (19)
+
+59 (23)
+99 (38)
+54 (21)
+46 (18)
+
+180 (70)
+44 (17)
+34 (13)
+
+69.5 (6.1)
+109 (42)
+60 (23)
+40 (15)
+30.2 (4.3)
+231 (90)
+149 (58)
+213 (83)
+179 (70)
+
+114 (44)
+93 (36)
+57 (22)
+107 (42)
+14 (5)
+21 (8)
+100 (39)
+45 (18)
+
+61 (24)
+90 (35)
+59 (23)
+47 (18)
+
+185 (72)
+43 (17)
+29 (11)
+
+* ACE ⫽ angiotensin-converting enzyme; BMI ⫽ body mass index; CHD ⫽ coronary heart disease.
+† Calculated as weight in kg divided by height in m2.
+
+Samples of serum, EDTA plasma, and urine were
+coded, were shipped to central
+laboratories, and were
+stored at ⫺80 °C until assay. The clinical investigators and
+laboratory technicians were blinded to the interventions.
+Analytes determined for each participant in frozen samples
+of whole serum or plasma as appropriate were blood glu-
+cose level by the glucose– oxidase method; serum insulin
+level by radioimmunoassay; cholesterol and triglyceride
+levels by enzymatic procedures; HDL cholesterol level after
+precipitation with phosphotungstic acid and magnesium
+chloride; apolipoproteins A1 and B levels by using turbi-
+dimetry; soluble intercellular adhesion molecule-1 (ICAM-
+1), vascular cell adhesion molecule-1 (VCAM-1), and in-
+terleukin-6 levels by standard enzyme-linked immunosorbent
+assays; and high-sensitivity C-reactive protein (CRP) level
+by particle-enhanced immunonephelometry. We per-
+formed all analyses in duplicate. Intra- and interassay vari-
+ation coefﬁcients for insulin, CRP, ICAM-1, VCAM-1,
+and interleukin-6 ranged from 1.8% to 5.4% and from
+0.9% to 9.9%, respectively.
+
+In participants without diabetes, we calculated insulin
+resistance by using the homeostasis model assessment
+method (24): insulin resistance ⫽ fasting insulin (␮U/
+mL) ⫻ fasting glucose (mmol/L)/22.5. In a random sam-
+ple of 273 participants (35%), we measured urinary tyrosol
+and hydroxytyrosol
+levels by gas chromatography–mass
+spectrometry as markers of adherence to virgin olive oil
+
+4 4 July 2006 Annals of Internal Medicine Volume 145 (cid:127) Number 1
+
+intake (25) and the ␣-linolenic acid plasma content by gas
+chromatography as a measure of adherence to nut (walnut)
+intake (8).
+
+Statistical Analyses
+
+For a parallel design, statistical power calculations in-
+dicated that 227 participants per group would be needed to
+detect mean differences of 0.13 mmol/L (SD, 0.49) (5
+mg/dL [SD, 19]) in LDL cholesterol level (8) (␣⫽ 0.05;
+power ⫽ 0.8). Although we used LDL cholesterol level to
+set sample size, we were equally interested in changes in all
+end points in our exploratory and nonconﬁrmatory study.
+We based the analysis on the intention-to-treat principle.
+We used descriptive statistics with means and SDs for the
+baseline characteristics of the participants. For analysis of
+laboratory variables, we used the average of 2 baseline mea-
+sures as the baseline value and the average of the 2 mea-
+sures taken after the 3-month intervention as the ﬁnal vari-
+able. We transformed values with a skewed distribution
+(CRP, VCAM-1, ICAM-1, and interleukin-6) to their nat-
+ural
+logarithm for analyses. We examined 3-month
+changes in clinical, dietary, and laboratory variables, in-
+cluding center, as a stratiﬁcation factor in the multivariable
+model. We controlled potential confounding by age, sex,
+and baseline body weight, entering these variables also into
+the multivariable model. We excluded participants whose
+energy intake, as derived from the food frequency ques-
+
+www.annals.org
+
+tionnaires, was outside prespeciﬁed ranges (500 kcal/d to
+3500 kcal/d for women and 800 kcal/d to 4000 kcal/d for
+men) (26) from the calculations of food, energy, and nu-
+trient intake. In addition, we excluded participants with
+plasma CRP levels greater than 10 mg/L at any measure-
+ment, indicating an inﬂammatory process, from statistical
+analyses of inﬂammatory biomarkers. Within- and be-
+tween-group differences are expressed as means and 95%
+CIs. All statistical tests were 2-tailed, and the signiﬁcance
+level was 0.05. We performed analyses by using SPSS, ver-
+sion 11.0 (SPSS Inc., Chicago, Illinois).
+Role of the Funding Sources
+
+This study was supported by a grant from the Spanish
+Ministry of Health (Red G03/140). Fundacio´n Patrimonio
+Comunal Olivarero and Hojiblanca SA, the California
+Walnut Commission, Borges SA, and Morella Nuts SA
+generously donated the olive oil, walnuts, almonds, and
+hazelnuts, respectively, used in the study. The funding
+sources had no role in the design, collection, analysis, or
+interpretation of the data or in the decision to submit the
+manuscript for publication.
+
+RESULTS
+
+We excluded 158 of 930 eligible participants before
+randomization for various reasons (Figure 1). Table 1
+shows the baseline characteristics of the 772 participants
+who entered the study. Of these participants, 697 were
+Europeans of Spanish descent and 75 were Hispanic im-
+migrants from Central and South America. Although the
+trial is an ongoing, large multicenter trial with large block
+
+Mediterranean Diet and Cardiovascular Risk Factors
+
+Article
+
+sizes, the groups were balanced in ethnic origin, demo-
+graphic characteristics, adiposity, and risk factors. Three
+participants withdrew before study completion; their base-
+line characteristics were similar to those of the overall
+group.
+Adverse Effects
+
+Thirty-four (13%) participants in the Mediterranean
+diet with nuts group had difﬁculty chewing whole nuts or
+reported that small fragments of nuts were lodged between
+their teeth. This problem was solved satisfactorily by the
+advice to consume the nuts crushed and mixed with low-
+fat yogurt, except for 1 participant who withdrew from the
+study. Participants who were allocated to the Mediterra-
+nean diet with olive oil group or to the low-fat diet group
+reported no adverse effects.
+Food, Energy, and Nutrient Intake
+
+We excluded the following participants from food, en-
+ergy, and nutrient calculations because they reported unre-
+alistic energy intakes: 21 in the Mediterranean diet plus
+olive oil group, 19 in the Mediterranean diet plus nuts
+group, and 8 in the low-fat diet group (26). The main
+dietary changes were the large increases in consumption of
+virgin olive oil and nuts in the corresponding Mediterra-
+nean diet groups that were provided with these foods. Re-
+ciprocal decreases in the consumption of common olive oil
+indicated that participants replaced this oil by the virgin
+variety supplied. Both olive oil and nut intake decreased
+nonsigniﬁcantly in the low-fat group. Participants in the 3
+groups increased the intake of vegetables, legumes, fruit,
+and ﬁsh and decreased the intake of meat, sweets, and dairy
+
+Table 2. Changes in the Consumption of Key Food Items and 14-Point Mediterranean Diet Score*
+
+Food Consumed
+
+Mean Changes from Baseline at 3 mo (95% CI), g/d
+
+Mediterranean Diet
+
+with Olive Oil
+vs. Low-Fat Diet
+
+Mediterranean Diet
+
+with Nuts
+
+vs. Low-Fat Diet
+
+Mediterranean Diet
+with Virgin Olive Oil
+(n ⴝ 257)
+
+Mediterranean Diet
+with Mixed Nuts
+(n ⴝ 257)
+
+Low-Fat Diet
+(n ⴝ 256)
+
+Mean (95% CI)
+Between-Group
+Difference, g/d†
+
+P Value Mean (95% CI)
+Between-Group
+Difference, g/d†
+
+32 (27 to 37)
+–25 (–30 to –21)
+
+1.2 (0.1 to 2.5)
+–0.6 (–5.5 to 4.3)
+
+–0.1 (–3.0 to 2.8)
+–1.6 (–5.8 to 1.6)
+
+33 (27 to 39)
+–24 (–28 to –21)
+
+⬍0.001
+⬍0.001
+
+0.8 (–3.4 to 4.9)
+1.4 (–5.9 to 3.0)
+
+1.7 (0.5 to 2.9)
+13 (–6.2 to 39)
+8.5 (3.5 to 13.0)
+5.5 (–34.0 to 44.0)
+1.8 (–6.0 to 9.7)
+–23 (–34 to –12)
+
+40 (33 to 47)
+
+18.0 (–1.4 to 36.0)
+
+10 (5.8 to 14)
+15 (–11 to 41)
+2.4 (–7.8 to 13.0)
+–29 (–45 to –13)
+
+–0.7 (–3.3 to 1.9)
+8.1 (–13.0 to 29.0)
+3.5 (0.2 to 6.8)
+25 (1 to 50)
+
+11.0 (–4.5 to 28.0)
+–7.8 (–16.0 to 1.0)
+
+0.8 (–5.5 to 7.2)
+5.2 (–28.0 to 39.0)
+4.6 (–1.4 to 10.0)
+–12 (–56 to 32)
+
+–12.0 (–29.0 to 3.5)
+–17.0 (–31.0 to –3.1)
+
+0.80
+0.76
+0.137
+0.58
+0.124
+0.017
+
+38 (32 to 45)
+11 (–24 to 45)
+3.3 (–2.8 to 9.4)
+–10 (22 to –42)
+–7.4 (–24.0 to 10.0)
+–17.0 (–31.0 to –2.3)
+
+P Value
+
+0.72
+0.52
+
+⬍0.001
+0.54
+0.29
+0.53
+0.39
+0.023
+
+Virgin olive oil
+Refined–mixed
+
+olive oil
+Total nuts
+Vegetables
+Legumes
+Fruits
+Fish or seafood
+Meat or meat
+
+products
+
+Pastries, cakes, or
+
+–2.1 (–3.7 to –0.5)
+
+–3.0 (–4.6 to –1.4)
+
+–1.8 (–3.6 to 0.2)
+
+–2.5 (–2.7 to 2.2)
+
+0.84
+
+–1.5 (–4.0 to 1.0)
+
+0.23
+
+sweets
+
+Dairy products
+Alcohol
+14-unit
+
+Mediterranean
+diet score
+
+–17.0 (–38.0 to 4.1)
+–0.5 (–1.9 to 0.9)
+2.2 (1.9 to 2.4)
+
+–45 (–70 to –19)
+–1.3 (–2.7 to 0.1)
+2.8 (2.6 to 3.1)
+
+–22.0 (–50.0 to 4.6)
+0.1 (–1.6 to 1.8)
+–0.1 (–0.3 to 0.2)
+
+4.6 (–32.0 to 40.0)
+–0.7 (–2.9 to 1.5)
+2.3 (2.0 to 2.7)
+
+0.31
+0.53
+⬍0.001
+
+–16 (–58 to 25)
+–1.5 (–3.7 to 0.8)
+2.7 (2.4 to 3.1)
+
+0.45
+0.20
+⬍0.001
+
+* Of participants in the Mediterranean diet with olive oil, Mediterranean diet with nuts, and low-fat diet groups, 21, 20, and 8 participants, respectively, were excluded from
+calculations of food intake because reported energy was outside of prespeciﬁed ranges.
+† Adjusted for center, age, sex, and baseline body weight.
+
+www.annals.org
+
+4 July 2006 Annals of Internal Medicine Volume 145 (cid:127) Number 1 5
+
+Article Mediterranean Diet and Cardiovascular Risk Factors
+
+products (Table 2). The Mediterranean diet score in-
+creased in the 2 Mediterranean diet groups and remained
+unchanged in the low-fat group. The results did not
+change when we included the participants whose energy
+consumption was out of range in the calculations.
+
+Estimated energy expenditure from physical activity
+was similar in the 3 groups at baseline and after 3 months
+(data not shown). We observed a reduction from baseline
+in reported energy intake in the groups allocated to the
+Mediterranean diet plus olive oil and low-fat diets (Table
+3). The 3 groups decreased saturated fatty acid intake from
+baseline; the 2 Mediterranean diet groups reduced choles-
+terol intake; and the Mediterranean diet with nuts group
+decreased the intake of total carbohydrate and increased
+the intake of ﬁber, total fat, monounsaturated fatty acids,
+and polyunsaturated fatty acids.
+
+Biochemical measurements in plasma and urine sam-
+ples from a random group of 273 (35%) participants in the
+study showed good adherence to supplemental foods in the
+Mediterranean diet groups. Compared with the low-fat
+diet group, participants assigned to the Mediterranean diet
+with olive oil group showed an increase from baseline in
+urinary tyrosol levels of 19 ng/mL (95% CI, 5 to 35 ng/
+mL) and in hydroxytyrosol levels of 84 ng/mL (CI, 34 to
+135 ng/mL); those allocated to the Mediterranean diet
+with nuts group showed an increase in plasma ␣-linolenic
+acid level of 0.15 mol% (CI, 0.09 to 0.21 mol%).
+Cardiovascular Risk Factors
+
+Table 4 shows the changes in cardiovascular risk fac-
+tors. Body weight and adiposity measures were slightly re-
+duced in the 3 groups, with no between-group differences
+and statistically signiﬁcant within-group changes only for
+BMI in the low-fat group. Compared with participants
+assigned to the low-fat diet group, those in the 2 Mediter-
+ranean diet groups had decreased systolic and diastolic
+
+blood pressure, blood glucose levels, and cholesterol–HDL
+cholesterol ratio and increased HDL cholesterol
+levels.
+Fasting insulin levels and homeostasis model assessment
+scores were also lower in participants without diabetes in
+the 2 Mediterranean diet groups. Total cholesterol and
+triglyceride levels decreased only in the Mediterranean diet
+with nuts group.
+Inflammatory Markers
+
+We excluded from calculations 8 participants in the
+Mediterranean diet plus olive oil group, 2 participants in
+the Mediterranean diet plus nuts group, and 4 participants
+in the low-fat diet group who had plasma CRP levels
+greater than 10 mg/L in at least 1 measurement. Figure 2
+shows the changes from baseline values in CRP, interleu-
+kin-6, ICAM-1, and VCAM-1 concentrations in the 3
+groups. The CRP concentration decreased only in partici-
+pants who were allocated to the Mediterranean diet plus
+olive oil group. Compared with participants in the low-fat
+diet group, adjusted between-group changes in CRP levels
+were ⫺0.54 mg/L (CI, ⫺1.04 to ⫺0.03 mg/L) for those in
+the Mediterranean diet with olive oil group and 0.33 mg/L
+(CI, ⫺0.19 to 0.84 mg/L) for those in the Mediterranean
+diet with nuts group. Circulating interleukin-6, ICAM-1,
+and VCAM-1 concentrations decreased in both Mediterra-
+nean diet groups and increased in the low-fat diet group.
+Compared with the low-fat diet group, the between-group
+changes in interleukin-6 level were ⫺1.6 ng/L (CI, ⫺2.5
+to ⫺0.6 ng/L) for the Mediterranean diet with olive oil
+group and ⫺1.3 ng/L (CI, ⫺2.3 to ⫺0.4 ng/L) for the
+Mediterranean diet with nuts group. The between-group
+changes in ICAM-1 level were ⫺104 ng/mL (CI, ⫺135
+to ⫺72 ng/mL) and ⫺97 ng/mL (CI, ⫺128 to ⫺65 ng/
+mL), respectively; the between-group changes in VCAM-1
+level were ⫺178 ng/mL (CI, ⫺277 to ⫺79 ng/mL) and
+⫺167 ng/mL (CI, ⫺267 to ⫺68 ng/mL), respectively. Be-
+
+Table 3. Changes in Energy and Nutrient Intake*
+
+Nutrients
+
+Mean Changes from Baseline at 3 mo (95% CI)
+
+Mediterranean Diet with
+
+Olive Oil
+
+vs. Low-Fat Diet
+
+Mediterranean Diet with
+
+Nuts vs. Low-Fat Diet
+
+Mediterranean Diet
+with Virgin Olive Oil
+(n ⴝ 257)
+
+Mediterranean Diet
+with Mixed Nuts
+(n ⴝ 257)
+
+Low-Fat Diet
+(n ⴝ 256)
+
+Mean (95% CI)
+Between-Group
+Difference†
+
+Fiber, g/d
+
+SFA, %
+MUFA, %
+PUFA, %
+
+Energy from total fat, %
+
+–180 (–271 to –89)
+Energy, kcal
+Energy from total protein, %
+0.36 (–0.06 to 0.78)
+Energy from total carbohydrate, % 0.33 (–0.59 to 1.26)
+0.98 (–0.74 to 2.70)
+–0.75 (–1.60 to 0.08)
+–0.77 (–1.00 to –0.49)
+0.15 (–0.39 to 0.70)
+–0.11 (–0.38 to 0.17)
+–2.1 (–2.8 to –1.1)
+0.06 (–0.17 to 0.04)
+0.02 (–0.05 to 0.08)
+2.05 (1.20 to 2.90)
+0.40 (0.01 to 0.79)
+–53 (–75 to –31)
+
+Linoleic acid, g/d
+␣-linolenic acid, g/d
+Marine n-3 fatty acids, g/d
+
+Energy from olive oil, %
+Energy from nuts, %
+Cholesterol, mg/d
+
+–34 (–140 to 67)
+
+–0.28 (–0.69 to 0.11)
+–2.9 (–4.0 to –1.9)
+3.8 (1.8 to 5.7)
+3.4 (2.4 to 4.5)
+
+–1.00 (–1.40 to –0.72)
+1.38 (0.81 to 2.00)
+3.0 (2.5 to 3.6)
+7.6 (5.8 to 9.3)
+1.20 (0.92 to 1.40)
+0.11 (0.01 to 0.21)
+0.46 (–0.41 to 1.30)
+10.2 (8.7 to 12.0)
+–54 (–74 to –34)
+
+–197 (–300 to –95)
+0.83 (0.38 to 1.27)
+–0.36 (–1.50 to 0.80)
+0.60 (–0.94 to 2.20)
+–1.40 (–2.50 to –0.21)
+–0.74 (–1.20 to –0.31)
+–0.52 (–1.20 to 0.22)
+0.14 (–0.46 to 0.17)
+–0.68 (–1.80 to 0.44)
+–0.10 (–0.27 to 0.08)
+0.13 (–0.02 to 0.28)
+0.06 (–1.00 to 1.20)
+–0.07 (–0.57 to 0.42)
+
+–13 (–47 to 21)
+
+4.5 (–139.0 to 148.0)
+
+–0.47 (–1.07 to 0.13)
+0.22 (–1.30 to 1.70)
+0.49 (–1.90 to 2.90)
+0.45 (–1.00 to 1.90)
+–0.09 (–0.55 to 0.36)
+0.58 (–0.30 to 1.45)
+0.03 (–0.53 to 0.58)
+–0.27 (–0.85 to 0.31)
+0.03 (–0.32 to 0.25)
+0.11 (–0.26 to 0.04)
+1.9 (0.55 to 3.20)
+0.03 (–1.30 to 1.40)
+–38 (–152 to 76)
+
+P
+Value
+
+0.95
+0.122
+0.84
+0.69
+0.55
+0.69
+0.198
+0.93
+0.76
+0.82
+0.143
+0.006
+0.97
+0.27
+
+Mean (95% CI)
+Between-Group
+Difference†
+
+161 (12 to 310)
+
+–1.00 (–1.60 to –0.38)
+–3.6 (–5.2 to –2.1)
+2.00 (–0.54 to 4.50)
+5.0 (3.5 to 6.5)
+0.07 (–0.40 to 0.54)
+1.9 (1.0 to 2.8)
+3.0 (2.4 to 3.5)
+1.4 (1.1 to 1.7)
+1.20 (0.86 to 1.50)
+–0.04 (–0.20 to 0.12)
+0.17 (–1.20 to 1.50)
+9.1 (7.7 to 10.0)
+–42 (–165 to 80)
+
+P
+Value
+
+0.034
+0.002
+⬍0.001
+0.124
+⬍0.001
+0.78
+⬍0.001
+⬍0.001
+⬍0.001
+⬍0.001
+0.60
+0.81
+⬍0.001
+0.152
+
+* Forty-nine participants were excluded from calculations of energy and nutrient intake because reported energy was unrealistic (see Table 2). MUFA ⫽ monounsaturated
+fatty acid; PUFA ⫽ polyunsaturated fatty acid; SFA ⫽ saturated fatty acid.
+† Adjusted for center, age, sex, and baseline body weight.
+
+6 4 July 2006 Annals of Internal Medicine Volume 145 (cid:127) Number 1
+
+www.annals.org
+
+Mediterranean Diet and Cardiovascular Risk Factors
+
+Article
+
+Table 4. Changes in Adiposity, Blood Pressure, and Cardiovascular Risk Factors*
+
+Variable
+
+Mean Changes from Baseline at 3 mo (95% CI)
+
+Mediterranean Diet with
+Olive Oil vs. Low-Fat Diet
+
+Mediterranean Diet with
+
+Nuts vs. Low-Fat Diet
+
+Mediterranean Diet
+with Virgin Olive Oil
+(n ⴝ 257)
+
+–0.19 (–0.46 to 0.07)
+–0.12 (–0.24 to 0.06)
+–0.82 (–1.80 to 0.14)
+–4.8 (–6.7 to –2.7)
+–2.5 (–3.5 to –1.5)
+
+Mediterranean Diet
+with Mixed Nuts
+(n ⴝ 257)
+
+–0.26 (–0.59 to 0.08)
+–0.09 (–0.24 to 0.05)
+–0.29 (–0.95 to 0.37)
+–6.5 (–8.7 to –4.3)
+–3.6 (–4.7 to –2.5)
+
+Low-Fat Diet
+(n ⴝ 256)
+
+Mean (95% CI)
+Between-Group
+Difference†
+
+–0.24 (–0.48 to 0.01)
+–0.21 (–0.38 to –0.05)
+–0.37 (–1.20 to 0.44)
+0.64 (–1.30 to 2.30)
+–0.85 (–1.79 to 0.09)
+
+0.01 (–0.39 to 0.42)
+0.09 (–0.12 to 0.29)
+–0.52 (–1.60 to 0.61)
+–5.9 (–8.7 to –3.1)
+–1.60 (–3.00 to –0.01)
+
+–0.21 (–0.41 to –0.01)
+–3.8 (–7.4 to –0.2)
+–9.7 (–15.3 to –3.8)
+
+–0.14 (–0.31 to 0.03)
+–2.5 (–5.5 to 0.5)
+–9.7 (–15.9 to –3.5)
+
+0.19 (–0.06 to 0.04)
+3.5 (–1.0 to 8.0)
+6.5 (–3.8 to 16.7)
+
+–0.39 (–0.72 to –0.07)
+–7.0 (–13.0 to –1.3)
+–16.7 (–27.1 to –0.4)
+
+–0.53 (–0.83 to –0.23)
+
+–0.54 (–0.82 to –0.26)
+
+0.32 (–0.15 to 0.79)
+
+–0.91 (–1.40 to –0.46)
+
+–0.10 (–0.21 to 0.01)
+–3.90 (–8.10 to 0.35)
+
+–0.13 (–0.22 to –0.04)
+–5.0 (–8.6 to –1.4)
+
+0.02 (–0.10 to 0.14)
+0.74 (–3.80 to 5.30)
+
+–0.09 (–0.25 to 0.07)
+–3.5 (–9.5 to 2.6)
+
+–0.15 (–0.25 to –0.05)
+–5.8 (–9.8 to –1.8)
+
+–0.10 (–0.19 to –0.01)
+–3.80 (–7.30 to –0.39)
+
+–0.15 (–0.12 to 0.09)
+–0.56 (–4.60 to 3.50)
+
+–0.10 (–0.25 to 0.04)
+–3.9 (–9.5 to 1.7)
+
+0.62 (0.08 to 0.04)
+2.4 (3.1 to 1.6)
+
+0.020 (0.002 to 0.050)
+0.94 (0.10 to 1.80)
+
+–0.01 (–0.03 to 0.01)
+–0.37 (–1.20 to 0.40)
+
+0.08 (0.04 to 0.10)
+2.9 (1.7 to 4.0)
+
+–0.03 (–0.13 to 0.07)
+–3.0 (–11.8 to 5.9)
+–0.32 (–0.45 to –0.18)
+
+–0.09 (–0.16 to –0.01)
+–7.6 (–14.0 to –1.1)
+–0.17 (–0.27 to –0.02)
+
+0.03 (–0.05 to 0.10)
+2.4 (–4.4 to 9.2)
+0.06 (–0.05 to 0.16)
+
+–0.08 (–0.20 to 0.04)
+–7.1 (–18.0 to 3.9)
+–0.38 (–0.55 to –0.22)
+
+P
+Value
+
+0.96
+0.40
+0.37
+⬍0.001
+0.048
+0.017
+
+0.001
+
+⬍0.001
+0.26
+
+0.177
+
+⬍0.001
+
+0.21
+
+⬍0.001
+
+Mean (95% CI)
+Between-Group
+Difference†
+
+0.01 (–0.40 to 0.43)
+0.15 (–0.06 to 0.35)
+0.12 (–1.00 to 1.30)
+–7.1 (–10.0 to –4.1)
+–2.6 (–4.2 to 1.0)
+
+–0.30 (–0.58 to –0.01)
+–5.4 (–10.5 to –0.2)
+–20.4 (–31.9 to –9.7)
+
+–1.1 (–1.6 to –0.55)
+
+–0.16 (–0.31 to –0.01)
+–6.20 (–12.00 to –0.28)
+
+–0.09 (–0.23 to 0.05)
+–3.4 (–8.9 to 2.1)
+
+0.04 (0.01 to 0.07)
+1.60 (0.45 to 2.70)
+
+–0.15 (–0.26 to –0.02)
+–13.0 (–23.0 to –1.9)
+–0.26 (–0.42 to –0.10)
+
+P
+Value
+
+0.95
+0.165
+0.84
+⬍0.001
+0.001
+0.039
+
+⬍0.001
+
+⬍0.001
+0.040
+
+0.119
+
+0.006
+
+0.022
+
+0.002
+
+Weight, kg
+BMI, kg/m2
+Waist, cm
+Systolic BP, mm Hg
+Diastolic BP, mm Hg
+Fasting glucose level
+
+mmol/L
+mg/dL
+
+Fasting insulin level,
+
+pmol/L‡
+
+HOMA index‡
+Total cholesterol
+
+level
+mmol/L
+mg/dL
+
+LDL cholesterol level
+
+mmol/L
+mg/dL
+
+HDL cholesterol
+
+level
+mmol/L
+mg/dL
+
+Triglyceride level
+
+mmol/L
+mg/dL
+
+Cholesterol–HDL
+
+cholesterol ratio
+
+* BMI ⫽ body mass index; BP ⫽ blood pressure; HDL ⫽ high-density lipoprotein; HOMA ⫽ homeostasis model assessment (a measure of insulin resistance); LDL ⫽
+low-density lipoprotein.
+† Adjusted for center, age, sex, and baseline body weight.
+‡ Determined only for 305 participants without diabetes (95 in the Mediterranean diet with olive oil group, 110 in the Mediterranean diet with nuts group, and 100 in the
+low-fat diet group).
+
+tween-diet differences in CRP levels were magniﬁed, but sta-
+tistical signiﬁcance was unchanged when we included partici-
+pants with CRP levels greater
+than 10 mg/L in the
+calculations. This did not affect the results of the other inﬂam-
+matory molecules.
+
+Subgroup Analyses
+
+We observed no differences in outcomes for any study
+group in subgroups deﬁned by center, ethnic origin, sex,
+age, baseline weight, or physical activity. However, partic-
+ipants with hypertension showed statistically signiﬁcantly
+higher reductions from baseline in systolic blood pressure
+when given each of the 2 Mediterranean diets, with mean
+changes of ⫺6.2 mm Hg (CI, ⫺8.4 to ⫺4.0 mm Hg) for
+olive oil and ⫺7.4 mm Hg (CI, ⫺9.9 to ⫺5.0 mm Hg)
+for nuts. Participants with hypertension in the low-fat diet
+group showed a mean change in systolic blood pressure of
+1.2 mm Hg (CI, ⫺1.0 to 3.4 mm Hg). Participants with
+normal blood pressure in the low-fat diet, Mediterranean
+diet with olive oil, and Mediterranean diet with nuts
+groups showed mean changes in systolic blood pressure
+of ⫺1.8 mm Hg (CI, ⫺6.7 to 3.0 mm Hg), 0.5 mm Hg
+(CI, ⫺1.4 to 2.5 mm Hg), and ⫺2.2 mm Hg (CI, ⫺4.5 to
+0.1 mm Hg), respectively. Changes in diastolic blood pres-
+sure according to blood pressure status followed a similar
+pattern (data not shown).
+
+www.annals.org
+
+DISCUSSION
+
+If the Mediterranean diet was useful in primary car-
+diovascular prevention, one would expect that persons who
+adhere to the diet show a reduction in risk factors for
+atherosclerosis. In our study, high-risk participants who
+improved their baseline Mediterranean diet after nutri-
+tional education and supplementation with virgin olive oil
+or mixed nuts showed lower blood pressure,
+improved
+lipid proﬁles, decreased insulin resistance, and reduced
+concentrations of inﬂammatory molecules compared with
+those allocated to a low-fat diet.
+
+The Mediterranean diet
+
+is high-fat because large
+amounts of monounsaturated fatty acid–rich olive oil are
+used in Mediterranean cultures (27, 28). Scientiﬁc evi-
+dence has documented the beneﬁcial effect of diets with a
+relatively high monounsaturated fatty acid content on car-
+diovascular risk factors, obesity, and diabetes (1, 28 –31)
+(Appendix Table 3, available at www.annals.org). How-
+ever, when nutritional advice is given to people with in-
+creased adiposity, clinicians are still reluctant to recom-
+mend high-fat, high–monounsaturated fatty acid diets as
+an alternative to the traditional (and less palatable) low-fat
+diets because of the belief that fat provides excess energy,
+thus promoting obesity. Because many participants in our
+study were obese or had diabetes, our results are reassuring
+
+4 July 2006 Annals of Internal Medicine Volume 145 (cid:127) Number 1 7
+
+Article Mediterranean Diet and Cardiovascular Risk Factors
+
+Figure 2. Changes from baseline in plasma concentrations of the inflammatory biomarkers in the 3 intervention groups.
+
+A. Mean changes from baseline of C-reactive protein (CRP). B. Mean changes from baseline of interleukin-6. C. Mean changes from baseline of
+intercellular adhesion molecule-1 (ICAM-1). D. Mean changes from baseline of vascular cell adhesion molecule-1 (VCAM-1). The low-fat diet followed
+the guidelines of the American Heart Association. Error bars are 95% CIs. *P ⬍ 0.018 for difference from baseline by 2-tailed t-test. †P ⬍ 0.003 for
+difference from baseline by 2-tailed t-test.
+
+in the lack of weight gain when supplementing ad libitum
+diets with sizable amounts of unsaturated fats, such as
+those contained in olive oil or nuts. Our results also add to
+the increasing evidence that diets enriched with nuts do
+not induce weight gain (32–34).
+
+Healthy diet and lifestyle are critical for preventing
+and treating hypertension (35). In our study, both Medi-
+terranean diets were associated with statistically signiﬁcant
+reductions in blood pressure in participants with hyperten-
+sion who were already receiving antihypertensive medica-
+tion. Observational studies (36, 37) and small feeding trials
+(38, 39) have suggested that increased olive oil consump-
+tion helps lower blood pressure (40). Recently, the Omni-
+Heart study (41) also reported that diets rich in monoun-
+saturated fatty acids
+sources exerted an
+antihypertensive effect. No effects on blood pressure have
+been reported for diets enriched with nuts in small trials
+(15). However, walnuts seem to have favorable effects on
+vasomotor activity (42). Furthermore, the intake of ␣-lin-
+olenic acid, the plant n-3 fatty acid that is abundant in
+
+from various
+
+8 4 July 2006 Annals of Internal Medicine Volume 145 (cid:127) Number 1
+
+walnuts, was inversely related to blood pressure in a large
+cross-sectional study (43). Participants following the Med-
+iterranean diet with nuts increased ␣-linolenic acid intake
+by an average of 1 g/d; thus, walnut consumption may
+have helped lower blood pressure. Another explanation for
+the blood pressure reduction observed with the 2 Mediter-
+ranean diet groups is the change in the overall food pat-
+tern, which was similar to that advocated in the Dietary
+Approaches to Stop Hypertension (DASH) trial (44), with
+the exception of the high content of olive oil. Salt intake
+was not restricted in our study. The blood pressure–lower-
+ing effect of the Mediterranean diets was similar to that of
+the unrestricted-sodium DASH diets (44) and was less
+than that of the low-sodium DASH diet (45). The effect
+was greater, however, than that obtained by partial substi-
+tution of carbohydrates with monounsaturated fatty acids
+in the OmniHeart study (41).
+
+The 2 Mediterranean diets were associated with lower
+fasting glucose levels in all participants and lower fasting
+insulin levels and insulin resistance in those without diabe-
+
+www.annals.org
+
+tes, thus extending previous observations of the favorable
+effects of Mediterranean diets on insulin sensitivity in pa-
+tients with the metabolic syndrome (12). Insulin resistance
+and diabetes are linked to excess energy intake, particularly
+in the form of saturated fatty acids and simple sugars, and
+to increased adiposity (46). Low-fat, high-carbohydrate di-
+ets have traditionally been advised for patients with diabe-
+tes. However, such diets may worsen metabolic control, an
+untoward effect that is not observed with high-fat diets
+based on monounsaturated fatty acid–rich oils or nuts
+(31). Frequent nut consumption has been inversely associ-
+ated with diabetes risk (47). In addition, decreased intake
+of meat and dairy products and increased ﬁber intake, as
+observed in the 2 Mediterranean diet groups, have been
+shown to reduce the incidence of diabetes in conjunction
+with lifestyle interventions (48, 49). Our results further
+support a beneﬁcial effect of healthy diets on insulin resis-
+tance.
+
+Replacing carbohydrate with dietary fat lowers triglyc-
+eride levels and increases HDL cholesterol
+levels, while
+substituting monounsaturated fatty acids for saturated fatty
+acids lowers LDL cholesterol levels (50, 51). Total fat in-
+take was high both at baseline and after 3 months, and we
+observed a similar reduction in saturated fatty acid intake
+of approximately 1% of energy in the 3 groups. However,
+the lipid proﬁle did not change in the low-fat diet group,
+while HDL cholesterol levels increased in the 2 Mediterra-
+nean diet groups, especially when olive oil was supple-
+mented. While diets enriched with various nuts have an
+established hypocholesterolemic effect (8, 15, 42), why
+substituting virgin olive oil for reﬁned olive oil has such
+beneﬁcial lipid effects is unknown. Minor olive oil constit-
+uents contained in virgin olive oils (13, 14) might explain
+these effects and merit further study. Since low-fat diets
+usually lower both LDL cholesterol and HDL cholesterol
+concentrations (52–54), a fat-rich Mediterranean diet may
+be a better nutritional option for high-risk individuals.
+
+Nut consumption in small trials has not resulted in
+lower serum triglyceride levels (15). The triglyceride-low-
+ering effect observed in participants in the Mediterranean
+diet with nuts group might be related to the increased
+intake of ␣-linolenic acid from walnuts, since ␣-linolenic
+acid consumption was inversely related to triglyceride con-
+centrations in a cross-sectional study (55).
+
+Atherosclerosis is widely viewed as an inﬂammatory
+disease (56). Epidemiologic, clinical, and experimental
+studies have shown that the Mediterranean diet (10 –12) or
+the frequent consumption of several main components of
+this dietary pattern, such as olive oil (14, 57), nuts (34,
+42), or red wine (57, 58), is associated with a lower inﬂam-
+matory status and improved endothelial function. Similar
+ﬁndings have been reported recently for other healthy di-
+etary patterns (59). We observed reduced concentrations of
+cell adhesion molecules in participants assigned to the 2
+Mediterranean diet groups, supporting the anti-inﬂamma-
+tory effects of this dietary pattern.
+
+www.annals.org
+
+Mediterranean Diet and Cardiovascular Risk Factors
+
+Article
+
+Our study has some limitations. Ensuring adherence
+to dietary instructions is difﬁcult in a feeding trial. How-
+ever, adherence to recommended dietary patterns and sup-
+plemental foods was good, as judged by self-report and
+objective measurements. On the other hand, our design
+has the strength of reproducing real-life conditions with
+home-prepared foods, reﬂecting usual practice. A second
+limitation is that nutritional education about low-fat diet
+was less intense than education about Mediterranean diets.
+In fact, fat intake was only marginally reduced in the group
+assigned to the low-fat diet. This was partly because of the
+study design but also because participants belonged to a
+Mediterranean culture, where people prefer using olive oil.
+Because the low-fat diet was not the usual diet, participants
+in this group also changed food habits in a healthy way.
+Therefore, the differences in outcomes observed between
+the Mediterranean diet groups and the low-fat diet group
+might be attributed to the supplemental foods provided.
+The duration of follow-up of only 3 months cannot be
+considered a major limitation because effects of dietary in-
+terventions on risk factors do not need a long induction
+period (44, 45, 53) and seem to persist as long as adher-
+ence is maintained (12, 48, 49).
+
+In conclusion, our results suggest that the healthy ef-
+fects of the Mediterranean diet observed in epidemiologic
+studies are exerted partly through plausible mechanisms:
+improved lipid proﬁles and reductions in blood pressure,
+insulin resistance, and systemic markers of inﬂammation.
+Our study duration was far too short to deal with clinical
+outcomes. Longer follow-up of the whole PREDIMED
+trial will eventually provide stronger evidence. In the
+meantime, an increasing body of knowledge supports the
+Mediterranean diet as a useful tool in managing individuals
+who are at high risk for CHD.
+
+From Institut d’Investigacions Biome`diques August Pi Sunyer
+(IDIBAPS), Municipal Institut for Medical Research (IMIM), University
+of Barcelona, and Catalan Institute of Health, Barcelona, Spain; Univer-
+sity of Navarra–Clı´nica Universitaria de Navarra, Pamplona, Spain; Uni-
+versity of Valencia, Valencia, Spain; University Rovira i Virgili, Reus
+(Tarragona), Spain; Instituto de la Grasa, Consejo Superior de Investi-
+gaciones Cientiﬁcas, Hospitales Universitarios Vı´rgen del Rocı´o, and San
+Pablo Health Center, Sevilla, Spain; Hospital Son Dureta, Palma de
+Mallorca, Spain; University of Malaga, Malaga, Spain; Hospital Txang-
+orritxu, Vitoria, Spain; and Hospital Carlos III, Madrid, Spain.
+
+Acknowledgments: The authors thank the Fundacio´n Patrimonio Co-
+munal Olivarero and Hojiblanca SA, California Walnut Commission,
+Borges SA, and Morella Nuts SA for donating the olive oil, walnuts,
+almonds, and hazelnuts, respectively, used in the study. They also thank
+the participants for their enthusiastic collaboration, the PREDIMED
+personnel for excellent assistance with all aspects of the trial, and Emili
+Corbella for providing expert assistance with statistical analyses.
+
+Grant Support: By the Spanish Ministry of Health (Fondo de Investi-
+gacio´n Sanitaria, Red G03/140).
+
+Potential Financial Conflicts of Interest: Consultancies: E. Ros (Cali-
+
+4 July 2006 Annals of Internal Medicine Volume 145 (cid:127) Number 1 9
+
+Article Mediterranean Diet and Cardiovascular Risk Factors
+
+fornia Walnut Commission); Honoraria: E. Ros (California Walnut
+Commission); Grants received: E. Ros (California Walnut Commission);
+Grants pending: E. Ros (California Walnut Commission).
+
+Requests for Single Reprints: Ramon Estruch, MD, PhD, Department
+of Internal Medicine, Hospital Clinic, Villarroel 170, 08036 Barcelona,
+Spain; e-mail, restruch@clinic.ub.es.
+
+Current author addresses and author contributions are available at www
+.annals.org.
+
+References
+1. Keys A, ed. Coronary heart disease in seven countries. Circulation. 1970;
+41(Suppl I):1-211.
+2. Menotti A, Keys A, Kromhout D, Nissinen A, Blackburn H, Fidanza F, et al.
+Twenty-ﬁve-year mortality from coronary heart disease and its prediction in ﬁve
+cohorts of middle-aged men in Finland, The Netherlands, and Italy. Prev Med.
+1990;19:270-8. [PMID: 2377589]
+3. Tunstall-Pedoe H, Kuulasmaa K, Ma¨ho¨nen M, Tolonen H, Ruokokoski E,
+Amouyel P. Contribution of trends in survival and coronary-event rates to
+changes in coronary heart disease mortality: 10-year results from 37 WHO
+MONICA project populations. Monitoring trends and determinants in cardio-
+vascular disease. Lancet. 1999;353:1547-57. [PMID: 10334252]
+4. Trichopoulou A, Costacou T, Bamia C, Trichopoulos D. Adherence to a
+Mediterranean diet and survival in a Greek population. N Engl J Med. 2003;
+348:2599-608. [PMID: 12826634]
+5. Knoops KT, de Groot LC, Kromhout D, Perrin AE, Moreiras-Varela O,
+Menotti A, et al. Mediterranean diet, lifestyle factors, and 10-year mortality in
+elderly European men and women: the HALE project. JAMA. 2004;292:1433-9.
+[PMID: 15383513]
+6. Knoops KT, Groot de LC, Fidanza F, Alberti-Fidanza A, Kromhout D, van
+Staveren WA. Comparison of three different dietary scores in relation to 10-year
+mortality in elderly European subjects: the HALE project. Eur J Clin Nutr. 2006.
+[PMID: 16418742]
+7. Perona JS, Can˜izares J, Montero E, Sa´nchez-Domı´nguez JM, Catala´ A,
+Ruiz-Gutie´rrez V. Virgin olive oil reduces blood pressure in hypertensive elderly
+subjects. Clin Nutr. 2004;23:1113-21. [PMID: 15380903]
+8. Zambo´n D, Sabate´ J, Mun˜oz S, Campero B, Casals E, Merlos M, et al.
+Substituting walnuts for monounsaturated fat improves the serum lipid proﬁle of
+hypercholesterolemic men and women. A randomized crossover trial. Ann Intern
+Med. 2000;132:538-46. [PMID: 10744590]
+9. Bemelmans WJ, Broer J, Feskens EJ, Smit AJ, Muskiet FA, Lefrandt JD, et
+al. Effect of an increased intake of alpha-linolenic acid and group nutritional
+education on cardiovascular risk factors: the Mediterranean Alpha-linolenic En-
+riched Groningen Dietary Intervention (MARGARIN) study. Am J Clin Nutr.
+2002;75:221-7. [PMID: 11815311]
+10. Fuentes F, Lo´pez-Miranda J, Sa´nchez E, Sa´nchez F, Paez J, Paz-Rojas E, et
+al. Mediterranean and low-fat diets improve endothelial function in hypercholes-
+terolemic men. Ann Intern Med. 2001;134:1115-9. [PMID: 11412051]
+11. Chrysohoou C, Panagiotakos DB, Pitsavos C, Das UN, Stefanadis C.
+Adherence to the Mediterranean diet attenuates inﬂammation and coagulation
+process in healthy adults: The ATTICA Study. J Am Coll Cardiol. 2004;44:
+152-8. [PMID: 15234425]
+12. Esposito K, Marfella R, Ciotola M, Di Palo C, Giugliano F, Giugliano G,
+et al. Effect of a Mediterranean-style diet on endothelial dysfunction and markers
+of vascular inﬂammation in the metabolic syndrome: a randomized trial. JAMA.
+2004;292:1440-6. [PMID: 15383514]
+13. Visioli F, Galli C. Antiatherogenic components of olive oil. Curr Atheroscler
+Rep. 2001;3:64-7. [PMID: 11123850]
+14. Beauchamp GK, Keast RS, Morel D, Lin J, Pika J, Han Q, et al. Phyto-
+chemistry: ibuprofen-like activity in extra-virgin olive oil. Nature. 2005;437:45-6.
+[PMID: 16136122]
+15. Kris-Etherton PM, Zhao G, Binkoski AE, Coval SM, Etherton TD. The
+effects of nuts on coronary heart disease risk. Nutr Rev. 2001;59:103-11. [PMID:
+11368503]
+16. Exler J, Weihrauch JL. Provisional Table on the Content of Omega-3 Fatty
+Acids and Other Fat Components in Selected Foods. Washington, DC: U.S.
+
+10 4 July 2006 Annals of Internal Medicine Volume 145 (cid:127) Number 1
+
+Department of Agriculture; 1986. Publication HNIS/PT-103.
+17. Harris WS. Alpha-linolenic acid: a gift from the land? [Editorial] Circulation.
+2005;111:2872-4. [PMID: 15939831]
+18. Nigg CR, Burbank PM, Padula C, Dufresne R, Rossi JS, Velicer WF, et al.
+Stages of change across ten health risk behaviors for older adults. Gerontologist.
+1999;39:473-82. [PMID: 10495586]
+19. Martı´nez-Gonza´lez MA, Ferna´ndez-Jarne E, Serrano-Martı´nez M, Wright
+M, Gomez-Gracia E. Development of a short dietary intake questionnaire for the
+quantitative estimation of adherence to a cardioprotective Mediterranean diet.
+Eur J Clin Nutr. 2004;58:1550-2. [PMID: 15162136]
+20. Martin-Moreno JM, Boyle P, Gorgojo L, Maisonneuve P, Fernandez-
+Rodriguez JC, Salvini S, et al. Development and validation of a food frequency
+questionnaire in Spain. Int J Epidemiol. 1993;22:512-9. [PMID: 8359969]
+21. Elosua R, Marrugat J, Molina L, Pons S, Pujol E. Validation of the Min-
+nesota Leisure Time Physical Activity Questionnaire in Spanish men. The
+MARATHOM Investigators. Am J Epidemiol. 1994;139:1197-209. [PMID:
+8209878]
+22. Krauss RM, Eckel RH, Howard B, Appel LJ, Daniels SR, Deckelbaum RJ,
+et al. AHA Dietary Guidelines: revision 2000: A statement for healthcare profes-
+sionals from the Nutrition Committee of the American Heart Association. Cir-
+culation. 2000;102:2284-99. [PMID: 11056107]
+23. Mataix J. Tablas de composicio´n de alimentos [Food composition tables]. 4th
+ed. Granada, Spain: Univ of Granada; 2003.
+24. Matthews DR, Hosker JP, Rudenski AS, Naylor BA, Treacher DF, Turner
+RC. Homeostasis model assessment: insulin resistance and beta-cell function
+from fasting plasma glucose and insulin concentrations in man. Diabetologia.
+1985;28:412-9. [PMID: 3899825]
+25. Miro´-Casas E, Covas MI, Fito´ M, Farre´-Albadalejo M, Marrugat J, de la
+Torre R. Tyrosol and hydroxytyrosol are absorbed from moderate and sustained
+doses of virgin olive oil in humans. Eur J Clin Nutr. 2003;57:186-90. [PMID:
+12548315]
+26. Issues in analysis and presentation of dietary data. In: Willett WC. Nutri-
+tional Epidemiology. New York: Oxford Univ Pr; 1998:321-45.
+27. Willett WC, Sacks F, Trichopoulou A, Drescher G, Ferro-Luzzi A, Helsing
+E, et al. Mediterranean diet pyramid: a cultural model for healthy eating. Am J
+Clin Nutr. 1995;61:1402S-1406S. [PMID: 7754995]
+28. Martı´nez-Gonza´lez MA, Sa´nchez-Villegas A. The emerging role of Mediter-
+ranean diets in cardiovascular epidemiology: monounsaturated fats, olive oil, red
+wine or the whole pattern? Eur J Epidemiol. 2004;19:9-13. [PMID: 15012018]
+29. Katan MB, Grundy SM, Willett WC. Should a low-fat, high-carbohydrate
+diet be recommended for everyone? Beyond low-fat diets. N Engl J Med. 1997;
+337:563-6; discussion 566-7. [PMID: 9262504]
+30. Kris-Etherton PM. AHA Science Advisory. Monounsaturated fatty acids and
+risk of cardiovascular disease. American Heart Association. Nutrition Committee.
+Circulation. 1999;100:1253-8. [PMID: 10484550]
+31. Ros E. Dietary cis-monounsaturated fatty acids and metabolic control in type
+2 diabetes. Am J Clin Nutr. 2003;78:617S-625S. [PMID: 12936956]
+32. Sabate´ J. Nut consumption and body weight. Am J Clin Nutr. 2003;78:
+647S-650S. [PMID: 12936960]
+33. Garcı´a-Lorda P, Megias Rangil I, Salas-Salvado´ J. Nut consumption, body
+weight and insulin resistance. Eur J Clin Nutr. 2003;57 Suppl 1:S8-11. [PMID:
+12947444]
+34. Jiang R, Jacobs DR Jr, Mayer-Davis E, Szklo M, Herrington D, Jenny NS,
+et al. Nut and seed consumption and inﬂammatory markers in the multi-ethnic
+study of atherosclerosis. Am J Epidemiol. 2006;163:222-31. [PMID: 16357111]
+35. Chobanian AV, Bakris GL, Black HR, Cushman WC, Green LA, Izzo JL
+Jr, et al. The Seventh Report of the Joint National Committee on Prevention,
+Detection, Evaluation, and Treatment of High Blood Pressure: the JNC 7 report.
+JAMA. 2003;289:2560-72. [PMID: 12748199]
+36. Psaltopoulou T, Naska A, Orfanos P, Trichopoulos D, Mountokalakis T,
+Trichopoulou A. Olive oil, the Mediterranean diet, and arterial blood pressure:
+the Greek European Prospective Investigation into Cancer and Nutrition (EPIC)
+study. Am J Clin Nutr. 2004;80:1012-8. [PMID: 15447913]
+37. Alonso A, Martı´nez-Gonza´lez MA. Olive oil consumption and reduced in-
+cidence of hypertension: the SUN study. Lipids. 2004;39:1233-8. [PMID:
+15736920]
+38. Strazzullo P, Ferro-Luzzi A, Siani A, Scaccini C, Sette S, Catasta G, et al.
+Changing the Mediterranean diet: effects on blood pressure. J Hypertens. 1986;
+4:407-12. [PMID: 3534087]
+39. Ferrara LA, Raimondi AS, d’Episcopo L, Guida L, Dello Russo A, Marotta
+
+www.annals.org
+
+T. Olive oil and reduced need for antihypertensive medications. Arch Intern
+Med. 2000;160:837-42. [PMID: 10737284]
+40. Alonso A, Ruiz-Gutierrez V, Martı´nez-Gonza´lez MA. Monounsaturated
+fatty acids, olive oil and blood pressure: epidemiological, clinical and experimental
+evidence. Public Health Nutr. 2006;9:251-7. [PMID: 16571180]
+41. Appel LJ, Sacks FM, Carey VJ, Obarzanek E, Swain JF, Miller ER 3rd, et
+al. Effects of protein, monounsaturated fat, and carbohydrate intake on blood
+pressure and serum lipids: results of the OmniHeart randomized trial. JAMA.
+2005;294:2455-64. [PMID: 16287956]
+42. Ros E, Nu´n˜ez I, Pe´rez-Heras A, Serra M, Gilabert R, Casals E, et al. A
+walnut diet improves endothelial function in hypercholesterolemic subjects: a
+randomized crossover trial. Circulation. 2004;109:1609-14. [PMID: 15037535]
+43. Djousse´ L, Arnett DK, Pankow JS, Hopkins PN, Province MA, Ellison
+RC. Dietary linolenic acid is associated with a lower prevalence of hypertension in
+the NHLBI Family Heart Study. Hypertension. 2005;45:368-73. [PMID:
+15655119]
+44. Appel LJ, Moore TJ, Obarzanek E, Vollmer WM, Svetkey LP, Sacks FM,
+et al. A clinical trial of the effects of dietary patterns on blood pressure. DASH
+Collaborative Research Group. N Engl J Med. 1997;336:1117-24. [PMID:
+9099655]
+45. Sacks FM, Svetkey LP, Vollmer WM, Appel LJ, Bray GA, Harsha D, et al.
+Effects on blood pressure of reduced dietary sodium and the Dietary Approaches
+to Stop Hypertension (DASH) diet. DASH-Sodium Collaborative Research
+Group. N Engl J Med. 2001;344:3-10. [PMID: 11136953]
+46. Franz MJ, Bantle JP, Beebe CA, Brunzell JD, Chiasson JL, Garg A, et al.
+Evidence-based nutrition principles and recommendations for the treatment and
+prevention of diabetes and related complications. Diabetes Care. 2002;25:148-
+98. [PMID: 11772915]
+47. Jiang R, Manson JE, Stampfer MJ, Liu S, Willett WC, Hu FB. Nut and
+peanut butter consumption and risk of type 2 diabetes in women. JAMA. 2002;
+288:2554-60. [PMID: 12444862]
+48. Tuomilehto J, Lindstro¨m J, Eriksson JG, Valle TT, Ha¨ma¨la¨inen H, Ilanne-
+Parikka P, et al. Prevention of type 2 diabetes mellitus by changes in lifestyle
+among subjects with impaired glucose tolerance. N Engl J Med. 2001;344:1343-
+50. [PMID: 11333990]
+49. Knowler WC, Barrett-Connor E, Fowler SE, Hamman RF, Lachin JM,
+Walker EA, et al. Reduction in the incidence of type 2 diabetes with lifestyle
+intervention or metformin. N Engl J Med. 2002;346:393-403.
+[PMID:
+
+Mediterranean Diet and Cardiovascular Risk Factors
+
+Article
+
+11832527]
+50. Mensink RP, Zock PL, Kester AD, Katan MB. Effects of dietary fatty acids
+and carbohydrates on the ratio of serum total to HDL cholesterol and on serum
+lipids and apolipoproteins: a meta-analysis of 60 controlled trials. Am J Clin
+Nutr. 2003;77:1146-55. [PMID: 12716665]
+51. Clarke R, Frost C, Collins R, Appleby P, Peto R. Dietary lipids and blood
+cholesterol: quantitative meta-analysis of metabolic ward studies. BMJ. 1997;314:
+112-7. [PMID: 9006469]
+52. Yu-Poth S, Zhao G, Etherton T, Naglak M, Jonnalagadda S, Kris-Etherton
+PM. Effects of the National Cholesterol Education Program’s Step I and Step II
+dietary intervention programs on cardiovascular disease risk factors: a meta-analy-
+sis. Am J Clin Nutr. 1999;69:632-46. [PMID: 10197564]
+53. Obarzanek E, Sacks FM, Vollmer WM, Bray GA, Miller ER 3rd, Lin PH,
+et al. Effects on blood lipids of a blood pressure-lowering diet: the Dietary Ap-
+proaches to Stop Hypertension (DASH) Trial. Am J Clin Nutr. 2001;74:80-9.
+[PMID: 11451721]
+54. Gardner CD, Coulston A, Chatterjee L, Rigby A, Spiller G, Farquhar JW.
+The effect of a plant-based diet on plasma lipids in hypercholesterolemic adults: a
+randomized trial. Ann Intern Med. 2005;142:725-33. [PMID: 15867404]
+55. Djousse´ L, Hunt SC, Arnett DK, Province MA, Eckfeldt JH, Ellison RC.
+Dietary linolenic acid is inversely associated with plasma triacylglycerol: the Na-
+tional Heart, Lung, and Blood Institute Family Heart Study. Am J Clin Nutr.
+2003;78:1098-102. [PMID: 14668270]
+56. Hansson GK. Inﬂammation, atherosclerosis, and coronary artery disease. N
+Engl J Med. 2005;352:1685-95. [PMID: 15843671]
+57. Carluccio MA, Siculella L, Ancora MA, Massaro M, Scoditti E, Storelli C,
+et al. Olive oil and red wine antioxidant polyphenols inhibit endothelial activa-
+tion: antiatherogenic properties of Mediterranean diet phytochemicals. Arterio-
+scler Thromb Vasc Biol. 2003;23:622-9. [PMID: 12615669]
+58. Estruch R, Sacanella E, Badia E, Antu´nez E, Nicola´s JM, Ferna´ndez-Sola´ J,
+et al. Different effects of red wine and gin consumption on inﬂammatory biomar-
+kers of atherosclerosis: a prospective randomized crossover trial. Effects of wine on
+inﬂammatory markers. Atherosclerosis. 2004;175:117-23. [PMID: 15186955]
+59. Lopez-Garcia E, Schulze MB, Fung TT, Meigs JB, Rifai N, Manson JE, et
+al. Major dietary patterns are related to plasma concentrations of markers of
+inﬂammation and endothelial dysfunction. Am J Clin Nutr. 2004;80:1029-35.
+[PMID: 15447916]
+
+www.annals.org
+
+4 July 2006 Annals of Internal Medicine Volume 145 (cid:127) Number 1 11
+
+Annals of Internal Medicine
+
+Current Author Addresses: Dr. Estruch: Department of Internal Med-
+icine, Hospital Clinic, Villarroel 170, 08036 Barcelona, Spain.
+Dr. Martı´nez-Gonza´lez: Department of Preventive Medicine and Public
+Health, School of Medicine–Clı´nica Universitaria de Navarra, University
+of Navarra, Irunlarrea 1, 31080 Pamplona, Navarra, Spain.
+Dr. Corella: Department of Preventive Medicine, School of Medicine,
+University of Valencia, Avda. Blasco Iba´n˜ez 15, 46010 Valencia, Spain.
+Dr. Salas-Salvado´: Human Nutrition Department, School of Medicine,
+University Rovira i Virgili, San Llorenc¸ 21, 43201 Reus (Tarragona),
+Spain.
+Dr. Ruiz-Gutie´rrez: Instituto de la Grasa, Consejo Superior de Investi-
+gaciones Cientiﬁcas, Avda. Padre Garcı´a Tejero 4, 41012 Sevilla, Spain.
+Dr. Covas: Cardiovascular Epidemiology Unit, Municipal Institut for
+Medical Research (IMIM), Barcelona, Dr. Aiguader 80, 08003 Barce-
+lona, Spain.
+Dr. Fiol: Department of Cardiology, Hospital Universitario Son Dureta,
+Andrea Doria 55, 07014 Palma de Mallorca, Spain.
+Dr. Go´mez-Gracia: Department of Epidemiology, School of Medicine,
+University of Malaga, Capus de Teatinos s/n, 29071 Ma´laga, Spain.
+Dr. Lo´pez-Sabater: Department of Nutrition and Bromatology, School
+of Pharmacy, Avda. Joan XXIII s/n, Barcelona, Spain.
+Dr. Vinyoles: Primary Care Division, Catalan Institute of Health, Gran
+Via 587, 08007 Barcelona, Spain.
+Dr. Aro´s: Department of Cardiology, Hospital Txangorritxu, Jose´ Acho-
+tegui s/n, 01009 Vitoria, Alava, Spain.
+Dr. Conde: Department of Epidemiology and Public Health, Hospitales
+Universitarios Vı´rgen del Rocı´o, Manuel Siurot s/n, 41013 Sevilla,
+Spain.
+Dr. Lahoz: Arteriosclerosis Unit, Hospital Carlos III, Sinesio Delgado
+10, 28029 Madrid, Spain.
+Dr. Lapetra: San Pablo Health Center, Damasco s/n, 41007 Sevilla,
+Spain.
+Dr. Sa´ez: Department of Biochemistry, School of Medicine, University
+of Valencia, Avda. Blasco Iba´n˜ez 15, 46010 Valencia, Spain.
+Dr. Ros: Lipid Clinic, Endocrinology and Nutrition Service, Hospital
+Clinic, Villarroel 170, 08036 Barcelona, Spain.
+
+Author Contributions: Conception and design: R. Estruch, M. ´A. Mar-
+tı´nez-Gonza´lez, D. Corella, J. Salas-Salvado´, V. Ruiz-Gutie´rrez, M.I. Co-
+vas, M. Fiol, E. Go´mez-Gracia, M. Conde, C. Lahoz, J. Lapetra, G. Sa´ez,
+E. Ros.
+Analysis and interpretation of the data: R. Estruch, M. ´A. Martı´nez-
+Gonza´lez, D. Corella, J. Salas-Salvado´, V. Ruiz-Gutie´rrez, M.I. Covas, E.
+Go´mez-Gracia, M.C. Lo´pez-Sabater, J. Lapetra, G. Sa´ez, E. Ros.
+Drafting of the article: R. Estruch, M. ´A. Martı´nez-Gonza´lez, D. Corella,
+J. Salas-Salvado´, V. Ruiz-Gutie´rrez, M.I. Covas, F. Aro´s, C. Lahoz, G.
+Sa´ez, E. Ros.
+Critical revision of the article for important intellectual content: R. Es-
+truch, M. ´A. Martı´nez-Gonza´lez, D. Corella, J. Salas-Salvado´, V. Ruiz-
+Gutie´rrez, M.I. Covas, M. Fiol, E. Go´mez-Gracia, M.C. Lo´pez-Sabater,
+M. Conde, J. Lapetra, G. Sa´ez, E. Ros.
+Final approval of the article: R. Estruch, M. ´A. Martı´nez-Gonza´lez, D.
+Corella, J. Salas-Salvado´, V. Ruiz-Gutie´rrez, M.I. Covas, M. Fiol, E.
+Go´mez-Gracia, E. Vinyoles, M. Conde, J. Lapetra, G. Sa´ez, E. Ros.
+Provision of study materials or patients: R. Estruch, M. ´A. Martı´nez-
+Gonza´lez, D. Corella, J. Salas-Salvado´, V. Ruiz-Gutie´rrez, M.I. Covas,
+M. Fiol, E. Go´mez-Gracia, E. Vinyoles, M. Conde, C. Lahoz, J. Lapetra,
+G. Sa´ez, E. Ros.
+Statistical expertise: R. Estruch, M. ´A. Martı´nez-Gonza´lez, D. Corella, J.
+Salas-Salvado´, M.I. Covas, G. Sa´ez, E. Ros.
+Obtaining of funding: R. Estruch, M. ´A. Martı´nez-Gonza´lez, D. Corella,
+J. Salas-Salvado´, V. Ruiz-Gutie´rrez, M.I. Covas, M. Fiol, E. Go´mez-
+Gracia, M. Conde, J. Lapetra, G. Sa´ez, E. Ros.
+
+www.annals.org
+
+Administrative, technical, or logistic support: R. Estruch, M. ´A. Mar-
+tı´nez-Gonza´lez, D. Corella, J. Salas-Salvado´, V. Ruiz-Gutie´rrez, M.I. Co-
+vas, E. Go´mez-Gracia, E. Vinyoles, F. Aro´s, M. Conde, J. Lapetra, G.
+Sa´ez, E. Ros.
+Collection and assembly of data: R. Estruch, M. ´A. Martı´nez-Gonza´lez,
+D. Corella, J. Salas-Salvado´, M.I. Covas, E. Go´mez-Gracia, F. Aro´s, J.
+Lapetra, G. Sa´ez, E. Ros.
+
+60. Michalsen A, Lehmann N, Pithan C, Knoblauch NT, Moebus S, Kannen-
+berg F, et al. Mediterranean diet has no effect on markers of inﬂammation and
+metabolic risk factors in patients with coronary artery disease. Eur J Clin Nutr.
+2006;60:478-85. [PMID: 16306923]
+61. Stachowska E, Wesołowska T, Olszewska M, Safranow K, Millo B,
+Doman´ski L, et al. Elements of Mediterranean diet improve oxidative status in
+blood of kidney graft recipients. Br J Nutr. 2005;93:345-52. [PMID: 15877874]
+62. Vincent-Baudry S, Defoort C, Gerber M, Bernard MC, Verger P, Helal O,
+et al. The Medi-RIVAGE study: reduction of cardiovascular disease risk factors
+after a 3-mo intervention with a Mediterranean-type diet or a low-fat diet. Am J
+Clin Nutr. 2005;82:964-71. [PMID: 16280426]
+63. Bravo-Herrera MD, Lo´pez-Miranda J, Marı´n C, Go´mez P, Go´mez MJ,
+Moreno JA, et al. Tissue factor expression is decreased in monocytes obtained
+from blood during Mediterranean or high carbohydrate diets. Nutr Metab Car-
+diovasc Dis. 2004;14:128-32. [PMID: 15330271]
+64. Rodrı´guez-Villar C, Pe´rez-Heras A, Mercade´ I, Casals E, Ros E. Compar-
+ison of a high-carbohydrate and a high-monounsaturated fat, olive oil-rich diet on
+the susceptibility of LDL to oxidative modiﬁcation in subjects with Type 2 dia-
+betes mellitus. Diabet Med. 2004;21:142-9. [PMID: 14984449]
+65. Søndergaard E, Møller JE, Egstrup K. Effect of dietary intervention and
+lipid-lowering treatment on brachial vasoreactivity in patients with ischemic heart
+disease and hypercholesterolemia. Am Heart
+[PMID:
+12766751]
+66. Toobert DJ, Glasgow RE, Strycker LA, Barrera M Jr, Radcliffe JL, Wander
+RC, et al. Biologic and quality-of-life outcomes from the Mediterranean Lifestyle
+Program: a randomized clinical trial. Diabetes Care. 2003;26:2288-93. [PMID:
+12882850]
+67. Singh N, Graves J, Taylor PD, MacAllister RJ, Singer DR. Effects of a
+‘healthy’ diet and of acute and long-term vitamin C on vascular function in
+healthy older subjects. Cardiovasc Res. 2002;56:118-25. [PMID: 12237172]
+68. Mezzano D, Leighton F, Martı´nez C, Marshall G, Cuevas A, Castillo O, et
+al. Complementary effects of Mediterranean diet and moderate red wine intake
+on haemostatic cardiovascular risk factors. Eur J Clin Nutr. 2001;55:444-51.
+[PMID: 11423921]
+69. Pe´rez-Jime´nez F, Lo´pez-Miranda J, Pinillos MD, Go´mez P, Paz-Rojas E,
+Montilla P, et al. A Mediterranean and a high-carbohydrate diet improve glucose
+metabolism in healthy young persons. Diabetologia. 2001;44:2038-43. [PMID:
+11719836]
+70. Ferro-Luzzi A, Strazzullo P, Scaccini C, Siani A, Sette S, Mariani MA, et al.
+Changing the Mediterranean diet: effects on blood lipids. Am J Clin Nutr. 1984;
+40:1027-37. [PMID: 6496382]
+
+J. 2003;145:E19.
+
+APPENDIX: OTHER PREDIMED INVESTIGATORS
+
+Hospital Clinic, Institut d’Investigacions Biome`diques Au-
+gust Pi Sunyer, Barcelona, Spain: Merce` Serra, RD; Ana Pe´rez-
+Heras, RD; Emilio Sacanella, MD, PhD; Daniel Zambo´n, MD,
+PhD; Mo´nica Va´zquez-Agell, PhD.
+
+University of Navarra, Primary Care Division, Pamplona,
+
+Spain: Manuel Serrano, MD, PhD; Pilar Buil, MD, PhD.
+
+University of Valencia, Valencia, Spain: Olga Portole´s,
+
+PhD; Jose´ Vicente Sorlı´, MD.
+
+University Rovira i Virgili, Reus (Tarragona), Spain: Josep
+Basora, MD, PhD; Rosa Sola`, MD, PhD; Mo´nica Bullo´, PhD.
+Instituto de la Grasa, Consejo Superior de Investigaciones
+
+Cientiﬁcas, Sevilla, Spain: Javier S. Perona, PhD
+
+Municipal Institute for Medical Research, Barcelona, Spain:
+
+4 July 2006 Annals of Internal Medicine Volume 145 • Number 1 W-1
+
+Montserrat Fito´, PhD; Jaime Marrugat, MD, PhD; Roberto Elo-
+su´a, MD, PhD.
+
+University of Ma´laga, Ma´laga, Spain: Juan Jose´ Sa´nchez-
+
+Luque, MD, PhD; Virginia Velasco-Garcı´a, MD.
+
+University of Barcelona, Barcelona, Spain: Rosa Lamuela-
+
+Ravento´s, MD, PhD.
+
+University Institute for Health Sciences Investigation, Palma
+de Mallorca, Spain: Fernando Rigo, MD; Guillem Frontera,
+MD.
+
+Primary Care Division, Catalan Institute of Health, Barce-
+
+lona, Spain: Carmen Cabezas, MD.
+
+Hospital Txagorritxu, Vitoria, Spain: Jesu´s San Vicente,
+
+MD; Jaime Algorta, MD, PhD
+
+Hospital Virgen del Rocı´o, Sevilla, Spain: Adoracio´n Nieto,
+
+MD, PhD.
+
+Hospital Carlos III, Madrid, Spain: Jose´ M. Mostaza, MD,
+
+PhD.
+
+San Pablo Health Center, Sevilla, Spain: Pablo Iglesias, MD;
+
+Jose´ Manuel Santos, MD.
+
+W-2 4 July 2006 Annals of Internal Medicine Volume 145 • Number 1
+
+www.annals.org
+
+Appendix Table 1. Quantitative Score of Adherence to the Mediterranean Diet
+
+Foods and Frequency of Consumption
+
+1. Do you use olive oil as main culinary fat?
+2. How much olive oil do you consume in a given day (including oil used for frying, salads, out-of-house meals, etc.)?
+3. How many vegetable servings do you consume per day? (1 serving ⫽ 200 g [consider side dishes as half a serving])
+4. How many fruit units (including natural fruit juices) do you consume per day?
+5. How many servings of red meat, hamburger, or meat products (ham, sausage, etc.) do you consume per day?
+
+(1 serving ⫽ 100–150 g)
+
+6. How many servings of butter, margarine, or cream do you consume per day? (1 serving ⫽ 12 g)
+7. How many sweet or carbonated beverages do you drink per day?
+8. How much wine do you drink per week?
+9. How many servings of legumes do you consume per week? (1 serving ⫽ 150 g)
+10. How many servings of fish or shellfish do you consume per week? (1 serving ⫽ 100–150 g of fish or 4–5 units or
+
+200 g of shellfish)
+
+11. How many times per week do you consume commercial sweets or pastries (not homemade), such as cakes, cookies,
+
+biscuits, or custard?
+
+12. How many servings of nuts (including peanuts) do you consume per week? (1 serving ⫽ 30 g)
+13. Do you preferentially consume chicken, turkey, or rabbit meat instead of veal, pork, hamburger, or sausage?
+14. How many times per week do you consume vegetables, pasta, rice, or other dishes seasoned with sofrito (sauce made
+
+with tomato and onion, leek, or garlic and simmered with olive oil)?
+
+* 0 points if these criteria are not met.
+
+Criteria for 1 Point*
+
+Yes
+ⱖ4 tbsp
+ⱖ2 (ⱖ1 portion raw or as salad)
+ⱖ3
+⬍1
+
+⬍1
+⬍1
+ⱖ3 glasses
+ⱖ3
+ⱖ3
+
+⬍3
+
+ⱖ1
+Yes
+ⱖ2
+
+Appendix Table 2. Fatty Acid, Tocopherol, and Sterol Composition of Virgin Olive Oil and Nuts Used in the Trial*
+
+Constituents
+
+Total fat, %
+
+Palmitic acid
+Stearic acid
+Oleic acid
+Linoleic acid
+␣-Linolenic acid
+
+␣-Tocopherol, mg/100 g
+␤-Tocopherol, mg/100 g
+␥-Tocopherol, mg/100 g
+Total sterols, mg/100 g
+
+␤-Sitosterol, %
+Campesterol, %
+⌬-5-Avenasterol, %
+
+Olive Oil
+
+100
+8.2 (0.2)
+3.2 (0.1)
+75.0 (0.8)
+6.8 (0.2)
+0.4 (0.0)
+14.7 (0.0)
+4.3 (0.0)
+0.4 (0.0)
+155.8 (0.0)
+95.5 (0.1)
+3.2 (0.0)
+⬍0.1
+
+Walnuts
+
+62.9 (0.3)
+6.3 (0.0)
+2.6 (0.0)
+14.0 (0.3)
+61.3 (0.4)
+14.3 (0.1)
+4.9 (0.1)
+2.0 (0.1)
+50.2 (1.3)
+198.5 (7.8)
+84.0 (0.8)
+5.3 (0.0)
+7.6 (0.9)
+
+Almonds
+
+50.2 (0.2)
+7.4 (0.1)
+1.8 (0.0)
+61.2 (0.4)
+26.7 (0.2)
+0.1 (0.0)
+48.4 (0.9)
+5.4 (0.9)
+6.0 (0.2)
+224.2 (25.4)
+79.1 (0.5)
+3.3 (0.0)
+6.3 (1.2)
+
+Hazelnuts
+
+53.2 (0.3)
+7.4 (0.1)
+1.9 (0.1)
+72.1 (0.2)
+13.3 (0.2)
+0.8 (0.0)
+38.8 (1.5)
+8.8 (1.5)
+20.7 (0.4)
+174.6 (8.6)
+82.8 (1.1)
+5.2 (0.1)
+11.1 (0.2)
+
+* Values are means (SD) of 6 measurements of random samples from different lots.
+
+www.annals.org
+
+4 July 2006 Annals of Internal Medicine Volume 145 • Number 1 W-3
+
+Appendix Table 3. Randomized Feeding Trials Comparing a Mediterranean Diet with Other Healthy Diets for Intermediate
+Cardiovascular Outcomes*
+
+Author, Year (Reference)
+
+Country
+
+Study Sample
+
+Study Design
+
+Duration Main Outcomes
+
+Results†
+
+Michalsen et al.,
+
+2006 (60)
+
+Stachowska et al.,
+
+2005 (61)
+
+Vincent-Baudry et al.,
+
+2005 (62)
+
+Bravo-Herrera et al.,
+
+2004 (63)
+
+Germany
+
+101 patients with CHD
+
+Poland
+
+France
+
+Spain
+
+37 kidney graft
+
+recipients
+
+212 men and women
+with ⱖ1 risk factor
+41 healthy participants
+
+Parallel group: Mediterranean
+
+diet vs. low-fat diet
+
+Parallel group: Mediterranean
+
+diet vs. low-fat diet
+
+Parallel group: Mediterranean
+
+diet vs. low-fat diet
+
+Crossover: Mediterranean diet
+vs. low-fat diet vs. high-fat,
+high-saturated fat diet
+
+1 y
+
+6 mo
+
+3 mo
+
+3 mo
+
+Esposito et al., 2004 (12)
+
+Italy
+
+Rodrı´guez-Villar et al.,
+
+2004 (64)
+
+Ros et al., 2004 (42)
+
+Spain
+
+Spain
+
+180 participants with
+
+the metabolic
+syndrome
+
+Parallel group: Mediterranean
+
+diet vs. prudent western diet
+
+24 mo
+
+21 patients with type 2
+
+diabetes mellitus
+21 participants with
+
+hypercholesterolemia
+
+Crossover: Mediterranean diet
+
+vs. low-fat diet
+
+Crossover: Mediterranean diet
+
+vs. a similar diet where
+walnuts replaced 32% of
+energy from MUFAs
+
+6 wk
+
+4 wk
+
+Lipid profile, insulin, CRP,
+
+fibrinogen,
+homocysteine
+
+Oxidative status in plasma
+
+and red blood cells
+
+BMI, lipids, glucose,
+
+insulin, homocysteine
+
+Lipids, tissue factor
+
+expression by
+circulating monocytes
+
+BMI, BP, insulin resistance,
+
+lipid profile,
+endothelial function,
+inflammatory markers
+
+Glycemic control, lipids,
+
+LDL oxidizability
+
+Endothelial function in the
+
+brachial artery,
+adhesion molecules,
+CRP, lipid profile,
+homocysteine,
+oxidation biomarkers
+
+No differences in changes of risk
+
+factors or inflammatory
+markers
+
+Decreased oxidative status
+
+No differences in changes of risk
+
+factors
+
+Improvement in all outcomes
+
+except lower HDL cholesterol
+levels vs. high-fat diet; no
+differences vs. low-fat diet
+Improvement in all outcomes
+
+Reduced VLDL lipid levels; no
+effect on other outcomes
+
+Reduced endothelium-dependent
+
+vasodilatation; increased
+levels of VCAM-1, total
+cholesterol, and LDL
+cholesterol
+
+Søndergaard et al.,
+
+2003 (65)
+
+Denmark
+
+Toobert et al., 2003 (66)
+
+United States
+
+131 patients with CHD
+
+and
+hypercholesterolemia
+
+279 postmenopausal
+
+women with type 2
+diabetes mellitus
+
+Singh et al., 2002 (67)
+
+United Kingdom
+
+54 healthy participants
+
+Fuentes et al., 2001 (10)
+
+Spain
+
+22 men with
+
+hypercholesterolemia
+
+Mezzano et al.,
+
+2001 (68)
+
+Pe´ rez-Jime´ nez et al.,
+
+2001 (69)
+
+Chile
+
+Spain
+
+Zambo´ n et al., 2000 (8)
+
+Spain
+
+Ferro-Luzzi et al.,
+
+1984 (70)
+
+Strazzullo et al.,
+
+1986 (38)
+
+Italy
+
+Italy
+
+42 healthy participants
+
+59 healthy participants
+
+49 patients with
+
+hypercholesterolemia
+
+48 healthy participants
+
+57 healthy participants
+
+Parallel group: Mediterranean
+
+diet vs. usual diet; both
+groups received fluvastatin,
+40 mg
+
+Parallel group: Mediterranean
+diet nutrition education vs.
+usual diet
+
+Parallel group: Mediterranean
+
+diet vs. vitamin C, 1 g/d, vs.
+placebo
+
+Crossover: Mediterranean diet
+
+vs. low-fat diet after baseline
+high-fat, high–saturated-fat
+diet
+
+Parallel group: Mediterranean
+diet vs. high-fat diet; wine
+was added after the second
+month
+
+Crossover: Mediterranean diet
+
+vs. low-fat diet after baseline
+high-fat, high–saturated-fat
+diet
+
+Crossover trial: Mediterranean
+diet vs. a similar diet where
+walnuts replaced 35% of
+energy from MUFAs
+
+Sequential: Mediterranean diet
+
+vs. high-fat western diet
+
+Sequential: Mediterranean diet
+
+vs. high-fat western diet
+
+12 mo
+
+Endothelial function in the
+
+brachial artery
+
+Improved outcome
+
+6 mo
+
+6 wk
+
+4 wk
+
+90 d
+
+4 wk
+
+6 wk
+
+6 wk
+
+6 wk
+
+BMI, BP, glycemic control,
+
+lipids, quality of life
+
+Improvements in BMI, glycemic
+
+control, and quality of life
+
+Forearm blood flow by
+
+venous occlusion
+plethysmography
+
+Lipids, endothelial
+
+function in the brachial
+artery, inflammatory
+markers
+
+Prothrombotic and
+
+profibrinolytic factors
+
+Lipids, free fatty acids,
+
+insulin sensitivity,
+glucose uptake by
+isolated monocytes
+
+Lipid profile, LDL
+
+resistance to in vitro
+oxidative stress
+
+Improved outcome
+
+Improvement of all outcomes vs.
+
+baseline; marginal
+improvement of
+endothelium-dependent
+vasodilatation vs. low-fat diet
+
+Improved outcomes;
+
+improvement enhanced by
+addition of wine
+
+Improvement of all outcomes
+
+except reduced HDL
+cholesterol levels vs. baseline;
+no differences vs. low-fat diet
+Higher total and LDL cholesterol
+levels, other outcomes similar
+
+Lipid profile
+
+BP
+
+Lower total and LDL cholesterol
+
+levels
+
+Lower systolic BP
+
+* With the exception of 2 widely cited Italian papers from the 1980s (38, 70), which were not randomized, we included only randomized feeding trials with intermediate
+outcomes in which 1 diet was a Mediterranean diet containing at least 15% energy as MUFA derived in part from olive oil. BMI ⫽ body mass index; BP ⫽ blood pressure;
+CHD ⫽ coronary heart disease; CRP ⫽ C-reactive protein; HDL ⫽ high-density lipoprotein; LDL ⫽ low-density lipoprotein; MUFA ⫽ monounsaturated fatty acid;
+VCAM-1 ⫽ vascular cell adhesion molecule-1; VLDL ⫽ very-low-density lipoprotein.
+† Mediterranean diet vs. comparator diet(s).
+
+W-4 4 July 2006 Annals of Internal Medicine Volume 145 • Number 1
+
+www.annals.org
+
+

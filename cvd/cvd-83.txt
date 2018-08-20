@@ -1,0 +1,1817 @@
+Available online at www.sciencedirect.com
+
+Journal of Nutritional Biochemistry 19 (2008) 643 – 654
+
+REVIEWS: CURRENT TOPICS
+
+The possible roles of food-derived bioactive peptides in reducing the
+
+risk of cardiovascular disease
+
+Kati Erdmann, Belinda W.Y. Cheung, Henning Schröder ⁎
+
+Department of Pharmaceutics, College of Pharmacy, University of Minnesota, Minneapolis, MN 55455, USA
+
+Received 2 October 2007; accepted 26 November 2007
+
+Abstract
+
+Vascular diseases such as atherosclerosis, stroke or myocardial infarction are a significant public health problem worldwide. Attempts to
+prevent vascular diseases often imply modifications and improvement of causative risk factors such as high blood pressure, obesity, an
+unfavorable profile of blood lipids or insulin resistance. In addition to numerous preventive and therapeutic drug regimens, there has been
+increased focus on identifying dietary compounds that may contribute to cardiovascular health in recent years. Food-derived bioactive
+peptides represent one such source of health-enhancing components. They can be released during gastrointestinal digestion or food
+processing from a multitude of plant and animal proteins, especially milk, soy or fish proteins. Biologically active peptides are considered to
+promote diverse activities,
+immunomodulatory, antimicrobial, antioxidant, antithrombotic,
+hypocholesterolemic and antihypertensive actions. By modulating and improving physiological functions, bioactive peptides may provide
+new therapeutic applications for the prevention or treatment of chronic diseases. As components of functional foods or nutraceuticals with
+certain health claims, bioactive peptides are of commercial interest as well. The current review centers on bioactive peptides with properties
+relevant to cardiovascular health.
+© 2008 Elsevier Inc. All rights reserved.
+
+including opiate-like, mineral binding,
+
+Keywords: Antihypertensive; Antioxidant; Antithrombotic; Bioactive peptides; Cardiovascular disease; Hypocholesterolemic/hypotriglyceridemic
+
+1. Introduction
+
+Biologically active peptides are food-derived peptides that
+exert — beyond their nutritional value — a physiological,
+hormone-like effect in humans. They are found in milk, egg,
+meat and fish of various kinds as well as in many plants.
+Bioactive peptides are inactive within the sequence of their
+parent protein and can be released by enzymatic hydrolysis
+either during gastrointestinal digestion or during food
+processing (e.g., cheese ripening and milk fermentation).
+They usually contain 2–20 amino acid residues per molecule,
+but in some cases may consist of more than 20 amino acids.
+Following digestion, bioactive peptides can either be
+absorbed through the intestine to enter the blood circulation
+intact and exert systemic effects, or produce local effects in
+the gastrointestinal
+tract. Depending on the sequence of
+amino acids, these peptides can exhibit diverse activities,
+
+including opiate-like, mineral binding, immunomodulatory,
+antimicrobial, antioxidant, antithrombotic, hypocholestero-
+lemic, and antihypertensive actions [1–4]. Many of the
+known bioactive peptides are multifunctional and can exert
+more than one of the effects mentioned [5–7]. Because of
+their health-enhancing potential and safety profiles they may
+be used as components in functional foods or nutraceuticals.
+However, milk proteins are currently the main source of
+several biofunctional peptides and daily intake of milk and
+milk products has proved to be physiologically important to
+both neonates and adults [8–10].
+
+This review centers on bioactive peptides with proper-
+ties relevant to cardiovascular health including effects on
+blood pressure, oxidative stress, hemostasis, appetite and
+lipid metabolism.
+
+2. Cardiovascular disease and nutraceuticals
+
+⁎ Corresponding author. Tel.: +1 612 625 5695; fax: +1 612 624 6695.
+E-mail address: schro601@umn.edu (H. Schröder).
+
+Cardiovascular disease (CVD) is the single leading cause
+of death for both males and females in the United States
+
+0955-2863/$ – see front matter © 2008 Elsevier Inc. All rights reserved.
+doi:10.1016/j.jnutbio.2007.11.010
+
+644
+
+K. Erdmann et al. / Journal of Nutritional Biochemistry 19 (2008) 643–654
+
+and other technologically advanced countries in the world.
+In lesser-developed countries it generally ranks among the
+top five causes of death. The World Health Organization
+estimates that by 2020, heart disease and stroke will have
+surpassed infectious diseases to become the leading cause
+of death and disability worldwide [11]. Consequently, there
+has been an increased focus on improving diet and lifestyle
+as a strategy for CVD risk reduction. Current dietary advice
+to reduce risk of CVD includes substituting saturated fat
+with carbohydrate without changing the protein content. In
+the USA,
+the DASH-diet (Dietary Approaches to Stop
+Hypertension), which is rich in fruits, vegetables and low-
+fat dairy products, is recommended to meet this objective.
+The DASH-diet is based on a reduced intake of saturated
+fat that is replaced by carbohydrate. Such high-carbohy-
+drate, low-protein diets are known to reduce blood pressure
+and low-density lipoprotein (LDL) cholesterol [8,12], but
+also to reduce high-density lipoprotein (HDL) cholesterol
+levels and to raise fasting triglycerides [13,14]. Recent
+evidence suggests that an increased consumption of protein,
+particularly plant protein, may further lower the risk of
+hypertension and CVD [15,16]. The OmniHeart (Optimal
+Macro-Nutrient
+trial
+demonstrated that partial substitution of carbohydrate with
+protein sources low in saturated fat can lower blood
+pressure, improve lipid levels, facilitate short-term weight
+loss and reduce the risk of CVD [17]. The mechanisms by
+which protein could exert its beneficial effects include an
+increased intake of biologically active amino acids or
+peptides [18,19].
+
+Intake to Prevent Heart Disease)
+
+These and other findings have increased the awareness of
+the critical link between diet and health. Moreover, they have
+led to the development of nutritionally enhanced food
+products designed to suit specific health concerns, particu-
+larly with relevance to the management of lifestyle-related
+diseases. Such foods, termed functional foods or nutraceu-
+ticals, are generally defined as products that have been
+satisfactorily demonstrated to have positive effects on one or
+more functions in the body, beyond their nutritional proper-
+ties, in a way which is relevant to either an improved state of
+health and well-being and/or a reduction of disease risk.
+They should remain as foods or beverages and not
+in
+pharmaceutical forms such as tablets or capsules. As part of a
+normal dietary regimen they must demonstrate their effects
+in amounts that are reasonably expected to be consumed in
+the diet. The physiologically active components of func-
+tional foods are either added or enriched by modification of
+the usual manufacturing process. Consequently, increasing
+attention has focused on identifying dietary compounds,
+from plants (i.e., phytochemicals) as well as animals (i.e.,
+zoochemicals), for promotion of specific health benefits
+[20,21]. Based on observations made in human studies over
+the last several years such as the already mentioned
+OmniHeart trial, bioactive peptides have gained scientific
+interest as constituents of nutraceuticals for their potential in
+disease prevention and health improvement.
+
+3. Antihypertensive (ACE inhibitory) peptides
+
+Elevated blood pressure is one of the major independent
+risk factors for CVD [22,23]. Angiotensin I-converting
+enzyme (ACE) plays a crucial role in the regulation of
+blood pressure as it promotes the conversion of angiotensin
+I to the potent vasoconstrictor angiotensin II as well as
+inactivates the vasodilator bradykinin (Fig. 1). By inhibit-
+ing these processes, synthetic ACE inhibitors have long
+been used as antihypertensive agents. In recent years, some
+food proteins have been identified as sources of ACE
+inhibitory peptides and are currently the best known class
+of bioactive peptides [24]. These nutritional peptides have
+received considerable attention for their effectiveness in
+both the prevention and the treatment of hypertension. The
+main sources of ACE inhibitory peptides are dairy products
+and fish, but they are also derived from plant (e.g., soy,
+wheat), meat and egg. Potent ACE inhibitory peptides from
+caseins and whey proteins are termed casokinins and
+lactokinins, respectively [2,24–26].
+
+Numerous studies in spontaneously hypertensive rats
+(SHR) as well as in hypertensive human volunteers have
+been performed to determine the antihypertensive effects of
+food-derived ACE inhibitors. These in vivo studies have
+demonstrated that several ACE inhibitory peptides signifi-
+cantly reduce blood pressure, either after intravenous or oral
+administration. ACE inhibitory peptides with documented in
+vivo antihypertensive effects are listed in Table 1. An
+important observation from these trials is that the peptides
+being studied have little or no effect on blood pressure of
+normotensive subjects suggesting that they exert no acute
+hypotensive effect. Therefore, ACE inhibitory peptides
+could be applied as initial treatment in mildly hypertensive
+individuals or as supplemental treatment. They would also
+represent a low-cost alternative treatment for hypertension.
+Another advantage is that these peptides have not been
+associated with the harmful side effects reported for
+synthetic ACE inhibitors such as dry cough, skin rashes
+and angioedema, probably due to the lower ACE inhibitory
+activity determined in vitro [24,38].
+
+Fig. 1. The renin–angiotensin system.
+
+K. Erdmann et al. / Journal of Nutritional Biochemistry 19 (2008) 643–654
+
+Table 1
+Examples of ACE inhibitory peptides with in vivo antihypertensive effects
+
+Origin
+Milk (β-casein)
+
+Milk (β-lactoglobulin)
+
+Fish (sardine muscle)
+Fish (bonito muscle)
+
+Meat (chicken muscle)
+
+Meat (porcine muscle)
+
+Egg (ovalbumin)
+Soy (glycinin)
+Wheat (gliadin)
+
+Sequence/name
+
+VPP
+IPP
+IPA (β-lactosin A)
+ALPM (β-lactosin B)
+VY
+LKPNM
+LKP
+LKP
+IKW
+LAP
+MNPPK (myopentapeptide A)
+ITTNP (myopentapeptide B)
+LW
+NWGPLV
+IAP
+
+IC50 (μmol/L)
+
+9.0
+5.0
+141.0
+928.0
+26.0
+2.4
+0.32
+0.32
+0.21
+3.5
+945.5
+549.0
+6.8
+21
+2.7
+
+Subjects
+
+SHR, humans
+
+SHR
+
+SHR, humans
+SHR
+
+SHR
+
+SHR
+
+SHR
+SHR
+SHR
+
+645
+
+Reference
+
+[27,28]
+
+[29,30]
+
+[31,32]
+[33]
+
+[34]
+
+[35]
+
+[34]
+[36]
+[37]
+
+The potency of an ACE inhibitor is usually expressed as
+an IC50 value, which is the inhibitor concentration leading to
+50% inhibition of ACE activity. The majority of milk protein-
+derived ACE inhibitors have moderate inhibitory potencies,
+usually within an IC50 range of 100–500 μmol/L [39]. Due to
+the incomplete and often unknown bioavailability of the
+ACE inhibitory peptides following oral administration, it is
+difficult and unreliable to predict the in vivo antihypertensive
+effect based on measured inhibitory activity in vitro. In order
+to produce antihypertensive effects in vivo the peptides have
+to be absorbed intact through the intestine and reach the
+cardiovascular system in an active form. In this regard,
+specific structural properties play an important role. Most of
+the ACE inhibitory peptides are short peptides with only two
+to nine amino acids. It has been demonstrated that di- or
+tripeptides, especially those with C-terminal proline or
+hydroxyproline residues, are generally resistant to degrada-
+tion by digestive enzymes [40,41]. In addition, short peptides
+consisting of two or three amino acids are absorbed more
+rapidly than free amino acids [42,43]. The ACE inhibitory
+tripeptides IPP and VPP, for example, were detected in the
+aorta of SHR, following oral administration of fermented
+milk [44]. Larger peptides (10–51 amino acids) present in the
+diet can also be absorbed intact through the intestine and
+produce biological effects, although the potency of the
+peptides decreases as the chain length increases [45].
+However, binding to ACE appears to be strongly influenced
+by the C-terminal sequence of the peptides. It has been
+postulated that proline, lysine or arginine is preferred as C-
+terminal residue and thus contributes to the ACE inhibitory
+potency [4]. Furthermore, studies in SHR revealed that
+dipeptides with a C-terminal tyrosine residue produced a
+slow but prolonged decrease in systolic blood pressure
+compared to dipeptides with phenylalanine at the C-terminal.
+In contrast, dipeptides with C-terminal phenylalanine caused
+a more rapid reduction and a shorter duration of action [46].
+Table 2 presents examples of structural properties of selected
+biofunctional peptides.
+
+In vivo comparative studies with captopril, a clinically
+used ACE inhibitor, have shown that ACE inhibitory
+peptides with antihypertensive effect exhibit higher in vivo
+activity than would be expected from their in vitro activity.
+The exact mechanisms underlying this observation have not
+yet been identified. Fujita and Yoshikawa [33] suggested that
+bioactive peptides have higher tissue affinities and are
+subject to a slower elimination than captopril.
+
+However, these peptides may influence blood pressure by
+mechanisms other than the established ACE inhibition. The
+release of vasodilatory substances like prostaglandin I2 [59],
+NO [60] or CO [61] could also contribute to the blood
+pressure-lowering effects of various ACE inhibitory pep-
+tides. Recently, Nurminen et al. [62] reported that
+the
+antihypertensive effect of α-lactorphin, a peptide with
+opiate-like and ACE inhibitory properties, was mediated
+through the vasodilatory action of binding to opioid
+receptors. Furthermore,
+inhibition of chymase by ACE
+inhibitory peptides has been suggested to provide an
+additional antihypertensive effect as well [63].
+
+4. Antioxidant peptides
+
+Oxidant stress,
+
+the increased production of reactive
+oxygen species (ROS) in combination with outstripping
+endogenous antioxidant defense mechanisms,
+is another
+significant causative factor for the initiation or progression of
+several vascular diseases. ROS can cause extensive damage
+to biological macromolecules like DNA, proteins and lipids
+[64]. Specifically, the oxidative modification of LDL results
+in the increased atherogenicity of oxidized LDL [65,66].
+Therefore, prolonged production of ROS is thought
+to
+contribute to the development of severe tissue injury [67].
+
+Dietary consumption of antioxidants appears to provide
+further benefits to the endogenous antioxidant defense
+strategies in the fight against oxidative stress [68–70]. In
+addition to the well-known dietary antioxidants like vitamin
+C, vitamin E, polyphenols and carotenoids, other dietary
+
+646
+
+K. Erdmann et al. / Journal of Nutritional Biochemistry 19 (2008) 643–654
+
+Table 2
+Structural properties of selected biofunctional peptides
+
+Activity
+
+Structural elements
+
+Remarks
+
+Usually resistant to degradation
+by digestive enzymes
+Preferred C-terminal residues with
+contribution to the ACE inhibitory potency
+Dipeptides with a C-terminal Tyr produced
+a higher antihypertensive effect compared
+to dipeptides with C-terminal Phe
+Contribution to the antioxidant potency
+
+Peptides with a Pro-His-His sequence
+showed the greatest antioxidant activity
+among all tested peptides
+Important for the antithrombotic activity
+
+Positive correlation with antithrombotic activity
+Favors a hypocholesterolemic effect
+
+Hydrophobic peptides can bind bile acids
+and thereby enhance the fecal steroid excretion
+Peptide length influences CCK-releasing activity
+(different among each dietary protein)
+Necessary condition for CCK release through
+direct binding to intestinal cells
+
+Reference
+
+[40,41]
+
+[4]
+
+[46]
+
+[47,48]
+
+[49]
+
+[50]
+
+[51]
+[52–54]
+
+[55,56]
+
+[57]
+
+[58]
+
+ACE inhibitory
+
+Pro or hydroxy-Pro as C-terminus
+
+Pro, Lys or Arg as C-terminus
+
+Tyr or Phe as C-terminus
+
+Antioxidant
+
+High amounts of His and
+hydrophobic amino acids
+Peptides with a Pro-His-His sequence
+
+Antithrombotic
+
+Hypocholesterolemic
+
+Ile108, Lys112 and Asp115
+residues of casoplatelin
+Sugar content
+Low ratios of methionine–glycine
+and lysine–arginine in the dietary protein
+High amounts of hydrophobic amino acids
+
+Antiobesity
+
+Peptide length
+
+Multiple Arg residues
+
+compounds have generated particular interest as defenses
+against oxidative damage. Recent studies have shown that
+peptides with antioxidant properties can be released from
+food sources such as milk casein [71], whey protein [72], egg
+[73,74] and soy protein [75]. Table 3 lists some examples of
+bioactive peptides derived from different protein sources.
+
+Some peptides derived from hydrolyzed food proteins
+exert antioxidant activities against enzymatic (lipoxygen-
+ase-mediated) and nonenzymatic peroxidation of lipids and
+essential fatty acids [49,76–78]. The exact mechanisms
+behind these effects are not
+fully understood. The
+antioxidant properties of
+these peptides have been
+suggested to be due to metal ion chelation, free radical
+scavenging and singulet oxygen quenching [2]. However,
+through the investigation of synthetic histidine-containing
+peptides, Chen et al. [47] demonstrated that none of these
+properties can be correlated solely with the antioxidant
+activity of the tested peptides. Therefore, overall antiox-
+idant action is most
+likely attributed to the cooperative
+effects of
+the mechanisms mentioned [47]. Another
+plausible mode of action may be the induction of genes
+which protect cells from damage by ROS. Previously, our
+laboratory has shown that the biofunctional dipeptide MY,
+derived from sardine muscle, stimulates expression of the
+antioxidant defense proteins heme oxygenase-1 (HO-1) and
+ferritin in endothelial cells (Fig. 2). These genomic actions
+of MY have been associated with a sustained cellular
+protection from oxidative stress [61]. The antioxidant
+activity of whey-derived peptides and whey itself has been
+linked with the presence of cysteine-rich proteins which
+promote the synthesis of glutathione, a potent intracellular
+antioxidant [39]. In a study by Rival et al. [85], caseins and
+
+casein-derived peptides were found to inhibit lipoxygenase,
+an enzyme which catalyzes the peroxidation of unsaturated
+fatty acids such as linoleic acid.
+
+The antioxidant activity has been attributed to certain
+amino acid sequences [71]. High amounts of histidine and
+some hydrophobic amino acids are related to the antiox-
+idant potency [48]. The activity of histidine-containing
+peptides is thought to be connected to hydrogen-donating
+ability, lipid peroxyradical trapping, and/or the metal ion
+chelating ability of the imidazole group [86]. The addition
+of a leucine or proline residue to the N-terminus of a
+histidine–histidine dipeptide would enhance antioxidant
+activity. According to Chen et al. [49], peptides with a Pro-
+His-His sequence showed the greatest antioxidant activity
+among all tested peptides and had synergistic effects with
+nonpeptidic antioxidants. The hydrophobicity of
+the
+peptide also appears to be an important factor for its
+antioxidant activity due to increased accessibility to
+hydrophobic targets (e.g.,
+[47].
+Furthermore, there is some evidence that the antioxidant
+effect of certain amino acids is greater when they are
+incorporated in dipeptides [87,88]. For example,
+the
+constituent amino acids of the histidine containing dipep-
+tide carnosine and related agents are far less effective
+antioxidants than their parent proteins [89]. As another
+example, milk casein has been reported to inhibit
+the
+lipoxygenase-mediated lipid autoxidation, whereas the free
+amino acids could not substitute for casein as the antioxidant
+[90]. The results suggest a crucial role of the peptide bond
+and/or specific structural features of the peptides regarding
+antioxidant potency. In contrast, recent results on the
+antioxidant effect of whey protein hydrolysates indicated
+
+lipophilic fatty acids)
+
+K. Erdmann et al. / Journal of Nutritional Biochemistry 19 (2008) 643–654
+
+647
+
+This undecapeptide inhibits both the aggregation of ADP-
+activated platelets as well as the binding of human fibrinogen
+γ-chain to its receptor region on the platelet surface. Smaller
+fragments of this peptide, known as casoplatelins, can also
+affect platelet function although they have much lower
+inhibitory activity than the complete fragment [95].
+
+Three amino acid residues (Ile108, Lys112, Asp115) of the
+aforementioned undecapeptide seem to be important for the
+antithrombotic effect, because they are homologous in
+positions to the γ-chain sequence of human fibrinogen.
+Therefore, antithrombotic activity is influenced by the
+competition for platelet receptors between casoplatelin and
+the γ-chain of human fibrinogen [50]. Furthermore, a
+correlation between sugar level and antithrombotic activity
+has been suggested since the human κ-caseinoglycomacro-
+peptide, which is richer in sugars than that in bovine, is
+reportedly more potent [51].
+
+It
+
+is thought
+
+that milk protein-derived antithrombotic
+peptides are absorbed intact into the bloodstream. Human
+and bovine κ-caseinoglycomacropeptides, two antithrombo-
+tic peptides derived from the corresponding κ-caseins, have
+been detected at physiologically active concentrations in the
+plasma of newborn children following ingestion of breast
+milk or cow milk-based formula, respectively [51].
+
+Furthermore, a peptide derived from human lactoferrin,
+KRDS, which holds structural similarities to fibrinogen α-
+chain, has been shown to inhibit platelet aggregation but to a
+lesser extent than the fibrinogen analogue, RGDS [96,97]. It
+is likely that KRDS and RGDS have different mechanisms of
+action and/or their binding sites are different and sequence
+specific. Inhibition of platelet aggregation by KRDS has
+been associated with an inhibition of the release of the dense
+granule protein serotonin, whereas RGDS did not exhibit a
+similar inhibition [98].
+
+In vivo antithrombotic activities have been shown for
+the κ-casein-derived undecapeptide [99] as well as for the
+lactoferrin-derived tetrapeptide [98].
+In addition, no
+detectable toxic effect has been reported. Hence, case-
+inoglycomacropeptide could potentially be used to treat or
+prevent thrombosis. In contrast, the RGDS sequence has
+been found to induce detachment of endothelial cells in
+vitro and therefore serious concerns exist regarding the
+toxicity of this sequence in vivo. The related peptide KRDS
+does not appear to have the same potential detrimental
+effects as RGDS possibly due to their different modes of
+action [100].
+
+6. Hypocholesterolemic and hypotriglyceridemic
+peptides
+
+An unfavorable profile of blood lipids is another
+important risk factor for the genesis of various CVDs.
+Many studies have found a positive correlation between
+hypercholesterolemia and/or hypertriglyceridemia and the
+likelihood for developing CVD [92,101,102]. Not surpris-
+ingly,
+for hyperlipidemia-accelerated diseases
+
+treatment
+
+Fig. 2. The heme oxygenase (HO) enzyme reaction: HO-1 is an inducible
+enzyme that catalyzes the degradation of the toxic heme moiety. This
+process leads to generation of carbon monoxide (CO), free iron and
+biliverdin; the latter is subsequently converted to bilirubin by biliverdin
+reductase (BVR) [79,80]. CO and bilirubin have been causally linked to a
+higher resistance against cardiovascular disease [81–83]. Furthermore, the
+HO-1-dependent release of free iron during heme catabolism results in the
+up-regulation of ferritin protein expression [84]. Induction of HO-1 and
+ferritin is considered to be an adaptive and beneficial response to oxidative
+stress in a wide variety of cells.
+
+that the peptide linkage or structural peptide conformation
+can also attenuate the antioxidant activity of
+the
+constituent amino acids [72]. Thus, peptide conformation
+can lead to both synergistic and antagonistic effects in
+regard to the antioxidant activity of free amino acids.
+Further research examining the structure–activity relation-
+ship in peptides is needed.
+
+5. Antithrombotic peptides
+
+Another complication related to CVD is the inclination to
+develop thrombosis due to abnormalities in coagulation.
+Increased occurrence of thrombosis has been linked to
+platelet hyperreactivity, high levels of hemostatic proteins
+(e.g., fibrinogen), defective fibrinolysis and hyperviscosity
+of the blood [91,92]. Hence, antithrombotic drugs are
+commonly used to reduce platelet aggregation and enhance
+fibrinolysis.
+
+Indeed, it has been proved that there is a significant
+amount of molecular similarities between the mechanisms
+involved in milk clotting, defined by the interaction of κ-
+casein with chymosin, and blood clotting, defined by the
+interaction of fibrinogen with thrombin [93]. To date, food-
+derived peptides with antithrombotic properties are mainly
+the result of enzymatic hydrolysis of bovine κ-casein.
+Recently, antithrombotic peptides have been isolated from
+human and sheep κ-casein as well [51,94].
+
+The main antithrombotic peptide MAIPPKKNQDK,
+isolated from the soluble C-terminal fragment (caseinogly-
+comacropeptide) of bovine κ-casein, corresponds to the
+residues 106 to 116 of κ-casein and is termed casoplatelin.
+
+648
+
+K. Erdmann et al. / Journal of Nutritional Biochemistry 19 (2008) 643–654
+
+often includes the improvement of serum lipid distribution
+through diet modifications.
+
+It is generally known that several dietary proteins can
+improve blood lipid profiles. To date, hypocholesterolemic
+properties have been reported for soy [103,104], whey
+[105,106] and fish protein [52], capable of altering the
+plasma profile from atherogenic to cardioprotective. In
+contrast, bovine casein tends to cause species-dependent
+hypercholesterolemia and atheromatous plaques in animal
+studies [107,108]. The exact mechanisms responsible for the
+hypocholesterolemic effects have not been fully identified,
+but evidence suggests that the specific amino acid composi-
+tion of dietary proteins probably influences the effect of the
+protein source on plasma cholesterol levels. It has been
+reported that dietary proteins with low ratios of methionine–
+glycine and lysine–arginine, such as soy and fish protein,
+favor a hypocholesterolemic effect [52–54]. In contrast,
+bovine casein tends to elevate cholesterol levels probably
+due to its high ratios of methionine-glycine and lysine-
+arginine [107].
+
+Of the limited number of peptides reported to have
+hypocholesterolemic effects, dietary soy protein has received
+the most attention. Published data offer a range of possible
+mechanism of action in soy protein's ability to reduce total
+plasma cholesterol
+including induction of LDL receptor
+expression, increase of bile acid synthesis and excretion as
+well as decrease in steroid absorption from the intestine. In
+addition, changes in the endocrine status such as alteration in
+the insulin–glucagon ratio and in thyroid hormone concen-
+trations have also been reported [109]. Although these effects
+have not been attributed to specific soy constituents, several
+studies suggest that peptides derived from soy protein may be
+the bioactive components. When amino acid mixtures
+mimicking soy protein were fed to rats or rabbits,
+the
+resulting blood cholesterol levels were significantly lowered
+but not as low as those that were fed with the intact protein
+[110,111]. It has also been shown that soy protein hydro-
+lysates reduce total cholesterol levels more effectively than
+intact soy protein [104,112]. Several more reports indicate
+that hydrophobic peptides derived from soy protein can bind
+bile acids thereby enhancing fecal steroid excretion which
+may contribute to the hypocholesterolemic activity [55,56].
+Recently, LPYPR, a peptide derived from soy glycinin,
+was found to produce serum cholesterol-lowering effects in
+mice following oral administration [113]. LPYPR is
+structurally homologous to enterostatin (VPDPR), an
+endogenous peptide exhibiting hypocholesterolemic and
+anorectic effects [114]. Another glycinin-derived peptide
+with cholesterol-lowering activity is IAVPGEVA [115]. In
+vitro measurements have shown that both LPYRP and
+IAVPGEVA inhibited 3-hydroxy-3-methylglutaryl coen-
+zyme A reductase (HMGR) which is a known key enzyme
+in cholesterol biosynthesis. Investigations on the structure–
+activity relationship revealed that the hydrophobic region of
+both peptides is a required structural element for their
+biological activity. The maximum length of the hydrophobic
+
+sequence was stated to be four amino acids. Moreover, the
+proline residue seems to be a key component and can be
+located at both the C-terminus and in any other position of
+the amino acid sequence except the N-terminus [116].
+
+least
+
+Several peptide fragments obtained from the subunits of
+β-conglycinin are considered to possess hypocholesterole-
+mic activity. The regulation of cholesterol homeostasis has
+been proposed to be due to the activation of LDL receptors
+and LDL degradation in liver cells at
+in vitro.
+Preliminary data evidently suggest a positive modulation
+of LDL receptor induced by a specific sequence correspond-
+ing to the positions 127–150 of β-conglycinin [117]. Duranti
+et al. [118] reported a marked up-regulation of liver β-very
+low-density lipoprotein (VLDL) receptors and a significant
+decrease in plasma triglycerides in hypercholesterolemic rats
+after oral treatment with the α′-subunit of β-conglycinin.
+They hypothesized that peptides arising from digestion elicit
+the biological effect [118].
+
+Iritani et al.
+
+As for the observed hypotriglyceridemic activity, there is
+some evidence that dietary protein may affect lipogenesis in
+the liver.
+[119] have shown that oral
+administration of soy protein to rats reduced the concentra-
+tions of triglycerides in plasma and more prominently in
+liver. These effects were associated with significant reduc-
+tions in the activities of hepatic lipogenic enzymes indicating
+that soy protein reduces liver triglycerides or fat in part by
+inhibiting hepatic fatty acid synthesis [119]. Furthermore,
+dietary soy protein appeared to cause a stimulation of
+lipolysis and fatty acid utilization [120]. In mice, Moriyama
+et al. [121] demonstrated that β-conglycinin reduced serum
+triglyceride levels by the acceleration of β-oxidation,
+suppression of fatty acid synthesis and increased fecal
+excretion of triglycerides. They concluded that some specific
+β-conglycinin peptides might be responsible for
+these
+multiple events [121]. Remarkable hypotriglyceridemic
+activities in different animal species were also achieved by
+the administration of hydrolyzed globin. VVYP, VYP and
+VTL were identified as the effective constituent peptides.
+The hypotriglyceridemic effect of
+these peptides was
+associated with decreased intestinal fat absorption as well
+as an enhanced lipolysis of
+triglycerides [122]. The
+hypotriglyceridemic effect of hydrolyzed globin has also
+been demonstrated in humans [123].
+
+Numerous studies have shown that milk whey protein, in
+contrast to milk casein, decreases serum cholesterol similar
+to soy protein [106,124,125]. This effect was more marked
+with the whey peptide fraction than with the intact whey
+protein [124]. Nagaoka et al. [126] identified IIAEK as the
+hypocholesterolemic peptide derived from bovine milk β-
+lactoglobulin. In animal studies, IIAEK, which is also termed
+lactostatin, exhibited a greater hypocholesterolemic effect
+than β-sitosterol. Following oral administration to rats, total
+serum cholesterol levels were significantly lower, whereas
+HDL concentration and atherogenic index (HDL cholesterol/
+total cholesterol) were significantly higher than in the group
+fed with β-sitosterol. These effects have been speculated to
+
+K. Erdmann et al. / Journal of Nutritional Biochemistry 19 (2008) 643–654
+
+649
+
+be at least in part due to a decrease of micellar solubility of
+cholesterol which leads to lower
+intestinal cholesterol
+absorption [126]. Recent data have shown that lactostatin
+is capable of inducing the gene transcription of human
+cholesterol 7α-hydroxylase (CYP7A1), a cholesterol-meta-
+bolizing enzyme, resulting in hypocholesterolemic effects.
+This new site of action involves Ca and MAPK-dependent
+signaling pathways. Further results imply that the C-terminal
+side of lactostatin, especially the glutamyl–lysine sequence,
+is crucial for the induction of human CYP7A1 transcription.
+However, an amino acid mixture constituently equivalent to
+lactostatin failed to induce the CYP7A1 gene [127].
+
+7. Antiobesity peptides
+
+In many industrial countries obesity is a serious health
+issue that has been associated with higher incidence of CVD
+and related disorders [128]. Hyperinsulinemia,
+insulin
+resistance and abnormalities in lipid metabolism have all
+been linked to obesity. Lipoprotein profile obtained in obese
+subjects revealed a pattern of higher levels of triglycerides,
+elevated LDL-cholesterol and low HDL-cholesterol. Restric-
+tion of caloric intake and increasing physical exercise are
+recommended for the treatment of adiposity. Both weight
+loss and exercise can also improve insulin resistance and
+associated dyslipidemia [129,130].
+
+It is generally accepted that protein is the most satiating
+macronutrient [131,132]. Besides inducing the feeling of
+satiety, a high-protein diet promotes thermogenesis leading
+to a faster rate of caloric metabolism. Diets rich in protein are
+known to suppress food intake and facilitate short-term
+weight loss even more effectively than high-carbohydrate
+diets and thus can be used in the management of obesity.
+However, some evidence suggests that different sources of
+dietary protein in low-calorie diets produce varying effects
+on metabolism and therefore strongly influence weight loss.
+For example, the ingestion of plant protein such as soy is
+effective in reducing body weight and in improving
+
+Table 3
+Examples of bioactive peptides derived from food
+
+cardiovascular risk factors. In contrast, the regular intake
+of protein sources rich in saturated fat and cholesterol such as
+red meat and eggs may increase the risk of CVD [131,133].
+Nevertheless, reliable information on the long-term effects of
+high-protein diets on overall health is not yet available.
+
+Ingestion of soy, casein and whey protein has all been
+shown to hold antiobesity or anorectic properties with the
+effect of soy protein in reducing body weight more superior
+than that of casein and whey protein [134–136]. The
+mechanisms by which proteins exert anorectic actions are
+still unclear. Several studies speculate that peptides released
+from dietary proteins during digestion can initiate several
+satiety signals from the gut and thus prevent further food
+intake. Because these peptides act at the intestinal site they
+do not need to be absorbed into the systemic circulation.
+
+Pupovac and Anderson [137] conclude that the induction
+of satiety by peptides derived from soy and casein protein is
+mediated by independent activation of both opioid and
+cholecystokinin (CCK)-A receptors. The pivotal role of
+opioid and CCK-A receptors in the regulation of food intake
+is well recognized. Peptides with opioid-like activities affect
+food intake by the delay of gastric emptying and intestinal
+transit [4]. CKK is an important physiologic endocrine factor
+that regulates appetite and gastric emptying. The stimulation
+of CCK release contributes to appetite suppression in the
+central nervous system as well as in the periphery [138,139].
+In regard to soy protein, it has been shown that the decline
+in body fat and food intake was more significant with the soy
+peptide fraction than with the intact protein indicating that
+hydrolysis of soy protein is important in its effect of weight
+reduction [135,140]. Furthermore, amino acid mixtures
+simulating soy and casein protein were not effective in
+releasing CCK from mucosal cells [57,141,142]. These
+results indicate that peptides released from dietary proteins
+contribute to the initiation of satiety signals. Nishi et al. [57]
+hypothesize that the peptide length might be an important
+factor in CCK-releasing activity. The optimal peptide size
+seems to be different among each dietary protein. Well-
+
+Activity
+
+Antioxidant
+
+Antithrombotic
+
+Hypocholesterolemic
+
+Hypotriglyceridemic
+Antiobese
+
+Origin
+
+Fish (sardine muscle)
+Soy (β-conglycinin)
+Milk (casein)
+Milk (β-lactoglobulin)
+Egg (egg white)
+Milk (κ-casein)
+Milk (lactoferrin)
+Soy (glycinin)
+Soy (glycinin)
+Soy (β-conglycinin)
+
+Milk (β-lactoglobulin)
+Blood (globin)
+Soy (β-conglycinin)
+Milk (κ-casein)
+
+Sequence/name
+
+MY
+LLPHH
+YFYPEL
+MHIRL, YVEEL, WYSLAMAASDI
+YAEERYPIL
+MAIPPKKNQDK (casoplatelin) and smaller fragments
+KRDS
+LPYPR
+IAVPGEVA
+Several peptide fragments
+(e.g., sequence corresponding to the residues 127–150)
+IIAEK (lactostatin)
+VVYP, VYP, VTL
+VRIRLLQRFNKRS
+Caseinoglycomacropeptide
+
+Reference
+
+[61]
+[75]
+[71]
+[72]
+[73]
+[95]
+[96,97]
+[113]
+[115]
+[117]
+
+[126]
+[122]
+[58]
+[143,144]
+
+650
+
+K. Erdmann et al. / Journal of Nutritional Biochemistry 19 (2008) 643–654
+
+digested soy protein for instance is more effective than less-
+digested one on CCK liberation. In contrast, larger peptides
+of casein hydrolysate seem to be involved in the direct
+stimulation of CCK release [57].
+
+Nishi et al. [58] identified the peptide VRIRLLQRFNKRS
+corresponding to the residues 51–63 of β-conglycinin as the
+bioactive appetite suppressant in soy protein. This peptide
+interacts directly with the intestinal mucosal cells to stimulate
+CCK release. Further investigations on the binding activities
+of several synthetic model peptides indicate that multiple
+arginine residues are a necessary condition for CCK release
+through direct binding to brush border membrane [58].
+
+Several studies have shown that satiety associated with
+casein ingestion involves both opioid and CCK regulation
+[137,142]. Proteolysis of milk casein releases bioactive
+peptides relevant to hunger regulation including casomor-
+phins and caseinoglycomacropeptide. Casomorphins are
+peptides with opioid-like activities that are known to
+interact with gastric opioid receptors to slow gastrointestinal
+motility and prevent further food intake [145]. In addition,
+they influence appetite regulation by modifying the
+postprandial
+levels of metabolic hormones involved in
+satiety [146]. Peptides with opioid activity have been
+reviewed extensively elsewhere [39,147]. Caseinoglycoma-
+cropeptide, a 64-amino acid fragment from the C-terminal
+end of bovine casein, has been shown to exert CCK-
+releasing activity via direct reaction with the small intestine
+and therefore act as an appetite suppressant [143,144]. In
+addition, caseinoglycomacropeptide has also been found to
+control food intake in animals at least in part through opioid
+activity [148].
+
+Protein-induced satiety may also be mediated through the
+glucagon-like peptide-1 (GLP-1) signaling pathway. In rats
+as well as in humans it has been demonstrated that activation
+of GLP-1 receptor is involved in casein- and whey-induced
+suppression of food intake [149,150]. Peptides released from
+digested protein appear to provide this satiety signal, because
+neither
+free amino acid mixtures
+stimulated the release of GLP-1 [151].
+
+intact proteins nor
+
+Above and beyond the stimulation of satiety through
+bioactive peptides, lipid-lowering effects as well as increas-
+ing metabolic rate are also beneficial in fighting obesity.
+Another possible mode of action is the modulation of
+adipose genes that contribute to the homeostasis of
+metabolism and vascular functions. In the case of soy
+protein, Nagasawa et al. [152] have shown that it raises
+adiponectin mRNA expression in mice. Adiponectin is an
+adipose-specific plasma protein possessing antiatherogenic
+and anti-insulin-resistance properties [152]. Soy protein may
+also reduce adiposity by modulating the expression of
+nuclear transcription factors, specifically the peroxisome
+proliferator-activated receptors (PPARs) and sterol regula-
+tory element binding proteins (SREBPs) that are principal
+regulators of fatty acid metabolism and cholesterol home-
+ostasis [121,153,154]. Further evidence suggests that the
+ingestion of soy and whey protein improves insulin
+resistance which is a hallmark of obesity [136,154]. It
+remains to be determined whether specific bioactive peptides
+are responsible for the abovementioned effects.
+
+8. Conclusion
+
+Bioactive peptides have been shown to possess properties
+that may be advantageous to cardiovascular health. These
+effects include the lowering of blood pressure and lipid levels
+as well as reducing free radical formation. Evidence for
+beneficial effects of bioactive peptides has also been raised
+under conditions of obesity and enhanced thrombosis
+(Table 3). Since CVD is a significant public health problem
+worldwide, biologically active peptides may be of vital interest
+in maintaining a healthy population. As part of a food product
+or as a nutraceutical they have a chronic rather than an acute
+effect on health. Numerous products that contain bioactive
+peptides are already on the market (Table 4). Until now,
+however, most of the claimed physiological effects of bioactive
+peptides have been observed in vitro or in animal model
+systems. Human clinical studies are limited or nonexistent and
+the optimal plasma levels of bioactive peptides have not been
+
+Table 4
+Examples of commercially available functional foods carrying bioactive peptides (modified from Hartmann and Meisel [1])
+
+Brand name
+
+Calpis
+Evolus
+Casein DP
+C12 peptide
+
+BioZate
+
+Manufacturer
+
+Calpis Co., Japan
+Valio, Finland
+Kanebo Ltd., Japan
+DMV
+International,
+Netherlands
+Davisco, USA
+
+Peptide Soup
+BioPURE-GMP
+
+NIPPON, Japan
+Davisco, USA
+
+Remarks
+
+Sour milk
+Fermented milk
+Casein hydrolysate
+Casein hydrolysate
+
+Whey protein
+hydrolysate
+Soup
+Whey protein
+hydrolysate
+
+CholesteBlock
+
+Kyowa Hakko, Japan
+
+Soft drink
+
+Bioactive peptides
+
+VPP; IPP
+VPP; IPP
+FFVAPFPEVFGK
+FFVAPFPEVFGK
+
+Health claim
+
+Hypotensive
+Hypotensive
+Hypotensive
+Hypotensive
+
+Whey-derived peptides
+
+Hypotensive
+
+Bonito-derived peptides
+Glycomacropeptide
+
+Soy-derived peptides bound
+to phospholipids
+
+Hypotensive
+Antithrombotic,
+antimicrobial,
+anticariogenic
+Hypocholesterolemic
+
+K. Erdmann et al. / Journal of Nutritional Biochemistry 19 (2008) 643–654
+
+651
+
+determined. Therefore, further research is needed in order to
+clarify the relevance and potential therapeutic role of bioactive
+peptides in humans.
+
+References
+
+[1] Hartmann R, Meisel H. Food-derived peptides with biological
+activity: from research to food applications. Curr Opin Biotechnol
+2007;18:163–9.
+
+[2] Kitts DD, Weiler K. Bioactive proteins and peptides from food
+sources. Applications of bioprocesses used in isolation and recovery.
+Curr Pharm Des 2003;9:1309–23.
+
+[3] Kovacs-Nolan J, Phillips M, Mine Y. Advances in the value of eggs
+and egg components for human health. J Agric Food Chem 2005;53:
+8421–31.
+
+[4] Meisel H. Biochemical properties of regulatory peptides derived from
+
+milk proteins. Biopolymers 1997;43:119–28.
+
+[5] Korhonen H, Pihlanto A. Food-derived bioactive peptides — opportu-
+
+nitiesfordesigningfuturefoods.CurrPharmDes2003;9:1297–308.
+
+[6] Meisel H. Multifunctional peptides encrypted in milk proteins.
+
+Biofactors 2004;21:55–61.
+
+[7] Meisel H, FitzGerald RJ. Biofunctional peptides from milk proteins:
+mineral binding and cytomodulatory effects. Curr Pharm Des 2003;9:
+1289–95.
+
+[8] Appel LJ, Moore TJ, Obarzanek E, Vollmer WM, Svetkey LP, Sacks
+FM, et al. A clinical trial of the effects of dietary patterns on blood
+pressure. DASH Collaborative Research Group. N Engl J Med 1997;
+336:1117–24.
+
+[9] Pfeuffer M, Schrezenmeir J. Bioactive substances in milk with
+properties decreasing risk of cardiovascular diseases. Br J Nutr 2000;
+84(Suppl 1):S155–9.
+
+[10] Severin S, Wenshui X. Milk biologically active components as
+
+nutraceuticals: review. Crit Rev Food Sci Nutr 2005;45:645–56.
+
+[11] Lopez AD, Murray CC. The global burden of disease, 1990–2020.
+
+Nat Med 1998;4:1241–3.
+
+[12] Svetkey LP, Simons-Morton D, Vollmer WM, Appel LJ, Conlin PR,
+Ryan DH, et al. Effects of dietary patterns on blood pressure:
+subgroup analysis of the Dietary Approaches to Stop Hypertension
+(DASH) randomized clinical
+trial. Arch Intern Med 1999;159:
+285–93.
+
+[13] Jeppesen J, Schaaf P, Jones C, Zhou MY, Chen YD, Reaven GM.
+Effects of low-fat, high-carbohydrate diets on risk factors for ischemic
+heart disease in postmenopausal women. Am J Clin Nutr 1997;65:
+1027–33.
+
+[14] Obarzanek E, Sacks FM, Vollmer WM, Bray GA, Miller III ER, Lin
+PH, et al. Effects on blood lipids of a blood pressure-lowering diet:
+the Dietary Approaches to Stop Hypertension (DASH) Trial. Am J
+Clin Nutr 2001;74:80–9.
+
+[15] Stamler J, Elliott P, Kesteloot H, Nichols R, Claeys G, Dyer AR, et al.
+Inverse relation of dietary protein markers with blood pressure.
+Findings for 10,020 men and women in the INTERSALT Study.
+INTERSALT Cooperative Research Group. INTERnational study of
+SALT and blood pressure. Circulation 1996;94:1629–34.
+
+[16] Hu FB, Stampfer MJ, Manson JE, Rimm E, Colditz GA, Speizer FE,
+et al. Dietary protein and risk of ischemic heart disease in women.
+Am J Clin Nutr 1999;70:221–7.
+
+[17] Appel LJ, Sacks FM, Carey VJ, Obarzanek E, Swain JF, Miller III
+ER, et al. Effects of protein, monounsaturated fat, and carbohydrate
+intake on blood pressure and serum lipids: results of the OmniHeart
+randomized trial. JAMA 2005;294:2455–64.
+
+[18] Appel LJ. The effects of protein intake on blood pressure and
+
+cardiovascular disease. Curr Opin Lipidol 2003;14:55–9.
+
+[19] Elliott P. Protein intake and blood pressure in cardiovascular disease.
+
+Proc Nutr Soc 2003;62:495–504.
+
+[20] Hasler CM. The changing face of functional foods. J Am Coll Nutr
+
+2000;19:499S–506S.
+
+[21] Roberfroid MB. A European consensus of scientific concepts of
+
+functional foods. Nutrition 2000;16:689–91.
+
+[22] Harris T, Cook EF, Kannel W, Schatzkin A, Goldman L. Blood
+pressure experience and risk of cardiovascular disease in the elderly.
+Hypertension 1985;7:118–24.
+
+[23] Kannel WB, Higgins M. Smoking and hypertension as predictors of
+cardiovascular risk in population studies. J Hypertens Suppl 1990;8:
+S3–S8.
+
+[24] FitzGerald RJ, Murray BA, Walsh DJ. Hypotensive peptides from
+
+milk proteins. J Nutr 2004;134:980S–8S.
+
+[25] Vercruysse L, Van Camp J, Smagghe G. ACE inhibitory peptides
+derived from enzymatic hydrolysates of animal muscle protein: a
+review. J Agric Food Chem 2005;53:8106–15.
+
+[26] Yamamoto N. Antihypertensive peptides derived from food proteins.
+
+Inc Biopoly 1997;43:129–34.
+
+[27] Nakamura Y, Yamamoto N, Sakai K, Takano T. Antihypertensive
+effect of sour milk and peptides isolated from it that are inhibitors to
+angiotensin I_converting enzyme. J Dairy Sci 1995;78:1253–7.
+
+[28] Seppo L, Jauhiainen T, Poussa T, Korpela R. A fermented milk high
+in
+
+in bioactive peptides has a blood pressure_lowering effect
+hypertensive subjects. Am J Clin Nutr 2003;77:326–30.
+
+[29] Abubakar A, Saito T, Kitazawa H, Kawai Y, Itoh T. Structural
+analysis of new antihypertensive peptides derived from cheese whey
+protein by proteinase K digestion. J Dairy Sci 1998;81:3131–8.
+
+[30] Murakami M, Tonouchi H, Takahashi R, Kitazawa H, Kawai Y,
+Negishi H, et al. Structural analysis of a new anti_hypertensive
+peptide (beta_lactosin B) isolated from a commercial whey product.
+J Dairy Sci 2004;87:1967–74.
+
+[31] Kawasaki T, Seki E, Osajima K, Yoshida M, Asada K, Matsui T, et al.
+Antihypertensive effect of valyl_tyrosine, a short chain peptide
+derived from sardine muscle hydrolyzate, on mild hypertensive
+subjects. J Hum Hypertens 2000;14:519–23.
+
+[32] Matsufuji H, Matsui T, Ohshige S, Kawasaki T, Osajima K, Osajima
+Y. Antihypertensive effects of angiotensin fragments in SHR. Biosci
+Biotechnol Biochem 1995;59:1398–401.
+
+[33] Fujita H, Yoshikawa M. LKPNM: a prodrug-type ACE-inhibitory
+peptide derived from fish protein. Immunopharmacology 1999;44:
+123–7.
+
+[34] Fujita H, Yokoyama K, Yoshikawa M. Classification and antihyper-
+tensive activity of angiotensin I_converting enzyme inhibitory
+peptides derived from food proteins. J Food Sci 2000;65:564–9.
+
+[35] Nakashima Y, Arihara K, Sasaki A, Mio H, Ishikawa S, Itoh M.
+Antihypertensive Activities of Peptides Derived from Porcine
+Skeletal Muscle Myosin in Spontaneously Hypertensive Rats.
+J Food Sci 2002;67:434–7.
+
+[36] Kodera T, Nio N. Identification of an Angiotensin I_converting
+Enzyme Inhibitory Peptides from Protein Hydrolysates by a Soybean
+Protease and the Antihypertensive Effects of Hydrolysates in
+Spontaneously Hypertensive Model Rats. J Food Sci 2006;71:
+C164–73.
+
+[37] Motoi H, Kodama T. Isolation and characterization of angiotensin
+I_converting enzyme inhibitory peptides from wheat gliadin hydro-
+lysate. Nahrung/Food 2003;47:354–8.
+
+[38] FitzGerald RJ, Meisel H. Milk protein-derived peptide inhibitors
+of angiotensin-I-converting enzyme. Br J Nutr 2000;84(Suppl 1):
+S33–7.
+
+[39] Meisel H. Biochemical properties of peptides encrypted in bovine
+
+milk proteins. Curr Med Chem 2005;12:1905–19.
+
+[40] Matsufuji H, Matsui T, Seki E, Osajima K, Nakashima M, Osajima Y.
+Angiotensin I-converting enzyme inhibitory peptides in an alkaline
+protease hydrolyzate derived from sardine muscle. Biosci Biotechnol
+Biochem 1994;58:2244–5.
+
+[41] Vermeirssen V, Van Camp J, Verstraete W. Bioavailability of
+angiotensin I converting enzyme inhibitory peptides. Br J Nutr
+2004;92:357–66.
+
+[42] Gardner ML. Gastrointestinal absorption of intact proteins. Annu Rev
+
+Nutr 1988;8:329–50.
+
+652
+
+K. Erdmann et al. / Journal of Nutritional Biochemistry 19 (2008) 643–654
+
+[43] Webb Jr KE. Intestinal absorption of protein hydrolysis products: a
+
+review. J Anim Sci 1990;68:3011–22.
+
+[44] Masuda O, Nakamura Y, Takano T. Antihypertensive peptides are
+present in aorta after oral administration of sour milk containing these
+peptides to spontaneously hypertensive rats. J Nutr 1996;126:3063–8.
+[45] Roberts PR, Burney JD, Black KW, Zaloga GP. Effect of chain length
+on absorption of biologically active peptides from the gastrointestinal
+tract. Digestion 1999;60:332–7.
+
+[46] Suetsuna K. Isolation and characterization of angiotensin I converting
+enzyme inhibitor dipeptides derived from Allium sativum L (garlic).
+J Nutr Biochem 1998;9:415–9.
+
+[47] Chen HM, Muramoto K, Yamauchi F, Fujimoto K, Nokihara K.
+Antioxidative properties of histidine-containing peptides designed
+from peptide fragments found in the digests of a soybean protein.
+J Agric Food Chem 1998;46:49–53.
+
+[48] Pena-Ramos EA, Xiong YL, Arteaga GE. Fractionation and
+characterisation for antioxidant activity of hydrolysed whey protein.
+J Sci Food Agric 2004;84:1908–18.
+
+[49] Chen HM, Muramoto K, Yamauchi F, Nokihara K. Antioxidant
+activity of designed peptides based on the antioxidative peptide
+isolated from digests of a soybean protein. J Agric Food Chem 1996;
+44:2619–23.
+
+[50] Fiat AM, Levy-Toledano S, Caen JP, Jolles P. Biologically active
+peptides of casein and lactotransferrin implicated in platelet function.
+J Dairy Res 1989;56:351–5.
+
+[51] Chabance B, Jolles P, Izquierdo C, Mazoyer E, Francoual C, Drouet
+L, et al. Characterization of an antithrombotic peptide from kappa-
+casein in newborn plasma after milk ingestion. Br J Nutr 1995;73:
+583–90.
+
+[52] Wergedahl H, Liaset B, Gudbrandsen OA, Lied E, Espe M, Muna Z,
+et al. Fish protein hydrolysate reduces plasma total cholesterol,
+increases the proportion of HDL cholesterol, and lowers acyl-CoA:
+cholesterol acyltransferase activity in liver of Zucker rats. J Nutr
+2004;134:1320–7.
+
+[53] Morita T, Oh-hashi A, Takei K, Ikai M, Kasaoka S, Kiriyama S.
+Cholesterol-lowering effects of soybean, potato and rice proteins
+depend on their low methionine contents in rats fed a cholesterol-free
+purified diet. J Nutr 1997;127:470–7.
+
+[54] Kritchevsky D, Tepper SA, Czarnecki SK, Klurfeld DM. Ather-
+ogenicity of animal and vegetable protein Influence of the lysine to
+arginine ratio. Atherosclerosis 1982;41:429–31.
+
+[55] Iwami K, Sakakibara K, Ibuki F. Involvement of post-digestion
+‘hydrophobic’ peptides in plasma cholesterol-lowering effect of
+dietary plant proteins. Agric Biol Chem 1986;50:1217–22.
+
+[56] Making S, Nakashima H, Minami K, Moriyama R, Takao S. Bile
+acid-binding protein from soybean seed: isolation, partial character-
+ization and insulin-stimulating activity. Agric Biol Chem 1988;52:
+803–9.
+
+[57] Nishi T, Hara H, Hira T, Tomita F. Dietary protein peptic hydrolysates
+stimulate cholecystokinin release via direct sensing by rat intestinal
+mucosal cells. Exp Biol Med (Maywood) 2001;226:1031–6.
+
+[58] Nishi T, Hara H, Asano K, Tomita F. The soybean beta-conglycinin
+beta 51–63 fragment suppresses appetite by stimulating cholecysto-
+kinin release in rats. J Nutr 2003;133:2537–42.
+
+[59] Fujita H, Usui H, Kurahashi K, Yoshikawa M. Isolation and
+characterization of ovokinin, a bradykinin B1 agonist peptide derived
+from ovalbumin. Peptides 1995;16:785–90.
+
+[60] Matoba N, Usui H, Fujita H, Yoshikawa M. A novel anti-hypertensive
+peptide derived from ovalbumin induces nitric oxide-mediated
+vasorelaxation in an isolated SHR mesenteric artery. FEBS Lett
+1999;452:181–4.
+
+[61] Erdmann K, Grosser N, Schipporeit K, Schroder H. The ACE
+inhibitory dipeptide Met-Tyr diminishes free radical formation in
+human endothelial cells via induction of heme oxygenase-1 and
+ferritin. J Nutr 2006;136:2148–52.
+
+[62] Nurminen ML, Sipola M, Kaarto H, Pihlanto-Leppala A, Piilola K,
+Korpela R, et al. Alpha-lactorphin lowers blood pressure measured by
+
+radiotelemetry in normotensive and spontaneously hypertensive rats.
+Life Sci 2000;66:1535–43.
+
+[63] Yamamoto N, Maeno M, Takano T. Purification and characteriza-
+tion of an antihypertensive peptide from a yogurt-like product
+fermented by Lactobacillus helveticus CPN4. J Dairy Sci 1999;82:
+1388–93.
+
+[64] Ames BN, Shigenaga MK, Hagen TM. Oxidants, antioxidants, and
+the degenerative diseases of aging. Proc Natl Acad Sci U S A 1993;
+90:7915–22.
+
+[65] Steinbrecher UP, Zhang HF, Lougheed M. Role of oxidatively
+modified LDL in atherosclerosis. Free Radic Biol Med 1990;9:
+155–68.
+
+[66] Witztum JL, Steinberg D. Role of oxidized low density lipoprotein in
+
+atherogenesis. J Clin Invest 1991;88:1785–92.
+
+[67] Machlin LJ, Bendich A. Free radical tissue damage: protective role of
+
+antioxidant nutrients. J Faseb 1987;1:441–5.
+
+[68] de Lorgeril M, Salen P, Monjaud I, Delaye J. The ‘diet heart’
+hypothesis in secondary prevention of coronary heart disease. Eur
+Heart J 1997;18:13–8.
+
+[69] Fang YZ, Yang S, Wu G. Free radicals, antioxidants, and nutrition.
+
+Nutrition 2002;18:872–9.
+
+[70] Simopoulos AP. The Mediterranean diets: What is so special about
+the diet of Greece? The scientific evidence. J Nutr 2001;131:
+3065S–73S.
+
+[71] Suetsuna K, Ukeda H, Ochi H. Isolation and characterization of free
+radical scavenging activities peptides derived from casein. J Nutr
+Biochem 2000;11:128–31.
+
+[72] Hernandez-Ledesma B, Davalos A, Bartolome B, Amigo L.
+Preparation of antioxidant enzymatic hydrolysates from alpha-
+lactalbumin and beta-lactoglobulin Identification of active peptides
+by HPLC-MS/MS. J Agric Food Chem 2005;53:588–93.
+
+[73] Davalos A, Miguel M, Bartolome B, Lopez-Fandino R. Antioxidant
+activity of peptides derived from egg white proteins by enzymatic
+hydrolysis. J Food Prot 2004;67:1939–44.
+
+[74] Ishikawa S, Yano Y, Arihara K, Itoh M. Egg yolk phosvitin inhibits
+formation from the fenton reaction. Biosci
+
+hydroxyl
+Biotechnol Biochem 2004;68:1324–31.
+
+radical
+
+[75] Chen HM, Muramoto K, Yamauchi F. Structural analysis of
+antioxidative peptides from soybean beta-conglycinin. J Agric Food
+Chem 1995;43:574–8.
+
+[76] Park PJ, Jung WK, Nam KS, Shahidi F, Kim SK. Purification and
+characterization of antioxidative peptides from protein hydrolysate of
+lecithin-free egg yolk. J Am Oil Chem Soc 2001;78:651–6.
+
+[77] Rival SG, Boeriu CG, Wichers HJ. Caseins and casein hydrolysates:
+2 Antioxidative properties and relevance to lipoxygenase inhibition.
+J Agric Food Chem 2001;49:295–302.
+
+[78] Saiga A, Tanabe S, Nishimura T. Antioxidant activity of peptides
+obtained from porcine myofibrillar proteins by protease treatment.
+J Agric Food Chem 2003;51:3661–7.
+
+[79] Abraham NG, Lin JH, Schwartzman ML, Levere RD, Shibahara S.
+The physiological significance of heme oxygenase. Int J Biochem
+1988;20:543–58.
+
+[80] Tenhunen R, Marver HS, Schmid R. The enzymatic conversion of
+heme to bilirubin by microsomal heme oxygenase. Proc Natl Acad
+Sci U S A 1968;61:748–55.
+
+[81] Coceani F. Carbon monoxide in vasoregulation: the promise and the
+
+challenge. Circ Res 2000;86:1184–6.
+
+[82] Hopkins PN, Wu LL, Hunt SC, James BC, Vincent GM, Williams
+RR. Higher serum bilirubin is associated with decreased risk for early
+familial coronary artery disease. Arterioscler Thromb Vasc Biol 1996;
+16:250–5.
+
+[83] Mayer M. Association of serum bilirubin concentration with risk of
+
+coronary artery disease. Clin Chem 2000;46:1723–7.
+
+[84] Eisenstein RS, Garcia_Mayol D, Pettingell W, Munro HN.
+Regulation of
+ferritin and heme oxygenase synthesis in rat
+fibroblasts by different forms of iron. Proc Natl Acad Sci U S A
+1991;88:688–92.
+
+K. Erdmann et al. / Journal of Nutritional Biochemistry 19 (2008) 643–654
+
+653
+
+[85] Rival SG, Fornaroli S, Boeriu CG, Wichers HJ. Caseins and casein
+hydrolysates: 1 Lipoxygenase inhibitory properties. J Agric Food
+Chem 2001;49:287–94.
+
+[86] Chan KM, Decker EA. Endogenous skeletal muscle antioxidants. Crit
+
+Rev Food Sci Nutr 1994;34:403–26.
+
+[87] Alabovsky VV, Boldyrev AA, Vinokurov AA, Shchavratsky V. Effect
+of histidine-containing dipeptides on isolated heart under ischemia/
+reperfusion. Biochemistry (Mosc) 1997;62:77–87.
+
+[88] Takenaka A, Annaka H, Kimura Y, Aoki H, Igarashi K. Reduction of
+paraquat-induced oxidative stress in rats by dietary soy peptide.
+Biosci Biotechnol Biochem 2003;67:278–83.
+
+[89] Nagasawa T, Yonekura T, Nishizawa N, Kitts DD. In vitro and in vivo
+inhibition of muscle lipid and protein oxidation by carnosine. Mol
+Cell Biochem 2001;225:29–34.
+
+[90] Laakso S. Inhibition of lipid peroxidation by casein Evidence of
+molecular encapsulation of 1,4-pentadiene fatty acids. Biochim
+Biophys Acta 1984;792:11–5.
+
+[91] Bertina RM. Molecular risk factors for thrombosis. Thromb Haemost
+
+1999;82:601–9.
+
+[92] Grundy SM, Balady GJ, Criqui MH, Fletcher G, Greenland P,
+Hiratzka LF, et al. Primary prevention of coronary heart disease:
+guidance from Framingham: a statement for healthcare professionals
+from the AHA Task Force on Risk Reduction American Heart
+Association. Circulation 1998;97:1876–87.
+
+[93] Jolles P. Structural aspects of the milk clotting process Comparative
+features with the blood clotting process. Mol Cell Biochem 1975;7:
+73–85.
+
+[94] Qian ZY, Jolles P, Migliore-Samour D, Schoentgen F, Fiat AM. Sheep
+kappa-casein peptides inhibit platelet aggregation. Biochim Biophys
+Acta 1995;1244:411–7.
+
+[95] Jolles P, Levy-Toledano S, Fiat AM, Soria C, Gillessen D,
+Thomaidis A, et al. Analogy between fibrinogen and casein Effect
+of an undecapeptide isolated from kappa-casein on platelet function.
+Eur J Biochem 1986;158:379–82.
+
+[96] Raha S, Dosquet C, Abgrall JF, Jolles P, Fiat AM, Caen JP. KRDS —
+a tetrapeptide derived from lactotransferrin-inhibits binding of
+monoclonal antibody against glycoprotein IIb–IIIa on ADP-stimu-
+lated platelets and megakaryocytes. Blood 1988;72:172–8.
+
+[97] Mazoyer E, Levy-Toledano S, Rendu F, Hermant L, Lu H, Fiat AM,
+et al. KRDS, a new peptide derived from human lactotransferrin,
+inhibits platelet aggregation and release reaction. Eur J Biochem
+1990;194:43–9.
+
+[98] Drouet L, Bal dit Sollier C, Cisse M, Pignaud G, Mazoyer E, Fiat AM,
+et al. The antithrombotic effect of KRDS, a lactotransferrin peptide,
+compared with RGDS. Nouv Rev Fr Hematol 1990;32:59–62.
+
+[99] Maubois JL, Leonil J, Trouve R, Bouhallab S. Milk peptides with
+physiological activities: III Peptides with a cardiovascular effect:
+antithrombotic and antihypertensive activity. Lait 1991;71:249–55.
+[100] Rutherfurd KJ, Gill HS. Peptides affecting coagulation. Br J Nutr
+
+2000;84(Suppl 1):S99–S102.
+
+[101] Hokanson JE, Austin MA. Plasma triglyceride level is a risk factor for
+cardiovascular disease independent of high-density lipoprotein
+cholesterol level: a meta-analysis of population-based prospective
+studies. J Cardiovasc Risk 1996;3:213–9.
+
+[102] Martin MJ, Hulley SB, Browner WS, Kuller LH, Wentworth D.
+Serum cholesterol, blood pressure, and mortality: implications from a
+cohort of 361,662 men. Lancet 1986;2:933–6.
+
+[103] Hori G, Wang MF, Chan YC, Komatsu T, Wong Y, Chen TH, et al.
+Soy protein hydrolyzate with bound phospholipids reduces serum
+cholesterol
+levels in hypercholesterolemic adult male volunteers.
+Biosci Biotechnol Biochem 2001;65:72–8.
+
+[104] Sugano M, Goto S, Yamada Y, Yoshida K, Hashimoto Y, Matsuo T,
+et al. Cholesterol-lowering activity of various undigested fractions
+of soybean protein in rats. J Nutr 1990;120:977–85.
+
+[105] Zhang X, Beynen AC. Lowering effect of dietary milk-whey protein v
+casein on plasma and liver cholesterol concentrations in rats. Br J
+Nutr 1993;70:139–46.
+
+[106] Nagaoka S, Kanamaru Y, Kojima T, Kuwata T. Comparative studies
+on the serum cholesterol lowering action of whey protein and soybean
+protein in rats. Biosci Biotechnol Biochem 1992;56:1484–5.
+
+[107] Carroll KK, Hamilton RMG. Effects of dietary protein and
+levels in relation to athero-
+
+carbohydrate on plasma cholesterol
+sclerosis. J Food Sci 1975;40:18–23.
+
+[108] Van der Meer R, De Vries HT, Van Tintelen G. The phosphorylation
+state of casein and the species-dependency of its hypercholester-
+olaemic effect. Br J Nutr 1988;59:467–73.
+
+[109] Potter SM. Overview of proposed mechanisms for the hypocholes-
+
+terolemic effect of soy. J Nutr 1995;125:606S–11S.
+
+[110] Nagata Y, Ishiwaki N, Sugano M. Studies on the mechanism of
+antihypercholesterolemic action of soy protein and soy protein-
+type amino acid mixtures in relation to the casein counterparts in
+rats. J Nutr 1982;112:1614–25.
+
+[111] Huff MW, Carroll KK. Effects of dietary proteins and amino acid
+mixtures on plasma cholesterol levels in rabbits. J Nutr 1980;110:
+1676–85.
+
+[112] Wang MF, Yamamoto S, Chung HM, Chung SY, Miyatani S, Mori M,
+et al. Antihypercholesterolemic effect of undigested fraction of
+soybean protein in young female volunteers. J Nutr Sci Vitaminol
+(Tokyo) 1995;41:187–95.
+
+[113] Yoshikawa M, Fujita H, Matoba N, Takenaka Y, Yamamoto T,
+Yamauchi R, et al. Bioactive peptides derived from food proteins
+preventing lifestyle-related diseases. Biofactors 2000;12:143–6.
+
+[114] Takenaka Y, Utsumi S, Yoshikawa M. Introduction of enterostatin
+(VPDPR) and a related sequence into soybean proglycinin A1aB1b
+subunit by site-directed mutagenesis. Biosci Biotechnol Biochem
+2000;64:2731–3.
+
+[115] Pak VV, Koo MS, Kasymova TD, Kwon DY.
+
+Isolation and
+identification of peptides from soy 11S-globulin with hypocholester-
+olemic activity. Chem Nat Compd 2005;41:710–4.
+
+[116] Pak VV, Koo M, Lee N, Kim MS, Kwon DY. Structure–activity
+relationships of the peptide Ile-Ala-Val-Pro and its derivatives
+revealed using the semi-empirical AM1 method. Chem Nat Compd
+2005;41:454–60.
+
+[117] Lovati MR, Manzoni C, Gianazza E, Arnoldi A, Kurowska E, Carroll
+KK, et al. Soy protein peptides regulate cholesterol homeostasis in
+Hep G2 cells. J Nutr 2000;130:2543–9.
+
+[118] Duranti M, Lovati MR, Dani V, Barbiroli A, Scarafoni A, Castiglioni
+S, et al. The alpha′ subunit from soybean 7S globulin lowers plasma
+lipids and upregulates liver beta-VLDL receptors in rats fed a
+hypercholesterolemic diet. J Nutr 2004;134:1334–9.
+
+[119] Iritani N, Nagashima K, Fukuda H, Katsurada A, Tanaka T. Effects of
+dietary proteins on lipogenic enzymes in rat liver. J Nutr 1986;116:
+190–7.
+
+[120] Iritani N, Hosomi H, Fukuda H, Tada K, Ikeda H. Soybean protein
+suppresses hepatic lipogenic enzyme gene expression in Wistar fatty
+rats. J Nutr 1996;126:380–8.
+
+[121] Moriyama T, Kishimoto K, Nagai K, Urade R, Ogawa T, Utsumi S, et
+al. Soybean beta-conglycinin diet suppresses serum triglyceride levels
+in normal and genetically obese mice by induction of beta-oxidation,
+downregulation of fatty acid synthase, and inhibition of triglyceride
+absorption. Biosci Biotechnol Biochem 2004;68:352–9.
+
+[122] Kagawa K, Matsutaka H, Fukuhama C, Watanabe Y, Fujino H.
+Globin digest, acidic protease hydrolysate, inhibits dietary hyper-
+triglyceridemia and Val-Val-Tyr-Pro, one of its constituents, possesses
+most superior effect. Life Sci 1996;58:1745–55.
+
+[123] Kagawa K, Matsutaka H, Fukuhama C, Fujino H, Okuda H.
+Suppressive effect of globin digest on postprandial hyperlipidemia
+in male volunteers. J Nutr 1998;128:56–60.
+
+[124] Nagaoka S. Studies on regulation of cholesterol metabolism induced
+by dietary food constituents or xenobiotics. J Jpn Soc Nutr Food Sci
+1996;49:303–13.
+
+[125] Nagaoka S, Kanamaru Y, Kuzuya Y. Effect of whey protein and
+casein on the plasma and liver lipid in rats. Agric Biol Chem 1991;55:
+813–8.
+
+654
+
+K. Erdmann et al. / Journal of Nutritional Biochemistry 19 (2008) 643–654
+
+[126] Nagaoka S, Futamura Y, Miwa K, Awano T, Yamauchi K, Kanamaru Y,
+et al. Identification of novel hypocholesterolemic peptides derived
+from bovine milk beta-lactoglobulin. Biochem Biophys Res Commun
+2001;281:11–7.
+
+[127] Morikawa K, Kondo I, Kanamaru Y, Nagaoka S. A novel regulatory
+pathway for cholesterol degradation via lactostatin. Biochem Biophys
+Res Commun 2007;352:697–702.
+
+[128] Hubert HB, Feinleib M, McNamara PM, Castelli WP. Obesity as an
+independent risk factor for cardiovascular disease: a 26-year follow-
+up of participants in the Framingham Heart Study. Circulation 1983;
+67:968–77.
+
+[129] Howard BV. Insulin resistance and lipid metabolism. Am J Cardiol
+
+1999;84:28J–32J.
+
+[130] Krauss RM, Winston M, Fletcher RN, Grundy SM. Obesity: impact
+
+of cardiovascular disease. Circulation 1998;98:1472–6.
+
+[131] Anderson GH, Moore SE. Dietary proteins in the regulation of food
+
+intake and body weight in humans. J Nutr 2004;134:974S–9S.
+
+[132] Johnstone AM, Stubbs RJ, Harbron CG. Effect of overfeeding
+macronutrients on day-to-day food intake in man. Eur J Clin Nutr
+1996;50:418–30.
+
+[133] Hu FB. Protein, body weight, and cardiovascular health. Am J Clin
+
+Nutr 2005;82:242S–7S.
+
+[134] Aoyama T, Fukui K, Nakamori T, Hashimoto Y, Yamamoto T,
+Takamatsu K, et al. Effect of soy and milk whey protein isolates and
+their hydrolysates on weight reduction in genetically obese mice.
+Biosci Biotechnol Biochem 2000;64:2594–600.
+
+[135] Aoyama T, Fukui K, Takamatsu K, Hashimoto Y, Yamamoto T. Soy
+protein isolate and its hydrolysate reduce body fat of dietary obese rats
+and genetically obese mice (yellow KK). Nutrition 2000;16:349–54.
+[136] Belobrajdic DP, McIntosh GH, Owens JA. A high-whey-protein diet
+reduces body weight gain and alters insulin sensitivity relative to red
+meat in Wistar rats. J Nutr 2004;134:1454–8.
+
+[137] Pupovac J, Anderson GH. Dietary peptides induce satiety via
+cholecystokinin-A and peripheral opioid receptors in rats. J Nutr
+2002;132:2775–80.
+
+[138] Baile CA, McLaughlin CL, Della-Fera MA. Role of cholecystokinin
+and opioid peptides in control of food intake. Physiol Rev 1986;66:
+172–234.
+
+[139] Reidelberger RD. Cholecystokinin and control of food intake. J Nutr
+
+1994;124:1327S–33S.
+
+[140] Nishi T, Hara H, Tomita F. Soybean beta-conglycinin peptone
+suppresses food intake and gastric emptying by increasing plasma
+cholecystokinin levels in rats. J Nutr 2003;133:352–7.
+
+[141] Nishi T, Hara H, Kasai T. Guanidinated casein hydrolysate stimulates
+pancreatic secretagogue release by direct action to the intestine in rats.
+Proc Soc Exp Biol Med 1998;218:357–64.
+
+[142] Froetschel MA, Azain MJ, Edwards GL, Barb CR, Amos HE. Opioid
+and cholecystokinin antagonists alleviate gastric inhibition of food
+intake by premeal loads of casein in meal-fed rats. J Nutr 2001;131:
+3270–6.
+
+[143] Pedersen NL, Nagain-Domaine C, Mahe S, Chariot J, Roze C, Tome D.
+Caseinomacropeptide specifically stimulates exocrine pancreatic
+secretion in the anesthetized rat. Peptides 2000;21:1527–35.
+
+[144] Beucher S, Levenez F, Yvon M, Corring T. Effects of gastric digestive
+products from casein on CCK release by intestinal cells in rat. J Nutr
+Biochem 1994;5:578–84.
+
+[145] Daniel H, Vohwinkel M, Rehner G. Effect of casein and beta-
+casomorphins on gastrointestinal motility in rats. J Nutr 1990;120:
+252–7.
+
+[146] Schusdziarra V, Schick A, de la Fuente A, Specht J, Klier M, Brantl V,
+et al. Effect of beta-casomorphins and analogs on insulin release in
+dogs. Endocrinology 1983;112:885–9.
+
+[147] Clare DA, Swaisgood HE. Bioactive milk peptides: a prospectus.
+
+J Dairy Sci 2000;83:1187–95.
+
+[148] Beucher S, Levenez F, Yvon M, Corring T. Effect of case-
+inomacropeptide (CMP) on cholecystokinin (CCK) release in rat.
+Reprod Nutr Dev 1994;34:613–4.
+
+[149] Aziz A, Anderson GH. Exendin-4, a GLP-1 receptor agonist, interacts
+with proteins and their products of digestion to suppress food intake
+in rats. J Nutr 2003;133:2326–30.
+
+[150] Hall WL, Millward DJ, Long SJ, Morgan LM. Casein and whey exert
+different effects on plasma amino acid profiles, gastrointestinal
+hormone secretion and appetite. Br J Nutr 2003;89:239–48.
+
+[151] Cordier-Bussat M, Bernard C, Levenez F, Klages N, Laser-Ritz B,
+Philippe J, et al. Peptones stimulate both the secretion of the incretin
+hormone glucagon-like peptide 1 and the transcription of the
+proglucagon gene. Diabetes 1998;47:1038–45.
+
+[152] Nagasawa A, Fukui K, Funahashi T, Maeda N, Shimomura I, Kihara
+S, et al. Effects of soy protein diet on the expression of adipose genes
+and plasma adiponectin. Horm Metab Res 2002;34:635–9.
+
+[153] Velasquez MT, Bhathena SJ. Role of dietary soy protein in obesity. Int
+
+J Med Sci 2007;4:72–82.
+
+[154] Ascencio C, Torres N, Isoard_Acosta F, Gomez_Perez FJ, Hernan-
+dez_Pando R, Tovar AR. Soy protein affects serum insulin and
+hepatic SREBP_1 mRNA and reduces fatty liver in rats. J Nutr 2004;
+134:522–9.
+
+

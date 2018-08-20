@@ -364,7 +364,7 @@ def sort_CSV(filename, path):
 
 #Make function calls
 
-run_testing_data('cancer', 2, 25)
-sort_CSV('best_matches.csv', 'cancer')
+#pdf_to_text('cvd')
 
-#pdf_to_text('cancer')
+run_testing_data('cvd', 2, 400)
+sort_CSV('best_matches.csv', 'cvd')

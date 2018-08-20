@@ -1,0 +1,1077 @@
+International Journal of Cardiology 168 (2013) 1841–1846
+
+Contents lists available at ScienceDirect
+
+International Journal of Cardiology
+
+j o ur n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / i j c a r d
+
+Serum β-carotene concentrations and the risk of congestive heart failure in men:
+A population-based study☆
+Jouni Karppi a,b,⁎, Sudhir Kurl a, Timo H. Mäkikallio c, Kimmo Ronkainen a, Jari A. Laukkanen a,b
+a University of Eastern Finland, Department of Medicine, Institute of Public Health and Clinical Nutrition, Kuopio, Finland
+b Department of Internal Medicine, Lapland Central Hospital, Rovaniemi, Finland
+c Division of Cardiology, Department of Internal Medicine, University of Oulu, Oulu, Finland
+
+a r t i c l e
+
+i n f o
+
+a b s t r a c t
+
+Article history:
+Received 24 October 2012
+Received in revised form 13 December 2012
+Accepted 25 December 2012
+Available online 17 January 2013
+
+Keywords:
+Congestive heart failure
+Carotenoids
+β-carotene
+Men
+
+Background: Fruit and vegetable intake has been associated with lower risk for cardiovascular diseases, but
+data on congestive heart failure (CHF) are inconsistent. The association of serum carotenoids, biomarkers
+reﬂecting fruit and vegetable intake, with the risk of CHF has not been well documented in previous studies.
+We therefore examined the association between carotenoid levels and the risk of CHF.
+Methods: Data were available for 1031 males aged 46 to 65 years participating in the Kuopio Ischaemic Heart
+Disease Risk Factor Study (Finland). Baseline data for the present study were collected between 1991 and
+1993. The association between serum concentrations of carotenoids and the risk of CHF was examined by
+using Cox proportional hazard models.
+Results: During the median of 17.8 follow-up years, CHF occurred in 72 patients. Age and examination year
+adjusted risk (hazard ratio, HR) for CHF among men within the lowest quartile of serum β-carotene was
+4.08 (95% CI, 1.90–8.78, p b0.001) as compared to men in the highest quartile of serum β-carotene. After further
+adjustment for many potential confounders, men with the lowest quartile of β-carotene had almost 3-fold in-
+creased risk of CHF (HR=2.78, 95% CI, 1.23–6.25, p=0.014). However, serum concentrations of lycopene and
+α-carotene were not related to the risk of CHF.
+Conclusions: The present study suggests that low concentrations of serum β-carotene may be associated with an
+increased risk of CHF.
+
+© 2013 Elsevier Ireland Ltd. All rights reserved.
+
+1. Introduction
+
+Congestive heart failure (CHF) is a leading cause of cardiovascular
+mortality and morbidity in the Western world [1] that affects over 15
+million patients in Europe [2]. There is emerging evidence that oxida-
+tive stress and inﬂammation are involved in the pathophysiology of
+CHF [3], but the role of serum carotenoids, and the risk of heart failure
+is not well known. The incidence and prevalence of CHF increases
+with age and is estimated to rise in the next decade due to increasing
+average age of the population [4,5]. The prognosis of advanced CHF is
+poor in the elderly population [2]. Major causes of CHF are hypertension
+and coronary heart disease (CHD) [6]. Other identiﬁed risk factors for
+CHF include left ventricular hypertrophy, valvular heart disease, diabetes
+mellitus, smoking, obesity and dyslipidemia [6].
+
+Some previous case-control studies have shown a relationship
+between antioxidant levels and the severity of CHF [7,8]. It may be
+
+☆ Grant support: This work was supported by the EVO funding of Lapland Central
+Hospital and Orion-Farmos Research Foundation.
+
+⁎ Corresponding author at: University of Eastern Finland, Department of Medicine,
+Institute of Public Health and Clinical Nutrition, P.O. Box 1627, FI-70211 Kuopio, Finland.
+Tel.: +358 50 5847631; fax: +358 17 162936.
+
+E-mail address: jouni.karppi@uef.ﬁ (J. Karppi).
+
+0167-5273/$ – see front matter © 2013 Elsevier Ireland Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.ijcard.2012.12.072
+
+possible that antioxidants, such as β-carotene that eliminate free rad-
+icals, are important factors reducing oxidative stress and inﬂammation
+[7,9]. However, there is only one previous population-based study that
+has shown low serum levels of β-carotene predicting a higher risk of
+heart failure (HF) independently of risk factors [3]. The aim of the present
+study was to examine whether carotenoids are associated with the risk
+of CHF in Finnish men. This study cohort has been followed prospectively
+for >17 years to ascertain the incidence of CHF.
+
+2. Methods
+
+2.1. Study population
+
+The analyses were carried out among the participants of the Kuopio Ischaemic Heart
+Disease Risk Factor (KIHD) Study, a longitudinal population based study designed to in-
+vestigate risk factors for cardiovascular disease, atherosclerosis and related outcomes
+[10]. The study population is a representative sample of men living in the city of Kuopio
+and its surrounding rural communities, who were 46 to 65 years of age at baseline. The
+baseline examinations of the present study were performed between 1991 and 1993. Of
+1229 potentially eligible men, 1038 (83%) volunteered to participate at baseline examina-
+tions, 107 declined to participate, and 52 were not able because of illness, relocation or
+death. There were 473 subjects who had arterial hypertension and 191 subjects ischemic
+heart disease at the baseline. Participants without history of CHF at the baseline examina-
+tion were eligible for the present study, whereas men with history of CHF during the study
+recruitment period were excluded. Women were not included in this cohort, because the
+
+1842
+
+J. Karppi et al. / International Journal of Cardiology 168 (2013) 1841–1846
+
+follow-up study was based on men who were previously studied. Thus, complete data on
+concentrations of carotenoids was available for 1031 men. The study protocol conforms to
+the ethical guidelines of the 1975 Declaration of Helsinki as reﬂected in a priori approval
+by the institution's human research committee. The KIHD study was approved by the
+Research Ethics Committee of the University of Kuopio, and each participant gave written
+informed consent. The authors of this manuscript have certiﬁed that they comply with the
+Principles of Ethical Publishing in the International Journal of Cardiology.
+
+2.2. Biochemical analyses
+
+2.2.1. Blood sampling
+
+Blood specimens were collected in Terumo Venoject vacuum tubes (10 mL) (Terumo,
+Tokyo) from the antecubital vein without tourniquet after an overnight fast. Subjects had
+rested in a supine position for 30 min before blood sampling. Subjects were instructed to
+abstain from consuming alcohol for three days and from smoking for 12 h before blood
+collection. Serum for carotenoids and other biochemical measurements were frozen
+immediately after separation at −80 °C.
+
+2.2.2. Measurement of carotenoids
+
+Lycopene, α-carotene and β-carotene serum concentrations were measured from
+frozen serum that had been stored at −80 °C for 4–36 months by using a modiﬁcation
+of the high-performance liquid chromatographic method of Thurnham et al. [11]. Brieﬂy,
+200 μL of serum was extracted with 5 mL of hexane and 1 mL of ethanol. The hexane layer
+was separated and evaporated to dryness under nitrogen at room temperature and the
+residue was dissolved in 200 μL of the mobile phase (acetonitrile-methanol-chloroform
+47:47:6, v/v/v). Samples were injected in a C18 analytical column at room temperature.
+Peaks were detected at wavelengths of 470 nm for lycopene, at 454 nm for other carotenoids
+by a diode array detector (Model 168; Beckman Instruments, San Ramon, CA, USA). The
+limits of detection for carotenoids were 0.03–0.07 μmol/L. Values below the limit of detection
+of the assay were marked as 0.00 in the statistical analysis. The inter-assay coefﬁcients of
+variation (CV) varied from 11.0 to 16.2% [12].
+
+2.2.3. Other biochemical measurements
+
+Concentrations of serum LDL (low-density lipoprotein) cholesterol and triglycerides
+were analyzed with enzymatic methods (Thermo Fisher Scientiﬁc, Vantaa, Finland).
+Serum HDL (high-density lipoprotein) cholesterol was measured after magnesium chlo-
+ride dextran sulfate precipitation from the supernatant with enzymatic method (Thermo
+Fisher Scientiﬁc). Serum high sensitivity C-reactive protein (hs-CRP) was measured by
+the chemiluminescence-immunoassay method using Immulite 2000 analyzer (DPC, Los
+Angeles, USA). Samples for measuring plasma concentrations of natriuretic propeptides
+were collected into tubes at room temperature and then frozen. NT-proBNP was deter-
+mined with radioimmunoassay utilizing antisera directed to NT-proBNP10–29, as described
+in detail previously [13].
+
+2.3. Other measurements
+
+Resting blood pressure was measured in the morning by two trained nurses with a
+random-zero mercury sphygmomanometer (Hawksley, Lancing, United Kingdom).
+Blood pressure at rest was measured by a nurse with a random 0 mercury sphygmo-
+manometer (Hawksley, United Kingdom; from 8:00 to 10:00 a.m). The measuring
+protocol included, after a supine rest of 5 min, 3 measurements in the supine position, 1
+measurement in the standing position, and 2 measurements in the sitting position at
+5-minute intervals. The mean of 6 systolic and diastolic pressures was used in these analyses
+[14]. Presence of hypertension was deﬁned as systolic blood pressure >165 mmHg and/or
+diastolic blood pressure >95 mmHg with current use of antihypertensive medication.
+Diabetes mellitus was deﬁned as a fasting blood glucose level ≥6.7 mmol/L or as a clinical
+diagnosis of diabetes with dietary, oral or insulin treatment. Body mass index (BMI) was
+computed as the ratio of weight (kilograms) to the square of height (meters). Alcohol con-
+sumption was assessed with a structured quantity-frequency method on drinking behaviour
+over the previous 12 months. Information on chronic diseases was checked during a medical
+examination by the internist. Data on education, current medications and smoking status
+were collected with a self-administered questionnaire and checked by the interviewer.
+Education was coded into three categories based on years of education (b6, 7–11, and
+12 or more years). Subjects were grouped, based on educational levels high school or
+less, high school and college or post graduate [15]. Physical activity was assessed by
+using a 12-month leisure-time history based on self-reported information on frequency
+per month over the preceding year, average duration per occasion, and intensity level. A
+subject was deﬁned a smoker if he had ever smoked on a regular basis and had smoked
+cigarettes, cigars, or a pipe within the past 30 days. The lifelong exposure to smoking
+was estimated as the product of the number of smoking years and the number of tobacco
+products smoked daily at the time of examination.
+
+2.4. Ascertainment of follow-up events
+
+Every resident of Finland has a unique personal identiﬁer that is used in registers. There
+were no losses to follow-up. Incidence of CHF cases that occurred between March 1991 and
+December 2010 were included in the study. The diagnostic classiﬁcation of CHF cases were
+coded according to the International Classiﬁcation of Disease ICD 9 (428) and ICD10 (I50)
+codes.
+
+The sources of information on heart failure (HF) were based on interviews, hospital
+documents, death certiﬁcates, autopsy reports and medico-legal reports (ICD codes).
+The classiﬁcation of HF was based on a previous history of heart disease, physical exami-
+nation by a doctor, laboratory investigations including the determination of NT-proBNP,
+echocardiography as well as electrocardiographic ﬁndings. Diastolic dysfunction was de-
+ﬁned by using multiple echocardiographic parameters including mitral inﬂow velocity
+patterns, pulmonary vein ﬂow patterns, the ratio between early (E) and late (atrial-A)
+ventricular ﬁlling velocity (E:A reversal), tissue Doppler measurements, and M-mode
+echo measurements (i.e. of left atrial size) with the use of an elevated NT-proBNP level
+in the presence of normal ejection fraction.
+
+2.5. Statistical analysis
+
+Continuous variables were presented as means (standard deviations in parentheses)
+and categorical variables as percentages. Normal distributions of carotenoids were tested
+by Kolmogorov-Smirnov test. Means of the continuous variables were compared using the
+ANOVA and χ2 tests were used for categorical variables. Tests of linear trend were
+conducted by assigning the median values for each category of exposure variable and
+treating those as a single continuous variable. Subjects were classiﬁed into quartiles
+according to their serum concentrations of carotenoids. Hazard ratios (HRs) and 95% con-
+ﬁdence intervals (CIs) for CHF in quartiles of serum concentrations of carotenoids were
+estimated by using Cox proportional hazard's models. Covariates were selected on the
+basis of their previously established role as a predictive factor on the basis of overall evi-
+dence and available data [3]. Thus, risk factors or covariates were chosen based on their
+clinical relevance. Three different sets of covariates were used: 1) age and examination
+year; 2) Model 1+BMI, years of education, smoking (yes vs. no), alcohol consumption,
+physical activity, serum hs-CRP and serum LDL cholesterol; 3) Model 2+diabetes, arterial
+hypertension with the use of antihypertensive medication (none vs. any β-blockers, ACE
+inhibitors or angiotensin II antagonists and any calcium channel blockers or other), HF at
+baseline examination and prevalent CHD. Kaplan-Meier curves were constructed using
+the date of the baseline measure of carotenoids until CHF or censoring. Comparison of
+the groups deﬁned by the carotenoid levels was assessed by the log-rank test. Tests for
+statistical signiﬁcance were two sided and differences with pb0.05 were considered
+
+Table 1
+Characteristics in participants with or without congestive heart failure (n=1031).
+
+CHF
+
+No
+(n=959 [93.0%])
+
+Yes
+(n=72 [7.0%]) p-value⁎
+
+Demographic characteristics
+Age (years)
+BMI (kg/m2)
+Systolic blood pressure (mm Hg)
+Smoking (pack-years)†
+Smokers (%)‡
+Alcohol consumption (g/week)
+Physical activity (kcal/d)
+Years of education
+
+55.9 (6.7)
+27.5 (3.6)
+135 (16)
+6.6 (13.7)
+28.0
+80.6 (124.7)
+176.0 (206.6)
+9.3 (3.6)
+
+60.2 (5.1)
+28.6 (3.8)
+141 (19)
+9.1 (19.2)
+29.0
+52.6 (73.1)
+162.6 (208.8)
+8.1 (2.3)
+
+Medical history
+HF at baseline examination (%)
+Prevalent CHD (%)§
+Hypertension with antihypertensive
+
+medication (%)
+
+Antihypertensive medication (%)
+Diabetics (%)
+
+6.0
+20.0
+49.0
+
+26.0
+6.0
+
+19.0
+49.0
+74.0
+
+57.0
+19.0
+
+Laboratory data
+Serum lycopene (μmol/L)
+Serum α-carotene (μmol/L)
+Serum β-carotene (μmol/L)
+Serum HDL cholesterol (mmol/L)
+Serum LDL cholesterol (mmol/L)
+Serum triglycerides (mmol/L)
+Plasma NT-proBNP (ng/L)
+Serum hs-CRP (mg/L)
+
+0.097 (0.10)
+0.097 (0.080)
+0.39 (0.31)
+1.11 (0.29)
+3.94 (0.85)
+1.60 (1.03)
+654 (495)
+3.21(6.62)
+
+0.16 (0.14)
+0.086 (0.055)
+0.29 (0.15)
+0.98 (0.28)
+3.85 (0.72)
+1.85 (1.18)
+1081 (1092)
+4.62 (7.29)
+
+b0.001
+0.008
+0.002
+0.154
+0.779
+0.061
+0.594
+0.004
+
+b0.001
+b0.001
+b0.001
+
+b0.001
+b0.001
+
+b0.001
+0.249
+0.004
+b0.001
+0.385
+0.053
+b0.001
+0.083
+
+Values are given mean (SD) and percentages.
+ANP, A-type natriuretic peptide; AF, atrial ﬁbrillation; BMI, body mass index; BNP,
+B-type natriuretic peptide; CHD, coronary heart disease; CHF, congestive heart failure;
+HDL, high-density lipoprotein; HF, heart failure; hs-CRP, high sensitivity C-reactive
+protein; LDL, low-density lipoprotein.
+
+⁎ p for differences between those with and without CHF (one-way ANOVA).
+† Pack-years denote the lifelong exposure to smoking, estimated as the product of years
+
+smoked and the number of tobacco products smoked daily at the time of examination.
+
+‡ Chi-square test.
+§ Prevalent coronary heart disease includes previous history of myocardial infarction
+
+and/or the diagnosis of coronary heart disease.
+
+J. Karppi et al. / International Journal of Cardiology 168 (2013) 1841–1846
+
+1843
+
+statistically signiﬁcant. SPSS software (version 19.0; SPSS, Inc., Chicago, IL, USA) was used
+for statistical analyses.
+
+3. Results
+
+3.1. Baseline characteristics
+
+Baseline characteristics in men with or without CHF during the
+follow-up are shown in Table 1. The mean age of the subjects was
+56.2 years (range 46.4–65.4 years). Subjects with CHF were older,
+less educated, had higher systolic blood pressure, plasma NT-pro
+BNP levels, BMI, lower levels of serum lycopene, β-carotene and HDL
+cholesterol, and used more drugs for hypertension than CHF free sub-
+jects. They were more likely to have prevalent CHD, diabetes and HF
+at baseline examination. Table 2 shows the baseline characteristics of
+the subjects categorized by quartiles of serum β-carotene. BMI, systolic
+blood pressure, smoking, alcohol consumption, drugs for hypertension,
+prevalence of hypertension, CHD, concentrations of serum lycopene,
+α-carotene, LDL cholesterol, trigcerides and high sensitivity CRP differed
+signiﬁcantly between the subjects in different quartiles of β-carotene
+concentration.
+
+Serum lycopene concentrations correlated inversely with age
+(r=−0.30, pb0.001). However, serum α- and β-carotene concentra-
+tions correlated positively with age (r=0.075, p=0.016 and r=0.072,
+p=0.012). Carotenoids correlated inversely with arterial hypertension
+(p b0.001) and in the lowest quartile of carotenoid levels including
+β-carotene, the proportion of hypertensive patients was highest
+(p b0.001) (data not shown).
+
+3.2. Numbers of outcome events during follow-up
+
+The median follow-up time from baseline to CHF, or the end of fol-
+low up was 17.8 years (range 0.10–19.8 years, 18352 person-years).
+There were identiﬁed 72 CHF patients in the cohort during follow-up
+
+period. Log-rank test described the survival curves of patients whether
+quartiles of plasma β-carotene concentrations affect the risk of CHF.
+Kaplan–Meier analysis showed that the risk of CHF was signiﬁcantly
+higher in subjects with the lowest quartile of β-carotene (log-rank,
+p = 0.014) as compared with the highest quartile (Fig. 1).
+
+3.3. Strongest risk predictors for congestive heart failure
+
+In the multivariable or univariate model, the strongest statistically
+signiﬁcant risk factors for CHF were age (HR=1.14), AF (HR=3.66),
+diabetes (HR=4.33), HF at baseline examination (HR=3.08), preva-
+lent CHD (HR=3.15), use of antihypertensive drugs (HR=3.09), arte-
+rial hypertension with the use of antihypertensive drugs (HR=2.47)
+and serum triglycerides (HR=1.29) after adjustment for age and exam-
+ination year. Serum HDL cholesterol seems to be a strong protective fac-
+tor against CHF (HR=0.14) (Table 3).
+
+3.4. Concentrations of carotenoids and risk of congestive heart failure
+
+Trend was linear across the quartiles of β-carotene (p=0.004) and
+CHF cases. Age and examination year adjusted hazard ratio (HR) of
+CHF among men within the lowest quartile of serum β-carotene was
+4.08 (95% CI: 1.90–8.78, p b0.001) (Model 1). After further adjusting
+for potential confounders in Model 2, including BMI, years of education,
+smoking, alcohol consumption, physical activity, serum hs-CRP and
+serum LDL cholesterol, men with the lowest quartile of β-carotene had
+a 3-fold increased risk of CHF (HR=3.20; 95% CI: 1.43–7.15, p=0.005).
+Results slightly changed, when diabetes, hypertension with the current
+use of antihypertensive medication, HF at baseline examination and
+prevalent CHD were included in Model 3 (HR=2.78; 95% CI: 1.23–6.25,
+p=0.014) (Table 4). With serum β-carotene treated as continuous
+variables, the adjusted HR was 0.12 (95% CI: 0.24–0.60, p=0.010) for
+the risk of CHF. Moreover, low levels of β-carotene increased the risk
+of CHD death (HR=2.13, 95% CI: 1.11–4.11, p=0.024).
+
+Table 2
+Demographic characteristics of the study population by categories of β-carotene, aged 46–65 years (n=1031).
+
+Quartile of β-carotene (μmol/L)
+≤0.22
+(n=248)
+
+0.23–0.32
+(n=276)
+
+0.33–0.46
+(n=252)
+
+>0.46
+(n=255)
+
+p for
+heterogeneity⁎
+
+Demographic characteristics
+Age (years)
+BMI (kg/m2)
+Systolic blood pressure (mm Hg)
+Smoking (pack-years)
+Smokers (%)
+Alcohol consumption (g/week)
+Physical activity (kcal/d)
+Years of education
+
+55.5 (6.7)†
+28.7 (3.9)
+140 (18)
+10.0 (16.3)
+38.0‡
+117.4 (167.4)
+158.2 (194.3)
+8.9 (3.2)
+
+Medical history
+Diabetics (%)
+Prevalent CHD (%)§
+HF at baseline examination (%)
+Hypertension with antihypertensive medication (%)
+Antihypertensive medication (%)
+
+8.0
+24.0
+9.0
+65.0
+37.0
+
+56.3 (6.8)
+27.7 (3.7)
+136 (16)
+8.1 (15.8)
+33.0
+91.8 (139.3)
+170.6 (197.8)
+9.0 (3.3)
+
+9.0
+29.0
+8.0
+57.0
+30.0
+
+Laboratory data
+Serum lycopene (μmol/L)
+Serum α-carotene (μmol/L)
+Serum HDL cholesterol (mmol/L)
+Serum LDL cholesterol (mmol/L)
+Serum triglycerides (mmol/L)
+Plasma NT-proBNP (ng/L)
+hs-CRP (mg/L)
+
+Abbreviations as in Table 1.
+
+0.10 (0.10)
+0.053 (0.048)
+1.10 (0.34)
+3.75 (0.84)
+1.94 (1.30)
+731 (627)
+4.11 (7.72)
+
+0.14 (0.14)
+0.076 (0.051)
+1.07 (0.26)
+3.96 (0.85)
+1.74 (1.10)
+672 (631)
+3.83 (6.51)
+
+56.1 (6.7)
+27.5 (3.5)
+134 (15)
+5.4 (13.3)
+22.0
+56.4 (73.3)
+179.8 (224.0)
+9.4 (3.7)
+
+5.0
+18.0
+7.0
+48.0
+25.0
+
+0.16 (0.14)
+0.10 (0.053)
+1.10 (0.28)
+3.99 (0.81)
+1.47 (0.88)
+666 (561)
+2.78 (6.16)
+
+57.0 (6.4)
+26.2 (2.8)
+133 (16)
+3.5 (9.4)
+20.0
+48.8 (61.1)
+191.8 (209.6)
+9.6 (4.0)
+
+5.0
+16.0
+4.0
+35.0
+22.0
+
+0.20 (0.15)
+0.16 (0.11)
+1.12 (0.27)
+4.02 (0.85)
+1.32 (0.66)
+669 (421)
+2.49 (6.10)
+
+0.123
+b0.001
+b0.001
+b0.001
+b0.001
+b0.001
+0.312
+0.106
+
+0.178
+0.003
+0.058
+b0.001
+0.001
+
+b0.001
+b0.001
+0.243
+0.001
+b0.001
+0.520
+0.013
+
+⁎ ANOVA.
+† Continuous variables are presented as mean (standard deviations).
+‡ Categorical variables are presented as percentage.
+§ Prevalent coronary heart disease include previous history of myocardial infarction and/or the diagnosis of coronary heart disease.
+
+1844
+
+J. Karppi et al. / International Journal of Cardiology 168 (2013) 1841–1846
+
+The subjects with CHF during the follow-up were different in almost
+all baseline characteristics from those without baseline HF. In our study,
+subjects with CHF during the follow-up had more arterial hypertension
+and CHD than other men at the baseline. Men with new CHF episode
+used more drugs for hypertension, had a higher BMI and the prevalence
+of diabetes. Hypertension and CHD are major risk factors for the inci-
+dence and progression of HF [16]. These two risk factors frequently
+coexist, and have synergistic effects that may promote both left ventric-
+ular remodeling and the progression of HF in the general population.
+The prevention of hypertension and coronary artery disease is impor-
+tant for preventing HF [16]. In the present study, subjects with the
+highest level of blood pressure were more common in the lowest quar-
+tile of β-carotene levels and, on the other hand, the lowest levels of
+β-carotene increased the risk of CHD death, which may explain ﬁndings
+for the risk of CHF. Large population studies have shown that CHF is
+approximately 4-fold more prevalent in diabetics than non-diabetics
+and pre-diabetic disorders are associated with an intermediate preva-
+lence [17,18].
+
+There is only one previous cohort study showing that serum
+β-carotene decreased the risk of HF in middle-aged men [3]. However,
+some prior case-control studies have examined the relationship be-
+tween carotenoid concentrations and CHF [7,8]. Mean plasma concen-
+trations of retinol, α-tocopherol, lutein and lycopene were observed
+to be signiﬁcantly lower in patients with severe CHF (the New York
+Heart Association, NYHA class III) as compared to patients with moder-
+ate CHF (NYHA class II) [8]. In another clinical study, concentrations of
+plasma β-carotene were not different between HF patients and con-
+trols, but concentrations tended to decrease in patients with HF [7].
+
+It is suggested that oxidative stress and inﬂammation are involved
+in the pathophysiology of HF. Some case-control studies have ob-
+served a relationship between antioxidant levels and the severity of
+HF [7,8]. Experimental studies have shown that antioxidants, such
+as β-carotene, may lower the levels of free radicals [19], which are
+important mediators of oxidative stress and inﬂammation. Several
+studies have shown that patients with HF have increased levels of
+serum of inﬂammatory cytokines [20,21]. Data suggest that carotenoids
+also exhibit anti-inﬂammatory activity through induction of programmed
+cell death in activated immune cells [22,23]. Previous studies have
+shown that inﬂammation could be important in the development of
+HF, and found a relationship between various inﬂammatory markers
+and HF [9,24,25]. However, in our study, inﬂammation (hs-CRP) was
+not a predictive risk factor for CHF. A previous report from The Uppsala
+Longitudinal Study of Adult Men (ULSAM) cohort has shown that con-
+centrations of serum β-carotene predict left ventricular diastolic func-
+tion during the 20 year follow-up period [26].
+
+It has been shown a decreasing trend (40% reduction) in death at-
+tributed to HF over the past two decades in Europe including Finland
+[27]. The changes in the Finnish diet and lifestyle, due to changes in
+culture over the past 20 years, may have affected decreased incidence
+of HF. On the basis of lycopene levels, we observed that older men
+consume less tomatoes and tomato-based products than younger men,
+respectively. However, the consumption of fruits and vegetables rich in
+α- and β-carotene has increased over the years, as serum levels of
+α-carotene and β-carotene were directly related to age in our study.
+This may conversely explain the results of the present study. The diet
+in Finland has changed greatly since the early 1970s until these days
+[28]. Nowadays Finnish Health and Nutrition organization recommends
+minimum 400 g of vegetables a day [29]. According to the previous ﬁnd-
+ings from this study [30], it is apparent that Finnish men do not achieve
+that recommendation as it was reported that the daily intake of fruits,
+berries and vegetables was below 300 g/day in middle-aged men.
+
+Strengths of the present study are the use of serum carotenoid
+concentrations instead of dietary intakes for estimating the impact
+of these carotenoids on CHF. Serum concentration of carotenoids is
+a good direct marker for the intake and bioavailability of carotenoids
+from fruits and vegetables, whereas the assessment of dietary
+
+Fig. 1. Kaplan–Meier survival estimates according to the quartiles of serum β-carotene
+concentrations. Log-rank (Mantel–Cox) χ2=10.684, p=0.014.
+
+Concentrations of lycopene and α-carotene were not associated
+with the risk of CHF after adjustment for age, examination year
+and other confounders, although the trend was linear for lycopene
+(p = 0.001). However, low levels of lycopene (HR = 2.23, 95% CI:
+1.12–4.46, p = 0.023) increased the risk of CHD death.
+
+4. Discussion
+
+The main result of our population-based study was that low serum
+concentrations of β-carotene were associated with an increased risk of
+CHF in middle-aged men. The low serum concentration of β-carotene
+may indicate poor diet and lifestyle habits, which could increase the
+risk of CHF regardless of the possible antioxidant activity of β-carotene.
+
+Table 3
+Predictive risk factors for congestive heart failure.
+
+Risk factor
+
+Age (years)
+BMI (kg/m2)
+Systolic blood pressure (mm Hg)
+Alcohol consumption (g/week)
+Smokers (%)
+Cigarette smoking (pack-years)⁎
+Years of education
+Diabetics (%)
+C-reactive protein (mg/L)
+AF (%)
+Prevalent CHD (%)†
+HF at baseline examination (%)
+Hypertension with medication (%)
+Antihypertensive medication (%)
+Serum HDL cholesterol (mmol/L)
+Serum LDL cholesterol (mmol/L)
+Serum total cholesterol (mmol/L)
+Serum triglycerides (mmol/L)
+Plasma NT-proBNP (ng/L)
+
+HR (95% Cl)
+
+1.14 (1.10–1.19)
+1.09 (1.03–1.16)
+1.02 (1.00–1.03)
+1.0 (0.99–1.00)
+1.65 (0.99–2.77)
+1.02 (1.02–1.03)
+0.95 (0.88–1.02)
+4.33 (2.40–7.79)
+1.02 (1.00–1.04)
+3.66 (1.47–9.10)
+3.15 (1.96–5.06)
+3.08 (1.70–5.58)
+2.47(1.45–4.19)
+3.09 (1.92–4.98)
+0.14 (0.05–0.39)
+0.92 (0.69–1.22)
+0.93 (0.72–1.19)
+1.29 (1.09–1.52)
+1.00 (1.00–1.01)
+
+p-value
+
+b0.001
+0.005
+0.022
+0.300
+0.056
+0.003
+0.165
+b0.001
+0.048
+0.005
+b0.001
+b0.001
+0.001
+b0.001
+b0.001
+0.547
+0.548
+0.003
+b0.001
+
+Abbreviations as in Table 1.
+
+⁎ Pack-years denote the lifelong exposure to smoking, estimated as the product of years
+
+smoked and the number of tobacco products smoked daily at the time of examination.
+
+† Prevalent coronary heart disease includes previous history of myocardial infarction
+
+and/or the diagnosis of coronary heart disease.
+
+J. Karppi et al. / International Journal of Cardiology 168 (2013) 1841–1846
+
+1845
+
+Table 4
+Hazard ratios and 95% conﬁdence intervals of congestive heart failure according to quartiles of carotenoids by using Cox proportional hazard's model, the Kuopio Ischaemic Heart
+Disease Risk Factor (KIHD) study (n=1031).
+
+Quartiles of carotenoids
+
+1 (highest)
+
+2
+
+Serum β-carotene (μmol/L)
+No. of cases/no. of total
+HR1† (95% CI)
+HR2‡ (95% CI)
+HR3§ (95% CI)
+Serum lycopene (μmol/L)
+No. of cases/no. of total
+HR1† (95% CI)
+HR2‡ (95% CI)
+HR3§ (95% CI)
+Serum α-carotene (μmol/L)
+No. of cases/no. of total
+HR1† (95% CI)
+HR2‡ (95% CI)
+HR3§ (95% CI)
+
+Abbreviations as in Table 1.
+
+>0.46
+9/255
+1.0⁎
+1.0⁎
+1.0⁎
+>0.22
+7/259
+1.0⁎
+1.0⁎
+1.0⁎
+>0.13
+13/247
+1.0⁎
+1.0⁎
+1.0⁎
+
+0.33–0.46
+17/252
+2.19 (0.97–4.90)
+2.02 (0.89–4.57)
+2.05 (0.90–4.68)
+0.13–0.22
+20/270
+2.14 (0.90–5.09)
+1.89 (0.79–4.53)
+2.11 (0.88–5.07)
+0.10–0.13
+20/234
+1.75 (0.87–3.51)
+1.52 (0.74–2.97)
+1.44 (0.69–3.02)
+
+3
+
+0.23–0.32
+21/276
+2.46 (1.13–5.38)
+2.22 (1.00–4.96)
+1.81 (0.81–4.09)
+0.040–0.12
+18/244
+1.83 (0.75–4.48)
+1.46 (0.59–3.63)
+1.53 (0.62–3.80)
+0.060–0.090
+21/279
+1.63 (0.81–3.25)
+1.45 (0.71–2.97)
+1.46 (0.71–3.02)
+
+4 (lowest)
+≤0.22
+25/248
+4.08 (1.90–8.78)
+3.20 (1.43–7.15)
+2.78 (1.23–6.25)
+≤0.030
+27/258
+3.04 (1.31–7.10)
+2.29 (0.96–5.46)
+1.99 (0.83–4.77)
+≤0.050
+18/271
+1.29 (0.61–2.70)
+1.07 (0.50–2.28)
+0.96 (0.45–2.05)
+
+p-value
+
+b0.001
+0.005
+0.014
+
+0.010
+0.061
+0.124
+
+0.503
+0.867
+0.908
+
+⁎ Reference.
+† Adjusted for age and examination year.
+‡ Adjusted for model 1+BMI, years of education, smoking, alcohol consumption, physical activity, serum hs-CRP and serum LDL cholesterol.
+§ Adjusted for model 2+diabetes, hypertension with antihypertensive medication, prevalent CHD and HF at baseline examination.
+
+questionnaires may cause variation due to their completeness for
+inclusion of carotenoid-containing foods and may affect bias by
+misclassiﬁcation [31]. Other strengths of the study are its population-
+based recruitment, prospectively collected data, and extensive exami-
+nations of potential risk factors. There were also no losses during
+follow-up.
+
+There are also some limitations in this study. A major limitation of
+this study is the single measurement of β-carotene which can change
+or ﬂuctuate over time and to predict an outcome within the next
+20 years of follow up. The observed values of β-carotene are reliable
+representatives of actual values over time. Serum concentrations of
+β-carotene demonstrate short-term dietary intake, because the half-life
+of β-carotene in blood circulation is shown to be approximately one
+month [32]. Multiple-time point measurements would have resulted in
+a more precise estimate. The limitation was that only men could be in-
+cluded in our study. The follow-up study may be biased as the subjects
+may have received advices about their lifestyle changes and medications,
+which included the limitation of population-based follow-up study.
+There is no information whether patients developed ﬁrstly clinically
+manifest ischemic heart disease that eventually could lead to HF. We
+evaluated the effect of carotenoids on hospitalization diagnosed CHF, al-
+ways when ICD code was reported. However, relying on ICD9 codes for
+the diagnosis may lead an underestimation of the incidence of heart
+failure. A self-reported physical activity is also a limitation as it reports
+physical activity over a 12 month period leading to possible errors. In
+addition, the sample size was relatively small and nutrient intake data
+was not available.
+
+In conclusion, the present study suggests that low concentrations
+of serum β-carotene may be associated with the increased risk of CHF
+independently of established risk factors, including prevalent CHD, AF
+and HF at the baseline examination, in population-based study of
+middle-aged men. The clinical implication of presented results is that
+the consumption of fruits and vegetables rich in β-carotene may be
+beneﬁcial against arterial hypertension and CHD, and delay the devel-
+opment of CHF, which may decrease costs of health care in public health
+at the population level.
+
+Acknowledgements
+
+The authors thank the staff of the Institute of Public Health and
+Clinical Nutrition at the University of Eastern Finland for helping with
+data collection.
+
+References
+
+[1] Regitz-Zagrosek V, Oertelt-Prigione S, Seeland U, Hetzer R. Sex and gender
+differences in myocardial hypertrophy and heart failure. Circ J 2010;74:
+1265–73.
+
+[2] Dickstein K, Cohen-Solal A, Filippatos G, et al. ESC guidelines for the diagnosis and
+treatment of acute and chronic heart failure 2008: the Task Force for the diagnosis
+and treatment of acute and chronic heart failure 2008 of the European Society of
+Cardiology. Developed in collaboration with the Heart Failure Association of the
+ESC (HFA) and endorsed by the European Society of Intensive Care Medicine
+(ESICM). Eur J Heart Fail 2008;10:933–89.
+
+[3] Ingelsson E, Arnlov J, Sundstrom J, Zethelius B, Vessby B, Lind L. Novel metabolic
+
+risk factors for heart failure. J Am Coll Cardiol 2005;46:2054–60.
+
+[4] Kannel WB. Incidence and epidemiology of heart failure. Heart Fail Rev 2000;5:
+
+167–73.
+
+[5] Kitzman DW, Daniel KR. Diastolic heart failure in the elderly. Heart Fail Clin 2007;3:
+
+437–53.
+
+[6] Bui AL, Horwich TB, Fonarow GC. Epidemiology and risk proﬁle of heart failure.
+
+Nat Rev Cardiol 2011;8:30–41.
+
+[7] Serdar A, Yesilbursa D, Serdar Z, Dirican M, Turel B, Cordan J. Relation of functional
+capacity with the oxidative stress and antioxidants in chronic heart failure. Congest
+Heart Fail 2001;7:309–11.
+
+[8] Polidori MC, Savino K, Alunni G, et al. Plasma lipophilic antioxidants and
+malondialdehyde in congestive heart failure patients: relationship to disease se-
+verity. Free Radic Biol Med 2002;32:148–52.
+
+[9] Ingelsson E, Arnlov J, Sundstrom J, Lind L. Inﬂammation, as measured by the
+erythrocyte sedimentation rate, is an independent predictor for the development
+of heart failure. J Am Coll Cardiol 2005;45:1802–6.
+
+[10] Salonen JT. Is there a continuing need for longitudinal epidemiologic research?
+The Kuopio Ischaemic Heart Disease Risk Factor Study. Ann Clin Res 1988;20:46–50.
+[11] Thurnham DI, Smith E, Flora PS. Concurrent liquid-chromatographic assay of retinol,
+alpha-tocopherol, beta-carotene, alpha-carotene, lycopene, and beta-cryptoxanthin
+in plasma, with tocopherol acetate as internal standard. Clin Chem 1988;34:377–81.
+[12] Rissanen TH, Voutilainen S, Nyyssönen K, Salonen R, Kaplan GA, Salonen JT. Serum
+lycopene concentrations and carotid atherosclerosis: the Kuopio Ischaemic Heart
+Disease Risk Factor Study. Am J Clin Nutr 2003;77:133–8.
+
+[13] Ala-Kopsala M, Magga J, Peuhkurinen K, et al. Molecular heterogenity has a major
+impact on the measurement of circulating N-terminal fragments of A- and B-type
+natriuretic peptides. Clin Chem 2004;50:1576–88.
+
+[14] Laukkanen JA, Kurl S, Rauramaa R, Lakka TA, Venäläinen JM, Salonen JT. Sys-
+tolic blood pressure response to exercise testing is related to the risk of acute
+myocardial infarction in middle-aged men. Eur J Cardiovasc Prev Rehabil
+2006;13:421–8.
+
+[15] Räsänen J, Kauhanen J, Lakka TA, Kaplan GA, Salonen JT. Religious afﬁliation and
+all-cause mortality: a prospective population study in middle-aged men in Eastern
+Finland. Int J Epidemiol 1996;25:1244–9.
+
+[16] Velagaleti RS, Vasan RS. Heart failure in the twenty-ﬁrst century: is it a coronary
+
+artery disease or hypertension problem? Cardiol Clin 2007;25:487–95.
+
+[17] Davies M, Hobbs F, Davis R, et al. Prevalence of left-ventricular systolic dysfunction
+and heart failure in the Echocardiographic Heart of England Screening study:
+a population based study. Lancet 2001;358:439–44.
+
+[18] Thrainsdottir IS, Aspelund T, Thorgeirsson G, et al. The association between glucose
+abnormalities and heart failure in the population-based Reykjavik study. Diabetes
+Care 2005;28:612–6.
+
+1846
+
+J. Karppi et al. / International Journal of Cardiology 168 (2013) 1841–1846
+
+[19] Yan GL, Liang HY, Wang ZQ, et al. Important role of catalase in the production of
+beta-carotene by recombinant Saccharomyces cerevisiae under H2O2 stress.
+Curr Microbiol 2011;62:1056–61.
+
+[20] Aukrust P, Ueland T, Lien E, et al. Cytokine network incongestive heart failure
+secondary to ischemic or idiopathic dilated cardiomyopathy. Am J Cardiol 1999;83:
+376–82.
+
+[21] Yan AT, Yan RT, Cushman M, et al. Relationship of interleukin-6 with regional and
+global
+left-ventricular function in asymptomatic individuals without clinical
+cardiovascular disease: Insights from the multi-ethnic study of atherosclerosis.
+Eur Heart J 2010;31:768–70.
+
+[22] Novoselova EG, Lunin SM, Novoselova TV, et al. Naturally occurring antioxidant nutrients
+
+reduce inﬂammatory response in mice. Eur J Pharmacol 2009;615:234–40.
+
+[23] Palozza P, Parrone N, Catalano A, Simone R. Tomato lycopene and inﬂammatory
+cascade: basic interactions and clinical implications. Curr Med Chem 2010;17:
+2547–63.
+
+[24] Vasan RS, Sullivan LM, Roubenoff R, et al. Inﬂammatory markers and risk of heart
+failure in elderly subjects without prior myocardial infarction: the Framingham
+Heart Study. Circulation 2003;107:1486–91.
+
+[25] Cesari M, Penninx BW, Newman AB, et al. Inﬂammatory markers and onset of
+cardiovascular events: results from the Health ABC study. Circulation 2003;108:
+2317–22.
+
+[26] Arnlov J, Lind L, Sundstrom J, Andren B, Vessby B, Lithell H. Insulin resistance,
+dietary fat intake and blood pressure predict left ventricular diastolic function
+20 years later. Nutr Metab Cardiovasc Dis 2005;15:242–9.
+
+[27] Laribi S, Aouba A, Nikolaou M, et al. Trends in death attributed to heart
+failure over the past two decades in Europe. Eur J Heart Fail 2012;14:
+234– 9.
+
+[28] Pietinen P, Lahti-Koski M, Vartiainen E, Puska P. Nutrition and cardiovascular
+disease in Finland since the early 1970s: a success story. J Nutr Health Aging 2001;5:
+150–4.
+
+[29] National Nutrition Council. The Finnish nutrition recommendations —
+nutrition and physical balance in 2005. Helsinki: Edita Publishing Ltd.;
+2005.
+
+[30] Rissanen TH, Voutilainen S, Virtanen JK, et al. Low intake of fruits, berries
+and vegetables is associated with excess mortality in men: the Kuopio
+Ischaemic Heart Disease Risk Factor (KIHD) Study.
+J Nutr 2003;133:
+199– 204.
+
+[31] van Het Hof KH, West CE, Weststrate JA, Hautvast JG. Dietary factors that affect
+
+the bioavailability of carotenoids. J Nutr 2000;130:503–6.
+
+[32] Burri BJ, Neidlinger TR, Clifford AJ. Serum carotenoid depletion follows ﬁrst-order
+kinetics in healthy adult women fed naturally low carotenoid diets. J Nutr 2001;131:
+2096–100.
+
+

@@ -1,0 +1,1379 @@
+Fruit and vegetable intake and risk of cardiovascular disease in 
+US adults: the first National Health and Nutrition Examination 
+Survey Epidemiologic Follow-up Study1–3
+
+Lydia A Bazzano, Jiang He, Lorraine G Ogden, Catherine M Loria, Suma Vupputuri, Leann Myers, and Paul K Whelton
+
+ABSTRACT
+Background: Epidemiologic studies report inconsistent findings
+on the association of fruit and vegetable intake with the risk of
+cardiovascular disease.
+Objective: The  objective  was  to  examine  the  relation  between
+fruit and vegetable intake and the risk of cardiovascular disease.
+Design: We studied 9608 adults aged 25–74 y participating in the
+ﬁrst National Health and Nutrition Examination Survey Epidemio-
+logic Follow-up Study and free of cardiovascular disease at the time
+of  their  baseline  examination  between  1971  and  1975.  Fruit  and
+vegetable  intake  at  baseline  was  measured  with  a  food-frequency
+questionnaire. The incidence of and mortality from cardiovascular
+disease were obtained from medical records and death certiﬁcates.
+Results: Over  an  average  of  19  y, 888  strokes  (218  fatal),
+1786 ischemic heart disease events (639 fatal), 1145 cardiovascular
+disease deaths, and 2530 all-cause deaths were documented. Con-
+suming fruit and vegetables ≥ 3 times/d compared with < 1 time/d
+was associated with a 27% lower stroke incidence [relative risk
+(RR): 0.73; 95% CI: 0.57, 0.95; P for trend = 0.01), a 42% lower
+stroke  mortality  (0.58;  0.33, 1.02;  P for  trend = 0.05), a  24%
+lower  ischemic  heart  disease  mortality  (0.76;  0.56, 1.03;  P for
+trend = 0.07), a  27%  lower  cardiovascular  disease  mortality
+(0.73; 0.58, 0.92; P for trend = 0.008), and a 15% lower all-cause
+mortality (0.85; 0.72, 1.00; P for trend = 0.02) after adjustment
+for established cardiovascular disease risk factors.
+Conclusion: We showed an inverse association of fruit and veg-
+etable  intake  with  the  risk  of  cardiovascular  disease  and  all-
+cause  mortality  in  the  general  US  population.
+Am  J  Clin
+Nutr 2002;76:93–9.
+
+Fruit, vegetables,
+
+KEY  WORDS
+ischemic  heart  disease,
+cerebrovascular disorders, mortality, cohort studies, NHANES I,
+National Health and Nutrition Examination Survey, cardiovascular
+disease
+
+INTRODUCTION
+
+Observational epidemiologic studies have suggested that dietary
+nutrients such as potassium, antioxidants, and folic acid—abundant in
+fruit  and  vegetables—are  associated  with  a  lower  incidence  of  and
+mortality  from  cardiovascular  disease  (1–3).  The  few  prospective
+cohort studies that have examined the relation of fruit and vegetable
+intake with cardiovascular disease have reported inconsistent ﬁndings
+
+See corresponding editorial on page 1.
+
+(4, 5). A review identiﬁed 6 cohort studies that examined the associa-
+tion of fruit and vegetable intake (rather than nutrient intakes) with the
+risk of cardiovascular disease (4). Most of these studies reported no
+association or a nonsigniﬁcant inverse association between fruit and
+vegetable intake and the risk of cardiovascular disease.
+
+National and international recommendations aimed at increas-
+ing fruit and vegetable intake further support the need to evaluate
+the relation between intake of these foods and cardiovascular dis-
+ease (6, 7). Nutritional recommendations are easier to understand
+and follow when phrased in terms of foods rather than nutrients.
+We took advantage of the large sample size and prolonged follow-
+up experience of participants in the National Health and Nutrition
+Examination  Survey  Epidemiologic  Follow-up  Study  (NHEFS)
+to examine the association between fruit and vegetable intake and
+the risk of subsequent cardiovascular disease.
+
+SUBJECTS AND METHODS
+
+Study population
+
+The NHEFS is an ongoing prospective cohort study of partic-
+ipants  in  the  first  National  Health  and  Nutrition  Examination
+Survey (NHANES I) aged 25–74 y at the time of their baseline
+examination  between  1971  and  1975.  Of  the  14 407  persons
+followed in the NHEFS, we excluded 1020 who self-reported a
+history of heart attack, heart failure, or stroke at baseline; 327 per-
+sons who  had  used  medication  for  heart  disease  during  the
+preceding 6 mo; 2853 NHANES I Augmentation Survey partici-
+pants who were not administered a dietary assessment (8); and
+
+1 From the Departments of Epidemiology (LAB, JH, SV, and PKW) and
+Biostatistics (LGO and LM), Tulane University School of Public Health and
+Tropical  Medicine, New  Orleans, and  the  National  Institutes  of  Health,
+National Heart, Lung, and Blood Institute, Bethesda, MD (CML).
+
+2 Supported  by  grant  R03  HL61954  and  in  part  by  grant  R01HL60300
+
+from the National Heart, Lung, and Blood Institute.
+
+3 Address  reprint  requests  to  J  He, Department  of  Epidemiology, Tulane
+University  School  of  Public  Health  and  Tropical  Medicine, 1430  Tulane
+Avenue SL18, New Orleans, LA 70112. E-mail: jhe@ tulane.edu.
+
+Received October 2, 2001.
+Accepted for publication December 28, 2001.
+
+Am J Clin Nutr 2002;76:93–9. Printed in USA. © 2002 American Society for Clinical Nutrition
+
+93
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/76/1/93/4689465
+by guest
+on 20 August 2018
+
+94
+
+BAZZANO ET AL
+
+214  who  lacked  information  on  fruit  and  vegetable  intake.
+Among the remaining participants, 385 (3.9%) were lost to fol-
+low-up, leaving 9608 participants who contributed 159304 person-
+years of follow-up.
+
+Measurements
+
+Baseline  data  collection  included  a  medical  history, a  stan-
+dardized medical examination, a dietary assessment, laboratory
+tests, and anthropometric measurements (8, 9). Blood pressure,
+body weight, and height were obtained with the use of standard
+protocols. The baseline questionnaire on medical history included
+questions about selected health conditions and medications used
+for those conditions during the preceding 6 mo. Data on educa-
+tion  level, physical  activity, and  alcohol  consumption  were
+obtained  by  interviewer-administered  questionnaires.  Baseline
+information on smoking status was obtained in 6913 NHANES I
+participants.  For  the  remaining  study  participants, information
+on  smoking  status  at  baseline  was  derived  from  responses  to
+questions on lifetime smoking history at follow-up interviews in
+1982 through 1984 or later.
+
+The dietary assessment included a 3-mo food-frequency ques-
+tionnaire  about  the  participants’ usual  consumption  of  food
+groups in 13 major categories, including 3 items referring to fruit
+and vegetable intake. The primary item used in this investigation
+asked  participants  how  often  “fruits  and  vegetables  of  all  kinds
+fresh, canned, frozen, cooked, or  raw, and  juices” were  usually
+consumed in the past 3 mo, excluding periods of illness or diet-
+ing. Frequency of consumption of fruit and vegetables was coded
+into categories ranging from never to 8 times/d. Information on
+portion size was not collected. Frequency of consumption of meat
+and poultry and of fish and shellfish were also obtained from the
+food-frequency  questionnaire.  Preceding  the  food-frequency
+questionnaire, a single 24-h dietary recall was collected by trained
+personnel using a standardized protocol and food-portion models.
+Interviewers coded the dietary-recall questionnaires using nutri-
+ent  information  from  the  US  Department  of Agriculture  Hand-
+book  No.  8 (10)  or  other  resources.  Total  energy  intakes  were
+calculated for each participant by the National Center for Health
+Statistics.  Details  of  the  data  collection  procedures  at  baseline
+were described elsewhere (8, 9).
+
+Follow-up procedures
+
+Follow-up data were collected in 1982–1984, 1986, 1987, and
+1992  (11).  Incident  cardiovascular  disease  was  based  on  docu-
+mentation  of  an  event  that  met  prespecified  study  criteria  and
+occurred during the period between the baseline examination and
+the last follow-up interview. Mortality from cardiovascular dis-
+ease was based on information from death certificates. The valid-
+ity  of  study  outcome  data  from  both  sources  was  documented
+previously (12).
+
+Incident  stroke  was  based  on  a  death  certificate  report  in
+which the underlying cause of death was recorded as an Inter-
+national Classification of Diseases, ninth revision (ICD-9; 13),
+code of 430–438, or on a hospital or nursing home stay in which
+the participant had a discharge diagnosis with the above codes.
+Incident ischemic heart disease was defined in the same manner
+as  ICD-9  codes  410–414.  Cause-specific  mortality  was  identi-
+fied on the basis of the underlying cause of death with the use
+of  the  above-mentioned  ICD-9  codes  for  stroke  and  ischemic
+heart disease and ICD-9 codes 390–459 to define cardiovascu-
+lar disease.
+
+Statistical analysis
+
+To corroborate the fruit and vegetable intake data from the 3-mo
+food-frequency  questionnaire, we  used  Spearman  rank-order
+correlation analysis to compare the data with data from the 24-h
+dietary recall. Fruit and vegetable intake was grouped into 4 cat-
+egories by intake (< 1 time/d, 1 time/d, 2 times/d, and ≥ 3 times/d)
+to identify discrete levels of consumption and to provide a suf-
+ficient  number  of  participants  at  risk  in  each  category.  For
+each  baseline  characteristic, the  mean  or  percentage  of  study
+participants was calculated by category of fruit and vegetable
+intake.  The  statistical  significance  of  differences  was  exam-
+ined by using analysis of variance (continuous variables) and
+the  chi-square  test  (categorical  variables).  The  cumulative
+incidence of and mortality from cardiovascular disease by cat-
+egory  of  fruit  and  vegetable  intake  were  calculated  by  using
+the Kaplan-Meier method (14), and differences in cumulative
+rates  were  examined  by  the  log-rank  test  for  trend  (15).  Cox
+proportional  hazards  regression  models  were  used  to  explore
+the  relation  between  categories  of  fruit  and  vegetable  intake
+and  the  risk  of  cardiovascular  disease  (16).  The  multivariate
+models were adjusted for physical activity (3 categories), edu-
+cation  level  (completed  or  did  not  complete  high  school),
+regular  alcohol  consumption  (4  categories), current  cigarette
+smoking at baseline (yes or no), vitamin supplement use (yes
+or no), total energy intake (continuously), sex, race, and dia-
+betic status (yes or no). Age was used as the time scale in all
+time-to-event analyses (17), and all analyses were stratified by
+birth cohort to control for calendar period and cohort effects (17).
+Estimation methods taking into account sample clustering and
+stratification of the NHANES I were used (17, 18). Data from
+the small number of participants who had reached 85 y of age
+were censored.
+
+RESULTS
+
+The baseline characteristics of the study participants by cate-
+gory  of  fruit  and  vegetable  intake  are  presented  in  Table  1.
+Compared  with  participants  who  had  lower  fruit  and  vegetable
+intakes, those with higher intakes tended to be white and female.
+The mean (± SD) serving size of fruit and vegetables consumed
+in  this  cohort  calculated  from  the  24-h  dietary  recall  was
+106.2 ± 89.9 g/d. A Spearman rank-order correlation coefficient
+of 0.50 was obtained for the comparison of fruit and vegetable
+intake derived from the food-frequency questionnaires and 24-h
+dietary recalls.
+
+Over  159 304  person-years  of  follow-up  between  1971  and
+1992, 888 stroke events (218 fatal), 1786 ischemic heart disease
+events  (639  fatal), 1145  cardiovascular  disease  deaths, and
+2530 deaths from all causes were documented. The cumulative
+mortality  from  stroke, ischemic  heart  disease, cardiovascular
+disease, and all causes by category of fruit and vegetable intake
+is  shown  in  Figure  1. The  cumulative  mortality  from  stroke  at
+age 85 y by increasing category of fruit and vegetable intake was
+14.5%, 9.8%, 8.8%, and 6.1% (P for trend < 0.001). The corre-
+sponding cumulative mortality from ischemic heart disease was
+32.0%, 25.4%, 23.6%, and  21.5%  (P for  trend  <  0.001);  from
+cardiovascular  disease  was  51.2%, 42.1%, 38.8%, and  32.7%
+(P for  trend  <  0.001);  and  from  all  causes  was  79.3%, 69.1%,
+64.0%, and  60.4%  (P for  trend  <  0.001).  The  cumulative  inci-
+dence of stroke at age 85 y from the lowest to the highest fre-
+quency of fruit and vegetable intake was 42.8%, 37.8%, 34.1%,
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/76/1/93/4689465
+by guest
+on 20 August 2018
+
+FRUIT AND VEGETABLE INTAKE AND RISK OF CVD
+
+95
+
+TABLE 1
+Baseline characteristics of 9608 participants in the ﬁrst National Health and Nutrition Examination Survey Epidemiologic Follow-up Study by frequency
+of fruit and vegetable intake
+
+Variable
+
+Age (y)
+Men (%)
+Whites (%)
+Blood pressure (mm Hg)
+
+Systolic
+Diastolic
+
+Hypertension (%)3
+Serum total cholesterol
+
+(mmol/L)
+(mg/dL)
+
+Hypercholesterolemia (%)4
+Diabetes (%)
+BMI (kg/m2)
+Low recreational physical activity (%)
+Less than a high school education (%)
+Current cigarette smoking (%)
+Regular alcohol consumption (%)
+Vitamin supplement use (%)5
+Sodium intake (mg/d)
+Dietary ﬁber (g/d)
+Fruit and vegetable intake (g/24 h)
+Saturated fat intake (g/d)
+Total energy intake (kJ/d)
+
+Frequency of fruit and vegetable intake
+
+< 1 time/d
+(n = 1094)
+51.2 ± 15.82
+
+50.1
+69.9
+
+139.4 ± 26.4
+85.7 ± 14.4
+
+34.6
+
+5.66 ± 1.20
+218.7 ± 46.4
+
+29.5
+3.6
+
+25.9 ± 5.5
+
+56.8
+73.9
+41.6
+22.8
+21.0
+
+1834 ± 1223
+11.4 ± 13.1
+242 ± 341
+25.0 ± 18.6
+6805 ± 3586
+
+1 time/d
+(n = 3106)
+47.6 ± 15.5
+
+40.0
+81.2
+
+134.2 ± 24.5
+83.4 ± 13.1
+
+26.9
+
+5.64 ± 1.26
+217.6 ± 48.8
+
+29.4
+3.4
+
+25.8 ± 5.3
+
+48.1
+53.3
+40.3
+23.1
+28.8
+
+2065 ± 1342
+12.1 ± 11.5
+263 ± 217
+26.7 ± 17.8
+7348 ± 3662
+
+2 times/d
+(n = 3536)
+49.3 ± 15.5
+
+37.6
+88.0
+
+133.3 ± 23.3
+82.8 ± 12.7
+
+25.9
+
+5.75 ± 1.27
+222.0 ± 49.2
+
+32.6
+3.8
+
+25.6 ± 5.1
+
+43.5
+39.1
+32.9
+25.3
+35.5
+
+2106 ± 1342
+12.9 ± 10.3
+372 ± 258
+27.2 ± 18.1
+7578 ± 3549
+
+≥ 3 times/d
+(n = 1872)
+49.7 ± 15.5
+
+30.1
+90.2
+
+132.0 ± 22.6
+81.9 ± 12.2
+
+25.4
+
+5.75 ± 1.29
+222.1 ± 49.8
+
+32.6
+5.7
+
+25.3 ± 4.7
+
+40.4
+31.6
+26.2
+22.5
+41.0
+
+2062 ± 1311
+14.5 ± 11.9
+520 ± 347
+25.8 ± 16.5
+7549 ± 3423
+
+P1
+
+0.14
+< 0.001
+< 0.001
+
+< 0.001
+< 0.001
+< 0.001
+
+0.01
+0.01
+0.02
+0.006
+0.001
+< 0.001
+< 0.001
+< 0.001
+0.05
+< 0.001
+< 0.001
+< 0.001
+< 0.001
+0.19
+< 0.001
+
+1 ANOVA for continuous variables and chi-square test for categorical variables.
+2 x– ± SD.
+3 Deﬁned as a systolic blood pressure ≥ 160 mm Hg, a diastolic blood pressure ≥ 95 mm Hg, or both or the use of antihypertensive medication.
+4 Deﬁned as a serum cholesterol concentration ≥ 6.2 mmol/L (≥ 240 mg/dL).
+5 Deﬁned as the regular or irregular consumption of any supplement.
+
+and  25.5%  (P for  trend  <  0.001);  the  corresponding  mortality
+from  ischemic  heart  disease  was  62.4%, 59.7%, 54.4%, and
+54.3% (P for trend < 0.001) (Figure 2).
+
+The relative risks (RRs) and 95% CIs for cardiovascular dis-
+eases  according  to  frequency  of  fruit  and  vegetable  intake  are
+presented in Table 2. After adjustment for age, race, sex, history
+of  diabetes, physical  activity, education  level, regular  alcohol
+consumption, current  smoking, vitamin  supplement  use, and
+total  energy  intake, intake  of  fruit  and  vegetables  ≥ 3  times/d
+compared  with  < 1  time/d  was  associated  with  a  27%  lower
+incidence  of  stroke  (RR: 0.73;  95%  CI: 0.57, 0.95;  P for
+trend = 0.01), a  42%  lower  mortality  from  stroke  (0.58;  0.33,
+1.02; P for trend = 0.05), a 24% lower mortality from ischemic
+heart disease (0.76; 0.56, 1.03; P for trend = 0.07), a 27% lower
+mortality  from  cardiovascular  disease  (0.73;  0.58, 0.92;  P for
+trend = 0.008), and a 15% lower mortality from all causes (0.85;
+0.72, 1.00; P for trend = 0.02).
+
+The RRs of cardiovascular disease for participants who con-
+sumed  fruit  and  vegetables  ≥ 3  times/d  compared  with  those
+who  consumed  them  < 1  time/d—in  models  individually
+adjusted  for  other  dietary  variables, serum  cholesterol, blood
+pressure, or  body  mass  index—are  shown  in  Table  3. Adjust-
+ment for the frequency of consumption of meat and fish mini-
+mally changed the point estimates and at the same time widened
+the  95%  CIs  such  that  the  RR  was  significant  only  for  stroke
+incidence.  After  adjustment  for  serum  cholesterol, the  RR  of
+
+mortality from ischemic heart disease was further away from the
+null and was significant. When adjusted for systolic blood pres-
+sure, the RRs of most outcomes diminished and the RRs of mor-
+tality  from  stroke  were  no  longer  significant.  Adjustment  for
+body  mass  index  produced  little  change  in  the  RRs  and  95%
+CIs.  The  results  of  models  adjusted  simultaneously  for  total
+serum cholesterol, systolic blood pressure, and body mass index
+were similar to those adjusted for systolic blood pressure alone.
+The inverse associations between frequency of fruit and veg-
+etable  intake  and  incidence  of  and  mortality  from  stroke,
+ischemic  heart  disease, and  cardiovascular  disease  were  gener-
+ally  consistent  across  strata  of  age  and  sex, and  no  significant
+interactions were detected even though the associations differed
+somewhat  by  race  (Table  4).  Risk  estimates  were  not  signifi-
+cantly different across strata of smoking status, diabetic status,
+vitamin use, and physical activity (data not shown).
+
+DISCUSSION
+
+This  study  shows  a  strong  inverse  association  between  fruit
+and  vegetable  intake  and  the  risk  of  subsequent  cardiovascular
+disease. These findings have important clinical and public health
+implications.  Increased  fruit  and  vegetable  intakes  have  been
+recommended  to  prevent  morbidity  and  mortality  from  cardio-
+vascular disease (6, 7). Our findings provide additional evidence
+to support this recommendation.
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/76/1/93/4689465
+by guest
+on 20 August 2018
+
+96
+
+BAZZANO ET AL
+
+FIGURE 1. Age-adjusted cumulative mortality from stroke, ischemic heart disease, cardiovascular disease, and all causes according to frequency of
+fruit and vegetable intake in 9608 participants in the ﬁrst National Health and Nutrition Examination Survey Epidemiologic Follow-up Study (P for trend
+< 0.0001 for all outcomes, log-rank test).
+
+The data on fruit and vegetable intake from the food-frequency
+questionnaire showed very good agreement with the data from the
+24-h dietary recall. The Spearman rank-order correlation coeffi-
+cient  of  0.5  obtained  in  our  study  compares  favorably  with  the
+value of 0.31 obtained for vegetables by Ocke et al (19) and of
+0.48  obtained  for  vegetables  by  Bohlscheid-Thomas  et  al  (20).
+Food-frequency questionnaires provide a better measure of usual
+food intake than does a single 24-h dietary recall. In our study, the
+comparison of the mean fruit and vegetable intake reported on the
+24-h dietary recall with that reported on the food-frequency ques-
+tionnaire  suggested  that  persons  reporting  an  intake  < 1  time/d
+may  have  underestimated  their  usual  intake.  It  is  possible  that
+such measurement error would shift our RR estimates toward the
+null  value;  however, fruit  and  vegetable  intake  may  be  biased
+toward the overall mean when estimated by frequency categories.
+Recent  prospective  studies  report  an  inverse  association
+between fruit and vegetable intake and the risk of ischemic stroke
+and ischemic heart disease (21–25). In a study of 832 men from
+Framingham, MA, Gillman  et  al  (21)  found  that  an  increase  of
+3 servings/d of fruit and vegetables was associated with an RR of
+0.75  (95%  CI: 0.55, 1.03)  for  ischemic  stroke.  In  the  Nurses’
+Health Study and the Health Professionals Follow-up Study, per-
+sons in the highest quintile of fruit and vegetable intake (median:
+5.1 servings/d among men and 5.8 servings/d among women) had
+an  RR  of  stroke  of  0.69  (95%  CI: 0.52, 0.92)  and  of  ischemic
+heart disease of 0.80 (95% CI: 0.69, 0.93) compared with the low-
+est quintile (22, 23). Our study extends these findings in several
+ways. First, our study was conducted in a representative sample
+of the US population; therefore, the results are broadly applica-
+ble. In contrast, most previous studies were conducted in popula-
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/76/1/93/4689465
+by guest
+on 20 August 2018
+
+FIGURE  2.  Age-adjusted  cumulative  incidence  of  stroke  and  ischemic
+heart disease according to frequency of fruit and vegetable intake in 9608 partic-
+ipants in the ﬁrst National Health and Nutrition Examination Survey Epidemi-
+ologic Follow-up Study (P for trend < 0.0001 for all outcomes, log-rank test).
+
+FRUIT AND VEGETABLE INTAKE AND RISK OF CVD
+
+97
+
+TABLE 2
+Relative risks (RRs) (and 95% CIs) of cardiovascular disease and total mortality for 9608 participants in the ﬁrst National Health and Nutrition
+Examination Survey Epidemiologic Follow-up Study by frequency of fruit and vegetable intake
+
+Variable
+
+Stroke incidence
+
+Number of events
+RR (95% CI)
+
+Adjusted for age, race, sex, and energy
+Multivariate model2
+
+Stroke mortality
+
+Number of events
+RR (95% CI)
+
+Adjusted for age, race, sex, and energy
+Multivariate model2
+
+Ischemic heart disease incidence
+
+Number of events
+RR (95% CI)
+
+Frequency of fruit and vegetable intake
+
+< 1 time/d
+(n = 1094)
+
+1 time/d
+(n = 3106)
+
+2 times/d
+(n = 3536)
+
+≥ 3 times/d
+(n = 1872)
+
+P for trend1
+
+134
+
+291
+
+329
+
+134
+
+1.00
+1.00
+
+42
+
+1.00
+1.00
+
+0.93 (0.75, 1.14)
+1.04 (0.86, 1.26)
+
+0.80 (0.65, 0.99)
+0.93 (0.76, 1.13)
+
+0.61 (0.48, 0.79)
+0.73, (0.57, 0.95)
+
+< 0.001
+0.01
+
+68
+
+77
+
+31
+
+0.75 (0.55, 1.01)
+0.83 (0.56, 1.22)
+
+0.67 (0.48, 0.93)
+0.74 (0.48, 1.12)
+
+0.52 (0.33, 0.81)
+0.58 (0.33, 1.02)
+
+0.004
+0.05
+
+239
+
+568
+
+643
+
+336
+
+Adjusted for age, race, sex, and energy
+Multivariate model2
+
+1.00
+1.00
+
+0.97 (0.83, 1.13)
+1.07 (0.91, 1.27)
+
+0.84 (0.73, 0.95)
+0.97 (0.83, 1.14)
+
+0.85 (0.72, 1.02)
+1.01 (0.84, 1.21)
+
+0.02
+0.8
+
+Ischemic heart disease mortality
+
+Number of events
+RR (95% CI)
+
+105
+
+196
+
+231
+
+107
+
+Adjusted for age, race, sex, and energy
+Multivariate model2
+
+1.00
+1.00
+
+0.81 (0.63, 1.04)
+0.89 (0.68, 1.17)
+
+0.72 (0.57, 0.91)
+0.84 (0.65, 1.09)
+
+0.66 (0.49, 0.90)
+0.76 (0.56, 1.03)
+
+0.007
+0.07
+
+Cardiovascular disease mortality
+
+Number of events
+RR (95% CI)
+
+Adjusted for age, race, sex, and energy
+Multivariate model2
+
+Noncardiovascular disease mortality
+
+Number of events
+RR (95% CI)
+
+193
+
+360
+
+413
+
+179
+
+1.00
+1.00
+
+0.83 (0.69, 1.01)
+0.91 (0.75, 1.10)
+
+0.74 (0.62, 0.87)
+0.84 (0.70, 0.99)
+
+0.63 (0.51, 0.79)
+0.73 (0.58, 0.92)
+
+< 0.001
+0.008
+
+223
+
+427
+
+469
+
+266
+
+Adjusted for age, race, sex, and energy
+Multivariate model2
+
+1.00
+1.00
+
+0.81 (0.65, 1.02)
+0.86 (0.67, 1.10)
+
+0.71 (0.60, 0.83)
+0.81 (0.66, 0.98)
+
+0.80 (0.66, 0.96)
+0.95 (0.76, 1.18)
+
+0.004
+0.5
+
+All-cause mortality
+Number of events
+RR (95% CI)
+
+416
+
+787
+
+882
+
+445
+
+Adjusted for age, race, sex, and energy
+Multivariate model2
+1 Log-rank test.
+2Adjusted for age, sex, race, history of diabetes, physical activity (3 categories), education level (completed or did not complete high school), regular alcohol
+consumption (4 categories), current cigarette smoking at baseline (yes or no), vitamin supplement use (yes or no), and total energy intake (continuous); n = 9156.
+
+0.82 (0.70, 0.97)
+0.88 (0.74, 1.06)
+
+0.72 (0.64, 0.81)
+0.82 (0.71, 0.94)
+
+1.00
+1.00
+
+0.72 (0.62, 0.84)
+0.85 (0.72, 1.00)
+
+< 0.001
+0.02
+
+tions  that  probably  had  food  habits  different  from  those  of  the
+general population. For instance, the median intake of fruit and
+vegetables in the Health Professionals Follow-up Study and the
+Nurses’ Health  Study  was  well  above  the  national  and  interna-
+tional recommendation of 5 servings/d (6, 7, 22, 23). Differences
+in the dietary assessment methods used in these studies may also
+have  contributed  to  the  differences  in  measured  intakes  of  fruit
+and  vegetables.  In  addition, our  study  examined  the  relation
+between fruit and vegetable intake and stroke incidence and mor-
+tality, ischemic heart disease incidence and mortality, cardiovas-
+cular disease mortality, noncardiovascular disease mortality, and
+all-cause mortality rather than the incidence of stroke or ischemic
+heart disease alone.
+
+In  the  current  study, fruit  and  vegetable  intake  was  signifi-
+cantly associated with lower mortality from ischemic heart dis-
+ease;  however,
+the  same  was  not  true  for  the  incidence  of
+ischemic  heart  disease.  One  possibility  for  this  finding  is  that
+mortality as an endpoint may be more accurately assessed than is
+
+incidence. The cases identified by this method are by definition
+the  most  severe  and  tend  to  be  more  homogeneous  than  those
+identified by self-report or proxy, either alone or in combination
+with hospital discharge data and death certificate information. In
+the NHEFS cohort, it was shown that the use of cases identified
+from  death  certificate  information  alone  produces  higher  esti-
+mates of RRs and wider 95% CIs (12). Another possibility is that
+fruit and vegetable intake may reduce the case-fatality rate after
+a  myocardial  infarction, thus  resulting  in  stronger  associations
+with mortality than with incidence. Such a relation may not exist
+with stroke. In addition, our findings suggest that the protective
+association of fruit and vegetable intake with cardiovascular dis-
+ease  may  be  related  to  blood  pressure.  This  fact  could  explain
+why  previous  studies  found  a  strong  association  between  fruit
+and vegetable intake and the risk of stroke. A multicenter clini-
+cal trial with a heterogeneous population showed that a diet rich
+in  fruit, vegetables, and  low-fat  dairy  products  reduces  blood
+pressure  (26).  Our  results  are  consistent  with  this  finding  and
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/76/1/93/4689465
+by guest
+on 20 August 2018
+
+98
+
+BAZZANO ET AL
+
+TABLE 3
+Relative risks (RRs) (and 95% CIs) of cardiovascular disease, noncardiovascular disease, and all-cause mortality in participants in the ﬁrst National Health
+and Nutrition Examination Follow-up Study who consumed fruit and vegetables ≥ 3 times/d compared with < 1 time/d, adjusted for dietary variables,
+serum total cholesterol, blood pressure, and BMI
+
+Variable
+
+Multivariate1
+
+dietary variables2
+
+Additionally
+adjusted for
+
+Cox proportional hazards model
+
+Additionally
+
+adjusted for serum
+total cholesterol
+
+Additionally
+adjusted for
+blood pressure
+
+Additionally
+
+adjusted for BMI
+
+Additionally
+
+adjusted for BMI,
+cholesterol, and
+blood pressure
+
+0.73 (0.57, 0.95)3
+Stroke incidence
+0.58 (0.33, 1.02)3
+Stroke mortality
+1.01 (0.84, 1.21)
+Ischemic heart disease incidence
+0.76 (0.56, 1.03)
+Ischemic heart disease mortality
+0.73 (0.58, 0.92)4
+Cardiovascular disease mortality
+Noncardiovascular disease mortality 0.95 (0.76, 1.18)
+All-cause mortality
+0.85 (0.72, 1.00)
+
+0.77 (0.60, 0.99)3
+0.61 (0.35, 1.07)
+1.03 (0.85, 1.25)
+0.80 (0.60, 1.06)
+0.78 (0.62, 0.98)3
+0.98 (0.79, 1.21)
+0.89 (0.76, 1.04)
+1 Adjusted for age, sex, race, history of diabetes, physical activity (3 categories), education level (completed or did not complete high school), regular alco-
+
+0.75 (0.58, 0.97)3 0.73 (0.57, 0.93)3
+0.57 (0.33, 0.99)3
+0.63 (0.37, 1.08)
+1.03 (0.86, 1.22)
+0.98 (0.81, 1.19)
+0.74 (0.55, 0.99)3
+0.78 (0.57, 1.06)
+0.75 (0.60, 0.94)3 0.72 (0.57, 0.90)4
+0.96 (0.77, 1.19)
+0.94 (0.76, 1.17)
+0.86 (0.73, 1.01)
+0.85 (0.72, 1.00)
+
+0.77 (0.60, 0.99)3 0.73 (0.57, 0.94)3
+0.58 (0.33, 1.01)
+0.62 (0.35, 1.07)
+1.05 (0.88, 1.26)
+1.00 (0.83, 1.20)
+0.81 (0.61, 1.08)
+0.76 (0.56, 1.02)
+0.79 (0.62, 0.99)3 0.73 (0.58, 0.92)3
+0.95 (0.77, 1.18)
+0.97 (0.78, 1.19)
+0.89 (0.76, 1.04)
+0.85 (0.73, 1.00)
+
+hol consumption (4 categories), current cigarette smoking at baseline (yes or no), vitamin supplement use (yes or no), and total energy intake (continuous).
+
+2 The dietary variables included the frequency of meat and poultry and ﬁsh and shellﬁsh intakes.
+3 P for trend < 0.05.
+4 P for trend < 0.01.
+
+support the role of a diet rich in fruit and vegetables as a possi-
+ble approach for preventing cardiovascular disease.
+
+Another study, conducted by van’t Veer et al (27), attempted
+to quantify the public health benefit of increased fruit and veg-
+etable intake as a means to prevent cardiovascular disease. They
+performed  a  meta-analysis  using  results  from  14  observational
+
+epidemiologic studies of cardiovascular disease (3 case-control
+and 11 prospective studies) published through 1998 to calculate
+the pooled relative risk and the preventable proportion of cardio-
+vascular  disease  deaths.  In  that  study, an  increase  in  fruit  and
+vegetable  intake  of  150  g/d  was  associated  with  a  16%  lower
+mortality from cardiovascular disease.
+
+TABLE 4
+Relative risks (RRs) (and 95% CIs) of cardiovascular disease, noncardiovascular disease, and all-cause mortality in participants in the ﬁrst National Health
+and Nutrition Examination Follow-up Study who consumed fruit and vegetables ≥ 3 times/d compared with < 1 time/d, according to selected
+characteristics1
+
+Variable
+
+Stroke incidence
+
+RR
+(95% CI)
+
+Stroke mortality
+
+RR
+(95% CI)
+
+Ischemic heart disease incidence
+
+RR
+(95% CI)
+
+Ischemic heart disease mortality
+
+RR
+(95% CI)
+
+Cardiovascular disease mortality
+
+RR
+(95% CI)
+
+Noncardiovascular disease mortality
+
+RR
+(95% CI)
+
+All-cause mortality
+
+Sex
+
+Men
+
+(n = 3485)
+
+Women
+
+(n = 5671)
+
+< 60 y
+
+(n = 6312)
+
+Age
+
+≥ 60 y
+
+(n = 2844)
+
+Race
+
+White
+
+(n = 7759)
+
+Nonwhite
+(n = 1397)
+
+0.652
+
+0.75
+
+0.80
+
+0.682
+
+0.722
+
+0.80
+
+(0.43, 0.99)
+
+(0.53, 1.07)
+
+(0.51, 1.27)
+
+(0.50, 0.93)
+
+(0.55, 0.95)
+
+(0.43, 1.50)
+
+0.77
+
+0.47
+
+0.39
+
+0.65
+
+0.492
+
+1.08
+
+(0.32, 1.81)
+
+(0.21, 1.02)
+
+(0.10, 1.51)
+
+(0.35, 1.22)
+
+(0.28, 0.85)
+
+(0.33, 3.54)
+
+0.97
+
+1.09
+
+0.97
+
+1.02
+
+0.96
+
+1.25
+
+(0.78, 1.21)
+
+(0.80, 1.49)
+
+(0.72, 1.30)
+
+(0.79, 1.31)
+
+(0.79, 1.18)
+
+(0.91, 1.71)
+
+0.68
+
+0.92
+
+0.61
+
+0.81
+
+0.682
+
+1.19
+
+(0.44, 1.05)
+
+(0.55, 1.52)
+
+(0.36, 1.06)
+
+(0.58, 1.15)
+
+(0.48, 0.97)
+
+(0.66, 2.14)
+
+0.643
+
+0.89
+
+0.642
+
+0.762
+
+0.703
+
+0.89
+
+(0.45, 0.89)
+
+(0.63, 1.28)
+
+(0.43, 0.97)
+
+(0.59, 0.97)
+
+(0.55, 0.90)
+
+(0.52, 1.53)
+
+1.00
+
+0.88
+
+0.88
+
+0.98
+
+0.92
+
+1.02
+
+(0.78, 1.29)
+
+(0.65, 1.20)
+
+(0.63, 1.22)
+
+(0.76, 1.26)
+
+(0.72, 1.18)
+
+(0.66, 1.59)
+
+RR
+(95% CI)
+1 RRs adjusted where appropriate for age, sex, race, diabetic status, physical activity (3 categories), education level (completed or did not complete high
+school), regular alcohol consumption (4 categories), current cigarette smoking at baseline (yes or no), vitamin supplement use (yes or no), and total energy
+intake (continuous); n = 9156.
+
+(0.68, 1.16)
+
+(0.67, 1.02)
+
+(0.60, 1.03)
+
+0.87
+
+(0.73, 1.05)
+
+(0.68, 0.99)
+
+(0.66, 1.37)
+
+0.82
+
+0.95
+
+0.82
+
+0.89
+
+0.782
+
+2 P for trend < 0.05.
+3 P for trend < 0.01.
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/76/1/93/4689465
+by guest
+on 20 August 2018
+
+FRUIT AND VEGETABLE INTAKE AND RISK OF CVD
+
+99
+
+Our  ﬁnding  of  a  27%  lower  cardiovascular  disease  mortality
+with the consumption of fruit and vegetables ≥ 3 times/d compared
+with < 1 time/d (a difference of 278 g/d), calculated from a 24-h
+dietary recall, was consistent with the ﬁnding of van’t Veer et al.
+Law and Morris (5) conducted a meta-analytic review of 11 cohort
+studies  of  fruit  and  vegetable  consumption  or  a  nutrient  marker.
+They found an estimated reduction in the RR of 15% for a contrast
+between the 90th and 10th percentiles of 6 dietary markers of fruit
+and vegetable consumption. Although our results are not directly
+comparable, they are compatible with those of Law and Morris.
+
+Persons consuming fruit and vegetables frequently are likely to
+have other healthy habits, ie, exercise regularly, do not smoke cig-
+arettes, and have a low dietary intake of cholesterol and saturated
+fat. In our study population, the dietary intake of saturated fat was
+not associated with fruit and vegetable intake. In addition, the esti-
+mates of risk we present were adjusted for important potential con-
+founders  of  cardiovascular  disease, such  as, race, sex, education
+level, physical  activity, cigarette  smoking, regular  alcohol  con-
+sumption, and diabetes status. The associations between fruit and
+vegetable intake and risk of cardiovascular disease were consistent
+with  our  main  ﬁndings  in  both  direction  and  magnitude  across
+strata  of  vitamin  use, smoking  status, and  level  of  recreational
+activity, all of which are markers of a healthy lifestyle. These ﬁnd-
+ings generally indicate that the association of fruit and vegetable
+intake with a lower risk of cardiovascular disease and total mortal-
+ity may not be the result of confounding by other health habits.
+
+Several  individual  nutrients,
+
+including  potassium, antioxi-
+dants, and  folic  acid—which  are  abundant  in  fruit  and  vegeta-
+bles—may contribute to the inverse association of the intake of
+these foods with the risk of stroke and mortality from cardiovas-
+cular  disease  (1–3, 28). Although  each  of  these  nutrients  may
+play a protective role in the prevention of cardiovascular disease,
+their  effect  in  combination  with  those  of  other  components  in
+whole foods may have a greater effect. Although every effort was
+made  to  isolate  the  effects  of  fruit  and  vegetables  alone, the
+results presented herein may also pertain to a dietary pattern rich
+in  fruit  and  vegetables.  Consequently, the  role  of  foods  and
+dietary patterns and the role of specific nutrients in the preven-
+tion of cardiovascular disease should be investigated.
+
+In conclusion, this study indicates that the frequency of fruit and
+vegetable intake is inversely associated with stroke incidence, stroke
+mortality, ischemic  heart  disease  mortality, cardiovascular  disease
+mortality, and  all-cause  mortality  in  the  general  US  population.
+Nutrients  in  whole  foods, such  as  fruit  and  vegetables, may  have
+additive  and  synergistic  effects  not  available  through  dietary  sup-
+plementation.  In  addition, this  study  provides  additional  evidence
+for recommendations to increase fruit and vegetable intakes as part
+of a dietary approach to prevent cardiovascular disease.
+
+REFERENCES
+
+1. Khaw KT, Barrett-Connor E. Dietary potassium and stroke-associated
+mortality: a  12-year  prospective  population  study.  N  Engl  J  Med
+1987;316:235–40.
+
+2. Tribble  DL.  Antioxidant  consumption  and  risk  of  coronary  heart
+disease: emphasis  on  vitamin  C, vitamin  E, and  beta-carotene: a
+statement  for  healthcare  professionals  from  the  American  Heart
+Association. Circulation 1999;99:591–5.
+
+3. Morrison HI, Schaubel D, Desmeules M, et al. Serum folate and risk
+
+of fatal coronary heart disease. JAMA 1996;275:1893–6.
+
+4. Ness AR, Powles JW. Fruit and vegetables, and cardiovascular dis-
+
+ease: a review. Int J Epidemiol 1997;26:1–13.
+
+5. Law  MR, Morris  JK.  By  how  much  does  fruit  and  vegetable  con-
+sumption reduce the risk of ischemic heart disease? Eur J Clin Nutr
+1998;52:549–56.
+
+6. WHO. Report of a WHO Study Group. Diet, nutrition and the preven-
+tion of chronic diseases. World Health Organ Tech Rep Ser 1990;191.
+7. American Heart Association. An eating plan for healthy Americans.
+
+Dallas: American Heart Association, 2000.
+
+8. Miller HW. Plan and operation of the Health and Nutrition Examina-
+tion Survey, United States, 1971-1973. Vital Health Stat 1 1978;10a.
+9. Engel A, Murphy RS, Maurer K, Collins E. Plan and operation of
+the  HANES  I  augmentation  survey  of  adults  25–74  years, United
+States, 1974–1975. Vital Health Stat 11 1978;14:1–110.
+
+10. Watt  BK, Merrill AL.  Composition  of  foods: raw, processed, pre-
+pared. Agriculture  handbook  no.  8. Washington, DC: US  Govern-
+ment Printing Office, 1963.
+
+11. Cox CS, Mussolino ME, Rothwell ST, et al. Plan and operation of
+the NHANES I Epidemiologic Follow-up Study, 1992. Vital Health
+Stat 1 1997;35:1–231.
+
+12. Madans JH, Reuben CA, Rothwell ST, et al. Differences in morbidity
+measures  and  risk  factor  identiﬁcation  using  multiple  data  sources:
+the case of coronary heart disease. Stat Med 1995;14:643–53.
+
+13. World Health Organization. International classification of diseases,
+
+ninth revision (ICD-9). Geneva: WHO, 1977.
+
+14. Kaplan  EL, Meier  P.  Nonparametric  estimation  from  incomplete
+
+observations. J Am Stat Assoc 1958;53:457–81.
+
+15. Tarone RE. Tests for trend in life table analysis. Biometrika 1975;
+
+62:679–82.
+
+16. Cox RD. Regression models and life tables (with discussion). J R Stat Soc
+
+[B] 1972;34:187–220.
+
+17. Korn EL, Graubard BI, Midthune D. Time-to-event analysis of lon-
+gitudinal follow-up of a survey: choice of the time-scale. Am J Epi-
+demiol 1997;145:72–80.
+
+18. Ingram  DD, Makuc  DM.  Statistical  issues  in  analyzing  the
+NHANES I Epidemiologic Followup Study. Series 2: Data evalua-
+tion and methods research. Vital Health Stat 2 1994;121:1–30.
+
+19. Ocke M, Bueno-d-Mesquita HB, Pols MA, et al. The Dutch EPIC
+food frequency questionnaire. II. Relative validity and reproducibil-
+ity for nutrients. Int J Epidemiol 1997;26(suppl):49S–58S.
+
+20. Bohlscheid-Thomas  S, Hoting  I, Boeing  H, Wahrendorf  J.  Repro-
+ducibility  and  relative  validity  of  energy  and  macronutrient  intake
+of a food frequency questionnaire developed for the German part of
+the  EPIC  project.  European  Prospective  Investigation  into  Cancer
+and Nutrition. Int J Epidemiol 1997;26(suppl):S71–81.
+
+21. Gillman  MW, Cupples  LA, Gagnon  D, et  al.  Protective  effect  of
+fruits and vegetables on development of stroke in men. JAMA 1995;
+273:1113–7.
+
+22. Joshipura  KJ, Ascherio  A, Manson  JE, et  al.  Fruit  and  vegetable
+intake in relation to risk of ischemic stroke. JAMA 1999;282:1233–9.
+23. Joshipura KJ, Hu FB, Manson JE, et al. The effect of fruit and veg-
+etable  intake  on  risk  for  coronary  heart  disease. Ann  Intern  Med.
+2001;134:1106–4.
+
+24. Strandhagen  E, Hansson  PO, Bosaeus  I, Isaksson  B, Eriksson  H.
+High  fruit  intake  may  reduce  mortality  among  middle-aged  and
+elderly men. The Study of Men Born in 1913. Eur J Clin Nutr 2000;
+54:337–41.
+
+25. Liu S, Manson JE, Lee IM, et al. Fruit and vegetable intake and risk
+of  cardiovascular  disease: the  Womens  Health  Study.  Am  J  Clin
+Nutr 2000;72:922–8.
+
+26. Appel  LJ, Moore  TJ, Obarzanek  E, et  al.  A  clinical  trial  of  the
+effects of dietary patterns on blood pressure. N Engl J Med 1997:
+336:1117–24.
+
+27. van’t Veer P, Jansen MCJF, Klerk M, Kok FJ. Fruits and vegetables
+in  the  prevention  of  cancer  and  cardiovascular  disease.  Public
+Health Nutr 2000;3:103–7.
+
+28. Loria CM, Ingram DD, Feldman JJ, Wright JD, Madans JH. Serum
+folate  and  cardiovascular  disease  mortality  among  US  men  and
+women. Arch Intern Med 2000;160:3258–62.
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/76/1/93/4689465
+by guest
+on 20 August 2018
+
+

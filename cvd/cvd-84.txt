@@ -1,0 +1,1950 @@
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+The New England
+
+Journal 
+
+of
+
+ Medicine
+
+© Copyr ight,  1999,  by  the  Massachusetts  Medical  Societ y
+
+VOLUME  341
+
+N
+
+O V E M B E R
+
+  18,  1999
+
+NUMBER  21
+
+LIGHT-TO-MODERATE ALCOHOL CONSUMPTION AND THE RISK OF STROKE 
+
+AMONG U.S. MALE PHYSICIANS
+
+K
+
+LAUS
+
+ B
+
+, M.D., M.P.H., U
+ERGER
+MED
+.D., R
+, S
+J
+C
+ULIE
+
+ E. B
+
+URING
+
+ A. A
+
+JANI
+OBERT
+
+, M.B., B.S., M.P.H., C
+ C
+ J. G
+
+.D., 
+
+, P
+H
+
+LYNN
+
+AND
+
+ARLOS
+HARLES
+
+ H. H
+
+ENNEKENS
+
+, M.D., D.P.H.
+
+ S. K
+
+ASE
+
+, M.D., J. M
+
+ICHAEL
+
+ G
+
+AZIANO
+
+, M.D., 
+
+A
+BSTRACT
+Background
+Several  studies  have  shown  U-  or
+J-shaped relations between alcohol consumption and
+the risk of stroke. We evaluated the effect of light-to-
+moderate  alcohol  intake  on  the  risk  of  stroke,  with
+separate analyses of ischemic stroke and hemorrhag-
+ic stroke.
+Methods
+Our analyses were based on a prospec-
+tive cohort study of 22,071 male physicians, 40 to 84
+years old, who were participating in the Physicians’
+Health Study. At base line, the participants reported
+that they had no history of stroke, transient ischemic
+attack, or myocardial infarction and were free of can-
+cer. Alcohol intake, reported by 21,870 participants at
+base line, ranged from none or almost none to two
+or more drinks per day.
+Results
+During an average of 12.2 years of follow-
+up, 679 strokes were reported. As compared with par-
+ticipants who had less than one drink per week, those
+who drank more had a reduced overall risk of stroke
+(relative risk, 0.79; 95 percent confidence interval, 0.66
+to 0.94) and a reduced risk of ischemic stroke (rela-
+tive risk, 0.77; 95 percent confidence interval, 0.63 to
+0.94).  There  was  no  statistically  significant  associa-
+tion between alcohol consumption and hemorrhagic
+stroke. The overall relative risks of stroke for the men
+who had one drink per week, two to four drinks per
+week,  five  or  six  drinks  per  week,  or  one  or  more
+drinks per day were 0.78 (95 percent confidence inter-
+val, 0.59 to 1.04), 0.75 (95 percent confidence interval,
+0.58 to 0.96), 0.83 (95 percent confidence interval, 0.62
+to 1.11), and 0.80 (95 percent confidence interval, 0.64
+to 0.99), respectively, in an analysis in which we con-
+trolled for major risk factors for stroke.
+Conclusions
+Light-to-moderate alcohol consump-
+tion reduces the overall risk of stroke and the risk of
+ischemic stroke in men. The benefit is apparent with
+as little as one drink per week. Greater consumption,
+up  to  one  drink  per  day,  does  not  increase  the  ob-
+served benefit. (N Engl J Med 1999;341:1557-64.)
+©1999, Massachusetts Medical Society.
+
+S
+
+3-6
+
+U
+
+TROKE is a leading cause of morbidity and
+mortality in many countries.
+ Among the risk
+1
+factors  for  stroke,  potentially  hazardous  but
+modifiable behavior such as alcohol consump-
+tion has drawn increasing attention in recent years,
+especially after a 
+-shaped relation was suggested be-
+tween  alcohol  consumption  and  coronary  heart  dis-
+ease.
+ Alcohol consumption is a modifiable behavior,
+2
+and drinking moderate amounts of alcohol may have
+protective  effects  against  subtypes  of  stroke.
+  Al-
+though most studies show a positive correlation be-
+tween drinking and the risk of hemorrhagic stroke,
+3,7-10
+the relation with ischemic stroke is less clear.
+
+Studies in North America and Europe have found
+a 
+-shaped association, suggesting that mod-
+- or 
+J
+U
+erate  consumption  of  alcohol  provides  protection
+against ischemic stroke.
+ However, the definition
+of  moderate  consumption  has  differed  substantially
+among studies. Some definitions were based on the
+frequency of alcohol consumption
+ and others on the
+16
+amount (in grams or units per day).
+ In various stud-
+15
+ies, the categories associated with the lowest risk of
+ 1 to 33 g
+ischemic stroke were 1 to 150 g per week,
+per day,
+ two drinks per
+ and consumption of alcohol less than once a
+day,
+day.
+ The reports of a protective effect of drinking
+with respect to cardiovascular and cerebrovascular dis-
+
+ 1 to 10 units per week,
+
+6,7,9,11-15
+
+4,6
+16
+
+17
+
+18
+
+15
+
+From  the  Division  of  Preventive  Medicine,  Department  of  Medicine,
+Brigham and Women’s Hospital (K.B., U.A.A., J.M.G., J.E.B., R.J.G.); the
+Massachusetts  Veterans  Epidemiology  Research  and  Information  Center,
+Department of Veterans Affairs Boston Healthcare System (J.M.G.); the De-
+partment  of  Ambulatory  Care  and  Prevention,  Harvard  Medical  School
+(J.E.B.); the Department of Biostatistics, Harvard School of Public Health
+(R.J.G.); the Department of Neurology, Boston University School of Med-
+icine  (C.S.K.)  —  all  in  Boston;  the  Institute  of  Epidemiology and Social
+Medicine and the Department of Neurology, University of Muenster, Muen-
+ster,  Germany  (K.B.);  and  the  Department  of  Epidemiology  and  Public
+Health,  University  of  Miami  School  of  Medicine,  Miami  (C.H.H.).  Ad-
+dress reprint requests to Dr. Ajani at the Division of Preventive Medicine,
+Brigham and Women’s Hospital, 900 Commonwealth Ave. E., Boston, MA
+02215, or at uajani@rics.bwh.harvard.edu.
+
+Volume 341 Number 21
+
+·
+
+1557
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 1999 Massachusetts Medical Society. All rights reserved.  
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+The  New  England  Journal  of  Medicine
+
+ease were criticized, since most of the studies com-
+pared alcohol drinkers with nondrinkers. The latter
+group  might  have  included  people  who  abstained
+from alcohol because of poor health.
+ However,
+subsequent studies that excluded “sick quitters” from
+the analysis found the same 
+
+-shaped relation.
+J
+
+Using data from the Physicians’ Health Study, we
+prospectively examined the associations between al-
+cohol consumption and stroke and evaluated poten-
+tial modifications of these relations by other risk fac-
+tors for stroke.
+
+3,19-21
+
+22-24
+
+METHODS
+
+Study Design
+
+25
+
+26
+
+The Physicians’ Health Study
+
+ was a randomized, double-blind,
+placebo-controlled trial designed to test the effect of low-dose as-
+pirin on the risk of cardiovascular disease and the effect of beta
+carotene on the risk of cancer.
+ Briefly, 22,071 U.S. male physi-
+cians, who were 40 to 84 years of age at the time of enrollment in
+1982, were randomly assigned to receive aspirin, beta carotene,
+both agents, or placebo according to a two-by-two factorial de-
+sign. All participants reported at base line that they did not have
+a  history  of  stroke,  transient  ischemic  attack,  myocardial  infarc-
+tion, active liver disease, or peptic ulcer disease. In January 1988
+the aspirin component of the study was terminated early because
+of a statistically significant 44 percent reduction in the risk of a
+first myocardial infarction among physicians in the aspirin group.
+25
+The  beta  carotene  component  of  the  study  continued  until  its
+scheduled termination on December 31, 1995. This report includes
+data available as of October 1995, when the participants had been
+followed for an average of 12.2 years. Follow-up data on morbid-
+ity and mortality were available for more than 99 percent of the
+study participants.
+
+Information  was  collected  at  base  line  by  means  of  a  mailed
+questionnaire, which included questions about alcohol consump-
+tion;  age;  height;  weight;  systolic  and  diastolic  blood  pressure;
+history  of  angina  pectoris,  diabetes  mellitus,  and  hypertension;
+and cigarette smoking. At base line, 21,870 of the physicians re-
+sponded  to  the  following  question  about  alcohol  consumption:
+“How  often  do  you  usually  consume  alcoholic  beverages  (beer,
+wine, or liquor)?” The possible responses were rarely or never, one
+to three per month, one per week, two to four per week, five or
+six per week, one per day, or two or more per day.
+ These re-
+sponses were interpreted as the number of drinks consumed per
+unit of time. Alcohol consumption was reassessed at 84 months of
+follow-up, and a high correlation was found between these respons-
+es and the responses at base line. Systolic and diastolic blood pres-
+sure  were  self-reported  blood-pressure  levels  at  base  line.  Vali-
+dation studies of physician-measured blood pressure show a high
+correlation with self-reports of systolic pressure (r=0.72) and di-
+astolic pressure (r=0.60, P<0.001 for both comparisons).
+
+Every six months for the first year and annually thereafter, the
+participants  were  mailed  questionnaires  requesting  information
+about their compliance with the randomized treatment assignment
+and about newly diagnosed conditions, including stroke and tran-
+sient ischemic attack. Deaths were usually reported by family mem-
+bers or by the postal authorities and were verified by a review of
+all available medical records, death certificates, and eyewitness ac-
+counts, if relevant. Only first cases of stroke were counted. A di-
+agnosis of stroke was confirmed only after medical records and
+all  other  available  information  had  been  reviewed  by  the  End
+Points Committee (consisting of two internists, one cardiologist,
+and one neurologist, who were unaware of the treatment assign-
+ments). A stroke was defined as a focal neurologic deficit of vas-
+cular  mechanism  that  lasted  more  than  24  hours.  Strokes  were
+classified according to the probable mechanism (ischemic or hem-
+orrhagic) on the basis of medical records, reports of brain imag-
+ing, and the judgment of the neurologist on the End Points Com-
+
+27
+
+28
+
+1558
+
+·
+
+November 18, 1999
+
+mittee.  There  was  a  high  level  of  interobserver  agreement  in
+the diagnosis of hemorrhagic and ischemic stroke throughout the
+study.
+ Cases of fatal stroke were documented by evidence of a
+cerebrovascular mechanism obtained from all available sources, in-
+cluding death certificates and hospital records.
+
+29
+
+Statistical Analysis
+
+30
+
+Since only 674 physicians reported that they consumed alcohol
+two or more times a day, this highest category of alcohol intake
+was combined with the second highest category (once a day). The
+categories rarely or never and one to three times a month were
+also combined to form a larger reference group. Cox proportional-
+hazards models
+ were used to estimate the relative risk of stroke
+associated with alcohol consumption. We calculated relative risks
+for the total group of participants with stroke (ischemic or hem-
+orrhagic, hereafter referred to as total stroke) and for participants
+with  each  subtype  of  stroke  when  age,  systolic  blood  pressure,
+smoking, body-mass index (defined as the weight in kilograms di-
+vided by the square of the height in meters), exercise, history of
+diabetes, current treatment for hypertension, and randomized treat-
+ment  assignment  were  controlled  for.  Tests  of  linear  trend  were
+performed by using each category as an ordinal variable in the pro-
+portional-hazards models. The assumption of proportional hazards
+was tested and was not violated. Age, body-mass index, smoking,
+systolic blood pressure, and exercise were analyzed for their effect
+on the association between alcohol consumption and stroke. For
+this  analysis,  an  interaction  term  for  alcohol  consumption  and
+each variable was included in separate models.
+
+RESULTS
+
+During an average of 12.2 years of follow-up, 679
+first  strokes  were  reported  (557  ischemic  strokes,
+88 hemorrhagic strokes, and 34 strokes of unknown
+type). Table 1 shows base-line characteristics of the
+participants according to categories of alcohol con-
+sumption. The mean systolic and diastolic blood pres-
+sures were lowest among participants who had one
+to  four  drinks  per  week  and  were  highest  among
+those in the two highest categories of alcohol con-
+sumption.  The  proportion  of  participants  with  hy-
+pertension was higher among those in the two high-
+est  categories  of  alcohol  consumption  than  among
+those in the other categories. The percentage of men
+who had never smoked decreased consistently with
+increasing alcohol intake. The percentage of current
+smokers was significantly higher among the men who
+had  at  least  one  drink  per  day  than  among  those
+who consumed less alcohol. The percentage of men
+who were overweight (body-mass index, »27.8) de-
+creased with increasing alcohol intake.
+
+The overall effect of alcohol consumption on the
+risk of total stroke, ischemic stroke, and hemorrhag-
+ic stroke is shown in Table 2. The men who had less
+than one drink per week were chosen as the refer-
+ence group. After adjustment for major risk factors
+for  stroke,  there  were  significant  reductions  in  the
+risk of total stroke (21 percent) and ischemic stroke
+(23 percent) among the men who had one or more
+drinks a week. No statistically significant association
+was observed between alcohol consumption and hem-
+orrhagic stroke.
+
+The relative risk of total stroke according to the lev-
+el of alcohol consumption is shown in Table 3. After
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 1999 Massachusetts Medical Society. All rights reserved.  
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+LIGHT-TO-MODERATE  ALCOHOL  CONSUMP TION  AND  THE  RISK  OF  STROKE  AMONG  U.S.  MALE  PHYSICIANS
+
+T
+
+ABLE
+
+ 1.
+
+ B
+
+C
+
+HARACTERISTIC
+
+INE
+
+-L
+ASE
+A
+CCORDING
+
+ 
+HARACTERISTICS
+OF
+ C
+LCOHOL
+
+ C
+
+ A
+
+TO
+
+ 
+
+ S
+
+ 
+TUDY
+THE
+ONSUMPTION
+
+ P
+.
+
+ARTICIPANTS
+
+ 
+
+A
+
+LCOHOL
+
+ONSUMPTION
+
+NO
+
+<1/
+WK
+(
+=5696)
+N
+
+(
+N
+
+1/
+=3060)
+
+ C
+ 
+WK
+
+ (
+2–4/
+WK
+(
+=4900)
+N
+
+OF
+
+DRINKS
+ 6/
+
+ 
+. 
+5 
+OR
+WK
+=2771)
+(
+N
+
+)
+
+»1/
+DAY
+(N=5443)
+
+Mean age (yr)
+Blood pressure (mm Hg)
+
+Systolic
+Diastolic
+
+Hypertension (%)*
+Smoking (%)
+
+Never smoked
+Smoked in the past
+Currently smokes
+
+Exercise frequency per week (%)
+
+<1 time
+1–4 times
+»5 times
+
+Body-mass index »27.8 (%)†
+Diabetes (%)
+Angina pectoris (%)
+Random assignment to aspirin 
+
+group (%)
+
+Random assignment to beta
+
+carotene group (%)
+
+53.2
+
+51.6
+
+51.9
+
+52.7
+
+55.5
+
+125.6
+78.6
+11.4
+
+125.3
+78.5
+10.7
+
+125.3
+78.4
+10.2
+
+126.0
+78.9
+12.3
+
+128.1
+79.7
+14.7
+
+62.8
+28.0
+9.2
+
+33.1
+50.4
+16.5
+16.5
+3.8
+1.5
+49.2
+
+49.3
+
+55.9
+34.9
+9.2
+
+28.5
+58.0
+13.5
+16.6
+2.5
+1.4
+51.2
+
+51.0
+
+49.6
+40.8
+9.6
+
+24.1
+59.8
+16.1
+13.4
+1.4
+0.9
+49.9
+
+49.4
+
+43.7
+45.6
+10.7
+
+23.9
+57.7
+18.4
+12.5
+1.2
+1.2
+50.8
+
+52.0
+
+35.1
+49.3
+15.6
+
+27.0
+56.3
+16.7
+11.5
+2.3
+1.3
+49.9
+
+49.7
+
+*Hypertension was defined as self-reported systolic blood pressure of 160 mm Hg or higher, dia-
+stolic blood pressure of 95 mm Hg or higher, or current treatment for hypertension (regardless of
+blood pressure).
+
+†Body-mass index was defined as the self-reported weight in kilograms divided by the square of the
+
+height in meters.
+
+adjustment  for  age  and  treatment  assignment,  the
+largest  risk  reductions  were  found  among  the  men
+who had one to four drinks per week. Further ad-
+justment for systolic blood pressure, current treatment
+for hypertension, smoking, body-mass index, diabetes,
+and exercise revealed an 
+-shaped, almost flat asso-
+L
+ciation, with similar risk reductions of about 20 per-
+cent for all categories of alcohol consumption (Table
+3 and Fig. 1).
+
+The relative risk of subtypes of stroke, after adjust-
+ment for important confounders, is shown in Table
+4. Reductions in the risk of ischemic stroke were sim-
+ilar in magnitude to those in the risk of total stroke
+and  were  of  borderline  significance.  Alcohol  intake
+was not significantly associated with the risk of hem-
+orrhagic stroke.
+
+In secondary analyses (data not shown), we exam-
+ined the effects of other risk factors for stroke on the
+
+T
+
+ABLE
+
+ 2.
+
+ R
+
+ELATIVE
+
+ R
+
+ISK
+
+ 
+
+OF
+
+ I
+
+SCHEMIC
+
+ 
+
+OR
+
+ H
+CCORDING
+
+EMORRHAGIC
+ 
+
+ S
+LCOHOL
+
+ A
+
+TO
+
+ (T
+
+TROKE
+ C
+
+ S
+OTAL
+TROKE
+.*
+ONSUMPTION
+
+A
+
+) 
+
+AND
+
+ S
+
+UBTYPES
+
+ 
+
+OF
+
+ S
+
+TROKE
+
+LCOHOL
+
+A
+ONSUMPTION
+
+ 
+
+C
+
+T
+
+OTAL
+
+ S
+
+TROKE
+
+I
+SCHEMIC
+
+ S
+
+TROKE
+
+H
+
+EMORRHAGIC
+
+ S
+
+TROKE
+
+ 
+
+. 
+NO
+OF
+CASES
+
+RISK
+
+RELATIVE
+
+ 
+adjusted for age 
+and treatment†
+
+ 
+
+. 
+NO
+OF
+CASES
+
+ (95% CI)
+
+multivariate 
+adjusted‡
+
+RISK
+
+RELATIVE
+
+ 
+adjusted for age 
+and treatment†
+
+ 
+
+. 
+NO
+OF
+CASES
+
+ (95% CI)
+
+multivariate 
+adjusted‡
+
+RISK
+
+RELATIVE
+
+ 
+adjusted for age 
+and treatment†
+
+ (95% CI)
+
+multivariate 
+adjusted‡
+
+<1 drink/wk
+»1 drink/wk
+
+206 1.00 
+473 0.83 (0.71–0.98) 0.79 (0.66–0.94)
+
+1.00 
+
+168 1.00 
+389 0.84 (0.70–1.01) 0.77 (0.63–0.94)
+
+1.00 
+
+26 1.00 
+62 0.84 (0.53–1.33) 0.92 (0.55–1.54)
+
+1.00 
+
+*The mean period of follow-up was 12.2 years. CI denotes confidence interval. Men who consumed less than one drink per week served as the reference
+
+category.
+
+†Values have been adjusted for age (in years) and treatment assignment (aspirin, yes or no; beta carotene, yes or no).
+‡Values have also been adjusted for systolic blood pressure (continuous values), current treatment for hypertension, smoking (four categories), history
+
+of diabetes (yes or no), body-mass index (in quartiles), and exercise (four categories).
+
+Volume 341 Number 21
+
+·
+
+1559
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 1999 Massachusetts Medical Society. All rights reserved. The  New  England  Journal  of  Medicine
+
+TABLE 3. RELATIVE RISK OF ISCHEMIC OR HEMORRHAGIC STROKE (TOTAL STROKE), 
+
+ACCORDING TO ALCOHOL CONSUMPTION.*
+
+ALCOHOL 
+
+CONSUMPTION
+
+TOTAL STROKE
+
+NO. OF 
+CASES
+
+RELATIVE RISK ADJUSTED
+FOR AGE AND TREATMENT
+
+(95% CI)†
+
+<1 drink/wk
+1 drink/wk
+2–4 drinks/wk
+5 or 6 drinks/wk
+»1 drink/day
+
+206
+70
+111
+83
+209
+
+1.00 
+0.75 (0.57–0.98)
+0.74 (0.59–0.94)
+0.90 (0.70–1.16)
+0.90 (0.74–1.09)
+
+P
+
+VALUE‡
+
+0.51
+
+MULTIVARIATE ADJUSTED
+
+RELATIVE RISK
+
+(95% CI)§
+
+1.00 
+0.78 (0.59–1.04)
+0.75 (0.58–0.96)
+0.83 (0.62–1.11)
+0.80 (0.64–0.99)
+
+P
+
+VALUE‡
+
+0.07
+
+*CI denotes confidence interval. Men who consumed less than one drink per week served as the
+
+reference category.
+
+†Values have been adjusted for age (in years) and treatment assignment (aspirin, yes or no; beta
+
+carotene, yes or no).
+
+‡P values are for linear trend across all categories of alcohol consumption.
+§Values have also been adjusted for systolic blood pressure (continuous values), current treatment
+for  hypertension,  smoking  (four  categories),  history  of  diabetes  (yes  or  no),  body-mass  index  (in
+quartiles), and exercise (four categories).
+
+relation between alcohol intake and stroke. No inter-
+actions with age, body-mass index, or smoking were
+found. We found significant interactions with systolic
+blood pressure (P=0.02) and exercise (P= 0.03). An
+analysis stratified according to systolic blood pressure
+(<130, 130 to 139, or »140 mm Hg) showed a risk
+reduction only among participants with blood pres-
+sure of 140 mm Hg or higher (relative risk for men
+who had one to six drinks per week, as compared with
+those who had less than one drink per week, 0.57;
+95 percent confidence interval, 0.42 to 0.79; relative
+risk for men who had one or more drinks per day,
+0.54; 95 percent confidence interval, 0.39 to 0.75).
+With respect to exercise, drinking had a beneficial ef-
+
+e
+k
+o
+r
+t
+S
+
+ 
+
+ 
+f
+o
+ 
+k
+s
+i
+R
+e
+v
+i
+t
+a
+l
+e
+R
+
+1.00
+
+0.80
+
+0.60
+
+0.40
+
+0.20
+
+0.00
+
+<1/wk
+
+1/wk
+
+2–4/wk 5 or 6/wk
+
+»1/day
+
+No. of Drinks
+
+Figure 1. Relative Risk of Ischemic or Hemorrhagic Stroke (Total
+Stroke), According to Alcohol Consumption.
+The reference category of alcohol consumption was less than
+one drink a week. Bars denote 95 percent confidence intervals.
+
+1560 · November 18, 1999
+
+fect only in the group of physicians who exercised at
+least once a week.
+
+DISCUSSION
+
+The focus of this analysis was the relation between
+light-to-moderate alcohol consumption and the risk
+of stroke. The Physicians’ Health Study offered the
+opportunity to evaluate the relatively narrow range of
+alcohol intake of one to seven drinks per week (i.e.,
+light-to-moderate  intake,  accounting  for  about  97
+percent of our sample27), corresponding to the ben-
+eficial part of the U- or J-shaped relation between al-
+cohol consumption and stroke that other studies have
+suggested.  We  found  an  L-shaped  association  be-
+tween alcohol intake and total stroke, with a risk re-
+duction  of  about  20  percent  after  adjustment  for
+important confounders. The shape of this relation cor-
+responds to the first part of the J-shaped curve shown
+by other studies.3,6 The benefit was observed among
+physicians who had only one alcoholic drink per week,
+and the magnitude of this protective effect did not
+increase  with  increased  alcohol  consumption.  The
+relation between alcohol consumption and ischemic
+stroke had the same flat shape, and the risk reduc-
+tions were similar in magnitude.
+
+The protective effect of light-to-moderate drinking
+with  respect  to  total  stroke  or  ischemic  stroke  has
+varied considerably, with risk reductions of 20 to 90
+percent found in other studies.3,4 A recent population-
+based case–control study reported an odds ratio of
+0.51 for ischemic stroke in the group with moderate
+alcohol consumption.6 Most cohort studies have re-
+ported risk reductions of 20 to 40 percent. Our result
+is similar in magnitude. However, our population dif-
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 1999 Massachusetts Medical Society. All rights reserved. LIGHT-TO-MODERATE  ALCOHOL  CONSUMP TION  AND  THE  RISK  OF  STROKE  AMONG  U.S.  MALE  PHYSICIANS
+
+TABLE 4. RELATIVE RISK OF SUBTYPES OF STROKE ACCORDING TO
+
+ALCOHOL CONSUMPTION.*
+
+ALCOHOL 
+
+CONSUMPTION
+
+<1 drink/wk
+1 drink/wk
+2–4 drinks/wk
+5 or 6 drinks/wk
+»1 drink/day
+
+NO. OF 
+CASES
+
+ISCHEMIC STROKE
+RELATIVE RISK
+
+(95% CI)
+
+168
+54
+91
+68
+176
+
+1.00 
+0.73 (0.52–1.00)
+0.74 (0.56–0.98)
+0.81 (0.59–1.12)
+0.79 (0.62–1.00)
+
+P VALUE
+
+0.10†
+
+HEMORRHAGIC STROKE
+
+NO. OF 
+CASES
+
+RELATIVE RISK
+
+(95% CI)
+
+26
+13
+14
+11
+24
+
+1.00 
+1.17 (0.58–2.40)
+0.70 (0.33–1.46)
+1.00 (0.46–2.23)
+0.90 (0.48–1.69)
+
+P VALUE
+
+0.67†
+
+*Values have been adjusted for age (in years), randomized treatment assignment (aspirin, yes or
+no; beta carotene, yes or no), systolic blood pressure (continuous values), current treatment for hy-
+pertension, smoking (four categories), history of diabetes (yes or no), body-mass index (in quartiles),
+and  exercise  (four  categories).  CI  denotes  confidence  interval.  Men  who  consumed  less  than  one
+drink per week served as the reference category.
+
+†P values are for linear trend across all categories of alcohol consumption.
+
+fers from that in other studies in that it consists of
+healthy men of high socioeconomic and education-
+al status. Their risk-factor profile differs substantially
+from that of men in the general U.S. population. In
+particular, only 3.1 percent of the participants in our
+study  reported  that  they  had  more  than  one  drink
+per day,27 confirming that heavy drinking was very rare
+in this population. For this reason, it is not possible
+to draw any conclusions about the participants who
+reported having two or more drinks per day.
+
+Like other studies involving predominantly white
+populations, our study showed that the majority of
+strokes were ischemic; only 13 percent were hemor-
+rhagic. This finding explains the similarity of the re-
+lations of alcohol consumption with total stroke and
+with ischemic stroke.
+
+In prior studies, the beneficial effect of alcohol on
+the risk of stroke was observed over a rather broad
+range of alcohol intake (e.g., 1 to 150 g per week15),
+as  a  consequence  of  defining  categories  broadly  or
+combining  them  to  provide  stable  estimates  in  the
+analysis. In contrast, our analysis had the power to ex-
+amine risks within five narrowly defined categories of
+alcohol consumption, with four of them correspond-
+ing to the beneficial part of the suggested associations.
+With this approach, we found that alcohol had a ben-
+eficial  effect  in  men  who  had  as  little  as  one  drink
+per week, a finding that would have been masked if
+we had used broader categories. The flat shape of the
+association with total stroke also suggests that the na-
+dir of the observed benefit is not a single category
+of alcohol consumption but rather a range of con-
+sumption from one to seven drinks per week.
+
+Our study has a number of limitations. First, there
+may have been some incorrect reports of alcohol con-
+sumption by the participants at base line, leading to
+a certain degree of misclassification of this variable.
+
+However, since all information was assessed at base
+line, before the occurrence of stroke, any misclassifi-
+cation  due  to  an  incorrect  report  was  nondifferen-
+tial.31 In addition, studies have shown that the reli-
+ability  of  self-reported  alcohol  consumption  in  the
+general population, including health care professionals,
+is good32,33 and also that physicians accurately report
+their  own  cardiovascular  risk  factors.28,34  Further-
+more, both high-density lipoprotein (HDL) choles-
+terol and blood pressure, measures known to be cor-
+related with levels of alcohol use, had the expected
+associations  with  the  reported  amounts  of  alcohol
+consumption in the Physicians’ Health Study,27 pro-
+viding further evidence of the reliability of self-report-
+ing in this cohort.
+
+Nonetheless, the possibility of systematic underre-
+porting of alcohol consumption must be considered.
+If it occurred, the observed association between al-
+cohol use and reduced risk of stroke would be artifi-
+cially shifted toward lower drinking categories, leading
+to an erroneous, lower nadir for the relation between
+alcohol intake and the risk of stroke. However, since
+we observed a beneficial effect at a very low level of
+alcohol intake (one drink a week), a slight shift of the
+curve to the right would still reveal an effect over a
+range of moderate levels of alcohol intake.
+
+Misclassification due to a change in the level of al-
+cohol  consumption  after  base  line  is  also  possible.
+However, if there was such an effect in this cohort, it
+was probably small, since we found a high correlation
+between alcohol consumption at base line and at 84
+months.
+
+The use of persons who never drank as the refer-
+ence group in epidemiologic studies of the health ef-
+fects of alcohol consumption is often questioned, be-
+cause some of these abstainers might have given up
+drinking for reasons of health. However, the physi-
+
+Volume 341 Number 21
+
+· 1561
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 1999 Massachusetts Medical Society. All rights reserved. The  New  England  Journal  of  Medicine
+
+cians in our study reported at base line that they had
+no history of myocardial infarction, transient ischemic
+attack, or stroke and that they were free of active liv-
+er disease and peptic ulcer, conditions that could lead
+to abstention from drinking alcohol.
+
+Finally, the questionnaire asked about the frequen-
+cy  of  drinking,  but  the  participants  may  have  con-
+sumed more than one drink on a particular occasion.
+However,  since  the  nadir  of  the  risk  reduction  was
+observed over a range of categories of moderate drink-
+ing, rather than a single category, the shape of the as-
+sociation would not be affected.
+
+We could not assess the possibility of a differential
+effect of specific types of alcohol on the risk of stroke,
+as some studies have suggested,35,36 since the ques-
+tionnaire did not ask about the type of beverage. We
+also  had  no  information  about  drinking  patterns.
+Since binge drinking may be a risk factor for stroke,
+especially for hemorrhagic stroke in young adults,37-39
+this risk could not be specified. However, since our co-
+hort consisted of middle-aged and elderly men of high
+socioeconomic status, a group with a low incidence of
+binge drinking,40 any effect of such drinking would
+probably have been small. Finally, the possibility of
+residual confounding was substantially reduced by our
+use of a cohort of physicians that was homogeneous
+with respect to education and socioeconomic status.
+The  effects  of  alcohol  on  the  body  are  complex
+and involve a number of biologic mechanisms. Mod-
+erate  alcohol  consumption  has  an  inverse  relation
+with arteriosclerosis of the large arteries of the circle
+of Willis and the carotid arteries41,42 but not with ar-
+teriosclerosis of the small, intracerebral arteries.43 This
+effect could be due to a reduction of Lp(a) lipopro-
+tein, since Lp(a) lipoprotein levels are related to the
+extent of carotid arteriosclerosis.44 Elevated levels of
+Lp(a) lipoprotein are a risk factor for coronary heart
+disease,45-47 have been found to be elevated in survi-
+vors of stroke,48 and are reduced by alcohol intake.49
+In addition, there is evidence that vascular endothe-
+lial factors, especially nitric oxide, provide protection
+against  atherosclerosis.50,51  In  experimental  studies,
+the activity of nitric oxide at the vessel wall was en-
+hanced  by  ethanol  through  the  induction  of  the
+enzyme nitric oxide synthase.52 
+
+Another  explanation  for  the  effect  of  alcohol  on
+the risk of stroke is the finding that alcohol increases
+HDL cholesterol levels,53,54 which are inversely relat-
+ed to arteriosclerosis at many sites, including the ca-
+rotid  arteries.41,55  HDL  cholesterol  levels  are  lower
+in survivors of stroke than in controls.56-58 However,
+changes in HDL cholesterol levels only partially ex-
+plain the inverse relation between alcohol consump-
+tion and death from cardiovascular causes.53 Further-
+more,  a  recent  study6  suggested  that  the  observed
+association between moderate alcohol consumption
+and a reduced risk of stroke was independent of the
+HDL cholesterol level.
+
+1562 · November 18, 1999
+
+These findings suggest that hemostasis plays a part
+in the protective effect of alcohol on the risk of stroke.
+Alcohol  alters  coagulation  in  a  number  of  ways.  It
+reduces platelet aggregation59,60 by increasing the ra-
+tio of prostacyclin to thromboxane,60 and it decreases
+the  aggregation  and  increases  the  deformability  of
+red cells.61 In addition, alcohol decreases the risk of
+clotting by reducing fibrinogen levels and increasing
+the levels of tissue plasminogen activator.62-64 The lat-
+ter effect is paradoxical, since elevated levels of tissue
+plasminogen activator are correlated with an increased
+risk of ischemic stroke,65 yet alcohol consumption, al-
+though it reduces the risk of stroke, is associated with
+increased plasma levels of tissue plasminogen activa-
+tor.63 Although elevated levels of tissue plasminogen
+activator  increase  the  risk  of  ischemic  stroke,  with
+moderate alcohol use the deleterious effect of tissue
+plasminogen activator is probably outweighed by the
+other  beneficial  effects  of  alcohol  on  HDL  choles-
+terol, Lp(a) lipoprotein, platelet aggregation, and fi-
+brinogen, resulting in a net benefit of alcohol use.
+Thus, the relative magnitude of the effect of the in-
+dividual factors, both positive and negative, and their
+interplay  probably  determine  the  ultimate  effect  of
+alcohol on the risk of stroke.
+
+In summary, light-to-moderate consumption of al-
+cohol (one to seven drinks per week) reduced the risks
+of total stroke and of ischemic stroke in a cohort of
+healthy,  predominantly  white  physicians.  Although
+this finding may be important for persons who con-
+sume alcoholic beverages with low or moderate fre-
+quency,  no  generalizations  about  the  benefits  of  a
+change  in  lifestyle  should  be  drawn  from  the  ob-
+servation. The risk reduction associated with such a
+change  is  clearly  smaller  than  that  associated  with
+medical interventions, such as treatment for hyperten-
+sion. Moreover, aside from the serious morbidity and
+social  problems  related  to  alcohol  use,  it  has  been
+shown that in a large population, any increase in al-
+cohol consumption is associated with a proportion-
+ate increase in heavy drinking.66 Heavy drinking is a
+risk factor for hemorrhagic and ischemic stroke,3,6,17
+as  well  as  for  morbidity  and  mortality  from  other
+causes; therefore, in the words of Marmot and Brun-
+ner,  “Any  public  health  recommendation  that  em-
+phasizes  the  positive  aspects  of  alcohol  would  be
+likely . . . to do more harm than good.”22
+
+Supported by grants from the National Institutes of Health (CA 34944,
+CA 40360, HL 26490, and HL 34595) and by a grant from the German
+Academic Exchange Service (to Dr. Berger).
+
+We are indebted to the staff of the Physicians’ Health Study and
+to the dedicated and conscientious physicians who participated in this
+trial.
+
+REFERENCES
+
+1. Murray CJ, Lopez AD. Global mortality, disability, and the contribution 
+of risk factors: Global Burden of Disease Study. Lancet 1997;349:1436-42.
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 1999 Massachusetts Medical Society. All rights reserved. LIGHT-TO-MODERATE  ALCOHOL  CONSUMP TION  AND  THE  RISK  OF  STROKE  AMONG  U.S.  MALE  PHYSICIANS
+
+2. Renaud S, Criqui MH, Farchi G, Veenstra J. Alcohol drinking and cor-
+onary heart disease. In: Verschuren PM, ed. Health issues related to alcohol 
+consumption. Washington, D.C.: International Life Sciences Institute 
+Press, 1993:81-123.
+3. Camargo CA Jr. Moderate alcohol consumption and stroke: the epide-
+miologic evidence. Stroke 1989;20:1611-26.
+4. Idem. Case-control and cohort studies of moderate alcohol consump-
+tion and stroke. Clin Chim Acta 1996;246:107-19.
+5. Scherr PA, LaCroix AZ, Wallace RB, et al. Light to moderate alcohol 
+consumption and mortality in the elderly. J Am Geriatr Soc 1992;40:651-
+7.
+6. Sacco RL, Elkind M, Boden-Albala B, et al. The protective effect of mod-
+erate alcohol consumption on ischemic stroke. JAMA 1999;281:53-60.
+7. Gill JS, Shipley MJ, Tsementzis SA, et al. Alcohol consumption — a risk 
+factor for hemorrhagic and non-hemorrhagic stroke. Am J Med 1991;90:
+489-97.
+8. Kono S, Ikeda M, Tokudome S, Nishizumi M, Kuratsune M. Alcohol 
+and mortality: a cohort study of male Japanese physicians. Int J Epidemiol 
+1986;15:527-32.
+9. Stampfer MJ, Colditz GA, Willett WC, Speizer FE, Hennekens CH. 
+A prospective study of moderate alcohol consumption and the risk of coro-
+nary disease and stroke in women. N Engl J Med 1988;319:267-73.
+10. Donahue RP, Abbott RD, Reed DM, Yano K. Alcohol and hemor-
+rhagic stroke: the Honolulu Heart Program. JAMA 1986;255:2311-4.
+11. Gill JS, Shipley MJ, Hornby RH, Gill SK, Beevers DG. A community 
+case-control study of alcohol consumption in stroke. Int J Epidemiol 1988;
+17:542-7.
+12. Gill JS, Zezulka AV, Shipley MJ, Gill SK, Beevers DG. Stroke and al-
+cohol consumption. N Engl J Med 1986;315:1041-6.
+13. Rodgers H, Aitken PD, French JM, Curless RH, Bates D, James OF. 
+Alcohol and stroke: a case-control study of drinking habits past and 
+present. Stroke 1993;24:1473-7.
+14. Wolf PA, D’Agostino RB, Odell P, Belanger AJ, Hodges D, Kannel 
+WB. Alcohol consumption as a risk factor for stroke: the Framingham 
+study. Ann Neurol 1988;24:177. abstract.
+15. Palomäki H, Kaste M. Regular light-to-moderate intake of alcohol and 
+the risk of ischemic stroke: is there a beneficial effect? Stroke 1993;24:
+1828-32.
+16. Thun MJ, Peto R, Lopez AD, et al. Alcohol consumption and mor-
+tality among middle-aged and elderly U.S. adults. N Engl J Med 1997;337:
+1705-14.
+17. Kiyohara Y, Kato I, Iwamoto H, Nakayama K, Fujishima M. The im-
+pact of alcohol and hypertension on stroke incidence in a general Japanese 
+population: The Hisayama Study. Stroke 1995;26:368-72.
+18. Palmer AJ, Fletcher AE, Bulpitt CJ, et al. Alcohol intake and cardio-
+vascular mortality in hypertensive patients: report from the Department of 
+Health Hypertension Care Computing Project. J Hypertens 1995;13:957-
+64.
+19. Shaper AG, Wannamethee G, Walker M. Alcohol and mortality in 
+British men: explaining the U-shaped curve. Lancet 1988;2:1267-73.
+20. Shaper AG. Alcohol and mortality: a review of prospective studies. Br 
+J Addict 1990;85:837-47.
+21. Wannamethee SG, Shaper AG. Patterns of alcohol intake and risk of 
+stroke in middle-aged British men. Stroke 1996;27:1033-9.
+22. Marmot M, Brunner E. Alcohol and cardiovascular disease: the status 
+of the U shaped curve. BMJ 1991;303:565-8.
+23. Criqui MH. The reduction of coronary heart disease with light to 
+moderate alcohol consumption: effect or artifact? Br J Addict 1990;85:
+854-7.
+24. Boffetta P, Garfinkel L. Alcohol drinking and mortality among men 
+enrolled in an American Cancer Society prospective study. Epidemiology 
+1990;1:342-8.
+25. Steering Committee of the Physicians’ Health Study Research Group. 
+Final report on the aspirin component of the ongoing Physicians’ Health 
+Study. N Engl J Med 1989;321:129-35.
+26. Manson JE, Buring JE, Satterfield S, Hennekens CH. Baseline charac-
+teristics of participants in the Physicians’ Health Study: a randomized trial 
+of aspirin and beta-carotene in U.S. physicians. Am J Prev Med 1991;7:150-4.
+27. Camargo CA Jr, Hennekens CH, Gaziano JM, Glynn RJ, Manson JE, 
+Stampfer MJ. Prospective study of moderate alcohol consumption and 
+mortality in US male physicians. Arch Intern Med 1997;157:79-85.
+28. Klag MJ, He J, Mead LA, Ford DE, Pearson TA, Levine DM. Validity 
+of physicians’ self-reports of cardiovascular disease risk factors. Ann Epide-
+miol 1993;3:442-7.
+29. Berger K, Kase CS, Buring JE. Interobserver agreement in the classi-
+fication of stroke in the Physicians’ Health Study. Stroke 1996;27:238-42.
+30. Cox DR. Regression models and life-tables. J R Stat Soc [B] 1972;34:
+187-220.
+31. Hennekens CH, Buring JE. Epidemiology in medicine. Boston: Little, 
+Brown, 1987.
+
+32. Williams GD, Aitken SS, Malin H. Reliability of self-reported alcohol 
+consumption in a general population survey. J Stud Alcohol 1985;46:223-7.
+33. Giovannucci E, Colditz G, Stampfer MJ, et al. The assessment of al-
+cohol consumption by a simple self-administered questionnaire. Am J Ep-
+idemiol 1991;133:810-7.
+34. Ascherio A, Rimm EB, Giovannucci EL, et al. A prospective study of 
+nutritional factors and hypertension among US men. Circulation 1992;86:
+1475-84.
+35. Renaud S, de Lorgeril M. Wine, alcohol, platelets, and the French par-
+adox for coronary heart disease. Lancet 1992;339:1523-6.
+36. Ruf JC, Berger JL, Renaud S. Platelet rebound effect of alcohol with-
+drawal and wine drinking in rats: relation to tannins and lipid peroxidation. 
+Arterioscler Thromb Vasc Biol 1995;15:140-4.
+37. Hillbom M, Kaste M. Alcohol intoxication: a risk factor for primary 
+subarachnoid hemorrhage. Neurology 1982;32:706-11.
+38. Juvela S, Hillbom M, Numminen H, Koskinen P. Cigarette smoking 
+and alcohol consumption as risk factors for aneurysmal subarachnoid hem-
+orrhage. Stroke 1993;24:639-46.
+39. Juvela S, Hillbom M, Palomäki H. Risk factors for spontaneous intra-
+cerebral hemorrhage. Stroke 1995;26:1558-64.
+40. Kauhanen J, Kaplan GA, Goldberg DE, Salonen JT. Beer binging and 
+mortality: results from the Kuopio ischaemic heart disease risk factor study, 
+a prospective population based study. BMJ 1997;315:846-51.
+41. Kiechl S, Willeit J, Egger G, Oberhollenzer M, Aichner F. Alcohol 
+consumption and carotid atherosclerosis: evidence of dose-dependent ath-
+erogenic and antiatherogenic effects: results from the Bruneck Study. 
+Stroke 1994;25:1593-8.
+42. Kiechl S, Willeit J, Rungger G, Egger G, Oberhollenzer F, Bonora E. 
+Alcohol consumption and atherosclerosis: what is the relation? Prospective 
+results from the Bruneck Study. Stroke 1998;29:900-7.
+43. Reed DM, Resch JA, Hayashi T, MacLean CJ, Yano K. A prospective 
+study of cerebral artery atherosclerosis. Stroke 1988;19:820-5.
+44. Watts GF, Mazurkiewicz JC, Tonge K, Nelson V, Warburton FG, 
+Slavin BM. Lipoprotein(a) as a determinant of the severity of angiograph-
+ically defined carotid atherosclerosis. QJM 1995;88:321-6.
+45. Gordon T, Kannel WB, Castelli WP, Dawber TR. Lipoproteins, car-
+diovascular disease, and death: the Framingham Study. Arch Intern Med 
+1981;141:1128-31.
+46. Langer RD, Criqui MH, Reed DM. Lipoproteins and blood pressure 
+as biological pathways for effect of moderate alcohol consumption on cor-
+onary heart disease. Circulation 1992;85:910-5.
+47. Rath M, Niendorf A, Reblin T, Dietel M, Krebber HJ, Beisiegel U. 
+Detection and quantification of lipoprotein(a) in the arterial wall of 107 
+coronary bypass patients. Arteriosclerosis 1989;9:579-92. [Erratum, Arte-
+riosclerosis 1990;10:1147.]
+48. Jurgens G, Koltringer P. Lipoprotein(a) in ischemic cerebrovascular 
+disease: a new approach to the assessment of risk for stroke. Neurology 
+1987;37:513-5.
+49. Nago N, Kayaba K, Hiraoka J, et al. Lipoprotein(a) levels in the Jap-
+anese population: influence of age and sex, and relation to atherosclerotic 
+risk factors: the Jichi Medical School Cohort Study. Am J Epidemiol 1995;
+141:815-21.
+50. Quyyumi AA. Endothelial function in health and disease: new insights 
+into the genesis of cardiovascular disease. Am J Med 1998;105:32S-39S.
+51. Fields CE, Makhoul RG. Vasomotor tone and the role of nitric oxide. 
+Semin Vasc Surg 1998;11:181-92.
+52. Durante W, Cheng K, Sunahara RK, Schafer AI. Ethanol potentiates 
+interleukin-1 beta-stimulated inducible nitric oxide synthase expression in 
+cultured vascular smooth muscle cells. Biochem J 1995;308:231-6.
+53. Criqui MH, Cowan LD, Tyroler HA, et al. Lipoproteins as mediators 
+for the effects of alcohol consumption and cigarette smoking on cardiovas-
+cular mortality: results from the Lipid Research Clinics Follow-up Study. 
+Am J Epidemiol 1987;126:629-37.
+54. Flegal KM, Cauley JA. Alcohol consumption and cardiovascular risk 
+factors. Recent Dev Alcohol 1985;3:165-80.
+55. Kasturi R, Yatsu FM, Alam R, Rogers S. Restriction fragment length 
+polymorphism of the apoprotein A-I-C-III gene cluster in control and stroke-
+prone white and black subjects: racial differences. Stroke 1992;23:1257-64.
+56. Bihari-Varga M, Szekely J, Gruber E. Plasma high density lipoproteins 
+in coronary, cerebral and peripheral vascular disease: the influence of vari-
+ous risk factors. Atherosclerosis 1981;40:337-45.
+57. Adams RJ, Carroll RM, Nichols FT, et al. Plasma lipoproteins in cor-
+tical versus lacunar infarction. Stroke 1989;20:448-52.
+58. Glueck CJ, Rorick MH, Schmerler M, et al. Hypofibrinolytic and ath-
+erogenic risk factors for stroke. J Lab Clin Med 1995;125:319-25.
+59. Torres Duarte AP, Dong QS, Young J, Abi-Younes S, Myers AK. Inhi-
+bition of platelet aggregation in whole blood by alcohol. Thromb Res 
+1995;78:107-15.
+60. Landolfi R, Steiner M. Ethanol raises prostacyclin in vivo and in vitro. 
+Blood 1984;64:679-82.
+
+Volume 341 Number 21
+
+· 1563
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 1999 Massachusetts Medical Society. All rights reserved. The  New  England  Journal  of  Medicine
+
+61. Altura BM, Altura BT. Role of magnesium and calcium in alcohol-
+induced hypertension and strokes as probed by in vivo television microsco-
+py, digital image microscopy, optical spectroscopy, 31P-NMR, spectroscopy 
+and a unique magnesium ion-selective electrode. Alcohol Clin Exp Res 
+1994;18:1057-68.
+62. Ridker PM, Vaughan DE, Stampfer MJ, Sacks FM, Hennekens CH. 
+A cross-sectional study of endogenous tissue plasminogen activator, total 
+cholesterol, HDL cholesterol, and apolipoproteins A-I, A-II, and B-100. 
+Arterioscler Thromb 1993;13:1587-92.
+63. Ridker PM, Vaughan DE, Stampfer MJ, Glynn RJ, Hennekens CH. 
+
+Association of moderate alcohol consumption and plasma concentration 
+of endogenous tissue-type plasminogen activator. JAMA 1994;272:929-
+33.
+64. Ernst E, Resch KL. Fibrinogen as a cardiovascular risk factor: a meta-
+analysis and review of the literature. Ann Intern Med 1993;118:956-63.
+65. Ridker PM, Hennekens CH, Stampfer MJ, Manson JE, Vaughan DE. 
+Prospective study of endogenous tissue plasminogen activator and risk of 
+stroke. Lancet 1994;343:940-3.
+66. Rose G, Day S. The population mean predicts the number of deviant 
+individuals. BMJ 1990;301:1031-4.
+
+1564 · November 18, 1999
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 1999 Massachusetts Medical Society. All rights reserved. 

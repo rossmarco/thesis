@@ -1,0 +1,1271 @@
+See corresponding editorial on page 535.
+
+Fish intake is associated with a reduced progression of coronary
+artery atherosclerosis in postmenopausal women with coronary
+artery disease1– 4
+
+Arja T Erkkila¨, Alice H Lichtenstein, Dariush Mozaffarian, and David M Herrington
+
+ABSTRACT
+Background: Higher intakes of fish and nҀ3 fatty acids are asso-
+ciated with a reduced risk of cardiovascular events and mortality.
+However, limited data exist on the effect of fish intake on actual
+measures of progression of coronary artery atherosclerosis.
+Objective: The aim was to examine the association between fish
+intake and the progression of coronary artery atherosclerosis in
+women with coronary artery disease.
+Design: This was a prospective cohort study of postmenopausal
+women (n ҃ 229) participating in the Estrogen Replacement and
+Atherosclerosis trial. Usual fish intake was estimated at baseline
+with a food-frequency questionnaire. Quantitative coronary angiog-
+raphy was performed at baseline and after 3.2 앐 0.6 (x៮ 앐 SD) y to
+evaluate changes in the mean minimum coronary artery diameter,
+the mean percentage of stenosis, and the development of new coro-
+nary lesions.
+Results: Compared with lower fish intakes, consumption of 욷2
+servings of fish or 욷1 serving of tuna or dark fish per week was
+associated with smaller increases in the percentage of stenosis
+(4.54 앐 1.37% compared with Ҁ0.06 앐 1.59% and 5.12 앐 1.48%
+compared with 0.35 앐 1.47%, respectively; P 쏝 0.05 for both) in
+diabetic women after adjustments for age, cardiovascular disease risk
+factors, and dietary intakes of fatty acids, cholesterol, fiber, and alcohol.
+These associations were not significant in nondiabetic women. Higher
+fish consumption was also associated with smaller decreases in mini-
+mum coronary artery diameter and fewer new lesions.
+Conclusions: Consumption of fish is associated with a significantly
+reduced progression of coronary artery atherosclerosis in women with
+coronary artery disease.
+
+Am J Clin Nutr 2004;80:626–32.
+
+KEY WORDS
+diet, nҀ3 fatty acids, diabetes mellitus
+
+Fish, atherosclerosis, angiography, women,
+
+INTRODUCTION
+
+The consumption of fish and the long-chain nҀ3 fatty acids
+eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA)
+is associated with a reduced risk of cardiovascular events and
+mortality (1– 6). Some of the favorable associations between
+nҀ3 fatty acid intake and low rates of cardiovascular disease
+mortality may be related to a decreased risk of sudden death (2,
+4, 7, 8). However, several lines of evidence suggest that nҀ3 fatty
+acid intake may also have favorable effects on the pathogenesis
+or progression of atherosclerosis (9 –12). Direct evidence linking
+fish intake to the rate of progression of coronary disease is limited
+
+and, to date, is not available in women (13–15). On the basis of
+observational data, Hu et al (16) recently reported that a high fish
+intake is associated with a reduced risk of coronary artery disease
+(CAD) and total mortality in diabetic women. It is unclear
+whether there is a direct relation between fish intake and the
+progression of coronary atherosclerosis. The aim of this study
+was to examine the relation between fish consumption and the
+progression of angiographically defined coronary atherosclero-
+sis in a group of postmenopausal women undergoing baseline
+and 3-y follow-up coronary angiography as part of a randomized
+clinical trial of hormone replacement therapy (HRT) (17).
+
+SUBJECTS AND METHODS
+
+Subjects
+
+The Estrogen Replacement and Atherosclerosis trial was a
+randomized, double-blind, placebo-controlled trial of HRT. The
+study design and primary results were reported previously (17),
+and the results on fat intake and atherosclerosis progression were
+reported separately (18). Briefly, postmenopausal women with
+coronary stenoses of 욷30% of the luminal diameter were ran-
+domly assigned into 3 groups and received 1) 0.625 mg conju-
+gated equine estrogen (n ҃ 100), 2) 0.625 mg conjugated equine
+
+1 From the Cardiovascular Nutrition Laboratory, Jean Mayer US Depart-
+ment of Agriculture Human Nutrition Research Center on Aging at Tufts
+University, Boston (ATE and AHL); the Department of Clinical Nutrition,
+University of Kuopio, Kuopio, Finland (ATE); the Channing Laboratory,
+Department of Medicine, Brigham and Women’s Hospital and Harvard Med-
+ical School, and the Departments of Epidemiology and Nutrition, Harvard
+School of Public Health, Boston (DM); and the Department of Internal
+Medicine/Cardiology, Wake Forest University School of Medicine,
+Winston-Salem, NC (DMH).
+
+2 Based on work supported by the US Department of Agriculture under
+agreement no. 58-1950-4-401. Any opinions, findings, conclusions, or rec-
+ommendations expressed in this publication are those of the authors and do
+not necessarily reflect the view of the US Department of Agriculture.
+
+3 Supported by grants from the National Heart, Lung, and Blood Institute
+(U01-HL-45488); the National Center for Research Resources, General Clin-
+ical Research Center (Mo1 rr07122); the US Department of Agriculture
+(58-1950-9-001); and the Academy of Finland (80232 and 79433).
+
+4 Address reprint requests to AH Lichtenstein, Cardiovascular Nutrition
+Laboratory, Jean Mayer USDA-HNRCA, Tufts University, 711 Washington
+Street, Boston, MA 02111. E-mail: alice.lichtenstein@tufts.edu.
+
+Received December 11, 2003.
+Accepted for publication March 3, 2004.
+
+626
+
+Am J Clin Nutr 2004;80:626 –32. Printed in USA. © 2004 American Society for Clinical Nutrition
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/80/3/626/4690540
+by Sheridan College user
+on 14 August 2018
+
+FISH INTAKE AND ATHEROSCLEROSIS
+
+627
+
+estrogen plus 2.5 mg medroxyprogesterone acetate (n ҃ 104), or
+3) placebo (n ҃ 105). At baseline, the subjects completed ques-
+tionnaires about their health status, medical history, dietary in-
+take, and cardiovascular disease risk factors and underwent clin-
+ical examination and quantitative coronary angiography. The
+subjects were classified as having diabetes if their fasting glucose
+concentration was 욷7.0 mmol/L or their 2-h glucose was 욷11.1
+mmol/L during an oral-glucose-tolerance test, their glycated he-
+moglobin value was 쏜7% (19), or they reported having diabetes
+or the use of diet, oral hypoglycemics, or insulin as treatment for
+diabetes. The mean (앐SD) period between angiographic mea-
+surements was 3.2 앐 0.6 y. The study protocol was approved by
+the Institutional Review Board at the participating sites (17) and
+at the New England Medical Center, and Tufts University, Bos-
+ton. All subjects gave their informed written consent before par-
+ticipating in the study.
+
+Dietary assessment
+
+Usual dietary intake during the year before the baseline mea-
+surements was assessed with a validated, semiquantitative, 126-
+item food-frequency questionnaire as described previously (20).
+Dietary information was judged as unreliable and excluded from
+further analysis if reported energy intakes were 쏝660 or 쏜3500
+kcal/d or 쏜11 food item was left blank (n ҃ 8); 282 reliable
+food-frequency questionnaires were completed. Frequency of
+fish consumption was calculated by summing the frequency of
+intake of tuna (84 –112 g/serving) dark fish (84 –140 g/serving),
+or other fish (84 –140 g/serving). Because tuna and dark fish are
+the major dietary contributors to the long-chain nҀ3 fatty acid
+intake, their intake was calculated by summing these 2 intakes
+alone.
+
+Laboratory measurements
+
+Serum lipids were analyzed by using standardized enzymatic
+methods (17). Glucose and glycated hemoglobin were measured
+as previously described (17, 21). C-reactive protein (CRP) was
+measured at baseline with the use of a high-sensitivity kit (Amer-
+ican Laboratory Products Co, Windham, NH) (22). Interleukin 6
+(IL-6) and vascular and intercellular adhesion molecules
+(VCAM-1 and ICAM-1, respectively) were similarly measured
+by using standardized enzyme-linked immunoassay techniques.
+
+Outcome measurements
+
+Quantitative coronary angiography was performed by using
+standardized techniques at baseline and at the end of follow-up in
+248 women (x៮: 9.3 segments per women) (17). Review and anal-
+ysis of the paired films were performed by using a previously
+validated system of cine projectors (SME-3500; Sony, Park
+Ridge, NJ) and software (QCAPlus; Sanders Data Systems, Palo
+Alto, CA). The reference, minimum, and average luminal diam-
+eters and the degree of stenosis (as a percentage of the reference
+diameter) were assessed in proximal epicardial segments. All
+measurements were performed by operators unaware of the
+women’s dietary habits or the temporal sequence of the films.
+Development of a new lesion was defined as the presence of one
+or more segments with 쏝15% stenosis at baseline and an increase
+of 욷15 percentage points at follow-up.
+
+Statistical analysis
+
+All statistical analyses were performed by using SAS (version
+8; SAS Institute, Cary, NC). The normality of continuous vari-
+ables was checked, and log transformations were applied as
+needed. Differences in baseline characteristics and nutrient in-
+takes were tested between the different intake categories by using
+independent-samples t test, Wilcoxon’s rank-sum test, or chi-
+square test, as appropriate. The association between total fish
+intake and different types of fish intake was tested by using the
+test parameters of changes in mean minimum coronary artery
+diameter and mean percentage stenosis with the use of mixed-
+model analysis of covariance (ANCOVA). The model allows for
+differential variation in disease progression across different cor-
+onary segments and correlation in segment changes within a
+given participant. These measurements were adjusted for age, the
+location of the coronary segment, the time of follow-up, study
+clinic, coronary artery bypass grafting (CABG), percutaneous
+transluminal coronary angioplasty (PTCA), race, body mass in-
+dex (BMI; in kg/m2), smoking, use of cholesterol-lowering med-
+ication, HRT, diabetes, and energy intake (model 1). Model 2
+included adjustments for the factors in model 1 and energy-
+adjusted intakes of saturated fat, monounsaturated fat, polyun-
+saturated fat, cholesterol, fiber, and alcohol. Further adjustments
+for blood pressure; serum concentrations of total cholesterol,
+HDL cholesterol, LDL cholesterol, triacylglycerol, and inflam-
+matory markers; education, and strenuous physical activity were
+also made. Differences in the development of new lesions were
+tested with ANCOVA [general linear models (GLM)], with ad-
+justment for study clinic, time of follow-up, CABG, PTCA, use
+of cholesterol-lowering medication, HRT, diabetes, energy in-
+take, and energy-adjusted intakes of saturated fat, monounsatu-
+rated fat, polyunsaturated fat, cholesterol, fiber, and alcohol. The
+interaction between fish intake and diabetes status was tested
+with ANCOVA, and if the P value for the interaction term was
+쏝0.10, ANCOVA (without adjustment for diabetes) was per-
+formed according to diabetes status. Spearman correlation coef-
+ficients adjusted for BMI were calculated between inflammatory
+markers and fish intake. A value of P 쏝 0.05 (two-tailed) was
+considered statistically significant.
+
+RESULTS
+
+Most of the baseline characteristics, including concentrations
+of serum lipids and inflammatory markers and blood pressure did
+not differ significantly between women who reported 쏝2 or 욷2
+servings of fish per week (Table 1). Women who ate 욷2 servings
+of fish per week had a higher educational level and were engaged
+more frequently with strenuous physical activity. Women who
+consumed 욷2 servings of fish per week reported higher intakes
+of energy, protein, cholesterol, alcohol, and carotene and lower
+intakes of carbohydrates (Table 2).
+
+As previously reported, neither estrogen alone nor estrogen
+plus medroxyprogesterone acetate compared with placebo af-
+fected the progression of atherosclerosis in this population (17);
+however, the HRT was controlled in the multivariate models that
+assessed progression. Because of a prior report suggesting a
+selectively beneficial effect of fish intake in diabetic women on
+CAD events (16), we analyzed our data on the basis of diabetes.
+Forty-two percent of the women participating in this study were
+classified as having diabetes (Table 1). Change in minimum
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/80/3/626/4690540
+by Sheridan College user
+on 14 August 2018
+
+628
+
+ERKKILA¨ ET AL
+
+TABLE 1
+Baseline characteristics according to fish consumption
+
+Fish intake
+
+쏝2 servings/wk (n҃148)
+
+욷2 servings/wk (n҃81)
+
+Age (y)
+BMI (kg/m2)
+Systolic blood pressure (mm Hg)
+Diastolic blood pressure (mm Hg)
+Total cholesterol (mmol/L)
+HDL cholesterol (mmol/L)
+LDL cholesterol (mmol/L)
+Triacylglycerol (mmol/L)3
+C-reactive protein (mg/dL)
+Interleukin 6 (ng/L)
+Vascular adhesion molecule 1 (ng/mL)
+Intercellular adhesion molecule 1 (ng/mL)
+Use of cholesterol-lowering medications [n (%)]
+Estrogen treatment [n (%)]
+
+Estrogen
+Estrogen ѿ progestin
+Placebo
+
+Current smoking [n (%)]
+Diabetic subjects [n (%)]
+Education [n (%)]
+
+Less than high school
+High school or vocational school
+At least some college
+
+Ethnicity [n (%)]
+
+White
+Black
+Other
+
+Physical activity during past 7 d [n (%)]
+
+Walking
+Strenuous physical activity
+
+1 t Test unless indicated otherwise.
+2 x៮ 앐 SD (all such values).
+3 Log transformed for the analyses.
+4 Wilcoxon’s rank-sum test.
+5 Chi-square test.
+
+65.0 앐 6.72
+29.0 앐 6.0
+136 앐 17
+75 앐 8
+
+5.66 앐 1.11
+1.16 앐 0.34
+3.57 앐 1.10
+2.21 앐 1.22
+0.58 앐 0.76
+1.14 앐 1.16
+594 앐 177
+259 앐 78
+53 (36)
+
+45 (30)
+54 (37)
+49 (33)
+26 (18)
+63 (43)
+
+60 (41)
+64 (43)
+23 (16)
+
+126 (85)
+17 (12)
+5 (3)
+
+114 (78)
+6 (4)
+
+64.4 앐 6.9
+30.9 앐 7.9
+132 앐 18
+74 앐 8
+
+5.51 앐 0.98
+1.14 앐 0.24
+3.54 앐 0.97
+2.07 앐 1.19
+0.63 앐 0.70
+1.33 앐 1.42
+568 앐 189
+277 앐 122
+27 (33)
+
+29 (36)
+25 (31)
+27 (33)
+22 (27)
+34 (42)
+
+30 (37)
+23 (29)
+27 (34)
+
+67 (83)
+10 (12)
+4 (5)
+
+67 (84)
+9 (11)
+
+P1
+
+0.59
+0.07
+0.09
+0.45
+0.33
+0.61
+0.83
+0.39
+0.734
+0.294
+0.284
+0.354
+0.715
+
+0.635
+
+0.095
+0.935
+
+0.0055
+
+0.835
+
+0.275
+0.055
+
+coronary artery diameter was significantly smaller in women
+who consumed 욷2 servings of fish per week than in those who
+consumed 쏝2 fish servings per week (P for fish intake ҃ 0.02)
+(Table 3). Adjustment for age, location of coronary artery seg-
+ment, time of follow-up, study clinic, CABG, PTCA, race, BMI,
+smoking, use of cholesterol-lowering medication, HRT, diabe-
+tes, and energy intake (model 1) diminished the relation (P ҃
+0.06). Further adjustment for dietary variables known to affect
+CAD risk, saturated fat, monounsaturated fat, polyunsaturated
+fat, cholesterol, fiber, and alcohol (model 2) strengthened the
+association between fish intake and change in minimum coro-
+nary artery diameter (P ҃ 0.006).
+
+Among diabetic women, baseline mean percentage stenosis
+was greater in those who consumed 욷2 servings of fish per week
+(Table 3). Compared with the lower fish intake, the change in
+percentage stenosis was smaller in women who consumed 욷2
+servings of fish per week (P 쏝 0.001). This association was
+restricted to diabetic women after adjustments in models 1 and 2.
+Subsequent adjustments of model 2 for blood pressure; serum
+concentrations of total cholesterol, HDL cholesterol, LDL cho-
+lesterol, triacylglycerol, and inflammatory markers; education;
+
+or strenuous physical activity did not appreciably alter the rela-
+tions between fish intake and changes in minimum coronary
+artery diameter and percentage stenosis (data not shown).
+
+Women who consumed 욷2 servings of fish per week had
+significantly fewer new lesions (P ҃ 0.02, ANCOVA after ad-
+justment for the specified factors) (Table 3). Seventeen (21%) of
+the women consuming 욷2 servings of fish per week and 51
+(34%) of the women consuming 쏝2 servings of fish per week
+developed at least one new lesion (chi-square test, P ҃ 0.03).
+
+Tuna and dark fish are the major contributors of long-chain
+nҀ3 fatty acids in the American diet. The average content of EPA
+and DHA in tuna (0.3–1.3 g/serving) and dark fish (0.7–1.8
+g/serving) is at least twice that of fish in the “other fish” category
+(0.1– 0.4 g/serving) (23). Therefore, it was of interest to deter-
+mine whether the type of fish influenced atherosclerosis progres-
+sion. Women who reported consuming 욷1 serving of tuna or
+dark fish per week had a smaller change in minimum coronary
+artery diameter (P ҃ 0.02) (Table 4). This association was
+diminished and limited to diabetic women when adjusted for the
+factors in model 1. The association became significant when
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/80/3/626/4690540
+by Sheridan College user
+on 14 August 2018
+
+TABLE 2
+Composition of the diet according to fish consumption
+
+FISH INTAKE AND ATHEROSCLEROSIS
+
+Fish intake
+
+쏝2 servings/wk (n҃148)
+
+욷2 servings/wk (n҃81)
+
+Energy (kcal/d)
+Fat (% of energy)
+Protein (% of energy)
+Carbohydrates (% of energy)
+Saturated fat (% of energy)
+Monounsaturated fat (% of energy)
+Polyunsaturated fat (% of energy)
+EPA ѿ DHA3 (% of energy)
+Cholesterol (mg/1000 kcal)
+Fiber (g/1000 kcal)
+Alcohol (% of energy)
+Calcium (mg/1000 kcal)5
+Vitamin C (mg/1000 kcal)5
+Carotene (IU/1000 kcal)5
+
+1542 앐 4802
+27.3 앐 6.8
+15.9 앐 3.4
+59.1 앐 8.8
+8.9 앐 2.6
+9.9 앐 2.9
+5.8 앐 2.0
+0.09 앐 0.06
+126 앐 57
+12.3 앐 3.4
+0.3 앐 1.0
+447 앐 240
+145 앐 136
+5232 앐 3172
+
+1 t Test unless indicated otherwise.
+2 x៮ 앐 SD (all such values).
+3 EPA, eicosapentaenoic acid; DHA, docosahexaenoic acid.
+4 Wilcoxon’s rank-sum test.
+5 Log transformed for the analysis.
+
+1869 앐 610
+27.3 앐 6.6
+18.7 앐 3.7
+55.6 앐 9.2
+8.9 앐 2.7
+9.7 앐 2.5
+5.9 앐 1.8
+0.24 앐 0.15
+143 앐 51
+13.0 앐 4.2
+0.8 앐 2.7
+469 앐 224
+173 앐 163
+6513 앐 4257
+
+629
+
+P1
+
+쏝0.001
+0.99
+쏝0.001
+0.006
+0.88
+0.64
+0.69
+
+쏝0.0014
+
+0.02
+0.19
+0.044
+0.28
+0.08
+0.04
+
+adjusted for the factors in model 2, which suggests an indepen-
+dent effect of tuna and dark fish intake (P ҃ 0.02). Among
+diabetic women, baseline stenosis was greater and changes in
+percentage stenosis were smaller (models 1 and 2) in those who
+consumed 욷1 serving of tuna and dark-meat fish per week. The
+relations between tuna and dark fish intake and percentage ste-
+nosis were not significant in nondiabetic women. Subsequent
+
+adjustments of model 2 for blood pressure levels, serum concen-
+trations of lipids and inflammatory markers, education, or stren-
+uous physical activity did not appreciably alter the relations
+between tuna and dark fish intakes and angiographic measures
+(data not shown).
+
+Mean baseline minimum coronary artery diameter was
+smaller and percentage stenosis was greater in the diabetic
+
+TABLE 3
+Angiographic measures according to fish consumption and diabetes status
+
+No. of subjects
+No. of segments
+Minimum coronary artery diameter (mm)
+
+Baseline
+Change
+Model 14
+Model 25
+Stenosis (%)
+
+Baseline
+Change
+Model 14
+Model 25
+
+New lesions [n (%) of total segments]7
+
+Nondiabetic subjects
+
+Diabetic subjects
+
+쏝2 servings/wk
+
+욷2 servings/wk
+
+쏝2 servings/wk
+
+욷2 servings/wk
+
+P1
+
+P2
+
+85
+868
+
+1.96 앐 0.023
+Ҁ0.08 앐 0.02
+Ҁ0.09 앐 0.03
+Ҁ0.11 앐 0.04
+
+28.0 앐 0.64
+3.29 앐 0.60
+2.98 앐 1.38
+3.71 앐 1.46
+
+36 (4)
+
+47
+482
+
+1.94 앐 0.03
+Ҁ0.06 앐 0.02
+Ҁ0.06 앐 0.04
+Ҁ0.06 앐 0.04
+
+28.5 앐 0.78
+1.99 앐 0.60
+2.46 앐 1.44
+2.29 앐 1.48
+
+12 (2)
+
+63
+644
+
+1.94 앐 0.03
+Ҁ0.14 앐 0.02
+Ҁ0.09 앐 0.04
+Ҁ0.10 앐 0.03
+
+30.0 앐 0.83
+5.71 앐 0.67
+3.93 앐 1.38
+4.54 앐 1.37
+
+29 (5)
+
+34
+346
+
+1.82 앐 0.04
+Ҁ0.08 앐 0.02
+Ҁ0.02 앐 0.04
+Ҁ0.004 앐 0.04
+
+34.7 앐 1.216
+2.36 앐 0.71
+0.16 앐 1.586
+Ҁ0.06 앐 1.596
+
+10 (3)
+
+0.09
+0.02
+0.06
+0.006
+
+0.001
+쏝0.001
+0.03
+0.003
+0.02
+
+0.12
+0.35
+0.05
+0.16
+
+0.01
+0.15
+0.009
+0.06
+0.62
+
+1 For fish intake overall.
+2 For interaction between fish intake and diabetes status.
+3 Least-squares x៮ 앐 SEM (all such values).
+4 Mixed-model analysis of covariance adjusted for location of coronary segment, clinic, age, race, BMI, smoking, use of cholesterol-lowering medications,
+hormone replacement therapy, time of follow-up, coronary artery bypass grafting, percutaneous transluminal coronary angioplasty, diabetes, and energy intake.
+5 Adjusted for variables in model 1 plus energy-adjusted intakes of saturated fat, monounsaturated fat, polyunsaturated fat, cholesterol, fiber, and alcohol.
+6 Significantly different from 쏝2 servings/wk, P 쏝 0.05 (mixed model).
+7 General linear model (analysis of covariance) adjusted for clinic, time of follow-up, use of cholesterol-lowering medications, hormone replacement
+therapy, coronary artery bypass grafting, percutaneous transluminal coronary angioplasty, diabetes, energy intake, and energy-adjusted intakes of saturated fat,
+monounsaturated fat, polyunsaturated fat, cholesterol, fiber, and alcohol.
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/80/3/626/4690540
+by Sheridan College user
+on 14 August 2018
+
+630
+
+ERKKILA¨ ET AL
+
+TABLE 4
+Angiographic measures according to different types of fish consumption and diabetes status
+
+Tuna and dark fish
+No. of subjects
+No. of segments
+
+Minimum coronary artery diameter (mm)
+
+Baseline
+Change
+Model 15
+Model 26
+Stenosis (%)
+
+Baseline
+Change
+Model 15
+Model 26
+
+New lesions [n (% of total segments)]7
+Other fish
+
+No. of subjects
+No. of segments
+
+Minimum coronary artery diameter (mm)
+
+Baseline
+Change
+Model 15
+Model 26
+Stenosis (%)
+
+Baseline
+Change
+Model 15
+Model 26
+
+New lesions [n (% of total segments)]7
+
+Nondiabetic subjects
+
+Diabetic subjects
+
+쏝1 serving/wk
+
+욷1 serving/wk
+
+쏝1 serving/wk
+
+욷1 serving/wk
+
+P1
+
+P2
+
+58
+593
+
+1.94 앐 0.033
+Ҁ0.09 앐 0.02
+Ҁ0.09 앐 0.04
+Ҁ0.12 앐 0.04
+
+28.1 앐 0.77
+3.15 앐 0.73
+2.87 앐 1.54
+3.78 앐 1.61
+
+21 (4)
+
+95
+970
+
+1.96 앐 0.02
+Ҁ0.09 앐 0.01
+Ҁ0.08 앐 0.03
+Ҁ0.10 앐 0.03
+
+28.2 앐 0.61
+3.60 앐 0.56
+2.93 앐 1.31
+3.56 앐 1.35
+
+40 (4)
+
+74
+757
+
+1.96 앐 0.03
+Ҁ0.07 앐 0.02
+Ҁ0.07 앐 0.03
+Ҁ0.07 앐 0.03
+
+28.2 앐 0.64
+2.57 앐 0.54
+2.57 앐 1.29
+2.72 앐 1.32
+
+27 (4)
+
+37
+380
+
+1.93 앐 0.03
+Ҁ0.02 앐 0.024
+Ҁ0.07 앐 0.04
+Ҁ0.06 앐 0.04
+
+28.0 앐 0.85
+0.84 앐 0.654
+2.40 앐 1.51
+2.09 앐 1.54
+
+8 (2)
+
+49
+497
+
+1.98 앐 0.04
+Ҁ0.16 앐 0.02
+Ҁ0.11 앐 0.04
+Ҁ0.12 앐 0.04
+
+29.6 앐 0.90
+6.17 앐 0.79
+4.51 앐 1.61
+5.12 앐 1.48
+
+24 (5)
+
+60
+615
+
+2.02 앐 0.03
+Ҁ0.12 앐 0.02
+Ҁ0.08 앐 0.03
+Ҁ0.08 앐 0.03
+
+30.0 앐 0.85
+4.32 앐 0.58
+2.74 앐 1.39
+3.21 앐 1.43
+
+29 (5)
+
+48
+493
+
+1.82 앐 0.044
+Ҁ0.08 앐 0.02
+Ҁ0.02 앐 0.044
+Ҁ0.006 앐 0.04
+
+33.8 앐 1.044
+2.84 앐 0.614
+0.41 앐 1.444
+0.35 앐 1.474
+
+15 (3)
+
+37
+376
+
+1.89 앐 0.024
+Ҁ0.12 앐 0.03
+Ҁ0.03 앐 0.04
+Ҁ0.04 앐 0.04
+
+34.4 앐 1.174
+4.88 앐 0.93
+1.92 앐 1.54
+2.12 앐 1.53
+
+10 (3)
+
+0.11
+0.02
+0.09
+0.02
+
+0.05
+0.007
+0.12
+0.02
+0.39
+
+0.009
+0.08
+0.10
+0.04
+
+0.01
+0.14
+0.15
+0.05
+0.02
+
+0.005
+0.15
+0.03
+0.11
+
+0.01
+0.05
+0.01
+0.05
+0.13
+
+0.07
+0.08
+0.10
+0.25
+
+0.01
+0.03
+0.27
+0.52
+0.66
+
+1 For tuna and dark fish and “other fish” intake overall.
+2 For interaction between tuna and dark fish and “other fish” intake and diabetes status.
+3 Least-squares x៮ 앐 SEM (all such values).
+4 Significantly different from 쏝1 serving/wk within group, P 쏝 0.05 (mixed model).
+5 Mixed-model analysis of covariance adjusted for location of coronary segment, clinic, age, race, BMI, smoking, use of cholesterol-lowering medications,
+hormone replacement therapy, time of follow-up, coronary artery bypass grafting, percutaneous transluminal coronary angioplasty, diabetes, and energy intake.
+6 Adjusted for variables in model 1 plus energy-adjusted intakes of saturated fat, monounsaturated fat, polyunsaturated fat, cholesterol, fiber, and alcohol.
+7 General linear model (analysis of covariance) adjusted for clinic, time of follow-up, use of cholesterol-lowering medications, hormone replacement
+therapy, coronary artery bypass grafting, percutaneous transluminal coronary angioplasty, diabetes, energy intake, and energy-adjusted intakes of saturated fat,
+monounsaturated fat, polyunsaturated fat, cholesterol, fiber, and alcohol.
+
+women who consumed 욷1 serving of “other fish” than in those
+who reported lower intakes (Table 4). In nondiabetic women,
+those reporting 욷1 serving of “other fish” per week had smaller
+changes in minimum coronary artery diameter and percentage
+stenosis. The associations between angiographic changes and
+consumption of other fish were significant when factors in model
+2 were adjusted (P ҃ 0.04 and P ҃ 0.05, respectively); however,
+the interaction between diabetes status and intake of other fish
+was not significant. There were also fewer segments with new
+lesions in women who consumed 욷1 serving of “other fish” per
+week.
+
+To determine whether the associations of fish intake were
+related to markers of inflammation, we evaluated correlations
+between fish intake and concentrations of inflammatory markers
+after adjustment for BMI, because CRP concentrations have
+been suggested to be directly associated with BMI (24). Fish
+intake was inversely correlated with concentrations of
+VCAM-1 in all women (Table 5). Concentrations of CRP,
+
+IL-6, and ICAM-1 were not significantly correlated with fish
+consumption.
+
+DISCUSSION
+
+Fish and nҀ3 fatty acid intakes have received considerable
+attention in the recent past as potential dietary factors to reduce
+
+TABLE 5
+Spearman correlation coefficients adjusted for BMI between fish
+consumption and inflammatory markers
+
+C-reactive protein
+Interleukin 6
+Vascular adhesion molecule 1
+Intercellular adhesion molecule 1
+
+Fish (servings/wk)
+
+r
+Ҁ0.01
+Ҁ0.02
+Ҁ0.17
+0.001
+
+P
+
+0.86
+0.83
+0.02
+0.99
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/80/3/626/4690540
+by Sheridan College user
+on 14 August 2018
+
+FISH INTAKE AND ATHEROSCLEROSIS
+
+631
+
+the risk of developing CAD (4 – 6, 25). This growing body of data
+culminated with a 2002 recommendation by the American Heart
+Association for persons without documented CAD to eat fish
+twice or more per week and for patients with documented CAD
+to consume 1 g EPA ѿ DHA/d (26). The importance of these and
+other recommendations for diabetic persons was highlighted
+when the National Cholesterol Education Program (27) desig-
+nated diabetes as a CAD risk equivalent. This may be particularly
+important in women, in whom the adverse effects of diabetes may
+be greater than those in men (28).
+
+There are no previous data on fish intake and atherosclerosis
+progression in women. The present results extend prior obser-
+vational data on CAD risk by showing that fish intake is associ-
+ated with reduced progression of atherosclerosis in postmeno-
+pausal women with established CAD within the 3-y
+observational period of the study. Subsequent analysis indicated
+that this association was strongest in the subgroup of women with
+diabetes. The interaction terms between fish intake and diabetes
+were not significant in all of the analyses. The possibility that this
+observation was due to limited statistical power cannot be ruled
+out. Nevertheless, within the 3-y period, new lesions were ob-
+served in all women regardless of fish intake. Data from the
+current study are consistent with recent observational data, sug-
+gesting an association with fish and nҀ3 fatty acid intakes and a
+decreased incidence of CAD and total mortality in diabetic
+women (16). These data can be interpreted in 2 ways. The ob-
+servation of a significant association of fish intake in diabetic, but
+not in nondiabetic women, may be due to a higher degree of
+sensitivity of diabetic women to nҀ3 fatty acids. However, the
+possibility cannot be excluded that the observation may reflect a
+more rapid rate of atherosclerosis progression in the diabetic
+women, hence, a greater likelihood that a positive association
+would be observed within the observational period.
+
+The lower rate of angiographically documented atherosclero-
+sis progression was significantly associated with tuna and dark
+fish intake, whereas these associations appeared to be weaker for
+the intake of “other fish.” This finding is likely a reflection of the
+higher nҀ3 fatty acid content of tuna and dark fish than of “other
+fish.” Alternatively, it may be related to the method used for
+preparation of tuna and dark fish relative to that for white fish.
+The later type of fish is more likely to be fried in fat that is high
+in either trans or saturated fatty acids (25). The findings of the
+current study are consistent with those of previous studies, which
+documented an inverse association between dark fish intake and
+total mortality and CAD morbidity in diabetic women partici-
+pating in the Nurses’ Health Study (16). Furthermore, intake of
+tuna or other broiled or baked fish has been shown to be associated
+with a reduced risk of cardiac death in female and male subjects
+participating in the Cardiovascular Health Study (25). Similarly,
+intake of fatty fish was associated with a lower risk of cardiac death
+in men participating in the Seven Countries Study (29).
+
+Although fish intake and fish-oil supplements have been as-
+sociated with a reduced risk of clinical events, the effect of fish
+or nҀ3 fatty acid intake on the progression of atherosclerosis has
+been controversial. Bairati et al (30) reported that dietary nҀ3
+fatty acid intake was associated with a lower frequency of reste-
+nosis at 6 mo after PTCA in men, whereas Watts et al (31)
+reported no association between atherosclerosis progression and
+dietary intakes of EPA and DHA in men after 3 y of follow-up.
+Less progression of atherosclerosis has been reported after 1 y of
+treatment with fish-oil supplements in CABG patients (14) and
+
+CAD patients after 2 y of treatment (15). In contrast, Sacks et al
+(13) reported that fish-oil supplementation did not alter the pro-
+gression of atherosclerosis in CAD patients over a 28-mo period.
+Self-reported intake of fish at least twice a week has been shown
+to be associated with a lower prevalence of myocardial lesions in
+men at autopsy (32). Fish-oil supplementation has been reported
+to have little effect on restenosis after PTCA (33–35). However,
+restenosis is a pathophysiologically distinct process compared
+with progression of native atherosclerosis. There are no data
+focusing on fish intake and atherosclerosis progression in women
+or in diabetic subjects. In most cases, the data sets include 앒80%
+male subjects (13–15, 34), and data are not reported separately
+for female subjects.
+
+Fish and nҀ3 fatty acids are suggested to have antiinflamma-
+tory properties (12) that may contribute to the reduced risk of
+CAD, especially in diabetic subjects (36). Concentrations of
+most inflammatory markers, with the exception of VCAM-1,
+were not associated with fish intake in this study. VCAM-1,
+which is mainly expressed on atherosclerotic plaques, is sug-
+gested to predict CAD risk, especially in subjects with advanced
+atherosclerosis (36). These data may have been confounded by
+the relatively high BMI or proportion of diabetic women in the
+study population. These data are consistent with previous work
+suggesting that fish-oil supplementation does not affect concen-
+trations of CRP and IL-6 (37) or ICAM-1 and VCAM-1 (38).
+
+Our study had certain limitations. Higher fish intakes were
+associated with a healthier lifestyle. Although these factors were
+controlled for during the analysis, residual confounding cannot
+be ruled out. The results suggest that intake of tuna and dark fish
+is more strongly associated with a reduction in progression than
+is the intake of other types of fish. Because the latter category of
+fish is more likely to not only be fried but also to be consumed
+with other fried foods (eg, fried potatoes), such a dietary pattern
+could have contributed to the observed outcome (25). There have
+been some concerns that fish contaminated with mercury could
+diminish the benefits of fish (39). We were not able to evaluate
+the effect of mercury because there was no data collected on
+mercury exposure.
+
+In conclusion, fish consumption was associated with a signif-
+icantly reduced progression of coronary atherosclerosis in post-
+menopausal women with CAD. This relation was strongest in
+diabetic women. The findings support the view that regular fish
+consumption is a part of a healthy diet.
+
+DMH contributed to the original planning of the Estrogen Replacement
+and Atherosclerosis Study. ATE, AHL, and DMH contributed to the study
+design. ATE was responsible for the statistical analyses and the writing of the
+first draft. All authors contributed to the data interpretation and revision of the
+manuscript. There were no conflicts of interest.
+
+REFERENCES
+1. Burr ML, Fehily AM, Gilbert JF, et al. Effects of changes in fat, fish, and
+fibre intakes on death and myocardial reinfarction: diet and reinfarction
+trial (DART). Lancet 1989;2:757– 61.
+
+2. Siscovick DS, Raghunathan TE, King I, et al. Dietary intake and cell
+membrane levels of long-chain nҀ3 polyunsaturated fatty acids and the
+risk of primary cardiac arrest. JAMA 1995;274:1363–7.
+
+3. Daviglus ML, Stamler J, Orencia AJ, et al. Fish consumption and the
+30-year risk of fatal myocardial infarction. N Engl J Med 1997;336:
+1046 –53.
+
+4. GISSI-Prevenzione investigators. Dietary supplementation with nҀ3
+polyunsaturated fatty acids and vitamin E after myocardial infarction:
+results of the GISSI-Prevenzione trial. Lancet 1999;354:447–55.
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/80/3/626/4690540
+by Sheridan College user
+on 14 August 2018
+
+632
+
+ERKKILA¨ ET AL
+
+5. Hu FB, Bronner L, Willett WC, et al. Fish and omega-3 fatty acid intake
+and risk of coronary heart disease in women. JAMA 2002;287:1815–21.
+6. Erkkila¨ AT, Lehto S, Pyöra¨la¨ K, Uusitupa MIJ. nҀ3 Fatty acids and 5-y
+risks of death and cardiovascular disease events in patients with coronary
+artery disease. Am J Clin Nutr 2003;78:65–71.
+
+7. Albert CM, Hennekens CH, O’Donnell CJ, et al. Fish consumption and
+
+risk of sudden cardiac death. JAMA 1998;279:23– 8.
+
+8. Albert CM, Campos H, Stampfer MJ, et al. Blood levels of long-chain
+nҀ3 fatty acids and the risk of sudden death. N Engl J Med 2002;346:
+1113– 8.
+
+9. Harris WS. nҀ3 fatty acids and serum lipoproteins: human studies. Am J
+
+Clin Nutr 1997;65(suppl):1645S–54S.
+
+10. Geleijnse JM, Giltay EJ, Grobbee DE, Donders AR, Kok FJ. Blood
+pressure response to fish oil supplementation: metaregression analysis of
+randomized trials. J Hypertens 2002;20:1493–9.
+
+11. De Caterina R, Liao JK, Libby P. Fatty acid modulation of endothelial
+
+activation. Am J Clin Nutr 2000;71:213S–23S.
+
+12. Calder PC. Dietary modification of inflammation with lipids. Proc Nutr
+
+Soc 2002;61:345–58.
+
+13. Sacks FM, Stone PH, Gibson CM, Silverman DI, Rosner B, Pasternak
+RC. Controlled trial of fish oil for regression of human coronary athero-
+sclerosis. HARP Research Group. J Am Coll Cardiol 1995;25:1492– 8.
+14. Eritsland J, Arnesen H, Gronseth K, Fjeld NB, Abdelnoor M. Effect of
+dietary supplementation with nҀ3 fatty acids on coronary artery bypass
+graft patency. Am J Cardiol 1996;77:31– 6.
+
+15. von Schacky C, Angerer P, Kothny W, Theisen K, Mudra H. The effect
+of dietary omega-3 fatty acids on coronary atherosclerosis. A random-
+ized, double-blind, placebo-controlled trial. Ann Intern Med 1999;130:
+554 – 62.
+
+16. Hu FB, Cho E, Rexrode KM, Albert CM, Manson JE. Fish and long-
+chain ␻-3 fatty acid intake and risk of coronary heart disease and total
+mortality in diabetic women. Circulation 2003;107:1852–7.
+
+17. Herrington DM, Reboussin DM, Brosnihan KB, et al. Effects of estrogen
+replacement on the progression of coronary-artery atherosclerosis.
+N Engl J Med 2000;343:522–9.
+
+18. Mozaffarian D, Rimm EB, Herrington DM. Dietary fats, carbohydrate,
+and progression of coronary atherosclerosis in postmenopausal women.
+Am J Clin Nutr (in press).
+
+19. Expert Committee on the Diagnosis and Classification of Diabetes Mel-
+litus. Report of the Expert Committee on the Diagnosis and Classifica-
+tion of Diabetes Mellitus. Diabetes Care 2002;25:S5–20.
+
+20. Willett WC, Sampson L, Stampfer MJ, et al. Reproducibility and va-
+lidity of a semiquantitative food frequency questionnaire. Am J Epide-
+miol 1985;122:51– 65.
+
+21. Herrington DM, Reboussin DM, Klein KP, et al. The estrogen replace-
+ment and atherosclerosis (ERA) study: study design and baseline char-
+acteristics of the cohort. Control Clin Trials 2000;21:257– 85.
+
+22. Herrington DM, Howard TD, Brosnihan KB, et al. Common estrogen re-
+ceptor polymorphism augments effects of hormone replacement therapy on
+E-selectin but not C-reactive protein. Circulation 2002;105:1879–82.
+
+23. USDA Nutrient Data Laboratory. The USDA National Nutrient Data-
+base for Standard Reference, release 16. 2003. Internet: www.nal.usda.
+gov/fnic/foodcomp (accessed 5 February, 2004).
+
+24. Heilbronn LK, Noakes M, Clifton PM. Energy restriction and weight
+loss on very-low-fat diets reduce C- reactive protein concentrations
+in obese, healthy women. Arterioscler Thromb Vasc Biol 2001;21:
+968 –70.
+
+25. Mozaffarian D, Lemaitre RN, Kuller LH, Burke GL, Tracy RP, Sisco-
+vick DS. Cardiac benefits of fish consumption may depend on the type
+of fish meal consumed: the Cardiovascular Health Study. Circulation
+2003;107:1372–37.
+
+26. Kris-Etherton PM, Harris WS, Appel LJ. Fish consumption, fish oil,
+omega-3 fatty acids, and cardiovascular disease. Circulation 2002;106:
+2747–57.
+
+27. Expert Panel on Detection Evaluation and Treatment of High Blood
+Cholesterol in Adults. Executive Summary of the Third Report of the
+National Cholesterol Education Program (NCEP) Expert Panel on De-
+tection, Evaluation, and Treatment of High Blood Cholesterol in Adults
+(Adult Treatment Panel III). JAMA 2001;285:2486 –97.
+
+28. Beckman JA, Creager MA, Libby P. Diabetes and atherosclerosis: epide-
+miology, pathophysiology, and management. JAMA 2002;287:2570–81.
+29. Oomen CM, Feskens EJ, Ra¨sa¨nen L, et al. Fish consumption and coro-
+nary heart disease mortality in Finland, Italy, and The Netherlands. Am J
+Epidemiol 2000;151:999 –1006.
+
+30. Bairati I, Roy L, Meyer F. Double-blind, randomized, controlled trial of
+fish oil supplements in prevention of recurrence of stenosis after coro-
+nary angioplasty. Circulation 1992;85:950 – 6.
+
+31. Watts GF, Jackson P, Burke V, Lewis B. Dietary fatty acids and pro-
+gression of coronary artery disease in men. Am J Clin Nutr 1996;64:
+202–9.
+
+32. Burchfiel CM, Reed DM, Strong JP, Sharp DS, Chyou PH, Rodriguez
+BL. Predictors of myocardial lesions in men with minimal coronary
+atherosclerosis at autopsy. The Honolulu heart program. Ann Epidemiol
+1996;6:137– 46.
+
+33. Leaf A, Jorgensen MB, Jacobs AK, et al. Do fish oils prevent restenosis
+
+after coronary angioplasty? Circulation 1994;90:2248 –57.
+
+34. Cairns JA, Gill J, Morton B, et al. Fish oils and low-molecular-weight
+heparin for the reduction of restenosis after percutaneous translumi-
+nal coronary angioplasty. The EMPAR Study. Circulation 1996;94:
+1553– 60.
+
+35. Johansen O, Brekke M, Seljeflot I, Abdelnoor M, Arnesen H. nҀ3 Fatty
+acids do not prevent restenosis after coronary angioplasty: results from
+the CART study. Coronary Angioplasty Restenosis Trial. J Am Coll
+Cardiol 1999;33:1619 –26.
+
+36. Blake GJ, Ridker PM. Inflammatory bio-markers and cardiovascular
+
+risk prediction. J Intern Med 2002;252:283–94.
+
+37. Chan DC, Watts GF, Barrett PH, Beilin LJ, Mori TA. Effect of atorva-
+statin and fish oil on plasma high-sensitivity C-reactive protein con-
+centrations in individuals with visceral obesity. Clin Chem 2002;48:
+877– 83.
+
+38. Sampson MJ, Davies IR, Brown JC, et al. nҀ3 Polyunsaturated fatty
+acid supplementation, monocyte adhesion molecule expression and
+pro-inflammatory mediators in type 2 diabetes mellitus. Diabet Med
+2001;18:51– 8.
+
+39. Guallar E, Sanz-Gallardo MI, van’t Veer P, et al. Mercury, fish oils, and
+
+the risk of myocardial infarction. N Engl J Med 2002;347:1747–54.
+
+Downloaded from https://academic.oup.com/ajcn/article-abstract/80/3/626/4690540
+by Sheridan College user
+on 14 August 2018
+
+

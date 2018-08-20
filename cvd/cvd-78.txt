@@ -1,0 +1,1455 @@
+Nutrition, Metabolism & Cardiovascular Diseases (2006) 16, 559e568
+
+www.elsevier.com/locate/nmcd
+
+Dietary patterns: A Mediterranean diet score and
+its relation to clinical and biological markers of
+cardiovascular disease risk
+
+Demosthenes B. Panagiotakos a,*, Christos Pitsavos b,
+Christodoulos Stefanadis b
+
+a Department of Nutrition and Dietetics, Harokopio University, Athens, Greece
+b School of Medicine, University of Athens, Greece
+
+Received 18 May 2005; received in revised form 5 August 2005; accepted 5 August 2005
+
+KEYWORDS
+Mediterranean;
+Diet;
+Score;
+Cardiovascular
+
+Background and aim: It has been suggested that overall dietary patterns
+Abstract
+and not single nutrients should be studied, since food items might have a synergistic
+and antagonistic effect on health. The Mediterranean diet has long been associated
+with lower incidence of cardiovascular disease and cancer. Therefore, we devel-
+oped a diet score that incorporates the inherent characteristics of this dietary
+pattern.
+Methods and results: We used 11 main components of the Mediterranean diet (non-
+reﬁned cereals, fruits, vegetables, potatoes, legumes, olive oil, ﬁsh, red meat,
+poultry, full fat dairy products and alcohol). For the consumption of items pre-
+sumed to be close to this pattern we assigned scores 0, 1, 2, 3, 4 and 5 when a par-
+ticipant reported no consumption, rare, frequent, very frequent, weekly and daily,
+respectively. For the consumption of foods presumed to be away from this pattern
+we assigned the scores on a reverse scale. Especially for alcohol, we assigned score
+5 for consumption of less than 300 ml/day, score 0 for consumption of more than
+700 ml/day or none and scores 1e4 for consumption of 300e400, 400e500, 500e
+600, and 600e700 ml/day (100 ml ¼ 12 g ethanol), respectively. Then a total score
+ranging from 0 to 55 was calculated. After having applied this diet score in the par-
+ticipants of the ATTICA study we observed a signiﬁcant positive association with
+monounsaturated fat and monounsaturated-to-saturated fat intake. We also ob-
+served, an inverse association with serum lipids, blood pressures, inﬂammation
+and coagulation markers related to cardiovascular disease. The application of that
+score in a caseecontrol study (CARDIO2000) suggested that the score was inversely
+associated with the odds of having acute coronary syndromes.
+
+* Corresponding author. 46 Paleon Polemiston Street, 166 74, Attica, Greece. Tel.: þ30 210 9603116; fax: þ30 210 9600719.
+E-mail address: d.b.panagiotakos@usa.net (D.B. Panagiotakos).
+
+0939-4753/$ - see front matter ª 2005 Elsevier B.V. All rights reserved.
+doi:10.1016/j.numecd.2005.08.006
+
+560
+
+D.B. Panagiotakos et al.
+
+Conclusion: The Mediterranean diet score proposed above may be useful in asses-
+sing the nutritional status of an individual and investigating the relationship of
+the Mediterranean diet with various health outcomes.
+ª 2005 Elsevier B.V. All rights reserved.
+
+Introduction
+
+Methods
+
+The effect of a diet on human health has already
+been underlined in many studies. During the past
+years population-based surveys and large-scale clin-
+ical trials have provided scientiﬁc evidence that
+diets, and especially those rich in fruits, vegetables,
+legumes, whole grains, ﬁsh and low-fat dairy prod-
+ucts, are associated with lower incidence of various
+chronic diseases, including cardiovascular disease
+and cancer [1e5]. The National Cholesterol Educa-
+tion Program and the American Heart Association
+recently considered that a dietary therapy or med-
+ical nutrition therapy was the primary approach to
+preventing and treating hyperlipidemia and hyper-
+tension [1].
+
+At this point it should be mentioned that the
+majority of studies concerning the nutritional ﬁeld
+followed the approach of assessing single nutrients
+or food items, instead of assessing dietary patterns.
+However, people do not eat isolated nutrients, but
+they consume meals consisting of a variety of foods
+with complex combinations of nutrients. Several
+investigators have suggested a holistic dietary
+approach on disease prevention [6,7]. Dietary pat-
+terns capture the extremes of dietary habits, pre-
+empts nutritional confounding, possible effect
+modiﬁcation among nutritional variables through
+the same procedure and they do not tend to be
+biased. As a result the use of dietary patterns seems
+to be more attractive than the use of single food or
+nutrients.
+In addition, Martinez-Gonzalez and
+Estruch [8] underlined the need of randomized trials
+using a whole-diet approach and not a simple
+antioxidant supplement in order to evaluate the
+role of the Mediterranean dietary pattern on human
+health. Moreover,
+review paper
+Martinez-Gonzalez and Sanchez-Villegas [9] argued
+that not all the components of a dietary pattern are
+protective, or each component may not provide
+equal
+it could be
+suggested that overall dietary patterns and not sin-
+gle nutrients should be studied since food items
+might have a synergistic and antagonistic effect on
+health.
+
+level of protection. Thus,
+
+in a recent
+
+In this context, this paper proposes a diet score
+that assesses adherence to the Mediterranean diet
+and evaluates its predictive ability on cardiovas-
+cular disease risk and markers.
+
+Before we describe the development of the diet
+score it is important to present, in brief, the
+Mediterranean dietary pattern, based on which
+the diet score was developed.
+
+The Mediterranean dietary pattern
+
+The diet of the people living in Mediterranean
+basin, where olive oil is the principal source of
+dietary fat, encompasses all the beneﬁcial dietary
+characteristics presented in previous studies. Many
+investigators have already underlined the beneﬁ-
+cial role of this dietary pattern on all-cause and
+coronary heart disease mortality [10e14], on lipid
+metabolism, on blood pressure levels [6,9,13,14],
+on body mass index [15] and on inﬂammation and
+coagulation process [16]. Olive oil is important to
+human health not only because it has several ben-
+eﬁcial properties, but because it also promotes the
+consumption of large quantities of vegetables in
+the form of salads and equally large quantities of
+legumes in the form of cooked foods. Other essen-
+tial components of the Mediterranean diet are
+wheat, olives and grapes and their various deriva-
+tive products. Total lipid intake in this dietary pat-
+tern may be high (around or in excess of 40% of
+total energy intake)
+in Greece, or moderate
+(around 30% of total energy intake) in Italy. In all
+instances, however, the ratio of monounsaturated-
+to-saturated fats is about or more than 2, which is
+much higher than in other places of the world,
+including northern Europe and North America.
+
+The Mediterranean dietary pattern has become
+customary to be represented in the form of
+a pyramid (triangle), the base of which refers to
+foods which are suggested to be consumed most
+frequently and the top of the pyramid to those
+foods to be consumed rarely. The remaining foods
+occupy intermediate positions (Fig. 1 [17]). In par-
+ticular, this dietary pattern consists of: (a) daily
+consumption of non-reﬁned cereals and products
+(like whole grain bread, pasta, rice, etc., 8 serv-
+ings/day), vegetables (2e3 servings/day), fruits
+(4e6 servings/day), olive oil (in daily cooking as
+the main added lipid) and nonfat or low-fat dairy
+products (like cheese, yoghurt, and milk, 1e2 serv-
+ings/day), (b) weekly consumption of potatoes
+
+Mediterranean diet score and its relation to clinical and biological markers
+
+561
+
+Figure 1
+
+The traditional Mediterranean diet pyramid.
+
+(4e5 servings/week), ﬁsh (4e5 servings/week),
+olives, pulses and nuts (>4 servings/week) and
+more rare poultry (1e3 servings/week), eggs and
+sweets (1e3 servings/week) and monthly con-
+sumption of red meat and meat products (4e5
+servings/month). This pattern is also characterized
+by moderate consumption of wine (1e2 wine-
+glasses/day), which usually accompanies meals.
+In addition, although intake of milk is moderate,
+the consumption of cheese and yogurt is relatively
+high. Feta cheese is regularly added to salads and
+accompanies vegetable stews.
+
+The Mediterranean diet score
+
+Following the rationale of
+the Mediterranean
+dietary pattern [17], we decided to include the
+consumption of the following food groups in the
+diet score: non-reﬁned cereals (whole bread, pasta,
+rice, other grain, biscuits, etc.), fruit, vegetables,
+
+full
+
+legumes, potatoes, ﬁsh, meat and meat products,
+poultry,
+fat dairy products (like cheese,
+yoghurt, and milk), as well as olive oil and alcohol
+intake. Food items in a particular group contained
+similar levels of macronutrients and other key
+nutrients. Then, based on the suggested intake
+(see Fig. 1) we used monotonic functions (with
+the exception of alcohol intake) in order to score
+the frequency consumption of these foods. In par-
+ticular, we assigned individual ratings (from 0 to 5
+or the reverse) in each of the 11 food groups
+according to their position in the Mediterranean
+diet pyramid. For the consumption of items pre-
+sumed to be close to this pattern (i.e. those sug-
+gested on a daily basis or more than 4 servings/
+week; non-reﬁned cereals, fruits, vegetables, le-
+gumes, olive oil, ﬁsh, and potatoes) we assigned
+score 0 when someone reported no consumption,
+score 1 when they reported consumption of 1e4
+servings/month, score 2 for 5e8 servings/month,
+
+562
+
+D.B. Panagiotakos et al.
+
+without any clinical evidence of cardiovascular or
+other atherosclerotic disease, chronic viral infec-
+tions, cold or the ﬂu, acute respiratory infection,
+dental problems or any type of surgery, during
+the past weeks. Participants completed a semi-
+quantitative food frequency questionnaire [19]
+that was administrated by trained dieticians. The
+questionnaire assessed usual dietary intake over
+the preceding year and included 156 foods and
+beverages commonly consumed in Greece, with 7
+non-overlapping response categories. Illustrations
+assisted the responders to deﬁne the portion sizes
+in several foods which were included in the ques-
+tionnaire. The frequency of consumption was
+quantiﬁed approximately in terms of the number
+of times this food was consumed per month.
+Thus, daily consumption was multiplied by 30 and
+weekly consumption was multiplied by 4 and a val-
+ue of 0 was assigned to food items rarely or never
+consumed. Consumption of various alcoholic bev-
+erages was measured in ml (100 ml is considered
+to have 12 g of ethanol). According to the Methods
+described above we calculated the Mediterranean
+diet score of the participants.
+
+Additionally, based on food composition tables
+[20] we calculated daily energy intake (in kcal), to-
+tal, monounsaturated, saturated, polyunsaturated
+lipids (in g/day), the percentage of energy from
+saturated lipids and the ratio of monounsaturated-
+to-saturated lipids.
+
+Statistical analysis
+
+Descriptive parameters, like mean, standard de-
+viation, coefﬁcient of variation, tertiles and range,
+were used to describe the distribution of the diet
+
+Frequency of consumption (servings/month)
+13e18
+4
+
+9e12
+3
+
+Never
+0
+
+1e4
+1
+
+5e8
+2
+
+have
+
+been
+
+score 3 for 9e12 servings/month, score 4 for 13e
+18 servings/month and score 5 for more than 18
+servings/month. Potatoes, although they are not
+on the basis of
+the Mediterranean pyramid,
+were included in this group of foods since they
+are a good source of vitamins C, B1, and B2, nia-
+cin, carbohydrates, ﬁber, potassium and magne-
+sium, which
+associated with
+cardiovascular disease risk markers in previous
+studies. On the other hand, for the consumption
+of foods presumed to be away from this diet
+(i.e. rare or monthly consumption; meat and
+meat products, poultry and full fat dairy prod-
+ucts) we assigned the scores on a reverse scale
+(i.e. 5 when someone reported no consumption
+to 0 when they reported almost daily consump-
+tion). Especially for alcohol we did not use
+a monotonic function, but we assigned score 5
+for consumption of less than 300 ml of alcohol/
+day,
+score 0 for consumption of more than
+700 ml/day and scores 4e1 for consumption of
+300, 400e500, 600 and 700 or 0 ml/day (100 ml
+has 12 g ethanol concentration),
+respectively.
+Thus, the score ranges from 0 to 55. Higher values
+of this diet score indicate greater adherence to
+the Mediterranean diet (Table 1).
+
+Application of the diet score to
+epidemiological data
+
+We next calculated the diet score of 1514 men and
+1528 women (>18 years old) randomly selected
+(according to sex and age distribution of the
+reference population) from the Athens greater
+area (78% urban and 22% rural regions) in Greece
+(the ATTICA Study [18]). All participants were
+
+Table 1
+
+The Mediterranean diet score
+
+How often do you consume
+Non-reﬁned cereals
+
+(whole grain bread, pasta, rice, etc.)
+
+Potatoes
+Fruits
+Vegetables
+Legumes
+Fish
+Red meat and products
+Poultry
+Full fat dairy products (cheese, yoghurt, and milk)
+
+0
+0
+0
+0
+0
+5
+5
+5
+
+1
+1
+1
+1
+1
+4
+4
+4
+
+2
+2
+2
+2
+2
+3
+3
+3
+
+Use of olive oil in cooking (times/week)
+Never
+0
+Alcoholic beverages (ml/day, 100 ml ¼ 12 g ethanol) <300
+
+5
+
+Rare
+1
+300
+4
+
+<1
+2
+400
+3
+
+3
+3
+3
+3
+3
+2
+2
+2
+1e3
+3
+500
+2
+
+4
+4
+4
+4
+4
+1
+1
+1
+3e5
+4
+600
+1
+
+>18
+5
+
+5
+5
+5
+5
+5
+0
+0
+0
+
+Daily
+5
+>700 or 0
+0
+
+Mediterranean diet score and its relation to clinical and biological markers
+
+563
+
+score. Kurtosis of the diet score distribution was
+2 ÿ 3, where m4
+evaluated through the formula m4/m2
+is the fourth central moment of the distribution
+and m2 is the variance. Skewness was measured
+3/2. Other continuous variables
+by the formula m3/m2
+are presented as mean  standard deviation. Asso-
+ciations between categorical variables were tested
+by the calculation of Chi-squared test, while dif-
+ferences between categorical and several bio-
+chemical, clinical and nutritional variables were
+tested by the use of Student’s t-test and Manne
+Whitney test (for the normally distributed and
+the skewed variables, respectively). Comparisons
+between continuous variables and tertiles of the
+diet score were performed using one-way analysis
+of variance, after adjusting for age and sex. The
+assumption of normality was tested through the
+ShapiroeWilk test. Homogeneity of the variances
+across tertiles of the diet score was tested through
+Levene’s test. Due to multiple comparisons we
+used the Bonferroni correction in order to account
+for the inﬂation in Type I error.
+
+The diet score was calculated through 2 nutri-
+tional evaluations using the same sample. Differ-
+ences in the distribution of the diet score between
+the 2 evaluations were assessed through the
+Wilcoxon test for paired comparisons.
+
+Linear regression models using the diet score as
+an independent variable, age and sex as covariates
+and blood pressure, total cholesterol, inﬂammation,
+coagulation and oxidative stress markers and the
+nutrient intake as an outcome (response) were
+applied to evaluate the proposed score. The results
+derived from the regression models are presented as
+b-coefﬁcients and standard error of the coefﬁcient.
+Normality of the standardised residuals was assessed
+using the ShapiroeWilk test. The assumptions of lin-
+earity for the continuous independent variables and
+of the variance of the standardised residuals being
+constant were assessed through plotting the resid-
+uals against the ﬁtted values. Serial dependency on
+the response variables was tested through Durbine
+Watson criterion. Co-linearity between independent
+variables was evaluated through the calculation of
+the variance inﬂation factor (VIF). Model’s good-
+ness-of-ﬁt was graphically evaluated (standardised
+residuals versus ﬁtted values).
+
+We additionally tested the Mediterranean diet
+score on a hard outcome, i.e. incidence of coro-
+nary heart disease. In particular, we used the data
+from a caseecontrol study (CARDIO2000 [21]) with
+848 enrolled patients who had been hospitalised
+for a ﬁrst symptom of coronary heart disease (sta-
+ble angina was excluded from the analysis)
+and 1078 cardiovascular disease-free controls,
+matched to the patients by age, sex and the region
+
+they came from. Estimations of the relative risks of
+developing acute coronary syndromes, based on
+the diet score and other characteristics of the par-
+ticipants, were performed by the calculation of
+odds ratio (OR) through multiple conditional logis-
+tic regression analysis. Deviance residuals were
+used to evaluate the model’s goodness-of-ﬁt.
+Finally, cut-off point analysis was used to deter-
+mine the optimal value of the diet score that
+differentiates patients from controls. In particular,
+the crucial point was deﬁned by the largest
+distance from the diagonal line of the receiver
+operating characteristic curve (ROC) (sensitivity 
+{1 ÿ speciﬁcity}) [22].
+
+All reported P values were based on two-sided
+tests and compared to a signiﬁcance level of 5%.
+SPSS 11.0.5 (SPSS Inc., Chicago, IL, USA) software
+was used for all the statistical calculations.
+
+Results
+
+Table 2 presents various descriptive characteristics
+of the Mediterranean diet score as derived from its
+evaluation of the participants of the ATTICA study.
+As we can see the expected value of the diet score
+is about 25 for men and 27 for women. The fre-
+quency distribution of the score looks symmetri-
+cal, strongly leptokurtic (Fig. 2) and not normal
+(P ¼ 0.001). Moreover, the coefﬁcient of variation
+is 11.5% in men and 11.8% in women, indicating
+a small spread of the values. However, there are
+some extreme values, since the range is 45 and
+48 in men and women, respectively.
+
+Furthermore, during the year after the initial
+examination the participants of the study were
+
+Table 2
+ranean diet score
+
+Descriptive characteristics of the Mediter-
+
+Sex of subjects
+
+Mean
+Standard deviation
+Median
+1st Quartile
+3rd Quartile
+Range
+Kurtosis
+Standard error
+
+of Kurtosis
+
+Skewness
+Standard error
+of Skewness
+
+Male
+
+25.46
+2.94
+25.81
+26.00
+31.00
+45.00
+28.8
+0.12
+ÿ2.02
+0.06
+
+Female
+
+27.18
+3.21
+27.57
+27.00
+32.00
+48.00
+19.7
+0.12
+ÿ1.73
+0.06
+
+Total
+
+26.33
+3.20
+26.50
+27.00
+32.00
+48.00
+20.2
+0.09
+ÿ1.59
+0.04
+
+564
+
+D.B. Panagiotakos et al.
+
+y
+c
+n
+e
+u
+q
+e
+r
+F
+
+600
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+
+y
+c
+n
+e
+u
+q
+e
+r
+F
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+
+10,00
+
+20,00
+
+30,00
+
+40,00
+
+50,00
+
+10,00
+
+20,00
+
+30,00
+
+40,00
+
+50,00
+
+Figure 2
+
+The frequency distribution of the Mediterranean diet score in men (left) and women (right).
+
+Dietary score
+
+Dietary score
+
+asked again about their dietary habits (participation
+rate ¼ 87%). Data analysis showed that the partici-
+pants reported similar dietary habits between the
+2 nutritional evaluations (P ¼ 0.24).
+
+Consistency of the diet score with the
+characteristics of the Mediterranean diet
+
+Thereafter we tested the score against various
+food groups and nutrients intake. Table 3 illus-
+trates the weekly frequency consumption of the
+food groups and alcoholic beverages that are
+used to develop the diet score, by tertile of the
+score. As expected from the design of the score,
+increased consumption of fruits, vegetables, pota-
+toes, non-reﬁned cereals, ﬁsh, legumes and olive
+oil was observed in the highest tertile of the diet
+score, while higher consumption of red meat, poul-
+try and full fat dairy products was observed in the
+lowest tertile of the score. Moreover, an inverse
+association was observed between tertiles of the
+Mediterranean diet score and energy intake. In ad-
+dition, the percentage of full fat in the highest ter-
+tile of the score was around 40%, while the ratio of
+monounsaturated-to-saturated fat was greater
+than 2.
+
+Evaluation of the diet score on various
+health outcomes
+
+We then evaluated the predictive ability of the
+proposed diet score on health outcomes and
+factors that affect cardiovascular risk. One of our
+aims was to ﬁnd whether the score has similar
+associations between Mediterranean diet and spe-
+ciﬁc outcomes as they had been evidenced in
+previous studies. In particular, we evaluated the
+effect of the Mediterranean diet on systolic blood
+
+pressure (average of 3 consecutive measurements
+with the participants in sitting position for at least
+30 min), on C reactive protein, ﬁbrinogen, on total
+antioxidant capacity, on total serum cholesterol
+levels and on body mass index (body weight in kg
+divided by height squared in m) (details about
+the other measurements have already been pre-
+sented [19]). Table 4 illustrates the results from
+the multiple linear regression models, after con-
+trolling for age, sex, energy intake, cigarette
+smoking habits (>1 cigarette/day), physical activ-
+ity (>1 times/week) and years of school. Signiﬁ-
+cant associations between the Mediterranean
+diet score and the outcome were observed in all
+models. No co-linearity between the diet score
+and other variables was observed (VIF < 2); the
+graphs (not presented here) of standardised resid-
+uals against ﬁtted values did not indicate any dis-
+crepancy from homoscedasticity, and no serial
+dependencies in the data series were observed
+(DurbineWatson test < 2). In addition, less than
+1% extreme values (outliers) were found in each
+model.
+Furthermore, the diet score was inversely asso-
+ciated with daily energy intake (b-coefﬁcient 
+standard error per 20/55 unit change in the score:
+ÿ76.8  35 kcal, P ¼ 0.03), after adjusting for age,
+sex, body mass index and physical activity status.
+On the other hand, diet score was positively associ-
+ated with monounsaturated-to-saturated fat ratio
+(b-coefﬁcient  standard error per 20/55 unit change
+in the score: 0.16  0.03, P ¼ 0.02), after adjusting
+for the aforementioned potential confounders.
+
+We also tested the diet score against a hard
+outcome (i.e. presence of acute coronary syn-
+dromes). The diet score and the odds of having
+coronary heart disease were related in an inverse
+way. More speciﬁcally, an 11/55-unit increase in
+
+Table 3 Weekly frequency consumption (in servings) of several food groups and daily consumption of nutrients, according to the Mediterranean diet score
+
+Men (n ¼ 1514)
+Tertile of diet score
+1st (0e20),
+n ¼ 504
+3.0  1.1
+2.7  1.4
+6.0  1.4
+2.0  1.3
+4.1  2.2
+5.0  3.1
+1.4  1.4
+1.3  1.0
+2.1  1.1
+2.6  1.2
+160  44
+2731  450
+47
+15
+24
+1.8  0.4
+
+2nd (21e35),
+n ¼ 505
+4.6  1.2*
+3.2  0.6
+7.1  1.9
+3.3  2.0
+5.9  2.2
+5.9  2.1
+1.9  1.2*
+1.1  1.1*
+1.3  1.6*
+2.2  1.2
+175  30*
+2520  530*
+45*
+13
+23
+1.7  0.3
+
+0.02
+Non-reﬁned cereals
+0.04
+Potatoes
+0.03
+Fruits
+0.01
+Vegetables
+0.001
+Legumes
+0.01
+Olive oil (times/week)
+0.01
+Fish
+Poultry
+0.03
+0.03
+Red meat and products
+0.04
+Full fat dairy products
+0.001
+Alcohol intake (ml/day)
+0.001
+Energy intake (kcal/day)
+0.001
+% Fat of energy intake
+0.001
+% SFA of energy intake
+0.001
+% MUFA of energy intake
+MUFA-to-SFA
+0.02
+Data are presented as mean  SD or percentages. MUFA ¼ monounsaturated fat, SFA ¼ saturated fat. No signiﬁcant interactions were observed between tertile of diet score and sex.
+*P < 0.05 and **P < 0.01 for the comparisons between 2nd and 3rd tertile vs. the 1st tertile of the diet score, after correcting for multiple comparisons using the Bonferroni rule.
+a P values derived from ANOVA and evaluate the association between foods consumption and tertiles of diet score, after adjusting for sex.
+
+3rd (36e55),
+n ¼ 510
+5.9  1.3*
+4.0  0.8
+11.3  1.2
+5.9  1.1
+7.2  1.1**
+7.8  1.6**
+3.1  1.2*
+1.2  1.0*
+1.2  1.0*
+2.1  1.2
+75  45**
+1996  345**
+40**
+11*
+28*
+2.2  0.5**
+
+3rd (36e55),
+n ¼ 505
+5.1  1.3*
+4.2  0.9
+9.2  1.2
+5.6  2.3
+6.2  2.4**
+7.2  2.1**
+2.4  1.5**
+1.0  1.1*
+1.2  1.1*
+1.4  1.2
+155  35**
+2470  535**
+39**
+12*
+25*
+2.5  0.5**
+
+Women (n ¼ 1528)
+
+1st (0e20),
+n ¼ 509
+2.5  1.4
+2.3  0.8
+6.1  1.2
+2.4  1.3
+5.0  1.3
+5.1  3.2
+1.2  1.1
+1.9  1.1
+1.9  1.5
+2.4  1.1
+80  30
+2620  630
+48
+15
+24
+1.8  0.6
+
+2nd (21e35),
+n ¼ 509
+3.7  1.2*
+2.9  0.2
+8.2  1.3
+3.7  2.0
+6.2  1.1*
+5.9  2.1*
+2.3  1.2*
+1.4  1.4
+1.7  1.4*
+2.2  1.3
+160  25*
+2150  325*
+44*
+13
+25
+1.9  0.6*
+
+P a
+
+M
+e
+d
+
+i
+t
+e
+r
+r
+a
+n
+e
+a
+n
+
+d
+i
+e
+t
+
+s
+c
+o
+r
+e
+
+a
+n
+d
+
+i
+t
+s
+
+r
+e
+l
+a
+t
+i
+o
+n
+
+t
+o
+
+c
+l
+i
+n
+i
+c
+a
+l
+
+a
+n
+d
+
+b
+
+i
+o
+l
+o
+g
+i
+c
+a
+l
+
+m
+a
+r
+k
+e
+r
+s
+
+5
+6
+5
+
+566
+
+D.B. Panagiotakos et al.
+
+Results from multiple linear regression
+Table 4
+analyses that evaluated the association between var-
+ious clinical, biological and anthropometric markers
+(dependent) and adherence to Mediterranean diet
+through the diet score (independent)
+
+Additionally, cut-off point analysis showed that
+the optimal value which discriminates patients
+from controls is 28. Based on this cut-off point
+the percentage of the true positive cases was 78%,
+while the percentage of the true negative cases
+was 43%.
+
+<0.001
+
+Discussion
+
+b-Coefﬁcient  SE
+(per 11/55 change)
+ÿ5.1  0.11
+
+P
+
+ÿ0.27  0.19
+ÿ13.5  9.15
+1.55  0.7
+
+ÿ1.2  0.12
+ÿ4.1  0.25
+
+<0.001
+
+0.02
+
+<0.001
+
+<0.001
+
+<0.001
+
+Model 1: systolic
+blood pressure
+(mm Hg)
+
+Model 2: C reactive
+
+protein (mg/L)
+
+Model 3: ﬁbrinogen
+
+(mg/dl)
+
+Model 4: total
+antioxidant
+capacity (mg/dl)
+
+Model 5: total serum
+cholesterol (kg/m2)
+
+Model 6: body mass
+
+index (kg/m2)
+
+All models were adjusted for age, sex, daily energy intake,
+smoking habits, physical activity and years of school.
+
+treatment or
+
+the diet score was associated with a 37% (odds
+ratio ¼ 0.63, 95% CI 0.54e0.73) decrease in the
+odds of having acute coronary events. In order to
+test the hypothesis that the association between
+adherence to the Mediterranean diet score and
+coronary risk is independent of the conventional
+cardiovascular risk factors, we controlled for sev-
+eral potential confounders. Thus, after adjusting
+for the matching factors (i.e. age and sex), smok-
+ing habits, presence of diabetes (special treatment
+or fasting blood glucose > 125 mg/dl), hyperten-
+sion (special treatment or systolic/diastolic blood
+pressures > 140/90 mm Hg), hypercholesterolemia
+serum total cholester-
+(special
+ol > 200 mg/dl), obesity
+index >
+29.9 kg/m2), physical activity, years of school and
+annual income earned during the past 3 years,
+the decrease in the odds of having acute coronary
+syndromes was 27% (odds ratio ¼ 0.73, 95% CI
+0.66e0.89) per 11/55-unit increase in the diet
+score. Furthermore, participants in the highest
+tertile of the score had 46% lower odds (odds ra-
+tio ¼ 0.54, 95% CI 0.44e0.66) of having acute coro-
+nary syndromes as compared to the participants in
+the lower tertile. The model had good predictive
+performance (65%) and no more than 2% of outliers
+was observed. Table 5 presents the results of the
+logistic regression analysis which evaluated the
+odds of having acute coronary syndromes by diet
+score class. As we can verify a consistent inverse
+relationship between diet score and odds of having
+coronary heart disease was observed.
+
+(body mass
+
+We developed a simple dietary score based on the
+inherent characteristics of the Mediterranean diet.
+Moreover, we evaluated the relationship of this
+diet score with various markers related to cardio-
+vascular disease risk, as well as the likelihood of
+developing acute coronary syndromes. The score
+was inversely associated with systolic blood pres-
+sure, C reactive protein, ﬁbrinogen [16], total se-
+rum cholesterol, body mass index and oxidized
+LDL concentrations [23], as well as with acute cor-
+onary syndromes risk and positively associated
+with total antioxidant capacity.
+
+During the past years dietary pattern analysis
+has emerged as an alternative and complementary
+approach to examining the relationship between
+diet and the risk of various chronic diseases,
+including cardiovascular disease. Instead of look-
+ing at individual nutrients or foods, pattern anal-
+ysis examines the effects of overall diet, and
+represents a broader picture of food and nutrient
+consumption. Thus, it has been suggested that
+dietary patterns are more predictive of disease risk
+than individual foods or nutrients. Several studies
+have suggested that dietary patterns derived from
+factor or cluster analysis predict disease risk or
+mortality [24,25]. During the past decades several
+observational studies have suggested that people
+
+Results from conditional logistic regression
+Table 5
+analysis that evaluated diet score on the outcome of
+acute coronary syndromes
+Casese
+controls
+
+95% Conﬁdence
+interval
+
+Diet score
+
+0e11 (Reference
+
+category)
+
+12e22
+
+23e34
+
+35e44
+
+45e55
+
+417/848
+355/1078
+124/848
+137/1078
+190/848
+331/1078
+85/848
+155/1078
+32/848
+100/1078
+
+Odds
+ratio
+1.00 e
+
+1.01
+
+0.74e1.38
+
+0.70
+
+0.49e0.96
+
+0.61
+
+0.36e0.92
+
+0.46
+
+0.35e0.58
+
+The model was adjusted for age, sex, daily energy intake,
+smoking habits, physical activity and education status.
+
+Mediterranean diet score and its relation to clinical and biological markers
+
+567
+
+with high intakes of fruits, vegetables and olive oil,
+which are rich in vitamins C and E, b-carotene, se-
+lenium, a-tocopherol and ﬂavonoids, experience
+lower risk of chronic diseases. The Mediterranean
+diet encompasses these dietary characteristics
+and has long been associated with lower incidence
+of cancer and coronary heart disease since the ear-
+ly 1970s [10]. In addition, there is growing interest
+in using dietary quality indices to evaluate whether
+adherence to a certain dietary pattern, like the
+Mediterranean diet, or current dietary guidelines
+lowers the risk of various diseases. For example,
+De Lorgeril et al. [12] observed a signiﬁcantly low-
+er rate of cardiovascular complications in patients
+who had had a myocardial infarction and followed
+the Mediterranean diet as compared to those who
+followed the American Heart Association Step I
+diet. Under
+these concepts we developed
+a large-scale diet score (0e55) that assesses the
+inherent characteristics of
+the Mediterranean
+diet. The distribution of this score was leptokurtic
+and with expected values around 26 out of 55, in-
+dicating that the majority of the population in
+which the score was applied reported a moderate
+adherence to this dietary pattern. We have also
+evaluated the proposed diet score on the occur-
+rence of acute coronary events. In particular, we
+have classiﬁed this score into tertiles, where the
+upper tertile could be described as greater adher-
+ence to the Mediterranean diet and the lower ter-
+tile as away from this dietary pattern. Data
+analysis revealed a consistent inverse relationship
+between diet score and the odds of having acute
+coronary syndromes.
+
+There are also some other diet scores that
+evaluate adoption of the Mediterranean dietary
+pattern on subjects with chronic diseases [13,26e
+31]. For example, Trichopoulou et al. [13] pro-
+posed a small-scale diet score (0e9) that assessed
+adherence to the Mediterranean diet. Applying this
+score, researchers revealed an inverse association
+between the Mediterranean diet and all-cause and
+coronary heart disease mortality. In particular a 2/
+9-point increment in the score was associated with
+33% lower coronary heart disease risk [13]. More-
+over, Martinez-Gonzalez et al. [26] have developed
+also a 9-scale diet score that evaluated the rela-
+tionship between adoption of the Mediterranean
+diet and the odds of having myocardial infraction.
+They found an 82% lower risk for those scoring 7e9
+points in comparison with those scoring 1e2
+points, while an increment of 1/9 point in the
+score was associated with an 18% decline in the
+relative risk of myocardial
+infarction. Although
+both diet scores were well documented and exten-
+sively evaluated by the authors, the small range
+
+and dispersion of the scales they used might result
+in an overestimation of the decline in risk. In gen-
+eral, small-scale scores are not so informative;
+they fail to capture the extremes and the inherent
+characteristics of a pattern or a behavior. More-
+over, they might not give good predictions in cases
+where the outcome is continuous and not binary
+(like biological markers), because of their discrete
+distribution.
+
+Until now traditional analyses in the ﬁeld of
+nutritional epidemiology typically examine health
+status through a single or some nutrients or foods.
+However, people eat meals consisting of a variety of
+foods with complex combinations of nutrients. To
+overcome the limitations of the single nutrient
+approach, i.e. interactions and inter-correlation
+among nutrients, scientists have proposed to study
+overall dietary patterns [32]. In this paper we pro-
+posed a diet score that evaluates adherence to the
+Mediterranean diet. This score could be a useful
+tool for the assessment of an individual’s nutritional
+status and for clinical and basic research purposes.
+
+Acknowledgment
+
+The author would like to thank Marietta Sitara for
+helpful comments and suggestions.
+
+References
+
+[1] Executive summary of the third report of the National Cho-
+lesterol Educational Program Expert panel on detection,
+evaluation, and treatment of high blood cholesterol in
+adults. JAMA 2001;285:2486e97.
+
+[2] Ganji V, Kafai MR. Third National Health and Nutrition Ex-
+amination Survey. Demographic, health, lifestyle, and
+blood vitamin determinants of serum total homocysteine
+concentrations in the third National Health and Nutrition
+Examination Survey, 1988e1994. Am J Clin Nutr 2003;77:
+826e33.
+
+[3] Ascherio A, Rimm EB, Giovannucci EL. A prospective study
+of nutritional factors and hypertension among US men. Cir-
+culation 1992;86:475e84.
+
+[4] Appel L, Moore T, Obarzanek E, Vollmer W, Svetkey L,
+Sacks F, et al. A clinical trial of the effects of dietary pat-
+terns on blood pressure. N Engl J Med 1997;336:1117e24.
+[5] Price JF, Fowkes FGR. Antioxidant vitamins in the preven-
+tion of cardiovascular disease. Eur Heart J 1997;18:
+719e27.
+
+[6] Trichopoulos D, Lagiou P. Dietary patterns and mortality.
+
+Br J Nutr 2001;85:133e4.
+
+[7] Jacques PF, Tucker KL. Are dietary patterns useful for un-
+derstanding the role of diet in chronic disease? Am J Clin
+Nutr 2001;73:1e2.
+
+[8] Martinez-Gonzalez MA, Estruch R. Mediterranean diet,
+antioxidants and cancer: the need for randomized trials.
+Eur J Cancer Prev 2004;13:327e35.
+
+568
+
+D.B. Panagiotakos et al.
+
+[9] Martinez-Gonzalez MA, Sanchez-Villegas A. The emerging
+role of Mediterranean diets in cardiovascular epidemiol-
+ogy: monounsaturated fats, olive oil, red wine or the
+whole pattern? Eur J Epidemiol 2004;19:9e13.
+
+[10] Keys A, Menotti A, Karvonen MJ. The diet and 15-year
+death rate in the Seven Countries Study. Am J Epidemiol
+1986;124:903e15.
+
+[11] Willett WC, Sacks F, Trichopoulou A, Trichopoulos D. Med-
+iterranean diet pyramid: a cultural model for healthy eat-
+ing. Am J Clin Nutr 1995;6:1402Se6S.
+
+[12] De Lorgeril M, Salen P, Martin JL, Monjaud I, Delaye J,
+Mamelle N. Mediterranean diet, traditional risk factors
+and the rate of cardiovascular complications after myocar-
+dial infarction. Final report of the Lyon Diet Heart Study.
+Circulation 1999;99:779e85.
+
+[13] Trichopoulou A, Costacou T, Bamia C, Trichopoulos D. Ad-
+herence to a Mediterranean diet and survival in a Greek
+population. N Engl J Med 2003;348:2599e608.
+
+[14] Assmann G, de Backer G, Bagnara S, Betteridge J,
+Crepaldi G, Fernandez-Cruz A, et al. International consen-
+sus statement on olive oil and the Mediterranean diet: im-
+plications for health in Europe. Eur J Cancer Prev 1997;6:
+418e21.
+
+[15] Schroder H, Marrugat J, Vila J, Covas MI, Elosua R. Adher-
+ence to the traditional Mediterranean diet is inversely as-
+sociated with body mass index and obesity in a Spanish
+population. J Nutr 2004;134:3355e61.
+
+[16] Chrysohoou C, Panagiotakos DB, Pitsavos C, Das UN,
+Stefanadis C. Adherence to the Mediterranean diet attenu-
+ates inﬂammation and coagulation process in healthy
+adults: the ATTICA study. J Am Coll Cardiol 2004;44:152e8.
+[17] Supreme Scientiﬁc Health Council, Ministry of Health and
+Welfare of Greece. Dietary guidelines for adults in Greece.
+Arch Hellen Med 1999;16:516e24.
+
+[18] Pitsavos C, Panagiotakos DB, Chrysohoou C, Stefanadis C.
+Epidemiology of cardiovascular risk factors in Greece:
+aims, design and baseline characteristics of the ATTICA
+study. BMC Public Health 2003;3(32):1e9.
+
+[19] Katsouyanni K, Rimm EB, Gnardellis C, Trichopoulos D,
+Polychronopoulos E, Trichopoulou A. Reproducibility and
+relative validity of an extensive semi-quantitative food
+frequency questionnaire using dietary records and bio-
+chemical markers among Greek schoolteachers. Int J Epi-
+demiol 1997;26:S118e27.
+
+[20] Trichopoulou A, Georga K. Composition tables of simple and
+
+composite foods. Athens, Greece: Parisianos Pub.; 2003.
+
+[21] Panagiotakos DB, Pitsavos C, Chrysohoou C, Stefanadis C.
+Risk stratiﬁcation of coronary heart disease, in Greece.
+
+Final results from the CARDIO2000 epidemiological study.
+Prev Med 2002;35:548e56.
+
+[22] Guangqin MA, Hall WJ. Conﬁdence bands for receiver
+operating characteristic curve. Med Decis Making 1993;
+13:191e7.
+
+[23] Pitsavos C, Panagiotakos DB, Trichopoulou A, Chrysohoou C,
+Dedoussis G, Chloptsios Y, et al. The interaction between
+Mediterranean diet and methylenetetrahydrofolate reduc-
+tase C677T mutation on oxidized low density lipoprotein
+concentrations: the ATTICA study. Nutr Metab Cardiovasc
+Dis, in press. doi:10.1016/j.numecd.2005.04.004.
+
+[24] Hu FB. Dietary pattern analysis: a new direction in nutri-
+
+tional epidemiology. Curr Opin Lipidol 2002;13:3e9.
+
+[25] Quatromoni PA, Copenhafer DL, Demissie S, D’Agostino RB,
+O’Horo CE, Nam BH, et al. The internal validity of a dietary
+pattern analysis. The Framingham nutrition studies. J Epi-
+demiol Community Health 2002;56:381e8.
+
+[26] Martinez-Gonzalez MA, Fernandez-Jarne E,
+
+Serrano-
+Martinez M, Wright M, Gomez-Gracia E. Development of
+a short dietary intake questionnaire for the quantitative
+estimation of adherence to a cardioprotective Mediterra-
+nean diet. Eur J Clin Nutr 2004;58:1550e2.
+
+[27] Huijbregts P, Feskens E, Rasanen L, Fidanza F, Nissinen A,
+Menotti A, et al. Dietary pattern and 20 year mortality in
+elderly men in Finland, Italy and the Netherlands: longitu-
+dinal cohort study. Br Med J 1997;315:13e7.
+
+[28] Menotti A, Kromhout D, Blackburn H, Fidanza F, Buzina R,
+Nissinen A. Food intake patterns and 25-year mortality
+from coronary heart disease: cross-cultural correlations
+in the Seven Countries Study. Eur J Epidemiol 1999;
+507e15.
+
+[29] Fidanza F, Alberti A, Lanti M, Menotti A. Mediterranean Ad-
+equacy Index: correlation with 25-year mortality from cor-
+onary heart disease in the Seven Countries Study. Nutr
+Metab Cardiovasc Dis 2004;14:254e8.
+
+[30] Massari M, Freeman KM, Seccareccia F, Menotti A,
+Farchi G. Research Group of the Riﬂe Project. An index
+to measure the association between dietary patterns and
+coronary heart disease risk factors: ﬁndings from two Ital-
+ian studies. Prev Med 2004;39:841e7.
+
+[31] Knoops KTB, de Groot LCPGM, Kromhout D, Perrin AE, Mor-
+eiras-Varela O, Menotti A, et al. Mediterranean diet, life-
+style factors, and 10-year mortality in elderly European
+men and women. The Hale project. JAMA 2004;292:
+1433e9.
+
+[32] Jacobs Jr DR, Steffen LM. Nutrients, foods and dietary pat-
+terns as exposures in research: a framework for food syn-
+ergy. Am J Clin Nutr 2003;78:508Se13S.
+
+

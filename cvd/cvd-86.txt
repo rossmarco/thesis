@@ -1,0 +1,2247 @@
+Original Article
+
+Primary Prevention of Cardiovascular Disease 
+
+with a Mediterranean Diet Supplemented 
+
+with Extra-Virgin Olive Oil or Nuts
+R. Estruch, E. Ros, J. Salas-Salvadó, M.-I. Covas, D. Corella, F. Arós, 
+
+The  authors’  full  names,  academic  de-
+grees,  and  affiliations  are  listed  in  the 
+Appendix. Address reprint requests to Dr. 
+Martínez-González at the Department of 
+Preventive  Medicine  and  Public  Health, 
+Facultad de Medicina–Clínica Universidad 
+de Navarra, Irunlarrea 1, 31008 Pamplona, 
+Spain, or at  mamartinez@  unav . es.
+
+* The PREDIMED study investigators are 
+listed  in  the  Supplementary  Appendix, 
+available at NEJM.org.
+
+Drs. Estruch and Martínez-González con-
+tributed equally to this article.
+
+This article was published on June 13, 2018, 
+at NEJM.org.
+
+N Engl J Med 2018;378:e34.
+DOI: 10.1056/NEJMoa1800389
+Copyright © 2018 Massachusetts Medical Society.
+
+E. Gómez-Gracia, V. Ruiz-Gutiérrez, M. Fiol, J. Lapetra, R.M. Lamuela-Raventos, 
+L. Serra-Majem, X. Pintó, J. Basora, M.A. Muñoz, J.V. Sorlí, J.A. Martínez, M. Fitó, 
+
+A. Gea, M.A. Hernán, and M.A. Martínez-González,  
+
+for the PREDIMED Study Investigators*  
+
+ABS TR ACT
+
+BACKGROUND
+Observational cohort studies and a secondary prevention trial have shown inverse asso-
+ciations between adherence to the Mediterranean diet and cardiovascular risk.
+METHODS
+In a multicenter trial in Spain, we assigned 7447 participants (55 to 80 years of age, 57% 
+women) who were at high cardiovascular risk, but with no cardiovascular disease at enroll-
+ment, to one of three diets: a Mediterranean diet supplemented with extra-virgin olive oil, 
+a Mediterranean diet supplemented with mixed nuts, or a control diet (advice to reduce 
+dietary fat). Participants received quarterly educational sessions and, depending on group 
+assignment, free provision of extra-virgin olive oil, mixed nuts, or small nonfood gifts. 
+The primary end point was a major cardiovascular event (myocardial infarction, stroke, or 
+death from cardiovascular causes). After a median follow-up of 4.8 years, the trial was 
+stopped on the basis of a prespecified interim analysis. In 2013, we reported the results 
+for the primary end point in the Journal. We subsequently identified protocol deviations, 
+including enrollment of household members without randomization, assignment to a 
+study group without randomization of some participants at 1 of 11 study sites, and appar-
+ent inconsistent use of randomization tables at another site. We have withdrawn our 
+previously published report and now report revised effect estimates based on analyses that 
+do not rely exclusively on the assumption that all the participants were randomly assigned.
+RESULTS
+A primary end-point event occurred in 288 participants; there were 96 events in the group 
+assigned to a Mediterranean diet with extra-virgin olive oil (3.8%), 83 in the group as-
+signed to a Mediterranean diet with nuts (3.4%), and 109 in the control group (4.4%). 
+In the intention-to-treat analysis including all the participants and adjusting for baseline 
+characteristics and propensity scores, the hazard ratio was 0.69 (95% confidence interval 
+[CI], 0.53 to 0.91) for a Mediterranean diet with extra-virgin olive oil and 0.72 (95% CI, 
+0.54 to 0.95) for a Mediterranean diet with nuts, as compared with the control diet. Results 
+were similar after the omission of 1588 participants whose study-group assignments were 
+known or suspected to have departed from the protocol.
+CONCLUSIONS
+In this study involving persons at high cardiovascular risk, the incidence of major cardio-
+vascular events was lower among those assigned to a Mediterranean diet supplemented 
+with  extra-virgin  olive  oil  or  nuts  than  among  those  assigned  to  a  reduced-fat  diet. 
+(Funded by Instituto de Salud Carlos III, Spanish Ministry of Health, and others; Current 
+Controlled Trials number, ISRCTN35739639.)
+
+n engl j med 378;25  nejm.org 
+
+June 21, 2018
+
+e34(1)
+
+The new england journal of medicineThe New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2018 Massachusetts Medical Society. All rights reserved. T h e  ne w   e ngl a nd   jou r na l   o f  m e dicine
+
+The traditional Mediterranean diet 
+
+is characterized by a high intake of olive 
+oil, fruit, nuts, vegetables, and cereals; a 
+moderate intake of fish and poultry; a low intake 
+of dairy products, red meat, processed meats, 
+and sweets; and wine in moderation, consumed 
+with  meals.1  In  observational  cohort  studies2,3 
+and a secondary prevention trial (the Lyon Diet 
+Heart Study),4 increasing adherence to the Medi-
+terranean diet has been consistently associated 
+with lower cardiovascular risk.2-4 A systematic 
+review  ranked  the  Mediterranean  diet  as  the 
+most likely dietary model to provide protection 
+against coronary heart disease.5 Small clinical 
+trials have uncovered plausible biologic mecha-
+nisms  to  explain  the  salutary  effects  of  this 
+food pattern.6-9 We designed a randomized trial, 
+PREDIMED (Prevención con Dieta Mediterránea), 
+to test the efficacy of two Mediterranean diets 
+(one supplemented with extra-virgin olive oil and 
+another with nuts), as compared with a control 
+diet (advice on a low-fat diet), on primary cardio-
+vascular prevention. Our original report was pub-
+lished in the Journal in 2013.10 A 2017 analysis11 
+of the distributions of baseline variables in ran-
+domized trials identified the PREDIMED trial as 
+having distributions that were significantly dif-
+ferent from what would have been expected to 
+result from randomization. This report led to our 
+conducting  a  review  of  how  participants  were 
+assigned  to  various  intervention  groups;  that 
+review revealed irregularities in our randomiza-
+tion procedures. Therefore, we have withdrawn 
+our original report12 and now publish a new report.
+We describe the protocol deviations and re-
+port revised intention-to-treat and per-protocol 
+effect estimates that do not rely exclusively on 
+the  assumption  that  all  the  participants  had 
+been  randomly  assigned  to  the  intervention 
+groups.  A  detailed  description  of  the  changes 
+that have been introduced and departures from 
+the protocol is provided in the Supplementary 
+Appendix, available with the full text of this ar-
+ticle at NEJM.org.
+
+Methods
+
+Study Design
+The PREDIMED study was designed as a parallel-
+group, multicenter, randomized trial. Details of 
+the  study  design  have  been  reported  previous-
+ly.13,14 The protocol, available at NEJM.org, was 
+approved by the institutional review boards at all 
+
+study locations. The authors vouch for the accu-
+racy and completeness of the data and all analy-
+ses  and  attest  that  this  report  accurately  de-
+scribes the conduct of the study as we know it.
+Funding was provided by grants from Insti-
+tuto  de  Salud  Carlos  III,  Spanish  Ministry  of 
+Health. Supplemental foods were donated, in-
+cluding extra-virgin olive oil (by Hojiblanca and 
+Patrimonio Comunal Olivarero, both in Spain), 
+walnuts (by the California Walnut Commission), 
+almonds (by Borges, in Spain), and hazelnuts (by 
+Morella Nuts, in Spain). None of the sponsors 
+had any role in the study design, data analysis, 
+or reporting of the results.
+
+Participant Selection and Randomization
+Eligible participants were men (55 to 80 years of 
+age) or women (60 to 80 years of age) with no 
+cardiovascular disease at enrollment, who had 
+either type 2 diabetes mellitus or at least three 
+of  the  following  major  risk  factors:  smoking, 
+hypertension,  elevated  low-density  lipoprotein 
+cholesterol levels, low high-density lipoprotein 
+cholesterol  levels,  overweight  or  obesity,  or  a 
+family history of premature coronary heart dis-
+ease. Detailed enrollment criteria are provided on 
+pages 18 and 19 in the Supplementary Appendix. 
+All  the  participants  provided  written  informed 
+consent.
+
+The protocol specified that participants were 
+to be randomly assigned, in a 1:1:1 ratio, to one 
+of three dietary intervention groups: a Mediter-
+ranean diet supplemented with extra-virgin olive 
+oil, a Mediterranean diet supplemented with nuts, 
+or a control diet. Enrollment began on June 25, 
+2003, and the last participant was recruited on 
+June 30, 2009. The analyses in this report were 
+based on a database locked as of September 2011 
+and included primary end-point events occurring 
+through December 1, 2010. Randomization was 
+concealed with the use of closed envelopes8 dur-
+ing part of the pilot phase of the study, but en-
+velopes were not used for the remainder of the 
+study.  A  computer-generated  random-number 
+sequence provided randomization tables for the 
+11  participating  sites,  which  encompassed  169 
+clinics.  These  tables  included  four  strata  (men 
+<70 years of age, men ≥70 years of age, women 
+<70 years of age, and women ≥70 years of age) 
+and  were  initially  generated  for  1000  partici-
+pants (250 per stratum) for each site. We did not 
+use blocks for randomization. Further details on 
+the use of these tables at each of the 11 sites can 
+
+e34(2)
+
+n engl j med 378;25  nejm.org 
+
+June 21, 2018
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2018 Massachusetts Medical Society. All rights reserved. Cardiovascular Disease and Mediterranean Diet
+
+be found on pages 8 and 9 and 78 through 82 in 
+the Supplementary Appendix. All the sites were 
+given the same randomization sequence.
+
+There were departures from the randomiza-
+tion procedures that had been specified in the 
+protocol that were not described in our original 
+report. We included 425 participants who shared 
+a  household  with  a  previously  enrolled  partici-
+pant. These 425 participants were not randomly 
+assigned but were assigned to the same interven-
+tion as the member of the household who was 
+already enrolled (Tables S2 and S3 in the Supple-
+mentary Appendix). This was done to allow the 
+recruitment of eligible household members and 
+to avoid members of the same household being 
+assigned to different diets. After the study had 
+begun,  the  steering  committee  approved  this 
+protocol change. The protocol was not amended, 
+and this protocol change was not described in 
+the original report published in the Journal. In 
+July 2017, we learned that at 1 of the 11 study 
+sites (Site D), 467 participants were not randomly 
+assigned as individual participants but instead 
+were assigned according to clinic — that is, all 
+the participants in each clinic received the same 
+intervention (2 clinics assigned a Mediterranean 
+diet  with  extra-virgin  olive  oil,  5  assigned  a 
+Mediterranean  diet  with  nuts,  and  4  assigned 
+a control diet) (see pages 9 and 10 in the Supple-
+mentary Appendix for additional details). In addi-
+tion, review of the documentation about random-
+ization procedures and of the actual assignments 
+to the three groups suggested that the random-
+ization tables were inconsistently used in another 
+study site (Site B, 593 participants) (see pages 10 
+and 11 in the Supplementary Appendix for details).
+
+Interventions and Measurements
+The dietary intervention8,13-15 is detailed on pages 
+20 through 24 in the Supplementary Appendix. 
+The specific recommended diets are summarized 
+in Table 1. Participants in the group assigned to 
+a Mediterranean diet with extra-virgin olive oil 
+received 1 liter of the oil per week per house-
+hold, with the recommendation to consume at 
+least 4 tablespoons per day of extra-virgin olive 
+oil per person. Participants in the group assigned 
+to a Mediterranean diet with nuts received 30 g 
+of mixed nuts per day per person (15 g of wal-
+nuts, 7.5 g of hazelnuts, and 7.5 g of almonds) at 
+no cost, and those in the control group received 
+small nonfood gifts. No total calorie restriction 
+was advised, nor was physical activity promoted.
+
+Table 1. Summary of Dietary Recommendations to Participants  
+in the Mediterranean-Diet Groups and the Control-Diet Group.
+
+Food
+Mediterranean diet
+Recommended
+
+Goal
+
+Olive oil*
+Tree nuts and peanuts†
+Fresh fruits
+Vegetables
+Fish (especially fatty fish), seafood
+Legumes
+Sofrito‡
+White meat
+Wine with meals (optionally, only for habitual drinkers) ≥7 glasses/wk
+
+≥4 tbsp/day
+≥3 servings/wk
+≥3 servings/day
+≥2 servings/day
+≥3 servings/wk
+≥3 servings/wk
+≥2 servings/wk
+Instead of red meat
+
+Discouraged
+
+Soda drinks
+Commercial bakery goods, sweets, and pastries§
+Spread fats
+Red and processed meats
+
+<1 drink/day
+<2 servings/wk
+<1 serving/day
+<1 serving/day
+
+Low-fat diet (control)¶
+Recommended
+
+Low-fat dairy products
+Bread, potatoes, pasta, rice
+Fresh fruits
+Vegetables
+Lean fish and seafood
+
+Discouraged
+
+Vegetable oils (including olive oil)
+Commercial bakery goods, sweets, and pastries§
+Nuts and fried snacks
+Red and processed fatty meats
+Visible fat in meats and soups‖
+Fatty fish, seafood canned in oil
+Spread fats
+Sofrito‡
+
+≥3 servings/day
+≥3 servings/day
+≥3 servings/day
+≥2 servings/day
+≥3 servings/wk
+
+≤2 tbsp/day
+≤1 serving/wk
+≤1 serving/wk
+≤1 serving/wk
+Always remove
+≤1 serving/wk
+≤1 serving/wk
+≤2 servings/wk
+
+*  The amount of olive oil includes oil used for cooking and salads and oil con-
+sumed in meals eaten outside the home. In the group assigned to the Mediter-
+ranean diet with extra-virgin olive oil, the goal was to consume 50 g (approxi-
+mately 4 tbsp) or more per day of the polyphenol-rich olive oil supplied, instead 
+of the ordinary refined variety, which is poor in polyphenols. The participants 
+received a free supply (15 liters every 3 months) to include the oil used for 
+cooking and family needs.
+
+†  For participants assigned to the Mediterranean diet with nuts, the recommend-
+
+ed consumption was one daily serving (30 g, composed of 15 g of walnuts, 
+7.5 g of almonds, and 7.5 g of hazelnuts). Participants received for free the 
+needed allotments of tree nuts in packages of 2 kg of walnuts, 1 kg of almonds, 
+and 1 kg of hazelnuts every 3 months, with the extra amounts to be shared 
+with family members.
+
+‡  Sofrito is a sauce made with tomato and onion, often including garlic and aro-
+
+matic herbs, and slowly simmered with olive oil.
+
+§  Commercial bakery goods, sweets, and pastries (not homemade) included cakes, 
+
+cookies, biscuits, and custard.
+
+¶  Up to September 2006, a brief personal recommendation and a leaflet with 
+written guidelines to attain these goals (see page 53 in the Supplementary 
+Appendix) were given to participants on a yearly basis. Starting in October 2006, 
+the intensity of these recommendations was increased, including also group 
+sessions and personal advice repeated every 3 months (i.e., with the same 
+ intensity and frequency of contacts as in the two Mediterranean-diet groups). 
+The composition of the recommended diet, however, was not changed.
+
+‖  Participants were advised to remove the visible fat (or the skin) of chicken, 
+duck, pork, lamb, or veal before cooking and the fat of soups, broths, and 
+cooked meat dishes before consumption.
+
+n engl j med 378;25  nejm.org 
+
+June 21, 2018
+
+e34(3)
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2018 Massachusetts Medical Society. All rights reserved. T h e  ne w   e ngl a nd   jou r na l   o f  m e dicine
+
+For  participants  in  the  two  Mediterranean-
+diet groups, dietitians held individual and group 
+dietary-training sessions at the baseline visit and 
+quarterly thereafter. In each session, participants 
+completed  a  14-item  dietary  questionnaire  to 
+assess  adherence  to  the  Mediterranean  diet8,16 
+(Table  S4  in  the  Supplementary  Appendix)  so 
+that  personalized  advice  could  be  provided  to 
+the study participants in these groups. Question-
+naire scores ranged from 0 to 14, with scores 
+lower than 10 defined as low adherence to the 
+Mediterranean diet.
+
+Participants in the control group also received 
+dietary training at the baseline visit and com-
+pleted the 14-item questionnaire at baseline to 
+assess their adherence to the Mediterranean diet. 
+During the first 3 years of the study, they re-
+ceived a leaflet explaining the low-fat diet (see 
+page 53 in the Supplementary Appendix) on a 
+yearly basis. However, the realization that the 
+more infrequent visit schedule and less intense 
+support for the control group might be limita-
+tions  of  the  study  prompted  us  to  amend  the 
+protocol in October 2006. Thereafter, participants 
+who were assigned to the control diet received 
+personalized advice and were invited to group 
+sessions with the same frequency and intensity 
+as those in the Mediterranean-diet groups, with 
+the use of a separate 9-item dietary questionnaire 
+(Table S5 in the Supplementary Appendix). Scores 
+ranged from 0 to 9, with higher scores indicat-
+ing greater adherence to a low-fat diet. Except for 
+the Site D clinics discussed above and 11 clinics 
+at Site I, all clinics of sufficient size delivered all 
+three  of  the  interventions  (see  page  11  in  the 
+Supplementary Appendix).
+
+A general medical questionnaire, a 137-item 
+validated food-frequency questionnaire,17 and the 
+Minnesota Leisure-Time Physical Activity Ques-
+tionnaire were administered on a yearly basis.13 
+Information from the food-frequency questionnaire 
+was used to estimate intake of energy and nutri-
+ents. Weight, height, and waist circumference were 
+directly measured annually.18 Biomarkers of ad-
+herence, including urinary hydroxytyrosol  levels 
+(to confirm adherence in the group receiving extra-
+virgin olive oil) and plasma alpha-linolenic acid 
+levels (to confirm adherence in the group receiv-
+ing mixed nuts), were measured in random sub-
+samples of participants at 1, 3, and 5 years (Figs. 
+S9 and S10 in the Supplementary Appendix).
+
+End Points
+The primary end point was a composite of myo-
+cardial infarction, stroke, and death from car-
+diovascular  causes.  Secondary  end  points  were 
+stroke, myocardial infarction, death from car-
+diovascular causes, and death from any cause. 
+We used four sources of information to identify 
+end points: repeated contacts with participants, 
+contacts with family physicians, a yearly review 
+of medical records, and consultation of the Na-
+tional  Death  Index.  All  medical  records  that 
+were related to end points were examined by the 
+end-point adjudication committee, whose mem-
+bers  were  unaware  of  the  intervention-group 
+assignments.  Only  end  points  that  were  con-
+firmed by the adjudication committee and that 
+occurred between June 25, 2003, and December 1, 
+2010, were included in the analyses. The criteria 
+for  adjudicating  primary  and  secondary  end 
+points are detailed on pages 26 and 27 in the 
+Supplementary Appendix.
+
+Statistical Analysis
+We  initially  estimated  that  a  sample  of  9000 
+participants would be required to provide a sta-
+tistical power of 80% to detect a 20% lower risk 
+of the primary end point in each Mediterranean-
+diet group than in the control-diet group during 
+a 4-year follow-up period, assuming an absolute 
+cumulative risk of 12% in the control group.13,19 
+In  April  2008,  on  the  advice  of  the  data  and 
+safety  monitoring  board  and  on  the  basis  of 
+lower-than-expected  rates  of  end-point  events, 
+the sample size was recalculated as 7400 partici-
+pants, with the assumption of a 6-year follow-up 
+period because of slower-than-expected recruit-
+ment and an underlying absolute cumulative risk 
+of the primary end point of 8.8% in the control 
+group and 6.6% in the Mediterranean-diet groups. 
+The  relationships  between  enrollment  size  and 
+statistical  power,  under  several  assumptions, 
+are shown in Figure S6 in the Supplementary 
+Appendix.
+
+Yearly interim analyses began on March 2008 
+after a median of 2 years of follow-up. With the 
+use of O’Brien–Fleming stopping boundaries, the 
+P  values  for  stopping  the  study  at  each  yearly 
+interim analysis were 5×10−6, 0.001, 0.009, and 
+0.02 for benefit and 9×10−5, 0.005, 0.02, and 0.05 
+for adverse effects.20 The stopping boundary for 
+the benefit of the Mediterranean diets with re-
+
+e34(4)
+
+n engl j med 378;25  nejm.org 
+
+June 21, 2018
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2018 Massachusetts Medical Society. All rights reserved. Cardiovascular Disease and Mediterranean Diet
+
+spect  to  the  primary  end  point  was  crossed  at 
+the fourth interim evaluation; on July 22, 2011, 
+the  data  and  safety  monitoring  board  recom-
+mended stopping the study on the basis of end 
+points documented through December 1, 2010. 
+After the study was stopped, we advised all the 
+participants, including those in the control group, 
+to follow the Mediterranean diet.
+
+The interim and original primary analyses es-
+timated differences between the groups assigned 
+to different interventions (intention-to-treat analy-
+ses). The information on protocol deviations was 
+not  considered  in  these  analyses.  Participants 
+were followed from the baseline visit until the 
+occurrence of a primary end-point event, death, 
+or the last contact date from either medical rec-
+ords or study visits. We did not record the date of 
+randomization and thus do not report the time 
+between  randomization  and  the  baseline  visit; 
+for all the participants, we used the date of the 
+baseline visit as time 0 in our analyses. No par-
+ticipant  had  a  primary  or  secondary  end-point 
+event  between  randomization  and  baseline  ac-
+cording to our review of the medical records.
+
+We constructed Kaplan–Meier cumulative-inci-
+dence curves according to intervention group and 
+calculated hazard ratios on an intention-to-treat 
+basis,  with  the  control  group  as  the  reference, 
+using a Cox model with indicators for the Medi-
+terranean diet with extra-virgin olive oil and the 
+Mediterranean diet with nuts. We used robust 
+variance estimators to account for intracluster 
+correlations  in  all  Cox  models,  considering  as 
+clusters the members of the same household and 
+the participants in the same clinic of Site D. We 
+compared baseline characteristics across the three 
+groups and conducted analyses that did not rely 
+on the assumption that all the participants were 
+randomly assigned and that randomization would 
+distribute baseline characteristics of the partici-
+pants  equally  across  intervention  groups.  Our 
+main analysis was a multivariable model strati-
+fied according to site, sex, and educational level 
+(five categories); to account for potential imbal-
+ances in baseline risk factors among the inter-
+vention  groups,  the  model  included  nine  other 
+baseline variables as covariates (see page 12 in 
+the Supplementary Appendix). This model was 
+also adjusted for propensity scores that used 30 
+baseline variables to estimate the probability of 
+assignment  to  each  of  the  intervention  groups 
+
+(detailed on pages 12 through 17 in the Supple-
+mentary Appendix).
+
+Prespecified subgroup analyses were conduct-
+ed according to sex, age, body-mass index (BMI), 
+status  with  respect  to  cardiovascular  risk  fac-
+tors, and baseline adherence to the Mediterra-
+nean diet. In sensitivity analyses, we excluded 
+the 1588 participants whose randomization pro-
+cedures were known or suspected to have devi-
+ated from the protocol: all 652 participants from 
+Site D (35 were second members of a household), 
+593  participants  from  Site  B  (47  were  second 
+members of a household), and another 343 sec-
+ond  household  members  from  other  sites.  In 
+addition,  we  performed  sensitivity  analyses  to 
+assess how strong and prevalent an unmeasured 
+confounder would have to be to explain the ob-
+served results (Table S25 in the Supplementary 
+Appendix).  We  also  adjusted  for  missing  data 
+and loss to follow-up, implemented other exclu-
+sions, and used alternative analytic approaches 
+(see pages 30 through 35 and Figs. S2 and S4 in 
+the Supplementary Appendix).
+
+A secondary analysis estimated the per-proto-
+col effect21 of the Mediterranean diet as compared 
+with the control diet that would have been ob-
+served if all the participants had adhered to their 
+assigned interventions throughout the follow-up 
+period. For participants assigned to the Mediter-
+ranean-diet groups, adherence was defined as a 
+score of 10 or higher on the 14-item question-
+naire.  For  those  assigned  to  the  low-fat  diet, 
+adherence was defined as a fat intake of 30% or 
+less of total energy intake according to the food-
+frequency questionnaires that were administered 
+annually to the three groups or a score or 6 or 
+higher on the 9-item questionnaire. We censored 
+data for participants when they first stopped ad-
+hering  to  their  assigned  intervention,  estimated 
+inverse-probability weights to adjust for postran-
+domization  prognostic  factors,  and  estimated 
+the hazard ratio for an end-point event in the 
+Mediterranean-diet groups as compared with the 
+low-fat diet group.22,23
+
+The validity of the per-protocol effect estimate 
+relies on several assumptions. It assumes that 
+loss to follow-up, data collection, and adherence 
+can  be  treated  as  sequentially  randomized  at 
+each time point, given the measured prognostic 
+factors  before  and  after  randomization.22  Both 
+Mediterranean-diet  groups  were  combined  for 
+
+n engl j med 378;25  nejm.org 
+
+June 21, 2018
+
+e34(5)
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2018 Massachusetts Medical Society. All rights reserved. T h e  ne w   e ngl a nd   jou r na l   o f  m e dicine
+
+precision  because  only  39%  of  the  events  re-
+mained uncensored after the application of our 
+strict definition of adherence. We used the pre-
+dicted  values  from  this  model  after  adding  a 
+product term between intervention and time to 
+estimate cumulative-incidence curves (see pages 
+36  through  38  in  the  Supplementary  Appendix 
+for details).
+
+R esults
+
+Baseline Characteristics
+From  June  25,  2003,  through  June  30,  2009,  a 
+total of 8713 candidates were screened for eligi-
+bility, and 7447 were assigned to one of the three 
+intervention groups (Fig. S7 in the Supplemen-
+tary  Appendix).  Their  baseline  characteristics 
+according  to  intervention  group  are  shown  in 
+Table 2, and in Table S23 in the Supplementary 
+Appendix.  The  exclusion  of  participants  whose 
+randomization procedures were known to have 
+deviated  from  the  protocol  did  not  materially 
+change these results. Drug-treatment regimens 
+at baseline were similar for participants in the 
+three groups, and they continued to be balanced 
+during  the  follow-up  period  (Table  S6  in  the 
+Supplementary Appendix).
+
+Participants  were  followed  for  a  median  of 
+4.8 years (interquartile range, 2.8 to 5.8). After 
+the baseline visit, 210 participants (2.8%) chose 
+not to attend subsequent visits (1.2% of the par-
+ticipants assigned to a Mediterranean diet with 
+extra-virgin olive oil, 2.7% of those assigned to 
+a  Mediterranean  diet  with  nuts,  and  4.7%  of 
+those  in  the  control  group).  The  rate  of  study 
+discontinuation (>2 years since last contact) was 
+11.3%  in  the  control  group  and  4.9%  in  the 
+Mediterranean-diet groups; subsequent follow-up 
+was based on reviews of medical records (Fig. S7 
+and Table S24 in the Supplementary Appendix). 
+Participants who dropped out of the study were, 
+on  average,  1.4  years  younger  than  those  who 
+remained in the study and had a higher BMI (the 
+weight  in  kilograms  divided  by  the  square  of 
+height in meters) by 0.4, a higher waist-to-height 
+ratio (by 0.01), and a lower score for adherence 
+to the Mediterranean diet (by 1.0 points on the 
+14-item questionnaire) at baseline.
+
+Adherence to the Dietary Intervention
+The  scores  on  the  14-item  Mediterranean-diet 
+questionnaire increased over the follow-up period 
+
+for  the  participants  in  the  two  Mediterranean-
+diet groups (Table S7 and Fig. S8 in the Supple-
+mentary Appendix). There were substantial dif-
+ferences between the Mediterranean-diet groups 
+and the control group in 12 of the 14 items (Table 
+S7 in the Supplementary Appendix). Changes in 
+biomarkers also indicated good adherence to the 
+dietary assignments (Figs. S9 and S10 in the Sup-
+plementary Appendix).
+
+Participants  in  the  two  Mediterranean-diet 
+groups increased weekly servings of fish (by 0.3 
+servings) and legumes (by 0.4 servings) in com-
+parison with those in the control group (Table 
+S8 in the Supplementary Appendix). In addition, 
+participants  assigned  to  a  Mediterranean  diet 
+with extra-virgin olive oil and those assigned to 
+a  Mediterranean  diet  with  nuts  increased  their 
+consumption of extra-virgin olive oil (to 50 and 
+32 g per day, respectively) and nuts (to 0.9 and 
+6 servings per week, respectively). The main nu-
+trient changes in the Mediterranean-diet groups 
+reflected the fat content and composition of the 
+supplemental foods (Tables S9 and S10 in the 
+Supplementary Appendix). No relevant diet-related 
+adverse effects were reported (see page 38 in the 
+Supplementary Appendix). We found little differ-
+ence in changes in physical activity among the 
+three groups.
+
+End Points
+In the intention-to-treat analysis, there were 96 
+primary end-point events in the group assigned 
+to  a  Mediterranean  diet  with  extra-virgin  olive 
+oil (3.8%), 83 in the group assigned to a Medi-
+terranean diet with nuts (3.4%), and 109 in the 
+control group (4.4%). The respective incidence 
+rates were 8.1, 8.0, and 11.2 per 1000 person-
+years, and the 5-year absolute risks were 3.6%, 
+4.0%, and 5.7%, respectively (Table 3). The un-
+adjusted hazard ratios that used robust variance 
+estimators to account for intracluster correlations 
+were 0.70 (95% confidence interval [CI], 0.53 to 
+0.92) for a Mediterranean diet with extra-virgin 
+olive  oil  and  0.70  (95%  CI,  0.53  to  0.94)  for  a 
+Mediterranean diet with nuts as compared with 
+the control diet.
+
+Results of our primary analyses that included 
+adjustment for propensity scores and 12 baseline 
+participant characteristics were similar to those 
+of the unadjusted analyses, with hazard ratios of 
+0.69 (95% CI, 0.53 to 0.91) for a Mediterranean 
+diet with extra-virgin olive oil and 0.72 (95% CI, 
+
+e34(6)
+
+n engl j med 378;25  nejm.org 
+
+June 21, 2018
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2018 Massachusetts Medical Society. All rights reserved. Cardiovascular Disease and Mediterranean Diet
+
+Table 2. Baseline Characteristics of the Participants, According to Intervention Group.*
+
+Characteristic
+
+Female sex — no. (%)†
+
+Age — yr†
+
+Race or ethnic group — no. (%)‡
+
+White, from Europe
+
+Hispanic, from Central or South America
+
+Other
+
+Smoking status — no. (%)
+
+Never smoked
+
+Former smoker
+
+Current smoker
+
+Body-mass index†§
+
+Waist circumference — cm
+
+Waist-to-height ratio†¶
+
+Hypertension — no. (%)‖
+
+Type 2 diabetes — no. (%)†**
+
+Dyslipidemia — no. (%)††
+
+Family history of premature CHD — no. (%)‡‡
+
+Medication use — no. (%)
+
+ACE inhibitors
+
+Diuretics†
+
+Other antihypertensive agents
+
+Statins
+
+Other lipid-lowering agents
+
+Insulin
+
+Oral hypoglycemic agents†
+
+Antiplatelet therapy
+
+Hormone-replacement therapy§§
+
+Mediterranean 
+Diet with EVOO 
+
+(N = 2543)
+
+Mediterranean 
+Diet with Nuts 
+
+(N = 2454)
+
+Control Diet 
+(N = 2450)
+
+1493 (58.7)
+
+67.0±6.2
+
+1326 (54.0)
+
+1463 (59.7)
+
+66.7±6.1
+
+67.3±6.3
+
+2470 (97.1)
+
+2390 (97.4)
+
+2375 (96.9)
+
+35 (1.4)
+
+38 (1.5)
+
+1572 (61.8)
+
+618 (24.3)
+
+353 (13.9)
+
+29.9±3.7
+
+100±10
+
+0.63±0.06
+
+2088 (82.1)
+
+1282 (50.4)
+
+1821 (71.6)
+
+576 (22.7)
+
+1236 (48.6)
+
+534 (21.0)
+
+725 (28.5)
+
+1039 (40.9)
+
+121 (4.8)
+
+124 (4.9)
+
+768 (30.2)
+
+475 (18.7)
+
+42 (2.8)
+
+29 (1.2)
+
+35 (1.4)
+
+38 (1.6)
+
+37 (1.5)
+
+1465 (59.7)
+
+1527 (62.3)
+
+634 (25.8)
+
+355 (14.5)
+
+29.7±3.8
+
+100±10
+
+0.63±0.06
+
+2024 (82.5)
+
+1143 (46.6)
+
+1799 (73.3)
+
+532 (21.7)
+
+584 (23.8)
+
+339 (13.8)
+
+30.2±4.0
+
+101±11
+
+0.63±0.07
+
+2050 (83.7)
+
+1189 (48.5)
+
+1763 (72.0)
+
+560 (22.9)
+
+1223 (49.8)
+
+1216 (49.6)
+
+477 (19.4)
+
+710 (28.9)
+
+964 (39.3)
+
+145 (5.9)
+
+126 (5.1)
+
+680 (27.7)
+
+490 (20.0)
+
+35 (2.6)
+
+562 (22.9)
+
+758 (30.9)
+
+983 (40.1)
+
+126 (5.1)
+
+134 (5.5)
+
+757 (30.9)
+
+513 (20.9)
+
+39 (2.7)
+
+* 
+
+† 
+‡ 
+§ 
+¶ 
+‖ 
+
+ Plus–minus values are means ±SD. Percentages may not total 100 because of rounding. ACE denotes angiotensin-
+converting enzyme, and EVOO extra-virgin olive oil.
+ P<0.05 for comparisons between groups.
+ Race and ethnic group were determined by the staff of the trial (nurses or dietitians).
+ The body-mass index is the weight in kilograms divided by the square of the height in meters.
+ The waist-to-height ratio (an index of central obesity) is the waist circumference divided by height.
+ Hypertension was defined as a systolic blood pressure of 140 mm Hg or higher, a diastolic blood pressure of 90 mm Hg 
+or higher, or the use of antihypertensive therapy.
+
+**   Diabetes was defined as a fasting blood glucose level of 126 mg per deciliter (7.0 mmol per liter) or higher on two 
+ occasions, a 2-hour plasma glucose level of 200 mg per deciliter (11.1 mmol per liter) or higher during a 75-g oral 
+glucose-tolerance test, or the use of antidiabetic medication.
+
+††  Dyslipidemia was defined as a low-density lipoprotein cholesterol level higher than 160 mg per deciliter (4.1 mmol per 
+liter), a high-density lipoprotein cholesterol level of 40 mg per deciliter (1.0 mmol per liter) or lower in men or 50 mg 
+per deciliter (1.3 mmol per liter) or lower in women, or the use of lipid-lowering therapy.
+
+‡‡  A family history of premature coronary heart disease (CHD) was defined as a diagnosis of the disease in a male first-
+
+degree relative younger than 55 years of age or in a female first-degree relative younger than 65 years of age.
+
+§§   The values for hormone-replacement therapy are for women only.
+
+n engl j med 378;25  nejm.org 
+
+June 21, 2018
+
+e34(7)
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2018 Massachusetts Medical Society. All rights reserved. T h e  ne w   e ngl a nd   jou r na l   o f  m e dicine
+
+Table 3. Estimates of Cardiovascular Events, According to Intervention Group.*
+
+End Point
+
+No. of person-yr of follow-up
+
+Primary end point†
+
+No. of events
+
+Mediterranean 
+Diet with EVOO 
+
+(N = 2543)
+
+Mediterranean 
+Diet with Nuts 
+
+(N = 2454)
+
+Control Diet 
+(N = 2450)
+
+11852
+
+96
+
+10365
+
+83
+
+9763
+
+109
+
+Incidence rate per 1000 person-yr (95% CI)
+
+5-yr absolute risk — % (95% CI)‡
+
+8.1 (6.6–9.9)
+
+3.6 (2.8–4.5)
+
+8.0 (6.4–9.9)
+
+4.0 (3.1–5.0)
+
+11.2 (9.2–13.5)
+
+5.7 (4.6–6.9)
+
+Secondary end points
+
+Stroke
+
+No. of events
+
+Incidence rate per 1000 person-yr (95% CI)
+
+5-yr absolute risk — % (95% CI)
+
+Myocardial infarction
+
+No. of events
+
+Incidence rate per 1000 person-yr (95% CI)
+
+5-yr absolute risk — % (95% CI)
+
+Death from cardiovascular causes
+
+No. of events
+
+Incidence rate per 1000 person-yr (95% CI)
+
+5-yr absolute risk — % (95% CI)
+
+Death from any cause
+
+No. of events
+
+49
+
+4.1 (3.1–5.5)
+
+1.7 (1.3–2.4)
+
+37
+
+3.1 (2.2–4.3)
+
+1.4 (1.0–2.1)
+
+26
+
+2.2 (1.4–3.2)
+
+1.0 (0.6–1.5)
+
+32
+
+3.1 (2.1–4.4)
+
+1.5 (1.1–2.3)
+
+31
+
+3.0 (2.0–4.2)
+
+1.6 (1.1–2.3)
+
+31
+
+3.0 (2.0–4.2)
+
+1.4 (0.9–2.1)
+
+58
+
+5.9 (4.5–7.7)
+
+3.0 (2.3–3.9)
+
+38
+
+3.9 (2.8–5.3)
+
+2.1 (1.5–2.9)
+
+30
+
+3.1 (2.1–4.4)
+
+1.6 (1.1–2.3)
+
+118
+
+116
+
+114
+
+Incidence rate per 1000 person-yr (95% CI)
+
+10.0 (8.2–11.9)
+
+11.2 (9.3–13.4)
+
+11.7 (9.6–14.0)
+
+5-yr absolute risk — % (95% CI)
+
+4.4 (3.6–5.4)
+
+5.4 (4.4–6.6)
+
+5.4 (4.4–6.7)
+
+ITT analysis: hazard ratio for each Mediterranean 
+
+diet vs. control (95% CI)§
+
+Primary end point
+
+Unadjusted
+
+Adjusted¶
+
+Secondary end points¶
+
+Stroke
+
+Myocardial infarction
+
+0.70 (0.53–0.92)
+
+0.70 (0.53–0.94)
+
+0.69 (0.53–0.91)
+
+0.72 (0.54–0.95)
+
+0.65 (0.44–0.95)
+
+0.54 (0.35–0.82)
+
+0.82 (0.52–1.30)
+
+0.76 (0.47–1.25)
+
+Death from cardiovascular causes
+
+0.62 (0.36–1.06)
+
+1.02 (0.63–1.67)
+
+Death from any cause
+
+0.90 (0.69–1.18)
+
+1.12 (0.86–1.47)
+
+ITT analysis: hazard ratio for Mediterranean diets 
+
+combined vs. control (95% CI)§
+
+Primary end point
+
+Unadjusted
+
+Adjusted¶
+
+Secondary end points¶
+
+Stroke
+
+Myocardial infarction
+
+Death from cardiovascular causes
+
+Death from any cause
+
+0.70 (0.55–0.89)
+
+0.70 (0.55–0.89)
+
+0.58 (0.42–0.82)
+
+0.80 (0.53–1.21)
+
+0.80 (0.51–1.24)
+
+0.98 (0.77–1.24)
+
+1.00 (ref)
+
+1.00 (ref)
+
+1.00 (ref)
+
+1.00 (ref)
+
+1.00 (ref)
+
+1.00 (ref)
+
+1.00 (ref)
+
+1.00 (ref)
+
+1.00 (ref)
+
+1.00 (ref)
+
+1.00 (ref)
+
+1.00 (ref)
+
+e34(8)
+
+n engl j med 378;25  nejm.org 
+
+June 21, 2018
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2018 Massachusetts Medical Society. All rights reserved. Cardiovascular Disease and Mediterranean Diet
+
+Table 3. (Continued.)
+
+End Point
+
+Primary end point, excluding Site D and second 
+
+household members‖
+
+Each Mediterranean diet and control
+
+Mediterranean 
+Diet with EVOO 
+
+(N = 2543)
+
+Mediterranean 
+Diet with Nuts 
+
+(N = 2454)
+
+Control Diet 
+(N = 2450)
+
+No. of participants
+
+2158
+
+2109
+
+2138
+
+5-year absolute risk — % (95% CI)
+
+3.4 (2.6–4.3)
+
+3.9 (3.0–5.0)
+
+5.9 (4.8–7.2)
+
+Hazard ratio (95% CI)¶
+
+0.66 (0.49–0.89)
+
+0.64 (0.47–0.88)
+
+1.00 (ref)
+
+Mediterranean diets combined and control
+
+5-year absolute risk — % (95% CI)
+
+Hazard ratio (95% CI)¶
+
+3.6 (3.0–4.3)
+
+0.65 (0.50–0.85)
+
+5.9 (4.8–7.2)
+
+1.00 (ref)
+
+*  CI denotes confidence interval, and ref reference.
+†  The primary end point was a composite of myocardial infarction, stroke, and death from cardiovascular causes.
+‡  In the combined Mediterranean-diet groups, the 5-year absolute risk of the primary end point was 3.8% (95% CI, 3.2  
+
+to 4.4).
+
+§  The intention-to-treat (ITT) analysis included all 7447 participants.
+¶  The Cox model was stratified according to sex, recruiting site, and educational level (five categories) and adjusted for 
+
+age (continuous variable), smoking status (never smoked, former smoker, or current smoker), hypertension at baseline 
+(yes or no), dyslipidemia at baseline (yes or no), diabetes at baseline (yes or no), family history of premature coronary 
+heart disease (yes or no), body-mass index (continuous variable), waist-to-height ratio (continuous variable), physical 
+activity (in quintiles), and propensity scores that used 30 baseline variables to estimate the probability of assignment  
+to each of the intervention groups (see pages 12 through 17 in the Supplementary Appendix). Robust standard errors to 
+account for intracluster correlations were used.
+
+‖  The analysis included 6405 participants. Excluded were second members of the same household (425 participants) and 
+
+participants from Site D (617 participants). When participants from Site B were also excluded, the sample size was 
+5859 and the adjusted hazard ratios were 0.71 (95% CI, 0.52 to 0.97) for the group assigned to a Mediterranean diet 
+with extra-virgin olive oil, 0.68 (95% CI, 0.49 to 0.95) for the group assigned to a Mediterranean diet with nuts, and 
+0.69 (95% CI, 0.53 to 0.92) for the combined Mediterranean-diet groups, with the group assigned to a control diet as 
+the reference.
+
+0.54 to 0.95) for a Mediterranean diet with nuts 
+(Fig. 1A and Table 3). There were similar results 
+on three alternative analyses: one that was ad-
+justed with inverse-probability weighting (mod-
+els 3A through 3C in Fig. S2 in the Supplemen-
+tary  Appendix),  one  that  included  adjustments 
+for  the  Framingham  risk  score24  (models  6A 
+through 6C in Fig. S2 in the Supplementary Ap-
+pendix),  and  one  that  omitted  participants 
+known or suspected to have been assigned to an 
+intervention  group  without  individual  random-
+ization (Table 3 and Figs. 2 and 3, and Figs. S2 
+and  S4  in  the  Supplementary  Appendix).  The 
+results  for  secondary  end  points  are  shown  in 
+Table 3 and Figure 1B.
+
+To provide an alternative, noncausal explana-
+tion of the observed association (i.e., to change 
+the point estimate of the hazard ratio to ≥1.0), 
+an  unmeasured  binary  confounder  would  need 
+to be present in at least 40% of the control group 
+but in less than 25% of each Mediterranean-diet 
+group and be associated with a relative risk of 
+
+more than 4 for the primary end point. For fur-
+ther details, see Table S25 in the Supplementary 
+Appendix.
+
+To  explore  the  effect  of  the  October  2006 
+protocol  change  that  was  implemented  for  the 
+control  group  to  intensify  nutritional  counsel-
+ing, we conducted separate analyses of the par-
+ticipants  recruited  before  the  protocol  change 
+and  those  recruited  after  the  protocol  change. 
+The  hazard  ratios  for  the  Mediterranean  diet 
+(both  groups  merged)  as  compared  with  the 
+control diet were 0.77 (95% CI, 0.59 to 1.00) for 
+the  participants  recruited  before  October  2006 
+and  0.49  (95%  CI,  0.26  to  0.92)  for  those  re-
+cruited  in  October  2006  or  later  (P = 0.21  for 
+heterogeneity).
+
+The per-protocol (adherence-adjusted) hazard 
+ratio for the primary end point was 0.42 (95% 
+CI, 0.24 to 0.63) for the Mediterranean diet as 
+compared with the control diet (Fig. 3); the esti-
+mated absolute differences in incidence between 
+the  combined  Mediterranean-diet  groups  and 
+
+n engl j med 378;25  nejm.org 
+
+June 21, 2018
+
+e34(9)
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2018 Massachusetts Medical Society. All rights reserved. T h e  ne w   e ngl a nd   jou r na l   o f  m e dicine
+
+A PrimaryEndPoint(acutemyocardialinfarction,stroke,ordeathfrom
+
+cardiovascularcauses)
+
+Med diet, EVOO: hazard ratio, 0.69 (95% CI, 0.53–0.91)
+Med diet, nuts: hazard ratio, 0.72 (95% CI, 0.54–0.95)
+
+0.07
+
+0.06
+
+0.05
+
+0.04
+
+0.03
+
+0.02
+
+0.01
+
+0.00
+
+e
+c
+n
+e
+d
+i
+c
+n
+I
+
+e
+v
+i
+t
+a
+l
+u
+m
+u
+C
+
+1.0
+
+0.9
+
+0.8
+
+0.7
+
+0.6
+
+0.5
+
+0.4
+
+0.3
+
+0.2
+
+0.1
+
+0.0
+
+0
+
+Control diet
+
+Med diet,
+
+nuts
+
+Med diet,
+
+EVOO
+
+0
+
+1
+
+1
+
+2
+
+3
+
+2
+
+3
+Years
+
+4
+
+4
+
+5
+
+5
+
+No.atRisk
+Control diet
+Med diet, EVOO
+Med diet, nuts
+
+2450
+2543
+2454
+
+B TotalMortality
+
+2268
+2486
+2343
+
+2020
+2320
+2093
+
+1583
+1987
+1657
+
+1268
+1687
+1389
+
+946
+1310
+1031
+
+Figure 1. Kaplan–Meier Estimates of the Cumulative 
+ Incidence of End-Point Events in the Total Study 
+ Population.
+Panel A shows the incidence of the primary end point 
+(a composite of acute myocardial infarction, stroke, 
+and death from cardiovascular causes), and Panel B 
+shows total mortality. The insets show the same data 
+on an expanded y axis. Hazard ratios were stratified 
+according to sex, recruiting site, and educational level 
+(five categories) and adjusted for age (continuous vari-
+able), smoking (never smoked, former smoker, or cur-
+rent smoker), hypertension (yes or no), dyslipidemia 
+(yes or no), diabetes (yes or no), family history of pre-
+mature coronary heart disease, body-mass index (con-
+tinuous variable), waist-to-height ratio (continuous 
+variable), physical activity (in quintiles), and propensity 
+scores that estimated the probability of assignment to 
+each intervention group on the basis of 30 baseline 
+variables (see pages 12 through 17 in the Supplemen-
+tary Appendix). Robust standard errors to account for 
+intracluster correlations were used. CI denotes confi-
+dence interval, EVOO extra-virgin olive oil, and Med 
+Mediterranean.
+
+Med diet, EVOO: hazard ratio, 0.90 (95% CI, 0.69–1.18)
+Med diet, nuts: hazard ratio, 1.12 (95% CI, 0.86–1.47)
+
+Discussion
+
+0.07
+
+0.06
+
+0.05
+
+0.04
+
+0.03
+
+0.02
+
+0.01
+
+0.00
+
+y
+t
+i
+l
+a
+t
+r
+o
+M
+
+
+l
+a
+t
+o
+T
+
+1.0
+
+0.9
+
+0.8
+
+0.7
+
+0.6
+
+0.5
+
+0.4
+
+0.3
+
+0.2
+
+0.1
+
+0.0
+
+0
+
+Control diet
+
+Med diet,
+
+EVOO
+
+Med diet,
+
+nuts
+
+0
+
+1
+
+1
+
+2
+
+3
+
+2
+
+3
+Years
+
+4
+
+4
+
+5
+
+5
+
+No.atRisk
+Control diet
+Med diet, EVOO
+Med diet, nuts
+
+2450
+2543
+2454
+
+2270
+2486
+2345
+
+2027
+2324
+2097
+
+1586
+1991
+1662
+
+1272
+1691
+1395
+
+949
+1310
+1037
+
+the control group were 0.67, 1.38, and 2.00 per-
+centage  points  at  12,  24,  and  36  months  after 
+enrollment,  respectively  (see  pages  36  through 
+38 in the Supplementary Appendix). The results 
+of additional sensitivity and subgroup analyses 
+were also consistent with the results of our pri-
+mary analyses (Figs. 2 and 3, and Figs. S2, S4, 
+and S12 in the Supplementary Appendix).
+
+In this study involving high-risk persons without 
+cardiovascular disease, assignment to an energy-
+unrestricted  Mediterranean  diet  supplemented 
+with either extra-virgin olive oil or nuts was asso-
+ciated with a lower risk of major cardiovascular 
+events over a period of 5 years than assignment 
+to a control (low-fat) diet, with a relative differ-
+ence of 30% and an absolute difference of 1.7 to 
+2.1 percentage points. Our analysis, which in-
+corporated information about adherence to the 
+diets,  suggests  that  the  difference  in  rates  of 
+cardiovascular events between those assigned to 
+the Mediterranean diets and those assigned the 
+control diet was greater among participants with 
+better adherence. These results support previously 
+reported benefits of the Mediterranean diet for 
+cardiovascular risk reduction from a randomized 
+trial.4,25,26 Our findings are also consistent with 
+those  of  previous  observational  studies.2,5,23,25-33 
+Table S11 in the Supplementary Appendix sum-
+marizes the findings from systematic reviews on 
+this issue.
+
+In  response  to  a  2017  report11  suggesting 
+that  distributions  of  baseline  variables  in  the 
+PREDIMED trial were significantly different from 
+what  would  have  been  expected  to  result  from 
+randomization, we conducted an extensive review 
+
+e34(10)
+
+n engl j med 378;25  nejm.org 
+
+June 21, 2018
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2018 Massachusetts Medical Society. All rights reserved. Cardiovascular Disease and Mediterranean Diet
+
+Subgroup
+
+Unadjusted ITT analysis
+
+Mediterranean diet with EVOO
+Mediterranean diet with nuts
+
+Adjusted ITT analysis
+
+Mediterranean diet with EVOO
+Mediterranean diet with nuts
+
+Excluding Site D and second
+
+household members (adjusted)
+
+Mediterranean diet with EVOO
+Mediterranean diet with nuts
+
+Excluding Sites D and B and second
+household members (adjusted)
+
+Mediterranean
+
+Diet
+
+Control
+
+Diet
+
+no. of events/total no. of participants
+
+HazardRatio(95%CI)
+
+96/2543
+83/2454
+
+96/2543
+83/2454
+
+109/2450
+109/2450
+
+109/2450
+109/2450
+
+77/2158
+67/2109
+
+98/2138
+98/2138
+
+Mediterranean diet with EVOO
+Mediterranean diet with nuts
+
+73/1976
+62/1977
+
+83/1906
+83/1906
+
+0.70 (0.53−0.92)
+0.70 (0.53−0.94)
+
+0.69 (0.53−0.91)
+0.72 (0.54−0.95)
+
+0.66 (0.49−0.89)
+0.64 (0.47−0.88)
+
+0.71 (0.52−0.97)
+0.68 (0.49−0.95)
+
+0.25
+
+0.50
+
+0.75
+
+1.00
+
+1.50
+
+MediterraneanDiet
+
+Better
+
+ControlDiet
+
+Better
+
+Figure 2. Sensitivity Analyses of Each Mediterranean-Diet Group and the Control Group.
+Shown are hazard ratios for the primary end point in each Mediterranean-diet group as compared with the control 
+group, with estimates based on different analytic approaches or exclusions. Hazard ratios were stratified according 
+to sex, recruiting site, and educational level (five categories) and (with the exception of the unadjusted intention-to-
+treat [ITT] analysis) were adjusted for age, smoking (never smoked, former smoker, or current smoker), hyperten-
+sion (yes or no), dyslipidemia (yes or no), diabetes (yes or no), family history of premature coronary heart disease, 
+body-mass index (continuous variable), waist-to-height ratio (continuous variable), and physical activity (in quintiles). 
+In addition, all multivariable models were adjusted for propensity scores that estimated the probability of assign-
+ment to each intervention group on the basis of 30 baseline variables. We used robust standard errors to account 
+for intracluster correlations. One analysis excluded all the participants from Site D (652 participants) and all second 
+members of the same household (425 participants, including 35 from Site D); in total, 1042 participants were ex-
+cluded from this analysis. Another analysis excluded all the participants from Site D (652 participants), all the par-
+ticipants from Site B (593 participants), and all second members of the same household (425 participants, includ-
+ing 35 from Site D and 47 from Site B); in total, 1588 participants were excluded from this analysis. The results of 
+additional sensitivity analyses are shown in Figures S2 and S4 in the Supplementary Appendix.
+
+of the documentation and data at the 11 recruit-
+ment sites. After sharing this information with 
+the  editors  of  the  Journal,  we  withdrew  our 
+original report of this trial and now publish this 
+new  report.  Despite  some  departures  from  the 
+randomization  protocol,  most  of  the  baseline 
+covariates  were  balanced  across  groups,  and 
+there was no meaningful difference in the pre-
+dicted  risks  of  future  cardiovascular  events 
+across the three groups (Fig. S13 in the Supple-
+mentary Appendix).
+
+We  reanalyzed  the  data  using  methods  that 
+do not rely exclusively on the assumption that all 
+the participants had been randomly assigned to 
+intervention groups and that adjusted for base-
+line characteristics and propensity scores estimat-
+ing probabilities of assignment to each interven-
+tion on the basis of 30 baseline covariates. The 
+
+results of our reanalyses (Figs. 2 and 3 and Ta-
+ble 3, and Figs. S2 and S4 in the Supplementary 
+Appendix)  were  similar  to  the  results  that  we 
+originally  reported.  In  addition,  reanalyses  of 
+our data did not reveal any evidence that certain 
+lifestyle or treatment factors that are potentially 
+related to the risk of cardiovascular disease either 
+biased the results or might provide an alternative 
+explanation  for  the  observed  benefits  of  the 
+Mediterranean-diet interventions on cardiovascu-
+lar disease. Analyses that excluded participants 
+whose assignment to an intervention group was 
+known  or  suspected  not  to  have  followed  the 
+randomization protocol (participants from Sites D 
+and B and second household members) yielded 
+results  consistent  with  the  results  of  our  pri-
+mary analysis.
+
+The retention rate was higher in the group 
+
+n engl j med 378;25  nejm.org 
+
+June 21, 2018
+
+e34(11)
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2018 Massachusetts Medical Society. All rights reserved. T h e  ne w   e ngl a nd   jou r na l   o f  m e dicine
+
+Subgroup
+
+Unadjusted ITT analysis
+Adjusted ITT analysis
+Excluding Sites D and B and second
+
+household members (adjusted)
+Per-protocol (adherence-adjusted)
+
+analysis 
+
+No.ofEvents/
+
+TotalNo.ofParticipants
+
+HazardRatio(95%CI)
+
+288/7447
+288/7447
+218/5859
+
+111/7356
+
+0.70 (0.55−0.89)
+0.70 (0.55−0.89)
+0.69 (0.53−0.92)
+
+0.42 (0.24−0.63)
+
+0.25
+
+0.50
+
+0.75
+
+1.00 1.25
+
+MediterraneanDiet
+
+Better
+
+ControlDiet
+
+Better
+
+Figure 3. Sensitivity Analyses of the Combined Mediterranean-Diet Groups and the Control Group.
+Shown are hazard ratios for the primary end point in the combined Mediterranean-diet groups as compared with 
+the control group, with estimates based on different analytic approaches or exclusions. Hazard ratios were stratified 
+according to sex, recruiting site, and educational level (five categories) and (with the exception of the unadjusted 
+ITT analysis) were adjusted for age, smoking (never smoked, former smoker, or current smoker), hypertension (yes 
+or no), dyslipidemia (yes or no), diabetes (yes or no), family history of premature coronary heart disease, body-mass 
+index (continuous variable), waist-to-height ratio (continuous variable), and physical activity (in quintiles). In addi-
+tion, all multivariable models were adjusted for propensity scores, and we used robust standard errors to account 
+for intracluster correlations.
+
+assigned to a Mediterranean diet with extra-virgin 
+olive oil than in the other two groups (the group 
+assigned to a Mediterranean diet with nuts and 
+the control group). These two groups were also 
+slightly smaller in size, which resulted in a larger 
+number of person-years of follow-up in the group 
+assigned to a Mediterranean diet with extra-virgin 
+olive oil. The different follow-up had the poten-
+tial to bias the incidence rates toward lower rates 
+in the group assigned to a Mediterranean diet 
+with  extra-virgin  olive  oil.  However,  analyses 
+that used multiple imputation and inverse-prob-
+ability weighting to adjust for a potential selec-
+tion bias due to differential losses to follow-up 
+yielded estimates consistent with the main analy-
+sis (see pages 30 through 35 and Fig. S4 in the 
+Supplementary Appendix). An additional limita-
+tion of our study is that participants were at high 
+cardiovascular risk; whether the results can be 
+generalized  to  persons  at  lower  risk  requires 
+further research.
+
+As with many clinical trials, the observed rates 
+of cardiovascular events were lower than antici-
+pated, with reduced statistical power to separately 
+assess  components  of  the  primary  end  point. 
+However,  favorable  trends  were  seen  for  both 
+stroke and myocardial infarction. It is possible, 
+but  not  likely,  that  some  cardiovascular  events 
+were not detected (see pages 28 and 29 in the 
+Supplementary Appendix).
+
+Even though participants in the control group 
+received advice to reduce fat intake, changes in 
+total  fat  on  the  food-frequency  questionnaire 
+were small and the largest differences at the end 
+of the study were in the distribution of fat sub-
+types. The interventions were intended to im-
+prove the overall dietary pattern, but the major 
+between-group  differences  involved  the  supple-
+mental  items,  extra-virgin  olive  oil  and  nuts. 
+Differences were also observed in the consump-
+tion of fish and legumes but not in the consump-
+tion  of  other  food  groups.  (It  is  worth  noting 
+that on the 14-item Mediterranean-diet question-
+naire, there were substantial between-group differ-
+ences in 12 of the 14 items.) The modest between-
+group differences according to the food-frequency 
+questionnaire can be explained by the facts that 
+most study participants had been consuming a 
+baseline diet similar to the study Mediterranean 
+diet and that the control group was given recom-
+mendations for a healthy diet, factors that raise 
+the question of how applicable our results may be 
+to high-risk persons in other countries. Answer-
+ing this question will require further research.3
+In conclusion, in this primary prevention study 
+involving persons at high risk for cardiovascular 
+events, those assigned to an energy-unrestricted 
+Mediterranean  diet,  supplemented  with  extra-
+virgin olive oil or nuts, had a lower rate of major 
+cardiovascular events than those assigned to a 
+
+e34(12)
+
+n engl j med 378;25  nejm.org 
+
+June 21, 2018
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2018 Massachusetts Medical Society. All rights reserved. Cardiovascular Disease and Mediterranean Diet
+
+reduced-fat diet. Our findings support a benefi-
+cial effect of the Mediterranean diet for the pri-
+mary prevention of cardiovascular disease.
+
+Supported by Instituto de Salud Carlos III, Spanish Ministry of 
+Health, through grants provided to research networks specifically 
+developed for the study (RTIC G03/140, to Dr. Estruch, and RTIC RD 
+06/0045, to Dr. Martínez-González); Centro de Investigación Bio-
+médica en Red de Fisiopatología de la Obesidad y Nutrición; and 
+grants from Centro Nacional de Investigaciones Cardiovasculares 
+(CNIC 06/2007), Fondo de Investigación Sanitaria–Fondo Euro-
+peo de Desarrollo Regional (PI04-2239, PI 05/2584, CP06/00100, 
+PI07/0240, PI07/1138, PI07/0954, PI 07/0473, PI10/01407, PI10/02658, 
+PI11/01647, and P11/02505), Ministerio de Ciencia e Innovación 
+(AGL-2009-13906-C02  and  AGL2010-22319-C03),  Fundación 
+
+Mapfre  2010,  Consejería  de  Salud  de  la  Junta  de  Andalucía 
+(PI0105/2007), Public Health Division of the Department of Health 
+of the Autonomous Government of Catalonia, Generalitat Valen-
+ciana (ACOMP06109, GVACOMP2010-181, GVACOMP2011-151, 
+CS2010-AP-111, and CS2011-AP-042), and Regional Government 
+of Navarra (P27/2011). Dr. Hernán was supported by a grant 
+(ME-1503-28119) from the Patient-Centered Outcomes Research 
+Institute.
+
+Disclosure forms provided by the authors are available with 
+
+the full text of this article at NEJM.org.
+
+We thank the participants for their involvement in the study; 
+and Joan Vila from Institut Hospital del Mar d’Investigacions 
+Mèdiques, Barcelona, and Estefanía Toledo from the University 
+of  Navarra,  Pamplona,  for  their  assistance  with  statistical 
+analyses.
+
+Appendix
+
+The authors’ full names and academic degrees are as follows: Ramón Estruch, M.D., Ph.D., Emilio Ros, M.D., Ph.D., Jordi Salas-Sal-
+vadó, M.D., Ph.D., Maria-Isabel Covas, D.Pharm., Ph.D., Dolores Corella, D.Pharm., Ph.D., Fernando Arós, M.D., Ph.D., Enrique Gó-
+mez-Gracia, M.D., Ph.D., Valentina Ruiz-Gutiérrez, Ph.D., Miquel Fiol, M.D., Ph.D., José Lapetra, M.D., Ph.D., Rosa M. Lamuela- 
+Raventos, D.Pharm., Ph.D., Lluís Serra-Majem, M.D., Ph.D., Xavier Pintó, M.D., Ph.D., Josep Basora, M.D., Ph.D., Miguel A. Muñoz, 
+M.D., Ph.D., José V. Sorlí, M.D., Ph.D., J. Alfredo Martínez, D.Pharm., M.D., Ph.D., Montserrat Fitó, M.D., Ph.D., Alfredo Gea, D.Pharm., 
+Ph.D., Miguel A. Hernán, M.D., Dr.P.H., and Miguel A. Martínez-González, M.D., Ph.D.
+
+The authors’ affiliations are as follows: the PREDIMED (Prevención con Dieta Mediterránea) Network (RD 06/0045) (R.E., J.S.-S., 
+F.A., E.G.-G., V.R.-G., R.M.L.-R., L.S.-M., X.P., J.B., J.V.S., J.A.M., M.A.M.-G.) and Centro de Investigación Biomédica en Red de Fisio-
+patología de la Obesidad y Nutrición (R.E., E.R., J.S.-S., M.-I.C., D.C., F.A., M. Fiol, J.L., R.M.L.-R., L.S.-M., X.P., J.B., J.V.S., J.A.M., 
+M. Fitó, A.G., M.A.M.-G.), Instituto de Salud Carlos III, Madrid, the Department of Internal Medicine, Hospital Clinic (R.E.), the Lipid 
+Clinic, Department of Endocrinology and Nutrition, Institut d’Investigacions Biomèdiques August Pi i Sunyer (E.R.), and the Depart-
+ment of Nutrition, Food Sciences, and Gastronomy, Faculty of Pharmacy and Food Sciences, Xarxa de Referència en Tecnologia dels 
+Aliments, Instituto de Investigación en Nutrición y Seguridad Alimentaria (R.M.L.-R.), University of Barcelona, Institut Hospital del Mar 
+d’Investigacions Mèdiques (M.-I.C., M. Fitó), the Lipids and Vascular Risk Unit, Internal Medicine, Hospital Universitario de Bellvitge, 
+Hospitalet de Llobregat (X.P.), and the Primary Care Division, Catalan Institute of Health, Institut Universitari d’Investigació en Atenció 
+Primària  (IDIAP)–Jordi  Gol  (M.A.M.),  Barcelona,  the  Human  Nutrition  Department,  Hospital  Universitari  Sant  Joan,  Institut 
+d’Investigació Sanitària Pere Virgili, Universitat Rovira i Virgili, Reus (J.S.-S.), the Department of Preventive Medicine, University of 
+Valencia (D.C., J.V.S.), and the Primary Care Division, Valencia Institute of Health (J.V.S.), Valencia, the Department of Cardiology, 
+University Hospital of Álava, Vitoria (F.A.), the Department of Preventive Medicine, University of Malaga, Malaga (E.G.-G.), Instituto de 
+la Grasa, Consejo Superior de Investigaciones Científicas (V.R.-G.), and the Department of Family Medicine, Primary Care Division of 
+Sevilla, San Pablo Health Center (J.L.), Seville, the Institute of Health Sciences, University of the Balearic Islands, and Hospital Son 
+Espases, Palma de Mallorca (M. Fiol), the Research Institute of Biomedical and Health Sciences, Instituto Universitario de Investiga-
+ciones Biomédicas y Sanitarias, University of Las Palmas de Gran Canaria, Las Palmas (L.S.-M.), the Primary Care Division, Catalan 
+Institute of Health, IDIAP–Jordi Gol, Tarragona-Reus (J.B.), and the Departments of Nutrition and Food Sciences and Physiology 
+(J.A.M.) and Preventive Medicine and Public Health (A.G., M.A.M.-G.), University of Navarra, Pamplona — all in Spain; and the Depart-
+ments of Epidemiology and Biostatistics (M.A.H.) and Nutrition (M.A.M.-G.), Harvard T.H. Chan School of Public Health, and the 
+Harvard–MIT Division of Health Sciences and Technology (M.A.H.), Boston.
+
+References
+1.  Willett WC, Sacks F, Trichopoulou A, 
+et al. Mediterranean diet pyramid: a cul-
+tural model for healthy eating. Am J Clin 
+Nutr 1995; 61: Suppl: 1402S-1406S.
+2.  Sofi F, Abbate R, Gensini GF, Casini A. 
+Accruing evidence on benefits of adher-
+ence to the Mediterranean diet on health: 
+an updated systematic review and meta-
+analysis.  Am  J  Clin  Nutr  2010; 92: 1189-
+96.
+3.  Martínez-González MÁ, Hershey MS, 
+Zazpe I, Trichopoulou A. Transferability 
+of the Mediterranean diet to non-Mediter-
+ranean countries: what is and what is not 
+the Mediterranean diet. Nutrients 2017; 
+9(11): E1226.
+4.  de  Lorgeril  M,  Salen  P,  Martin  JL, 
+Monjaud I, Delaye J, Mamelle N. Mediter-
+ranean diet, traditional risk factors, and 
+the rate of cardiovascular complications 
+after  myocardial  infarction:  final  report 
+
+of the Lyon Diet Heart Study. Circulation 
+1999; 99: 779-85.
+5.  Mente A, de Koning L, Shannon HS, 
+Anand SS. A systematic review of the evi-
+dence supporting a causal link between 
+dietary  factors  and  coronary  heart  dis-
+ease.  Arch  Intern  Med  2009; 169: 659- 
+69.
+6.  Esposito  K,  Marfella  R,  Ciotola  M,  
+et al. Effect of a Mediterranean-style diet 
+on endothelial dysfunction and markers 
+of vascular inflammation in the metabolic 
+syndrome: a randomized trial. JAMA 2004; 
+292: 1440-6.
+7.  Vincent-Baudry S, Defoort C, Gerber 
+M, et al. The Medi-RIVAGE study: reduc-
+tion of cardiovascular disease risk factors 
+after a 3-mo intervention with a Mediter-
+ranean-type diet or a low-fat diet. Am J 
+Clin Nutr 2005; 82: 964-71.
+8.  Estruch  R,  Martínez-González  MA, 
+
+Corella  D,  et  al.  Effects  of  a  Mediterra-
+nean-style diet on cardiovascular risk fac-
+tors: a randomized trial. Ann Intern Med 
+2006; 145: 1-11.
+9.  Shai I, Schwarzfuchs D, Henkin Y, et al. 
+Weight  loss  with  a  low-carbohydrate, 
+Mediterranean, or low-fat diet. N Engl J 
+Med 2008; 359: 229-41.
+10.  Estruch R, Ros E, Salas-Salvadó J, et al. 
+Primary prevention of cardiovascular dis-
+ease with a Mediterranean diet. N Engl J 
+Med 2013; 368: 1279-90.
+11.  Carlisle JB. Data fabrication and other 
+reasons  for  non-random  sampling  in 
+5087 randomised, controlled trials in an-
+aesthetic  and  general  medical  journals. 
+Anaesthesia 2017; 72: 944-52.
+12.  Estruch R, Ros E, Salas-Salvadó J, et al. 
+Retraction and republication: Primary pre-
+vention of cardiovascular disease with a 
+Mediterranean diet. N Engl J Med 2013; 
+
+n engl j med 378;25  nejm.org 
+
+June 21, 2018
+
+e34(13)
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2018 Massachusetts Medical Society. All rights reserved. Cardiovascular Disease and Mediterranean Diet
+
+368:1279-90. N Engl J Med. DOI:  10.1056/
+NEJMc1806491.
+13.  Martínez-González  MA,  Corella  D, 
+Salas-Salvadó  J,  et  al.  Cohort  profile: 
+ design  and  methods  of  the  PREDIMED 
+study. Int J Epidemiol 2012; 41: 377-85.
+14.  PREDIMED  home  page  (http://www 
+.predimed .es/ ).
+15.  Zazpe I, Sanchez-Tainta A, Estruch R, 
+et al. A large randomized individual and 
+group  intervention  conducted  by  regis-
+tered  dietitians  increased  adherence  to 
+Mediterranean-type diets: the PREDIMED 
+study. J Am Diet Assoc 2008; 108: 1134-44.
+16.  Schröder H, Fitó M, Estruch R, et al.  
+A  short  screener  is  valid  for  assessing 
+Mediterranean diet adherence among older 
+Spanish  men  and  women.  J  Nutr  2011; 
+141: 1140-5.
+17.  Fernández-Ballart JD, Piñol JL, Zazpe I, 
+et al. Relative validity of a semi-quantita-
+tive food-frequency questionnaire in an el-
+derly Mediterranean population of Spain. 
+Br J Nutr 2010; 103: 1808-16.
+18.  Salas-Salvadó  J,  Fernández-Ballart  J, 
+Ros E, et al. Effect of a Mediterranean diet 
+supplemented  with  nuts  on  metabolic 
+syndrome status: one-year results of the 
+PREDIMED randomized trial. Arch Intern 
+Med 2008; 168: 2449-58.
+19.  ALLHAT  Officers  and  Coordinators 
+for  the  ALLHAT  Collaborative  Research 
+Group. Major outcomes in moderately hy-
+percholesterolemic, hypertensive patients 
+
+randomized to pravastatin vs usual care: 
+the Antihypertensive and Lipid-Lowering 
+Treatment  to  Prevent  Heart  Attack  Trial 
+(ALLHAT-LLT). JAMA 2002; 288: 2998-3007.
+20.  O’Brien  PC,  Fleming  TR.  A  multiple 
+testing procedure for clinical trials. Bio-
+metrics 1979; 35: 549-56.
+21.  Hernán MA, Hernández-Díaz S, Robins 
+JM. Randomized trials analyzed as obser-
+vational  studies.  Ann  Intern  Med  2013; 
+159: 560-2.
+22. Hernán MA, Robins JM. Per-protocol 
+analyses of pragmatic trials. N Engl J Med 
+2017; 377: 1391-8.
+23.  Toh  S,  Hernández-Díaz  S,  Logan  R, 
+Robins JM, Hernán MA. Estimating abso-
+lute  risks  in  the  presence  of  nonadher-
+ence: an application to a follow-up study 
+with baseline randomization. Epidemiol-
+ogy 2010; 21: 528-39.
+24.  D’Agostino RB Sr, Vasan RS, Pencina 
+MJ, et al. General cardiovascular risk pro-
+file for use in primary care: the Framing-
+ham  Heart  Study.  Circulation  2008; 117: 
+743-53.
+25.  Kris-Etherton P, Eckel RH, Howard BV, 
+St. Jeor S, Bazzarre TL. AHA science advi-
+sory: Lyon Diet Heart Study — benefits of 
+a Mediterranean-style, National Cholesterol 
+Education Program/American Heart Asso-
+ciation Step I dietary pattern on cardio-
+vascular  disease.  Circulation  2001; 103: 
+1823-5.
+26.  de Lorgeril M, Renaud S, Mamelle N, 
+
+et al. Mediterranean alpha-linolenic acid-
+rich diet in secondary prevention of coro-
+nary heart disease. Lancet 1994; 343: 1454-9.
+27.  Bendinelli B, Masala G, Saieva C, et al. 
+Fruit, vegetables, and olive oil and risk of 
+coronary heart disease in Italian women: 
+the EPICOR Study. Am J Clin Nutr 2011; 
+93: 275-83.
+28. Samieri C, Féart C, Proust-Lima C, et al. 
+Olive oil consumption, plasma oleic acid, 
+and stroke incidence: the Three-City Study. 
+Neurology 2011; 77: 418-25.
+29.  Buckland G, Travier N, Barricarte A, 
+et al. Olive oil intake and CHD in the Euro-
+pean Prospective Investigation into Can-
+cer and Nutrition Spanish cohort. Br J Nutr 
+2012; 108: 2075-82.
+30.  Kris-Etherton PM, Hu FB, Ros E, Sa-
+baté J. The role of tree nuts and peanuts in 
+the prevention of coronary heart disease: 
+multiple  potential  mechanisms.  J  Nutr 
+2008; 138: 1746S-1751S.
+31.  Ros E, Tapsell LC, Sabaté J. Nuts and 
+berries for heart health. Curr Atheroscler 
+Rep 2010; 12: 397-406.
+32.  Trichopoulou A, Bamia C, Trichopou-
+los D. Anatomy of health effects of Medi-
+terranean  diet:  Greek  EPIC  prospective 
+cohort study. BMJ 2009; 338: b2337.
+33.  Buckland G, Mayén AL, Agudo A, et al. 
+Olive oil intake and mortality within the 
+Spanish population (EPIC-Spain). Am J Clin 
+Nutr 2012; 96: 142-9.
+Copyright © 2018 Massachusetts Medical Society.
+
+e34(14)
+
+n engl j med 378;25  nejm.org 
+
+June 21, 2018
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2018 Massachusetts Medical Society. All rights reserved. 

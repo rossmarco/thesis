@@ -1,0 +1,1914 @@
+Journal of the American College of Cardiology
+© 2011 by the American College of Cardiology Foundation
+Published by Elsevier Inc.
+
+Vol. 57, No. 10, 2011
+ISSN 0735-1097/$36.00
+doi:10.1016/j.jacc.2010.09.070
+
+Potassium Intake, Stroke, and Cardiovascular Disease
+A Meta-Analysis of Prospective Studies
+
+Lanfranco D’Elia, MD, PHD,* Gianvincenzo Barba, MD,† Francesco P. Cappuccio, MD,‡
+Pasquale Strazzullo, MD*
+Naples and Avellino, Italy; and Coventry, United Kingdom
+
+Objectives
+
+Background
+
+Methods
+
+Results
+
+The objective of this study was to assess the relation between the level of habitual potassium intake and the
+incidence of cardiovascular disease (CVD).
+
+Prospective cohort studies have evaluated the relationship between habitual potassium intake and incidence of
+vascular disease, but their results have not been not entirely consistent.
+
+We performed a systematic search for prospective studies published, without language restrictions (1966 to Decem-
+ber 2009). Criteria for inclusion were prospective adult population study, assessment of baseline potassium intake,
+assessment of vascular events as outcome, and follow-up of at least 4 years. For each study, relative risks (RRs) and
+95% conﬁdence intervals (CIs) were extracted and pooled using a random-effect model, weighted for the inverse of
+the variance. Heterogeneity, publication bias, subgroup, and meta-regression analyses were performed.
+
+Eleven studies were identiﬁed, providing 15 cohort samples that included 247,510 male and female partici-
+pants (follow-up 5 to 19 years), 7,066 strokes, 3,058 coronary heart disease (CHD) events, and 2,497 total CVD
+events. Potassium intake was assessed by 24-h dietary recall (n ⫽ 2), food frequency questionnaire (n ⫽ 6), or
+24-h urinary excretion (n ⫽ 3). In the pooled analysis, a 1.64-g (42 mmol) per day higher potassium intake was
+associated with a 21% lower risk of stroke (RR: 0.79; 95% CI: 0.68 to 0.90; p ⫽ 0.0007), with a trend toward
+lower risk of CHD and total CVD that attained statistical signiﬁcance after the exclusion of a single cohort, based
+on sensitivity analysis (RR: 0.93; 95% CI: 0.87 to 0.99; p ⫽ 0.03 and RR: 0.74; 95% CI: 0.60 to 0.91; p ⫽ 0.0037).
+
+Conclusions
+
+Higher dietary potassium intake is associated with lower rates of stroke and might also reduce the risk of CHD
+and total CVD. These results support recommendations for higher consumption of potassium-rich foods to pre-
+vent vascular diseases.
+(J Am Coll Cardiol 2011;57:1210–9) © 2011 by the American College of Cardiology
+Foundation
+
+The relationship between dietary potassium intake and
+blood pressure (BP) has been known for a long time (1).
+Many cross-sectional and longitudinal prospective studies
+have detected an inverse relationship between dietary po-
+tassium intake and BP (2,3). In the largest available meta-
+analysis of the randomized controlled trials of potassium
+
+From the *Department of Clinical and Experimental Medicine, “Federico II”
+University of Naples Medical School, Naples, Italy; †Epidemiology & Population
+Genetics Institute of Food Science & Technology, National Research Council,
+Avellino, Italy; and the ‡University of Warwick, World Health Organization
+(WHO) Collaborating Centre for Nutrition, Warwick Medical School, Coventry,
+United Kingdom. The study was funded in part by an EC grant (FP7-HEALTH-
+2007-201550). The publication does not necessarily represent the decisions or the
+stated policy of WHO and the designations employed and the presentation of the
+material do not imply the expression of any opinion on the part of WHO. Dr. D’Elia
+was supported in part by a research grant from Regione Basilicata (POR Basilicata
+2000-06-misura III.1.D.4). All other authors have reported that they have
+no relationships to disclose. Drs. Cappuccio and Strazzullo contributed equally to
+this work.
+
+Manuscript received June 10, 2010; revised manuscript received September 24,
+
+2010, accepted September 28, 2010.
+
+supplementation, an increase in potassium intake of at least
+20 mmol (0.78 g) per day was associated with signiﬁcant
+average reductions of 4.9 mm Hg systolic BP and 2.7 mm
+Hg diastolic BP in hypertensive patients (4), although no
+signiﬁcant effect was apparent in one large trial (5). The
+effect of potassium on BP was more pronounced in those
+having an elevated sodium intake and in black compared
+with white individuals. In a more recent meta-analysis (6),
+which included only 5 studies featuring a prolonged
+follow-up (at least 8 weeks), a favorable impact was also
+detected; however, the difference was not statistically sig-
+niﬁcant after the exclusion of a single outlier study reporting
+an exceptionally large favorable effect (7).
+
+In a different long-term randomized controlled trial that
+assessed the effects of increased potassium intake attained by
+natural foods, patients assigned to the potassium-rich diet
+achieved and maintained BP control at the end of a 1-year
+follow-up with less than half the amount of drugs needed by
+the control group (8).
+
+JACC Vol. 57, No. 10, 2011
+March 8, 2011:1210–9
+
+D’Elia etal.
+Potassium Intake and Cardiovascular Risk
+
+1211
+
+Because hypertension is the main cause of cardiovascular
+morbidity and mortality (9), it is reasonable to expect that
+higher potassium intake could favorably affect cardiovascular
+morbidity and mortality rates. Indeed, a high potassium
+intake dramatically reduces the elevated death rate associ-
+ated with a high-salt diet in stroke-prone spontaneously
+hypertensive rats (10) and the extent of renal damage in Dahl
+salt-sensitive rats (11).
+
+Randomized controlled trials of the effects of long-term
+increases in dietary potassium intake on morbidity and
+mortality from cardiovascular disease (CVD) are lacking,
+and indeed such a trial could hardly be carried out because
+of technical difﬁculties and ethical problems. Nevertheless,
+several prospective cohort studies over 3 decades have
+explored the possible association between habitual dietary
+potassium intake and incidence of vascular events. The
+results of these studies are not entirely consistent possibly
+because of, in some cases, insufﬁcient statistical power.
+
+The technique of meta-analysis allows the evaluation of
+the combined results of different studies, thus enhancing the
+overall statistical power, increasing precision of the esti-
+mates of effectiveness, evaluating consistency among studies,
+and exploring possible publication bias. Therefore, we
+performed a systematic review and meta-analysis to assess
+whether or not the overall evidence obtained in prospective
+studies supports the presence of a relationship between
+habitual levels of dietary potassium intake and stroke and
+cardiovascular outcomes and to obtain an estimate of the
+risk.
+
+Methods
+
+Data sources and searches. We performed a systematic
+search for publications using Medline (1966 to December
+2009), Embase (from 1988), Allied and Complementary
+Database (from 1985), Cumulative Index to Nursing and
+Allied Health Literature (from 1982), Psychinfo (from
+1985), and the Cochrane Library. The search strategy used
+the expressions potassium intake AND stroke, cerebrovas-
+cular disease, cardiovascular disease, coronary heart disease,
+cerebrovascular accident, cerebrovascular disorders, cardio-
+vascular accident, cardiovascular disorders, cerebral infarc-
+tion, cerebral hemorrhage or combinations thereof, either in
+medical subject headings or in the title/abstract, with no
+language restrictions. Further information was retrieved
+through a manual search of references from recent reviews
+and relevant published original studies (12).
+Study selection. Two reviewers (L.D. and G.B.) indepen-
+dently extracted the data. Discrepancies about inclusion of
+studies and interpretation of data were resolved by arbitra-
+tion (P.S. or F.P.C.), and consensus was reached after
+discussion. In the case of missing data for potentially
+suitable studies, the authors were contacted and asked to
+provide the necessary information. To be included in the
+meta-analysis, a published study had to meet the following
+criteria: 1) original article; 2) prospective design; 3) adult
+
+BMI ⴝ body mass index
+
+BP ⴝ blood pressure
+
+Abbreviations
+and Acronyms
+
+population; 4) assessment of po-
+tassium intake as baseline expo-
+sure; 5) fatal or nonfatal stroke,
+CVD, and/or coronary heart dis-
+ease (CHD) determined prospec-
+tively as outcome; 6) indication of
+the number of participants ex-
+posed and the rate or number of
+events in different categories of
+potassium intake; 7) assessment
+of relative risk (RR) or hazard ratio (HR) for different
+potassium intake categories, and 8) follow-up of at least 4
+years (mean or median).
+
+CHD ⴝ coronary heart
+disease
+
+CVD ⴝ cardiovascular
+disease
+
+Of a total of 3,271 publications retrieved (Fig. 1), 12
+studies were identiﬁed that met the inclusion criteria.
+Because 2 studies referred to the same cohort (NHANES I
+[National Health and Nutrition Examination Survey I]
+[13,14]), we included the one that used more stringent
+inclusion criteria (14), excluding patients with positive
+history of CVD at baseline. Therefore, 11 studies were used
+for the meta-analysis, providing suitable data on 15 cohorts
+overall (Table 1) (14–24).
+Data extraction. The following characteristics of the iden-
+tiﬁed studies and respective populations were recorded:
+publication reference, total number of participants, country,
+sex, age (mean, median, or range), follow-up (years), out-
+come reported (fatal or nonfatal stroke, CHD, or CVD),
+
+1 901
+l d d
+1,901 papers excluded 
+as duplicates and 1,328 
+papers excluded on the 
+basis of title and 
+abstract.
+
+30 papers excluded on 
+the basis of (a) non 
+prospective, (b) lack of 
+assessment of 
+exposure, (c) lack of 
+assessment of stroke,  
+CVD and CHD 
+outcome (d) missing
+outcome, (d) missing 
+RR or HR estimate.
+
+p p
+
+1 paper reporting data 
+g
+on same cohort.
+
+p
+
+3,271  publications 
+identified
+
+42 potentially       
+42 potentiall
+relevant papers 
+identified and screened 
+for retrieval.
+
+12 papers identified and 
+retrieved for detailed 
+assessment.
+
+11 papers reporting on 
+15 independent cohorts 
+included in the meta-
+analysis.
+
+Figure 1
+
+Stepwise Procedure for Selection of Studies
+
+Flowchart indicating the results of the systematic review with inclusions and
+exclusions. CHD ⫽ coronary heart disease; CVD ⫽ cardiovascular disease;
+HR ⫽ hazard ratio; RR ⫽ relative risk.
+
+Characteristics of the Prospective Studies Included in the Meta-Analysis
+
+Characteristics of the Prospective Studies Included in the Meta-Analysis
+
+Table 1
+
+First Author
+
+(Ref. #)
+
+Khaw (15)
+
+Year
+1987
+
+Country
+
+United States
+
+Age
+(yrs)
+50–79
+
+Recruitment
+
+Study
+
+Follow-up
+
+Sex
+
+Time
+
+Population (n)
+
+Men/women
+
+1972–1974
+
+859
+
+(yrs)
+12
+
+Outcome(s)
+
+Outcome Assessment
+
+Potassium Intake
+
+Assessment
+
+Quality
+Score
+
+1
+2
+1
+2
+
+D
+’
+E
+
+l
+i
+
+a
+e
+t
+a
+l
+.
+
+P
+o
+t
+a
+s
+s
+i
+u
+m
+
+I
+n
+t
+a
+k
+e
+
+a
+n
+d
+
+Fatal stroke
+
+Death certiﬁcates (ICDA 430–438) review by
+
+24-h dietary recall
+
+i
+
+C
+a
+r
+d
+o
+v
+a
+s
+c
+u
+a
+r
+
+l
+
+R
+i
+s
+k
+
+J
+A
+C
+C
+
+V
+o
+l
+.
+
+5
+7
+
+,
+
+N
+o
+.
+
+1
+0
+
+,
+
+2
+0
+1
+1
+
+M
+a
+r
+c
+h
+
+8
+
+,
+
+2
+0
+1
+1
+
+:
+
+1
+2
+1
+0
+–
+9
+
+16
+
+15
+
+16
+
+18
+
+24-h dietary recall
+
+18
+
+Tunstall-Pedoe (16)
+
+1997
+
+Scotland
+
+40–59
+
+Men/women
+
+1984–1987
+
+11,629
+
+7.6
+
+Fatal/nonfatal CHD
+
+Ascherio (17)
+
+1998
+
+United States
+
+40–75
+
+Men
+
+1986
+
+43,738
+
+8
+
+Fatal/nonfatal stroke
+
+Iso (18)
+
+1999
+
+United States
+
+34–59 Women
+
+1980
+
+85,764
+
+Bazzano (14)
+
+2001
+
+United States
+
+25–74
+
+Men/women
+
+1971–1975
+
+9,805
+
+14
+
+19
+
+Fatal/nonfatal stroke
+
+Fatal/nonfatal stroke
+
+and CHD
+
+physicians and hospital records
+
+Case notes requested for all hospital episodes
+of MI and other emergency admissions for
+CHD, extracted and coded according to
+MONICA project criteria
+
+Nonfatal outcomes review conducted by
+physicians, fatal outcomes review by
+physicians plus National Death Index
+(medical records or autopsy reports)
+
+Notiﬁcation of outcomes, review by physicians
+plus National Death Index, documented by
+medical records and death certiﬁcates
+
+Death certiﬁcates (ICD-9: 430–434.9, 436, or
+437.0–437.1, 410–414), hospital records,
+nursing home documentation
+
+24-h urine
+
+collection
+
+FFQ
+
+FFQ
+
+Green (19)
+
+2002
+
+United States
+
+73
+
+Men/women
+
+1989–1990
+
+4,934
+
+7.3
+
+Fatal/nonfatal stroke
+
+Hospital records (including admission and
+
+FFQ
+
+discharge notes), results of tests, cerebral
+imaging studies
+
+Geleijnse (20)
+
+2007
+
+the Netherlands
+
+ⱖ55
+
+Men/women
+
+1990–1993
+
+1,448
+
+5
+
+Fatal CVD,
+
+Physician registries ICD-10 I20–I25, I46, I49,
+
+Overnight urine
+
+fatal/nonfatal MI
+and stroke
+
+I50, I60–I67, I70–I74, R96 I60–I67
+
+potassium, FFQ
+
+Weng (21)
+
+2008
+
+Taiwan
+
+57
+
+Men/women
+
+1990–1993
+
+1,772
+
+10.6
+
+Fatal/nonfatal stroke
+
+Death certiﬁcates, insurance claim records of
+
+FFQ
+
+NHI database, subject’s self-reported
+disease history (ICD-9-CM: 430–438)
+
+Larsson (22)
+
+2008
+
+Finland
+
+50–69
+
+Men
+
+1985–1988
+
+26,556
+
+13.6
+
+Fatal/nonfatal stroke
+
+Discharge diagnoses and death certiﬁcates
+
+FFQ
+
+(ICD-8, -9, -10)
+
+Umesawa (23)
+
+2008
+
+Japan
+
+40–79
+
+Men/women
+
+1988–1990
+
+58,730
+
+12.7
+
+Fatal CVD, CHD, and
+
+National Vital Statistics (ICD-9)
+
+stroke
+
+Cook (24)
+
+2009
+
+United States
+
+30–54
+
+Men/women
+
+2000
+
+2,275
+
+5
+
+Fatal/nonfatal CVD
+
+Notiﬁcation of outcomes in post-trial
+
+surveillance, review by physician plus
+National Death Index
+
+FFQ (4 ⫻ 3-day
+
+dietary records)
+
+24-h urine
+
+collection
+
+14
+
+15
+
+15
+
+15
+
+18
+
+17
+
+CHD ⫽ coronary heart disease; CVD ⫽ cardiovascular disease; FFQ ⫽ food frequency questionnaire; ICDA ⫽ International Classiﬁcation of Diseases, adapted for use in the United States; MI ⫽ myocardial infarction; MONICA ⫽ Multinational Monitoring of Trends and
+Determinants in Cardiovascular Disease.
+
+JACC Vol. 57, No. 10, 2011
+March 8, 2011:1210–9
+
+outcome assessment method, number (rate) of events, po-
+tassium intake assessment method, and level of potassium
+intake in different categories. Categorization of potassium
+intake differed among studies: some of them reported the
+number of patients exposed and the rate (number) of events
+occurring across categories of potassium intake and some
+others reporting differences in the event rate for a given
+difference in potassium intake (15,16,20,24). Whereas in
+the latter case, the RR or HR reported by the authors was
+used for the analysis, for the studies that stratiﬁed partici-
+pants by categories of potassium intake, the RR for the highest
+versus lowest intake was calculated by comparing the event rate
+in the 2 extreme categories (Table 2).
+Statistical analysis. The quality of the studies included in
+the meta-analysis was evaluated by the Downs and Black
+score system. The adapted quality score system contained 4
+sections: reporting, external validity, internal validity—bias,
+and internal validity—confounding. A higher score was
+considered to be an indicator of better quality, on a scale of
+19 (25).
+
+Relative risks or HRs were extracted from the selected
+publications, and their SEs were calculated from the respec-
+tive conﬁdence intervals (CIs). The value from each study
+and the corresponding SE were transformed into their
+natural logarithms to stabilize the variances and to normal-
+ize their distribution. The pooled RR (and 95% CI) was
+estimated using a random-effect or ﬁxed-effect model,
+weighted for the inverse of the variance (26). The pooled
+estimate from the random-effects model was used if the test
+for heterogeneity was signiﬁcant. The heterogeneity among
+studies was tested by Q statistic and quantiﬁed by H statistic
+and I2 statistic (27). Funnel plot asymmetry was used to
+detect publication bias, and the Egger regression test was
+applied to measure funnel plot asymmetry. In the case of
+signiﬁcant funnel plot asymmetry, suggesting a number of
+possibly “missing” publications, the pooled RR estimate was
+recalculated based on the estimated number of “missing”
+studies and their effect sizes and SEs, a method known as
+“trim and ﬁll” (28,29).
+
+The inﬂuence of individual cohorts, from which the
+meta-analysis estimates were derived, was examined by
+omitting one cohort at a time to see the extent to which
+inferences depend on a particular study or group of studies
+(sensitivity analysis).
+
+Subgroup and meta-regression analyses were used to
+identify associations between risk of stroke, CHD, or CVD
+and relevant study characteristics (sex of participants, coun-
+try of origin, duration of follow-up, method of potassium
+intake assessment, difference in potassium level, and quality
+score and control for baseline BP and body mass index
+[BMI]) as possible sources of heterogeneity.
+
+All statistical analyses were performed using MIX soft-
+ware version 1.7 (30) and Stata version 9.1 (Stata Corp.,
+College Station, Texas) for meta-regression analysis (31).
+
+D’Elia etal.
+Potassium Intake and Cardiovascular Risk
+
+1213
+
+Results
+
+Characteristics of the study cohorts. The relevant features
+of the 11 studies included in the meta-analysis are reported
+in Table 1. Overall, the meta-analysis involved 247,510
+participants from 6 countries (6 studies from the United
+States and 1 each from Finland, Japan, the Netherlands,
+Scotland, and Taiwan). Eight studies recruited both male
+and female participants, whereas 2 studies recruited only
+men and 1 recruited only women. Six studies reported only
+stroke events (fatal or nonfatal), 1 only CVD outcomes, 1
+only fatal and nonfatal CHD, and 3 reported combined
+outcomes. Potassium intake was assessed by food frequency
+questionnaire in 6 studies, 24-h urine excretion in 3 studies,
+and 24-h dietary recall in 2 studies. Average potassium
+intakes ranged between 45 and 85 mmol/day in all but 1
+population, for which a very large average intake of 125
+mmol/day was reported (22). The overall number of inci-
+dent strokes was 7,066 and that of CHD events 3,058. The
+number of events reported simply as CVD events was 2,497.
+Of the 8 studies including both male and female partici-
+pants, 3 reported outcomes separately for men and women
+(15,16,23). The study by Green et al. (19) also included 2
+different cohorts, based on the use of diuretics.
+
+Thus, overall there were 11 cohorts available for the rela-
+tionship between potassium intake and stroke, 6 cohorts
+available for the relationship with CHD, and 4 cohorts for the
+relationship between potassium intake and CVD. The
+weighted average follow-up time was 12.2 years (range 5 to 19
+years).
+Potassium intake and stroke risk. Detailed ﬁgures on
+population size, incident strokes (when possible, total stroke
+incidence was used), and baseline levels of potassium intake
+of the 11 cohorts included in the meta-analysis are given in
+Table 2 (overall, 233,606 participants and 7,066 events)
+(14,15,17–23), and the results of the pooled analysis are
+shown in Figure 2. In the pooled analysis, higher potassium
+intake (average weighted difference: 1.64 g or 42.1 mmol/
+day) was signiﬁcantly associated with lower risk of stroke
+(RR: 0.79; 95% CI: 0.68 to 0.90; z ⫽ 3.38; p ⫽ 0.0007).
+There was signiﬁcant heterogeneity among studies (Q ⫽
+22.0; p ⫽ 0.01; I2 ⫽ 55%), and there was no evidence of
+publication bias by the Egger test (p ⫽ 0.11). As shown in
+Figure 2 for the individual cohorts included in the analysis,
+a trend toward an inverse association between potassium
+intake and stroke risk was detected in 9 cohorts and was
+statistically signiﬁcant
+them. A nonsigniﬁcant
+opposite trend was observed in only 2 cohorts (both small,
+and one involving diuretic therapy). Sensitivity analysis
+showed that the risk of stroke did not vary substantially with
+the exclusion of any individual study.
+
+in 4 of
+
+In addition, we carried out an analysis including the
+results of the NHANES I cohort as reported by Fang et al.
+(13) in place of the report on the same cohort by Bazzano et
+al. (14) (included in the main analysis). The pooled RR only
+changed from 0.79 to 0.75 (95% CI: 0.64 to 0.87; z ⫽ 3.66;
+
+CVD
+—
+
+CHD
+—
+
+Comparison
+
+Potassium Intake
+
+Difference,
+
+g (mmol)/day
+
+Factors Controlled for in Multivariate Analysis
+
+Continuous variable
+
+0.39 (10.0)
+
+Age, SBP or DBP, BMI, total cholesterol, fasting plasma glucose, smoking
+
+Detailed Outcome of the Studies
+
+Detailed Outcome of the Studies
+
+Table 2
+
+First Author
+
+(Ref. #)
+(Year)
+Khaw (15)
+(1987)
+
+Tunstall-Pedoe
+(16) (1997)
+
+Ascherio (17)
+
+(1998)
+
+Iso (18)
+
+(1999)
+
+Events (n)
+
+Cohort (n)
+
+(Ischemic/Hemorrhagic)
+
+Total Strokes
+
+356
+
+503
+5,754
+
+5,875
+43,738
+
+9 (—/—)
+
+15 (—/—)
+
+—
+
+328 (210/70)
+
+Participants
+Men
+
+Women
+Men
+
+Women
+Men
+
+Women
+
+85,764
+
+690 (386/203)
+
+Bazzano (14)
+
+Men/women
+
+9,805
+
+927 (—/—)
+
+(2001)
+
+Green (19)
+
+(2002)
+
+Nonusers of
+diuretics
+
+Users of
+
+diuretics
+
+3,595
+
+1,339
+
+268 (121/33)
+
+165 (78/12)
+
+—
+
+—
+
+—
+
+—
+
+—
+
+1
+2
+1
+4
+
+D
+’
+E
+
+l
+i
+
+a
+e
+t
+a
+l
+.
+
+P
+o
+t
+a
+s
+s
+i
+u
+m
+
+I
+n
+t
+a
+k
+e
+
+a
+n
+d
+
+i
+
+C
+a
+r
+d
+o
+v
+a
+s
+c
+u
+a
+r
+
+l
+
+J
+A
+C
+C
+
+V
+o
+l
+.
+
+5
+7
+
+,
+
+N
+o
+.
+
+1
+0
+
+,
+
+2
+0
+1
+1
+
+M
+a
+r
+c
+h
+
+8
+
+,
+
+2
+0
+1
+1
+
+:
+
+1
+2
+1
+0
+–
+9
+
+404
+
+177
+—
+
+Interquintile
+difference
+
+Quintile (V vs. I)
+
+0.88 (22.7)
+
+Age
+
+0.74 (19.1)
+1.90 (48.7)
+
+Age, hypertension, BMI, energy intake, smoking, alcohol,
+
+hypercholesterolemia, parental history of MI at age ⬍65 yrs, profession,
+exercise, ﬁber and magnesium intake
+
+R
+i
+s
+k
+
+—
+
+Quintile (V vs. I)
+
+1.54 (39.4)
+
+Age, smoking, for ischemic stroke: time interval, hypertension, diabetes,
+
+hypercholesterolemia, BMI, alcohol, menopausal status and post-
+menopausal hormone use, exercise, aspirin/multivitamin/vitamin E use,
+␻-3/magnesium/calcium intake
+
+1,847
+
+Quartile (IV vs. I)
+
+2.66 (68.2)
+
+Age, race, sex, SBP, total cholesterol, BMI, diabetes, exercise, education,
+
+alcohol, smoking, vitamin supplement, saturated fat/energy/cholesterol/
+sodium/calcium/ﬁber/vitamin C and A intake
+
+—
+
+Quintile (V vs. I)
+
+2.43 (62.3)
+
+Age, sex, diabetes, hypertension, CHD, congestive heart failure,
+
+atrial ﬁbrillation, SBP, serum creatinine, potassium supplement
+
+Geleijnse (20)
+
+Men/women
+
+1,448
+
+181
+
+217
+
+206
+
+Continuous variable
+
+0.86 (22.0)
+
+Age, sex, creatinine and sodium excretion, BMI, smoking, diabetes,
+
+(2007)
+Weng (21)
+(2008)
+
+Men/women
+
+1,772
+
+— (132/—)
+
+—
+
+—
+
+Quartile (IV⫹III vs. I)
+
+1.49 (38.2)
+
+diuretic use, education, energy intake, alcohol, calcium, saturated fat
+Age, sex, BMI, hypertension, therapy, diabetes, central obesity, alcohol,
+
+smoking, sex–smoking interaction, CHD, hypercholesterolemia,
+hypertriglyceridemia, exercise, ﬁbrinogen, apoB, plasminogen,
+geographic area
+
+Larsson (22)
+
+Men
+
+26,556
+
+3,365 (2,702/579)
+
+—
+
+—
+
+Quintile (V vs. I)
+
+1.95 (49.9)
+
+Age, supplementation group, smoking, BMI, SBP and DBP, total cholesterol,
+
+(2008)
+
+Umesawa (23)
+
+Men
+
+23,119
+
+986 (510/380)
+
+1,066
+
+233
+
+Quintile (V vs. I)
+
+1.29 (33.0)
+
+HDL cholesterol, diabetes, CHD, exercise, alcohol, energy intake
+
+Age, BMI, smoking, alcohol, hypertension, diabetes, menopause, hormone
+therapy, exercise, education, mental stress, calcium and sodium intake
+
+(2008)
+
+Cook (24)
+(2009)
+
+Women
+Men/women
+
+35,611
+2,275
+
+—
+
+1,021
+193
+
+191
+—
+
+Continuous variable
+
+1.95 (50.0)
+
+Age, race, sex, clinic, treatment, education, baseline weight, changes in
+
+weight, smoking, alcohol, exercise, family history of CVD, sodium
+excretion
+
+BMI ⫽ body mass index; DBP ⫽ diastolic blood pressure; HDL ⫽ high-density lipoprotein; SBP ⫽ systolic blood pressure; other abbreviations as in Table 1.
+
+JACC Vol. 57, No. 10, 2011
+March 8, 2011:1210–9
+
+D’Elia etal.
+Potassium Intake and Cardiovascular Risk
+
+1215
+
+Figure 2
+
+Risk of Stroke
+
+Forest plot of the risk of incident stroke associated with higher potassium intake compared with lower potassium intake in 11 population cohorts
+from published prospective studies. Results are expressed as relative risk and 95% conﬁdence intervals (CIs).
+
+p ⫽ 0.0003). There was a signiﬁcant heterogeneity among
+studies (Q ⫽ 39.3; p ⫽ 0.0002; I2 ⫽ 67%) but no evidence
+of publication bias (Egger test; p ⫽ 0.13).
+Potassium intake and CHD risk. Data on population size,
+incident CHD, and baseline levels of potassium intake of the
+6 cohorts included in the analysis are given in Table 2 (overall
+81,612 participants and 3,058 events) (14,16,20,23). In the
+pooled analysis, there was a trend toward an inverse association
+between higher potassium intake (average weighted difference:
+1.38 g or 35.3 mmol/day) and risk of CHD (RR: 0.92; 95%
+CI: 0.81 to 1.04; z ⫽ 1.35), which was not statistically
+signiﬁcant (p ⫽ 0.18) (Fig. 3). There was moderate nonstatis-
+tically signiﬁcant heterogeneity among studies (Q ⫽ 9.1; p ⫽
+0.10; I2 ⫽ 45%). There was no evidence of publication bias
+by the Egger test (p ⫽ 0.51), but the “trim and ﬁll” method
+identiﬁed 1 possibly missing study, modifying the pooled
+estimate to an RR of 0.94, with 95% CI of 0.81 to 1.10. The
+evaluation of individual studies showed a trend toward an
+inverse association between potassium intake and CHD risk
+in 4 cohorts, with signiﬁcantly lower risk in 2, whereas a
+nonsigniﬁcant opposite trend was observed in 2 small
+cohorts. Sensitivity analysis showed that the exclusion of a
+single study (23) led to a pooled estimate of RR of 0.93
+(95% CI: 0.87 to 0.99), which was statistically signiﬁcant
+(p ⫽ 0.03).
+Potassium intake and CVD risk. Detailed ﬁgures on
+population size,
+incident CVD, and baseline levels of
+potassium intake of the 4 cohorts included in this analysis
+
+are given in Table 2 (overall 62,453 participants and 2,497
+events) (20,23,24). In the pooled analysis, there was a trend
+toward an inverse relationship between higher potassium
+intake (average weighted difference: 1.30 g or 33.4 mmol/
+day) and CVD risk (RR: 0.85; 95% CI: 0.62 to 1.16; z ⫽
+1.01), which was not statistically signiﬁcant (p ⫽ 0.31)
+(Fig. 4). There was signiﬁcant heterogeneity among studies
+(Q ⫽ 10.3; p ⫽ 0.02; I2 ⫽ 71%) and no evidence of
+publication bias (Egger test; p ⫽ 0.40). The evaluation of
+individual studies showed a trend toward an inverse associ-
+ation between potassium intake and CVD risk in 3 cohorts,
+with signiﬁcantly lower relative risk in one of them. A
+nonsigniﬁcant opposite trend was observed in 1 small cohort.
+Sensitivity analysis showed that the exclusion of a single study
+(20) led to a pooled estimate of RR of 0.74 (95% CI: 0.60 to
+0.91; p ⫽ 0.0037). After exclusion of this cohort, there was no
+study heterogeneity (Q ⫽ 1.51; p ⫽ 0.47; I2 ⫽ 0%).
+Source of heterogeneity. Further analyses were carried
+out to check for potential sources of heterogeneity that
+may have affected the association between dietary potas-
+sium and vascular outcomes. Subgroup analysis was used
+for categoric variables and meta-regression for continu-
+ous variables.
+
+SUBGROUP ANALYSIS. We explored the inﬂuence of sex,
+method of potassium intake assessment, and population
+baseline BMI or BP. For all 3 types of vascular events, sex and
+potassium intake assessment (food frequency questionnaire/
+
+1216
+
+D’Elia etal.
+Potassium Intake and Cardiovascular Risk
+
+JACC Vol. 57, No. 10, 2011
+March 8, 2011:1210–9
+
+Figure 3
+
+Risk of CHD
+
+Forest plot of the risk of incident coronary heart disease (CHD) associated with higher potassium intake compared with lower potassium intake in
+6 population cohorts from 4 published prospective studies. Results are expressed as relative risk and 95% conﬁdence intervals (CIs).
+
+24-h dietary recall or urine collection) were not signiﬁcant
+sources of heterogeneity (Table 3). Separate analysis of the
+studies reporting RR estimates adjusted for baseline BP or
+hypertension status conﬁrmed the inverse association be-
+tween potassium intake and risk of stroke (10 cohorts;
+pooled RR: 0.76 [95% CI: 0.66 to 0.87]; p ⬍ 0.0001; Q ⫽
+16.9; p ⫽ 0.05; I2 ⫽ 47%) (14,15,17–19,21–23); similar results
+were obtained from separate analysis of the studies that
+adjusted for baseline BMI or body weight (9 cohorts; RR: 0.79
+
+[95% CI: 0.69 to 0.91]; p ⫽ 0.001; Q ⫽ 16.3; p ⫽ 0.04; I2 ⫽
+51%) (14,15,17,18,20–23) (Online Appendix).
+
+META-REGRESSION ANALYSIS: STROKE. Meta-regression
+analysis (Table 4) indicated no inﬂuence of the study quality
+score, length of follow-up, population potassium intake at
+baseline, recruitment year, and between-group difference in
+potassium intake on the inverse association between potas-
+sium intake and risk of stroke.
+
+Figure 4
+
+Risk of CVD
+
+Forest plot of the risk of incident cardiovascular disease (CVD) associated with higher potassium intake compared with lower potassium intake in
+4 population cohorts from 3 published prospective studies. Results are expressed as relative risk and 95% conﬁdence intervals (CIs).
+
+JACC Vol. 57, No. 10, 2011
+March 8, 2011:1210–9
+
+D’Elia etal.
+Potassium Intake and Cardiovascular Risk
+
+1217
+
+Subgroup Analysis
+
+Table 3
+
+Subgroup Analysis
+
+Variables (n cohorts)
+
+Pooled RR
+
+95% CI
+
+Heterogeneity (p Value)
+
+Stroke
+Sex
+
+Potassium intake assessment
+
+CHD
+
+Sex
+
+Potassium intake assessment
+
+Men (3)
+Women (2)
+FFQ (7)
+Dietary recall (3)
+
+Men (2)
+Women (2)
+FFQ/dietary recall (3)
+Urine collection (3)
+
+0.81
+0.70
+0.80
+0.68
+
+0.91
+0.65
+0.69
+0.93
+
+0.64–1.02
+0.48–1.02
+0.68–0.93
+0.55–0.83
+
+0.83–0.99
+0.30–1.41
+0.39–1.23
+0.85–1.00
+
+0.50
+
+0.18
+
+0.39
+
+0.31
+
+CI ⫽ conﬁdence interval; RR ⫽ relative risk; other abbreviations as in Table 1.
+
+META-REGRESSION ANALYSIS: CHD. The results of meta-
+regression analyses (Table 4) indicated that potassium
+intake difference, length of follow-up, quality score, recruit-
+ment year, and population potassium intake at baseline were
+not signiﬁcant sources of heterogeneity in the relationship
+of the potassium intake effect on the risk of CHD.
+META-REGRESSION ANALYSIS: CVD. Meta-regression analy-
+sis (Table 4) showed that the length of follow-up (coefﬁ-
+cient: ⫺0.064 [95% CI: ⫺0.112 to ⫺0.015]; p ⫽ 0.01) and
+quality score (coefﬁcient: ⫺0.165 [95% CI: ⫺0.287 to
+⫺0.043]; p ⫽ 0.01) were signiﬁcant sources of heterogene-
+ity. The estimated between-study variance was reduced
+from 0.074 to 0.0035 (length of follow-up) and 0.0023
+(quality score).
+
+Discussion
+
+The present meta-analysis assessed the effects of dietary
+potassium on cardiovascular end points in a sample of nearly
+250,000 individuals, pooled from 11 published studies, the
+
+Meta-Regression Analysis
+
+Table 4 Meta-Regression Analysis
+
+largest studied so far. The results indicated that an average
+increase of 1.64 g (42 mmol) of potassium per day is
+associated with a 21% reduced risk of stroke, suggesting an
+important protective role. This ﬁnding was strengthened by
+the detection of a signiﬁcant protective effect in as many as
+4 of the 11 individual cohorts included in the analysis and by
+the observation that a (not signiﬁcant) opposite trend was
+reported in only 2 small cohorts. The protective effect of
+potassium against the risk of stroke may conceivably relate
+to its BP-lowering effect, particularly in hypertensive indi-
+viduals and in those with elevated sodium intake. Never-
+theless, because all of the studies included in the analysis
+reported an estimate of risk adjusted for baseline BP or
+hypertension status—and our subgroup analysis showed the
+independence of the effects of potassium from baseline BP
+and other confounders—it appears that at least part of the
+effect of potassium might be based on different mechanisms.
+High-potassium diets were reported to inhibit free radical
+formation and to reduce the production of vascular and
+plasma lipid peroxides in stroke-prone spontaneously hy-
+
+Stroke (n ⫽ 11 for each)
+
+Potassium intake difference
+Average potassium intake
+Length of follow-up
+Quality score
+Recruitment time
+CHD (n ⫽ 6 for each)
+
+Potassium intake difference
+Average potassium intake
+Length of follow-up
+Quality score
+Recruitment time
+CVD (n ⫽ 4 for each)
+
+Potassium intake difference
+Average potassium intake
+Length of follow-up
+Quality score
+Recruitment time
+
+Abbreviations as in Tables 1 and 3.
+
+Coefﬁcient
+
+SE
+
+p Value
+
+95% CI
+
+0.001
+0.001
+⫺0.011
+⫺0.010
+0.012
+
+0.037
+⫺0.002
+⫺0.002
+⫺0.020
+⫺0.003
+
+⫺0.023
+⫺0.044
+⫺0.064
+⫺0.165
+⫺0.021
+
+0.004
+0.003
+0.019
+0.052
+0.010
+
+0.078
+0.003
+0.011
+0.042
+0.009
+
+0.013
+0.023
+0.024
+0.062
+0.039
+
+0.72
+0.93
+0.56
+0.84
+0.23
+
+0.64
+0.55
+0.84
+0.63
+0.76
+
+0.07
+0.06
+0.01
+0.01
+0.59
+
+⫺0.007 to 0.009
+⫺0.006 to 0.006
+⫺0.050 to 0.027
+⫺0.113 to 0.092
+⫺0.007 to 0.032
+
+⫺0.117 to 0.190
+⫺0.007 to 0.004
+⫺0.025 to 0.020
+⫺0.102 to 0.061
+⫺0.021 to 0.015
+
+⫺0.048 to 0.002
+⫺0.089 to 0.001
+⫺0.112 to ⫺0.015
+⫺0.287 to ⫺0.043
+⫺0.098 to 0.056
+
+1218
+
+D’Elia etal.
+Potassium Intake and Cardiovascular Risk
+
+JACC Vol. 57, No. 10, 2011
+March 8, 2011:1210–9
+
+pertensive rats (32,33), to inhibit vascular smooth muscle
+cell proliferation in vitro (34), and to reduce aortic wall
+thickening in stroke-prone spontaneously hypertensive rats
+by increasing the release of growth-inhibiting agents (35).
+More recently, a high-potassium diet was shown to exert a
+protective effect against the development of vascular damage
+induced by salt loading, at least in part through suppression
+of the production of reactive oxygen species (36). This large
+body of evidence from experimental studies provides further
+biologic plausibility to the possible protective effect of
+dietary potassium against cardiovascular events.
+
+Our study also showed a trend toward RR reduction for
+CHD and CVD in the pooled analysis for individuals
+consuming a higher-potassium diet: for both outcomes, this
+trend was not statistically signiﬁcant. In both cases, how-
+ever, statistical signiﬁcance was achieved upon exclusion of
+a single cohort on the basis of sensitivity analysis, with
+reductions of 7% in the risk of CHD and 26% in the risk of
+total CVD being associated with differences in potassium
+intake of 1.4 and 1.3 g per day, respectively. Our ﬁndings
+add to the results of a recent intervention study using a
+potassium-enriched salt that detected a long-term positive
+effect of increased potassium intake on cardiovascular mor-
+tality in elderly men in northern Taiwan (37).
+
+Potassium is particularly abundant in fruits and vegeta-
+bles. A greater fruit and vegetable consumption has already
+been shown to protect against the occurrence of stroke.
+According to the meta-analysis by He et al. (38), 5 or more
+servings of fruit and vegetables per day are associated with a
+26% lower rate of stroke compared with 3 or fewer servings.
+In that study, the association was similar for ischemic and
+hemorrhagic stroke. Thus, the present meta-analysis points
+to potassium as one of the factors responsible for the
+beneﬁcial effect of high vegetable and fruit consumption, at
+least for ischemic stroke.
+Study limitations. Our analysis showed a signiﬁcant het-
+erogeneity among the studies in terms of sample size,
+duration of observation, number of events, and difference in
+dietary potassium intake between the groups being com-
+pared. This heterogeneity led to a reduced statistical power
+in detecting a possible association between dietary potas-
+sium and CHD and CVD. For this reason, although
+statistical evidence in favor of an effect of higher potassium
+intake on risk of CHD and total cardiovascular events was
+actually obtained after the exclusion of outliers based on
+sensitivity analysis, we acknowledge that the evidence in
+favor of the protective effect of potassium against CHD and
+CVD is less robust and not conclusively proven.
+
+A further limitation was given by the inaccurate estimates
+of habitual potassium intake that was available for all studies
+only at baseline. In addition, none of the methods available
+for the evaluation of potassium intake provided 100%
+accurate estimates, the best one being 24-h urine collection,
+which was adopted in only 3 studies. Inaccurate estimates of
+habitual potassium intake introduce a regression dilution
+bias, which is expected to reduce the probability to detect
+
+true biologic associations, and thus may have led to under-
+estimating the reduction in the risk of stroke and other
+vascular events associated with a higher-potassium diet.
+
+Also, the lack of potential confounders in the analyses
+presented in the single study reports is a limitation of our
+study. For instance, only 4 studies reported an estimate of
+risk adjusted for sodium intake (14,20,23,24), the most
+relevant confounding factor of the potassium effect.
+
+Finally, although subgroup and meta-regression analysis
+failed to identify duration of exposure, sex, baseline BP or
+hypertensive status, or BMI or obesity status as factors
+contributing to heterogeneity of the study results, the
+number of studies included in the analysis, particularly for
+the CHD and CVD outcomes, may have been too small to
+allow a conclusive evaluation of the effect of these different
+factors.
+Implications. According to a recently published meta-
+analysis of the relationship of sodium intake to the risk of
+stroke (39), a 5 g or 85mmol/day lower dietary sodium
+intake is associated with a reduction in the risk of stroke of
+23%. This value is similar to the risk reduction (21%)
+observed in the present analysis for a 1.64 g or 42 mmol/day
+higher potassium intake. This risk reduction would be
+translated into a reduction of as many as 1,155,000 stroke
+deaths per year on a worldwide scale and is expected to
+produce overall health beneﬁts by reducing the impact of
+disability to an extent similar to that obtained by dietary salt
+reduction. The Seventh Report of the Joint National Com-
+mittee on Prevention, Detection, Evaluation, and Treat-
+ment of High Blood Pressure guidelines recommended an
+intake of 100 mmol or more potassium per day (40). In all
+of the populations that were the object of the present
+meta-analysis, the average potassium intake was far lower
+than this. Potassium intake may be increased by well-
+described dietary changes, mainly an increase in fruit and
+vegetable consumption, as recommended by all guidelines
+for CVD prevention and treatment, as well as by national
+guidelines for healthy nutrition in the general population.
+
+Conclusions
+
+Increasing dietary potassium intake is expected to exert a
+protective effect against stroke and might also reduce the
+incidence of CHD and total CVD. These results apply to
+the general population, not only to speciﬁc subgroups at
+higher risk. The favorable effects of dietary potassium were
+documented at least to some extent independently of other
+factors. Efforts should therefore be made to favor the
+synergy with other nutritional- or lifestyle-related preven-
+tive measures.
+
+Reprint requests and correspondence: Prof. Pasquale Strazzullo,
+Department of Clinical and Experimental Medicine, “Federico II”
+University Medical School, via S. Pansini, 5, 80131 Naples, Italy.
+E-mail: strazzul@unina.it.
+
+JACC Vol. 57, No. 10, 2011
+March 8, 2011:1210–9
+
+REFERENCES
+
+1. Ambard L, Beaujard E. Causes de l’hypertension arterielle. Arch Gen
+
+Med 1904;1:520–33.
+
+2. Whelton PK, He J. Potassium supplementation. In: Whelton PK, He
+J, Louis GT, editors. Lifestyle Modiﬁcation for the Prevention and
+Treatment of Hypertension. New York, NY: Marcel Dekker, Inc.,
+2003:185–95.
+
+3. Ascherio A, Rimm EB, Giovannucci EL, et al. A prospective study of
+nutritional factors and hypertension among US men. Circulation
+1992;86:1475–84.
+
+4. Whelton PK, He J, Cutler JA, et al. Effect of oral potassium on blood
+pressure meta-analysis of randomized controlled clinical trials. JAMA
+1997;277:1624–32.
+
+5. Grimm RH Jr, Neaton JD, Elmer PJ, et al. The inﬂuence of oral
+potassium chloride on blood pressure in hypertensive men on a
+low-sodium diet. N Engl J Med 1990;322:569–74.
+
+6. Dickinson HO, Nicolson DJ, Campbell F, Beyer FR, Manson J.
+Potassium supplementation for the management of primary hyperten-
+sion in adults. Cochrane Database Syst Rev 2006;3:CD004641.
+
+7. Obel AO. Placebo-controlled trial of potassium supplements in black
+patients with mild essential hypertension. J Cardiovasc Pharmacol
+1989;14:294–6.
+
+8. Siani A, Strazzullo P, Giacco A, Pacioni D, Celentano E, Mancini M.
+Increasing the dietary potassium intake reduces the need for antihy-
+pertensive medication. Ann Intern Med 1991;115:753–9.
+
+9. Lewington S, Clarke R, Qizilbash N, Peto R, Collins R. Age-speciﬁc
+relevance of usual blood pressure to vascular mortality: a meta-analysis
+of individual data for one million adults in 61 prospective studies.
+Lancet 2002;360:1903–13.
+
+10. Tobian L, Lange J, Ulm K, Wold L, Iwai J. Potassium reduces cerebral
+hemorrhage and death in hypertensive rats even when blood pressure
+is not lowered. Hypertension 1985;7 Suppl 1:110–4.
+
+11. Tobian L, Macneil D, Johnson MA, Ganguli MC, Iwai J. Potassium
+protection against lesions of the renal tubules arteries and glomeruli
+and nephron loss in salt-loaded Dahl rats. Hypertension 1984;6 Suppl
+1:170–6.
+
+12. Moher D, Cook DJ, Eastwood S, Olkin I, Rennie D, Stroup DF.
+Improving the quality of reports of meta-analyses of randomised
+controlled trials: the QUOROM statement. Quality of Reporting of
+Meta-analyses. Lancet 1999;354:1896–900.
+
+13. Fang J, Madhavan S, Alderman MH. Dietary potassium intake and
+
+stroke mortality. Stroke 2000;31:1532–7.
+
+14. Bazzano LA, He J, Ogden LG, et al. Dietary potassium intake and
+risk of stroke in US men and women National Health and Nutrition
+Examination Survey I Epidemiologic Follow-Up Study. Stroke 2001;
+32:1473–80.
+
+15. Khaw K, Barrett-Connor E. Dietary potassium and stroke-associated
+
+mortality. N Engl J Med 1987;316:235–40.
+
+16. Tunstall-Pedoe H, Woodward M, Tavendale R, Brook RA, McClus-
+key MK. Comparison of the prediction by 27 different factors of
+coronary heart disease and death in men and women of the Scottish
+Heart Health Study: cohort study. BMJ 1997;315:722–9.
+
+17. Ascherio A, Rimm EB, Hernan MA, et al. Intake of potassium,
+magnesium, calcium, and ﬁber and risk of stroke among US men.
+Circulation 1998;98:1198–204.
+
+18. Iso H, Stampfer MJ, Manson JE, et al. Prospective study of calcium,
+potassium, and magnesium intake and risk of stroke in women. Stroke
+1999;30:1772–9.
+
+19. Green DM, Ropper AH, Kronmal RA, Psaty BM, Burke GL.
+Cardiovascular Health Study. Serum potassium level and dietary
+potassium intake as risk factors for stroke. Neurology 2002;59:314–20.
+20. Geleijnse JM, Witteman JC, Stijnen T, Kloos MW, Hofman A,
+Grobbee DE. Sodium and potassium intake and risk of cardiovascular
+events and all-cause mortality: the Rotterdam Study. Eur J Epidemiol
+2007;22:763–70.
+
+21. Weng LC, Yeh WT, Bai CH, et al. Is ischemic stroke risk related to
+folate status or other nutrients correlated with folate intake? Stroke
+2008;39:3152–8.
+
+D’Elia etal.
+Potassium Intake and Cardiovascular Risk
+
+1219
+
+22. Larsson SC, Virtanen MJ, Mars M, et al. Magnesium, calcium,
+potassium, and sodium intakes and risk of stroke in male smokers.
+Arch Intern Med 2008;168:459–65.
+
+23. Umesawa M, Iso H, Date C, et al. Relations between dietary sodium
+and potassium intakes and mortality from cardiovascular disease: the
+Japan Collaborative Cohort Study for Evaluation of Cancer Risks.
+Am J Clin Nutr 2008;88:195–202.
+
+24. Cook NR, Obarzanek E, Cutler JA, et al., Trials of Hypertension
+Prevention Collaborative Research Group. Joint effects of sodium and
+potassium intake on subsequent cardiovascular disease. The Trials of
+Hypertension Prevention Follow-up Study. Arch Intern Med 2009;
+169:32–40.
+
+25. Downs SH, Black N. The feasibility of creating a checklist for the
+assessment of the methodological quality both of randomised and
+non-randomised studies of health care interventions. J Epidemiol
+Community Health 1998;52:377–84.
+
+26. Dersimonian R, Laird N. Meta-analysis in clinical trials. Control Clin
+
+Trials 1986;7:177–88.
+
+27. Higgins JP, Thompson SG, Deeks JJ, Altman DG. Measuring
+
+inconsistency in meta-analyses. BMJ 2003;327:557–60.
+
+28. Egger M, Davey SG, Schneider M, Minder C. Bias in meta-analysis
+
+detected by a simple, graphical test. BMJ 1997;315:629–34.
+
+29. Sutton AJ, Duval SJ, Tweedie RL, Abrams KR, Jones DR. Empirical
+assessment of effect of publication bias on meta-analyses. BMJ
+2000;320:1574–7.
+
+30. Bax L, Yu LM, Ikeda N, Tsuruta H, Moons KG. Development and
+validation of MIX: comprehensive free software for meta-analysis of
+causal research data. BMC Med Res Methodol 2006;6(50).
+
+31. Berkey CS, Hoaglin DC, Mosteller F, Colditz GA. A random-effects
+
+regression model for meta-analysis. Stat Med 1995;14:395–411.
+
+32. Ishimitsu T, Tobian L, Sugimoto K, Everson T. High potassium diets
+reduce vascular and plasma lipid peroxides in stroke-prone spontane-
+ously hypertensive rats. Clin Exp Hypertens 1996;18:659–73.
+
+33. McCabe RD, Bakarich MA, Srivastava K, Young DB. Potassium
+
+inhibits free radical formation. Hypertension 1994;24:77–82.
+
+34. McCabe RD, Young DB. Potassium inhibits cultured vascular smooth
+
+muscle cell proliferation. Am J Hypertens 1994;7(4 Pt 1):346–50.
+
+35. Sugimoto K, Tobian L, Ishimitsu T, Lange J. High potassium diets
+greatly increase the release of growth-inhibiting agents from aortae of
+stroke prone spontaneously hypertensive rats thereby partially explain-
+ing reduced aortic wall thickening. J Hypertens 1991;9 Suppl 6:176–7.
+36. Kido M, Ando K, Onozato ML, et al. Protective effect of dietary
+potassium against vascular injury in salt-sensitive hypertension. Hy-
+pertension 2008;51:225–31.
+
+37. Chang H-Y, Hu YW, Yue CS, et al. Effect of potassium-enriched salt
+on cardiovascular mortality and medical expenses of elderly men. Am J
+Clin Nutr 2006;83:1289–96.
+
+38. He FJ, Nowson CA, MacGregor CA. Fruit and vegetable consump-
+tion and stroke: meta-analysis of cohort studies. Lancet 2006;367:
+320–6.
+
+39. Strazzullo P, D’Elia L, Kandala N-B, Cappuccio FP. Salt intake,
+stroke and cardiovascular disease: a meta-analysis of prospective
+studies. BMJ 2009;339:b4567.
+
+40. Chobanian AV, Bakris GL, Black HR et al., National Heart, Lung,
+and Blood Institute Joint National Committee on Prevention, Detec-
+tion, Evaluation, and Treatment of High Blood Pressure, National
+High Blood Pressure Education Program Coordinating Committee.
+The Seventh Report of the Joint National Committee on Prevention,
+Detection, Evaluation, and Treatment of High Blood Pressure: the
+JNC 7 report. JAMA 2003;289:2560–72.
+
+Key Words: cardiovascular disease y coronary heart disease y meta-
+analysis y potassium intake y stroke.
+
+APPENDIX
+
+For a table on the analysis of the stroke risk including the studies adjusted
+for baseline BP or hypertension status and baseline BMI or body weight,
+please see the online version of this article.
+
+

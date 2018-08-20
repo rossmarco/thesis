@@ -1,0 +1,1736 @@
+Effect of an Indo-Mediterranean diet on progression of coronary
+artery disease in high risk patients (Indo-Mediterranean Diet Heart
+Study): a randomised single-blind trial
+
+ARTICLES
+
+Ram B Singh, Gal Dubnov, Mohammad A Niaz, Saraswati Ghosh, Reema Singh, Shanti S Rastogi, Orly Manor, Daniel Pella,
+Elliot M Berry
+
+Background The  rapid  emergence  of  coronary  artery  disease
+(CAD) in south Asian people is not explained by conventional
+risk 
+In  view  of  cardioprotective  effects  of  a
+Mediterranean style diet rich in ␣-linolenic acid, we assessed
+the benefits of this diet for patients at high risk of CAD.
+
+factors. 
+
+Methods We  did  a  randomised,  single-blind  trial  in  1000
+patients  with  angina  pectoris,  myocardial 
+infarction,  or
+surrogate risk factors for CAD. 499 patients were allocated to a
+diet  rich  in  whole  grains,  fruits,  vegetables,  walnuts,  and
+almonds.  501  controls  consumed  a  local  diet  similar  to  the
+step I National Cholesterol Education Program (NCEP) prudent
+diet.
+
+Findings The  intervention  group  consumed  more  fruits,
+vegetables, legumes, walnuts, and almonds than did controls
+(573  g  [SD  127]  vs 231  g  [19]  per  day  p<0·001).  The
+intervention  group  had  an  increased  intake  of  whole  grains 
+and  mustard  or  soy  bean  oil. The  mean 
+intake  of 
+␣-linolenic  acid  was  two-fold  greater  in  the  intervention  group
+(1·8 g [SD 0·4] vs 0·8 g [0·2] per day, p<0·001). Total cardiac
+end  points  were  significantly  fewer  in  the  intervention  group
+than the controls (39 vs 76 events, p<0·001). Sudden cardiac
+deaths  were  also  reduced  (6  vs 16,  p=0·015),  as  were  non-
+fatal myocardial infarctions (21 vs 43, p<0·001). We noted a
+significant  reduction  in  serum  cholesterol  concentration  and
+other  risk  factors  in  both  groups,  but  especially  in  the
+intervention  diet  group.  In  the  treatment  group,  patients  with
+pre-existing  CAD  had  significantly  greater  benefits  compared
+with such patients in the control group.
+
+Interpretation An  Indo-Mediterranean  diet  that  is  rich  in 
+␣-linolenic  acid  might  be  more  effective  in  primary  and
+secondary prevention of CAD than the conventional step I NCEP
+prudent diet. 
+
+Lancet 2002; 360: 1455–61
+
+Centre of Nutrition and Heart, Medical Hospital and Research
+Centre, Moradabad, India (Prof R B Singh MD, M A Niaz PhD,
+S Ghosh PhD, R Singh PhD, S S Rastogi MD); Department of Human
+Nutrition and Metabolism (G Dubnov MD, Prof E M Berry MD), School
+of Public Health and Community Medicine, Hebrew University
+Hadassah Medical School, Jerusalem, 91120 Israel (O Manor PhD);
+and Safaric University, Kosice, Slovakia (D Pella MD)
+Correspondence to: Prof E M Berry
+(e-mail: berry@md.huji.ac.il)
+
+Introduction
+People  of  south-Asian  origin  who  live  in  developed
+countries have an increased mortality rate and susceptibility
+to  coronary  artery  disease  (CAD)  compared  with
+indigenous populations.1–3 The prevalence of CAD is 10%
+in urban dwellers, but is low in rural dwellers (3–4%) and
+the lower social classes (1–3%) who consume a diet based
+on  cereal.  The  risk  shows  a  graded  increase  in  urban
+dwellers,  high  social  classes,  and  immigrants,  which  is
+linked  to  pronounced  differences  in  diet  and  lifestyle.1,2,4,5
+However, the greater susceptibility of people of south-Asian
+origin to CAD is not explained by conventional risk factors,
+such  as  cholesterol  and  obesity,  alone.2,3 Results  from  the
+seven  countries  study6 showed  that  such  differences  in
+coronary risk can be explained partly by antioxidants in the
+diet, variations in physical activity, and smoking. Data from
+epidemiological  and  cohort  studies7,8 also  showed  that
+increased  consumption  of  fruits,  vegetables  and  legumes,
+grains, nuts, and n-3 fatty acids might be associated with a
+decreased risk of CAD, and deaths attributable to coronary
+disease.  Results  from  randomised  controlled  intervention
+trials9–14 suggest  that  treatment  with  n-3  fatty  acids  and
+antioxidant  rich  foods  such  as  fish,  fruits,  vegetables,
+legumes,  and  nuts  can  reduce  cardiac  events  and  related
+mortality  in  patients  with  CAD.  Evidence  suggests  that
+dietary  patterns  could  well  have  an  effect  on  the
+mechanisms of atherosclerotic plaque vulnerability and the
+progression of thrombosis.15–17
+
+impressive  effects  on 
+
+The scientific advisory committee of the American Heart
+Association  (AHA)  has  stated  that  a  Mediterranean-style
+diet  has 
+the  progression  of
+cardiovascular disease.13 Significant findings from the Lyon
+Heart Study9,10 and other such studies,11,12 have prompted an
+aggressive  pursuit  of 
+the  benefits  of  such  dietary
+modifications in other regions of the world.11,12,15 If the Lyon
+diet  is  also  of  benefit  in  non-Mediterranean  populations,
+such  as  south-Asians,  it  might  provide  an  economically
+feasible  and  realistic  method  to  reduce  CAD  in  these
+regions.  The  AHA  statement13 raised  some  issues  for
+investigators: geographical and non-measured cultural and
+social differences in potential target populations; enhanced
+definition  of  baseline  diets  of  both  trial  groups  at  the
+beginning of the study; enhanced and continuing analysis of
+true dietary patterns throughout studies; and an assessment
+of any changes in combined risk factors during the study.
+We  have  addressed  some  of  these  issues  here.  In  patients
+with  clinical  CAD  or  with  recognised  risk  factors,  we
+assessed the effect of an Indo-Mediterranean diet consisting
+of whole grains including legumes, fruits, vegetables, nuts,
+and mustard or soybean oil.
+
+Methods
+Participants
+We  recruited  participants  through  advertisements 
+in
+newspapers and local service clubs that invited people older
+than  25  years  with  hypercholesterolaemia,  hypertension,
+
+THE LANCET • Vol 360 • November 9, 2002 • www.thelancet.com
+
+1455
+
+For  personal  use.  Only  reproduce  with  permission  from  The  Lancet  Publishing  Group.
+
+ARTICLES
+
+1650 assessed for
+         eligibility
+
+1066 agreed to
+         participate
+
+66 excluded
+  11 for absence of
+       risk factors
+  55 for other
+       reasons
+
+1000 randomised
+
+499 allocated intervention
+       (Indo-Mediterranean)
+       diet
+
+501 allocated control 
+       (StepI NCEP) diet
+
+15 lost to follow-up
+   9 dropouts
+   6 non-cardiac
+      deaths
+
+16 lost to follow-up
+  11 dropouts
+    5 non-cardiac
+       deaths
+
+499 assessed for
+       primary endpoint
+
+501 assessed for
+       primary endpoint
+
+Figure 1: Trial profile
+
+diabetes  mellitus,  or  heart  attack  for  free  medical  advice
+about  diagnosis  and  treatment  of  their  disorders.  Patients
+were enrolled by a dietician and a physician. The diagnostic
+criteria  for  these  cardiovascular  risk  factors  were  those
+standardised by WHO.18 There were between 50 and 150
+respondents  at  each  centre.  Most  respondents  were  from
+social  class  1–3  (including  shopkeepers,  office  workers,
+businessmen,  teachers,  doctors,  engineers,  and  artisans)
+and had sedentary occupations.3–5 The recruitment criterion
+was  one  or  more  of  the  major  risk  factors  for  CAD,18,19
+(hypertension,  hypercholesterolaemia,  or  diabetes  mellitus
+(418)),  or  angina  pectoris  (105)  or  a  previous  myocardial
+infarction (478) in absence or presence of other risk factors.
+Of 1650 people who responded to advertisements from 17
+centres over 4 years, 1066 between ages 28 and 75 years,
+volunteered to participate in the trial (figure 1). 
+
+For  patients  without  a  documented  history,  we  used
+exercise  electrocardiography  after  either  bicycle  ergometry
+(446) or treadmill tests (76) to detect CAD. For the other
+patients (478), a previous record of diagnosis and treatment
+of  myocardial  infarction  was  available.  We  excluded
+patients  because  of:  absence  of  major  risk  factors  (11),
+cancer (7), chronic diarrhoea or dysentery (8), a blood urea
+of  more  than  6·6  mmol/L  (8),  arthritis  (5),  dislike  of  the
+intervention diet (12), refusal of laboratory testing, (9) and
+death before randomisation (6). The  ethics committee at
+the  Medical  Hospital  and  Research  Centre  at  Moradabad
+approved  the  study,  and  we  obtained  written  informed
+consent from all participants.
+
+We classified patients who had a body-mass index (BMI)
+between 25 and 29·9 kg/m2 as overweight, and obesity was
+defined as a BMI of 30 kg/m2 or greater. We defined weight
+loss  as  a  reduction  of  0·5  kg  or  greater.  Patients  who
+completed  less  than  3  km  of  walking  per  day  during
+occupational,  household,  or  leisure  time  activities  were
+
+defined as physically inactive. Hypertension was diagnosed
+if blood pressure was greater than 140 mm Hg systolic or 90
+mm  Hg  diastolic.  Diabetes  mellitus  was  diagnosed  when
+fasting  blood  glucose  concentrations  were  greater  than 
+7·7 mmol/L, and postprandial concentrations were greater
+than 11·1 mmol/L, 2 h after ingestion of 75 g of glucose.
+Alternatively,  patients  were 
+as  having
+hypertension,  or  diabetes  if  a  documented  history  of  their
+diagnosis  and  treatment  was  available.  Hypercholester-
+olaemia was determined by a serum cholesterol greater than
+5·2 mmol/L, with confirmation by a second estimation. All
+patients  with  angina  pectoris  and  myocardial  infarction 
+had  treatment  for  between  10  days  and  1  year,  and  a
+documented  history  of  diagnosis  and 
+in
+accordance with criteria specified by WHO.18
+
+treatment 
+
+classified 
+
+Procedures
+We  met  with  participants  every  week,  for  3  weeks.  To
+establish  baseline  dietary  intake,  we  asked  patients  to
+maintain their usual lifestyle, and to record their daily diet
+and  drug  intake.  Patients  were  required  to  provide  the
+weight of fruit, vegetables, and nuts consumed. Information
+from  the  diaries  was  cross-checked  by  dieticians  who
+questioned  patients  about  household  measures,  food
+models,  and  food  portions  to  find  the  exact  quantity  of 
+food  consumed.  Baseline  clinical,  electrocardiographic,
+radiological,  and  laboratory  data  were  obtained  from
+participants  during  the  3-week  observation.  Every  patient
+was  then  individually  assessed  by  the  dietician  and  a
+physician who made a final decision about eligibility for the
+trial. Participants were then stratified to have a balance of
+patient  characteristics  in  each  intervention  arm.  These
+characteristics included serum total cholesterol greater than
+5·2  mmol/L,  age  older  than  50  years,  and  history  of
+myocardial  infarction  or  angina  pectoris.  Patients  were
+assigned  to  either  the  intervention  or  control  group,  by
+selection of a card from a pile of equal numbers of cards for
+each  group.  The  intervention  group  consisted  of  499
+patients, and the control group 501. Hypolipidaemic drug
+treatment  was  prescribed  at  the  discretion  of  the  treating
+physician.
+
+In  both  groups,  two-thirds  of  patients  were  vegetarian.
+The  remaining  third  ate  two  to  five  eggs,  and  one  to  two
+portions  of  meat  a  week.  All  participants  consumed  milk,
+butter, clarified butter (Indian ghee), and trans fatty acids
+(vegetable  ghee  made  from  partly  hydrogenated  oils).
+Vegetarian  participants  consumed  more  milk,  vegetable
+ghee,  peanut  oil,  and  clarified  butter  than  did  non-
+vegetarians.20 Participants  in  both  groups  were  advised  to
+eat  food  substitutes  that  would  provide  a  dietary  intake
+similar  to  that  recommended  by  the  National  Cholesterol
+Education  Program  (NCEP)21 in  the  step  I  prudent  diet.
+This diet recommends that less than 30% of energy comes
+from  total  fat,  less  than  10%  from  saturated  fat,  and  that
+less  than  300  mg  of  cholesterol  is  consumed  per  day.
+Additionally,  patients  in  the  intervention  group  were
+advised to consume at least 400–500 g of fruits, vegetables,
+and  nuts  per  day,  (ie,  250–300  g  of  fruit,  125–150  g  of
+vegetables, and 25–50 g of walnuts or almonds). This group
+was  also  encouraged  to  eat  400–500 g  of  whole  grains,
+legumes, rice, maize, and wheat) daily, as well as mustard
+seed  or  soy  bean  oil,  in  three  to  four  servings  per  day, 
+which 
+is  consistent  with  recommendations  from  the 
+Indian  Consensus  Group.19 The  aim  of  these  dietary
+recommendations was to provide people in the intervention
+group  with  plenty  of  phytochemicals,  antioxidants,  and 
+␣-linolenic  acid  (the  major  n-3  fatty  acid  in  these  foods).
+Such  recommendations  are  also  made  by  WHO22 and  the
+Indian Consensus Group19 to prevent chronic diseases.
+
+1456
+
+THE LANCET • Vol 360 • November 9, 2002 • www.thelancet.com
+
+For  personal  use.  Only  reproduce  with  permission  from  The  Lancet  Publishing  Group.
+
+Patients  from  both  groups  were  also  advised  to  walk
+briskly for a minimum of 3–4 km, or to jog intermittently for
+a minimum of 10–15 minutes per day. All participants with
+CAD were instructed to take sublingual nitroglycerine and
+cease  exercising  in  the  event  of  chest  pain,  substantial
+sweating,  weakness,  or  dyspnoea.  Smoking  and  alcohol
+consumption were discouraged, and we encouraged mental
+relaxation 
+techniques  and
+breathing  exercises  in  both  groups.  Appropriate  drugs  for
+angina  pectoris,  arrhythmias,  raised  blood  pressure,
+diabetes,  and  other  complications  were  provided  to  both
+groups.
+
+through  yoga  meditation 
+
+Data collection and follow up
+We  calculated  24-h  nutrient  intakes  for  all  patients  with
+Indian  food-composition  tables21 and  patients’  weekly  diet
+diaries. All participants were asked to complete for 1 week a
+record  of  food 
+intake,  and  to  record  occupational,
+household, and leisure time physical activity for weeks 1–4,
+then at weeks 4, 8, 12, and 24, then at 12 week intervals, to
+assess  dietary  adherence  and  exercise  activity.23 In  both
+groups, completed diaries were checked by the dietician on
+every  visit  with  the  help  of  a  questionnaire  that  used
+household  measures  and  food  models,  to  estimate  caloric
+value of food portions and to reinforce dietary adherence.
+Control  patients  were  given  an  information  sheet  on  the
+step I prudent diet at each visit, intervention group patients
+were given a thorough explanation of the usefulness of the
+experimental diet, and the types of food that are rich in n-3
+fatty-acids.  At  all  meetings,  dieticians  provided  additional
+motivation to both groups to adhere to the advice about diet
+and exercise.
+
+Patients with diabetes mellitus, angina pectoris, a history
+of  myocardial  infarction,  or  hypertension  who  visited  the
+physician frequently, received more frequent dietary advice
+during  the  2  years  of  follow  up  than  those  who  did  not. 
+At  every  visit,  bodyweight,  tobacco  use,  and  alcohol
+consumption  were  recorded  by  the  dietician  with  a
+questionnaire, which was identical for both groups.
+
+In both groups, clinical data, drug intake, adverse events,
+coronary events, hospital admission, blood pressure, blood
+glucose,  and  blood  lipids  were  recorded  by  a  physician
+unaware of patient diet. A 12-lead electrocardiograph was
+done every 3 months for patients with CAD and for people
+with  any  symptoms  or  signs  suggestive  of  cardiac
+arrhythmias,  heart  enlargement,  ischaemia,  or  infarction.
+Routine annual electrocardiography was done for all other
+participants. Patients recorded symptoms of angina pectoris
+in  a  diary.  Chronic  left  ventricular  failure,  ventricular
+hypertrophy, dysrhythmias, and positive exercise tests were
+diagnosed  in  accordance  with  standard  criteria,  including
+those  of  the  New  York  Heart  Association  (NYHA  class
+II–IV).
+
+Cardiovascular events
+The principal endpoints of the study were fatal or non-fatal
+myocardial  infarctions,  sudden  cardiac  deaths,  and  the
+combined  total  of  these  events.18 Other  important  events,
+such as the need for coronary angiography, angioplasty, or
+bypass  surgery  were  also  recorded  by  a  cardiologist,  from
+whom the dietary regimens were concealed.
+
+Fatal  myocardial  infarction  was  diagnosed  when  a
+hospital  record  was  consistent  with  cause  of  death,  and
+there  was  either  preterminal  hospital  admission  with  a
+definite  myocardial  infarction,  or  a  record  in  which
+myocardial infarction had been noted. We classified sudden
+cardiac death when coronary heart disease had been noted,
+and  death  occurred  within  1  h  of  onset  of  symptoms.  A
+death  certificate  in  which  background  CAD  had  been
+
+ARTICLES
+
+noted,  but  not  evidence  that  was  suggestive  of  a  cardiac
+death, was classified as a suspected cardiac death. Non-fatal
+myocardial  infarction  in  inpatients  was  diagnosed  if  a
+diagnostic electrocardiograph had been done at the time of
+the event; or if the patient had had ischaemic cardiac pain
+and  diagnostic  enzyme  measurements  (creatine  kinase,
+lactate  dehydrogenase,  or  serum  glutamic  oxalotransferase
+of  at  least  twice  the  higher  limit  of  normal),  or  had  had
+ischaemic cardiac pain and equivocal enzyme measurement
+and  an  equivocal  electrocardiograph.  The  diagnosis 
+of  myocardial  infarction  was  also  considered  in  patients 
+who  had  not  been  admitted  if  they  had  chest  pain,
+breathlessness, 
+diagnostic
+electrocardiograph  at 
+time  of  event,  or  new
+electrocardiographic  changes  consistent  with  myocardial
+infarction  at  routine  check-up.  A  cardiologist  who  did 
+not  have  clinical  information  about  the  dietary  regimens 
+did the electrocardiographic coding and analysis.21 Possible
+myocardial  infarction  was  suspected  in  the  presence  of
+ischaemic 
+enzyme
+concentrations,  or  of  an  unclear  electrocardiograph.  Such
+events  were  not  included  in  the  total  cardiac  events  as
+primary endpoints.
+
+syncope,  with 
+the 
+
+equivocal 
+
+or 
+
+cardiac 
+
+pain 
+
+and 
+
+a 
+
+Laboratory data
+Laboratory data were obtained from all participants during
+the 3-week-long observation, and at 12 and 24 weeks, and
+after 2 years of follow-up. We measured concentrations of
+glucose, total cholesterol, HDL and LDL cholesterol,24 and
+triglycerides,25 and  did  complete  blood  counts.  Total
+
+Intervention diet  Control diet 
+(n=499)
+
+(n=501)
+
+Patients’ characteristics
+Age (years)
+Body weight (kg)
+Body mass index (kg/m2)
+Systolic blood pressure (mm Hg) 
+Diastolic blood pressure (mm Hg) 
+
+49 (10)
+66 (7·5)
+24·3 (3·0)
+
+132 (17)
+86 (10)
+
+Frequency of risk factors
+Male 
+Hypercholesterolaemia
+Hypertension
+Diabetes mellitus
+Smoking
+
+1–15 cigarettes daily
+>15 cigarettes daily
+Ex-smokers
+Overweight 
+Obesity
+
+Drug therapy received
+Aspirin
+Nitrates
+Verapamil
+Lovastatin
+Furosemide
+Disopyramide
+Fibrates
+
+Coronary artery disease
+Post myocardial infarction
+Recent myocardial infarction 
+(<4 weeks)
+Angina pectoris
+Exercise test positive
+Left ventricular hypertrophy
+NYHA class II–IV
+Ventricular ectopics 
+
+>8 per min
+3 consecutively
+
+Stroke 
+Others
+
+454 (91%)
+357 (72%)
+194 (39%)
+93 (19%)
+
+102 (20%)
+152 (31%)
+
+40 (8%)
+
+115 (23%)
+
+24 (5%)
+
+268 (54%)
+202 (41%)
+75 (15%)
+36 (7%)
+32 (6%)
+28 (6%)
+20 (4%)
+
+290 (58%)
+235 (47%)
+177 (36%)
+
+55 (11%)
+242 (49%)
+
+38 (8%)
+23 (5%)
+
+51 (10%)
+11 (2%)
+
+2 (0·4%)
+2 (0·4%)
+
+Data are mean (SD) or number (%).
+Table 1: Baseline characteristics
+
+48 (9)
+66( 7·3)
+24·1 (2·3)
+
+131 (17)
+
+86 (9)
+
+443 (88%)
+368 (74%)
+173 (35%)
+117 (23%)
+
+79 (16%)
+140 (28%)
+
+32 (6%)
+
+111 (22%)
+
+22 (4%)
+
+275 (55%)
+190 (38%)
+82 (16%)
+31 (6%)
+30 (6%)
+32 (6%)
+22 (4%)
+
+293 (59%)
+243 (49%)
+170 (34%)
+
+50 (10%)
+255 (51%)
+
+31 (6%)
+20 (4%)
+
+45 (9%)
+13 (3%)
+
+2 (0·4%)
+2 (0·4%)
+
+THE LANCET • Vol 360 • November 9, 2002 • www.thelancet.com
+
+1457
+
+For  personal  use.  Only  reproduce  with  permission  from  The  Lancet  Publishing  Group.
+
+ARTICLES
+
+Total energy (kCal)
+% CHO
+
+% Complex CHO
+Total fibre, g/day
+Soluble fibre, g/day
+
+% Protein
+% Fat
+
+% Saturated
+% PUFA
+% MUFA
+P/S ratio
+n-3 fatty acids
+
+57·0 (1·8)
+41·2 (2·1)
+25·0 (2·2)
+13 (1)
+14·8 (1·4)
+27·8 (2·1)
+13·0 (1·6)
+
+7·5 (1)
+7·3 (1·6)
+0·58 (0·07)
+0·46 (0·20)
+
+Cholesterol (mg/day)
+Salt (g/day)
+FVL (g/day)
+Grains (g/day)‡
+Oil (g/day)§
+
+209 (22)
+9·0 (1)
+215 (29)
+120 (21)
+
+10·0 (3·5)
+
+Intervention diet (n=499)
+Baseline
+
+2 years
+
+Control diet (n=501)
+
+Mean change* Baseline
+
+2 years
+
+Mean change
+
+Corrected 
+difference†
+
+p value at 
+2 years 
+
+2159 (166)
+
+2015 (141)
+
+–144 
+
+2170 (162)
+
+2089 (135)
+
+–81, p<0·0001
+
+59·5 (1·7)
+48·1 (1·5)
+48·1 (1·5)
+25 (1)
+14·2 (0·9)
+26·3 (2·0)
+8·2 (1·9)
+8·1 (0·8)
+10·0 (1·6)
+
+1·03 (0·22)
+1·79 (0·36)
+
+125 (39)
+8·4 (1)
+573 (127)
+252 (75)
+31 (6·5)
+
++2·5 
++6·9 
++23·1 
++12 
+
+–0·6 
+–1·5 
+–4·8 
++0·6 
++2·7 
++0·45 
++1·33 
+
+–84
+
+–0·6 
+
++358 
++132 
++21 
+
+56·9 (1·8)
+39·5 (1·7)
+25·9 (1·4)
+13·7 (1·0)
+14·6 (1·1)
+28·0 (1·8)
+12·5 (1·3)
+7·4 (0·8)
+8·1 (1·7)
+0·60 (0·07)
+0·53 (0·19)
+
+56·0 (1·3)
+38·7 (1·3)
+25·9 (1·1)
+13·6 (0·5)
+14·9 (0·8)
+29·1 (1·6)
+12·1 (1·6)
+7·4 (0·8)
+9·6 (1·3)
+0·61 (0·04)
+0·78 (0·16)
+
+207 (20)
+
+9·0 (1·0)
+
+207 (23)
+127 (25)
+
+12·4(4·1)
+
+207 (22)
+
+9·5 (1·1)
+
+231 (19)
+132 (31)
+
+15·2 (5·5)
+
+–0·9, p<0·0001 
+–0·7, p<0·0001 
+0, p=0·4
+–0·1, p=0·0524
++0·3, p<0·0001
++1·1, p<0·0001
+–0·4, p=0·0002
+0, p=0·43
++1·5, p<0·00001
++0·01, p<0·0001 
++0·25, p<0·0001 
+
+0, p=0·71
+
++0·5, p<0·0001
+
++24, p<0·0001 
++5, p<0·0001 
++2·8, p<0·0001 
+
+–63 
+
++3·4 
++7·6 
++23·1 
++12·1 
+–0·9 
+–2·6 
+–4·4 
++0·6 
++1·3 
++0·44 
++1·07 
+
+–84
+
+–1·1 
+
++334
++127
+
++18·2
+
+<0·0001
+<0·0001
+<0·0001
+<0·0001
+<0·0001
+<0·0001
+<0·0001
+<0·0001
+<0·0001
+<0·0001
+<0·0001
+<0·0001
+<0·0001
+<0·0001
+<0·0001
+<0·0001
+<0·0001
+
+PUFA=polyunsaturated fatty acids. MUFA=monounsaturated fatty acids. P/S=polyunsaturated to saturated fat ratio. FVL=fruits, vegetables, nuts, and legumes. Data
+presented as mean (SD). *Mean difference of baseline to 2-year value changes between groups, intervention diet minus control diet. †p<0·0001 for all changes.
+‡Whole grains (rice, maize, wheat). §Mustard and/or soybean oils.
+Table 2: Nutrient indices at entry to study and after 2 years
+cholesterol  concentration  was  measured  directly  in  serum
+by enzymatic methods, and HDL cholesterol was measured
+after  precipitation  of  VLDL  and  LDL  cholesterol.  In
+patients with high cholesterol at entry, tests were repeated
+for confirmation. 
+
+Cox’s proportional-hazards model, after adjustment for age,
+sex, BMI, blood pressure, and cholesterol at baseline. Two-
+tailed p values less than 0·05 were judged significant.
+
+Statistical analysis
+We  calculated  sample  size  on  the  basis  of  a  difference
+between  the  two  groups  in  the  total  number  of  cardiac
+events,  assuming  a  14%  risk  in  the  control  group,  an  8%
+risk in the intervention group, a power of 85%, and a two-
+tailed test with ␣=0·05. We estimated the risks in groups  on
+the basis of previous data,11 and expected a reduced rate of
+events    because  of  preventive  measures  taken  in  both
+control and intervention groups.
+
+Data were analysed by intention to treat. We did baseline
+comparisons using a t test for continuous variables and a ␹2
+test  for  binary  variables.  Comparison  of  risk  factors  and
+nutrient intakes after 2 years were done by a test based on
+the values at the end of follow-up, as well as a t test based on
+differences  from  baseline.  These  differences  were  assessed
+twice:  first,  we  included  all  patients  and  used  the  last
+available  records  of  patients  who  were  lost  to  follow-up,
+and, second, we did an analysis which omitted patients lost
+to follow-up. Results of the two analyses did not differ, and
+data  are  therefore  shown  for  the  analysis  that  includes  all
+patients.  Event-free  survival  for  each  endpoint  and  the
+composite outcome of all cardiac events were estimated by
+the  Kaplan-Meier  method.  We  estimated  rate  ratios  with
+
+Results
+Participants  (n=1000)    were  randomly  assigned  to  the
+intervention  diet  (499)  or  control  diet  (501).  Because
+patients were stratified by risk factor or presence of CAD,
+both  groups  were  comparable  for  over  30  characteristics,
+including  complications  (table  1).  Hypertension  was  a
+common risk factor in both groups. Hypercholesterolaemia
+was  much  the  same  in  the  two  groups,  and  for  most
+patients  serum  cholesterol  was  between  5·2–6·7  mmol/L.
+In both groups, roughly half the patients were smokers at
+entry  to  the  study.  Frequencies  of  therapeutic  drug  use
+were  closely  similar  in  both  groups.  The  proportions  of
+patients with a sedentary lifestyle were almost identical at
+baseline  in  both  groups  (450  [90%]  vs 462  [90%])  for
+intervention and control groups, respectively). All patients
+with  diabetes  mellitus  received    either  glybenclamide  or
+glipizide.  More  than  half  the  patients  in  each  group  had
+CAD  at  baseline,  defined  as  angina  pectoris  or  a  past
+myocardial  infarction.  A  third  of  participants  in  both
+groups had had a myocardial infarction within the previous
+4  weeks.  Other  complications  of  CAD  with  a  poor 
+long-term  prognosis  were  slightly  more  common  in  the
+intervention group  than in controls. 
+
+Because  follow-up  appointments  were  close  to  the
+participants’  homes,  and  because  Indians  prefer  non-
+
+Intervention diet (n=499)
+Baseline
+2 years
+
+Mean change*†
+
+Control diet (n=501)
+Baseline
+2 years
+
+Mean change
+
+Corrected 
+difference*†
+
+p value at 2 years 
+between groups
+
+91 (2)
+132 (17)
+
+86 (10)
+
+66 (7·5)
+24·3 (3·0)
+
+Weight (kg)
+Body-mass index 
+(kg/m2)
+WHR (cm)
+Systolic blood 
+pressure (mm Hg)
+Diastolic blood 
+pressure (mm Hg)
+Cigarettes per day
+Total cholesterol 
+(mmol/L)
+LDL (mmol/L)
+3·64 (0·78)
+HDL (mmol/L)
+1·16 (0·26)
+Triglycerides (mmol/L) 1·84 (0·38)
+FBG (mmol/L)
+5·99 (1·39)
+
+19·1 (8·1)
+5·74 (0·98)
+
+62 (6·1)
+23·0 (2·6)
+
+–4 
+–1·3 
+
+66 (7·3)
+24·1 (2·3) 23·8 (2·2)
+
+65 (6·6)
+
+–1, p<0·0001
+–0·3, p<0·0001
+
+–3 
+–1·0 
+
+90 (3)
+127 (16)
+
+83 (9)
+
+–1 
+–5 
+
+–3 
+
+15·6 (6·3)
+5·04 (0·91) –0·70 
+
+–3·5 
+
+3·0 (0·62)
+–0·64 
+1·19 (0·21) +0·03 
+1·48 (0·35) –0·36 
+5·55 (1·22) –0·44 
+
+90 (4)
+131 (17)
+
+91 (3)
+129 (15)
+
++1, p=0·0215
+–2, p<0·0001
+
+86 (9)
+
+85 (8)
+
+–1, p<0·0001
+
+–2 
+–3 
+
+–2 
+
+17·3 (7·3) 12·5 (5·4)
+5·77 (0·98) 5·59 (1·03) –0·18, p<0·0001
+
+–4·8, p<0·0001
+
++1·3 
+–0·52 
+
+3·54 (0·67) 3·39 (0·70) –0·15, p<0·0001
+1·14 (0·15) 1·11 (0·21) –0·03, p=0·0288
+1·85 (0·28) 1·74 (0·30) –0·11, p<0·0001
+5·94 (1·55) 5·77 (1·39) –0·17, p<0·0001
+
+–0·49
++0·06
+–0·25
+–0·27
+
+<0·0001
+<0·0001
+
+<0·0001
+<0·0001
+
+<0·0001
+
+<0·0001
+<0·0001
+
+<0·0001
+<0·0001
+<0·0001
+<0·0001
+
+WHR=waist to hip circumference ratio; FBG=fasting blood glucose. Data presented as means (SD). *Mean difference of baseline to 2-year value changes between
+groups, intervention diet minus control diet. †p<0·0001 for all changes.
+Table 3: Cardiovascular risk factors at baseline and after 2 years 
+
+1458
+
+THE LANCET • Vol 360 • November 9, 2002 • www.thelancet.com
+
+For  personal  use.  Only  reproduce  with  permission  from  The  Lancet  Publishing  Group.
+
+Intervention Control 
+diet 
+(n=999)
+
+diet 
+(n=501)
+
+Unadjusted Adjusted 
+rate ratios 
+(95% CI)
+
+rate ratios 
+(95% CI)
+
+Person weeks at risk
+Non fatal MI
+
+49 238
+21 (4·2%)
+
+46 554
+43 (8·6%) 0·49 
+
+0·47
+
+(0·29–0·81) (0·28–0·79)
+
+Fatal MI
+
+12 (2·4%)
+
+17 (3·4%) 0·69 
+
+0·67
+
+(0·33–1·45) (0·31–1·42)
+
+Sudden cardiac death 6 (1·2%)
+
+16 (3·2%) 0·37 
+
+0·33
+
+(0·14–0·94) (0·13–0·86)
+
+Total cardiac endpoints 39 (7·8%)
+
+76 (15·2%) 0·50 
+
+0·48
+
+(0·34–0·73) (0·33–0·71)
+
+MI=myocardial infarction. Adjustment made for baseline age, gender, body-
+mass index, cholesterol and blood pressure. 
+Table 4: Numbers and rate ratios for separate and combined
+cardiac endpoints
+
+s
+t
+n
+e
+v
+e
+ 
+h
+t
+i
+
+w
+
+ 
+n
+o
+
+i
+t
+r
+o
+p
+o
+r
+P
+
+0·3
+
+0·2
+
+0·1
+
+0
+
+pharmacological  treatment  and  vegetarian  diets,  drop-out
+rates  were  low.  After  2  years  follow-up,  there  were  nine
+dropouts  in  the  intervention  group  and  11  in  the  control
+group, all of which happened after 12 weeks of follow-up.
+Apart from these dropouts, 115 patients in the intervention
+group  and  100  in  the  control  group  missed  their  regular
+follow-up  visits,  although 
+the
+intervention  programme.  Dropouts  from  the  intervention
+group  showed  a  decrease  in  plasma  lipoproteins  and
+bodyweight  after  12  weeks  of  follow-up,  suggesting  that
+they  were adhering to the diet and lifestyle changes that we
+recommended  (data  not  shown).  Dietary  intake  of  fruit,
+vegetables, legumes, and oils increased in both groups but
+much  more  so  in  the  intervention  group,  suggesting  that
+participants adhered to the recommended diets (table 2).
+
+they  were 
+
+following 
+
+Lifestyle  characteristics,  such  as  number  of  meals  or
+snacks consumed per day, number of hours sleep per night,
+duration of brisk walks or jogs, and time spent doing mental
+relaxation  did  not  differ  significantly  between  the  groups
+(data not shown).
+
+Baseline  nutrient 
+
+intakes  showed  no  biologically
+important differences in the consumption of carbohydrates,
+fatty  acids,  and  cholesterol  between  the  two  groups 
+(table 2). At the end of the 2-year follow-up, n-3 fatty acid
+intake was slightly higher in the controls than in those on
+the  intervention  diet.  Intake  of  dietary  fibre,  salt,  fruit,
+vegetable,  nut,  and  whole  grains  between  the  groups  was
+much the same at baseline, but after 2 years,  patients on the
+intervention diet consumed a greater percentage of calories
+from  total  and  complex  carbohydrates,  had  a  higher
+polyunsaturated  to  saturated  fat  ratio,  and  lower  energy,
+total  fat,  saturated  fat,  and  cholesterol  than  had  controls. 
+␣-linolenic  acid  intake  was  significantly  greater  in  the
+intervention group than in controls. Total fruit, vegetable,
+nuts, and whole grain intakes and mustard and soy bean oil
+consumption  were  also  significantly  higher 
+the
+intervention group.
+
+in 
+
+After  2  years,  both  groups  had  a  significant  decrease  in
+total  cholesterol  and  LDL  cholesterol,  and  triglycerides—
+the effect being larger in the intervention group than in the
+controls (table 3). HDL cholesterol rose in the intervention
+group, but fell in controls. Fasting blood glucose, BMI, and
+blood pressures were significantly reduced in those on the
+intervention diet  compared with controls. The reduction in
+smoking in the two groups was significant.
+
+At 2 years of follow-up, the intervention group, compared
+with  control  group  showed  a  significant  reduction  in  the
+proportion  of  patients  taking  nitrates  (101  [21%]  vs 152
+[31%]  p=0·0001),  verapamil  (37  [8%]  vs 68  [14%],
+p=0·001),  and  disopyramide  (8  [2%]  vs 29  [6%],
+p<0·0001).  At  the  end  of  the  trial,  participants  in  both
+groups  had  become  less  sedentary,  and  scores  for  mental
+relaxation showed no significant difference between groups. 
+
+Control
+Intervention
+
+ARTICLES
+
+p<0·001
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Weeks
+
+Numbers at risk
+Intervention group
+Control group
+Figure 2: Kaplan-Meier cumulative event curves 
+Proportion of patients with fatal myocardial infarction, non-fatal
+myocardial infarction, or sudden cardiac death.
+
+471
+437
+
+499
+501
+
+490
+478
+
+482
+457
+
+456
+414
+
+450
+419
+
+The intervention group had a significant reduction in risk
+of  non-fatal  myocardial  infarction,  sudden  cardiac  death,
+and  total  cardiac  endpoints  compared  with  the  controls
+(table 4). There were also fewer, but not significantly fewer,
+fatal myocardial infarctions.  Suspected cardiac deaths (two
+in  the  intervention  group,  one  in  the  controls)  were  not
+included in the analysis, although their inclusion in the total
+cardiac  end  points  did  not  change  the  results  significantly
+(data not shown). Kaplan-Meier analysis of curve for event-
+free  survival  for  total  cardiac  endpoints  suggests    a  highly
+beneficial effect of the intervention diet (figure 2). With the
+Cox’s proportional-hazards model, rates for cardiac events
+were  estimated  for  the  intervention  group  relative  to  the
+controls,  after  we  had  adjusted  for  age,  sex,  BMI,
+cholesterol, and blood pressure at baseline (table 4). Only
+one event occurred per person.
+
+Cardiac  complications  such  as  angina  pectoris,  post-
+exercise electrocardiographic changes, left ventricular strain
+(ST  and  T  segment  depression  on  V5  and  V6  leads  of
+electrocardiograph), 
+left  ventricular  hypertrophy,  and
+arrhythmias  requiring  treatment  were  significantly  less
+common in the intervention group than in controls (table 5).
+
+Angina pectoris
+Positive Exercise test
+LV strain
+LV hypertrophy
+NYHA III, IV
+Heart Failure
+Ectopics 8/min
+2 in a row
+Stroke
+CABG or angioplasty
+Suspected cardiac death
+Stroke death
+Total cardiovascular events
+Gall stones
+Accidents
+Cancer
+Accident deaths
+Cancer deaths
+Total deaths
+
+Intervention
+diet (n=499)
+
+Control
+diet (n=501)
+
+p
+
+33 (7%)
+81 (16%)
+45 (9%)
+25 (5%)
+
+7 (1·4%)
+11 (2·2%)
+8 (1·6%)
+3 (0·6%)
+7 (1·4%)
+6 (1·2%)
+2 (0·4%)
+2 (0·4%)
+49 (10%)
+4 (0·8%)
+4 (0·8%)
+2 (0·4%)
+1 (0·3%)
+1 (0·3%)
+
+24 (5%)
+
+55 (11%)
+178 (36%)
+80 (16%)
+55 (11%)
+9 (1·8%)
+
+35 (7%)
+30 (6%)
+
+5 (1·0%)
+13 (2·6%)
+16 (3·2%)
+1 (0·2%)
+3 (0·6%)
+96 (19%)
+5 (1·0%)
+3 (0·6%)
+2 (0·4%)
+0
+1 (0·2%)
+
+38 (8%)
+
+0·0133
+<0·0001
+0·0008
+0·0004
+0.61
+0·0003
+0·0003
+0·47
+0·17
+0·0304
+0·56
+0·65
+
+<0·0001
+
+0·73
+0·71
+1·00
+0·32
+1·00
+0·0640
+
+LV=left ventricular; NYHA=New York Heart Association; CABG=coronary artery
+bypass grafting. Data are number (% ).
+Table 5: Cardiac complications and non-cardiac morbidity and
+mortality
+
+THE LANCET • Vol 360 • November 9, 2002 • www.thelancet.com
+
+1459
+
+For  personal  use.  Only  reproduce  with  permission  from  The  Lancet  Publishing  Group.
+
+ARTICLES
+
+Pre-existing coronary artery disease (angina pectoris and
+myocardial  infarction),  hypertension,  or  hypercholester-
+olaemia  at  baseline  did  not  determine  the  effect  of  the
+intervention. We have tested interactions with respect to all
+these risk factors and none was significant (data not shown). 
+
+Discussion
+Our  results  show 
+that  consumption  of  an  Indo-
+Mediterranean  diet  rich  in  ␣-linolenic  acid  was  associated
+with  a  significant  reduction 
+in  non-fatal  myocardial
+infarction,  sudden  cardiac  death,  and  total  cardiac
+endpoints.  Additionally,  the  intervention  diet  showed
+improvements  in  the  number  of  surrogate  traditional  risk
+factors, which were better than those seen in controls who
+adhered to the prudent step I diet.
+
+The intervention diet was based on that suggested by the
+scientific  advisory  committee  of  the  AHA,13 WHO,  and
+other  studies.9,10,12,22,26 The  Indo-Mediterranean  Diet  Heart
+Study has shown that many lacto-vegetarian and sedentary
+patients  with  major  cardiac  risk  factors,  and  those  with
+CAD, can be motivated to make comprehensive dietary and
+lifestyle  changes  over  at  least  2  years.  Our  intervention
+programme  seems  to  be  a  safe  adjunct  to  the  prudent 
+diet,  and  is  compatible  with  other  treatments  given
+simultaneously, such as physical activity and medications. 
+
+The prevalence of CAD is low in rural dwelling Indians,
+when compared with urban dwellers and immigrant Indians
+(3%,  10%,  14%,  respectively).1-3 Rural  populations  at  low
+risk  consume  300–500 g  per  day  of  whole  grains,  such  as
+wheat, rice, millet, and pulses, and mustard oil as visible fat
+(rich  in  n-3  fatty  acids).1–5 However,  urban  dwellers  and
+immigrants substitute potato and refined carbohydrates for
+grains, and use proatherogenic vegetable ghee and clarified
+butter in place of oils. The increased susceptibility of south
+Asians to CAD is not explained only by serum cholesterol,
+lifestyle,  or  smoking.  Indian
+hypertension,  sedentary 
+studies1,4,21
+vegetable
+consumption. The consequent deficiency in the antioxidant
+vitamins A and C allows overproduction of free radicals,7,26,27
+which might be worse in people who consume a diet high in
+polyunsaturated fat (including n-3 fatty acid), in smokers,
+or in those who eat a lot of Indian ghee28 (cholesterol oxide),
+thus increasing the risk of CAD in several ways.
+
+inadequate 
+
+show 
+
+fruit 
+
+and 
+
+Platelet  adhesion,  which  is  important  in  thrombosis,  is
+likely to occur when antioxidant and n-3 fatty acid status is
+low. Arterial endothelium, myocardium, and pancreatic ␤-
+cells  are  all  protected  against  free  radical  damage  by  a
+combination  of  dietary  n-3  fatty  acids  and  antioxidants.27
+Oxidised  blood  lipids  are  proinflammatory  and,  in  the
+presence  of  low  n-3  fatty  acids,  might  also  increase
+thrombosis.  Increased  consumption  of  fruits,  vegetables,
+legumes,  and  nuts,  rich  sources  of  n-3  fatty  acids,
+antioxidant vitamins, flavonoids, and polyphenols, could be
+beneficial through some of these mechanisms. 
+
+Results  from  the  Lyon  Diet  Heart  study9,10 showed  that
+increased consumption of fruits, vegetables, nuts, and n-3
+fatty  acid-rich  margarine  was  associated  with  an  almost
+70%  reduction  in  coronary  events  and  cardiac  deaths
+without a decrease in serum cholesterol, triglycerides, or an
+increase 
+in  HDL  cholesterol.  Results  of  the  Indian
+Experiment on Infarct Survival study11 showed a significant
+fall  in  the  number  of  cardiac  events  and  deaths  after
+increased intake of fruits and vegetables in patients who had
+had  a  recent  myocardial  infarction.  However,  results  of
+many early trials of diet for secondary prevention of CAD
+failed to show any benefits.29,30
+
+Since  most  recent  intervention  trials31,32 of  antioxidant
+vitamin supplements in the prevention of CAD have shown
+little or no benefit, other phytochemicals present in whole
+
+grains, fruits, vegetables, nuts, and oils might interact with
+vitamins  in  the  prevention  of  CAD.  These  were  the
+conclusions of the Indian Experiment of Infarct Survival.33
+Support  for  this  view  comes  from  results  of  long-term
+follow-up  studies.6,7 Results  of  an  intervention  trial  in 
+120 000  people,  showed  that  daily  consumption  of  fresh
+fruit  and  vegetables  was  protective  against  coronary  heart
+disease.7
+
+The  AHA  expert  panel13 has  raised  important  issues
+about  baseline  dietary  intakes  and  sociocultural  factors  of
+target  populations,  some  of  which  we  have  addressed  to
+confirm  the  applicability  of  the  Mediterranean  diet  in  the
+prevention of CAD in a geographically different population.
+Investigators  in  the  Lyon  study  and  a  previous  Indian
+experiment  did  not  emphasise  the  consumption  of  whole
+grains, although the diets did include such measures.9–12 The
+NCEP step I and II diets are characterised by low amounts
+of total and saturated fats, and cholesterol, and a high intake
+of fruits, vegetables, and whole grain products. These diets
+have been widely recommended for treatment of CAD.20
+
+Our study targeted populations that have yet to learn the
+messages for prevention of heart disease. Baseline diets in
+our  participants  contained  large  amounts  of  total  and
+saturated fats, cholesterol, and refined carbohydrates in the
+form  of  excess  milk,  clarified  butter,  butter,  cream,  eggs,
+sugar,  refined  bread  and  small  amounts  of  whole  grain
+products,  compared  with 
+low-risk  rural  populations.
+Dietary supplementation with wheat, rice, maize, legumes,
+fruits, vegetables, and nuts was associated with a decrease in
+cardiovascular  risk  factors  in  the  intervention  group.
+Substantial  enhancement  of  the  effectiveness  of  dietary
+recommendations20 might  be  provided  by 
+integrating
+features of our study diet and the Lyon Diet Heart Study.
+
+Several  methodological  issues  in  our  study  should  be
+addressed. Participant adherence to diet and lifestyle advice
+is a major difficulty. Patients might not eat and do as they
+are advised, and they might have learnt to complete weekly
+diaries  in  accordance  with  the  perceived  wishes  of  the
+dietician.  Thus,  assessment  of  nutrient  intakes  through
+diaries and questionnaires is open to bias. However, in our
+study,  weekly  diet  diaries  were  cross-checked  by  the
+dietician’s  questionnaire.  Participants  were  heterogeneous
+with  respect  to  risk  factors  for  CAD,  which  might  be
+regarded  as  a  weakness.  However,  we  believe  that  this
+feature might indeed be a strength, because the population
+would be representative of patients typically encountered in
+practice.  A  similar  study  population  was  also  used  in  the
+HOPE study.32
+
+The  benefits  noted  in  our  study  were  also  present  in
+patients with pre-existing CAD, indicating that the diet was
+an important help in secondary prevention. The duration of
+intervention  and  the  sample  size  would  have  to  be  larger
+than those in our study to draw definite conclusions about
+the  effect  of  the  intervention  on  non-cardiac  and  total
+mortality.
+
+Although multiple interventions that aim to reduce CAD
+might  be  criticised  for  being  methodologically  weak
+(because assessment of the effect of each one separately is
+difficult), the potential benefits of this approach justifies its
+evaluation  as  a  way  to  decrease  CAD  incidence  and
+mortality.  Further  analyses  of  our  data  are  being  done  to
+determine the relative contributions of different antioxidant
+vitamins, flavonoids, and polyunsaturated fatty acids34 to the
+incidence  and  total  mortality  attributable  to  CAD.35
+However, our study provides important lessons about diet
+and  cardiovascular  disease.  First,  CAD  is  seen  in  Asia
+despite an absence of conventional risk factors, and despite
+the consumption of a low fat (<30% energy) diet. Second,
+Asian populations are mainly vegetarian and do not have a
+
+1460
+
+THE LANCET • Vol 360 • November 9, 2002 • www.thelancet.com
+
+For  personal  use.  Only  reproduce  with  permission  from  The  Lancet  Publishing  Group.
+
+high  prevalence  of  obesity  or  insulin  resistance  syndrome.
+Therefore,  dietary  interventions  might  be  considered  of
+little  benefit  in  the  treatment  of  CAD.  Third,  we  have
+shown that a diet rich in fruit, vegetables, legumes, with a
+high ␣-linolenic acid content is associated with a decrease in
+cardiovascular events. Fourth, n-3 fatty acids consumed as
+mustard or soy bean oils, walnuts, whole grains, and leafy
+vegetables, rather than as fish or fish oil supplements, might
+also  reduce  the  cardiovascular  disease  risk  in  populations
+that  already  consume  a  prudent,  low  fat  diet.  Fifth,  the
+Indo-Mediterranean  diet  is  a  safe  and  economical  way  to
+improve the health of poor populations because the whole
+grains,  fruits,  vegetables,  and  oils  used  in  this  study  were
+seasonal, traditional, and produced by farmers at a cost of
+about  US$1  per  day.  Last,  our  trial  in  a  non-Western
+population  has  shown  that,  over  2  years,  a  diet  enriched
+with  fruit,  vegetables,  nuts,  whole  grains,  and  mustard  or
+soy  bean  oil  is  associated  with  a  pronounced  decline  in
+CAD morbidity and mortality, without an increase in non-
+cardiac deaths, and in the presence of improved metabolic
+profiles.  The  long-term  benefits  may  be  even  more
+substantial.
+
+Contributors
+R B Singh coordinated the study. G Dubnov did data entry, statistical
+analysis, and interpretation. M A Niaz analysed blood, recruited patients,
+and did data collection. S Ghosh and R Singh recruited patients and
+collected data. S S Rastogi designed the study, recruited patients, and did
+data collection. O Manor did statistical analysis. D Pella interpreted data.
+E M Berry did statistical analysis and data interpretation. R B Singh, 
+G Dubnov, and E M Berry wrote the manuscript.
+
+Conflict of interest statement
+None declared.
+
+Acknowledgments
+We thank the Centre of Nutrition and Heart for providing technical support
+and funding for blood tests.
+
+References
+1 Singh RB, Niaz MA. Coronary risk factors in Indians. Lancet 1995; 346:
+
+778–79.
+
+2 Janus ED, Postiglione A, Singh RB, Lewis B. The modernisation of
+
+Asia. Implications for coronary heart disease. Council on arteriosclerosis
+of the international society and federation of cardiology. Circulation
+1996; 94: 2671–73.
+Singh RB, Tombinson B, Thomas N, Sharma R. Coronary artery
+disease and coronary risk factors: the South Asian paradox. 
+J Nutr Environ Med 2001; 11: 43–51.
+
+3
+
+4 Singh RB, Verma SP, Niaz MA. Social class and coronary artery disease
+
+in India. Lancet 1999; 353: 154–55.
+
+5 Singh RB, Beegum R, Verma SP, et al. Association of dietary factors and
+
+other coronary risk factors with social class in women in five Indian
+cities. Asia Pac J Clin Nutr 2000; 9: 298–302.
+
+6 Verschuren WM, Jacobs D R, Bloemberg B P, et al. Serum total
+
+cholesterol and long term coronary heart disease mortality in different
+cultures. JAMA 1995: 274: 131–36.
+
+7 Joshipura KJ, Hu FB, Manson JE, et al. The effect of fruit and vegetable
+
+intake on risk for coronary heart disease. Ann Intern Med 2001; 134:
+1106–11.
+
+8 Siscovick DS, Raghunathan TE, King I, et al. Dietary intake and cell
+membrane levels of long chain n-3 fatty acids and the risk of primary
+cardiac arrest. JAMA 1995; 274: 1363–67.
+
+9 de Lorgeril M Salen P, Martin JL, Monjaud I, Delaye J, Mamelle N.
+
+Mediterranean diet, traditional risk factors and the rate of cardiovascular
+complications after myocardial infarction final report of the Lyon Diet
+Heart Study. Circulation 1999; 99: 779–85.
+
+10 de Lorgeril M, Renaud S, Mamelle N. Mediterranean alphalinolenic
+
+acid rich diet in secondary prevention of coronary heart disease. Lancet
+1994; 343: 1454–59.
+
+ARTICLES
+
+11 Singh RB, Rastogi SS, Verma R, et al. Randomised controlled trial of
+
+cardioprotective diet in patients with recent acute myocardial infarction.
+BMJ 1992; 304: 1015–19.
+
+12 Singh RB, Rastogi SS, Niaz MA, Ghosh S, Singh R, Gupta S. Effect of
+fat modified and fruit and vegetable enriched diets on blood lipids in the
+Indian Diet-Heart Study. Am J Cardiol 1992; 7: 869–74.
+
+13 Kris-Etherton P, Eckel RH, Howard BV, et al. Lyon diet heart study:
+
+benefits of a dietary pattern on cardiovascular disease. Circulation 2001;
+103: 1823–25.
+
+14 Burr ML, Fehily AM, Gilbert JF, et al. Effects of changes in fat, fish, and
+
+fibre intakes on death and myocardial infarction: diet and reinfarction
+trial (DART). Lancet 1989; 2: 757–61.
+
+15 Robertson RM, Smaha L. Can a Mediterranean style diet reduce heart
+
+disease? Circulation 2001; 103: 1821–22.
+
+16 Mori TA, Beilin LJ, Burk V, et al. Interactions between dietary fat, 
+
+fish, and fish oils and their effects on platelet function in men at 
+risk of cardiovascular disease. Arterioscler Throm Vasc Biol 1997; 17:
+279–86.
+
+17 Johansen O, Seljeflot I, Hostmark AT, et al. The effect of
+
+supplementation with n-3 fatty acids on soluble markers of 
+endothelial function in patients with coronary heart disease. 
+Arterioscler Thromb Vasc Biol 1999; 19: 1681–86.
+
+18 Rose GA, Blackburn H, Gillum RF, Prineas RJ. Cardiovascular Survey
+
+Methods. Geneva: World Health Organization, 1982.
+
+19 Indian Consensus Group. Indian Consensus for prevention of
+
+hypertension and coronary artery disease. A scientific statement of the
+Indian society of hypertension and international college of nutrition.
+J Nutr Environ Med 1996; 6: 309–18.
+
+20 Nasingarao BS, Deosthale YG, Pant KC. Nutrient composition of
+
+Indian foods. Hyderabad: National Institute of Nutrition, 1989.
+21 National Cholesterol Education Program. Second report of the 
+
+expert panel on detection, evaluation, and treatment of high blood
+cholesterol in adults (Adult Treatment Panel II). Circulation 1994; 89:
+1333–45.
+
+22 World Health Organisation Study group. Diet Nutrition and Prevention
+
+of Chronic disease. Geneva: WHO, 1990.
+
+23 Singh RB, Ghosh S, Niaz MA, Rastogi V. Validation of physical activity
+
+and socioeconomics status questionnaire in relation to food intakes for
+the Five City Study and proposed classification for Indians. 
+J Assoc Physicians India 1997; 45: 603–07.
+
+24 Wilson DE, Spiger MJ. A dual precipitation method for quantitative
+
+plasma lipoprotein measurement without ultra-centrifugation. 
+J Lab Clin Med 1973; 82: 413–82.
+
+25 Van Handel E, Zilversmit BD. Micromethod in the direct estimation of
+
+triglycerides. J Lab Clin Med 1957; 60: 152–59.
+
+26 Singh RB, Ghosh S, Niaz MA, et al. Dietary intake plasma 
+
+levels of antioxidant vitamins and oxidative stress in relation to 
+coronary artery disease in elderly population. Am J Cardiol 1995; 76:
+1233–38.
+
+27 Regnstrom J, Nilsson J, Tornvall P, Landou C, Hamsten A.
+
+Susceptibility to low density lipoprotein oxidation and coronary
+atherosclerosis in man. Lancet 1992; 339: 1183–86.
+
+28 Jacobson MS. Cholesterol oxide in Indian ghee, possible cause of
+
+unexplained high risk of atherosclerosis in Indian immigrant population.
+Lancet 1987; 2: 656–58.
+
+29 Rose GA,Thompson WB,William RT. Corn oil in the treatment of
+
+ischaemic heart disease. BMJ 1965; 1: 1531–33.
+
+30 Medical Research Council Research Committee. Controlled trial of soya
+
+bean oil in myocardial infarction. Lancet 1968; 2: 693–700.
+
+31 GISSI—Prevenzione Investigators. Dietary supplementation with 
+
+n-3 polyunsaturated fatty acids and vitamin E after myocardial
+infarction: results of the GISSI—Prevenzione trial. Lancet 1999; 354:
+447–55.
+
+32 The HOPE study investigators. Effects of angiotensin converting enzyme
+
+inhibitor, ramipril on cardiovascular events in high risk patients. 
+N Engl J Med 2000; 342: 145–53.
+
+33 Singh RB, Niaz MA, Sharma JP, et al. Randomized, double blind,
+placebo controlled trial of fish oil and mustard oil in patients with
+suspected acute myocardial infarction: The Indian experiment of infarct
+survival. Cardiovasc Drug Ther 1997; 11: 485–91.
+
+34 Berry EM. Who’s afraid of n-6 polyunsaturated fatty acids?
+
+Methodological considerations for assessing whether they may be
+harmful. Nutr Metab Cardiovasc Dis 2001; 11: 181–88.
+
+35 Berry EM, Kohen R. Is the biological antioxidant system integrated and
+
+regulated? Med Hypotheses 1999; 53: 397–401.
+
+THE LANCET • Vol 360 • November 9, 2002 • www.thelancet.com
+
+1461
+
+For  personal  use.  Only  reproduce  with  permission  from  The  Lancet  Publishing  Group.
+
+

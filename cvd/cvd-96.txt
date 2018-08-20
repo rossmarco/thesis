@@ -1,0 +1,700 @@
+Annals of Epidemiology 23 (2013) 157e160
+
+Contents lists available at SciVerse ScienceDirect
+
+Annals of Epidemiology
+
+j o u r n a l h o m e p a g e : w w w . a n n a l s o f e p i d e m i o l o g y . o r g
+
+Brief communication
+Black tea consumption and risk of stroke in women and men
+Susanna C. Larsson PhD a, *, Jarmo Virtamo MD, PhD b, Alicja Wolk DMSc a
+a Division of Nutritional Epidemiology, Institute of Environmental Medicine, Karolinska Institutet, Stockholm, Sweden
+b Department of Chronic Disease Prevention, National Institute for Health and Welfare, Helsinki, Finland
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 7 August 2012
+Accepted 9 December 2012
+Available online 5 January 2013
+
+Keywords:
+Epidemiology
+Flavonoids
+Prospective studies
+Stroke
+Tea
+
+Purpose: Our aim was examine the association between black tea consumption and risk of total stroke
+and stroke types in a prospective study.
+Methods: A total of 74,961 Swedish women and men who were free of cardiovascular disease and cancer
+at baseline in 1997 were followed up through December 2008. Tea consumption was assessed with
+a questionnaire at baseline. Stroke cases were ascertained from the Swedish Hospital Discharge Registry.
+Results: During a mean follow-up of 10.2 years, we ascertained 4089 cases of ﬁrst stroke, including 3159
+cerebral infarctions, 435 intracerebral hemorrhages, 148 subarachnoid hemorrhages, and 347 unspeciﬁed
+strokes. After adjustment for other risk factors, high tea consumption was associated with a signiﬁcantly
+lower risk of total stroke; however, there was no doseeresponse relation (P for trend ¼ .36). Compared
+with no tea consumption, the multivariable relative risk for four or more cups per day (median, 5) was
+0.79 (95% conﬁdence interval [CI], 0.62e0.998). The corresponding relative risks were 0.80 (95% CI,
+0.61e1.04) for cerebral infarction and 0.68 (95% CI, 0.35e1.30) for hemorrhagic stroke.
+Conclusions: These ﬁndings suggest that daily consumption of four or more cups of black tea is inversely
+associated with risk of stroke.
+
+Ó 2013 Elsevier Inc. All rights reserved.
+
+Introduction
+
+Tea consumption is postulated to have beneﬁcial effects on
+cardiovascular risk because of its ﬂavonoid content. Flavonoids
+present in tea have been shown to inhibit the development of
+atherosclerosis in animal models [1]. Evidence also indicates that
+tea and tea ﬂavonoids can enhance nitric oxide status and
+improve endothelial function [1]. Results from a meta-analysis of
+controlled intervention studies showed that moderate consump-
+tion of black tea (median daily dose of 500 mL, corresponding to
+about 2e3 cups) substantially enhanced endothelial-dependent
+vasodilation [2].
+
+Prospective studies of
+
+the association between black tea
+consumption and risk of stroke have yielded inconsistent results.
+An inverse association between black tea consumption and stroke
+risk was observed in some studies [3e5] but not in others [5e9].
+Only one study reported results for stroke types [4]. That study
+among Finnish men found that tea consumption was inversely
+associated with risk of cerebral infarction but not hemorrhagic
+stroke [4].
+
+* Corresponding author. Division of Nutritional Epidemiology, Institute of Envi-
+ronmental Medicine, Karolinska Institutet, Box 210, SE-17177 Stockholm, Sweden.
+Tel: þ46 8 52486059; fax: 46 8 304571.
+
+E-mail address: Susanna.Larsson@ki.se (S.C. Larsson).
+
+1047-2797/$ e see front matter Ó 2013 Elsevier Inc. All rights reserved.
+http://dx.doi.org/10.1016/j.annepidem.2012.12.006
+
+Given the inconsistent results and the paucity of data on stroke
+types, we examined the relation between black tea consumption
+and risk of total stroke as well as cerebral infarction and hemor-
+rhagic stroke in a large, prospective study of Swedish women and
+men.
+
+Methods
+
+Study population
+
+Our study population consisted of participants from two
+population-based cohort studies: The Swedish Mammography
+Cohort and the Cohort of Swedish Men. Details about these cohorts
+have been described previously [10,11]. In brief, in the autumn of
+1997, 39,227 women and 48,850 men who resided in central
+Sweden completed a 350-item questionnaire about diet and other
+lifestyle factors. For the present analyses, we excluded participants
+with an erroneous or a missing National Registration Number, those
+with implausible values for total energy intake (i.e., 3 standard
+deviations from the loge-transformed mean energy intake in
+women and men) and those with a diagnosis of stroke, coronary
+heart disease or cancer before baseline. This left 74,961 participants
+(34,670 women and 40,291 men), aged 45 to 83 years, for the
+present analyses. The study was approved by the Regional Ethical
+Review Board at Karolinska Institutet in Stockholm, Sweden.
+
+158
+
+S.C. Larsson et al. / Annals of Epidemiology 23 (2013) 157e160
+
+Baseline data collection
+
+In 1997, participants completed a questionnaire that inquired
+information about education, weight, height, smoking, physical
+activity, aspirin use, history of hypertension and diabetes, family
+history of myocardial infarction before 60 years of age, alcohol
+consumption, and diet. Pack-years of smoking history were
+computed by multiplying the number of packs of cigarettes smoked
+per day by the number of years of smoking. Body mass index was
+calculated as the weight (in kilograms) divided by the square of
+height (in meters). Total physical activity (in 24 hours) was
+expressed in metabolic equivalents, and was calculated based on
+each participant’s level of activity at work, home/housework,
+walking/bicycling, and exercise, and by taking into account hours
+per day of watching TV/reading and sleeping [12].
+
+Dietary assessment
+
+Tea consumption was assessed with a self-administered food
+frequency questionnaire on which participants reported their
+average frequency of consumption of tea and 95 other food items
+over the previous year. For tea consumption, participants were
+asked to indicate the exact number of cups of tea consumed per day
+or per week. One cup was speciﬁed on the questionnaire as 1.5 dL.
+In a validation study in a subsample of women from the cohort, the
+Pearson correlation coefﬁcients for tea consumption between
+a previous questionnaire and four 1-week diet records (completed
+3e4 months apart) was 0.81 (A. Wolk, unpublished data).
+
+Ascertainment of stroke cases
+
+We ascertained incident cases of ﬁrst stroke by linkage of the
+study population (using the National Registration Number) to the
+Swedish Hospital Discharge Registry, which provides almost
+complete coverage of the discharges. The strokes were classiﬁed as
+cerebral
+infarction (International Classiﬁcation of Diseases, 10th
+revision, code I63), intracerebral hemorrhage (I61), subarachnoid
+hemorrhage (I60), and unspeciﬁed stroke (I64). Dates of death were
+obtained from the Swedish Death Register.
+
+Statistical analysis
+
+We computed person-time of follow-up for each participant
+from January 1, 1998 until the date of a ﬁrst stroke, death, or end of
+follow-up (December 31, 2008), whichever occurred ﬁrst. Partici-
+pants were grouped into ﬁve categories of tea consumption:
+Nondrinkers, less than one cup per day, one cup per day, two to
+three cups per day, and four or more cups per day. We combined
+two and three cups per day because of limited number of partici-
+pants in each category and results were similar for two and three
+cups per day. We could not divide the highest category further
+because only 2.7% of participants consumed four or more cups per
+day. We used Cox proportional hazards regression models to esti-
+mate relative risks with their 95% conﬁdence intervals (CI). Separate
+analyses for women and men showed similar patterns of associa-
+tion between tea consumption and stroke. We therefore present
+results for women and men combined with adjustment for gender
+as a stratum variable in the Cox model. All analyses were also
+adjusted for age (in months) as a stratum variable. In the multi-
+variable models, we additionally controlled for smoking status and
+pack-years of smoking (never; past <20, 20e39, or 40 pack-years;
+or current <20, 20e39, or 40 pack-years), education (less than
+high school, high school, or university), body mass index (<20,
+20e24.9, 25e29.9, or 30 kg/m2), total physical activity (metabolic
+equivalent h/d, in quintiles), aspirin use (never, 1e6 tablets/wk, 7
+
+Table 1
+Age-standardized baseline characteristics by categories of black tea consumption
+among 74,961 Swedish women and men*
+
+Daily black tea consumption, no. of cups
+
+y
+0 (0)
+37,687
+60.9
+56.9
+13.9
+29.0
+25.6
+42.3
+
+<1 (0.3)
+14,284
+59.3
+49.6
+17.2
+20.8
+25.4
+42.2
+
+1 (1)
+12,988
+60.3
+51.7
+20.7
+19.4
+25.2
+41.8
+
+2e3 (2) 4 (5)
+2023
+7979
+59.7
+58.6
+52.5
+50.2
+35.4
+32.2
+18.3
+17.6
+25.0
+24.9
+41.8
+41.9
+
+Participants
+Age (yrs)
+Gender (% male)
+Postsecondary education (%)
+Current smoker (%)
+Body mass index (kg/m2)
+Total physical activity
+
+(MET; h/d)
+
+History of hypertension (%)
+20.9
+History of diabetes (%)
+5.4
+Family history of MI (%)
+15.1
+Aspirin use 7 tablets/wk (%)
+6.5
+Alcohol intake (g/d)
+7.7
+Coffee consumption (cups/d)
+2.6
+Fruit intake (servings/d)
+1.8
+Vegetable intake (servings/d)
+2.9
+MET ¼ metabolic equivalent; MI ¼ myocardial infarction.
+* All values (except age) were standardized to the age distribution of the study
+
+17.4
+5.6
+15.3
+6.6
+6.9
+1.8
+1.9
+3.1
+
+20.9
+5.3
+14.8
+6.9
+6.9
+3.1
+1.8
+2.8
+
+21.4
+6.6
+15.9
+6.8
+7.4
+3.7
+1.6
+2.6
+
+18.9
+5.4
+14.9
+7.1
+7.4
+2.1
+1.9
+3.1
+
+population in 1997. Values are means if not otherwise indicated.
+
+y
+
+Median consumption in parenthesis.
+
+tablets/wk), history of hypertension (yes or no) or diabetes (yes or
+no), family history of myocardial infarction before age 60 (yes or
+no), and intakes of total energy (kcal/d, continuous variable), and
+quartiles of alcohol, coffee, fruits, and vegetables. We tested the
+proportional hazards assumption and found no departure from the
+assumption.
+
+We conducted tests for trends by assigning the median value for
+each category of tea consumption and entered this variable as
+a continuous variable in the model. We conducted stratiﬁed anal-
+yses to examine whether the association between tea consumption
+and stroke was modiﬁed by history of hypertension (no or yes),
+smoking status (never or ever smoker), or coffee consumption (<3
+or 3 cups/d). Test for interaction was performed using the likeli-
+hood ratio test. All statistical analyses were performed using SAS,
+version 9.2 (SAS Institute, Cary, NC). All statistical tests were
+2-sided; P < .05 was considered signiﬁcant.
+
+Results
+
+Over a mean follow-up of 10.2 years, we identiﬁed 4089 cases of
+stroke (1680 in women and 2409 in men), including 3159 cerebral
+infarctions, 435 intracerebral hemorrhages, 148 subarachnoid
+hemorrhages, and 347 unspeciﬁed strokes. Baseline characteristics
+of study participants according to categories of tea consumption are
+shown in Table 1. Compared with women and men who never
+consumed tea, those who consumed four or more cups per day
+were more likely to have a postsecondary education but were less
+likely to be current smokers and to have a history of hypertension.
+In addition, those with high tea consumption tended to consume
+more fruits and vegetables but drank less coffee.
+High tea consumption (4 cups/d) was associated with
+a statistically signiﬁcant lower risk of total stroke but there was no
+doseeresponse relation (Table 2). Women and men who consumed
+four or more cups per day ay of tea (median, 5 cups/d) had a 21%
+(95% CI, 0.002%e38%) reduced risk of stroke compared with those
+who never consumed tea. Further adjustment for fresh red meat,
+processed meat, ﬁsh, and chocolate consumption did not change
+the risk estimates. Daily consumption of 1 to 3 cups of tea was not
+associated with stroke risk. Because of the apparent threshold effect
+of tea consumption on stroke risk, we combined the four lowest
+categories. In this threshold model, the multivariable relative risk of
+
+S.C. Larsson et al. / Annals of Epidemiology 23 (2013) 157e160
+
+159
+
+Table 2
+Relative risks of stroke by categories of black tea consumption among 74,961 Swedish women and men, 1998e2008
+
+Daily black tea consumption, no. of cups
+
+P for trend
+
+0
+
+<1
+
+1
+
+2e3
+
+4
+
+20,993
+75
+0.77 (0.61, 0.97)
+0.79 (0.62, 0.998)
+0.77 (0.61, 0.98)
+
+58
+0.77 (0.59, 1.01)
+0.80 (0.61, 1.04)
+0.77 (0.59, 1.01)
+
+10
+0.68 (0.36, 1.27)
+0.68 (0.35, 1.30)
+0.69 (0.36, 1.31)
+
+.03
+.36
+.03
+
+z
+
+.20
+.83
+.06
+
+z
+
+.12
+.22
+.25
+
+z
+
+.02
+.11
+
+.20
+.36
+
+Total stroke
+
+Person-years
+Cases (n)
+Age and gender adjusted
+Multivariable model*
+Multivariable model*,y
+
+Cerebral infarction
+
+Cases (n)
+Age and gender adjusted
+Multivariable model*
+Multivariable model*,y
+Total hemorrhagic stroke
+
+Cases (n)
+Age and gender adjusted
+Multivariable model*
+Multivariable model*,y
+Intracerebral hemorrhage
+
+Cases (n)
+Age and gender adjusted
+Multivariable model*
+
+Subarachnoid hemorrhage
+
+Cases (n)
+Age and gender adjusted
+Multivariable model*
+
+381,327
+2217
+1.00 (reference)
+1.00 (reference)
+1.00 (reference)
+
+1702
+1.00 (reference)
+1.00 (reference)
+1.00 (reference)
+
+312
+1.00 (reference)
+1.00 (reference)
+1.00 (reference)
+
+245
+1.00 (reference)
+1.00 (reference)
+
+67
+1.00 (reference)
+1.00 (reference)
+
+148,458
+679
+0.94 (0.86, 1.03)
+0.99 (0.91, 1.09)
+
+133,319
+720
+1.00 (0.92, 1.09)
+1.06 (0.97, 1.16)
+
+82,557
+398
+0.94 (0.84, 1.05)
+1.03 (0.92, 1.16)
+
+521
+0.95 (0.86, 1.05)
+1.01 (0.91, 1.11)
+
+552
+1.00 (0.91, 1.10)
+1.07 (0.96, 1.18)
+
+326
+1.00 (0.89, 1.13)
+1.11 (0.97, 1.26)
+
+110
+1.02 (0.82, 1.27)
+1.03 (0.82, 1.29)
+
+97
+0.92 (0.73, 1.16)
+0.97 (0.77, 1.24)
+
+54
+0.88 (0.66, 1.18)
+0.92 (0.68, 1.26)
+
+83
+1.02 (0.79, 1.31)
+1.03 (0.79, 1.33)
+
+27
+1.03 (0.66, 1.61)
+1.06 (0.67, 1.69)
+
+67
+0.82 (0.62, 1.07)
+0.88 (0.66, 1.17)
+
+30
+1.29 (0.84, 1.99)
+1.31 (0.83, 2.06)
+
+40
+0.70 (0.50, 0.98)
+0.76 (0.53, 1.09)
+
+x
+x
+
+24
+1.31 (0.82, 2.09)
+1.23 (0.73, 2.06)
+
+x
+x
+
+d
+d
+d
+
+d
+d
+d
+
+y
+z
+x
+
+* Adjusted for age, gender, smoking status and pack-years of smoking, education, body mass index, total physical activity, aspirin use, history of hypertension, diabetes,
+
+family history of myocardial infarction, and intakes of total energy, alcohol, coffee, fruits, and vegetables.
+
+Threshold model with the ﬁrst four categories of tea consumption (0e3 cups/d) as the reference category.
+P for the relative risk.
+The highest two categories were combined because of a very limited number of cases in the highest category (n ¼ 7 for intracerebral infarction and n ¼ 3 for subarachnoid
+
+hemorrhage).
+
+total stroke for women and men who consumed four or more cups
+per day of tea compared with those who consumed fewer than four
+cups per day was 0.77 (95% CI, 0.61e0.98; Table 2). The association
+between tea consumption and stroke risk was similar for cerebral
+infarction and total hemorrhagic stroke but the results were
+signiﬁcant in the multivariable models. Tea consumption was
+nonsigniﬁcantly and inversely associated with risk of intracerebral
+hemorrhage, but not subarachnoid hemorrhage.
+
+In stratiﬁed analysis by gender, the multivariable RRs of total
+stroke for consumption of four or more cups per day of tea
+compared with fewer than four cups per day were 0.69 (95% CI,
+0.47e1.01) in women and 0.85 (95% CI, 0.63e1.14) in men (P for
+interaction ¼ .66). The association of tea consumption with risk of
+stroke was not modiﬁed by history of hypertension (P for
+interaction ¼ .53), smoking (P for interaction ¼ .66), or coffee
+consumption (P for interaction ¼ .24).
+
+Discussion
+
+In this prospective study, women and men who consumed four
+or more cups per day of tea had a statistically signiﬁcant 21% lower
+risk of stroke compared with never drinkers. The association
+seemed to be conﬁned to cerebral infarction and intracerebral
+hemorrhage, but results for stroke types were not signiﬁcant.
+
+Previous prospective studies of black tea consumption and risk
+of stroke have produced inconsistent results. Our ﬁndings are
+similar to those from a cohort of Finnish male smokers [4] and
+a cohort of U.S. nurses [5] showing that those who consumed two or
+more cups (Finnish cohort) or four or more cups per day (U.S.
+cohort) of black tea had a 21% reduced risk of stroke compared with
+nondrinkers or seldom drinkers of tea. Furthermore, a prospective
+study of 552 Dutch men found that daily consumption of 4.7 or
+more cups of black tea versus fewer than 2.6 cups was associated
+
+with a statistically signiﬁcant 69% lower stroke risk [3]. Other
+studies conducted in The Netherlands [6,7] and in the United States
+[8,9] found no association between black tea consumption and
+stroke incidence or mortality.
+
+There are several potential mechanisms by which tea
+consumption may reduce the risk of stroke. Tea contains high levels
+of ﬂavonoids, which are very effective radical scavengers that can
+reduce oxidative damage by scavenging oxygen free radicals [13].
+Human intervention studies with black or green tea have demon-
+strated a signiﬁcant increase in plasma antioxidant capacity in
+humans about 1 hour after consumption of moderate amounts of
+tea (1e6 cups) [13]. For example, in an intervention study by Ser-
+aﬁni et al. [14], 300 mL of black tea produced a signiﬁcant increase
+in plasma total antioxidant capacity, with a peak after 50 minutes
+after ingestion. Black tea consumption was further shown to reduce
+oxidation of low-density lipoprotein cholesterol [14]. In addition,
+ingestion of tea and tea ﬂavonoids has been demonstrated to
+enhance nitric oxide status and endothelial-dependent vasodilation
+as well as improve endothelial function [1,2].
+
+The strength of our study includes its prospective design, which
+eliminated the possibility of recall bias. Another strength is the
+completeness of case ascertainment by linkage to Swedish regis-
+tries. Furthermore, this is the largest study to date (with regard to
+number of stroke cases) on black tea consumption and stroke risk.
+As in any observational study, we cannot exclude the possibility
+that our ﬁndings have been affected by uncontrolled or residual
+confounding. High tea consumption was related to higher educa-
+tion and a healthy lifestyle. We controlled for education and other
+potential confounders and the results persisted and did not differ
+materially from the age- and gender-adjusted results. Still, we
+cannot rule out that those with high consumption of black tea had
+other healthier habits than nondrinkers. Another limitation is the
+lack of information about treatment and control of hypertension.
+
+160
+
+S.C. Larsson et al. / Annals of Epidemiology 23 (2013) 157e160
+
+Although our study was large, we had limited statistical power in
+analysis of hemorrhagic stroke.
+
+In summary, ﬁndings from this prospective study indicate that
+daily consumption of four or more cups of black tea is inversely
+associated with stroke risk. Further large studies in populations
+with high black tea consumption are needed to conﬁrm the asso-
+ciation between black tea consumption and stroke.
+
+Acknowledgments
+
+This study was supported by research grant from the Swedish
+Council for Working Life and Social Research (FAS) and the Swedish
+Research Council for Infrastructure. The funders had no role in the
+design and conduct of the study; collection, management, analysis,
+and interpretation of the data; or preparation, review, or approval
+of the manuscript.
+
+References
+
+[1] Hodgson JM, Croft KD. Tea ﬂavonoids and cardiovascular health. Mol Aspects
+
+Med 2010;31:495e502.
+
+[2] Ras RT, Zock PL, Draijer R. Tea consumption enhances endothelial-dependent
+
+vasodilation; a meta-analysis. PLoS One 2011;6:e16974.
+
+[3] Keli SO, Hertog MG, Feskens EJ, Kromhout D. Dietary ﬂavonoids, antioxidant
+vitamins, and incidence of stroke: the Zutphen study. Arch Intern Med 1996;
+156:637e42.
+
+[4] Larsson SC, Männisto S, Virtanen MJ, Kontto J, Albanes D, Virtamo J. Coffee and tea
+consumption and risk of stroke subtypes in male smokers. Stroke 2008;39:1681e7.
+[5] Lopez-Garcia E, Rodriguez-Artalejo F, Rexrode KM, Logroscino G, Hu FB, van
+Dam RM. Coffee consumption and risk of stroke in women. Circulation 2009;
+119:1116e23.
+
+[6] de Koning Gans JM, Uiterwaal CS, van der Schouw YT, Boer JM, Grobbee DE,
+Verschuren WM, et al. Tea and coffee consumption and cardiovascular
+morbidity and mortality. Arterioscler Thromb Vasc Biol 2010;30:1665e71.
+
+[7] Leurs LJ, Schouten LJ, Goldbohm RA, van den Brandt PA. Total ﬂuid and speciﬁc
+beverage intake and mortality due to IHD and stroke in the Netherlands
+Cohort Study. Br J Nutr 2010;104:1212e21.
+
+[8] Yochum L, Kushi LH, Meyer K, Folsom AR. Dietary ﬂavonoid intake and risk of
+cardiovascular disease in postmenopausal women. Am J Epidemiol 1999;149:
+943e9.
+
+[9] Klatsky AL, Armstrong MA, Friedman GD. Coffee, tea, and mortality. Ann
+
+Epidemiol 1993;3:375e81.
+
+[10] Larsson SC, Virtamo J, Wolk A. Red meat consumption and risk of stroke in
+
+Swedish women. Stroke 2011;42:324e9.
+
+[11] Larsson SC, Virtamo J, Wolk A. Red meat consumption and risk of stroke in
+
+Swedish men. Am J Clin Nutr 2011;94:417e21.
+
+[12] Norman A, Bellocco R, Bergstrom A, Wolk A. Validity and reproducibility of
+self-reported total physical activityedifferences by relative weight. Int J Obes
+Relat Metab Disord 2001;25:682e8.
+
+[13] Rietveld A, Wiseman S. Antioxidant effects of tea: evidence from human
+
+clinical trials. J Nutr 2003;133:3285Se92S.
+
+[14] Seraﬁni M, Laranjinha JA, Almeida LM, Maiani G. Inhibition of human LDL lipid
+peroxidation by phenol-rich beverages and their impact on plasma total
+antioxidant capacity in humans. J Nutr Biochem 2000;11:585e90.
+
+

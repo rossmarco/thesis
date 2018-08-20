@@ -1,0 +1,974 @@
+Saturday 7 March 1992
+
+No 8793
+
+ORIGINAL ARTICLES
+
+Effects on coronary artery disease of lipid-lowering
+diet, or diet plus cholestyramine, in the St Thomas’
+
+Atherosclerosis Regression Study (STARS)
+
+on 
+
+concentrations 
+
+To assess the effect of dietary reduction of plasma
+cholesterol 
+coronary
+atherosclerosis, we set up a randomised, controlled,
+end-point-blinded trial based on quantitative image
+analysis  of coronary angiograms in  patients  with
+angina  or  past  myocardial  infarction.  Another
+intervention group received diet and cholestyramine,
+to  determine the effect  of  a  greater  reduction  in
+circulating cholesterol concentrations.
+
+90 men with coronary heart disease (CHD), who
+had a mean (SD) plasma cholesterol of 7&middot;23  (0&middot;77)
+mmol/l were randomised to receive usual care (U,
+controls),  dietary  intervention  (D),  or  diet  plus
+cholestyramine (DC), with angiography at baseline
+and  at  39  (SD  3&middot;5)  months.  Mean  plasma
+cholesterol during the trial period was 6&middot;93  (U), 6&middot;17
+(D),  and  5&middot;56  (DC)  mmol/l.  The  proportion  of
+patients  who  showed  overall  progression  of
+coronary  narrowing  was significantly  reduced by
+both  interventions  (U  46%,  D  15%,  DC 12%),
+whereas the proportion who showed an increase in
+luminal diameter rose significantly (U 4%, D 38%, DC
+33%). The mean absolute width of the coronary
+segments (MAWS) studied decreased by 0&middot;201  mm
+in controls, increased by 0&middot;003  mm in group D, and
+increased by 0&middot;103 mm in group DC (p<0&middot;05),  with
+improvement also seen  in  the  minimum width of
+segments, percentage diameter stenosis, and edge-
+irregularity index in intervention groups. The change
+in  MAWS was  independently  and  significantly
+correlated  with  LDL  cholesterol  concentration
+and  LDL/HDL cholesterol  ratio  during  the  trial
+period. 
+significantly
+reduced  the  frequency  of  total  cardiovascular
+events.
+
+interventions 
+
+Both 
+
+Dietary change alone retarded overall progression
+and increased overall regression of coronary artery
+disease,  and  diet  plus  cholestyramine  was
+
+additionally  associated  with  a  net  increase  in
+coronary lumen diameter. These findings support the
+use of  a  lipid-lowering  diet,  and if  necessary of
+appropriate drug treatment, in men with CHD who
+have  even  mildly  raised  serum  cholesterol
+concentrations.
+
+Introduction
+
+Diet is  the main environmental determinant of plasma
+lipid concentrations, and dietary modification is recognised
+to be the first line of treatment for hyperlipidaemia.1 We
+have  previously  reported  angiographic  evidence  that
+treatment of hyperlipidaemia by diet and medication retards
+progression  of  symptomatic  atherosclerosis  in  femoral
+arteries.2  Several  trials  have shown that  treatment with
+lipid-lowering drugs may lead to regression of coronary
+atherosclerosis.  That dietary  modification  may have  a
+similar effect is supported by an uncontrolled trial by a trial
+in which diet was used as one of five interventions,4 and by
+findings in a diet-treated placebo group.s
+
+The St Thomas’ Atheroma Regression Study (STARS)
+was designed to  assess the effects of a practicable lipid-
+lowering  diet  on the  coronary arteries  of patients  with
+coronary  heart  disease  (CHD) by computerised  image
+analysis of paired coronary angiograms at  an interval  of
+about 3 years. A second intervention group followed the diet
+and received the lipid-lowering drug cholestyramine,l to
+observe  the  effects  of  a  greater  reduction  in  plasma
+cholesterol concentration.
+
+ADDRESSES:  Department  of  Endocrinology  and  Chemical
+Pathology (G  F. Watts, DM), Rayne Institute (Prof B. Lewis, MD,
+E. S Lewis, BA), Department of Cardiology (D. J. Coltart, FRCP, L. D.
+R. Smith, MRCP), and Department of Public Health Medicine (A. V.
+Swan, PhD), UMDS, St Thomas’ Hospital, London; Department of
+Medical Biophysics, University of Manchester Medical School,
+Manchester, UK (J. N H. Brunt, PhD); and Department of Human
+Nutrition, University of Otago, Dunedin, New Zealand (Prof J I
+Mann,  MD).  Correspondence  to  Dr  G.  F  Watts,  Department  of
+Endocrinology and Chemical Pathology, St Thomas’ Hospital, Lambeth
+Palace Road, London SE1 7EH, UK.
+
+564
+
+Patients
+
+Patients and methods
+
+TABLE I-CLINICAL AND DEMOGRAPHIC CHARACTERISTICS
+
+I 
+
+I
+
+Men referred for  coronary angiography to investigate angina
+pectoris or other findings suggestive of CHD were eligible for entry
+to the study if they were under 66 years of age and had plasma
+cholesterol concentrations above 60 mmol/1 in two consecutive
+blood samples while on their usual diet. This cut-off value was set to
+obtain widely generalisable results; in a study of British men with
+CHD, mean plasma cholesterol was 6-9 mmol/1.*’ Patients with
+plasma cholesterol concentrations above 10 mmol/1 were excluded
+to  avoid  inappropriate  randomisation  of patients  with  severe
+hypercholesterolaemia to a control group, as were patients already
+treated with lipid-lowering drugs.
+
+Predetermined  grounds  for  exclusion  were  fasting  plasma
+triglyceride  concentrations  above  4  mmot/1  or  remnant
+hyperlipidaemia  (both  might  be  adversely  affected  by
+cholestyramine), fasting glucose above 7 mmol/1, cardiac failure,
+myocardial infarction in the previous 8 weeks, malignancy, other
+major organ disease, or accelerated hypertension. Patients were also
+excluded if initial angiographic or clinical findings indicated a need
+for coronary artery revascularisation or if they had undergone such a
+procedure.  Patients  in  the  study  who subsequently  required
+single-vessel  or  double-vessel  bypass  grafts  or  single-vessel
+angioplasty  were included in the analysis  but the angiographic
+appearance of the grafts,  grafted  arteries,  or  arteries  that  had
+undergone angioplasty were not used for comparison of outcome.
+The nature and purpose of the trial were described to patients
+during the initial admission for angiography and a fasting blood
+sample was obtained  on the morning after  admission.  Eligible
+patients were seen again twice for repeat fasting blood samples, and
+at the second of these visits the trial was again described and written
+consent  obtained.  Patients  thought  unable  to  understand  the
+implications  of the  trial  design  were  excluded.  The research
+protocol was approved by the St Thomas’ Hospital and Central
+Oxford ethics committees.
+
+All  eligible  patients  then  underwent  a  short  trial  of
+cholestyramine  to  identify  those  who responded  to  and  were
+tolerant of the drug. 8 g cholestyramine twice daily was prescribed
+for  14 days, after which patients reattended for a fasting blood
+sample.  Patients  were included in the study if they agreed to
+continue cholestyramine at the same dosage for 3 years should they
+be randomised into the appropriate group and if plasma cholesterol
+had fallen by more than 0-5 mmol/1 on cholestyramine alone. At this
+visit eligible patients were randomly assigned to one of three groups:
+a lipid-lowering diet (group D); diet plus cholestyramine (DC); and
+usual care only (U).
+
+Interventions
+
+In the lipid-lowering diet, which has been used in the St Thomas’
+Hospital lipid clinic since 1982, total fat intake was reduced to 27%
+of dietary energy, saturated fatty acid content to 8-10% of dietary
+energy, and dietary cholesterol to 100 mg/1000 kcal; omega-6 and
+omega-3 polyunsaturated fatty  acids  were increased  to  8% of
+dietary  energy,  and plant-derived  soluble  fibre  (chiefly pectin)
+intake was increased to the equivalent of 3-6 g polygalacturonate/
+1000 kcal. Intake of alcohol was permitted at the patient’s habitual
+level. Patients in groups D and DC were instructed by a dietitian
+after  a  detailed  history  was  obtained  as  a  guide  to  energy
+requirements; choice of food was adapted to individual preferences.
+For patients with a body mass index (BMI) below 25 kg/m2 an
+isocaloric diet was prescribed; overweight patients were prescribed
+a diet that contained 1000-1200 kcal daily to achieve a BMI of
+25 kgjm2. Further dietetic counselling and, if requested, suitable
+foodstuffs,  were given to  participants  in  the  diet  or diet  plus
+cholestyramine groups who did not achieve or maintain serum
+cholesterol  reductions  of 15%  or  25%, respectively.  At each
+follow-up visit the clinician inquired about dietary compliance and
+provided encouragement.
+
+Group DC received similar dietetic  advice together with 8 g
+cholestyramine  twice  daily  with  meals.  Unused sachets  were
+counted at follow-up visits; mean (SD) daily intake was assessed at
+14 (24) g.
+
+Mean  (SEM)  values  shown for  continuous vanables  U=usual care,  D=diet,
+DC = diet 
+disease,
+M 1= myocardial infarction
+
+plus  cholestyramme  groups;  CHD=coronary  heart 
+
+The control group received, in common with both intervention
+groups,  cardiological  supervision  and  treatment,  repeated
+counselling against smoking, and antihypertensive treatment if
+appropriate. All participants were advised about a suitable level of
+daily exercise.  Patients in the control group with a BMI above
+25 kgjm2 were advised to lose weight but did not receive formal
+dietary counselling.
+
+Follow-up
+
+Patients  were seen at intervals of about 3 months for clinical
+assessment,  fasting  venous  blood  samples,  analysis  and
+encouragement of compliance with treatment, and further dietary
+counselling  where  appropriate.  Supine  blood  pressure  was
+measured with a standard sphygmomanometer after 5 min and
+mean arterial  blood pressure calculated as  diastolic pressure (at
+Korotkov phase 5) plus 3 purse pressure. Angina was assessed as
+number of episodes per week, duration in min, severity on a scale of
+1  to 7 (7 worst), and by Canadian Heart Association functional
+clasps.7 Changes in medication were recorded. Patients underwent
+repeat  angiography approximately  3  years  after  randomisation
+(mean [SD] 39 [3’5] months).
+
+Coronary angiography and image analysis
+
+We used the Judkins percutaneous femoral artery technique for
+coronary angiography, without routine use of vasodilators, and with
+almost exclusive use of ’Cordis’ 8 F catheters (Miami, Florida,
+USA). 4 views of the right and 7 of the left coronary artery were
+routinely recorded on 35 mm cine-film at 60 frames/s by use of a
+caesium iodide intensifier  with a  1  cm2 grid for  correction of
+pincushion  distortion.  Viewing  angles,  table  height,  and  the
+sequence of views were recorded and reproduced as exactly as
+possible, by the same cardiologist, at repeat angiography.
+
+Coronary artery segments 1-3, 5-8, and 11-138 were analysed if
+there was a clear unobstructed view, and the segment was oriented
+in the image plane and clearly seen in at least 2 different views.
+Paired, coded films were compared on a twin-channel projector and
+paired frames of the same view at end-diastole were photographed;
+the photographs were coded, and marked to identify the segments
+for image analysis. Coding was done by an investigator who was
+aware: of the film sequence but blinded to the therapeutic group;
+comparison of the coded films and image analysis were done by
+investigators blinded to the sequence and therapeutic group of the
+angiograms and photographs.
+
+Selected  cine-frames  were  digitised  at  high  resolution
+(1024 x 1024 pixels, 8-bit grey scale) by use of a ’Videk Megaplus’
+CCD array camera (Eastman Kodak, Rochester, New York, USA),
+and stored on optical disc.  Usually 4 projections were stored to
+ensure adequate views of as many arterial segments as possible.
+Edges of segments and of the catheter were delineated by computer
+
+TABLE Plasma LIPIDS AND LIPOPROTEINS AT BASELINE AND DURING TRIAL
+
+I  I
+
+565
+
+Mean (SEM) values shown; within-group comparisons by paired t-test. U =usual care, D=diet, DC = diet plus cholestyramine groups
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I
+
+according to the methods of Brunt and colleagues,9-11 and for each
+paired projection this process was usually repeated in three adjacent
+frames to improve precision; all detected edge-points were stored on
+disc.  From these  stored edge-points,  corrected  for  pincushion
+distortion from the intensifier system, the mean width along each
+segment, expressed in pixels, was computed. Mean absolute width
+of the segment (MAWS) and minimum absolute width of each
+segment (MinAWS), expressed  in  mm, were  calculated  from
+catheter dimensions obtained by micrometry.
+
+Measures of outcome
+
+Change in MAWS was the principal end-point measure, and an
+indication of overall change in coronary atherosclerosis for each
+patient was given as an overall MAWS change, averaged from all
+changes obtained from the measurable segments. The definition of
+disease progression and regression for patients and for individual
+segments took into account the imprecision (2 SD, calculated from
+the  variability  of  repeated  analysis  of  arterial  segments)  of
+measurement of the change in  MAWS; overall  and segmental
+progression was thus defmed as a change exceeding -0-17 mm and
+-0-24 mm, respectively,  and regression  as  change exceeding
++0-17 mm and  +0-24 mm diameter, respectively.  Secondary
+angiographic  end-points  were the  change in  MinAWS (mm),
+percentage  diameter stenosis,12  and the  edge-irregularity  index
+(%).13  Because  totally  occluded  segments  could  not  undergo
+edge-detection,  and  overall  assessment  would  be  seriously
+incomplete without taking them into account, we also defined a
+"functional" segmental width which would be zero if blood did not
+reach  that  segment because  of occlusion  of a  more proximal
+segment.  These and other approaches to  quantitative coronary
+angiography have been reviewed.l’
+
+Clinical end-points recorded were deaths (by cause), non-fatal
+myocardial  infarction,  coronary  artery  bypass  surgery  or
+angioplasty during the trial, stroke, frequency and degree of angina,
+and change in anti-anginal medication.
+
+Laboratory investigations included fasting (12 h) plasma lipid
+and lipoprotein concentrations at  each clinic visit,  with plasma
+separated  immediately  and  analysis  started  the  same  day.
+Cholesterol  and  triglyceride  concentrations  were  measured
+enzymatically,  with mean interassay  coefficients  of variation of
+2-8% at 3-0 mmol/1 and 3-4% at 7-6 mmoljl for cholesterol; and
+3-0% at 1-8 mmol/1 and 2-8% at 3-0 mmol/1 for triglyceride. High
+density lipoprotein (HDL) was isolated by precipitation of very low
+density  (VLDL)  and  low  density  lipoproteins  (LDL)  with
+heparin-manganese chloride;  excess manganese was chelated by
+sodium-edetic acid before cholesterol assay. LDL cholesterol was
+derived by the Friedewald formula. Haematocrit, liver and thyroid
+function, and glucose and creatinine concentrations were measured
+at baseline and 6-monthly thereafter.
+
+TABLE III-BASELINE ANGIOGRAPHIC DATA
+
+Mean (SEM) values shown for continuous vanables  Ell = edge-Irregulanty mdex;
+U= usual care, D=diet, and DC= diet plus cholestyramme groups
+
+! 
+
+I 
+
+I
+
+Statistical methods
+
+Changes  in  plasma  lipids  and  lipoproteins,  weight,  blood
+pressure, and smoking were examined by the paired  Student’s
+t-test. One-way analysis of variance and the unpaired t-test were
+used to compare group differences  in the changes of MAWS,
+MinAWS, percentage  diameter  stenosis,  and edge-irregularity
+index by patient (overall score) and by segment. The influence of
+group differences in baseline variables on differences of changes in
+MAWS was studied by analysis of covariance. Differences in the
+proportion of patients and segments that showed progression or
+regression were compared by the X2 and Fisher’s exact tests. Group
+differences  in  the  proportion of patients  with  definite  clinical
+end-points were also compared by Fisher’s exact test.  Baseline,
+in-trial, and changes in recorded variables associated with changes
+in MAWS were identified by stepwise multiple linear regression.
+Finally,  a multivariable linear  equation  was derived to  predict
+MAWS changes by model-fitting analysis of variables that were not
+co-correlated and achieved a significance of p <  0’ 1 in univariate
+regression.
+
+Results
+
+90 patients were randomised, of whom 74 completed the
+study with paired angiograms suitable for analysis at a mean
+(SD) interval of 39 (3-5) months. 4 patients died suddenly;
+10 withdrew voluntarily after a mean of 6 months because of
+unwillingness  to  undergo  a  second  angiogram  (2),
+intolerance  to  cholestyramine  (3),  emigration  (2),  or
+neuropsychiatric disturbance (2); 1 had a minor stroke after
+24  months  and  was  withdrawn;  and  2  had  only  one
+angiogram available for analysis.
+
+Table  I  shows  the  demographic  and  clinical
+characteristics of the patients. There were no statistically
+significant differences in the characteristics shown between
+patients who completed or did not complete the study, nor
+between the treatment groups.
+
+Weight and blood pressure measurements were similar
+among the treatment groups before and during the study.
+Cigarette  use tended to  decrease but within-group and
+between-group differences were not statistically significant.
+
+Plasma lipids and lipoproteins
+
+Table  11  shows  plasma  lipid  and  lipoprotein
+concentrations and lipoprotein ratios by treatment group.
+There were no significant group differences at outset with
+
+TABLE IV-ANGIOGRAPHIC CHANGES BY PATIENT
+
+I I I I
+*By analysis of vanance.
+tp = 0 06, tp < 
+MAWS = mean absolute width of segment, MmAWS=mirnmum absolute width of
+segment, % DS=percentage diameter stenosis;  EU=edge-irregu)ar!ty index; and
+U=usual care, D=diet,and DC= diet plus cholestyramine groups.
+
+0-05, &sect;p < 0.001, 11 p < 0 01 
+
+vs usual care group
+
+566
+
+TABLE V-ANGIOGRAPHIC CHANGES BY SEGMENT
+
+I 
+
+I 
+
+- 
+
+I
+
+llB’lo) 
+
+I 
+
+Z-V t)- 1) 
+
+I 
+
+- wyJll 1 
+
+I 
+
+-o-r l-oJ-,
+
+Mean (SEM) values shown. BS = baseline stenosis, other abbreviations as for table IV.
+*By analysis of vanance
+tp 00001, &Dagger;p<  0001, &sect;p < 0 005, yp<0  01, &par;p <0  05, **p=0 06, and ttp = 0-08 vs usual care group by unpaired t-test.
+
+respect  to  plasma  cholesterol,  LDL cholesterol,  HDL
+cholesterol, triglyceride, cholesterol/HDL cholesterol ratio,
+or HDL/LDL cholesterol ratio. In group U the mean values
+were very stable during the study. In group D there were
+falls  in  plasma  cholesterol  (14-2%),  LDL cholesterol
+(16-2%),  triglyceride  (20%),  plasma  cholesterol/HDL
+cholesterol ratio (156%), and LDL/HDL ratio (17-6%). In
+group DC the falls in cholesterol (25-3%), LDL cholesterol
+(35-7%), cholesterol/HDL cholesterol ratio (24-1%), and
+LDL/HDL cholesterol  ratio  (34-6%) were greater than
+those observed in group D, but there was no significant
+reduction  in  triglyceride.  Plasma  HDL  cholesterol
+concentration  did  not  alter  significantly  in  groups  D
+or DC.
+
+Angiographic findings
+
+differences  between  groups). 
+
+Paired measurements were made on 489 segments, with a
+mean (SD) of 6-4 (2-0) segments analysed per patient (no
+significant 
+Baseline
+angiographic data by treatment group are given in table ni.
+Because the three patients in group U who died had severe
+CHD at entry, mean baseline values for diameter stenosis
+and edge-irregularity index in the surviving patients were
+lowest in this group, however, between-group differences
+are not statistically significant. Total numbers of occluded
+segments,  patients  with  occlusions,  and  mean ejection
+fractions, were similar between groups.
+
+Table  iv  shows  the  mean within-patient  changes  in
+quantitative  estimates  of  coronary  artery  disease  by
+treatment group. MAWS fell by 0-201 mm in group U, but
+increased by 0-003 mm in group D, and increased by 0 103
+for trend); 95% confidence
+mm in group DC (p<0-012 
+intervals  for  mean  differences  between  groups  were
+- 0424,0016mm(UvsD)and -0-470, -0.139mm(Us
+DC).  Similar  trends  were seen  with other  measures of
+angiographic  change  (table  IV).  Group  differences  in
+outcome  measures  were  not  significantly  affected  by
+
+differences  in  baseline  variables.  Assessment  of  the
+distribution  of results,  in which the few extreme values
+recorded  were  excluded,  showed  similar  differences
+between treatment groups but the reduced variation led to
+smaller p values such that group differences were significant
+for all outcome measures.
+
+Overall progression was observed in 11 patients (46%) in
+group U, 4 (15%) in group D, and 3 (12%) in group DC
+for trend, X2 test).  Regression of atherosclerosis
+(p < 0-02 
+occurred in 1 patient (4%) in group U, 10 patients (38%) in
+for trend).
+group D, and 8 (33%) in group DC (p < 0-02 
+Ejection fraction did not alter significantly in any of the
+groups. The mean interval (SD) between paired angiograms
+was not significantly different between groups: U 40-0 (4’5),
+D 38-1 (3-5), and DC 38-9 (2-8) months.
+
+The effects of treatment by segment are shown in table v,
+grouped for  all  segments,  all  patent  segments,  and by
+baseline  severity  of disease  (minimal,  <  15% diameter
+stenosis; moderate, 15-50% diameter stenosis; and severe,
+stenosis).  All  angiographic  criteria  consistently
+> 50% 
+worsened in group U and consistently improved in groups
+D and DC for all segments and for all segments patent at
+outset, with significant trends across all treatment groups.
+Segments with minimal, moderate, and severe baseline
+stenosis all showed favourable trends in both intervention
+groups, but deterioration in the usual care group (table v).
+
+TABLE VI-CARDIOVASCULAR EVENTS
+
+*Only excludes patients who withdrew
+tp <  0 05, tp <  0 01  vs usual care group by Fisher’s exact test
+
+I 
+
+I
+
+TABLE ]VII-CORRELATIONS BETWEEN CHANGE IN MAWS AND
+CHANGES FROM BASELINE OR MEAN IN-TRIAL PLASMA LIPID
+
+AND LIPOPROTEIN
+
+1B,,---  :-  ...._:_1
+
+Pooled data, n = 74
+
+The most striking changes in diameter stenosis were seen in
+the worst affected segments.
+
+Among controls 34% of segments showed progression,
+significantly  more  (p < 0-01 
+for  trend)  than  in  both
+intervention  groups (group D, 22%; group DC, 17%).
+More segments showed regression in groups D and DC
+than  in  controls,  but  the  trend  was  not  significant.  5
+segments became occluded in group U, 3 in group D, and 0
+in  group  DC (p<0-09 vs 
+UC);  1  occluded  segment
+recanalised during the study, in group DC.
+
+Clinical events
+
+14 patients had clinical cardiovascular events as shown in
+
+table VI, 10 of whom were controls (p < 0-05  vs diet, p < 0-01
+vs diet plus cholestyramine). All deaths were sudden and
+were not caused by trauma or non-cardiovascular disease.
+Angina symptoms were not significantly changed among
+controls,  whereas  both  intervention  groups  showed
+significant improvements (p <  0-01)  in severity of angina
+and CHA functional score. The change in weekly frequency
+of angina  was  correlated  with  the  change  in  MAWS
+(r = 0-31, p=0008).
+
+During the  study  &bgr;-blockers  were used by 35 %  of
+patients,  calcium  antagonists  by 34%, long-acting  oral
+nitrates by 24%, diuretics by 19%, aspirin by 18%, and
+dipyridamole by 13%. The proportion of patients taking
+these drugs did not differ significantly among treatment
+groups. 10 controls (42%) required increased anti-anginal
+treatment compared with 5 (19%) in group D and 6 (25%)
+in group DC. There was no significant correlation between
+change in medication and change in MAWS.
+
+1  nn
+
+Fig 1-Correlation of mean absolute width of segment (by
+patient) and mean plasma LDL cholesterol concentration
+during trial.
+&Dgr;MAWS=0.58-0.15x LDL, r= -0-40; p<0  001.
+&dtrif; = control, &bullet;  = diet; 0 = diet plus cholestyramme.
+
+567
+
+Plasma LDL/HDL cholesterol ratio 
+
+v
+
+Fig  2-Correlation of  mean absolute width of segment (by
+
+patient) and in-tri&agrave;l  LDL/HDL cholesterol ratio.
+AMAWS == 0 48-014x X LDL/HDL, r=-0.42, p<0’001.
+Symbols as for fig 1.
+
+Correlations with change in MA WS
+
+Of baseline variables, only percentage diameter stenosis
+was  significantly  correlated  with  change  in  MAWS
+(r = 0-28, p = 0-016; by patient); it was also associated with
+change  in  MinAWS  (r=0’36,  p<001), 
+change  in
+percentage diameter stenosis  (r=-0&deg;55,  p<0&deg;001), 
+and
+change in edge-irregularity index (r = - 0-50, p < 0-001).
+Mean lipid and lipoprotein concentrations during the trial
+were more strongly correlated with the change in MAWS
+than were the changes from baseline (table VII); strongest
+correlations were seen with mean LDL cholesterol (fig 1)
+and LDL/HDL cholesterol ratio (fig 2). Associations were
+also observed between the change in MAWS and in mean
+arterial  blood pressure (r=0’24, p = 0-04) and treatment
+group (r = - 0-34, p = 0-003), but the change in MAWS was
+independent  of  treatment  group  if  the  in-trial  LDL
+cholesterol  concentration  or  LDL/HDL cholesterol  ratio
+were taken into  account. No significant  correlations  were
+found with age, BMI, current smoking or change in smoking
+habits,  alcohol consumption, personality  type,  systolic  or
+diastolic blood pressures, or use of anti-anginal drugs.
+
+The  best  multilinear  regression  model  to  estimate
+change in MAWS included change in mean arterial blood
+pressure (MBP) and the mean LDL/HDL cholesterol ratio
+during the trial  (&Dgr;MAWS =0.015  x  AMBP-0-145  x
+LDL/HDL + 0 47, r = 0 50, p < 0 0001).
+
+Discussion
+
+As in  other trials  of lipid  lowering  in  atherosclerotic
+femoral2,15 and coronary3,4,16-19 artery disease, the STARS
+trial used as an end-point arteriographic assessment of the
+arterial  lumen, which may not necessarily  equate with
+progression  and regression  of atherosclerosis.  However,
+comparison with the  effects  of lipid-lowering studies  in
+animals2O-22 suggests that such trials in man at least partly
+reflect  favourable  effects  on  the  natural  history  of
+atherosclerosis. Lysis of arterial thrombus might contribute
+to luminal widening, but persistent angiographic changes at
+an average interval of 39 months would be unlikely; we have
+no reason to suspect that controls had more thrombi at
+presentation than the intervention groups. Experimental
+hypercholesterolaemia 
+impairs  endothelium-mediated
+vasodilator  responses,23,24  which  in  animals  are  partly
+restored by a low-fat diet.25 Such an effect could contribute
+to  luminal widening  seen  in  "regression"  studies.  The
+
+568
+
+consistent  associations  observed  between  arteriographic
+improvement and clinical end-points also suggest that such
+measurements are related to cardiac prognosis.17,18 However,
+macroscopic evidence of regression of atherosclerosis in man
+is limited to necropsy series which show fewer arterial lesions
+during  wartime  nutritional 
+less
+consistently, among patients who die from cancer.27
+
+deprivation26 
+
+or, 
+
+In this study of men with CHD, coronary atherosclerosis,
+and mild-to-moderate hypercholesterolaemia, almost half
+(46%) the controls, who received usual medical treatment,
+showed progressive coronary narrowing and only 1  (4%)
+showed luminal widening. By contrast, subjects advised to
+follow  a  lipid-lowering  diet,  and  those  on  diet  and
+cholestyramine,  showed a  66% fall  in  the  incidence of
+progression, a 10-fold increase in the frequency of luminal
+widening, and fewer cardiac events; patients in the diet plus
+cholestyramine  group  also  showed  widening  of  mean
+coronary diameter and of stenoses, compared with controls.
+Other investigators  have studied the effects  of lipid-
+lowering diets  on coronary disease.  In the Leiden trial,3
+which was not controlled, a vegetarian diet with a very high
+ratio of polyunsaturated fat to saturated fat was employed
+and favourable coronary angiographic changes correlated
+with the fall  in  serum cholesterol and the rise  in HDL
+cholesterol. In the Lifestyle Heart Trial,4 a restrictive diet
+(<  10% energy from fat)  was employed as  one of five
+interventions; a favourable effect on coronary stenoses was
+observed,  but the  investigators  did  not  claim  that  this
+regimen was practicable. The lipid-lowering diet used in our
+trial was readily accepted and has been successfully used for
+a  decade.28,29  With  careful  dietary  counselling  and
+motivation, most patients in the STARS study complied
+quite well with the diet for over 3 years and it thus represents
+the first randomised, controlled trial  of moderate dietary
+change  as  a  unifactorial  intervention  in  patients  with
+coronary  atherosclerosis.  A second  intervention  group
+received dietary advice plus cholestyramine to investigate
+the  effect  of  a  further  reduction  of  LDL cholesterol.
+Cholestyramine reduces the incidence30 and progression31 of
+CHD, has a good safety record, is well tolerated in modest
+dosage, and is  still  recommended for drug treatment of
+hypercholesterolaemia.1 We found diet plus cholestyramine
+to be more effective than diet alone, except in patients with
+stenosis at outset, and led to a greater degree of
+> 50% 
+regression of coronary artery disease. Other trials based on
+coronary  angiography  have  also  shown  a  consistently
+favourable effect of more intensive lipid-lowering treatment
+on coronary artery stenoses.4,16-19
+
+Analysis of up to 10 coronary artery segments, provided
+that they were clearly seen, allowed examination of relatively
+normal coronary arteries  with less  than  15 %  stenosis  at
+outset, of segments affected by moderate stenoses, and of
+severely stenosed segments. As with other lipid-lowering
+trials,16,18 the most favourable effects tended to be seen in the
+segments or stenoses which were most severely affected.
+The plaques most likely to cause acute coronary events are
+lipid-rich lesions of moderate size associated on average with
+30-40% stenosis;32,33 we observed significant regression or
+reduction in  progression in  such segments.  Results  are
+presented by patient (a measure of overall trend18 which is
+comparable to visual overall assessment of angiograms16)
+and by segment, which greatly increases the number of
+observations and permits separate assessment of effects on
+lesions of different initial severity. Segment-specific analysis
+is based on the absolute width of coronary segments3 rather
+than  percentage  stenosis  alone,  because  the  latter
+
+measurement assumes normality of the adjacent segment.
+When segment  diameters  were  treated  as  continuous
+variables  rather  than  categorical  ones  (progression  or
+regression alone), change in diameter was found to be related
+to mean LDL cholesterol concentration during the trial.
+The correlation was modest (r = &mdash; 0-40), as found in other
+trials,16,18,19 but highly significant (p <  0-001). The lower the
+LDL cholesterol  concentration,  the  more striking  the
+regression  of coronary atherosclerosis.  Accordingly, the
+lower LDL cholesterol concentrations achieved by diet plus
+cholestyramine, compared with diet alone, were associated
+with  a  greater  increase  in  coronary  artery  diameter.
+However, patient-specific analysis showed no difference in
+the incidence of progression and regression between the two
+interventions-which may reflect  a greater sensitivity of
+segment-specific  analysis  or  a  greater  degree  of
+improvement in vessel diameter in those patients in the DC
+group who also showed an overall improvement.
+
+Most,  though  not  all,  workers  believe  cholesterol
+lowering to be justified in patients with CHD, and a recent
+meta-analysis  of  lipid-lowering  trials  for  secondary
+prevention indicates  a  substantial  and highly significant
+reduction  of  further  coronary  events.34  Studies  of
+atherosclerosis regression,  such as  STARS, complement
+trials  based  on  clinical  end-points  and  show  that
+improvement  in  angiographic  appearance,  or  arrest  of
+progression, may be expected in many patients who receive
+dietary advice and/or lipid-lowering drugs. Although the
+changes achieved in  coronary diameter or in percentage
+stenosis are small the haemodynamic effects, particularly for
+tight stenoses, may be more substantial; moreover, trends
+seen during the 1-5 years’ follow-up of most trials may be
+continued with more prolonged therapy. Although several
+regression  trials  have  shown  improved  angiographic
+appearances, these have been achieved at widely different
+mean LDL cholesterol concentrations of 2-46 mmol/1" to
+4-45 mmol/1.19 In this study, the regression line in fig  1
+suggests a tendency to improvement when LDL cholesterol
+was below 3-0-3-5 mmol/1. However, the results achieved at
+various mean cholesterol  concentrations in various trials
+might also indicate that the extent of reduction in LDL
+cholesterol  may  be  as  important  as  the  absolute
+concentration attained. In this study we observed a closer
+correlation  between  mean  in-trial  LDL  cholesterol
+concentrations and change in MAWS than between the fall
+in LDL cholesterol and change in MAWS (table vil).
+
+atherosclerosis 
+
+The findings of the STARS trial show that lipid-lowering
+dietary intervention is indicated in men with symptomatic
+and  plasma  cholesterol
+coronary 
+concentrations  above  6  mmol/l,  provided  that  their
+prognosis is not severely limited by myocardial damage or
+other  disease;  this  benefit  may be  increased by lipid-
+lowering drugs. We believe that there is growing evidence to
+support the use of lipid-lowering intervention, first by diet
+but with drug treatment added if necessary, in men and
+women with  CHD, irrespective  of plasma  cholesterol
+concentration. Because of the high absolute risk of further
+CHD in such patients, and the fact that they are already
+under medical supervision, secondary prevention by risk
+factor reduction is a particularly cost-effective approach to
+the management of CHD .34
+
+We thank Dr B. M. Slavin, Dr C. Forfar, Dr R. Wray, Dr J. Quiney, Dr
+M. Ball, Dr C. Cortese, Dr J. N. Mount, Dr P. R. Turner, Ms C. Iles, Ms
+P. Jackson, Mrs J.  Thompson, Mrs J. Porteus, Ms S. Mandalia, and Mr
+W. Jefferson for their assistance, and Unilever plc, the Chemical Pathology
+Fund of St Thomas’ Hospital, and Bristol-Myers Ltd for fmancial support.
+
+REFERENCES
+
+1. Study  Group.  The  treatment  of  hyperlipidaemia  in  adults.
+Recommendations of the European Atherosclerosis Society. Eur Heart
+J 1988; 8: 277-306.
+
+2. Duffield RGM, Lewis B, Miller NE, Jamieson  CW, Brunt JNH,
+Colchester ACF. Treatment of hyperlipidaemia retards progression of
+symptomatic femoral atherosclerosis. Lancet 1983; ii: 639-42.
+
+3. Amtzenius AC, Kromhout D, Barth JD, et al. Diet, lipoproteins, and the
+progression of coronary atherosclerosis.  N Engl J Med 1985; 312:
+805-11.
+
+4. Ornish D, Brown SE, Scherwitz LW, et al. Can lifestyle changes reverse
+
+coronary heart disease? Lancet 1990; 336: 129-33.
+
+5. Blankenhom DH, Johnson RL, Mack WJ, El Zeim HA, Vailas LI. The
+influence of diet on the appearance of new lesions in human coronary
+arteries. JAMA 1990; 263: 1646-52.
+
+6. Lewis B, Chait A, Oakley CM, et al. Serum lipoprotein abnormalities in
+patients with ischaemic heart  disease:  comparisons with  a control
+population. Br Med J 1974; iii: 489-93.
+
+7. Campeau L. Grading of angina pectoris. Circulation 1976; 54: 522-23.
+8. Austen WG, Edwards JE, Frye RI, et al.  AHA committee report. A
+reporting system on patients evaluated for coronary artery disease.
+Circulation 1975; 51: 7-40.
+
+9. Colchester ACF, Brunt JNH. Measurement of vessel calibre and volume
+blood flow by dynamic quantitative digital  angiography:  an initial
+application showing variation of cerebral artery diameter with PaCO2.
+J Cerebr Blood Flow Metab 1983; 3: S640-41.
+
+10. Astley SM, Brunt JNH. Exploitation of computer vision technology in
+coronary cineangiographic analysis.  (Computers in cardiology,  13.)
+Washington, DC: IEEE Computer Society Press, 1987: 579-82.
+
+11. Brunt JNH. Design, implementation, validation and use of a system for
+cineangiography.  Third  international
+quantitative 
+symposium on coronary arteriography (Rotterdam, 1989): 32 (abstr).
+12. Brown BG, Bolson EL, Dodge HT. Arteriographic  assessment  of
+
+coronary 
+
+coronary atherosclerosis. Arteriosclerosis 1982; 2: 2-15.
+
+13. Crawford DW, Brooks SH, Selzer RH, Barndt R, Beckenbach ES,
+Blankenhom  DH.  Computer  densitometry  for  angiographic
+assessment of arterial cholesterol content and gross pathology in human
+atherosclerosis. J Lab Clin Med 1977; 89: 378-92.
+
+14. Reiber JHC. An overview of coronary quantitation techniques as of 1989.
+In:  Reiber  JHC,  Serruys  PW,  eds.  Quantitative  coronary
+arteriography. Dordrecht: Kluwer, 1991: 55-132.
+
+15. Blankenhorn DH, Azen SP, Crawford DW, et al.  Effects of colestipol-
+niacin therapy on human femoral atherosclerosis. Circulation 1991; 83:
+438-47.
+
+16. Blankenhorn DH, Nessim SA, Johnson RL, Sanmarco ME, Azen SP,
+Cashin-Hemphill L. Beneficial effects of combined colestipol-niacin
+therapy on coronary atherosclerosis and coronary venous bypass grafts.
+JAMA 1987; 257:3233-40.
+
+17. Buchwald H, Varco RL, Matts JP, et al.  Effect of partial ileal bypass
+surgery on mortality and morbidity from coronary heart disease in
+
+569
+
+patients with hypercholesterolemia.  Report of the Program on the
+Surgical Control of the Hyperlipidemias (POSCH). N Engl J Med
+1990; 323: 946-55.
+
+18. Brown BG, Albers JJ, Fisher ID, et al.  Regression of coronary artery
+disease as a result of aggressive lipid lowering in men with high levels of
+apolipoprotein B. N Engl J Med 1990; 323: 1289-98.
+
+19. Kane JP, Malloy MJ, Ports TA, Phillips NR, Diehl JC, Havel RJ.
+Regression of coronary atherosclerosis during treatment of familial
+hypercholesterolaemia with combined drug regimens. JAMA 1990;
+264: 1007-12.
+
+20. Armstrong ML. Regression of atherosclerosis. In: Paoletti R, Gotto AM,
+eds. Atherosclerosis reviews, vol 1. New York: Raven, 1976: 137-82.
+21. Wissler  RW, Vesselinovitch  D.  Studies  of regression  of advanced
+atherosclerosis in experimental animals and men. Ann NY Acad Sci
+1976; 275: 363-78.
+
+22. La Ville AE, Seddon AM, Shaikh M, Rowles PM, Woolf N, Lewis B.
+Primary prevention of atherosclerosis by lovastatin in a genetically
+hyperlipidaemic rabbit strain. Atherosclerosis 1989; 78: 205-10.
+
+23. Habib JB, Wells C, Williams S, Henry PD. Atherosclerosis impairs
+endothelium-dependent  arterial  relaxation.  Circulation  1984;  70:
+123-26.
+
+24. Vita JA, Treasure CB, Nabel EC, et al. Coronary vasomotor response to
+acetylcholine  relates  to  risk  factors  for  coronary  artery  disease.
+Circulation 1990; 81: 491-97.
+
+25. Harrison DG, Armstrong ML, Freiman PC, Heistad DD. Restoration of
+endothelium-dependent arterial  relaxation  by dietary  treatment of
+atherosclerosis. Circulation 1987; 80: 1808-11.
+
+26. Vartiainen I, Kanerva K. Arteriosclerosis and wartime. Ann Med Intern
+
+Fen 1947; 34: 705-55.
+
+27. Wilens.  The resorption of arterial  atheromatous deposits  in wasting
+
+disease. Am J Pathol 1947; 33: 793-804.
+
+28. Lewis  B,  Hammett F,  Katan  MB, et  al.  Towards  an  improved
+lipid-lowering diet: additive effects of changes in nutrient intake. Lancet
+1981; ii:  1310-13.
+
+29. Choudhury S, Jackson P, Katan MB, et al.  A multifactorial diet in the
+
+management of hyperlipidaemia. Atherosclerosis 1984; 50: 93-103.
+
+30. Lipid Research Clinics Program. The Lipid Research Clinics coronary
+primary prevention trial results, I. Reduction in incidence of coronary
+heart disease. JAMA 1984; 251: 351-64.
+
+31. Brensike  JF,  Levy RI,  Kelsey  SF,  et  al.  Effects  of therapy  with
+cholestyramine on progression of coronary arteriosclerosis: results of
+the NHLBI type II coronary intervention study. Circulation 1984; 69:
+313-24.
+
+32. Ambrose JA, Tannenbaum MA, Alexopoulos D, et al.  Angiographic
+progression  of  coronary  artery  disease  and  the  development  of
+myocardial infarction. J Am Coll Cardiol 1988; 12: 56-62.
+
+33. Hackett D, Vervilghen J, Davies G, et al. Coronary stenoses before and
+
+after acute myocardial infarction. Am J Cardiol 1989; 63: 1517-18.
+
+34. Roussouw JE, Lewis B, Rifkind BM. The value of lowering cholesterol
+
+after myocardial infarction. N Engl J Med 1990; 323: 1112-19.
+
+Mechanism of grass-pollen-induced asthma
+
+Many asthmatics are sensitive to rye-grass pollen,
+but pollen grains are too large to penetrate the lower
+airways. Our aim was to investigate the mechanism
+by which rye-grass pollen causes asthma.
+
+A major allergen of rye-grass pollen, Lol pIX, is
+located in intracellular starch granules within pollen
+grains.  In-vitro tests showed that pollen grains are
+ruptured in rainwater by osmotic shock, each grain
+releasing  about  700  starch  granules  into  the
+environment. These granules are small enough to
+enter the airways (<3 
+&micro;m  in diameter). The starch
+granules were present in atmospheric samples taken
+during the  pollen  season,  and showed a  50-fold
+increase  in  atmospheric  concentration  on  days
+following  rainfall.  Isolated  granules  elicited  IgE-
+mediated  responses  in  asthmatic  patients,  and 4
+patients  with  rainfall-associated  asthma  who
+
+underwent an inhalation challenge test had striking
+bronchial  constriction  after  exposure  to  starch
+granules.
+
+Starch  granules  released  from  rye-grass  pollen
+
+seem to be capable of causing asthma.
+
+Introduction
+
+Epidemics  of  asthma  have  been  associated  with
+thunderstorms and related atmospheric events.1  On two
+
+ADDRESSES.  School  of  Botany,  University  of  Melbourne,
+Parkville, Victoria 3052, Australia (C. Suphioglu, BSc, M. B. Singh,
+PhD,  P.  Taylor,  BSc,  Prof  R.  B  Knox,  DSc);  Respiratory Medicine
+Department,  Monash Medical  Centre,  Clayton,  Victoria  (R.
+Bellomo, FRACP, P.  Holmes, FRACP); and Allergy and Respiratory
+Immunology Unit, Alfred Hospital,  Prahran, Victoria (R  Puy,
+FRACP). Correspondence to Prof R  Bruce Knox.
+
+

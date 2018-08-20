@@ -1,0 +1,919 @@
+Saturday 12 December 1981
+
+EFFECT OF DIET AND SMOKING
+
+INTERVENTION ON THE INCIDENCE OF
+
+CORONARY HEART DISEASE
+
+Report from the Oslo Study Group of a Randomised
+
+Trial in Healthy Men
+
+I. HJERMANN
+
+K. VELVE BYRE
+
+I.  HOLME
+P. LEREN
+Medical Outpatient Clinic,  Ullevaal Hospital,
+
+Oslo Department of Health and Life Insurance Companies’ Institute
+
+for Medical Statistics,  Oslo, Norway
+
+Summary 
+
+16 202  men,  aged  40-49  years,  were
+screened for coronary risk factors. Of these,
+1232 healthy,  normotensive men at high risk  of coronary
+heart disease (CHD) were selected for a 5-year randomised
+trial to show whether lowering of serum lipids and cessation
+of smoking could reduce the incidence of CHD. Men were
+admitted to the trial if they had serum cholesterol levels of
+7.5&mdash;9.8  mmol/l (290-380  mg/dl),  coronary  risk  scores
+(based  on  cholesterol  levels,  smoking  habits,  and  blood
+pressure)  in  the  upper quartile  of the  distribution,  and
+systolic blood pressures below 150 mm Hg (mean of two
+measurements).
+
+The men in the intervention group were recommended to
+lower  their  blood  lipids  by change  of diet  and  to  stop
+smoking.  Mean  serum  cholesterol  concentrations  were
+approximately 13% lower in the intervention group than in
+the control group during the trial (based on the difference
+between the mean of 3 prerandomisation values and the mean
+of yearly  values  during  the  trial).  Mean fasting  serum
+triglycerides fell by 20% in the intervention group compared
+with controls. 80% of the men in both groups smoked tobacco
+daily at the start of the study. The mean tobacco consumption
+per man decreased by 45% more in the intervention group
+than in the control group. However, only 25% of the smokers
+in  the  intervention  group  completely  stopped  smoking
+compared with 17% in the control group. Diagnosis of events
+of cardiovascular disease during the study was made blindly
+according  to  predefined  criteria  by two cardiologists  not
+involved in the study. At the end of the observation period the
+incidence of myocardial infarction (fatal and non-fatal) and
+sudden death was 47% lower in the intervention group than
+
+in the controls (p=0.028, two-tailed log rank test). When the
+incidence of strokes was added, the difference between the
+groups was still significant.
+
+It is concluded that in healthy middle-aged men at high risk
+of CHD advice to change eating habits and to stop smoking
+significantly  reduced  the  incidence  of the  first  event  of
+myocardial infarction and sudden death. Statistical analysis,
+by  Cox’s  proportional  hazards  model  shows  that  the
+reduction in incidence in the intervention group is correlated
+with the reduction in total cholesterol and to a lesser extent
+with smoking reduction.
+
+Introduction
+
+IMPROVED hospital  care  has  lowered hospital mortality
+from acute coronary heart disease (CHD). However, the goal
+of a sizeable reduction in the prevalence of CHD in the young
+and the middle-aged can be achieved only by preventing or
+postponing the disease.
+
+Many studies  have shown that  certain  factors,  such as
+hyperlipidaemia, smoking, and raised blood pressure,  are
+statistically associated with the risk of cardiovascular disease
+developing.1-’ However, this association does not prove that
+they  are  causes  of  cardiovascular  disease;  therefore
+intervention  trials  have been carried  out.g-’3  These trials
+have not shown unequivocal results except for the beneficial
+effect of antihypertensive treatment on prevention of stroke.
+No controlled  intervention  trials  on healthy middle-aged
+subjects at high risk of CHD have been carried out.
+
+The purpose of our study was to  find  out whether the
+lowering of high levels of blood lipids by dietary changes and
+the cessation of smoking, if maintained for many years, would
+lead to reduction in the incidence of first attacks of CHD in
+men aged 40-50 years.
+
+Subjects
+
+Subjects and Methods
+
+All Oslo men aged 40-49 years and a 7% sample of men aged
+20-39 years were invited for screening of coronary risk  factors
+during 1972-73. 65% (16 202 men) of the group aged 40-49 years
+attended  the  screening.  Recall  letters  were  not  sent  to  non-
+attenders. From this cohort, healthy normotensive men with high
+risk of CHD were selected for a controlled trial if they had serum
+cholesterol levels (mean of two measurements) of 7 - 5-9 - 8 mmol/1
+(290-380 mg/dl), coronary risk scores (based on cholesterol levels,
+
+8259
+
+1304
+
+smoking habits, and blood pressure) in the upper quartile of the
+distribution,  and  systolic  blood  pressures  (mean  of  two
+measurements)  below  150  mmHg. Those selected  had normal
+electrocardiograms (ECG) at  rest and no chest pain on exercise:
+ischaemic exercise ECG was not a reason for exclusion from the trial
+unless accompanied by angina.  Other causes of exclusion were
+disease of the cardiovascular system, clinical diabetes, fasting blood
+sugar  levels  above  7-5 mmol/1 (135  mg/dl),  cancer,  disabling
+disease, psychopathological disease, and alcoholism.
+
+A short diet history of 8 items giving subscores as shown below
+
+was taken before randomisation.
+
+Diet item 
+Butter or polyunsaturated margarine on bread. 
+Whole or skimmed milk. 
+Cream. 
+Cheese. 
+Meat, lean or fat. 
+Eggs/week. 
+Snacks, cakes, chocolate., 
+Polyunsaturated oil in cooking. 
+Totalscore 
+
+Score range
+0-8
+0-8
+0-4
+0-6
+0-6
+0-5
+0-5
+0-8
+0-50
+
+Total scores ranged from 0 to 50. Subjects with scores of 30 or
+more were  defined  as  being  on lipid-lowering  diets  and were
+excluded from the trial before randomisation.
+
+We wrote to the men who met the selection criteria, explaining the
+experimental design of the trial.  97% of those who received our
+letter  were  willing  to  participate  and signed  a  declaration  of
+willingness. They were told that the study was expected to last at
+least 5 years.
+
+The  sample  size  was  calculated  on  the  basis  of an  earlier
+prospective study of myocardial infarction (MI) in this age group in
+Oslo.3 With a mean starting cholesterol level of 8-5 mmol/1 (329
+mg/dl), a sample size of 615 in each group would give a 60% chance
+of discovering a 50% fall in incidence at the 5% level of significance.
+In addition, cessation of smoking in the intervention group would
+probably add to the statistical power of the trial.
+
+The screening and the electronic data-processing procedures, the
+calculation of coronary risk score, the methods of clinical and ECG
+examinations, and the laboratory methods have been described in
+earlier reports. 14-16
+
+Comparability.-There were no significant differences between
+the intervention and control groups for any of the factors shown in
+table I.  After the screening examination, two re-examinations were
+made before randomisation, the first of these when the subjects were
+fasting. The average cholesterol level at the first two examinations
+
+TABLE I-COMPARABILITY OF STUDY GROUPS BEFORE TRIAL
+
+*Value &plusmn;1  SD. Subjects were non-fasting at the screening examination and
+1st  re-examination.  SBP=systolic  blood  pressure;
+fasting  at  the 
+DBP=diastolic blood pressure.
+
+ranged from 7 - 5 to 9 - 8 mmol/1. Men with an average cholesterol
+level  above  the  limit  of  9-8 mmol/1  were  not  subjected  to
+randomisation but were referred for treatment.
+
+Exercise-ECG test and a clinical examination were done on the
+day of the second re-examination. The men were non-fasting, but
+were advised to avoid any heavy meal and smoking for 1  h before the
+test. A chair ergometer was used with stepwise-increasing loads of
+300,600,900, and 1200 kp.m/min, 6 min on each load, up to 85% of
+maximum age-adjusted heart rate,  or to exhaustion. 6-standard, 6
+precordial, and 6 right chest leads were used. Both resting ECG and
+exercise ECG were recorded by technical personnel not involved in
+the study. The ECG was identified by a code number: the results
+were analysed blindly by a cardiologist outside the study group. At
+this stage the ECG examination (resting and exercise) was used only
+as a supplement to the clinical examination, in order to exclude
+those with angina on exercise. Depression of the ST interval on
+exercise ECG was not a reason for exclusion from the trial unless it
+was accompanied by angina or other symptoms or signs of heart
+disease.  Thus,  some subjects  with "silent"  ST depressions  on
+exercise fulfilled the criteria of being healthy and were subjected to
+randomisation. None of the authors have been able to identify these
+men  either  at  randomisation  or  during  the  following  years.
+Therefore,  the  inclusion  of "silent"  ST depressions  did  not
+introduce any bias.
+
+If  the  inclusion  criteria  were  satisfied,  randomisation  was
+undertaken immediately after  the  exercise  test.  Each man was
+allocated to the intervention group or the control group by entering
+his  name on the first  open line in a protocol marked in advance
+according  to  a  randomisation  system.  The protocol  was never
+available to the investigators.
+
+Methods
+
+Intervention methods. -One of us (I. Hjermann) talked for 10- 15
+min individually to the men in the intervention group about the risk-
+factor  concept  and  the  purpose  of the  study.  The  dietitian
+established a diet record for each man by means of a standardised
+questionnaire. Dietary advice based on this record, on body weight,
+serum cholesterol and triglyceride levels,  and the man’s general
+background, was given in the course of a 30 min talk.  For those
+subjects with high cholesterol levels as the only risk factor, the diet
+change consisted mainly of a reduction in saturated fat intake and a
+slight  increase  in  polyunsaturated fat  intake.  For subjects with
+elevated fasting triglyceride levels,  both overweight and normal
+weight, a reduction in total energy intake (mainly by reducing sugar,
+alcohol, and fat intake) was also recommended. For sandwiches we
+recommended fibre-rich bread with either no margarine or a thin
+layer  of  low-fat  or  high-polyunsaturated  margarine;  fish  or
+vegetable filling was preferable, but low-fat cheese or meat was also
+acceptable. We also recommended subjects to use skimmed milk and
+not to  eat  more than  1  egg weekly. For main meals we advised
+subjects to eat fish, whalemeat, and low-fat meat with potatoes and
+vegetables. We advised that polyunsaturated oil should be used for
+cooking,  baking,  and sauces and that  fruit  should be eaten for
+dessert.  Reduced intake  of sugar,  sweet  drinks,  and alcoholic
+beverages was specifically recommended when reduction in calorie
+intake  was  advisable  (for  over-weight  subjects  and those  with
+hypertriglyceridaemia). Anti-smokingadvice was given individually
+to all smokers in the intervention group. They were informed that
+cessation of smoking might be of special importance for those with
+high blood lipid levels. The wives of the subjects in the intervention
+group were invited in groups of 30-40 together with their husbands
+for  diet  and smoking information.  Other risk  factors  were  not
+subjected to intervention.
+
+Follow-up examinations.-One of us (I.  Hjermann) re-exammed
+subjects  in  the  intervention  group every 6  months and control
+subjects  every  12  months.  Follow-up  included  a  short  clinical
+examination with special emphasis on cardiovascular symptoms.
+body weight, blood pressure,  serum cholesterol and tngtycende
+levels, and a 12-lead resting ECG. At each follow-up the men in the
+intervention  group were asked about their  eating  and smoking
+habits. A cholesterol curve was made for each man and shoBB n to
+him.
+
+Adherence to diet was assessed at each follow-up examination in the
+intervention group. At 5-year follow-up a random sample of half the
+men in the intervention group was given the same diet interview as
+at  start  of the  trial.  The best  responders (whose reduction  in
+cholesterol levels was in the highest quintile of the distribution)
+ingested more fish and vegetables, more skimmed rather than whole
+milk, less saturated-fat margarine, and more polyunsaturated fats in
+cooking and in margarine (table 11).  The dietary changes were also
+analysed in a food weighing survey, comparing good diet responders
+with closely matched controls. The results of this survey have been
+reported elsewhere,17 and the most important data are shown in
+table III. 
+
+-
+
+Follow-up compliance was good.  Only 1  control subject and 9
+subjects from the intervention group refused to attend for the 5-year
+exercise-ECG examination.  In addition,  2  control-group  and 5
+intervention-group  subjects  had  moved  to  other  parts  of the
+country. We had no information at the end of the observation period
+for only 5 subjects of the 1192 still alive.
+
+Statistics.-Differences between proportions were tested by the
+x2_test, differences between mean values by a t test accounting for
+
+TABLE II-DIETARY DATA FROM THE HIGHEST AND LOWEST QUINTILES
+OF  CHOLESTEROL  LOWERING  WITHIN  A  REPRESENTATIVE  HALF
+
+’ 
+
+(n = 300) OF THE INTERVENTION GROUP
+
+Cholesterol lowering was defined as the percentage reduction from the mean of
+3 prerandomisation values to the mean of the yearly values during the trial. In
+the highest quintile the mean cholesterol lowering was 23-5%, and in the
+lowest qumtile 0’5%.
+
+TABLE III-DIET MEASUREMENT AFTER 4 YEARS OF TRIAL IN
+
+SUBGROUPS OF INTERVENTION AND CONTROL GROUP SUBJECTS
+
+I  caL-4-2 2 Joule. NS = not significant.
+
+1305
+
+unequal variances  in  groups,  and differences  between survival
+curves by the log-rank test.
+
+In an effort to separate the effects on CHD incidence of reducing
+cigarette consumption and of reducing serum cholesterol, a Cox’s
+proportional  hazards  model  with  1-year  piecewise  constant
+underlying  hazard  function  was  chosen,18  with  the  following
+explanatory  variables:  change  in  serum cholesterol,  change  in
+cigarette consumption, initial  serum cholesterol,  initial  cigarette
+consumption, and initial age. The model was used in an attempt to
+quantitate the separate contribution of the cholesterol and cigarette
+factors,  adjusting for  the  other  factors.  An extensive  statistical
+analysis appears elsewher&egrave;. 19
+
+The cardiovascular events counted were fatal and non-fatal MI,
+sudden  death,  and stroke.  All  events  were  diagnosed  by  two
+cardiologists who were not involved in the study and did not know to
+which group the men belonged. The diagnostic criteria used were
+strictly defined before the start of the study, and included clinical
+symptoms (typical  chest  pain,  lack  of effect  of nitroglycerin,
+duration of pain), ECG findings (Minnesota code, 1-1 and 1-2) and
+enzyme changes (increase in aspartate aminotransferase [ASAT]
+activity to 50 U or to 40 U if this represented a 10007o increase).
+In addition, increased erythrocyte sedimentation rate, temperature
+curve, leucocytosis, and pericardial friction rub were included in-the
+criteria, if present. In fatal events necropsy findings were also used.
+Sudden death was defined as death within 1  h of start of symptoms.
+Sudden coronary death was defined as a sudden death which met
+one or more of the following criteria: typical chest pains, known
+CHD, certain ECG changes during the actual episode, or necropsy
+findings  excluding  other  causes  of  sudden  death.  Detailed
+diagnostic criteria were listed. Only one event was counted for each
+subject. The order was: fatal coronary event, fatal cerebrovascular
+event, other fatal vascular event, sudden unexplained death, non-
+fatal MI, non-fatal stroke. However, in the "life table" presentation,
+only the time that elapsed before the first  event was calculated.
+Coronary events  less  severe  than  non-fatal  MI have  not  been
+included in this report.
+
+Effect on Risk Factors
+
+Results
+
+The intervention of advice on smoking and eating habits
+resulted  in  changes  in  several  risk  variables  as  earlier
+reported.16 Some data on smoking and serum lipid changes
+are summarised in fig.  1. In the intervention group there was
+a reduction of 17% of mean serum cholesterol from screening
+to first follow-up. The mean difference in serum cholesterol
+between the two groups during the 5 years was 13%.
+
+Distribution of deciles of men according to their  serum
+cholesterol change shows that about 90% of the intervention-
+group men reduced their serum cholesterol levels during the
+trial.  The mean of the  average  values  of fasting  serum
+triglyceride levels was 20% lower and the mean of average
+non-fasting serum triglyceride levels was 25% lower in the
+intervention  group  than  in  the  control  group.  Tobacco
+consumption (expressed as number of cigarettes per man per
+day; pipe smoking is included taking one pack of pipe tobacco
+weekly to equal 7 cigarettes daily) fell about 45% more in the
+intervention  group  than  in  the  controls.  The data  were
+assessed by a questionnaire and controlled by the thiocyanate
+method (data not given). Some data from subgroups are given
+in tables  III  and iv.  The ratio  of high-density lipoprotein
+(HDL) cholesterol to the other serum cholesterol fractions
+was considerably higher (66%) 4 years after intervention in a
+subgroup of good diet responders than in controls closely
+matched  with  respect  to  initial  HDL-cholesterol  and
+triglyceride  levels  (mean and frequency distribution)  and
+with respect to total cholesterol levels, body weight, cigarette
+smoking, level of physical activity, and diet score, all recorded
+before randomisation. The reduction in saturated fat intake
+
+1306
+
+Fig. 1-Intervention effects on serum cholesterol, triglycerides, and smoking.
+
+Pipe smoking is included; 50 g pipe tobacco/week equals 7 cigarettes/day.
+
+in the intervention group is the most important feature of the
+4-year diet data for these subgroups (table III);  this led to a
+substantial difference between the groups in both total fat
+intake and the polyunsaturated:saturated ratio (P:S ratio).
+
+Effect on Clinical Events
+
+The incidence of fatal and non-fatal MI and sudden death is
+shown as a life  table in fig.  2.  The difference between the
+intervention and control groups is significant (p = 0’ 03, two-
+tailed test). The number of cardiovascular events is given in
+table V. As the design of the study was based on events of MI
+plus sudden death, the incidence of coronary events is most
+important. Total number of deaths is shown in table vi. All
+cases  of sudden death satisfied  the diagnostic  criteria  for
+
+coronary death except one "unexplained" sudden death; a
+man was found dead sitting in a chair a few hours after his
+wife had seen him apparently at ease.
+
+There was a negative association between the percentage
+change  in  serum cholesterol  and CHD incidence  in  the
+intervention and control groups and for both together (table
+VII). A simple t test for correlation in the pooled groups after
+the  arcsine  square  root  of  rate-transformation  gives
+r8 = - 0 - 73, p<0’  05, using deciles of change in serum choles-
+terol.  There was also a negative correlation between CHD
+incidence  and  percentage  change  in  cigarette  consump-
+tion (table VIII). This was, however, weaker than that found
+for serum cholesterol. The t test gives rg= -0’50, p>0-10,
+based on deciles in the pooled groups.
+
+TABLE IV-PRETREATMENT AND 4-YEAR DATA FROM MATCHED SUBGROUPS (SEE TABLE III FOR DIET DATA)
+
+Good diet responders were selected from the intervention group. There were 23 men in each subgroup. Samples taken before the trial for HDL-cholesterol an3:n.:
+were frozen for 4 years and the levels had dropped by 35%.
+*p value for difference between mean 4-year value for the intervention subgroup and the control subgroup was <0’01.  1.
+
+HDL-cholesterol x 100
+
+Total cholesterol-HDL-cholesterol.
+
+Cholesterol ratio  = 
+
+ND =not done because the samples taken before the trial had been affected by freezing.
+
+TABLE VII-CHD INCIDENCE BY QUINTILES OF CHANGE IN SERUM
+
+CHOLESTEROL
+
+1307
+
+Fig. 2-Life table analysis of CHD (fatal and non-fatal myocardial
+infarction and sudden death) in intervention and control groups.
+
+Standardised estimated regression coefficients from Cox’s
+proportional multivariate model are given in table IX for all
+men and for those who smoked cigarettes at the start of the
+trial. Only initial serum cholesterol levels and the change in
+serum  cholesterol  were  significantly  correlated  with  the
+incidence  of CHD in both groups and in the whole trial
+population. The highest coefficient for change in cigarette
+consumption was found for  the  cigarette  smokers  of the
+
+TABLE V-CARDIOVASCULAR EVENTS
+
+M][= median of quintile of intervention group; MC=median of quintile of
+control group; My =median of qumtile for both groups together.
+
+TABLE VIII-CHD INCIDENCE BY QUINTILES OF CHANGE IN CIGARETTE
+CONSUMPTION IN MEN WHO SMOKED CIGARETTES AT THE START OF
+
+THE TRIAL
+
+*By two-tailed test.
+
+TABLE VI-TOTAL MORTALITY
+
+Mj= median of quintile of intervention group; MC=median of quintile of
+control group; M-r=median of quintile for both groups together.
+
+intervention group; a O-estimate of - 0 - 176 was calculated
+but this was not significant (p>0 - 
+
+Expected 0-values for the change factor were calculated
+
+20).
+
+from the Cox model using two approaches:
+
+(i)  the Westlund score-table model (fig. 3)
+(ii)  the empirical Oslo study relationship between CHD
+
+incidence and risk factors. 5
+
+The calculation  of expected  (3-values  is  based  on  the
+assumption that a decline in risk-factor level is immediately
+followed by a reduction in risk compatible with the models (i)
+and (ii). More details are given elsewhere. 19 Table X presents
+the  expected  standardised  regression  coefficients  and the
+observed coefficients for the two models. Both models give
+
+1308
+
+TABLE IX-STANDARDISED REGRESSION COEFFICIENT FROM COX’S PROPORTIONAL HAZARDS MODEL AND THEIR ESTIMATED STANDARD
+
+DEVIATIONS FOR 5 EXPLANATORY FACTORS IN INTERVENTION, CONTROL, AND POOLED GROUPS (ASSUMING COMMON UNDERLYING HAZARD
+
+FUNCTION)
+
+______________
+
+NS=not significant.  Total,  n=1232 men; cigarette  smokers at  start,  n=977. (3=maximum likelihood  estimate of (3,  standardised regression coefficient;
+S U estimated standard deviation.
+SD(&bgr;) estimated standard deviation. 
+values similar to the observed coefficient for the change in
+serum cholesterol:  this  finding  is  compatible  with  the
+hypothesis  that  there  is  an  immediate  and  predictable
+reduction in risk as a result of reduction in the cholesterol
+level.  For  change  in  cigarette  smoking  the  observed
+coefficient was less than those predicted by the models: it is
+possible that observational studies have overestimated the
+decline in risk of CHD brought about by reducing cigarette
+consumption.
+
+To find out what proportion of the difference in total CHD
+incidence between the two groups (36 versus 19 cases) is due
+to the reduction in serum cholesterol and what proportion to
+the reduction in cigarette consumption (adjusted for the other
+factors) the following calculations were carried out.
+
+We selected  an adjusted  coefficient  for  the  percentage
+change in serum cholesterol in the cigarette smokers of the
+
+Fig. 3-The Westlund score table model based on serum cholesterol
+(chol), systolic blood pressure (SBP), and cigarette smoking (cig).
+
+intervention group to assure conservative results with respect
+to the lipid factor (&bgr; = - 0 - 535). Taking all other variables as
+equal to their mean values, and using the common underlying
+hazard function from the pooled groups, we calculated an
+adjusted estimate of the partial probability of a CHD event
+occurring on the basis of the percentage change in serum
+cholesterol  only  for  each  man in  the  trial.  Adding the
+estimates for the men in each group and taking the difference
+as a percentage of the observed difference in CHD incidence
+(17 cases) it  indicates the degree to which the cholesterol-
+change factor (adjusted for the other factors) is responsible for
+the decline in incidence.
+
+The percentage due to cholesterol change was 60% for all
+men, predicting a difference in CHD incidence of 10 I cases.
+Likewise,  if  the  coefficient  for  percentage  change  in
+cigarette smoking in the whole intervention group is  used
+with  regard  to  reduction  in  cigarette  consumption
+(=-0’176)  securing  the  most  optimistic  result,  the
+percentage  of the  decline  in  incidence  that  was  due  to
+reduction in cigarette consumption was 26% among smokers
+only, predicting a difference between groups of 3.9 9 cases.
+
+It  seems,  therefore,  that  the  change  in  cigarette
+consumption causes, at most, 25% of the difference in CHD
+incidence between the two groups, and that the difference is
+due  mainly  to  the  reduction  in  serum  cholesterol.  The
+difference  between  the  groups  was  17  cases:  14 can be
+explained by this statistical approach. The other 3 cases may
+be due to unexplained intervention effects or to chance.
+
+Discussion
+
+This study showed that informative advice can bring about
+significant changes in serum lipid levels and smoking habits
+in healthy, middle-aged men at high risk of CHD. and that
+these changes are associated with a significant reduction in
+the incidence of severe coronary disease.
+
+These changes in life habits were achieved without the use
+of drugs. There have been very few primary preventive trials
+of CHD with randomised design. Dayton et al. carried out a
+trial  mainly  in  individuals  without earlier  atherosclerotic
+disease. However, the average age of the subjects was 65 years
+at  the  start  of that  trial,  and  many  had  symptoms  of
+atherosclerotic disease before the trial.  In addition, the diet
+was different (high in polyunsaturated fatty acids), and the
+mean serum cholesterol level at the beginning was only 233
+mg/dl. The results, although not conclusive, indicated that
+dietary prevention of CHD might be possible.
+
+The Finnish mental hospital study’&deg;  suggested the same
+conclusion but the design of that study has been criticised.
+Leren’s study,8 a randomised diet trial in post-MI patients,
+showed a significant effect of dietary changes on the rate of
+recurrence of MI; the most beneficial effect in that study was
+found  in  those  without  angina  and  with  normal  heart
+volume-i.e.,  those who were most similar  to  subjects  of
+primary prevention.
+
+In  spite  of  these  promising  results,  the  "diet-heart
+hypothesis" was still being questioned in 1972 when our trial
+began. Since then there has been some criticism of the diet
+recommendations  given  in  hyperlipidaemia,  and  for  the
+population as a whole, in order to reduce coronary risk.20,’1
+Our study differs from those mentioned above in that it is
+based on healthy high-risk men with elevated total  serum
+cholesterol; about 80% were habitual cigarette smokers. The
+average age was lower than in earlier intervention studies, and
+the age range was narrow (40-49 years).
+
+Our study satisfied the criteria of an adequately controlled
+trial, because all exclusions were made before randomisation.
+None  of the  men who  had  symptom-free  "silent"  ST
+depressions on exercise could be identified by us. The ECG
+data have not yet been analysed and will be the subject of a
+separate  report.  There is  no reason to  believe  that  ECG
+changes  were not randomly distributed  between the  two-
+groups.
+
+The two risk factors influenced in this study were the eating
+and smoking habits. Physical activity was not influenced, as
+assessed by a questionnaire.  The men in the intervention
+group were examined every 6 months and the control group
+every 12 months. This might have introduced differences in
+the subjective feelings of the men in the two groups. In such a
+trial  it  is  impossible not to give the treated subjects more
+attention than the controls. If a feeling of general attention
+had  a  reassuring  effect,  the  more frequent  examinations
+might favour the intervention group. On the other hand, the
+more frequent medical contact  in  the  intervention  group
+might have led to increased reporting of symptoms, and more
+events  may have  been diagnosed.  We were  not  able  to
+interview the control group as frequently as the intervention
+group because of capacity problems. Towards the end of the
+study, we sent a questionnaire about subjective feelings of
+anxiety to all the men participating in the trial. To make them
+be candid, answers were given anonymously, and 97 - 5% of
+each group replied. 27 men in the intervention group and 9
+men in the control group replied "yes" to the question "Did
+the investigation create any anxiety?". 19 men in each group
+answered "no" to the question "Did the investigation create
+any feeling of safety?".
+
+The dietary changes in the intervention group resulted in
+pronounced falls in the levels of total serum cholesterol and
+serum triglycerides and a slight weight reduction (mean 2 - 5
+kg). Analysis of a subgroup showed an increase in the ratio of
+HDL-cholesterol to LDL + VLDL-cholesterol.
+
+1309
+
+The criticism  that  the  diet  has  been investigated by a
+weighing survey only in a small group of men could be made.
+The 23 men from the intervention group were highly selected
+and were not representative of the whole group. However,
+this  analysis  shows  the  maximum  effect  that  our  diet
+recommendations  can  have  on blood lipids.  The control
+and intervention subgroups were closely matched, and the
+diet in the controls compared well with earlier diet surveys in
+Oslo.
+
+In addition to receiving advice on changes in eating and
+drinking habits, all smokers in the intervention group were
+advised  to  stop  smoking.  According  to  the  smoking
+questionnaire the mean tobacco consumption per man per
+day in the intervention group decreased by almost a half.
+There was also a small decrease in smoking in the controls.
+When planning the sample size of the trial, we were aware
+that because of the size of the groups, the risk level, and the
+duration of the study,  the trial  would probably not show
+significant  differences  in  total  mortality  between  the
+intervention and control groups. According to the protocol,
+the trial was planned only to show differences in major CHD
+events (fatal and non-fatal MI and sudden coronary death).
+Although  total  mortality  was  33%  lower  and  coronary
+mortality 55% lower in the intervention group than in the
+control group, the differences in mortality did not reach the
+5% level of significance in a two-tailed test. However, it might
+be valid to use a one-tailed test because the purpose of the
+study was to see whether the intervention group would have a
+lowered incidence of CHD. When a one-tailed test was used,
+the  p values  were halved.  It  is  of interest  that  the  trend
+observed for total and coronary mortality was similar to the
+significant differences between the groups for combined fatal
+and  non-fatal  CHD incidence.  The  lower  incidence  of
+cardiovascular  events  in  the  intervention  group  was  not
+counter-balanced  by  an  increased  incidence  of  non-
+cardiovascular  disease-e.g.,  the  number of deaths  from
+malignant disease was 5 in the intervention group and 8 in the
+control group.
+
+It is important to find out to what extent each of the two
+factors  influenced  in  this  trial  was  responsible  for  the
+observed difference in incidence. A multivariate statistical
+model was used to separate the effects  of the two factors.
+Changes in  serum cholesterol appeared to  correlate  more
+closely with CHD incidence than did the change in cigarette
+consumption.  The  statistical  model  predicted  that  the
+changes in serum cholesterol accounted for about 60% of the
+reduction in CHD incidence, whereas, most optimistically,
+the cigarette factor accounted for only 25%. This apparently
+disappointing  effect  of reduced cigarette  consumption is,
+however, as expected according to model (ii) above. Although
+a  substantial  reduction  in  cigarette  consumption  was
+achieved during the trial, it  was not large enough to show a
+significant reduction in risk; the statistical power of the trial
+was too low. However, the calculations indicate that when
+serum cholesterol is reduced, the risk of CHD declines within
+the  study  period  as  far  as  could  be predicted  from the
+regression between serum cholesterol and CHD incidence
+found in several prospective population studies in Os10.35
+The calculations show no such pronounced decline in risk as
+a result of reduction of cigarette consumption.
+
+The results of this multivariate analysis do not give such
+convincing evidence as a monofactorial trial on each factor.
+There has been only one randomised trial of the effects of
+stopping smoking’3  and it  showed negative  results.  The
+results of other studies might throw some doubt on a causal
+
+1310
+
+relation between smoking per se and atherosclerosis. In the
+seven-country study22 there was no significant association
+between  CHD incidence  and  smoking  in  the  different
+countries, and in the prospective necropsy series of the Oslo
+study  a  significant  correlation  between  prevalence  of
+coronary raised atherosclerotic lesions and smoking could not
+be shown.z3,z4
+
+On the other hand it is possible that smoking intervention
+might be effective only when tobacco consumption is reduced
+to zero. This point may be relevant to our study, because most
+of the participants reduced their consumption but did not
+stop totally.
+
+If this  had been a  diet  trial  only,  the difference  in  MI
+incidence in the two groups would probably not have reached
+statistical significance. However, the chosen design for the
+study, which examines a combination of two important life-
+style factors, demonstrates clearly the effects of intervention
+and is also more relevant to usual medical practice.
+
+Financial support from the City of Oslo and from the Norwegian Council of
+
+Cardiovascular Diseases is gratefully acknowledged.
+
+Correspondence should be addressed to Dr I.  Hjermann, The Oslo Study,
+
+Medical Outpatient Clinic, Ullevaal Hospital, Oslo 1, Norway.
+
+REFERENCES
+
+1  Carlson L, Lindstedt S. The Stockholm prospective study. Acta Med Scand 1968;
+
+Suppl. 493. 1-135.
+
+2  Stamler J Epidemiology of coronary heart disease. Med Clin North Am 1973,57: 5-46.
+3.  Westlund K, Nicolaysen  R.  Ten-year mortality  and morbidity  related  to  serum
+
+cholesterol. Scand J Clin Lab Invest 1972; 30: (Suppl. 127): 1-24
+
+4.  Wilhelmsen L, Wedel H, Tibblin G. Multivariate analysis of risk factors for coronary
+
+heart disease. Circulation 1973; 48: 950-58
+
+5  Holme I, Helgeland A, Hjermann I, Leren P, Lund-Larsen PG Four and two-thirds
+years incidence of coronary heart disease in middle-aged men. The Oslo Study. Am J
+Epidemiol 1980, 112: 149-60
+
+6.  Reid DD, Hamilton PJS, McCartney P, Rose G. Smoking and other risk factors for
+
+coronary heart disease in British civil servants  Lancet 1976; ii.  979-84
+
+7  Pooling Project Research Group. Relationship of blood pressure, serum cholesterol,
+smoking habits,  relative  weight and ECG abnormalities to  incidence of major
+coronary events  Final  report  of the Pooling Project  J Chronic Dis  1978;  31:
+201-306
+
+8  Leren P. The effect of plasma cholesterol lowering diet in male survivors of myocardial
+
+infarction. Acta Med Scand 1966;  Suppl. 466 1-92
+
+9.  Dayton S, Pearce ML, Hashimoto S, Dixon WJ, Tomiyasn M A controlled clinical
+trial of a diet high in unsaturated fat  Monograph no 25  New York: The American
+Heart Association Inc., 1969.
+
+10  Miettinen M, Turpeinen O,  Karvonen MJ, Elusuo R,  Paavalainen E  Effect  of
+cholesterol-lowering diet on mortality from coronary heart disease and other causes:
+a twelve-year clinical trial  in men and women Lancet 1972; ii  835-38.
+
+11.  Veterans Administration Cooperative Study Group on Anti-hypertensive Agents.
+
+Effects of treatment on morbidity in hypertension JAMA 1970, 213:  1143-52.
+
+12.  McFate Smith W Treatment of mild hypertension  Results of a ten-year intervention
+
+trial  Circ Res 1977; 40 (Suppl  1):  98-105.
+
+13.  Rose G, Hamilton PJS A randomised controlled trial of the effect on middle aged men
+
+of advice to stop smoking. J Epidemiol Commun Hlth 1978, 32: 275-81
+
+14  Leren P, Askevold EM, Foss OP, et al. The Oslo study, cardiovascular disease in young
+
+and middle aged Oslo men. Acta Med Scand 1975,  Suppl. 588. 1-38
+
+15.  Foss OP. The Oslo Study The quantitative determination of cholesterol, triglycerides
+and glucose in blood serum. Laboratory protocol no 2  Central laboratory, Ullevaal
+hospital, Oslo, 1975; 1-92.
+
+16.  Hjermann I.  Smoking and diet  intervention  in  healthy coronary high  risk  men
+Methods and 5-year follow-up of risk factors in a randomised trial. The Oslo Study.
+J Oslo City Hosp 1980, 30: 3-17.
+
+17.  Hjermann I, Enger S Chr, Helgeland A, Holme I,  Leren P, Trygg K. The effect of
+dietary changes on high density lipoprotein cholesterol. The Oslo study Am J Med
+1979, 66:  105-09
+
+18.  Kay R. Proportional hazards regression models and the analysis of censored survival
+
+data Appl Statist 1977; 26: 227-37
+
+19.  Holme I  On the separation of the effect of antismoking and lipidlowering diet on
+incidence of acute myocardial infarction in high risk men. The Oslo study. J Oslo
+City Hosp (m press).
+
+20.  Ahrens EH  Dietary fat  and coronary heart  disease  unfinished  Lancet  1979;  ii:
+
+1345-48.
+
+21. Werk&oslash;  L. Diet, lipids and heart attacks. Acta Med Scand 1979; 206: 435-39
+22.  Keys A. Coronary heart disease in seven countries. Monograph no 29 New York. The
+
+American Heart Association Inc ,  1970.
+
+23.  Holme I,  Enger S Chr, Helgeland A, et  al  Risk factors and raised atherosclerotic
+lesions  in coronary and cerebral arteries  A statistical analysis.  The Oslo study
+Arteriosclerosis 1981; 1:  250-56.
+
+24.  Solberg LAa, Enger S Chr, Hjermann I,  et al  Risk factors for coronary and cerebral
+atherosclerosis  in  the  Oslo  study.  In  Gotto AM, Smith LC, Allen  B,  eds
+Proceedings of the  fifth  International  Symposium of Atherosclerosis,  Houston
+Texas. New York, Heidelberg, Berlin- Springer-Verlag, 1980
+
+TOWARDS AN IMPROVED LIPID-LOWERING
+DIET: ADDITIVE EFFECTS OF CHANGES IN
+
+NUTRIENT INTAKE
+
+B. LEWIS
+M. KATAN
+I. MERKX
+
+N. E. MILLER
+
+F. HAMMETT
+
+R. M. KAY
+A. NOBELS
+A. V. SWAN
+
+Department of Chemical Pathology and Metabolic Disorders,
+St Thomas’s Hospital, London; and the Department of Human
+Nutrition, Agricultural University,  Wageningen, Netherlands; and
+Department of Surgery, University of Toronto,  Toronto, Canada
+Summary 
+
+To identify diets that are more effective than
+existing  ones  in  reducing  lipoprotein-
+mediated risk of atherosclerotic heart disease, the serum lipid
+and lipoprotein response to three modified diets was studied
+in  twelve  normal  men  living  in  an  institution.  The
+"Western" reference diet (40% energy from fat,  P/S ratio
+0.27)  was compared in  Latin  square  design with  a  fat-
+modified diet (diet B, 27% energy from fat, P/S 1&middot; 0, reduced
+cholesterol content); with a fat-modified diet supplemented
+with fruit, vegetable, and cereal fibre (diet C); and with a diet
+providing 40% energy from fat,  having P/S ratio  1.0 and
+supplemented  by  fibre  (diet  D).  The  effects  of  fat
+modification and fibre-supplementation (diets C and D) were
+strongly additive&mdash;a fall in serum cholesterol by 24-29%, in
+low-density-lipoprotein (LDL) cholesterol by 31-34%, and
+in serum triglyceride by 21-26%; and the reduction, by diet
+C,  of  the  ratio  of  serum  cholesterol  to  high-density-
+lipoprotein (HDL)-cholesterol by 21%, and that of LDL-
+cholesterol to HDL2-cholesterol by 26%. The additive effects
+of multiple changes in  nutrient intake,  each moderate in
+extent,  permits the design of diets  which are remarkably
+effective in reducing serum-cholesterol level.
+
+Introduction
+
+THERE  is  now  much  evidence  that  a  raised  serum-
+cholesterol concentration is a causal factor in atherosclerotic
+heart disease (AHD),’-3 and a large body of data supports the
+view that it is desirable to reduce cholesterol levels in AHD-
+prone populations as  a  means of reducing risk  from this
+disease.I,2,4  All  proposals  involve  changes  in  diet.2,H
+Increased physical activity is usually recommended, and for
+patients  with  major  primary  hyperlipidaemias  drug
+treatment is  often indicated. Each method of controlling
+hyperlipidaemia must be assessed for its efficacy, safety, cost,
+and acceptability for long-term use.  Conventional dietary
+management  of  hypercholesterolaemia  alone  (without
+measures for reducing obesity) comprises restriction of intake
+to 25-35% of dietary energy and reduction of cholesterol
+intake to 150-250 mg per day. Most recommendations also
+include  partial 
+by
+polyunsaturated fatty acids; recent guidelines propose a ratio
+of polyunsaturated fatty acids to saturated fatty acids (PIS
+ratio) of 1, though ratios ofl’ 5-2 were typical of earlier lipid-
+lowering diets.
+
+substitution  of  saturated 
+
+fat 
+
+The effects of dietary change on serum lipids is influenced
+not only by the composition of the diet but also by individual
+responsiveness,8 the type and genetic basis of the lipoprotein
+abnormality, and compliance and palatability. The 8-16%
+reductions in serum cholesterol achieved in clinical practice
+and in large-scale trials6,7,9-11 are smaller than those achieved
+in metabolic wards.
+
+Many nutrients other than dietary lipids influence serum
+levels.  Some  forms  of  dietary  fibre,
+cholesterol 
+predominantly those derived from fruit and vegetables, such
+
+

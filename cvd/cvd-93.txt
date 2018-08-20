@@ -1,0 +1,628 @@
+464
+
+Prospective study of alcohol consumption and risk
+
+of coronary disease in men
+
+male 
+
+Although an  inverse association  between alcohol
+consumption and risk of coronary artery disease has
+been consistently found in several types of studies,
+some have argued that the association is due at least
+partly to the inclusion in the non-drinking reference
+group of men who abstain because of pre-existing
+disease.  The  association  between  self-reported
+alcohol  intake  and coronary disease  was studied
+prospectively  among  51 529 
+health
+professionals.  In  1986 the participants completed
+questionnaires about food and alcohol  intake and
+medical history, heart disease risk factors, and dietary
+changes  in  the  previous 10  years.  Follow-up
+questionnaires  in  1988 sought information  about
+newly diagnosed coronary disease. 350 confirmed
+cases of coronary disease occurred. After adjustment
+for coronary risk factors, including dietary intake of
+cholesterol, fat, and dietary fibre, increasing alcohol
+intake  was inversely  related  to  coronary  disease
+incidence (p for trend <0&middot;001).  Exclusion of 10 302
+current non-drinkers or 16 342 men with disorders
+potentially  related  to  coronary  disease  (eg,
+hypertension, diabetes, and gout) which might have
+led  men to  reduce  their  alcohol  intake,  did  not
+substantially affect the relative risks. These findings
+support  the  hypothesis  that  the  inverse  relation
+between alcohol consumption and risk of coronary
+disease is causal.
+
+Introduction
+
+An inverse association between alcohol consumption and
+risk  of coronary  artery  disease  is  well  documented  in
+necropsy,  geographic, case-control,  and cohort  studies. 1
+Despite the consistency of the findings, some have argued
+that the association may be due, at least partly, to the use of a
+reference group of non-drinkers which may include heavy
+drinkers who deny their alcohol intake or people who have
+stopped drinking because of illness.2,3 Although alcohol
+consumption varies with dietary habits,4 dietary intake has
+been considered in only a few studies of alcohol intake and
+coronary  disease.  We  have  therefore  examined
+prospectively, with control for diet and other risk factors, the
+relation of alcohol consumption to risk of coronary disease
+among men without pre-existing cancer and cardiovascular
+disorders. An analysis of alcohol and cardiovascular disease
+in women, with a similar study design, has been reported
+elsewhere.’
+
+Subjects and methods
+
+The Health  Professionals  Follow-up  Study is  a  prospective
+investigation  of dietary  aetiologies  of heart  disease  and cancer
+
+among 51 529 men, aged 40-75 years. The population consists of
+29 683 dentists, 10 098 veterinary surgeons, 4185 pharmacists, 3745
+optometrists, 2218 osteopathic physicians, and 1600 podiatrists.
+The study began in  1986 when cohort members completed a
+detailed food-frequency questionnaire and provided information
+about medical history; heart disease risk factors, and dietary changes
+during the previous 10 years. Follow-up questionnaires were sent in
+1988 to elicit information on newly diagnosed coronary disease.
+
+We excluded from this analysis 1530 men who did not report an
+average daily food intake of 3 35-17 6 MJ (800-4200 kcal) and who
+did not eat more than 70 food items on the dietary questionnaire.
+We also excluded 5940 men who reported a diagnosis of cancer
+(except non-melanoma skin cancer), myocardial infarction, angina,
+stroke, or coronary artery bypass graft (CABG) or percutaneous
+transluminal  coronary  angioplasty  (PTCA)  on  the  1986
+questionnaire. 44 059 men were followed for disease incidencein
+the subsequent 2 years.
+
+After  repeated  mailings  to  non-respondents  to  the  1988
+questionnaire, including the use of certified mail,8 we confirmed the
+deaths of 384 participants and received questionnaires from 96% of
+the  remaining  eligible  participants.  The  1693  non-responding
+participants were assumed to be alive since they were not listed in
+the National Death Index.
+
+The 131-item semiquantitative food frequency questionnaire
+included questions about average consumption during the past year
+of beer, white wine, red wine, and spirits.  The nine frequency
+response categories ranged from never or less than once per month
+to 6 times or more per day. Standard specified portion sizes were 1
+glass, bottle, or can for beer, 4 ounce (118 ml) glass for wine, and 1
+measure for spirits. Alcohol and nutrient intakes were calculated
+from the frequency of consumption multiplied by the nutrient
+content of each food or beverage.9-11 The estimated alcohol content
+for beer was 13-2 g, for wine 10-8 g, and for spirits 15-1 g.11 Total
+daily alcohol intake was calculated as the sum from all alcoholic
+beverages.
+
+We assessed the validity of the food frequency questionnaire in a
+random sample of men living in the Boston area who had completed
+the  baseline  food  frequency  questionnaire  and  a  second food
+frequency questionnaire about  1  year later. 10,11,13  We compared
+alcohol  intake  as  measured  by  the  first  and  second  dietary
+questionnaires with alcohol intake from 14  iays of diet records
+(collected  between  the  two  dietary  questionnaires)."  The
+Spearman correlation coefficient (rs) for alcohol intake between the
+first dietary questionnaire and the diet records was 0-83 and that for
+the second questionnaire and the diet records 086. Alcohol intake
+calculated  from the  second  food frequency  questionnaire  was
+significantly  associated  with the plasma concentrations of high
+density lipoprotein (HDL) cholesterol (r = 0-35, p = 0’0001).
+
+The questionnaire also provided a useful measure of other dietary
+intake. The correlations, adjusted for within-person variation in
+diet records/4 between nutrients from the second food frequency
+questionnaire and nutrients from the dietary records were 0 76 for
+
+ADDRESSES  Departments  of  Epidemiology,  Nutrition,  and
+Biostatistics,  Harvard School of Public Health and Channing
+Laboratory, Department of Medicine, Harvard Medical School
+and Brigham and Women’s Hospital, Boston, Massachusetts,
+USA (E  B  Rimm, ScD, E  L Giovannucci, MD, W. C Willett, MD, G. A
+Colditz,  MB, A.  Ascherio,  MD, B.  Rosner,  PhD,  M. J.  Stampfer, MD)
+Correspondence  to  Dr  Eric  B  Rimm,  Department of  Epidemiology,
+Harvard  School  of  Public  Health,  677  Huntington Avenue,  Boston,
+Massachusetts 02115, USA.
+
+TABLE I-BASELINE CHARACTERISTICS*, ACCORDING TO ALCOHOL INTAKE, OF STUDY PARTICIPANTS
+
+465
+
+*Age-ad]usted by direct standardlsatlon to the cohort of 44 059 men free from cardiovascular disease and cancer.
+tExcluding calones from alcohol.
+
+cholesterol, 0-75 for saturated fat, 0-68 for monounsaturated fat,
+0-37 for polyunsaturated fat, and 0-68 for dietary fibre.10
+
+criteria15-symptoms 
+
+Fatal coronary disease, non-fatal myocardial infarction, CABG,
+and PCTA occurring between the return of the baseline  1986
+questionnaire and Jan 31, 1988, were considered as endpoints for
+this analysis. We wrote to participants who reported an incident
+myocardial infarction on the  1988 questionnaire to  confirm the
+report and to request permission to review medical records.  A
+myocardial infarction  was "confirmed" if it  met World Health
+Organisation 
+typical
+electrocardiographic changes or high levels of cardiac enzymes. A
+myocardial infarction was classified as "probable" if the medical
+records could not be obtained, but the participant required hospital
+admission and the diagnosis  was corrobated by supplementary
+correspondence  or telephone  interview.  We requested medical
+records from a sample of participants reporting a CABG or PTCA.
+Because 98 of the 102 (96 %) self-reported events were confirmed by
+medical record,  we accepted self-report of all  other CABGs or
+PTCAs as coronary disease endpoints.
+
+either 
+
+plus 
+
+the incidence rate among non-drinkers (unless otherwise noted).
+Relative risk estimates were adjusted for age (5-year categories) and
+smoking (never, past, less than 15 cigarettes/day, 15-24 cigarettes/
+day, and more than 24 cigarettes/day) by means of the Mantel-
+Haenszel summary estimator. 16 The Mantel extension test17  was
+calculated to test for a linear trend with increasing alcohol intake.
+Multiple  logistic  regression  analysis  was  used  to  control
+simultaneously for other potential risk factors of coronary disease.
+From the model with separate continuous variables representing
+alcohol from each beverage source, the Wald test  was used to
+examine differences between logistic regression coefficients (the
+difference of the logistic coefficients divided by its standard error is
+approximately normally distributed).
+
+Results
+
+Among the 44 059  men eligible  for  analysis,  23-4%
+reported that they consumed alcoholic beverages never or
+less than once per month, 26-4% drank more than 15 g of
+alcohol (more than one drink per day), and 3-5 % drank more
+than 50 g per day (more than 3  to  4 drinks).  Baseline
+characteristics and potential risk factors according to level of
+alcohol  intake  are  shown in  table  1.  The prevalence of
+hypertension  was  similar  among  abstainers  and  light
+drinkers, but higher in men with intake of more than 30
+g/day. Diabetes was more common among abstainers than
+those who drank alcohol. Men with higher alcohol intakes
+consumed more fat and cholesterol and less dietary fibre
+than men with lower alcohol intakes.
+
+After  72 290 person-years  of follow-up,  350 incident
+coronary  events  were  ascertained-164  non-fatal
+myocardial infarctions (136 definite and 28 probable), 50
+coronary disease deaths (including 12 sudden deaths), and
+136 CABG or PTCA procedures.
+
+The relative risks of coronary artery disease by category of
+alcohol intake are shown in table n. Average daily alcohol
+intake was inversely related to risk of non-fatal myocardial
+infarction and fatal coronary heart disease. Since there were
+only 22 deaths in drinking categories over 5 g the relative risk
+estimates have wide confidence intervals (95% CI). CABG
+and PTCA were also less frequent with increasing alcohol
+consumption. For all total coronary artery events combined
+
+Most deaths were reported by next of kin, work associates, or
+postal authorities. In addition, the National Death Index was used
+to  identify  deceased  cohort  members  among persistent  non-
+responders  to  the  questionnaire  mailings.  A death  from  a
+myocardial  infarction  was confirmed from medical  records  or
+necropsy  reports.  Fatal  coronary  disease  was  also  considered
+confirmed if it was listed as the primary cause of death on the death
+certificate and if a diagnosis of incident coronary disease (after Jan 1,
+1986) could be confirmed from hospital records or interviews from
+the next of kin. The cause listed on the death certificate was not
+sufficient  alone to confirm a death  as  due to  coronary disease.
+Sudden death was defined as death within 1  h of the onset of
+symptoms when no previous serious illness was reported and no
+other plausible cause of death (other than coronary disease) was
+reported. Because a large proportion of sudden deaths in men are
+from coronary events, sudden deaths were included in the fatal
+infarction category; however, primary analyses were repeated with
+sudden deaths  excluded.  For subjects  with multiple endpoints
+during the follow-up period, only the first event was included in the
+analysis. Physicians reviewing medical records were unaware of the
+subjects’ reported alcohol intake.
+
+Each participant contributed person-months of follow-up from
+the day the baseline questionnaire was returned until a confirmed
+cardiovascular event, death, or Jan 31, 1988. Relative risk estimates
+were calculated as the incidence rate of coronary artery disease
+among men in different categories of alcohol intake compared with
+
+466
+
+TABLE II-RELATIVE RISKS (RR) OF CORONARY ARTERY DISEASE, ACCORDING TO AVERAGE DAILY ALCOHOL INTAKE
+
+*Ad)usted for age and smoking status
+tRisk factors m the logistic model family history of myocardial infarction (before age 60, age 60 or older), current smoking status (including 1 -14, 15-24, and 25 cigarettes per
+day),  age,  body  mass index,  profession,  self-reported  diabetes,  hypertension,  or  high  cholesterol,  quintiles  of  dietary  intake  of  cholesterol,  dietary  fibre,  saturated,
+monounsaturated, and polyunsaturated fat, and energy mtake
+
+(n = 350), there was a highly significant inverse trend in risk
+with alcohol consumption (chi trend= -387, p=00001).
+Control for potential risk factors  in multivariate analysis
+only slightly changed the relative risks. The strength of the
+association between alcohol intake and subsequent coronary
+artery disease did not change appreciably when we excluded
+2209 men who had not answered any of the four alcoholic
+beverage questions on the questionnaire, when we removed
+the indication for self-reported hypertension (a plausible
+intermediate variable), or when we excluded cases of sudden
+death (n = 12) or probable myocardial infarction (n = 28).
+
+Alcohol abstainers may not represent an ideal reference
+group  because  of the  possible  inclusion  of past  heavy
+drinkers, current drinkers who deny their intake, or men
+who stopped drinking because of illness.  To address this
+possible bias, we excluded the 5693 men who reported in
+1986 that they had substantially decreased their drinking in
+the past 10 years and who did not drink in 1986 (past heavy
+drinkers). The relative risks were almost identical to those
+for the whole cohort. For example, the multivariate relative
+risk was 0-47 (95% CI 0-29-0-77) for total coronary disease
+among men drinking more than 30 g of alcohol per day
+(compared with 0-53 [0-35-0-79] for the whole cohort).
+
+In a further analysis, we excluded all non-drinkers and
+recalculated the linear test for trend and multivariate relative
+risks of alcohol and coronary artery disease. Again, alcohol
+
+remained inversely associated with coronary artery disease
+(X = - 3-46,  p = 00005,  across  all  categories  of alcohol
+consumption, excluding non-drinkers). With light drinkers
+only (0-1-5-0 g/day) as the comparison group, the relative
+risk for total coronary disease was 0-58 among men drinking
+30-50 g/day (95% CI 0-37-0-90, table ill).  Although we
+initially excluded men with previously reported coronary
+disease, stroke, or cancer, we carried out further analyses
+also  excluding  16 242  men with  an  array  of medical
+conditions that may be related to risk of coronary disease risk
+(see figure). Although these criteria excluded over half tiie
+incident  cases  of coronary  disease  (only  142  total  cases
+remained), we still  found a significant inverse association
+between alcohol consumption and coronary artery disease
+incidence (x = - 2 -29, p = 0-02) with relative risk estimates
+of similar magnitude to those presented in table II (figure).
+For example,  the  multivariate  relative  risk  of coronary
+disease was 0-61 (95% CI 0-32-1-17) among men drinking
+more than 30 g/day compared with non-drinkers.
+
+The average number of days per week on which alcohol
+was consumed was also inversely associated with risk of
+coronary  artery  disease  (data  not  shown).  Men who
+reported drinking on average on 3-4 days per week had a
+relative risk of 0-66 (95% CI 0-46-0-96) compared with men
+who drank on less than 1 day a week. Because total alcohol
+intake and average number of days per week on which
+
+TABLE III-RELATIVE RISK (RR) OF TOTAL CORONARY ARTERY DISEASE WITH ABSTAINERS OR LIGHT DRINKERS AS THE REFERENCE
+
+CATEGORY ACCORDING TO AVERAGE DAILY ALCOHOL INTAKE
+
+467
+
+coronary disease, although few have controlled for dietary
+intake, so the potential for confounding between alcohol,
+diet, and coronary disease remains.
+
+Bias  is  unlikely  to  explain  the  inverse  association  we
+found. The dietary questionnaire reliably measures alcohol
+intake."  The prospective nature of the study precludes
+recall bias. We achieved 96% follow-up in men eligible for
+this analysis, so our results are probably not biased by men
+lost to follow-up.
+
+A possible limitation of this analysis is the short follow-up
+period between alcohol reporting and incident coronary
+artery  disease;  however,  a  shorter  interval  reduces  the
+possibility  of misclassification  of alcohol  intake  due  to
+changes during follow-up. Other prospective studies have
+used a single dietary measure and followed men from 4-75
+years to 22 years and still found an inverse association for
+alcohoI,1 Among men who completed our 1990 follow-up
+questionnaire,  the  Spearman  correlation  was  0-84  for
+alcohol intake over 4 years. Thus, alcohol intake as assessed
+on the baseline  1986 questionnaire is  a good measure of
+alcohol consumption over a long time.
+
+The knowledge of pre-existing disease  at the baseline
+assessment of alcohol intake could bias the dose-response
+curve between alcohol and coronary artery  disease if  an
+individual had reduced alcohol consumption because of
+perceived  disease  status.  In  our  primary  analysis,  we
+excluded all men with any baseline self-report of myocardial
+infarction, angina, CABG, PTCA, stroke,  or cancer.  In
+addition,  we  controlled  for  self-reported  physician-
+diagnosed diabetes, hypertension, and high cholesterol in
+multivariate  models  (table  II).  Furthermore,  we found
+significant  inverse  trends  with  increasing  alcohol
+consumption among the subset of 33 657 men who reported
+any alcohol consumption and among a separate subset of
+27 717  men with  no  baseline  cardiovascular  disease  or
+related diagnoses (figure).
+
+Shaper has argued that the reference group of alcohol
+abstainers or low consumers is typically contaminated with
+subjects who have reduced alcohol consumption because of
+pre-existing disease. When men who recalled a diagnosis of
+cardiovascular  or  "cardiovascular-related"  disorders
+(23-8% of participants) were excluded from analysis in the
+British Regional Heart Study, 18 there was no association
+between alcohol consumption and cardiovascular mortality,
+with control for age, social class, and cigarette smoking.
+However,  there  were  few  non-drinking  men  in  that
+subgroup of healthy participants and only 6 cases of fatal
+coronary disease occurred among them. Moreover, Shaper
+et  al  have reported that  alcohol  consumption is  highly
+correlated  with  both  social  class  (r=0-72)  and  heavy
+smoking (r =0-71) in that population.19 Therefore, with few
+non-drinkers and reduced variability in alcohol intake after
+statistical  adjustment for highly correlated variables,  the
+confidence  intervals  around their  relative  risk  estimates
+(which were not given) would be wide and would include a
+substantial  association in either  direction.  Wannamethee
+and Shaper recommend use of men who drink fewer than 15
+drinks per week as a reference group.20 This reference group
+would include levels of alcohol consumption for which we
+and others have found a substantial reduction in risk. The
+wide variation  of alcohol  intake  (table  1)  in  the Health
+Professionals  Follow-up  Study,  in  addition  to  the  low
+frequency of smoking (less than 10% are current smokers)
+and  similar  socioeconomic  status,  provide  a  better
+opportunity to assess the association between alcohol and
+coronary disease.
+
+Relative risks of alcohol consumption and coronary artery
+disease  among  men  from  the  Health  Professionals
+Follow-up Study.
+0=44059 men free  of  myocardial  infarction,  angina,  CABG or
+
+PCTA, stroke, and cancer (except non-melanoma skin cancer)
+
+<= Cohort 
+
+without  16 242  men  who,  at  baseline,  reported
+myocardial infarction, angina, CABG, PCTA, stroke,  cancer (except
+non-melanoma skin cancer), gout,  diabetes,  high cholesterol,  high
+triglycerides,  hypertension, tachycardia,  heart  rhythm disturbances,
+or other heart disturbances.
+
+alcohol was consumed were so highly correlated (r = 0-89),
+the two predictors were not modelled simultaneously.
+
+We also  separately  examined the association  between
+alcohol  from beer,  wine,  or spirits  and coronary artery
+disease.  Increasing  consumption  of  alcohol  from  each
+beverage type was inversely related to risk of coronary artery
+disease.  However,  alcohol  from  spirits  had  the  most
+pronounced inverse association (p for trend = 00004). In a
+logistic model to control simultaneously for alcohol from
+each source, the associations between alcohol (continuous
+variables) from beer, wine, or spirits with risk of coronary
+artery disease did not differ significantly. However, again,
+the strongest association was found for men drinking spirits.
+The multivariate relative risk of coronary artery disease was
+0-55 (0-39-0-77) for men who drank 30-2 g (2 drinks) of
+spirits per day compared with men who did not drink spirits.
+The inverse association between alcohol and coronary
+artery disease did not appreciably differ by age or smoking
+status.
+
+Discussion
+
+Our results, from a large prospective study among men,
+provide strong evidence for  the hypothesis that  alcohol
+intake is inversely associated with coronary artery disease.
+Moderate alcohol consumption was consistently associated
+with  a  reduced  risk  of fatal  and  non-fatal  myocardial
+infarction and CABG or PTCA. This association was not
+explained by a reduction in alcohol consumption among
+men with known coronary risk factors or by the inclusion of
+former heavy drinkers in the non-drinking category.
+
+Moore and Pearson have reviewed reports on the relation
+between  alcohol  and  coronary  artery  disease.  Inverse
+associations  have  been found in  most case-control  and
+cohort studies between moderate alcohol consumption and
+
+468
+
+In populations  whose intakes  of fat,  cholesterol,  and
+dietary fibre vary with alcohol consumption,4-<> 
+diet may
+distort the relation  between alcohol and coronary artery
+disease. With dietary data from eighteen countries, Hegsted
+and Ausman2l found that the best multiple regression model
+to predict coronary heart disease mortality included dietary
+variables for saturated fat, polyunsaturated fat, and alcohol.
+An inverse  association  was found between alcohol  and
+coronary heart disease in the Nurses’ Health Study after
+control  for  dietary  cholesterol  and  saturated  and
+polyunsaturated fat, as well as other potential risk factors.’ 7
+Because alcohol drinkers tend to consume diets higher in fat
+and  lower  in  dietary  fibre  (table  I),  control  for  diet
+strengthened associations  between alcohol  and coronary
+disease.
+
+One of the  proposed  mechanisms by which alcohol
+reduces  coronary artery  disease  is  through raising  high
+density lipoprotein (HDL) concentrations.1 When given in
+experimental studies, even reasonable amounts of alcohol,
+such as 39 g/day for 6 weeks, increased HDL by 17%.22 A
+change in  HDL of this  magnitude could account for  a
+reduction in risk of perhaps 40%,23 which is similar to our
+findings. Although alcohol was originally thought only to
+increase HDL-3 subfractions,24 positive correlations with
+both  HDL-2  and  HDL-3  subfractions  have  been
+reported.25,26  Moreover,  both  HDL-2  and  HDL-3
+subfractions are associated with a reduced risk of coronary
+artery disease.23,27,28
+
+The men in the Health Professionals Follow-up Study are
+generally health conscious. However, alcohol consumption
+patterns in this cohort are similar to those among the US
+general  population.  Roughly  33%  of  the  general  US
+population abstain from alcohol and 91 % drink less than 30
+g/day29 (in the Health Professionals Follow-up study 23-4%
+abstain and 87-8% drink less than 30 g/day). Therefore, our
+results may be applicable to a wider population of men.
+
+Because only a small percentage of the cohort drank 50 g
+or more per day, the Health Professionals Follow-up Study
+has  limited  power to  study the  health  effects  of heavy
+drinking. As suggested by others,l the risk of coronary artery
+disease  may  increase  at  very  high  levels  of  alcohol
+consumption.  However,  within  the  range  of  alcohol
+consumption  in  this  cohort,  we  found  a  continuous
+decreasing risk of coronary artery disease with increasing
+alcohol levels. Our results do not address the consequences
+of increasing alcohol consumption over time or of other
+potential  disease  outcomes unrelated  to  coronary artery
+disease. Many other studies have shown the severe adverse
+health consequences of excessive drinking and alcoholism. 30
+Our findings provide additional evidence to support the
+hypothesis that moderate alcohol consumption reduces the
+risk of coronary artery disease. The inverse association was
+not an artifact due to pre-existing disease or differences in
+dietary  habits.  The  magnitude  of  the  association,
+consistency with results from other studies, and plausible
+biological  mechanisms strongly  suggest that  the inverse
+association  between moderate alcohol intake and risk  of
+coronary disease is causal.
+
+This study was supported by research grant HL 35464 from the National
+Institutes  of Health. E. B.  R. was supported by a National Institute of
+Environmental Health Services research service award 5T32 E507069 from
+the Harvard School of Public Health. We thank the participants of the Health
+Professionals  Follow-up  Study  for  their  continued  cooperation  and
+participation; and Ms Mary Johnson, Mr Mark Shneyder, Mr Steve Stuart,
+Ms Betsy Frost-Hawes, Ms Mitzi Wolff, Ms Karen Corsano, Ms Mira
+Koyfman, Ms Jan Vomacka, Ms Cindy Dyer, and Dr Chris Chute for help
+with compiling the data and preparing the paper.
+
+REFERENCES
+
+1. Moore RD, Pearson TA. Moderate alcohol consumption and coronary
+
+artery disease. Medicine 1986; 65: 242-67.
+
+2. Shaper AG. Alcohol and mortality: a review of prospective studies. Br J
+
+Addict 1990; 85: 837-47.
+
+3. Criqui M. The reduction of coronary heart disease with light to moderate
+alcohol consumption: effect or artifact? Br J Addict 1990; 85: 854-57.
+4. Thomson M, Fulton M, Elton RA, et al.  Alcohol consumption and
+nutrient intake in middle-aged Scottish men. Am J Clin Nutr 1988; 47:
+139-45.
+
+5. Jones BR, Barrett-Connor E, Criqui MH, et al. A community study of
+calorie and nutrient intake in drinkers and nondrinkers of alcohol.
+Am J Clin Nutr 1982; 35: 135-39.
+
+6. Colditz GA, Giovannucci E, Rimm EB, et al. Alcohol intake in relation to
+diet and obesity among women and men. Am J Clin Nutr (in press).
+7. Stampfer MJ, Colditz GA, Willett WC, Speizer FE, Hennekens CH. A
+prospective study of moderate alcohol consumption and the risk of
+coronary disease  and stroke in  women. N Engl J Med 1988; 319:
+267-73.
+
+8. Rimm EB, Stampfer MJ, Colditz GA, et al.  Effectiveness of various
+mailing strategies  among non-respondents in  a prospective cohort
+study. Am J Epidemiol 1990; 131: 1068-71.
+
+9. Willett WC, Sampson L, Stampfer MJ, et al. Reproducibility and validity
+of a semiquantitative food frequency questionnaire. Am J Epidemiol
+1985; 122: 51-65.
+
+10. Rimm EB, Giovannucci E, Stampfer MJ, et al.  Reproducibility and
+validity  of  a  expanded  self-administered  semiquantitative  food
+frequency questionnaire  among male healthy professionals.  Am J
+Epidemiol (in press).
+
+11. Giovannucci E, Colditz GA, Stampfer MJ, et al.  The assessment of
+alcohol  consumption by a simple  self-administered  questionnaire.
+Am J Epidemiol 1991; 133: 810-17.
+
+12. Consumer  and  Food  Economics  Institute.  Composition  of foods:
+handbook 8 series. Washington, DC: US Department of Agriculture,
+1976-1989.
+
+13. Hunter DJ, Rimm EB, Sacks F, et al. Comparison of measures of fatty
+acid intake by subcutaneous fat aspirate, food frequency questionnaire,
+and diet records. Am J Epidemiol (in press).
+
+14. Rosner B, Willett WC. Interval estimates for correlation coefficients
+corrected for within-person variation: implications for study design and
+hypothesis testing. Am J Epidemiol 1988; 127: 377-86.
+
+15. Rose  GA, Blackburn  H.  Cardiovascular  survey  methods,  2nd ed.
+Monograph series no 58. Geneva: World Health Organisation, 1982.
+
+16. Rothman KJ. Modem epidemiology. Boston: Little, Brown, 1986.
+17. Mantel N. Chi-square tests with one degree of freedom: extensions of the
+
+Mantel-Haenszel procedure. J Am Stat Assoc 1963; 58: 690-700.
+
+18. Shaper AG, Wannamethee G, Walker M. Alcohol and mortality of
+British men: explaining the U-shaped curve. Lancet 1988; ii:  1267-73.
+19. Shaper AG, Pocock SJ, Walker M, et al. British Regional Heart Study:
+cardiovascular risk factors in midle-aged men in 24 towns. Br Med J
+1981; 283: 179-86.
+
+20. Wannamethee G, Shaper AG. Men who do not drink: a report from the
+
+British Regional Heart Study. Int J Epidemiol 1988; 17: 307-16.
+
+21. Hegsted DM, Ausman LM. Diet, alcohol, and coronary heart disease in
+
+men. J Nutr 1988; 118: 1184-89.
+
+22. Thorton J, Symes C, Heaton K. Moderate alcohol intake reduces bile
+cholesterol  saturation and raises HDL cholesterol. Lancet 1983; ii:
+819-22.
+
+23. Stampfer MJ, Sacks F, Salvini S, et al. A prospective study of lipids and
+apolipoproteins and risk of myocardial infarction. N Engl J Med 1991;
+325: 373-81.
+
+24. Haskell WL, Camargo C Jr, Williams PT, et al. The effect of cessation
+and resumption of moderate alcohol intake on serum high-density-
+lipoprotein subfractions. A controlled study. N Engl J Med 1984; 310:
+805-10.
+
+25. Haskell WL, Camargo C Jr, Williams PT, et al. The effect of cessation
+and resumption of moderate alcohol intake on serum high-density-
+lipoprotein  subfractions:  a  controlled  study.  JAMA 1985;  253:
+2854-57.
+
+26. Valimaki M, Nikkila EA, Taskinen A, et al.  Rapid decrease in high
+density lipoprotein subfractions and post heparin plasma lipase activity
+after  cessation  of chronic  alcohol  intake.  Atherosclerosis  1986;  59:
+147-53.
+
+27. Miller GJ, Miller NE. Plasma-high-density-lipoproteins concentration
+
+and development of ischaemic heart disease. Lancet 1975; i:  16-19.
+
+28. Ballantyne FC, Clark RS, Simpson HS, et al.  High density and low
+density lipoprotein subfractions in survivors of myocardial infarction
+and in control subjects. Metabolism 1982; 31: 433-37.
+
+29. National Institute on Alcohol Abuse and Alcoholism. The sixth special
+report to the US Congress on alcohol and health from the Secretary of
+Health and Human Services. 1987 DHHS publ no (ADM) 87-1519.
+Washington, DC: US Government Printing Office.
+
+30. The Surgeon General’s Report on Nutrition and Health. 1988 DHSS
+publ no 88-50210. Washington, DC: US Government Printing Office.
+
+

@@ -1,0 +1,2278 @@
+Cardiovascular Research 73 (2007) 326 – 340
+
+www.elsevier.com/locate/cardiores
+
+Review
+
+Nutrition, physical activity, and cardiovascular disease: An update
+
+Louis J. Ignarro a, Maria Luisa Balestrieri b, Claudio Napoli c,⁎
+
+a Department of Molecular Pharmacology, David Geffen School of Medicine, UCLA, Los Angeles, CA, United States
+
+b Department of Chemical Biology and Physics, Division of Clinical Pathology and Excellence Research Center on Cardiovascular Diseases,
+
+Complesso S. Andrea delle Dame, 1st School of Medicine, II University of Naples, Naples 80138 Italy
+
+c Department of General Pathology, Division of Clinical Pathology and Excellence Research Center on Cardiovascular Diseases,
+
+Complesso S. Andrea delle Dame, 1st School of Medicine, II University of Naples, Naples 80138 Italy
+
+Received 16 May 2006; received in revised form 12 June 2006; accepted 28 June 2006
+
+Available online 21 July 2006
+
+Time for primary review 20 days
+
+Abstract
+
+Many epidemiological studies have indicated a protective role for a diet rich in fruits and vegetables against the development and progression of
+cardiovascular disease (CVD), one of the leading causes of morbidity and mortality worldwide. Physical inactivity and unhealthy eating contribute to
+these conditions. This article assesses the scientific rationale of benefits of physical activity and good nutrition on CVD, especially on atherosclerosis-
+related diseases. Compelling evidence has accumulated on the role of oxidative stress in endothelial dysfunction and in the pathogenesis of CVD.
+Reduced nitric oxide (NO) bioavailability due to oxidative stress seems to be the common molecular disorder comprising stable atherosclerotic
+narrowing lesions. Energy expenditure of about 1000 kcal (4200 kJ) per week (equivalent to walking 1 h 5 days a week) is associated with significant
+health benefits. Such benefits can be achieved through structured or nonstructured physical activity, accumulated throughout the day (even through
+short 10-min bouts) on most days of the week. Some prospective studies showed a direct inverse association between fruit and vegetable intake and the
+development of CVD incidents such as acute plaque rupture causing unstable angina or myocardial infarction and stroke. Many nutrients and
+phytochemicals in fruits and vegetables, including fiber, potassium, and folate, could be independently or jointly responsible for the apparent reduction
+in CVD risk. Novel findings and critical appraisal regarding antioxidants, dietary fibers, omega-3 polyunsaturated fatty acids (n-3 PUFAs),
+nutraceuticals, vitamins, and minerals, are presented here in support of the current dietary habits together with physical exercise recommendations for
+prevention and treatment of CVD.
+© 2006 European Society of Cardiology. Published by Elsevier B.V.
+
+Keywords: Nutrition; Physical activity; Cardiovascular disease
+
+1. Introduction
+
+To date cardiovascular disease (CVD) remains one of the
+leading causes of morbidity and mortality worldwide. Although
+genetic factors and age are important in determining the risk,
+other factors, including hypertension, hypercholesterolemia,
+insulin resistance, diabetes, and lifestyle factors such as smoking
+and diet are also major risk factors associated with the disease
+[1]. The emphasis so far has been on the relationship between
+serum cholesterol levels and the risk of coronary heart disease
+(CHD) [1,2]. Indeed, experimental, clinical, and epidemiologic
+
+⁎ Corresponding author. Tel./fax: +39 081 293399.
+
+E-mail address: claunap@tin.it (C. Napoli).
+
+data capped by stunning interventional results with the statins
+has established hypercholesterolemia as a major causative factor
+in atherogenesis. It is equally clear that from the very beginning
+atherogenesis has a strong inflammatory component, e. g., it is
+characterized by penetration of monocytes and of T-cells into the
+developing lesion. But inflammation has to occur in response to
+something. What is that something? The case will be made that
+oxidized lipids generated in response to prooxidative changes in
+the cells of the artery wall should be considered a plausible
+candidate (see below). Thus, there is no need to consider
+hypercholesterolemia and inflammation as alternative hypoth-
+eses. Both are very much involved.
+
+In this update, we examine the scientific evidence in support
+of both dietary and physical activity recommendations for CVD
+
+0008-6363/$ - see front matter © 2006 European Society of Cardiology. Published by Elsevier B.V.
+doi:10.1016/j.cardiores.2006.06.030
+
+Downloaded from https://academic.oup.com/cardiovascres/article-abstract/73/2/326/486833
+by guest
+on 20 August 2018
+
+L.J. Ignarro et al. / Cardiovascular Research 73 (2007) 326–340
+
+327
+
+it
+
+is very difficult
+
+prevention. There is a considerable weight of already published
+articles elsewhere on this topic, thus, we decided to provide only
+the novel findings and scientific trends coming in the latest
+years. One problem is that
+to assess
+prospectively the causal relationship of nutrition/physical
+exercise on major cardiovascular events. This is because the
+natural history of such disease is often extremely long. Available
+evidence indicates that persons who consume more fruits and
+vegetables often have lower prevalence of important risk factors
+for CVD, including hypertension, obesity, and type 2 diabetes
+mellitus. Some large, prospective studies showed a direct
+inverse association between fruit and vegetable intake and the
+development of CVD incidents such as CHD and stroke.
+However,
+the biologic mechanisms whereby fruits and
+vegetables may exert their effects are not entirely clear and are
+likely to be multiple. Many nutrients and phytochemicals in
+fruits and vegetables, including fiber, potassium, and folate,
+could be independently or jointly responsible for the apparent
+reduction in CVD risk [3,4]. Functional aspects of fruits and
+vegetables, such as their low dietary glycemic load and energy
+density, may also play a pivotal role.
+
+There is a plethora of experimental and clinical studies
+supporting the evidence that moderate exercise is a deterrent of
+CVD and atherosclerosis [5–9]. We provided clear evidence for
+the beneficial effects of graduated physical training (swim-
+ming) and metabolic treatment (antioxidants and L-arginine) on
+atherosclerotic lesion formation in hypercholesterolemic mice
+[10]. These protective mechanisms could include increased
+antioxidant defenses and NO bioactivity, reduced basal pro-
+duction of oxidants (reduced oxidative stress), and reduction of
+leak during oxidative phosphorylation [10–14].
+radical
+Basically, early oxidation-sensitive mechanisms are associated
+with early stages of human atherogenesis [14–16].
+
+Another study [17] also provided direct evidence that
+inactivity enhances vascular oxygen radical production, endo-
+thelial dysfunction and atherosclerosis in hypercholesterol-
+emic mice. Thus, graduated exercise training can increase NO
+bioavailability and convey benefit
+in vasculoprotection
+[10,18,19]. NO so generated may even scavenge overwhelm-
+ing radicals, such as superoxide anion, thereby preventing
+tissue damage. In contrast, prolonged strenuous exercise and
+high blood pressure reduce the cyclic pulsations (physiological
+shear stress), thereby limiting NO production [18,19]. NO
+bioavailability can be restored by antioxidants and L-arginine,
+the natural precursor of NO. Several small-scale studies have
+demonstrated that intravenous L-arginine augments endothe-
+lial function and improves exercise ability in patients with
+CVD by enhancing vasodilation and reducing monocyte
+adhesion [20] reviewed in [21]. L-arginine normalizes aerobic
+capacity [22] and reduces fat mass in Zucker diabetic fatty rats
+[23]. The lack of appropriate generation of endogenous NO is
+an important progression factor of atherosclerosis in mice [24]
+and L-arginine may reduce atherogenesis in hypercholesterol-
+emic mice [25]. Thus, there is convincing evidence that mod-
+erate physical exercise, antioxidants and L-arginine have
+beneficial effects on atherosclerotic lesions.
+
+Clinical studies have shown that severe physical exercise
+can lead to the generation of more free radicals than the
+endogenous antioxidant systems can scavenge, whereas mod-
+erate intensity aerobic exercise improves endothelial function
+and reduces cardiovascular risk [12,13]. Several highly plau-
+sible protective mechanisms have been postulated, including
+decreased myocardial oxygen demand, increased myocardial
+oxygen supply, reduced propensity toward ventricular arrhyth-
+mias, reduced platelet aggregation, improved lipid profile, and
+increased plasma fibrinolytic activity [12,13]. Despite the
+substantial body of literature, pathogenic mechanisms at the
+cellular and molecular level by which exercise might benefit
+vascular diseases are poorly understood. However, it is con-
+ceivable that arterial cells can be affected by multiple signal
+transduction events promoted by early graduated physical
+exercise. Short-term oral administration of L-arginine im-
+proved hemodynamics and exercise capacity in patients with
+precapillary pulmonary hypertension [26], and enhanced myo-
+cardial perfusion in CHD patients [27–32]. In addition, oral L-
+arginine supplementation enhanced the beneficial effect of
+exercise training on endothelial dysfunction in patients with
+chronic heart failure [33]. From these points of view and mixed
+background, we will try to update this field which is in con-
+tinuous renewal.
+
+2. Oxidative stress, L-arginine and nutritional aspects
+
+Oxidative stress induced by reactive oxygen species (ROS
+and other radical species) is considered to play an important
+part in the pathogenesis of several diseases, including CHD,
+stroke, cancer, shock and aging [34–39]. Oxidation of the
+circulating low-density lipoprotein (LDL) that carry choles-
+terol into the blood stream to oxidized LDL (LDLox) is
+thought to play a pathogenic role in atherosclerosis, which is
+the underlying disorder leading to heart attack and ischemic
+stroke [1,2,37,40]. More importantly, during human fetal
+development [15] and early infancy [16] there is evidence of
+LDLox in early atherosclerotic lesions. Overall, a very com-
+plex interaction between maternal cholesterolemia and fetal
+circulation occurs during pregnancy (reviewed in 41 and 42).
+Thus, antioxidant nutrients are believed to slow the pro-
+gression of atherosclerosis because of their ability to inhibit
+the damaging oxidative processes [37,40,41,43]. The “fetal
+origins” hypothesis of atherogenesis postulates that condi-
+tions, most likely nutritional and genetics, “program” the
+fetus for the development of advanced forms of the CVD and
+CHD in adulthood [41,44]. It remains to be established
+whether these associations are causal. The role of birth weight
+remains difficult to interpret except as a proxy for events in
+intrauterine life. Unfortunately, birth weight does not make an
+important contribution to the population attributable risk of
+CVD; lifestyle factors during adulthood make much greater
+contributions.
+
+A number of antioxidants showed beneficial effect in
+experimental models of atherosclerosis and CHD [1,2,35,37,
+38,40,41,43]. Fig. 1 elucidates the cascade of oxidation-
+
+Downloaded from https://academic.oup.com/cardiovascres/article-abstract/73/2/326/486833
+by guest
+on 20 August 2018
+
+328
+
+L.J. Ignarro et al. / Cardiovascular Research 73 (2007) 326–340
+
+Fig. 1. Cartoon representing the general role of antioxidants, lycopene, PJ, wine, and 3-nPUFAs in the disruption of oxidation-sensitive events responsible
+for upregulation of eNOS and oxidative damage to eNOS and/or BH4 and NADPH exceeding production of ROS. Part of this mechanicistic figure is
+derived from Ref. [45]. Abbreviations: PJ, pomegranate juice. 3-nPUFAs, omega-3 polyunsaturated fatty acids. eNOS, endothelial nitric oxide synthase.
+BH4, (6R)-5,6,7,8-tetrahydro-L-biopterin. NADPH, nicotinamide adenine dinucleotide phosphate. ROS, reactive oxygen species, L-arg, L-arginine.
+
+sensitive events and NO generation [45] in relation to some
+antioxidant intervention. Recently, the combination of vita-
+mins E and C and L-arginine, the natural precursor of nitric
+oxide, provided convincing beneficial effects in perturbed
+shear stress-induced atherosclerosis [20,46] and by enhanc-
+ing the protection afforded by moderate physical exercise
+[10]. LDLox may induce a decreased uptake of L-arginine
+[47]. The local depletion of the L-arginine substrate may
+derange the endothelial nitric oxide synthase (eNOS), lead-
+ing to overproduction of superoxide radical from oxygen, the
+co-substrate of eNOS.
+Interestingly, glycoxidized LDL
+downregulates eNOS in human coronary cells [48]. Several
+epidemiological and prospective studies have shown that
+consumption of antioxidant vitamins such as vitamin E and
+ß-carotene may reduce the risk of CHD [37,49,50]. Some
+randomized clinical trials also suggest a reduced risk of CHD
+with vitamin E supplementation [43,51–53]. However, some
+large-scale human trials have failed to confirm the protective
+effect of L-arginine or β-carotene and have produced in-
+conclusive results with vitamin E.
+
+In the recently completed Heart Outcomes Prevention
+Evaluation (HOPE) Study [54,55] or in the Heart Protection
+Study [56], supplementation with vitamin E did not result in
+any beneficial effects on cardiovascular events. Another ran-
+domized clinical trial on Vascular Interaction With Age in
+Myocardial Infarction (VINTAGE MI) L-arginine, when
+added to standard postinfarction therapies, does not improve
+vascular stiffness measurements or ejection fraction and may
+be associated with higher postinfarction mortality [57]. More-
+
+over, also supplements combining folic acid and vitamins B6
+and B12 did not reduce the risk of major cardiovascular events
+in patients with vascular disease [58]. More likely, antioxidant
+intervention may affect long-term lesion progression but not
+necessarily modulate the properties of preexisting advanced
+atherosclerotic lesions (i.e., CHD, cerebrovascular disease,
+and peripheral arterial disease) or reduce the clinical mani-
+festations of plaque rupture [37]. Thus, to test whether anti-
+oxidants inhibit atherosclerosis it is necessary to investigate
+the progression of early atherosclerotic lesions in young adults.
+In addition, such intervention may prevent proatherogenic
+programming events during fetal development [41].
+
+3. Emerging nutritional aspects and CVD
+
+3.1. Lycopene
+
+Lycopene, a naturally present carotenoid in tomatoes and
+tomato products, is one such dietary antioxidant that has
+received much attention recently [59,60]. Epidemiological
+studies have shown an inverse relationship between the in-
+take of tomatoes and lycopene and serum and adipose tissue
+lycopene levels and the incidence of CHD [61–64]. A num-
+ber of in vitro studies have shown that lycopene can protect
+native LDL from oxidation and can suppress cholesterol
+synthesis [65,66]. However, dietary enrichment of endothe-
+lial cells with ß-carotene but not lycopene inhibited the
+oxidation of LDL [67]. One of the earlier studies that in-
+vestigated the relationship between serum antioxidant status,
+
+Downloaded from https://academic.oup.com/cardiovascres/article-abstract/73/2/326/486833
+by guest
+on 20 August 2018
+
+L.J. Ignarro et al. / Cardiovascular Research 73 (2007) 326–340
+
+329
+
+including lycopene and myocardial infarctions [68], reported
+an odd ratio of 0.75. The strongest population-based
+evidence from a recently reported multicenter case-control
+study (EURAMIC) [61] indicated that only lycopene, and
+not β-carotene, levels were found to be protective with an
+odd ratio of 0.52 for the contrast of the 10th and 90th
+percentiles with a P value of 0.005. A component of this
+larger EUREMIC study representing the Malaga region was
+analyzed further [69]. In this case-control study adipose
+tissue lycopene levels showed an odd ratio of 0.39. In another
+Atherosclerosis Risk in Communities (ARIC) case-control
+study, an odd ratio of 0.81 was observed when fasting serum
+antioxidant levels of 231 cases and an equal number of
+control subjects were assessed in relationship to the intima-
+media thickness [70]. In a cross-sectional study comparing
+Lithuanian and Swedish populations showing diverging
+mortality rates from CHD,
+lower blood lycopene levels
+were found to be associated with increased risk and mortality
+from CHD [71]. In the Austrian stroke prevention study,
+lower levels of serum lycopene and α-tocopherol were
+reported in individuals from an elderly population at high risk
+for cerebral damage [72]. Although the epidemiological
+studies conducted so far provide convincing evidence for the
+role of lycopene in CHD prevention, it is at best only sug-
+gestive and not proof of a causal relationship between ly-
+copene intake and the risk of CHD. Such a proof can be
+obtained only by performing controlled clinical dietary in-
+tervention studies where both the biomarkers of the status of
+oxidative stress and the disease are measured.
+
+There is a need related to the identification of genetic
+determinants or biomarkers that predict which individuals
+are at highest risk for chronic heart failure (CHF). In dietary
+intervention studies healthy human subjects, nonsmokers,
+and not on any medication and vitamin supplements, con-
+sumed lycopene (20 to 150 mg per day) from traditional
+tomato products and nutritional supplement for 1 week re-
+sulting in a significant increase in serum lycopene levels and
+lower levels of serum lipid peroxidation, LDL cholesterol
+protein, and DNA oxidation [73–75]. Fig. 1 suggests the
+general role of antioxidant lycopene in the disruption of
+oxidation-sensitive events. Long-term studies, the use of
+well-defined subject populations, standardized outcome
+measures of oxidative stress and the disease, and lycopene
+ingestion are essential for a meaningful interpretation of the
+results. Circulating and adipose tissue levels of lycopene
+seem to be better indicators of disease prevention than die-
+tary intake data. Moreover, we still underscore the fact that a
+better understanding of how genes and gene–environment
+interaction lead to the CVD is crucial together with a better
+focusing of ethnic/racial differences in the development and
+progression of CVD.
+
+3.2. Polyphenols contained in the pomegranate fruit
+
+Polyphenols are the most abundant antioxidants in the
+diet. Their main dietary sources are fruits and plant-derived
+
+beverages such as fruit juices, tea, coffee, red wine, cereals,
+chocolate, and dry legumes. Their total dietary intake could
+be as high as 1 g/d, which is much higher than that of all
+other classes of phytochemicals and known dietary anti-
+oxidants. For perspective, this is ∼10 times higher than the
+intake of vitamin C and 100 times higher that the intakes of
+vitamin E and carotenoids [76,77]. Despite their wide dis-
+tribution in plants, the health effects of dietary polyphenols
+have come to the attention of nutritionists only rather re-
+cently [78]. For many years, polyphenols and other anti-
+oxidants were thought to protect cell constituents against
+oxidative damage through scavenging of free radicals. How-
+ever, this concept now appears to be an oversimplified view
+of their mode of action. More likely, cells respond to poly-
+phenols mainly through direct interactions with receptors or
+enzymes involved in signal transduction, which may result in
+modification of the redox status of the cell and may trigger a
+series of redox-dependent reactions [76,77,79]. Evidence for
+a reduction of disease risk by flavonoids was considered
+“possible” for CVD and “insufficient” for cancers in a recent
+report from the World Health Organization [80]. Much of the
+evidence on the prevention of diseases by polyphenols is
+derived from in vitro or animal experiments, which are often
+performed with doses much higher than those to which
+humans are exposed through the diet [81–83]. Epidemio-
+logic studies tend to confirm the protective effects of poly-
+phenol consumption against CVD [84]. Both antioxidant and
+prooxidant effects of polyphenols have been described, with
+contrasting effects on cell physiologic processes. As anti-
+oxidants, polyphenols may improve cell survival; as pro-
+oxidants,
+tumor
+growth [85]. However, the biological effects of polyphenols
+may extend well beyond the modulation of oxidative stress.
+There is a significant history regarding the well known
+pomegranate fruit (Punica granatum L.) [86–91]. The
+soluble polyphenol content of pomegranate juice (PJ) varies
+within the limits of 0.2–1.0%, depending on variety, and
+includes mainly anthocyanins, catechins, ellagic tannins, and
+gallic and ellagic acids [87,88,91]. More importantly, PJ
+possesses potent antioxidant activity that elicits antiathero-
+genic properties in mice [91–93] and can inhibit cycloox-
+ygenases and lipoxygenases [89]. Prolonged supplementation
+with PJ can largely correct the perturbed shear stress-induced
+proatherogenic disequilibrium by increasing eNOS activity
+and decreasing redox-sensitive transcription factors both in
+vitro in cultured human coronary artery EC and in vivo in
+hypercholesterolemic mice [93,94].
+
+they may induce apoptosis and prevent
+
+Vascular disorders such as atherosclerosis cause disturbed
+blood flow in the affected regions, and this leads to perturbed
+shear stress that, in turn, causes endothelial damage [95]. Our
+findings of reductions in macrophage foam cell formation,
+oxidation-specific epitopes, and lesion area in atherosclerotic
+prone lesion regions (low- and high-prone areas) in PJ-treated
+mice [93] clearly confirm the correlation between antiox-
+idative effects and antiatherogenic properties, elicited by PJ,
+as was observed in other studies [91,92,96]. Modulation of
+
+Downloaded from https://academic.oup.com/cardiovascres/article-abstract/73/2/326/486833
+by guest
+on 20 August 2018
+
+330
+
+L.J. Ignarro et al. / Cardiovascular Research 73 (2007) 326–340
+
+redox-sensitive transcription factors (ELK-1 and p-JUN) and
+eNOS expression is associated with antiatherogenic activity
+in such areas [93]. These effects are similar to those elicited
+by antioxidants (vitamins E and C) and L-arginine [20]. The
+antioxidant level in PJ was found to be higher than in other
+natural juices such as blueberry, cranberry, and orange, as
+well as in red wine [97]. Polyphenols from red wine can
+reduce LDL aggregation in vitro and in vivo [97–99], and PJ
+administered to hypertensive patients causes also a signifi-
+cant decline in systemic blood pressure [100]. PJ consump-
+tion for 3 years by patients with carotid artery stenosis
+reduced common carotid intima-media thickness, blood
+pressure, and LDL oxidation [101]. Accordingly, tea pigment
+(and possibly polyphenols) exerted some antiatherosclerotic
+effects [102]. More recently, it was shown that short- and
+long-term black tea consumption reverses endothelial
+dysfunction in CVD patients [103]. Similarly, the ingestion
+of polyphenols contained in purple grape juice had beneficial
+effects on endothelial function in patients with CHD [104].
+Taken together, these data suggest that polyphenols can
+protect arteries from vascular damage via antioxidant effects
+and NO restoration.
+
+However, certain large clinical trials using different an-
+tioxidants have failed to show any beneficial effects in terms
+of prevention of major CVD events [105,14,95]. One pos-
+sible explanation of this divergence is that the models used in
+experimental studies, although very useful to study patho-
+physiological mechanisms, may not precisely reflect
+the
+disease in humans [105,14,95]. Alternatively, the doses of
+antioxidants used in those few studies may not have been
+appropriate, and/or the progression of disease may have been
+too severe. More recently, PJ has been shown to revert the
+potent downregulation of the expression of eNOS induced
+by LDLox in human coronary endothelial cells [106] sug-
+gesting that PJ can exert beneficial effects on the evolution of
+clinical vascular complications, CHD, and atherogenesis in
+humans by enhancing the eNOS bioactivity. PJ, tested for its
+capacity to upregulate and/or activate eNOS in bovine pul-
+monary artery endothelial cells, elicited no effects on eNOS
+protein expression or catalytic activity thus indicating that PJ
+possesses potent antioxidant activity that results in marked
+protection of NO against oxidative destruction, thereby re-
+sulting in augmentation of the biological actions of NO
+[107]. Along with components of the PJ studied for their
+antioxidant properties, i.e., PJ sugar fraction and pomegran-
+ate polyphenolic phytochemicals, pomegranate by-product
+(PBP) which includes the whole pomegranate fruit left after
+juice preparation), determined a reduction in atherosclerotic
+lesion size by up to 57% and a reduced oxidative stress in the
+apolipoprotein E-deficient mice (E degrees) peritoneal
+macrophages [108–111]. Daily consumption of PJ by dia-
+betic patients resulted in antioxidative effects on serum and
+macrophages [112] and improved stress-induced myocardial
+ischemia in patients who have CHD [113]. Thus, PJ and its
+by-products may improve redox status of the arterial cells
+(Fig. 1).
+
+3.3. Dietary fiber
+
+Recent cohort studies have found a consistent protective
+effect of dietary fiber on CVD outcomes, prompting many
+leading organizations to recommend increased fiber in the
+daily diet [114]. However, the biologic mechanisms ex-
+plaining how a fiber influences the cardiovascular system
+have yet to be fully elucidated. Recent research in large
+national sample in the USA has demonstrated an association
+between dietary fiber and levels of C-reactive protein (CRP),
+a clinical indicator of inflammation. Epidemiologic evidence
+demonstrating that high-fiber diets are beneficial, coupled
+with this newer evidence of a possible metabolic effect on
+inflammatory markers, suggests that inflammation may be
+an important mediator in the association between dietary
+fiber and CVD. In the Nurses Health Study, women in the
+highest quintile of fiber intake (median 22.9 g/day) had an
+age-adjusted relative risk for major coronary events that was
+47% lower than women in the lowest quintile (11.5 g/day)
+[115]. In a cross-sectional study to analyze the relation be-
+tween the source or type of dietary fiber intake and CVD risk
+factors in a cohort of adult men and women, indicate that the
+highest total dietary fiber and insoluble dietary fiber intakes
+were associated with a significantly lower risk of overweight
+and elevated waist-to-hip ratio, blood pressure, plasma
+apolipoprotein (apo) B, apo B:apo A–I, cholesterol, tria-
+cylglycerols, and homocysteine [116]. Soluble fiber, i.e.,
+beta-glucans, pectin, decreases serum total and low-density
+lipoprotein cholesterol concentrations and improves insulin
+resistance. Practical recommendations for CVD prevention
+include food-based approach favoring increased intake of
+whole-grain and dietary fiber (especially soluble fiber), fruit,
+and vegetables providing a mixture of different types of
+fibers [117,118].
+
+3.4. Fatty acids
+
+Evidence from epidemiologic and clinical secondary pre-
+vention trials suggests n-3 PUFAs may have a significant role
+in the prevention of CHD [reviewed in 119]. Dietary sources
+of n-3 PUFAs include fish oils, rich in eicosapentaenoic acid
+(EPA) and docosahexaenoic acid (DHA), along with plants
+rich in a-linolenic acid. Randomized secondary prevention
+clinical trials with fish oils (eicosapentaenoic acid, docosa-
+hexaenoic acid) and a-linolenic acid have demonstrated
+reductions in risk that compare favorably to those seen in
+landmark secondary prevention trials with lipid-lowering
+drugs. The anti-inflammatory activity of fish oil may vary
+among different sources due to variations in EPA/DHA
+content [120]. PUFAs, and especially total n-3 fatty acids,
+were independently associated with lower levels of proin-
+flammatory markers (IL-6, IL-1ra, TNF-α, C-reactive
+protein) and higher levels of anti-inflammatory markers
+(soluble IL-6r, IL-10, TGFα) [121]. Several mechanisms
+explaining the cardioprotective effect of the n-3 PUFA have
+been suggested including antiarrhythmic and antithrombotic
+
+Downloaded from https://academic.oup.com/cardiovascres/article-abstract/73/2/326/486833
+by guest
+on 20 August 2018
+
+L.J. Ignarro et al. / Cardiovascular Research 73 (2007) 326–340
+
+331
+
+roles. n-3 PUFAs have been recently shown to directly inhibit
+vascular calcification via p38-MAPK and PPAR-gamma
+pathways, and to reduce gene expression of cyclooxygenase-
+2, an inflammatory gene involved in plaque angiogenesis and
+plaque rupture through the activation of some metalloprotei-
+nases and reduction of oxidative stress (Fig. 1). The
+quenching of gene expression of pro-inflammatory pro-
+atherogenic genes by omega-3 fatty acids has consequences
+on the extent of leukocyte adhesion to vascular endothelium,
+early atherogenesis and later stages of plaque development
+and plaque rupture, ultimately yielding a plausible compre-
+hensive explanation for the vasculoprotective effects of these
+nutrients [122,123]. The modulation of channel activities,
+especially voltage-gated Na(+) and L-type Ca(2+) channels,
+by the n-3 PUFA may explain, at least partially, the anti-
+arrhythmic action [124]. It does seem clear from recent
+prospective randomized trials that both fish and plant sources
+of n-3 PUFAs can favorably impact CV health [125–127].
+Although official US guidelines for the dietary intake of n-3
+PUFA are not available, several international guidelines have
+been published. Fish is an important source of the n-3 PUFA
+in the US diet; however, vegetable sources including grains
+and oils offer an alternative source for those who are unable to
+regularly consume fish. Table 1 shows a summary of ran-
+domized clinical
+trials examining the effects of dietary
+interventions with fatty acids on biomarkers of inflammation
+[128–145].
+
+3.5. Ethanol and nonethanolic components of wine
+
+During the last decade, several groups have reported that,
+in animal models of myocardial ischemia/reperfusion, certain
+nutrients, including ethanol and nonethanolic components of
+wine, may have a specific protective effect on the myo-
+cardium, independent of the classical risk factors implicated
+in vascular atherosclerosis and thrombosis [146]. Mechan-
+isms through which the consumption of alcoholic beverages
+protects against ischemia-induced cardiac injury are not yet
+fully characterized. The protective effect of alcohol has been
+primarily explained by an action on blood lipids (increase in
+high-density lipoprotein levels) and platelets (decreased
+aggregation) resulting in a reduced rate of coronary artery
+obstruction [147–149]. Other mechanisms are probably in-
+volved. Moderate alcohol has been shown to improve post-
+ischemic myocardial systolic and diastolic function in rats
+and to attenuate the post-ischemic reduction in coronary
+vascular resistance [150]. Moderate drinking may improve
+the early outcomes after acute myocardial infarction and
+prevent sudden cardiac death [151], suggesting a direct effect
+of ethanol on the ischemic myocardium that has been referred
+to as ‘ethanol preconditioning’ [152]. To date, adenosine type
+1 (A(1)) receptors, alpha(1)-adrenoceptors, the epsilon iso-
+form of protein kinase C (PKC), and adenosine triphosphate-
+dependent potassium (KATP) channels have been shown to
+mediate cardioprotection associated with chronic ethanol
+ingestion [153,154]. Both alcohol and polyphenolic antiox-
+
+idant components contribute to the cardioprotective effects of
+wine compared to other alcoholic beverages (Fig. 1). The
+polyphenolic antioxidants present in red wine provide cardio-
+protection by their ability to function as in vivo antioxidants
+while its alcoholic component or alcohol by itself imparts
+cardioprotection by adapting the hearts to oxidative stress.
+Moderate alcohol consumption induced significant amount
+of oxidative stress to the hearts which was then translated into
+the induction of the expression of several cardioprotective
+oxidative stress-inducible proteins including heat shock
+protein (HSP) [155]. Other studies suggested anti-inflamma-
+tory and/or antioxidant effects of moderate drinking [146].
+One major open question is whether ethanol and nonethanolic
+components of wine are cardioprotective, at least in part, by
+interfering with the myocardial prooxidant/antioxidant
+balance.
+
+Important concepts, such as cardiac preconditioning, are
+now entering the field of nutrition, and recent experimental
+evidence suggests that ethanol and/or nonethanolic compo-
+nents of wine might exert preconditioning effects in animal
+models of myocardial
+ischemia/reperfusion. There is no
+doubt that such an observation, if confirmed in human sub-
+jects, might open new perspectives in the prevention and
+treatment of ischemic CHD.
+
+4. Physical exercise and CVD
+
+Regular physical activity causes substantial performance-
+improving and health-enhancing effects. Most of them are
+highly predictable, dose-dependent and generalizable to a
+wide range of population subgroups. Many of the biological
+effects of regular, moderate physical activity translate into
+reduced risk of CHD, cerebrovascular disease, hypertension,
+maturity onset diabetes, overweight and obesity, and osteo-
+porosis. In the genesis of these conditions, a lack of physical
+activity and inadequate nutrition act synergistically and in
+part additively, and they operate largely through the same
+pathways [156]. Indeed, numerous studies have demonstrat-
+ed a reduced rate of initial CHD events in physically active
+people [7,8,157]. These findings, along with those from
+studies that demonstrate biologically plausible cardioprotec-
+tive mechanisms, provide strong body of evidence that reg-
+ular physical activity of at least moderate intensity reduces
+the risk of CVD major events, thus leading to the conclusion
+that physical inactivity is a major CHD risk factor. Fig. 2
+shows changes in cellular NO, ROS, and scavenger levels in
+relation to physical exercise degree (strenuous, moderate, or
+none) indicating reduction of oxidative stress in moderate
+physical activity. An even greater impact is seen when the
+endurance exercise program is of sufficient intensity and
+volume to improve aerobic capacity.
+
+Molecular events associated with physical exercise effects
+on both endothelium and muscle function, such as high
+phosphate metabolism and reduced vascular expression of
+NAD(P)H oxidase can be altered by stopping regular ex-
+ercise [158,159]. Data from the Health Professionals'
+
+Downloaded from https://academic.oup.com/cardiovascres/article-abstract/73/2/326/486833
+by guest
+on 20 August 2018
+
+332
+
+L.J. Ignarro et al. / Cardiovascular Research 73 (2007) 326–340
+
+Follow-up Study [160] also provide robust evidence that as
+little as 30 min per week of strength training may reduce the
+risk of an initial coronary event. Guidelines for prescribing
+aerobic and resistance exercise for patients with CVD are
+available elsewhere [156,161].
+
+4.1. Exercise programming recommendations
+
+Specific integrating exercise programming activity
+recommendations are available for women [162], older
+
+adults [163], patients with CHF and heart transplants [164],
+stroke survivors [165], and patients with claudication in-
+duced by peripheral arterial disease [166]. Exercise training
+and regular daily physical activities are essential for im-
+proving a cardiac patient's physical fitness. The occurrence
+of major CVD events during supervised exercise in con-
+temporary programs ranges from 1/50 000 to 1/120 000
+patient-hours of exercise, with only 2 fatalities reported per
+1.5 million patient-hours of exercise [167]. Contemporary
+risk-stratification procedures for the management of CHD
+
+Table 1
+Summary of randomized clinical trials examining the effects of dietary interventions with fatty acids on biomarkers of inflammation
+
+Subjects
+
+Type and duration of dietary intervention/enrichment
+
+Change in biomarkers of Inflammation
+
+Saturated and trans fatty acids
+Healthy adult males
+
+Control diet (30% fat) or experimental diets (39% fat) with
+8% substitution of oleic acid, trans fatty acid, saturated
+fatty acids, stearic acid, or trans + stearic acid; 5 weeks
+
+Moderately
+
+hypercholesterolemic adults
+
+Moderately
+
+hypercholesterolemic adults
+
+Type 2 diabetic patients and
+
+matched healthy subjects
+
+Experimental diets (30% fat) two-thirds fats substituted
+with soybean oil, semi-liquid margarine, soft margarine,
+shortening, stick margarine, or butter; 35 days
+Experimental diets (30% fat) two-thirds fats substituted
+with soybean oil, soybean oil-based stick margarine, or
+butter; duration 32 days
+High-fat diet (59% fat) or high-carbohydrate diet (73%
+carbohydrates), with or without antioxidants; 4-day study,
+1 week apart
+
+↑CRP and E-selectin levels with trans fat diet compared
+with control; ↑fibrinogen in stearic acid diet vs control; no
+difference in any marker between oleic acid diet and
+control; (P b 0.05)
+No effect on CRP with any dietary fat type (P N 0.05)
+
+↑IL-6 and TNF-α with stick margarine diet vs soybean oil
+diet (P b 0.05)
+
+[130]
+
+↑IL-6, TNF-α, ICAM-1, VCAM-1 in healthy and diabetic
+subjects with high-fat meal;
+increased levels only in
+diabetics with high-carbohydrate meal (P b 0.05)
+
+[131]
+
+[Ref.]
+
+[128]
+
+[129]
+
+[132]
+
+[133]
+
+[134]
+
+[135]
+
+[136]
+
+[137]
+[138]
+
+[139]
+
+[140]
+
+[141]
+
+[142]
+
+[143]
+
+[144]
+
+[145]
+
+Monounsaturated fatty acids
+Patients with established and
+
+treated CAD
+
+Patients with metabolic
+
+syndrome
+
+Polyunsaturated fatty acids
+Moderately
+
+hypercholesterolemic adults
+
+Hypercholesterolemic adults
+
+Healthy subjects
+
+Obese men
+Men and postmenopausal
+
+women
+
+Male dyslipidemic patients
+
+Treated-hypertensive
+
+type 2 diabetic subjects
+
+Postmenopausal women using
+
+HRT
+
+Obese and lean
+
+normolipidemic men
+
+Conjugated linoleic acid
+Healthy volunteers
+
+Mediterranean diet group or written advice-only group;
+1 year
+Mediterranean-style diet or prudent diet; 2 years
+
+No effects (P N 0.05)
+
+↓hs-CRP, IL-6, IL-7, IL-18, with Mediterranean diet vs
+prudent diet (P b 0.05)
+
+ALA-enriched (15% ALA, 46% LA) or LA-enriched
+(58% LA, 0.3% ALA) margarine; 2 years
+ALA diet (6.5% ALA, 10.5% LA), LA diet
+(12.6% LA, 3.6% ALA) or AAD
+(7.7% LA, 0.8% ALA); 6 weeks
+1.5 g EPA + DHA, with or without 800 IU all-rac
+alpha-tocopherol; 12 weeks
+1.35 g of EPA + DHA or placebo capsules; 6 weeks
+1.5 g EPA + DHA or placebo; 12 weeks
+
+↓CRP in the ALA group vs LA (P b 0.05)
+
+↓CRP, VCAM-1, and E-selectin in ALA group vs LA;
+decreased ICAM-1 in ALA and LA groups vs AAD
+(P b 0.05)
+No effects (P N 0.05)
+
+No effects (P N 0.05)
+No effects (P N 0.05)
+
+15 mL linseed oil (8 g ALA) or 15 mL safflower oil
+(11 g LA); 12 weeks
+4 g, DHA, or placebo; 6 weeks
+
+↓CRP, SAA, and IL-6 in ALA group; no effects with LA
+(P b 0.05)
+No effects (P N 0.05)
+
+1.33 g EPA + DHA, or 2.56 g EPA + DHA, or placebo;
+5 weeks
+4 g EPA + DHA, with or without atorvastatin (40 mg);
+6 weeks
+
+↓CRP and IL-6 with fish oil vs placebo (P b 0.05)
+
+↓CRP and IL-6 with fish oil + atorvastatin, but not with
+fish oil alone (P N 0.05)
+
+4.2 g CLA isomer mixture or placebo; 12 weeks
+
+Adults with diet-controlled
+
+3.0 g CLA isomer mixture or placebo; 8 weeks
+
+type 2 diabetes
+
+Men with metabolic syndrome 3.4 g CLA, or 3.4 g purified t10c12 CLA,
+
+or placebo; 12 weeks
+
+↑CRP with CLA mixture vs placebo (P b 0.01); no effects
+on TNF-α and VCAM-1 (P N 0.05)
+CLA ↓fibrinogen (P b 0.01); no effects on CRP, IL-6
+(P N 0.05)
+↑CRP with t10c12 CLA supplementation vs placebo
+(P b 0.01)
+
+AAD indicates average American diet; HRT, hormone replacement therapy. ↑ (increased) and ↓ (decreased).
+
+Downloaded from https://academic.oup.com/cardiovascres/article-abstract/73/2/326/486833
+by guest
+on 20 August 2018
+
+L.J. Ignarro et al. / Cardiovascular Research 73 (2007) 326–340
+
+333
+
+Fig. 2. Different effects of physical exercise on redox status of the cell. Abbreviations: ROS, reactive oxygen species. NO, nitric oxide.
+
+help to identify patients who are at
+increased risk for
+exercise-related cardiovascular events and who may require
+more intensive cardiac monitoring in addition to the medical
+supervision provided for all cardiac rehabilitation program
+participants [168]. Supervised rehabilitative exercise for 3 to
+6 months generally is reported to increase a patient's peak
+oxygen uptake by 11% to 36%, with the greatest improve-
+ment in the most deconditioned individuals [169]. Improved
+fitness enhances a patient's quality of life and even can help
+older adults to live independently [170]. Improved physical
+fitness also is associated with reductions in submaximal
+heart rate, systolic blood pressure, and rate-pressure product
+(RPP), thereby decreasing myocardial oxygen requirements
+during moderate-to-vigorous activities of daily living [171].
+Furthermore, improvement in cardiorespiratory endurance
+on exercise testing is associated with a significant reduction
+in subsequent CVD fatal and nonfatal events independent of
+other risk factors [172–175]. These findings also apply to
+patients with CHF. In a recent meta-analysis of 81 studies
+involving 2587 patients with stable CHF [176],
+it was
+demonstrated a trend toward increased survival associated
+with improved functional capacity, as well as a reduction in
+cardiorespiratory symptoms after aerobic and strength train-
+ing. Physical activity can be recommended as a preventive
+therapy to people of all ages. However, one serious concern
+related to the fact that physical exercise program should be
+administered cautiously and gradually in patients with long-
+term established sedentary style of life.
+
+4.2. Aerobic fitness
+
+There is incontrovertible evidence from observational and
+randomized trials that regular physical activity contributes to
+the primary and secondary prevention of CVD and is asso-
+
+ciated with a reduced risk of premature death. Physical
+fitness refers to a physiologic state of well-being that allows
+one to meet the demands of daily living (health-related
+physical fitness) or that provides the basis for sport per-
+formance (performance-related physical fitness), or both.
+Aerobic fitness refers to the body's ability to transport and
+use oxygen during prolonged strenuous exercise or work
+whereas anaerobic fitness refers to the body's ability to
+produce energy without the use of oxygen. Recent research-
+ers have proposed that anaerobic capacity plays an important
+role in the performance of many activities of daily living
+[177,178]. Maximum anaerobic power (the maximum rate at
+which energy is produced without the use of oxygen) is
+generally taken as the standard measure of anaerobic fitness.
+Aerobic fitness is commonly measured by a person's max-
+imum aerobic power (VO2max), the maximum amount of
+oxygen that can be transported and used by the working
+muscles. The direct assessment of VO2max is generally
+conducted with the use of commercially available metabolic
+carts and requires highly trained staff. Owing to the com-
+plexity and cost of the direct assessment, many health and
+fitness professionals prefer to estimate VO2max without
+measuring oxygen consumption. A variety of tests are avail-
+able to measure aerobic fitness indirectly, including sub-
+maximal
+the
+modified Canadian Aerobic Fitness Test and the YMCA
+cycle ergometer protocol) and incremental to maximal tests
+(i.e., the Bruce protocol) that involve a variety of exercise
+modalities (i.e., cycling, running, stair climbing, rowing).
+Often heart rate is used to estimate VO2max during sub-
+maximal or maximal exercise tests. A lower heart rate for a
+given workload is thought to represent a higher level of
+aerobic fitness. Many fitness and health professionals prefer
+to use exercise time or estimated oxygen cost (i.e., metabolic
+
+the Rockport One Mile Test,
+
+tests (e.g.,
+
+Downloaded from https://academic.oup.com/cardiovascres/article-abstract/73/2/326/486833
+by guest
+on 20 August 2018
+
+334
+
+L.J. Ignarro et al. / Cardiovascular Research 73 (2007) 326–340
+
+equivalents [METs]) for the last stage completed during an
+incremental protocol to estimate aerobic fitness. To achieve a
+reasonable and reliable estimate of VO2max, these indirect
+assessments must be conducted in a highly standardized and
+reproducible fashion.
+
+Musculoskeletal fitness can be assessed relatively easily
+within and outside of the laboratory setting. Common tests
+include grip strength, push-ups, curl-ups (muscular endur-
+ance) and sit-and-reach tests (flexibility). Health practitioners
+should be aware that there are subtle differences between
+patient groups with respect to fitness testing. A series of field
+tests have been developed (i.e., the Leger 20-m shuttle test
+[179]) that provide valid and reliable determinants of aerobic
+fitness. In addition, it may be best to ask children to perform
+running activities instead of cycling activities because of their
+less developed muscular strength [180]. The American
+College of Sports Medicine has outlined special considera-
+tions that must be taken when assessing the physical fitness of
+elderly people [181]. Aging people are at increased risk of
+arrhythmias during exercise, and they commonly use medi-
+cations that may affect physiologic responses to exercise. It is
+preferable to use equipment that promotes safety (e.g., tread-
+mills with handrails, cycle ergometers). For obese people, one
+
+Table 2
+Relative intensity of effort and representative 7-month exercise program
+
+must be aware of the effect of obesity on their ability to
+conduct certain tests and the physiologic response to exercise.
+Obese people may also be prone to orthopedic injuries, and
+their heart rate response to exercise may differ from that of
+nonobese people [182].
+
+4.3. Physical exercise life style
+
+Special care must also be taken during the assessment of
+people with chronic disease. For instance, patients with CVD
+should be monitored closely during physiologic testing. The
+appraiser must have a clear understanding of the effects of
+the patient's clinical status and medications on the phy-
+siologic response to exercise. Low-intensity exercise is gen-
+erally better accepted by people naive to exercise training,
+those who are extremely deconditioned (“out of shape”) and
+older people. Low-intensity exercise may result in an im-
+provement in health status with little or no change in physical
+fitness. Indeed, light or moderate activity is associated with a
+reduced risk of death from any cause among men with
+established CHD. Furthermore, regular walking or moderate
+to heavy gardening has been shown to be sufficient
+in
+achieving these health benefits [183]. Low-fit people can
+
+Panel A. Relative intensities for aerobic exercise prescription (for activities lasting up to 60 min)
+Intensity (⁎range required for health) % HR max Category-ratio RPE scale Breathing rate
+Very light effort
+Light effort⁎
+Moderate effort⁎
+Vigorous effort⁎
+Very hard effort
+Maximal effort
+
+b35
+35–54
+55–69
+70–89
+N89
+100
+
+b2
+2–3
+4–6
+7–8
+9
+10
+
+Body temperature
+
+Example of activity
+
+Normal
+Slight increase
+Greater increase
+More out of breath
+Greater increase
+Completely out of breath Very hot, perspiring heavily Sprinting all-out
+
+Normal
+Start to feel warm
+Warm
+Quite warm
+Hot
+
+Dusting
+Light gardening
+Brisk walking
+Jogging
+Running fast
+
+Panel B. Example of a 7-month exercise program for a healthy adult
+
+Program stage
+
+Initial stage
+Perform light muscular endurance activities
+
+Engage in aerobic exercise of light to
+
+moderate intensity
+
+Improvement
+Increase exercise intensity and duration with
+
+improved fitness
+
+Try to achieve health and fitness goals
+
+Maintenance
+Try to maintain health-related fitness
+
+Length of
+program (wk)
+
+Frequency
+(day s/wk)
+
+Intensity
+
+% HRmax
+
+RPE
+
+Breathing rate
+
+Time per session/min
+
+1
+2
+3
+4
+
+5–7
+8–10
+11–13
+14–16
+17–20
+
+21–24
+
+24–28
+
+3
+3
+3
+3
+
+4
+4
+3–5
+3–5
+3–5
+
+3–5
+
+3–5
+
+60
+60
+65
+65
+
+70
+70
+75
+75
+75
+
+80
+
+80
+
+2–4
+2–4
+3–5
+3–5
+
+3–5
+3–5
+4–6
+4–6
+4–8
+
+4–8
+
+4–8
+
+Slightly increased
+Slightly increased
+Noticeable increased
+Noticeable increased
+
+Noticeable increased
+Noticeable increased
+Noticeable increased
+Noticeable increased
+More difficult talking
+while exercising
+More difficult talking
+while exercising
+
+More difficult talking
+while exercising
+
+20
+20
+20
+25
+
+25
+30
+30
+30
+35
+
+35
+
+40
+
+Created with modification from information provided in the handbook for Canada's Physical Activity Guide to Healthy Active Living, and the American College
+of Sports Medicine's guidelines for exercise testing and prescriptions [157,160–163].
+Abbreviations: HR max=maximum hearth rate, RPE=patient's rating of perceived exertion, wk=week.
+
+Downloaded from https://academic.oup.com/cardiovascres/article-abstract/73/2/326/486833
+by guest
+on 20 August 2018
+
+L.J. Ignarro et al. / Cardiovascular Research 73 (2007) 326–340
+
+335
+
+training intensity (e.g., 40%–50% of heart
+
+attain significant improvements in physical fitness with a
+lower
+rate
+reserve) than that needed by people with a higher baseline
+fitness level, whereas the latter would need a greater level of
+exercise intensity to achieve further improvements in fitness
+[184,185]. Deconditioned people may improve physical
+fitness with as little as 2 exercise sessions per week [186]. In
+fact, some have shown an improvement in aerobic fitness
+with exercise intensities as low as 30% of heart rate reserve
+in sedentary people [187]. However, adherence to this form
+of exercise may be poor and the risk of musculoskeletal
+injury high, especially in people unaccustomed to exercise
+[188,189]. Many health professionals recommend a mini-
+mum level of energy expenditure of about 1000 kcal
+(4200 kJ) per week, acknowledging the additive benefits of
+higher levels of energy expenditure. Expending 1000 kcal
+(4200 kJ) per week is equivalent to 1 h of moderate walking
+5 days a week. However, a lower level may also achieve
+health benefits [190]. The American College of Sports
+Medicine has stated that health benefits occur with energy
+expenditures as low as 700 kcal (2940 kJ) per week, with
+additional benefits occurring at higher levels [184]. The
+recommended daily energy expenditure for health is
+currently 150–400 kcal (630–1680 kJ) per day [180]. For
+instance, if a previously sedentary person exercised at the
+lower end of the recommended amount (150 kcal [630 kJ])
+on most days of the week, he or she would approach the
+health-related goal of 1000 kcal (4200 kJ) per week. It is
+important to stress that an increase of 1000 kcal (4200 kJ) per
+week in physical activity or of 1 MET in physical fitness
+appears to confer a mortality benefit of 20% [191]. This
+highlights the importance of commencing a training program
+that is progressive in nature.
+
+Subjective indicators of the relative intensity of effort are
+shown in Table 2 (Panel A). For instance, participants are
+often prescribed exercise that they perceive to be of moderate
+intensity. The most commonly used scale is the RPE (rating of
+perceived exertion) scale [192,193]. An example of a 7-month
+exercise prescription that incorporates objective and subjec-
+tive indicators of exercise intensity is provided in Table 2
+(Panel B) for a healthy adult starting an exercise program. The
+general principles for healthy adults can be applied in the
+training of patients with CVD. Such patients should engage in
+20–60 min of exercise on most days of the week. An energy
+expenditure of about 1600 kcal (6720 kJ) per week has been
+shown to effectively halt the progression of coronary artery
+disease, and an expenditure of 2200 kcal (9240 kJ) per week
+has been associated with plaque reduction and a reversal of
+the disease [194,195]. There are, however, slight differences
+in the exercise prescription model for patients with CVD. The
+duration of each session depends on the clinical status of the
+patient [196]. The minimal training intensity threshold is about
+45% of the heart rate reserve for patients with CHD [195],
+compared with 30% of the heart rate reserve for unfit healthy
+people [187]. This difference is thought to be the result of the
+difficulty for CVD patients in achieving true maximum effort
+
+during a stress test [187]. A similar intensity is used for CHF
+patients when they begin many traditional rehabilitation
+programs. Additional benefits, however, are likely achieved
+with higher exercise intensities, if tolerated and safe for the
+patient [195].
+
+5. Conclusions
+
+Unfortunately,
+
+in Western countries the high CVD
+prevalence is largely attributable to the contemporary life-
+style which is often sedentary, and includes a diet high in
+saturated fat and sugar, and low in n-3 PUFAs, fruit,
+vegetables and fiber. In combination with drug treatment,
+intervention in the area of nutrition and physical activity is
+the recommended treatment for patients at a high risk of
+CVD. Any strategy that can influence health maintenance
+is of interest, especially lifestyle factors such as nutrition,
+exercise or stress control. Integrated actions against risk
+factors (i.e., smoking, physical inactivity, and unhealthy
+diet), implemented within the social context, can lead to
+the reduction of major CVD events. Growing evidence
+clearly indicates that antioxidants, dietary fibers, poly-
+phenols contained in the PJ, n-3 PUFAs, wine, vitamins,
+and minerals, together with physical exercise reduce risk
+factors for CVD.
+
+However, some large-scale clinical trials in subjects with
+advanced atheroma failed to confirm the protective effects of
+some antioxidants. Because of the extremely long history of
+CVD, the causal relationship of nutrition/physical exercise
+on major CVD events is still difficult to assess prospectively.
+The ability to predict outcomes in patients with CVD remains
+imperfect. Some research questions yet remaining include the
+identification of optimal genetic determinants or biomarkers
+for predicting CVD and a better understanding of how gene–
+environment
+interaction can influence CVD. The well-
+being of general population necessarily comes from ade-
+quate physical activity together with careful nutritional
+habits.
+
+Acknowledgement
+
+The work of authors involving the pomegranate juice was
+funded partially by a grant from the Lynda and Stewart
+Resnick Revocable Trust to L.J.I and C.N. Dr. Ignarro wishes
+also to disclose that he helped develop and has a financial
+interest in a commercially available dietary supplement that
+contains some of the amino acids and antioxidants reported
+in this review.
+
+References
+
+[1] Ross R. Atherosclerosis—an inflammatory disease. N Engl J Med
+
+1999;340:115–26.
+
+[2] Steinberg D. Thematic review series: the pathogenesis of atheroscle-
+rosis: an interpretive history of the cholesterol controversy, part III:
+mechanistically defining the role of hyperlipidemia. J Lipid Res
+2005;46:2037–51.
+
+Downloaded from https://academic.oup.com/cardiovascres/article-abstract/73/2/326/486833
+by guest
+on 20 August 2018
+
+336
+
+L.J. Ignarro et al. / Cardiovascular Research 73 (2007) 326–340
+
+[3] Bazzano LA, Serdula MK, Liu S. Dietary intake of fruits and
+vegetables and risk of cardiovascular disease. Curr Atheroscler Rep
+2003;5:492–9.
+
+[4] Houston MC. Nutraceuticals, vitamins, antioxidants, and minerals in
+the prevention and treatment of hypertension. Prog Cardiovasc Dis
+2005;47:396–449.
+
+[5] Blumenthal JA, Emery CF, Madden DJ, George LK, Coleman RE,
+Riddle MW, et al. Cardiovascular and behavioral effects of aerobic
+exercise training in healthy older men and women. J Gerontol 1989;44:
+M147–57.
+
+[6] Kramsch DM, Aspen AJ, Abramowitz BM, Kreimendahl T, Hood Jr WB.
+Reduction of coronary atherosclerosis by moderate conditioning exercise
+in monkeys on an atherogenic diet. N Engl J Med 1981;305:1483–9.
+
+[7] Shephard RJ, Balady GJ. Exercise as cardiovascular
+
+Circulation 1999;99:963–72.
+
+therapy.
+
+[8] Thompson PD, Buchner D, Piña IL, Balady GJ, Williams MA,
+Marcus BH, et al. American Heart Association Council on Clinical
+Cardiology Subcommittee on Exercise, Rehabilitation, and Preven-
+tion; American Heart Association Council on Nutrition, Physical
+Activity, and Metabolism Subcommittee on Physical Activity.
+Exercise and physical activity in the prevention and treatment of
+atherosclerotic cardiovascular disease: a statement from the Council
+on Clinical Cardiology (Subcommittee on Exercise, Rehabilitation,
+and Prevention) and the Council on Nutrition, Physical Activity, and
+Metabolism (Subcommittee on Physical Activity). Circulation
+2003;107:3109–16.
+
+[9] Lee IM, Sesso HD, Oguma Y, Paffenbarger Jr RS. Relative intensity
+of physical activity and risk of coronary heart disease. Circulation
+2003;107:1110–6.
+
+[10] Napoli C, Williams-Ignarro S, de Nigris F, Lerman LO, Rossi L,
+Guarino C, et al. Long-term combined beneficial effects of physical
+training and metabolic treatment on atherosclerosis in hypercholes-
+terolemic mice. Proc Natl Acad Sci U S A 2004;101:8797–802.
+
+[11] Steinberg D, Witztum JL. Is the oxidative modification hypothesis
+relevant to human atherosclerosis? Do the antioxidant trials conducted
+to date refute the hypothesis? Circulation 2002;105:2107–11.
+
+[12] Leaf DA, Kleinman M, Hamilton M, Deitrick RW. The exercise-
+induced oxidative stress paradox: the effects of physical exercise
+training. Am J Med Sci 1999;317:295–300.
+
+[13] Leeuwenburgh C, Heinecke JW. Oxidative stress and antioxidants in
+
+exercise. Curr Med Chem 2001;8:829–38.
+
+[14] de Nigris F, Lerman A, Ignarro LJ, Williams-Ignarro S, Sica V, Baker
+AH, et al. Oxidation-sensitive mechanisms, vascular apoptosis and
+atherosclerosis. Trends Mol Med 2003;9:351–9.
+
+[15] Napoli C, D'Armiento FP, Mancini FP, Postiglione A, Witztum JL,
+Palumbo G, et al. Fatty streak formation occurs in human fetal aortas
+and is greatly enhanced by maternal hypercholesterolemia. Intimal
+accumulation of low density lipoprotein and its oxidation precede
+monocyte recruitment into early atherosclerotic lesions. J Clin Invest
+1997;100:2680–90.
+
+[16] Napoli C, Glass CK, Witztum JL, Deutch R, D'Armiento FP,
+Palinski W. Influence of maternal hypercholesterolemia during
+pregnancy on progression of early atherosclerotic lesions in
+childhood: Fate of Early Lesions in Children (FELIC) study. Lancet
+1999;354:1234–41.
+
+[17] Laufs U, Wassmann S, Czech T, Munzel T, Eisenhauer M, Bohm
+M, et al. Physical inactivity increases oxidative stress, endothelial
+dysfunction, and atherosclerosis. Arterioscler Thromb Vasc Biol
+2005;25:809–14.
+
+[18] Kingwell BA. Nitric oxide-mediated metabolic regulation during
+exercise: effects of training in health and cardiovascular disease.
+FASEB J 2000;14:1685–96.
+
+[19] Stefano GB, Prevot V, Cadet P, Dardik I. Vascular pulsations stimu-
+lating nitric oxide release during cyclic exercise may benefit health: a
+molecular approach. Int J Mol Med 2001;7:119–29.
+
+[20] de Nigris F, Lerman LO, Williams-Ignarro S, Sica G, Lerman A,
+Palinski W, et al. Beneficial effects of antioxidants and L-arginine on
+
+Downloaded from https://academic.oup.com/cardiovascres/article-abstract/73/2/326/486833
+by guest
+on 20 August 2018
+
+oxidation-sensitive gene expression and endothelial nitric oxide
+synthase activity at the sites of disturbed shear stress. Proc Natl Acad
+Sci U S A 2003;100:1420–5.
+
+[21] Boger RH, Bode-Boger SM. The clinical pharmacology of L-
+
+arginine. Annu Rev Pharmacol Toxicol 2001;41:79–99.
+
+[22] Maxwell AJ, Ho HV, Le CQ, Lin PS, Bernstein D, Cooke JP. L-
+arginine enhances aerobic exercise capacity in association with
+augmented nitric oxide production. J Appl Physiol 2001;90:933–8.
+[23] Fu WJ, Haynes TE, Kohli R, Hu J, Shi W, Spencer TE, et al. Dietary
+L-arginine supplementation reduces fat mass in Zucker diabetic fatty
+rats. J Nutr 2005;135:714–21.
+
+[24] Kauser K, da Cunha V, Fitch R, Mallari C, Rubanyi GM. Role of
+endogenous nitric oxide in progression of atherosclerosis in
+apolipoprotein E-deficient mice. Am J Physiol 2000;278:H1679–85.
+[25] Aji W, Ravalli S, Szabolcs M, Jiang XC, Sciacca RR, Michler RE, et al.
+L-arginine prevents xanthoma development and inhibits atherosclerosis
+in LDL receptor knockout mice. Circulation 1997;95:430–7.
+
+[26] Nagaya N, Uematsu M, Oya H, Sato N, Sakamaki F, Kyotani S, et al.
+Short-term oral administration of L-arginine improves hemodynamics
+and exercise capacity in patients with precapillary pulmonary
+hypertension. Am J Respir Crit Care Med 2001;163:887–91.
+
+[27] Bednarz B, Wolk R, Chamiec T, Herbaczynska-Cedro K, Winek D,
+Ceremuzynski L. Effects of oral L-arginine supplementation on
+exercise-induced QT dispersion and exercise tolerance in stable
+angina pectoris. Int J Cardiol 2000;75:205–10.
+
+[28] Fujita H, Yamabe H, Yokoyama M. Effect of L-arginine administra-
+tion on myocardial thallium-201 perfusion during exercise in patients
+with angina pectoris and normal coronary angiograms. J Nucl Cardiol
+2000;7:97–102.
+
+[29] Napoli C, Ignarro LJ. Nitric oxide-releasing drugs. Annu Rev
+
+Pharmacol Toxicol 2003;43:97–123.
+
+[30] Piatti P, Fragasso G, Monti LD, Setola E, Lucotti P, Fermo I, et al.
+Acute intravenous L-arginine infusion decreases endothelin-1 levels
+and improves endothelial function in patients with angina pectoris
+and normal coronary arteriograms: correlation with asymmetric
+dimethylarginine levels. Circulation 2003;107:429–36.
+
+[31] Maxwell AJ, Zapien MP, Pearce GL, MacCallum G, Stone PH.
+Randomized trial of a medical food for the dietary management of
+chronic, stable angina. J Am Coll Cardiol 2002;39:37–45.
+
+[32] Iannuzzi A, Iannuzzo G, Sapio C, Pauciullo P, Iorio D, Spampanato
+N, et al. L-arginine improves post-ischemic vasodilation in coronary
+heart disease patients taking vasodilating drugs. J Cardiovasc
+Pharmacol Ther 2001;6:121–7.
+
+[33] Hambrecht R, Hilbrich L, Erbs S, Gielen S, Fiehn E, Schoene N, et al.
+Correction of endothelial dysfunction in chronic heart
+failure:
+additional effects of exercise training and oral L-arginine supple-
+mentation. J Am Coll Cardiol 2000;35:706–13.
+
+[34] Stadtman ER. Protein oxidation and aging. Science 1992;257:1220–4.
+[35] Halliwell B. Free radicals, antioxidants and human disease: curiosity,
+
+cause or consequence? Lancet 1994;344:721–4.
+
+[36] Ames BN, Gold LS, Willet WC. Causes and prevention of cancer.
+
+Proc Natl Acad Sci U S A 1995;92:5258–65.
+
+[37] Ignarro LJ, Napoli C. Novel features on nitric oxide, endothelial nitric
+oxide synthase and atherosclerosis. Curr Atheroscl Rep
+2004;6:278–87.
+
+[38] Napoli C, Palinski W. Neurodegenerative diseases:
+
+insights into
+pathogenic mechanisms from atherosclerosis. Neurobiol Aging
+2005;26:293–302.
+
+[39] Crimi E, Sica V, Williams-Ignarro S, Slutsky AS, Zhang H, Ignarro
+LJ, et al. The role of oxidative stress in critical illness. Free Rad Biol
+Med 2006;40:398–406.
+
+[40] Witztum JL. The oxidation hypothesis of atherosclerosis. Lancet
+
+1994;344:793–5.
+
+[41] Palinski W, Napoli C. The fetal origins of atherosclerosis: maternal
+hypercholesterolemia and cholesterol-lowering or antioxidant
+treatment during pregnancy influence in utero programming and
+post-natal susceptibility to the disease. FASEB J 2002;16:1348–60.
+
+L.J. Ignarro et al. / Cardiovascular Research 73 (2007) 326–340
+
+337
+
+[42] Armitage JA, Khan IY, Taylor PD, Nathanielsz PW, Poston L.
+Developmental programming of the metabolic syndrome by maternal
+nutritional imbalance: how strong is the evidence from experimental
+models in mammals? J Physiol 2004;561:355–77.
+
+[43] Parthasarathy S. Mechanisms by which dietary antioxidants may
+
+prevent cardiovascular diseases. J Med Food 1998;1:45–51.
+
+[44] Rasmussen KM. The “fetal origins” hypothesis: challenges and opportu-
+nities for maternal and child nutrition. Annu Rev Nutr 2001;21:73–95.
+[45] Förstermann U, Münzel T. Endothelial nitric oxide synthase in vascular
+
+disease from marvel to menace. Circulation 2006;113:1708–14.
+
+[46] Hayashi T, Juliet PA, Matsui-Hirai H, Miyazaki A, Fukatsu A,
+Funami J, et al. l-Citrulline and l-arginine supplementation retards the
+progression of high-cholesterol-diet-induced atherosclerosis in
+rabbits. Proc Natl Acad Sci U S A 2005;102:13681–6.
+
+[47] Vergnani L, Hatrik S, Ricci F, Passaro A, Manzoni N, Zuliani G, et al.
+Effect of native and oxidized low-density lipoprotein on endothelial
+NO and superoxide production: key role of L-arginine availability.
+Circulation 2000;101:1261–6.
+
+[48] Napoli C, Lerman LO, de Nigris F, Loscalzo J, Ignarro LJ. Glycoxidized
+low-density lipoprotein downregulates endothelial nitric oxide synthase
+in human coronary cells. J Am Coll Cardiol 2002;40:1515–22.
+
+[49] Kohlmeier L, Kark JD, Gomez-Garcia E, Martin BC, Steck SE,
+Kardinaal AFM, et al. Lycopene and myocardial infarction risk in the
+EURAMIC study. Am J Epidemiol 1997;146:618–26.
+
+[50] Agarwal S, Rao AV. Carotenoids and chronic diseases. Drug Metab
+
+Drug Interac 2000;17:189–209.
+
+[51] Zock P, Katan MB. Diet, LDL oxidation, and coronary artery disease.
+
+Am J Clin Nutr 1998;68:759–60.
+
+[52] Virtamo J, Rapola JM, Ripatti S, Heinonen OP, Taylor PR, Albanrs D,
+et al. Effect of vitamin E and β-carotene on the incidence of primary
+nonfatal myocardial infarction and fatal coronary heart disease. Arch
+Intern Med 1998;158:668–765.
+
+[53] Stephens NG, Parsons A, Schodiel PM, Kelly F, Cheeseman K,
+Mitchinson MJ. Randomised controlled trial of vitamin E in patients
+with coronary disease: Cambridge Heart Antioxidant Study (CHAOS).
+Lancet 1996;347:781–6.
+
+[54] Yusuf S, Sleight P, Pogue J, Bosch J, Davies R, Dagenais G. Effects of
+an angiotensin-converting-enzyme inhibitor, ramipril, on cardiovas-
+cular events in high-risk patients. The Heart Outcomes Prevention
+Evaluation Study Investigators. N Engl J Med 2000;342:145–53.
+
+[55] Lonn E, Yusuf S, Hoogwerf B, Pogue J, Yi Q, Zinman B, et al. HOPE
+Study; MICRO-HOPE Study. Effects of vitamin E on cardiovascular
+and microvascular outcomes in high-risk patients with diabetes:
+results of the HOPE study and MICRO-HOPE substudy. Diabetes
+Care 2002;25:1919–27.
+
+[56] Heart Protection Study Collaborative Group. MRC/BHF Heart
+Protection Study of antioxidant vitamin supplementation in 20,536
+high-risk individuals: a randomised placebo-controlled trial. Lancet
+2002;360:23–33.
+
+[57] Schulman SP, Becker LC, Kass DA, Champion HC, Terrin ML,
+Forman S, et al. L-arginine therapy in acute myocardial infarction: the
+Vascular Interaction With Age in Myocardial Infarction (VINTAGE
+MI) randomized clinical trial. JAMA 2006;295:58–64.
+
+[58] Lonn E, Yusuf S, Arnold MJ, Sheridan P, Pogue J, Micks M, et al.
+Heart Outcomes Prevention Evaluation (HOPE) 2 Investigators.
+Homocysteine lowering with folic acid and B vitamins in vascular
+disease. N Engl J Med 2006;354:1567–77.
+
+[59] Britton G. Structure and properties of carotenoids in relation to
+
+function. FASEB J 1995;9:1551–8.
+
+[60] Di Mascio P, Kaiser S, Sies H. Lycopene as the most effective
+biological carotenoid singlet oxygen quencher. Arch Biochem
+Biophys 1989;274:532–8.
+
+[61] Arab L, Steck S. Lycopene and cardiovascular disease. Am J Clin
+
+Nutr 2000;71:1691S–5S [Suppl].
+
+[62] Kohlmeier L, Hastings SB. Epidemiologic evidence of a role of
+carotenoids in cardiovascular disease prevention. Am J Clin Nutr
+1995;62:1370S–6S [Suppl].
+
+[63] Rao AV, Agarwal S. Role of antioxidant lycopene in cancer and heart
+
+disease. J Am Coll Nutr 2000;19:563–9.
+
+[64] Agarwal S, Rao AV. Tomato lycopene and its role in human health
+
+and chronic diseases. Can Med Assoc J 2000;163:739–44.
+
+[65] Dugas TR, Morel DW, Harrison EH. Impact of LDL carotenoid and
+alpha-tocopherol content on LDL oxidation by endothelial cells in
+culture. J Lipid Res 1998;39:999–1007.
+
+[66] Fuhrman B, Elis A, Aviram M. Hypercholesterolemic effect of
+lycopene and β-carotene is related to suppression of cholesterol
+synthesis and augmentation of LDL receptor activity in macrophage.
+Biochem Biophys Res Commun 1997;233:658–62.
+
+[67] Dugas TR, Morel DW, Harrison EH. Dietary supplementation with
+β-carotene, but not with lycopene inhibits endothelial cell-
+mediated oxidation of low-density lipoprotein. Free Radic Biol
+Med 1999;26:1238–44.
+
+[68] Street DA, Comstock GW, Salkeld RM, Achuep W, Klag MJ. Serum
+antioxidant and myocardial infarction: are low levels of carotenoids
+and alpha-tocopherol risk factors for myocardial infarction? Circu-
+lation 1994;90:1154–61.
+
+[69] Gomez-Aracena J, Sloots J, Garcia-Rodriguez A. Antioxidants in adipose
+tissue and myocardial infarction in Mediterranean area. The EURAMIC
+study in Malaga. Nutr Metab Cardiovasc Dis 1997;7:376–82.
+
+[70] Iribarren C, Folsom AR, Jacobs DR, Cross MD, Belcher JD,
+Eckfeldt JH. Association of serum vitamin levels, LDL suscep-
+tibility to oxidation, and autoantibodies against MDA-LDL with
+carotid atherosclerosis. Arterioscler Thromb Vasc Biol
+1997;17:1171–7.
+
+[71] Kritenson M, Zieden B, Kucinskiene Z, Elinder LS, Bergdahl B,
+Elwing B, et al. Antioxidant state and mortality from coronary heart
+disease in Lithuanian and Swedish men: concomitant cross sectional
+study of men aged 50. Br Med J 1997;314:629–33.
+
+[72] Schmidt R, Fazekas F, Hayn M, Schmidt H, Kapeller P, Toob G, et al.
+Risk factors for microangiopathy-related cerebral damage in Austrian
+stroke prevention study. J Neurol Sci 1997;152:15–21.
+
+[73] Rao AV, Agarwal S. Effect of diet and smoking on serum lycopene
+
+and lipid peroxidation. Nutr Res 1998;18:713–21.
+
+[74] Rao AV, Agarwal S. Bioavailability and in vivo antioxidant properties
+of lycopene from tomato products and their possible role in the
+prevention of cancer. Nutr Cancer 1998;31:199–203.
+
+[75] Agarwal S, Rao AV. Tomato lycopene and low density lipoprotein
+oxidation: a human dietary intervention study. Lipids 1988;33:981–4.
+[76] Manach C, Scalbert A, Morand C, Rémésy C, Jimenez L.
+Polyphenols: food sources and bioavailability. Am J Clin Nutr
+2004;79:727–47.
+
+[77] Scalbert A, Williamson G. Dietary intake and bioavailability of
+
+polyphenols. J Nutr 2000;130:2073S–85S.
+
+[78] Gutteridge JM, Halliwell B. Free radicals and antioxidants in the year
+look to the future. Ann N Y Acad Sci
+
+2000. A historical
+2000;899:136–47.
+
+[79] Scalbert A, Manach C, Morand C, Remesy C, Jimenez L. Dietary
+polyphenols and the prevention of diseases. Crit Rev Food Sci Nutr
+2005;45:287–306.
+
+[80] WHO/FAO. Diet, nutrition, and the prevention of chronic diseases.
+
+Geneva: World Health Organization; 2003.
+
+[81] Vita JA. Polyphenols and cardiovascular disease: effects on
+endothelial and platelet function. Am J Clin Nutr 2005;81:292S–7S
+[suppl].
+
+[82] Keen CL, Holt RR, Oteiza PI, Fraga CG, Schmitz HH. Cocoa
+antioxidants and cardiovascular health. Am J Clin Nutr
+2005;81:298S–303S [suppl].
+
+[83] Sies H, Schewe T, Heiss C, Kelm M. Cocoa polyphenols and
+inflammatory mediators. Am J Clin Nutr 2005;81:304S–12S [suppl].
+[84] Arts ICW, Hollman PCH. Polyphenols and disease risk in
+epidemiologic studies. Am J Clin Nutr 2005;81:317S–25S [suppl].
+[85] Lambert JD, Hong J, Yang G, Liao J, Yang CS. Inhibition of
+carcinogenesis by polyphenols: evidence from laboratory investiga-
+tions. Am J Clin Nutr 2005;81:284S–91S.
+
+Downloaded from https://academic.oup.com/cardiovascres/article-abstract/73/2/326/486833
+by guest
+on 20 August 2018
+
+338
+
+L.J. Ignarro et al. / Cardiovascular Research 73 (2007) 326–340
+
+[86] Cemeroglu B, Artik N, Erbas S. Extraction and composition of
+
+pomegranate juice. Fluessiges Obst 1992;59:335–40.
+
+[87] El-Nemr SE, Ismail IA, Ragab M. Chemical composition of the
+polyphenolic content of pomegranate peel. Nahrung 1990;34:601–6.
+[88] Narr Ben C, Ayed N, Metche M. Quantitative determination of the
+polyphenolic content of pomegranate peel. Z Lebensm-Unters
+-Forsch, A Eur Food Res Technol 1996;203:374–8.
+
+[89] Shubert YS, Lansky EP, Neeman I. Antioxidant and eicosanoid
+enzyme inhibition properties of pomegranate seed oil and fermented
+juice flavonoids. J Ethnopharmacol 1999;66:11–7.
+
+[90] Gil MI, Tomas-Barberan FA, Hess-Pierce B, Holcroft DM, Kader
+AA. Antioxidant activity of pomegranate juice and its relationship
+with phenolic composition and processing. J Agric Food Chem
+2000;48:4581–9.
+
+[91] Aviram M, Dornfeld L, Rosenblat M, Volkova N, Kaplan M,
+
+Coleman R, et al. Am J Clin Nutr 2000;71:1062–76.
+
+[92] Rosenblat M, Draganov D, Watson CE, Bisgaier CL, La Du BN,
+Aviram M. Mouse macrophage paraoxonase 2 activity is increased
+whereas cellular paraoxonase 3 activity is decreased under oxidative
+stress. Arterioscler Thromb Vasc Biol 2003;23:468–74.
+
+[93] de Nigris F, Williams-Ignarro S, Lerman LO, Crimi E, Botti C,
+Mansueto G, et al. Beneficial effects of pomegranate juice on
+oxidation-sensitive genes and endothelial nitric oxide synthase
+activity at sites of perturbed shear stress. Proc Natl Acad Sci U S A
+2005;102:4896–901.
+
+[94] Ignarro LJ, Cirino G, Casini A, Napoli C. Nitric oxide as a signaling
+molecule in the vascular system: an overview. J Cardiovasc
+Pharmacol 1999;34:879–86.
+
+[95] Napoli C, Ignarro LJ. Nitric oxide and atherosclerosis. Nitric Oxide
+
+2001;5:88–97.
+
+[96] Kaplan M, Hayek T, Raz A, Coleman R, Dornfeld L, Vaya J, et al.
+Pomegranate juice supplementation to atherosclerotic mice reduces
+macrophage lipid peroxidation, cellular cholesterol accumulation and
+development of atherosclerosis. J Nutr 2001;131:2082–9.
+
+[97] Aviram M, Dornfeld L, Kaplan M, Coleman R, Gaitini D, Nitecki S,
+et al. Pomegranate juice flavonoids inhibit low-density lipoprotein
+oxidation and cardiovascular diseases: studies in atherosclerotic mice
+and in humans. Drugs Exp Clin Res 2002;28:49–62.
+
+[98] Hayek T, Fuhrman B, Vaya J, Rosenblat M, Belinky P, Coleman R, et
+al. Reduced progression of atherosclerosis in apolipoprotein E-
+deficient mice following consumption of red wine, or its polyphenols
+quercetin or catechin, is associated with reduced susceptibility of
+LDL to oxidation and aggregation. Arterioscler Thromb Vasc Biol
+1997;17:2744–52.
+
+[99] Aviram M, Fuhrman B. Polyphenolic flavonoids inhibit macrophage-
+mediated oxidation of LDL and attenuate atherogenesis. Atheroscle-
+rosis 1998;137:S45–50.
+
+[100] Aviram M, Dornfeld L. Pomegranate juice consumption inhibits
+serum angiotensin converting enzyme activity and reduces systolic
+blood pressure. Atherosclerosis 2001;158:195–8.
+
+[101] Aviram M, Rosenblat M, Gaitini D, Nitecki S, Hoffman A, Dornfeld L,
+et al. Pomegranate juice consumption for 3 years by patients with
+carotid artery stenosis reduces common carotid intima-media thickness,
+blood pressure and LDL oxidation. Clin Nutr 2004;23:423–33.
+
+[102] Lou FQ, Zhang MF, Zhang XG, Liu JM, Yuan WL. A study on tea-
+in prevention of atherosclerosis. Chin Med J Engl
+
+pigment
+1989;102:579–83.
+
+[103] Duffy SJ, Keaney Jr JF, Holbrook M, Gokce N, Swerdloff PL, Frei B,
+Vita JA. Short- and long-term black tea consumption reverses
+endothelial dysfunction in patients with coronary artery disease.
+Circulation 2001;104:151–6.
+
+[104] Chou EJ, Keevil JG, Aeschlimann S, Wiebe DA, Folts JD, Stein JH.
+Effect of ingestion of purple grape juice on endothelial function in
+patients with coronary heart disease. Am J Cardiol 2001;88:553–5.
+[105] de Nigris F, Lerman LO, Condorelli M, Lerman A, Napoli C.
+Oxidation-sensitive transcription factors and molecular mechanisms
+in the arterial wall. Antioxid Redox Signal 2001;3:1119–30.
+
+[106] de Nigris F, Williams-Ignarro S, Botti C, Sica V, Ignarro LJ, Napoli C.
+Pomegranate juice reduces oxidized low-density lipoprotein down-
+regulation of endothelial nitric oxide synthase in human coronary
+endothelial cells. Nitric Oxide Jan 11 2006 [Epub ahead of print].
+
+[107] Ignarro LJ, Byrns RE, Sumi D, de Nigris F, Napoli C. Pomegranate
+juice protects nitric oxide against oxidative destruction and enhances
+the biological actions of nitric oxide. Nitric Oxide Apr 18 2006 [Epub
+ahead of print].
+
+[108] Rosenblat M, Volkova N, Coleman R, Aviram M. Pomegranate
+byproduct administration to apolipoprotein e-deficient mice attenu-
+ates atherosclerosis development as a result of decreased macrophage
+oxidative stress and reduced cellular uptake of oxidized low-density
+lipoprotein. J Agric Food Chem 2006;54:1928–35.
+
+[109] Adams LS, Seeram NP, Aggarwal BB, Takada Y, Sand D, Heber D.
+Pomegranate juice, total pomegranate ellagitannins, and punicalagin
+suppress inflammatory cell signaling in colon cancer cells. J Agric
+Food Chem 2006;54:980–5.
+
+[110] Rozenberg O, Howell A, Aviram M. Pomegranate juice sugar fraction
+reduces macrophage oxidative state, whereas white grape juice sugar
+fraction increases it. Atherosclerosis 2005 [Epub ahead of print].
+
+[111] Fuhrman B, Volkova N, Aviram M. Pomegranate juice inhibits
+oxidized LDL uptake and cholesterol biosynthesis in macrophages.
+J Nutr Biochem 2005;16:570–6.
+
+[112] Rosenblat M, Hayek T, Aviram M. Anti-oxidative effects of
+pomegranate juice (PJ) consumption by diabetic patients on serum
+and on macrophages. Atherosclerosis Oct 11 2005 [Epub ahead of
+print].
+
+[113] Sumner MD, Elliott-Eller M, Weidner G, Daubenmier JJ, Chew MH,
+Marlin R, et al. Effects of pomegranate juice consumption on myo-
+cardial perfusion in patients with coronary heart disease. Am J Cardiol
+2005;96:810–4.
+
+[114] King DE. Dietary fiber, inflammation, and cardiovascular disease.
+
+Mol Nutr Food Res 2005;49:594–600.
+
+[115] Stampfer MJ, Hu FB, Manson JE, Rimm EB, Willet WC. Primary
+prevention of coronary heart disease in women through diet and
+lifestyle. N Engl J Med 2000;343:16–22.
+
+[116] Lairon D, Arnault N, Bertrais S, Planells R, Clero E, Hercberg S, et al.
+Dietary fiber intake and risk factors for cardiovascular disease in
+French adults. Am J Clin Nutr 2005;82:1185–94.
+
+[117] Olendzki B, Speed C, Domino FJ. Nutritional assessment and
+counseling for prevention and treatment of cardiovascular disease.
+Am Fam Phys 2006;73:257–64.
+
+[118] Ding EL, Mozaffarian D. Optimal dietary habits for the prevention of
+
+stroke. Semin Neurol 2006;26:11–23.
+
+[119] Harper CR, Jacobson TA. Beyond the Mediterranean diet: the role of
+omega-3 fatty acids in the prevention of coronary heart disease. Prev
+Cardiol 2003;6:136–46.
+
+[120] Bhattacharya A, Sun D, Rahman M, Fernandes G. Different ratios of
+eicosapentaenoic and docosahexaenoic omega-3 fatty acids in
+commercial fish oils differentially alter pro-inflammatory cytokines
+in peritoneal macrophages from C57BL/6 female mice. J Nutr
+Biochem 2006 [Epub ahead of print].
+
+[121] Ferrucci L, Cherubini A, Bandinelli S, Bartali B, Corsi A, Lauretani F,
+et al. Relationship of plasma polyunsaturated fatty acids to circulating
+inflammatory markers. J Clin Endocrinol Metab 2006;91:439–46.
+
+[122] De Caterina R, Massaro M. Omega-3 fatty acids and the regulation of
+expression of endothelial pro-atherogenic and pro-inflammatory
+genes. J Membr Biol 2005;206:103–16.
+
+[123] Abedin M, Lim J, Tang TB, Park D, Demer LL, Tintut Y. N-3 fatty
+acids inhibit vascular calcification via the p38-mitogen-activated
+protein kinase and peroxisome proliferator-activated receptor-gamma
+pathways. Circ Res 2006;98:727–9.
+
+[124] Xiao YF, Sigg DC, Leaf A. The antiarrhythmic effect of n-3
+polyunsaturated fatty acids: modulation of cardiac ion channels as a
+potential mechanism. J Membr Biol 2005;206:141–54.
+
+[125] DeFilippis AP, Sperling LS. Understanding omega-3's. Am Heart J
+
+2006;151:564–70.
+
+Downloaded from https://academic.oup.com/cardiovascres/article-abstract/73/2/326/486833
+by guest
+on 20 August 2018
+
+L.J. Ignarro et al. / Cardiovascular Research 73 (2007) 326–340
+
+339
+
+[126] Iso H, Kobayashi M, Ishihara J, Sasaki S, Okada K, Kita Y. Intake of
+fish and n3 fatty acids and risk of coronary heart disease among
+Japanese. Circulation 2006;113:195–202.
+
+[127] Harper CR, Jacobson TA. Usefulness of omega-3 fatty acids and the
+prevention of coronary heart disease. Am J Cardiol 2005;96:1521–9.
+[128] Baer DJ, Judd JT, Clevidence BA, Tracy RP. Dietary fatty acids affect
+plasma markers of inflammation in healthy men fed controlled diets: a
+randomized crossover study. Am J Clin Nutr 2004;79:969–73.
+
+[129] Lichtenstein AH, Erkkila AT, Lamarche B, Schwab US, Jalbert SM,
+Ausman LM. Influence of hydrogenated fat and butter on CVD risk
+factors: remnant-like particles, glucose and insulin, blood pressure
+and C-reactive protein. Atherosclerosis 2003;171:97–107.
+
+[130] Han NS, Leka LS, Lichtenstein AH, Ausman LM, Schaefer EJ,
+Meydani SN. Effect of hydrogenated and saturated, relative to
+polyunsaturated, fat on immune and inflammatory responses of adults
+with moderate hypercholesterolemia. J Lipid Res 2002;43:445–52.
+[131] Nappo F, Esposito K, Cioffi M, Giugliano G, Molinari AM, Paolisso
+G, et al. Postprandial endothelial activation in healthy subjects and in
+type 2 diabetic patients: role of fat and carbohydrate meals. J Am Coll
+Cardiol 2002;39:1145–50.
+
+[132] Michalsen A, Lehmann N, Pithan C, Knoblauch NTM, Moebus S,
+Kannenberg F, et al. Mediterranean diet has no effect on markers of
+inflammation and metabolic risk factors in patients with coronary
+artery disease. Eur J Clin Nutr 2005;23:1–8.
+
+[133] Esposito K, Marfella R, Ciotola M, Di Palo C, Giugliano F, Giugliano
+G, et al. Effect of a Mediterranean-style diet on endothelial
+dysfunction and markers of vascular inflammation in the metabolic
+syndrome. JAMA 2004;292:1440–6.
+
+[134] Bemelmans WJ, Lefrandt JD, Feskens EJ, van Haelst PL, Broer J,
+Meyboom-de Jong B, et al. Increased alpha-linolenic acid intake
+lowers C-reactive protein, but has no effect on markers of
+atherosclerosis. Eur J Clin Nutr 2004;58:1083–9.
+
+[135] Zhao G, Etherton TD, Martin KR, West SG, Gillies PJ, Kris-Etherton
+PM. Dietary-linolenic acid reduces inflammatory and lipid cardio-
+vascular risk factors in hypercholesterolemic men and women. J Nutr
+2004;134:2991–7.
+
+[136] Vega-Lopez S, Kaul N, Devaraj S, Cai RY, German B, Jialal I.
+Supplementation with omega3 polyunsaturated fatty acids and all-rac
+alpha-tocopherol alone and in combination failed to exert an anti-
+inflammatory effect in human volunteers. Metabolism 2004;53:236–40.
+[137] Jellema A, Plat J, Mensink RP. Weight reduction, but not a moderate
+intake of fish oil, lowers concentrations of inflammatory markers and
+PAI-1 antigen in obese men during the fasting and postprandial state.
+Eur J Clin Invest 2004;34:766–73.
+
+[138] Geelen A, Brouwer IA, Schouten EG, Kluft C, Katan MB, Zock PL.
+Intake of n-3 fatty acids from fish does not lower serum concen-
+trations of C-reactive protein in healthy subjects. Eur J Clin Nutr
+2004;58:1440–2.
+
+[139] Rallidis LS, Paschos G, Liakos GK, Velissaridou AH, Anastasiadis G,
+Zampelas A. Dietary-linolenic acid decreases C-reactive protein,
+serum amyloid A and interleukin-6 in dyslipidaemic patients.
+Atherosclerosis 2003;167:237–342.
+
+[140] Mori TA, Woodman RJ, Burke V, Puddey IB, Croft KD, Beilin LJ.
+Effect of eicosapentaenoic acid and docosahexaenoic acid on
+oxidative stress and inflammatory markers in treated-hypertensive
+type 2 diabetic subjects. Free Radic Biol Med 2003;35:772–81.
+
+[141] Ciubotaru I, Lee YS, Wander RC. Dietary fish oil decreases C-
+reactive protein, interleukin-6, and triacylglycerol to HDL-cholesterol
+ratio in postmenopausal women on HRT. J Nutr Biochem
+2003;14:513–21.
+
+[142] Chan DC, Watts GF, Barrett PH, Beilin LJ, Mori TA. Effect of
+atorvastatin and fish oil on plasma high-sensitivity C-reactive protein
+concentrations in individuals with visceral obesity. Clin Chem
+2002;48:877–83.
+
+[143] Smedman A, Basu S, Jovinge S, Fredrikson GN, Vessby B.
+Conjugated linoleic acid increased C-reactive protein in human
+subjects. Br J Nutr 2005;94:791–5.
+
+[144] Moloney F, Yeow TP, Mullen A, Nolan JJ, Roche HM. Conjugated
+linoleic acid supplementation,
+insulin sensitivity, and lipoprotein
+metabolism in patients with type 2 diabetes mellitus. Am J Clin Nutr
+2004;80:887–95.
+
+[145] Riserus U, Basu S, Jovinge S, Fredrikson GN, Arnlov J, Vessby B.
+Supplementation with conjugated linoleic acid causes isomer-depen-
+dent oxidative stress and elevated C-reactive protein: a potential link to
+fatty acid-induced insulin resistance. Circulation 2002;106:1925–9.
+
+[146] Rakotovao A, Berthonneche C, Guiraud A, de Lorgeril M, Salen P, de
+Leiris J. Ethanol, wine, and experimental cardioprotection in
+ischemia/reperfusion: role of the prooxidant/antioxidant balance.
+Antioxid Redox Signal 2004;6:431–8.
+
+[147] Rimm EB, Fosher K, Criqui M, Stampfer MJ. Moderate alcohol
+intake and lower risk of coronary heart disease: meta-analysis of
+effects on lipids and haemostatic factors. BMJ 1999;319:1523–8.
+
+[148] Ruf J. Alcohol, wine and platelet function. Biol Res 2004;37:209–15.
+[149] de Lorgeril M, Salen P. Wine ethanol, platelets, and Mediterranean
+
+diet. Lancet 1999;353:1067.
+
+[150] Abou-agaga LH, Khooa NK, Binsacka R, White CR, Darley-Usmare V,
+Grenett HE, et al. Evidence of cardiovascular protection by mod-
+erate alcohol: role of nitric oxide. Free Rad Biol Med 2005;39:
+540–8.
+
+[151] de Lorgeril M, Salen P, Martin JL, Boucher F, Paillard F, de Leiris J.
+Wine drinking and risks of cardiovascular complications after recent
+acute myocardial infarction. Circulation 2002;106:1465–9.
+
+[152] Guiraud A, de Lorgeril M, Boucher F, Rakotovao A, Berthonneche C,
+de Leiris J. Cardioprotective effect of low dose ethanol drinking:
+insights into the concept of ethanol preconditioning. J Mol Cell
+Cardiol 2004;36:561–6.
+
+[153] Pagel PS, Kersten JR, Warltier DC. Mechanisms of myocardial
+protection produced by chronic ethanol consumption. Pathophysiol-
+ogy 2004;10:121–9.
+
+[154] Krenz M, Cohen MV, Downey JM. Protective and anti-protective
+effects of acute ethanol exposure in myocardial ischemia/reperfusion.
+Pathophysiology 2004;10:113–9.
+
+[155] Sato M, Maulik N, Das DK. Cardioprotection with alcohol: role of
+both alcohol and polyphenolic antioxidants. Ann N Y Acad Sci
+2002;957:122–35.
+
+[156] Vuori IM. Health benefits of physical activity with special reference
+
+to interaction with diet. Public Health Nutr 2001;4:517–28.
+
+[157] Lakka TA, Venäläinen JM, Rauramaa R, Salonen R, Tuomilehto J,
+Salonen JT. Relation of leisure-time physical activity and cardiore-
+spiratory fitness to the risk of acute myocardial infarction. N Engl J
+Med 1994;330:1549–54.
+
+[158] Adams V, Linke A, Krankel N, Erbs S, Gielen S, Mobius-Winkler S,
+et al. Impact of regular physical activity on the NAD(P)H oxidase and
+angiotensin receptor system in patients with coronary artery disease.
+Circulation 2005;111:555–62.
+
+[159] Greiner A, Esterhammer R, Messner H, Biebl M, Muhlthaler H,
+Fraedrich G, et al. High-energy phosphate metabolism during
+incremental calf exercise in patients with unilaterally symptomatic
+peripheral arterial disease measured by phosphor 31 magnetic
+resonance spectroscopy. J Vasc Surg 2006;43:978–86.
+
+[160] Tanasescu M, Leitzmann MF, Rimm EB, Willett WC, Stampfer MJ,
+Hu FB. Exercise type and intensity in relation to coronary heart
+disease in men. JAMA 2002;288:1994–2000.
+
+[161] Fletcher GF, Balady G, Amsterdam EA, Chaitman B, Eckel R, Fleg J.
+Exercise standards for testing and training: a statement for healthcare
+professionals from the American Heart Association. Circulation
+2001;104:1694–740.
+
+[162] Bonzheim KA, Franklin BA. Women and heart disease: role of
+exercise-based cardiac rehabilitation. Am J Sports Med 2001;3:
+135–44.
+
+[163] Williams MA, Fleg JL, Ades PA, Chaitman BR, Miller NH,
+Mohiuddin SM, et al. American Heart Association Council on
+Clinical Cardiology Subcommittee on Exercise, Cardiac Rehabilita-
+tion, and Prevention. Secondary prevention of coronary heart disease
+
+Downloaded from https://academic.oup.com/cardiovascres/article-abstract/73/2/326/486833
+by guest
+on 20 August 2018
+
+340
+
+L.J. Ignarro et al. / Cardiovascular Research 73 (2007) 326–340
+
+in the elderly (with emphasis on patients 75 years of age): an
+American Heart Association scientific statement from the Council on
+Clinical Cardiology Subcommittee on Exercise, Cardiac Rehabilita-
+tion and Prevention. Circulation 2002;105:1735–43.
+
+[164] Piña IL, Epstein CS, Balady GJ, Belardinelli R, Chaitman BR, Duscha
+BD, et al. American Heart Association Committee on exercise,
+rehabilitation, and prevention. Exercise and heart failure: a statement
+from the American Heart Association Committee on Exercise,
+Rehabilitation, and Prevention. Circulation 2003;107:1210–25.
+
+[165] Gordon NF, Gulanick M, Costa F, Fletcher G, Franklin BA, Roth EJ,
+et al. American Heart Association Council on Clinical Cardiology,
+Subcommittee on Exercise, Cardiac Rehabilitation, and Prevention;
+the Council on Cardiovascular Nursing; the Council on Nutrition,
+Physical Activity, and Metabolism; and the Stroke Council. Physical
+activity and exercise recommendations for stroke survivors: an
+American Heart Association scientific statement from the Council on
+Clinical Cardiology, Subcommittee on Exercise, Cardiac Rehabilita-
+tion, and Prevention; the Council on Cardiovascular Nursing; the
+Council on Nutrition, Physical Activity, and Metabolism; and the
+Stroke Council. Circulation 2004;109:2031–41.
+
+[166] Stewart KJ, Hiatt WR, Regensteiner JG, Hirsch AT. Exercise training
+
+for claudication. N Engl J Med 2002;347:1941–51.
+
+[167] Franklin BA, Bonzheim K, Gordon S, Timmis GC. Safety of
+medically supervised cardiac rehabilitation exercise therapy: a 16-
+year follow-up. Chest 1998;114:902–6.
+
+[168] Leon AS, Franklin BA, Costa F, Balady GJ, Berra KA, Stewart KJ,
+et al. Statement
+from the Council on Clinical cardiology
+(Subcommitee on Exercise, Cardiac Rehabilitation, and Prevention)
+and the Coucil on Nutrition, Physical Activity, and Metabolism
+(Subcommetee on Physical Activity), in Collaboration with the
+American Association of Cardiovasculaar and Pulmonary Rehabil-
+itation. Circulation 2005;111:369–76.
+
+[169] Ades PA. Cardiac rehabilitation and secondary prevention of
+
+coronary heart disease. N Engl J Med 2001;345:892–902.
+
+[170] Stewart KJ, Turner KL, Bacher AC, DeRegis JR, Sung J, Tayback M,
+et al. Are fitness, activity, and fatness associated with health-related
+quality of life and mood in older persons? J Cardiopulm Rehabil
+2003;23:115–21.
+
+[171] Pollock ML, Franklin BA, Balady GJ, Chaitman BL, Fleg JL,
+Fletcher B, et al. AHA Science Advisory. Resistance exercise in
+individuals with and without cardiovascular disease: benefits,
+rationale, safety, and prescription: an advisory from the Committee
+on Exercise, Rehabilitation, and Prevention, Council on Clinical
+Cardiology, American Heart Association; position paper endorsed by
+the American College of Sports Medicine. Circulation 2000;101:
+828–33.
+
+[172] Mark DB, Lauer MS. Exercise capacity: the prognostic variable that
+
+doesn't get enough respect. Circulation 2003;108:1534–6.
+
+[173] Myers J, Prakash M, Froelicher V, Do D, Partington S, Atwood JE.
+Exercise capacity and mortality of men referred for exercise testing. N
+Engl J Med 2002;346:793–801.
+
+[174] Kavanagh T, Mertens DJ, Hamm LF, Beyene J, Kennedy J, Corey P,
+et al. Prediction of long-term prognosis in 12 169 men referred for
+cardiac rehabilitation. Circulation 2002;106:666–71.
+
+[175] Kavanagh T, Mertens DJ, Hamm LF, Beyene J, Kennedy J, Corey P,
+et al. Peak oxygen intake and cardiac mortality in women referred for
+cardiac rehabilitation. J Am Coll Cardiol 2003;42:2139–43.
+
+[176] Smart N, Marwick TH. Exercise training for patients with heart
+failure: a systematic review of factors that improve mortality and
+morbidity. Am J Med 2004;116:693–706.
+
+[177] Warburton DE, Gledhill N, Quinney A. The effects of changes in
+musculoskeletal fitness on health. Can J Appl Physiol 2001;26:
+161–216.
+
+[178] Warburton DE, Gledhill N, Quinney A. Musculoskeletal fitness and
+
+health. Can J Appl Physiol 2001;26:217–37.
+
+[179] Leger LA, Mercier D, Gadoury C, Lambert J. The multistage 20
+metre shuttle run test for aerobic fitness. J Sports Sci 1988;6:93–101.
+[180] American College of Sports Medicine. ACSM's Guidelines for
+exercise testing and prescription. 6th ed. Philadelphia: Lippincott
+Williams and Wilkins; 2000.
+
+[181] American College of Sports Medicine. ACSM's Guidelines for
+exercise testing and prescription. 6th ed. Philadelphia: Lippincott
+Williams and Wilkins; 2000. p. 225.
+
+[182] Miller WC, Wallace JP, Eggert KE. Predicting max HR and the HR-
+VO2 relationship for exercise prescription in obesity. Med Sci Sports
+Exerc 1993;25:1077–81.
+
+[183] Wannamethee SG, Shaper AG, Walker M. Physical activity and
+mortality in older men with diagnosed coronary heart disease.
+Circulation 2000;102:1358–63.
+
+[184] American College of Sports Medicine. Position stand: the recom-
+mended quantity and quality of exercise for developing and
+maintaining cardiorespiratory and muscular fitness, and flexibility
+in healthy adults. Med Sci Sports Exerc 1998;30:975–91.
+
+[185] Shephard RJ. Absolute versus relative intensity of physical activity in
+a dose–response context. Med Sci Sports Exerc 2001;33:S400–18
+[discussion S493-4].
+
+[186] Warburton DE, Sheel AW, Hodges AN, Stewart IB, Yoshida EM,
+Levy RD. Effects of upper extremity exercise training on peak aerobic
+and anaerobic fitness in patients after transplantation. Am J Cardiol
+2004;93:939–43.
+
+[187] Swain DP, Franklin BA. VO(2) reserve and the minimal intensity for
+improving cardiorespiratory fitness. Med Sci Sports Exerc
+2002;34:152–7.
+
+[188] Physical activity and health: a report of the Surgeon General. Atlanta:
+US Department of Health and Human Services, US Centers for
+Disease Control and Prevention, National Center for Chronic Disease
+Prevention and Health Promotion; 1996.
+
+[189] Nieman DC. Exercise testing and prescription: a health-related
+
+approach. 4th ed. London: Mayfield Publishing Company; 1999.
+
+[190] Lee IM, Skerrett PJ. Physical activity and all-cause mortality: what is
+the dose–response relation? Med Sci Sports Exerc 2001;33:S459–71
+[discussion S493-4].
+
+[191] Myers J, Kaykha A, George S, Abella J, Zaheer N, Lear S, et al.
+Fitness versus physical activity patterns in predicting mortality in
+men. Am J Med 2004;117:912–8.
+
+[192] Borg G. Psychophysical bases of perceived exertion. Med Sci Sports
+
+Exerc 1982;14:377–87.
+
+[193] Noble BJ, Borg GA, Jacobs I, Ceci R, Kaiser P. A category-ratio
+perceived exertion scale: relationship to blood and muscle lactates
+and heart rate. Med Sci Sports Exerc 1983;15:523–8.
+
+[194] Hambrecht R, Niebauer J, Marburger C, Grunze M, Kalberer B,
+Hauer K, et al. Various intensities of leisure time physical activity in
+patients with coronary artery disease: effects on cardiorespiratory
+fitness and progression of coronary atherosclerotic lesions. J Am Coll
+Cardiol 1993;22:468–77.
+
+[195] Franklin BA, Swain DP, Shephard RJ. New insights in the prescription
+of exercise for coronary patients. J Cardiovasc Nurs 2003;18:116–23.
+[196] Warburton DER, Mathur S. Skeletal muscle training in people with
+chronic heart failure or chronic obstructive pulmonary disease.
+Physiother Can 2004;56:143–57.
+
+Downloaded from https://academic.oup.com/cardiovascres/article-abstract/73/2/326/486833
+by guest
+on 20 August 2018
+
+

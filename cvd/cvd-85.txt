@@ -1,0 +1,2330 @@
+Original Article
+
+Fresh Fruit Consumption and Major 
+
+Cardiovascular Disease in China
+
+Huaidong Du, Ph.D., Liming Li, M.D., M.P.H., Derrick Bennett, Ph.D., 
+
+Yu Guo, M.Sc., Timothy J. Key, D.Phil., Zheng Bian, M.Sc., Paul Sherliker, B.A., 
+Haiyan Gao, Ph.D., Yiping Chen, D.Phil., Ling Yang, Ph.D., Junshi Chen, M.D., 
+
+Shanqing Wang, Ph.D., Ranran Du, B.A., Hua Su, M.D., M.P.H., 
+
+Rory Collins, F.Med.Sci., F.R.C.P.(E.), Richard Peto, F.R.S.,  
+
+and Zhengming Chen, D.Phil., for the China Kadoorie Biobank Study*  
+
+ABS TR ACT
+
+BACKGROUND
+In Western populations, a higher level of fruit consumption has been associated 
+with a lower risk of cardiovascular disease, but little is known about such asso-
+ciations in China, where the consumption level is low and rates of stroke are high.
+
+METHODS
+Between 2004 and 2008, we recruited 512,891 adults, 30 to 79 years of age, from 
+10 diverse localities in China. During 3.2 million person-years of follow-up, 5173 
+deaths from cardiovascular disease, 2551 incident major coronary events (fatal or 
+nonfatal), 14,579 ischemic strokes, and 3523 intracerebral hemorrhages were re-
+corded among the 451,665 participants who did not have a history of cardiovascu-
+lar disease or antihypertensive treatments at baseline. Cox regression yielded ad-
+justed hazard ratios relating fresh fruit consumption to disease rates.
+
+RESULTS
+Overall, 18.0% of participants reported consuming fresh fruit daily. As compared 
+with participants who never or rarely consumed fresh fruit (the “nonconsumption” 
+category), those who ate fresh fruit daily had lower systolic blood pressure (by 
+4.0 mm Hg) and blood glucose levels (by 0.5 mmol per liter [9.0 mg per deciliter]) 
+(P<0.001  for  trend  for  both  comparisons).  The  adjusted  hazard  ratios  for  daily 
+consumption  versus  nonconsumption  were  0.60  (95%  confidence  interval  [CI], 
+0.54 to 0.67) for cardiovascular death, and 0.66 (95% CI, 0.58 to 0.75), 0.75 (95% 
+CI, 0.72 to 0.79), and 0.64 (95% CI, 0.56 to 0.74), respectively, for incident major 
+coronary events, ischemic stroke, and hemorrhagic stroke. There was a strong log-
+linear dose–response relationship between the incidence of each outcome and the 
+amount of fresh fruit consumed. These associations were similar across the 10 study 
+regions and in subgroups of participants defined by baseline characteristics.
+
+CONCLUSIONS
+Among Chinese adults, a higher level of fruit consumption was associated with 
+lower blood pressure and blood glucose levels and, largely independent of these 
+and other dietary and nondietary factors, with significantly lower risks of major 
+cardiovascular diseases. (Funded by the Wellcome Trust and others.)
+
+From  the  Clinical  Trial  Service  Unit  and 
+the  Epidemiological  Studies  Unit  (H.D., 
+D.B., P.S., H.G., Y.C., L.Y., R.C., R.P., Z.C.) 
+and the Cancer Epidemiology Unit (T.J.K.), 
+Nuffield Department of Population Health, 
+University of Oxford, Oxford, United King-
+dom; and the Department of Epidemiol-
+ogy  and  Biostatistics,  School  of  Public 
+Health, Peking University Health Science 
+Center  (L.L.),  the  Chinese  Academy  of 
+Medical  Sciences  (L.L.,  Y.G.,  Z.B.),  and 
+the China National Center for Food Safety 
+Risk Assessment ( J.C.), Beijing, Hainan 
+Center for Disease Control (CDC), Haikou 
+(S.W.),  Qingdao  CDC,  Qingdao  (R.D.), 
+and Heilongjiang CDC, Harbin (H.S.) — 
+all in China. Address reprint requests to 
+Dr.  Du  at  the  Clinical  Trial  Service  Unit 
+and Epidemiological Studies Unit, Nuffield 
+Department of Population Health, Univer-
+sity  of  Oxford,  Old  Rd.  Campus,  Oxford 
+OX3 7LF, United Kingdom, or at  huaidong 
+. du@  ctsu . ox . ac . uk;  or  to  Prof.  Li  at  the 
+Department of Epidemiology and Biosta-
+tistics, Peking University, Beijing 100191, 
+China, or at  lmlee@  vip . 163 . com.
+
+* A complete list of the members of the 
+steering  committee  and  collaborative 
+group of the China Kadoorie Biobank is 
+provided in the Supplementary Appen-
+dix, available at NEJM.org.
+
+N Engl J Med 2016;374:1332-43.
+DOI: 10.1056/NEJMoa1501451
+Copyright © 2016 Massachusetts Medical Society.
+
+1332
+
+n engl j med 374;14  nejm.org  April 7, 2016
+
+The new england journal of medicineThe New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2016 Massachusetts Medical Society. All rights reserved. Fruit Consumption and Cardiovascular Disease in China
+
+Cardiovascular disease is a leading 
+
+cause  of  premature  death  and  disability 
+worldwide  and  is  responsible  for  more 
+than 17 million deaths annually, with approxi-
+mately 80% of the disease burden in low- and 
+middle-income countries, such as China.1 A low 
+level of fruit consumption is a major risk factor 
+for  cardiovascular  disease,  accounting  for  an 
+estimated  104  million  disability-adjusted  life-
+years  worldwide  in  2010,2  including  approxi-
+mately 30 million in China.3 However, these es-
+timates  were  based  mainly  on  findings  from 
+Western  studies,  with  little  reliable  evidence 
+from  China  and  other  developing  countries, 
+where diet, lifestyle factors, and disease patterns 
+differ substantially from those in Western popu-
+lations.3-5 Moreover, most previous studies tend-
+ed  to  involve  a  combination  of  fresh  and  pro-
+cessed  fruit  (frozen,  dried,  or  canned  fruit  or 
+fruit  juice),  with  limited  data  specifically  on 
+fresh fruit, which is usually consumed raw as a 
+snack in China. Furthermore, the associations of 
+fruit intake with stroke subtypes, especially hem-
+orrhagic  stroke,  are  less  well  established  than 
+the  association  with  ischemic  heart  disease,3,6,7 
+underscoring  the  importance  of  performing 
+studies in China, where rates of stroke (particu-
+larly hemorrhagic stroke) are high. We examined 
+the association of fresh fruit consumption with 
+risks  of  major  cardiovascular  events  in  China, 
+where fresh fruit consumption is low, although 
+fresh vegetable consumption is high.8
+
+Methods
+
+Study Design and Oversight
+The China Kadoorie Biobank Study is a nation-
+wide, prospective cohort study involving 10 di-
+verse localities (regions) in China, which is jointly 
+coordinated by the University of Oxford and the 
+Chinese Academy of Medical Sciences. The study 
+design  and  methods  have  been  reported  previ-
+ously.9,10  Approval  of  the  study  was  obtained 
+from  ethics  committees  or  institutional  review 
+boards at the University of Oxford, the Chinese 
+Center for Disease Control and Prevention (China 
+CDC), the Chinese Academy of Medical Sciences, 
+and all participating regions. The funders had 
+no  role  in  study  design,  data  collection  and 
+analysis, preparation of the manuscript, or the 
+decision to submit it for publication.
+
+Baseline Survey
+We selected 10 regional study sites (5 urban and 
+5 rural) in order to cover a wide range of risk 
+exposures and disease patterns, taking into ac-
+count  the  accuracy  and  completeness  of  death 
+and  disease  registries  for  each  region  and  the 
+local  capability  to  gather  the  necessary  study 
+data. Between June 2004 and July 2008, all non-
+disabled,  permanent  residents  of  each  region 
+who were 35 to 74 years of age were invited to 
+participate in the study. Of the total of approxi-
+mately  1.8  million  eligible  adults  in  these  re-
+gions, almost 1 in 3 (33% in rural areas and 27% 
+in  urban  areas)  responded.  Overall,  512,891 
+persons  were  recruited,  including  a  few  who 
+were just outside the targeted age range, and all 
+provided written informed consent.
+
+At  the  local  study  clinics,  trained  health 
+workers  administered  a  laptop-based  question-
+naire on sociodemographic characteristics, smok-
+ing and alcohol consumption, diet, physical ac-
+tivity,  and  medical  history;  measured  height, 
+weight,  waist  circumference,  and  blood  pres-
+sure; and performed spot random blood glucose 
+testing using the SureStep Plus System (Johnson 
+&  Johnson).  Blood  pressure  was  measured  at 
+least twice with the use of an automated digital 
+blood-pressure  monitor  (model  UA-779,  A&D 
+Medical)  after  at  least  5  minutes  of  rest  in  a 
+seated  position;  the  mean  of  two  satisfactory 
+measurements was used for analyses.11,12
+
+Dietary  data  covered  12  major  food  groups: 
+rice,  wheat  products,  other  staple  foods,  meat, 
+poultry, fish, eggs, dairy products, fresh vegeta-
+bles, preserved vegetables, fresh fruit, and soy-
+bean  products.  Respondents  were  asked  about 
+the  frequency  of  habitual  consumption  during 
+the previous 12 months and chose among five 
+categories  of  frequency  (daily,  4  to  6  days  per 
+week, 1 to 3 days per week, monthly, or never or 
+rarely [the reference category]). In a subsample 
+of  926  participants,  the  survey  questionnaire 
+was repeated within a year after the baseline as-
+sessment (mean interval, 5.4 months) in order to 
+assess the reproducibility of the responses.
+
+Resurveys
+After completion of the baseline survey, we ran-
+domly selected 5 to 6% of the original partici-
+pants for two resurveys, using procedures simi-
+lar to those at baseline. The first resurvey took 
+
+n engl j med 374;14  nejm.org  April 7, 2016
+
+1333
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2016 Massachusetts Medical Society. All rights reserved. T h e  ne w   e ngl a nd   jou r na l   o f  m e dicine
+
+place  from  July  through  October  2008,  with 
+19,788  participants  resurveyed,  and  the  second 
+was conducted from August 2013 through Sep-
+tember 2014, with just over 25,000 participants 
+resurveyed.  In  addition  to  questions  about  the 
+frequency of consumption, the second resurvey 
+questionnaire asked about the amount consumed 
+for each food group, which was used as a proxy 
+measure to estimate the average consumption at 
+baseline for each of the five frequency categories 
+(see the Supplementary Appendix, available with 
+the full text of this article at NEJM.org).
+
+Follow-up and Outcome Measures
+The  vital  status  of  each  participant  was  deter-
+mined periodically through the Disease Surveil-
+lance Points (DSP) system of the China CDC.13 
+The DSP vital-status data sets were checked an-
+nually against local residential records and health 
+insurance  records  and  were  confirmed  with 
+street committees or village administrators. In 
+addition, information about major diseases and 
+episodes of hospitalization was collected through 
+linkages with disease registries (for cancer, car-
+diovascular disease, and diabetes) and national 
+health insurance claims databases. The Chinese 
+National Health Insurance scheme provides elec-
+tronic linkage to all hospitalization data.
+
+Fatal  and  nonfatal  events  were  documented 
+according  to  the  International Classification of Dis-
+eases, 10th Revision (ICD-10), by coders who were 
+unaware  of  the  baseline  characteristics  of  the 
+study  participants.10  The  four  main  outcome 
+measures that were examined were cardiovascu-
+lar death (ICD-10 codes I00 to I25, I27 to I88, 
+and I95 to I99) and the incidence of major coro-
+nary events (fatal ischemic heart disease [codes 
+I20 to I25] plus nonfatal myocardial infarction 
+[code I21]), hemorrhagic stroke (code I61), and 
+ischemic stroke (code I63). Other ischemic heart 
+disease (i.e., ischemic heart disease not meeting 
+the  criteria  for  a  major  coronary  event)  and 
+other  cerebrovascular  diseases  (ICD-10  codes 
+I60,  I62,  and  I64  to  I69)  were  analyzed  sepa-
+rately. For analyses of incident disease, only the 
+first cardiovascular event was counted.
+
+Statistical Analysis
+For the current study, we excluded persons who 
+had a history of cardiovascular disease (23,132 
+persons)  or  antihypertensive  treatment  (48,174 
+persons) at baseline. Baseline characteristics of 
+
+the  remaining  451,665  participants  were  de-
+scribed  as  means  and  standard  deviations  or 
+percentages in each category of fruit consump-
+tion, with adjustment for age, sex, and region as 
+appropriate, by means of either multiple linear 
+regression (for continuous outcomes) or logistic 
+regression (for binary outcomes). The marginal 
+mean  values  and  95%  confidence  intervals  for 
+body-mass  index  (BMI),  waist  circumference, 
+blood pressure, and blood glucose according to 
+frequency of fruit consumption were estimated 
+separately for men and women with the use of 
+multiple  linear  regression  models  adjusted  for 
+baseline covariates.
+
+Cox regression was used to calculate hazard 
+ratios and 95% confidence intervals for relative 
+risks in relation to fruit consumption, with ad-
+justment for baseline covariates and with strati-
+fication according to age at risk (in 5-year inter-
+vals),  sex,  and  region.  For  analyses  involving 
+more than two exposure categories, the floating-
+absolute-risk method was used, which provides 
+the variance of the logarithm of the hazard ratio 
+(i.e., to compute a confidence interval for the 
+hazard  ratio)  for  each  category  (including  the 
+reference  category)  to  facilitate  comparisons 
+among the different exposure categories.14 Con-
+ventional  (unfloated)  analyses  were  also  per-
+formed so that the results of the two methods 
+could  be  compared.  We  calculated  the  hazard 
+ratio for cardiovascular death with nondaily fruit 
+consumption as compared with daily consumption 
+in order to estimate the population-attributable 
+fraction,  using  the  formula  Pe(HR − 1) ÷ [Pe(HR 
+− 1) + 1],15 where Pe is the prevalence of nondaily 
+consumption of fresh fruit in the Chinese popu-
+lation, and HR is the hazard ratio. Additional 
+information  about  the  statistical  analyses  is 
+provided in the Supplementary Appendix.
+
+R esults
+
+Patterns of Fresh Fruit Consumption
+Among the 451,665 participants included in the 
+study, the mean age was 50.5 years (range, 30 to 
+79); 58.8% of the participants were women, and 
+42.5% were from urban areas (Table 1). Overall, 
+18.0% of participants reported consumption of 
+fresh fruit on a daily basis, 9.4% reported con-
+sumption  4  to  6  days  per  week,  and  6.3%  re-
+ported no or rare consumption (also referred to as 
+nonconsumption). The proportion of participants 
+
+1334
+
+n engl j med 374;14  nejm.org  April 7, 2016
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2016 Massachusetts Medical Society. All rights reserved. Fruit Consumption and Cardiovascular Disease in China
+
+Table 1. Baseline Characteristics of the Study Participants According to the Frequency of Fresh Fruit Consumption.*
+
+Characteristic
+
+Consumption of Fresh Fruit
+
+Age (yr)
+
+Female sex (%)
+
+Urban residence (%)
+
+Educational level (%)
+
+No formal education
+
+Primary school
+
+Middle or high school
+
+College or university
+
+Household income (%)†
+
+<10,000 yuan/yr
+
+10,000–19,999 yuan/yr
+
+20,000–34,999 yuan/yr
+
+≥35,000 yuan/yr
+
+Regular smoking (%)
+
+Never
+
+Previous
+
+Current
+
+Regular alcohol intake (%)
+
+Never
+
+Previous
+
+Current
+
+Never or 
+Rarely 
+
+(N = 28,479)
+
+Monthly 
+
+(N = 156,098)
+
+1–3 Days/Wk 
+(N = 143,183)
+
+4–6 Days/Wk 
+(N = 42,519)
+
+Daily 
+
+(N = 81,386)
+
+All Participants 
+(N = 451,665)
+
+53.6±10.4
+
+51.7±10.9
+
+49.8±10.4
+
+48.8±10.4
+
+48.9±11.6
+
+50.5±10.4
+
+47.1
+
+29.9
+
+28.7
+
+34.1
+
+35.3
+
+1.9
+
+45.3
+
+26.4
+
+17.6
+
+10.7
+
+55.4
+
+4.2
+
+40.4
+
+76.5
+
+1.7
+
+21.8
+
+55.5
+
+21.7
+
+22.6
+
+34.8
+
+38.1
+
+4.5
+
+36.7
+
+28.8
+
+24.1
+
+10.4
+
+63.0
+
+4.6
+
+32.4
+
+81.7
+
+1.3
+
+17.0
+
+56.5
+
+41.5
+
+17.5
+
+32.8
+
+46.0
+
+3.7
+
+27.7
+
+31.3
+
+24.4
+
+16.6
+
+68.8
+
+5.4
+
+25.8
+
+83.9
+
+1.4
+
+14.7
+
+62.1
+
+52.7
+
+13.9
+
+29.6
+
+50.5
+
+6.0
+
+18.5
+
+30.6
+
+25.9
+
+25.0
+
+73.4
+
+5.9
+
+20.7
+
+85.9
+
+1.5
+
+12.6
+
+71.7
+
+83.2
+
+9.1
+
+25.6
+
+52.5
+
+12.8
+
+15.4
+
+25.5
+
+27.3
+
+31.8
+
+74.5
+
+6.4
+
+19.1
+
+85.5
+
+1.6
+
+12.9
+
+58.8
+
+42.5
+
+18.1
+
+32.0
+
+44.2
+
+5.7
+
+28.8
+
+29.0
+
+24.5
+
+17.7
+
+67.4
+
+5.3
+
+27.3
+
+83.2
+
+1.4
+
+15.4
+
+Physical activity (MET-hr/day)‡
+
+21.8±12.3
+
+22.4±12.9
+
+22.0±12.2
+
+21.4±12.2
+
+21.0±13.7
+
+21.9±13.9
+
+Regular consumption of foods (%)§
+
+Fresh vegetables
+
+Preserved vegetables
+
+Meat
+
+Dairy products
+
+92.7
+
+27.3
+
+38.8
+
+6.8
+
+90.9
+
+21.6
+
+39.1
+
+5.5
+
+95.9
+
+21.6
+
+47.3
+
+8.6
+
+97.7
+
+24.0
+
+58.5
+
+15.5
+
+98.5
+
+23.3
+
+59.6
+
+24.7
+
+94.6
+
+22.5
+
+47.2
+
+11.0
+
+*  Plus–minus values are means ±SD. Data were adjusted for age, sex, and region when appropriate.
+†  At the exchange rate as of March 2016, 1 yuan is approximately equal to 0.15 U.S. dollars.
+‡  MET denotes metabolic equivalent.
+§  Data shown are for daily consumption of fresh vegetables and for consumption on most days (at least 4 days per week) for other foods.
+
+with regular fruit consumption (i.e., 4 to 6 days 
+per week or more) was inversely associated with 
+age among rural participants and urban women 
+(Fig. S1 and S2 in the Supplementary Appendix). 
+Among urban men, however, the association was 
+U-shaped, with men who were 50 to 55 years of 
+age  (preretirement  age  in  China)  reporting  the 
+lowest  consumption.  There  was  no  south-to-
+north  gradient  in  fruit  consumption,  with  two 
+
+urban  areas  (Qingdao  and  Harbin)  having  the 
+highest consumption and two rural areas (Henan 
+and Hunan) having the lowest consumption (Fig. 
+S3 in the Supplementary Appendix). The Spear-
+man correlation coefficient of 0.55 between re-
+sponses a few months apart indicated moderate 
+reliability  of  the  measure  of  fruit-consumption 
+frequency  (Table  S2  in  the  Supplementary  Ap-
+pendix).
+
+n engl j med 374;14  nejm.org  April 7, 2016
+
+1335
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2016 Massachusetts Medical Society. All rights reserved. T h e  ne w   e ngl a nd   jou r na l   o f  m e dicine
+
+Participants who consumed fresh fruit more 
+frequently  (as  compared  with  those  who  con-
+sumed it less frequently) were more likely to be 
+women and to live in urban areas, were younger, 
+had  a  higher  level  of  education  and  higher 
+household income, and were less likely to smoke 
+or  drink  alcohol  regularly  and  more  likely  to 
+consume dairy products and meat, but they had 
+similar levels of consumption of preserved and 
+fresh vegetables (Table 1). Our participants had an 
+overall mean BMI (the weight in kilograms divided 
+by the square of the height in meters) of 23.5 
+and  overall  mean  systolic  blood  pressure  of 
+128.8  mm  Hg.  As  compared  with  participants 
+who never or rarely consumed fresh fruit, the 
+BMI of daily consumers was 0.5 points higher, 
+the waist circumference 0.9 cm larger, the blood 
+pressure 4.0 mm Hg systolic lower and 1.4 mm Hg 
+diastolic  lower,  and  the  blood  glucose  level 
+0.5  mmol per liter (9.0 mg per deciliter) lower 
+(Fig. 1). These associations were largely unchanged 
+after  additional  adjustment  for  potential  con-
+founders or mediators, except for systolic blood 
+pressure, for which the association was attenu-
+ated by about one fifth (to 3.3 mm Hg in men 
+and to 2.2 mm Hg in women).
+
+Association of Fruit Consumption  
+with Cardiovascular Outcomes
+During  3.2  million  person-years  of  follow-up, 
+there were 5173 cardiovascular deaths, 2551 ma-
+jor coronary events (plus 16,563 other ischemic 
+heart  disease  events),  14,579  ischemic  strokes, 
+and 3523 hemorrhagic strokes (plus 11,054 other 
+cerebrovascular  disease  events)  recorded.  The 
+risks of these major cardiovascular events were 
+strongly and inversely associated with the level 
+of fruit consumption (P<0.001 for trend, for all 
+comparisons) (Fig. 2 and Table 2). As compared 
+with  nonconsumption,  the  adjusted  hazard  ra-
+tios for daily consumption were 0.60 (95% con-
+fidence interval [CI], 0.54 to 0.67) for cardiovas-
+cular death, 0.66 (95% CI, 0.58 to 0.75) for major 
+coronary events, 0.75 (95% CI, 0.72 to 0.79) for 
+ischemic stroke, and 0.64 (95% CI, 0.56 to 0.74) 
+for hemorrhagic stroke. After correction for re-
+gression  dilution  bias,  the  associations  were 
+approximately  log-linear;  the  hazard  ratios  for 
+one daily portion of fruit were 0.63 (95% CI, 0.56 
+to 0.72), 0.70 (95% CI, 0.60 to 0.83), 0.80 (95% 
+CI, 0.75 to 0.85), and 0.69 (95% CI, 0.59 to 0.81), 
+respectively. The level of fruit consumption was 
+
+also significantly and inversely associated with 
+risks of other ischemic heart disease and other 
+cerebrovascular  diseases,  although  the  associa-
+tions were less strong (Table  2, and Fig. S4 in 
+the Supplementary Appendix).
+
+With  the  exception  of  ischemic  stroke  and 
+other cerebrovascular diseases, the associations 
+between the level of fruit consumption and the 
+risk of major cardiovascular events did not ap-
+pear to be modified by baseline characteristics 
+such as sex, age, region, or season of enrollment 
+(Fig. 3, and Fig. S5 through S8 in the Supplemen-
+tary Appendix). For ischemic stroke, the associa-
+tion  appeared  to  be  somewhat  greater  among 
+men, participants from urban areas, those who 
+drank alcohol regularly, those with higher edu-
+cational  levels,  and  those  with  higher  blood 
+glucose levels (Fig. S5 in the Supplementary Ap-
+pendix). None of the associations or interactions 
+were materially attenuated by additional adjust-
+ment for BMI, waist circumference, systolic blood 
+pressure, and blood glucose level (Fig. S9 in the 
+Supplementary Appendix).
+
+In  our  study,  approximately  95%  of  partici-
+pants reported daily consumption of fresh veg-
+etables. Additional adjustment for consumption 
+of  fresh  vegetables  and  other  dietary  variables 
+did  not  alter  the  risk  estimates  for  fresh  fruit 
+consumption  (Table  S3  in  the  Supplementary 
+Appendix). Likewise, the exclusion of the first 
+2 years of follow-up in order to further reduce 
+the effect of reverse causality did not materially 
+change  the  observed  associations  (data  not 
+shown).
+
+Population-Attributable Fraction  
+of Low Fruit Consumption
+The hazard ratio for cardiovascular death with 
+nondaily versus daily fruit consumption was 1.30 
+(95% CI, 1.17 to 1.46). In our second resurvey, 
+about 65% of the participants reported nondaily 
+fruit consumption (Table S4 in the Supplemen-
+tary Appendix), which was in line with the pro-
+portion  in  the  most  recent  China  Health  and 
+Nutrition  Survey,  conducted  in  2011.16  We  per-
+formed an exploratory analysis to estimate the 
+effect  of  fruit  consumption  on  cardiovascular 
+death  under  the  assumption  that  there  is  a 
+causal association. On the basis of this assump-
+tion, our data suggest that 16% (95% CI, 10 to 
+23) of deaths from cardiovascular causes could 
+be attributed to low fruit consumption. Applying 
+
+1336
+
+n engl j med 374;14  nejm.org  April 7, 2016
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2016 Massachusetts Medical Society. All rights reserved. Fruit Consumption and Cardiovascular Disease in China
+
+B WaistCircumference
+
+Women
+
+Men
+
+)
+
+m
+c
+(
+
+n
+a
+e
+M
+d
+e
+t
+s
+u
+d
+A
+
+
+
+j
+
+83
+
+81
+
+79
+
+77
+
+75
+
+0
+
+Men
+
+Women
+
+Never
+or rarely
+
+Monthly
+
+1–3
+
+4–6
+
+Daily
+
+day/wk
+
+day/wk
+
+A BMI
+
+24.0
+
+23.5
+
+
+
+
+
+n
+a
+e
+M
+d
+e
+t
+s
+u
+d
+A
+
+j
+
+23.0
+
+22.5
+
+0.0
+
+Never
+or rarely
+
+Monthly
+
+1–3
+
+4–6
+
+Daily
+
+day/wk
+
+day/wk
+
+FruitConsumption
+
+FruitConsumption
+
+C SystolicBloodPressure
+
+D BloodGlucose
+
+
+
+)
+g
+H
+m
+m
+
+
+
+(
+
+n
+a
+e
+M
+d
+e
+t
+s
+u
+d
+A
+
+j
+
+134
+
+132
+
+130
+
+128
+
+126
+
+0
+
+Men
+
+Women
+
+Never
+or rarely
+
+Monthly
+
+1–3
+
+4–6
+
+Daily
+
+day/wk
+
+day/wk
+
+)
+r
+e
+t
+i
+l
+/
+l
+o
+m
+m
+
+
+
+(
+
+n
+a
+e
+M
+d
+e
+t
+s
+u
+d
+A
+
+j
+
+6.6
+
+6.4
+
+6.2
+
+6.0
+
+5.8
+
+5.6
+
+0.0
+
+Women
+
+Men
+
+Never
+or rarely
+
+Monthly
+
+1–3
+
+4–6
+
+Daily
+
+day/wk
+
+day/wk
+
+FruitConsumption
+
+FruitConsumption
+
+Figure 1. Adjusted Mean Body-Mass Index (BMI), Waist Circumference, Blood Pressure, and Blood Glucose According to 
+the Frequency of Fresh Fruit Consumption.
+Mean values for BMI (Panel A) and waist circumference (Panel B) were adjusted for age (10 categories), area of China 
+(10 regions), educational level (4 categories), annual household income (4 categories), smoking status (4 categories, 
+with the category of “Never” subdivided into “Never” and “Occasional”), alcohol intake (4 categories, with the cate-
+gory of “Never” subdivided into “Never” and “Occasional”), physical activity (continuous variable), survey season 
+(4 categories), and consumption of meat (3 categories), dairy products (3 categories), and preserved vegetables  
+(5 categories). Mean values for systolic blood pressure (Panel C) and random blood glucose measurements (Panel D) 
+were adjusted for the listed variables plus BMI and waist circumference. Blood glucose values were missing for 7503 
+study participants. To convert the values for glucose to milligrams per deciliter, divide by 0.05551. Vertical lines indi-
+cate 95% confidence intervals. P<0.001 for trend, for all comparisons.
+
+this proportion to national data on cardiovascu-
+lar mortality17 suggests that about 560,000 (95% 
+CI, 350,000 to 800,000) deaths from cardiovas-
+cular causes each year, including about 200,000 
+before  70  years  of  age,  could  be  prevented  if 
+
+daily consumption of fresh fruit were universal 
+in  China.  However,  it  is  difficult  to  establish 
+causality  reliably  in  observational  studies  of 
+dietary factors that have such moderate relative 
+risks and potential for confounding.
+
+n engl j med 374;14  nejm.org  April 7, 2016
+
+1337
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2016 Massachusetts Medical Society. All rights reserved. T h e  ne w   e ngl a nd   jou r na l   o f  m e dicine
+
+A CardiovascularDeath(N=5173)
+
+B MajorCoronaryEvents(N=2551)
+
+
+
+o
+i
+t
+a
+R
+d
+r
+a
+z
+a
+H
+
+1.25
+
+1.00
+
+0.75
+
+0.50
+
+0.00
+
+Hazard ratio with 1 daily portion:
+
+0.63 (95% CI, 0.56–0.72)
+
+1.00
+
+735
+
+0.82
+
+0.76
+
+2341
+
+0.64
+
+1375
+
+270
+
+0.60
+
+452
+
+0
+
+10
+
+20
+
+30
+
+40
+
+Hazard ratio with 1 daily portion:
+
+0.70 (95% CI, 0.60–0.83)
+1.00
+
+1.25
+
+1.00
+
+335
+
+0.83
+
+0.77
+
+0.75
+
+1043
+
+0.64
+
+0.66
+
+687
+
+
+
+o
+i
+t
+a
+R
+d
+r
+a
+z
+a
+H
+
+0.50
+
+0.00
+
+344
+
+142
+
+0
+
+10
+
+20
+
+30
+
+40
+
+UsualFruitConsumption(portions/mo)
+
+UsualFruitConsumption(portions/mo)
+
+C IschemicStroke(N=14,579)
+
+D HemorrhagicStroke(N=3523)
+
+
+
+o
+i
+t
+a
+R
+d
+r
+a
+z
+a
+H
+
+1.25
+
+1.00
+
+0.75
+
+0.50
+
+0.00
+
+Hazard ratio with 1 daily portion:
+
+0.80 (95% CI, 0.75–0.85)
+
+1.00
+
+0.90
+
+1477
+
+5194
+
+0.83 0.79
+
+3917
+
+1034
+
+0.75
+
+2957
+
+0
+
+10
+
+20
+
+30
+
+40
+
+
+
+o
+i
+t
+a
+R
+d
+r
+a
+z
+a
+H
+
+1.25
+
+1.00
+
+0.75
+
+0.50
+
+0.00
+
+Hazard ratio with 1 daily portion:
+
+0.69 (95% CI, 0.59–0.81)
+1.00
+
+0.81 0.76
+
+0.86
+
+399
+
+1621
+
+1009
+
+0.64
+
+225
+
+269
+
+0
+
+10
+
+20
+
+30
+
+40
+
+UsualFruitConsumption(portions/mo)
+
+UsualFruitConsumption(portions/mo)
+
+Figure 2. Adjusted Hazard Ratios for Major Cardiovascular Events According to the Level of Fresh Fruit Consumption.
+Analyses were adjusted for educational level, income, alcohol intake, smoking status, physical activity, survey season, 
+and consumption of dairy products, meat, and preserved vegetables and were stratified according to age at risk, sex, 
+and region. The black boxes represent hazard ratios, with the size inversely proportional to the variance of the loga-
+rithm of the hazard ratio, and the vertical lines represent 95% confidence intervals. The numbers above the vertical 
+lines are point estimates for hazard ratios, and the numbers below the lines are numbers of events.
+
+Discussion
+
+In our study involving more than 450,000 men 
+and women in China without prior cardiovascu-
+lar disease or antihypertensive treatment, higher 
+fresh  fruit  consumption  was  associated  with 
+significantly lower levels of blood pressure and 
+blood  glucose.  Largely  independent  of  blood 
+pressure, blood glucose levels, and other dietary 
+and  nondietary  factors,  higher  fruit  consump-
+tion was also associated with significantly lower 
+
+risks of cardiovascular disease, including cardio-
+vascular  death,  major  coronary  events,  hemor-
+rhagic stroke, and ischemic stroke. These asso-
+ciations were consistent across 10 regions and in 
+various  subgroups  of  participants  defined  by 
+various baseline characteristics. If these associa-
+tions are largely causal, the potential health gain 
+from  increased  consumption  of  fresh  fruit  in 
+China would be substantial.
+
+Several  large  prospective  studies  of  mostly 
+Western populations have assessed the associa-
+
+1338
+
+n engl j med 374;14  nejm.org  April 7, 2016
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2016 Massachusetts Medical Society. All rights reserved. Fruit Consumption and Cardiovascular Disease in China
+
+Table 2. Incidence Rates and Adjusted Hazard Ratios for Major Cardiovascular Events According to Fresh Fruit 
+Consumption.*
+
+Event
+
+Consumption of Fresh Fruit
+
+Death from cardiovascular causes
+
+No. of events
+
+Incidence rate (no./1000 person-yr)
+
+Hazard ratio
+
+Never or 
+Rarely
+
+735
+
+3.68
+
+1.00
+
+Monthly
+
+1–3 Days/Wk 4–6 Days/Wk
+
+Daily
+
+2341
+
+2.10
+
+0.82
+
+1375
+
+1.34
+
+0.76
+
+270
+
+0.88
+
+0.64
+
+452
+
+0.78
+
+0.60
+
+95% CI, with floating absolute risk
+
+0.93–1.08
+
+0.78–0.86
+
+0.72–0.80
+
+0.57–0.72
+
+0.54–0.67
+
+95% CI, without floating absolute risk
+
+—
+
+0.75–0.90
+
+0.69–0.84
+
+0.55–0.74
+
+0.52–0.69
+
+Major coronary events
+
+No. of events
+
+Incidence rate (no./1000 person-yr)
+
+Hazard ratio
+
+335
+
+1.68
+
+1.00
+
+1043
+
+0.94
+
+0.83
+
+687
+
+0.67
+
+0.77
+
+142
+
+0.46
+
+0.64
+
+344
+
+0.59
+
+0.66
+
+95% CI, with floating absolute risk
+
+0.89–1.12
+
+0.77–0.89
+
+0.71–0.83
+
+0.54–0.75
+
+0.58–0.75
+
+95% CI, without floating absolute risk
+
+—
+
+0.73–0.94
+
+0.67–0.88
+
+0.52–0.78
+
+0.55–0.78
+
+Ischemic stroke
+
+No. of events
+
+Incidence rate (no./1000 person-yr)
+
+Hazard ratio
+
+1477
+
+7.58
+
+1.00
+
+5194
+
+4.75
+
+0.90
+
+3917
+
+3.88
+
+0.83
+
+1034
+
+3.42
+
+0.79
+
+2957
+
+5.17
+
+0.75
+
+95% CI, with floating absolute risk
+
+0.95–1.06
+
+0.87–0.93
+
+0.81–0.86
+
+0.74–0.84
+
+0.72–0.79
+
+95% CI, without floating absolute risk
+
+—
+
+0.85–0.95
+
+0.79–0.88
+
+0.73–0.86
+
+0.70–0.81
+
+Hemorrhagic stroke
+
+No. of events
+
+Incidence rate (no./1000 person-yr)
+
+Hazard ratio
+
+399
+
+2.05
+
+1.00
+
+1621
+
+1.48
+
+0.86
+
+1009
+
+1.00
+
+0.81
+
+225
+
+0.74
+
+0.76
+
+269
+
+0.47
+
+0.64
+
+95% CI, with floating absolute risk
+
+0.90–1.11
+
+0.82–0.91
+
+0.76–0.86
+
+0.66–0.87
+
+0.56–0.74
+
+95% CI, without floating absolute risk
+
+—
+
+0.77–0.97
+
+0.72–0.92
+
+0.64–0.90
+
+0.54–0.76
+
+Other ischemic heart disease
+
+No. of events
+
+Incidence rate (no./1000 person-yr)
+
+Hazard ratio
+
+1190
+
+6.07
+
+1.00
+
+5694
+
+5.21
+
+0.96
+
+4573
+
+4.53
+
+0.90
+
+1421
+
+4.71
+
+0.92
+
+3685
+
+6.47
+
+0.88
+
+95% CI, with floating absolute risk
+
+0.94–1.06
+
+0.93–0.99
+
+0.88–0.93
+
+0.88–0.97
+
+0.85–0.92
+
+95% CI, without floating absolute risk
+
+—
+
+0.90–1.02
+
+0.85–0.97
+
+0.85–1.00
+
+0.82–0.95
+
+Other cerebrovascular disease
+
+No. of events
+
+Incidence rate (no./1000 person-yr)
+
+Hazard ratio
+
+717
+
+3.70
+
+1.00
+
+4013
+
+3.70
+
+1.02
+
+3309
+
+3.30
+
+0.96
+
+894
+
+2.97
+
+0.82
+
+2121
+
+3.73
+
+0.88
+
+95% CI, with floating absolute risk
+
+0.93–1.08
+
+0.98–1.06
+
+0.93–0.99
+
+0.86–0.98
+
+0.84–0.93
+
+95% CI, without floating absolute risk
+
+—
+
+0.94–1.11
+
+0.88–1.05
+
+0.83–1.02
+
+0.80–0.97
+
+*  Hazard ratios were adjusted for educational level, income, alcohol consumption, smoking status, physical activity, sur-
+vey season, and consumption of dairy products, meat, and preserved vegetables and were stratified according to age at 
+risk, sex, and region. The floating-absolute-risk method provides the variance of the logarithm of the hazard ratio for 
+each category (including the reference category) to facilitate comparisons among the different exposure categories.14
+
+n engl j med 374;14  nejm.org  April 7, 2016
+
+1339
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2016 Massachusetts Medical Society. All rights reserved. T h e  ne w   e ngl a nd   jou r na l   o f  m e dicine
+
+Subgroup
+
+Sex
+
+Male
+Female
+Heterogeneity test: χ2=0.0; P=1.00
+
+Age
+
+35–59 yr
+60–69 yr
+70–79 yr
+Trend test: χ2=0.1; P=0.70
+
+Area
+
+Urban
+Rural
+Heterogeneity test: χ2=1.5; P=0.20
+
+Regular alcohol intake
+
+Never
+Previous
+Current
+Heterogeneity test: χ2=2.1; P=0.30
+
+Regular smoking
+
+Never
+Previous
+Current
+Heterogeneity test: χ2=0.3; P=0.90
+
+Education
+
+No formal education
+Primary school
+Middle school or higher
+Trend test: χ2=0.0; P=1.00
+
+Income
+Low
+Moderate
+High
+Trend test: χ2=0.7; P=0.40
+
+Physical activity
+
+Low
+Moderate
+High
+Trend test: χ2=0.1; P=0.70
+
+BMI
+
+<24.0
+24.0–27.9
+≥28.0
+Trend test: χ2=2.0; P=0.20
+
+Systolic blood pressure
+
+<120 mm Hg
+120–139 mm Hg
+≥140 mm Hg
+Trend test: χ2=0.0; P=0.80
+
+Blood glucose
+
+<5.5 mmol/liter
+5.5–6.9 mmol/liter
+≥7.0 mmol/liter
+Trend test: χ2=0.0; P=1.00
+
+Overall(after correction for regression dilution bias)
+Overall (before correction for regression dilution bias)
+
+No.of
+Events
+
+HazardRatio(95%CI)
+
+2939
+2234
+
+1173
+1517
+2483
+
+1305
+3868
+
+4143
+183
+847
+
+2660
+540
+1973
+
+1878
+2057
+1238
+
+2725
+1421
+1027
+
+2915
+1371
+887
+
+3399
+1306
+468
+
+661
+1461
+3051
+
+1881
+1792
+1388
+
+5173
+5173
+
+0.63 (0.53–0.74)
+0.63 (0.52–0.76)
+
+0.55 (0.43–0.71)
+0.75 (0.59–0.95)
+0.61 (0.51–0.74)
+
+0.68 (0.57–0.81)
+0.58 (0.48–0.70)
+
+0.66 (0.57–0.76)
+0.45 (0.23–0.90)
+0.55 (0.41–0.74)
+
+0.62 (0.52–0.74)
+0.63 (0.44–0.88)
+0.67 (0.54–0.82)
+
+0.62 (0.48–0.79)
+0.65 (0.53–0.81)
+0.62 (0.50–0.75)
+
+0.59 (0.48–0.72)
+0.68 (0.55–0.85)
+0.66 (0.52–0.84)
+
+0.61 (0.52–0.72)
+0.78 (0.60–1.00)
+0.58 (0.42–0.81)
+
+0.68 (0.57–0.80)
+0.60 (0.48–0.75)
+0.52 (0.37–0.74)
+
+0.59 (0.42–0.83)
+0.68 (0.54–0.86)
+0.64 (0.55–0.76)
+
+0.63 (0.51–0.79)
+0.70 (0.57–0.87)
+0.63 (0.50–0.79)
+
+0.63 (0.56–0.72)
+0.77 (0.72–0.83)
+
+0.3
+
+0.5
+
+1.0
+
+1.5
+
+1340
+
+n engl j med 374;14  nejm.org  April 7, 2016
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2016 Massachusetts Medical Society. All rights reserved. Fruit Consumption and Cardiovascular Disease in China
+
+tion  of  fruit  consumption  with  cardiovascular 
+disease.18-25 Most of them showed an inverse as-
+sociation, but the magnitude of the benefit var-
+ied  considerably,  and  the  association  was  typi-
+cally  weaker  than  that  observed  in  the  current 
+study. For example, in a recent meta-analysis of 
+six studies involving nearly 680,000 participants 
+and 10,000 cardiovascular deaths, each additional 
+serving  (80  g)  of  fruit  per  day  was  associated 
+with a 5% (95% CI, 0 to 9) lower risk of cardio-
+vascular death, which is not good evidence of a 
+real protective effect.19 Only one previous pro-
+spective study in China has shown an associa-
+tion between fresh fruit consumption and car-
+diovascular  risk.  In  that  study,  involving 
+approximately  130,000  adults  from  Shanghai 
+and approximately 1600 cardiovascular deaths 
+during  follow-up,  the  risk  of  cardiovascular 
+death among people in the highest quintile of 
+fruit  consumption  was  about  30%  lower  than 
+among  those  in  the  lowest  quintile,26  but  no 
+overall association with the incidence of major 
+coronary events was observed, perhaps in part 
+because  of  the  small  number  of  such  events 
+(365).27 Information on the association between 
+fruit consumption and stroke subtypes is limit-
+ed,18 especially for hemorrhagic stroke, which is 
+relatively uncommon in Western populations. In 
+our study, which involved more than 3500 hemor-
+rhagic strokes, we found that higher consump-
+tion of fresh fruit was associated with a signifi-
+cantly lower risk of hemorrhagic stroke, largely 
+independent of blood pressure.
+
+Figure 3 (facing page). Adjusted Hazard Ratios for 
+ Cardiovascular Death with One Daily Portion of Fresh 
+Fruit, According to Baseline Characteristics.
+Analyses were adjusted for educational level, income, 
+alcohol intake, smoking status, physical activity, survey 
+season, and consumption of dairy products, meat, and 
+preserved vegetables and were stratified according to 
+age at risk, sex, and region, as appropriate. The black 
+boxes represent hazard ratios, with the size inversely 
+proportional to the variance of the logarithm of the 
+hazard ratio, and the horizontal lines represent 95% 
+confidence intervals. The open diamonds represent 
+the overall hazard ratios and 95% confidence intervals. 
+Chi-square tests (χ2) were performed to examine either 
+trend (with 1 df) or heterogeneity (with n − 1 df, where 
+n represents the number of categories). To convert the 
+values for glucose to milligrams per deciliter, divide by 
+0.05551.
+
+The  association  between  the  level  of  fruit 
+consumption  and  cardiovascular  risk  in  our 
+study (a 40% lower risk of cardiovascular death 
+and a 34% lower risk of major coronary events 
+among participants who consumed fresh fruit 
+daily  as  compared  with  those  who  never  or 
+rarely consumed fresh fruit) was much stronger 
+than the associations observed in previous stud-
+ies. Several factors may account for this differ-
+ence.  First,  unlike  many  previous  studies,  our 
+study  focused  on  fresh  fruit,  which  is  univer-
+sally consumed raw in China, perhaps maximiz-
+ing its potential benefits.23,28 Moreover, the aver-
+age  level  of  fruit  consumption  in  the  Chinese 
+population  is  very  low,8  and  there  is  evidence 
+that  the  association  of  fruit  consumption  with 
+disease  risks  may  be  particularly  strong  at  the 
+low end of the range of intake (i.e., fewer than 
+two servings per day).19 In addition, our analyses 
+excluded not only persons with a history of car-
+diovascular disease but also those receiving anti-
+hypertensive  treatment,  thereby  reducing  con-
+founding  by  medication  use.  Our  analysis  also 
+takes  into  account  regression  dilution  bias,29,30 
+whereas previously, few large, prospective studies 
+have dealt with this important issue.20
+
+Our study has several limitations. First, we 
+did not collect information on processed fruit 
+because  its  consumption  is  extremely  low  in 
+China. Second, we were unable to properly ex-
+amine  the  association  of  fresh  vegetables  with 
+cardiovascular risk because daily consumption is 
+almost universal in our study population. Third, 
+fruit consumption at baseline was assessed with 
+the  use  of  a  simple  qualitative  food-frequency 
+questionnaire,  and  information  on  mean  con-
+sumption amounts was estimated indirectly on 
+the basis of data from resurveys (under the as-
+sumption that there were no large changes be-
+tween the baseline survey and the second resur-
+vey). Fourth, we did not collect information about 
+types of fruit consumed, which is likely to vary 
+greatly according to season and region (although 
+the  most  commonly  consumed  fruits  in  China 
+are  apples,  citrus  fruit,  and  pears).  Fifth,  our 
+study was not exactly nationally representative, 
+and  the  questionnaire  used  has  not  been  vali-
+dated against another dietary measure. Finally, 
+and perhaps most important, fruit consumption 
+in our study was closely correlated with socio-
+economic status, which in turn has been closely 
+
+n engl j med 374;14  nejm.org  April 7, 2016
+
+1341
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2016 Massachusetts Medical Society. All rights reserved. T h e  ne w   e ngl a nd   jou r na l   o f  m e dicine
+
+associated  with  health  status  and  the  risk  of 
+cardiovascular  disease.31  Although  we  adjusted 
+carefully  for  several  variables  related  to  socio-
+economic status (i.e., region, educational level, 
+and income) and analyses stratified according to 
+these  variables  showed  consistent  findings,  re-
+sidual  confounding  by  socioeconomic  status  is 
+still possible.
+
+Our study does not permit reliable inference 
+of causality, but the observed inverse association 
+between  fruit  consumption  and  cardiovascular 
+risk could be causal,32,33 given that fruit is a rich 
+source of potassium, dietary fiber, folate, anti-
+oxidants, and various bioactive phytochemicals, 
+each of which has potential cardioprotective ef-
+fects,34  and  contains  little  sodium  and  fat  and 
+few calories. The association may be mediated 
+through conventional cardiovascular risk factors 
+such as hypertension, diabetes, and overweight.35 
+However, in our relatively lean study population 
+(mean  BMI,  23.5),  fruit  intake  was  associated 
+with higher, instead of lower, adiposity, perhaps 
+through  improved  nutrition,  since  a  stronger 
+positive association was observed among those 
+with  a  lower  BMI,  and  adjustment  for  blood 
+
+pressure and blood glucose levels attenuated the 
+association only slightly, suggesting the involve-
+ment of other mechanisms.36
+
+In conclusion, our evaluation of the relation-
+ship between fresh fruit consumption and cardio-
+vascular disease in China showed that the level 
+of  fruit  consumption  was  inversely  associated 
+with  blood  pressure  and  blood  glucose  levels. 
+Largely  independent  of  blood  pressure,  blood 
+glucose levels, and other dietary and nondietary 
+factors, higher fruit consumption was associated 
+with a significantly lower risk of major cardio-
+vascular events.
+
+Supported by grants from the Wellcome Trust, the Kadoorie 
+Charitable Foundation, and the Chinese National Natural Sci-
+ence Foundation (81390541), with core funding provided by the 
+British  Heart  Foundation,  the  Medical  Research  Council,  and 
+Cancer Research UK to the Clinical Trial Service Unit and Epide-
+miological Studies Unit, University of Oxford.
+
+Disclosure forms provided by the authors are available with 
+
+the full text of this article at NEJM.org.
+
+We thank the study participants and project staff, the Chinese 
+Center for Disease Control and Prevention (China CDC) and its 
+regional offices for access to death and disease registries, Prof. 
+Yuna  He  from  the  National  Institute  for  Nutrition  and  Food 
+Safety, China CDC, for sharing unpublished information about 
+current levels of fruit intake in China, and the Chinese National 
+Health Insurance Scheme for providing data.
+
+References
+1.  Yusuf S, Hawken S, Ounpuu S, et al. 
+Effect of potentially modifiable risk fac-
+tors  associated  with  myocardial  infarc-
+tion  in  52  countries  (the  INTERHEART 
+study):  case-control  study.  Lancet  2004; 
+364: 937-52.
+2.  Lim  SS,  Vos  T,  Flaxman  AD,  et  al.  
+A comparative risk assessment of burden 
+of  disease  and  injury  attributable  to  67 
+risk factors and risk factor clusters in 21 
+regions, 1990-2010: a systematic analysis 
+for  the  Global  Burden  of  Disease  Study 
+2010. Lancet 2012; 380: 2224-60.
+3.  Yang G, Wang Y, Zeng Y, et al. Rapid 
+health  transition  in  China,  1990-2010: 
+findings from the Global Burden of Dis-
+ease  Study  2010.  Lancet  2013; 381: 1987-
+2015.
+4.  Abegunde DO, Mathers CD, Adam T, 
+Ortegon  M,  Strong  K.  The  burden  and 
+costs of chronic diseases in low-income 
+and middle-income countries. Lancet 2007; 
+370: 1929-38.
+5.  Oude  Griep  LM,  Verschuren  WM, 
+Kromhout D, Ocké MC, Geleijnse JM. Raw 
+and  processed  fruit  and  vegetable  con-
+sumption and 10-year stroke incidence in 
+a  population-based  cohort  study  in  the 
+Netherlands. Eur J Clin Nutr 2011; 65: 791-9.
+6.  Lozano R, Naghavi M, Foreman K, et al. 
+Global  and  regional  mortality  from  235 
+causes of death for 20 age groups in 1990 
+and  2010:  a  systematic  analysis  for  the 
+
+Global  Burden  of  Disease  Study  2010. 
+Lancet 2012; 380: 2095-128.
+7.  Wu  Z,  Yao  C,  Zhao  D,  et  al.  Sino-
+MONICA project: a collaborative study on 
+trends and determinants in cardiovascu-
+lar  diseases  in  China.  I.  morbidity  and 
+mortality  monitoring.  Circulation  2001; 
+103: 462-8.
+8.  Micha  R,  Khatibzadeh  S,  Shi  P,  An-
+drews  KG,  Engell  RE,  Mozaffarian  D. 
+Global, regional and national consump-
+tion  of  major  food  groups  in  1990  and 
+2010: a systematic analysis including 266 
+country-specific nutrition surveys world-
+wide. BMJ Open 2015; 5(9): e008705.
+9.  Chen Z, Lee L, Chen J, et al. Cohort 
+profile:  the  Kadoorie  Study  of  Chronic 
+Disease in China (KSCDC). Int J Epidemi-
+ol 2005; 34: 1243-9.
+10.  Chen Z, Chen J, Collins R, et al. China 
+Kadoorie Biobank of 0.5 million people: 
+survey  methods,  baseline  characteristics 
+and long-term follow-up. Int J Epidemiol 
+2011; 40: 1652-66.
+11.  Lewington S, Li L, Sherliker P, et al. 
+Seasonal variation in blood pressure and 
+its relationship with outdoor temperature 
+in 10 diverse regions of China: the China 
+Kadoorie  Biobank.  J  Hypertens  2012; 30: 
+1383-91.
+12.  Su  D,  Du  H,  Zhang  X,  et  al.  Season 
+and  outdoor  temperature  in  relation  to 
+detection and control of hypertension in a 
+
+large rural Chinese population. Int J Epi-
+demiol 2014; 43: 1835-45.
+13.  Yang GH, Stroup DF, Thacker SB. Na-
+tional public health surveillance in China: 
+implications  for  public  health  in  China 
+and the United States. Biomed Environ Sci 
+1997; 10: 1-13.
+14.  Plummer  M.  Improved  estimates  of 
+floating absolute risk. Stat Med 2004; 23: 
+93-104.
+15.  Rockhill B, Newman B, Weinberg C. 
+Use and misuse of population attributable 
+fractions. Am J Public Health 1998; 88: 15-9.
+16.  Xiao  Y,  Su  C,  Ouyang  Y,  Zhang  B. 
+Trends of vegetables and fruits consump-
+tion among Chinese adults aged 18 to 44 
+years  old  from  1991  to  2011.  Zhonghua 
+Liu Xing Bing Xue Za Zhi 2015; 36: 232-6. 
+(In Chinese.)
+17.  Hu  S,  Gao  R,  Liu  L,  et  al.  National 
+Center for Cardiovascular Diseases report 
+on  cardiovascular  diseases  in  China  in 
+2014. Beijing:  Encyclopaedia of China Pub-
+lishing House, 2015 (http://www .nccd .org 
+.cn/ en/ Down/ 19204/ ).
+18.  Hu D, Huang J, Wang Y, Zhang D, Qu 
+Y. Fruits and vegetables consumption and 
+risk of stroke: a meta-analysis of prospec-
+tive cohort studies. Stroke 2014; 45: 1613-9.
+19.  Wang X, Ouyang Y, Liu J, et al. Fruit 
+and vegetable consumption and mortality 
+from  all  causes,  cardiovascular  disease, 
+and cancer: systematic review and dose-
+
+1342
+
+n engl j med 374;14  nejm.org  April 7, 2016
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2016 Massachusetts Medical Society. All rights reserved. Fruit Consumption and Cardiovascular Disease in China
+
+response meta-analysis of prospective co-
+hort studies. BMJ 2014; 349: g4490.
+20.  Bhupathiraju SN, Wedick NM, Pan A, 
+et al. Quantity and variety in fruit and veg-
+etable  intake  and  risk  of  coronary  heart 
+disease. Am J Clin Nutr 2013; 98: 1514-23.
+21.  Crowe FL, Roddam AW, Key TJ, et al. 
+Fruit and vegetable intake and mortality 
+from  ischaemic  heart  disease:  results 
+from the European Prospective Investiga-
+tion  into  Cancer  and  Nutrition  (EPIC)-
+Heart study. Eur Heart J 2011; 32: 1235-43.
+22. Dauchet  L,  Amouyel  P,  Hercberg  S, 
+Dallongeville J. Fruit and vegetable con-
+sumption and risk of coronary heart dis-
+ease:  a  meta-analysis  of  cohort  studies.  
+J Nutr 2006; 136: 2588-93.
+23.  Oyebode O, Gordon-Dseagu V, Walker 
+A,  Mindell  JS.  Fruit  and  vegetable  con-
+sumption and all-cause, cancer and CVD 
+mortality:  analysis  of  Health  Survey  for 
+England  data.  J  Epidemiol  Community 
+Health 2014; 68: 856-62.
+24.  He  FJ,  Nowson  CA,  Lucas  M,  Mac-
+Gregor  GA.  Increased  consumption  of 
+fruit and vegetables is related to a reduced 
+risk of coronary heart disease: meta-analy-
+sis  of  cohort  studies.  J  Hum  Hypertens 
+2007; 21: 717-28.
+25.  Larsson SC, Virtamo J, Wolk A. Total 
+
+and specific fruit and vegetable consump-
+tion  and  risk  of  stroke:  a  prospective 
+study. Atherosclerosis 2013; 227: 147-52.
+26.  Zhang X, Shu XO, Xiang YB, et al. Cru-
+ciferous vegetable consumption is associ-
+ated with a reduced risk of total and car-
+diovascular disease mortality. Am J Clin 
+Nutr 2011; 94: 240-6.
+27.  Yu D, Zhang X, Gao YT, et al. Fruit and 
+vegetable intake and risk of CHD: results 
+from  prospective  cohort  studies  of  Chi-
+nese adults in Shanghai. Br J Nutr 2014; 
+111: 353-62.
+28. World  Cancer  Research  Fund.  Food, 
+nutrition,  physical  activity,  and  the  pre-
+vention  of  cancer:   a  global  perspective. 
+Washington, DC:  American Institute for 
+Cancer Research, 2007.
+29.  Clarke  R,  Shipley  M,  Lewington  S,  
+et  al.  Underestimation  of  risk  associa-
+tions due to regression dilution in long-
+term follow-up of prospective studies. Am 
+J Epidemiol 1999; 150: 341-53.
+30.  Lewington  S,  Thomsen  T,  Davidsen 
+M, Sherliker P, Clarke R. Regression dilu-
+tion bias in blood total and high-density 
+lipoprotein  cholesterol  and  blood  pres-
+sure  in  the  Glostrup  and  Framingham 
+prospective  studies.  J  Cardiovasc  Risk 
+2003; 10: 143-8.
+
+31.  Rosengren A, Subramanian SV, Islam 
+S, et al. Education and risk for acute myo-
+cardial infarction in 52 high, middle and 
+low-income countries: INTERHEART case-
+control study. Heart 2009; 95: 2014-22.
+32.  Rautiainen S, Levitan EB, Mittleman 
+MA,  Wolk  A.  Fruit  and  vegetable  intake 
+and  rate  of  heart  failure:  a  population-
+based prospective cohort of women. Eur J 
+Heart Fail 2015; 17: 20-6.
+33.  Hartley L, Igbinedion E, Holmes J, et 
+al.  Increased  consumption  of  fruit  and 
+vegetables for the primary prevention of 
+cardiovascular  diseases.  Cochrane  Data-
+base Syst Rev 2013; 6: CD009874.
+34.  Liu RH. Health benefits of fruit and 
+vegetables are from additive and synergis-
+tic combinations of phytochemicals. Am J 
+Clin Nutr 2003; 78: Suppl: 517S-20S.
+35.  Bazzano  LA,  Serdula  MK,  Liu  S.  Di-
+etary intake of fruits and vegetables and 
+risk of cardiovascular disease. Curr Athero-
+scler Rep 2003; 5: 492-9.
+36.  Tuohy KM, Conterno L, Gasperotti M, 
+Viola R. Up-regulating the human intesti-
+nal microbiome using whole plant foods, 
+polyphenols,  and/or  fiber.  J  Agric  Food 
+Chem 2012; 60: 8776-82.
+Copyright © 2016 Massachusetts Medical Society.
+
+Crocus Patch 
+
+n engl j med 374;14  nejm.org  April 7, 2016
+
+Jason Birnholz, M.D.
+
+1343
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2016 Massachusetts Medical Society. All rights reserved. 

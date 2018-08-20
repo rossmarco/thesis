@@ -1,0 +1,2064 @@
+Review
+
+Types of Dietary Fat and Risk of Coronary Heart
+Disease: A Critical Review
+
+Frank B. Hu, MD, PhD, JoAnn E. Manson, MD, DrPh, and Walter C. Willett, MD, DrPh
+
+Department of Nutrition, Harvard School of Public Health, Boston, Massachusetts
+
+Key words: dietary fat, saturated fat, monounsaturated fat, polyunsaturated fat, trans fatty acids, n-3 fatty acids,
+cardiovascular disease, coronary heart disease, women
+
+During the past several decades, reduction in fat intake has been the main focus of national dietary
+recommendations to decrease risk of coronary heart disease (CHD). Several lines of evidence, however, have
+indicated that types of fat have a more important role in determining risk of CHD than total amount of fat in the
+diet. Metabolic studies have long established that the type of fat, but not total amount of fat, predicts serum
+cholesterol levels. In addition, results from epidemiologic studies and controlled clinical trials have indicated that
+replacing saturated fat with unsaturated fat is more effective in lowering risk of CHD than simply reducing total
+fat consumption. Moreover, prospective cohort studies and secondary prevention trials have provided strong
+evidence that an increasing intake of n-3 fatty acids from fish or plant sources substantially lowers risk of
+cardiovascular mortality. In this article, we review evidence from epidemiologic studies and dietary intervention
+trials addressing the relationship between dietary fat intake and risk of CHD, with a particular emphasis on
+different major types of fat, n-3 fatty acids and the optimal balance between n-3 and n-6 fatty acids. We also
+discuss the implications of the available evidence in the context of current dietary recommendations.
+
+Key teaching points:
+
+• In the past several decades, reduction in fat intake has been the main focus of national dietary recommendations to lower risk of
+
+coronary heart disease (CHD).
+
+• Metabolic studies have long established that the type of fat, but not total amount of fat, predicts serum cholesterol levels.
+• Results from epidemiologic studies and controlled clinical trials have indicated that replacing saturated fat with unsaturated fat is
+
+more effective in lowering risk of CHD than simply reducing total fat consumption.
+
+• Prospective cohort studies and secondary prevention trials have provided strong evidence that a higher intake of n-3 fatty acids from
+
+fish or plant sources lowers risk of CHD.
+
+• Recent national dietary guidelines have shifted the emphasis from total fat reduction to distinguishing different types of fat.
+
+INTRODUCTION
+
+During the past several decades, reduction in fat intake has
+been the main focus of national dietary recommendations. In
+the public’s mind, the word “dietary fat” has become synony-
+mous with obesity and heart disease, whereas the words “low-
+fat” and “fat-free” have become synonymous with heart health.
+In response to the low-fat campaign, the food industry has
+produced numerous commercial products labeled as “low-fat”
+or “fat-free,” but with high amounts of refined carbohydrates
+and sugar. Ironically, while dietary fat intake as percentage of
+
+energy intake has declined in the U.S. over the years, total
+caloric intake has not declined, and the prevalence of obesity
+and type 2 diabetes has grown dramatically [1,2].
+
+It is now increasingly recognized that the low-fat campaign
+has been based on little scientific evidence and may have
+caused unintended health consequences. It is also increasingly
+appreciated that different types of fats have different health
+effects. In this article, we review epidemiologic evidence and
+dietary intervention studies regarding the relationship between
+dietary fat intake and risk of CHD, with particular emphasis on
+different major types of fat and n-3 fatty acids.
+
+Address correspondence to: Dr. Frank Hu, Dept. of Nutrition, Harvard School of Public Health, 665 Huntington Ave, Boston, MA 02115. E-mail:
+Frank.hu@channing.harvard.edu
+
+Journal of the American College of Nutrition, Vol. 20, No. 1, 5–19 (2001)
+Published by the American College of Nutrition
+
+5
+
+Dietary Fat and Risk of Coronary Heart Disease
+
+MAJOR TYPES OF DIETARY FAT
+
+A higher intake of total and saturated fat is widely believed
+to contribute to the development of CHD. This belief is largely
+based on ecological studies relating dietary intake of saturated
+fat and rates of CHD. In the Seven Countries Study [3], intake
+of saturated fat as a percentage of calories was strongly corre-
+lated with coronary death rates across 16 defined populations in
+seven countries (r 5 0.84). Interestingly, the correlation be-
+tween the percentage of energy from total fat and CHD inci-
+dence was much weaker (r 5 0.39). Indeed, the regions with
+the highest CHD rate (Finland) and the lowest rate (Crete) had
+the same amount of total fat intake, at about 40% of energy,
+which was the highest among the 16 populations. In a more
+recent analysis of the Seven Countries Study [4], Kromhout and
+colleagues found a strong positive correlation of 25-year death
+rates from CHD with intakes of four major long-chain saturated
+fatty acids (all r . 0.80) and trans fatty acids (r 5 0.78).
+
+Data from international comparisons as well as migration
+studies, although providing evidence for the importance of diet
+and environmental factors in the cause of CHD, are inadequate
+in testing specific hypotheses regarding the role of individual
+dietary components due to confounding by other aspects of
+diet, physical activity, smoking, obesity and economic devel-
+opment. Prospective cohort studies of individuals, in which diet
+is assessed prior to the occurrence of disease, are typically
+considered as the strongest nonrandomized design. Despite the
+long-standing interest in the diet-heart hypothesis, the number
+of cohort studies that have directly addressed associations
+between dietary fat intake and risk of CHD is surprisingly small
+and the results are not consistent. A significant positive asso-
+ciation between saturated fat intake and risk of CHD was found
+in two studies [5,6], but not in others [7–13]. A significant
+inverse association between polyunsaturated fat
+intake and
+CHD was found in only one study [11], but not in others
+[7–10,12,13]. The interpretation of these findings is compli-
+cated by small study size, inadequate dietary assessment, in-
+complete adjustment for intake of total energy, failure to ac-
+count for trans isomers of unsaturated fats and lack of control
+for intakes of other types of fat and other components of diet.
+More recently, using 14-year follow-up data from the
+Nurses’ Health Study, Hu and colleagues [14] conducted de-
+tailed prospective analyses of dietary fat and CHD among
+80,082 women aged 34 to 59. The study was particularly
+powerful because of large sample sizes and repeated assess-
+ments of diet. Hu et al. found a weak positive association
+between saturated fat intake and risk of CHD, but a significant
+and strong positive association with intake of trans fatty acids.
+Five percent of energy from saturated fat, compared with
+equivalent energy from carbohydrates, was associated with a 17
+percent greater risk of CHD (relative risk 5 1.17, 95 percent
+confidence interval 0.97–1.41, p 5 0.10). Compared with
+equivalent energy from carbohydrates, the relative risk for two
+
+percent of energy from trans fat was 1.93 (1.43–2.61, p ,
+0.001); for five percent of energy from monounsaturated fat,
+0.81 (0.65–1.00, p 5 0.05); and for five percent energy from
+polyunsaturated fat, 0.62 (0.46 – 0.85, p 5 0.002). Total fat was
+intake not significantly related to risk (for five percent energy
+1.02, 0.97–1.07, p 5 0.55). It was estimated that replacement of
+five percent of energy from saturated fat by unsaturated fats
+would reduce risk by 42 percent (23–56, p , 0.001), and
+replacement of two percent of energy from trans fat by unhy-
+drogenated unsaturated fats would reduce risk 53 percent (34 –
+67, p , 0.001) (Fig. 1). These findings challenge the widely
+recommended low-fat high-carbohydrate diets because they
+suggest that replacing saturated and trans fats with unhydro-
+genated unsaturated fats is more effective in preventing CHD
+than reducing overall fat intake.
+
+Individual Saturated Fatty Acids
+
+The association between saturated fat and CHD observed in
+the Nurses’ Health Study was much weaker than that predicted
+by international comparisons [3], but is consistent with the
+possibility that the proportional increase in plasma HDL con-
+centration produced by saturated fat somewhat compensates for
+its adverse effect on LDL level. In metabolic studies, different
+classes of saturated fatty acids have different effects on plasma
+lipid and lipoprotein levels [15] (Fig. 2). Specifically, saturated
+fatty acids with 12–16 carbon atoms tend to increase plasma
+total and LDL cholesterol levels, whereas stearic acid (18:0)
+does not have a cholesterol-raising effect in comparison with
+oleic acid (18:1). Among the cholesterol-raising saturated fatty
+acids, myristic acid (14:0) appears to be more potent than lauric
+
+Fig. 1. Estimated changes (% with 95% confidence intervals) in risk of
+coronary heart disease (CHD) associated with isocaloric dietary sub-
+stitutions. Adjusted for coronary risk factors and total energy intake.
+Sat 5 saturated fat, Carbo 5 carbohydrate, Mono 5 monounsaturated
+fat, Poly 5 polyunsaturated fat, Trans 5 trans fatty acids, Sat-Carbo 5
+substitute carbohydrates for saturated fat. (Reproduced from [14] with
+permission of the Massachusetts Medical Society, Copyright © 1997
+Massachusetts Medical Society.)
+
+6
+
+VOL. 20, NO. 1
+
+Dietary Fat and Risk of Coronary Heart Disease
+
+risk does not appear to be justified. Moreover, these saturated
+fats are highly correlated in typical diets due to shared food
+sources (e.g., beef and dairy products).
+
+N-6 Polyunsaturated Fat
+
+Numerous metabolic studies have shown strong cholesterol-
+lowering effects for vegetable oils rich in linoleic acid when
+substituted for dietary saturated fat [22]. Also, dietary interven-
+tion trials using high-polyunsaturated-fat diets have been more
+effective than those using low-fat high-carbohydrate diets in
+lowering total serum cholesterol as well as rates of CHD
+(discussed below) [23]. In prospective cohort studies among
+men, a strong inverse association for polyunsaturated fat was
+found in the Western Electric Study [11], and borderline sig-
+nificant inverse associations were found in the Ireland-Boston
+Heart Study [6] and the usual care group of the Multiple Risk
+Factor Intervention Trial [24]. The inverse association between
+polyunsaturated fat and CHD observed in the Nurses’ Health
+Study is consistent with previous findings, but stronger than
+predicted by the effects of polyunsaturated fat on blood lipids
+alone, based on the Keys [25] and Hegested equations [26]
+derived from metabolic studies. This suggests that n-6 polyun-
+saturated fat may have other beneficial effects on cardiovascu-
+lar disease besides improving lipid profile. In animal and met-
+abolic studies, an increased intake of n-6 polyunsaturated fatty
+acid improves insulin sensitivity [27,28]. In the Nurses’ Health
+Study, a higher intake of n-6 polyunsaturated fat was associated
+with a significantly lower incidence of type 2 diabetes [29]. In
+addition, animal studies have suggested an anti-arrhythmic
+effect when sunflower oil (rich in linoleic acid) was fed [30],
+although the effect was less than that when fish oil was fed.
+
+In the Nurses’ Health Study [17], the ratio of polyunsatu-
+rated fat to long-chain saturated fatty acids (P:S ratio) was
+strongly associated with a lower risk of CHD. After adjustment
+for age, smoking, other nondietary variables and intakes of
+monounsaturated fat, trans fat, protein and total energy, the RR
+of CHD was 0.79 (95% CI 0.70 – 0.89) for each 0.2 unit
+increment in the ratio. In the categorical analysis, the multivar-
+iate RRs across deciles of the ratio (the median values ranged
+from 0.23 to 0.72 from the lowest to highest deciles) were 1.0
+(reference), 0.92, 0.90, 0.87, 0.94, 0.81, 0.68, 0.72, 0.58, and
+0.58(0.41– 0.83) (p for trend , 0.0001) (Fig. 3). These data
+suggest that replacing long chain saturated fat with polyunsat-
+urated fat is likely to substantially reduce the risk of CHD. In
+addition, when intakes of polyunsaturated and trans fat were
+considered together [14], the lowest risk of CHD was observed
+among those who were in the lowest quintile of trans fat and
+the highest quintile of polyunsaturated fat; the RR comparing
+women in this category with those with highest intake of trans
+fat and lowest intake of polyunsaturated fat was 0.31 (95% CI
+0.11– 0.88). These results indicate a substantial benefit to sub-
+stituting polyunsaturated fat (such as unhydrogenated soybean
+
+Fig. 2. Effects of lauric (12:0), myristic (14:0), palmitic (16:0), elaidic
+(trans-18:1), stearic (18:0), oleic (cis-18:1), and linoleic (18:2n-6) acids
+on total cholesterol (TC), LDL cholesterol (LDL-C) and HDL choles-
+terol (HDL-C). (Reproduced from [15] with permission of the Amer-
+ican Society for Clinical Nutrition.)
+
+acid (12:0) or palmitic acid (16:0) [15], but the data are not
+entirely consistent [16].
+
+Because stearic acid does not raise plasma cholesterol lev-
+els, it has been suggested it not be included with saturated fat
+on food labels. However, until recently, there has been no study
+directly looking at the relationship between stearic acid intake
+and risk of CHD. In a recent analysis of the Nurses’ Health
+Study [17], Hu and colleagues found that dietary intake of short
+to medium chain saturated fatty acids (4:0 –10:0) was not
+significantly associated with risk of CHD (relative risk (RR) for
+a 1% increase in energy 5 0.97, 95% confidence interval (CI),
+0.90 –1.05). In contrast, intakes of longer-chain saturated fatty
+acids (12:0 –18:0) were each separately associated with a small
+increase in risk. After adjustment for coronary risk factors, the
+RR for a 1% energy increase from the stearic acid was 1.19
+(1.02–1.37). Due to the high correlations among specific saturated
+fats, distinguishing among their relationships with CHD risk was
+difficult. Nevertheless, further adjustment for other long-chain
+saturates did not appreciably alter the RR for stearic acid.
+
+Although stearic acid has little effect on total and LDL
+cholesterol concentrations compared to carbohydrate, it may
+lower HDL compared to monounsaturated or polyunsaturated
+fatty acids, and the HDL-lowering effect of stearic acid was
+particularly strong among women [18]. Aro et al. [19] recently
+reported that, compared with myristic and palmitic acids,
+stearic acid reduced LDL concentration, but also reduced HDL
+level. Thus, the ratios of LDL to HDL and apo B to apo A-I
+were not affected. Moreover, stearic acid increased Lp(a) con-
+centration [19] and may activate Factor VII [20] and impair
+fibrinolysis [21]. These data, along with the findings from the
+Nurses’ Health Study, suggest that distinguishing stearic acid
+from other saturated fats in dietary advice to reduce coronary
+
+JOURNAL OF THE AMERICAN COLLEGE OF NUTRITION
+
+7
+
+Dietary Fat and Risk of Coronary Heart Disease
+
+Fig. 3. Multivariate relative risks of coronary heart disease according to
+deciles of the ratio of polyunsaturated to long-chain saturated fatty
+acids (P:S ratio). Adjusted for coronary risk factors, other fatty acids
+and total energy intake. (Reproduced from [17] with permission of the
+American Society for Clinical Nutrition.)
+
+or corn oil) for trans fat (such as hard margarine) in the diet or
+other foods high in trans fatty acids.
+
+Monounsaturated Fat
+
+Ecological studies have suggested an inverse association
+between monounsaturated fat intake and total mortality, as well
+as with CHD death [31]. In particular, the mortality rate from
+CHD is very low in the traditional Mediterranean populations
+that use olive oil (a major source of oleic acid) as the primary
+source of fat [22].
+
+Prospective cohort studies that address the association be-
+tween intake of monounsaturated fat and CHD risk are sparse.
+Two studies found an increased risk of CHD with a higher
+intake of monounsaturated fat in younger, but not older partic-
+ipants [32,33]. However, neither study adjusted for intake of
+other types of fat. A more recent study found an inverse
+association for monounsaturated fat after adjusting for intakes
+of other types of fat [12]. Because the main source of mono-
+unsaturated fat in the U.S. diet is beef and dairy fats and
+partially hydrogenated vegetable oils, intake of monounsatu-
+rated fat is strongly correlated with saturated and trans fats.
+Thus, the relative risks for monounsaturated fat intake not
+adjusted for saturated and trans fats are likely to be seriously
+confounded. In the Nurses’ Health Study [14], after adjusting
+for other fats, monounsaturated fat intake was inversely asso-
+ciated with risk of CHD, although the association was weaker
+than that for polyunsaturated fat.
+
+In metabolic studies, replacing carbohydrates with mono-
+unsaturated fat raises HDL without affecting LDL [34]. This
+replacement may also improve glucose tolerance and insulin sen-
+sitivity among patients with diabetes mellitus [35]. In addition,
+monounsaturated fat is resistant to oxidative modification [36].
+
+The major non-animal sources of monounsaturated fat include
+olive and canola oils, nuts and avocados. Both canola oil and nuts
+are also important sources of polyunsaturated fat. In addition,
+
+liquid vegetable oils generally contain a higher amount of vitamin
+E, whereas animal fat contain little antioxidants.
+
+Trans Fatty Acids
+
+The positive relationship between trans fat intake and risk
+of CHD observed in the Nurses’ Health Study is generally
+consistent with several prospective studies conducted in men,
+including the Health Professionals’ Follow-up Study [13] and
+the Alpha-Tocopherol Beta-Carotene Study [12]. The concen-
+tration of trans fatty acids in adipose tissue was not signifi-
+cantly associated with risk of myocardial infarction in the
+EURAMIC study [37] or with sudden cardiac death in a small
+case-control study in the United Kingdom [38]. However, the
+95% confidence intervals (CIs) for the relative risks in the
+highest categories of trans-fatty acids in both studies were very
+wide and included the estimate of relative risk in the Nurses’
+Health Study. Also, in the EURAMIC study, after exclusion of
+an uninformative area (Spain, where trans fat intake was uni-
+formly very low due to high consumption of olive oil), the
+relative risk for the highest versus the lowest category (1.44,
+95% CI 0.94 –2.20) was close to that in the Nurses’ Health
+Study (RR for extreme quintiles 5 1.53, 95% CI 1.16 –2.02).
+A higher intake of trans fat can contribute to increased risk
+of CHD through multiple mechanisms. First, trans fatty acids
+raise LDL cholesterol levels [39 – 42] and lower HDL choles-
+terol [39,41,42] relative to cis unsaturated fatty acids. As such,
+the increase in the ratio of total to HDL cholesterol for trans fat
+is approximately double that for saturated fat [43]. Second,
+trans fat increases lipoprotein (a) levels [44,45], which are
+positively associated with risk of CHD [46]. Third, trans fat
+raises plasma triglyceride levels [47], and increased triglycer-
+ides are independently associated with increased risk of CHD
+[48,49]. Fourth, trans fatty acids can adversely affect essential
+fatty acid metabolism and prostaglandin balance by inhibiting
+the enzyme delta-6-desaturase and, as a result, may promote
+thrombogenesis [50 –52]. Finally, recent data have suggested
+that high intake of trans fat may promote insulin resistance in
+humans [28].
+
+The major sources of trans fatty acids in the U.S. are stick
+margarine, commercially baked products, and deep fried fast
+food. In Europe, virtually all margarines have become trans fat
+free due to rapid response by the manufactures to these health
+concerns. The change from stick margarine to trans fat free
+margarine, however, has been slow in the U.S. On the other
+hand, in the U.S., margarine now accounts for only 25 percent
+to 37 percent of trans fatty acids; the remainder is “hidden” in
+baked goods, fried fast foods, and other prepared foods [53].
+For example, a medium-size French fries contains 5– 6 grams,
+a doughnut contains 2 grams, and an ounce of crackers contains
+2 grams of trans fatty acids [54]. Unfortunately, many of these
+products do not need to be labeled under the proposed regula-
+tions to label trans fatty acids which are now under consider-
+ation by the Food and Drug Administration.
+
+8
+
+VOL. 20, NO. 1
+
+NUT CONSUMPTION AND RISK OF
+CHD
+
+Up to 80% of energy in nuts comes from fat. Because of
+their high fat content, nuts are traditionally included among
+foods to be avoided to lower blood cholesterol and risk of
+CHD. However, so far, five large prospective cohort studies
+(the Adventist Health Study, the Iowa Women Health Study,
+the Nurses’ Health Study, the Physicians’ Health Study and the
+Cholesterol and Recurrent Events Study (CARE)) have exam-
+ined the relation between nut consumption and risk of CHD,
+and all have found an inverse association [55]. In particular,
+women in the Nurses’ Health Study who consumed nuts five or
+more times a week had significantly lower risk of total CHD
+(RR 5 0.65, 95% CI 0.47– 0.89, p for trend 5 0.0009), as
+compared to women who rarely ate nuts (never or less than
+once a month), after adjusting for age, smoking and other
+known CHD risk factors [56]. The magnitude of risk reduction
+was similar for fatal CHD (RR 5 0.61, 0.35–1.05, p for trend 5
+0.007) and nonfatal MI (RR 5 0.68, 0.47–1.00, p for trend 5
+0.04). A similar risk reduction was observed among the partic-
+ipants in the Adventist Health Study [57], whose nut consump-
+tion is substantially higher than the general U.S. population.
+
+Several clinical studies have evaluated the effects of diets
+high in nuts (including walnuts, peanuts, almonds and other
+nuts) on blood lipids. In a randomized, controlled study, Sabate
+and coworkers [58] randomized 18 normocholesterolemic men
+to either a control or a high walnut diet and then switched after
+four weeks. Both diets conformed to the National Cholesterol
+Education Program Step I diet and were identical in foods and
+macronutrients, except that walnuts provided 20% of calories in
+the walnut diet (replacing meat, potato chips, oils, margarine
+and butter). When compared to the control diet, men in the
+walnut diet decreased total and LDL cholesterol levels by 12%
+and 16%, respectively. Although there was a slight decrease in
+HDL cholesterol level (4.9%) in the walnut diet, the ratio of
+LDL cholesterol to HDL cholesterol was significantly lowered
+by the walnut diet (12%). A cholesterol-lowering effect was
+also observed for diets supplemented with almonds [59,60]. In
+
+Table 1. Fat Composition of Nuts*
+
+Dietary Fat and Risk of Coronary Heart Disease
+
+addition, a low-fat diet supplemented with peanuts significantly
+improved serum lipoprotein profiles compared to a regular
+low-fat diet among postmenopausal hypercholesterolemic
+women [61].
+
+The beneficial effects of nut consumption observed in clin-
+ical and epidemiologic studies underscore the importance of
+distinguishing different types of fat. Although nuts are high in
+fat, the predominant types of fat in nuts are mono- and poly-
+unsaturated (Table 1), which lower LDL cholesterol level.
+Other potentially protective constituents in nuts include vege-
+table protein, magnesium, vitamin E, fiber, and potassium.
+
+Concern may exist that higher consumption of nuts would
+result in weight gain due to their relatively high energy density.
+Thus, nuts should not simply be added on the top of the diet.
+Instead, they should be used to replace other sources of calories
+such as red meats or refined carbohydrates.
+
+INTERVENTION TRIALS OF
+DIETARY FAT
+
+Clinical Endpoint Trials
+
+Randomized clinical endpoint trials are the “gold standard”
+for establishing diet-disease relationships. However, in most
+circumstances, dietary trials are infeasible because of practical
+considerations, including ethical issues and potential lack of
+compliance in the long run. So far, only a handful of dietary
+trials with coronary disease endpoints have been conducted and
+most of these trials were conducted in men with existing
+myocardial infarction. These trials have been reviewed previ-
+ously by several authors [62– 64] (Table 2).
+
+Earlier trials have tested two dietary approaches, one to
+lower total fat and the other to replace saturated fat with
+polyunsaturated fat leaving total fat unchanged. Three of the
+trials were primary prevention trials conducted among institu-
+tionalized patients to increase control over the diets [65– 67].
+Total fat intake was not reduced in these trials; rather, polyun-
+saturated fat was greatly increased to substitute for saturated
+
+Total fat, g
+
+Saturated fat, g Mono-unsaturated fat, g
+
+Poly-unsaturated fat, g
+
+Ratio of unsaturated to
+
+saturated fat, g
+
+Almonds (;24 nuts)
+Brazil nuts (8 medium nuts)
+Cashews (;18 medium nuts)
+Hazelnuts (;12 nuts)
+Macadamia (;12 nuts)
+Peanuts (;35 pieces)
+Pecans (;15 halves)
+Pistachios (;47 nuts)
+Walnuts, English (;14 halves)
+Average
+
+14.5
+19.0
+13.0
+18.0
+20.0
+13.5
+19.0
+14.0
+18.0
+16.6
+
+* All values for dried or dry roasted nuts.
+Reproduced from [55] courtesy of Current Science, Inc.
+
+1.5
+5.0
+2.5
+1.0
+2.5
+2.0
+2.0
+2.0
+2.0
+2.3
+
+10.0
+7.0
+8.0
+15.0
+16.5
+7.0
+12.0
+8.0
+5.0
+9.8
+
+3.0
+7.0
+2.5
+2.0
+1.0
+4.5
+5.0
+4.0
+11.0
+4.4
+
+8.7
+2.8
+4.2
+17.0
+7.0
+5.8
+8.5
+6.0
+8.0
+6.2
+
+JOURNAL OF THE AMERICAN COLLEGE OF NUTRITION
+
+9
+
+Dietary Fat and Risk of Coronary Heart Disease
+
+Table 2. Dietary Intervention Trials on Coronary Events
+
+Trial
+
+Subjects in the
+
+intervention group
+
+Dietary
+
+Intervention
+
+Dietary fat
+(% energy)
+
+P:S ratio
+
+in the
+
+Duration
+
+in the treatment
+
+treatment
+
+(yrs)
+
+MRC low-fat [71]
+DART [72]
+Finnish Mental
+Hospital [66]
+
+Los Angeles Veteran
+
+[65]
+
+Oslo Diet Heart
+Study [68, 69]
+MRC soy oil [70]
+
+Minnesota Coronary
+
+Survey [67]
+
+Reduce total fat
+123 MI patients, all males
+1,015 MI patients, all males Reduce total fat
+Unsaturated fat- 3
+676 males
+Unsaturated fat- 3
+
+424 males, most had no
+
+saturated fat
+
+evidence of existing
+heart disease
+
+206 MI patients, all males Unsaturated fat- 3
+199 MI patients, all males Unsaturated fat- 3
+Unsaturated fat- 3
+
+4,393 men and 4,664
+
+women
+
+saturated fat
+
+saturated fat
+
+saturated fat
+
+saturated fat
+
+Indian Experiment of
+
+204 MI patients, primarily
+
+High fruits,
+
+Infarct Survival
+[75]
+
+males
+
+Lyon Diet Heart
+
+302 MI patients, primarily
+
+Study [73]
+
+males
+
+vegetables, nuts,
+fish and pulses
+Mediterranean diet
+
+group
+
+22%
+32%
+35%
+
+40%
+
+39%
+
+46%
+
+38%
+
+24%
+
+31%
+
+group
+
+NR
+0.8
+1.5
+
+NR
+
+2.4
+
+2.0
+
+1.6
+
+1.2
+
+0.7
+
+Change in
+
+serum
+
+cholesterol†
+
+Change in
+
+CHD‡
+
+3
+2
+6
+
+8
+
+5
+
+4
+
+25%
+23.5%
+215%
+
+213%
+
+214%
+
+216%
+
+14%
+29%
+243%
+
+231%
+
+225%
+
+212%
+
+4.5
+
+214%
+
+No change
+
+1
+
+29%
+
+240%
+
+2.3
+
+No change
+
+273%
+
+† Change in cholesterol refers to the percentage change in serum cholesterol in the treatment group compared to the change io the control group.
+‡ Change in CHD refers to the percentage difference in coronary event rates in the treatment compared to the control group.
+NR: not reported.
+Adapted from [64].
+
+fat. In all three trials, serum cholesterol was reduced substan-
+tially. In the Los Angeles Veteran Hospital Study [65], CHD
+rate was reduced by 31% during eight years of follow-up in the
+intervention group, while in the Finnish Mental Hospital study
+[66], the reduction of CHD rate was 43% over six years. In both
+trials, linoleic acid in adipose tissue (% of total fatty acids)
+increased substantially in the treatment group during the study
+period, indicating compliance with the prescribed high polyun-
+saturated-fat diet by the patients. In the Finnish trial, patients in
+the treatment group also substituted soft margarine for stick
+margarine. Thus, the reduction in serum cholesterol and CHD
+observed in this study was probably in part due to reduction in
+trans fat intake. In contrast, in the Minnesota study [67],
+cardiovascular events were not significantly reduced by the
+treatment diet, although serum cholesterol was reduced by 14%
+in the treatment group. However, this study was relatively short
+in duration (4.5 years), and the achieved P:S ratio (1.6) was far
+below the specified goal (2.5).
+
+Two earlier secondary prevention trials also used high poly-
+unsaturated-fat diets. The Oslo Diet-Heart Study, which in-
+cluded 21% energy from polyunsaturated fat, found a signifi-
+cant reduction in serum cholesterol and major coronary events
+(fatal and nonfatal MI) at five years of follow-up [68]. After 11
+years, fatal MI was reduced by 44% (p 5 0.004) and total
+cardiovascular mortality was reduced by 14% (p 5 0.13) [69].
+Another trial [70] using a high amount of soybean oil found a
+16% reduction in serum cholesterol at six months and a 12%
+(nonsignificant) reduction in the rate of recurrent coronary
+events over four years. But deaths from cardiovascular disease
+
+were not affected by the treatment. In contrast to the favorable
+results observed in trials using high-polyunsaturated fat diets,
+two secondary prevention trials testing the approach of total fat
+reduction did not find a significant reduction in serum choles-
+terol or CHD events [71,72]. The low-fat intervention group in
+the Diet and Reinfarction Trial (DART) [72] was unable to
+achieve the goal set for total fat, raising questions about the
+compliance of the patients to a low-fat diet.
+
+In the 1990s, two secondary prevention trials using the
+whole diet approach instead of modification of the amount of
+dietary fat reported favorable results. The Lyon Diet Heart
+Study tested the effects of a “Mediterranean” diet enriched with
+alpha-linolenic acid compared to a standard low fat diet [73].
+The intervention diet included more bread, more fruits and
+vegetables, more fish and poultry and less red meat and butter.
+After a mean follow-up of 27 months, coronary events were
+reduced by 73% in the treatment group and total mortality was
+reduced by 70%. The benefit of the intervention diet was
+maintained up to four years after the first infarction [74].
+Interestingly, blood lipids were not affected by the intervention,
+but blood levels of n-3 fatty acids, especially alpha-linolenic
+acid and anti-oxidant vitamins increased significantly in the
+treatment group.
+
+The Indian Heart Study [75] tested a semi-vegetarian diet
+enriched with fruits, vegetables, whole grains and nuts among
+patients during hospitalization with acute myocardial infarc-
+tion. After 12 weeks of treatment, coronary events were re-
+duced by 36%, and at the end of trial (one year), coronary death
+was reduced by 41% and nonfatal MI by 38%. In the meantime,
+
+10
+
+VOL. 20, NO. 1
+
+serum cholesterol decreased by 8%, systolic blood pressure
+decreased by 8 mmHg, diastolic decreased by 6 mmHg and
+body weight decreased by 4 kg.
+
+In both trials, total fat intake did not appreciably change. The
+success of these trials indicates that the right types of fatty acids
+and other components of diet are more important than total amount
+of fat in reducing coronary risk. These trials also support the
+clinical utility of the overall dietary pattern approach in the pre-
+vention of CHD. However, in these trials, it is not possible to
+determine which of the nutritional changes were responsible for
+the observed reduction in CHD. Also, both trials were conducted
+in myocardial infarction patients, and these diets have not yet been
+tested in the primary prevention of CHD.
+
+Angiographic Trials
+
+Several angiographic trials have examined the effects of
+dietary intervention on progression of coronary atherosclerosis.
+In an uncontrolled trial (The Leiden Intervention Trial), Arnt-
+zenius and coworkers [76] tested a vegetarian diet with a high
+ratio of polyunsaturated fat to saturated fat (P:S 5 2) among 39
+patients with stable angina pectoris. There was a significant
+retardation in coronary lesion growth after two years, which
+was primarily attributed to improved lipid profile. During the
+intervention, participants’ linoleic acid content of cholesteryl
+esters significantly increased. The St. Thomas Atherosclerosis
+Regression Study (STARS) [77] tested the effects of a dietary
+intervention with a moderate amount of total fat (27% energy)
+but relatively high polyunsaturated fat (8% energy). The dietary
+intervention alone significantly reduced overall progression of
+coronary narrowing and increased overall regression of coro-
+nary artery disease. Adding a cholesterol-lowering medication,
+cholestyramine, to the dietary intervention further reduced the
+progression of coronary atherosclerosis.
+
+The combined effects of diet and lifestyle modification on
+the progression of atherosclerosis have been investigated in
+several studies. In the Lifestyle Heart Study, Ornish and col-
+leagues [78] assigned 28 MI patients to an intervention group
+with low-fat, strict vegetarian diet, exercise, stress management
+and yoga and 20 patients to a usual care group. After one year,
+blood cholesterol was lowered by 19% and the average percent
+diameter stenosis was reduced by 5.6% in the intervention
+group, as compared with the control group. At year five [79],
+coronary atherosclerosis continued to regress in the experimen-
+tal group, but to progress in the control group, and significantly
+more “cardiac events” (MI, percutaneous transluminal coronary
+angioplasty, coronary artery bypass graft, cardiac hospitaliza-
+tion, deaths) occurred in the control group. The number of
+“hard endpoints” (MI and deaths), however, was too small to
+allow for meaningful analyses. Interestingly, in the control
+group coronary stenosis worsened (28% relative worsening)
+despite substantial reduction in fat intake (from 31% of energy
+to 25% of energy) and LDL cholesterol (19% reduction). Thus,
+it is not clear whether the low-fat dietary component contrib-
+uted to the regression of coronary atherosclerosis over and
+
+Dietary Fat and Risk of Coronary Heart Disease
+
+beyond exercise and other programs in the intervention. Indeed,
+in an angiographic trial conducted in Germany, increased ex-
+ercise was the most important variable that predicted the re-
+duction in coronary stenosis [80]. The low-fat regimen in the
+Lifestyle Heart Study has been criticized as being extreme and
+unnecessarily rigid. Even fatty fish and nuts, which have been
+documented to protect against CHD, are excluded. Poor adher-
+ence to such diet is another major concern in the application of
+such diet to the public.
+
+Two other multifactorial intervention trials have yielded
+favorable results on progression of atherosclerosis among pa-
+tients with existing coronary disease [80,81]. Both trials in-
+volved a low saturated fat and relatively high polyunsaturated
+diet (P:S ratio .1) and intensive physical exercise. In the trial
+conducted in Germany [80], the treatment also comprised in-
+tensive physical exercise in group training sessions (minimum,
+2 hr/wk) and daily home exercise periods (20 min/day). After
+12 months, 32% patients in the intervention group experienced
+regression of coronary lesions as compared with 17% in the
+control group. In contrast, 48% patients in the control group
+experienced progression of coronary lesions as compared with
+23% in the treatment group. Besides dietary intervention, the
+Stanford Coronary Risk Intervention Project (SCRIP) [81] in-
+volved exercise, smoking cessation, weight loss and cholester-
+ol-lowering medications. After four years, the rate of narrowing
+of diseased coronary artery segments in the intervention group
+was 47% less than that for subjects in the control group. The
+success of these secondary prevention trials using angiographic
+endpoints is in direct contrast to the disappointing results from
+several primary prevention trials of multifactorial approach
+[82,83]. However, because multiple dietary, lifestyle and even
+medication changes were made simultaneously in these trials,
+the interpretation of any observed difference in outcome is
+complicated. In addition, whether coronary stenosis detected by
+angiography is a valuable endpoint is not yet settled [84].
+
+In summary, dietary intervention trials in general support the
+benefit of replacing saturated fat with polyunsaturated fat. Evi-
+dence regarding the replacement of total or saturated fat by car-
+bohydrate is more limited, but is generally unsupportive of benefit.
+These results are consistent with prospective cohort studies and
+metabolic studies indicating the importance of types of fat. Al-
+though the ideal randomized trial of dietary fat and primary
+prevention of CHD in free-living populations has not been and
+may never be conducted due to feasibility concerns, the existing
+evidence powerfully supports the strategy of replacing saturated
+and trans fats with unhydrogenated unsaturated fats.
+
+FISH AND MARINE N-3 FATTY
+ACIDS
+
+A low rate of cardiovascular disease in populations with
+very high intake of fish, such as Alaskan Native Americans
+[85,86], Greenland Eskimos [87,88] and Japanese living fishing
+
+JOURNAL OF THE AMERICAN COLLEGE OF NUTRITION
+
+11
+
+Dietary Fat and Risk of Coronary Heart Disease
+
+villages [89,90], suggests that fish oil may be protective against
+atherosclerosis. Subsequent prospective cohort studies have
+found an inverse association between fish consumption and risk
+of cardiovascular mortality in diverse populations. Krombout et
+al. [91] demonstrated in the Dutch component of the Seven
+Countries Study, with 20 years of follow-up, that men who
+consumed 30g of fish per day had a 50% lower CHD mortality
+than men who rarely ate fish. In the Western Electric Study,
+Daviglus et al. [92] have found that men who consumed 35g or
+more of fish per day had a 40% lower risk of fatal CHD. In the
+US Physicians’ Health Study, Albert et al. [93] found that
+weekly fish consumption led to a RR of 0.48 (95% CI 0.24 –
+0.96) for sudden cardiac death, although in the same cohort, no
+significant association was observed between fish consumption
+and overall cardiovascular endpoints [94]. In the Health Pro-
+fessionals’ Follow-up Study, Ascherio et al. [95] found no
+overall association between dietary intake of n-3 fatty acids or
+fish intake and the risk of coronary disease, but there was a
+non-significant trend for a reduction in risk for fatal CHD with
+increasing fish consumption. These studies suggest that fish is
+probably more protective against fatal CHD than nonfatal myo-
+cardial infarction.
+
+Two interventional studies, the Diet and Reinfarction Trial
+(DART) [96] and the GISSI-Prevenzione trial [97], have eval-
+uated whether fish consumption or fish oil supplementation
+reduces coronary mortality among MI patients. The diet and
+reinfarction trial (DART), which included 2033 men allocated
+to three dietary interventions, showed that subjects who re-
+ceived fish advice had a significant reduction in total mortality
+of 29% after two years. While not statistically significant, there
+was also a trend toward a reduction in recurrent ischemic heart
+disease events with increased fatty fish consumption. The more
+recent GISSI-Prevenzione trial randomly assigned 11,324 myo-
+cardial infarction patients to four different groups: n-3 fatty
+acids (850 – 882 mg EPA (eicosapentaenoic acid) and DHA
+(docosahexaenoic acid) (1:2)), vitamin E (330 mg alpha-toco-
+pherol), a combination of n-3 and vitamin E and control. Daily
+supplementation with n-3 fatty acids resulted in a 10% to 15%
+reduction in the main endpoints (death, non-fatal MI and
+stroke). Most of the reduction was attributable to the decrease
+in cardiovascular death, especially sudden cardiac death. These
+two trials provide support for a therapeutic role of fish oil in the
+treatment of MI patients.
+
+The protective effects of marine n-3 fatty acids are probably
+due to multiple mechanisms, including reducing triglyceride
+levels [98], reducing platelet aggregation [99] and anti-arrhyth-
+mic effects [100]. There is growing evidence to suggest that
+fish oil may improve endothelial dysfunction, an early marker
+of atherosclerosis [101,102]. In vitro studies have consistently
+shown that n-3 fatty acids decrease expression of adhesion
+molecules on the endothelium and also decrease leukocyte/
+endothelium interactions [101]. Additionally, clinical experi-
+mental studies have shown that n-3 fatty acid supplementation
+improves endothelial-dependent vasomotor function [102,103].
+
+ALPHA-LINOLENIC ACID (ALA)
+
+ALA is an essential n-3 fatty acid for humans [104,105];
+adequate intake of ALA and long-chain n-3 fatty acids is
+especially important for infants, young children [106] and
+patients requiring parenteral and enteral nutrition [106 –108]. In
+animals and humans, ALA can be metabolized to long-chain
+polyunsaturated n-3 fatty acids,
+including eicosapentaenoic
+(EPA) and docosahexaenoic (DHA) acids through the desatu-
+ration-chain elongation pathway [109]. Increased dietary con-
+sumption of ALA may decrease platelet aggregation and reduce
+formation of pro-aggregatory thromboxane A2 by inhibiting the
+conversion of linoleic acid (18:2, n-6) to arachidonic acid
+(20:4, n-6) [110]. In a dietary intervention study of French
+farmers, Renaud and colleagues [111] changed the type of fats
+by replacing butter by oil and margarine rich in ALA (rapeseed
+oil). After two years, the EPA content of plasma lipids and
+platelet phospolipids increased significantly and platelet aggre-
+gation was significantly diminished.
+
+Experimental studies have suggested an antiarrhythmic ef-
+fect of ALA. In cell culture studies, the addition of ALA slows
+the beating rate of isolated neonatal rat cardiac myocytes [112].
+In animal experiments in which arrhythmias were induced by
+coronary occlusion and reperfusion, significant reductions in
+the incidence of ventricular fibrillation and cardiac mortality
+were observed in rats fed with ALA-rich diets. In one of the
+experiments [113], similar significant reductions in cardiac
+arrhythmia were observed in animals fed red meat supple-
+mented with fish oil and in those fed red meat supplemented
+with canola oil (8% ALA), when compared to the control group
+(fed only red meat). Interestingly, mortality was even lower in
+the canola oil group than in fish oil group (7% vs. 10%). In
+another experiment [114], mortality due to ventricular fibrilla-
+tion was significantly lower in rats fed a diet containing canola
+oil, compared to those fed olive oil. The antiarrhythmic effect
+of ALA may be attributable to an increased electrical threshold
+for induction of ventricular fibrillation [114]. In a secondary
+prevention trial conducted among patients with existing myo-
+cardial infarction (Lyon Diet Heart Trial) [73], no sudden death
+occurred in patients randomized to a Mediterranean diet en-
+riched with ALA, compared with eight deaths in the control
+group. This study supports an antiarrhythmic effect of ALA in
+humans although other dietary changes were made simulta-
+neously in this trial.
+
+Several epidemiologic studies have examined the associa-
+tion between ALA intake and risk of CHD. In the usual care
+group of the Multiple Risk Factor Intervention Trial [24], men
+in the highest quintile of ALA intake (expressed as percent of
+energy) had a 40% lower CHD mortality compared to men in
+the lowest quintile. In the Health Professionals Follow-up
+Study [13], a 1% increase in linolenic intake (expressed as
+percent of energy) was associated with a 40% lower risk of
+fatal CHD. In the Finnish Alpha-Tocopherol, Beta-Carotene
+Cancer Prevention Study [12], men in the highest quintile of
+
+12
+
+VOL. 20, NO. 1
+
+energy-adjusted ALA intake had 25% lower CHD mortality. In
+these three studies, however, the association between ALA
+intake and CHD was not the main focus, and none were
+adequately adjusted for other dietary factors, including intakes
+of other fats, dietary vitamins, folate and vegetables.
+
+Recently, Hu and colleagues examined the relation of ALA
+intake to incidence of fatal CHD during 10 years of follow-up
+in the Nurses’ Health Study [115]. After adjusting for coronary
+risk factors, the RRs of fatal CHD from the lowest to highest
+quintiles of ALA intake were 1.0, 0.89, 0.90, 0.66, and 0.52
+[95% CI 0.30 – 0.90], p for trend 5 0.01. The major contribu-
+tors of ALA in the Nurses’ Health Study were oil and vinegar
+(e.g., Italian salad dressing) and mayonnaise salad dressings;
+these products are typically made with soybean oil, which
+contains approximately 7% ALA if it is not hydrogenated. Hu
+et al. [115] found an approximately 50% lower risk of fatal
+CHD among women who consumed oil and vinegar salad
+dressing frequently (five to six times or more a week) com-
+pared to those who consumed this salad dressing less than once
+a month, after adjusting for vegetable consumption.
+
+Given the strong evidence to support beneficial effects of
+ALA on cardiovascular disease, flaxseed as well as other im-
+portant dietary sources of ALA (e.g., unhydrogenated canola
+and soybean oils and walnuts) (Table 3) can be incorporated
+into a healthy and balanced diet for the prevention of cardio-
+vascular disease [116]. This is especially important for those
+choosing not to consume fish. The above findings also raise
+concern that the widespread promotion of fat-free salad dress-
+ings and mayonnaise, a primary source of ALA in the U.S. diet,
+may have an adverse effect on CHD rates.
+
+Table 3. a-Linolenic Acid Content of Various Oils and
+Foods
+
+Product
+
+a-Linolenic acid
+
+% by wt
+
+Flaxseed oil
+Soy oil
+Canola oil
+Olive oil
+Chocolate
+Corn oil
+Coconut oil
+Safflower oil
+English walnuts, dry roasted
+Hazelnuts, dry roasted
+Almonds, dry roasted
+Peanuts, dry roasted
+Cashews, dry roasted
+Green leafy vegetables, raw edible portion
+
+Spinach
+Brussels sprouts
+Kale
+
+50.8
+7.0
+9.3
+0.6
+0.1
+1.0
+Trace
+0.4
+6.8
+0.2
+0.4
+Trace
+0.2
+
+0.12
+0.20
+0.13
+
+Reproduced from [116] with permission of the American Society for Clinical
+Nutrition.
+
+Dietary Fat and Risk of Coronary Heart Disease
+
+THE BALANCE BETWEEN N-3 AND
+N-6 POLYUNSATURATED FATTY
+ACIDS
+
+Due to the competition between ALA and linoleic acid for
+the desaturation and chain elongation pathway [117], ALA’s
+incorporation into plasma and tissue lipids and its conversion to
+long-chain n-3 fatty acids are influenced by linoleic acid levels.
+Thus, the optimal balance between dietary ALA and linoleic
+acid may be important to prevent thrombosis and atheroscle-
+rosis [114,118]. In the Nurses’ Health Study [115], the ratio of
+ALA to linoleic acid was less strongly related to risk of fatal CHD
+than was ALA alone. The multivariate RRs of fatal CHD across
+quintiles of the ratio (median values 0.07, 0.09, 0.10, 0.11, and
+0.14) were 1.0, 1.02, 0.84, 0.87, and 0.84 (0.53–1.33) [p for
+trend 5 0.40]. These results suggest a modest reduction in CHD
+risk with a ratio of ALA to linoleic acid greater than 0.10.
+
+Because ALA and its metabolite, EPA, can decrease gen-
+eration of thromboxane A2, a pro-aggregatory vasoconstrictor,
+through their inhibitory action on the conversion from linoleic
+acid to arachidonic acid and the activity of enzyme cyclooxy-
+genase [112,119 –121], it is expected that a greater ratio of
+ALA to linoleic acid will lower risk of CHD, through decreas-
+ing thrombotic tendency. However, the prostanoid pathway is
+only one mechanism through which dietary fatty acids influ-
+ence the development of CHD. The primary mechanism by
+which n-6 polyunsaturated fat lowers risk of CHD is through
+lowering LDL cholesterol, although n-6 fatty acids may also
+have other beneficial effects, such as improving insulin sensi-
+tivity [28] and lowering the threshold for ventricular fibrillation
+[121]. Because both n-6 and n-3 fatty acids are associated with
+a lower risk of CHD, although through different biological
+pathways, the ratio is only weakly related to CHD risk. Nev-
+ertheless, it is generally agreed that the ratio of n-3 to n-6 fatty
+acids in the U.S. diet is less than optimal and should be
+improved. The point of controversy lies in how to improve the
+ratio. Although most researchers have proposed to increase the
+consumption of n-3 fatty acids from both fish and plant sources,
+others have suggested a reduction in consumption of n-6 fatty
+acids [122]. Considering the strong protective effect of n-6
+polyunsaturated fat against CHD observed in epidemiologic
+studies and clinical trials, the latter strategy does not seem
+justifiable. On the contrary, available data strongly support the
+strategy of replacing animal and hydrogenated fats with natural
+liquid vegetables oils, which contain both monounsaturated and
+polyunsaturated fats, in reducing risk of CHD. Such replace-
+ment can also increase the intake of n-3 fatty acids because
+several vegetable oils including canola and soybean oils con-
+tain a substantial amount of ALA. Meanwhile, an increase in
+fish consumption to at least two servings per week has been
+recommended for the prevention of CHD [123]. These strate-
+gies will substantially increase the absolute amount of n-3 fatty
+acids in the diet and help to achieve a more desirable ratio of
+
+JOURNAL OF THE AMERICAN COLLEGE OF NUTRITION
+
+13
+
+Dietary Fat and Risk of Coronary Heart Disease
+
+n-3 to n-6 fatty acids, without sacrificing the benefit of n-6
+polyunsaturated fat.
+
+DIETARY CHOLESTERAL AND EGGS
+
+Dietary cholesterol raises LDL cholesterol levels and very
+high intakes cause atherosclerosis in numerous animal models
+[124]. In controlled metabolic studies conducted in humans,
+dietary cholesterol raises levels of total and LDL cholesterol in
+blood [25,125], but the effects are relatively small compared
+with saturated and trans fatty acids [126,127], and individuals
+vary widely in their responses [128,129]. A significant positive
+association between dietary cholesterol and CHD was found in
+some
+in others
+[12,13,32,33]. In a pooled analysis of four studies [5–7,11], the
+relative risk of CHD was 1.30 (1.10 –1.50) for a difference of
+200 mg/1000 kcal in dietary cholesterol [124]. But this analysis
+included only those studies with positive findings. The Nurses’
+Health Study found a weak and nonsignificant positive associ-
+ation between dietary cholesterol and risk of CHD (relative risk
+for each increase of 200 mg/1000 kcal 5 1.12, 95% confidence
+interval 0.91–1.40) [130].
+
+[5,11], but not
+
+epidemiologic
+
+studies
+
+To avoid elevations in blood cholesterol and reduce CHD
+risk, the public has been advised to consume no more than 300
+mg cholesterol daily and limit consumption of eggs, which
+contain about 213 mg cholesterol per egg [131,132]. In con-
+trolled metabolic studies, ingestion of cholesterol by feeding
+egg yolks or whole eggs raises blood total and LDL cholesterol
+levels [126 –128,133]. In most egg feeding studies, intakes of
+other nutrients such as fatty acids, carbohydrates and protein
+were balanced between egg and no-egg groups so that only
+dietary cholesterol varied. Therefore, these studies did not
+really examine the impact of ingestion of eggs per se on blood
+lipids.
+
+Surprisingly, there is little direct evidence linking higher
+egg consumption and increased risk of CHD. In the Framing-
+ham study, Dawber and colleagues [134] found no significant
+association between egg consumption and incidence of CHD
+despite a wide range of egg intake. In an earlier analysis of the
+Seventh-Day Adventists study [135], higher egg consumption
+appeared to be associated with increased risk of fatal CHD, but
+this association was not present in a more recent analysis with
+a longer follow-up [136]. In a case-control study conducted in
+Italy [137], the frequency of egg consumption was not signif-
+icantly associated with risk of CHD in women. In a detailed
+analysis of egg consumption and incidence of CHD among
+117,933 apparently healthy subjects in the Nurses’ Health
+Study and Health Professionals’ Follow-up Study, Hu and
+colleagues [138] found no evidence of an overall positive
+association between egg consumption and risk of CHD in either
+men or women. The relative risks (RRs) of CHD across cate-
+gories of intake (,1/week, 1/wk, 2– 4/week, 5– 6/week, .51/
+day) were 1.0, 1.06, 1.12, 0.90, and 1.08 (p for trend 5 0.75)
+
+in men and 1.0, 0.82, 0.99, 0.95, and 0.82 (p for trend 5 0.95)
+in women.
+
+The null association between egg consumption and risk of
+CHD observed in these studies may be somewhat surprising,
+considering the widespread belief that eggs are a major cause of
+heart disease. One egg contains about 200 mg cholesterol, but
+also appreciable amounts of protein, unsaturated fats, folate, B
+vitamins and minerals. It is conceivable that the small adverse
+effect caused by cholesterol is counterbalanced by potential
+beneficial effects of other nutrients.
+
+One potential alternative explanation for the null finding is
+that background dietary cholesterol may be so high in the usual
+Western diet that adding somewhat more has little further effect
+on blood cholesterol. In a randomized trial, Sacks et al. [139]
+found that adding one egg per day to the usual diet of 17
+lactovegetarians whose habitual cholesterol intake was very
+low (97 mg/day) significantly increased LDL cholesterol level
+by 12%. In a meta-analysis of controlled metabolic studies,
+Hopkins [140] found that serum cholesterol’s response to
+added dietary cholesterol is modulated by baseline cholesterol
+intake. The higher the baseline cholesterol intake, the less the
+response induced by adding cholesterol to the diet. In the
+analyses conducted by Hu et al. [138], differences in non-egg
+cholesterol intake did not appear to be an explanation for the
+null association between egg consumption and risk of CHD.
+However, the possibility that egg consumption may modestly
+increase the risk among participants with very low background
+cholesterol intake cannot be excluded.
+
+These findings do not suggest that one should go back to the
+traditional high cholesterol Western diet. Instead, they suggest
+that among healthy men and women, moderate egg consump-
+tion can be part of a nutritious and balanced diet. Because eggs
+are excellent and relatively inexpensive sources of essential
+amino acids and certain vitamins, they can substitute for other
+animal products such as red meat. These results also illustrate
+the danger of judging health effects of a food by single nutri-
+ents or components contained in the food.
+
+CONCLUSIONS
+
+Compelling evidence indicates the greater importance of
+types of fat than total amount of fat with respect to risk of CHD,
+although the optimal mixture of different fatty acids remains
+unsettled. The seminal metabolic studies conducted by Keys
+[25] and Hegested [26] have long established that the type of
+fat but not total amount of fat predicts serum cholesterol levels.
+Consistent with the metabolic studies, epidemiologic studies
+strongly support the idea that types of fat are more important
+than total amount of fat in determining the risk of CHD.
+Controlled clinical trials have also shown that replacing satu-
+rated fat with polyunsaturated fat is more effective in lowering
+serum cholesterol and reducing risk of CHD than simply re-
+ducing total fat consumption. Moreover, secondary prevention
+
+14
+
+VOL. 20, NO. 1
+
+trials have demonstrated that adding n-3 fatty acids from fish or
+plant sources to the diet without altering total amount of fat
+substantially reduces coronary and total mortality among
+post-MI patients.
+
+A major purported benefit of a low-fat diet is weight loss.
+But long-term clinical trials have not provided convincing
+evidence that reducing dietary fat can lead to substantial weight
+loss [141]. On the contrary, there is some evidence that a diet
+containing a high amount of refined carbohydrates may in-
+crease hunger and promote overeating, which can lead to
+weight gain and obesity [142]. It is now generally agreed that
+total energy intake, whether from fat or carbohydrate, relative
+to energy expenditure, is a more important determinant of body
+weight than dietary fat per se.
+
+It has been increasingly recognized that the widely pro-
+moted low-fat concept is too simplistic and not compatible with
+available scientific data. In this context, the recently revised
+national dietary guidelines [123,143] have de-emphasized the
+role of total fat in the prevention of CHD and other chronic
+diseases. In particular, the 2000 Dietary Guidelines for Amer-
+icans recommend the public to “choose a diet that is low in
+saturated fat and cholesterol and moderate in total fat”, which
+is modified from the recommendation to “choose a diet low in
+fat, saturated fat and cholesterol” stated in the 1995 edition of
+the guidelines. But the revised guidelines have inherited the
+recommendation of no more than 30% of calories from fat from
+previous editions of the guidelines. Also, in the food guide
+pyramid, all fats and oils are still lumped together on the top
+with no distinguishing of different types of fat. The revised
+2000 American Heart Association (AHA) dietary guidelines
+have gone a step further to eliminate the upper limit of 30% of
+calories from fat as a major dietary recommendation to prevent
+cardiovascular disease. Moreover, the AHA major guidelines
+recommend the public to substitute unsaturated fatty acids from
+vegetable oils, fish, nuts and legumes for saturated and trans
+fatty acids. These guidelines, if followed, can have substantial
+potential in further reducing rates of CHD in the U.S. However,
+due to the campaign against total fat over the years, the belief
+that “fat is bad” has been strong and widespread. Thus, great
+educational efforts are needed to communicate nutritional mes-
+sages about the health effects of different types of fat to the
+public and to translate current dietary recommendations into
+dietary practice as well.
+
+REFERENCES
+
+1. Mokdad AH, Serdula MK, Dietz WH, Bowman BA, Marks JS,
+Koplan JP: The spread of the obesity epidemic in the United
+States, 1991–1998. JAMA 282:1519–1522, 1999.
+
+2. Mokdad AH, Ford ES, Bowman BA, Nelson DE, Engelgau MM,
+Vinicor F, Marks JS: Diabetes trends in the U.S.: 1990–1998.
+Diabetes Care 23:1278–1283, 2000.
+
+3. Keys A: “Seven Countries: A Multivariate Analysis of Death and
+
+Dietary Fat and Risk of Coronary Heart Disease
+
+Coronary Heart Disease.” Cambridge, MA: Harvard University
+Press, 1980.
+
+4. Kromhout D, Menotti A, Bloemberg B, Aravanis C, Blackburn H,
+Buzina R, Dontas AS, Fidanza F, Giampaoli S, Jansen A, et al.:
+Dietary saturated and trans fatty acids and cholesterol and 25-year
+mortality from coronary heart disease: the Seven Countries Study.
+Prev Med 24:308–315, 1995.
+
+5. McGee DL, Reed DM, Yano K, Kagan A, Tillotson J: Ten-year
+incidence of coronary heart disease in the Honolulu Heart Pro-
+gram: Relationship to nutrient intake. Am J Epidemiol 119:667–
+676, 1984.
+
+6. Kushi LH, Lew RA, Stare FJ, Ellison CR, el Lozy M, Bourke G,
+Daly L, Graham I, Hickey N, Mulcahy R, J K: Diet and 20-year
+mortality from coronary heart disease: The Ireland-Boston Diet-
+Heart study. N Engl J Med 312:811–818, 1985.
+
+7. Kromhout D, De Lezenne Coulander C: Diet, prevalence and
+10-year mortality from coronary heart disease in 871 middle-aged
+men: the Zutphen Study. Am J Epidemiol 119:733–741, 1984.
+
+8. Garcia-Palmieri MR, Sorlie P, Tillotson J, Costas Jr R, Cordero
+E, Rodriguez M: Relationship of dietary intake to subsequent
+coronary heart disease incidence: The Puerto Rico Heart Health
+Program. Am J Clin Nutr 33:1818–1827, 1980.
+
+9. Gordon T, Kagan A, Garcia-Palmieri M, Kannel WB, Zukel WJ,
+Tillotson J, Sorlie P, Hjortland M: Diet and its relation to coro-
+nary heart disease and death in three populations. Circulation
+63:500–515, 1981.
+
+10. Morris JN, Marr JW, Clayton DG: Diet and Heart: a postscript.
+
+BMJ 2:1307–1314, 1977.
+
+11. Shekelle RB, Shryock AM, Paul O, Lepper M, Stamler J, Liu S,
+Raynor Jr WJ: Diet, serum cholesterol, and death from coronary
+heart disease: The Western Electric Study. N Engl J Med 304:
+65–70, 1981.
+
+12. Pietinen P, Ascherio A, Korhonen P, Hartman AM, Willett WC,
+Albanes D, Virtamo J: Intake of fatty acids and risk of coronary
+heart disease in a cohort of Finnish men: The Alpha-Tocopherol,
+Beta-Carotene Cancer Prevention Study. Am J Epidemiol 145:
+876–887, 1997.
+
+13. Ascherio A, Rimm EB, Giovannucci EL, Spiegelman D,
+Stampfer MJ, Willett WC: Dietary fat and risk of coronary heart
+disease in men: cohort follow up study in the United States. BMJ
+313:84–90, 1996.
+
+14. Hu FB, Stampfer MJ, Manson JE, Rimm E, Colditz GA, Rosner
+BA, Hennekens CH, Willett WC: Dietary fat intake and risk of
+coronary heart disease in women. N Engl J Med 337:1491–1499,
+1997.
+
+15. Kris-Etherton P, Yu S: Individual fatty acids on plasma lipids and
+lipoproteins: human studies. Am J Clin Nutr 65(Suppl):1628S–
+1644S, 1997.
+
+16. Temme E, Mensink RP, Hornstra G: Comparison of the effects of
+diets enriched in lauric, palmitic, or oleic acids on serum lipids
+and lipoproteins in healthy women and men. Am J Clin Nutr
+63:897–903, 1996.
+
+17. Hu FB, Stampfer MJ, Manson JE, Ascherio A, Colditz GA,
+Speizer FE, Hennekens CH, Willett WC: Dietary saturated fat and
+their food sources in relation to the risk of coronary heart disease
+in women. Am J Clin Nutr 70:1001–1008, 1999.
+
+18. Yu S, Derr J, Etherton TD, Kris-Etherton P: Plasma cholesterol-
+predictive equations demonstrate that stearic acid is neutral and
+
+JOURNAL OF THE AMERICAN COLLEGE OF NUTRITION
+
+15
+
+Dietary Fat and Risk of Coronary Heart Disease
+
+monounsaturated fatty acids are hypocholesterolemic. Am J Clin
+Nutr 61:1129–1139, 1995.
+
+19. Aro A, Jauhiainen M, Partanen R, Salminen I, Mutanen M:
+Stearic acid, trans fatty acids, and dairy fat: effects on serum and
+lipoprotein lipids, apolipoproteins, lipoprotein(a), and lipid trans-
+fer proteins in healthy subjects. Am J Clin Nutr 65:1491–1426,
+1997.
+
+20. Mitropoulos KA, Miller GJ, Martin JC, Reeves BEA, Cooper J:
+Dietary fat
+induces changes in factor VII coagulant activity
+through effects on plasma free stearic acid concentration. Arte-
+rioscler Thromb 14:214–222, 1994.
+
+21. Furguson J, Mackay N, McNicol G: Effect of feeding fat on
+fibrinolysis, Stypven time, and platelet aggregation in Africans,
+Asians, and Europeans. J Clin Pathol 23:580–585, 1970.
+
+22. Grundy SM, Bilheimer D, Blackburn H, Brown WV, Kwiterovich
+POJ, Mattson F, Schonfeld G, Weidman WH: Rationale of the
+diet-heart statement of the American Heart Association. Report of
+Nutrition Committee. Circulation 65:839A–854A, 1982.
+
+23. Sacks F: Dietary fats and coronary heart disease. Overview.
+
+J Cardiovasc Risk 1:3–8, 1994.
+
+24. Dolecek TA: Epidemiological evidence of relationships between
+dietary polyunsaturated fatty acids and mortality in the multiple
+risk factor intervention trial. Proc Soc Exp Biol Med 200:177–
+182, 1992.
+
+25. Keys A, Parlin RW: Serum-cholesterol response to changes in
+
+dietary lipids. Am J Clin Nutr 19:175–181, 1966.
+
+26. Hegsted DM, McGandy RB, Myers ML, Stare FJ: Quantitative
+effects of dietary fat on serum cholesterol in man. Am J Clin Nutr
+17:281–295, 1965.
+
+27. Lovejoy J, DiGirolamo M: Habitual dietary intake and insulin
+sensitivity in lean and obese adults. Am J Clin Nutr 55:1174–
+1179, 1992.
+
+28. Lovejoy JC: Dietary fatty acids and insulin resistance. Curr
+
+Atheroscler Rep 1:215–220, 1999.
+
+29. Hu F, Salmeron J, Manson J, Stampfer M, Colditz G, Rimm E,
+Willett W: Dietary fat and risk of type 2 diabetes in women
+[Abstract]. Am J Epidemiol 149:S1, 1999.
+
+30. Abeywardena MY, McLennan PL, Charnock JS: Differential
+effects of dietary fish oil on myocardial prostaglandin I2 and
+thromboxane A2 production. Am J Physiol 260:H379–385, 1991.
+31. Jacobs D, Blackburn G, Higgins M, Reed D, Iso H, McMillan G,
+Neaton J, Nelson J, Potter J, Rifkind B, Rossouw J, Shekeller R,
+Usuf S: Report of the Conference on Low Blood Cholesterol:
+Mortality Associations. Circulation 86:1046–1060, 1992.
+
+32. Posner BM, Cobb JL, Belanger AJ, Cupples A, D’Agostino RB,
+Stokes III J: Dietary lipid predictors of coronary heart disease in
+men. Arch Intern Med 151:1181–1187, 1991.
+
+33. Esrey KL, Joseph L, Grover SA: Relationship between dietary
+intake and coronary heart disease mortality: Lipid research clinics
+prevalence follow-up study. J Clin Epidemiol 49:211–216, 1996.
+34. Mensink RP, Katan MB: Effect of dietary fatty acids on serum
+lipids and lipoproteins: a meta-analysis of 27 trials. Arterioscler
+and Thromb 12:911–919, 1992.
+
+35. Garg A, Grundy SM, Koffler M: Effect of high carbohydrate
+intake on hyperglycemia, islet cell function, and plasma lipopro-
+teins in NIDDM. Diabetes Care 15:1572–1580, 1992.
+
+Steinberg D: Low density lipoprotein rich in oleic acid is pro-
+tected against oxidative modification: Implications for dietary
+prevention of atherosclerosis. Proc Natl Acad Sci USA 87:3894–
+3898, 1990.
+
+37. Aro A, Kardinaal AFM, Salminen I, Kark JD, Riemersma RA,
+Delgado-Rodriguez M, Gomez-Aracena J, Huttunen JK,
+Kohlmeier L, Martin BC, Martin-Moreno JM, Mazaev VP, Ring-
+stad J, Thamm M, van’t Veer P, Kok FJ: Adipose tissue isomeric
+trans fatty acids and risk of myocardial infarction in nine coun-
+tries: the EURAMIC study. Lancet 345:273–278, 1995.
+
+38. Roberts TL, Wood DA, Riemersma RA, Gallagher PJ, Lampe
+FC: Trans isomers of oleic and linoleic acids in adipose tissue and
+sudden cardiac death. Lancet 345:278–282, 1995.
+
+39. Judd JT, Clevidence BA, Muesing RA, Wittes J, Sunkin ME,
+Podczasy JJ: Dietary trans fatty acids: effects of plasma lipids and
+lipoproteins of healthy men and women. Am J Clin Nutr 59:861–
+868, 1994.
+
+40. Lichtenstein AH, Ausman LM, Carrasco W, Jenner JL, Ordovas
+JM, Schaefer EJ: Hydrogenation impairs the hypolipidemic effect
+of corn oil in humans. Aterioscler Thromb 13:154–161, 1993.
+
+41. Mensink RPM, Katan MB: Effect of dietary trans fatty acids on
+high-density and low-density lipoprotein cholesterol levels in
+healthy subjects. N Engl J Med 323:439–45, 1990.
+
+42. Zock PL, Katan MB: Hydrogenation alternatives: effects of trans
+fatty acids and stearic acid versus linoleic acid on serum lipids
+and lipoproteins in humans. J Lipid Res 33:399–410, 1992.
+
+43. Willett WC, Ascherio A: Trans fatty acids: Are the effects only
+
+marginal? Am J Public Health 84:722–724, 1994.
+
+44. Nestel P, Noakes M, Belling Bea: Plasma lipoprotein and Lp[a]
+changes with substitution of elaidic acid for oleic acid in the diet.
+J Lipid Res 33:1029–1036, 1992.
+
+45. Sundram K, Ismail A, Hays KC, Jeyamalar R, Pathmanathan R:
+Trans (Elaidic) fatty acids adversely affect the lipoprotein profile
+relative to specific saturated fatty acids in humans. J Nutr 127:
+514S–520S, 1997.
+
+46. Utermann G: The mysteries of lipoprotein (a). Science 246:904–
+
+910, 1989.
+
+47. Katan MB, Zock PL: Trans fatty acids and their effects on
+
+lipoproteins in humans. Annu Rev Nutr 15:473–493, 1995.
+
+48. Hokanson JE, Austin MA: Plasma triglyceride level is a risk
+factor for cardiovascular disease independent of high-density
+lipoprotein cholesterol level: a meta-analysis of population-based
+prospective studies. J Cardiovasc Risk 3:213–219, 1996.
+
+49. Stampfer MJ, Krauss RM, Ma J, Blance PJ, Holl LG, Sacks FM,
+Hennekens CH: A prospective study of triglyceride level, low-
+density lipoprotein particle diameter, and risk of myocardial
+infarction. JAMA 276:882–888, 1996.
+
+50. Hill EG, Johnson SB, Lawson LD, Mahfouz MM, Holman RT:
+Perturbation of the metabolism of essential fatty acids by dietary
+partially hydrogenated vegetable oil. Proc Natl Acad Sci 79:953–
+957, 1982.
+
+51. Kinsella JE, Bruckner G, Mai J, Shimp J: Metabolism of trans
+fatty acids with emphasis on the effects of trans,
+trans-
+octadecadienoate on lipid composition, essential fatty acid, and
+prostaglandins: an overview. Am J Clin Nutr 34:2307–2318,
+1981.
+
+52. Jones D: Trans fatty acids and dieting [Letter]. Lancet 341:1093,
+
+36. Parthasarathy S, Khoo JC, Miller E, Barnett J, Witztum JL,
+
+1993.
+
+16
+
+VOL. 20, NO. 1
+
+53. Ascherio A, Katan MB, Zock PL, Stampfer MJ, Willett WC:
+Trans fatty acids and coronary heart disease. N Engl J Med
+340:1994–1998, 1999.
+
+54. Katan MB: Trans fatty acids and plasma lipoproteins. Nutr Rev
+
+58:188–191, 2000.
+
+55. Hu FB, Stampfer MJ: Nut consumption and risk of coronary heart
+disease: A review of epidemiologic evidence. Curr Atheroscl Rep
+1:204–209, 1999.
+
+56. Hu FB, Stampfer MJ, Manson JE, Rimm GA, Colditz GA, Rosner
+B, Speizer FE, Hennekens CH, Willett WC: Frequent nut con-
+sumption and risk of coronary heart disease: prospective cohort
+study. BMJ 317:1341–1345, 1998.
+
+57. Fraser GE, Sabate J, Beeson WL, Strahan TM: A possible pro-
+tective effect of nut consumption on risk of coronary heart dis-
+ease. The Adventist Health Study. Arch Intern Med 152:1416–
+1424, 1992.
+
+58. Sabate J: Does nut consumption protest against ischemic heart
+
+disease. Eur J Clin Nutr 47:S71–S75, 1993.
+
+59. Abbey M, Noakes M, Belling GB, Nestel P: Partial replacement
+of saturated fatty acids with almonds or walnuts lowers total
+plasma cholesterol and low-density-lipoprotein cholesterol. Am J
+Clin Nutr 59:995–999, 1994.
+
+60. Spiller GA, Jenkins D, Gragen LN, Gates JE, Bosello O, Berra K,
+Rudd C, Stevenson M, Superko R: Effect of a diet high in
+monounsaturated fat from almonds on plasma cholesterol and
+lipoproteins. J Am Coll Nutr 11:126–130, 1992.
+
+61. O’byrne DJ, Knauft DA, Shireman RB: Low fat-monounsaturated
+rich diets containing high-oleic peanuts improve serum lipopro-
+tein profiles. Lipids 32:687–695, 1997.
+
+62. Willett WC: “Nutritional Epidemiology,” 2nd ed. New York, NY:
+
+Oxford University Press, 1998.
+
+63. Oliver MF: It is more important to increase the intake of unsat-
+urated fats than to decrease the intake of saturated fats: evidence
+from clinical trials relating to ischemic heart disease. Am J Clin
+Nutr 66:980S–986S, 1997.
+
+64. Sacks FM: Dietary factors. In Hennekens CH (ed): “Clinical
+Trials in Cardiovascular Disease: A Companion to Braunwald’s
+Heart Disease.” Philadelphia: W.B. Saunders, pp 423–431, 1999.
+65. Dayton S, Pearce ML, Hashimoto S, Dixon WJ, Tomiyasu U: A
+controlled clinical trial of a diet high in unsaturated fat in pre-
+venting complications of atherosclerosis. Circulation 40:(Suppl
+II):1–63, 1969.
+
+66. Turpeinen O, Karvonen MJ, Pekkarinen M, Miettinen M, Elosuo
+R, Paavilainen E: Dietary prevention of coronary heart disease:
+The Finnish Mental Hospital Study. Int J Epidemiol 8:99–118,
+1979.
+
+67. Frantz Jr ID, Dawson EA, Ashman PL, Gatewood LC, Bartsch
+GE, Kuba K, Brewer ER: Test of effect of lipid lowering by diet
+on cardiovascular risk. The Minnesota Coronary Survey. Arterio-
+sclerosis 9:129–135, 1989.
+
+68. Leren P: The Oslo Diet-Heart Study. Acta Med Scand
+
+466(Suppl):5–92, 1966.
+
+69. Leren P: The Oslo Diet-Heart Study. Eleven-year report. Circu-
+
+lation 42:935–942, 1970.
+
+70. Morris JN, Ball KP, Antonis A, et al: Controlled trial of soya-
+
+bean oil in myocardial infarction. Lancet 2:693–699, 1968.
+
+Dietary Fat and Risk of Coronary Heart Disease
+
+JM, Sharland DE, Sowry GSC, Wilkinson P, Clarke JAC, Mur-
+land C, Wood J, Medical Research Council Committee: Low-fat
+diet in myocardial infarction—A controlled trial. Lancet 2:501–
+504, 1965.
+
+72. Burr ML, Fehily AM, Gilbert JF, Rogers S, Holliday RM, Sweet-
+nam PM, Elwood PC, Deadman NM: Effects of changes in fat,
+fish, and fibre intakes on death and myocardial reinfarction: diet
+and reinfarction trial (DART): Lancet 2:757–761, 1989.
+
+73. deLorgeril M, Renaud S, Mamelle N, Salen P, Martin J-L, Mon-
+jaud I, Guidollet J, Touboul P, Delaye J: Mediterranean alpha-
+linolenic acid-rich diet in secondary prevention of coronary heart
+disease. Lancet 343:1454–1459, 1994.
+
+74. de Lorgeril M, Salen P, Martin JL, Monjaud I, Delaye J, Mamelle
+N: Mediterranean diet, traditional risk factors, and the rate of
+cardiovascular complications after myocardial infarction: final
+report of the Lyon Diet Heart Study. Circulation 99:779–785,
+1999.
+
+75. Singh RB, Rastogi SS, Verman R, Laxmi B, Singh R, Ghosh S,
+Niaz MA: Randomised controlled trial of cardioprotective diet in
+patients with recent acute myocardial infarction: results of one
+year follow up. BMJ 304:1015–1019, 1992.
+
+76. Arntzenius AC, Kromhout D, Barth JD, Reiber JH, Bruschke AV,
+Buis B, van Gent CM, Kempen-Voogd N, Strikwerda S, van der
+Velde EA: Diet, lipoproteins, and the progression of coronary
+atherosclerosis. The Leiden Intervention Trial. N Engl J Med
+312:805–811, 1985.
+
+77. Watts GF, Lewis B, Brunt JNH, Lewis ES, Coltart DJ, Smith LD,
+Mann JI, Swan AV: Effects of coronary artery disease of lipid-
+lowering diet, or diet plus cholestyramine, in the St. Thomas’
+Atherosclerosis Regression Study (STARS). Lancet 339:563–
+569, 1992.
+
+78. Ornish D, Brown SE, Scherwitz LW, Billings JH, Armstrong
+WT, Ports TA, McLanahan SM, Kirkeeide RL, Brand RJ, Gould
+KL: Can lifestyle changes reverse coronary heart disease? The
+Lifestyle Heart Trial. Lancet 336:129–133, 1990.
+
+79. Ornish D, Scherwitz LW, Billings JH, Brown SE, Gould KL,
+Merritt TA, Sparler S, Armstrong WT, Ports TA, Kirkeeide RL,
+Hogeboom C, Brand RJ: Intensive lifestyle changes for reversal
+of coronary heart disease. JAMA 280:2001–2007, 1998.
+
+80. Schuler G, Hambrecht R, Schlierf G, Niebauer J, Hauer K,
+Neumann J, Hoberg E, Drinkmann A, Bacher F, Grunze M, et al.:
+Regular physical exercise and low-fat diet. Effects on progression
+of coronary artery disease. Circulation 86:1–11, 1992.
+
+81. Haskell WL, Alderman EL, Fair JM, Maron DJ, Mackey SF,
+Superko HR, Williams PT, Johnstone IM, Champagne MA,
+Krauss RM, et al.: Effects of intensive multiple risk factor reduc-
+tion on coronary atherosclerosis and clinical cardiac events in
+men and women with coronary artery disease. The Stanford
+Coronary Risk Intervention Project (SCRIP). Circulation 89:975–
+990, 1994.
+
+82. Multiple Risk Factor Intervention Trial Research Group: Mortal-
+ity after 16 years for participants randomized to the Multiple Risk
+Factor Intervention Trial. Circulation 94:946–951, 1996.
+
+83. Strandberg TE, Salomaa VV, Naukkarinen VA, Vanhanen HT,
+Sarna SJ, Miettinen TA: Long-term mortality after 5-year multi-
+factorial primary prevention of cardiovascular diseases in middle-
+aged men. JAMA 266:1225–1229, 1991.
+
+71. Ball KP, Hanington E, McAllen PM, Pilkington TRE, Richards
+
+84. Brown BG, Zhao XQ, Sacco DE, Albers JJ: Lipid lowering and
+
+JOURNAL OF THE AMERICAN COLLEGE OF NUTRITION
+
+17
+
+Dietary Fat and Risk of Coronary Heart Disease
+
+plaque regression. New insights into prevention of plaque disrup-
+tion and clinical events in coronary disease. Circulation 87:1781–
+1791, 1993.
+
+85. Newman WP, Propst MT, Middaugh JP, Rogers DR: Atheroscle-
+rosis in Alaska natives and non-natives. Lancet 341:1056–1057,
+1993.
+
+86. Middaugh J: Cardiovascular deaths among Alaskan natives,
+
+1980–1986. Am J Public Health 80:282–285, 1990.
+
+87. Kromann N, Green A: Epidemiological studies in Upernavik
+
+District, Greenland. Acta Med Scand 208:401–406, 1980.
+
+88. Bang HO, Dyerberg J, Hjorne N: The composition of food con-
+sumed by Greenland Eskimos. Acta Med Scand 200:69–73, 1976.
+89. Hirai A, Hamazaki T, Terano T, Nishikawa T, Tamura Y, Kuma-
+gai A, Jajiki J: Eicosapentaenoic acid and platelet function in
+Japanese. Lancet 2:1132–1133, 1980.
+
+90. Kagawa Y, Nishizawa M, Suzuki M, Miyatake T, Hamamoto T,
+Goto K, Motonaga E, Izumikawa H, Hirata H, Ebihara A: Eico-
+sapolyenoic acids of serum lipids of Japanese islanders with low
+incidence of cardiovascular disease. J Nutr Sci Vitaminol 28:441–
+453, 1982.
+
+91. Kromhout D, Bosschieter EB, Coulander C: The inverse relation
+between fish consumption and 20-year mortality from coronary
+heart disease. N Engl J Med 312:1205–1209, 1985.
+
+92. Daviglus ML, Stamler J, Orencia AJ, Dyer AR, Liu K, Greenland
+P, Walsh MK, Morris D, Shekelle RB: Fish consumption and the
+30-year risk of fatal myocardial infarction. N Engl J Med 336:
+1046–1053, 1997.
+
+93. Albert CM, Hennekens CH, O’Donnell CJ, Ajani UA, Carey VJ,
+Willett WC, Ruskin JN, Manson JE: Fish consumption and the
+risk of sudden cardiac death. JAMA 279:23–28, 1998.
+
+94. Morris MC, Manson JE, Rosner B, Buring JE, Willett WC,
+Hennekens CH: Fish consumption and cardiovascular disease in
+the Physicians’ Health Study: a prospective study. Am J Epide-
+miol 142:166–175, 1995.
+
+95. Ascherio A, Rimm EB, Stampfer MJ, Giovannucci EL, Willett
+WC: Dietary intake of marine n-3 fatty acids, fish intake, and the
+risk of coronary heart disease among men. N Engl J Med 332:
+977–982, 1995.
+
+96. Burr ML, Fehily AM, Gilbert JF, Rogers S, Holliday RM, Sweet-
+nam PM, Elwood PC, Deadman NM: Effects of changes in fat,
+fish, and fibre intakes on death and myocardial reinfarction: diet
+and reinfarction trial. Lancet 2:757–761, 1989.
+
+97. Gruppo Italiano per lo Studio della Sopravvivenza nell’Infarto
+miocardico: Dietary supplementation with n-3 polyunsaturated
+fatty acids and vitamin E after myocardial infarction: results from
+the GISSI-Prevenzione trial. Lancet 354:447–455, 1999.
+
+98. Harris WS: Fish oils and plasma lipid and lipoprotein metabolism
+
+in humans: a critical review. J Lipid Res 30:785–807, 1989.
+
+99. von Shacky C: n-3 fatty acids and the prevention of coronary
+
+atherosclerosis. Am J Clin Nutr 71:224S–227S, 2000.
+
+100. Kang JX, Leaf A: Prevention of fatal cardiac arrhythmias by
+polyunsaturated fatty acids. Am J Clin Nutr 71:202S–207S, 2000.
+101. DeCaterina R, Liao JK, Libby P: Fatty acid modulation of endo-
+
+thelial activation. Am J Clin Nutr 71:213S–223S, 2000.
+
+102. Goodfellow J, Bellamy MF, Ramsey MW, Jones CJ, Lewis MJ:
+Dietary supplementation with marine omega-3 fatty acids im-
+prove systemic large artery endothelial function in subjects with
+hypercholesterolemia. J Am Coll Cardiol 35:265–270, 2000.
+
+103. Fleischhauer FJ, Yan WD, Fischell TA: Fish oil improves endo-
+thelium-dependent coronary vasodilation in heart transplant re-
+cipients. J Am Coll Cardiol 21:982–989, 1993.
+
+104. Neuringer M, Connor WE: n-3 Fattay acids in the brain and
+retina: evidence for their essentiality. Nutr Rev. 44:285–294,
+1986.
+
+105. Neuringer M, Anderson GJ, Connor WE: The essentiality of n-3
+fatty acids for the development and function of the retina and
+brain. Ann Rev Nutr. 8:517–541, 1988.
+
+106. Nelson GJ, Chamberlain JG: The effect of dietary alpha-linolenic
+acid on blood lipids and lipoproteins in humans. In Cunnane SC,
+Thompson LU (eds): “Flaxseed in Human Nutrition.” Cham-
+paign, IL: AOAC Press, pp 99–127, 1995.
+
+107. Bjerve KS, Mostad IL, Thoresen L: Alpha-linolenic acid defi-
+ciency in patients on long-term gastric-tube feeding: estimation of
+linolenic acid and long-chain unsaturated n-3 fatty acid require-
+ment in man. Am J Clin Nutr 45:66–77, 1987.
+
+108. Holman RT, Johnson SB, Hatch TF: A case of human linolenic
+acid deficiency involving neurological abnormalities. Am J Clin
+Nutr 35:617–623, 1982.
+
+109. Cunnane SC: Metabolism and function of alpha-linolenic acid in
+humans. In Cunnane SC, Thompson LU (eds): “Flaxseed in
+Human Nutrition.” Champaign, IL: AOAC Press, pp 99–127,
+1995.
+
+110. Adam O, Wolfram G, Zollner N: Effect of alpha-linolenic acid in
+the human diet on linoleic acid metabolism and prostaglandin
+biosythesis. J Lipid Res 27:421–426, 1986.
+
+111. Renaud S, Nordoy A: “Small is beautiful”: alpha-linolenic acid
+and eicosapentaenoic acid in man [Letter]. Lancet 1:1169, 1983.
+112. Kang JX, Leaf A: Antiarrhythmic effects of polyunsaturated fatty
+
+acids: Recent studies. Circulation 94:1774–1780, 1996.
+
+113. Siebert BD, McLennan PL, Woodhouse JA, Charnock JS: Car-
+diac arrthythmia in rats in response to dietary n-3 fatty acids from
+red meat, fish oil and canola oil. Nutr Res 13:1407–1418, 1993.
+114. McLennan PL, Dallimore JA: Dietary canola oil modifies myo-
+cardial fatty acids and inhibits cardiac arrthythmias in rats. J Nutr
+125:1003–1009, 1995.
+
+115. Hu FB, Stampfer MJ, Manson JE, Rimm E, Wolk A, Colditz GA,
+Hennekens CH, Willett WC: Dietary intake of alpha-linolenic
+acid and risk of ischemic heart disease among women. Am J Clin
+Nutr 69:890–897, 1999.
+
+116. Connor WE: Alpha-linolenic acid in health and disease [Com-
+
+ment]. Am J Clin Nutr 69:827–8, 1999.
+
+117. Garg ML, Wierzbicki AA, Thomson ABR, Clandinin MT: Di-
+etary saturated fat level alters the competition between alpha-
+linolenic and linoleic acid. Lipids 24:334–339, 1989.
+
+118. Chan JK, McDonald BE, Gerrard JM, Bruce VM, Weaver BJ,
+Holub BJ: Effect of dietary alpha-linolenic acid and its ratio to
+linoleic acid on platelet and plasma fatty acids and thrombogen-
+esis. Lipids 28:811–817, 1993.
+
+119. Kinsella JE: Effects of polyunsaturated fatty acids on factors
+related to cardiovascular disease. Am J Cardiol 60:23G–32G,
+1987.
+
+120. Kinsella JE: Food lipids and fatty acids: Importance in food
+quality, nutrition, and health. Food Technol 42:124–145, 1988.
+121. Nair SSD, Leitch JW, Falconer J, Garg ML: Prevention of cardiac
+arrhythmia by dietary (n-3) polyunsaturated fatty acids and their
+mechanism of action. J Nutr 127:383–393, 1997.
+
+18
+
+VOL. 20, NO. 1
+
+122. Berry EM: Dietary fatty acids in the management of diabetes
+
+mellitus. Am J Clin Nutr 66:991S–997S, 1997.
+
+123. Krauss RM, Eckel RH, Howard B, Appel LJ, Daniels SR, Deck-
+elbaum RJ, Erdman Jr JW, Kris-Etherton P, Goldberg IJ, Kotchen
+TA, Lichtenstein AH, Mitch WE, Mullis R, Robinson K, Wylie-
+Rosett J, St Jeor S, Suttie J, Tribble DL, Bazzarre TL: AHA
+Dietary Guidelines Revision 2000: A Statement for Healthcare
+Professionals from the Nutrition Committee of the American
+Heart Association. Circulation 102:2284–2299, 2000.
+
+124. Stamler J, Shekelle R: Dietary cholesterol and human coronary
+
+heart disease. Arch Pathol Lab Med 112:1032–1040, 1988.
+
+125. Hegsted DM, McGandy RB, Myers ML, Stare FJ: Quantitative
+effects of dietary fat on serum cholesterol in man. Am J Clin Nutr
+17:281–295, 1965.
+
+126. Clarke R, Frost C, Collins R, Appleby P, Peto R: Dietary lipids
+and blood cholesterol: quantitative meta-analysis of metabolic
+ward studies. BMJ 314:112–117, 1997.
+
+127. Howell WH, McNamara DJ, Tosca MA, Smith BT, Gaines JA:
+Plasma lipid and lipoprotein responses to dietary fat and choles-
+terol: a meta-analysis. Am J Clin Nutr 65:1747–1764, 1997.
+
+128. McGill HC: The relationship of dietary cholesterol to serum
+cholestrol concentration and to atherosclerosis in man. Am J Clin
+Nutr 32:2664–2702, 1979.
+
+129. Hegsted DM: Serum-cholesterol response to dietary cholesterol: a
+
+re-evaluation. Am J Clin Nutr 44:299–305, 1986.
+
+130. Hu FB, Stampfer MJ, Manson JE, Rimm E, Colditz GA, Rosner
+BA, Hennekens CH, Willett WC: Dietary fat intake and the risk
+of coronary heart disease in women. N Engl J Med 337:1491–
+1499, 1997.
+
+131. National Cholesterol Education Program: Report of the Expert
+Panel on Population Strategies for Blood Cholesterol Reduction:
+Executive Summary. Arch Intern Med 151:1071–1084, 1991.
+
+132. Krauss RM, Deckelbaum RJ, Ernst N, Fisher E, Howard BV,
+Knopp RH, Kotchen T, Lichtenstein AH, McGill HC, Pearson
+TA, Prewitt TE, Stone NJ, Van Horn L, Weinberg R: Dietary
+guidelines for healthy American adults: A statement for health
+
+Dietary Fat and Risk of Coronary Heart Disease
+
+professionals from the nutrition committee, American Heart As-
+sociation. Circulation 94:1795–1800, 1996.
+
+133. Hopkins PN: Effects of dietary cholesterol on serum cholesterol:
+a meta-analysis and review. Am J Clin Nutr 55:1060–1070, 1992.
+134. Dawber TR, Nickerson RJ, Brand FN, Pool J: Eggs, serum
+cholesterol, and coronary heart disease. Am J Clin Nutr 36:617–
+625, 1982.
+
+135. Snowdon DA, Phillips RL, Fraser GE: Meat consumption and
+
+fatal ischemic heart disease. Prev Med 13:490–500, 1984.
+
+136. Fraser GE: Diet and coronary heart disease: beyond dietary fats
+and low-density-lipoprotein cholesterol. Am J Clin Nutr 59
+(Suppl):1117S–1123S, 1994.
+
+137. Gramenzi A, Gentile A, Fasoli M, Negri E, Parazzini F, La
+Vecchia C: Association between certain foods and risk of acute
+myocardial infarction in women. BMJ 300:771–773, 1990.
+
+138. Hu FB, Stampfer MJ, Rimm EB, Manson JE, Ascherio A, Colditz
+GA, Rosner BA, Spiegelman D, Speizer FE, Sacks FM, Hennek-
+ens CH, Willett WC: A prospective study of egg consumption and
+risk of cardiovascular disease in men and women. JAMA 281:
+1387–1394, 1999.
+
+139. Sacks F, Salazar J, Miller L, Foster JM, Sutherland M, Samonds
+KW, Albers JJ, Kass EH: Ingestion of egg raises plasma low
+density lipoproteins in free-living subjects. Lancet 647–649,
+1984.
+
+140. Hopkins PN: Effects of dietary cholesterol on serum cholesterol:
+a meta-analysis and review. Am J Clin Nutr 55:1060–1070, 1992.
+141. Willett WC: Is dietary fat a major determinant of body fat? Am J
+
+Clin Nutr 67:556S–562S, 1998.
+
+142. Roberts SB: High-glycemic index foods, hunger, and obesity: is
+
+there a connection? Nutr Rev 58:163–169, 2000.
+
+143. US Department of Agriculture—US Department of Health and
+Human Services: “Nutrition and your health: Dietary guidelines
+for Americans.” Homes and Garden Bulletin No. 232. Washing-
+ton, DC: US Government Printing Office, 2000.
+
+Received November 2, 2000; revision accepted November 22,
+2000
+
+JOURNAL OF THE AMERICAN COLLEGE OF NUTRITION
+
+19
+
+

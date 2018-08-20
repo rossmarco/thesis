@@ -1,0 +1,1310 @@
+REVIEWS
+
+N-3 Polyunsaturated Fatty Acids in Coronary
+Heart Disease: A Meta-analysis of Randomized
+
+Controlled Trials
+
+Heiner C. Bucher, MD, MPH, Peter Hengstler, MD, Christian Schindler, PhD,
+
+Gabriela Meier, MD
+
+PURPOSE: Observational studies have shown an inconsistent
+association between n-3 polyunsaturated fatty acids and the risk
+of coronary heart disease. We investigated the effects of dietary
+and nondietary (supplemental) intake of n-3 polyunsaturated
+fatty acids on coronary heart disease.
+SUBJECTS AND METHODS: We searched the literature to
+identify randomized controlled trials that compared dietary or
+nondietary intake of n-3 polyunsaturated fatty acids with a con-
+trol diet or placebo in patients with coronary heart disease.
+Studies had to have at least 6 months of follow-up data, and to
+have reported clinical endpoint data. We identiﬁed 11 trials,
+published between 1966 and 1999, which included 7951 pa-
+tients in the intervention and 7855 patients in the control
+groups.
+RESULTS: The risk ratio of nonfatal myocardial infarction in
+patients who were on n-3 polyunsaturated fatty acid-enriched
+
+diets compared with control diets or placebo was 0.8 (95% con-
+ﬁdence interval [CI]: 0.5 to 1.2, P ⫽ 0.16; Breslow-Day test for
+heterogeneity, P ⫽ 0.01), and the risk ratio of fatal myocardial
+infarction was 0.7 (95% CI: 0.6 to 0.8, P ⬍0.001; heterogeneity
+P ⬎0.20). In 5 trials, sudden death was associated with a risk
+ratio of 0.7 (95% CI: 0.6 to 0.9, P ⬍0.01; heterogeneity P ⬎0.20),
+whereas the risk ratio of overall mortality was 0.8 (95% CI: 0.7 to
+0.9, P ⬍0.001; heterogeneity P ⬎0.20). There was no difference
+in summary estimates between dietary and nondietary inter-
+ventions of n-3 polyunsaturated fatty acids for all endpoints.
+CONCLUSION: This meta-analysis suggests that dietary and
+nondietary intake of n-3 polyunsaturated fatty acids reduces
+overall mortality, mortality due to myocardial infarction, and
+sudden death in patients with coronary heart disease. Am J
+Med. 2002;112:298 –304. 䉷2002 by Excerpta Medica, Inc.
+
+An inverse relation between the intake of n-3 polyunsat-
+urated fatty acids, mainly from ﬁsh, and mortality due to
+coronary heart disease, has been reported in several (1,2)
+but not all prospective studies (3,4). The protective effect
+of n-3 polyunsaturated fatty acids has been attributed to
+eicosapentaenoic acid and docosahexanoic acid, which
+are present in ﬁsh oil, and alpha-linolenic acid, which is
+present predominantly in soybean, ﬂaxseed, and canola
+oils. N-3 polyunsaturated fatty acids reduce the incidence
+of coronary heart disease by several mechanisms. Studies
+have reported a dose-dependent effect on blood pressure
+(5); however, these ﬁndings were not conﬁrmed in larger
+trials (6,7). N-3 polyunsaturated fatty acids reduce plate-
+let adherence and enhance endothelium-dependent va-
+
+sodilatation (8 –10). There is evidence from clinical trials
+(11,12) and animal studies (13) that n-3 polyunsaturated
+fatty acids may also protect against ventricular arrhyth-
+mia (12). These mechanisms may be important in reduc-
+ing the incidence of coronary events in people with un-
+derlying atherosclerosis.
+
+Results from an earlier meta-analysis suggested that
+n-3 polyunsaturated fatty acids reduce the incidence of
+restenosis in patients undergoing percutaneous translu-
+minal coronary angioplasty (14), contrary to ﬁndings
+from a larger trial (15). We therefore reviewed random-
+ized controlled trials to investigate the effect of dietary or
+supplemental intake of n-3 polyunsaturated fatty acids
+on fatal and nonfatal myocardial infarction and overall
+mortality.
+
+From the Institut fu¨r Klinische Epidemiologie (HCB), Medizinische
+Universita¨ts-Poliklinik (PH, HCB, GM), Kantonsspital Basel, Basel,
+Switzerland; and Institut fu¨r Sozial- und Pra¨ventivmedizin der Univer-
+sita¨t Basel (CS), Basel, Switzerland.
+
+Supported by a grant from the University of Basel Hospitals, Byk AG,
+
+Switzerland, and Semomed AG, Switzerland.
+
+Request for reprints should be addressed to Heiner C. Bucher, MD,
+MPH, Institut fu¨r Klinische Epidemiologie, Kantonsspital Basel, Hebel-
+strasse 10, CH-4031 Basel, Switzerland.
+
+Manuscript submitted June 7, 2001, and accepted in revised form
+
+October 12, 2001.
+
+METHODS
+
+We searched MEDLINE, EMBASE, Pascal BioMed, and
+Index Medicus for all randomized controlled trials, pub-
+lished in all languages from 1966 through August 1999,
+which compared n-3 polyunsaturated fatty acids, given
+either as supplements or via dietary intervention, with
+
+298 䉷2002 by Excerpta Medica, Inc.
+
+All rights reserved.
+
+0002-9343/02/$–see front matter
+PII S0002-9343(01)01114-7
+
+N-3 Polyunsaturated Fatty Acids in Coronary Heart Disease/Bucher et al
+
+placebo or a control diet. We combined the terms omega
+3 fatty acids, ﬁsh oils, diet, dietary therapy, and cardiovas-
+cular disease with text searches using the terms random
+or control. We also searched the Cochrane Library and
+references of relevant publications for additional trials.
+
+Study Selection and Data Abstraction
+We included studies based on the following criteria. First,
+trials had to be randomized and to have compared dietary
+or supplemental intake of n-3 polyunsaturated fatty acids
+with a control diet or placebo. Second, trials had to report
+fatal or nonfatal myocardial infarction and overall mor-
+tality. Trials with angiographic primary endpoints were
+eligible if they reported myocardial infarction and mor-
+tality data. Third, we only considered trials that followed
+patients who had either myocardial infarction or angio-
+graphically established coronary heart disease for at least
+6 months. We excluded studies of restricted patients who
+had undergone coronary bypass surgery or heart trans-
+plantation.
+
+Study eligibility and quality were determined via
+blinded assessment by two pairs of investigators. Dis-
+agreements were resolved by consensus. We assessed the
+quality of included trials using a modiﬁed score that com-
+prised the following (16): randomization of participants;
+blinding of patients, caregivers, and those assessing out-
+come; and complete description of subjects who with-
+drew or dropped out. The scoring system gave 1 point to
+each item, if present. If randomization was concealed
+(central allocation), and if double blinding was con-
+ducted with an identical placebo, the study received an-
+other point, thus yielding a total score of 0 to 5 points.
+Agreement for eligibility (kappa [␬] ⫽ 0.66) and trial
+quality (␬⫽ 0.58) was good.
+
+Statistical Analysis
+We assessed publication bias by inspecting funnel plots
+(graphs of the sample size of each trial and the pooled
+summary estimates for different outcomes). We pooled
+data from each trial using a ﬁxed-effects model (17), and
+used a random-effects model if the Breslow-Day test for
+heterogeneity (18) yielded a P value ⬍0.10.
+
+To explore variability (heterogeneity) of study results,
+we examined the magnitude of the treatment effects
+in relation to the type of intervention (supplemental ver-
+sus dietary intake), the duration of the intervention
+(mean follow-up ⱖ12 months), and whether patients,
+caregivers, and outcome assessors were blinded to alloca-
+tion (19). We tested the differences in combined esti-
+mates of subgroups, and used the z score for each sub-
+group by dividing the difference in the log relative risk of
+the subgroup summary by the standard error of the dif-
+ference. All analyses were performed using SAS software
+version 6.12 (SAS Institute, Inc., Cary, North Carolina).
+
+RESULTS
+
+Our literature search identiﬁed 406 studies, and 369 ad-
+ditional articles were reviewed in the Cochrane Library.
+We identiﬁed 177 trials, and excluded 129 that were not
+related to coronary heart disease, 26 that had a follow-up
+of less than 6 months or did not report clinical endpoint
+data, and 7 that were duplicate publications. Four studies
+included patients who had undergone heart transplanta-
+tion or bypass surgery, and were therefore also excluded.
+Eleven trials fulﬁlled our inclusion criteria: 2 of dietary
+intervention (20,21) and 9 of supplementation with n-3
+polyunsaturated fatty acids (15,22–29). There were 7951
+patients in the intervention groups and 7855 patients in
+the control groups (Table 1). In trials of supplementation
+with n-3 polyunsaturated fatty acids, the dose for eicosa-
+pentaenoic acid varied from 0.3 to 6.0 g, whereas the dose
+for docosahexanoic acid ranged from 0.6 to 3.7 g. Only
+one trial involved patients who had peripheral arterial
+disease or coronary heart disease (26). Between 33% and
+100% of the patients had a previous myocardial infarc-
+tion. The mean age was 49 to 66 years, and the average
+follow-up lasted 20 months (range, 6 to 46 months). At
+enrollment, mean total cholesterol levels in study groups
+were 4.8 to 6.5 mmol/L, mean low-density lipoprotein
+(LDL) cholesterol levels were 2.8 to 4.5 mmol/L, and
+mean triglyceride levels were 1.5 to 2.4 mmol/L. In the
+intervention groups, the changes in mean total choles-
+terol levels varied from ⫺8.8% to 6.0%; changes were
+between ⫺10.9% and 8.8% for LDL cholesterol levels,
+and between ⫺3.6% and ⫺40.4% for triglyceride levels.
+Quality scores ranged from 2 to 5. The open trial design
+(20,21,23,29) and the lack of documentation of blinded
+outcome assessment (26) were largely responsible for the
+low quality scores.
+
+Ten trials documented the incidence of nonfatal and
+fatal myocardial infarction (Table 2). The risk ratio of
+nonfatal myocardial infarction in patients treated with an
+n-3 polyunsaturated fatty acid-enhanced diet, compared
+with patients assigned a control diet or placebo, was 0.8
+(95% conﬁdence interval [CI]: 0.5 to 1.2, P ⫽ 0.16; het-
+erogeneity P ⫽ 0.01) (Figure). Among these patients, the
+risk ratio was 0.7 (95% CI: 0.6 to 0.8, P ⬍0.001; hetero-
+geneity P ⬎0.20) for fatal myocardial infarction, 0.7 (95%
+CI: 0.6 to 0.9, P ⬍0.01; heterogeneity P ⬎0.20) for sudden
+death (n ⫽ 5 trials), and 0.8 (95% CI: 0.7 to 0.9, P ⬍0.001;
+heterogeneity P ⬎0.20) for overall death.
+
+We found an asymmetric distribution for all end-
+points, with the exception of nonfatal myocardial infarc-
+tion. The smaller trials showed a larger effect size than did
+the one larger trial (29).
+
+Sensitivity Analysis
+None of our a priori hypotheses (the type and duration of
+intervention, and blinding of patients, clinicians, and
+
+March 2002 THE AMERICAN JOURNAL OF MEDICINE威 Volume 112
+
+299
+
+3
+0
+0
+
+M
+
+a
+r
+c
+h
+2
+0
+0
+2
+
+T
+H
+E
+A
+M
+E
+R
+I
+C
+A
+N
+J
+O
+U
+R
+N
+A
+L
+O
+F
+
+M
+E
+D
+I
+C
+I
+N
+E
+威
+
+l
+
+V
+o
+u
+m
+e
+1
+1
+2
+
+Table 1. Baseline Characteristics in Randomized Controlled Trials Comparing Dietary and Nondietary Supplementation of N-3 Polyunsaturated Fatty Acids with a Control Regimen or Placebo
+
+Study
+
+(Reference)
+
+Burr (20)
+
+Reis (22)
+
+Kaul (23)
+
+Regimen
+
+Intervention: EPA, ⬃0.5 g/d; ﬁsh, 200–400 g twice weekly; or
+
+EPA/DHA, 1.5 g/d, given as 3 capsules
+Control: no advice on ﬁsh consumption
+Intervention: EPA, 6 g/d; DHA, 3.72 g/d, given as 12 capsules
+Placebo: olive oil
+Intervention: EPA, 5.4 g/d; DHA, 3.6 g/d, given as 10 capsules
+
+Control: no intervention
+
+Leaf (15)
+
+Intervention: EPA, 4.1 g/d; DHA, 2.8 g/d, given as 10 capsules
+
+Placebo: corn oil
+
+de Lorgeril
+
+(21)
+
+Intervention: alpha-linolenic acid, ⬃2 g/d; advice on ﬁsh
+
+consumption
+
+Control: dietary advice by hospital dietician
+
+Sacks (24)
+
+Intervention: EPA, 2.9 g/d; DHA, 1.9 g/d, given as 12 capsules
+
+Placebo: olive oil
+
+Singh (25)
+
+Intervention: EPA, 1.08 g/d; DHA, 0.72 g/d, given as 6
+
+capsules
+
+Placebo: Al(OH)3, 0.1 g/d
+
+Leng (26)
+
+Intervention: gamma-linolenic acid, 1.68 g/d; EPA, 0.27 g/d,
+
+given as 6 capsules
+
+Placebo: sunﬂower oil, 0.5 g/d
+
+Johansen (27)
+
+Intervention: EPA, 2.7 g/d; DHA, 2.3 g/d, given as 6 capsules
+
+Placebo: olive oil
+
+GISSI (29)
+
+von Schacky
+
+(28)
+
+Intervention: EPA, 0.3 g/d; DHA, 0.6 g/d, given as 1 capsule
+Control: no intervention
+Intervention: EPA, 1.06 g/d; DHA, 0.65 g/d, given as 3
+
+capsules
+
+Placebo: fatty acid mixture
+
+Number of
+
+Patients
+
+Mean
+
+Follow-up
+(months)
+
+Mean (⫾ SD)
+Age (years)
+
+Percentage
+
+Cholesterol
+(mmol/L)
+
+Cholesterol
+(mmol/L)
+
+Triglycerides
+(mmol/L)
+Mean ⫾ SD [% Change from Baseline]
+
+Treatment with
+
+Total
+
+LDL
+
+History of
+Myocardial
+Infarction
+
+Antiplatelet
+
+Therapy
+
+1015
+
+1018
+137
+67
+58
+
+49
+
+253
+
+250
+
+302
+
+303
+
+31
+
+28
+
+122
+
+118
+
+60
+
+60
+
+196
+
+192
+
+5666
+5658
+111
+
+112
+
+24
+
+56.7
+
+6
+
+6
+
+6
+
+46
+
+28
+
+12
+
+24
+
+6
+
+42
+
+24
+
+56.4
+60 ⫾ 10
+57 ⫾ 9
+56 ⫾ 11
+
+59 ⫾ 9
+
+NA
+
+53.5 ⫾ 10
+
+53.5 ⫾ 10
+
+62 ⫾ 7
+
+62 ⫾ 7
+
+48.5 ⫾ 6.5
+
+49.2 ⫾ 7.2
+
+65.0 ⫾ 7.3
+
+66.5 ⫾ 6.9
+
+60.3 ⫾ 9.3
+
+59.1 ⫾ 9.3
+
+59.2
+59.4
+
+57.8 ⫾ 9.7
+
+58.9 ⫾ 8.1
+
+19.0
+
+22.7
+NA
+
+NA
+
+33
+
+33
+
+100
+
+100
+
+55.0
+
+57.0
+
+100
+
+100
+
+23.3
+
+11.9
+
+51
+
+50
+
+100
+100
+52.3
+
+50.9
+
+4.8
+
+4.0
+
+100
+100
+100
+
+100
+
+100
+
+100
+
+62.6
+
+64.8
+
+97
+
+93
+
+90.1
+
+98.3
+
+46.7
+
+40.0
+
+70.9
+
+67.2
+
+92.0
+91.3
+91.9
+
+91.1
+
+6.5 ⫾ 1.2
+
+6.5 [1.23]
+
+NA
+
+5.6 ⫾ 1.1
+
+[2.6]
+
+5.7 ⫾ 0.9
+[⫺2.3]
+5.7 ⫾ 1.1
+[⫺8.8]
+5.7 ⫾ 1.2
+[⫺4.7]
+6.5 ⫾ 0.1
+[⫺4.6]
+6.5 ⫾ 0.1
+[⫺4.5]
+5.0 ⫾ 0.9
+
+[0.4]
+
+4.8 ⫾ 0.7
+
+[0.4]
+
+5.3 ⫾ 1.1
+[⫺4.1]
+5.4 ⫾ 1.1
+[⫺2.8]
+6.0 ⫾ 0.9
+
+[2.3]
+
+5.9 ⫾ 1.2
+
+[0.5]
+
+6.4 ⫾ 1.3
+[⫺1.6]
+6.5 ⫾ 1.1
+[⫺1.5]
+5.5 [6.0]
+5.5 [6.5]
+6.3 ⫾ 1.1
+[⫺1.6]
+6.1 ⫾ 1.1
+[⫺0.8]
+
+NA
+
+NA
+
+3.2 ⫾ 0.7
+
+[5.2]
+
+3.3 ⫾ 0.7
+[⫺2.1]
+3.4 ⫾ 0.9
+[⫺5.6]
+3.7 ⫾ 1.0
+
+[5.1]
+
+4.5 ⫾ 0.1
+[⫺7.7]
+4.5 ⫾ 0.1
+[⫺6.8]
+3.2 ⫾ 0.8
+[⫺7.6]
+3.0 ⫾ 0.7
+[⫺4.1]
+3.4 [8.8]
+
+3.5 [0]
+
+2.8 ⫾ 0.7
+[⫺10.9]
+2.9 ⫾ 0.9
+[⫺4.0]
+
+NA
+
+3.6 [⫺8.9]
+3.6 [⫺7.0]
+4.1 ⫾ 1.1
+
+[6.5]
+
+4.0 ⫾ 0.9
+[14.3]
+
+NA
+
+NA
+
+2.4 ⫾ 1.3
+[⫺23.8]
+2.4 ⫾ 1.2
+
+[2.1]
+
+2.4 ⫾ 1.4
+[⫺40.4]
+2.4 ⫾ 1.6
+[⫺14.6]
+2.2 ⫾ 0.1
+[⫺9.3]
+2.0 ⫾ 0.1
+[⫺12.5]
+1.5 ⫾ 0.8
+[⫺33.3]
+1.6 ⫾ 0.8
+
+[1.9]
+
+1.8 ⫾ 0.2
+[⫺9.4]
+1.8 ⫾ 0.2
+[⫺6.1]
+
+NA
+
+2.2 ⫾ 1.4
+[⫺26.3]
+2.0 ⫾ 1.0
+
+[⫺5]
+
+1.9 [⫺6.3]
+1.9 [⫺1.1]
+2.2 ⫾ 1.3
+[⫺3.6]
+2.2 ⫾ 1.1
+
+[2.7]
+
+Quality
+Score*
+
+2
+
+4
+
+3
+
+5
+
+4
+
+4
+
+4
+
+5
+
+4
+
+3
+
+5
+
+* On a scale of 0 to 5; see Methods section.
+DHA ⫽ docosahexanoic acid; EPA ⫽ eicosapentaenoic acid; GISSI ⫽ Gruppo Italiano per lo Studio della Sopravivenza nell’ Infarto Miocardico; NA ⫽ data not available.
+
+N-3 Polyunsaturated Fatty Acids in Coronary Heart Disease/Bucher et al
+
+Table 2. Clinical Endpoints in Randomized Controlled Trials Comparing Dietary and Nondietary Supplementation of N-3 Poly-
+unsaturated Fatty Acids with a Control Regimen or Placebo
+
+Study
+
+Nonfatal Myocardial
+
+Fatal Myocardial
+
+(Reference)
+
+Regimen
+
+Infarction
+
+Infarction
+
+Sudden Death
+
+Overall Mortality
+
+Number of Events and Relative Risk
+
+(95% Conﬁdence Interval)
+
+Burr (20)
+
+Reis (22)
+
+Kaul (23)
+
+Leaf (15)
+
+de Lorgeril (21)
+
+Sacks (24)
+
+Singh (25)
+
+Leng (26)
+
+Johansen (27)
+
+GISSI (29)
+
+von Schacky (28)
+
+Intervention
+Control
+Intervention
+Control
+Intervention
+Control
+Intervention
+Control
+Intervention
+Control
+Intervention
+Control
+Intervention
+Control
+Intervention
+Control
+Intervention
+Control
+Intervention
+Control
+Intervention
+Control
+
+49
+33
+7
+0
+4
+2
+
+8
+25
+1
+2
+16
+30
+3
+4
+
+210
+220
+1
+3
+
+1.5 (0.9–2.3)
+
+6.9 (0.4–120.6)
+
+1.5 (0.3–6.8)
+
+0.3 (0.1–0.7)
+
+0.5 (0.1–3.9)
+
+0.5 (0.3–0.9)
+
+0.8 (0.2–0.3)
+
+0.9 (0.8–1.1)
+
+0.4 (0.1–2.9)
+
+78
+116
+
+0
+1
+6
+19
+0
+1
+12
+18
+
+0
+2
+214
+265
+0
+1
+
+0.7 (0.5–0.9)
+
+0.5 (0–14.6)
+
+0.3 (0.1–0.8)
+
+0.4 (0–12.5)
+
+0.6 (0.3–1.3)
+
+0.50 (0.0–14.6)
+
+0.1 (0.0–1.1)
+
+0.2 (0.1–1.1)
+
+0
+1
+0
+8
+
+2
+8
+
+0.2 (0–5.4)
+
+0.8 (0.7–0.9)
+
+0.5 (0–14.7)
+
+1
+1
+122
+164
+
+1.0 (0.1–15.5)
+
+0.7 (0.6–0.9)
+
+0.7 (0.6–0.9)
+
+0.2 (0.0–5.4)
+
+0.6 (0.3–1.1)
+
+0.4 (0–12.5)
+
+0.5 (0.3–0.9)
+
+1.0 (0.2–4.8)
+
+0.3 (0–3.1)
+
+0.8 (0.7–0.9)
+
+0.5 (0–5.5)
+
+94
+130
+
+0
+2
+14
+24
+0
+1
+14
+26
+3
+3
+1
+3
+472
+545
+1
+2
+
+GISSI ⫽ Gruppo Italiano per lo Studio della Sopravivenza nell’ Infarto Miocardico.
+
+outcome adjudicators) explained the heterogeneity ob-
+served. For all endpoints, including nonfatal myocardial
+infarction, in which we did ﬁnd statistically signiﬁcant
+heterogeneity, summary estimates were similar in all sub-
+groups. For nonfatal myocardial infarction, the risk ratio
+in trials of dietary intervention compared with controls
+was 0.7 (95% CI: 0.1 to 3.2), and 0.8 (95% CI: 0.55 to 1.2)
+in trials of n-3 polyunsaturated fatty acid supplementa-
+tion compared with controls. The risk ratio for fatal myo-
+cardial infarction was 0.5 (95% CI: 0.3 to 1.1) in dietary
+intervention trials and 0.8 (95% CI: 0.7 to 0.9) in supple-
+mentation trials. The one dietary trial (21) that examined
+sudden death generated a risk ratio of 0.1 (95% CI: 0 to
+1.1), whereas the pooled estimate in the supplementation
+trials was 0.7 (95% CI: 0.6 to 0.9; P ⫽ 0.09 for the differ-
+ence of summary estimates). For overall mortality, the
+risk ratio in trials of patients assigned n-3 polyunsatu-
+rated fatty acid-enhanced diets was 0.7 (95% CI: 0.6 to
+0.9), compared with 0.8 (95% CI: 0.7 to 0.9) in supple-
+mentation trials.
+
+DISCUSSION
+
+Our meta-analysis suggests that a diet supplemented with
+n-3 polyunsaturated fatty acids may decrease mortality
+
+due to myocardial reinfarction, sudden death, and overall
+mortality in patients with coronary heart disease. The risk
+reduction for mortality was statistically signiﬁcant. The
+mortality in control groups of trials that followed patients
+for an average of 1.5 years varied from 1% to 22%, sug-
+gesting that in low-risk patients (e.g., those aged ⬍50
+years and with minor uncomplicated infarctions and no
+comorbid conditions) with mortality of about 2% per
+year, approximately 250 patients would need to receive
+n-3 polyunsaturated fatty acid supplementation for 1.5
+years to prevent a single premature death (number
+needed to treat). In patients with higher mortality rates of
+22%, approximately 24 patients would need to be treated
+to prevent one event.
+
+Our review has several limitations. First, we cannot
+rule out publication bias, although we performed a com-
+prehensive literature search. The smaller trials showed a
+larger effect size than did the Gruppo Italiano per lo Stu-
+dio della Sopravivenza nell’ Infarto Miocardico (GISSI)
+trial (29), suggesting that small unpublished trials might
+have a negligible effect on outcomes, and thereby reduc-
+ing estimates of treatment effect.
+
+Second, the amount and type (pharmacological, non-
+dietary versus dietary intervention) of n-3 polyunsatu-
+rated fatty acid varied considerably. For example, the
+
+March 2002 THE AMERICAN JOURNAL OF MEDICINE威 Volume 112
+
+301
+
+N-3 Polyunsaturated Fatty Acids in Coronary Heart Disease/Bucher et al
+
+Figure. Pooled risk ratios and 95% conﬁdence intervals for the different endpoints in randomized controlled trials of dietary and
+nondietary supplementation with n-3 polyunsaturated fatty acids versus control or placebo. The asterisk (*) denotes P ⫽ 0.01 for test
+of heterogeneity. MI ⫽ myocardial infarction.
+
+GISSI trial used lower doses of eicosapentaenoic acid and
+docosahexanoic acid (29), whereas in another study the
+intake of n-3 polyunsaturated fatty acids was mainly from
+fatty ﬁsh (20). In the Lyon Heart Project Study (21), al-
+pha-linolenic acid, which is a n-3 fatty acid of plant ori-
+gin, and the low intake of saturated fats (8% of energy
+intake), was the main dietary factor that differed between
+the intervention and control groups. In our sensitivity
+analysis, we could not identify relevant differences be-
+tween groups in the effects of dietary and supplement
+intake of n-3 polyunsaturated fatty acids on clinical end-
+points. This may have been due to lack of power or our
+inability to identify additional relevant factors from the
+data.
+
+Third, several studies had an open intervention design
+and used unblinded clinical endpoint assessments, which
+led to lower scores for trial quality, as measured with our
+modiﬁed Jadad score, as well as resulted in an overesti-
+mation of the treatment effects (30,31).
+
+Finally, in most of the trials that had restenosis as the
+primary endpoint, no information on the diagnostic cri-
+teria or blinded outcome assessment of clinical endpoints
+
+was provided, and therefore bias may have been intro-
+duced. However, because these trials were small and con-
+tributed only few events, it is less likely that the summary
+estimates for fatal and nonfatal myocardial infarction
+were affected. In contrast, only 5 trials (15, 21, 25, 27, 29)
+reported the incidence of sudden death, whereas the Diet
+and Reinfarction Trial (DART) did not. The potential
+bias may not have inﬂuenced overall mortality given the
+consistency of the ﬁndings of a reduction in mortality in
+all 9 trials, including DART.
+
+The protective effect of n-3 polyunsaturated fatty acids
+in coronary heart disease is mediated through various
+actions. N-3 polyunsaturated fatty acids reduce endothe-
+lium dysfunction by reducing sympathetic overactivity
+(32) and enhancing nitric oxide-mediated vasodilatation
+(9). They reduce the inﬂammatory endothelium re-
+sponse by inhibiting monocyte adhesion (33) and by sup-
+pressing inﬂammatory mediators and thromboxane Az, a
+prostaglandin that induces platelet aggregation and vaso-
+constriction (34). Platelet-derived growth factor-like
+proteins from vascular endothelial cells are also sup-
+pressed by n-3 polyunsaturated fatty acids, which may
+
+302 March 2002 THE AMERICAN JOURNAL OF MEDICINE威 Volume 112
+
+N-3 Polyunsaturated Fatty Acids in Coronary Heart Disease/Bucher et al
+
+attenuate endothelial cell proliferation. N-3 polyunsatu-
+rated fatty acid supplementation affects hemostatic
+markers of atherosclerosis, such as thrombomodulin and
+von Willebrand factor (35), as well as reduces insulin re-
+sistance (36).
+
+In our analysis, the antilipidemic effect of n-3 polyun-
+saturated fatty acids was limited to an average 20% reduc-
+tion in triglyceride levels, with little effect on LDL and
+HDL cholesterol levels, which is consistent with other
+ﬁndings (37). Of note, only a small proportion of patients
+received additional antilipidemic drugs (27–29). The role
+of triglycerides in the pathogenesis of atherosclerosis is
+still controversial because prospective epidemiologic
+studies found an inconsistent relation between triglycer-
+ide levels and coronary heart disease (38,39). Future stud-
+ies should examine if the triglyceride-lowering properties
+of n-3 polyunsaturated fatty acids have additional effects,
+particular in patients with mixed hyperlipidemia and in-
+sulin resistance.
+
+Finally, data from animal studies suggest that n-3 poly-
+unsaturated fatty acids have antiarrhythmic effects in
+coronary heart disease (40,41). They may prolong the in-
+activated state of the sodium and calcium channels in
+myocytes, and inhibit the conductance of these channels
+(41,42). In the present analysis, all estimates from indi-
+vidual trials and the summary estimate showed that n-3
+polyunsaturated fatty acids protected consistently against
+sudden death.
+
+N-3 polyunsaturated fatty acids may lead to a consid-
+erable reduction in fatal myocardial infarction and over-
+all mortality in the secondary prevention of coronary
+heart disease. Because they have different mechanisms
+from those of other agents that reduce coronary heart
+disease mortality, we suggest that adequately powered tri-
+als should study the possible added beneﬁt of n-3 poly-
+unsaturated fatty acid supplementation in conjunction
+with treatment involving statins, antiplatelets, beta-
+blockers, or angiotensin-converting enzyme inhibitors.
+
+ACKNOWLEDGMENT
+The authors would like to thank Peter Wolf, PhD, for conduct-
+ing the literature search and Odd Johansen, MD, for providing
+additional data from his study.
+
+REFERENCES
+
+1. Daviglus ML, Stamler J, Orencia AJ, et al. Fish consumption and the
+30-year risk of fatal myocardial infarction. N Engl J Med. 1997;336:
+1046 –1053.
+
+2. Kromhout D, Bosschieter EB, de Lezenne Coulander C. The inverse
+relation between ﬁsh consumption and 20-year mortality from cor-
+onary heart disease. N Engl J Med. 1985;312:1205–1209.
+
+3. Ascherio A, Rimm EB, Stampfer MJ, et al. Dietary intake of marine
+n-3 fatty acids, ﬁsh intake, and the risk of coronary disease among
+men. N Engl J Med. 1995;332:977–982.
+
+4. Morris MC, Manson JE, Rosner B, et al. Fish consumption and
+cardiovascular disease in the Physicians’ Health Study: a prospec-
+tive study. Am J Epidemiol. 1995;142:166 –175.
+
+5. Morris MC, Sacks F, Rosner B. Does ﬁsh oil lower blood pressure? A
+
+meta-analysis of controlled trials. Circulation. 1993;88:523–533.
+
+6. The effects of nonpharmacologic interventions on blood pressure
+of persons with high normal levels. Results of the Trials of Hyper-
+tension Prevention, Phase I. JAMA. 1992;267:1213-1220.
+
+7. Wing LM, Nestel PJ, Chalmers JP, et al. Lack of effect of ﬁsh oil
+supplementation on blood pressure in treated hypertensives. J Hy-
+pertens. 1990;8:339 –843.
+
+8. Connor WE. Importance of n-3 fatty acids in health and disease.
+
+Am J Clin Nutr. 2000;71(1 suppl):171S–175S.
+
+9. Tagawa H, Shimokawa H, Takawa T, et al. Long-term treatment
+with eicosapentaenoic acid augments both nitric oxide-mediated
+and non-nitric oxide-mediated endothelium-dependent forearm
+vasodilatation in patients with coronary artery disease. J Cardiovasc
+Pharmacol. 1999;33:633–640.
+
+10. Chen LY, Lawson DL, Mehta JL. Reduction in human neutrophil
+superoxide anion generation by n-3 polyunsaturated fatty acids:
+role of cyclooxygenase products and endothelium-derived relaxing
+factor. Thromb Res. 1994;76:317–322.
+
+11. Albert CM, Hennekens CH, O’Donnell CJ, et al. Fish consumption
+
+and risk of sudden cardiac death. JAMA. 1998;279:23–28.
+
+12. Sellmayer A, Witzgall H, Lorenz RL, Weber PC. Effects of dietary
+ﬁsh oil on ventricular premature complexes. Am J Cardiol. 1995;76:
+974 –977.
+
+13. Billman GE, Kang JX, Leaf A. Prevention of ischemia-induced car-
+diac sudden death by n-3 polyunsaturated fatty acids in dogs. Lip-
+ids. 1997;32:1161–1168.
+
+14. Gapinski JP, Van Ruiswyk JV, Heudebert GR, Schectman GS. Pre-
+venting restenosis with ﬁsh oils following coronary angioplasty. A
+meta-analysis. Arch Intern Med. 1993;153:1595–1601.
+
+15. Leaf A, Jorgensen MB, Jacobs AK, et al. Do ﬁsh oils prevent reste-
+nosis after coronary angioplasty? Circulation. 1994;90:2248 –2257.
+16. Jadad AR, Moore RA, Jenkinson C, et al. Assessing the quality of
+reports of randomized clinical trials: is blinding necessary? Control
+Clin Trials. 1996;17:1–12.
+
+17. DerSimonian R, Laird N. Meta-analysis in clinical trials. Control
+
+Clin Trials. 1986;7:177–188.
+
+18. Fleiss JL. The statistical basis of meta-analysis. Stat Methods Med
+
+Res. 1993;2:121–145.
+
+19. Kang JX, Leaf A. Antiarrhythmic effects of polyunsaturated fatty
+
+acids. Recent studies. Circulation. 1996;94:1774 –1780.
+
+20. Burr ML, Gilbert JF, Holliday RM, et al. Effects of changes in fat,
+ﬁsh, and ﬁbre intakes on death and myocardial reinfarction: Diet
+and Reinfarction Trial (DART). Lancet. 1989;2:757–761.
+
+21. de Lorgeril M, Salen P, Martin JL, et al. Mediterranean diet, tradi-
+tional risk factors and the rate of cardiovascular complications after
+myocardial infarction: ﬁnal report of the Lyon Heart Study. Circu-
+lation. 1999;99:779 –785.
+
+22. Reis GJ, Boucher TM, Sipperly ME, et al. Randomised trial of ﬁsh
+oil for prevention of restenosis after coronary angioplasty. Lancet.
+1989;2:177–181.
+
+23. Kaul U, Sanghvi S, Bahl VK, et al. Fish oil supplements for preven-
+tion of restenosis after coronary angioplasty. Int J Cardiol. 1992;35:
+87–93.
+
+24. Sacks FM, Stone PH, Gibson CM, et al. Controlled trial of ﬁsh oil for
+regression of human coronary atherosclerosis. J Am Coll Cardiol.
+1995;25:1492–1498.
+
+25. Singh RB, Niaz MA, Sharma JP, et al. Randomized, double-blind,
+placebo-controlled trial of ﬁsh oil and mustard oil in patients with
+suspected acute myocardial infarction: the Indian experiment of
+infarct survival. Cardiovasc Drugs Ther. 1997;11:485–491.
+
+March 2002 THE AMERICAN JOURNAL OF MEDICINE威 Volume 112
+
+303
+
+N-3 Polyunsaturated Fatty Acids in Coronary Heart Disease/Bucher et al
+
+26. Leng GC, Lee AJ, Fowkes FG, et al. Randomized controlled trial of
+gamma-linolenic acid and eicosapentaenoic acid in peripheral ar-
+terial disease. Clin Nutr. 1998;17:265–271.
+
+27. Johansen O, Brekke M, Seljeﬂot I, et al. N-3 fatty acids do not
+prevent restenosis after coronary angioplasty: results from the
+CART study. Coronary Angioplasty Restenosis Trial. J Am Coll Car-
+diol. 1999;33:1619 –1626.
+
+28. von Schacky C, Angerer P, Kothny W, et al. The effect of dietary
+omega-3 fatty acids on coronary atherosclerosis. A randomized,
+double-blind, placebo-controlled trial. Ann Intern Med. 1999;130:
+554 –562.
+
+29. GISSI Prevenzione Investigators. Dietary supplementation with
+n-3 polyunsaturated fatty acids and vitamin E after myocardial
+infarction: results of the GISSI-Prevenzione trial. Lancet. 1999;354:
+447–455.
+
+30. Moher D, Pham B, Jones A, et al. Does quality of reports of ran-
+domised trials affect estimates of intervention efﬁcacy reported in
+meta-analyses? Lancet. 1998;352:609 –613.
+
+31. Schulz KF, Chalmers I, Grimes DA, Altman DG. Assessing the qual-
+ity of randomization from reports of controlled trials published in
+obstetrics and gynecology. JAMA. 1995;272:125–128.
+
+32. Chin JP, Gust AP, Nestel PJ, Dart AM. Marine oils dose-depen-
+dently inhibit vasoconstriction of forearm resistance in humans.
+Hypertension. 1993;21:22–28.
+
+33. Hughes DA, Pinder AC. N-3 polyunsaturated fatty acids inhibit
+antigen-presenting function of human monocytes. Am J Clin Nutr.
+2000;71(1 suppl):357S–360S.
+
+34. Caughey GE, Mantzioris E, Gibson RA, et al. The effect on human
+tumor necrosis factor alpha and interleukin 1 beta production of
+diets enriched in n-3 fatty acids from vegetable oil or ﬁsh oil. Am J
+Clin Nutr. 1996;63:116 –122.
+
+35. Johansen O, Seljeﬂot I, Hostmark AT, Arnesen H. The effect of
+supplementation with omega-3 fatty acids on soluble markers of
+endothelial function in patients with coronary heart disease. Arte-
+rioscler Thromb Vasc Biol. 1999;19:1681–1686.
+
+36. Feskens EJ, Bowles CH, Kromhout D. Inverse association between
+ﬁsh intake and risk of glucose intolerance in normoglycemic elderly
+men and women. Diabetes Care. 1991;14:935–941.
+
+37. Harris WS. Fish oils and plasma lipid and lipoprotein metabolism
+
+in humans: a critical review. J Lipid Res. 1989;30:785–807.
+
+38. Stampfer MJ, Krauss RM, Ma J, et al. A prospective study of triglyc-
+eride level, low-density lipoprotein particle diameter, and risk of
+myocardial infarction. JAMA. 1996;276:882–888.
+
+39. Kannel WB. Lipids, diabetes, and coronary heart disease: insights
+
+from the Framingham Study. Am Heart J. 1985;110:1100 –1107.
+
+40. McLennan PL, Bridle TM, Abeywardena MY, Charnock JS. Com-
+parative efﬁcacy of n-3 and n-6 polyunsaturated fatty acids in mod-
+ulating ventricular ﬁbrillation threshold in marmoset monkeys.
+Am J Clin Nutr. 1993;58:666 –669.
+
+41. Leaf A, Kang JX. Prevention of cardiac sudden death by n-3 fatty
+
+acids: a review of the evidence. J Intern Med. 1996;240:5–12.
+
+42. Kang JX, Leaf A. Prevention of fatal cardiac arrhythmias by poly-
+unsaturated fatty acids. Am J Clin Nutr. 2000;71(suppl):202S–207S.
+
+304 March 2002 THE AMERICAN JOURNAL OF MEDICINE威 Volume 112
+
+

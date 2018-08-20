@@ -1,0 +1,1650 @@
+Cardiovascular Research 73 (2007) 298 – 309
+
+www.elsevier.com/locate/cardiores
+
+Review
+
+Nutrition, metabolism, and the complex pathophysiology
+
+of cachexia in chronic heart failure
+
+Stephan von Haehling a,⁎, Wolfram Doehner b, Stefan D Anker a,b
+
+a Department of Clinical Cardiology, Imperial College School of Medicine, National Heart and Lung Institute, Dovehouse Street, London, SW3 6LY, UK
+
+b Division of Applied Cachexia Research, Department of Cardiology, Charité Medical School, Campus Virchow-Klinikum, Berlin, Germany
+
+Received 9 May 2006; received in revised form 1 August 2006; accepted 2 August 2006
+
+Available online 1 September 2006
+Time for primary review 23 days
+
+Abstract
+
+Chronic heart failure is a complex catabolic state that carries a devastating prognosis. The transition from stable disease to cardiac cachexia is
+not well understood. Mechanisms that maintain the wasting process involve neurohormones and pro-inflammatory cytokines, which contribute
+to an imbalance in anabolic and catabolic pathways. A decrease in food intake alone rarely triggers the development of a wasting process, but
+dietary deficiencies in micronutrients and macronutrients contribute to the progression of the disease. Malabsorption from the gut as a result of
+bowel wall edema and decreased bowel perfusion also plays an important role. This article describes the complex interplay of hormonal systems
+in energy balance in patients with chronic heart failure as well as other factors such as malabsorption and dietary deficiencies that contribute to
+the wasting process. Finally, therapeutic approaches are discussed. These include dietary advice, ongoing studies, and future possibilities.
+© 2006 European Society of Cardiology. Published by Elsevier B.V. All rights reserved.
+
+Keywords: Cachexia; Heart failure; Nutrition; Catabolism
+
+1. Introduction
+
+Chronic heart failure (CHF) is a major public health pro-
+blem in western countries. CHF carries a devastating
+prognosis which resembles that of some types of malignant
+cancer [1]. Its incidence rises steadily from 0.02 per 1000
+population per year in those aged 25 to 34 years to 11.6 in
+those aged 85 years or older [2]. Despite substantial improve-
+ments in the management of the disease,
+the prognosis
+remains poor especially in advanced stages of the disease.
+About half the patients diagnosed with CHF die within
+4 years of diagnosis [3]. The prognosis worsens considerably
+once cardiac cachexia has been diagnosed. Importantly, the
+occurrence of cachexia establishes a poor prognosis in
+patients with CHF, independently of whether the heart failure
+is regarded as mild or advanced. Mortality at 18 months in
+unselected patients with CHF in whom cardiac cachexia had
+
+⁎ Corresponding author. Tel.: +44 20 7351 8127; fax: +44 20 7351 8733.
+
+E-mail address: stephan.von.haehling@web.de (S. von Haehling).
+
+been diagnosed was as high as 50% compared to 17% in non-
+cachectic patients from the same study population [4].
+However, cachexia is not a unique feature of CHF, but is
+also seen in terminal stages of other chronic illnesses,
+including cancer, sepsis, rheumatoid arthritis, and AIDS.
+Consequently, the pathophysiology of cachexia in CHF is to
+some degree similar to that of cachexia in other illnesses.
+
+The transition from clinically and body weight stable,
+ambulatory CHF to cardiac cachexia is not well understood,
+and the timelines differ widely between patients. Up to 68%
+of patients with CHF have evidence of muscle atrophy [5].
+Osteoporosis has also been observed in advanced stages of
+CHF [6]. Profound metabolic perturbations, initially meant to
+isolate and neutralize the insult, contribute to the develop-
+ment and the progression of cardiac cachexia. Cellular
+hypoxia, possibly a consequence of the activation of neuro-
+hormones and cytokines, as well as nutritional factors cer-
+tainly plays an important part.
+
+The aim of this review is to provide an overview of
+nutritional aspects that contribute to the wasting progress and
+
+0008-6363/$ - see front matter © 2006 European Society of Cardiology. Published by Elsevier B.V. All rights reserved.
+doi:10.1016/j.cardiores.2006.08.018
+
+Downloaded from https://academic.oup.com/cardiovascres/article-abstract/73/2/298/486489
+by guest
+on 20 August 2018
+
+S. von Haehling et al. / Cardiovascular Research 73 (2007) 298–309
+
+299
+
+to summarize available data on micronutrient and macronu-
+trient supplementation in CHF and cardiac cachexia. Further-
+more, we describe the complex interplay between metabolic
+and neurohormonal systems involved in appetite and
+substrate utilization and finally give dietary and therapeutic
+recommendations for patients with CHF with and without
+cardiac cachexia.
+
+1.1. Aging and energy expenditure
+
+In human beings, significant changes in body composi-
+tion occur during the aging process. It has been estimated
+that elderly persons lose between 0.1 and 0.3 kg of lean body
+mass per year [7,8]. Simultaneously, lipid stores increase
+contributing to a net increase in body weight [9]. This is the
+‘normal’ pathophysiology of aging. Total energy expenditure
+declines with aging: at age 75 a much lower daily energy
+intake is needed to maintain weight compared to the age 20,
+even if the level of physical activity remains the same [10].
+The resting energy expenditure accounts for approximately
+60–75% of the total energy expenditure. Resting energy
+expenditure is increased in some, but not all patients with
+CHF [11–13]. This might be due to an increased cardiac and
+ventilatory work, and an increased resting peripheral oxygen
+consumption [14]. Thus, CHF shows a number of catabolic
+features that can ultimately lead to cardiac cachexia. A major
+obstacle for the development of effective therapies is the fact
+that many different – and redundant – pathways are involved
+in the development of this syndrome.
+
+2. Definition of cardiac cachexia
+
+It is important to differentiate cachexia from malnutrition
+and anorexia. In contrast to cachexia, both are reversible once
+food is supplied. With these perturbations, weight loss is the
+result of fat mass being consumed for energy yield while
+muscle mass is mostly spared. There is currently no agree-
+ment on how to define cachexia. Cachectic CHF patients not
+only lose muscle mass, but they also have reductions in total
+fat mass and bone mineral density [15]. A multitude of
+definitions have been used in different studies, which make it
+difficult to reconcile study results from different groups of
+workers. In cardiac cachexia, the presence of edema further
+complicates the assessment of weight loss, which highlights
+the importance to assess changes in body weight in the non-
+edematous state. Established measures of disease severity in
+CHF, for example, left ventricular ejection fraction, New
+York Heart Association (NYHA) disease severity class, or
+exercise duration are not strongly associated with the severity
+of cachexia [16]. In two independent studies we showed that
+the presence of cachexia in CHF is not associated with
+structural cardiac changes as assessed by echocardiography
+[17] or magnetic resonance imaging [18].
+
+The defining clinical characteristic of cachexia is the
+process of losing weight. This has two consequences, first
+that weight loss of a defined degree and possibly over a
+
+defined time-course should be part of any cachexia definition,
+and second, that any treatment for cachexia should be able to
+stabilise or even increase body weight to be considered as
+“anti-cachexia therapy”. Using data from the Studies of Left
+Ventricular Dysfunction (SOLVD) database, Anker et al.
+suggested a definition for cardiac cachexia as documented
+non-edematous weight loss of N6% of the previous normal
+weight observed over a period of N6 months [19]. This
+definition was validated based on the assumption that a “best”
+definition should provide the highest sensitivity–specificity-
+product to predict subsequent mortality. In this context, the
+average weight prior to the onset of heart disease should be
+used as the previous normal weight.
+
+3. Neurohormonal and immune activation
+
+CHF is a complex catabolic state. A number of different
+mechanisms maintain the wasting process, most of which were
+found to be activated early in the development of CHF. Many of
+these pathways are initially activated to protect the heart and the
+circulation from damage and to compensate for impaired
+myocardial function. Mediators that have been implicated in this
+process include pro-inflammatory cytokines, catecholamines,
+cortisol, natriuretic peptides, and heat shock proteins [15,20].
+Activation of the renin–angiotensin–aldosterone–system
+tends to follow the activation of pro-inflammatory cytokines
+in the course of CHF [21]. Whilst the first system is directed
+at maintaining renal and organ perfusion, the activation of the
+immune system is only incompletely understood. Elevated
+plasma levels of tumor necrosis factor-α (TNF-α) were first
+observed in cardiac cachexia in 1990 by Levine and collea-
+gues [22]. Other pro-inflammatory cytokines including
+interleukin (IL)-1 and IL-6 are also activated. The activation
+of TNF-α is one of the candidates that has been suggested as a
+final common pathway in all forms of cachexia. TNF-α
+induces apoptosis via specific receptors on the cell surface
+and activates proteasome-dependent protein breakdown in
+striate muscle and other tissues thus maintaining the wasting
+process [23]. In CHF, plasma levels of soluble TNF-α recep-
+tors are associated with a poor long- and short-term prognosis
+[24,25]. TNF-α is partially responsible for decreased blood
+supply to skeletal muscles as it worsens endothelial dys-
+function [26]. This, in turn, yields reduced exercise en-
+durance and lack of nutrient supply. However, direct
+antagonism of TNF-α in patients with CHF has largely failed
+in clinical trials [27]. But for many reasons this may not mean
+that anti-cytokine therapy may not be of benefit in CHF, if
+restricted to patients with evidence of inflammation [28].
+
+The pro-inflammatory cytokine IL-6 most potently
+induces the acute phase response [29], whose maintenance
+requires an excess of essential amino acids. The need for
+amino acids yields loss of body proteins [30]. Because ske-
+letal muscle accounts for almost half of the body's protein
+mass, this compartment is intensively affected. Moreover,
+both TNF-α and IL-6 are known to down-regulate albumin
+synthesis in the liver [31]. Both TNF-α and IL-1 are involved
+
+Downloaded from https://academic.oup.com/cardiovascres/article-abstract/73/2/298/486489
+by guest
+on 20 August 2018
+
+300
+
+S. von Haehling et al. / Cardiovascular Research 73 (2007) 298–309
+
+in the inhibition of food intake [32]. The mechanisms behind
+this action await to be elucidated in more detail, however, it
+appears that circulating TNF-α and IL-1 act, at least in part,
+directly on the brain [32]. Interestingly, the permeability of
+the blood–brain barrier is increased by these cytokines
+which thus promote their own uptake [33]. Peripheral intra-
+venous injection of IL-1 activates a number of regions in the
+central nervous system that control eating behaviour [34].
+Moreover, TNF-α increases the expression of the catabolic
+hormone leptin [35,36], whereas IL-1 has been shown to
+reduce hypothalamic mRNA levels of the food intake sti-
+mulating neurotransmitter neuropeptide Y (see below) [37].
+
+4. Nutrition and neurohormones
+
+A multitude of nutritional factors contribute to the path-
+ogenesis of cardiac cachexia. These include alterations in
+food intake and appetite, an imbalance between anabolic and
+catabolic factors, as well as malabsorption in the gut. Lack of
+appetite alone can lead to malnourishment in up to 50% of
+patients with chronic illnesses, and this can certainly pro-
+gress to anorexia-mediated cachexia. An adequate nutritional
+status is critical in providing patients with the means to
+recover from their illness and to withstand the detrimental
+metabolic effects of aggressive therapies [38].
+
+4.1. Imbalance between anabolic and catabolic pathways
+
+Numerous hormone systems contribute to the wasting
+process by altering appetite and energy expenditure as shown
+in Fig. 1. The derangement of these hormone systems, poten-
+tially triggered by the effects of pro-inflammatory cytokines
+[39], may be responsible for the development of satiety with-
+out adequate food intake.
+
+4.1.1. Growth hormone
+
+Growth hormone (GH) is a 191 amino acid peptide hor-
+mone released from the pituitary gland. This hormone exerts
+pleitropic actions on both growth and maturation of the body
+during the life span as well as on short-term regulation of
+energetic flux. Its anabolic effect and increased stimulation
+upon all types of stress and energy expenditure may be
+viewed as a regulative effort to restore and built up energy
+stores. GH exerts direct lipolytic effects, but its major mode
+of action is indirect and anabolic through the activation of the
+somatomedins and particularly through insulin-like growth
+factor-1 (IGF-1) [9]. IGF-1 is produced mainly by the liver
+but also by peripheral tissues [40]. GH levels have been found
+to be increased threefold in cachectic patients with CHF
+compared to non-cachectic and healthy subjects [16]. IGF-1,
+was found to be reduced in CHF and particularly so in
+cachectic CHF patients [41]. This biochemical condition
+indicates presence of acquired GH resistance, that has been
+observed in numerous catabolic diseases such as sepsis,
+trauma, surgery, cancer but also in chronic obstructive pul-
+monary disease, uremia, chronic liver disease and CHF [42].
+GH resistance may explain why GH treatment failed to
+improve clinical status of patients with CHF due to dilated
+cardiomyopathy in randomized trials [43–45]. However,
+individual responses to GH had not been tested before en-
+rolment in these trials. Thus, GH treatment might be un-
+suitable for unselected patients because individual GH
+responsiveness may vary considerably.
+
+Theoretical possibilities to overcome GH resistance have
+been suggested. These include altered dosing regimens, the
+combination of GH with IGF-1 or the testing for individual
+GH responsiveness. Applying the latter option would mean
+to use GH therapy as a tailored option only in those in-
+dividuals eligible. Whether there is a future for GH therapy
+
+Fig. 1. Interplay between different players in energy balance in man. A full line denotes enhancement, a dashed line denotes inhibition.
+
+Downloaded from https://academic.oup.com/cardiovascres/article-abstract/73/2/298/486489
+by guest
+on 20 August 2018
+
+S. von Haehling et al. / Cardiovascular Research 73 (2007) 298–309
+
+301
+
+in CHF is unclear and further studies have been discouraged
+by the data described above.
+
+4.1.2. Neuropeptide Y
+
+Neuropeptide Y is a 36-amino acid peptide with a mole-
+cular weight of 10.8 kDa that was initially discovered in 1982
+[46]. It functions as a neurotransmitter and neuromodulator in
+the central and peripheral nervous system [47]. Its main site
+of accumulation is the hypothalamus. Neuropeptide Y is a
+potent stimulator of food intake. Therefore, its secretion in the
+hypothalamus is induced during fasting. Moreover, neuro-
+peptide Y potently induces corticotropin-releasing factor,
+which results in the release of ACTH and cortisol (Fig. 1).
+Only small amounts of neuropeptide Y cross the blood–
+brain barrier. The peptide is co-released with norepinephrine
+from sympathetic nerves and causes vasoconstriction. A
+study in 30 patients with CHF found elevated plasma levels
+of neuropeptide Y compared to 16 healthy controls (p b 0.01)
+[48]. Patients with an LVEF b 20% had similar plasma values
+like those with an LVEF of 20–35% [48]. Intravenous in-
+fusion of neuropeptide Y in seven healthy volunteers had no
+effect on central hemodynamic parameters [49].
+
+4.1.3. Leptin
+
+Leptin is a 16 kDa protein hormone with a direct inhibitory
+effect on neuropeptide Y. Thus, it exerts central effects on food
+intake and body energy balance. Its existence had originally
+been suggested from mutant mouse models (ob/ob mouse) and
+parabiosis experiments in the 1950's, but it was only in 1994
+that the ob gene product had been identified [50], which had
+subsequently been termed leptin (from Greek “leptos”, thin).
+Leptin is exclusively secreted from adipocytes [51]. In fact, it
+was the first adipocyte-derived hormone to be discovered, and
+its existence proved that fat tissue is actively involved in
+metabolic signalling rather that being a mere energy depot.
+Later studies identified other substances derived from adip-
+ocytes such as adiponectin. Leptin crosses the blood–brain
+barrier, and it was initially believed to be an inhibiting feed-
+back link between adipose tissue and the central regulation of
+satiety and body composition (Fig. 1). Recent studies, how-
+ever, demonstrated that leptin receptors are also expressed in
+several peripheral
+liver,
+kidney, lung, skeletal muscle, and bone marrow suggesting a
+role in the periphery as well [52–54]. Importantly, leptin
+affects the balance of several metabolic and hormonal path-
+ways, such as insulin sensitivity [55], GH signalling [56], and
+lipogenesis in adipose tissue. Leptin and adiponectin appear to
+work together in sensitizing peripheral tissues to insulin [57].
+Leptin itself is under multihormonal control (via insulin,
+glucocorticoids, catecholamines), and its serum levels in
+women are higher than in men [58].
+
+tissues such as pancreatic islets,
+
+Being secreted from fat tissue, circulating leptin levels
+depend on the amount of fat tissue. Its main purpose is to
+control and maintain the balance of energy stores (i.e. fat
+depots). Accordingly, increased leptin release leads to a
+reduction in food intake and increases in energy expenditure
+
+through increased thermogenesis and physical activity. Food
+deprivation yields a rapid fall in leptin release. A 10%
+reduction in body weight leads to a 53% reduction in serum
+leptin levels in obese subjects [59]. Conversely, an increase
+in body weight by 10% results in a 300% increase in serum
+leptin levels [59].
+
+In CHF, the amount of fat tissue similarly predicts leptin
+serum levels [13]. Disease related factors might, however,
+affect the balanced feed-back regulation as elevated leptin
+levels have been reported in CHF patients [55,60,61]. Lower
+levels of leptin in cachectic compared to non-cachectic patients
+might be expected in view of the reduced amount of fat tissue
+in cachectic patients. This has been confirmed in a number of
+studies [56,62,63]. Some controversy remains about leptin
+levels in CHF, because other studies reported normal leptin
+levels compared to controls [64]. This might be due to the
+selection of study subjects as these were different regarding
+sex distribution and the presence of cachexia between studies
+[65]. Leptin should therefore be normalized for fat tissue
+amount for comparison of study populations. Accordingly, the
+leptin levels in cachectic CHF patients were suggested to be
+viewed as “pseudo-normal” leptin levels. When fat tissue
+normalized leptin levels were analysed, both non-cachectic
+and cachectic CHF patients were found to be hyperleptinemic
+[55]. In any case, it appears that leptin levels in cachectic CHF
+are not higher than in non-cachectic patients, which argues
+against reduced appetite and food intake to be of particular
+importance for the development of cardiac cachexia.
+
+4.1.4. Ghrelin
+
+Ghrelin, originally identified in 1999 [66], is a 12.9 kDa
+peptide containing 28 amino acids. Ghrelin stimulates the
+secretion of growth hormone. It is predominantly produced by
+the stomach, although bowel, pancreas, kidney, hypothalamus
+and other tissues also contribute to its plasma concentration
+[67]. Ghrelin plays an important role in hunger and meal
+initiation. Ghrelin plasma levels rise with food deprivation
+causing increases in food intake and weight gain through
+increases in fat mass and decreases in fat use [68,69]. Healthy
+volunteers treated with ghrelin report hunger sensations [67].
+On the other hand, ghrelin blocks leptin-mediated decreases in
+food intake. Not surprisingly, ghrelin levels are negatively
+correlated with body mass index (BMI) and body fat content
+[70], and ghrelin levels usually increase after weight loss.
+
+Nagaya et al. studied plasma ghrelin levels in 28 cachectic
+(mean NYHA 3.3 ± 0.1, LVEF 27 ± 1%, BMI 17.9 ± 0.4 kg/
+m2) and 46 non-cachectic (NYHA 3.0 ± 0.1, LVEF 29 ± 1%,
+BMI 22.7 ± 0.7 kg/m2) patients with CHF [71]. Cachectic
+patients presented with significantly higher levels of plasma
+ghrelin than non-cachectic patients (p b 0.001) [71]. Plasma
+ghrelin levels in this study correlated significantly with
+plasma levels of growth hormone (r = 0.28, p b 0.05) and
+TNF-α (r = 0.31, p b 0.05) [71]. Ten patients who developed
+cardiac cachexia during a mean follow-up of 12 ± 1 months
+showed significant
+increases in plasma ghrelin levels
+(p b 0.05) [71].
+
+Downloaded from https://academic.oup.com/cardiovascres/article-abstract/73/2/298/486489
+by guest
+on 20 August 2018
+
+302
+
+S. von Haehling et al. / Cardiovascular Research 73 (2007) 298–309
+
+A small, uncontrolled study of intravenous infusion of
+ghrelin showed promising results [72]. In this study, 10 pa-
+tients with CHF, predominantly cachectic patients in NYHA
+class III, were treated with ghrelin at a dose of 2 μg/kg over
+30 min at a constant rate twice daily for three weeks. Ghrelin
+increased food intake and led to a non-significant increase in
+body weight (49.6 ± 2.7 to 50.4 ± 2.7 kg, p = 0.09) [72].
+Patients experienced a significant increase in lean body mass
+as assessed by dual X-ray absorptiometry (38.3 ± 2.1 to 39.1 ±
+2.1 kg, p b 0.05). Interestingly, ghrelin also led to an increase
+in LVEF (27 ± 2 to 31 ± 2%, p b 0.05). Plasma levels of B-type
+natriuretic peptide decreased over the three week treatment
+period (238 ± 59 to 190 ± 60 pg/mL) [72]. Several studies are
+currently initiated to assess whether these results can be
+reproduced in double-blind placebo-controlled studies.
+
+4.1.5. Insulin
+
+Insulin has a pivotal role in the regulation of body com-
+position for its two major functions: (i) regulation of energy
+flux and substrate utilization and (ii) anabolism. In CHF,
+diabetes mellitus is a common comorbidity with a prevalence
+of 20–25% (compared to 5% in the general population).
+Diabetes mellitus has been shown to be a predisposing factor
+for the development of CHF [73,74]. Insulin resistance – the
+underlying principle of type II diabetes – develops as a
+continuous process and occurs decades before the diagnosis
+of overt diabetes mellitus. Accordingly, sub-clinical impair-
+ment of glucose metabolism has been observed in a CHF
+population with a prevalence of 43% [75]. In patients with
+CHF, insulin resistance is a characteristic finding increasing
+in parallel to disease severity [76]. A direct impact of insulin
+resistance on impaired functional capacity of skeletal muscle
+has been shown [77,75]. Reduced glucose utilization is
+paralleled by an increase of free fatty acid consumption which
+implies reduced energetic sufficiency. Furthermore, recent
+evidence suggests prognostic significance of insulin resis-
+tance in CHF as it predicts impaired survival independently
+of established prognosticators [78]. The underlying mechan-
+isms of insulin resistance in CHF and other chronic illnesses
+form a complex web of metabolic interrelations on the basis
+of age and genetic predisposition, including factors such as
+immune activation, neurohormonal activation, and hormonal
+imbalances (e.g. hyperleptinemia, GH resistance).
+
+On the basis of the above it seems intriguing to test
+whether therapeutically targeting and restoring insulin sen-
+sitivity may exert additional beneficial effects on symptom-
+atic status and potentially on prognosis in CHF and especially
+in cachectic patients. Thiazolidinediones are selective ago-
+nists of the peroxisome proliferator activated receptor-γ that
+modulate insulin-mediated glucose utilization by the skeletal
+muscle on a transcriptional level. The use of such insulin
+sensitizers in CHF has recently been debated, because they
+increase fluid retention and may contribute to increased
+edema. However, animal models suggest that the weight gain
+associated with the use of these substances may be blocked by
+amiloride [79].
+
+4.2. Dietary deficiency and loss of nutrients
+
+Patients with CHF are prone to reduced appetite and
+consequently reduced food intake [80]. The reasons are
+multifactorial but include changes in taste and smell, dietary
+advice on salt and calorie intake, social isolation, and der-
+angements in bowel perfusion. However, only seldom is the
+decrease in food intake per se triggering the development of
+a wasting syndrome [9]. Deficiencies in both micronutrients
+and macronutrients, on the other hand, may contribute to the
+wasting process once triggered. Additionally, disease-
+associated metabolic perturbations hamper the optimal uti-
+lization of nutrients, which may have its reasons, for
+example, in hormonal derangements (see below). Large-
+scale studies on appetite and food intake in CHF are not
+available.
+In our clinical experience anorexia plays a
+significant role in cachexia pathophysiology only in a
+minority of patients with CHF, which contrasts findings in
+COPD or malignant cancer.
+
+4.2.1. Micronutrients
+
+A micronutrient is any essential dietary component pre-
+sent in a trace amount [81]. There is general agreement that a
+diet high in sodium is potentially harmful in CHF, as it may
+cause fluid overload and consequently acute decompensa-
+tion. Deficiency in micronutrients, on the other hand, as a
+cause of heart failure is rare, but cases due to selenium and
+thiamine (vitamin B1) deficiency have been reported [82].
+Thiamine supplementation per se may improve cardiac func-
+tion [83]. Levels of selenium have been reported to be low in
+CHF. In a study of 21 patients with CHF (NYHA class II–III,
+mean LVEF 29 ± 6%), baseline selenium levels were appro-
+ximately 20% lower than those in healthy control subjects
+(p = 0.0004) [84]. Whereas plasma levels of copper were 19%
+higher in patients with CHF compared to controls (p b 0.05),
+zinc levels were 9% lower (p b 0.05) [84].
+
+Patients with CHF are usually receiving loop diuretics
+which increase urinary excretion of micronutrients. Using
+multiple micronutrient supplementations, Witte et al. showed
+recently improvements in left ventricular ejection fraction
+(LVEF) and quality of life after 9 months of treatment [85].
+In this placebo-controlled, randomized, double-blind study, a
+total of 30 patients with CHF received capsules containing
+thiamine (daily dose: 200 mg), vitamins C (500 mg) and E
+(400 mg), magnesium (150 mg), selenium (50 μg), zinc
+(15 mg), co-enzyme Q10 (150 mg), and various other subs-
+tances. LVEF improved by 5.3 ± 1.4% in the micronutrient
+group (p b 0.05 vs. placebo). A possible explanation other
+than replacement of thiamine is the reduction of oxidative
+stress by the aforementioned substances, a significant contri-
+butor to morbidity in CHF and cardiac cachexia. Indeed,
+many micronutrients can scavenge free radicals [81]. This
+may ensue through direct action as with vitamins C and E
+although recent studies have questioned their “real life”
+efficacy in various conditions [86,87]. An indirect effect of
+micronutrients may ensue as components of anti-oxidant
+
+Downloaded from https://academic.oup.com/cardiovascres/article-abstract/73/2/298/486489
+by guest
+on 20 August 2018
+
+S. von Haehling et al. / Cardiovascular Research 73 (2007) 298–309
+
+303
+
+enzymes like zinc in superoxide dismutase or selenium in
+glutathione peroxidase [88].
+
+4.2.2. Macronutrients
+
+Protein degradation by the proteasome plays an important
+role in the development and progression of cachexia. There-
+fore, amino acid supplementation has been studied in some
+but still only few models. Glutamine, for example, is a non-
+essential amino acid that is involved in cellular integrity and
+immune function. Low plasma levels of glutamine were
+found in critically ill patients and patients with chronic illness
+associated with muscle wasting [89,90]. In a randomized,
+placebo-controlled, double-blind study, the effect of treat-
+ment with a mixture of β-hydroxy-β-methylbutyrate (3 g/
+day), L-arginine (14 g/day), and L-glutamine (14 g/day) in 18
+cachectic cancer patients was evaluated [91]. The placebo
+group received a mixture of non-essential amino acids.
+Patients in the active treatment group gained 0.95 ± 0.66 kg
+compared to control subjects who lost 0.26 ± 0.78 kg after
+four weeks. This change was due to a significant increase in
+fat-free mass in the active treatment group (+1.12 ± 0.68 kg
+vs −1.34 ± 0.78 kg, p = 0.02) [91].
+
+Branched-chain amino acids, namely leucine, isoleucine,
+and valine, have been suggested as a useful supplementation
+in the treatment of cachexia [38]. These amino acids appear
+to exert anabolic effects by promoting protein synthesis and
+by inhibiting proteolysis. This notion appears to be parti-
+cularly true for leucine [92]. Stein et al. investigated the
+effect of amino acid supplementation during a 14-day period
+of bed-rest, which is known to involve protein loss from
+weight-bearing muscle [93]. During bed-rest, healthy volun-
+teers received either a supplementation with the three bran-
+ched-chain amino acids (30 mmol/day each) or a mixture of
+non-essential amino acids (glycine, serine, and alanine,
+
+Table 1
+Daily dietary intake data of patients with CHF and controls
+
+30 mmol/day each). Interestingly, the concentration of free
+amino acids in muscle biopsies was greater in the branched-
+chain amino acid treated group during bed-rest compared to
+the control group (0.21 ± 0.07 vs 0.09 ± 0.12 nmol/mg pro-
+tein, p b 0.05) [93]. Moreover, nitrogen retention, reflecting
+the body's protein pool, was greater in the branched-chain
+amino acid treated group (56 ± 6 vs 26 ± 12 mg nitrogen per
+kg per day, p b 0.05) [93].
+
+However, supplementation of any amino acid is certainly
+not beneficial. Homocysteine,
+for example, has been
+described to possess negative inotropic properties [94], and
+hyperhomocysteinemia is a well-established risk factor for
+cardiovascular diseases. In a substudy of the Framingham
+Heart Study, hyperhomocysteinemia was associated with a
+hazard ratio for the development of heart failure (adjusted for
+established risk factors) of 1.84 (95% CI 1.06–3.17) in men
+and 1.93 (95% CI 1.19–3.13) in women [95]. In association
+with relatively low levels of vitamins B6, B9 (folate), B12,
+and magnesium, homocysteine levels were found to be in-
+creased in patients with established CHF compared to
+healthy controls (20.5 ± 2.5 vs. 13.3 ± 1.1 μmol/L, p = 0.01)
+[88]. Indeed, circulating homocysteine levels are strongly
+influenced by vitamin status, because homocysteine degra-
+dation is dependent on the presence of vitamins B6, B9, and
+B12 [96]. This point is worth stressing, as Gorelik et al. have
+shown that
+the intake of vitamin B9 did not reach the
+recommended daily amount (400 μg) in 57 hospitalized
+patients with CHF and 40 healthy controls (Table 1) [97].
+Dietary supplementation with n− 3 polyunsaturated fatty
+acids derived from fish oil has also been studied. In a canine
+model of heart failure, the effect of fish oil supplementation
+was studied [98]. 28 dogs, 15 of which were cachectic, were
+fed fish oil supplement or placebo for eight weeks. Active
+treatment decreased plasma levels of IL-1 (p = 0.02) and
+
+Energy, kcal
+Protein, g
+Vitamin A, μg retinol equivalents
+Vitamin C, mg
+Thiamin, mg
+Riboflavin, mg
+Niacin, mg niacin equivalents
+Folic acid, μg
+Magnesium, mg
+Sodium, mg
+Potassium, mg
+Calcium, mg
+Zinc, mg
+Copper, mg
+Manganese, mg
+
+RDA or DRI
+
+1890–1960 b
+50–63 b
+800–1000
+60
+1.1–1.2
+1.1–1.3
+14–16
+400
+320–420
+
+1560–4690
+1200
+12–15
+1.5–3
+2–5
+
+Patients
+with CHP
+(n = 57)
+
+1602 ± 530
+74 ± 22
+
+1210 ± 1364
+137 ± 126
+1.0 ± 0.5
+1.0 ± 0.4
+24 ± 8
+168 ± 120
+229 ± 97
+1172 ± 621
+2353 ± 1078
+617 ± 280
+5.7 ± 2.8
+0.9 ± 0.5
+1.4 ± 0.8
+
+Controls a
+(n = 40)
+
+1609 ± 826
+72 ± 31
+
+1528 ± 1367
+124 ± 80
+0.8 ± 0.3
+0.9 ± 0.4
+23 ± 12
+175 ± 98
+261 ± 172
+1030 ± 635
+2170 ± 928
+589 ± 267
+5.6 ± 3.6
+0.9 ± 0.5
+1.5 ± 0.6
+
+p
+value
+
+Dietary insufficiency, %
+
+Patients
+
+Controls
+
+NS
+NS
+NS
+NS
+NS
+NS
+NS
+NS
+NS
+NS
+NS
+NS
+NS
+NS
+NS
+
+67.6
+8.5
+47.3
+20.3
+64.2
+77.7
+8.5
+65.9
+81.1
+
+18.6
+81.1
+94.6
+87.9
+82.8
+
+70
+20
+40
+22.5
+62.5
+80
+15
+55
+72.5
+
+30
+72.5
+95
+80
+77.5
+
+Reproduced with permission from S. Karger AG [97].
+
+a Values are means ± SD.
+b For 70 kg body weight.
+
+Downloaded from https://academic.oup.com/cardiovascres/article-abstract/73/2/298/486489
+by guest
+on 20 August 2018
+
+304
+
+S. von Haehling et al. / Cardiovascular Research 73 (2007) 298–309
+
+improved cachexia (p = 0.01) compared to the placebo group.
+Plasma concentrations of IGF-1 (p = 0.01) and IL-1 (p = 0.02)
+correlated with survival [98].
+
+Rozentryt et al. studied the effects of enteral support in a
+small, randomized, placebo-controlled study [99]. A total of
+29 patients with cardiac cachexia were randomized in a 3:1
+fashion to an enteral support of 600 kcal daily in addition to
+their normal diet or placebo for six weeks. After the nutri-
+tional supplementation had been discontinued, patients were
+followed-up for an additional 12 weeks. Interestingly, weight
+increased in the active treatment group only (before
+nutritional support: 63.4 ± 10 kg, after nutritional support:
+66.0 ± 11 kg, p = 0.001), as did the 6-minute walking distance
+(before: 366 ± 108 m, after: 433 ± 106 m, p = 0.02), and the
+total fat mass (before: 15.5± 3 kg, after 17.2± 4 kg, p = 0.007).
+Thus, hypercaloric diets warrant further studies in larger trials.
+
+4.3. Malabsorption and bowel permeability
+
+Bowel wall permeability and thus absorption of nutrients
+from the gut in patients with CHF are thought to be influen-
+ced mainly by two factors: bowel perfusion and bowel
+edema. Indeed, the small and large intestines are highly
+vascularized and receive under normal conditions up to 25%
+of the cardiac output [100]. Relatively small changes in
+blood flow can lead to ischemia of the tips of the villi, which
+is the result of blood being shunted from arterioles to venules
+at low flow rates [101]. Such phenomena are observed in
+situations with low cardiac output, which may occur, for
+example, after coronary artery bypass grafting [102]. Bowel
+edema can lead to fat malabsorption [103] and protein loss
+[104]. Especially protein loss may contribute to the deve-
+lopment of cardiac cachexia. Moreover, bowel wall edema
+may yield translocation of bacteria or endotoxin, a cell wall
+component from Gram-negative bacteria, through the gut
+wall into the circulation. Indeed, patients with edematous
+decompensation of CHF were found to have elevated plasma
+levels of endotoxin as compared to patients with stable
+disease (0.74 ± 0.45 vs 0.37 ± 0.23 endotoxin units [EU]/mL,
+p = 0.0009) and controls (0.46 ± 0.21 EU/mL, p = 0.02). The
+elevated levels decreased after diuretic therapy. The endo-
+toxin challenge may be the responsible stimulus that triggers
+the release of pro-inflammatory cytokines [105].
+
+4.4. Lipoprotein–endotoxin-hypothesis
+
+It has recently been suggested that cholesterol may inhibit
+the activity of endotoxin [106]. This may explain why high
+cholesterol values predict better (not worse) survival
+in
+patients with CHF [107,108]. Indeed, it has been demon-
+strated in a study in 114 patients with CHF that higher total
+serum cholesterol was a predictor of improved survival
+(hazard ratio 0.64, 95% CI 0.48–0.86), independent of CHF
+etiology, age, LVEF, and exercise capacity [107]. This study
+showed that total cholesterol ≤5.2 mmol/L (200.8 mg/dL)
+was the best cut-off value as a predictor of mortality after
+
+12 months (sensitivity 80%, specificity 62.9%) (Fig. 2). Data
+from in vitro studies are in support of this view [109]. Thus,
+micelle formation by cholesterol around endotoxin could be
+beneficial in CHF. Indeed, earlier studies using highly puri-
+fied plasma lipoproteins demonstrated that these can inhibit
+endotoxin activity in a time- and dose-dependent fashion
+[110]. It is not known if cholesterol values correlate with pro-
+inflammatory parameters.
+
+5. Therapeutic approaches to cardiac cachexia
+
+5.1. Prevention of weight loss
+
+The treatment of CHF varies according to disease seve-
+rity. The standard regimen currently comprises angiotensin
+converting enzyme (ACE) inhibitors or angiotensin receptor
+blockers, β-blockers, and diuretics (thiazide or loop diu-
+retics). Patients with more advanced stages of the disease
+should also receive an aldosterone antagonist. Particularly
+ACE inhibitors and β-blockers have recently been shown to
+exert beneficial effects on weight development in patients
+with CHF [19]. A re-analysis of the SOLVD database has
+shown that enalapril can prevent or delay weight loss in
+patients with CHF. 817 (42%) of the 1929 patients in SOLVD
+experienced weight loss of 5% or more over a period of
+8 months (Fig. 3). Enalapril, used at a dose of 20 mg once
+daily, reduced the risk of weight loss compared to placebo
+(adjusted hazard ratio 0.81, 95% CI 0.70–0.94, p = 0.0054)
+[19].
+
+Carvedilol is a β-blocker that showed a reduction in
+mortality by 35% in patients with CHF compared to placebo
+in the Carvedilol Prospective Randomized Cumulative
+Survival Study (COPERNICUS) [111]. In a recent re-
+analysis of these data it was shown that carvedilol (target
+dose: 25 mg twice daily) reduced the risk of weight loss
+[112]. A total of 2262 patients were analysed. 14.1% in the
+placebo group and 10.2% in the carvedilol group developed
+cachexia during follow-up (p = 0.005). Moreover, there was a
+
+Fig. 2. Survival in 303 patients with CHF related to the best predictive value
+for serum cholesterol of 5.2 mmol/L. Log-rank p = 0.0011 for the difference
+between groups. Reproduced with permission [107].
+
+Downloaded from https://academic.oup.com/cardiovascres/article-abstract/73/2/298/486489
+by guest
+on 20 August 2018
+
+S. von Haehling et al. / Cardiovascular Research 73 (2007) 298–309
+
+305
+
+be advised to eat small, frequent meals [9]. Fluid overload
+should be avoided, and in patients with severe symptoms or
+those requiring high doses of diuretics, fluid restriction (1.5–
+2.0 L per day) should be advised [80]. The evidence suggests
+that multiple micronutrient supplementation is potentially
+beneficial for cachectic patients [85], and it should contain
+anti-oxidant supplements and B-group vitamins. As stated
+above retrospective data indicate that low levels of total
+cholesterol, LDL and triglycerides are associated with poor
+outcome in CHF patients [116,117]. Nevertheless, statin
+therapy is associated with survival benefits in CHF, and
+hence statins may be beneficial in CHF patients not because
+but despite their cholesterol lowering effects [118].
+
+As a general rule, food and lifestyle factors that trigger the
+acute phase response should be avoided. This comprises, for
+example, excess of carbohydrates or saturated fats, alcohol,
+and smoking [119]. Food that counteracts inflammatory
+processes can generally be recommended, for example fish
+oil supplements, olives, walnuts, flaxseed oil, any fruits or
+vegetables, garlic, ginger, turmeric, sunflower seeds, eggs,
+herring, or nuts [119]. Enteral nutrition should always be
+preferred over parenteral feeding. If parenteral nutrition
+becomes paramount, the general guidelines should be fol-
+lowed: 35 kcal per kg of body weight per day, 1.2 g of
+protein per kg per day, and a 70:30 glucose:lipid ratio for the
+non-protein energy [9].
+
+5.3. Pharmacotherapy of cachexia
+
+Some therapeutic approaches are currently pursued in order
+to reverse weight
+loss in patients with cachexia. Cardiac
+cachexia has not specifically been targeted and it appears
+important to note that none of the following treatments are
+currently approved for the treatment of cachexia in CHF or any
+other chronic illness (with the exception for use in AIDS ca-
+chexia). The therapeutic concepts comprise interventions with
+appetite stimulants, anabolic steroids, and growth hormone.
+
+Appetite stimulants such as megestrol acetate and
+medroxyprogesterone acetate have been reported to stimu-
+late appetite and weight gain. The optimal dose of megestrol
+appears to be 800 mg daily with doses ranging from 160 to
+1600 mg daily. In a double-blind, randomized, placebo-
+controlled study in 107 patients with cancer, patients were
+assigned to one of three treatment groups: (i) megestrol
+acetate 160 mg daily (n = 37), (ii) megestrol acetate 480 mg
+daily (n = 35), or (iii) placebo (n = 35) [120]. Weight gain was
+reported in 38% on the lower and 68% on the higher dose of
+megestrol acetate compared to 37% in the placebo group
+(p b 0.03). Whilst
+the higher dose of megestrol acetate
+yielded a mean weight gain of 5.41 kg after 12 weeks of
+treatment, there was no change in the mean values of body
+weight in the lower megestrol acetate or the placebo group
+[120]. In another randomized, double-blind study, a total of
+475 patients with cancer were assigned to one of three
+treatment arms as well: (i) dexamethasone 0.75 mg four times
+daily (n = 159), (ii) megestrol acetate 800 mg once daily
+
+Fig. 3. Cumulative incidence of cachexia (weight loss≥ 6%) in patients with
+chronic heart failure treated with enalapril or placebo in the SOLVD
+treatment study. Reproduced with permission [19].
+
+decrease in mortality with increasing body mass index
+(p b 0.0001), and in fact the risk of death decreased by 7.7%
+per unit
+increase in BMI. Importantly, only patients on
+carvedilol experienced a significant increase in body weight
+compared to placebo. At four months, the mean change in
+body weight in the carvedilol group was +0.5 kg vs −0.1 kg
+in the placebo group (p = 0.0002). At 8 months, the corres-
+ponding numbers were +0.9 kg vs −0.1 kg (p b 0.0001), and
+at 12 months +1.1 kg vs +0.2 kg (p b 0.0001) [112].
+
+Although the effect of carvedilol appears to be readily
+explained by the inhibition of catecholamine-induced lipo-
+lysis [113], it is not entirely clear whether these effects are
+class effects or apply only to specific substances. However,
+bisoprolol (target dose: 10 mg once daily) reduced the risk of
+weight loss in a subanalysis of the Cardiac Insufficiency
+Bisoprolol Study (CIBIS) II database [114]. This subanalysis
+confirmed the aforementioned findings, as it showed a
+significant decrease of 3.5% in mortality with increase per
+unit of body mass index. Patients with CHF with a body mass
+index N 25 kg/m2 had a 25% lower risk of death than patients
+with a body mass index≤ 25 kg/m2 (95% CI 8–39%).
+Patients on bisoprolol experienced an increase in weight
+compared to those on placebo after 12 months (+0.8 kg vs
+−0.04 kg, p b 0.0001) and after 24 months (+1.2 kg vs +
+0.03 kg, p = 0.0041). It appears that β-blockers exert anti-
+cachexia effects by inhibiting lipolysis. A recent study found
+that approximately 70% of the weight increase that a β-blocker
+can induce is an increase in fat tissue mass [115].
+
+5.2. Dietary supplementation
+
+Patients with CHF, whether cachectic or not, should
+restrict their daily sodium intake to about 2 g [80]. Foods rich
+in salt such as cheese, sausages, crisps, tinned soup and
+vegetables, ham, bacon, tinned meat, and tinned or smoked
+fish should therefore be avoided [80]. Long periods of
+fasting are potentially harmful, and cachectic patients should
+
+Downloaded from https://academic.oup.com/cardiovascres/article-abstract/73/2/298/486489
+by guest
+on 20 August 2018
+
+306
+
+S. von Haehling et al. / Cardiovascular Research 73 (2007) 298–309
+
+(n = 158), or (iii) fluoxymesterone 10 mg twice daily (n =
+158). Fluoxymesterone enhanced appetite significantly less
+than the other two substances. Dexamethasone and megestrol
+acetate caused a similar degree of appetite enhancement,
+however, dexamethasone had a higher rate of drug discon-
+tinuation compared to megestrol acetate (36% vs 25%,
+p = 0.03). Treatment with megestrol acetate, on the other
+hand, yielded a higher rate of deep vein thrombosis than
+dexamethasone (5% vs 1%, p = 0.06). There is so far no data
+on the use of megestrol acetate or systemic steroid hormones
+in cardiac cachexia.
+
+Anabolic steroids are another possible therapeutic ap-
+proach to treat cardiac cachexia. Few clinical studies have
+been performed in patients with cachexia, none of them in
+patients with cardiac cachexia. In 12 patients with CHF due
+to idiopathic dilated cardiomyopathy, the administration of
+the anabolic steroid oxymetholone 5–10 mg daily for three
+months, led to significant decreases in left ventricular end-
+diastolic (from 68 ± 2 to 63 ± 2 mm, p b 0.001) and end-
+diastolic (from 53 ± 3 to 46 ± 3 mm, p b 0.001) diameters
+[121]. Left ventricular mass decreased from 381 ± 37 g to
+342 ± 34 g (p b 0.001). Interestingly, the reduction stopped
+six months after drug discontinuation. LVEF increased from
+42 ± 6% to 51 ± 5% (p b 0.005), and plasma B-type natriuretic
+peptide levels decreased from 96 ± 9 to 46 ± 7 pg/mL
+(p b 0.001) [121]. Body weight did not change during the
+study period [121]. Pugh et al.
+investigated the acute
+hemodynamic effects of testosterone in 12 men with stable
+CHF [122]. In this double-blind, randomized, placebo-con-
+trolled cross-over
+testosterone yielded a relative
+increase in cardiac output 180 min after application of
+testosterone (+10.6 ± 4.6%, p = 0.035 compared to baseline).
+Systemic vascular resistance was reduced with maximal
+effect at the same time point (−17.4 ± 9.6%, p = 0.085 com-
+pared to baseline) [122]. Thus, testosterone application may
+increase cardiac output via reduction of left ventricular
+afterload, but it remains unclear whether this is due to its
+anabolic efficacy.
+
+trial,
+
+A limited number of studies have addressed the use of
+growth hormone in patients with CHF. Fazio et al. were
+among the first to study this concept [123]. When they treated
+7 patients with idiopathic dilated cardiomyopathy with re-
+combinant human growth hormone 14 IU per week (4 IU
+every other day) for three months, they found a significant
+increase in cardiac output, particularly during exercise (from
+7.4 ± 0.7 to 9.7 ± 0.9 L/min, p = 0.003). Left ventricular end-
+diastolic and end-systolic dimensions decreased from 65 ± 1
+to 61 ± 1 mm (p b 0.001) and from 52 ± 1 to 46 ± 1 mm
+(p b 0.001). LVEF increased from 34 ± 1.5 to 47 ± 1.9%
+(p b 0.001) immediately after therapy. Like the left ventricular
+dimensions, LVEF decreased slightly three months after
+study termination (40 ± 2.4%, p = 0.02 compared to baseline).
+These promising effects, however, could only partially be
+reproduced in a larger cohort of patients with idiopathic
+cardiomyopathy [44]. In this study by Osterziel et al., LVEF
+was essentially unchanged three months after treatment
+
+initiation with 2 IU per day of recombinant human growth
+hormone administered subcutaneously in double-blind,
+randomized, placebo-controlled study in 50 patients. Left
+ventricular mass increased in the active treatment arm by
+25.0 ± 29.2 g (from 236 to 260 g, p b 0.001). NYHA class and
+6-minute walking distance did not change during the study
+period [44].
+
+6. Conclusion
+
+The pathophysiology of cardiac cachexia is exceedingly
+complex, and only slowly do we begin to understand the
+many different – and redundant – pathways involved in its
+pathogenesis. Of particular importance is to establish a
+commonly accepted definition of
+the syndrome [124].
+Targets for
+future interventions include the deranged
+hormonal systems involved in energy balance as well as
+malabsorption from the gut and dietary supplementation
+with micronutrients and macronutrients potentially joined in
+some form of hypercaloric diet. Other targets involve the
+inhibition of proteasome-dependent protein degradation and
+the direct
+inhibition of pro-inflammatory pathways. The
+beneficial effects of ACE inhibitors and β-blockers in
+preventing or delaying the onset of a wasting syndrome merit
+further attention. Prospective randomized clinical trials are
+required in that respect. These will help to improve the
+patients' quality of life and possibly their survival.
+
+References
+
+[1] Stewart S, MacIntyre K, Hole DJ, Capewell S, McMurray JJ. More
+following a first
+
+‘malignant’
+admission for heart failure. Eur J Heart Fail 2001;3:315–22.
+
+than cancer? Five-year survival
+
+[2] Cowie MR, Wood DA, Coats AJ, Thompson SG, Poole-Wilson PA,
+Suresh V, et al. Incidence and aetiology of heart failure; a population-
+based study. Eur Heart J 1999;20:421–8.
+
+[3] Remme WJ, Swedberg K. Guidelines for the diagnosis and treatment
+
+of chronic heart failure. Eur Heart J 2001;22:1527–60.
+
+[4] Anker SD, Ponikowski P, Varney S, Chua TP, Clark AL, Webb-
+Peploe KM, et al. Wasting as independent risk factor for mortality in
+chronic heart failure. Lancet 1997;349:1050–3.
+
+[5] Mancini DM, Walter G, Reichek N, Lenkinski R, McCully KK,
+Mullen JL, et al. Contribution of skeletal muscle atrophy to exercise
+intolerance and altered muscle metabolism in heart failure. Circula-
+tion 1992;85:1364–73.
+
+[6] Lee AH, Mull RL, Keenan GF, Callegari PE, Dalinka MK, Eisen HJ,
+et al. Osteoporosis and bone morbidity in cardiac transplant reci-
+pients. Am J Med 1994;96:35–41.
+
+[7] Kuczmarski RJ. Need for body composition information in elderly
+
+subjects. Am J Clin Nutr 1989;50:1150–7.
+
+[8] Chumlea WC, Garry PJ, Hunt WC, Rhyne RL. Distribution of serial
+changes in stature and weight in a healthy elderly population. Hum
+Biol 1988;60:917–25.
+
+[9] Mustafa I, Leverve X. Metabolic and nutritional disorders in cardiac
+
+cachexia. Nutrition 2001;17:756–60.
+
+[10] Pi-Sunyer FX. Over nutrition and undernutrition as modifiers of
+metabolic processes in disease states. Am J Clin Nutr 2000;72:533S–7S
+[Suppl].
+
+[11] Poehlman ET, Scheffers J, Gottlieb SS, Fisher ML, Vaitekevicius P.
+Increased resting metabolic rate in patients with congestive heart
+failure. Ann Intern Med 1994;121:860–2.
+
+Downloaded from https://academic.oup.com/cardiovascres/article-abstract/73/2/298/486489
+by guest
+on 20 August 2018
+
+S. von Haehling et al. / Cardiovascular Research 73 (2007) 298–309
+
+307
+
+[12] Riley M, Elborn JS, McKane WR, Bell N, Stanford CF, Nicholls DP.
+Resting energy expenditure in chronic cardiac failure. Clin Sci 1991;80:
+633–9.
+
+[13] Toth MJ, Gottlieb SS, Fisher ML, Poehlman ET. Daily energy
+requirements in heart failure patients. Metabolism 1997;46:1294–8.
+[14] Berry C, Clark AL. Catabolism in chronic heart failure. Eur Heart J
+
+2000;21:521–32.
+
+[15] Anker SD, Sharma R. The syndrome of cardiac cachexia. Int J Cardiol
+
+2002;85:51–66.
+
+[16] Anker SD, Chua TP, Ponikowski P, Harrington D, Swan JW, Kox WJ,
+et al. Hormonal changes and catabolic/anabolic imbalance in chronic
+heart failure and their importance for cardiac cachexia. Circulation
+1997;96:526–34.
+
+[17] Florea VG, Henein MY, Rauchhaus M, Koloczek V, Sharma R,
+Doehner W, et al. The cardiac component of cardiac cachexia. Am
+Heart J 2002;144:45–50.
+
+[18] Florea VG, Moon J, Pennell DJ, Doehner W, Coats AJ, Anker SD.
+Wasting of the left ventricle in patients with cardiac cachexia: a
+cardiovascular magnetic resonance study. Int J Cardiol 2004;97:15–20.
+[19] Anker SD, Negassa A, Coats AJ, Afzal R, Poole-Wilson PA, Cohn
+JN, et al. Prognostic importance of weight loss in chronic heart failure
+and the effect of treatment with angiotensin-converting-enzyme
+inhibitors: an observational study. Lancet 2003;361:1077–83.
+
+[20] Genth-Zotz S, Bolger AP, Kalra PR, von Haehling S, Doehner W,
+Coats AJ, et al. Heat shock protein 70 in patients with chronic heart
+failure: relation to disease severity and survival. Int J Cardiol
+2004;96:397–401.
+
+[21] Mann DL. Inflammatory mediators and the failing heart: past, present,
+
+and the foreseeable future. Circ Res 2002;91:988–98.
+
+[22] Levine B, Kalman J, Mayer L, Fillit HM, Packer M. Elevated
+circulating levels of tumor necrosis factor in severe chronic heart
+failure. N Engl J Med 1990;323:236–41.
+
+[23] von Haehling S, Genth-Zotz S, Anker SD, Volk HD. Cachexia: a
+therapeutic approach beyond cytokine antagonism. Int J Cardiol
+2002;85:173–83.
+
+[24] Ferrari R, Bachetti T, Confortini R, Opasich C, Febo O, Corti A, et al.
+Tumor necrosis factor soluble receptors in patients with various
+degrees of congestive heart failure. Circulation 1995;92:1479–786.
+[25] Rauchhaus M, Doehner W, Francis DP, Davos C, Kemp M,
+Liebenthal C, et al. Plasma cytokine parameters and mortality in
+patients with chronic heart failure. Circulation 2000;102:3060–7.
+
+[26] Anker SD, von Haehling S. Inflammatory mediators in chronic heart
+
+failure: an overview. Heart 2004;90:464–70.
+
+[27] Mann DL, McMurray JJ, Packer M, Swedberg K, Borer JS, Colucci
+WS, et al. Targeted anticytokine therapy in patients with chronic heart
+failure: results of the Randomized Etanercept Worldwide Evaluation
+(RENEWAL). Circulation 2004;109:1594–602.
+
+[28] von Haehling S, Anker SD. Future prospects of anticytokine therapy
+in chronic heart failure. Expert Opin Investig Drugs 2005;14:163–76.
+[29] Baumann H, Gauldie J. The acute phase response. Immunol Today
+
+1994;15:74–80.
+
+[30] Kotler DP. Cachexia. Ann Intern Med 2000;133:622–34.
+[31] Chojkier M. Inhibition of albumin synthesis in chronic diseases:
+molecular mechanisms. J Clin Gastroenterol 2005;39(Suppl 2):
+S143–6.
+
+[32] Langhans W, Hrupka B. Interleukins and tumor necrosis factor as
+
+inhibitors of food intake. Neuropeptides 1999;33:415–24.
+
+[33] de Vries HE, Blom-Roosemalen MC, van Oosten M, de Boer AG, van
+Berkel TJ, Breimer DD, et al. The influence of cytokines on the
+integrity of the blood–brain barrier
+in vitro. J Neuroimmunol
+1996;64:37–43.
+
+[34] Callahan TA, Piekut DT. Differential Fos expression induced by IL-
+1beta and IL-6 in rat hypothalamus and pituitary gland. J Neuroimmunol
+1997;73:207–11.
+
+[35] Grunfeld C, Zhao C, Fuller J, Pollack A, Moser A, Friedman J, et al.
+Endotoxin and cytokines induce expression of leptin, the ob gene
+product, in hamsters. J Clin Invest 1996;97:2152–7.
+
+[36] Kirchgessner TG, Uysal KT, Wiesbrock SM, Marino MW, Hota-
+misligil GS. Tumor necrosis factor-alpha contributes to obesity-
+related hyperleptinemia by regulating leptin release from adipocytes.
+J Clin Invest 1997;100:2777–82.
+
+[37] Gayle D, Ilyin SE, Plata-Salaman CR. Central nervous system IL-1
+beta system and neuropeptide Y mRNAs during IL-1 beta-induced
+anorexia in rats. Brain Res Bull 1997;44:311–7.
+
+[38] Laviano A, Muscaritoli M, Cascino A, Preziosa I, Inui A, Mantovani
+G, et al. Branched-chain amino acids: the best compromise to achieve
+anabolism? Curr Opin Clin Nutr Metab Care 2005;8:408–14.
+
+[39] Inui A. Cancer anorexia–cachexia syndrome: are neuropeptides the
+
+key? Cancer Res 1999;59:4493–501.
+
+[40] Underwood LE, Van Wyk JJ. Normal and aberrant growth. In: Wilson
+JD, Foster DW, editors. Williams textbook of endocrinology.
+Philadelphia: W.B. Saunders; 1992. p. 1079–138.
+
+[41] Anker SD, Volterrani M, Pflaum CD, Strasburger CJ, Osterziel KJ,
+Doehner W, et al. Acquired growth hormone resistance in patients
+with chronic heart failure: implications for therapy with growth
+hormone. J Am Coll Cardiol 2001;38:443–52.
+
+[42] Cicoira M, Kalra PR, Anker SD. Growth hormone resistance in
+chronic heart failure and its therapeutic implications. J Card Fail
+2003;9:219–26.
+
+[43] Isgaard J, Bergh CH, Caidahl K, Lomsky M, Hjalmarson A, Bengtsson
+BA. A placebo-controlled study of growth hormone in patients with
+congestive heart failure. Eur Heart J 1998;19:1704–11.
+
+[44] Osterziel KJ, Strohm O, Schuler J, Friedrich M, Hänlein D,
+Willenbrock R, et al. Randomised, double blind, placebo-controlled
+trial of human recombinant growth hormone in patients with chronic
+heart failure due to dilated cardiomyopathy. Lancet 1998;351:1233–7.
+[45] Frustaci A, Gentiloni N, Russo MA. Growth hormone in the treatment
+
+of dilated cardiomyopathy. N Engl J Med 1996;335:672–3.
+
+[46] Tatemoto K, Carlquist M, Mutt V. Neuropeptide Y—a novel brain
+peptide with structural similarities to peptide YY and pancreatic
+polypeptide. Nature 1982;296:659–60.
+
+[47] Krysiak R, Obuchowicz E, Herman ZS. Interactions between the
+neuropeptide Y system and the hypothalamic–pituitary–adrenal axis.
+Eur J Endocrinol 1999;140:130–6.
+
+[48] Feng Q, Lambert ML, Callow ID, Arnold JM. Venous neuropeptide Y
+receptor responsiveness in patients with chronic heart failure. Clin
+Pharmacol Ther 2000;67:292–8.
+
+[49] Ullman B, Pernow J, Lundberg JM, Astrom H, Bergfeldt L. Cardio-
+vascular effects and cardiopulmonary plasma gradients following
+intravenous infusion of neuropeptide Yin humans: negative dromotropic
+effect on atrioventricular node conduction. Clin Sci 2002;103: 535–42.
+[50] Zhang Y, Proenca R, Maffei M, Barone M, Leopold L, Friedman JM.
+the mouse obese gene and its human
+
+Positional cloning of
+homologue. Nature 1994;372:425–32.
+
+[51] Houseknecht KL, Baile CA, Matteri RL, Spurlock ME. The biology
+
+of leptin: a review. J Anim Sci 1998;76:1405–20.
+
+[52] Tartaglia LA, Dembski M, Weng X, Deng N, Culpepper J, Devos R,
+et al. Identification and expression cloning of a leptin receptor, OB-R.
+Cell 1995;83:263–71.
+
+[53] Lee GH, Proenca R, Montez JM, Carroll KM, Darvishzadeh JG, Lee
+JI, et al. Abnormal splicing of the leptin receptor in diabetic mice.
+Nature 1996;379:632–5.
+
+[54] Emilsson V, Liu YL, Cawthorne MA, Morton NM, Davenport M.
+Expression of the functional leptin receptor mRNA in pancreatic islets
+and direct inhibitory action of leptin on insulin secretion. Diabetes
+1997;46:313–6.
+
+[55] Doehner W, Rauchhaus M, Godsland IF, Egerer K, Niebauer J,
+Sharma R, et al. Insulin resistance in moderate chronic heart failure is
+related to hyperleptinaemia, but not to norepinephrine or TNF-alpha.
+Int J Cardiol 2002;83:73–81.
+
+[56] Doehner W, Pflaum CD, Rauchhaus M, Godsland IF, Egerer K,
+Cicoira M, et al. Leptin, insulin sensitivity and growth hormone
+binding protein in chronic heart failure with and without cardiac
+cachexia. Eur J Endocrinol 2001;145:727–35.
+
+Downloaded from https://academic.oup.com/cardiovascres/article-abstract/73/2/298/486489
+by guest
+on 20 August 2018
+
+308
+
+S. von Haehling et al. / Cardiovascular Research 73 (2007) 298–309
+
+[57] Ronti T, Lupattelli G, Mannarino E. The endocrine function of
+
+adipose tissue: an update. Clin Endocrinol 2006;64:355–65.
+
+[58] Kennedy A, Gettys TW, Watson P, Wallace P, Ganaway E, Pan Q, et
+al. The metabolic significance of leptin in humans: gender-based
+differences in relationship to adiposity, insulin sensitivity, and energy
+expenditure. J Clin Endocrinol Metab 1997;82:1293–300.
+
+[59] Considine RV, Sinha MK, Heiman ML, Kriauciunas A, Stephens TW,
+Nyce MR, et al. Serum immunoreactive-leptin concentrations in
+normal-weight and obese humans. N Engl J Med 1996;334:292–5.
+[60] Leyva F, Anker SD, Egerer K, Stevenson JC, Kox WJ, Coats AJ.
+Hyperleptinaemia in chronic heart failure. Relationships with insulin.
+Eur Heart J 1998;19:1547–51.
+
+[61] Bottner A, Eisenhofer G, Friberg P, Rundqvist B, Bornstein SR.
+Hyperleptinaemia does not correlate with plasma catecholamine
+levels in chronic heart failure. Eur Heart J 1999;20:1051–2.
+
+[62] Murdoch DR, Rooney E, Dargie HJ, Shapiro D, Morton JJ, McMurray
+JJ. Inappropriately low plasma leptin concentration in the cachexia
+associated with chronic heart failure. Heart 1999;82:352–6.
+
+[63] Filippatos G, Tsilias K, Baltopoulos G, Anthopoulos L. Serum leptin
+concentration in heart failure patients: does the literature reflect
+reality? Eur Heart J 2000;21:334–5.
+
+[64] Toth MJ, Gottlieb SS, Fisher ML, Ryan AS, Nicklas BJ, Poehlman
+ET. Plasma leptin concentrations and energy expenditure in heart
+failure patients. Metabolism 1997;46:450–3.
+
+[65] Doehner W, Anker SD. The significance of leptin in humans — do we
+
+know it yet? Int J Cardiol 2000;76:122–4.
+
+[66] Kojima M, Hosoda H, Date Y, Nakazato M, Matsuo H, Kangawa K.
+Ghrelin is a growth-hormone-releasing acylated peptide from
+stomach. Nature 1999;402:656–60.
+
+[67] Jarkovska Z, Krsek M, Rosicka M, Marek J. Endocrine and metabolic
+activities of a recently isolated peptide hormone ghrelin, an endogenous
+ligand of the growth hormone secretagogue receptor. Endocr Regul
+2004;38:80–6.
+
+[68] Tschop M, Smiley DL, Heiman ML. Ghrelin induces adiposity in
+
+rodents. Nature 2000;407:908–13.
+
+[69] Wren AM, Small CJ, Ward HL, Murphy KG, Dakin CL, Taheri S, et
+al. The novel hypothalamic peptide ghrelin stimulates food intake and
+growth hormone secretion. Endocrinology 2000;141:4325–8.
+
+[70] Tschop M, Weyer C, Tataranni PA, Devanarayan V, Ravussin E,
+Heiman ML. Circulating ghrelin levels are decreased in human obe-
+sity. Diabetes 2001;50:707–9.
+
+[71] Nagaya N, Uematsu M, Kojima M, Date Y, Nakazato M, Okumura H,
+et al. Elevated circulating level of ghrelin in cachexia associated with
+chronic heart failure: relationships between ghrelin and anabolic/
+catabolic factors. Circulation 2001;104:2034–8.
+
+[72] Nagaya N, Moriya J, Yasumura Y, Uematsu M, Ono F, Shimizu W, et al.
+Effects of ghrelin administration on left ventricular function, exercise
+capacity, and muscle wasting in patients with chronic heart failure.
+Circulation 2004;110:3674–9.
+
+[73] He J, Ogden LG, Bazzano LA, Vupputuri S, Loria C, Whelton PK. Risk
+factors for congestive heart failure in US men and women: NHANES I
+epidemiologic follow-up study. Arch Intern Med 2001;161:996–1002.
+[74] Iribarren C, Karter AJ, Go AS, Ferrara A, Liu JY, Sidney S, et al.
+Glycemic control and heart failure among adult patients with diabetes.
+Circulation 2001;103:2668–73.
+
+[75] Suskin N, McKelvie RS, Burns RJ, Latini R, Pericak D, Probstfield J,
+et al. Glucose and insulin abnormalities relate to functional capacity
+in patients with congestive heart failure. Eur Heart J 2000;21:
+1368–75.
+
+[76] Swan JW, Anker SD, Walton C, Godsland IF, Clark AL, Leyva F, et
+al. Insulin resistance in chronic heart failure: relation to severity and
+etiology of heart failure. J Am Coll Cardiol 1997;30:527–32.
+
+[77] Doehner W, Rauchhaus M, Davos CH, Sharma R, Bolger A, Anker
+SD. Clinical significance of impaired insulin sensitivity in chronic
+heart failure. Circulation 2000;102:719 [Suppl].
+
+[78] Doehner W, Rauchhaus M, Ponikowski P, Godsland IF, von Haehling
+S, Okonko DO, et al. Impaired insulin sensitivity as an independent
+
+Downloaded from https://academic.oup.com/cardiovascres/article-abstract/73/2/298/486489
+by guest
+on 20 August 2018
+
+risk factor for mortality in patients with stable chronic heart failure.
+J Am Coll Cardiol 2005;46:1019–26.
+
+[79] Guan Y, Hao C, Cha DR, Rao R, Lu W, Kohan DE, et al. Thiazo-
+lidinediones expand body fluid volume through PPARgamma
+stimulation of ENaC-mediated renal salt absorption. Nat Med
+2005;11:861–6.
+
+[80] Gibbs CR, Jackson G, Lip GY. ABC of heart failure. Non-drug
+
+management. BMJ 2000;320:366–9.
+
+[81] Witte KK, Clark AL. Nutritional abnormalities contributing to
+
+cachexia in chronic illness. Int J Cardiol 2002;85:23–31.
+
+[82] Witte KK, Clark AL, Cleland JG. Chronic heart
+micronutrients. J Am Coll Cardiol 2001;37:1765–74.
+
+failure and
+
+[83] Shimon I, Almog S, Vered Z, Seligmann H, Shefi M, Peleg E, et al.
+Improved left ventricular function after thiamine supplementation in
+patients with congestive heart failure receiving long-term furosemide
+therapy. Am J Med 1995;98:485–90.
+
+[84] de Lorgeril M, Salen P, Accominotti M, Cadau M, Steghens JP,
+Boucher F, et al. Dietary and blood antioxidants in patients with
+chronic heart failure. Insights into the potential
+importance of
+selenium in heart failure. Eur J Heart Fail 2001;3:661–9.
+
+[85] Witte KK, Nikitin NP, Parker AC, von Haehling S, Volk HD, Anker
+SD, et al. The effect of micronutrient supplementation on quality-of-
+life and left ventricular function in elderly patients with chronic heart
+failure. Eur Heart J 2005;26:2238–44.
+
+[86] Petersen RC, et al, for the Alzheimer's Disease Cooperative Study
+Group. Vitamin E and donepezil for the treatment of mild cognitive
+impairment. N Engl J Med 2005;352:2379–88.
+
+[87] Rumbold AR, Crowther CA, Haslam RR, Dekker GA, Robinson JS,
+ACTS Study Group. Vitamins C and E and the risks of preeclampsia
+and perinatal complications. N Engl J Med 2006;354:1796–806.
+
+[88] de Lorgeril M, Salen P, Defaye P. Importance of nutrition in chronic
+
+heart failure patients. Eur Heart J 2005;26:2215–7.
+
+[89] Oudemans-van Straaten HM, Bosman RJ, Treskes M, van der Spoel
+HJ, Zandstra DF. Plasma glutamine depletion and patient outcome in
+acute ICU admissions. Intensive Care Med 2001;27:84–90.
+
+[90] Schols AM, Deutz NE, Mostert R, Wouters EF. Plasma amino acid
+levels in patients with chronic obstructive pulmonary disease. Monaldi
+Arch Chest Dis 1993;48:546–8.
+
+[91] May PE, Barber A, D'Olimpio JT, Hourihane A, Abumrad NN.
+Reversal of cancer-related wasting using oral supplementation with a
+combination of beta-hydroxy-beta-methylbutyrate, arginine, and
+glutamine. Am J Surg 2002;183:471–9.
+
+[92] Buse MG, Reid SS. Leucine. A possible regulator of protein turnover
+
+in muscle. J Clin Invest 1975;56:1250–61.
+
+[93] Stein TP, Donaldson MR, Leskiw MJ, Schluter MD, Baggett DW,
+Boden G. Branched-chain amino acid supplementation during bed
+rest: effect on recovery. J Appl Physiol 2003;94:1345–52.
+
+[94] Kennedy RH, Owings R, Shekhawat N, Joseph J. Acute negative
+inotropic effects of homocysteine are mediated via the endothelium.
+Am J Physiol Heart Circ Physiol 2004;287:H812–7.
+
+[95] Vasan RS, Beiser A, D'Agostino RB, Levy D, Selhub J, Jacques PF,
+et al. Plasma homocysteine and risk for congestive heart failure in
+adults without prior myocardial infarction. JAMA 2003;289:1251–7.
+[96] Herrmann M, Taban-Shomal O, Hubner U, Bohm M, Herrmann W. A
+review of homocysteine and heart failure. Eur J Heart Fail 2006
+[Electronic publication ahead of print].
+
+[97] Gorelik O, Almoznino-Sarafian D, Feder I, Wachsman O, Alon I,
+Litvinjuk V, et al. Dietary intake of various nutrients in older patients
+with congestive heart failure. Cardiology 2003;99:177–81.
+
+[98] Freeman LM, Rush JE, Kehayias JJ, J.N. Jr Ross, Meydani SN, Brown
+DJ, et al. Nutritional alterations and the effect of fish oil supplementation
+in dogs with heart failure. J Vet Intern Med 1998;12:440–8.
+
+[99] Rozentryt P, Michalak A, Nowak JU, Brachowska A, Polonski L,
+Anker SD. The effects of enteral supplementation in patients with
+cardiac cachexia — a prospective, randomised, double-blind, placebo
+controlled trial. 3rd cachexia conference abstract book, Rome, Italy;
+2005. p. 82.
+
+S. von Haehling et al. / Cardiovascular Research 73 (2007) 298–309
+
+309
+
+[100] Ralevic V. Splanchnic circulatory physiology. Hepatogastroenterol-
+
+ogy 1999;46(Suppl 2):1409–13.
+
+[101] Takala J. Determinants of splanchnic blood flow. Br J Anaesth
+
+1996;77:50–8.
+
+[102] Krack A, Sharma R, Figulla HR, Anker SD. The importance of the
+gastrointestinal system in the pathogenesis of heart failure. Eur Heart J
+2005;26:2368–74.
+
+[103] King D, Smith ML, Chapman TJ, Stockdale HR, Lye M. Fat
+malabsorption in elderly patients with cardiac cachexia. Age Ageing
+1996;25:144–9.
+
+[104] King D, Smith ML, Lye M. Gastro-intestinal protein loss in elderly
+
+patients with cardiac cachexia. Age Ageing 1996;25:221–3.
+
+[105] Anker SD, Egerer KR, Volk HD, Kox WJ, Poole-Wilson PA, Coats
+AJ. Elevated soluble CD14 receptors and altered cytokines in chronic
+heart failure. Am J Cardiol 1997;79:1426–30.
+
+[106] Rauchhaus M, Coats AJ, Anker SD. The endotoxin-lipoprotein
+
+hypothesis. Lancet 2000;356:930–3.
+
+[107] Rauchhaus M, Clark AL, Doehner W, Davos C, Bolger A, Sharma R,
+et al. The relationship between cholesterol and survival in patients
+with chronic heart failure. J Am Coll Cardiol 2003;42:1933–40.
+
+[108] Horwich TB, Hamilton MA, Maclellan WR, Fonarow GC. Low
+serum total cholesterol is associated with marked increase in mortality
+in advanced heart failure. J Card Fail 2002;8:216–24.
+
+[109] Sharma R, von Haehling S, Rauchhaus M, Bolger AP, Genth-Zotz S,
+Doehner W, et al. Whole blood endotoxin responsiveness in patients
+with chronic heart failure: the importance of serum lipoproteins. Eur J
+Heart Fail 2005;7:479–84.
+
+[110] Emancipator K, Csako G, Elin RJ. In vitro inactivation of bacterial
+endotoxin by human lipoproteins and apolipoproteins. Infect Immun
+1992;60:596–601.
+[111] Packer M, et al,
+
+the Carvedilol Prospective Randomized
+Cumulative Survival Study Group. Effect of carvedilol on survival
+in severe chronic heart failure. N Engl J Med 2001;344:1651–8.
+
+for
+
+[112] Anker SD, Coats AJ, Roecker EB, Scherhag A, Packer M. Does
+carvedilol prevent and reverse cardiac cachexia in patients with severe
+heart failure? Results from the COPERNICUS study. Eur Heart J
+2002;23:394.
+
+[113] Langin D. Adipose tissue lipolysis as a metabolic pathway to define
+pharmacological strategies against obesity and the metabolic
+syndrome. Pharmacol Res 2006;53:482–91.
+
+[114] Anker SD, Lechat P, Dargie HJ. Prevention and reversal of cachexia
+in patients with chronic heart failure by bisoprolol: results from the
+CIBIS-II study. J Am Coll Cardiol 2003;41:156A–7A.
+
+[115] Lainscak M, Keber I, Anker SD. Body composition changes in
+patients with systolic heart failure treated with beta blockers: a pilot
+study. Int J Cardiol 2006;106(3):319–22.
+
+[116] Rauchhaus M, Clark AL, Doehner W, Davos C, Bolger A, Sharma R,
+et al. The relationship between cholesterol and survival in patients
+with chronic heart failure. J Am Coll Cardiol 2003;42:1933–40.
+
+[117] Horwich TB, Hamilton MA, Maclellan WR, Fonarow GC. Low
+serum total cholesterol is associated with marked increase in mortality
+in advanced heart failure. J Card Fail 2002;8:216–24.
+
+[118] von Haehling S, Anker SD. Statins for heart failure: at the crossroads
+between cholesterol reduction and pleiotropism? Heart 2005;91:1–2.
+[119] Azhar G, Wei JY. Nutrition and cardiac cachexia. Curr Opin Nutr
+
+Metab Care 2006;9:18–23.
+
+[120] Vadell C, Segui MA, Gimenez-Arnau JM, Morales S, Cirera L, Bestit
+I, et al. Anticachectic efficacy of megestrol acetate at different doses
+and versus placebo in patients with neoplastic cachexia. Am J Clin
+Oncol 1998;21:347–51.
+
+[121] Tomoda H. Effect of oxymetholone on left ventricular dimensions in
+heart failure secondary to idiopathic dilated cardiomyopathy or to
+mitral or aortic regurgitation. Am J Cardiol 1999;83:123–5.
+
+[122] Pugh PJ, Jones TH, Channer KS. Acute haemodynamic effects of
+testosterone in men with chronic heart failure. Eur Heart J 2003;24:
+909–15.
+
+[123] Fazio S, Sabatini D, Capaldo B, Vigorito C, Giordano A, Guida R, et
+al. A preliminary study of growth hormone in the treatment of dilated
+cardiomyopathy. N Engl J Med 1996;334:809–14.
+
+[124] Springer J, von Haehling S, Anker SD. The need for a standardized
+definition for cachexia in chronic illness. Nat Clin Pract Endocrinol
+Metab 2006;2:416–7.
+
+Downloaded from https://academic.oup.com/cardiovascres/article-abstract/73/2/298/486489
+by guest
+on 20 August 2018
+
+

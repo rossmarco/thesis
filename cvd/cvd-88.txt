@@ -1,0 +1,585 @@
+Editorial
+
+Soy Protein, Isoflavones, and Cardiovascular Health
+
+A Summary of a Statement for Professionals From the American Heart
+
+Association Nutrition Committee
+
+Frank M. Sacks, Alice Lichtenstein, Linda Van Horn, William Harris, Penny Kris-Etherton,
+
+Mary Winston; for the AHA Nutrition Committee
+
+This editorial summarizes the recent American Heart
+
+Association (AHA) Science Advisory on soy protein
+and isoflavones (phytoestrogens) published in the
+February 21, 2006, issue of Circulation.1 Soy protein and
+isoflavones have gained considerable attention for their po-
+tential role in improving risk factors for cardiovascular
+disease. This scientific advisory report assesses the more
+recent work published on soy protein and its component
+isoflavones. In 22 randomized trials, isolated soy protein with
+isoflavones compared with milk or other proteins decreased
+LDL cholesterol concentrations in most studies; the average
+effect was approximately 3%. This reduction is very small
+compared with the large amount of soy protein tested in these
+studies, averaging 50 g, approximately half the usual total
+daily protein intake. No significant effects were evident on
+HDL cholesterol, triglycerides, lipoprotein(a), or blood pres-
+sure. Among 19 studies of soy isoflavones, the average effect
+on LDL cholesterol and other lipid risk factors was nil. Soy
+protein or isoflavones have not been shown to lessen vaso-
+motor symptoms of menopause, and results are mixed regard-
+ing slowing of postmenopausal bone loss. The efficacy and
+safety of soy isoflavones for preventing or treating cancer of
+the breast, endometrium, and prostate are not established;
+evidence from clinical trials is meager and cautionary as
+regards a possible adverse effect. For this reason, use of
+isoflavone supplements in food or pills is not recommended.
+Thus, earlier research indicating that soy protein compared
+with other proteins has clinically important favorable effects
+has not enjoyed confirmation. In contrast, many soy products
+should be beneficial to cardiovascular and overall health
+because of their high content of polyunsaturated fats, fiber,
+vitamins, and minerals and low content of saturated fat.
+
+From the Cardiovascular Division and Channing Laboratory (F.M.S.),
+the Department of Medicine, Brigham and Women’s Hospital and
+Harvard Medical School, Boston, Mass; the Cardiovascular Nutrition
+Laboratory (A.L.), Jean Mayer USDA Human Nutrition Research Center
+on Aging, Tufts University, Boston, Mass; the Department of Preventive
+Medicine, Feinberg School of Medicine (L.V.H.), Northwestern Univer-
+sity, Chicago, Ill; Mid America Heart Institute of St. Luke’s Health
+System (W.H.), Kansas City, Mo; and the Departments of Nutritional
+Sciences and Integrative Biosciences (P.K.-E.), the Pennsylvania State
+University, University Park, Pa. M.W. is an AHA consultant.
+
+Correspondence to Frank M. Sacks, MD, Department of Nutrition,
+Harvard School of Public Health, Boston, MA 02115. E-mail
+fsacks@hsph.harvard.edu
+
+(Arterioscler Thromb Vasc Biol. 2006;26:1689-1692.)
+© 2006 American Heart Association, Inc.
+Arterioscler Thromb Vasc Biol. is available at http://www.atvbaha.org
+DOI: 10.1161/01.ATV.0000227471.00284.ef
+
+In October 1999, the US Food and Drug Administration
+(FDA) approved labeling for foods containing soy protein as
+protective against coronary heart disease.2 The FDA based
+this decision on clinical studies showing that at least 25 g soy
+protein per day lowered total and LDL cholesterol. The FDA
+requires for the claim that a serving contain at least 6.25 g soy
+protein, 25% of the necessary daily amount, 25 g, expecting
+that foods containing soy protein would be eaten at least 4
+times per day. The FDA also stated, “the evidence did not
+support a significant role for soy isoflavones in cholesterol-
+lowering effects of soy protein.”
+
+In 2000, the AHA Nutrition Committee released a scien-
+tific advisory on soy protein and CVD.3 Since then, many
+well-controlled studies on soy protein and soy-derived isofla-
+vones substantially added to the knowledge base. This scien-
+tific advisory report assesses the more recent work published
+on soy protein and its component isoflavones, focusing on
+blood LDL cholesterol and other cardiovascular disease risk
+factors, HDL cholesterol, triglycerides, lipoprotein(a), and
+blood pressure. The medical literature was searched compre-
+hensively for original research publications on the effects of
+soy protein or isoflavones on cardiovascular disease risk
+factors, and all controlled trials that separately listed soy
+protein and isoflavone content were used. Most studies
+exchanged soy protein for other dietary proteins, and this
+evidence is evaluated in this report. Much less is known about
+the potential impact on risk factors for CVD of increasing
+total protein intake by adding soy or other plant protein in
+place of carbohydrate or fat; this important dietary change is
+currently being studied.
+
+Animal proteins raise blood cholesterol concentrations in
+several animal species fed cholesterol-free semi-synthetic
+diets.4,5 Casein, the most prevalent protein in milk, has been
+the most often used, although other animal proteins such as
+pork and beef protein do the same. In contrast, when soy
+protein is substituted for the animal protein, hypercholester-
+olemia does not occur. Diets similar to those eaten by
+humans, based on either soy protein or casein, were fed to
+rabbits, and casein produced hypercholesterolemia as expect-
+ed.6 However, when the same diets were fed to healthy
+people, the protein source did not affect blood cholesterol.6,7
+In the late 1970s and early 1980s, Sirtori and colleagues
+found that diets high in soy protein, replacing nearly all the
+animal protein, substantially reduced blood cholesterol by
+20% to 30% in severe hypercholesterolemia.8 Because the
+soy protein diets were also reduced in saturated fat and
+cholesterol and increased in polyunsaturated fat, and because
+
+1689
+
+Downloaded from http://ahajournals.org by on August 20, 20181690
+
+Arterioscler Thromb Vasc Biol.
+
+August 2006
+
+the patients also often lost weight on the dietary protocols, the
+results were often confounded.
+
+A meta-analysis published in 1995 found a trend that soy
+protein selectively reduced blood cholesterol in direct pro-
+portion to the degree of hypercholesterolemia.9 For example,
+in those with severely elevated blood cholesterol (⬎335
+mg/dL), soy protein reduced blood cholesterol by 20%, but if
+the initial blood cholesterol was ⬍255 mg/dL, there was no
+significant effect. This meta-analysis was limited by the
+quality of the studies; studies were less well-controlled in
+people with hypercholesterolemia than in those with average
+cholesterol levels.
+
+Effects of Soy Protein with Isoflavones
+
+The 3 major isoflavones found in soybeans are genistin,
+daidzin, and glycitin. Their abundance in soy protein prepa-
+rations varies widely and depends on the processing tech-
+niques used during production.10,11 These compounds have
+both estrogenic and antiestrogenic activity12,13 and effects that
+are unrelated to estrogen activity.14 Because the possibility
+was recognized that
+isoflavones could be the bioactive
+component attributed to soy protein, studies published in the
+late 1990s and beyond generally stated the amount and type
+of isoflavones in the soy protein. In 22 randomized trials,
+isolated soy protein with isoflavones was compared with
+casein or milk protein,15–32 wheat protein,33 or mixed animal
+proteins.34 –36 The range of soy protein was 25 to 135 g per
+day, and of isoflavones 40 to 318 mg. LDL or non-HDL
+cholesterol concentrations decreased in most studies, statisti-
+cally significantly in 6, with an overall effect of ⬇3%
+(weighted average). A recent meta-analysis that included 10
+studies published from 1995 to 2002 found a similar percent-
+age reduction in LDL cholesterol with no dose effect.37 Over
+all studies listed in Table 1 in the Advisory statement by
+Sacks et al1, there is no apparent dose effect; the 8 studies
+with soy protein 50 g or more showed a similar drop in LDL
+cholesterol concentration to those using a smaller amount of
+soy, ⬇3% overall. This cut point for daily soy protein intake,
+50 g, defines a large amount, half or more of the daily average
+total protein intake in the US. No significant effects were
+evident on HDL cholesterol or triglycerides in most of the
+studies; the weighted average effects were very small, ⫹1.5%
+for HDL cholesterol and ⫺5% for triglycerides.
+
+Soy Protein Without Isoflavones
+
+Soy protein, from which isoflavones were removed, was
+studied in 7 trials, and compared with casein or milk
+protein,15,19,25,29,38 or various animal proteins35,36 (see Table 2
+in Sacks et al1). Two of the studies showed small significant
+decreases in LDL cholesterol.35,36 These studies were very
+carefully controlled feeding studies, all meals being formu-
+lated according to strict nutritional specifications, and com-
+plete meals were provided to the participants. They were
+specifically designed to sort out the effects of the protein from
+the isoflavones, and showed an effect of protein but not
+isoflavones on LDL cholesterol. The declines in LDL cho-
+lesterol were small, 2% to 7%, relative to the large amounts
+of soy protein eaten daily, 50 to 55 g. However, other
+well-controlled studies did not find significant effects of soy
+
+protein on LDL cholesterol,15,19,25,29,38 and the average
+change across all 7 studies is only a 1% to 2% decrease.
+Changes generally were small in HDL cholesterol and tri-
+glycerides, and nonsignificant in 6 of the 7 trials. No dose
+effect is evident.
+
+Isoflavone Effects
+
+Some studies compared soy protein that did or did not contain
+isoflavones,15,16,19,25,29,35,36,38,39 – 43 whereas other studies
+tested isoflavones in pill form compared with placebo44 – 49
+(see Table 3 in Sacks et al1). A wide range of isoflavone
+amounts were studied. One study compared the effect of
+isoflavones provided with either soy or animal proteins.35
+Among these 19 studies, only 3 showed significant reduction
+in LDL cholesterol concentration,38,41,42 and the effect among
+all studies (weighted average) was nil, 0%. Changes in HDL
+cholesterol and triglycerides were not significant and showed
+no trend toward an effect of isoflavones. Despite large
+increases in blood isoflavone concentrations,
+there is no
+indication of a dose effect on blood lipids. A recent meta-
+analysis concluded that isoflavones do not affect blood lipid
+concentrations.37
+
+Influence of Initial Blood
+LDL-Cholesterol Level
+
+Lichtenstein et al35 and Crouse et al15 found slightly more
+LDL cholesterol reduction in people with LDL cholesterol
+above 160 to 164 mg/dL than with lower levels, although
+Dent et al19 did not find an effect in women with hypercho-
+lesterolemia compared with average cholesterol. However, a
+larger percentage reduction in LDL cholesterol in hypercho-
+lesterolemia is not evident among the 22 recent trials (Table
+1, Sacks et al1). Among studies of isoflavones, there is no
+relation evident between initial cholesterol and cholesterol-
+lowering (Table 3, Sacks et al1).
+
+Influence of Serum Cholesterol-Lowering Diet
+In 11 of the studies listed in Tables 1 to 3 of Sacks et al,1 soy
+protein or isoflavones were tested in combination with a
+serum cholesterol-lowering diet.15–17,20,28,31,33,34,36,44,46 The
+average reduction in LDL in these studies was 2%, similar to
+the full group. Thus, the effect on LDL of soy protein or
+isoflavones does not appear to be modulated by the saturated
+fat and cholesterol content of the diet.
+
+Effects on Lipoprotein(a)
+
+Lipoprotein(a), an LDL-like lipoprotein that is an indepen-
+dent predictor of CVD was increased by soy protein in 2
+studies21,50 and unchanged in 9 others.15,17,18,22,26,30 –32,36
+Meinertz et al25 found that alcohol-extracted soy protein,
+lacking isoflavones, did not raise Lp(a) as found in their
+earlier study of intact soy protein,50 suggesting an adverse
+effect of isoflavones. However, isoflavones had no effect on
+Lp(a) in 6 other studies,15,36,41,46,47,49 nor did soy protein that
+contained isoflavones.15,17,18,22,26,30 –32,36
+
+Effects on Blood Pressure
+
+Several studies tested the effect of soy protein with isofla-
+vones compared with casein or milk protein on blood pres-
+
+Downloaded from http://ahajournals.org by on August 20, 2018Sacks et al
+
+Soy Protein, Isoflavones, and Cardiovascular Health
+
+1691
+
+sure.18,21,26,28,33,36 Blood pressure decreased significantly in 1
+study,21 but not
+in the other 5.18,26,28,33,36 The weighted
+average change is ⫺1 mm Hg systolic blood pressure. Sev-
+eral studies that evaluated the effect of soy isoflavones also
+did not find a significant effect on blood pressure.36,44,46,48,51
+
+Effects on Health Conditions Related
+
+to Estrogens
+
+The reader is referred to the Science Advisory1 for a summary
+of evidence on menopausal vasomotor symptoms, osteoporo-
+sis, and cancer of the breast, uterus, and prostate.
+
+Conclusions
+
+lipoprotein(a), or blood pressure. Thus,
+
+Earlier research indicating that soy protein compared with
+other proteins has clinically important favorable effects on
+LDL cholesterol and other cardiovascular disease risk factors
+has not enjoyed confirmation from many studies reported
+during the past 10 years. A very large amount of soy protein,
+comprising more than half of daily protein intake, may lower
+LDL cholesterol by just a few percent when it replaces dairy
+protein or a mixture of animal proteins. The evidence favors
+soy protein rather than soy isoflavones as the responsible
+nutrient. However, at this time the possibility cannot be ruled
+out that another component in soybeans could be the active
+factor. No benefit is evident on HDL cholesterol, triglycer-
+ides,
+the direct
+cardiovascular health benefit of soy protein or of isoflavone
+supplements is minimal at best. Soy protein or isoflavones
+have not been shown to improve vasomotor symptoms of
+menopause, and results are mixed regarding slowing of
+postmenopausal bone loss. The efficacy and safety of soy
+isoflavones for preventing or treating cancer of the breast,
+endometrium, and prostate are not established; evidence from
+clinical trials is meager and cautionary as regards a possible
+adverse effect. For this reason, use of isoflavone supplements
+in food or pills is not recommended. In contrast, soy products
+such as tofu, “soy butter,” “soy nuts,” or some soy burgers
+should be beneficial to cardiovascular and overall health
+because of their high content of polyunsaturated fats, fiber,
+vitamins, and minerals and low content of saturated fat.52
+Using these and other soy foods to replace foods high in
+animal protein that contain saturated fat and cholesterol may
+confer benefits to cardiovascular health.53 Soy protein may
+also be used to increase total dietary protein intake and reduce
+carbohydrate or fat intake. However, much less is known
+about the potential impact on risk factors for CVD of high
+protein diets. In the meantime, these remain dynamic areas
+for research. The AHA will continue to monitor the results
+and modify its advisory statement as needed.
+
+None.
+
+Disclosures
+
+References
+
+1. Sacks FM, Lichtenstein A, Van Horn L, Harris W, Kris-Etherton P,
+Winston M, for the American Heart Association Nutrition Committee.
+Circulation. 2006;113:1034 –1044.
+
+2. FDA. Soy Protein and Coronary Heart Disease. In: Federal Register.
+
+1999:57700 –57733.
+
+3. Erdman JW Jr. AHA Science Advisory: Soy protein and cardiovascular
+disease: A statement for healthcare professionals from the Nutrition
+Committee of the AHA. Circulation. 2000;102:2555–2559.
+
+4. Kritchevsky D. Vegetable protein and atherosclerosis. J Am Oil Chemists
+
+Soc. 1979;56:135–140.
+
+5. Carroll KK. Hypercholesterolemia and atherosclerosis: effects of dietary
+
+protein. Fed Proc. 1982;41:2792–2796.
+
+6. van Raaij JM, Katan MB, Hautvast JG, Hermus RJ. Effects of casein
+versus soy protein diets on serum cholesterol and lipoproteins in young
+healthy volunteers. Am J Clin Nutr. 1981;34:1261–1271.
+
+7. van Raaij JM, Katan MB, West CE, Hautvast JG. Influence of diets
+containing casein, soy isolate, and soy concentrate on serum cholesterol
+and lipoproteins in middle-aged volunteers. Am J Clin Nutr. 1982;35:
+925–934.
+
+8. Sirtori CR, Gatti E, Mantero O, Conti F, Agradi E, Tremoli E, Sirtori M,
+Fraterrigo L, Tavazzi L, Kritchevsky D. Clinical experience with the
+soybean protein diet in the treatment of hypercholesterolemia. Am J Clin
+Nutr. 1979;32:1645–1658.
+
+9. Anderson JW, Johnstone BM, Cook-Newell ME. Meta-analysis of the
+effects of soy protein intake on serum lipids. [see comment]. N Engl
+J Med. 1995;333:276 –282.
+
+10. Anderson RL, Wolf WJ. Compositional changes in trypsin inhibitors,
+phytic acid, saponins and isoflavones related to soybean processing. J
+Nutr. 1995;125:581S–588S.
+
+11. Erdman JW Jr, Badger TM, Lampe JW, Setchell KD, Messina M. Not all
+soy products are created equal: caution needed in interpretation of
+research results. J Nutr. 2004;134:1229S–1233S.
+
+12. Miksicek RJ. Estrogenic flavonoids: structural requirements for bio-
+
+logical activity. Proc Soc Exp Biol Med. 1995;208:44 –50.
+
+13. Cassidy A, Bingham S, Setchell K. Biological effects of isoflavones in
+young women: importance of the chemical composition of soybean prod-
+ucts. Br J Nutr. 1995;74:587– 601.
+
+14. Barnes S. Soy isoflavones–phytoestrogens and what else? J Nutr. 2004;
+
+134:1225S–1228S.
+
+15. Crouse JR 3rd, Morgan T, Terry JG, Ellis J, Vitolins M, Burke GL. A
+randomized trial comparing the effect of casein with that of soy protein
+containing varying amounts of isoflavones on plasma concentrations of
+lipids and lipoproteins. Arch Intern Med. 1999;159:2070 –2076.
+
+16. Baum JA, Teng H, Erdman JW Jr, Weigel RM, Klein BP, Persky VW,
+Freels S, Surya P, Bakhit RM, Ramos E, Shay NF, Potter SM. Long-term
+intake of soy protein improves blood lipid profiles and increases mono-
+nuclear cell low-density-lipoprotein receptor messenger RNA in hyper-
+cholesterolemic, postmenopausal women. Am J Clin Nutr. 1998;68:
+545–551.
+
+17. Teixeira SR, Potter SM, Weigel R, Hannum S, Erdman JW Jr, Hasler
+CM. Effects of feeding 4 levels of soy protein for 3 and 6 wk on blood
+lipids and apolipoproteins in moderately hypercholesterolemic men. [see
+comment]. Am J Clin Nutr. 2000;71:1077–1084.
+
+18. Vigna GB, Pansini F, Bonaccorsi G, Albertazzi P, Donega P, Zanotti L,
+De Aloysio D, Mollica G, Fellin R. Plasma lipoproteins in soy-treated
+postmenopausal women: a double-blind, placebo-controlled trial. Nutr
+Metab Cardiovasc Dis. 2000;10:315–322.
+
+19. Dent SB, Peterson CT, Brace LD, Swain JH, Reddy MB, Hanson KB,
+Robinson JG, Alekel DL. Soy protein intake by perimenopausal women
+does not affect circulating lipids and lipoproteins or coagulation and
+fibrinolytic factors. J Nutr. 2001;131:2280 –2287.
+
+20. Van Horn L, Liu K, Gerber J, Garside D, Schiffer L, Gernhofer N,
+Greenland P. Oats and soy in lipid-lowering diets for women with hy-
+percholesterolemia:
+is there synergy? J Am Diet Assoc. 2001;101:
+1319 –1325.
+
+21. Teede HJ, Dalais FS, Kotsopoulos D, Liang YL, Davis S, McGrath BP.
+Dietary soy has both beneficial and potentially adverse cardiovascular
+effects: a placebo-controlled study in men and postmenopausal women.
+J Clin Endocrinol Metabol. 2001;86:3053–3060.
+
+22. Puska P, Korpelainen V, Hoie LH, Skovlund E, Lahti T, Smerud KT. Soy
+in hypercholesterolaemia: a double-blind, placebo-controlled trial. Eur
+J Clin Nutr. 2002;56:352–357.
+
+23. Blum A, Lang N, Vigder F, Israeli P, Gumanovsky M, Lupovitz S, Elgazi
+A, Peleg A, Ben-Ami M. Effects of soy protein on endothelium-
+dependent vasodilatation and lipid profile in postmenopausal women with
+mild hypercholesterolemia. Clin Invest Med. 2003;26:20 –26.
+
+24. Dalais FS, Ebeling PR, Kotsopoulos D, McGrath BP, Teede HJ. The
+effects of soy protein containing isoflavones on lipids and indices of bone
+resorption in postmenopausal women. Clin Endocrinol. 2003;58:
+704 –709.
+
+Downloaded from http://ahajournals.org by on August 20, 20181692
+
+Arterioscler Thromb Vasc Biol.
+
+August 2006
+
+25. Meinertz H, Nilausen K, Hilden J. Alcohol-extracted, but not intact,
+dietary soy protein lowers lipoprotein (a) markedly. Arterioscler Thromb
+Vasc Biol. 2002;22:312–316.
+
+26. Hermansen K, Sondergaard M, Hoie L, Carstensen M, Brock B. Bene-
+ficial effects of a soy-based dietary supplement on lipid levels and
+cardiovascular risk markers in type 2 diabetic subjects. Diabetes Care.
+2001;24:228 –233.
+
+27. Sirtori CR, Bosisio R, Pazzucconi F, Bondioli A, Gatti E, Lovati MR,
+Murphy P. Soy milk with a high glycitein content does not reduce
+low-density lipoprotein cholesterolemia in type II hypercholesterolemic
+patients. Ann Nutr Metab. 2002;46:88 –92.
+
+28. Cuevas AM, Irribarra VL, Castillo OA, Yanez MD, Germain AM.
+Isolated soy protein improves endothelial function in postmenopausal
+hypercholesterolemic women. Eur J Clin Nutr. 2003;57:889 – 894.
+
+29. Steinberg FM, Guthrie NL, Villablanca AC, Kumar K, Murray MJ. Soy
+protein with isoflavones has favorable effects on endothelial function that
+are independent of lipid and antioxidant effects in healthy postmeno-
+pausal women. Am J Clin Nutr. 2003;78:123–130.
+
+30. Kreijkamp-Kaspers S, Kok L, Grobbee DE, de Haan EH, Aleman A,
+Lampe JW, van der Schouw YT. Effect of soy protein containing
+isoflavones on cognitive function, bone mineral density, and plasma
+lipids in postmenopausal women: a randomized controlled trial. J Am
+Med Assoc. 2004;292:65–74.
+
+31. West SG, Hilpery KF, Juturu V, Bordi PL, Lampe JW, Mousa SA, Kris-
+Etherton PM. Effects of including soy protein in a blood cholesterol
+lowering diet on markers of cardiac risk in men, and postmenopausal
+women with or without hormone replacement therapy. J Womens Health.
+2005;14:253–262.
+
+32. Tonstad S, Smerud K, Hoie L. A comparison of the effects of 2 doses of
+soy protein or casein on serum lipids, serum lipoproteins, and plasma total
+homocysteine in hypercholesterolemic subjects. Am J Clin Nutr. 2002;
+76:78 – 84.
+
+33. Jenkins DJ, Kendall CW, Vidgen E, Vuksan V, Jackson CJ, Augustin LS,
+Lee B, Garsetti M, Agarwal S, Rao AV, Cagampang GB, Fulgoni V 3rd.
+Effect of soy-based breakfast cereal on blood lipids and oxidized low-
+density lipoprotein. Metabolism. 2000;49:1496 –1500.
+
+34. Wong WW, Smith EO, Stuff JE, Hachey DL, Heird WC, Pownell
+HJ. Cholesterol-lowering effect of soy protein in normocholesterolemic
+and hypercholesterolemic men. Am J Clin Nutr. 1998;68:1385S–1389S.
+35. Lichtenstein AH, Jalbert SM, Adlercreutz H, Goldin BR, Rasmussen H,
+Schaefer EJ, Ausman LM. Lipoprotein response to diets high in soy or
+animal protein with and without isoflavones in moderately hypercholes-
+terolemic subjects. [see comment]. Arterioscler Thromb Vasc Biol. 2002;
+22:1852–1858.
+
+36. Jenkins DJ, Kendall CW, Connelly PW, Jackson CJ, Parker T, Faulkner
+D, Vidgen E. Effects of high- and low-isoflavone (phytoestrogen) soy
+foods on inflammatory biomarkers and proinflammatory cytokines in
+middle-aged men and women. Metabolism. 2002;51:919 –924.
+
+37. Weggemans RM, Trautwein EA. Relation between soy-associated
+isoflavones and LDL and HDL cholesterol concentrations in humans: a
+meta-analysis. Eur J Clin Nutr. 2003;57:940 –946.
+
+38. Gardner CD, Newell KA, Cherin R, Haskell WL. The effect of soy
+protein with or without isoflavones relative to milk protein on plasma
+lipids in hypercholesterolemic postmenopausal women. Am J Clin Nutr.
+2001;73:728 –735.
+
+39. Mackey R, Ekangaki A, Eden JA. The effects of soy protein in women
+
+and men with elevated plasma lipids. Biofactors. 2000;12:251–257.
+
+40. Sanders TA, Dean TS, Grainger D, Miller GJ, Wiseman H. Moderate
+intakes of intact soy protein rich in isoflavones compared with ethanol-
+extracted soy protein increase HDL but do not influence transforming
+growth factor beta(1) concentrations and hemostatic risk factors for
+coronary heart disease in healthy subjects. Am J Clin Nutr. 2002;76:
+373–377.
+
+41. Wangen KE, Duncan AM, Merz-Demlow BE, Xu X, Marcus R, Phipps
+WR, Kurzer MS. Effects of soy isoflavones on markers of bone turnover
+in premenopausal and postmenopausal women. J Clin Endocrinol Metab.
+2000;85:3043–3048.
+
+42. Merz-Demlow BE, Duncan AM, Wangen KE, Xu X, Carr TP, Phipps
+WR, Kurzer MS. Soy isoflavones improve plasma lipids in normocho-
+lesterolemic, premenopausal women. Am J Clin Nutr. 2000;71:
+1462–1469.
+
+43. Gallagher JC, Satpathy R, Rafferty K, Haynatzka V. The effect of soy
+
+protein isolate on bone metabolism. Menopause. 2004;11:290 –298.
+
+44. Squadrito F, Altavilla D, Morabito N, Crisafulli A, D’Anna R, Corrado F,
+Ruggeri P, Campo GM, Calapai G, Caputi AP, Squadrito G. The effect of
+the phytoestrogen genistein on plasma nitric oxide concentrations,
+endothelin-1 levels and endothelium dependent vasodilation in postmeno-
+pausal women. Atherosclerosis. 2002;163:339 –347.
+
+45. Dewell A, Hollenbeck CB, Bruce B. The effects of soy-derived phy-
+toestrogens on serum lipids and lipoproteins in moderately hypercholes-
+terolemic postmenopausal women. [see comment]. J Clin Endocrinol
+Metabol. 2002;87:118 –121.
+
+46. Simons LA, von Konigsmark M, Simons J, Celermajer DS. Phy-
+toestrogens do not influence lipoprotein levels or endothelial function in
+healthy, postmenopausal women. Am J Cardiol. 2000;85:1297–1301.
+
+47. Hodgson JM, Puddey IB, Beilin LJ, Mori TA, Croft KD. Supplementation
+with isoflavonoid phytoestrogens does not alter serum lipid concen-
+trations: a randomized controlled trial in humans. J Nutr. 1998;128:
+728 –732.
+
+48. Nestel PJ, Yamashita T, Sasahara T, Pomeroy S, Dart A, Komesaroff P,
+Owen A, Abbey M. Soy isoflavones improve systemic arterial com-
+pliance but not plasma lipids in menopausal and perimenopausal women.
+Arterioscler Thromb Vasc Biol. 1997;17:3392–3398.
+
+49. Nikander E, Tiitinen A, Laitinen K, Tikkanen M, Ylikorkala O. Effects of
+isolated isoflavonoids on lipids, lipoproteins, insulin sensitivity, and
+ghrelin in postmenopausal women. J Clin Endocrinol Metab. 2004;89:
+3567–3572.
+
+50. Nilausen K, Meinertz H. Lipoprotein(a) and dietary proteins: casein
+lowers lipoprotein(a) concentrations as compared with soy protein. Am J
+Clin Nutr. 1999;69:419 – 425.
+
+51. Hodgson JM, Puddey IB, Beilin LJ, Mori TA, Burke V, Croft KD, Rogers
+PB. Effects of isoflavonoids on blood pressure in subjects with high-
+normal ambulatory blood pressure levels: a randomized controlled trial.
+Am J Hypertens. 1999;12:47–53.
+
+52. Krauss RM, Eckel RH, Howard B, Appel LJ, Daniels SR, Deckelbaum
+RJ, Erdman JW Jr, Kris-Etherton P, Goldberg IJ, Kotchen TA,
+Lichtenstein AH, Mitch WE, Mullis R, Robinson K, Wylie-Rosett J, St
+Jeor S, Suttie J, Tribble DL, Bazzarre TL. AHA Dietary Guidelines:
+revision 2000: A statement for healthcare professionals from the Nutrition
+Committee of the American Heart Association. Stroke. 2000;31:
+2751–2766.
+
+53. Jenkins DJ, Kendall CW, Marchie A, Faulkner DA, Wong JM, de Souza
+R, Emam A, Parker TL, Vidgen E, Lapsley KG, Trautwein EA, Josse RG,
+Leiter LA, Connelly PW. Effects of a dietary portfolio of cholesterol-
+lowering foods vs lovastatin on serum lipids and C-reactive protein. J Am
+Med Assoc. 2003;290:502–510.
+
+Downloaded from http://ahajournals.org by on August 20, 2018

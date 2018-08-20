@@ -1,0 +1,1939 @@
+ORIGINAL CONTRIBUTION
+
+A Prospective Study of Egg Consumption
+and Risk of Cardiovascular Disease
+in Men and Women
+
+Frank B. Hu, MD
+Meir J. Stampfer, MD
+Eric B. Rimm, ScD
+JoAnn E. Manson, MD
+Alberto Ascherio, MD
+Graham A. Colditz, MD
+Bernard A. Rosner, PhD
+Donna Spiegelman, ScD
+Frank E. Speizer, MD
+Frank M. Sacks, MD
+Charles H. Hennekens, MD
+Walter C. Willett, MD
+
+ELEVATED LOW-DENSITY LIPOPRO-
+
+tein (LDL) cholesterol is a ma-
+jor risk factor for coronary heart
+disease (CHD).1 Dietary choles-
+terol raises LDL cholesterol levels and
+causes atherosclerosis in numerous
+animal models.2 In controlled meta-
+bolic studies conducted in humans, di-
+etary cholesterol raises levels of total and
+LDL cholesterol in blood,3,4 but the ef-
+fects are relatively small compared with
+saturated and transfatty acids.5,6 Studies
+have found that individuals vary widely
+in their responses to dietary cholesterol
+based on monitoring their plasma lev-
+els.7,8 Prospective cohort studies on the
+relationship of dietary cholesterol with
+risk of CHD have been inconsistent, with
+a significant association found in some,9,10
+but not in most studies.11-17
+
+Context Reduction in egg consumption has been widely recommended to lower blood
+cholesterol levels and prevent coronary heart disease (CHD). Epidemiologic studies on
+egg consumption and risk of CHD are sparse.
+Objective To examine the association between egg consumption and risk of CHD
+and stroke in men and women.
+Design and Setting Two prospective cohort studies, the Health Professionals Fol-
+low-up Study (1986-1994) and the Nurses’ Health Study (1980-1994).
+Participants A total of 37 851 men aged 40 to 75 years at study outset and 80 082
+women aged 34 to 59 years at study outset, free of cardiovascular disease, diabetes,
+hypercholesterolemia, or cancer.
+MainOutcomeMeasures Incidentnonfatalmyocardialinfarction,fatalCHD,andstroke
+corresponding to daily egg consumption as determined by a food-frequency questionnaire.
+Results We documented 866 incident cases of CHD and 258 incident cases of stroke
+in men during 8 years of follow-up and 939 incident cases of CHD and 563 incident cases
+of stroke in women during 14 years of follow-up. After adjustment for age, smoking,
+and other potential CHD risk factors, we found no evidence of an overall significant as-
+sociation between egg consumption and risk of CHD or stroke in either men or women.
+The relative risks (RRs) of CHD across categories of intake were less than 1 per week (1.0),
+1 per week (1.06), 2 to 4 per week (1.12), 5 to 6 per week (0.90), and $1 per day (1.08)
+(P for trend = .75) for men; and less than 1 per week (1.0), 1 per week (0.82), 2 to 4 per
+week (0.99), 5 to 6 per week (0.95), and $1 per day (0.82) (P for trend = .95) for women.
+In subgroup analyses, higher egg consumption appeared to be associated with increased
+risk of CHD only among diabetic subjects (RR of CHD comparing more than 1 egg per
+day with less than 1 egg per week among diabetic men, 2.02 [95% confidence interval,
+1.05-3.87; P for trend = .04], and among diabetic women, 1.49 [0.88-2.52; P for
+trend = .008]).
+Conclusions These findings suggest that consumption of up to 1 egg per day is un-
+likely to have substantial overall impact on the risk of CHD or stroke among healthy
+men and women. The apparent increased risk of CHD associated with higher egg con-
+sumption among diabetic participants warrants further research.
+JAMA. 1999;281:1387-1394
+
+www.jama.com
+
+300 mg/d of cholesterol and limit con-
+sumption of eggs, which contain about
+213 mg of cholesterol per egg.1,18 How-
+ever, eggs contain many other nutrients
+
+tics (Drs Spiegelman and Rosner), Harvard School of
+Public Health; Channing Laboratory (Drs Stampfer,
+Rimm, Manson, Colditz, Rosner, Speizer, and Wil-
+let), and the Division of Preventive Medicine (Drs Man-
+son and Hennekens), Department of Medicine,
+Brigham and Women’s Hospital and Harvard Medi-
+cal School, Boston, Mass.
+Corresponding Author and Reprints: Frank B. Hu, MD,
+Department of Nutrition, Harvard School of Public
+Health, 665 Huntington Ave, Boston, MA 02115 (e-
+mail: Frank.hu@channing.harvard.edu).
+
+To avoid elevations in blood choles-
+terol and reduce CHD risk, the public has
+been advised to consume no more than
+
+Author Affiliations: Departments of Nutrition (Drs Hu,
+Stampfer, Rimm, Ascherio, Sacks, and Willet), Epide-
+miology (Drs Stampfer, Rimm, Manson, Ascherio,
+Spiegelman, Hennekens, and Willet), and Biostatis-
+
+©1999 American Medical Association. All rights reserved.
+
+JAMA, April 21, 1999—Vol 281, No. 15 1387
+
+Downloaded From:  on 08/20/2018EGG CONSUMPTION AND CARDIOVASCULAR DISEASE
+
+besides cholesterol, including unsatur-
+ated fats, essential amino acids, folate,
+and other B vitamins. In addition, con-
+sumption of eggs instead of carbohy-
+drate-rich foods may raise high-density
+lipoprotein (HDL) cholesterol lev-
+els19,20 and decrease blood glycemic and
+insulinemic responses.21 For these rea-
+sons, it is useful to study directly the re-
+lationship of egg consumption with risk
+of CHD, but few epidemiologic studies
+have addressed this association.22-24 In
+this article, we examine prospectively the
+association between egg consumption
+and risk of CHD and stroke in 2 large co-
+horts of men and women.
+
+METHODS
+The Health Professionals
+Follow-up Study
+The Health Professionals Follow-up
+Study (HPFS) began in 1986 when
+51 529 men who were US health pro-
+fessionals (dentists, optometrists, phar-
+macists, podiatrists, and veterinar-
+ians), aged 40 to 75 years, answered a
+detailed questionnaire that included a
+comprehensive diet survey and items
+on lifestyle practice and medical his-
+tory. Follow-up questionnaires were
+sent in 1988, 1990, 1992, and 1994 to
+update information on potential risk
+factors and to identify newly diag-
+nosed cases of cardiovascular and other
+diseases. We excluded from the analy-
+sis men who did not satisfy the a priori
+criteria of reported daily energy in-
+take between 3360 and 17 640 kJ or
+who left blank more than 70 items of
+the 131 total food items in the diet ques-
+tionnaire (n = 1152). We also excluded
+men with prior diagnoses of cardiovas-
+cular disease (n = 5182) or cancer
+(n = 1644) at baseline. In the primary
+analyses, we also excluded men who re-
+ported diabetes mellitus (n = 1187) or
+hypercholesterolemia (n = 4458) at
+baseline because these diagnoses could
+have led to changes in diet. Incidence
+of CHD and stroke during the sub-
+sequent 8 years was monitored for
+37 851 men during follow-up. The fol-
+low-up rate for nonfatal events was 97%
+of the total potential person-years of
+follow-up.
+
+The Nurses’ Health Study
+The Nurses’ Health Study (NHS) co-
+hort was established in 1976 when
+121 700 women who were registered
+nurses residing in 11 large states, aged
+30 to 55 years, provided detailed infor-
+mation about their medical history and
+lifestyle characteristics.25 Every 2 years,
+follow-up questionnaires have been sent
+to update information on potential risk
+factors and to identify newly diag-
+nosed cases of CHD, stroke, and other
+diseases. In 1980, a 61-item food fre-
+quency questionnaire was included to
+assess intake of specific fats and other
+nutrients. In 1984, the food frequency
+questionnaire was expanded to in-
+clude 116 items. Similar question-
+naires were used to update diet in 1986
+and 1990. The reproducibility and va-
+lidity of the food frequency question-
+naires have been described in detail else-
+where.26,27
+
+After up to 4 mailings, 98 462 women
+returned the 1980 diet questionnaire.
+We excluded those who left 10 or more
+items blank, those with implausibly
+high or low scores for total food in-
+take or energy intake (ie, ,2100 kJ/d
+or .14 700 kJ/d) (n = 5994), and those
+with previously diagnosed cancer
+(n = 3526), cardiovascular disease
+(n = 1812), high blood cholesterol
+(n = 1821), or diabetes (n = 4122) at
+baseline. Incidence of CHD and stroke
+during the subsequent 14 years was
+monitored for 80 082 women during
+follow-up. The follow-up rate for non-
+fatal events was 98% of the total po-
+tential person-years of follow-up.
+
+Assessment of Egg Consumption
+Validated dietary questionnaires were
+sent to the HPFS participants in 1986
+and 1990 and the NHS participants in
+1980, 1984, 1986, and 1990. In all the
+questionnaires, we asked the partici-
+pants how often, on average, during the
+previous year they had consumed eggs
+(unit of consumption was 1 egg). Nine
+responses were possible, ranging from
+never to 6 or more times per day. We
+divided the participants into 5 catego-
+ries (,1 per week, 1 per week, 2-4 per
+week, 5-6 per week, $1 per day) based
+
+on the frequency distribution of egg
+consumption. In a validation study in
+a subsample of the participants, the cor-
+relation coefficent between intakes of
+eggs assessed by the diet question-
+naire and by multiple week diet re-
+cords was 0.8 for both men28 and
+women.29 We also computed intake of
+eggs included in other foods such as
+cakes, cookies, pancakes, muffins, sweet
+rolls, and donuts. The amount of eggs
+estimated from other foods was rela-
+tively small in both cohorts (men, 0.4
+egg per week; women, 0.3 egg per
+week), so we used the reported egg con-
+sumption as our primary exposure vari-
+able. In a secondary analysis, we ex-
+amined the effect of computed total egg
+consumption.
+
+End Points
+The end points were incident CHD (in-
+cluding nonfatal myocardial infarction
+[MI] and fatal CHD) and stroke occur-
+ring between return of the baseline ques-
+tionnaires and January 31, 1994 (men),
+or June 1, 1994 (women). We inquired
+about occurrence of cardiovascular end
+points on each biennial questionnaire.
+Participants reporting an incident MI or
+stroke were asked for permission to re-
+view medical records. Nonfatal MI was
+confirmed by symptoms plus either typi-
+cal electrocardiographic changes or in-
+creased activities in cardiac enzymes
+(World Health Organization criteria).30
+Infarctions that required hospital admis-
+sion and for which confirmatory infor-
+mation was obtained by interview or let-
+ter, but for which no medical records
+were available, were designated as prob-
+able. We included all confirmed and
+probable cases in the analyses because
+results were the same after excluding
+probable cases. Strokes were confirmed
+if characterized by a typical neurologi-
+cal defect of sudden or rapid onset, last-
+ing at least 24 hours, and attributable to
+a cerebrovascular event. Strokes caused
+by infection or neoplasia were ex-
+cluded. Strokes were subclassified ac-
+cording to the criteria of the National Sur-
+vey of Stroke as due to ischemia
+(embolism or thrombosis), subarach-
+noid hemorrhage, intracerebral hemor-
+
+1388 JAMA, April 21, 1999—Vol 281, No. 15
+
+©1999 American Medical Association. All rights reserved.
+
+Downloaded From:  on 08/20/2018EGG CONSUMPTION AND CARDIOVASCULAR DISEASE
+
+rhage, or unknown cause.31 If no rec-
+ords could be obtained, strokes were
+considered probable if they required hos-
+pitalization and were corroborated by ad-
+ditional information provided by letter
+or interview.
+
+Deaths were reported by next of kin,
+coworkers, postal authorities, or the Na-
+tional Death Index. Using all sources
+combined, we estimate that follow-up
+for the deaths was more than 98% com-
+plete.32 Fatal CHD was defined as fatal
+MI if this was confirmed by hospital rec-
+ords or autopsy, or if CHD was listed
+as the cause of death on the death cer-
+tificate and this was the underlying and
+most plausible cause, and evidence of
+previous CHD was available. The state-
+ment of the cause of death on the death
+certificate was never relied on by itself
+as providing sufficient confirmation of
+death due to CHD. Sudden death within
+an hour of the onset of symptoms in
+subjects with no other plausible cause
+of death (other than coronary disease)
+was also included. Fatal stroke was also
+confirmed by medical records or au-
+topsy reports, or considered probable
+if these were not obtainable but stroke
+was listed as the underlying cause on
+the death certificate.
+
+Statistical Analysis
+Participants contributed follow-up time
+from the return of the 1986 (men) or the
+1980 (women) questionnaire up to the
+occurrence of a confirmed end point,
+death, or the end of follow-up (January
+31, 1994, for men and June 1, 1994, for
+women). The relative risks (RRs) were
+calculated by dividing the incidence of
+CHD or stroke among men and women
+in various categories of egg consump-
+tion by the incidence among those in the
+lowest category of intake (,1 egg per
+week), adjusting for age (5-year catego-
+ries). To adjust for other risk factors, we
+used pooled logistic regression,33 which
+is asymptotically equivalent to Cox re-
+gression for time-dependent covari-
+ates. Multivariate models included as co-
+variates were (1) total energy intake
+(quintiles); (2) smoking (never, past,
+current 1-14, 15-24, and $25 cigarettes/
+d); (3) alcohol consumption (0-4, 5-9,
+
+10-14, 15-29, and $30 g/d); (4) his-
+tory of hypertension; (5) parental his-
+tory of MI; (6) body mass index (calcu-
+lated as weight in kilograms divided by
+the square of height in meters) (quin-
+tiles); and (7) current multivitamin use,
+and (8) vitamin E supplement use. In
+HPFS, we also adjusted for physical ac-
+tivity in metabolic equivalents per week
+(quintiles).34 In NHS, we adjusted for
+regular vigorous exercise (once or more
+per week) and menopausal status and
+postmenopausal hormone use. Tests of
+linear trend across increasing catego-
+ries of egg consumption were con-
+ducted by treating the median values of
+consumption in categories (servings per
+day) as a continuous variable.
+
+To reduce intra-individual varia-
+tion and best represent long-term diet,
+we used repeated measures of diet in
+our primary analyses.35 In particular,
+CHD or stroke incidence was related to
+the cumulative average of egg consump-
+tion from all available questionnaires
+prior to the beginning of each 2-year
+follow-up interval. For example, in
+HPFS, CHD or stroke incidence dur-
+ing the 1986-1990 period was related
+to egg consumption assessed in 1986,
+while the incidence during 1990-
+1994 period was related to the average
+intake assessed in 1986 and 1990. For
+those who failed to complete the 1990
+diet questionnaire (24%), we used the
+1986 values to replace the missing val-
+ues and a missing data indicator was in-
+cluded in the model to correct for po-
+tential bias. Average egg consumption
+at baseline was the same between the
+respondents and nonrespondents. In al-
+ternative analyses, we analyzed the in-
+cidence of CHD in relationship to egg
+consumption at baseline only. We also
+related the incidence to the most re-
+cent diet by using the baseline diet to
+predict incidence during 1986-1990,
+and the 1990 diet to predict incidence
+during 1990-1994. Because the diag-
+nosis of hypercholesterolemia, diabe-
+tes, or hypertension may lead to
+changes in egg consumption and there-
+fore confound the associations be-
+tween egg consumption and risk of car-
+diovascular disease, we did not update
+
+diets for those who developed these
+conditions.35
+
+RESULTS
+In men, the average egg consumption
+declined from 2.3 eggs per week in 1986
+to 1.6 eggs per week in 1990. In women,
+the average egg consumption de-
+clined from 2.8 eggs per week in 1980
+to 1.4 eggs per week in 1990. At base-
+line, egg consumption was positively as-
+sociated with smoking in men but in-
+versely associated with smoking in
+women (TABLE 1). Those with higher
+egg intake consumed more dietary cho-
+lesterol and protein but less carbohy-
+drates. Egg consumption was posi-
+tively associated with bacon intake
+among both men (r = 0.35) and women
+(r = 0.21). Men with higher egg con-
+sumption were more likely to con-
+sume whole milk, red meat, and bread,
+and less likely to consume skim milk,
+chicken, vegetables, and fruits. These
+relationships were less clear in women.
+
+Association With CHD
+We documented 866 incident cases of
+CHD in men during 8 years of fol-
+low-up (1986-1994) and 939 cases of
+CHD in women during 14 years of fol-
+low-up (1980-1994). The age-adjusted
+RR of CHD comparing more than 1 egg
+per day with less than 1 egg per week
+was 1.15 (95% confidence interval [CI],
+0.85-1.55; P for trend = .37) for men and
+0.85 (95% CI, 0.62-1.16; P for
+trend = .50) for women (TABLE 2). Af-
+ter adjustment for smoking and other co-
+variates, the corresponding RRs were
+1.08 (95% CI, 0.79-1.48; P for
+trend = .75) for men and 0.82 (95% CI,
+0.60-1.13; P for trend = .95) for women.
+Additional adjustment for dietary fiber
+intake had little impact on the RRs for
+women but it further attenuated the as-
+sociation for men (RR for .1 egg per
+day, 1.01; 95% CI, 0.74-1.38). Because
+of the relatively strong correlation be-
+tween consumption of eggs and bacon,
+we further adjusted for bacon intake.
+The adjusted RRs across categories of egg
+consumption are less than 1 per week
+(1.0), 1 per week (1.00), 2 to 4 per week
+(1.04), 5 to 6 per week (0.78), and 1 or
+
+©1999 American Medical Association. All rights reserved.
+
+JAMA, April 21, 1999—Vol 281, No. 15 1389
+
+Downloaded From:  on 08/20/2018EGG CONSUMPTION AND CARDIOVASCULAR DISEASE
+
+more per day (0.93) (P for trend = .36)
+for men; and less than 1 per week (1.0),
+1 per week (0.81), 2 to 4 per week
+(0.96), 5 to 6 per week (0.91), and 1 or
+more per day (0.78) (P for trend = .73)
+for women. Additional adjustment for
+other foods including whole milk, fish,
+beef as main dish, chicken, or cereal had
+little impact on the results.
+
+In further analyses egg consump-
+tion had no significant relationship with
+either fatal CHD or nonfatal MI (data
+not shown). After excluding cases with
+events occurring during the first 2 years
+of follow-up to reduce the effect of
+change in diet due to preclinical con-
+ditions, the results remained un-
+changed. In analyses excluding partici-
+
+pants who reported changes in egg
+consumption in the previous decade
+from baseline, we observed a signifi-
+cant inverse association for men but a
+nonsignificant positive association for
+women. The results from analyses in-
+cluding eggs estimated from other foods
+were similar to those from the main
+analyses. We also observed no signifi-
+
+Table 1. Baseline Characteristics According to Egg Consumption Levels in Men and Women*
+
+Men in Health Professionals’
+
+Follow-up Study (1986 Baseline)
+
+Egg Consumption
+
+Women in Nurses’ Health
+
+Study (1980 Baseline)
+
+Egg Consumption
+
+Characteristics
+
+No. of subjects
+Current smoker, %
+Current postmenopausal hormone use, %
+Parental history of myocardial infarction, %
+Multivitamin supplement use, %
+Vitamin E supplement use, %
+History of hypertension, %
+Vigorous exercise $1/wk, %
+Age, y
+Body mass index, kg/m2
+Alcohol use, g/d
+Physical activity, metabolic equivalent/wk†
+Energy intake, kJ
+Nutrient intakes (energy-adjusted)
+
+Cholesterol, mg/d
+Saturated fat, g/d
+Monounsaturated fat, g/d
+Polyunsaturated fat, g/d
+Transfatty acid, g/d
+Dietary folate, µg/d
+Fiber, g/d
+Protein, g/d
+Carbohydrates, g/d
+
+,1 Per
+Week
+11 247
+7.2
+NA
+13.1
+41.5
+19.6
+17.8
+. . .
+52.7
+25.2
+10.1
+22.0
+
+1 Per
+Week
+8103
+9.0
+NA
+11.1
+39.9
+17.3
+18.4
+. . .
+52.6
+25.4
+11.0
+19.6
+
+2-4 Per
+Week
+13 845
+10.8
+NA
+11.2
+41.1
+17.6
+17.7
+. . .
+53.8
+25.6
+12.1
+19.0
+
+5-6 Per
+Week
+2280
+13.9
+NA
+10.5
+41.6
+18.9
+15.9
+. . .
+54.2
+25.8
+13.1
+18.8
+
+.1 Per
+
+Day
+2376
+14.6
+NA
+9.2
+43.3
+20.8
+14.3
+. . .
+54.2
+25.5
+12.3
+17.5
+
+7627
+
+8089
+
+8770
+
+9559
+
+9925
+
+237
+23.1
+25.9
+13.0
+2.7
+
+368
+22.6
+90.7
+247
+
+266
+24.7
+27.4
+13.2
+2.9
+
+354
+20.6
+90.8
+236
+
+330
+25.5
+28.1
+13.2
+2.9
+
+348
+19.9
+92.2
+229
+
+404
+26.5
+29.1
+13.3
+2.9
+
+336
+19.0
+93.4
+221
+
+536
+27.9
+30.3
+13.4
+2.9
+
+336
+18.5
+96.0
+211
+
+,1 Per
+Week
+11 568
+34.7
+15.2
+15.9
+29.8
+11.4
+14.2
+42.8
+46.4
+23.9
+6.4
+
+. . .
+5851
+
+228
+28.0
+28.4
+9.0
+4.0
+
+240
+13.6
+72.8
+160
+
+1 Per
+Week
+16 155
+30.6
+15.8
+16.1
+30.2
+10.9
+13.8
+43.8
+45.7
+23.9
+6.5
+. . .
+
+6086
+
+258
+28.1
+28.6
+9.3
+4.1
+
+246
+13.4
+73.0
+158
+
+2-4 Per
+Week
+38 109
+27.0
+16.9
+15.3
+34.1
+12.2
+14.1
+45.8
+45.8
+24.4
+6.3
+
+5-6 Per
+Week
+7160
+26.3
+17.4
+14.9
+38.4
+15.1
+13.8
+46.2
+45.5
+24.6
+6.8
+
+. . .
+6703
+
+. . .
+7274
+
+342
+27.8
+28.5
+9.4
+4.0
+
+261
+13.7
+76.3
+156
+
+436
+28.3
+29.1
+9.6
+4.0
+
+264
+13.5
+77.6
+150
+
+.1 Per
+
+Day
+7090
+25.4
+16.0
+14.5
+40.5
+18.0
+14.0
+46.7
+45.9
+24.4
+6.7
+. . .
+7505
+
+557
+29.0
+29.8
+9.6
+3.8
+
+272
+13.3
+79.9
+144
+
+Food intakes, serving per 4200 kJ
+
+Whole milk
+Skim milk
+Red meat‡
+Bacon
+Chicken
+Breakfast cereal
+Dark bread
+White bread
+Vegetables§
+Fruits\
+Legumes¶
+
+0.18
+0.36
+0.48
+0.12
+0.17
+0.11
+0.52
+0.52
+1.30
+1.31
+0.29
+*Values are means unless otherwise indicated. Data, except age, were directly standardized to the age distribution of each study population. Ellipses indicate data not provided;
+
+0.17
+0.38
+0.51
+0.06
+0.17
+0.20
+0.44
+0.51
+1.35
+1.34
+0.31
+
+0.16
+0.44
+0.50
+0.08
+0.17
+0.19
+0.50
+0.52
+1.34
+1.37
+0.31
+
+0.17
+0.39
+0.48
+0.10
+0.17
+0.15
+0.52
+0.51
+1.30
+1.30
+0.30
+
+0.05
+0.38
+0.27
+0.03
+0.19
+0.24
+0.37
+0.21
+1.75
+1.09
+0.26
+
+0.07
+0.39
+0.31
+0.05
+0.18
+0.22
+0.34
+0.23
+1.55
+0.95
+0.23
+
+0.08
+0.36
+0.33
+0.07
+0.17
+0.19
+0.36
+0.26
+1.50
+0.88
+0.22
+
+0.10
+0.32
+0.34
+0.11
+0.16
+0.14
+0.37
+0.31
+1.42
+0.82
+0.22
+
+0.12
+0.29
+0.37
+0.15
+0.15
+0.10
+0.44
+0.33
+1.35
+0.77
+0.23
+
+0.16
+0.36
+0.51
+0.05
+0.19
+0.19
+0.45
+0.49
+1.41
+1.37
+0.33
+
+NA, not applicable.
+
+†The metabolic equivalent value is the energy needed per kilogram of body weight per hour of activity divided by the energy need per kilogram of body weight per hour at rest.
+‡Composite score of beef, pork, or lamb as the main dish, beef as a sandwich or mixed dish, and hamburger.
+§Composite score of 22 vegetable foods from the men’s study and 11 from the women’s study.
+\Composite score of 12 fruits in the men’s study and 6 from the women’s study.
+¶Composite score of peas or lima beans and beans or lentils.
+
+1390 JAMA, April 21, 1999—Vol 281, No. 15
+
+©1999 American Medical Association. All rights reserved.
+
+Downloaded From:  on 08/20/2018EGG CONSUMPTION AND CARDIOVASCULAR DISEASE
+
+cant increase in risk when either only
+baseline or only recent egg consump-
+tion was analyzed. Only 4.8% women
+reported almost never consuming eggs
+and 1.6% women reported consuming
+2 eggs or more per day. When these 2
+extreme groups were compared (us-
+ing never consumers as the reference
+group), the multivariate RR was 0.76
+(95% CI, 0.43-1.35). The correspond-
+ing RR was 1.10 (95% CI, 0.67-1.79)
+for men.
+
+In all above analyses, participants
+with diabetes or hypercholesterol-
+emia at baseline were excluded. When
+these subjects were included in the
+analyses, the results did not apprecia-
+bly change. The multivariate RRs as in
+Table 2 across categories of egg intake
+were less than 1 per week (1.0), 1 per
+week (1.05), 2 to 4 per week (1.04), 5
+to 6 per week (0.96), and 1 or more per
+day (1.10) (95% CI, 0.83-1.45; P for
+trend = .78) for men; and less than 1 per
+week (1.0), 1 per week (0.87), 2 to 4
+per week (0.98), 5 to 6 per week (1.03),
+and 1 or more per day (0.95) (95% CI,
+0.74-1.22; P for trend = .54) for women.
+
+Associations According
+to Risk Factor Status
+To examine the possibility that a posi-
+tive association with egg intake is lim-
+ited to certain subgroups, we con-
+ducted additional multivariate analyses
+stratified by risk factor status includ-
+ing hypercholesterolemia, diabetes, hy-
+pertension, smoking, alcohol use, body
+
+mass index, age, vitamin supplement
+use, parental history of MI, and in-
+takes of saturated fat, polyunsaturated
+fat, and carbohydrates. We found no
+evidence of a positive association with
+higher consumption of eggs in any sub-
+group except a suggestion that the risk
+might be elevated among individuals
+with diabetes. Among diabetic men, the
+multivariate RRs of CHD across cat-
+egories of intake were less than 1 per
+week (1.0), 1 per week (1.0), 2 to 4 per
+week (1.16), 5 to 6 per week (1.16), and
+1 or more eggs per day (2.02); (95% CI,
+1.05-3.87; P = .04 for trend and P = .18
+for interaction between egg consump-
+tion and diabetes status). The corre-
+sponding RRs for diabetic women were
+1.0, 0.91, 1.05, 1.87, and 1.49 (95% CI,
+0.88-2.52; P = .008 for trend and P = .07
+for interaction). To investigate the pos-
+sibility that an effect of egg consump-
+tion may be more apparent among those
+with a low-background cholesterol
+diet,36 we conducted analyses strati-
+fied by dietary cholesterol from foods
+other than eggs. The RRs for more than
+1 eggs per day were 1.05 (95% CI, 0.61-
+1.79) for the men and 0.97 (95% CI,
+0.13-7.10) for the women whose non-
+egg cholesterol intake was low (mean
+intakes were 88.4 mg/4200 kJ for men
+and 118.8 mg/4200 kJ for women),
+compared with 0.97 (95% CI, 0.64-
+1.46) for the men and 0.79 (95% CI,
+0.57-1.11) for the women whose non-
+egg cholesterol intake was relatively
+high (mean intakes were 135.9 mg/
+
+4200 kJ for men and 175.9 mg/4200 kJ
+for women).
+
+The Association With Stroke
+We documented 258 incident cases of
+stroke in men during 8 years of fol-
+low-up and 563 cases of stroke in
+women during 14 years of follow-up.
+In multivariate analyses (TABLE 3), egg
+consumption was not significantly as-
+sociated with risk of total stroke; the
+RRs for 1 egg or more per day were 1.07
+(95% CI, 0.66-1.75; P for trend = .50)
+for men and 0.89 (95% CI, 0.60-1.31;
+P for trend = .77) for women. Adjust-
+ment for intake of bacon, vegetables,
+and fruit further attenuated the asso-
+ciation for men (RR for $1 egg per day,
+1.00; 95% CI, 0.57-1.78; P for trend =
+0.95). In both cohorts, no significant
+association was observed between egg
+consumption and risk of ischemic or
+hemorrhagic stroke.
+
+COMMENT
+In these 2 large prospective cohort stud-
+ies of men and women, we found no
+overall significant association be-
+tween egg consumption (up to 1 egg per
+day) and risk of CHD or stroke. We spe-
+cifically found no evidence for a sig-
+nificant increase in risk with either re-
+cent or relatively long-term (over the
+past decade) egg consumption. De-
+spite somewhat different patterns of egg
+consumption in men and women, the
+results from the 2 cohorts were remark-
+ably consistent.
+
+Table 2. Coronary Heart Disease According to Categories of Egg Consumption*
+
+Men
+
+Amount
+of Eggs
+
+Consumed
+
+No. of
+Cases
+
+Person-
+Years
+
+Age-Adjusted
+Relative Risk
+
+(95% CI)
+
+Multivariate
+Relative Risk
+
+(95% CI)
+
+No. of
+Cases
+
+Person-
+Years
+
+Women
+
+Age-Adjusted
+Relative Risk
+
+(95% CI)
+
+Multivariate
+Relative Risk
+
+(95% CI)
+
+Per week
+
+,1
+1
+2-4
+5-6
+Per day
+$1
+
+252
+210
+315
+38
+
+51
+
+90 118
+69 091
+88 077
+12 216
+
+1.0
+
+1.09 (0.90-1.31)
+1.16 (0.98-1.37)
+0.97 (0.68-1.36)
+
+1.0
+
+1.06 (0.88-1.27)
+1.12 (0.95-1.33)
+0.90 (0.63-1.27)
+
+14 059
+
+1.15 (0.85-1.55)
+
+1.08 (0.79-1.48)
+
+189
+346
+331
+43
+
+30
+
+175 144
+366 625
+409 896
+52 584
+
+1.0
+
+0.75 (0.61-0.91)
+0.95 (0.80-1.14)
+0.97 (0.71-1.31)
+
+1.0
+
+0.82 (0.67-1.00)
+0.99 (0.82-1.18)
+0.95 (0.70-1.29)
+
+52 971
+
+0.85 (0.62-1.16)
+
+0.82 (0.60-1.13)
+
+P for trend
+*Adjusted for age (5-year categories), body mass index (quintiles), 2-year time periods, cigarette smoking (never, past, and current [1-14, 15-24, and $25 cigarettes/d]), parental
+history of myocardial infarction, multivitamin supplement use, vitamin E supplement use, alcohol consumption (0-4, 5-9, 10-14, 15-29, $30 g/d), menopausal status and post-
+menopausal hormone use (women), history of hypertension, physical activity (quintiles of metabolic equivalents in men and vigorous activities at least once a week in women), and
+total energy intake (quintiles). CI indicates confidence interval.
+
+.37
+
+.75
+
+.50
+
+.95
+
+©1999 American Medical Association. All rights reserved.
+
+JAMA, April 21, 1999—Vol 281, No. 15 1391
+
+Downloaded From:  on 08/20/2018EGG CONSUMPTION AND CARDIOVASCULAR DISEASE
+
+In subgroup analyses, egg consump-
+tion appeared to be associated with in-
+creased risk of CHD among individu-
+als with diabetes. This result should be
+interpreted cautiously due to numer-
+ous subgroup analyses, but the consis-
+tency of the association in the 2 co-
+horts argues against a chance finding.
+The increased risk may be related to ab-
+normal cholesterol transport due to de-
+creased levels of apolipoprotein E37 and
+increased levels of apolipoprotein C-
+III38 among patients with diabetes.
+
+We considered the possibility that in-
+accurate self-reports of egg consump-
+tion or confounding by intake of other
+foods could explain the observed null
+results. Egg consumption was re-
+ported on food frequency question-
+naires with relatively high accuracy
+(correlations were 0.8 between the self-
+report and multiple week dietary re-
+cords in our validation studies28,29).
+Also, egg consumption was assessed
+several times in both cohorts so that our
+analyses using updated dietary infor-
+mation could dampen measurement er-
+ror and take into account changes in
+eating behavior.
+
+Several metabolic studies have sug-
+gested a hypocholesterolemic effect of
+decholesterolized eggs (ie, Eggbeaters)
+on blood cholesterol levels compared
+with whole eggs.39,40 We were not able
+to examine the effect of such products
+on the risk of CHD because they were
+not included in the dietary question-
+naires on the printed form. However, our
+questionnaires permit respondents to re-
+port other foods that are frequently con-
+sumed. In NHS, only 48 women re-
+corded consuming Eggbeaters in the
+1984 dietary questionnaire and 105 re-
+corded this in the 1990 questionnaire.
+Egg consumption was positively as-
+sociated with smoking, lower physical
+activity, and a generally unhealthy eat-
+ing pattern (ie, more whole milk, red
+meat, and bacon and less skim milk,
+vegetables, and fruits) in men. Con-
+founding due to these factors would ar-
+tifactually produce an elevated risk for
+egg consumption. As expected, an ap-
+parent positive association with higher
+egg consumption in the age-adjusted
+analysis in men was attenuated after ad-
+justment for smoking and other covar-
+iates. After further adjusting for bacon
+
+intake, which was positively associ-
+ated with risk of CHD in our cohorts,
+the RRs became weakly inverse. This
+speaks to the importance of consider-
+ing overall eating patterns when exam-
+ining the effects of egg consumption.
+It is possible that participants with
+high serum cholesterol levels were more
+likely to reduce their egg intake than oth-
+ers, which might obscure a positive as-
+sociation between egg consumption and
+risk of CHD. However, in our primary
+analyses, we excluded subjects with di-
+agnosed hypercholesterolemia at base-
+line. Also, in our analyses by using up-
+dated dietary information, we stopped
+updating egg consumption at the begin-
+ning of the time interval during which
+individuals reported hypercholesterol-
+emia to avoid confounding due to change
+in diet during follow-up.41 Finally, we did
+not measure blood cholesterol levels in
+our cohorts. However, blood choles-
+terol should not be controlled in the
+analyses as it is an intermediate variable
+when assessing the relationship be-
+tween dietary cholesterol and CHD.
+
+In controlled metabolic studies, in-
+gestion of cholesterol by eating egg
+
+Table 3. Stroke According to Categories of Egg Consumption*
+
+Total
+
+Type of Stroke
+
+Ischemic
+
+Hemorrhagic
+
+Amount
+of Eggs
+
+Consumed
+
+No. of
+Cases
+
+Age-Adjusted
+Relative Risk
+
+(95% CI)
+
+Multivariate
+Relative Risk
+
+(95%CI)
+
+No. of
+Cases
+
+Age-Adjusted
+Relative Risk
+
+(95% CI)
+Men
+
+Multivariate
+Relative Risk
+
+(95% CI)
+
+No. of
+Cases
+
+Age-Adjusted
+Relative Risk
+
+(95% CI)
+
+Multivariate
+Relative Risk
+
+(95% CI)
+
+76
+65
+82
+18
+
+17
+
+1.0
+1.09 (0.78-1.52)
+0.99 (0.73-1.36)
+1.52 (0.91-2.56)
+
+1.0
+1.06 (0.76-1.49)
+0.95 (0.69-1.31)
+1.43 (0.85-2.43)
+
+1.25 (0.74-2.12)
+
+1.07 (0.66-1.75)
+
+.28
+
+.50
+
+51
+42
+52
+11
+
+10
+
+1.0
+1.04 (0.69-1.57)
+0.94 (0.63-1.38)
+1.39 (0.72-2.69)
+
+1.0
+0.99 (0.66-1.50)
+0.86 (0.58-1.28)
+1.25 (0.64-1.87)
+
+16
+13
+19
+4
+
+1.0
+1.05 (0.51-2.19)
+1.12 (0.57-2.18)
+0.77 (0.26-2.30)
+
+1.0
+1.02 (0.49-2.14)
+1.01 (0.51-2.00)
+0.67 (0.22-2.07)
+
+1.09 (0.55-2.15)
+
+0.93 (0.46-1.87)
+
+. . .†
+
+.70
+Women
+
+.88
+
+. . .†
+.78
+
+. . .†
+.55
+
+Per week
+
+,1
+1
+2-4
+5-6
+Per day
+$1
+
+P for trend
+
+Per week
+
+,1
+1
+2-4
+5-6
+Per day
+$1
+
+110
+161
+222
+34
+
+1.0
+0.83 (0.65-1.05)
+0.81 (0.64-1.01)
+0.90 (0.61-1.32)
+
+1.0
+0.89 (0.70-1.13)
+0.83 (0.66-1.05)
+0.89 (0.60-1.32)
+
+63
+82
+114
+21
+
+1.0
+0.70 (0.51-0.98)
+0.75 (0.55-1.03)
+1.08 (0.66-1.78)
+
+1.0
+0.78 (0.56-1.09)
+0.79 (0.57-1.08)
+1.11 (0.67-1.84)
+
+36
+
+0.92 (0.63-1.35)
+
+0.89 (0.60-1.31)
+
+16
+
+0.80 (0.46-1.39)
+
+0.81 (0.46-1.42)
+
+33
+51
+69
+9
+
+14
+
+1.0
+0.89 (0.67-1.38)
+0.80 (0.53-1.21)
+0.72 (0.34-1.51)
+
+1.0
+0.93 (0.60-1.44)
+0.86 (0.56-1.31)
+0.75 (0.35-1.58)
+
+1.09 (0.58-2.03)
+
+1.07 (0.56-2.03)
+
+.77
+
+.81
+
+P for trend
+*See footnote to Table 2 for multivariate list. CI indicates confidence interval.
+†Ellipses indicate that data in this category are combined with the previous category due to the small number of cases.
+
+.77
+
+.96
+
+.90
+
+.81
+
+1392 JAMA, April 21, 1999—Vol 281, No. 15
+
+©1999 American Medical Association. All rights reserved.
+
+Downloaded From:  on 08/20/2018EGG CONSUMPTION AND CARDIOVASCULAR DISEASE
+
+yolks or whole eggs raises serum total
+and LDL cholesterol levels.5-7,42 In most
+egg feeding studies, intakes of other nu-
+trients such as fatty acids, carbohy-
+drates, and protein were balanced be-
+tween egg and no egg groups so that
+only dietary cholesterol varied. In our
+cohorts, participants who consumed
+more eggs had lower intakes of carbo-
+hydrates, suggesting that, in reality,
+people often substitute eggs for carbo-
+hydrate-rich foods such as breakfast ce-
+reals. The effects of egg cholesterol on
+blood cholesterol can be predicted from
+well-established equations derived from
+metabolic studies. A 50-g egg contains
+about 213 mg of cholesterol, 6 g of pro-
+tein, and 5 g of fat.43 Of the fat, nearly
+half is monounsaturated fat and 16% is
+polyunsaturated fat. The equation de-
+rived by Keys and Parlin4 predicts that
+adding 1 egg to an average diet (as-
+sume 200 mg background cholesterol
+and 7560 kJ/d) will result in about a 4%
+increase in total serum cholesterol for
+a normocholesterolemic person (as-
+sume total blood cholesterol of 5.17
+mmol/L [200 mg/dL]). If we assume
+that raising cholesterol levels is the only
+effect of egg consumption, this would
+translate into about an 8% increase in
+CHD risk,44 an effect generally too small
+to be detectable in this and most epi-
+demiologic studies or clinical trials. In
+NHS, dietary cholesterol (but not eggs)
+was nonsignificantly associated with
+CHD,17 raising the possibility that eggs
+contain other nutrients that may be ben-
+eficial in preventing CHD.
+
+The equation developed by Men-
+sink and Katan45 predicts that substi-
+tuting fatty acids from 1 egg for carbo-
+hydrates would raise HDL cholesterol
+by about 2% (assume HDL level of 1.03
+mmol/L [40 mg/dL]) and decrease tri-
+glycerides also by about 2% (assume tri-
+glyceride level of 2.82 mmol/L [250 mg/
+dL]). The effects of egg consumption
+on raising HDL levels have been ob-
+served in some metabolic studies,19,20
+but not in others.36,40 Also, in egg feed-
+ing studies, triglyceride levels were sig-
+nificantly reduced in some,19,20 but not
+other studies.36,46 In particular, Schnohr
+et al19 observed a reduction of triglyc-
+
+erides by 0.09 mmol/L (7.97 mg/dL) by
+adding 2 eggs to the usual diet. Pack-
+ard et al20 observed a reduction of tri-
+glycerides by 0.19 mmol/L (16.8 mg/
+dL) by adding 6 eggs to the diet. In
+addition, egg intake decreased blood
+glycemic and insulinemic responses,47
+especially when egg yolk was ingested
+(compared with whole egg or egg
+white).21 This might result from fur-
+ther delayed gastric emptying after yolk
+ingestion. Moreover, adding eggs to
+pasta produced lower insulin and C-
+peptide responses.48 Holt et al49 tested
+38 common foods and found that eggs
+were among the foods that have the
+lowest glycemic and insulin indexes.
+Based on the 116 food items in the
+1984 food frequency questionnaire in
+NHS, we estimated that egg consump-
+tion contributed to 32% of total dietary
+cholesterol. Eggs also made contribu-
+tions to dietary intakes of many other
+nutrients, including vitamin D (5%),
+retinol (4%), folate (4%), a-tocopherol
+(3%), monounsaturated fat (3%), vita-
+min B12 (3%), vitamin B2 (3%), protein
+(3%), saturated fat (2.5%), linoleic acid
+(2%), calcium (1.3%), vitamin B1 (1.2%),
+and vitamin B2 (1.2%). It is conceiv-
+able that the small adverse effect of cho-
+lesterol in an egg on plasma LDL levels
+is counterbalanced by potential benefi-
+cial effects on HDL and triglycerides, and
+of other nutrients including antioxi-
+dants, folate, other B vitamins, and un-
+saturated fats. Since there is no single
+biochemical measurement that can rep-
+resent the effects of various nutrients, it
+is important to examine the direct rela-
+tionship between egg consumption and
+risk of CHD. Only 2 previous prospec-
+tive cohort studies reported on the as-
+sociation between egg consumption and
+risk of CHD. In the Framingham Study,
+egg consumption was not significantly
+associated with either serum choles-
+terol or risk of CHD (RR was not pro-
+vided).22 In the California Adventists
+Study, the RR for higher intake ($3 per
+week) vs lowest intake (,1 per week)
+was 1.01.23 In a case-control study con-
+ducted in Italy,24 the RR comparing
+women in the upper third of egg intake
+with those in the lower third was 0.8.
+
+One potential alternative explana-
+tion for the null finding is that back-
+ground dietary cholesterol may be so
+high in the usual Western diet that add-
+ing somewhat more has little further ef-
+fect on blood cholesterol. In a random-
+ized trial, Sacks et al36 found that adding
+1 egg per day to the usual diet of 17 lac-
+tovegetarians whose habitual choles-
+terol intake was very low (97 mg/d) sig-
+nificantly increased LDL cholesterol
+level by 12%. In our analyses, differ-
+ences in non-egg cholesterol intake did
+not appear to be an explanation for the
+null association between egg consump-
+tion and risk of CHD. However, we can-
+not exclude the possibility that egg con-
+sumption may increase the risk among
+participants with very low back-
+ground cholesterol intake. Also, we
+have limited power to examine the ef-
+fect of high egg consumption (eg, $2
+eggs per day). Nevertheless, the aver-
+age egg consumption was 0.64 eggs per
+day in 1995 in the United States,50
+which is well within the range of con-
+sumption in our analyses.
+
+We found no significant association
+between egg consumption and risk of to-
+tal stroke or its subtype. Epidemiologic
+studies51 have revealed no clear pat-
+terns between blood cholesterol and
+stroke although secondary prevention
+trials52,53 showed significant reductions
+in stroke incidence among patients with
+MIs and who were treated with choles-
+terol-lowering drugs (statins). A recent
+report from the Framingham Heart
+Study54 indicated that intakes of total fat,
+saturated fat, and monounsaturated fat
+were associated with reduced risk of
+ischemic stroke, but the study did not
+examine the effects of dietary choles-
+terol or egg consumption.
+
+In conclusion, our data suggest that
+consumption of up to 1 egg per day is un-
+likely to have substantial overall impact
+on the risk of cardiovascular disease
+among healthy men and women. The ap-
+parent increased risk of CHD associated
+with higher egg consumption among
+diabetics warrants further research.
+
+Funding/Support: This research was supported by Na-
+tional Institutes of Health grants HL35464, HL24074,
+HL34594, DK 46200, CA40356, and CA55075.
+
+©1999 American Medical Association. All rights reserved.
+
+JAMA, April 21, 1999—Vol 281, No. 15 1393
+
+Downloaded From:  on 08/20/2018EGG CONSUMPTION AND CARDIOVASCULAR DISEASE
+
+Acknowledgment: We are indebted to the partici-
+pants in the NHS and HPFS for their outstanding level
+of cooperation; and to Al Wing, MBA, Gary Chase,
+Karen Corsano, MSL, Lisa Dunn, Barbara Egan, Lori
+Ward, Jill Arnold, Mira Kaufman, MS, Betsy Frost-
+Hawes, Kerry Pillsworth-Demers, and Mildred Wolff,
+MA, for their unfailing help.
+
+REFERENCES
+1. National Cholesterol Education Program. Report of
+the Expert Panel on Population Strategies for Blood
+Cholesterol Reduction: executive summary. Arch In-
+tern Med. 1991;151:1071-1084.
+2. Stamler J, Shekelle R. Dietary cholesterol and hu-
+man coronary heart disease. Arch Pathol Lab Med.
+1988;112:1032-1040.
+3. Hegsted DM, McGandy RB, Myers ML, Stare FJ.
+Quantitative effects of dietary fat on serum choles-
+terol in man. Am J Clin Nutr. 1965;17:281-295.
+4. Keys A, Parlin RW. Serum-cholesterol response to
+changes in dietary lipids. Am J Clin Nutr. 1966;19:
+175-181.
+5. Clarke R, Frost C, Collins R, Appleby P, Peto R. Di-
+etary lipids and blood cholesterol: quantitative meta-
+analysis of metabolic ward studies. BMJ. 1997;314:
+112-117.
+6. Howell WH, McNamara DJ, Tosca MA, Smith BT,
+Gaines JA. Plasma lipid and lipoprotein responses to
+dietary fat and cholesterol: a meta-analysis. Am J Clin
+Nutr. 1997;65:1747-1764.
+7. McGill HC. The relationship of dietary cholesterol
+to serum cholesterol concentration and to atheroscle-
+rosis in man. Am J Clin Nutr. 1979;32:2664-2702.
+8. Hegsted DM. Serum-cholesterol response to di-
+etary cholesterol: a re-evaluation. Am J Clin Nutr. 1986;
+44:299-305.
+9. McGee DL, Reed DM, Yano K, Kagan A, Tillotson
+J. Ten-year incidence of coronary heart disease in the
+Honolulu Heart Program: relationship to nutrient in-
+take. Am J Epidemiol. 1984;119:667-676.
+10. Shekelle RB, Shryock AM, Paul O, et al. Diet, se-
+rum cholesterol, and death from coronary heart dis-
+ease: the Western Electric Study. N Engl J Med. 1981;
+304:65-70.
+11. Kromhout D, de Lezenne Coulander C. Diet,
+prevalence and 10-year mortality from coronary heart
+disease in 871 middle-aged men: the Zutphen Study.
+Am J Epidemiol. 1984;119:733-741.
+12. Kushi LH, Lew RA, Stare FJ, et al. Diet and 20-
+year mortality from coronary heart disease: the Ireland-
+Boston Diet-Heart Study. N Engl J Med. 1985;312:
+811-818.
+13. Posner BM, Cobb JL, Belanger AJ, Cupples A,
+D’Agostino RB, Stokes J III. Dietary lipid predictors of
+coronary heart disease in men. Arch Intern Med. 1991;
+151:1181-1187.
+14. Ascherio A, Rimm EB, Giovannucci EL, Spiegel-
+man D, Stampfer MJ, Willett WC. Dietary fat and risk
+of coronary heart disease in men: cohort follow up
+study in the United States. BMJ. 1996;313:84-90.
+15. Esrey KL, Joseph L, Grover SA. Relationship be-
+tween dietary intake and coronary heart disease mor-
+tality: Lipid Research Clinics Prevalence Follow-up
+Study. J Clin Epidemiol. 1996;49:211-216.
+16. Pietinen P, Ascherio A, Korhonen P, et al. Intake
+of fatty acids and risk of coronary heart disease in a
+cohort of Finnish men: the Alpha-Tocopherol, Beta-
+Carotene Cancer Prevention Study. Am J Epidemiol.
+1997;145:876-887.
+17. Hu FB, Stampfer MJ, Manson JE, et al. Dietary fat
+intake and the risk of coronary heart disease in women.
+N Engl J Med. 1997;337:1491-1499.
+
+18. Krauss RM, Deckelbaum RJ, Ernst N, et al. Di-
+etary guidelines for healthy American adults: a state-
+ment for health professionals from the nutrition com-
+mittee, American Heart Association. Circulation. 1996;
+94:1795-1800.
+19. Schnohr P, Thomsen O, Riis Hansen P, Boberg-
+Ans G, Lawaetz H, Weeke T. Egg consumption and
+high-density lipoprotein cholesterol. J Intern Med.
+1994;235:249-251.
+20. Packard CJ, McKinney L, Carr K, Shepherd J. Cho-
+lesterol feeding increases low density lipoprotein syn-
+thesis. J Clin Invest. 1983;72:45-51.
+21. Pelletier X, Thouvenot P, Belbraouet S, et al. Ef-
+fect of egg consumption in healthy volunteers: influ-
+ence of yolk, white or whole-egg on gastric empty-
+ing and on glycemic and hormonal responses. Ann Nutr
+Metab. 1996;40:109-115.
+22. Dawber TR, Nickerson RJ, Brand FN, Pool J. Eggs,
+serum cholesterol, and coronary heart disease. Am J
+Clin Nutr. 1982;36:617-625.
+23. Fraser GE. Diet and coronary heart disease: be-
+yond dietary fats and low-density-lipoprotein choles-
+terol. Am J Clin Nutr. 1994;59(suppl):1117-1123.
+24. Gramenzi A, Gentile A, Fasoli M, Negri E, Parazzini
+F, La Vecchia C. Association between certain foods
+and risk of acute myocardial infarction in women. BMJ.
+1990;300:771-773.
+25. Colditz GA, Manson JE, Hankinson SE. The Nurses’
+Health Study: 20-year contribution to the understand-
+ing of health among women. J Womens Health. 1997;
+6:49-62.
+26. Willett WC, Sampson L, Stampfer MJ, et al. Re-
+producibility and validity of a semiquantitative food
+frequency questionnaire. Am J Epidemiol. 1985;122:
+51-65.
+27. Willett WC, Sampson L, Browne ML, et al. The
+use of a self-administered questionnaire to assess diet
+four years in the past. Am J Epidemiol. 1988;127:
+188-199.
+28. Feskanich D, Rimm EB, Giovannucci EL, et al. Re-
+producibility and validity of food intake measure-
+ments from a semiquantitative food frequency ques-
+tionnaire. J Am Diet Assoc. 1993;93:790-796.
+29. Salvini S, Hunter DJ, Sampson L, et al. Food-
+based validation of a dietary questionnaire: the ef-
+fects of week-to-week variation in food consump-
+tion. Int J Epidemiol. 1989;18:858-867.
+30. Rose GA, Blackburn H. Cardiovascular survey
+methods. WHO Monograph Series No. 58. Geneva,
+Switzerland: World Health Organization; 1982.
+31. Walker AE, Robins M, Weinfeld FD. The Na-
+tional Survey of Stroke: clinical findings. Stroke. 1981;
+12(suppl 1):I13-I44.
+32. Stampfer MJ, Willett WC, Speizer FE, et al. Test
+of the national death index. Am J Epidemiol. 1984;
+119:837-839.
+33. D’Agostino RB, Lee M-L, Belanger AJ, Cupples
+LA, Anderson K, Kannel WB. Relation of pooled lo-
+gistic regression to time dependent cox regression
+analysis: the Framingham Heart Study. Stat Med. 1990;
+9:1501-1515.
+34. Chasan-Taber S, Rimm EB, Stampfer MJ, et al. Re-
+producibility and validity of a self-administered physi-
+cal activity questionnaire for male health profession-
+als. Epidemiology. 1996;7:81-86.
+35. Hu FB, Stampfer MJ, Rimm E, et al. Dietary fat
+and coronary heart disease: a comparison of ap-
+proaches for adjusting for total energy intake and mod-
+eling repeated dietary measurements. Am J Epide-
+miol. 1999;149:531-540.
+36. Sacks F, Salazar J, Miller L, et al. Ingestion of egg
+raises plasma low density lipoproteins in free-living sub-
+jects. Lancet. 1984;8378:647-649.
+
+37. Fielding CJ, Castro GR, Donner C, Fielding PE,
+Reaven GM. Distribution of apolipoprotein E in the
+plasma of insulin-dependent and noninsulin-
+dependent diabetics and its relation to cholesterol net
+transport. J Lipid Res. 1986;27:1052-1061.
+38. Venkatesan S, Imrie H, Read S, Halliday D. Apo
+C subclasses from non-insulin-dependent diabetic pa-
+tients: a quantitative comparison with control sub-
+jects. Biochem Soc Trans. 1995;23:278S.
+39. Roberts SL, McMurry MP, Connor WE. Does egg
+feeding (ie, dietary cholesterol) affect plasma choles-
+terol levels in humans? the results of a double-blind
+study. Am J Clin Nutr. 1981;34:2092-2099.
+40. Ginsberg HN, Karmally W, Siddiqui M, et al. A
+dose-response study of the effects of dietary choles-
+terol on fasting and postprandial lipid and lipoprotein
+metabolism in healthy young men. Arterioscler Thromb
+Vasc Biol. 1994;14:576-586.
+41. Shekelle RB, Stamler J, Paul O, Shryock AM, Liu
+S, Lepper M. Dietary lipids and serum cholesterol level:
+change in diet confounds the cross-sectional associa-
+tion. Am J Epidemiol. 1982;115:506-514.
+42. Hopkins PN. Effects of dietary cholesterol on se-
+rum cholesterol: a meta-analysis and review. Am J Clin
+Nutr. 1992;55:1060-1070.
+43. US Department of Agriculture. Composition of
+Foods: Raw, Processed, and Prepared, 1963-1988.
+Washington, DC: Dept of Agriculture, Government
+Printing Office; 1989. Agricultural Handbook No. 8.
+44. Rich-Edwards JW, Manson JE, Hennekens CH, Bur-
+ing JE. The primary prevention of coronary heart dis-
+ease in women. N Engl J Med. 1995;332:1758-
+1766.
+45. Mensink RP, Katan MB. Effect of dietary fatty ac-
+ids on serum lipids and lipoproteins: a meta-analysis
+of 27 trials. Arterioscler Thromb Vasc Biol. 1992;12:
+911-919.
+46. Vorster HH, Benade AJS, Barnard HC, et al. Egg
+intake does not change plasma lipoprotein and co-
+agulation profiles. Am J Clin Nutr. 1992;55:400-
+410.
+47. Villaume C, Beck B, Rohr R, Pointel J-P, Debry G.
+Effect of exchange of ham for boiled egg on plasma
+glucose and insulin responses to breakfast in normal
+subjects. Diabetes Care. 1986;9:46-49.
+48. Granfeldt Y, Bjorck I, Hagander B. On the impor-
+tance of processing conditions, product thickness and
+egg addition for the glycaemic and hormonal re-
+sponses to pasta: a comparison with bread made from
+“pasta ingredients.” Eur J Clin Nutr. 1991;45:489-
+499.
+49. Holt SHA, Brand-Miller JC, Petocz P. An insulin
+index of foods: the insulin demand generated by
+1000-KJ portions of common foods. Am J Clin Nutr.
+1997;66:1264-1276.
+50. Federation of American Societies for Experimen-
+tal Biology. Third Report on Nutrition Monitoring in
+the United States. Vol 1. Washington, DC: US Gov-
+ernment Printing Office; 1995.
+51. Bronner LL, Kanter DS, Manson JE. Primary preven-
+tion of stroke. N Engl J Med. 1995;332:1392-1400.
+52. Pedersen T, Kjekshus J, Pyorala K, et al. Effect of
+simvastatin on ischemic signs and symptoms in the
+Scandinavian Simvastatin Survival Study. Am J Car-
+diol. 1998;81:333-335.
+53. Plehn JF, Davis BR, Sacks FM, et al. Reduction of
+stroke incidence after myocardial infarction with pravas-
+tatin: the Cholesterol and Recurrent Events (CARE)
+Study. Circulation. 1999;99:216-223.
+54. Gillman MW, Cupples LA, Millen BE, Ellison RC,
+Wolf PA. Inverse association of dietary fat with de-
+velopment of ischemic stroke in men. JAMA. 1997;
+278:2145-2150.
+
+1394 JAMA, April 21, 1999—Vol 281, No. 15
+
+©1999 American Medical Association. All rights reserved.
+
+Downloaded From:  on 08/20/2018

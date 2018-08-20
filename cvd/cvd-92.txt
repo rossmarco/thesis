@@ -1,0 +1,2024 @@
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+MERCURY,  FISH  OILS,  AND  MYOCARDIAL  INFARCTION
+
+MERCURY, FISH OILS, AND THE RISK OF MYOCARDIAL INFARCTION
+
+E
+ETER
+
+P
+
+ G
+LISEO
+UALLAR
+.D., A
+ B
+, P
+H
+ODE
+ A. R
+R
+UDOLPH
+
+, M.D., D
+R
+ A
+RO
+NTTI
+IEMERSMA
+THE
+
+FOR
+
+.P.H., M. I
+NMACULADA
+, M.D., P
+.D., J
+H
+ORGE
+.D., J
+, P
+OSÉ
+H
+ H
+ M
+EAVY
+ETALS
+
+ M. M
+AND
+
+ S
+ G
+ARTÍN
+ M
+
+-G
+ALLARDO
+ANZ
+-A
+ÓMEZ
+RACENA
+, M.D., D
+-M
+ORENO
+R
+ I
+YOCARDIAL
+NFARCTION
+
+ 
+
+ 
+
+, M.D., M.P.H., P
+, M.D., P
+H
+
+.D., J
+AND
+ G
+
+.P.H., 
+ S
+TUDY
+
+’
+ 
+ V
+T
+VAN
+ D. K
+ARK
+ J. K
+OK
+
+, P
+H
+
+.D., 
+EER
+, M.D., P
+H
+.D., 
+, P
+H
+
+.D., 
+
+IETER
+EREMY
+ F
+ROUP
+
+RANS
+*
+
+A
+BSTRACT
+Background
+It has been suggested that mercury,
+a highly reactive heavy metal with no known physio-
+logic activity, increases the risk of cardiovascular dis-
+ease. Because fish intake is a major source of expo-
+sure  to  mercury,  the  mercury  content  of  fish  may
+counteract the beneficial effects of its n¡3 fatty acids.
+Methods
+In a case–control study conducted in eight
+European countries and Israel, we evaluated the joint
+association of mercury levels in toenail clippings and
+docosahexaenoic acid (C22:6n¡3, or DHA) levels in
+adipose tissue with the risk of a first myocardial infarc-
+tion among men. The patients were 684 men with a
+first diagnosis of myocardial infarction. The controls
+were 724 men selected to be representative of the
+same populations.
+Results
+The average toenail mercury level in con-
+trols was 0.25 µg per gram. After adjustment for the
+DHA level and coronary risk factors, the mercury lev-
+els in the patients were 15 percent higher than those
+in controls (95 percent confidence interval, 5 to 25 per-
+cent). The risk-factor–adjusted odds ratio for myocar-
+dial  infarction  associated  with  the  highest  as  com-
+pared with the lowest quintile of mercury was 2.16
+(95  percent  confidence  interval, 1.09  to  4.29;  P for
+trend=0.006). After adjustment for the mercury level,
+the DHA level was inversely associated with the risk
+of myocardial infarction (odds ratio for the highest vs.
+the lowest quintile, 0.59; 95 percent confidence inter-
+val, 0.30 to 1.19; P for trend=0.02).
+Conclusions
+The toenail mercury level was directly
+associated with the risk of myocardial infarction, and
+the adipose-tissue DHA level was inversely associat-
+ed with the risk. High mercury content may diminish
+the  cardioprotective  effect  of  fish  intake.  (N  Engl  J
+Med 2002;347:1747-54.)
+Copyright © 2002 Massachusetts Medical Society.
+
+M
+
+ERCURY is a highly reactive heavy met-
+al with no known physiologic activity.
+1,2
+Exposure to toxic levels of mercury re-
+sults in neurologic and renal damage,
+but the consequences of long-term exposure to low
+ Mercury
+levels of mercury are poorly understood.
+may predispose people to atherosclerotic disease by
+promoting the production of free radicals or by inac-
+tivating several antioxidant mechanisms through bind-
+ing to thiol-containing molecules or to selenium.
+3-5
+In 1995, Salonen et al. reported an increased risk of
+
+1,2
+
+2
+
+6,7 
+
+coronary heart disease among residents of the Kuo-
+pio area in Finland whose hair samples had increased
+levels of mercury.
+The participants in that study,
+however, had relatively high levels of mercury, which
+were derived largely from locally contaminated fresh-
+water fish.
+
+Fish intake is a major source of exposure to mercu-
+ry, mainly in the form of methylmercury.
+ Intake of
+fish or fish oils (long-chain n¡3 polyunsaturated fat-
+ty acids) has long been hypothesized to prevent car-
+diovascular  events.
+  Two  large,  randomized  clinical
+8
+trials have shown reduced mortality after myocardial
+infarction among patients assigned to a diet rich in
+fatty fish
+ but the gener-
+ or to fish-oil supplements,
+9
+alizability of these findings to subjects without cor-
+onary heart disease is uncertain. The results of epide-
+miologic studies relating fish intake or fish-oil levels
+to coronary events have been contradictory,
+ and it
+11
+has been suggested that mercury may counteract the
+beneficial cardiovascular effects of n¡3 fatty acids in
+fish.
+
+To evaluate the association of mercury with the risk
+of myocardial infarction, and to test the hypothesis
+that high mercury levels may offset the inverse associ-
+ation between fish oil consumption and myocardial in-
+farction, we assessed the joint association of mercury
+levels in toenail clippings and docosahexaenoic acid
+(C22:6n¡3, or DHA) levels in adipose tissue with the
+risk of a first myocardial infarction among men who
+were participants in the European Multicenter Case–
+
+2,6,7
+
+10
+
+From the Department of Epidemiology and Welch Center for Prevention,
+Epidemiology and Clinical Research, Johns Hopkins Medical Institutions,
+Baltimore (E.G.); the Department of Epidemiology and Biostatistics, Na-
+tional School of Public Health, Institute of Health Carlos III, Madrid (E.G.,
+M.I.S.-G., J.M.M.-M.); the Service of Preventive Medicine, Hospital 12 de
+Octubre, Madrid (M.I.S.-G.); the Division of Human Nutrition and Epide-
+miology, University of Wageningen, Wageningen, the Netherlands (P.V.,
+F.J.K.); the Interfaculty Reactor Institute, Delft University of Technology,
+Delft, the Netherlands (P.B.); the Department of Health and Functional Ca-
+pacity, National Public Health Institute, Helsinki, Finland (A.A.); the Depart-
+ment of Preventive Medicine, University of Málaga, Málaga, Spain (J.G.-A.);
+the Epidemiology Unit, Department of Social Medicine, Hadassah Medical
+Organization and Hebrew University–Hadassah School of Public Health
+and Community Medicine, Jerusalem, Israel (J.D.K.); the Cardiovascular Re-
+search Unit, University of Edinburgh, Edinburgh, United Kingdom, and
+the Department of Medical Physiology, University of Tromsø, Tromsø, Nor-
+way  (R.A.R.);  and  the  Department  of  Preventive  Medicine,  Universidad
+Autónoma de Madrid, Madrid (J.M.M.-M.) Address reprint requests to Dr.
+Guallar at the Welch Center for Prevention, Epidemiology, and Clinical Re-
+search, 2024 E. Monument St., Suite 2-639, Baltimore, MD 21205-2223, or
+at eguallar@jhsph.edu.
+
+*Other investigators are listed in the Appendix.
+
+N Engl J Med, Vol. 347, No. 22
+
+·
+
+November 28, 2002
+
+·
+
+www.nejm.org
+
+·
+
+1747
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2002 Massachusetts Medical Society. All rights reserved.  
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+The  New  England  Journal  of  Medicine
+
+Control Study on Antioxidants, Myocardial Infarction
+and Cancer of the Breast (EURAMIC).
+
+12,13
+
+METHODS
+
+Design and Subjects
+
+14
+
+12,13
+
+The target population consisted of men 70 years of age or young-
+er who were native residents of any of eight European countries
+or Israel.
+ Subjects were excluded if they had a previous diagno-
+sis of myocardial infarction, drug or alcohol abuse, or a major psy-
+chiatric disorder; if they were institutionalized; or if they had mod-
+ified their dietary pattern in the previous year.
+
+The patients were men with a first acute myocardial infarction
+(code 410 of the 
+International Classification of Diseases, 9th Revi-
+), confirmed by characteristic electrocardiographic changes and
+sion
+elevated enzyme levels,
+ who had been hospitalized within 24 hours
+after the onset of symptoms. They were recruited from the coronary
+care units of participating hospitals.
+
+The controls were men without a history of myocardial infarc-
+tion, recruited from the population of the catchment areas from
+which the patients originated, and frequency-matched for age in
+five-year intervals. In Finland, Israel, Germany, Scotland, and Swit-
+zerland, random sampling from local population registers was used
+to select controls. In Russia and in the two Spanish centers, popu-
+lation registries could not be used, because of the lack of complete
+census data or because of legal restrictions. Therefore, controls were
+selected from among hospitalized patients with disorders not known
+to be associated with dietary factors (renal colic, hernia, acute ap-
+pendicitis or mesenteric adenitis, volvulus or subocclusion due to
+fibrosis, noninfectious prostatism, and rectal or anal disorders other
+than cancer, hemorrhoids, or chronic infections).
+ When low par-
+ticipation rates from population samples were anticipated, controls
+were selected by random sampling from the catchment area of the
+patient’s general practitioner (in the Netherlands) or by inviting ap-
+parently healthy friends and relatives of the patient to participate
+(in Norway).
+
+Patients and controls were recruited concurrently during 1991
+and 1992. The participation rates among potential subjects were 81
+percent for patients and 64 percent for controls. Local institutional
+review boards approved the study, and written informed consent
+was obtained from study participants.
+
+12,13
+
+12
+
+Data Collection
+
+12,13 
+
+Information on smoking, hypertension, and diabetes was collect-
+ed by standard questionnaires.
+A history of hypertension or di-
+abetes was based on the patient’s report of a physician’s diagnosis.
+A family history of coronary heart disease was defined by a self-
+reported fatal or nonfatal myocardial infarction in a parent. Clippings
+from all 10 toenails were collected within eight weeks of enroll-
+ment.
+ The mean (±SD) weight of the samples was 53.8±39.0 mg.
+13
+A subcutaneous specimen of adipose tissue was taken from the but-
+tock by needle aspiration.
+ The adipose-tissue sample was taken
+from patients within seven days after admission to the hospital. A
+nonfasting sample of venous blood was also obtained. Blood sam-
+ples were drawn from patients within 24 hours after hospital ad-
+mission.
+
+12
+
+Analysis of Biologic Samples
+
+Toenail mercury was measured by instrumental neutron-activa-
+tion analysis at the Interfaculty Reactor Institute of Delft University
+  Toenail  clippings  were
+of  Technology,  Delft,  the  Netherlands.
+irradiated for four hours in a thermal flux of 5¬10
+ neutrons per
+second per square centimeter. After a decay time of 21 days, the
+gamma radiation of mercury was measured in a well-type Ge(Li)
+detector for one hour. Irradiation of study samples was conducted
+from April 1998 through June 1999. Samples from patients and
+
+12
+
+15
+
+controls were analyzed together, randomly distributed across batch-
+es, and masked with respect to case–control status.
+
+For each sample, the limit of detection was defined as the level
+at which mercury could be detected with 97.5 percent certainty.
+For a sample of average weight (53 mg), the limit of detection was
+0.11 µg per gram. In the 76 samples with mercury levels below the
+detection limit, we imputed a mercury level of one half the detec-
+tion limit. For quality control, a sample of freeze-dried plankton ref-
+erence material (BCR CRM-414, Community Bureau of Refer-
+ence, Commission of European Communities) was included in each
+analytic batch. The average of 48 measurements of this material was
+0.26 µg per gram (95 percent confidence interval, 0.24 to 0.28),
+against a certified mercury level of 0.276±0.018 µg per gram. The
+interassay  coefficient  of  variation  for  this  reference  material  was
+13.6 percent.
+
+Fatty acids in adipose tissue were assayed at the National Public
+Health Institute, Helsinki, Finland, by gas chromatography (model
+HRCG412, HNU Nordion Oy).
+ The portion of the fatty-acid
+peak area containing DHA, as determined by gas chromatography,
+was calculated and expressed as a fraction of the total fatty-acid peak
+area. Because the levels of eicosapentaenoic acid (C20:5n¡3) in ad-
+ipose tissue were below the detection limit of the chromatograph
+for most samples, fish-oil fatty acids were represented exclusively
+by DHA.
+ The interassay coefficient of variation for DHA in adi-
+18
+pose tissue was 25 percent. The serum total cholesterol levels were
+determined by standard methods.
+
+16,17
+
+12
+
+Statistical Analysis
+
+Because the distribution of mercury was right-skewed, logarith-
+mic transformation was used to improve normality. The distribution
+of mercury in controls was used to compute cutoff points and me-
+dians for quintiles of exposure. For multivariate analysis, the asso-
+ciation of mercury with the risk of myocardial infarction was esti-
+mated by multiple logistic regression. The odds ratios in quintiles
+2, 3, 4, and 5 were estimated by using the lowest quintile as the ref-
+erence category, and tests for trend across quintiles of mercury were
+performed. The reported P values are two-tailed. Statistical analyses
+were performed with S-Plus software.
+
+19
+
+RESULTS
+
+12
+
+In comparison with the controls, the patients had
+significantly higher body-mass index and lower high-
+density lipoprotein cholesterol levels and were more
+likely to have hypertension, to have diabetes, to smoke,
+and to have a family history of myocardial infarction
+  The  total  cholesterol  level  was  lower
+(Table  1).
+among patients than among controls, almost certainly
+reflecting the effect of acute myocardial infarction.
+Therefore, total cholesterol was not further consid-
+ered in case–control comparisons.
+
+Controls from Zeist, the Netherlands, and Berlin,
+Germany, had the lowest average levels of mercury
+among controls (0.14 and 0.17 µg per gram, respec-
+tively), whereas those from the two Spanish centers
+had the highest (0.57 µg per gram in Granada and
+0.51 µg per gram in Málaga) — a 4.1-fold range of
+variation (Table 2). The level of DHA in adipose tis-
+sue was strongly correlated with the toenail mercury
+level (Table 3). The age- and center-adjusted corre-
+lation  coefficient  between  the  levels  of  DHA  and
+mercury was 0.34 (P<0.001).
+
+After adjustment for age, center, and DHA level,
+
+1748
+
+·
+
+N Engl J Med, Vol. 347, No. 22
+
+·
+
+November 28, 2002
+
+·
+
+www.nejm.org
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2002 Massachusetts Medical Society. All rights reserved.  
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+MERCURY,  FISH  OILS,  AND  MYOCARDIAL  INFARCTION
+
+T
+ABLE
+WITH
+
+ 1. 
+ M
+
+C
+YOCARDIAL
+
+ I
+
+ARDIOVASCULAR
+
+ R
+
+ISK
+NFARCTION
+
+ F
+ 
+ACTORS
+ 
+ C
+AND
+
+IN
+
+ 
+
+ P
+
+IN
+ONTROLS
+
+ATIENTS
+.*
+
+R
+
+ISK
+
+ F
+
+ACTOR
+
+Age (yr)
+Body-mass index†
+Total cholesterol (mmol/liter)‡
+HDL cholesterol (mmol/liter)‡
+Hypertension (%)§
+Current smoker (%)
+Diabetes mellitus (%)§
+Alcohol intake (g/day)
+Parental history of myocardial 
+
+infarction (%)
+
+P
+ATIENTS
+(N=684)
+
+C
+ONTROLS
+(N=724)
+
+P V
+
+ALUE
+
+54.7±8.9
+26.5±3.9
+5.46±1.11
+0.98±0.25
+
+26.0
+61.3
+8.4
+
+18.2±27.2
+
+57.6
+
+53.2±9.3
+0.002
+25.9±3.4
+0.004
+5.56±1.10
+0.11
+1.09±0.29 <0.001
+<0.001
+<0.001
+<0.001
+0.75¶
+<0.001
+
+17.4
+37.5
+3.9
+
+17.8±24.0
+
+45.3
+
+*Plus–minus values are means ±SD.
+†The body-mass index is the weight in kilograms divided by the square
+
+of the height in meters.
+
+‡To  convert  values  for  total  cholesterol  and  high-density  lipoprotein
+
+(HDL) cholesterol to milligrams per deciliter, divide by 0.02586.
+
+§The history was based on the subject’s report of diagnoses by a physician.
+¶The  association  of  alcohol  with  the  risk  of  myocardial  infarction  was
+-shaped, with the lowest risk at 13.1 g of intake per day (P<0.001).
+J
+
+the patients had higher mercury levels than the con-
+trols (case–control ratio, 1.10; 95 percent confidence
+interval, 1.03 to 1.18) (Table 2). This association per-
+sisted after the exclusion of the two Spanish centers,
+which were the centers with the highest mercury levels
+(DHA-adjusted case–control ratio, 1.09; 95 percent
+confidence interval, 1.02 to 1.17), and after adjust-
+ment for multiple cardiovascular risk factors (case–
+control ratio, 1.15; 95 percent confidence interval,
+1.05 to 1.25).
+
+Analysis with adjustment for age and center showed
+an increased risk of myocardial infarction at high mer-
+cury levels (P for trend=0.01) (Table 4). Adjustment
+for DHA markedly increased the association and elic-
+ited a graded, positive dose–response pattern. This
+trend was further strengthened after adjustment for
+traditional risk factors and levels of antioxidants, re-
+sulting  in  an  odds  ratio  of  2.16  for  patients  in  the
+highest quintile of mercury level, as compared with
+the lowest (95 percent confidence interval, 1.09 to
+4.29; P for trend=0.006). When mercury was intro-
+duced as a continuous variable in the regression mod-
+els, the multivariate odds ratio associated with a change
+
+T
+
+ABLE
+
+ 2. 
+
+M
+
+EANS
+
+ 
+
+AND
+
+ P
+
+ATIENT
+
+: C
+
+ONTROL
+
+ R
+
+ATIOS
+
+ 
+
+FOR
+
+ M
+
+ERCURY
+
+ L
+
+EVELS
+
+ 
+
+IN
+
+ T
+
+OENAILS
+
+.
+
+C
+
+ENTER
+
+N
+. 
+O
+N
+. 
+O
+
+OF
+OF
+
+ P
+ C
+
+/
+ATIENTS
+ONTROLS
+
+ P
+
+ATIENT
+
+P
+ATE/
+CONTROL PARTICIPATION RATE
+
+ARTICIPATION
+
+ R
+
+Helsinki, Finland
+Berlin, Germany
+Jerusalem, Israel
+Zeist, the Netherlands
+Sarpsborg, Norway
+Moscow, Russia
+Edinburgh, United
+
+Kingdom
+
+Granada, Spain
+Málaga, Spain
+Zurich, Switzerland
+Overall
+Overall‡
+Overall§
+
+56/62
+75/97
+57/59
+64/57
+96/101
+92/97
+39/25
+
+55/52
+94/100
+56/74
+684/724
+
+%
+
+97/51
+82/73
+60/53
+75/50
+96/98
+97/79
+98/61
+
+45/67
+89/77
+93/26
+81/64
+
+TOENAIL MERCURY LEVEL*
+
+PATIENTS
+
+CONTROLS
+
+µg/g (interquartile range)
+
+0.27 (0.20–0.36) 0.23 (0.15–0.38)
+0.19 (0.12–0.25) 0.17 (0.13–0.24)
+0.30 (0.21–0.41) 0.25 (0.18–0.36)
+0.14 (0.09–0.26) 0.14 (0.08–0.19)
+0.31 (0.21–0.49) 0.30 (0.23–0.41)
+0.20 (0.13–0.27) 0.20 (0.13–0.27)
+0.15 (0.11–0.22) 0.18 (0.13–0.23)
+
+0.53 (0.38–0.77) 0.57 (0.34–0.85)
+0.68 (0.39–1.09) 0.51 (0.29–0.80)
+0.20 (0.12–0.28) 0.21 (0.15–0.29)
+0.27 (0.15–0.45) 0.25 (0.15–0.40)
+
+MEAN TOENAIL MERCURY LEVEL IN PATIENTS/
+MEAN TOENAIL MERCURY LEVEL IN CONTROLS
+
+(95% CI)†
+
+1.16 (0.93–1.44)
+1.08 (0.90–1.30)
+1.20 (0.99–1.46)
+0.98 (0.75–1.28)
+1.03 (0.89–1.19)
+1.02 (0.85–1.24)
+0.85 (0.65–1.10)
+
+0.92 (0.70–1.21)
+1.33 (1.08–1.63)
+0.97 (0.76–1.23)
+1.07 (1.00–1.14)
+1.10 (1.03–1.18)
+1.15 (1.05–1.25)
+
+*Mercury concentration was analyzed on a log scale, and the results were transformed back to the natural scale.
+†The ratios have been adjusted for age (continuous variable) and center (indicator variable). The P value for heterogeneity by center was 0.22. CI denotes
+
+confidence interval.
+
+‡The ratios have been adjusted for age, center, and docosahexaenoic acid level (continuous).
+§The ratios have been adjusted for age, center, docosahexaenoic acid level, body-mass index (continuous), smoking (indicator variables for current smokers
+and former smokers), high-density lipoprotein cholesterol (continuous), history of hypertension (indicator variable), diabetes (indicator variable), alcohol
+intake (indicator variables for current and former drinkers), adipose-tissue 
+-carotene level (continuous),
+b
+toenail selenium (continuous), and toenail weight (continuous).
+
+-tocopherol level (continuous), adipose-tissue 
+a
+
+N Engl J Med, Vol. 347, No. 22
+
+·
+
+November 28, 2002
+
+·
+
+www.nejm.org
+
+·
+
+1749
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2002 Massachusetts Medical Society. All rights reserved. The  New  England  Journal  of  Medicine
+
+TABLE 3. RISK FACTORS ACCORDING TO QUINTILE OF TOENAIL MERCURY LEVEL
+
+AMONG CONTROLS, ADJUSTED FOR AGE AND CENTER.*
+
+RISK FACTOR
+
+QUINTILE
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Age (yr)
+Body-mass index†
+Total cholesterol (mmol/liter)‡
+HDL cholesterol (mmol/liter)‡
+a-Tocopherol (µg/g)§
+b-Carotene (µg/g)§
+Selenium (mg/kg)§
+Docosahexaenoic acid (%)¶
+Current smoker (%)
+Alcohol intake (g/day)
+Hypertension (%)¿
+Diabetes mellitus (%)¿
+Parental history of myocardial infarction (%)
+
+54.3
+25.5
+5.5
+1.07
+188.4
+0.42
+0.59
+0.16
+42.3
+12.2
+10.6
+2.1
+45.0
+
+52.3
+26.0
+5.5
+1.07
+164.7
+0.41
+0.59
+0.21
+34.9
+17.5
+12.9
+5.3
+48.7
+
+53.3
+25.9
+5.5
+1.13
+195.3
+0.49
+0.59
+0.23
+41.2
+21.2
+11.9
+3.9
+46.7
+
+54.1
+26.0
+5.6
+1.11
+205.7
+0.45
+0.62
+0.27
+34.9
+19.4
+14.4
+1.8
+37.3
+
+53.5
+26.0
+5.6
+1.08
+201.3
+0.41
+0.64
+0.35
+36.5
+21.9
+17.3
+1.7
+40.6
+
+P VALUE
+
+0.97
+0.44
+0.25
+0.89
+0.12
+0.64
+<0.001
+<0.001
+0.52
+0.02
+0.12
+0.26
+0.25
+
+*The cutoff values for quintiles of mercury in the controls were 0.14, 0.21, 0.29, and 0.45 µg per gram.
+†The body-mass index is the weight in kilograms divided by the square of the height in meters.
+‡To convert values for total cholesterol and high-density lipoprotein (HDL) cholesterol to milli-
+
+grams per deciliter, divide by 0.02586.
+
+§Values are geometric means.
+¶Docosahexaenoic acid (C22:6n¡3) values are expressed as the percentage of total fatty-acid peak area.
+¿The history was based on the subject’s report of diagnoses by a physician.
+
+TABLE 4. ODDS RATIOS FOR A FIRST MYOCARDIAL INFARCTION, ACCORDING TO QUINTILE 
+OF TOENAIL MERCURY LEVEL OR ADIPOSE-TISSUE DOCOSAHEXAENOIC ACID (DHA) LEVEL.*
+
+MEASURE
+
+Mercury
+
+Median (µg/g)
+
+Model 1†
+Model 2‡
+Model 3§
+
+DHA
+
+Median (%FA)
+
+1
+
+2
+
+QUINTILE
+
+3
+
+4
+
+5
+
+P FOR TREND
+
+0.11 0.17
+
+0.24
+
+0.36
+
+0.66
+
+odds ratio (95% CI)
+
+1.00 0.86 (0.61–1.22) 1.01 (0.71–1.44) 1.08 (0.76–1.55) 1.47 (0.99–2.14)
+1.00 0.93 (0.64–1.36) 1.11 (0.76–1.63) 1.24 (0.83–1.84) 1.86 (1.20–2.91)
+1.00 0.86 (0.49–1.50) 1.18 (0.67–2.07) 2.08 (1.12–3.84) 2.16 (1.09–4.29)
+
+0.01
+0.001
+0.006
+
+0.10 0.16
+
+0.22
+
+0.28
+
+0.44
+
+odds ratio (95% CI)
+
+Model 1†
+Model 2‡
+Model 3§
+
+1.00 1.13 (0.80–1.61) 1.26 (0.87–1.83) 1.27 (0.87–1.88) 0.80 (0.53–1.23)
+1.00 1.07 (0.75–1.54) 1.15 (0.79–1.66) 1.07 (0.72–1.58) 0.66 (0.42–1.03)
+1.00 1.07 (0.63–1.84) 1.12 (0.64–1.94) 0.83 (0.47–1.49) 0.59 (0.30–1.19)
+
+0.23
+0.01
+0.02
+
+*For all odds ratios, the lowest quintile for toenail mercury level or adipose-tissue DHA level served as the reference
+
+category. CI denotes confidence interval, and %FA the percentage of total fatty-acid peak area.
+
+†Model 1 is adjusted for age (continuous variable) and center (indicator variable).
+‡Model 2 is further adjusted for DHA (docosahexaenoic acid) (continuous variable) when the relative risk in mercury
+quintiles is modeled and is adjusted for mercury (continuous variable) when the relative risk in DHA quintiles is modeled.
+§Model 3 is further adjusted for body-mass index (continuous), waist:hip ratio (continuous), smoking status (indicator
+variables for current smokers and former smokers), alcohol intake (indicator variables for current and former drinkers),
+high-density lipoprotein cholesterol (continuous), diabetes (indicator variable), history of hypertension (indicator vari-
+able), parental myocardial infarction (indicator variable), a-tocopherol level (continuous), b-carotene level (continuous),
+toenail selenium level (continuous), and toenail weight (continuous).
+
+1750 · N Engl J Med, Vol. 347, No. 22 · November 28, 2002 · www.nejm.org
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2002 Massachusetts Medical Society. All rights reserved. MERCURY,  FISH  OILS,  AND  MYOCARDIAL  INFARCTION
+
+from the 25th to the 75th percentile of the mercury
+distribution was 1.63 (95 percent confidence interval,
+1.22 to 2.18; P=0.001).
+
+The dose–response curve for the relation between
+the mercury level and the risk of myocardial infarction
+was further examined by nonparametric logistic re-
+gression (Fig. 1).19 There was a positive, monotonic in-
+crease in risk associated with mercury levels above 0.25
+µg per gram, which was steeper after adjustment for
+DHA levels.
+
+The average levels of DHA, expressed as a percent-
+age of the total fatty-acid peak area, were 0.24±0.13
+
+percent in patients and 0.25±0.13 percent in controls.
+In analyses adjusted for age and center, there was no
+consistent  relation  between  increasing  DHA  levels
+and the risk of myocardial infarction (Table 4).17 Af-
+ter adjustment for the mercury level as well, there was
+a significant trend toward a lower risk of myocardial
+infarction  with  higher  DHA  levels  (P  for  trend=
+0.01). This trend was confirmed in the nonparamet-
+ric analyses (Fig. 1). There was no interaction between
+mercury and DHA with respect to their associations
+with the risk of myocardial infarction (P for the in-
+teraction=0.61).
+
+A
+3.0
+
+2.0
+
+1.0
+
+0.7
+
+B
+1.50
+
+1.00
+
+0.50
+
+o
+i
+t
+a
+R
+ 
+s
+d
+d
+O
+
+o
+i
+t
+a
+R
+ 
+s
+d
+d
+O
+
+Adjusted for DHA
+
+Unadjusted for DHA
+
+0.0
+
+0.25
+
+0.50
+
+0.75
+
+1.00
+
+1.25
+
+Toenail Mercury (mg/g)
+
+Unadjusted for mercury
+
+Adjusted for mercury
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+
+500
+
+400
+
+300
+
+200
+
+100
+
+j
+
+)
+s
+t
+c
+e
+b
+u
+s
+ 
+f
+o
+
+ 
+.
+
+o
+n
+(
+ 
+y
+c
+n
+e
+u
+q
+e
+r
+F
+
+j
+
+)
+s
+t
+c
+e
+b
+u
+s
+ 
+f
+o
+
+ 
+.
+
+o
+n
+(
+ 
+y
+c
+n
+e
+u
+q
+e
+r
+F
+
+0.25
+
+0.0
+
+0.25
+
+0.50
+
+DHA (% of fatty-acid peak area)
+
+0
+
+0.75
+
+Figure 1.  Nonparametric  Estimates  of  the  Risk  of  Myocardial  Infarction  According  to  the
+Levels of Mercury in the Toenails (Panel A) and of Docosahexaenoic Acid (DHA) in Adipose
+Tissue (Panel B).
+All curves have been adjusted for age and center. The nonparametric regression models
+used a lowess smoother with 40 percent span.19 The reference value (odds ratio=1.0) was set
+at 0.08 µg per gram for mercury and 0.08 percent of the total fatty-acid peak area for DHA,
+both  values  corresponding  to  the  5th  percentile  of  their  respective  distributions  among
+controls. The bars represent the frequency distribution of mercury and DHA in the study
+sample.
+
+N Engl J Med, Vol. 347, No. 22 · November 28, 2002 · www.nejm.org · 1751
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2002 Massachusetts Medical Society. All rights reserved. The  New  England  Journal  of  Medicine
+
+We performed several sensitivity analyses to assess
+the consistency of our findings. First, we reanalyzed
+the data while excluding the results from Málaga, the
+center with the strongest effect of mercury. When we
+did so, the association of mercury with the risk of my-
+ocardial infarction persisted: the DHA-adjusted case–
+control ratio of mercury levels was 1.08 (95 percent
+confidence interval, 1.01 to 1.15). In addition, there
+were no significant differences in the association of
+mercury and myocardial infarction among study cen-
+ters (P for the interaction between center and mercu-
+ry level=0.20). Second, we found similar results in
+centers that used controls from the general popula-
+tion and in those that selected other types of controls
+(data not shown). Third, we confirmed that the par-
+ticipation rates in each center, both for patients and
+for controls, were not correlated with the association
+between mercury level and myocardial infarction (P=
+0.66 for the correlation in controls and P=0.97 for
+the correlation in patients). Finally, we assessed the
+association between mercury level and myocardial in-
+farction, restricting our analyses to the five centers with
+the highest response rates among controls; the results
+were similar to our overall results (the ratio of the mer-
+cury level in patients relative to that in controls, after
+adjustment for DHA levels, was 1.12; P=0.005).
+
+DISCUSSION
+
+In this international case–control study, we found
+an independent and graded association between toe-
+nail mercury levels and the risk of myocardial infarc-
+tion. Furthermore, mercury masked an inverse associ-
+ation between DHA levels and the risk of myocardial
+infarction that became evident only after adjustment
+for the mercury level.
+
+Several factors add to the strength of our findings.
+First, toenail and adipose-tissue samples were collect-
+ed from patients shortly after they had had a myocar-
+dial infarction. These measurements are therefore un-
+likely to have been affected by the development of
+disease, a common limitation of case–control studies.
+Second, only patients with a first myocardial infarction
+were examined, so it is unlikely that they had changed
+their diet before the event. Finally, toenail mercury is
+a reliable biologic marker of long-term exposure to
+mercury.2,20,21 The validity of the mercury measure-
+ments in our study is further reinforced by the finding
+of a strong association between mercury and DHA, a
+biologic marker of fatty-fish intake.18
+
+Mercury exists in three forms: elemental mercury,
+inorganic mercury compounds, and organic mercury,
+primarily  methylmercury.1,2  Exposure  to  inorganic
+mercury  occurs  occupationally;  people  can  also  be
+exposed to inorganic mercury from silver–mercury
+amalgam in dental fillings. Exposure to methylmercu-
+ry results almost exclusively from the consumption of
+
+fish, shellfish, and marine animals; these foods are a
+major source of exposure to mercury for the general
+population.2 Large, predatory fish, such as swordfish
+and sharks, have the highest concentrations of mercury
+(around 1 µg per gram); tuna, trout, pike, and bass
+have intermediate concentrations (0.1 to 0.5 µg per
+gram); and most shellfish have low concentrations.1,2
+In populations eating large quantities of fish from lo-
+cally contaminated lakes or rivers, however, other spe-
+cies may be the main contributors to the total intake
+of mercury.6
+
+Mercury  may  promote  atherosclerosis  and  hence
+increase  the  risk  of  myocardial  infarction  in  several
+ways. Mercury promotes the production of free rad-
+icals in experimental models,3-5 and it may bind sele-
+nium to form mercury selenide, an insoluble complex
+that cannot serve as a cofactor for glutathione perox-
+idase.22 In addition, methylmercury has a very high
+affinity for thiol groups, and it may inactivate the an-
+tioxidant properties of glutathione, catalase, and su-
+peroxide dismutase.23 Mercury may induce lipid per-
+oxidation,24 and mercury levels were a strong predictor
+of oxidized low-density lipoprotein levels in the Kuo-
+pio  Ischemic  Heart  Disease  Study.6  Mercury  com-
+pounds may also promote platelet aggregability25 and
+blood coagulability,26 inhibit endothelial-cell forma-
+tion and migration,27 and affect apoptosis and the in-
+flammatory response.28 Increased rates of cardiovas-
+cular  disease  were  found  among  mercury-exposed
+workers,29,30 and mercury levels in hair predicted the
+progression of carotid atherosclerosis in a longitudi-
+nal study.31 Toenail mercury, however, did not predict
+the incidence of coronary heart disease in a nested
+case–control study in U.S. health professionals report-
+ed elsewhere in this issue of the Journal.32
+
+Some limitations also need to be considered in the
+interpretation of our findings. Our analyses were based
+on single measurements of mercury and DHA, and
+they are subject to random measurement error. In ad-
+dition, the levels of mercury or DHA were low in
+many study participants, thus increasing the likelihood
+of analytical error. It is likely that the results of our
+analyses underestimate the associations of both mer-
+cury and DHA levels with myocardial infarction.
+
+Another  potential  limitation  of  our  study  is  that
+the participation rate was higher for patients than for
+controls. Although this raises the possibility of selec-
+tion bias, the association of mercury levels with my-
+ocardial infarction was higher in centers with higher
+participation rates, making selection bias an unlikely
+explanation of our results. Furthermore, because both
+mercury and DHA are derived primarily from fish in
+the diet, selection bias would be expected to influence
+associations of the levels of both of these substances
+with myocardial infarction in the same direction, not
+in opposite directions.
+
+1752 · N Engl J Med, Vol. 347, No. 22 · November 28, 2002 · www.nejm.org
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2002 Massachusetts Medical Society. All rights reserved. MERCURY,  FISH  OILS,  AND  MYOCARDIAL  INFARCTION
+
+We did not have information on the sources of mer-
+cury or DHA or on the amount and type of fish con-
+sumed by the study participants. However, the high
+mercury levels in the two Spanish centers are consistent
+with the high consumption of fish in that country33
+and the high levels of mercury in fish caught in the
+Mediterranean34,35 and consumed in those cities. The
+correlation between mercury and DHA suggests that
+fish is probably the main source of mercury in toenails
+in our populations, although other sources of expo-
+sure are possible. Finally, our patient population was
+restricted to patients with myocardial infarction who
+survived until hospitalization. The observed associa-
+tions thus cannot be generalized to patients with acute
+cardiac events who die before hospitalization.
+
+Fish intake is currently recommended to reduce the
+risk of cardiovascular diseases36 and as part of a Med-
+iterranean-type diet.37 However, the findings of epi-
+demiologic studies of fish intake or fish-oil levels and
+coronary heart disease are contradictory, ranging from
+clearly inverse associations38-40 to virtually null associa-
+tions17,41-45 and to positive associations.6 Protective ef-
+fects of fatty fish9 and fish-oil supplements10 have been
+found  in  two  secondary-prevention  trials.  In  both
+trials, the protection was largely limited to fatal cor-
+onary events, whereas we found an inverse association
+between DHA levels and nonfatal myocardial infarc-
+tion. It is possible that, although the antiarrhythmic
+effects of fish oils may prevail in the prevention of re-
+current events in patients who have had a myocardial
+infarction or in the prevention of sudden death from
+cardiac causes,46,47 the antiaggregant and other anti-
+atherogenic properties of fish oils may also have a sub-
+stantial preventive effect.
+
+The risk of cardiovascular disease in a population
+may depend on the balance between n¡3 fatty acids
+and methylmercury in the fish consumed. Exposure
+to methylmercury is already a concern in specific high-
+risk groups; the Food and Drug Administration has
+advised pregnant women and women who may be-
+come pregnant not to eat swordfish, king mackerel,
+tilefish, shark, or fish from locally contaminated ar-
+eas.48 Our results raise the possibility that this advice
+should be extended to the general adult population.
+However, our findings do not imply that people should
+stop eating fish. Our mercury-adjusted analysis is con-
+sistent with a protective effect of dietary fish, provided
+it is not heavily contaminated.
+
+The Heavy Metals and Myocardial Infarction Project was supported by a
+BIOMED-2 Concerted Action from the European Commission (research
+contract BMH4-CT98-3565) and was an ancillary project to the EURAMIC
+Study. The national studies were financed by grants from the British Heart
+Foundation, the Dutch Ministry of Health, the Spanish Fondo de Investi-
+gaciones Sanitarias, the German Federal Health Office, the Norwegian Re-
+search Council, the Russian Ministry of Science, the Swiss National Science
+Foundation, the Yrjö Jahnsson Foundation, and the Israel Science Foundation.
+Presented in part at the 42nd Annual Conference on Cardiovascular Dis-
+
+ease Epidemiology and Prevention of the American Heart Association, Hon-
+olulu, April 23–26, 2002.
+
+We are indebted to the members of the EURAMIC Study Group
+for making available the original data from the myocardial infarc-
+tion part of their study. In addition to several of the authors, other
+members of the EURAMIC Study Group were Lenore Arab (Project
+Management Group), Ramón Gálvez-Vargas (Project Leader), Jussi
+K.  Huttunen  (Project  Management  Group),  Alwine  F.M.  Kardi-
+naal (Project Management Group, Project Leader), Blaise C. Martin
+(Project Leader), Vladimir P. Mazaev (Project Leader), J.J. Ringstad
+(Project Leader), and Michael Thamm (Project Leader).
+
+APPENDIX
+
+Other investigators of the Heavy Metals and Myocardial Infarction Project
+were Lydia Gorgojo, Institute of Health Carlos III, Madrid; Alwine F.M.
+Kardinaal, TNO Nutrition and Food Research, Zeist, the Netherlands; Jussi
+K.  Huttunen,  National  Public  Health  Institute,  Helsinki,  Finland;  Joaquín
+Fernández-Crehuet, Universidad de Málaga, Málaga, Spain; José F. Guillén,
+Universidad de Granada, Granada, Spain; Michael Thamm, Robert Koch
+Institute,  Berlin,  Germany;  Blaise  C.  Martin,  Zurich  University,  Zurich,
+Switzerland; Jetmund Ringstad, Østfold Central Hospital, Fredrikstad, Nor-
+way; and Vladimir Mazaev, Russian Ministry of Health, Moscow, Russia.
+
+REFERENCES
+
+1. Keating MH, Mahaffey KR, Schoemy R, et al. Mercury study report to 
+Congress. Vol. I. Executive summary. EPA-452/R-97-003. Washington, 
+D.C.: Environmental Protection Agency, December 1997.
+2. Committee on the Toxicological Effects of Methylmercury, Board on 
+Environmental Studies and Toxicology, Commission on Life Sciences. Tox-
+icological effects of methylmercury. Washington, D.C.: National Research 
+Council, 2000.
+3. Magos L. Physiology and toxicology of mercury. Met Ions Biol Syst 
+1997;34:321-70.
+4. Jansson G, Harms-Ringdahl M. Stimulating effects of mercuric- and sil-
+ver ions on the superoxide anion production in human polymorphonuclear 
+leukocytes. Free Radic Res Commun 1993;18:87-98.
+5. Clarkson TW. The toxicology of mercury. Crit Rev Clin Lab Sci 1997;
+34:369-403.
+6. Salonen JT, Seppanen K, Nyyssonen K, et al. Intake of mercury from 
+fish, lipid peroxidation, and the risk of myocardial infarction and coronary, 
+cardiovascular, and any death in eastern Finnish men. Circulation 1995;91:
+645-55.
+7. Rissanen T, Voutilainen S, Nyyssonen K, Lakka TA, Salonen JT. Fish 
+oil-derived fatty acids, docosahexaenoic acid and docosapentaenoic acid, 
+and the risk of acute coronary events: the Kuopio Ischaemic Heart Disease 
+Risk Factor Study. Circulation 2000;102:2677-9.
+8. Connor WE. Importance of n-3 fatty acids in health and disease. Am J 
+Clin Nutr 2000;71:Suppl:171S-175S.
+9. Burr ML, Fehily AM, Gilbert JF, et al. Effects of changes in fat, fish, 
+and fibre intakes on death and myocardial reinfarction: Diet and Reinfarc-
+tion Trial (DART). Lancet 1989;2:757-61.
+10. GISSI-Prevenzione Investigators (Gruppo Italiano per lo Studio della 
+Sopravvivenza nell’Infarto miocardico). Dietary supplementation with n-3 
+polyunsaturated fatty acids and vitamin E after myocardial infarction: re-
+sults of the GISSI-Prevenzione trial. Lancet 1999;354:447-55. [Erratum, 
+Lancet 2001;357:642.]
+11. Marckmann P, Gronbaek M. Fish consumption and coronary heart dis-
+ease mortality: a systematic review of prospective cohort studies. Eur J Clin 
+Nutr 1999;53:585-90.
+12. Kardinaal AF, Kok FJ, Ringstad J, et al. Antioxidants in adipose tissue 
+and risk of myocardial infarction: the EURAMIC Study. Lancet 1993;342:
+1379-84.
+13. Kardinaal AF, Kok FJ, Kohlmeier L, et al. Association between toenail 
+selenium and risk of acute myocardial infarction in European men: the 
+EURAMIC Study: European Antioxidant Myocardial Infarction and Breast 
+Cancer. Am J Epidemiol 1997;145:373-9.
+14. Tuomilehto J, Kuulasmaa K. WHO MONICA Project: assessing CHD 
+mortality and morbidity. Int J Epidemiol 1989;18:Suppl 1:S38-S45.
+15. Bode P. Automation and quality assurance in the NAA facilities in 
+Delft. J Radioanal Nucl Chem 2000;245:127-32.
+16. Aro A, Kardinaal AF, Salminen I, et al. Adipose tissue isomeric trans 
+
+N Engl J Med, Vol. 347, No. 22 · November 28, 2002 · www.nejm.org · 1753
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2002 Massachusetts Medical Society. All rights reserved. The  New  England  Journal  of  Medicine
+
+fatty acids and risk of myocardial infarction in nine countries: the 
+EURAMIC study. Lancet 1995;345:273-8.
+17. Guallar E, Aro A, Jimenez FJ, et al. Omega-3 fatty acids in adipose 
+tissue and risk of myocardial infarction: the EURAMIC study. Arterioscler 
+Thromb Vasc Biol 1999;19:1111-8.
+18. Marckmann P, Lassen A, Haraldsdottir J, Sandstrom B. Biomarkers of 
+habitual fish intake in adipose tissue. Am J Clin Nutr 1995;62:956-9.
+19. S-PLUS 2000 user’s guide. Seattle: Data Analysis and Products Divi-
+sion, Mathsoft, 1999.
+20. Garland M, Morris JS, Rosner BA, et al. Toenail trace element levels 
+as biomarkers: reproducibility over a 6-year period. Cancer Epidemiol 
+Biomarkers Prev 1993;2:493-7. [Erratum, Cancer Epidemiol Biomarkers 
+Prev 1994;3:523.]
+21. MacIntosh DL, Williams PL, Hunter DJ, et al. Evaluation of a food 
+frequency questionnaire-food composition approach for estimating dietary 
+intake of inorganic arsenic and methylmercury. Cancer Epidemiol Biomar-
+kers Prev 1997;6:1043-50.
+22. Cuvin-Aralar ML, Furness RW. Mercury and selenium interaction: 
+a review. Ecotoxicol Environ Saf 1991;21:348-64.
+23. Naganuma A, Koyama Y, Imura N. Behavior of methylmercury in 
+mammalian erythrocytes. Toxicol Appl Pharmacol 1980;54:405-10.
+24. Rungby J, Ernst E. Experimentally induced lipid peroxidation after ex-
+posure to chromium, mercury or silver: interactions with carbon tetrachlo-
+ride. Pharmacol Toxicol 1992;70:205-7.
+25. Kostka B. Kinetic evaluation of ADP-induced platelet aggregation po-
+tentiation by methylmercuric chloride. J Trace Elem Exp Med 1991;4:1-9.
+26. Wierzbicki R, Prazanowski M, Michalska M, Krajewska U, Mielicki 
+WP. Disorders in blood coagulation in humans occupationally exposed to 
+mercuric vapors. J Trace Elem Exp Med 2002;15:21-9.
+27. Kishimoto T, Oguri T, Abe M, Kajitani H, Tada M. Inhibitory effect 
+of methylmercury on migration and tube formation by cultured human 
+vascular endothelial cells. Arch Toxicol 1995;69:357-61.
+28. Insug O, Datar S, Koch CJ, Shapiro IM, Shenker BJ. Mercuric com-
+pounds inhibit human monocyte function by inducing apoptosis: evidence 
+for formation of reactive oxygen species, development of mitochondrial 
+membrane permeability transition and loss of reductive reserve. Toxicology 
+1997;124:211-24.
+29. Barregard L, Sallsten G, Jarvholm B. Mortality and cancer incidence 
+in chloralkali workers exposed to inorganic mercury. Br J Ind Med 1990;
+47:99-104.
+30. Boffetta P, Sallsten G, Garcia-Gomez M, et al. Mortality from cardio-
+vascular diseases and exposure to inorganic mercury. Occup Environ Med 
+2001;58:461-6.
+31. Salonen JT, Seppanen K, Lakka TA, Salonen R, Kaplan GA. Mercury 
+accumulation and accelerated progression of carotid atherosclerosis: a pop-
+ulation-based prospective 4-year follow-up study in men in eastern Finland. 
+Atherosclerosis 2000;148:265-73.
+32. Yoshizawa K, Rimm EB, Morris JS, et al. Mercury and the risk of cor-
+onary heart disease in men. N Engl J Med 2002;347:1755-60.
+33. FAOSTAT 2001 CD-ROM: FAO statistical databases. Rome: Food 
+and Agriculture Organization of the United Nations, 2001.
+
+34. Dorozynski A. Mediterranean poison fish forecast. Nature 1975;254:
+549-51.
+35. Von Burg R, Greenwood MR. Mercury. In: Merian E, ed. Metals and 
+their compounds in the environment: occurrence, analysis, and biological 
+relevance. Weinheim, Germany: VCH Verlag, 1991:1045-88.
+36. Krauss RM, Eckel RH, Howard B, et al. AHA dietary guidelines: re-
+vision 2000: a statement for healthcare professionals from the Nutrition 
+Committee of the American Heart Association. Stroke 2000;31:2751-66.
+37. de Lorgeril M, Salen P, Martin JL, Monjaud I, Delaye J, Mamelle N. 
+Mediterranean diet, traditional risk factors, and the rate of cardiovascular 
+complications after myocardial infarction: final report of the Lyon Diet 
+Heart Study. Circulation 1999;99:779-85.
+38. Kromhout D, Bosschieter EB, de Lezenne Coulander C. The inverse 
+relation between fish consumption and 20-year mortality from coronary 
+heart disease. N Engl J Med 1985;312:1205-9.
+39. Daviglus ML, Stamler J, Orencia AJ, et al. Fish consumption and the 
+30-year risk of fatal myocardial infarction. N Engl J Med 1997;336:1046-
+53.
+40. Hu FB, Bronner L, Willett WC, et al. Fish and omega-3 fatty acid in-
+take and risk of coronary heart disease in women. JAMA 2002;287:1815-
+21.
+41. Ascherio A, Rimm EB, Stampfer MJ, Giovannucci EL, Willett WC. 
+Dietary intake of marine n¡3 fatty acids, fish intake, and the risk of coro-
+nary disease among men. N Engl J Med 1995;332:977-82.
+42. Morris MC, Manson JE, Rosner B, Buring JE, Willett WC, Henne-
+kens CH. Fish consumption and cardiovascular disease in the Physicians’ 
+Health Study: a prospective study. Am J Epidemiol 1995;142:166-75.
+43. Gillum RF, Mussolino M, Madans JH. The relation between fish con-
+sumption, death from all causes, and incidence of coronary heart disease: 
+the NHANES I Epidemiologic Follow-up Study. J Clin Epidemiol 2000;
+53:237-44.
+44. Wood DA, Riemersma RA, Butler S, et al. Linoleic and eicosapentae-
+noic acids in adipose tissue and platelets and risk of coronary heart disease. 
+Lancet 1987;1:177-83.
+45. Guallar E, Hennekens CH, Sacks FM, Willett WC, Stampfer MJ. 
+A prospective study of plasma fish oil levels and incidence of myocardial 
+infarction in U.S. male physicians. J Am Coll Cardiol 1995;25:387-94.
+46. Siscovick DS, Raghunathan TE, King I, et al. Dietary intake and cell 
+membrane levels of long-chain n-3 polyunsaturated fatty acids and the risk 
+of primary cardiac arrest. JAMA 1995;274:1363-7.
+47. Albert CM, Campos H, Stampfer MJ, et al. Blood levels of long-chain 
+n¡3 fatty acids and the risk of sudden death. N Engl J Med 2002;346:
+1113-8.
+48. Center for Food Safety and Applied Nutrition. Consumer advisory: an 
+important message for pregnant women and women of childbearing age 
+who may become pregnant about the risks of mercury in fish. College Park, 
+Md.: Food and Drug Administration, March 2001. (Accessed November 1, 
+2002, at http://vm.cfsan.fda.gov/~dms/admehg.html.)
+
+Copyright © 2002 Massachusetts Medical Society.
+
+1754 · N Engl J Med, Vol. 347, No. 22 · November 28, 2002 · www.nejm.org
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2002 Massachusetts Medical Society. All rights reserved. 

@@ -1,0 +1,2499 @@
+T h e  ne w   e ngl a nd   jou r na l   o f  m e dicine
+
+original article
+
+n–3 Fatty Acids and Cardiovascular Events 
+
+after Myocardial Infarction
+
+Daan Kromhout, M.P.H., Ph.D., Erik J. Giltay, M.D., Ph.D.,  
+
+and Johanna M. Geleijnse, Ph.D., for the Alpha Omega Trial Group*
+
+Abs tr act
+
+Background
+Results from prospective cohort studies and randomized, controlled trials have pro-
+vided evidence of a protective effect of n−3 fatty acids against cardiovascular dis-
+eases. We examined the effect of the marine n−3 fatty acids eicosapentaenoic acid 
+(EPA) and docosahexaenoic acid (DHA) and of the plant-derived alpha-linolenic acid 
+(ALA) on the rate of cardiovascular events among patients who have had a myocar-
+dial infarction.
+Methods
+In a multicenter, double-blind, placebo-controlled trial, we randomly assigned 4837 
+patients, 60 through 80 years of age (78% men), who had had a myocardial infarc-
+tion and were receiving state-of-the-art antihypertensive, antithrombotic, and lipid-
+modifying therapy to receive for 40 months one of four trial margarines: a marga-
+rine supplemented with a combination of EPA and DHA (with a targeted additional 
+daily intake of 400 mg of EPA–DHA), a margarine supplemented with ALA (with a 
+targeted additional daily intake of 2 g of ALA), a margarine supplemented with 
+EPA–DHA and ALA, or a placebo margarine. The primary end point was the rate of 
+major cardiovascular events, which comprised fatal and nonfatal cardiovascular 
+events and cardiac interventions. Data were analyzed according to the intention-to-
+treat principle, with the use of Cox proportional-hazards models.
+Results
+The patients consumed, on average, 18.8 g of margarine per day, which resulted in 
+additional intakes of 226 mg of EPA combined with 150 mg of DHA, 1.9 g of ALA, 
+or both, in the active-treatment groups. During the follow-up period, a major car-
+diovascular event occurred in 671 patients (13.9%). Neither EPA–DHA nor ALA re-
+duced this primary end point (hazard ratio with EPA–DHA, 1.01; 95% confidence 
+interval [CI], 0.87 to 1.17; P = 0.93; hazard ratio with ALA, 0.91; 95% CI, 0.78 to 1.05; 
+P = 0.20). In the prespecified subgroup of women, ALA, as compared with placebo 
+and EPA–DHA alone, was associated with a reduction in the rate of major cardio-
+vascular events that approached significance (hazard ratio, 0.73; 95% CI, 0.51 to 1.03; 
+P = 0.07). The rate of adverse events did not differ significantly among the study 
+groups.
+Conclusions
+Low-dose supplementation with EPA–DHA or ALA did not significantly reduce the 
+rate of major cardiovascular events among patients who had had a myocardial in-
+farction and who were receiving state-of-the-art antihypertensive, antithrombotic, 
+and lipid-modifying therapy. (Funded by the Netherlands Heart Foundation and oth-
+ers; ClinicalTrials.gov number, NCT00127452.)
+
+From  the  Division  of  Human  Nutrition, 
+Wageningen University, Wageningen (D.K., 
+J.M.G.);  and  the  Department  of  Psychi­
+atry,  Leiden  University  Medical  Center, 
+Leiden  (E.J.G.)  —  both  in  the  Nether­
+lands.  Address  reprint  requests  to  Dr. 
+Kromhout at the Division of Human Nu­
+trition, Wageningen University, P.O. Box 
+8129, 6700 EV Wageningen, the Nether­
+lands, or at daan.kromhout@wur.nl.
+
+*Members of the Alpha Omega Trial Group 
+are listed in the Supplementary Appendix, 
+available at NEJM.org.
+
+This article (10.1056/NEJMoa1003603) was 
+published on August 29, 2010, and updated 
+on October 7, 2010, at NEJM.org.
+
+N Engl J Med 2010;363:2015­26.
+Copyright © 2010 Massachusetts Medical Society.
+
+n engl j med 363;21  nejm.org  november 18, 2010
+
+2015
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2010 Massachusetts Medical Society. All rights reserved. T h e  ne w   e ngl a nd   jou r na l   o f  m e dicine
+
+A meta-analysis  of  randomized  tri-
+
+als involving patients with cardiac disease 
+showed  that  supplementation  with  the 
+marine n−3 fatty acids eicosapentaenoic acid (EPA) 
+and docosahexaenoic acid (DHA) reduced the rate 
+of death from coronary heart disease by 20%.1 
+Mozaffarian  and  Rimm  concluded  from  their 
+meta-analysis of cohort studies and clinical trials 
+that a daily intake of 250 mg of EPA and DHA 
+reduced the risk of fatal coronary heart disease 
+by 36%.2 There was no additional benefit from 
+higher intakes. There is less evidence for a pro-
+tective effect of the plant-derived n−3 fatty acid 
+alpha-linolenic  acid  (ALA).  A  meta-analysis  of 
+five prospective cohort studies showed that the 
+risk of fatal coronary heart disease was 21% lower 
+among subjects who had a high intake of ALA 
+than  among  subjects  who  had  a  low  intake  of 
+ALA — a difference that was of borderline sig-
+nificance.3 Data from randomized trials regard-
+ing the effect of ALA supplementation on the rate 
+of cardiovascular disease are lacking.
+
+n−3 fatty acids may prevent ventricular arrhyth-
+mias in patients who have had a myocardial in-
+farction.4 Basic research has shown that enrich-
+ment of myocardial membranes with these fatty 
+acids reduces the vulnerability to cardiac arrhyth-
+mias.5-7  These  results  corroborate  the  inverse 
+associations that have been seen in case–control 
+studies and cohort studies between fish in the 
+diet, EPA and DHA content in the diet, or EPA 
+and DHA concentration in the blood and the risk 
+of  sudden  cardiac  death.8-11  However,  in  con-
+trolled trials involving patients with cardiac dis-
+ease who had implantable cardioverter–defibril-
+lators,  high  doses  of  EPA  and  DHA  (ranging 
+from 0.9 to 2.6 g per day) did not significantly 
+reduce  the  rate  of  ventricular  arrhythmias.1  In 
+the case of supplementation with ALA, an inverse 
+relation  with  sudden  death  was  observed  in  a 
+cohort study of women.12
+
+Cohort studies have suggested that low doses 
+of n−3 fatty acids should be sufficient to reduce 
+cardiovascular risk.3,13,14 A dose–response rela-
+tionship  between  the  intake  of  EPA  and  DHA 
+and the risk of cardiac death has not been shown 
+in randomized trials.1,15 We designed a trial to 
+test the hypothesis that low doses of EPA–DHA 
+(400 mg per day), ALA (2 g per day), or both, in 
+margarines  reduce  the  risk  of  cardiovascular 
+events among patients who have had a myocar-
+dial infarction.
+
+Methods
+
+Study Design and Patients
+The Alpha Omega Trial was a multicenter, dou-
+ble-blind, placebo-controlled trial with a 2-by-2 
+factorial design, which has been described in de-
+tail previously.16 In brief, we recruited 4837 pa-
+tients  in  collaboration  with  cardiologists  at  32 
+hospitals in the Netherlands. Men and women, 
+60 to 80 years of age, who had had a clinically 
+diagnosed myocardial infarction up to 10 years 
+before randomization were eligible for participa-
+tion. Major exclusion criteria were daily consump-
+tion of less than 10 g of margarine, use of n−3 
+fatty-acid  supplements,  unintended  weight  loss 
+of more than 5 kg in the previous year, and a 
+diagnosis of cancer with an estimated life expec-
+tancy of less than 1 year.
+
+Patients were enrolled from April 2002 through 
+December 2006 and were randomly assigned to 
+receive trial margarines that provided low doses 
+of n−3 fatty acids or placebo, according to a 2-by-2 
+factorial design, for 40 months. For logistic rea-
+sons, all the patients were given placebo marga-
+rine during the first 4 to 6 weeks after random-
+ization. After this period, the patients received 
+one of four trial margarines: a margarine with 
+no additional n−3 fatty acids (placebo margarine) 
+or  a  margarine  with  approximately  400  mg  of 
+EPA–DHA per day, 2 g of ALA per day, or a com-
+bination of EPA–DHA and ALA. The doses of the 
+n−3 fatty acids corresponded to the recommended 
+dietary allowances of those fatty acids.17 In the 
+trial margarines for the active-treatment groups, 
+the various n−3 fatty acids replaced an equivalent 
+amount of the oleic acid in the margarine (see 
+Table 1 in the Supplementary Appendix, available 
+with  the  full  text  of  this  article  at  NEJM.org). 
+The ratio of EPA to DHA in the margarines was 
+3:2. The margarines were similar to each other 
+in taste, odor, texture, and color.
+
+All  patients  provided  written  informed  con-
+sent. The trial was approved by a central medical 
+ethics  committee  (Haga  Hospital,  Leyenburg, 
+The Hague, the Netherlands) and by the ethics 
+committee  at  each  participating  hospital.  The 
+steering committee monitored the progress of 
+the  trial,  and  the  data  and  safety  monitoring 
+board monitored the safety of the patients. An 
+interim analysis with the group assignments con-
+cealed was performed in February 2007. On the 
+basis of the outcome of that analysis, the steer-
+
+2016
+
+n engl j med 363;21  nejm.org  november 18, 2010
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2010 Massachusetts Medical Society. All rights reserved. n−3 Fatty Acids and Cardiovascular Disease
+
+ing committee decided to continue the trial as 
+planned.
+
+The  Alpha  Omega  trial  was  initiated  by  the 
+first author and carried out by the Alpha Omega 
+Study  Group.  The  first  author  wrote  the  first 
+draft of the manuscript, and the other authors 
+contributed to subsequent drafts. The margarines 
+were developed by  Unilever  R&D  (Vlaardingen, 
+the Netherlands), which provided an unrestricted 
+grant for the distribution of the trial margarines 
+to the patients. The funding organizations had no 
+role  in  the  design  of  the  study;  the  collection, 
+analysis, or interpretation of the data; the writing 
+of the manuscript; or the decision to submit the 
+manuscript for publication. The authors vouch for 
+the  accuracy  and  completeness  of  the  reported 
+data as well as the fidelity of the report to the 
+study protocol. The protocol, including the sta-
+tistical analysis plan, is available at NEJM.org.
+
+in the case of patients who had fasted more than 
+4 hours or ≥11.1 mmol per liter [200.0 mg per 
+deciliter] in the case of nonfasting patients). Base-
+line examinations were repeated after 20 months 
+in a random sample of 810 patients and after 40 
+months in the 2531 patients (52.3%) who com-
+pleted the trial before January 1, 2009. Owing to 
+budget constraints, assessments of the remainder 
+of the cohort were made with the use of ques-
+tionnaires regarding demographic factors, lifestyle 
+characteristics, and medication and medical his-
+tories that were mailed to the patients. Trained 
+research  staff  performed  structured  telephone 
+interviews with more than 90% of the cohort 12 
+and 24 months after the start of the intervention 
+to  collect  data  on  adherence,  cardiovascular 
+events, adverse events, changes in medication, 
+intake of fish, and use of n−3 fatty acid supple-
+ments.
+
+Procedures
+The study intervention in our trial was replace-
+ment  of  margarines  that  the  patients  usually 
+used with study margarines, as opposed to sup-
+plementation  with  fish-oil  capsules,  which  has 
+been used in previous trials. After the patients un-
+derwent randomization, they received eight tubs, 
+each of which contained 250 g of margarine, the 
+specific composition of which could not be iden-
+tified. The patients received a new set of tubs every 
+12 weeks. Unused margarine tubs were returned. 
+The daily intakes of margarine and n−3 fatty ac-
+ids were calculated on the basis of the amount of 
+margarine that the patients were given and the 
+amount that was returned unused. An objective 
+measure of adherence was obtained by determin-
+ing the levels of fatty acids in plasma cholesteryl 
+esters  in  random  subgroups  of  approximately 
+800  patients  at  baseline  and  after  20  and  40 
+months of intervention.16
+
+At  baseline,  anthropometric  measures  were 
+assessed, and blood pressure and heart rate were 
+measured.  In  addition,  nonfasting  blood  sam-
+ples were obtained for the measurement of serum 
+lipid and plasma glucose levels.16 Demographic 
+factors, lifestyle characteristics, and medication 
+and medical histories were assessed with the use 
+of questionnaires. Diabetes was considered to be 
+present if a patient reported having received the 
+diagnosis from a physician, was taking antidia-
+betic drugs, or had an elevated plasma glucose 
+level (≥7.0 mmol per liter [126 mg per deciliter] 
+
+End Points
+We  followed  all  patients,  including  those  who 
+discontinued the use of the trial margarine dur-
+ing the course of the trial, for the ascertainment 
+of clinical events. We monitored the vital status 
+of all the patients by means of a computerized 
+link with municipal registries. In the case of pa-
+tients who died, the death certificate was obtained 
+from Statistics Netherlands, and the patient’s pri-
+mary physician filled out a standard form listing 
+the  primary  and  contributing  causes  of  death. 
+Additional information on fatal events was ob-
+tained from hospitals and family members. Events 
+were coded by three members of the end-point 
+adjudication  committee,  who  were  unaware  of 
+the identity of the patient, the identity of the treat-
+ing physician, and the patient’s assigned study 
+group. During regular meetings, all information 
+about  the  underlying  causes  of  death  was  dis-
+cussed by the committee members. In the case of 
+disagreement, discussion among the three mem-
+bers took place until consensus was reached.
+
+Patients were asked to record all hospitaliza-
+tions in a structured diary. Follow-up to ascertain 
+the occurrence of non fatal cardiovascular events 
+(myocardial infarction, cardiac arrest, and stroke) 
+and cardiac interventions (percutaneous coronary 
+intervention [PCI], coronary-artery bypass graft-
+ing [CABG], and placement of implantable cardio-
+verter–defibrillators) was performed by research 
+staff through annual telephone interviews. Self-
+reported nonfatal cardiovascular events and car-
+
+n engl j med 363;21  nejm.org  november 18, 2010
+
+2017
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2010 Massachusetts Medical Society. All rights reserved. T h e  ne w   e ngl a nd   jou r na l   o f  m e dicine
+
+diac interventions were verified against hospital 
+records by trained research nurses or the research 
+physician. Only events for which documentation 
+of the clinical diagnosis (e.g., hospital discharge 
+letters) could be retrieved were considered in the 
+analysis. We also monitored incident prostate can-
+cer, because a meta-analysis of epidemiologic stud-
+ies suggested that ALA could be associated with 
+an  increased  risk  of  prostate  cancer.3  Incident 
+prostate cancer included fatal cases and verified 
+hospital admissions for prostate cancer. Causes of 
+death were coded according to the International 
+Classification of Diseases, 10th Revision.18
+
+The primary end point of this trial was major 
+cardiovascular events, which comprised fatal and 
+nonfatal cardiovascular disease and the cardiac 
+interventions  PCI  and  CABG.16  Secondary  end 
+points were incident cardiovascular disease, fatal 
+cardiovascular disease, fatal coronary heart dis-
+ease, ventricular-arrhythmia–related events (sud-
+den death, fatal and nonfatal cardiac arrest, and 
+placement  of  implantable  cardioverter–defibril-
+lators), and death from any cause.
+
+Statistical Analysis
+Pretrial and post hoc power calculations for the 
+study are provided in the Supplementary Appen-
+dix. Analysis of the data was performed before 
+the treatment codes were broken, by an indepen-
+dent biostatistician who used a prespecified sta-
+tistical analysis plan. Analyses were performed 
+according to the intention-to-treat principle. Time-
+to-event data were analyzed with the use of the 
+Kaplan–Meier method and the log-rank test. The 
+two  groups  that  received  EPA–DHA  were  com-
+bined and compared with the two groups that did 
+not receive EPA–DHA. Similarly, the two groups 
+that received ALA were combined and compared 
+with the two groups that did not receive ALA. 
+Hazard ratios and 95% confidence intervals were 
+calculated with the use of Cox proportional-haz-
+ards models.
+
+Prespecified subgroup analyses were performed 
+according to age, sex, time since the index myo-
+cardial infarction, baseline intake of fish and of 
+EPA–DHA, and use of margarine during the trial. 
+In  addition,  a  post  hoc  analysis  (i.e.,  after  un-
+blinding of the data) was performed according 
+to the presence or absence of diabetes. No ad-
+justments have been made for multiple compari-
+sons. Two-sided P values of less than 0.05 were 
+
+considered  to  indicate  statistical  significance. 
+Data were analyzed with the use of SAS, version 
+9.2, and SPSS, version 17.0, statistical software.
+
+R esults
+
+Patients
+We enrolled 4837 patients — 3783 men (78.2%) 
+and 1054 women (21.8%) (Fig. 1). The median 
+period between the index myocardial infarction 
+and  entry  into  the  study  was  3.7  years  (inter-
+quartile range, 1.7 to 6.3). In the case of 99.3% of 
+the patients, the index myocardial infarction could 
+be  verified  in  hospital  records.  Diabetes  was 
+present in 1014 patients (21.0%). Antithrombotic 
+agents  were  used  by  almost  all  the  patients 
+(97.5%), antihypertensive drugs by 89.7%, lipid-
+modifying treatment (mainly statins) by 86.0%, 
+and  antiarrhythmic  drugs  by  3.0%.  Hormone-
+replacement therapy was reported by 2.2% of the 
+women. A total of 16.9% of the study patients 
+were  current  smokers,  and  24.2%  were  obese 
+(i.e., had a body-mass index [the weight in kilo-
+grams divided by the square of the height in me-
+ters] of 30 or more). At baseline, the median con-
+sumption of fish was 14.9 g per day (interquartile 
+range,  6.1  to  18.7),  and  the  median  intake  of 
+EPA–DHA  was  130  mg  per  day  (interquartile 
+range, 60 to 210). A total of 225 patients (4.7%) 
+reported  that  they  used  commercially  available 
+n−3 fatty acid supplements at some point during 
+the course of the trial. The four study groups did 
+not  differ  significantly  with  respect  to  demo-
+graphic factors, lifestyle characteristics, or cardio-
+vascular risk factors (Table 1).
+
+Study Intervention
+The  mean  (±SD)  intake  of  trial  margarine  was 
+18.8±4.7 g per day; 90.5% of the patients adhered 
+fully to the protocol and consumed a mean of 
+20.6±2.8 g of margarine per day. Patients in the 
+two  EPA–DHA  groups  received,  on  average,  an 
+additional 226 mg of EPA and 150 mg of DHA 
+per day, and those in the two ALA groups received 
+an additional 1.9 g of ALA per day. The median 
+follow-up period was 40.8 months (interquartile 
+range, 37.2 to 41.5), which included the first 4 to 
+6 weeks in which all the patients received placebo 
+margarine. After 20 months, the additional in-
+take of n−3 fatty acids was reflected in the fatty-
+acid composition of serum cholesteryl esters: ALA 
+
+2018
+
+n engl j med 363;21  nejm.org  november 18, 2010
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2010 Massachusetts Medical Society. All rights reserved. n−3 Fatty Acids and Cardiovascular Disease
+
+5665 Patients who had had a myocardial
+
+infarction were assessed for eligibility
+
+828 Were excluded
+
+165 Dropped out during screening process
+431 Declined baseline examination
+232 Did not meet inclusion criteria during
+
+baseline examination
+
+4837 Underwent randomization
+
+1212 Were assigned to receive
+
+EPA–DHA and ALA
+
+1192 Were assigned to receive
+EPA–DHA and ALA placebo
+
+1197 Were assigned to receive
+EPA–DHA placebo and ALA
+
+1236 Were assigned to receive
+
+EPA–DHA placebo and
+
+ALA placebo
+
+91 Died
+125 Discontinued
+
+margarine
+
+29 Illness-related
+
+reason
+
+29 Margarine-
+
+related reason
+86 Other reason
+28 Unknown
+
+95 Died
+119 Discontinued
+
+margarine
+
+24 Illness-related
+
+reason
+
+32 Margarine-
+
+related reason
+75 Other reason
+33 Unknown
+
+91 Died
+98 Discontinued
+
+margarine
+
+29 Illness-related
+
+reason
+
+18 Margarine-
+
+related reason
+65 Other reason
+20 Unknown
+
+93 Died
+98 Discontinued
+
+margarine
+
+16 Illness-related
+
+reason
+
+21 Margarine-
+
+related reason
+61 Other reason
+28 Unknown
+
+1212 Were included in the
+intention-to-treat analysis
+
+1192 Were included in the
+intention-to-treat analysis
+
+1197 Were included in the
+intention-to-treat analysis
+
+1236 Were included in the
+intention-to-treat analysis
+
+Figure 1. Screening, Randomization, and Follow-up.
+Patients could have more than one reason for discontinuation of margarine use. ALA denotes alpha­linolenic acid, DHA docosahexaenoic 
+acid, and EPA eicosapentaenoic acid.
+
+supplementation in the margarine increased se-
+rum ALA by 69.6% as compared with placebo and 
+EPA–DHA only, and EPA–DHA supplementation 
+increased serum EPA by 53.3% and serum DHA by 
+28.6%, as compared with placebo and ALA only 
+(Fig. 1 in the Supplementary Appendix). These 
+changes were already apparent after 3 months in 
+a pilot study of 76 patients, in which ALA in-
+creased by 49.0%, EPA by 41.3%, and DHA by 
+13.5%. The changes in the serum concentration 
+of n−3 fatty acids from baseline to 20 months 
+were maintained until 40 months. Serum triglyc-
+eride  levels  and  other  markers  of  risk  did  not 
+change significantly in the groups that received 
+supplemented margarine, as compared with the 
+placebo group, during the course of the trial (Ta-
+ble 2 in the Supplementary Appendix).
+
+Effect of n−3 Fatty Acids on Study End Points
+No patients were lost to follow-up. We accrued 
+15,531 person-years of follow-up data, and 671 
+patients (13.9%) had a major cardiovascular event. 
+The effects of n−3 fatty acids on end points are 
+presented in Table 2. Kaplan–Meier curves showed 
+that  EPA–DHA  (either  alone  or  in  combination 
+with ALA), as compared with placebo and ALA 
+only, had no effect on the rate of major cardio-
+vascular events (Fig. 2). The two groups that re-
+ceived  ALA  had  a  rate  of  major  cardiovascular 
+events  that  was  9%  lower  than  the  rate  in  the 
+groups that received placebo or EPA–DHA only, a 
+difference that was not significant (hazard ratio, 
+0.91; 95% confidence interval [CI], 0.78 to 1.05; 
+P = 0.20). The Kaplan–Meier curve for fatal coro-
+nary  heart  disease  showed  that  until  approxi-
+
+n engl j med 363;21  nejm.org  november 18, 2010
+
+2019
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2010 Massachusetts Medical Society. All rights reserved. T h e  ne w   e ngl a nd   jou r na l   o f  m e dicine
+
+Table 1. Baseline Characteristics of the Patients, According to Study Group.*
+
+EPA–DHA and 
+ALA (N = 1212)
+
+EPA–DHA 
+(N = 1192)
+
+Variable
+
+Age — yr
+
+Male sex — no. (%)
+
+Time since myocardial infarction — yr
+
+Self­reported history of stroke — no. (%)
+
+Diabetes mellitus — no. (%)
+
+Patients with diabetes
+
+Patients taking antidiabetic drugs
+
+Use of cardiovascular medication — no. (%)
+
+Antithrombotic agents
+
+Blood­pressure–lowering drugs
+
+Lipid­lowering drugs
+
+Antiarrhythmic drugs
+
+69.1±5.5
+
+946 (78.1)
+
+4.2±3.1
+
+92 (7.6)
+
+245 (20.2)
+
+180 (14.9)
+
+1166 (96.2)
+
+1088 (89.8)
+
+1058 (87.3)
+
+34 (2.8)
+
+ALA 
+
+(N = 1197)
+
+69.0±5.6
+
+933 (77.9)
+
+4.4±3.3
+
+89 (7.4)
+
+Placebo 
+(N = 1236)
+
+68.9±5.6
+
+973 (78.7)
+
+4.3±3.3
+
+81 (6.6)
+
+69.1±5.6
+
+931 (78.1)
+
+4.3±3.2
+
+83 (7.0)
+
+262 (22.0)
+
+184 (15.4)
+
+258 (21.6)
+
+192 (16.0)
+
+249 (20.1)
+
+184 (14.9)
+
+1170 (98.2)
+
+1090 (91.4)
+
+1017 (85.3)
+
+37 (3.1)
+
+1172 (97.9)
+
+1058 (88.4)
+
+1034 (86.4)
+
+31 (2.6)
+
+1210 (97.9)
+
+1104 (89.3)
+
+1052 (85.1)
+
+42 (3.4)
+
+Systolic blood pressure — mm Hg
+
+140.9±22.1
+
+142.3±21.6
+
+141.4±21.2
+
+141.9±21.6
+
+Plasma glucose — mmol/liter†
+
+Serum lipids — mmol/liter‡
+
+6.2±2.2
+
+6.2±2.0
+
+6.2±2.0
+
+6.3±2.1
+
+Cholesterol
+
+Total
+
+LDL
+
+HDL
+
+Triglycerides
+
+Median
+
+4.69±0.96
+
+2.55±0.81
+
+1.29±0.33
+
+4.77±0.98
+
+2.63±0.84
+
+1.29±0.35
+
+4.70±0.95
+
+2.57±0.83
+
+1.28±0.34
+
+4.75±0.99
+
+2.60±0.87
+
+1.28±0.34
+
+1.64
+
+1.63
+
+1.65
+
+1.69
+
+Interquartile range
+
+1.19–2.26
+
+1.22–2.30
+
+1.21–2.31
+
+1.22–2.38
+
+Body­mass index§
+
+Mean
+
+≥30 — no. (%)
+
+Current smoker — no. (%)
+
+Consumption of ≥1 glass of alcohol/wk — 
+
+no./total no. (%)
+
+Consumption of fish — g/day
+
+Median
+
+Interquartile range
+
+Fish consumption ≥5 g/wk — no. (%)
+
+Intake of EPA–DHA outside the study treat­
+
+ment — mg/day
+
+27.8±4.0
+
+27.7±3.7
+
+27.8±3.8
+
+27.8±3.9
+
+292 (24.1)
+
+181 (14.9)
+
+304 (25.5)
+
+200 (16.8)
+
+284 (23.7)
+
+208 (17.4)
+
+290 (23.5)
+
+223 (18.0)
+
+908/1209 (75.1)
+
+864/1191 (72.5) 889/1195 (74.4) 910/1232 (73.9)
+
+15.0
+
+5.9–18.7
+
+976 (80.5)
+
+14.9
+
+6.5–18.4
+
+971 (81.5)
+
+15.0
+
+7.4–20.9
+
+996 (83.2)
+
+14.5
+
+5.9–18.4
+
+998 (80.7)
+
+Median
+
+Interquartile range
+
+130
+
+50–210
+
+120
+
+60–200
+
+130
+
+60–220
+
+120
+
+60–200
+
+* Plus–minus values are means ±SD. ALA denotes alpha­linolenic acid, DHA docosahexaenoic acid, EPA eicosapentaenoic 
+
+acid, HDL high­density lipoprotein, and LDL low­density lipoprotein.
+
+† To convert the values for glucose to milligrams per deciliter, divide by 0.05551.
+‡ To convert the values for cholesterol to milligrams per deciliter, divide by 0.02586. To convert the values for triglycer­
+
+ides to milligrams per deciliter, divide by 0.01129.
+
+§ The body­mass index is the weight in kilograms divided by the square of the height in meters.
+
+2020
+
+n engl j med 363;21  nejm.org  november 18, 2010
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2010 Massachusetts Medical Society. All rights reserved. n−3 Fatty Acids and Cardiovascular Disease
+
+Table 2. Primary and Secondary Outcomes, According to n–3 Fatty-Acid Supplementation.*
+
+Outcome
+
+EPA–DHA (N = 2404)
+
+no. (%)
+
+rate/1000  
+patient-yr
+
+Placebo or ALA Only 
+
+(N = 2433)
+
+Hazard Ratio
+
+(95% CI)†
+
+P Value
+
+no. (%)
+
+rate/1000  
+patient-yr
+
+Primary outcome: major cardiovascular events‡
+
+  336 (14.0)
+
+46.0
+
+  335 (13.8)
+
+45.7
+
+1.01 (0.87–1.17)
+
+0.93
+
+Secondary outcomes
+
+Incident cardiovascular disease
+
+Death from cardiovascular disease
+
+Death from coronary heart disease
+
+Ventricular­arrhythmia–related events§
+
+Death from any cause
+
+170 (7.1)
+
+  80 (3.3)
+
+  67 (2.8)
+
+  67 (2.8)
+
+186 (7.7)
+
+22.4
+
+10.3
+
+8.7
+
+8.7
+
+24.0
+
+185 (7.6)
+
+  82 (3.4)
+
+  71 (2.9)
+
+  74 (3.0)
+
+184 (7.6)
+
+24.3
+
+10.5
+
+9.1
+
+9.6
+
+23.7
+
+ALA (N = 2409)
+
+Placebo or EPA–DHA Only
+
+(N = 2428)
+
+no. (%)
+
+rate/1000 
+patient-yr
+
+no. (%)
+
+rate/1000 
+patient-yr
+
+0.92 (0.75–1.13)
+
+0.98 (0.72–1.33)
+
+0.95 (0.68–1.32)
+
+0.90 (0.65–1.26)
+
+1.01 (0.82–1.24)
+
+Hazard Ratio
+
+(95% CI)†
+
+0.43
+
+0.89
+
+0.75
+
+0.55
+
+0.92
+
+P Value
+
+Primary outcome: major cardiovascular events‡
+
+  319 (13.2)
+
+43.6
+
+  352 (14.5)
+
+48.1
+
+0.91 (0.78–1.05)
+
+0.20
+
+Secondary outcomes
+
+Incident cardiovascular disease
+
+Death from cardiovascular disease
+
+Death from coronary heart disease
+
+Ventricular­arrhythmia–related events§
+
+Death from any cause
+
+168 (7.0)
+
+  78 (3.2)
+
+  66 (2.7)
+
+  62 (2.6)
+
+182 (7.6)
+
+22.1
+
+10.1
+
+8.6
+
+8.1
+
+23.5
+
+187 (7.7)
+
+  84 (3.5)
+
+  72 (3.0)
+
+  79 (3.3)
+
+188 (7.7)
+
+24.5
+
+10.8
+
+9.2
+
+10.2
+
+24.1
+
+0.90 (0.73–1.11)
+
+0.94 (0.69–1.27)
+
+0.92 (0.66–1.29)
+
+0.79 (0.57–1.10)
+
+0.97 (0.79–1.19)
+
+0.34
+
+0.67
+
+0.64
+
+0.16
+
+0.80
+
+* For these analyses, the two groups that received eicosapentaenoic acid (EPA) with docosahexaenoic acid (DHA) were combined and com­
+pared with the two groups that did not receive EPA–DHA (i.e., the groups that received either placebo or only alpha­linolenic acid [ALA]). 
+Similarly, the two groups that received ALA were combined and compared with the two groups that did not receive ALA (i.e., the groups 
+that received either placebo or only EPA–DHA).
+
+† The hazard ratios and 95% confidence intervals (CIs) were calculated with the use of Cox proportional­hazards models.
+‡ Major cardiovascular events comprised fatal and nonfatal cardiovascular events and the cardiac interventions percutaneous coronary inter­
+
+§ Ventricular­arrhythmia–related events comprised sudden death, fatal and nonfatal cardiac arrest, and placement of implantable cardioverter–
+
+vention and coronary­artery bypass grafting.
+
+defibrillators.
+
+mately 30 months after the start of the interven-
+tion, the patients in the two groups that received 
+EPA–DHA had a lower risk of fatal coronary heart 
+disease than did those who received placebo or 
+ALA only, but this effect disappeared toward the 
+end of the trial (Fig. 2). There were nonsignifi-
+cant reductions of 10% and of 21% in ventricular- 
+arrhythmia–related  events  among  patients  who 
+received EPA–DHA and ALA, respectively (Table 2, 
+and Fig. 2 in the Supplementary Appendix).
+
+Subgroup Analyses
+Analyses of prespecified subgroups showed that 
+the two groups that received EPA–DHA did not 
+have significantly lower rates of major cardiovas-
+cular events than did the two groups that re-
+
+ceived  no  EPA–DHA,  and  the  two  groups  that 
+received  ALA  did  not  have  significantly  lower 
+rates of major cardiovascular events than did the 
+two groups that received no ALA. However, there 
+was  a  27%  reduction  in  major  cardiovascular 
+events with ALA among women, which approached 
+significance (hazard ratio, 0.73; 95% CI, 0.51 to 
+1.03; P = 0.07) (Fig. 3). Patients with diabetes had 
+a  higher  risk  of  all  cardiovascular  end  points 
+than did patients without diabetes (Table 3). A 
+post hoc, exploratory analysis of data from these 
+diabetic patients showed that the rates of fatal 
+coronary heart disease and arrhythmia-related 
+events  were  lower  among  patients  in  the  EPA–
+DHA  groups  than  among  those  in  the  groups 
+that received no EPA–DHA (hazard ratio for fatal 
+
+n engl j med 363;21  nejm.org  november 18, 2010
+
+2021
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2010 Massachusetts Medical Society. All rights reserved. T h e  ne w   e ngl a nd   jou r na l   o f  m e dicine
+
+A MajorCardiovascularEvents,EPA–DHAvs.PlaceboandALAOnly
+
+B MajorCardiovascularEvents,ALAvs.PlaceboandEPA–DHAOnly
+
+)
+
+%
+
+(
+
+e
+c
+n
+e
+d
+i
+c
+n
+I
+
+e
+v
+i
+t
+a
+l
+u
+m
+u
+C
+
+16
+
+14
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+Placebo and ALA only
+
+EPA–DHA
+
+P=0.93
+
+0
+
+12
+
+24
+
+36
+
+40
+
+)
+
+%
+
+(
+
+e
+c
+n
+e
+d
+i
+c
+n
+I
+
+e
+v
+i
+t
+a
+l
+u
+m
+u
+C
+
+16
+
+14
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+Placebo and EPA–DHA only
+
+ALA
+
+P=0.20
+
+0
+
+12
+
+24
+
+36
+
+40
+
+Months
+
+Months
+
+No.atRisk
+EPA–DHA
+Placebo
+
+2404
+2433
+
+2290
+2299
+
+2162
+2163
+
+1715
+1714
+
+1424
+1425
+
+No.atRisk
+ALA
+Placebo
+
+2409
+2428
+
+2292
+2297
+
+2167
+2158
+
+1722
+1707
+
+1448
+1401
+
+C FatalCoronaryHeartDisease,EPA–DHAvs.PlaceboandALAOnly
+
+D FatalCoronaryHeartDisease,ALAvs.PlaceboandEPA–DHAonly
+
+)
+
+%
+
+(
+
+e
+c
+n
+e
+d
+i
+c
+n
+I
+
+e
+v
+i
+t
+a
+l
+u
+m
+u
+C
+
+4
+
+3
+
+2
+
+1
+
+0
+
+Placebo and ALA only
+
+P=0.75
+
+EPA–DHA
+
+0
+
+12
+
+24
+
+36
+
+40
+
+)
+
+%
+
+(
+
+e
+c
+n
+e
+d
+i
+c
+n
+I
+
+e
+v
+i
+t
+a
+l
+u
+m
+u
+C
+
+4
+
+3
+
+2
+
+1
+
+0
+
+ALA
+
+P=0.64
+
+Placebo and EPA–DHA only
+
+0
+
+12
+
+24
+
+36
+
+40
+
+Months
+
+Months
+
+No.atRisk
+EPA–DHA
+Placebo
+
+2404
+2433
+
+2378
+2384
+
+2326
+2323
+
+1912
+1922
+
+1606
+1592
+
+No.atRisk
+ALA
+Placebo
+
+2409
+2428
+
+2371
+2391
+
+2318
+2331
+
+1907
+1927
+
+1605
+1593
+
+Figure 2. Kaplan–Meier Curves for Primary and Secondary End Points.
+Kaplan–Meier curves are shown for the cumulative incidence of major cardiovascular events (the primary end point) and fatal coronary 
+heart disease (a secondary end point) among 4837 patients who had had a myocardial infarction and were assigned to receive a study 
+margarine containing supplemental eicosapentaenoic acid (EPA) combined with docosahexaenoic acid (DHA), a margarine containing 
+alpha­linolenic acid (ALA), a margarine containing both EPA–DHA and ALA, or a placebo margarine.
+
+coronary  heart  disease,  0.51;  95%  CI,  0.27  to 
+0.97; hazard ratio for arrhythmia-related events, 
+0.51; 95% CI, 0.24 to 1.11) (Table 3, and Fig. 3 
+in  the  Supplementary  Appendix).  The  rate  of 
+arrhythmia-related  events  was  also  reduced  in 
+the ALA groups, as compared with the groups 
+that received no ALA (hazard ratio, 0.39; 95% CI, 
+0.17 to 0.88).
+
+Adverse Events
+The rate of self-reported gastrointestinal symp-
+toms did not differ significantly among the groups 
+(Table 3 in the Supplementary Appendix). ALA 
+supplementation and EPA–DHA supplementation 
+
+Figure 3 (facing page). Effect of EPA–DHA Supplemen-
+tation and ALA Supplementation on the Primary End 
+Point in Subgroups of Patients.
+The primary end point of major cardiovascular events 
+comprised fatal and nonfatal cardiovascular events and 
+the cardiac interventions percutaneous coronary inter­
+vention and coronary­artery bypass grafting. Panel A 
+shows the effects of supplementation with eicosapenta­
+enoic acid (EPA) and docosahexaenoic acid (DHA), and 
+Panel B the effects of supplementation with alpha­lino­
+lenic acid (ALA). Hazard ratios and 95% confidence in­
+tervals were calculated with the use of Cox proportional­
+hazards models. The size of each square is proportional 
+to the number of patients; horizontal lines indicate 
+95% confidence intervals. P values are for the differ­
+ence between active treatment and placebo.
+
+2022
+
+n engl j med 363;21  nejm.org  november 18, 2010
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2010 Massachusetts Medical Society. All rights reserved. n−3 Fatty Acids and Cardiovascular Disease
+
+A
+Subgroup
+
+All patients
+Age
+
+<70 yr
+≥70 yr
+
+Sex
+
+Male
+Female
+
+Time since myocardial infarction
+
+<3.7 yr
+≥3.7 yr
+
+Baseline fish intake
+
+<5 g/day
+≥5 g/day
+
+Baseline EPA–DHA intake
+
+<50 mg/day
+≥50 mg/day
+
+Intake of trial margarine
+
+<10 g/day
+10 to <20 g/day
+≥20 g/day
+
+PrimaryEndPoint
+
+EPA–DHA
+
+Placebo or
+ALA alone
+
+no./total no.
+
+336/2404
+
+335/2433
+
+175/1351
+161/1053
+
+277/1877
+59/527
+
+144/1197
+188/1184
+
+70/457
+235/1722
+
+73/470
+232/1709
+
+41/241
+139/965  
+156/1198
+
+172/1389
+163/1044
+
+265/1906
+70/527
+
+154/1195
+176/1208
+
+55/439
+244/1762
+
+59/435
+240/1766
+
+30/188
+145/944  
+160/1301
+
+B
+Subgroup
+
+All patients
+Age
+
+<70 yr
+≥70 yr
+
+Sex
+
+Male
+Female
+
+Time since myocardial infarction
+
+<3.7 yr
+≥3.7 yr
+
+Baseline fish intake
+
+<5 g/day
+≥5 g/day
+
+Baseline EPA–DHA intake
+
+<50 mg/day
+≥50 mg/day
+
+Intake of trial margarine
+
+<10 g/day
+10 to <20 g/day
+≥20 g/day
+
+PrimaryEndPoint
+
+ALA
+
+Placebo or
+
+EPA–DHA alone
+
+no./total no.
+
+319/2409
+
+352/2428
+
+158/1366
+161/1043
+
+264/1879
+55/530
+
+142/1183
+174/1202
+
+56/437
+234/1756
+
+63/446
+227/1747
+
+33/211
+144/991
+142/1207
+
+189/1374
+163/1054
+
+278/1904
+74/524
+
+156/1209
+190/1190
+
+69/459
+245/1728
+
+69/459
+245/1728
+
+38/218
+140/918
+174/1292
+
+HazardRatio(95%CI)
+
+PValue
+
+1.01 (0.87–1.17)
+
+1.04 (0.84–1.29)
+0.97 (0.78–1.20)
+
+1.06 (0.89–1.25)
+0.82 (0.58–1.16)
+
+0.92 (0.73–1.16)
+1.10 (0.89–1.35)
+
+1.22 (0.86–1.74)
+0.98 (0.82–1.17)
+
+1.15 (0.81–1.62)
+0.99 (0.83–1.18)
+
+1.02 (0.64–1.63)
+0.92 (0.73–1.16)
+1.06 (0.85–1.32)
+
+0.93
+
+0.71
+0.76
+
+0.51
+0.27
+
+0.47
+0.39
+
+0.27
+0.78
+
+0.43
+0.89
+
+0.95
+0.49
+0.60
+
+0.50
+
+0.75
+
+1.00
+
+1.25
+
+1.50
+
+1.75
+
+EPA–DHA
+
+Better
+
+PlaceboorALA
+
+AloneBetter
+
+HazardRatio(95%CI)
+
+PValue
+
+0.91 (0.78–1.05)
+
+0.83 (0.67–1.03)
+1.00 (0.80–1.24)
+
+0.96 (0.81–1.13)
+0.73 (0.51–1.03)
+
+0.92 (0.73–1.15)
+0.91 (0.74–1.12)
+
+0.84 (0.59–1.20)
+0.93 (0.78–1.12)
+
+0.94 (0.67–1.33)
+0.91 (0.76–1.09)
+
+0.88 (0.55–1.40)
+0.95 (0.75–1.20)
+0.87 (0.69–1.08)
+
+0.20
+
+0.08
+0.98
+
+0.60
+0.07
+
+0.45
+0.36
+
+0.34
+0.45
+
+0.73
+0.29
+
+0.59
+0.65
+0.20
+
+7 col
+36p6
+
+0.50
+
+0.75
+
+1.00
+
+1.25
+
+1.50
+
+1.75
+
+ALABetter
+
+Placeboor
+EPA–DHA
+AloneBetter
+
+n engl j med 363;21  nejm.org  november 18, 2010
+
+2023
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2010 Massachusetts Medical Society. All rights reserved. T h e  ne w   e ngl a nd   jou r na l   o f  m e dicine
+
+Table 3. Cardiovascular Outcomes in Patients, According to the Presence or Absence of Diabetes and n–3 Fatty-Acid Supplementation.*
+
+Outcome
+
+EPA–DHA (N = 2404)
+
+Placebo or ALA Only
+
+(N = 2433)
+
+Hazard Ratio
+
+(95% CI)†
+
+P Value
+
+Patients with diabetes
+
+Major cardiovascular events‡
+
+Incident cardiovascular disease
+
+Death from cardiovascular disease
+
+Death from coronary heart disease
+
+Ventricular­arrhythmia–related events§
+
+Patients without diabetes
+
+Major cardiovascular events‡
+
+Incident cardiovascular disease
+
+Death from cardiovascular disease
+
+Death from coronary heart disease
+
+Ventricular­arrhythmia–related events§
+
+Patients with diabetes
+
+Major cardiovascular events‡
+
+Incident cardiovascular disease
+
+Death from cardiovascular disease
+
+Death from coronary heart disease
+
+Ventricular­arrhythmia–related events§
+
+Patients without diabetes
+
+Major cardiovascular events‡
+
+Incident cardiovascular disease
+
+Death from cardiovascular disease
+
+Death from coronary heart disease
+
+Ventricular­arrhythmia–related events§
+
+no./total no. (%)
+
+rate/1000 
+patient-yr
+
+no./total no. (%)
+
+rate/1000 
+patient-yr
+
+78/507 (15.4)
+
+39/507 (7.7)
+
+19/507 (3.7)
+
+14/507 (2.8)
+
+10/507 (2.0)
+
+258/1897 (13.6)
+
+131/1897 (6.9)
+
+61/1897 (3.2)
+
+53/1897 (2.8)
+
+57/1897 (3.0)
+
+51.9
+
+24.8
+
+11.8
+
+8.7
+
+6.2
+
+44.5
+
+21.7
+
+9.9
+
+8.7
+
+9.3
+
+98/507 (19.3)
+
+59/507 (11.6)
+
+31/507 (6.1)
+
+27/507 (5.3)
+
+19/507 (3.7)
+
+237/1926 (12.3)
+
+126/1926 (6.5)
+
+51/1926 (2.6)
+
+44/1926 (2.3)
+
+55/1926 (2.9)
+
+66.4
+
+38.2
+
+19.6
+
+17.1
+
+12.2
+
+40.5
+
+20.8
+
+8.2
+
+7.1
+
+9.0
+
+ALA (N = 2409)
+
+Placebo or EPA–DHA Only
+
+(N = 2428)
+
+no./total no. (%)
+
+rate/1000 
+patient-yr
+
+no./total no. (%)
+
+rate/1000 
+patient-yr
+
+0.78 (0.58–1.05)
+
+0.65 (0.43–0.97)
+
+0.60 (0.34–1.07)
+
+0.51 (0.27–0.97)
+
+0.51 (0.24–1.11)
+
+1.10 (0.92–1.31)
+
+1.05 (0.82–1.34)
+
+1.21 (0.83–1.75)
+
+1.21 (0.81–1.81)
+
+1.04 (0.72–1.51)
+
+Hazard Ratio
+
+(95% CI)†
+
+0.11
+
+0.04
+
+0.08
+
+0.04
+
+0.09
+
+0.30
+
+0.72
+
+0.32
+
+0.34
+
+0.83
+
+P Value
+
+83/503 (16.5)
+
+48/503 (9.5)
+
+23/503 (4.6)
+
+18/503 (3.6)
+
+8/503 (1.6)
+
+236/1906 (12.4)
+
+120/1906 (6.3)
+
+55/1906 (2.9)
+
+48/1906 (2.5)
+
+54/1906 (2.8)
+
+56.2
+
+31.2
+
+14.6
+
+11.5
+
+5.1
+
+40.4
+
+19.8
+
+8.9
+
+7.9
+
+8.8
+
+93/511 (18.2)
+
+50/511 (9.8)
+
+27/511 (5.3)
+
+23/511 (4.5)
+
+21/511 (4.1)
+
+259/1917 (13.5)
+
+137/1917 (7.1)
+
+57/1917 (3.0)
+
+49/1917 (2.6)
+
+58/1917 (3.0)
+
+61.8
+
+31.7
+
+16.7
+
+14.2
+
+13.1
+
+44.6
+
+22.7
+
+9.2
+
+7.9
+
+9.5
+
+0.91 (0.68–1.22)
+
+0.98 (0.66–1.46)
+
+0.87 (0.50–1.52)
+
+0.80 (0.43–1.48)
+
+0.39 (0.17–0.88)
+
+0.91 (0.76–1.08)
+
+0.88 (0.69–1.12)
+
+0.97 (0.67–1.40)
+
+0.98 (0.66–1.46)
+
+0.93 (0.64–1.35)
+
+0.53
+
+0.94
+
+0.63
+
+0.48
+
+0.02
+
+0.28
+
+0.29
+
+0.87
+
+0.93
+
+0.71
+
+* Diabetes was considered to be present if a patient reported having received the diagnosis from a physician, was taking antidiabetic drugs, 
+or had an elevated plasma glucose level (≥7.0 mmol per liter [126 mg per deciliter] in the case of patients who had fasted more than 4 hours 
+or ≥11.1 mmol per liter [200.0 mg per deciliter] in the case of nonfasting patients). A total of 1014 patients had diabetes, and 3823 did not 
+have diabetes. For these analyses, the two groups that received eicosapentaenoic acid (EPA) with docosahexaenoic acid (DHA) were com­
+bined and compared with the two groups that did not receive EPA–DHA (i.e., the groups that received either placebo or only alpha­linolenic 
+acid [ALA]). Similarly, the two groups that received ALA were combined and compared with the two groups that did not receive ALA (i.e., the 
+groups that received placebo or only EPA–DHA).
+
+† The hazard ratios and 95% confidence intervals were calculated with the use of Cox proportional­hazards models.
+‡ Major cardiovascular events comprised fatal and nonfatal cardiovascular events and the cardiac interventions percutaneous coronary inter­
+
+§ Ventricular­arrhythmia–related events comprised sudden death, fatal and nonfatal cardiac arrest, and placement of implantable cardioverter–
+
+vention and coronary­artery bypass grafting.
+
+defibrillators.
+
+were not related to the incidence of prostate can-
+cer or to death from cancer. Four patients specifi-
+cally attributed their adverse events to the use of 
+
+trial margarines, but the members of the data and 
+safety monitoring board evaluated these cases and 
+judged that there were no causal relationships.
+
+2024
+
+n engl j med 363;21  nejm.org  november 18, 2010
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2010 Massachusetts Medical Society. All rights reserved. n−3 Fatty Acids and Cardiovascular Disease
+
+Discussion
+
+An additional daily intake of an average of 376 mg 
+of  EPA–DHA  or  1.9  g  of  ALA  did  not  signifi-
+cantly  reduce  the  rate  of  major  cardiovascular 
+events in patients who had had a myocardial in-
+farction and who were receiving state-of-the-art 
+antihypertensive, antithrombotic, and lipid-mod-
+ifying therapy. A prespecified analysis according 
+to sex showed that there were fewer major car-
+diovascular events among women who received 
+ALA than among women who received placebo, a 
+reduction that approached significance. The num-
+ber of adverse events did not differ significantly 
+among the groups during the course of the inter-
+vention.
+
+In this study, a low dose of EPA–DHA had no 
+effect on the rate of major cardiovascular events 
+in patients who had had a myocardial infarction. 
+However, previous randomized, controlled trials 
+involving patients with cardiac disease did show 
+protective effects of EPA, either with or without 
+DHA, on various composite cardiovascular end 
+points.19-21  This  discrepancy  may  be  related  to 
+differences between patient populations in age, 
+sex  distribution,  and  presence  or  absence  of  a 
+history  of  coronary  artery  disease.  The  patient 
+population in our trial consisted mainly of men, 
+the average age of the patients was 69 years, and 
+the index myocardial infarction had occurred an 
+average of 4 years before enrollment. In contrast, 
+the participants in the Gruppo Italiano per lo Stu-
+dio  della  Sopravvivenza  nell’Infarto  Miocardico 
+(GISSI) trials were patients who had had a recent 
+myocardial infarction (<3 months before enroll-
+ment)19 or patients with heart failure (GISSI-HF; 
+ClinicalTrials.gov number, NCT00336336),20 and 
+the patients in the Japan Eicosapentaenoic Acid 
+(EPA)  Lipid  Intervention  Study  (JELIS;  NCT 0-
+0 231738)  were  mostly  women.21  These  popula-
+tions were also about 10 years younger than were 
+the patients in our study.
+
+The lack of an effect of EPA–DHA in our trial 
+could be due to an improvement in cardioprotec-
+tive  drug  treatment,  such  as  that  seen  in  the 
+time between the 1995–1996 and the 2006–2007 
+European Action on Secondary Prevention through 
+Intervention  to  Reduce  Events  (EUROASPIRE) 
+surveys.22 The introduction of statins represent-
+ed a major change in the treatment of patients 
+with cardiovascular disease in the early 1990s, 
+as  shown  in  the  GISSI-Prevenzione  trial,19  in 
+
+which only 5% of the patients received statins at 
+baseline (1993–1995), whereas 46% were receiv-
+ing them after 42 months of intervention. In our 
+trial, 85% of the patients were receiving statins. 
+The survival rates in the GISSI-Prevenzione trial 
+were lower than those in our study (Table 2). In 
+recent years, not only has there been improve-
+ment  in  survival  but  the  causes  of  death  have 
+shifted from cardiovascular to noncardiovascu-
+lar causes.23 Consequently, among patients who 
+have  had  a  myocardial  infarction  but  who  are 
+receiving good clinical care and are at relatively 
+low risk for future cardiovascular events, such as 
+the patients in the Alpha Omega Trial, a benefi-
+cial effect of low doses of EPA–DHA is difficult 
+to prove.24 Finally, we cannot exclude the possi-
+bility that EPA and DHA had no therapeutic ef-
+fect in patients who had had a myocardial infarc-
+tion but whose condition was stable and who 
+were at relatively low risk for future cardiovascu-
+lar events.
+
+We  observed  a  nonsignificant  9%  reduction 
+in the primary end point with ALA supplementa-
+tion,  as  compared  with  placebo  and  EPA–DHA 
+only, in the total patient population and a 27% 
+reduction, which approached significance, among 
+women. The Kaplan–Meier curves started to di-
+verge after approximately 20 months, especially 
+among women (Fig. 4 in the Supplementary Ap-
+pendix), suggesting that there was a cumulative 
+effect  over  time.  ALA  may  slow  the  formation 
+and calcification of atherosclerotic plaque, as sug-
+gested by the results of cross-sectional analyses 
+in the National Heart, Lung, and Blood Institute 
+Family  Heart  Study.25,26  Other  possible  mecha-
+nisms of a beneficial effect of ALA on cardiovas-
+cular disease are plaque stabilization27 and anti-
+arrhythmic  effects,7  either  directly  or  through 
+desaturation and elongation of ALA into EPA. It 
+is also possible that this apparent effect was due 
+to  the play of chance. Additional trials involving 
+high-risk patients, however, are needed to prove a 
+cardioprotective effect of ALA.
+
+Patients with diabetes who have had a myo-
+cardial infarction are particularly prone to ven-
+tricular arrhythmias and sudden death.4,28 In a 
+post hoc, exploratory analysis of data from these 
+diabetic patients, we found reductions in cardio-
+vascular end points with EPA–DHA, as compared 
+with placebo, that were in line with those shown 
+in  the  GISSI  Prevenzione  trial.19  The  strongest 
+effects  —  reductions  of  approximately  50%  — 
+
+n engl j med 363;21  nejm.org  november 18, 2010
+
+2025
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2010 Massachusetts Medical Society. All rights reserved. n−3 Fatty Acids and Cardiovascular Disease
+
+were  the  effects  on  the  rates  of  fatal  coronary 
+heart disease and arrhythmia-related events. The 
+rate of arrhythmia-related events was also reduced 
+with ALA as compared with placebo or EPA–DHA 
+only. This finding is supported by the results of 
+a cohort study involving women, in which ALA 
+intake was inversely associated with the risk of 
+sudden death.12 However, it is important to note 
+that our results with respect to patients with dia-
+betes are only hypothesis-generating and do not 
+permit definitive conclusions to be drawn.
+
+In conclusion, in this trial involving patients 
+who had had a myocardial infarction and who 
+were receiving good clinical care, low doses of 
+n−3 fatty acids did not significantly reduce the 
+rates of cardiovascular end points.
+
+Supported by the Netherlands Heart Foundation, the National 
+Institutes of Health, and Unilever R&D, the Netherlands. Unile-
+ver provided an unrestricted grant for the distribution of trial 
+margarines to the patients.
+
+Disclosure forms provided by the authors are available with 
+
+the full text of this article at NEJM.org.
+
+References
+1.  Léon H, Shibata MC, Sivakumaran S, 
+Dorgan M, Chatterley T, Tsuyuki RT. Ef-
+fect of fish oil on arrhythmias and mor-
+tality:  systematic  review.  BMJ  2008;337: 
+a2931.
+2.  Mozaffarian D, Rimm EB. Fish intake, 
+contaminants, and human health: evalu-
+ating  the  risks  and  the  benefits.  JAMA 
+2006;296:1885-99. [Erratum, JAMA 2007; 
+297:590.]
+3.  Brouwer IA, Katan MB, Zock PL. Di-
+etary  alpha-linolenic  acid  is  associated 
+with reduced risk of fatal coronary heart 
+disease,  but  increased  prostate  cancer 
+risk: a meta-analysis. J Nutr 2004;134:919-
+22.
+4.  Smith PJ, Blumenthal JA, Babyak MA, 
+et al. Association between n-3 fatty acid 
+consumption and ventricular ectopy after 
+myocardial  infarction.  Am  J  Clin  Nutr 
+2009;89:1315-20.
+5.  Leaf A, Kang JX, Xiao YF, Billman GE. 
+Clinical  prevention  of  sudden  cardiac 
+death by n-3 polyunsaturated fatty acids 
+and mechanism of prevention of arrhyth-
+mias  by  n-3  fish  oils.  Circulation  2003; 
+107:2646-52.
+6.  McLennan  PL,  Owen  AJ,  Slee  EL, 
+Theiss ML. Myocardial function, ischae-
+mia and n-3 polyunsaturated fatty acids: 
+a  membrane  basis.  J  Cardiovasc  Med 
+(Hagerstown) 2007;8:Suppl 1:S15-S18.
+7.  London  B,  Albert  C,  Anderson  ME,  
+et al. Omega-3 fatty acids and cardiac ar-
+rhythmias: prior studies and recommen-
+dations for future research: a report from 
+the National Heart, Lung, and Blood In-
+stitute and Office of Dietary Supplements 
+Omega-3  Fatty  Acids  and  their  Role  in 
+Cardiac Arrhythmogenesis Workshop. Cir-
+culation 2007;116(10):e320-e335.
+8.  Siscovick DS, Raghunathan TE, King 
+I, et al. Dietary intake and cell membrane 
+levels of long-chain n-3 polyunsaturated 
+fatty acids and the risk of primary cardiac 
+arrest. JAMA 1995;274:1363-7.
+9.  Albert CM, Campos H, Stampfer MJ, 
+et al. Blood levels of long-chain n–3 fatty 
+acids and the risk of sudden death. N Engl 
+J Med 2002;346:1113-8.
+
+10.  Albert CM, Hennekens CH, O’Donnell 
+CJ,  et  al.  Fish  consumption  and  risk  of 
+sudden  cardiac  death.  JAMA  1998;279: 
+23-8.
+11.  Streppel  MT,  Ocké  MC,  Boshuizen 
+HC, Kok FJ, Kromhout D. Long-term fish 
+consumption and n-3 fatty acid intake in 
+relation  to  (sudden)  coronary  heart  dis-
+ease death: the Zutphen study. Eur Heart J 
+2008;29:2024-30.
+12.  Albert CM, Oh K, Whang W, et al. Di-
+etary alpha-linolenic acid intake and risk of 
+sudden cardiac death and coronary heart 
+disease. Circulation 2005;112:3232-8.
+13.  He K, Song Y, Daviglus ML, et al. Ac-
+cumulated evidence on fish consumption 
+and  coronary  heart  disease  mortality:  
+a meta-analysis of cohort studies. Circula-
+tion 2004;109:2705-11.
+14.  He K, Song Y, Daviglus ML, et al. Fish 
+consumption  and  incidence  of  stroke:  
+a meta-analysis of cohort studies. Stroke 
+2004;35:1538-42.
+15.  Marik  PE,  Varon  J.  Omega-3  dietary 
+supplements and the risk of cardiovascu-
+lar events: a systematic review. Clin Car-
+diol 2009;32:365-72.
+16.  Geleijnse JM, Giltay EJ, Schouten EG, 
+et al. Effect of low doses of n-3 fatty acids 
+on cardiovascular diseases in 4,837 post-
+myocardial  infarction  patients:  design 
+and baseline characteristics of the Alpha 
+Omega Trial. Am Heart J 2010;159:539-
+46.
+17.  Elmadfa  I,  Kornsteiner  M.  Fats  and 
+fatty  acid  requirements  for  adults.  Ann 
+Nutr Metab 2009;55:56-75.
+18.  International statistical classification 
+of diseases and related health problems. 
+10th  rev.  Vol.  1.  Geneva:  World  Health 
+Organization, 1992.
+19.  GISSI-Prevenzione Investigators (Grup-
+po Italiano per lo Studio della Sopravvi-
+venza  nell’Infarto  miocardico).  Dietary 
+supplementation with n-3 polyunsaturat-
+ed fatty acids and vitamin E after myocar-
+dial  infarction:  results  of  the  GISSI-Pre-
+venzione  trial.  Lancet  1999;354:447-55. 
+[Errata,  Lancet  2007;369:106,  2001;357: 
+642.]
+
+20.  GISSI-HF  Investigators,  Tavazzi  L, 
+Maggioni  AP,  et  al.  Effect  of  n-3  poly-
+unsaturated  fatty  acids  in  patients  with 
+chronic heart failure (the GISSI-HF trial): 
+a randomised, double-blind, placebo-con-
+trolled trial. Lancet 2008;372:1223-30.
+21.  Yokoyama  M,  Origasa  H,  Matsuzaki 
+M, et al. Effects of eicosapentaenoic acid 
+on major coronary events in hypercholes-
+terolaemic patients (JELIS): a randomised 
+open-label,  blinded  endpoint  analysis. 
+Lancet 2007;369:1090-8.
+22.  Kotseva K, Wood D, De Backer G, De 
+Bacquer D, Pyörälä K, Keil U. Cardiovas-
+cular prevention guidelines in daily prac-
+tice: a comparison of EUROASPIRE I, II, 
+and III surveys in eight European coun-
+tries. Lancet 2009;373:929-40.
+23.  Roger VL, Weston SA, Gerber Y, et al. 
+Trends in incidence, severity, and outcome 
+of  hospitalized  myocardial  infarction. 
+Circulation 2010;121:863-9.
+24.  Grundy  SM.  n-3  fatty  acids:  priority 
+for post-myocardial infarction clinical tri-
+als. Circulation 2003;107:1834-6.
+25.  Djoussé L, Folsom AR, Province MA, 
+Hunt  SC,  Ellison  RC,  National  Heart, 
+Lung,  and  Blood  Institute  Family  Heart 
+Study. Dietary linolenic acid and carotid 
+atherosclerosis: the National Heart, Lung, 
+and  Blood  Institute  Family  Heart  Study. 
+Am J Clin Nutr 2003;77:819-25.
+26.  Djoussé L, Arnett DK, Carr JJ, et al. 
+Dietary linolenic acid is inversely associ-
+ated with calcified atherosclerotic plaque 
+in  the  coronary  arteries:  the  National 
+Heart, Lung, and Blood Institute Family 
+Heart Study. Circulation 2005;111:2921-6.
+27.  Thies F, Garry JM, Yaqoob P, et al. As-
+sociation  of  n-3  polyunsaturated  fatty 
+acids  with  stability  of  atherosclerotic 
+plaques:  a  randomised  controlled  trial. 
+Lancet 2003;361:477-85.
+28.  Jouven X, Desnos M, Guerot C, Duci-
+metière P. Predicting sudden death in the 
+population: the Paris Prospective Study I. 
+Circulation 1999;99:1978-83.
+Copyright © 2010 Massachusetts Medical Society.
+
+2026
+
+n engl j med 363;21  nejm.org  november 18, 2010
+
+The New England Journal of Medicine Downloaded from nejm.org on August 20, 2018. For personal use only. No other uses without permission.  Copyright © 2010 Massachusetts Medical Society. All rights reserved. 

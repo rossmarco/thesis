@@ -1,0 +1,1763 @@
+Pharmacological  Research  64 (2011) 136–  145
+
+Contents  lists  available  at  ScienceDirect
+
+Pharmacological   Research
+
+j o u r n a  l  h  o  m e  p a  g e :  w w w . e l s e v i e r . c o m / l o c a t e / y p h r  s
+
+Review
+Tea   and   cardiovascular   disease
+Apranta   Deka, Joseph   A.   Vita∗
+
+Evans  Department  of  Medicine  and  the  Whitaker  Cardiovascular  Institute,  Boston  University  School  of  Medicine,  Boston,  MA,   United  States
+
+a
+
+ 
+
+r
+
+ 
+
+t
+
+ 
+
+i
+
+ 
+
+c
+
+ 
+
+l
+
+ 
+
+e
+
+ 
+
+i
+
+ 
+
+n
+
+ 
+
+f
+
+ 
+
+o
+
+a
+
+ 
+
+b
+
+ 
+
+s
+
+ 
+
+t
+
+ 
+
+r
+
+ 
+
+a
+
+ 
+
+c
+
+ 
+
+t
+
+Article  history:
+Received  27  December  2010
+Accepted  22  March  2011
+
+Keywords:
+Tea
+Polyphenols
+Catechins
+Flavonoids
+Cardiovascular  disease
+Endothelium
+
+1.  Introduction
+
+There   is  increasing   evidence   for   a   protective   effect   of   tea   consumption   against   cardiovascular   disease.
+This   review   summarizes   the   available   epidemiological   data   providing   evidence   for   and   against   such   an
+effect.  We   also   review   observational   and   intervention   studies   that   investigated   an   effect   of   tea   and   tea
+extracts   on   cardiovascular   risk  factors,   including   blood   pressure,   serum   lipids,   diabetes   mellitus,   and
+obesity.   Finally,   we   review   potential   mechanisms   of   beneﬁt,   including   anti-inﬂammatory,   anti-oxidant,
+and   anti-proliferative   effects,   as  well   as   favorable   effects   on  endothelial   function.   Overall,   the   observa-
+tional   data   suggest   a  beneﬁt,   but   results   are   mixed   and   likely   confounded   by   lifestyle   and   background
+dietary   factors.   The   weight   of   evidence   indicates   favorable   effects   on   risk   factors   and   a  number   of   plau-
+sible   mechanisms   have   been   elucidated   in   experimental   and   translational   human   studies.   Despite   the
+growing   body   evidence,   it   remains   uncertain   whether   tea   consumption   should   be  recommended   to   the
+general   population   or   to   patients   as   a   strategy   to  reduce   cardiovascular   risk.
+
+© 2011 Elsevier Ltd. All rights reserved.
+
+Tea  leaves  are  obtained  from  the  Camillia  sinensis  plant.  Based
+on  how  the  leaves  are  processed,  three  main  types  of  tea  can  be
+produced:  non-fermented  green  tea,  partly  fermented  oolong  tea
+and  fermented  black  tea.  Records  from  as  far  back  as  the  10th  cen-
+tury  BC  indicate  use  of  tea  by  man,  largely  because  of  its  medicinal
+value.  This  review  will  focus  on  possible  beneﬁcial  effects  against
+cardiovascular  disease.
+
+Tea  leaves  contain  a  large  amount  of  polyphenols  (about  30%  of
+the  dry  substance),  mainly  ﬂavonoids.  The  major  class  of  ﬂavonoids
+in  tea  are  ﬂavanols,  which  include  catechin,  epicatechin  (EC),  epi-
+gallocatechin  (EGC),  epicatechin  gallate  (ECG),  and  epigallocatechin
+gallate  (EGCG)  [1].   Total  polyphenol  content  is  similar  in  different
+types  of  tea,  but  the  individual  components  vary,  based  in  part  on
+the  degree  of  polyphenol  oxidation  during  the  manufacturing  pro-
+cess.  Catechins  constitute  about  80–90%  and  ﬂavanols  about  10%
+of  the  total  ﬂavonoids  in  green  tea.  On  the  other  hand,  theaﬂavins
+account  for  50–60%  and  catechins  only  20–30%  of  total  ﬂavonoids
+in  black  tea  [2].
+
+Recently,  there  has  been  considerable  interest  in  the  possibil-
+ity  that  consumption  of  tea  reduces  risk  for  cardiovascular  disease.
+Some  observational  studies  suggest  a  beneﬁt  of  tea,  while  other
+studies  have  failed  to  show  such  an  association.  Mechanistic  stud-
+
+∗ Corresponding  author  at:  Boston  University  School  of  Medicine,  88  East  Newton
+Street,  C-818,  Boston,  MA   02118,  United  States.  Tel.:  +1  617  638  8742;
+fax:  +1  617  638  8712.
+
+E-mail  address:  jvita@bu.edu  (J.A.  Vita).
+
+1043-6618/$  –  see  front  matter © 
+doi:10.1016/j.phrs.2011.03.009
+
+ 2011 Elsevier Ltd. All rights reserved.
+
+ies  have  shown  that  tea  and  tea  polyphenols  have  favorable  effects
+on  systemic  risk  factors  and  direct  effects  on  the  vasculature  and
+platelets  that  might  account  for  reduced  cardiovascular  risk.  In  the
+following  sections,  we   will  summarize  the  supportive  and  non-
+supportive  observational  studies  that  investigated  a  relationship
+between  tea  consumption  and  cardiovascular  risk.  We   will  then
+consider  experimental,  mechanistic  and  translational  studies  that
+elucidate  potential  mechanisms  of  beneﬁt.  Finally,  we   will  attempt
+to  put  these  data  into  clinical  context  given  the  considerable  inter-
+est  in  dietary  and  lifestyle  approaches  to  reduce  cardiovascular
+disease.
+
+2.  Epidemiologic  studies  with  tea  and  cardiovascular
+disease  events
+
+A  large  number  of  cross-sectional  and  prospective  outcome
+studies  investigated  the  relation  between  tea  consumption  and  car-
+diovascular  disease.  In  addition  several  meta-analyses  have  been
+performed  that  pool  these  data.  Overall,  the  evidence  suggests  a
+beneﬁt,  for  both  green  and  black  tea,  but  the  results  may  be  con-
+founded  by  lifestyle  and  other  dietary  factors.
+
+Nearly  all  of  the  published  studies  examining  the  relation
+between  green  tea  consumption  and  cardiovascular  risk  suggest
+a  reduction  in  risk.  In  an  early  study  from  Japan,  Sato  et  al.  followed
+a  cohort  of  5910  women  for  4  years  and  found  that  the  incidence  of
+stroke  and  cerebral  hemorrhage  was   two  times  higher  in  those  with
+daily  green  tea  consumption  less  than  ﬁve  cups  when  compared  to
+those  with  more  than  ﬁve  cups  [3].   More  recent  studies  also  showed
+a  beneﬁcial  effect  of  green  tea  consumption  in  Japan.  Nakachi  and
+colleague  studied  a  cohort  of  8552  participants  and  observed  a  28%
+
+A.  Deka,  J.A.  Vita  /  Pharmacological  Research  64 (2011) 136–  145
+
+137
+
+reduction  in  death  from  cardiovascular  disease  for  men   and  women
+consuming  over  10  cups  a  day  compared  to  those  consuming  less
+than  3  cups  per  day  [4].   Similarly,  the  Ohsaki  National  Health  Insur-
+ance  Cohort  Study,  which  followed  40,530  Japanese  adults  for  11
+years,  demonstrated  a  dose  relationship  between  increasing  green
+tea  consumption  and  reduced  total  and  cardiovascular  mortality
+that  was  strongest  in  women  with  a  relative  risk  of  0.69  (95%  CI,
+0.53–0.90)  for  women  who  consumed  more  than  ﬁve  cups  per  day
+[5].  Stroke  mortality  was  particularly  reduced  in  tea  drinkers.  A
+case–control  study  from  China  also  suggested  a  favorable  effect  of
+green  and  oolong  tea  consumption  against  ischemic  stroke  [6].
+
+Recently,  a  very 
+
+large  prospective  study 
+
+involving  76,979
+Japanese  adults  examined  the  relationship  between  cardiovascu-
+lar  mortality  and  consumption  of  several  different  types  of  tea.  The
+investigators  reported  a  strong  inverse  relationship  between  car-
+diovascular  mortality  and  consumption  of  more  than  six  cups  of
+green  tea  per  day  [7].   Interestingly,  consumption  of  more  than  one
+cup  of  oolong  tea  per  day  was  also  associated  with  reduced  risk
+in  Japan  [7].   Overall,  these  studies  conducted  in  Japan  and  China
+suggested  that  consumption  of  relatively  large  amounts  of  green
+tea  (5–10  cups  per  day)  is  associated  with  reduced  cardiovascular
+events.
+
+Studies  performed  in  Europe  and  the  U.S.  suggested  a  beneﬁt
+from  consumption  of  black  tea.  For  example,  Sesso  et  al.  completed
+a  case–control  study  and  observed  that  individuals  with  history  of
+myocardial  infarction  were  less  likely  to  be  consuming  more  than
+a  cup  of  black  tea  per  day  compared  to  age,  sex,  and  community-
+matched  controls  (odds  ratio  of  0.56)  [8].  In  the  Determinants  of
+Myocardial  Infarction  Onset  Study,  individuals  consuming  more
+than  an  average  of  two  cups  of  black  tea  per  day  had  lower  total
+and  cardiovascular  mortality  during  3.8-year  follow-up  compared
+to  individuals  consuming  less  tea  [9].  The  same  study  demonstrated
+lower  prevalence  of  ventricular  arrhythmia  during  hospitalization
+for  myocardial  infarction  among  tea  drinkers,  possibly  suggesting
+less  severe  infarction  and  providing  a  potential  explanation  for  the
+reduction  in  cardiovascular  mortality  observed  during  subsequent
+follow-up  [10].
+
+A 
+
+large  cohort  of  37,514  participants 
+
+in  Netherlands  was
+prospectively  followed  for  13  years  with  end  points  of  cardiovascu-
+lar  disease  morbidity  and  mortality  [11].  In  that  study,  consumption
+of  tea  (mainly  black  tea)  3–6  cups  daily  was  associated  with  a
+reduced  risk  of  cardiovascular  disease  mortality.  There  was  no  asso-
+ciation,  however,  between  tea  consumption  and  all  cause  mortality.
+In  that  study,  tea  drinking  was  also  found  to  be  associated  with  a
+higher  educational  level,  higher  physical  activity,  healthier  diet,  and
+lower  prevalence  of  smoking,  hypercholesterolemia  and  diabetes.
+Although  the  investigators  adjusted  for  these  factors,  residual  con-
+founding  by  health  behavior  could  have  affected  the  results.  A
+study  from  a  Norwegian  cohort  (Oppland  County)  of  9856  men   and
+10,233  women  showed  a  strong  trend  for  a  beneﬁt  of  tea  [12].  In
+that  study,  there  were  signiﬁcant  correlations  between  tea  con-
+sumption  and  blood  pressure  and  cholesterol  levels,  which  were
+lower  among  individuals  consuming  one  or  more  cups  of  tea  per
+day.
+
+Several  epidemiological  studies  failed  to  show  an  association
+between  tea  consumption  and  cardiovascular  disease.  For  exam-
+ple,  in  the  Scottish  Heart  Health  Study  involving  10,359  men   and
+women  there  was  no  association  between  tea  consumption  and
+prevalent  coronary  heart  disease  [13].  In  a  cohort  of  1900  Welsh
+men,  the  group  with  the  highest  consumption  of  tea  (more  than
+eight  cups  per  day)  actually  had  higher  ischemic  heart  disease  mor-
+tality  compared  to  the  group  consuming  less  than  two  cups  per
+day  [14].  The  authors  pointed  out  that  tea  is  often  consumed  with
+milk  in  the  United  Kingdom  and  speculated  that  milk  might  have
+affected  absorption  or  increased  fat  intake  and  inﬂuenced  a  beneﬁt
+of  tea.
+
+Other  factors  might  explain  the  lack  of  beneﬁt  in  these  studies.
+For  example,  it  has  been  noted  that  tea  consumption  is  more  com-
+mon   among  individuals  of  low  socioeconomic  status  in  the  U.K.,
+and  the  association  between  lower  social  status  and  higher  cardio-
+vascular  disease  risk  might  obscure  a  beneﬁcial  effect  of  tea  [15].
+Another  consideration  is  the  baseline  ﬂavonoid  intake.  If  the  entire
+U.K.  population  has  a  relatively  high  level  of  tea  intake,  then  even
+individuals  in  the  lower  range  of  consumption  could  be  receiving
+the  maximal  beneﬁts  of  tea.  Conversely,  a  study  in  cohort  with  rel-
+atively  low  overall  tea  intake  might  fail  to  show  a  beneﬁt  even  in
+the  subgroup  of  individuals  in  the  highest  quartile  or  quintile  of
+tea  intake.  In  this  regard,  the  relationship  between  tea  consump-
+tion  and  cardiovascular  events  was   only  a  non-signiﬁcant  trend
+(P  =  0.07)  in  the  Women’s  Health  Study,  where  only  a  small  propor-
+tion  of  the  women   in  the  U.S.  consumed  more  than  four  cups  of  tea
+per  day  [16].  Sesso  et  al.  also  observed  no  signiﬁcant  association
+between  tea  consumption  and  cardiovascular  disease  in  a  cohort
+of  17,228  college  alumni  (College  Alumni  Health  Study)  where  the
+median  intake  of  tea  was   relatively  low  (1  cup  per  day)  [17].  This
+cohort  also  was   relatively  healthy  and  had  higher  socioeconomic
+status  than  some  of  the  other  studies,  which  also  may  have  made  it
+difﬁcult  to  show  a  beneﬁt  of  tea  consumption.  Such  factors  might
+also  account  for  the  lack  of  beneﬁt  of  tea  consumption  in  a  cohort
+of  34,789  male  health  professionals  [18].
+
+Overall,  the  bulk  of  evidence  does  suggest  that  higher  consump-
+tion  of  both  green  and  black  tea  is  associated  with  reduction  of
+cardiovascular  risk,  despite  the  negative  results  of  some  studies.  A
+number  of  meta-analyses  have  been  performed  to  more  formally
+address  this  question.  For  example,  Peters  et  al.  examined  the  rela-
+tion  of  tea  consumption  to  stroke,  myocardial  infarction,  and  all
+coronary  heart  disease  in  an  analysis  of  10  cohort  studies  and  seven
+case–control  studies  [19].  The  incidence  of  myocardial  infarction
+was   estimated  to  be  11%  lower  for  an  increase  in  tea  consumption
+of  3  cups  per  day  (1  cup  =  237  ml).  Those  investigators,  however,
+acknowledged  that  their  results  need  to  be  interpreted  with  caution
+because  there  was  evidence  of  bias  toward  preferential  publication
+of  smaller  positive  studies  [19].  Also,  there  was  heterogeneity  that
+could  be  explained  by  the  geographic  region  where  the  studies  were
+conducted.  The  same  group  pooled  data  from  nine  studies  involv-
+ing  194,965  individuals  and  concluded  that  consumption  of  three
+or  more  cups  of  green  or  black  tea  per  day  was   associated  reduced
+incidence  of  ischemic  stroke  [20].
+
+In  regard  to  the  speciﬁc  components  of  tea  that  are  responsi-
+ble  for  beneﬁt,  several  epidemiological  studies  and  meta-analyses
+have  examined  consumption  of  ﬂavonoid-containing  foods  more
+generally.  In  addition  to  tea,  such  foods  include  grapes  and  red
+wine,  chocolate,  apples,  onions,  and  other  fruits  and  vegetables.  In
+the  Zutphen  Elderly  Study,  which  examined  a  cohort  of  805  Dutch
+men   with  5-year  follow-up,  dietary  ﬂavonoids  were  inversely  asso-
+ciated  with  coronary  heart  disease  mortality  with  relative  risk  of
+0.42  for  individuals  in  the  highest  versus  lowest  tertile  of  ﬂavonoid
+intake  [21].  A  similar  relationship  was  observed  after  10-year
+follow-up  that  remained  highly  signiﬁcant  after  adjustment  for  car-
+diovascular  risk  factors  [22].  Flavonoid  intake  also  was  inversely
+related  to  stroke  in  the  same  cohort  [23].  In  the  Seven  Countries
+Study  with  25  years  of  follow-up,  there  was  an  inverse  correlation
+between  ﬂavonoid  intake  and  incidence  of  coronary  heart  disease
+[24].  In  a  Finnish  cohort  of  25,372  male  smokers,  ﬂavonol  and
+ﬂavone  intake  was  inversely  associated  with  myocardial  infarction
+and  there  also  was   a  trend  for  reduced  coronary  heart  disease  death
+[25].
+
+In  contrast,  there  was   no  signiﬁcant  correlation  between
+ﬂavonoid  intake  and  cardiovascular  disease  events  in  a  cohort
+of  U.S.  women  participating  in  the  Women’s  Health  Study  [16],
+but  as  previously  noted,  overall  ﬂavonoid  intake  in  this  cohort
+was   relatively  low.  Overall,  available  evidence,  including  several
+
+138
+
+A.  Deka,  J.A.  Vita  /  Pharmacological  Research  64 (2011) 136–  145
+
+meta-analyses  suggests  a  beneﬁt  of  ﬂavonoid  consumption  against
+cardiovascular  disease  [26,27].
+
+3.  Tea  and  risk  factors  for  cardiovascular  disease
+
+Given  the  apparent  association  between  tea  consumption  and
+cardiovascular  disease  events,  it  is  worthwhile  to  consider  the
+potential  mechanisms  of  beneﬁt.  One  important  potential  mecha-
+nism  is  an  effect  of  tea  on  cardiovascular  disease  risk  factors.  A  large
+number  of  epidemiological  and  intervention  studies  have  exam-
+ined  this  issue.  Despite  this  large  body  of  work,  it  remains  unclear
+whether  tea  consumption  has  favorable  effects  on  blood  pressure,
+serum  lipids,  diabetes  mellitus,  or  obesity  in  human  subjects.  If
+present,  the  beneﬁcial  effects  of  tea  on  risk  factors  are  likely  to  be
+modest.
+
+3.1.  Hypertension
+
+Epidemiological  and  intervention  studies  provide  evidence  that
+consumption  of  tea  and  other  polyphenol-containing  foods  lower
+blood  pressure.  In  a  large  epidemiological  study  involving  over
+20,000  Norwegian  participants,  systolic  blood  pressure  was   2.1  and
+3.5  mmHg   lower  in  men   and  women,  respectively,  who   consumed
+ﬁve  or  more  cups  of  tea  per  day  [12].  In  a  study  of  218  elderly
+women,  tea  consumption  and  urine  4-O-methylgallic  acid  (a  mea-
+sure  of  polyphenol  consumption)  correlated  inversely  with  systolic
+and  diastolic  blood  pressure,  with  a  2.2  mmHg   lower  systolic  blood
+pressure  for  each  cup  of  tea  consumed  [28].  While  these  absolute
+changes  in  blood  pressure  may   seem  small,  changes  of  this  magni-
+tude  on  a  population  basis  would  result  in  the  prevention  of  many
+cardiovascular  events  and  strokes  [29].  Yang  et  al.  examined  inci-
+dent  hypertension  in  a  cohort  of  1507  men   and  women   in  Taiwan
+and  observed  a  reduction  in  the  risk  of  developing  new  hyperten-
+sion  in  individuals  consuming  more  than  120  ml   of  green  or  oolong
+tea  per  day  after  adjusting  for  other  risk  factors,  lifestyle,  sodium
+intake,  and  coffee  consumption  [30].  On  the  other  hand  several  very
+large  studies  have  shown  no  relation  between  tea  consumption  and
+blood  pressure  [31–33].
+
+Intervention  studies  provide  additional  information  about  the
+effects  of  tea  consumption  on  blood  pressure.  This  question  is  com-
+plicated  because,  in  addition  to  ﬂavonoids,  tea  contains  caffeine,
+which  causes  a  short-term  increase  in  blood  pressure.  Hodgson
+observed  an  increase  in  blood  pressure  30  min   after  ingestion  of
+green  or  black  tea  in  normotensive  men   that  was  no  longer  evident
+at  60  min   after  [34].  Interestingly,  this  increase  in  blood  pressure
+was  actually  greater  than  the  effect  of  an  equivalent  dose  of  caf-
+feine  alone  suggesting  that  tea  or  tea  polyphenols  might  cause  acute
+increases  blood  pressure.  Consumption  of  either  form  of  tea  for  7
+days  had  no  effect  on  24-h  ambulatory  blood  pressure  in  the  same
+population  [34].  The  same  group  of  investigators  observed  that  the
+acute  hypertensive  effect  of  tea  consumption  was  blunted  when
+tea  was  consumed  with  food  [35].
+
+Nagao  et  al.  completed  a  study  of  green  tea  extract  (583  mg
+of  catechin)  in  Japanese  men   and  women  with  abdominal  obesity
+[36].  In  the  subgroup  of  participants  with  baseline  systolic  blood
+pressure  of  130  mmHg   or  higher,  tea  extract  signiﬁcantly  reduced
+blood  pressure  compared  to  placebo  [36].  Brown  et  al.  examined  the
+effects  of  EGCG  on  blood  pressure  and  other  metabolic  risk  factors
+in  overweight  or  obese  men   and  observed  a  2.7  mmHg   reduction  in
+diastolic  blood  pressure  [37].  More  recently,  Nantz  et  al.  completed
+a  double-blind  trial  in  111  healthy  volunteers  comparing  the  effects
+of  a  standardized  capsule  containing  200  mg   of  decaffeinated  cat-
+echin  green  tea  extract  to  placebo  [38].  They  observed  a  5  mmHg
+decrease  in  systolic  blood  pressure  that  was  signiﬁcantly  different
+from  the  effect  of  placebo.
+
+The  apparently  favorable  effects  of  tea  and  tea  components  on
+blood  pressure  in  intervention  studies  contrast  with  the  results  of
+a  large  number  of  other  clinical  studies  examining  the  effects  of  tea
+on  a  variety  of  physiological  endpoints.  Taubert  et  al.  recently  com-
+pleted  a  meta-analysis  pooling  ﬁve  parallel  group  and  cross-over
+studies  that  reported  on  the  effects  of  tea  on  blood  pressure  in  a
+total  of  343  participants  with  a  median  duration  of  4  weeks  [39].
+The  meta-analysis  revealed  no  signiﬁcant  effect  of  tea  consump-
+tion  on  blood  pressure.  Interestingly,  they  did  observe  a  favorable
+effect  of  chocolate  consumption  on  blood  pressure  using  the  same
+approach.
+
+Overall,  the  available  studies  do  not  provide  a  deﬁnitive  answer
+to  the  question  of  whether  tea  consumption  lowers  blood  pres-
+sure.  Many  of  the  studies  examined  normotensive  populations  and
+populations  already  well  controlled  on  anti-hypertensive  therapy,
+where  it  is  difﬁcult  to  demonstrate  a  blood  pressure  lowering  effect
+with  any  intervention.  Furthermore,  few  of  the  studies  used  24-
+ambulatory  blood  pressure  monitoring  or  treated  subjects  for  an
+extended  period  of  time.  Any  beneﬁt  of  tea  ﬂavonoids  must  over-
+come  the  short-term  blood  pressure  raising  effects  of  caffeine.  Thus,
+despite  the  large  number  of  prior  epidemiological  and  interven-
+tional  studies,  further  deﬁnitive  studies  are  needed  to  determine
+the  acute  and  chronic  effects  of  tea  consumption  on  blood  pressure
+in  patients  with  hypertension  and  whether  blood  pressure  effects
+could  explain  the  observed  associations  between  tea  consumption
+and  reduced  cardiovascular  risk.
+
+3.2.  Dyslipidemia
+
+Improvement  in  serum  lipid  proﬁle  is  another  possible  mech-
+anism  that  would  account 
+for  a  beneﬁcial  effect  of  tea  on
+cardiovascular  disease,  and  several  observational  studies  suggest
+that  tea  might  have  such  an  effect.  Kono  et  al.  reported  that  total
+serum  cholesterol  was  8  mg/dl  lower  in  1306  Japanese  men   con-
+suming  nine  or  more  cups  of  green  tea  per  day  [40].  Stensvold
+reported  a  comparable  reduction  in  total  cholesterol  in  Norwegian
+men   and  women   consuming  more  than  ﬁve  cups  of  black  tea  per
+day  [12].  On  the  other  hand,  several  observational  studies  have
+shown  no  relationship  between  green  or  black  tea  consumption
+and  total  or  LDL  cholesterol  levels  [41,42].
+
+The  question  of  a  lipid-lowering  effect  of  tea  has  also  been  exam-
+ined  in  randomized  intervention  studies  that  allow  for  control  of
+potential  confounding  variables.  Davies  et  al.  completed  a  placebo
+controlled,  double  blind  crossover  study  of  ﬁve  cups  of  black  tea
+and  placebo  beverage  in  15  mildly  hypercholesterolemic  adults  and
+observed  a  reductions  of  6.5%  and  11.1%  in  total  and  LDL  choles-
+terol,  respectively  [43].  In  a  much  larger  (n  =  240)  and  well-designed
+randomized  crossover  study,  Maron  et  al.  observed  comparable
+reductions  in  LDL  cholesterol  with  consumption  of  ﬂavin-enriched
+green  tea  for  12  weeks  [44].  Several  other  intervention  studies
+have  shown  cholesterol  lowering  effects  of  green  and  black  tea  as
+well  as  tea  extracts  [38,45–48].   Other  studies  have  failed  to  show
+such  an  effect  [37,49–51].   Interestingly,  there  is  evidence  that  tea
+consumption  may   have  a  favorable  effect  on  post-prandial  lipids,
+which  are  particularly  atherogenic  [45]  and  a  favorable  effect  on
+HDL  cholesterol  in  patients  with  diabetes  mellitus  [52].
+
+Overall,  the  published  studies  examined  many  different  patient
+populations  with  varying  degree  of  baseline  dyslipidemia  and
+background  therapy.  The  available  studies  also  examined  many  dif-
+ferent  preparations  and  extracts  of  tea.  This  heterogeneity  in  study
+design  likely  explains  the  divergent  results.  In  an  extensive  meta-
+analysis  involving  133  interventions  studies  examining  the  effects
+of  various  ﬂavonoid-containing  foods,  Hooper  et  al.  concluded  that
+green  tea  consumption  has  a  signiﬁcant  albeit  modest  LDL  lowering
+effect  [53].
+
+A.  Deka,  J.A.  Vita  /  Pharmacological  Research  64 (2011) 136–  145
+
+139
+
+3.2.1.  Diabetes  and  obesity
+
+Type  2  diabetes  mellitus  is  a  major  cardiovascular  disease  risk
+factor  and  is  increasing  in  prevalence,  in  large  part  due  to  the
+ongoing  obesity  epidemic  [54].  Insulin  resistance  is  the  primary
+pathophysiological  mechanism  in  type  2  diabetes  mellitus,  and
+there  is  experimental  evidence  that  polyphenols  found  in  tea  can
+improve  insulin  sensitivity.  Observational  and  intervention  stud-
+ies  suggest  that  this  mechanism  may   be  operative  in  humans.  In
+a  study  of  17,413  Japanese  adults,  Iso  et  al.  reported  that  the  inci-
+dence  of  new  diabetes  was  inversely  associated  with  consumption
+of  more  than  six  cups  of  green  tea  per  day,  while  there  was   no
+association  with  black  or  oolong  tea  [55].  Interestingly,  there  also
+was  an  inverse  association  between  diabetes  mellitus  and  coffee
+consumption  in  that  study.  Greenberg  et  al.  observed  that  con-
+sumption  of  two  cups  of  “regular  tea”  (presumably  black  tea)  per
+day  was  associated  with  a  reduction  in  the  incidence  of  diabetes
+during  an  8.4  year  follow-up  period  in  participants  of  the  National
+Health  and  Nutrition  Examination  Survey  (NHANES)  who   were  age
+60  or  younger  [56].  On  further  subgroup  analysis,  this  relationship
+applied  to  the  individuals  who  had  lost  weight  during  the  follow-up
+period.  The  Whitehall  II  study  also  showed  decreased  incidence  of
+diabetes  mellitus  in  5823  participants  followed  for  11.7  years  that
+was  not  signiﬁcant  after  adjustment  for  concomitant  risk  factors
+[57].  Finally,  in  the  Women’s  Health  Study,  Song  et  al.  observed
+a  borderline  relationship  between  tea  consumption  (≥4  cups  per
+day)  and  the  incidence  of  new  diabetes  mellitus  over  an  8  year
+follow-up  period  with  a  relative  risk  of  0.72  (95%  CI  0.52–1.01)
+[58].
+
+In  contrast,  several  very  large  studies  showed  no  relation-
+ship.  For  example,  in  reports  from  the  Nurses  Health  Study  and
+Health  Professionals’  Follow-up  Study,  there  was   no  signiﬁcant
+relation  between  tea  consumption,  although  interestingly  there
+was  a  relationship  with  coffee  consumption  [59,60].  There  also
+was  no  relation  between  tea  consumption  and  diabetes  in  a  large
+cohort  of  46,906  African  American  Women   [61].  Despite  these  neg-
+ative  studies,  Huxley  et  al.  completed  a  meta-analysis  examining
+the  effects  of  caffeinated  beverages  on  incident  diabetes  combin-
+ing  data  from  18  studies  with  information  from  nearly  half  a  million
+individuals  [62].  In  regard  to  tea,  they  found  that  the  overall  rela-
+tive  risk  of  new  diabetes  was  signiﬁcantly  reduced  (RR  0.84,  95%  CI
+0.73–0.94).
+
+As  for  the  other  risk  factors  discussed  above,  clinical  interven-
+tion  studies  examining  the  effects  of  tea  and  tea  polyphenols  on
+endpoints  related  to  diabetes  provide  additional  insight  into  the
+question  of  whether  tea  might  affect  diabetes  mellitus.  Hosoda  et  al.
+observed  that  consumption  of  oolong  tea  (1500  ml/day)  for  30  days
+in  a  placebo  controlled  crossover  study  lowered  fasting  glucose  in
+20  patients  with  type  2  diabetes  mellitus  on  hypoglycemic  drugs
+[63].  Consumption  of  1  g  of  black  tea  by  healthy  volunteers  lowered
+the  blood  glucose  and  blood  insulin  responses  to  an  oral  glucose
+load  (glucose  tolerance  test)  suggesting  an  improvement  in  insulin
+sensitivity  [64].
+
+In  contrast,  Fukino  et  al.  completed  a  placebo  controlled  study
+examining  the  effects  of  green  tea  (administered  as  a  extract  pow-
+der  containing  544  mg   polyphenols  mixed  with  hot  water)  in  a
+group  of  66  patients  with  diabetes  mellitus  or  borderline  diabetes
+[65].  Compared  to  the  effects  of  placebo,  there  were  no  effects  of
+green  tea  on  measures  of  glycemic  status,  including  blood  glucose,
+insulin,  hemoglobin  A1C,  or  the  homeostasis  model  assessment  of
+insulin  resistance  (HOMA-IR).  Interpretation  of  this  study  is  com-
+plicated  by  a  relatively  similar  intake  of  polyphenols  in  the  active
+(747  mg/d)  and  placebo  (469  mg/d)  groups  and  the  observation  that
+these  glycemic  variables  improved  in  both  groups.  It  is  possible  that
+an  effect  of  green  tea  would  have  been  detected  if  polyphenol  intake
+had  been  limited  in  the  placebo  group,  as  is  often  done  in  studies
+of  this  type.  Ryu  and  colleagues  also  observed  no  effect  of  green  tea
+
+consumption  compared  to  water  in  a  crossover  for  4  weeks  in  55
+patients  with  type  2  diabetes  mellitus.
+
+Interestingly,  there  have  been  studies  showing  an  effect  of  tea
+consumption  on  body  weight.  For  example,  Chantre  and  Lairon
+administered  green  tea  extract  to  moderately  obese  subjects  for  3
+months  observed  a  4.6%  decrease  in  body  weight  and  4.5%  decrease
+in  waist  circumference  by  4.48%  [66].  In  a  study  of  38  healthy
+Japanese  men   with  normal  body  mass  index  randomized  to  con-
+sume  green  tea  or  a  low  catechin  control,  Nagao  et  al.  reported
+that  green  tea  consumption  produced  a  2.4  kg  decrease  in  body
+weight  and  favorable  effects  on  waist  circumference,  body  fat
+mass,  skin-fold  thickness,  and  total  subcutaneous  fat  areas  (tested
+by  computed  tomography)  [67].  The  same  group  subsequently
+completed  a  larger  randomized,  placebo-controlled  study  in  240
+Japanese  men   and  women   and  observed  a  1.7  kg  decrease  in  body
+weight  and  signiﬁcant  changes  in  body  fat  and  fat  distribution  with
+consumption  of  green  tea  extract  [36].  Recently,  Basu  et  al.  showed
+a  decrease  in  body  weight  following  8  weeks  of  green  tea  or  green
+tea  extract  compared  to  placebo  in  a  group  of  35  obese  individu-
+als  with  the  metabolic  syndrome  [49].  The  mechanisms  accounting
+for  weight  loss  with  tea  or  tea  components  remain  unclear.  It  has
+been  suggested  that  they  may   increase  sympathetic  nervous  sys-
+tem  activity  and  stimulate  thermogenesis,  which  would  increase
+calorie  consumption  [68].
+
+As  for  other  risk  factors,  the  available  studies  provide  incon-
+sistent  ﬁndings.  Some  studies  showed  weight  loss  and  reduction
+of  diabetes,  while  others  did  not.  Differences  in  study  population
+and  tea  preparation  likely  explain  these  inconsistencies.  Overall,
+the  available  evidence,  including  a  large  meta-analysis,  suggests
+that  tea  consumption  reduces  the  incidence  of  new  diabetes  mel-
+litus.  There  is  a  modest  level  of  evidence  supporting  a  favorable
+effect  of  tea  components  on  insulin  sensitivity.  Finally,  tea  con-
+sumption  appears  to  induce  a  modest  amount  of  weight  loss.  These
+conclusions  must  be  tempered  by  the  possibility  of  publication  bias
+and  the  relatively  small  size  of  most  of  the  published  intervention
+studies.
+
+4.  Mechanistic  studies  with  tea  and  cardiovascular  diseases
+
+Experimental  and  translational  clinical  studies  have  provided
+further  insight  into  the  mechanisms  of  beneﬁt  for  tea  against  car-
+diovascular  disease  and  Table  1  contains  a  partial  list  of  such
+mechanisms.  These  include  antioxidant  effects,  anti-inﬂammatory
+effects,  and  improvement  of  endothelial  function.  This  section  will
+review  these  possible  mechanisms.
+
+4.1.  Antioxidant  effects  of  tea  and  tea  components
+
+According  to  the  oxidative  hypothesis  of  atherosclerosis,  LDL
+oxidation  is  a  key  step  in  the  atherogenic  process  [69].  Based  this
+hypothesis,  considerable  effort  was  made  to  determine  whether
+antioxidant  compounds  that  inhibit  LDL  oxidation  might  prevent
+cardiovascular  disease  in  humans  [70].  A  large  number  of  studies,
+
+Table  1
+Potential  mechanisms  of  beneﬁt  for  tea  against  cardiovascular  disease.
+
+Blood  pressure  lowering
+Improved  dyslipidemia
+Improved  insulin  sensitivity
+Weight  loss
+Antioxidant  effects  –  scavenging  reactive  oxygen  species  and
+preventing  oxidation  of  lipids,  proteins,  and  DNA
+Anti-inﬂammatory  effects
+Improved  endothelial  function
+Platelet  inhibition
+Inhibition  of  smooth  muscle  cell  proliferation  and  migration
+
+140
+
+A.  Deka,  J.A.  Vita  /  Pharmacological  Research  64 (2011) 136–  145
+
+including  large  clinical  trials  were  conducted,  and  overall  there
+remains  little  evidence  that  antioxidant  supplements,  including
+vitamins  E  and  C  and  beta  carotene,  reduce  cardiovascular  disease.
+While  it  is  clear  that  atherosclerosis  is  associated  with  increased
+oxidative  stress,  it  is  now  understood  that  reactive  oxygen  species
+play  important  signaling  roles  in  the  vasculature  and  that  sim-
+ply  scavenging  reactive  oxygen  species  or  inhibiting  LDL  oxidation
+is  not  an  effective  strategy  to  inhibit  atherosclerosis  [71].  In  this
+context,  it  is  known  that  tea  polyphenols  have  antioxidant  effects
+in  vitro  [72–75]  and  many  studies  sought  evidence  for  antioxidant
+effects  of  tea  in  humans.
+
+In  regard  to  in  vitro  effects,  tea  and  tea  extracts  have  been  shown
+to  scavenge  superoxide  and  other  reactive  oxygen  species  [76].  Tea
+and  tea  components  have  also  been  shown  inhibit  lipid  peroxida-
+tion  [75,77–80].   Furthermore,  exposure  of  isolated  endothelial  cells
+to  tea  limits  their  ability  to  oxidize  LDL  [81].  Tea  ﬂavonoids  can
+chelate  redox  active  metal  ions,  which  limits  production  of  reac-
+tive  oxygen  species  via  the  Fenton  reaction  [82].  There  is  animal
+evidence  for  antioxidant  effects  of  tea  following  oral  administra-
+tion  [83–85].   Consistent  with  the  more  recent  human  data,  green
+and  black  tea  inhibited  LDL  oxidation  following  oral  administra-
+tion  to  hypercholesterolemic  rabbits,  but  the  effect  did  not  relate
+to  changes  in  extent  of  atherosclerosis  [84].
+
+As  mentioned,  studies  show  that  tea  inﬂuences  plasma  antiox-
+idant  status  in  humans.  For  example,  several  studies  have  shown
+that  tea  consumption  increases  the  ability  of  plasma  to  scavenge
+reactive  oxygen  species  [46,86,87].   Studies  have  also  shown  that
+LDL  isolated  from  plasma  is  less  susceptible  to  oxidation  follow-
+ing  tea  consumption  [88],  while  other  studies  have  failed  to  show
+such  an  effect  [51,75,87,89,90].  In  regard  to  preventing  oxidation
+of  lipids,  proteins,  or  DNA  in  vivo,  the  evidence  for  beneﬁcial  effects
+of  tea  is  less  clear.  Hakim  et  al.  reported  that  consumption  of  green
+tea,  but  not  black  tea,  by  cigarette  smokers  decreased  urinary  lev-
+els  of  8-hydroxy-deoxyguanosine,  a  marker  of  DNA  oxidation  [91].
+Klaunig  et  al.  reported  a  similar  ﬁnding  [92].  Erba  et  al.  reported  a
+reduction  of  DNA  oxidative  damage  in  lymphocytes  isolated  from
+healthy  volunteers  [46].  Other  studies  failed  to  show  evidence  that
+consumption  of  tea  inhibits  markers  of  lipid  or  DNA  oxidation  in
+human  subjects  [90,93,94].
+
+As  was  observed  in  intervention  studies  examining  the  effects
+of  tea  consumption  on  risk  factors,  the  data  are  mixed  regarding
+antioxidant  effects  of  tea  consumption.  Some  of  the  discrepant
+results  may   reﬂect  differences  in  tea  preparations  and  the  stud-
+ied  populations.  Overall,  there  are  reasonably  convincing  studies  to
+indicate  that  consumption  of  tea  or  tea  components  can  inﬂuence
+antioxidant  capacity  plasma.  However,  the  bulk  of  the  evidence
+does  not  support  an  in  vivo  antioxidant  effect  following  consump-
+tion  of  relevant  amounts  of  tea.
+
+4.2.  Anti-inﬂammatory  effects
+
+Inﬂammation  is  now  known  to  be  an  integral  part  of  atheroscle-
+rosis  and  is  involved  from  the  earliest  stages  of  atherogenesis  to
+later  stages  of  plaque  vulnerability  and  rupture,  which  causes  clin-
+ical  events  such  as  myocardial  infarction  and  stroke  [95].  There  is
+strong  evidence  in  experimental  models  and  in  animals  for  anti-
+inﬂammatory  effects  of  tea  and  tea  components.  In  vitro  studies
+have  shown  favorable  effects  on  inﬂammatory  cells.  For  example,
+EGCG  inhibits  migration  of  neutrophils  through  an  endothelial  cell
+monolayer  [96],  decreases  the  activity  of  neutrophil  elastase  [97],
+and  reduces  ROS  production  and  chemokine-induced  chemotaxis
+of  neutrophils  [98,99].  EGCG  also  inhibits  adhesion  and  migra-
+tion  of  CD8+  T  cells  [100].  EGCG  and  other  catechins  have  been
+shown  to  inhibit  cytokine-induced  adhesion  molecule  expression
+and  monocyte  adhesion  in  cultured  endothelial  cells  [101].  EGCG
+blocked  lipopolysaccharide-induced  tumor  necrosis  factor  alpha
+
+(TNF-alpha)  production  and  lethality  in  mice  [102]  and  had  reduced
+inﬂammatory  activation  in  the  lung  in  a  mouse  model  of  pulmonary
+ﬁbrosis  [103].
+
+In  humans,  epidemiological  and 
+
+intervention  studies  have
+examined  anti-inﬂammatory  effects  of  tea  consumption.  Serum
+levels  of  C-reactive  protein  and  other  markers  of  inﬂammation
+relate  strongly  to  cardiovascular  risk,  and  several  epidemiolog-
+ical  studies  examined  the  effects  of  tea  consumption  on  such
+markers.  For  example,  tea  consumption  was  inversely  related  to  C-
+reactive  protein  levels  in  a  cohort  of  1031  health  men   [104].  Other
+studies  failed  to  show  such  a  relationship  [58,105,106].  More  gener-
+ally,  ﬂavonoid  consumption  and  fruit  and  vegetable  consumption
+are  associated  with  lower  levels  of  C-reactive  protein  [107,108],
+making  it  harder  to  conﬁrm  a  speciﬁc  relationship  with  tea  con-
+sumption.
+
+In  regard  to  intervention  studies,  Neyestani  et  al.  reported  a
+decrease  in  C-reactive  protein  following  consumption  of  black  tea
+extract  for  4  weeks  in  46  patients  with  type  2  diabetes  melli-
+tus  [109].  Steptoe  et  al.  also  reported  a  decrease  in  C-reactive
+protein  and  pro-inﬂammatory  monocyte-platelet  aggregates  fol-
+lowing  4  weeks  of  black  tea  consumption  in  healthy  men   [110].
+Green  tea  consumption  reduced  C-reactive  protein  levels  in  male
+smokers  [111].  Other  well-done  studies,  however,  showed  no  such
+effects  in  patients  with  risk  factors  or  coronary  artery  disease
+[65,90,112,113].
+
+As  has  been  observed  for  other  tea  intervention  studies,  the
+discrepant  results  are  likely  attributable  to  differences  in  tea  prepa-
+rations  and  patient  characteristics.  No  formal  meta-analysis  has
+examined  the  effects  of  tea  consumption  on  C-reactive  protein  or
+other  markers  of  inﬂammation.  However,  the  bulk  of  the  evidence
+does  not  suggest  a  strong  anti-inﬂammatory  effect  of  tea  consump-
+tion,  despite  promising  experimental  studies.
+
+4.3.  Endothelial  function
+
+The  endothelium  is  a  major  regulator  of  vascular  homeosta-
+sis  and  controls  arterial  tone,  thrombosis,  the  composition  of  the
+arterial  wall,  and  local  inﬂammation  by  production  of  a  variety
+of  factors,  including  nitric  oxide  nitric  oxide  [114].  Abnormali-
+ties  of  endothelial  function  relate  to  cardiovascular  risk  factors,
+predict  cardiovascular  events,  and  respond  to  risk  reduction  ther-
+apies,  including  drugs,  lifestyle  changes,  and  dietary  interventions.
+Recently,  there  have  been  several  studies  showing  beneﬁcial  effects
+of  tea  on  endothelial  function,  particularly  endothelium-dependent
+vasodilation.
+
+In  a  placebo-controlled  crossover  study,  Duffy  et  al.  showed  that
+consumption  of  black  tea  (900  ml   per  day  for  4  weeks)  improved
+endothelium-dependent  ﬂow-mediated  dilation  of  the  brachial
+artery  in  patients  with  coronary  artery  disease  [115].  Hodgson  et
+al.  showed  a  similar  beneﬁt  of  black  tea  consumption  in  patients
+with  mildly  elevated  cholesterol  levels  [116].  Green  tea  has  also
+been  reported  to  improve  brachial  artery  ﬂow-mediated  dila-
+tion  [117,118]  and  circulating  endothelial  progenitor  cells,  which
+contribute  to  maintenance  of  vascular  health  [118].  One  study
+suggested  that  green  and  black  tea  have  equivalent  effects  on
+ﬂow-mediated  dilation  in  post-menopausal  women   [119].   Favor-
+able  effects  on  endothelial  function  have  been  reported  with  tea
+components,  including  EGCG  [120].  In  addition  to  improving  FMD,
+green  tea  improves  endothelium-dependent  dilation  of  forearm
+microvessels  in  response  to  acetylcholine  infusion  in  cigarette
+smokers  and  this  improvement  was  associated  with  an  increase
+in  plasma  nitric  oxide  [111].  On  the  other  hand,  tea  consumption
+had  no  effect  on  carotid-femoral  pulse  wave  velocity,  a  measure  of
+arterial  stiffness  that  depends  in  part  on  endothelial  function  [121].
+light  on  the  mechanisms
+accounting  for  improved  nitric  oxide  bioavailability  following
+
+Experimental  studies  have  shed 
+
+A.  Deka,  J.A.  Vita  /  Pharmacological  Research  64 (2011) 136–  145
+
+141
+
+tea  consumption.  Initially 
+investigators  hypothesized  that  tea
+ﬂavonoids  might  scavenge  reactive  oxygen  species  and  prevent
+“inactivation”  of  nitric  oxide,  but  as  discussed  above,  there  is
+little  evidence  that  the  plasma  concentrations  of  tea  ﬂavonoids
+achieved  following  tea  consumption  are  high  enough  to  act  via
+this  mechanism.  More  recent  studies  indicate  that  tea  extracts
+and  individual  tea  polyphenols,  including  EGCG  stimulate  phos-
+phorylation  of  endothelial  nitric  oxide  synthase  (eNOS)  at  serine
+1177,  a  response  that  increases  production  of  nitric  oxide.  The
+response  occur  via  activation  of  the  phosphatidylinositol  3-kinase
+(PI3  kinase)/Akt  signaling  pathway  [122–124].  Subsequent  studies
+suggest  that  this  process  also  involves  activation  of  p38  MAP   kinase
+and  transactivation  of  estrogen  receptor  alpha  [125].
+
+A  number  of  other  mechanisms  contribute  to  the  observed
+increase  in  eNOS  activity  following  exposure  of  endothelial  cells  to
+tea  components.  For  example,  green  tea  polyphenols  down  regu-
+late  expression  of  caveolin-1  (Cav-1),  an  negative  regulator  of  eNOS
+activity  and  this  effect  also  involves  activation  of  p38  MAP   kinase
+[126].  Other  polyphenol  mixtures  have  been  shown  to  activate
+AMP-kinase,  a  key  regulator  of  cellular  energy  status,  which  also
+leads  to  activation  of  PI3K/Akt  and  eNOS  phosphorylation  [127].
+
+Overall,  there  is  a  large  body  of  work  showing  that  tea  consump-
+tion  improves  endothelium-dependent  vasodilation  in  healthy
+human  subjects  and  in  patients  with  risk  factors  and  established
+atherosclerosis.  The  effects  are  particularly  strong  following  acute
+consumption  of  tea  and  occur  despite  acute  effects  of  caffeinated
+tea  to  increase  blood  pressure.  Many  studies  also  show  sustained
+improvements  in  endothelial  function  with  longer-term  tea  con-
+sumption,  while  puriﬁed  EGCG  has  an  acute,  but  no  chronic  effect
+[120].  Experimental  studies  provide  strong  evidence  that  tea  acts
+via  speciﬁc  signaling  pathways  in  endothelial  cells  that  are  rel-
+evant  to  the  pathogenesis  of  atherosclerosis.  Given  the  strong
+links  between  endothelial  dysfunction  and  the  pathogenesis  of
+atherosclerosis,  a  favorable  effect  of  tea  on  the  endothelium  is  a
+plausible  mechanism  that  might  account  for  reduced  cardiovascu-
+lar  risk  among  individuals  with  higher  tea  consumption.
+
+4.4.  Anti-platelet  effects
+
+It  is  well  established  that  clinical  coronary  syndromes  such  as
+unstable  angina  and  acute  myocardial  infarction  involve  platelet
+activation  and  that  anti-platelet  agents  such  as  aspirin  and  clopi-
+dogrel  reduce  cardiovascular  risk  [95].  A  number  of  experimental
+studies  suggest  that  tea  has  anti-platelet  effects  that  might  reduce
+cardiovascular  risk.  For  example,  Kang  et  al.  reported  that  admin-
+istration  of  EGCG  or  green  tea  extract  to  mice  prolongs  bleeding
+time,  and  prevents  collagen-induced  pulmonary  thrombosis  and
+death  [128].  They  also  observed  that  EGCG 
+inhibits  agonist-
+induced  aggregation  of  human  platelets  in  vitro.  The  effects  may
+be  attributed  to  alterations  in  intracellular  calcium  signaling  [129]
+and  prostaglandin  metabolism  [130].  Theaﬂavins  in  black  tea  and
+green  tea  catechins  have  been  shown  to  be  potent  inhibitors  of
+platelet  activating  factor  biosynthesis  and  platelet  aggregation  in  a
+rabbit  model  [131].  It  is  important  to  note  that  the  concentrations
+of  EGCG  and  other  tea  components  used  in  some  of  these  in  vitro
+␮M),   greatly  exceed  the  concentrations  measur-
+studies  (50–100 
+able  in  plasma  following  consumption  of  tea  or  EGCG  supplement
+in  humans  [90,120].
+
+In  regard  to  human  studies,  Hodgson  et  al.  observed  that  tea
+consumption  by  healthy  volunteers  reduced  plasma  levels  of  P-
+selectin,  a  marker  of  in  vivo  platelet  aggregation,  but  ex  vivo  platelet
+aggregation  was  unaffected  in  that  study  [132].  Green  tea  consump-
+tion  also  lowered  P-selectin  levels  in  male  smokers  [112].  Steptoe
+et  al.  observed  that  black  tea  consumption  for  4  weeks  reduced
+platelet-leukocyte  aggregates,  an  important  measure  of  platelet
+activation  that  is  relevant  to  coronary  plaque  rupture  [110].  Duffy
+
+et  al.  also  observed  no  effect  of  tea  consumption  on  ex  vivo  platelet
+aggregation  following  consumption  of  black  tea  in  patients  with
+coronary  artery  disease  [133],  although  that  study  may  be  limited
+by  the  background  aspirin  treatment  in  all  of  the  study  subjects.
+
+In  general,  studies  that  examined  ex  vivo  platelet  aggregation
+failed  to  show  beneﬁcial  effects,  but  measures  of  in  vivo  platelet
+activation  appear  to  be  improved  following  tea  consumption.
+Experimental  studies  provide  evidence  of  plausible  mechanisms.
+Thus,  the  bulk  of  the  available  data  support  the  hypothesis  that
+platelet  inhibitory  effects  might  explain  the  observed  relations
+between  tea  consumption  and  reduced  cardiovascular  risk.
+
+4.5.  Anti-proliferative  effects
+
+Another  mechanism  that  might  affect  cardiovascular  disease  is
+the  observed  anti-proliferative  and  anti-migratory  effects  of  tea
+components  on  vascular  smooth  muscle  cells.  EGCG  arrests  vas-
+cular  smooth  muscle  cell  proliferation  in  the  G1  phase  of  the  cell
+cycle  and  decreases  the  proliferative  response  following  arterial
+injury  in  apolipoprotein  E-null  mice,  a  dyslipidemic  model  that  is
+prone  to  develop  atherosclerosis  [134].  EGCG  also  inhibits  vascular
+smooth  muscle  cell  activation  and  proliferation  by  platelet-derived
+growth  factor  [135].  EGCG  inhibits  vascular  smooth  muscle  cell
+migration  through  a  reconstituted  basement  membrane  barrier  in
+an  in  vitro  model  that  is  relevant  to  atherogenesis  [136].  Although
+there  currently  is  no  human  evidence  of  such  an  effect,  the  anti-
+proliferative  properties  of  EGCG  have  prompted  investigators  to
+consider  developing  EGCG-eluting  polymeric  stents  for  prevent  of
+restenosis  following  angioplasty,  a  process  that  is  primarily  driven
+by  vascular  smooth  muscle  cell  proliferation  and  migration  [137].
+
+5.  Clinical  implications
+
+The  reviewed  epidemiological  studies  and  meta-analyses  sug-
+gest  that  tea  has  protective  effects  against  cardiovascular  disease.
+In  regard  to  the  mechanisms  that  might  account  for  such  effects,
+there  is  evidence  that  tea  might  lower  blood  pressure  and  have
+favorable  effects  on  blood  lipids,  glucose,  and  body  weight.  In  addi-
+tion,  experimental  studies  and  human  intervention  studies  suggest
+that  tea  may   have  anti-inﬂammatory,  anti-thrombotic,  and  anti-
+proliferative  effects,  and  may   improve  the  function  of  the  vascular
+endothelium.  Although  tea  polyphenols  can  scavenge  reactive  oxy-
+gen  species  and  protect  LDL  against  oxidation  in  vitro,  human
+studies  argue  against  an  important  in  vivo  anti-oxidant  effect  of  tea.
+While  the  effects  are  modest  compared  to  the  effects  of  pharma-
+cological  interventions,  in  the  opinion  of  the  authors,  the  overall
+evidence  suggests  that  tea  consumption  reduces  cardiovascular
+risk  by  plausible  mechanisms.  The  case  for  tea  is  strengthened  by  a
+similar  body  of  work  for  protective  effects  of  other  polyphenol-
+containing  foods  and  beverages  such  as  grapes  and  red  wine,
+cocoa,  berries,  and  other  fruits  and  vegetables  [21,53,138–140].  The
+question  is  whether  these  ﬁndings  translate  to  speciﬁc  dietary  rec-
+ommendations  for  the  general  population  and  for  patients  with
+cardiovascular  disease.
+
+Making  speciﬁc  dietary  recommendations  about  tea  consump-
+tion  as  an  approach  to  prevent  or  treat  cardiovascular  disease  is
+problematic  for  several  reasons.  Importantly,  there  are  no  random-
+ized  clinical  outcome  trials  with  tea.  Epidemiological  studies  of
+tea  are  unavoidably  confounded  by  the  lifestyles  of  tea  drinkers
+and  non-tea  drinkers,  background  tea  intake  of  the  population,  and
+many  other  factors.  Most  of  the  current  management  guidelines  in
+the  ﬁeld  of  cardiovascular  disease,  particularly  recommendations
+about  drug  treatment,  are  based  on  randomized  clinical  trials  and
+meta-analyses  of  clinical  trials  that  can  control  for  such  factors.
+There  have  been  randomized  studies  of  dietary  approaches  such
+
+142
+
+A.  Deka,  J.A.  Vita  /  Pharmacological  Research  64 (2011) 136–  145
+
+Table  2
+Intervention  studies  of  tea  on  blood  pressure  and  lipids  since  the  FDA  decision  in  2006.
+
+First  author  [reference] 
+
+Endpoint 
+
+Study  design 
+
+Nagao  et  al.  [36] 
+
+Body  fat,  LDL,  blood  pressure 
+
+Bertigaglia  et  al.  [48] 
+
+LDL,  HDL,  triglycerides 
+
+Fujita  and  Yamagami  [47] 
+
+LDL,  triglycerides,  body  weight 
+
+Brown  et  al.  [37] 
+
+Nantz   et  al.  [38]
+
+Basu   et  al.  [49] 
+
+Trautwein  et  al.  [50] 
+
+Blood  pressure,  LDL,  HDL, 
+
+Blood  pressure,  LDL
+
+Blood  pressure,  LDL,  body
+weight
+Serum  lipids 
+
+Hooper  et  al.  [53]
+
+LDL 
+
+Green  tea  extract,  randomized  parallel  group,
+12  weeks,  n  =  240
+Green  tea,  randomized  parallel  group,  90  days,
+n   =  25  per  group
+Black  tea,  randomized  parallel  group,  3
+months,  n  =  47
+EGCG,  randomized  parallel  group,  8  weeks,
+n  =  88
+Tea  extract,  randomized  parallel  group,  3
+weeks,  n  =  111
+Green  tea  extract,  randomized  parallel  group,  8
+weeks,  n  =  35
+Black  tea  extract,  randomized  parallel  group,
+11   weeks,  n  =  102
+Meta-analysis  of  133  green  tea  intervention
+studies
+
+Result
+
+Beneﬁt
+
+No  beneﬁt
+
+Beneﬁt
+
+Beneﬁt  on  blood  pressure,
+no  beneﬁt  for  lipids
+Beneﬁt  on  LDL  and  blood
+pressure
+Beneﬁt  on  body  weight,  no
+beneﬁt  on  LDL
+No  beneﬁt
+
+Beneﬁt  on  LDL
+
+LDL  =  low  density  lipoprotein  cholesterol,  HDL  =  high  density  lipoprotein  cholesterol.
+
+as  the  Mediterranean  diet  to  reduce  cardiovascular  risk,  but  none
+with  tea.  In  drug  studies,  the  control  group  can  be  randomized  to
+a  placebo  and  have  zero  intake  of  the  studied  factor.  Tea,  on  the
+other  hand,  is  a  ubiquitous  part  of  the  diet  and  it  is  not  possible  or
+ethical  to  have  a  control  group  that  consumes  no  tea  over  the  3–5
+years  needed  to  accumulate  a  sufﬁcient  number  of  cardiovascular
+events.
+
+A  number  of  other  difﬁculties  would  make  it  extraordinarily  dif-
+ﬁcult  to  conduct  a  randomized  clinical  trial  with  tea.  It  remains
+unclear  what  type  and  dose  of  tea  to  recommend  or  to  study.
+Another  barrier  is  the  question  of  speciﬁc  populations  studied.
+Pharmaceutical  studies  focus  on  patients  with  cardiovascular  dis-
+ease,  but  the  results  are  not  expected  to  apply  to  the  general
+population.  Finally,  there  is  the  question  of  cost.  Clinical  outcome
+studies  are  extraordinarily  expensive  and  unlike  pharmaceutical
+studies,  there  is  no  sponsor  with  a  proﬁt  motive  to  bear  the  cost  of
+studying  a  whole  food,  such  as  tea.
+
+Similar  issues  inﬂuence  the  utility  of  the  available  observational
+studies  to  guide  dietary  recommendations.  The  available  epidemio-
+logical  studies  suggest  favorable  effects  of  green,  oolong,  and  black
+tea  and  beneﬁt  from  modest  to  only  extremely  high  amounts  of
+tea  consumption.  Smaller  scale  intervention  studies  looking  at  risk
+factors  and  mechanistic  surrogate  endpoints  also  examined  a  wide
+variety  and  types  and  doses  of  tea.  Variable  bioavailability  due  to
+differences  in  food  matrix  and  human  gut  absorption  further  clouds
+the  issue.  Thus,  it  is  remains  extremely  difﬁcult  to  formulate  dietary
+recommendations  about  how  much  and  the  type  of  tea  to  consume
+for  the  general  population.  Making  recommendations  for  disease
+population  is  even  more  problematic.
+
+Another  important  clinical  implication  of  the  reviewed  studies
+is  the  potential  use  of  tea  extracts  or  individual  tea  components,
+such  as  EGCG,  to  promote  cardiovascular  health  or  prevent  cardio-
+vascular  disease.  Food,  beverage  and  dietary  supplement  products
+designed  to  promote  heart  health  are  now  a  multi-billion  dollar
+category  in  the  U.S.,  with  comparable  markets  in  Europe,  Japan
+and  Australia.  In  regard  to  extracts,  there  is  a  lack  of  uniformity
+to  the  studied  preparations,  doses,  and  endpoints  that  make  it
+hard  to  make  speciﬁc  recommendations  and  as  for  whole  tea,
+there  are  no  randomized  outcome  studies.  For  puriﬁed  compo-
+nents,  such  as  EGCG,  there  is  a  large  body  of  evidence  for  favorable
+effects,  but  studies  suggest  that  the  beneﬁts  are  limited  to  short-
+term  acute  effects  reﬂective  of  the  short  plasma  half-life  of  1–2  h
+[120].  To  be  beneﬁcial,  some  type  of  slow-release  preparation
+would  be  needed  to  provide  a  sustained  increase  in  blood  lev-
+els.  Consideration  of  such  preparations  likely  crosses  the  line
+from  dietary  supplements  to  drugs,  with  the  attendant  regulatory
+issues.
+
+In  2006,  Ito  En,  Ltd.,  a  manufacturer  of  green  tea  and  green  tea
+products  ﬁled  a  petition  to  the  U.S.  Food  and  Drug  Administration
+(FDA)  to  make  a  qualiﬁed  health  claim  for  green  tea  and  green  tea
+extracts  based  on  studies  showing  favorable  effects  on  cardiovas-
+cular  disease  risk  factors  [141].  The  FDA  reviewed  observational
+studies  that  examined  the  relationship  between  green  tea  and
+cardiovascular  disease  endpoints,  including  many  of  the  studies
+discussed  in  this  review.  They  also  considered  intervention  stud-
+ies  that  examined  the  effects  of  green  tea  on  blood  pressure  and
+blood  cholesterol  as  surrogate  endpoints  for  cardiovascular  dis-
+ease.  Although  they  considered  many  observational  studies,  they
+argued  that  intervention  studies  provide  the  most  scientiﬁcally
+valid  information.  For  this  reason,  they  particularly  focused  on  four
+intervention  studies  that  failed  to  show  a  beneﬁt  of  green  tea  on
+blood  pressure  [34]  and  lipids  [51,87,142]  and  three  intervention
+studies  that  failed  to  show  an  effect  of  green  tea  extract  on  choles-
+terol  [51,93,143].  On  the  basis  of  these  studies,  they  concluded  that
+there  was  no  credible  evidence  to  support  a  relationship  between
+consumption  of  green  tea  and  reduced  risk  of  cardiovascular  dis-
+ease.  They  cited  the  data  for  vitamin  E  and  folate  as  examples
+of  other  dietary  supplements  that  showed  strong  associations  in
+observational  studies,  but  no  beneﬁt  in  randomized  trials,  further
+justifying  their  decision  to  discount  many  of  the  observational  stud-
+ies  suggesting  favorable  effects.  While  they  did  not  ﬁnd  that  green
+tea  was   unhealthy,  they  decided  that  the  available  evidence  did  not
+support  a  qualiﬁed  health  claim  for  a  beneﬁt  against  cardiovascular
+disease.  Table  2  continues  a  partial  list  of  randomized  intervention
+studies  examining  effects  of  tea  on  risk  factors  that  have  been  pub-
+lished  since  the  FDA  ruling  in  2006.  Many  of  these  studies  show
+beneﬁt,  raising  the  possibility  that  the  question  of  a  qualiﬁed  health
+claim  for  tea  might  be  reconsidered.
+
+At  this  time,  however,  manufacturers  cannot  make  claims  about
+beneﬁts  against  cardiovascular  disease  in  advertising  and  labels  for
+green  tea  or  black  tea.  Advertising  claims  are  different  from  guide-
+lines  and  recommendations  from  non-commercial  entities,  such  as
+the  American  Heart  Association  (AHA).  In  the  most  recent  dietary
+guidelines,  the  Nutrition  Committee  of  the  AHA  recommended  that
+individuals  consume  a  diet  rich  in  fruits  and  vegetables  to  reduce
+the  risk  for  cardiovascular  disease  [144].  Such  a  diet  includes  green
+and  black  tea.
+
+6.  Conclusion
+
+In  this  article,  we   have  reviewed  a  representative  portion  of  the
+extensive  published  literature  on  tea  and  its  role  in  cardiovascular
+disease  prevention.  Some,  but  not  all  observational  studies  sug-
+gest  a  reduction  in  cardiovascular  disease.  There  also  are  mixed
+
+A.  Deka,  J.A.  Vita  /  Pharmacological  Research  64 (2011) 136–  145
+
+143
+
+data  about  the  effects  of  tea  on  risk  factors  from  observational  and
+intervention  studies.  Mechanistic  studies  in  experimental  models
+and  human  subjects  have  identiﬁed  a  number  of  plausible  mech-
+anisms  of  beneﬁt,  including  anti-inﬂammatory  and  anti-platelet
+effects  as  well  as  favorable  effects  on  the  vascular  endothelium.
+No  randomized  trials  have  examined  the  effects  of  tea  on  cardio-
+vascular  events,  and  there  are  many  barriers  to  the  conduct  of  such
+a  trial.  Thus,  no  deﬁnite  conclusion  can  be  drawn  from  the  current
+data  and  no  speciﬁc  dietary  recommendations  can  be  made  about
+whether  tea  promotes  reduces  risk  for  cardiovascular  disease.  Fur-
+thermore,  the  available  literature  does  not  provide  a  clear  answer
+about  the  type  and/or  amount  of  tea  that  should  be  consumed  as
+part  of  a  heart  healthy  diet.
+
+At  the  present  time,  it  is  clear  that  tea  is  a  popular,  econom-
+ical  and  safe  drink  which  is  enjoyed  daily  by  millions  of  people
+all  across  the  world.  Given  the  high  consumption  and  distribution
+of  tea  worldwide  and  the  potential  health  effects  of  tea,  further
+study  is  justiﬁed.  In  the  meantime,  freshly  brewed  green  or  black
+tea  appears  to  be  a  reasonable  dietary  choice  to  consider  as  part  of
+lifestyle  and  dietary  approach  to  prevent  heart  disease.
+
+Acknowledgments
+
+Dr.  Vita  previously  received  research  grant  support  from  the
+North  America  Tea  Trade  Health  Research  Association,  Unilever,
+Inc.,  Welch’s,  Inc.,  USANA  Health  Sciences,  Inc.  He  has  current
+research  grants  from  DSM  Nutritional  Products,  Ocean  Spray,  Inc.,
+The  Almond  Board  of  California.  He  has  received  consultation  fee  or
+speaker  honoraria  from  Unilever,  USANA,  DSM,  Ocean  Spray,  and
+the  Almond  Board  of  California.  He  also  is  supported  by  research
+grants  from  the  National  Institutes  of  Health  (HL083801,  HL081587,
+HL083269,  and  HL75795  and  HL102299).
+
+References
+
+[1] Kris-Etherton  PM,  Hecker  KD,  Bonanome  A,  Coval  SM,   Binkoski  AE,  Hilpert  KF,
+et   al.  Bioactive  compounds  in  foods:  their  role  in  the  prevention  of  cardiovas-
+cular  disease  and  cancer.  Am  J  Med   2002;113(Suppl.  9B):71S–88S.
+
+[2]  Balentine  DA,  Wiseman  SA,  Bouwens  LC.  The  chemistry  of  tea  ﬂavonoids.  Crit
+
+Rev   Food  Sci  Nutr  1997;37:693–704.
+
+[3] Sato  Y,  Nakatsuka  H,  Watanabe  T,  Hisamichi  S,  Shimizu  H,  Fujisaku  S,  et  al.
+Possible  contribution  of  green  tea  drinking  habits  to  the  prevention  of  stroke.
+Tohoku  J  Exp  Med   1989;157:337–43.
+
+[4]  Nakachi  K,  Matsuyama  S,  Miyake  S,  Suganuma  M,   Imai  K.  Preventive  effects
+of   drinking  green  tea  on  cancer  and  cardiovascular  disease:  epidemiological
+evidence  for  multiple  targeting  prevention.  Biofactors  2000;13:49–54.
+
+[5]   Kuriyama  S,  Shimazu  T,  Ohmori  K,  Kikuchi  N,  Nakaya  N,  Nishino  Y,  et  al.  Green
+tea   consumption  and  mortality  due  to  cardiovascular  disease,  cancer,  and  all
+causes  in  Japan:  the  Ohsaki  study.  JAMA  2006;296:1255–65.
+
+[6]  Liang  W,   Lee  AH,  Binns  CW,   Huang  R,  Hu  D,  Zhou  Q.  Tea  consumption
+and   ischemic  stroke  risk:  a  case–control  study  in  southern  China.  Stroke
+2009;40:2480–5.
+
+[7]  Mineharu  Y,  Koizumi  A,  Wada  Y,  Iso  H,  Watanabe  Y,  Date  C,  et  al.  Coffee,
+green  tea,  black  tea  and  oolong  tea  consumption  and  risk  of  mortality  from
+cardiovascular  disease  in  Japanese  men   and  women.  J  Epidemiol  Community
+Health  2010.
+
+[8]  Sesso  HD,  Gaziano  JM,   Buring  JE,  Hennekens  CH.  Coffee  and  tea  intake  and  the
+
+risk  of  myocardial  infarction.  Am  J  Epidemiol  1999;149:162–7.
+
+[9]  Mukamal  KJ,  Maclure  M,   Muller  JE,  Sherwood  JB,  Mittleman  MA.   Tea
+consumption  and  mortality  after  acute  myocardial  infarction.  Circulation
+2002;105:2476–81.
+
+[10]  Mukamal  KJ,  Alert  M,   Maclure  M,   Muller  JE,  Mittleman  MA.  Tea  consumption
+and   infarct-related  ventricular  arrhythmias:  the  determinants  of  myocardial
+infarction  onset  study.  J  Am  Coll  Nutr  2006;25:472–9.
+
+[11] de  Koning  Gans  JM,   Uiterwaal  CS,  van  der  Schouw  YT,  Boer  JM,   Grobbee
+DE,   Verschuren  WM,   et  al.  Tea  and  coffee  consumption  and  cardiovascular
+morbidity  and  mortality.  Arterioscler  Thromb  Vasc  Biol  2010;30:1665–71.
+
+[12]  Stensvold  I,  Tverdal  A,  Solvoll  K,  Foss  OP.  Tea  consumption.  Relationship
+to  cholesterol,  blood  pressure,  and  coronary  and  total  mortality.  Prev  Med
+1992;21:546–53.
+
+[13]  Brown  CA,  Bolton-Smith  C,  Woodward  M,   Tunstall-Pedoe  H.  Coffee  and
+tea  consumption  and  the  prevalence  of  coronary  heart  disease  in  men   and
+women:  results  from  the  Scottish  Heart  Health  Study.  J  Epidemiol  Community
+Health  1993;47:171–5.
+
+[14]  Hertog  MG,  Sweetnam  PM,   Fehily  AM,   Elwood  PC,  Kromhout  D.  Antioxidant
+ﬂavonols  and  ischemic  heart  disease  in  a  Welsh  population  of  men:  the  Caer-
+philly  Study.  Am  J  Clin  Nutr  1997;65:1489–94.
+
+[15]  Vita  JA.  Tea  consumption  and  cardiovascular  disease:  effects  on  endothelial
+
+function.  J  Nutr  2003;133:3293S–7S.
+
+[16]  Sesso  HD,  Gaziano  JM,   Liu  S,  Buring  JE.  Flavonoid  intake  and  the  risk  of  car-
+
+diovascular  disease  in  women.  Am  J  Clin  Nutr  2003;77:1400–8.
+
+[17] Sesso  HD,  Paffenbarger  Jr  RS,  Oguma  Y,  Lee  IM.   Lack  of  association  between  tea
+and   cardiovascular  disease  in  college  alumni.  Int  J  Epidemiol  2003;32:527–
+33.
+
+[18]  Rimm  EB,  Katan  MB,   Ascherio  A,  Stampfer  MJ,  Willett  WC.   Relation  between
+intake  of  ﬂavonoids  and  risk  for  coronary  heart  disease  in  male  health  pro-
+fessionals.  Ann  Intern  Med   1996;125:384–9.
+
+[19] Peters  U,  Poole  C,  Arab  L.  Does  tea  affect  cardiovascular  disease?  A  meta-
+
+analysis.  Am  J  Epidemiol  2001;154:495–503.
+
+[20] Arab  L,  Liu  W,   Elashoff  D.  Green  and  black  tea  consumption  and  risk  of  stroke:
+
+a   meta-analysis.  Stroke  2009;40:1786–92.
+
+[21] Hertog  MGL,  Feskens  EJM,  Hollman  PCH,  Martijn  B,  Kromhout  D.  Dietary
+antioxidant  ﬂavonoids  and  risk  of  coronary  heart  disease:  the  Zutphen  Elderly
+Study.  Lancet  1993;342:1007–11.
+
+[22] Hertog  MGL,  Feskens  EJM,  Kromhout  D.  Antioxidant  ﬂavanols  and  coronary
+
+heart  disease  risk.  Lancet  1997;349:699.
+
+[23]  Keli  SO,  Hertog  MGL,  Feskens  EJM,  Kromhout  D.  Dietary  ﬂavanoids,  antioxi-
+dant   vitamins,  and  incidence  of  stroke:  the  Zutphen  study.  Arch  Intern  Med
+1996;156(6):637–42.
+
+[24]  Hertog  MGL,  Kromhout  D,  Aravanis  C,  Blackburn  H,  Buzino  R,  Fidanza  F.
+Flavonoid  intake  and  long-term  risk  of  coronary  heart  disease  and  cancer
+in   the  Seven  Countries  Study.  Arch  Intern  Med   1995;155(4):381–6.
+
+[25]  Hirvonen  T,  Pietinen  P,  Virtanen  M,   Ovaskainen  ML,   Hakkinen  S,  Albanes  D,
+et   al.  Intake  of  ﬂavonols  and  ﬂavones  and  risk  of  coronary  heart  disease  in
+male  smokers.  Epidemiology  2001;12:62–7.
+
+[26] Huxley  RR,  Neil  HA.  The  relation  between  dietary  ﬂavonol  intake  and  coronary
+heart  disease  mortality:  a  meta-analysis  of  prospective  cohort  studies.  Eur  J
+Clin   Nutr  2003;57:904–8.
+
+[27]  Hollman  PC,  Geelen  A,  Kromhout  D.  Dietary  ﬂavonol  intake  may   lower  stroke
+
+risk   in  men   and  women.  J  Nutr  2010;140:600–4.
+
+[28]  Hodgson  JM,   Devine  A,  Puddey  IB,  Chan  SY,  Beilin  LJ,  Prince  RL.  Tea  intake  is
+inversely  related  to  blood  pressure  in  older  women.  J  Nutr  2003;133:2883–6.
+[29]  Chobanian  AV,  Bakris  GL,  Black  HR,  Cushman  WC,   Green  LA,  Izzo  Jr  JL,
+et   al.  Seventh  report  of  the  Joint  National  Committee  on  Prevention,  Detec-
+tion,  Evaluation,  and  Treatment  of  High  Blood  Pressure.  Hypertension
+2003;42:1206–52.
+
+[30]  Yang  YC,  Lu  FH,  Wu   JS,  Wu   CH,  Chang  CJ.  The  protective  effect  of  habitual  tea
+
+consumption  on  hypertension.  Arch  Intern  Med   2004;164:1534–40.
+
+[31] Klatsky  AL,  Friedman  GD,  Armstrong  MA.   The  relationships  between  alcoholic
+beverage  use  and  other  traits  to  blood  pressure:  a  new  Kaiser  Permanente
+study.  Circulation  1986;73:628–36.
+
+[32] Klatsky  AL,  Armstrong  MA,   Friedman  GD.  Coffee,  tea,  and  mortality.  Ann  Epi-
+
+demiol  1993;3:375–81.
+
+[33]  Wakabayashi  K,  Kono  S,  Shinchi  K,  Honjo  S,  Todoroki  I,  Sakurai  Y,  et  al.  Habitual
+coffee  consumption  and  blood  pressure:  a  study  of  self-defense  ofﬁcials  in
+Japan.  Eur  J  Epidemiol  1998;14:669–73.
+
+[34] Hodgson  JM,  Puddey  IB,  Burke  V,  Beilin  LJ,  Jordan  N.  Effects  on  blood  pressure
+
+of  drinking  green  and  black  tea.  J  Hypertens  1999;17:457–63.
+
+[35]  Hodgson  JM,   Burke  V,  Puddey  IB.  Acute  effects  of  tea  on  fasting  and  post-
+prandial  vascular  function  and  blood  pressure  in  humans.  J  Hypertens
+2005;23:47–54.
+
+[36]  Nagao  T,  Hase  T,  Tokimitsu 
+
+in  catechins
+reduces  body  fat  and  cardiovascular  risks  in  humans.  Obesity  (Silver  Spring)
+2007;15:1473–83.
+
+I.  A  green  tea  extract  high 
+
+[37]  Brown  AL,  Lane  J,  Coverly  J,  Stocks  J,  Jackson  S,  Stephen  A,  et  al.  Effects  of
+dietary  supplementation  with  the  green  tea  polyphenol  epigallocatechin-
+3-gallate  on 
+factors:
+randomized  controlled  trial.  Br  J  Nutr  2009;101:886–94.
+
+insulin  resistance  and  associated  metabolic  risk 
+
+[38]  Nantz  MP,  Rowe  CA,  Bukowski  JF,  Percival  SS.  Standardized  capsule  of  Camel-
+lia   sinensis  lowers  cardiovascular  risk  factors  in  a  randomized,  double-blind,
+placebo-controlled  study.  Nutrition  2009;25:147–54.
+
+[39]  Taubert  D,  Roesen  R,  Schomig  E.  Effect  of  cocoa  and  tea  intake  on  blood
+
+pressure:  a  meta-analysis.  Arch  Intern  Med   2007;167:626–34.
+
+[40]   Kono  S,  Shinchi  K,  Ikeda  N,  Yanai  F,  Imanishi  K.  Green  tea  consumption  and
+serum  lipid  proﬁles:  a  cross-sectional  study  in  northern  Kyushu,  Japan.  Prev
+Med  1992;21:526–31.
+
+[41]  Hakim  IA,  Alsaif  MA,   Alduwaihy  M,   Al  Rubeaan  K,  Al  Nuaim  AR,  Al  Attas  OS.  Tea
+consumption  and  the  prevalence  of  coronary  heart  disease  in  Saudi  adults:
+results  from  a  Saudi  national  study.  Prev  Med   2003;36:64–70.
+
+[42]  Tsubono  Y,  Tsugane  S.  Green  tea  intake  in  relation  to  serum  lipid  levels  in
+
+middle-aged  Japanese  men   and  women.  Ann  Epidemiol  1997;7:280–4.
+
+[43]  Davies  MJ,   Judd  JT,  Baer  DJ,  Clevidence  BA,  Paul  DR,  Edwards  AJ,  et  al.  Black
+tea  consumption  reduces  total  and  LDL  cholesterol  in  mildly  hypercholes-
+terolemic  adults.  J  Nutr  2003;133:3298S–302S.
+
+[44]  Maron  DJ,  Lu  GP,  Cai  NS,  Wu   ZG,  Li  YH,   Chen  H,  et  al.  Cholesterol-lowering
+effect  of  a  theaﬂavin-enriched  green  tea  extract:  a  randomized  controlled
+trial.   Arch  Intern  Med   2003;163:1448–53.
+
+[45] Unno  T,  Tago  M,   Suzuki  Y,  Nozawa  A,  Sagesaka  YM,   Kakuda  T,  et  al.  Effect  of
+tea  catechins  on  postprandial  plasma  lipid  responses  in  human  subjects.  Br  J
+Nutr  2005;93:543–7.
+
+144
+
+A.  Deka,  J.A.  Vita  /  Pharmacological  Research  64 (2011) 136–  145
+
+[46]   Erba  D,  Riso  P,  Bordoni  A,  Foti  P,  Biagi  PL,  Testolin  G.  Effectiveness  of  moderate
+green  tea  consumption  on  antioxidative  status  and  plasma  lipid  proﬁle  in
+humans.  J  Nutr  Biochem  2005;16:144–9.
+
+[47]  Fujita  H,  Yamagami  T.  Antihypercholesterolemic  effect  of  Chinese  black  tea
+extract  in  human  subjects  with  borderline  hypercholesterolemia.  Nutr  Res
+2008;28:450–6.
+
+[48]  Bertipaglia  dS,  Mandarino  MG,   Cardoso  JR,  Dichi  I,  Dichi  JB,  Camargo  AE,
+et   al.  Association  between  soy  and  green  tea  (Camellia  sinensis)  diminishes
+hypercholesterolemia  and  increases  total  plasma  antioxidant  potential  in
+dyslipidemic  subjects.  Nutrition  2008;24:562–8.
+
+[49]  Basu  A,  Sanchez  K,  Leyva  MJ,   Wu  M,   Betts  NM,  Aston  CE,  et  al.  Green  tea
+supplementation  affects  body  weight,  lipids,  and  lipid  peroxidation  in  obese
+subjects  with  metabolic  syndrome.  J  Am  Coll  Nutr  2010;29:31–40.
+
+[50] Trautwein  EA,  Du  Y,  Meynen  E,  Yan  X,  Wen   Y,  Wang  H,  et  al.  Puriﬁed  black
+tea   theaﬂavins  and  theaﬂavins/catechin  supplements  did  not  affect  serum
+lipids  in  healthy  individuals  with  mildly  to  moderately  elevated  cholesterol
+concentrations.  Eur  J  Nutr  2010;49:27–35.
+
+[51] Princen  HM,   van  Duyvenvoorde  W,   Buytenhek  R,  Blonk  C,  Tijburg  LB,  Langius
+JA,   et  al.  No  effect  of  consumption  of  green  and  black  tea  on  plasma  lipid  and
+antioxidant  levels  and  on  LDL  oxidation  in  smokers.  Arterioscler  Thromb  Vasc
+Biol   1998;18:833–41.
+
+[52]  Fenercioglu  AK,  Saler  T,  Genc  E,  Sabuncu  H,  Altuntas  Y.  The  effects  of
+polyphenol-containing  antioxidants  on  oxidative  stress  and  lipid  peroxida-
+tion   in  type  2  diabetes  mellitus  without  complications.  J  Endocrinol  Invest
+2010;33:118–24.
+
+[53]  Hooper  L,  Kroon  PA,  Rimm  EB,  Cohn  JS,  Harvey  I,  Le  Cornu  KA,  et  al.  Flavonoids,
+ﬂavonoid-rich  foods,  and  cardiovascular  risk:  a  meta-analysis  of  randomized
+controlled  trials.  Am  J  Clin  Nutr  2008;88:38–50.
+
+[54]  Mokdad  AH,  Bowman  BA,  Ford  ES,  Vinicor  F,  Marks  JS,  Koplan  JP.  The
+continuing  epidemics  of  obesity  and  diabetes  in  the  United  States.  JAMA
+2001;286:1195–200.
+
+[55] Iso  H,  Date  C,  Wakai  K,  Fukui  M,   Tamakoshi  A.  The  relationship  between  green
+tea   and  total  caffeine  intake  and  risk  for  self-reported  type  2  diabetes  among
+Japanese  adults.  Ann  Intern  Med   2006;144:554–62.
+
+[56]  Greenberg  JA,  Axen  KV,  Schnoll  R,  Boozer  CN.  Coffee,  tea  and  diabetes:  the
+
+role  of  weight  loss  and  caffeine.  Int  J  Obes  (Lond)  2005;29:1121–9.
+
+[57]  Hamer  M,   Witte  DR,  Mosdol  A,  Marmot  MG,   Brunner  EJ.  Prospective  study
+of   coffee  and  tea  consumption  in  relation  to  risk  of  type  2  diabetes  mellitus
+among  men   and  women:  the  Whitehall  II  study.  Br  J  Nutr  2008;100:1046–53.
+[58] Song  Y,  Manson  JE,  Buring  JE,  Sesso  HD,  Liu  S.  Associations  of  dietary  ﬂavonoids
+with  risk  of  type  2  diabetes,  and  markers  of  insulin  resistance  and  systemic
+inﬂammation  in  women:  a  prospective  study  and  cross-sectional  analysis.  J
+Am   Coll  Nutr  2005;24:376–84.
+
+[59] Salazar-Martinez  E,  Willett  WC,   Ascherio  A,  Manson  JE,  Leitzmann  MF,
+Stampfer  MJ,   et  al.  Coffee  consumption  and  risk  for  type  2  diabetes  mellitus.
+Ann   Intern  Med   2004;140:1–8.
+
+[60]  van  Dam  RM,   Willett  WC,   Manson  JE,  Hu  FB.  Coffee,  caffeine,  and  risk  of  type  2
+diabetes:  a  prospective  cohort  study  in  younger  and  middle-aged  U.S.  women.
+Diabetes  Care  2006;29:398–403.
+
+[61]  Boggs  DA,  Rosenberg  L,  Ruiz-Narvaez  EA,  Palmer  JR.  Coffee,  tea,  and  alcohol
+intake  in  relation  to  risk  of  type  2  diabetes  in  African  American  women.  Am  J
+Clin  Nutr  2010;92:960–6.
+
+[62] Huxley  R,  Lee  CM,   Barzi  F,  Timmermeister  L,  Czernichow  S,  Perkovic  V,  et  al.
+Coffee,  decaffeinated  coffee,  and  tea  consumption  in  relation  to  incident  type
+2   diabetes  mellitus:  a  systematic  review  with  meta-analysis.  Arch  Intern  Med
+2009;169:2053–63.
+
+[63]  Hosoda  K,  Wang  MF,   Liao  ML,   Chuang  CK,  Iha  M,   Clevidence  B,  et  al.
+Antihyperglycemic  effect  of  oolong  tea  in  type  2  diabetes.  Diabetes  Care
+2003;26:1714–8.
+
+[64]  Bryans  JA,  Judd  PA,  Ellis  PR.  The  effect  of  consuming  instant  black  tea  on
+postprandial  plasma  glucose  and  insulin  concentrations  in  healthy  humans.
+J   Am  Coll  Nutr  2007;26:471–7.
+
+[65]  Fukino  Y,  Shimbo  M,   Aoki  N,  Okubo  T,  Iso  H.  Randomized  controlled  trial  for
+an  effect  of  green  tea  consumption  on  insulin  resistance  and  inﬂammation
+markers.  J  Nutr  Sci  Vitaminol  (Tokyo)  2005;51:335–42.
+
+[66]  Chantre  P,  Lairon  D.  Recent  ﬁndings  of  green  tea  extract  AR25  (Exolise)  and
+
+its   activity  for  the  treatment  of  obesity.  Phytomedicine  2002;9:3–8.
+
+[67]   Nagao  T,  Komine  Y,  Soga  S,  Meguro  S,  Hase  T,  Tanaka  Y,  et  al.  Ingestion  of  a
+tea   rich  in  catechins  leads  to  a  reduction  in  body  fat  and  malondialdehyde-
+modiﬁed  LDL  in  men.  Am  J  Clin  Nutr  2005;81:122–9.
+
+[68]  Dulloo  AG,  Seydoux  J,  Girardier  L,  Chantre  P,  Vandermander  J.  Green  tea
+and  thermogenesis:  interactions  between  catechin-polyphenols,  caffeine  and
+sympathetic  activity.  Int  J  Obes  Relat  Metab  Disord  2000;24:252–8.
+
+[69]  Witztum  JL,  Steinberg  D.  Role  of  oxidized  low  density  lipoprotein  in  athero-
+
+genesis.  J  Clin  Invest  1991;88:1785–92.
+
+[70]  Stocker  R,  Keaney  Jr  JF.  The  role  of  oxidative  modiﬁcations  in  atherosclerosis.
+
+Physiol  Rev  2004;84:1381–478.
+
+[71]  Münzel  T,  Keaney  Jr  JF.  Are  ACE-inhibitors  a  “magic  bullet”  against  oxidative
+
+stress?  Circulation  2001;104:1571–4.
+
+[74]  Terao  J,  Piskula  M,   Yao  Q.  Protective  effect  of  epicatechin,  epicatechin  gallate,
+and  quercetin  on  lipid  peroxidation  in  phospholipid  bilayers.  Arch  Biochem
+Biophys  1994;308:278–84.
+
+[75]  Cherubini  A,  Beal  MF,   Frei  B.  Black  tea  increases  the  resistance  of  human
+plasma  to  lipid  peroxidation  in  vitro,  but  not  ex  vivo.  Free  Radic  Biol  Med
+1999;27:381–7.
+
+[76]  Nakagawa  T,  Yokozawa  T.  Direct  scavenging  of  nitric  oxide  and  superoxide
+
+by  green  tea.  Food  Chem  Toxicol  2002;40:1745–50.
+
+[77]  Miura  S,  Watanabe  J,  Tomita  T,  Sano  M,   Tomita  I.  The  inhibitory  effects  of  tea
+polyphenols  (ﬂavan  3-ol  derivatives)  on  Cu2  mediated  oxidative  modiﬁcation
+of   low  density  lipoprotein.  Biol  Pharm  Bull  1994;17(12):1567–72.
+
+[78] Osada  K,  Takahashi  M,   Hoshina  S,  Nakamura  M,  Nakamura  S,  Sugano  M.
+Tea  catechins  inhibit  cholesterol  oxidation  accompanying  oxidation  of  low
+density  lipoprotein  in  vitro.  Comp  Biochem  Physiol  C  Toxicol  Pharmacol
+2001;128:153–64.
+
+[79] Ishikawa  T,  Suzukawa  M,   Ito  T,  Yoshida  H,  Ayaori  M.   Effect  of  tea  ﬂavonoid
+supplementation  on  the  susceptibility  of  low-density  lipoprotein  to  oxidative
+modiﬁcation.  Am  J  Clin  Nutr  1997;66:261–6.
+
+[80]  Yang  TT,  Koo  MW.   Inhibitory  effect  of  Chinese  green  tea  on  endothelial  cell-
+
+induced  LDL  oxidation.  Atherosclerosis  2000;148:67–73.
+
+[81] Yoshida  H,  Ishikawa  T,  Hosoai  H,  Suzukawa  M,   Ayaori  M,   Hisada  T,  et  al.
+Inhibitory  effect  of  tea  ﬂavonoids  on  the  ability  of  cells  to  oxidize  low  density
+lipoprotein.  Biochem  Pharmacol  1999;58:1695–703.
+
+[82]  Frei  B,  Higdon  JV.  Antioxidant  activity  of  tea  polyphenols  in  vivo:  evidence
+
+from  animal  studies.  J  Nutr  2003;133:3275S–84S.
+
+[83]  Vinson  JA,  Dabbagh  YA.  Effect  of  green  and  black  tea  supplementation  on
+lipids,  lipid  oxidation  and  ﬁbrinogen  in  the  hamster:  mechanisms  for  the
+epidemiological  beneﬁts  of  tea  drinking.  FEBS  Lett  1998;433:44–6.
+
+[84]  Tijburg  LB,  Wiseman  SA,  Meijer  GW,   Weststrate  JA.  Effects  of  green  tea,  black
+tea   and  dietary  lipophilic  antioxidants  on  LDL  oxidizability  and  atherosclero-
+sis  in  hypercholesterolaemic  rabbits.  Atherosclerosis  1997;135:37–47.
+
+[85] Miura  Y,  Chiba  T,  Tomita  I,  Koizumi  H,  Miura  S,  Umegaki  K,  et  al.  Tea  catechins
+prevent  the  development  of  atherosclerosis  in  apoprotein  E-deﬁcient  mice.  J
+Nutr  2001;131:27–32.
+
+[86]  Seraﬁni  M,   Ghiselli  A,  Ferro-Luzzi  A.  In  vivo  antioxidant  effect  of  green  and
+
+black  tea  in  man.  Eur  J  Clin  Nut  1996;50(1):28–32.
+
+[87]  van  het  H,  de  Boer  HS,  Wiseman  SA,  Lien  N,  Westrate  JA,  Tiburg  LBM.  Con-
+sumption  of  green  or  black  tea  does  not  increase  the  resistance  of  LDL  to
+oxidation  in  humans.  Am  J  Clin  Nutr  1997;66:1125–32.
+
+[88] Gomikawa  S,  Ishikawa  Y,  Hayase  W,   Haratake  Y,  Hirano  N,  Matuura  H,   et  al.
+Effect  of  ground  green  tea  drinking  for  2  weeks  on  the  susceptibility  of
+plasma  and  LDL  to  the  oxidation  ex  vivo  in  healthy  volunteers.  Kobe  J  Med  Sci
+2008;54:E62–72.
+
+[89] het  Hof  KH,  Wiseman  SA,  Yang  CS,  Tijburg  LB.  Plasma  and  lipoprotein  levels
+of   tea  catechins  following  repeated  tea  consumption.  Proc  Soc  Exp  Biol  Med
+1999;220:203–9.
+
+[90]  Widlansky  ME,   Duffy  SJ,  Hamburg  NM,   Gokce  N,  Warden  BA,  Wiseman  S,
+et  al.  Effects  of  black  tea  consumption  on  plasma  catechins  and  markers  of
+oxidative  stress  and  inﬂammation  in  patients  with  coronary  artery  disease.
+Free  Radic  Biol  Med   2005;38:499–506.
+
+[91]  Hakim  IA,  Harris  RB,  Brown  S,  Chow  HH,  Wiseman  S,  Agarwal  S,  et  al.  Effect
+of  increased  tea  consumption  on  oxidative  DNA  damage  among  smokers:  a
+randomized  controlled  study.  J  Nutr  2003;133:3303S–9S.
+
+[92]  Klaunig  JE,  Xu  Y,  Han  C,  Kamendulis  LM,   Chen  J,  Heiser  C,  et  al.  The  effect  of
+tea   consumption  on  oxidative  stress  in  smokers  and  nonsmokers.  Proc  Soc
+Exp   Biol  Med  1999;220:249–54.
+
+[93]  Freese  R,  Basu  S,  Hietanen  E,  Nair  J,  Nakachi  K,  Bartsch  H,  et  al.  Green  tea  extract
+decreases  plasma  malondialdehyde  concentration  but  does  not  affect  other
+indicators  of  oxidative  stress,  nitric  oxide  production,  or  hemostatic  factors
+during  a  high-linoleic  acid  diet  in  healthy  females.  Eur  J  Nutr  1999;38:149–
+57.
+
+[94]  O’Reilly  JD,  Mallet  AI,  McAnlis  GT,  Young  IS,  Halliwell  B,  Sanders  TA,  et  al.
+Consumption  of  ﬂavonoids  in  onions  and  black  tea:  lack  of  effect  on  F(2)-
+isoprostanes  and  autoantibodies  to  oxidized  LDL  in  healthy  humans.  Am  J
+Clin  Nutr  2001;73:1040–4.
+
+[95]  Libby  P.  Atherosclerosis:  the  new  view.  Sci  Am  2002;286:46–55.
+[96]  Hofbauer  R,  Frass  M,   Gmeiner  B,  Handler  S,  Speiser  W,   Kapiotis  S.  The  green
+tea  extract  epigallocatechin  gallate  is  able  to  reduce  neutrophil  transmi-
+gration  through  monolayers  of  endothelial  cells.  Wien  Klin  Wochenschr
+1999;111:278–82.
+[97]  Sartor  L,  Pezzato  E,  Garbisa  S.  (−)Epigallocatechin-3-gallate  inhibits  leukocyte
+elastase:  potential  of  the  phyto-factor  in  hindering  inﬂammation,  emphy-
+sema,  and  invasion.  J  Leukoc  Biol  2002;71:73–9.
+
+[98]  Dona  M,   Dell’Aica  I,  Calabrese  F,  Benelli  R,  Morini  M,   Albini  A,  et  al.  Neutrophil
+restraint  by  green  tea:  inhibition  of  inﬂammation,  associated  angiogenesis,
+and  pulmonary  ﬁbrosis.  J  Immunol  2003;170:4335–41.
+[99] Takano  K,  Nakaima  K,  Nitta  M,   Shibata  F,  Nakagawa  H.  Inhibitory  effect
+of   (−)-epigallocatechin  3-gallate,  a  polyphenol  of  green  tea,  on  neutrophil
+chemotaxis  in  vitro  and  in  vivo.  J  Agric  Food  Chem  2004;52:4571–6.
+
+[72]  Morel  I,  Lescoat  G,  Cogrel  P,  Sergent  O,  Pasdeloup  N,  Brissot  P,  et  al.  Antiox-
+idant  and  iron-chelating  activities  of  the  ﬂavonoids  catechin,  quercetin
+and   diosmetin  on  iron-loaded  rat  hepatocyte  cultures.  Biochem  Pharmacol
+1993;45:13–9.
+
+[73] Katiyar  SK,  Agarwal  R,  Mukhtar  H.  Inhibition  of  spontaneous  and  photo-
+enhanced  lipid  peroxidation  in  mouse  epidermal  microsomes  by  epicatechin
+derivatives  from  green  tea.  Cancer  Lett  1994;79:61–6.
+
+[100]  Kawai  K,  Tsuno  NH,  Kitayama  J,  Okaji  Y,  Yazawa  K,  Asakage  M,   et  al.  Epigallo-
+catechin  gallate  attenuates  adhesion  and  migration  of  CD8+  T  cells  by  binding
+to   CD11b.  J  Allergy  Clin  Immunol  2004;113:1211–7.
+
+[101]  Ludwig  A,  Lorenz  M,   Grimbo  N,  Steinle  F,  Meiners  S,  Bartsch  C,  et  al.  The
+tea   ﬂavonoid  epigallocatechin-3-gallate  reduces  cytokine-induced  VCAM-1
+expression  and  monocyte  adhesion  to  endothelial  cells.  Biochem  Biophys  Res
+Commun  2004;316:659–65.
+
+A.  Deka,  J.A.  Vita  /  Pharmacological  Research  64 (2011) 136–  145
+
+145
+
+[102]  Yang  F,  de  Villiers  WJ,   McClain  CJ,  Varilek  GW.   Green  tea  polyphenols
+block  endotoxin-induced  tumor  necrosis  factor-production  and  lethality  in
+a   murine  model.  J  Nutr  1998;128:2334–40.
+
+[103]  Sueoka  N,  Suganuma  M,   Sueoka  E,  Okabe  S,  Matsuyama  S,  Imai  K,  et  al.  A  new
+function  of  green  tea:  prevention  of  lifestyle-related  diseases.  Ann  NY  Acad
+Sci   2001;928:274–80.
+
+[104]  De  Bacquer  D,  Clays  E,  Delanghe  J,  De  Backer  G.  Epidemiological  evidence
+for  an  association  between  habitual  tea  consumption  and  markers  of  chronic
+inﬂammation.  Atherosclerosis  2006;189:428–35.
+
+[105] Maki  T,  Pham  NM,   Yoshida  D,  Yin  G,  Ohnaka  K,  Takayanagi  R,  et  al.  The  rela-
+tionship  of  coffee  and  green  tea  consumption  with  high-sensitivity  C-reactive
+protein  in  Japanese  men   and  women.  Clin  Chem  Lab  Med   2010;48:849–54.
+
+[106]  Villegas  R,  Xiang  YB,  Cai  H,  Elasy  T,  Cai  Q,  Zhang  X,  et  al.  Lifestyle  determi-
+nants  of  C-reactive  protein  in  middle-aged,  urban  Chinese  men.  Nutr  Metab
+Cardiovasc  Dis  2010.
+
+[107] Chun  OK,  Chung  SJ,  Claycombe  KJ,  Song  WO.   Serum  C-reactive  protein  concen-
+trations  are  inversely  associated  with  dietary  ﬂavonoid  intake  in  U.S.  adults.
+J   Nutr  2008;138:753–60.
+
+[108]  Esmaillzadeh  A,  Kimiagar  M,   Mehrabi  Y,  Azadbakht  L,  Hu  FB,  Willett  WC.   Fruit
+and  vegetable  intakes,  C-reactive  protein,  and  the  metabolic  syndrome.  Am  J
+Clin  Nutr  2006;84:1489–97.
+
+[109]  Neyestani  TR,  Shariatzade  N,  Kalayi  A,  Gharavi  A,  Khalaji  N,  Dadkhah  M,   et  al.
+Regular  daily  intake  of  black  tea  improves  oxidative  stress  biomarkers  and
+decreases  serum  C-reactive  protein  levels  in  type  2  diabetic  patients.  Ann
+Nutr  Metab  2010;57:40–9.
+
+[110]  Steptoe  A,  Gibson  EL,  Vuononvirta  R,  Hamer  M,   Wardle  J,  Rycroft  JA,  et  al.
+The  effects  of  chronic  tea  intake  on  platelet  activation  and  inﬂammation:  a
+double-blind  placebo  controlled  trial.  Atherosclerosis  2007;193:277–82.
+
+[111]  Oyama  J,  Maeda  T,  Kouzuma  K,  Ochiai  R,  Tokimitsu  I,  Higuchi  Y,  et  al.  Green
+tea  catechins  improve  human  forearm  endothelial  dysfunction  and  have
+antiatherosclerotic  effects  in  smokers.  Circ  J  2010;74:578–88.
+
+[112] Lee  W,   Min   WK,   Chun  S,  Lee  YW,   Park  H,  Lee  DH,  et  al.  Long-term  effects
+of   green  tea  ingestion  on  atherosclerotic  biological  markers  in  smokers.  Clin
+Biochem  2005;38:84–7.
+
+[113]  Basu  A,  Du  M,   Sanchez  K,  Leyva  MJ,  Betts  NM,   Blevins  S,  et  al.  Green  tea  min-
+imally  affects  biomarkers  of  inﬂammation  in  obese  subjects  with  metabolic
+syndrome.  Nutrition  2010.
+
+[114]  Tabit  CE,  Chung  WB,   Hamburg  NM,   Vita  JA.  Endothelial  dysfunction  in  diabetes
+mellitus:  molecular  mechanisms  and  clinical  implications.  Rev  Endocr  Metab
+Disord  2010;11:61–74.
+
+[115]  Duffy  SJ,  Keaney  Jr  JF,  Holbrook  M,   Gokce  N,  Swerdloff  PL,  Frei  B,  et  al.  Short-
+and   long-term  black  tea  consumption  reverses  endothelial  dysfunction  in
+patients  with  coronary  artery  disease.  Circulation  2001;104:151–6.
+
+[116] Hodgson  JM,   Puddey  IB,  Burke  V,  Watts  GF,  Beilin  LJ.  Regular  ingestion
+of   black  tea  improves  brachial  artery  vasodilator  function.  Clin  Sci  (Lond)
+2002;102:195–201.
+
+[117]  Alexopoulos  N,  Vlachopoulos  C,  Aznaouridis  K,  Baou  K,  Vasiliadou  C,  Pietri  P,
+et   al.  The  acute  effect  of  green  tea  consumption  on  endothelial  function  in
+healthy  individuals.  Eur  J  Cardiovasc  Prev  Rehabil  2008;15:300–5.
+
+[118]  Kim  W,   Jeong  MH,   Cho  SH,  Yun  JH,  Chae  HJ,  Ahn  YK,  et  al.  Effect  of  green  tea
+consumption  on  endothelial  function  and  circulating  endothelial  progenitor
+cells  in  chronic  smokers.  Circ  J  2006;70:1052–7.
+
+[119] Jochmann  N,  Lorenz  M,   Krosigk  A,  Martus  P,  Bohm  V,  Baumann  G,  et  al.  The
+efﬁcacy  of  black  tea  in  ameliorating  endothelial  function  is  equivalent  to  that
+of   green  tea.  Br  J  Nutr  2008;99:863–8.
+
+[120]  Widlansky  ME,   Hamburg  NM,   Anter  E,  Holbrook  M,   Kahn  DF,  Elliott  JG,  et  al.
+Acute  EGCG  supplementation  reverses  endothelial  dysfunction  in  patients
+with  coronary  artery  disease.  J  Am  Coll  Nutr  2007;26:95–102.
+
+[121]  Ryu  OH,  Lee  J,  Lee  KW,   Kim  HY,  Seo  JA,  Kim  SG,  et  al.  Effects  of  green
+insulin  resistance  and  pulse  wave
+in  type  2  diabetes  patients.  Diabetes  Res  Clin  Pract  2006;71:
+
+inﬂammation, 
+
+tea  consumption  on 
+velocity 
+356–8.
+
+[122]  Lorenz  M,  Wessler  S,  Follmann  E,  Michaelis  W,   Dusterhoft  T,  Baumann
+G,   et  al.  A  constituent  of  green  tea,  epigallocatechin-3-gallate,  activates
+endothelial  nitric  oxide  synthase  by  a  phosphatidylinositol-3-OH-kinase-,
+cAMP-dependent  protein  kinase-,  and  Akt-dependent  pathway  and  leads
+to   endothelial-dependent  vasorelaxation. 
+J  Biol  Chem  2004;279:6190–
+5.
+
+[123]  Anter  E,  Thomas  SR,  Schulz  E,  Shapira  OM,   Vita  JA,  Keaney  Jr  JF.  Activation
+of   eNOS  by  the  p38  MAP   kinase  in  response  to  black  tea  polyphenols.  J  Biol
+Chem  2004;45:46637–43.
+
+[124]  Kim  JA,  Formoso  G,  Li  Y,  Potenza  MA,   Marasciulo  FL,  Montagnani  M,  et  al.
+Epigallocatechin  gallate,  a  green  tea  polyphenol,  mediates  NO-dependent
+vasodilation  using  signaling  pathways  in  vascular  endothelium  requiring
+reactive  oxygen  species  and  Fyn.  J  Biol  Chem  2007;282:13736–45.
+
+[125]  Anter  E,  Chen  K,  Shapira  OM,   Karas  RH,  Keaney  Jr  JF.  p38  mitogen-activated
+protein  kinase  activates  eNOS  in  endothelial  cells  by  an  estrogen  receptor
+alpha-dependent  pathway  in  response  to  black  tea  polyphenols.  Circ  Res
+2005;96:1072–8.
+
+[126]  Li  Y,  Ying  C,  Zuo  X,  Yi  H,  Yi  W,   Meng  Y,  et  al.  Green  tea  polyphenols  down-
+regulate  caveolin-1  expression  via  ERK1/2  and  p38MAPK  in  endothelial  cells.
+J   Nutr  Biochem  2009;20:1021–7.
+
+[127] Zang  M,   Xu  S,  Maitland-Toolan  KA,  Zuccollo  A,  Hou  X,  Jiang  B,  et  al.
+Polyphenols  stimulate  AMP-activated  protein  kinase,  lower  lipids,  and  inhibit
+accelerated  atherosclerosis  in  diabetic  LDL  receptor-deﬁcient  mice.  Diabetes
+2006;55:2180–91.
+[128] Kang  WS,   Lim  IH,  Yuk  DY,  Chung  KH,  Park  JB,  Yoo  HS,  et  al.  Antithrombotic
+activities  of  green  tea  catechins  and  (−)-epigallocatechin  gallate.  Thromb  Res
+1999;96:229–37.
+
+[129]  Kang  WS,   Chung  KH,  Chung  JH,  Lee  JY,  Park  JB,  Zhang  YH,  et  al.  Antiplatelet
+activity  of  green  tea  catechins  is  mediated  by  inhibition  of  cytoplasmic  cal-
+cium  increase.  J  Cardiovasc  Pharmacol  2001;38:875–84.
+
+[130]  Jin  YR,  Im  JH,  Park  ES,  Cho  MR,   Han  XH,  Lee  JJ,  et  al.  Antiplatelet  activity  of
+epigallocatechin  gallate  is  mediated  by  the  inhibition  of  PLCgamma2  phos-
+phorylation,  elevation  of  PGD2  production,  and  maintaining  calcium-ATPase
+activity.  J  Cardiovasc  Pharmacol  2008;51:45–54.
+
+[131]  Sugatani  J,  Fukazawa  N,  Ujihara  K,  Yoshinari  K,  Abe  I,  Noguchi  H,  et  al.  Tea
+polyphenols  inhibit  acetyl-CoA:1-alkyl-sn-glycero-3-phosphocholine  acetyl-
+transferase  (a  key  enzyme  in  platelet-activating  factor  biosynthesis)  and
+platelet-activating  factor-induced  platelet  aggregation. 
+Int  Arch  Allergy
+Immunol  2004;134:17–28.
+
+[132]  Hodgson  JM,  Puddey  IB,  Mori  TA,  Burke  V,  Baker  RI,  Beilin  LJ.  Effects  of  regular
+ingestion  of  black  tea  on  haemostasis  and  cell  adhesion  molecules  in  humans.
+Eur  J  Clin  Nutr  2001;55:881–6.
+
+[133]  Duffy  SJ,  Vita  JA,  Holbrook  M,  Swerdloff  PL,  Keaney  Jr  JF.  Effect  of  acute  and
+chronic  tea  consumption  on  platelet  aggregation  in  patients  with  coronary
+artery  disease.  Arterioscler  Thromb  Vasc  Biol  2001;21:1084–9.
+
+[134]  Chyu  KY,  Babbidge  SM,   Zhao  X,  Dandillaya  R,  Rietveld  AG,  Yano  J,  et  al.  Differ-
+ential  effects  of  green  tea-derived  catechin  on  developing  versus  established
+atherosclerosis  in  apolipoprotein  E-null  mice.  Circulation  2004.
+
+[135] Ahn  HY,  Hadizadeh  KR,  Seul  C,  Yun  YP,  Vetter  H,  Sachinidis  A.
+Epigallocathechin-3  gallate  selectively  inhibits  the  PDGF-BB-induced  intra-
+cellular  signaling  transduction  pathway  in  vascular  smooth  muscle  cells  and
+inhibits  transformation  of  sis-transfected  NIH  3T3  ﬁbroblasts  and  human
+glioblastoma  cells  (A172).  Mol   Biol  Cell  1999;10:1093–104.
+
+[136] Maeda  K,  Kuzuya  M,   Cheng  XW,   Asai  T,  Kanda  S,  Tamaya-Mori  N,  et  al.  Green
+tea  catechins  inhibit  the  cultured  smooth  muscle  cell  invasion  through  the
+basement  barrier.  Atherosclerosis  2003;166:23–30.
+
+[137] Han  DW,   Lee  JJ,  Jung  DY,  Park  JC,  Hyon  SH.  Development  of  epigallocatechin
+gallate-eluting  polymeric  stent  and  its  physicochemical,  biomechanical  and
+biological  evaluations.  Biomed  Mater  2009;4:044104.
+
+[138]  Dohadwala  MM,   Vita  JA.  Grapes  and  cardiovascular  disease.  J  Nutr  2009.
+[139] Maron  DJ.  Flavonoids  for  reduction  of  atherosclerotic  risk.  Curr  Atheroscler
+
+Rep  2004;6:73–8.
+
+[140]  Buijsse  B,  Feskens  EJ,  Kok  FJ,  Kromhout  D.  Cocoa  intake,  blood  pressure,
+and  cardiovascular  mortality:  the  Zutphen  Elderly  Study.  Arch  Intern  Med
+2006;166:411–7.
+
+[141]  Food  and  Drug  Administration  [Internet].  Qualiﬁed  health  claims:  letter
+of   denial  –  green  tea  and  reduced  risk  of  cardiovascular  disease  (Docket
+No.   2005Q-0297);  2006 
+from:
+http://www.fda.gov/Food/LabelingNutrition/LabelClaims/QualiﬁedHealth
+Claims/ucm073207.htm.
+
+[Cited  2010  December  23].  Available 
+
+[142]  Hirano-Ohmori  R,  Takahashi  R,  Momiyama  Y,  Taniguchi  H,  Yonemura  A,  Tamai
+S,   et  al.  Green  tea  consumption  and  serum  malondialdehyde-modiﬁed  LDL
+concentrations  in  healthy  subjects.  J  Am  Coll  Nutr  2005;24:342–6.
+
+[143]  Young  JF,  Dragstedt  LO,  Haraldsdottir  J,  Daneshvar  B,  Kall  MA,  Loft  S,  et  al.
+Green  tea  extract  only  affects  markers  of  oxidative  status  postprandially:
+lasting  antioxidant  effect  of  ﬂavonoid-free  diet.  Br  J  Nutr  2002;87:343–55.
+
+[144]  Lichtenstein  AH,  Appel  LJ,  Brands  M,   Carnethon  M,   Daniels  S,  Franch  HA,
+et   al.  Diet  and  lifestyle  recommendations  revision  2006:  a  scientiﬁc  state-
+ment  from  the  American  Heart  Association  Nutrition  Committee.  Circulation
+2006;114:82–96.
+
+
