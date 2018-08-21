@@ -272,7 +272,7 @@ def word_counter(fname):
         for line in f:
             words = line.split()
             num_words += len(words)
-    print("Number of words:")
+    print("Number of words: ")
     print(num_words)
 
 def pdf_to_text(disease):
@@ -324,15 +324,15 @@ def run_testing_data(disease, ngramsize, num_of_ngrams):
 
     cancer_training = TextAnalyzer('cancer')
     cancer_training.normalize_text('cancer-training.txt')
-    cancer_training.get_bigrams(num_of_ngrams)
+    cancer_training.get_quadgrams(num_of_ngrams)
 
     diabetes_training = TextAnalyzer('diabetes')
     diabetes_training.normalize_text('diabetes-training.txt')
-    diabetes_training.get_bigrams(num_of_ngrams)
+    diabetes_training.get_quadgrams(num_of_ngrams)
 
     cvd_training = TextAnalyzer('cvd')
     cvd_training.normalize_text('cvd-training.txt')
-    cvd_training.get_bigrams(num_of_ngrams)
+    cvd_training.get_quadgrams(num_of_ngrams)
 
     test_directory = '/Users/marcoross/Documents/summer2018_thesis/' + disease
     files = [f for f in listdir(test_directory) if isfile and (f != '.DS_Store') and ('training' not in f) and ('.py' not in f) and (f != '.txt')]
@@ -340,8 +340,7 @@ def run_testing_data(disease, ngramsize, num_of_ngrams):
     for f in files:
        test_article = TextAnalyzer(disease)
        test_article.normalize_text(f)
-       #MAKE MODULAR
-       test_article.get_bigrams(num_of_ngrams)
+       test_article.get_quadgrams(num_of_ngrams)
 
     test_files = [t for t in listdir(test_directory) if (t != '.DS_Store') and (".csv" in t) and ("training" not in t) and ('.py' not in f) and (f != '.txt')]
     
@@ -366,5 +365,5 @@ def sort_CSV(filename, path):
 
 #pdf_to_text('cvd')
 
-run_testing_data('cvd', 2, 400)
+run_testing_data('cvd', 4, 400)
 sort_CSV('best_matches.csv', 'cvd')
